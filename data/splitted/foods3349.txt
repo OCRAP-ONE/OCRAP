@@ -1,0 +1,1143 @@
+product/productId: B0002E2GQU
+review/userId: A1APRHJ6LGOEAC
+review/profileName: Gosia Kosior
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1211500800
+review/summary: Lavazza rocks!
+review/text: I can't imagine any more my daily life without a cup of fresh brewed Lavazza Crema e Aroma Coffee! It is smooth, tasty & strong! It is a great start of the day or relaxing afternoon break!
+
+product/productId: B0002E2GQU
+review/userId: A5V5JUEGWMPI5
+review/profileName: Ron Meyers "Bruckner-Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1211328000
+review/summary: Delicious espresso!
+review/text: I use this with my Aeropress espresso maker. Wow - super smooth and creamy, no bitterness!
+
+product/productId: B0002E2GQU
+review/userId: AWG3DNS7L9QNS
+review/profileName: Svetlana Andreyev
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1210464000
+review/summary: Decent Coffee
+review/text: If you prefer smooth mild taste to the burnt sour one this is the right coffee for you. The price's gone up but what else is new?
+
+product/productId: B0002E2GQU
+review/userId: A2U94E760UDYMH
+review/profileName: JKH "JKH"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1208649600
+review/summary: Great for Espresso shots or lattes
+review/text: This works very well for espresso.  I use it in a Solis Crema espresso machine to make shots and lattes.  Great flavor for espressos.
+
+product/productId: B0002E2GQU
+review/userId: A2MK69C6S1PX54
+review/profileName: D. L. S. Wiseley "serious coffee addict"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1207353600
+review/summary: Best coffee for a super automatic
+review/text: These beans have the best flavor for a superautomatic! Additionally, they are not too oily and do not clog up the grinder. I make this coffee in my Jura Capresso S9, and have consistent flavor and crema. This is the coffee for you if you want great crema and flavor with little work.
+
+product/productId: B0002E2GQU
+review/userId: AZOK30I0108WV
+review/profileName: Miguel A. Herrera "mahlogic"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1201132800
+review/summary: Good, smooth Italian
+review/text: Love this beans...good, light in oil, nutty-chocolatty flavor. Great when grinded fine and compacted well on high-pressure esspreso machine
+
+product/productId: B0002E2GQU
+review/userId: A232OJMJXHI90W
+review/profileName: Virginia Almenara "Viri"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1200096000
+review/summary: BEST COFFEE EVER !!!
+review/text: I bought this coffee about a month ago, I decided to tried it because it was on discount. I can tell you that if you like italian coffee you are going to LOVE this one.
+
+product/productId: B0002E2GQU
+review/userId: A32B3A4FKXDLFH
+review/profileName: B. Rodriguez
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1199232000
+review/summary: Lavazza
+review/text: use Lavazza coffee with a Capresso Coffee maker; excellent smooth flavor, not bitter at all; the more you use the stronger it gets without any bitterness; you can drink this straight without any sugar or cream; it does not taste like star*
+
+product/productId: B0002E2GQU
+review/userId: A3T51GXI514SL3
+review/profileName: B. Graham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1197417600
+review/summary: You won't find a better deal in coffee
+review/text: This coffee is excellent. Great for espresso, with a deep color, full taste and perfect foam, as well as just a regular morning cup of coffee. You won't find a better bargain.
+
+product/productId: B0002E2GQU
+review/userId: A3EL8P50JQ5OIF
+review/profileName: A. Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1196380800
+review/summary: great coffee, great price
+review/text: This is my favorite coffee ordered online, and I have ordered quite a few.  Bold but not bitter, and good for a crowd.  This is also a very nice price for good coffee, from what I have found.
+
+product/productId: B0002E2GQU
+review/userId: A2Z27W49XOHM4P
+review/profileName: A. Tarshis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1195862400
+review/summary: Good Coffee Great Price
+review/text: Good coffee and we got it for a great price on a promo.  Not our usualy coffee (we usually use another Lavazzo variation) but are happy with this one especially for the price.
+
+product/productId: B0002E2GQU
+review/userId: AFWFTKOA2338K
+review/profileName: Tom Murphy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1193184000
+review/summary: Flavorable coffee
+review/text: I bought this based on the fact that I had good coffee in Europe. I found the flavor of this coffee very good. When I open the container the aroma of the coffee fills the kitchen. This is well worth the money I paid.
+
+product/productId: B0002E2GQU
+review/userId: A3C8OL0VMOIEL6
+review/profileName: Barbara Krinsky
+review/helpfulness: 3/5
+review/score: 4.0
+review/time: 1186963200
+review/summary: Very nice blend of coffee
+review/text: Very smooth and nice morning coffee for me. I am a Starbucks fan as I love very strong coffee but this, although not that strong, is a mellow good coffee for the price. I'd recommend trying it at least once.
+
+product/productId: B0002E2GQU
+review/userId: AJ1U0EWAHYG7N
+review/profileName: budsalinger
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1321315200
+review/summary: I like this coffee a lot.
+review/text: Before this I've never taken home a coffee that wasn't maxwell house ground coffee or some off brand instant coffee at my local a&p.  Also Kurig.  This is so different and so much better that my first cup left me smiling.  This purchase was preceded by my receipt of an Aeropress coffee maker.  That plus this coffee is a great combo.
+
+product/productId: B0002E2GQU
+review/userId: A1EBT4Z6RBBQKO
+review/profileName: J. Fernandez "JJFA"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1285200000
+review/summary: Crema yes, no aroma, no flavor.
+review/text: Not  worth it, I wish I could return it after trying it. The name of the coffee is misleading.If you like a strong espresso do not buy this.
+
+product/productId: B0002E2GQU
+review/userId: A32R811JWUL58H
+review/profileName: Jennifer Moore
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1283644800
+review/summary: Great in a blend
+review/text: Try a 50/50 blend of the Lavazza and something dark and fresh like Pete's morning blend. Makes a delicious, rich yet smooth coffee!
+
+product/productId: B0002E2GQU
+review/userId: A1B0FA46NKY304
+review/profileName: Eric Ruck "NearChaos"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1215043200
+review/summary: This Was OK
+review/text: But maybe a little disappointing.  Frankly I got better crema and aroma from "Super Crema" and "Pienaroma" beans, to which I'll probably go back.  The flavor is pretty mild.<br /><br />I'm using the beans in a Rancilio Rocky grinder and Silvia espresso machine.
+
+product/productId: B0002E2GQU
+review/userId: AIQJO3L0CWD1J
+review/profileName: Robert Hutchinson
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1213920000
+review/summary: Ok For Price - Not Very Strong
+review/text: I purchased thhis on the Gold Box Deal for only $7.50 so it was a great price. I was a little disappointed with the streanth. I like strong dark coffee and this was not. But it was good.
+
+product/productId: B0002E2GQU
+review/userId: A1VI9LY2G72UXF
+review/profileName: D. Klanica
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1203811200
+review/summary: Excellent aroma, taste and price
+review/text: This is good choice for anybody who using multiple coffe makers (presso drip french press, jezva). Very flavorfull coffe excellent for presso machine it will create nice foam same you can get in italien coffe houses. Exceptional value with coupons. This coffe selle in europe for about a 30 euros - $ 45.00
+
+product/productId: B0002E2GQU
+review/userId: A3DKYXNVRS32TA
+review/profileName: A. Levey
+review/helpfulness: 8/13
+review/score: 1.0
+review/time: 1235865600
+review/summary: HORRIBLE Espresso!
+review/text: I had high hopes for this only to be VERY let down. I've had the Lavazza "Super Crema" (blue bag) and it was pretty good. This "Crema e Aroma" is some of the worst espresso beans I've tasted. The cream is decent but the flavor is thin and sour. I've tried different grinds, water temps, tamps, etc... nothing helps. I have been making espresso at home for 10 years using high-end consumer equipment so I know how to make good espresso... these beans are very lightly roasted, versus most beans I've used, and very dry out of the bag. Maybe the trip from Italy kills the beans? Either way, if you like good espresso... better than Starbucks quality, stay away from Lavazza Crema e Aroma.
+
+product/productId: B0002E2GQU
+review/userId: A1VS1LL905P5L5
+review/profileName: hyytekk
+review/helpfulness: 11/18
+review/score: 5.0
+review/time: 1192233600
+review/summary: Sips of heaven
+review/text: Do you love the charred flavor of Starbucks at $4 a pop for a thimbleful of overpriced swill?  Then you'll feel like a Mensa genius after trying Lavazza Crema e Aroma Beans. This price is genuinely a bargain if you shop around the internet.  Even if you're using a $20 grinder with a whirly bird blade and a Sam's Club espresso machine, your toes will curl with a brew of these beans.  No I don't work for these guys.  But if you really love your morning espresso or cappuccino smooth and hearty you'll love Lavazza. Just be prepared for friends start dropping by and mooching a fix once word gets out.
+
+product/productId: B0002E2GQU
+review/userId: A1O1OQ5VS0OCNI
+review/profileName: Eni Lane
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1201824000
+review/summary: Buy this coffee, but NEVER at full non-sale price
+review/text: You will see that this coffee will retail between 12-13 dollars a bag, if the retail price is above this amount, you are being taken on a Amazon ride towards their higher profit margins.<br />And, this 12-13 dollars a bag is price BEFORE all possible promotional codes that you would utilize to make that coffee lower than that 12-13 dollars a bag.<br />Have bought countless orders of this coffee, enjoy this coffee,it is very good,though unwise to consider ever paying more than price mentioned above,since you deserve better price anyways.<br />For any reason you ever bought this coffee at the lower anticipated price of 12-13 dollars a bag,gets delivered and you decide to re-order more coffee and that good price has turned to a higher price, you are entitled to a refund if you have already had this coffee shipped within the past 30 days.<br />What you do is buy at the regular price now, get confirmation order number, then telephone Amazon website phone cust service and request your refund to be applied back to you as long as not more than 30 days have passed since you had received any of this coffee.<br />That money will be applied back to your Amazon balance for you to spend again, or refunded that difference back to your creditcard had you used a credit card for that order original placed.<br />If you have NOT purchased this coffee at the better anticipated 12-13 dollars a bag, and more than 30 days have passed, you will not get a refund,so do NOT buy at full inflated price unless that price decreases to 12-13 dollars fair price.<br />Besides, nobody wise will pay Amazon 18 dollars or more for this coffee and feel that they got a good deal.<br />Hope my advice is of your benefit too.
+
+product/productId: B0002E2GQU
+review/userId: A7QMQBGJ2TCQG
+review/profileName: Paul Garland
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1194998400
+review/summary: Lavazza Rules
+review/text: I grew up in America, but for the last 15 years I lived in Europe.  I was the General Manager of the European Division of a multinational food company.  We did NOT sell coffee, but living in Europe I developed a keen interest in the excellent coffee served in Europe.<br /><br />Some people say that the Illy brand is the very best.  Not.<br /><br />Lavazza makes the finest coffee.  Period.  Well worth the premium price.
+
+product/productId: B0002E2GQU
+review/userId: AL9XU4IGS5PKY
+review/profileName: C. Kim
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1319932800
+review/summary: Don't recommend
+review/text: Wish I had listened to the few reviewers who did not recommend this. This coffee received an overwhelming amount of good reviews that I decided to try it. The flavor of these beans were dull and did not have much flavor.<br /><br />My husband and I ended up throwing out the beans and buying new coffee beans. I hate wasting but couldn't manage to force myself to drink this.
+
+product/productId: B0002E2GQU
+review/userId: A3LVWMBRUQKSLW
+review/profileName: Sisse
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1296777600
+review/summary: Another great coffee
+review/text: As earlier posted, Lavazza products are some of the foremost Italian coffees. It's delicious to those of us who appreciate quality coffee.
+
+product/productId: B0002E2GQU
+review/userId: A3P4FWH2RT6JD8
+review/profileName: Frank Macchia
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1279065600
+review/summary: Lavazza Crema e Aroma?
+review/text: I am disappointed with this product, not that the product itself is bad but that most of the shipped bags were probably old as most had lost their tight vacuum packaging. The loss of tight vacuum in my experience results in the loss of full aroma that is costumary with a fresh packaged bag of coffee. I didn't see an expiration date mark anywhere so I couldn't confirm my suspition. When fresh I highly recommend this product to any sofisticated coffee lover.
+
+product/productId: B0002E2GQU
+review/userId: A2111VBV1Y41N7
+review/profileName: Mel M
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1272412800
+review/summary: Best Flavor
+review/text: Lavazza offers one of the best flavors and aromas. It offers gourmet coffee for a great price. I dare anyone to try it and not like it.
+
+product/productId: B0002E2GQU
+review/userId: A2NLJJVA0IEK2S
+review/profileName: Kevin M. Smith
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1272326400
+review/summary: Not really a fan of this type of coffee
+review/text: I am trying many different types of coffee, and I don't particularly enjoy this type.  Some people might but not me.  It has a sour taste if you drink it black which is not too pleasant.  The beans give off a roasted almost burnt peanut smell.  The grind is very dry looking.<br />When I took the advice of reading the packaging I made milk based coffees.  Its a much different coffee then.  There is still the sour initial taste, but the after taste is very sweet and caramely.
+
+product/productId: B0002E2GQU
+review/userId: AWH5BD75QGIYY
+review/profileName: B. Jordan
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1260576000
+review/summary: Best coffee for the J5
+review/text: This coffee is great in my super automatic.  We love it - and signed up for the Amazon subscription - very handy.
+
+product/productId: B0002E2GQU
+review/userId: A2SFRHXM2XL1UN
+review/profileName: Amy Wolf
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1255392000
+review/summary: caffe' at home
+review/text: The beans are great. MY husband is from Italy and this is the product he chooses to drink each morning.
+
+product/productId: B001SB6LNK
+review/userId: A181M4BAPKXL9U
+review/profileName: Reneepaints
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317686400
+review/summary: Secret Sauce
+review/text: Thank goodness I am still able to order Woody's Cook'n Sauce! It is the "secret sauce" in my baked beans...I will not tell you what else is in them, because I will be passing that down for generations to come, that is if I can get my sons to move out and start families.
+
+product/productId: B001SB6LNK
+review/userId: A2UGJ3ETF8ESTO
+review/profileName: Earl C. Harris
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307318400
+review/summary: The Best
+review/text: I have enjoyed this sauce since the early 50's when my father cooked with it. It became hard to find over the years and I did not use it until recently. It brought back fond memories. It tasts as good as ever and it seems the new producer has kept to the original receipe. Its not sweet but can be modified to taste. A must for the kitchen staple of condoments. I incorperate a teaspoon into a homemade hamburger patty and grill as usual and WOW!.
+
+product/productId: B001SB6LNK
+review/userId: A1T1BZTE138QS5
+review/profileName: Billyjean
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300320000
+review/summary: Finally! A BBQ sauce good for Diabetics!
+review/text: I am type II Diabetic and love to BBQ Steak, Ribs, Chicken etc. Until now I have always felt guilty using other BBQ sauces because they are LOADED with sugar, usually the first or second item on the ingredient list. Woody's only has 3 grams of sugar per serving! (Number 7 on the ingredient list) Not only that but because it is so low in sugar it doesn't burn and turn black when BBQing with it. OK, so how does it taste? FANTASTIC!<br />My thanks to the folks at Woody's for letting me BBQ without the guilt!
+
+product/productId: B001SB6LNK
+review/userId: ABLSDEAXWFKRV
+review/profileName: owlmac2000
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338768000
+review/summary: best and most versatile sauce ever. plus new and improved.
+review/text: i love the fact that Woody's worked so hard to become all natural and gluten free. This is one sauce that is so versatile in your cooking and BBQing experience. My all time favorite is still rotisserie chicken and the left overs the next day are even better.
+
+product/productId: B001SB6LNK
+review/userId: A3685E50610XZJ
+review/profileName: M. Hughes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Woody's Cook-In sauce
+review/text: I have used Woody's Cook-In BBQ concentrate for many years with great success making my oven cooked beef brisket. However, over the years, it had gotten more & more difficult to find it in super markets. This was extremely frustrating because it is a key ingredient in my recipe and it is virtually impossible to make a substitution. When I was unable to find it a few months ago, I decided to look online for places to purchase it. Since I had not been able to find it in a store, I was thrilled to find I could order it online. So, I did. I purchased a six pack from Amazon.com.  The product arrived promptly and in perfect condition. Now, I have a supply that will last for some time. Wonderful!<br /><br />In addition, on the Woody's site, I read the customer recipe section which provided some additional possibilities for cooking with Woody's sauce.
+
+product/productId: B001SB6LNK
+review/userId: A3QYWXRFH0E1VF
+review/profileName: Wendy K. Laubach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324512000
+review/summary: Great stuff
+review/text: We rely on it for quick chicken or steak meals.  It's not sweet like most BBQ sauces.  We mail order it now in bulk, keeping several bottles on stock all the time, because the local grocery stores can't be counted on to keep it in stock.
+
+product/productId: B001SB6LNK
+review/userId: A2CWBPSTWHGHIG
+review/profileName: technonaut
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319760000
+review/summary: Best BBQ sauce ever!
+review/text: This is absolutely the best cooking BBQ sauce ever!  A few comments about this sauce:<br /><br />- This is not a sauce for dipping; it's for cooking with.<br />- I apply it to chicken or pork at the very beginning of the cooking and let it cook the whole time.  You don't need to wait till the end with this sauce.<br />- Don't use a lot your first time; brush it on lightly with a bbq brush.  You just want a thin layer of it.<br />- For best results use a silicon bbq brush to apply the sauce.  This will help you get a lighter, more even distribution.<br /><br />Give this sauce a try - it's terrific!
+
+product/productId: B001SB6LNK
+review/userId: A27AU9397MIG9A
+review/profileName: Donna
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305072000
+review/summary: Woody's Sauce
+review/text: I ordered my Woody's Cookin Sauce from Amazon as it is hard to find locately. It is spicy but excellant flavor, great for ribs, chicken on the grill.
+
+product/productId: B001SB6LNK
+review/userId: A3QW750LY5UQVS
+review/profileName: WallyJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302739200
+review/summary: Thrilled to have Woody's back
+review/text: We used Woody's for many years before the original manufacturer closed and were sadly disappointed when they closed. Meatloaf and grilled meats were never the same without it. Woody's is as much a staple in our kitchen as flour and sugar. Unfortunately, no grocer in our area carries it, but it is well worth the effort to order online.
+
+product/productId: B001SB6LNK
+review/userId: A1XM60GXYAR6YZ
+review/profileName: kalleen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298764800
+review/summary: best ever!!
+review/text: My husband and I learned about Woodys Cook-In Sauce back in the early 90s.  We took it for granted that chicken would never be cooked without a long marinade in Woodys.  Alas, it disappeared from the shelves!  So happy to have it again--now my grillmaster husband will be happy and so will everyone who dines with us.
+
+product/productId: B001SB6LNK
+review/userId: A6HZV8MS49FNH
+review/profileName: Lea Ann R.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288915200
+review/summary: The BEST Barbecue Sauce!!!!
+review/text: This barbecue sauce is a perfect marinade for brisket.  Let brisket marinade for one day smothered in Woody's and a can of beer.  I guarantee that your brisket will be mouth watering anddelicious.  This is my brother's recipe from Texas.  We cannot get Woody's in upstate NY so I have it shipped from Texas. So glad to find it here on Amazon.
+
+product/productId: B001SB6LNK
+review/userId: A2RV1TSZBBZRYG
+review/profileName: D. Nothaus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288310400
+review/summary: Best Cookin' Sauce EVER!
+review/text: We're so glad they started making this sauce again.  We order it by the case, because you cannot buy it in the stores in NYC.  Nothing is as good for your BBQ!
+
+product/productId: B001SB6LNK
+review/userId: A1YS5I8744YV7Z
+review/profileName: WmW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280275200
+review/summary: Best BBQ Sauce Ever
+review/text: I can't always find this at my store so I ordered a case so I will always have some on hand when I want it.
+
+product/productId: B001SB6LNK
+review/userId: A2Z4L75IN22QBX
+review/profileName: J. Jahnke "I love to cook"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272758400
+review/summary: I love this sauce!
+review/text: I was introduced to Woody's as a 'secret' ingredient for baked beans by  a dear friend who unfortunately passed away prematurely.  Mike Dale's baked beans live on however among his many friends and he swore this (along with liberal bacon ends and pieces and Van Camps baked beans) was the secret ingredient.  I have to agree and have never failed to make it in his memory every year.  Always a big hit!
+
+product/productId: B001SB6LNK
+review/userId: A2A9W2JG208AHE
+review/profileName: S. Baker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265241600
+review/summary: Great Cook-in
+review/text: It is hard to find Cook-In around here so we are lovein this.  Can's wait till it warms up a bit to fire up the grill.
+
+product/productId: B001SB6LNK
+review/userId: A1MSR34ZH8HPMD
+review/profileName: S. Abbott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1257465600
+review/summary: Can't live without it
+review/text: This isn't your normal sweet BBQ sauce. This has a strong smokey flavor that I haven't found anywhere else. This stuff is delicious. I use it on Lamb and venison mainly, seems the flavor would be too overpowering for lighter fare such as chicken. I have used it on beef with great results. This sauce is meant to be cooked on the meat, it isn't very good as a dipping sauce.
+
+product/productId: B001SB6LNK
+review/userId: A1O2VUTYOTLBQQ
+review/profileName: Trollope Fan
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1253318400
+review/summary: MMMMMMMMMMMMMMMM luv that barbecue sauce!
+review/text: I discovered Woody's in an Austin, TX, grocery store in 1998. It's low carb, unlike most commercial sauces, intensely flavored, and is delicious on spare ribs and chicken. It can be cut with vinegar to make a marinade for overnight seasoning. Anyone who likes BBQ should give this a try.
+
+product/productId: B002JQSP0K
+review/userId: A1LVOE152MCFQL
+review/profileName: Paso Bonita's Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339113600
+review/summary: Pataks Lime Relish
+review/text: This is, in my opinion, the best Lime Pickle, or Relish out there.  It has a unique tangy flavor and really adds to any curries I make.  Sometimes I just make some Basmati rice and mix it in and I enjoy that as my meal!  It's really delicious!
+
+product/productId: B002C4KMN2
+review/userId: AH6E35O6QYSK7
+review/profileName: Kay D Homan
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1290556800
+review/summary: Great tea!
+review/text: Bought this for a gift, tried it myself and bought more...wonderful tea and looks beautiful in a clear pot, smells heavenly.
+
+product/productId: B002C4KMN2
+review/userId: A1JYBIA81NZ282
+review/profileName: Dio_K
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1300147200
+review/summary: We love it
+review/text: We just received the tea sampler, and have tried our first flowering tea, "rising sun".  It's beautiful and has a light, lovely green tea taste.  We ordered another one for company.  Since we didn't really know what to expect, we're very happy with the product.
+
+product/productId: B002C4KMN2
+review/userId: A1P6YL5US5G6TU
+review/profileName: Marianna Jones
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323388800
+review/summary: Visual delight, and it tastes good too!
+review/text: I bought these for myself and have not been the least bit disappointed.  After when the tea is too weak to continue, I place they in clear glass jars and have gotten compliments on them.  They are really pretty and colorful.  I'll most likely buy another set when I'm done with these.
+
+product/productId: B002C4KMN2
+review/userId: A1DMGE7V3EG0XE
+review/profileName: MalibuBlue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Very good
+review/text: I bought this tea and combined it with http://www.amazon.com/gp/product/B0030J8GRM/ref=cm_cr_mts_prod_img for my mom for Mother's Day.  She loved it.  She said the tea was delicious.  She's had blooming tea before, and she really liked this.  The overall presentation gave the appearance of a much more expensive gift.  She was thrilled, and I was very happy that she liked it.  It was perfect for her; she's a really big tea drinker.  What's better than deliciousness and beauty combined in a cup of tea?
+
+product/productId: B002C4KMN2
+review/userId: AU7H1XNGAOWRL
+review/profileName: Tema L. Steele
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338249600
+review/summary: Fabulous blooming teas!
+review/text: These teas are so amazing-not only beautiful to watch as it unfolds but delicious taste as well.I put one of these in my glass tea pot and in a few minutes I have a light and delicious tea to enjoy. I frequently will put the brewed tea into the refrigerator and enjoy is as an iced tea.
+
+product/productId: B002C4KMN2
+review/userId: A19P5S3KZDM7KA
+review/profileName: L. Buss "living life every day"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1337126400
+review/summary: Pretty but not the best tea in the world
+review/text: I ordered these because of the recommendations but I wasn't all that impressed.  The teas seem weak and rather flavorless to me...and the colors are not nearly as bright as pictured.
+
+product/productId: B002C4KMN2
+review/userId: A39PE05LEPDQP8
+review/profileName: Alia Hurst "blushing bride"
+review/helpfulness: 12/25
+review/score: 4.0
+review/time: 1266969600
+review/summary: Good price
+review/text: The price is great and the teas are individually wrapped which is a plus since the exterior box of mine was torn and tapped in places.  Haven't tired them yet, but the box says not to use them in more than 3 cups of water.
+
+product/productId: B001D8RP4C
+review/userId: A1Q62XTJATW753
+review/profileName: L. Nasser "veggie fan"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1266278400
+review/summary: Delicious!
+review/text: This spice is absolutely delicious.  My mother paired it with with cauliflower, spinach, coconut milk, garlic and onion, and it made vegetables I don't usually crave -- utterly craveable.  She used to buy the mix at Whole Foods, but since it is no longer available there, we found it at Amazon.com and were happy to split the pack of 12 it comes in!  The only trouble is, we may run out too quickly.  Highly recommended!
+
+product/productId: B001D8RP4C
+review/userId: AS6L0NPZOH9QQ
+review/profileName: An ordinary being
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: wonderful & healthy
+review/text: Because this product doesn't contain "Hydrolyzed yeast protein" as does Arora's bouillon powders, I can use it.  Instead of yoghurt I use fresh frozen coconut milk (bought at oriental store) & coconut oil (organic) instead of olive.  Wonderful flavor.
+
+product/productId: B001D8RP4C
+review/userId: A20IV2CJS391YB
+review/profileName: Once Was David
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341619200
+review/summary: Delicious and high quality
+review/text: Arora is the best Indian spice blend I've come across -- and I've pretty much tried them all.<br /><br />I've used several different blends from this company and they are all excellent.  I usually start off following the easy recipes on the back of the packet and over time make a few adjustments (I like garlic so usually double the recommended amount).  My co-workers (including a couple born and raised in India) think I'm a great cook when they sample one of my lunches, but it's really quite simple and ends up being healthier and cheaper than bringing a sandwich every day.  If I can make food taste this good, anyone can!<br /><br />I also really like the fact that the spices are all organic.<br /><br />I go through so much of this (and Amazon's price is so much better than my local store) that I now have an auto-subscription for regular deliveries.
+
+product/productId: B001D8RP4C
+review/userId: A1723LMX4HHXLL
+review/profileName: David N
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336953600
+review/summary: Very good mix
+review/text: This is a really good starter mix for Chicken although I prefer to tweak the cooking instructions slightly.  You can reduce the amount of oil by half and cut back on the water too if you don't want it as soupy. You can also add in some plain yogurt or sour cream to make the sauce creamier if you prefer.  But, overall, its a very good mix and easy to make.  There is some prep time involved with mincing garlic, onion, ginger, etc. But it's not hard to do.  You can also reduce the recipe by half and use half a package of seasoning (still use one whole can of tomato sauce but little or no water) and it comes out great.  The mix is set up to use 2 lbs of chicken which is a lot for one or two people.  Also, since the packet lists all of the ingredients, if you are a half way decent cook you can  buy the spices in bulk and save money by mixing it yourself.
+
+product/productId: B001D8RP4C
+review/userId: A28RG5I99PZQNC
+review/profileName: jessicastwin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314921600
+review/summary: Delicious.
+review/text: This spice blend makes for a convenient and delicious chicken tikka masala meal. I prepare this as per the package, but use Morningstar Farms vegan chicken strips (4 bags), extra tomatoes, plenty of fresh ground black pepper, and serve it over basmati rice. For two people, it lasts for 3 days.<br /><br />You will not be disappointed. Brilliant and yummy mix of unique Indian spices.
+
+product/productId: B001D8RP4C
+review/userId: A5Q05762QWKC9
+review/profileName: Mary A. Dao
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301443200
+review/summary: AWESOME
+review/text: This is one of the most popular dishes in our family!  It's easy to make, just follow the directions.  We like to have it with jasmine rice, though I suppose that's not 100% authentic, lol.  It's a great product!
+
+product/productId: B001D8RP4C
+review/userId: A2G841MK3PKWRH
+review/profileName: Epicurean
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280707200
+review/summary: great taste
+review/text: This spice mix comes with an easy chicken tikka recipe on the package. One of our favorite dinners and the flavor is so much better than attempts to mix the spices on my own.
+
+product/productId: B0014APEHO
+review/userId: A2OYJYCGE2DJO4
+review/profileName: Monica
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345248000
+review/summary: it was perfect and on time!, thanks
+review/text: Is a very good product! it taste delicious!! and i think it works!!, i recommend this for moms that needed.<br />Thanks
+
+product/productId: B002MTUD8G
+review/userId: A1NI9OYP3JSRU3
+review/profileName: chucky
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346803200
+review/summary: decaffeineted tea?
+review/text: Unfortunately the so called decaffeinated Sacha tea still has considerable amount of Caffeine, which is unsuitable for those wish to have tea completely devoid of cafeine.
+
+product/productId: B000LKTXNY
+review/userId: A1BWPKMS736AHP
+review/profileName: C. ONeill
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1199145600
+review/summary: best potato chips
+review/text: I love these potato chips.  I've been eating Season's potato chips for years.  When I buy the unsalted ones, I add a little salt on my own.  They're cooked with peanut oil, which doesn't leave the slight aftertaste that many oils other than this and canola oil do, in my experience. These chips have a great mouth 'feel',light and crisp, not too hard or crunchy.  I highly recommend giving them a try.
+
+product/productId: B000LKTXNY
+review/userId: A2OOE11F4SE33A
+review/profileName: Dayzee D
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1253923200
+review/summary: Great Tasting, heart healthy chips
+review/text: What a find.  For those persons who need no (or low at best) salt and low fat food it is hard to find snack foods that actually taste good.  These chips really do!!  I love them and even for those who can eat anything without remorse these chips will still taste good.  Highly recommended.
+
+product/productId: B000LKTXNY
+review/userId: A18BQQQDKKTY2
+review/profileName: Jim H.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267747200
+review/summary: Michael Season's Ripple chips are a hit with wife!
+review/text: We first discovered and bought Michael Season's at Fred Meyer because they are reduced fat and salt, and the taste and consistency are great. But FM stocks only Thin and Crispy and my wife wanted a sturdier version to use with dips. After getting product descriptions from the Michael Season's web site we discovered that they also make reduced fat and sodium Ripple chips. Found that Amazon had them in stock, ordered and received them promptly with free shipping. My wife says that she likes the taste as much as the Thin and Crispy and that the Ripple also stand up to using with thick dips.<br /><br />Also we found that Michael Season's are almost entirely whole chips, whether ordered online or bought from a store, unlike Frito-Lay. After I watched a Frito-Lay sales and stock person literally crush each bag of F-L chips apparently so that he could get more bags into the allotted space I could understand why. Michael Season's is a winner for several reasons. And with Amazon, the price per bag is lower than if bought locally.
+
+product/productId: B000LKTXNY
+review/userId: A2F0PCVFFG3PQZ
+review/profileName: merstar
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1259020800
+review/summary: Perfect potato chips!
+review/text: These are great - very light and crispy, and not greasy. I love the fact that they're unsalted, which is almost impossible to find.
+
+product/productId: B000LKTXNY
+review/userId: A38HB9LSYK8ILT
+review/profileName: Lc Robinson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1248825600
+review/summary: Best Product ever tasted
+review/text: I have tried the unsalted thin and crispy. They are excellent.<br /><br />We have also tried the chesse poofs and cheese curls which are glutten free.<br />For themto be gluten free and taste so good. Our kids love the taste.<br /><br />Espcially now that they are on a special glutten fre diet.... those cheese puffs have become there favorite.<br /><br />Excellent  food choice.
+
+product/productId: B000LKTXNY
+review/userId: A3AZ8ZRNK2SS07
+review/profileName: XBOY2000
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330128000
+review/summary: Best!
+review/text: These are the BEST chips ever!  I hate chips that are ruined by mass quantities of salt.  These chips actually taste like...wait for it...POTATO!  The only thing wrong with them is that they are so good I can't stop eating them!  Light, crisp, not greasy, and tasty.  Could it get any better?
+
+product/productId: B000LKTXNY
+review/userId: A28K9G0BI2695B
+review/profileName: V. L. Hester "Vegan Mom"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329004800
+review/summary: These Chips Taste Like The Potato They Came From!
+review/text: As many have said, it is very difficult to find a chip that isn't loaded with salt and so much grease you need an entire roll of paper towels to clean up with after just a few bites. You can actually taste the potato these chips were cut from and because of the intense potato taste, you don't miss the salt.
+
+product/productId: B000LKTXNY
+review/userId: A2W31XL8X75C0G
+review/profileName: bluebird
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324252800
+review/summary: Delicious and satisfying
+review/text: Not greasy, not salty, not dry (like baked chips), and the best part..don't have to eat the whole bag to feel satisfied.  I'm sold!
+
+product/productId: B000LKTXNY
+review/userId: A11UPNFYDICF3C
+review/profileName: Robin M. Vaughn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1252713600
+review/summary: Best Not-Baked Chip We've Tried!
+review/text: We truly enjoy these chips, and were delighted to find them on sale at Amazon! We experienced a great savings over the healthier, food choices aisle price, of our grocery. They are not greasy, or overly salted, but absolutely delicious! A great, heart healthier option, that still has great potato chip taste! Also holds up fantastic with dips! :)
+
+product/productId: B000LKTXNY
+review/userId: A14YIZZHS51A0U
+review/profileName: sarajan "sarajan"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1243987200
+review/summary: Fantastic Snack
+review/text: I tried, and love these chips. My local store carries them at over 4 dollars each.  I save over 15 dollars on every case.  I'm trying the salt free next!
+
+product/productId: B000LKTXNY
+review/userId: A18GKCC69KPR51
+review/profileName: Norman Girard
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1243036800
+review/summary: Great Healthy chips yes.
+review/text: I only knew of one company that made no sodium chips and they stopped making them. Yeah, to see them back and surprisingly, they fill me up better than regular salty chips and keep blood pressure low. Health and taste rarely combine, and for once it has.
+
+product/productId: B000LKTXNY
+review/userId: A3LCKU7LIE45ZM
+review/profileName: Snow "YKA"
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1255564800
+review/summary: dissapointed
+review/text: I was dissapointed this potato chips, tast ok, not very crunchy and all broked tiny pieces.
+
+product/productId: B000LKTXNY
+review/userId: A2J3PR6J36UTVH
+review/profileName: Joyce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Michael Seasons Unsalted Potato Chips
+review/text: These are the best chips ever!  They are unsalted and being on a low sodium diet critical in allowing my husband and I to eat chips.  They are all natural and low fat which is a great extra bonus.  Additionally they have the BEST flavor...you really taste the potato flavor and not the salt!  I would choose these chips over ANY chip on the market today, salted or not!! These chips as well as ANY unsalted chips are very hard to find in the stores so THANK YOU Amazon for selling them.
+
+product/productId: B000LKTXNY
+review/userId: A1IGC4M194ENJP
+review/profileName: Audrey F Haggerty
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350777600
+review/summary: Amazon Michael Season's Thin & Crispy Unsalted Potato Chips - Sad news
+review/text: The taste was very good on this product but I bought the 12 pkg plan and the bags each were anywhere from 1/3 to 1/2 crumbs or small pieces you would only use on top of a casserole.  No dipping or presentation wise nothing.<br /><br />However since I need unsalted chips they were worth a try and I need to cancel future orders of this one and stay with the Michael Season's kettle ones which of course were more durable and they too taste the same as the others.<br /><br />Amazon please note to cancel automatic shipping on this product but keep the one for the Kettle chips - thanks
+
+product/productId: B000LKTXNY
+review/userId: ALSCWZ93B5OU4
+review/profileName: Diana F. Steele
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345075200
+review/summary: broken up to small pieces
+review/text: The chips tasted stale and were so broken up from poor packaging that I could only eat a few from each bag. The bags were crammed into a box that was lightweight, and thus, the problem. I will not be ordering them again.
+
+product/productId: B000LKTXNY
+review/userId: A1G8E313MN3660
+review/profileName: P. McLeish
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329955200
+review/summary: Very Tasty Chips
+review/text: I bought the Ripple lightly salted chips. I find that the chips are very good as other reviewers have said. I like that that they are lightly salted and it is still enough of a salted taste. The chips were not broken (any more than when you get them in a store) or crushed. They are packaged quite well for shipping. This is February and the expiration date on them is 6 months from now (Aug.). 12-8 0z. pkgs. to a box is a lot of chips but for those who don't know it, the chips can be refrigerated for quite a while, even past the expiration date, and still be as fresh and crispy as if just bought. I put extra crackers and cereal in the fridge too with the same results. I have a fridge in the garage so I can do this. I do recommend these chips.
+
+product/productId: B000LKTXNY
+review/userId: AB5L26L7IVWHS
+review/profileName: Dwaine Everett Thomas "NoBombs4Oil"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: You Can't Eat Just One....
+review/text: 12 Bags, with a six month expiration date; packaged well to avoid your typical delivery process of testing the packaging.<br />Chips are as advertised: thin, crispy, & unsalted, but surprisingly flavorable; difficult to stop eating them. There is a fair share of breakage, & a few over-cooked pieces per bag, but no higher than any other chip-seller I've seen.
+
+product/productId: B000LKTXNY
+review/userId: A3QALZXU8DGLI1
+review/profileName: Richard Schecter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: The Best
+review/text: <a href="http://www.amazon.com/gp/product/B000LKXDXU">Michael Season's Thin & Crispy Unsalted Potato Chip, 8-Ounce Bags (Pack of 12)</a>Michael Season's Unsalted Potato Chips are the best in the market. I was buying them at my local grocery store, but for $3.69 a bag, it was very expensive.  Buying these in bulk for a much lower price makes sense especially if you have at least a bag a week.  I've tried a few others and none compare.
+
+product/productId: B000LKTXNY
+review/userId: AQHGDYCWX11AL
+review/profileName: sixbullets
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321142400
+review/summary: Terrific potato chips
+review/text: Particularly fine product at a competitive price.  Should be carried by major chains for the significant percentage of the population whose doctors recommend reduced sodium intake.  They're losing business when they think there's no market.  I'm sure I am not the only one who has walked past the stores' snack isles for years for lack of an unsalted selection, but I can't buy from an "empty wagon."
+
+product/productId: B000LKTXNY
+review/userId: A9JIJVCETIFKJ
+review/profileName: vol245
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1306886400
+review/summary: Great chips
+review/text: I have ordered many boxes of these and have been very happy with them until now.  For some reason the shipment was returned as undeliverable.  Same address as always.  One try at delivering it and they sent it back.  I'll get a refund.  Great.  I want my chips.  Moronic driver?
+
+product/productId: B002JLT6JY
+review/userId: A1WX42M589VAMQ
+review/profileName: Mir
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1256860800
+review/summary: Chewy, sweet-n-tart, with a bit of a grassy aftertaste
+review/text: These are like a funky healthful candy--cherry tart/sweet and chewy. The aftertaste is a bit grassy, which I find a tad odd, but the after-aftertaste is a nice cherry residue--like when you've had a strong tart-sweet cherry candy, like a Jolly Rancher.<br /><br />Each of the tubs is the equivalent of 1.5 pounds fresh cherries. If you eat the whole tub,  you'll consume 250 calories.<br /><br />I bought these to use with hot and cold cereals, and they'll be fine. For eating out of hand, they're okay, too, but the grassy aftertaste keeps it from being a five-star product for me.<br /><br />For those with bridges, crowns, etc, who worry about sticky products--this one is sticky and you'll have to floss/pick pieces off your teeth.
+
+product/productId: B002JLT6JY
+review/userId: A23W13JR7RTOJY
+review/profileName: Narada "the wondering jew"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1267574400
+review/summary: No grassy aftertaste for me...
+review/text: Like all Just Tomatoes products, these are really tasty, but NOT very sweet (for sweet, go with the Just Strawberries). No problems vis-a-vis dental work, though I suppose YMMV.
+
+product/productId: B0034EDMLI
+review/userId: ALYUAU70QFA9B
+review/profileName: Irisheyes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346544000
+review/summary: KIND bars from Amazon
+review/text: I love, love, love the Almond & Coconut Kind bars.  I have one as a mid day snack each day. They are not too sweet but a little sweet....perfection !!!
+
+product/productId: B0034EDMLI
+review/userId: A3I5KZ1XZ8PJ63
+review/profileName: K. Johl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: Almond Joyous!
+review/text: Yummy and portable good for you food.  I use it as a meal replacement or a hearty snack. Cocnut and almonds both healthy sources of fat and protein. Delicious.
+
+product/productId: B0034EDMLI
+review/userId: A1DB2KAGYSO774
+review/profileName: mommy of 2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: YUM
+review/text: They are very tasty.If you like coconut, you can actually taste them. Almonds are a nice size too. Can't wait to try the other favors.
+
+product/productId: B0034EDMLI
+review/userId: A3VD6KREW99X02
+review/profileName: Eric Alan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345852800
+review/summary: Love this Apricot Almond bar
+review/text: KIND makes some great tasting fruit and nut bars. This flavor is my favorite because the apricot mixed with the coconut flavor is hard to beat. That's what I taste when I eat this, apricot, coconut, and some almond. It's not a dry bar, it's got some chewy gooey to it, which I also enjoy. Overall probably my fav fruit and nut bar.
+
+product/productId: B0034EDMLI
+review/userId: A2ZY4FJBKAI0CE
+review/profileName: mydonda
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345852800
+review/summary: really good
+review/text: My husband takes a Kind bar with him to work everyday. He eats it for his afternoon snack. That way he's not hungry until dinner.
+
+product/productId: B0034EDMLI
+review/userId: A9X00RIJFFTGB
+review/profileName: Annette
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: Perfect Snack!
+review/text: I think these bars are so much better than other granola bars.  They are so full of nuts and good fruit!  They are a very generous size....sometimes too big for in between meals!  Love, love, love them!!
+
+product/productId: B0034EDMLI
+review/userId: A2K45TTIVJ0013
+review/profileName: Kelly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345507200
+review/summary: Perfect Gluten Free Snack
+review/text: I grab one of these bars in the morning as I'm running out the door.  It's perfect for breakfast, lunch, or just snacking.
+
+product/productId: B0034EDMLI
+review/userId: A29MVNX6762P1G
+review/profileName: ngruttemeyer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: I LOVE KIND BARS!
+review/text: I love the kind bars, they are great for any time of the day. Perfect with a cup of coffee, or an "on the go snack". I've been ordering them for well over a year. Highly recommend.
+
+product/productId: B0034EDMLI
+review/userId: A32FLT6GN85XXE
+review/profileName: NVanPutt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344902400
+review/summary: KIND
+review/text: Our whole foods diet makes eating tricky sometimes, so when I saw KIND bars in the supermarket I was really excited. Our tastebuds are used to nearly no sugar, no salt and absolutely no preservatives or additives so these bars hit the spot. The coconut and almond bars were chewy and crunchy with just a hint of sweetness and they were filling. One bar and I was ready to go for the morning! Mr. MVP had one KIND bar and a yogurt and a piece of fruit and he was on his way. Our supermarket had them for $1.50 per bar so $1.20 per bar is a decent price!
+
+product/productId: B0034EDMLI
+review/userId: A39A67D4KFZ398
+review/profileName: Chef Soda "chefsoda"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: Wonderful
+review/text: I was given one of these bars by a friend and began ordering them by the box the next day!  I have an extremely sensitive stomach, and they are a great source of energy for me.  Eating one at the first pangs of hunger buys me a hour before I need a real meal, which is a life saver.  I have taken them on road trips and camping, and they are great there as well.  I love the fact they aren't covered in chocolate, as I'm not a fan of using candy for food.  The fact that they are gluten free means I can bring a box for celiac friends without concern, also a big plus.  I only wish I could buy them locally, but the Amazon subscription is almost as good.
+
+product/productId: B0034EDMLI
+review/userId: A3FXXUE3EQDFD9
+review/profileName: Boomaladdy "slickchick"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343606400
+review/summary: Very Tasty!!!!!!
+review/text: Bought one of these at Whole Foods.  Was hooked after the 1st bite.  Taste like an almond joy without the chocolate.  Sent my daughter a box.  The fact they are good for you is a bonus.
+
+product/productId: B0034EDMLI
+review/userId: AAYQ70O2J6BGU
+review/profileName: biscuitous
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343347200
+review/summary: Yummy
+review/text: Very tasty. No sugar or junk that I don't want. Just real food. Makes a great snack. I love them.
+
+product/productId: B0034EDMLI
+review/userId: A1OPTRYPHBD0UQ
+review/profileName: Wendy G. Morris
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343174400
+review/summary: Kind Bars
+review/text: We absolutely love this brand of bars and have enjoyed this particular item.  My daughter wont hardly eat breakfast and she swims.  I make her eat something and she was willing to try the Kind bars. Hands down one of the best bars out there.
+
+product/productId: B0034EDMLI
+review/userId: A2MG5CFOL7QK2U
+review/profileName: Norma J. Mingoia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343174400
+review/summary: nut bars
+review/text: this item was very good. I find these protein bars delicious and low in carbs but high in protein. Excellent
+
+product/productId: B0034EDMLI
+review/userId: A3NUDSXY4NL9JX
+review/profileName: S. Harrill "Amazon Rocks"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: Better than Candy
+review/text: I have replaced candy bars with the Kind Bars, and they are better.  My favorite are Nut Delight.  The ones with chocolate are my least favorite.
+
+product/productId: B0034EDMLI
+review/userId: A2YR1LCZXJL9FQ
+review/profileName: S. Din "books4U"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: Best Bar Ever!!
+review/text: This nut bar is made to perfection. It has the right amount of sweetness and the textures are unbelievably amazing. The ingredients make this one of the most delicious snacks and it's just enough to keep you going because it fills you up. You cannot go wrong with these bars, they are my ultimate favorite snack to keep on hand. I could live on these!
+
+product/productId: B0034EDMLI
+review/userId: A2QQW10TW7YB63
+review/profileName: TheGoodEgg
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342656000
+review/summary: Super Tasty
+review/text: I really enjoy eating these bars they have a very natural and clean taste to them.  The only thing I would like to suggest is a less sweet version of these bars are offered, they are a little too sweet for my taste but that does not take away from my enjoyment of eating them.
+
+product/productId: B0034EDMLI
+review/userId: A5LDROMS3EST7
+review/profileName: ep
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342483200
+review/summary: Hm-hm, good stuff
+review/text: My wife tried several different brands and types. Although I am not a big fan of snack bars, I liked this one. Pretty good, nutty, fruity,  not too sweet, not too "healthy", nothing exaggerated. Just feels natural. I like them as a snack with a tea or cofee during a brake at the office.
+
+product/productId: B0034EDMLI
+review/userId: A1TXQD7QDJOH1Z
+review/profileName: julietta susana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342137600
+review/summary: sooo good and no guilt -- what could be better?
+review/text: I love these bars and even eat them once in a while as a substitute breakfast with yogurt.  They are so good, and not fattening and make a great on-the-go snack in the car or on the plane.  I have tried many other bars, but none even come close.  Every time I give one to a friend, they are hooked.  My 3-year old grandson loves them too, and I feel good that he asks for them as they have no artificial anything and aren't that high in carbs.  The deal on Amazon is the best with automatic shipping.  In most places they cost $2.00 or more each.  In bulk on Amazon they are $1.50 with no shipping charge.  This one is my favorite flavor, but I like most of the others almost as much.  So, happiness in a bar. . .
+
+product/productId: B0034EDMLI
+review/userId: A18T9TNWFAHPUA
+review/profileName: Pamela M. Kowal "bookladylil"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342051200
+review/summary: Really deserve more stars!
+review/text: O-M-G...what can I say?  These are the absolute best bars I've ever had!  They are LOADED with coconut and nuts but, most of all, FLAVOR!!!  Gluten free to boot (though that doesn't matter to me), but someone that it does make a difference to...I encourage you to treat yourself to these...chewy, chewy, chewy and so flavorful...did I mention, chewy?!?!  The more you chew the more flavor you taste...just the right amount of honey, NOT the bland old sawdust granola bar you may think of...get them!!!
+
+product/productId: B0034EDMLI
+review/userId: A3U1Z7TFLWQXR1
+review/profileName: Veronica R. Zedd
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342051200
+review/summary: Delicious!
+review/text: Great bars, delicious, easy to order and would def. order again. Light bar and better nutrition than others, low fat.
+
+product/productId: B0034EDMLI
+review/userId: A2GKLLQSSMWUDM
+review/profileName: szw03
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1341878400
+review/summary: Good flavor, but tooooo sweet
+review/text: The Walnut & Date has a good flavor, but it's way too sweet. My husband has a sweet tooth and he also thinks it's too sweet. I ate one bar last night and it made my stomach uncomfortable.
+
+product/productId: B0034EDMLI
+review/userId: ACSGOJCV2169G
+review/profileName: Darlene Klischer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Extra energy
+review/text: I am so happy I found the KIND bars at Amazon.com..<br />This Macadamia&apricot is my very favorite.<br />They arrived very fresh and packaged well.<br />Thanks for the auto delivery.<br />I sent a box to my daughter and her family.They loved them,too<br />.
+
+product/productId: B0034EDMLI
+review/userId: A2AOD7254MCKSH
+review/profileName: travel-weary
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Great gluten free sweet treat
+review/text: Most of these bars are really glorified candy bars. But this makes a nice gluten free indulgence for my husband who loves them. I have a hard time finding anything he really likes.
+
+product/productId: B0034EDMLI
+review/userId: A2HOOFYY5X4AQ8
+review/profileName: Christine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: YUM!
+review/text: OMG I cannot even begin to descibe how delicious these bars are! It is like an almond joy without the chocolate! YUM!!!
+
+product/productId: B0034EDMLI
+review/userId: A1WPTKTQ5LYFT6
+review/profileName: loelli
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Tastes like Samoa girl scout cookies!!
+review/text: I'm so glad I tried these.  I just started following a strict gluten-free diet and figuring out what to stock up on is hard!  After trying the variety pack I knew these would become my go-to snack bars!
+
+product/productId: B0034EDMLI
+review/userId: A10JT13PZPIR1O
+review/profileName: Tina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340323200
+review/summary: The BEST vegan snack ever
+review/text: This is the hands down best product for a snack ever. Satisfying, tasty, just wonderful. Everyone needs to try these bars :)
+
+product/productId: B0034EDMLI
+review/userId: A14EXCCBCS6F6U
+review/profileName: Daniel J Bressler, M.D.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339200000
+review/summary: the most consistently delicious nut bar available
+review/text: Fresh, just sweet enough, appetite fulfilling and overall good for you. I use it between meals and before sports. Highly recommended.
+
+product/productId: B0034EDMLI
+review/userId: ARI8N9F7K3UMK
+review/profileName: TinNJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338768000
+review/summary: delicious
+review/text: Yum, the apple cinnamon and pecan bars are my new favorite.  Moist, delicious and easy to carry in my purse for a healthy natural snack.
+
+product/productId: B0034EDMLI
+review/userId: A1ZPXUUQL3160S
+review/profileName: M. Matel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338508800
+review/summary: Love, love, love these!
+review/text: These are great! Pretty high in protein, so they are filling, and the chocolate/sesame/peanut combination is really tasty. I have already been informed that I will be required to supply my child with these at college. The auto-order feature is particularly helpful.
+
+product/productId: B0034EDMLI
+review/userId: A2SBDJS61LGYXC
+review/profileName: K. Frey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338508800
+review/summary: Fills the granola bar void in gluten free diet
+review/text: I am still actively working out my new diet since going gluten free, and these bars are a great addition. They're chewy, flavorful and full of natural ingredients like almonds and dried fruit. The almond & apricot and almond & coconut are the best flavors
+
+product/productId: B0034EDMLI
+review/userId: AAX3G7CDXHOKJ
+review/profileName: Cindy Zayas "Dominiricancutie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: Delicious!
+review/text: This Fruit and Nut bar is delicious. All of the ingredients you can pronounce and TASTE as well. The honey, coconut and almonds go so well together. I eat this whenever I get cravings for something sweet. Going to get more soon!
+
+product/productId: B0034EDMLI
+review/userId: A1J6F85W0INK5R
+review/profileName: ceceunderwood
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: EXCELLENT!
+review/text: I love this product....extremely hard for me to find this flavor in the town where I live...Amazon has the best price for these bars...they are sooo good and gives me the carbs that I need to run in the afternoons.  I would recommend to others who like a protein bar.
+
+product/productId: B0034EDMLI
+review/userId: A2IYZIUWC57NJW
+review/profileName: Ms. Tess L. Brantley "Tess Brantley cat lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337817600
+review/summary: great bars
+review/text: These bars are great as is your company. I love to get these bars, they are good to have when you just want a little something sweet, not too many cals.
+
+product/productId: B0034EDMLI
+review/userId: A102RYUBEQR4CM
+review/profileName: sjsatter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337731200
+review/summary: Great snack
+review/text: These bars make a great snack to hold you over between meals.  I never know when a meeting will last longer than expected so I always keep one in my computer case.  Alittle bit of sweetness but not alot.
+
+product/productId: B0034EDMLI
+review/userId: A3V9OU9EJJH2W6
+review/profileName: V. Takach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337299200
+review/summary: I can't get enough of these!
+review/text: They are so tasty it's hard to believe how healthy they are.  Great product for breakfast, snack or dessert. I have tried the other flavors, which are good, but this one to me is by far the best.
+
+product/productId: B0034EDMLI
+review/userId: ARVA8H9WZ237G
+review/profileName: book maven "serious book reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: Ya just gotta love these jewels!
+review/text: Yum!  What's not to love?  Crunchy nuts, chewy fruits, luscious yogurt!  Get the subscription and they are even cheaper.  Oh, they don't have ingredients that you can't pronounce either.  That's always a plus!
+
+product/productId: B0034EDMLI
+review/userId: A26P7EPGPP91W5
+review/profileName: DeeDee
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334102400
+review/summary: Love Healthy snacks!
+review/text: So, this is my first time trying this kind bar. Actually, its pretty amazing. I love healthy snacks that actually taste good!! Fruit and nut is a good one. If you haven't tried yet.. it never hurts! :)
+
+product/productId: B0034EDMLI
+review/userId: A10JWU28FPMMVR
+review/profileName: Lori Fornicola
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333843200
+review/summary: Daughter Loves
+review/text: I thought these were a little on the sweet side. My daughter loves them. The Kind bars are always a good gluten free product.  These are soft.
+
+product/productId: B0034EDMLI
+review/userId: A2CXHK4CYI9PFO
+review/profileName: Georgie Mathews
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333584000
+review/summary: Great healthy mid-afternoon and evening snack
+review/text: The Strawberry and Peanut Butter bar is the perfect bar for those with the strawberry tooth for foods they like. The flavor profiles of the bar subtely blends the fruity flavors of strawberry with the nutty crunch of peanut butter and almonds. They contain 190 calories in total and 100 of them are from fat and also are a good snack for the 4 gms of protein that you get with each bar.<br /><br />Overall a great healthy snack for your mid-afternoon after meal or late evening hunger pangs.
+
+product/productId: B0034EDMLI
+review/userId: A1790XL1KFYERN
+review/profileName: J. N. Lynch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Great Fruit & Nut Bar
+review/text: This is one of the best bars with apricots, almonds & yogart covering.  Sometimes hard to find, that why I buy by the box on a regular schedule.  Try it, I think you'll like it.
+

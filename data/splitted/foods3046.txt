@@ -1,0 +1,1143 @@
+product/productId: B004EE2UR4
+review/userId: AZ880BV5XBANQ
+review/profileName: J. Howard "JH"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297296000
+review/summary: Great Green Tea
+review/text: This is an excellent green tea. I enjoy this brand and one from Biglow.<br /><br />I would recommend this tea to anyone who likes green tea. And it is organic for those of you who are into that stuff.
+
+product/productId: B004EE2UR4
+review/userId: A32I2NNNQF5TW
+review/profileName: Vasilion
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1296864000
+review/summary: Very Strong
+review/text: I generally like Chai Tea, however, this one is very, very strong for use in the Keurig. I would suggest watering it down or something.
+
+product/productId: B004EE2UR4
+review/userId: AC4MO7EL9T29T
+review/profileName: Sarah H. Knauss "Lab Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296432000
+review/summary: Perfect Chai taste!
+review/text: This tea is bold and smooth at the same time.  If you are a lover of Chai, buy this. Easy to use with Keurig and no artificial sweetners or additions to take away from the tea.
+
+product/productId: B004EE2UR4
+review/userId: AC5LQDZ8D4XXX
+review/profileName: susie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296345600
+review/summary: green tea dream...easy quick great hot or cold
+review/text: Love it....so quick....I can fix it if I want it hot or if i am in the mood for a cold drink. I do recommend you give it a try....
+
+product/productId: B004EE2UR4
+review/userId: A1FHVEKX1PDM2N
+review/profileName: D. Godi "frogfly"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296086400
+review/summary: Better than Starbucks!
+review/text: I love this stuff! I add sugar and half and half and get a drink that is very much like Starbucks Chai Latte. The price on the product has gone up since I ordered it on Jan. 7th 2011 -- so, I ordered the CS Indian Spice Chai tea bags instead. I put 2 teabags in MY K-Cup and it tastes exactly the same. You get 6 boxes of 20, so that is 60 servings for me (2 bags at a time) for the 13.95 (subscribe and save) these cups used to be. If I want the tea a bit stronger, I will remove the tea bags after brewing from the my k-cup and throw them in my mug. Let is steep a bit longer and it is wonderful!
+
+product/productId: B004EE2UR4
+review/userId: ACHKXS1PNBMMU
+review/profileName: Debbie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296086400
+review/summary: Calming and flavourful
+review/text: I like Indian chai tea and this teas was very flavourful, not too strong easy to work in my new Cuisinart coffee machine.
+
+product/productId: B004EE2UR4
+review/userId: A2865VA8CZJNKX
+review/profileName: Kevin W
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295049600
+review/summary: Celestial Green Tea with White Tea for smooth taste is a win!
+review/text: The BEST green tea I have ever tasted. Extremely smooth and great taste! Tastes better than from a tea bag!
+
+product/productId: B004EE2UR4
+review/userId: A3ECI859GVJ2K
+review/profileName: LisaVA
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293840000
+review/summary: NIcely Spiced
+review/text: This is the only chai brand that i've tried so far but it seems to be very good. nicely spiced. not to strong or weak.
+
+product/productId: B004EE2UR4
+review/userId: AEI9Y1R8F00BN
+review/profileName: S. Goffstein
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1332028800
+review/summary: India spice tea
+review/text: I was thinking this would be a nice break from the normal tea.  However it is a bit too spicy for my taste. Unless you really like the spice chai, I wouldn't recommend this tea.
+
+product/productId: B004EE2UR4
+review/userId: A2QW39KWLVPX9D
+review/profileName: Sheri L. Hasty
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1326067200
+review/summary: Not a latte
+review/text: Be sure when you order this product that you do not want the latte. It was my first order with the K-Cups and I ordered the wrong thing.
+
+product/productId: B004EE2UR4
+review/userId: A2OY1B4GRU1VYY
+review/profileName: Rebecca C Williams
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1301875200
+review/summary: Celestial Chai Tea
+review/text: This tea taste and smells awful and there is no return, be careful before you buy it, try a smaller version of it.
+
+product/productId: B004EE2UR4
+review/userId: A28I19Q54MYXGV
+review/profileName: Buffy
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1313539200
+review/summary: Celestial Seasonings India Spice Chai
+review/text: What I was expecting was a chai tea similar to one I find in popular coffee houses: a spiced tea infused with cream and sugar. This tea smells wonderful but the taste when you are drinking it is very plain to me. Also it is missing the cream and sugar elements so it has none of the flavor and body of a coffee house chai. I've also tried three other chais from Timothy's, Bigelow and Gloria Jean's and had the same reaction to them all during my side by side taste test. The K-cup chais are simply not the same as the coffee house chais. To approximate the coffee house chai you'll need to add your own cream/milk and sugar/honey and give it a little shake.
+
+product/productId: B004EE2UR4
+review/userId: A2ADC9XMNOO6G1
+review/profileName: Ready2Fly
+review/helpfulness: 0/6
+review/score: 1.0
+review/time: 1317945600
+review/summary: expensive and a waste of plastic
+review/text: $15 for 24 servings??  that is crazy, especially that you can get green teas in a box cost a few bucks.  Also, the plastic cups go in landfill.  i will never buy these cups again.
+
+product/productId: B004EE2UR4
+review/userId: A4VMQ6ZTSXSSL
+review/profileName: kiwanissandy "Go Bucks!"
+review/helpfulness: 27/28
+review/score: 5.0
+review/time: 1292457600
+review/summary: Delicious with 5 spice aromas, not full of sugar and cream
+review/text: This India Spice Chai while brewing fills the whole room with wonderful aromas of nutmeg, cinnamon, ginger, and cloves almost like the Chinese 5 spice blend.  There is no added sugar or cream so if you want that go with <a href="http://www.amazon.com/gp/product/B0030GQHXA">Cafe Escapes Chai Latte K-Cups for Keurig Coffee Machines - 16 Pack</a>.  Those k-cups which are delicious as well have the cream that many expect in a chai tea.  This particular brand of Celestial Seasonings is just tea.  You can add what you want after the fact.  I've not had any trouble with the packaging, nor having the tops flop off while brewing.  This is just a nice cup of spiced tea.  It's not peppery and won't offend or be too spicy for most. I really like it and highly recommend.
+
+product/productId: B004EE2UR4
+review/userId: A3JXBZ8F65100O
+review/profileName: Ferdy
+review/helpfulness: 14/14
+review/score: 5.0
+review/time: 1294963200
+review/summary: Converted me to tea over coffee - it's that good
+review/text: Before buying my Keurig brewer, I never really like black tea.  I would drink herbal tea from tme to time but black tea always seemed too bitter.  After trying Celestial Seasonings English Breakfast Tea, I was instantly converted.  There is no bitter taste and it's so much less acidic than coffee and therefore much easier on my stomach.  It has a mild, slightly fruity taste that is perfect with breakfast or really anytime of day.  I've tried it plain and with a bit of milk and sugar as well.  I honestly have become more of a tea drinker than coffee drinker since trying this delicious tea.
+
+product/productId: B004EE2UR4
+review/userId: A1RGNH6GLPV3G9
+review/profileName: Zasu "Kolacky Girl"
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1296000000
+review/summary: One, two, chai, chai, chai!
+review/text: The India Spice Chai is delicious!  I usually buy the Chai Latte (which I love), but decided to try the Chai tea.  This is not a creamy drink like the Chai Latte.  It is a regular tea.  The spice blend is delicious.  The aroma is divine!  Try this, you won't be sorry.
+
+product/productId: B004EE2UR4
+review/userId: A3PU5ECUMTNV9P
+review/profileName: Holly Mardis
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1295049600
+review/summary: Great Flavor
+review/text: I drink this tea nearly every day (sometimes twice) and really like the flavor.  With the health benefits of green tea, and the convenience of the Keurig, I drink more of it now than I used to when I did the wait/brew/wait/brew thing with old fashioned tea.  I highly recommend it.
+
+product/productId: B004EE2UR4
+review/userId: A3JDAHAQHP4ITM
+review/profileName: DogRescue "Di"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1308009600
+review/summary: Yum
+review/text: Yum Yum Yum...  I love Chai Tea and this was closest to Starbucks.  Of course I dress it up with a bit of almond milk.
+
+product/productId: B004EE2UR4
+review/userId: A346O72R8U5VD4
+review/profileName: Pupshine
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1303344000
+review/summary: Excellent tea!
+review/text: I love my Keurig and use it every day, several times a day. My mum was born in England and is VERY particular about the taste of her tea. I got her to try this and she really liked it. I love it! True tea lovers will like this tea. It is the only K cup tea I will drink.
+
+product/productId: B004EE2UR4
+review/userId: A1328E7Y9FJNGP
+review/profileName: M. Dowdie
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1294704000
+review/summary: The best tea I've had
+review/text: I'm not a hot tea connoisseur, but I am a big iced tea drinker and occasional hot tea drinker.  These K-cups makes some of the best tea I've had anywhere and I've started to actually crave it.  I set the brewer for 12 ounces and it makes the tea about the right strength for my taste.  The 8 ounce setting also does fine.  Highly recommended.
+
+product/productId: B004EE2UR4
+review/userId: A23RBNQWX11KWE
+review/profileName: Sherry
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1315267200
+review/summary: Great Tea!!
+review/text: This green tea is delicious. My new diet calls for green tea or coffee only. I am not a coffee drinker and usually drink ice tea. This green tea is perfect hot or cold! I use Stevia and it taste perfect. With the cooler months upon us, this will make a great hot drink to sip on...not to mention the benefits of green tea! Buy it...you won't be disappointed!
+
+product/productId: B004EE2UR4
+review/userId: AINUV6DVXMKEM
+review/profileName: kzoomn "Audiophile"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1313280000
+review/summary: Great substiture for AM coffee.
+review/text: Taste is what it's all about and this tea not only tastes very good but is a welcome change to the morning coffee.  These Green Tea cups (IMHO )provide just the right brewing strength. Another plus is that you don't have to wait for the tea to brew. Using the 10oz setting is just right for me. If you want a stronger brew then use the 8oz setting.
+
+product/productId: B004EE2UR4
+review/userId: AAQ9X4WUQYS7M
+review/profileName: Shan Luc Picard
+review/helpfulness: 21/29
+review/score: 1.0
+review/time: 1302912000
+review/summary: Where's The Cardamon?  Prepare for the Cloveaload!
+review/text: If the only chai you know is from a chai flavored latte at a coffee shop, this might be a good tea for you.  If you have an Indo-Pakistani family like me, the first thing you'll say after tasting this is "this is NOT chai tea."  There isn't even the slightest hint of cardamon in this tea.  As it is, it should be called "spicy clove tea."  This tea is heavily seasoned with cloves--I can't agree with any of the reviews that talk about cinnamon or other spices.  It's just cloves, cloves, and more cloves.  I guess that's what I get for looking for a simple chai-flavored tea. Real chai contains Milk, Sugar, loose black tea, cardamon, and a tiny amount of other spices according to region.  Cardamon and strong tea should be the dominant flavors.  Check the wikipedia article on Masala Chai for the original chai and how the American chai is a just a strange revision.  I'm sure that my fellow sugar-loving Americans would love to have a cup of super-sweet traditional chai, so I don't really understand why the flavor has been changed so drastically.<br /><br />I was hoping to add milk and sugar to this to get a "traditional" Indian Chai, but I'm going to have to try again with another brand.  For all the people out there who know what Indo-Pakistani Chai tastes like, I'll be reviewing each of the "chai" K-Cups according to how they resemble the original.
+
+product/productId: B004EE2UR4
+review/userId: A25D1XYXD8LGTB
+review/profileName: Keith M. Heston
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1328486400
+review/summary: Great for regular chai or latte
+review/text: I love this chai, and it makes a much better chai latte than I've tried in any k-cup before.  To be clear, this doesn't come with powdered milk or cream, so you have to add your own cream in order to make it a latte.<br /><br />I have disliked all of the pre-mixed latte k-cups I've tried because of a combination of artificial sweatener (which they all seem to insist on adding) and the powdered creamer (which is worse than fresh).  I add my own sugar and cream to this chai, and it is delicious!<br /><br />When I tried this without cream and sugar, it tasted slightly heavy on the clove.  With the cream and sugar, though, I don't have any complaints.
+
+product/productId: B004EE2UR4
+review/userId: A2TDB2RRNMIE
+review/profileName: A12345
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1327622400
+review/summary: Hate this :(
+review/text: I love Chai Tea.  I don't even put sugar or honey in my Chai Tea.  This was just not right.  Tasted burnt out of the keurig and the cloves are overpowering.  No amount of honey and milk could make this right for me.  I am suffering through my 24-pack and may just throw it out.  Very disappointing.  I've had this brand/flavor in the bags before (although not recently) and liked it just fine.  Even bought it multiple times.  Not sure what is not working right with the k-cup formula.
+
+product/productId: B004EE2UR4
+review/userId: A43KIRU0JUW64
+review/profileName: Liltink
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1320624000
+review/summary: Great Tea!
+review/text: Just received my new coffee maker as a gift. One of the sample K-Cups was this black tea. I set it at 8 ounces.It was so delicious, with a bit of sugar and a bit of cream. I love Red Label English Breakfast Tea and this was as good or even better. Do not be afraid of this tea, you will not regret it. No bitter bite from over processing, just yummmmmmmmm!
+
+product/productId: B004EE2UR4
+review/userId: A2YD2OOVCPXU0N
+review/profileName: M.S.G
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1302998400
+review/summary: Great tea
+review/text: I prefer tea that is not steeped too long. This tea is the closest I have found to the way I would make it myself. I run it through the Keurig twice, once at 10oz and once at 12 oz and it comes out exactly the way I like it. You may not prefer as weak a tea, but that can be solved by running it through only once.  It has a clean, refreshing flavor.
+
+product/productId: B004EE2UR4
+review/userId: A1822NRXOYYHDH
+review/profileName: AJLMD13
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1298937600
+review/summary: Best Breakfast Tea
+review/text: I drink this every morning with a tablespoon of sugar. Great tea with just the right amount of caffeine to survive the long, early mornings. Strongly recommend.
+
+product/productId: B004EE2UR4
+review/userId: ADRQUBG5JSAQ3
+review/profileName: G Elizabeth
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295913600
+review/summary: Best Cup of Tea!!
+review/text: I received a Keurig machine for Christmas, so I purchased this tea yet I wasn't expecting much. Well I found that this makes the BEST CUP OF TEA!! I have to pace myself because I could just drink cup after cup it is that good!!
+
+product/productId: B004EE2UR4
+review/userId: A2A774EV8O7DP6
+review/profileName: Kit
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329696000
+review/summary: Tea Time
+review/text: This black tea is delicious and I have found that reusing the cup doesn't affect the flavor until the 4th or 5th cup.
+
+product/productId: B004EE2UR4
+review/userId: A1ZJKSL026HG44
+review/profileName: gcet
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320451200
+review/summary: taste great!
+review/text: I love this tea! My wife is usually the big tea drinker in the house but after trying this in my Keurig I have to say I LOVE it. I didn't purchase through amazon though because I got the same amount 24 in a box for only 9.99 elsewhere but I would recommend it to anyone.
+
+product/productId: B004EE2UR4
+review/userId: A3FON5KASMUGQU
+review/profileName: Carrien
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1318550400
+review/summary: Weak Flavor
+review/text: I love k-cups. They're pretty cool, and I like the idea of them, but I don't like sacrificing the flavor just for the sake of a cup. The tea tastes very watered down for some reason. And I am a tea drinker who doesn't add sugar/honey because I enjoy the natural sweetening properties in the actual herbs. But this herbal tea is missing something, especially with a name like 'Authentic Green Tea'. It's pretty disappointing for the price of these things, but I'll continue to drink it until I run out.
+
+product/productId: B004EE2UR4
+review/userId: A3AZI828WJN1CD
+review/profileName: Becky (beckygardens)
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314230400
+review/summary: satisfying hot or cold
+review/text: <span class="tiny"> Length:: 2:06 Mins<br /><br /></span>Celestial Seasonings english breakfast black tea is delicious both hot or as iced tea. The tea has a faint perfume but not overwhelming. I like different teas but find this one to be the best for hot and cold. I love that I can control the strength of the tea. Hot I prefer the medium button, cold, I use the largest cup button. Either way I get a perfect serving of tea.
+
+product/productId: B004EE2UR4
+review/userId: A1DATIMUDRJMHG
+review/profileName: Allan J. Lueb "Benzmeister"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314057600
+review/summary: Great Tea
+review/text: Great tea and a great bargain if you own a K cup machine. Buy your coffee or tea at Amazon. The prices are great and the service is great. Ordering from Amazon direct is seamless.
+
+product/productId: B004EE2UR4
+review/userId: A1O0BC2ICH790B
+review/profileName: jan64
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305936000
+review/summary: Good Black Tea
+review/text: This is my favorite tea for the Keurig brewer.  I do not like, and therefore don't drink, flavored tea.  This is the tea I prefer.  I have not been able to get in stores lately so I ordered online.
+
+product/productId: B004EE2UR4
+review/userId: ANBAQTL0OSUH8
+review/profileName: aemesko
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305849600
+review/summary: Tea
+review/text: I use this tea as an ice tea instead of a breakfast tea. It is really refreshing and allows me to make one cup of ice tea at a time. If you find it a little strong you can add more ice or ice water.
+
+product/productId: B004EE2UR4
+review/userId: A35O6E0BRVODE4
+review/profileName: Good_Times "southshoresales"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301788800
+review/summary: Just Plain Good!
+review/text: I love this tea...and I am not really a tea person, but this is a great drink and it is a very tasty treat.
+
+product/productId: B004EE2UR4
+review/userId: ATJZ9T302O5BY
+review/profileName: S. Hokanson
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1296259200
+review/summary: A little weak at the 12 oz mug, but still tasty
+review/text: I use the Keurig Platinum (B70) brewer and the 12 oz. brew size. This K-Cup is a little weak at the 12 oz. size, but still enjoyable, as I usually make it a latte. For comparison, a Tazo Chai tea bag makes a slightly stronger cup at 12 oz than the Celestial Seasonings K-Cup. Compared to Timothy's Chai K-Cup, Celestial's Chai is stronger (which I prefer).
+
+product/productId: B004EE2UR4
+review/userId: A3BT4F3XHBJZG9
+review/profileName: sammi
+review/helpfulness: 6/9
+review/score: 3.0
+review/time: 1294617600
+review/summary: Disappointed!
+review/text: Wanted to sample the K-cups. Previously a "tea bag" user for the same product.  Will stick with the tea bags, as the tea is not only more fragrant, but extremely flavorful. Will not purchase K-cups again.
+
+product/productId: B004EE2UR4
+review/userId: A12A5Q07EQK6LV
+review/profileName: Paula Ali "pfali18"
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1294444800
+review/summary: Indian Spice Chai
+review/text: This is a very nice chai...doesn't taste like I thought it would..has a very strong spice taste..but still very good.
+
+product/productId: B004EE2UR4
+review/userId: ANSYUEKO8HBEP
+review/profileName: ann
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350691200
+review/summary: great tea
+review/text: this tea is wonderfully spicy.  great on a cold afternoon! It would also be lovely with milk, but I prefer it plain.
+
+product/productId: B004EE2UR4
+review/userId: AAHXOL19ZCUCV
+review/profileName: matt615
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1348963200
+review/summary: licorice taste, twinings chai is much better
+review/text: I am really disappointed in this chai tea. It has a distinct licorice taste. Twinings chai tea is much better. Do not buy unless you like a licorice taste.
+
+product/productId: B004EE2UR4
+review/userId: A8F54GUQ9FYXW
+review/profileName: Bailey
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347753600
+review/summary: Celestial Chia Tea
+review/text: This Tea is really good. It comes in an easy to use container.  Its not very sweet so if you want your tea really sweet you may need to add something. Good produxt.
+
+product/productId: B004EE2UR4
+review/userId: A3NJ4SD5RU68ZB
+review/profileName: mrmrsstone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: I love Chai tea
+review/text: This is very good and makes the house smell wonderful.  I would defintely recommend this to anyone just wanting a quick tea.
+
+product/productId: B004EE2UR4
+review/userId: A2RPVNS6D37TRJ
+review/profileName: N. Bunch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343692800
+review/summary: Favorite K Cup Overall
+review/text: This is my favorite K Cup overall!  I love the flavor the the tea and it brews just right on the medium setting.
+
+product/productId: B004EE2UR4
+review/userId: A2OOKDH2AZVSK1
+review/profileName: TK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342742400
+review/summary: Celestial India spice chai tea k-cups
+review/text: I brew this in a keurig 60 model, i like this tea, its good any time of the year. It is on the spicy side and will leave your pallet with a spicy after taste. But oh so good late at night. Good tea for every once in a while, i could not drink this every day as is a little on the strong side.
+
+product/productId: B004EE2UR4
+review/userId: A9HYYVUHOO3JY
+review/profileName: pamie884
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341964800
+review/summary: My favorite tea!
+review/text: This tea is the reason why I bought a Keurig. It's my absolute favorite. I make a cup each morning to take with me to work (anyone who works a 9-5 needs a pick me up!). I usually re-order two boxes every couple of months, and my package always arrives quickly. I'll be buying these k-cups as long as they're available!
+
+product/productId: B004EE2UR4
+review/userId: A1NMKHIFGUZSMM
+review/profileName: susan katz
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338595200
+review/summary: Great Cup of Chai
+review/text: This is the best Chai I have found for my Keurig. It is not overly sweet like another kind I tried. It smells and tastes wonderful. Great on a cold night!
+
+product/productId: B004EE2UR4
+review/userId: A2VK4DKHGB63TA
+review/profileName: A. You "Genius"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1338422400
+review/summary: Not good
+review/text: This is not even tea, it is not even as good as dipping a tea bag in the cup once. It's You'll be drinking hot water with sugar and honey.
+
+product/productId: B004EE2UR4
+review/userId: A121VLJBL8T0H1
+review/profileName: David Rupert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337817600
+review/summary: My wife loves this stuff
+review/text: I get this for my wife who really loves it.  I am not a tea drinker, other than ice tea.
+
+product/productId: B004EE2UR4
+review/userId: A2LP9A8HM75PLX
+review/profileName: sad1969
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337212800
+review/summary: Good Tea
+review/text: This is a good Strong Tea. The Flavor is a nice blend not to strong and not weak. Smells great when brewing. You can add milk or drink it plain.
+
+product/productId: B004EE2UR4
+review/userId: A1TAARTDC411Q0
+review/profileName: J. Seaman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: Tastes great!
+review/text: Great tea for the Keurig.  We love it!  Now for a good cocoa and apple cider.(Don't get the Green Mountain cider)
+
+product/productId: B004EE2UR4
+review/userId: A37YMAHD0N8V7D
+review/profileName: Shan
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1336262400
+review/summary: Very weak taste.....
+review/text: I have purchased the Celestial Seasonings Chai Tea tea bags in the grocery store, and was impressed with the flavor. So when I saw they had them in the K-cups, I immediately jumped on them and ordered a box. I was so disappointed in it. It tastes nothing like their regular tea bag version. Weak is a word I would use. And I'm not sure what kind of spices they put it in, but it's nothing like any other chai tea I've had. I do not recommend this brand. If you're a regular chai drinker, you will notice the difference and likely be disappointed.
+
+product/productId: B004EE2UR4
+review/userId: A1R7VITEGDYSS8
+review/profileName: Clockmilk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: Potent!
+review/text: This stuff is surprisingly strong and potent. I've always had a problem with chai tea bags because they brew such a dilute cup of tea. But with the Celestial Seasonings Keurig chai, the tea is dark and opaque. I got a huge buzz off of the caffeine. Best of all, it's pure tea and spices, unlike the Cafe Escapes Chai Latte, which is full of artificial ingredients.
+
+product/productId: B004EE2UR4
+review/userId: A2OQYZAI8U63Q5
+review/profileName: Reuben J Trane Jr
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335657600
+review/summary: Clove flavor?
+review/text: I like the tea - but I noticed both an aroma and flavor of clove? I don't think this is ONLY green tea. That being said, I like it and most likely will reorder.
+
+product/productId: B004EE2UR4
+review/userId: ALA8CJBT9WBY0
+review/profileName: LKH
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335052800
+review/summary: Couldn't even finish one cup
+review/text: I'm an avid chai drinker--many different varieties of both lattes and straight black tea.  We purchased this product because we noticed that the Cafe Escapes chai lattes--a sweeter, creamier blend--did not actually have much black tea in it, and we still wanted our morning caffeine.  Neither my husband nor I could finish one mug of this stuff, and we will end up getting rid of the box.  It was that awful. There was none of the subtle spice blending--just a watery slightly clove-tasting flavor undercut by a bitterness that almost had hints of coffee. Adding a little milk, as we usually do, didn't help at all.  If you enjoy chai, I'd recommend Bigalow or Tazo and skip this one.
+
+product/productId: B004EE2UR4
+review/userId: A2QJP6HLE0UEN3
+review/profileName: Stuart Johnston
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1334880000
+review/summary: Not strong enough
+review/text: Smells nice but the flavor is weak.  I don't think the Keurig brewers really work for tea.  Good tea needs to be steeped, not just filtered like coffee.
+
+product/productId: B004EE2UR4
+review/userId: A2G9WUKXATNTUY
+review/profileName: Cheminsite
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1334793600
+review/summary: Cloves Overpowering
+review/text: There is a very strong clove flavor in this tea. I like my tea black and did not enjoy it very much. My friend from work added cream and sugar to it and thought it was great.
+
+product/productId: B004EE2UR4
+review/userId: AGMAH717O145R
+review/profileName: awaykate
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334793600
+review/summary: Yummy Tea
+review/text: I usually order Twinings tea, but I thought I'd try something different. This Celestial Seasonings version of English Breakfast is very good, and I will make it part of my usual rotation.
+
+product/productId: B004EE2UR4
+review/userId: A2P20L29ITG5Y0
+review/profileName: Silvergriffin "silvergriffin"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334448000
+review/summary: Best Variety
+review/text: I've tried several brands of black tea and I liked this one the most because I liked the taste of it:<br />A) plain<br />B) with sugar<br />C) with lemon - iced or hot<br />D) cream<br />The others I tried had a slight (to me) floral taste that didn't mix well with cream or lemon.
+
+product/productId: B004EE2UR4
+review/userId: A16KZQQXHQHSV1
+review/profileName: JJRider
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334361600
+review/summary: The best that I've tried of the K-Cup tea offerings
+review/text: I've been drinking tea for years mostly for health reasons.  We recently bought a Keurig so I tried this black tea with our new brewer.  It had a nice full body taste and I found it had a better taste than the green tea varities I tried.
+
+product/productId: B004EE2UR4
+review/userId: A2I5KDNOESGJ1H
+review/profileName: TJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334016000
+review/summary: OMG!
+review/text: THIS IS SO GOOD!  I've had it hot and iced and am in love!  The chai flavor isn't overpowering, but you certainly know you are drinking a spiced tea!  I will definitely reorder!
+
+product/productId: B004EE2UR4
+review/userId: AWOBBSEOX40W
+review/profileName: John McGuire
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332115200
+review/summary: Very Good Iced tea too
+review/text: I did not like any of the brew over iced tea flavors so i tried this and love it.  Would definately recommend for iced or hot tea.
+
+product/productId: B004EE2UR4
+review/userId: A24ANAR5QTRBOO
+review/profileName: GoldDove
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331856000
+review/summary: Delicious tea
+review/text: I have always wanted to try brewing real English tea. I bought these for my Keurig, and they were so, so much better than my normal tea bags.  They may not be as good as real, brewed tea, but I think they're delicious.
+
+product/productId: B004EE2UR4
+review/userId: AXLTH6CGGHG6W
+review/profileName: Siannon
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331769600
+review/summary: Chai tea
+review/text: This tea has a bitter taste that I didn't like.  I am fond of the Gloria Jeans chai tea that Amazon has been out of for a LONG time and will wait for that before trying anything else
+
+product/productId: B004EE2UR4
+review/userId: A3IMAAM7H6E1GG
+review/profileName: Lesley G
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331251200
+review/summary: Great English tea for Keurig coffee maker
+review/text: I bought the Keurig coffee make to make coffee for guests but I now primarily use it to enjoy hot tea for myself.  This brand of tea is just to my liking and the price was reasonable with no shipping charges.  Win-win.
+
+product/productId: B004EE2UR4
+review/userId: A2VO4JXWVV6LFI
+review/profileName: Cathy Curry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330992000
+review/summary: Celestial Seasonings Breakfast Tea
+review/text: Great flavor, no bitterness and a wonderful way to start the day!<br />Have purchased additional packages of this product since first tasting it when I purchased my Kuerig coffee maker.
+
+product/productId: B004EE2UR4
+review/userId: A11ITQ9IGDMQ27
+review/profileName: Elaine Echols
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330992000
+review/summary: great tea
+review/text: <a href="http://www.amazon.com/gp/product/B004777F3M">Celestial Seasonings  English Breakfast Black Tea, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count</a><br />This tea has a great, smooth flavor. Even my husband, who is not a tea drinker, enjoys a cup of this.
+
+product/productId: B004EE2UR4
+review/userId: A17Q3DS3CAP3JN
+review/profileName: Sarah A. Primeau "Sarah"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1330387200
+review/summary: Not my favorite...
+review/text: This tea is fine, but not a chai favorite for me.  I don't think that I would purchase it again, but I will finish up the box.
+
+product/productId: B004EE2UR4
+review/userId: A2XCZ6MUJDZJU7
+review/profileName: ComplaintKing
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1330300800
+review/summary: Lacks flavor and taste of Green Tea
+review/text: I recently purchased this hoping it would be good. I love Green Tea and enjoy trying different varieties. I was not too thrilled with this kind. It lacked flavor, was plain and just didn't have a strong green tea taste. I'd rather spend a little more for something that tastes more like green tea.
+
+product/productId: B004EE2UR4
+review/userId: A17SI29DNSK3HQ
+review/profileName: Audra in WI
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330300800
+review/summary: Great aroma, Great taste!
+review/text: The India Spice Chai is a great tea.  I've tried a lot of different brands of Chai and hadn't found any until this one that compared to the kind I made with the actual spices in a pan.  I normally add a little milk and brown sugar to it after it's brewed, but it's very good tasting alone as well.
+
+product/productId: B004EE2UR4
+review/userId: A3I6NNDNKM1IT1
+review/profileName: Logan
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1330041600
+review/summary: Just OK
+review/text: I bought these mainly for my husband to take to work in the morning, he usually uses actual teabags. So these were going to be the easy solution. However they were not as good as the actual teabags we have. Just wasn't his "cup of tea"
+
+product/productId: B004EE2UR4
+review/userId: A1YS7LL44O3XNR
+review/profileName: Jon & Taylor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329264000
+review/summary: Great tasting green tea!
+review/text: I stumbled upon Celestial Seasonings Green Tea k-cups at my workplace, and since have fallen in love.  For a nice, quick cup of green tea, I haven't found any better solution.  I have fancier or more old fashioned tea brewing methods that I use when I have more time, but I default to this green tea when I need a quick fix.<br /><br />Now about the tea specifically - I have tried other green tea k-cups (competing brands), and none have been as clean-tasting and crisp as Celestial Seasonings.  I will continue to purchase this brand for my green tea needs.
+
+product/productId: B004EE2UR4
+review/userId: A1P6HTMYCE8U76
+review/profileName: Florence Maruyama
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: K-cup Celestial Seasonings green tea
+review/text: The Celestial Seasonings authentic green tea k-cup is very good.  One K-cup makes adequate flavor of 9.25 oz. of hot tea.  Most of the k-cup assorted coffee produces light, watery coffee at 7.25 oz., but this green tea has  good color and taste even at the max. 9.25 oz.  I would recommend this green tea k-cup.
+
+product/productId: B004EE2UR4
+review/userId: A1UAA9C5PQW496
+review/profileName: Jineen
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328227200
+review/summary: Delicious
+review/text: I enjoy chai tea very much and my partner drinks only tea, no coffee. So when we purchased our Keurig, we wanted to try several varieties of chai to find the perfect one. I shopped on amazon and bought several types with  reviews, cost, recognizable brand and speed of shipping being accounting factors ( in that order).<br /><br />Pros: Quick delivery<br />  The description is accurate and you get exactly what is advertised<br />  Known brand<br />  Fresh<br />  The price is moderate<br /><br />Cons: I mention price here again because it is cheaper in other forms ( tea bags)<br /><br />I prefer a non milk based Chai and so this was the ideal for me. I added sugar some days and drank it plain others and both were satsifying. My partner and I both enjoyed it above all the other flavors and I will reccomend and share with friends and family. I will continue to shop and attempt to find a better price, but would pay this again because it is worth it.
+
+product/productId: B004EE2UR4
+review/userId: A3S9V8OLQENVK8
+review/profileName: readingaway
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1327363200
+review/summary: Like Green Water
+review/text: I tried this because I can't seem to find the Gloria Jean Serenity Tea which I liked very much.  The Celestial Seasonings was very very bland.  I even tried it on the smallest cup, and it made no difference.  There is no authentic flavor here.  I was brought up drinking green tea.  I especially like the Yama Moto brand green tea, but wanted something quick and easy in a k-cup. I like the Celestial Seasonings Mandarin Spice so I thought I would try the green tea.  I realize that coffee and tea are a personal preference.  For me, this green tea missed the mark completely.
+
+product/productId: B004EE2UR4
+review/userId: A2X7JD68GFS2ZF
+review/profileName: dodgeballs
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: Tasty!
+review/text: Great Keurig tea pods.  This is not chai latte, so don't expect white milky beverages.  This is just tea flavored with chai spices.  I suppose if you add hot milk you could make a decent chai latte though, but I haven't tried it yet.  Very bright flavors, but not overpowering.
+
+product/productId: B004EE2UR4
+review/userId: AV0SKM1SJ40IB
+review/profileName: kimmer65
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326326400
+review/summary: A great plain tea
+review/text: I have been looking for just a pain black tea with no flavors.  I finally found it.  I think it is my favorite tea. Not crazy about the flavored teas.  I use it for both iced tea and hot tea.
+
+product/productId: B004EE2UR4
+review/userId: A1YJYGAYY3UP37
+review/profileName: cany58
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325894400
+review/summary: Great Tea
+review/text: This is a great tea. Very smooth. I don't even use sweetener with it, but it isn't bitter at all. If you like tea, you will love this one.
+
+product/productId: B004EE2UR4
+review/userId: A15V4VI663JO58
+review/profileName: Lynne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324339200
+review/summary: black english tea
+review/text: Excellent tea and very enjoyable after a long day at the office.  also great on cold winter days and some R&R while crafting.
+
+product/productId: B004EE2UR4
+review/userId: AUOB0J10F5ULB
+review/profileName: Holly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323561600
+review/summary: tea
+review/text: this tea was very good,love it and would buy this product again soon. this is my all time favorite of all teas.
+
+product/productId: B004EE2UR4
+review/userId: A1QWC52UKP8VWA
+review/profileName: Gina S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323475200
+review/summary: Love, Love Celestial Seasonings English Breakfast Black Tea K-Cups
+review/text: I can not express how much I looove the Celestial Seasoning English Breakfast Tea K-Cups!!!  When I purchased my Keurig, I was drinking Bigelow's English Breafast tea bags which I opened and used in the My K-Cup.  I had a rebate deal that sent me 2 boxes of the Celestial Seasoning tea K-Cups and I've been hooked ever since!<br /><br />The Celestial Seasonings is much smoother than the Bigelow.  I hadn't realized how bitter the Bigelow was, I can't drink it any longer!!  I'm a purest when it comes to my black tea, I don't like too many other flavors superseding the tea.<br /><br />I wish I could get this in tea bags too (to carry in my purse when at restaurants, at friends houses and what not)!<br /><br />The Celestial Seasonings English Breakfast is just an super-enjoyable cup of tea!
+
+product/productId: B004EE2UR4
+review/userId: A3H42N22EVT84F
+review/profileName: Katie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1322956800
+review/summary: Taste
+review/text: The taste is alright.  I love vanilla chai tea and I thought I would try this.  I added a lot of cream to it after it brewed and then it was more to my liking.  Next time I'm considering adding a drop of vanilla extract, I have a feeling that will do the trick.
+
+product/productId: B004EE2UR4
+review/userId: A2388CJCMIF1MC
+review/profileName: Rooks
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1322870400
+review/summary: A little disappointed
+review/text: I was disappointed when I drank my first k cup ice tea.  I love iced tea, however I do not like lemon in my tea at all - I just want the taste of the tea leaves.  The Celestial English Breakfast Black Tea has a lemon flavoring added.  Ugh ... I was really hopeful I could brew a glass of ice tea with my Keurig.  It is not bad tasting at all - it is just not what I prefer.
+
+product/productId: B004EE2UR4
+review/userId: A3P92HTAJM8J9P
+review/profileName: diane
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322438400
+review/summary: great black tea
+review/text: I really like his tea because it is mild and has a great taste and it taste good hot or cold. also you can brew the cup for 2 cups if you want
+
+product/productId: B004EE2UR4
+review/userId: A2U5SNFKB8Q9WS
+review/profileName: Musi-cali "vhope00"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: K cup green tea
+review/text: Product was as described. The green tea flavor is okay, it can be a bit strong unless you prefer stronger flavors. I would purchase it again.
+
+product/productId: B004EE2UR4
+review/userId: A2QTQYRPKJFY3P
+review/profileName: Margaret Cullum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Great Tea
+review/text: This is a full bodied English Breakfast Tea. It is the one I drink when I don't need to drink a decaf tea. It is the best !!!
+
+product/productId: B004EE2UR4
+review/userId: A2NY9ISFZGYN0I
+review/profileName: Cindy W. Mitchell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321488000
+review/summary: Perfect Cup of Tea (Hot or Cold)
+review/text: This is the best tea I have ever tasted at home.  The flavors are blended perfectly.  I like to fill a cup with ice then do a quick brew with the Keurig Machine.  No need to add sugar or cream.  I just wish I could find a comparable decaf so I could have an excellent nighttime cup of tea before sleeping.
+
+product/productId: B004EE2UR4
+review/userId: AUX7CXABOM8S4
+review/profileName: PJsMommy21
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321228800
+review/summary: Delicious Tea!
+review/text: This tea tastes amazing!  It is not too strong or too weak.  It has great flavor, it it smells divine!
+
+product/productId: B004EE2UR4
+review/userId: AXQ43KVNU6TVN
+review/profileName: Sheila Jindela "Musical lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319932800
+review/summary: Yum in  a cup
+review/text: K Cups over all are a little pricey compared to just buying the regular product, I know! But the machine you use to make it ain't exactly cheap either! Having said that... this cup of Green Tea comes out perfect and yummy every time!<br />Waiting for Celestial Seasonings to make more of my favorite flavors of tea in K-Cups!
+
+product/productId: B004EE2UR4
+review/userId: A2G1E1VLX7DVNN
+review/profileName: Jan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318723200
+review/summary: Great product
+review/text: I recently bought a Keurig Coffee maker because my husband and I love our coffee and tea, but sometimes want different drinks on certain days and this coffee maker fit the bill. We both enjoy this Green Tea. Likely the best of teas that I have tried so far. They arrived sooner than expected and arrived as described. Happy with the service and the product.
+
+product/productId: B004EE2UR4
+review/userId: A1Z6C3MALXO6Y0
+review/profileName: P. Teague
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318723200
+review/summary: Tastes great, good price and fast service
+review/text: This tea has a good flavor--not too strong or too weak. It isn't as great as say a fresh looseleaf but is comparable to Twinnings' Eng Breakfast.
+
+product/productId: B004EE2UR4
+review/userId: A32FZ88E8H6XH0
+review/profileName: Alisha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318032000
+review/summary: Great flavor!
+review/text: I am not normally a hot tea drinker, but my Keurig makes it easy to experiment and try new things. This tea tastes great hot or cold so it has become my favorite tea.  It has a great taste and no bitterness that some black teas have.  Plus, I prefer to sweeten my own tea instead of having it presweetened for me.
+
+product/productId: B004EE2UR4
+review/userId: AK3GRS3UORU7
+review/profileName: Karen "Karen"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316390400
+review/summary: Received quickly
+review/text: Received it quickly.  Box my Tea K-cups came in were the universal boxes for all Teas with the label of the correct "Flavor".  At first, I thought I had received the wrong item.  It had pictures of fruit & flowers and I had just order Black Tea.  Packaging not the same.  Only "complaint" was box, but the correct product was received.
+
+product/productId: B004EE2UR4
+review/userId: A2S728U0V6CZET
+review/profileName: Justin Brinkley "Giant"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315699200
+review/summary: This tea is amazing.
+review/text: I'm more of a tea drinker than coffee. I am sick and needed some hot tea so my wife bought these English Breakfast Tea K-Cups for me while she was at the store. I had only used the Keurig for coffee so I was a bit skeptical. This tea is amazing. I am going to keep it stocked in my pantry from now on.
+
+product/productId: B004EE2UR4
+review/userId: A7KGA5VT9RO92
+review/profileName: HGH2
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315094400
+review/summary: CS English Breakfast Black Tea
+review/text: This is a tasty tea that can be enjoyed at anytime, not just for breakfast.  it has good flavor and fresh brewed aroma.
+
+product/productId: B004EE2UR4
+review/userId: A3GXEGQ3TIXI85
+review/profileName: LKG
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1312329600
+review/summary: Pretty good!
+review/text: A little fishy tasting but I'm hoping for the health benefits of green tea and it is enjoyable for a good summer drink.
+
+product/productId: B004EE2UR4
+review/userId: A1E3Q5AGQZV3JS
+review/profileName: Theresa Houghton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311811200
+review/summary: Delicious
+review/text: We got this as a sample in our new keurig elite. I plan on buying many more! Even my 6 year old likes drinking this with me. If you like tea, you can't go wrong with this!
+
+product/productId: B004EE2UR4
+review/userId: A1TSJR1YF6ORC0
+review/profileName: V. R. Heck
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311552000
+review/summary: YUMMY!!!
+review/text: This tea is GREAT!!!  Hot it is great morning treat! Just add ice, lemon and lime slices and makes a REFRESHING SUMMERTIME drink!!
+
+product/productId: B004EE2UR4
+review/userId: A1M06P792LJJ8B
+review/profileName: D. Rebisz "Desert_Witch"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310860800
+review/summary: Wonderful hot or cold!
+review/text: This is my favorite of the K-Cup Chai recipes. The spices are balanced though fairly strong allowing this tea to hold up well with the additions of honey (or sugar) and milk. It's wonderful served hot or cold. For the cold version, add your honey (or sugar) and milk, stir, and then pour over ice. When doing the iced version, I find it works best brewed on the 6oz size and then poured over ice in a 24oz glass. I prefer this to the Chai Latte K-Cups because I can control the amount of sweetener and milk.
+
+product/productId: B004EE2UR4
+review/userId: A2PDNBEIQYRCT2
+review/profileName: lmac60
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1309996800
+review/summary: Good Tea!
+review/text: Great flavor.  Just enough spice.  A love Chai Tea Latte flavor also, but this is nice when you feel like something lighter.  I will purchase more!
+
+product/productId: B004EE2UR4
+review/userId: A13HYBGVJNMCE7
+review/profileName: Larry in Phoenix
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308614400
+review/summary: Makes Great Iced Tea
+review/text: We use this tea in the Kourig to make iced tea.  Just brew, then pour over a full cup of ice.  Easy, convenient and delicious.
+
+product/productId: B004EE2UR4
+review/userId: ASA1DQFTDHTRL
+review/profileName: AfricaJack Miller
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1308441600
+review/summary: not the best chai tea I've tasted
+review/text: This India spice chai tea wasn't my favorite purchase. In fact, I am thinking I would relist the unused teas in the container and get rid of it. Hopefully someone out there loves it. It's almost a new box.
+
+product/productId: B0064KLL1C
+review/userId: AJ8VRSZLZMR1S
+review/profileName: A. Nichols "POOKIE"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1335398400
+review/summary: NOT MEGA
+review/text: THESES SO CALLED MEGA SIZE SMARTIES ARE THE SAME AS THE GIANT SIZE AND THE GIANT SIZE SELLS FOR LESS. I HAVE HAD SMARTIES WAY LARGER THAN THIS. DISAPPOINTED, DON'T BE FOOLED BUT THEY DO TASTE GREAT. THE MEGA IS IN THE LENGTH OF THE ROLL NOT THE SIZE OF THE CANDY, THE CANDY IS LARGE
+
+product/productId: B001874C30
+review/userId: AFEAFG0U1L2OX
+review/profileName: Jen "Jen"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1237507200
+review/summary: Great Soup Fast SHipping
+review/text: I lost a lot of weight a few years ago and have been able to keep it off so when Walmart quit handling this soup I was upset. I eat a can of this soup - Healthy Choice Chicken & Rice everyday ,so being able to get online and order through auto ship with Amazon.com is great. It always ships very quickly and with the email updates I know when it is going to be here. THANKS!
+
+product/productId: B001874C30
+review/userId: A2Q7GPAKVFRSUP
+review/profileName: shiprocks "Bill"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325203200
+review/summary: neat soup
+review/text: I seem to like soup a lot.  This one is "lower sodium" and cheaper than in store price.  But if you eat the whole can, you still get about 900 mg.<br />Make your own and freeze it.
+
+product/productId: B001874C30
+review/userId: A1M0Z6CXK0D0VJ
+review/profileName: J. Hack "Bridge Player"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1323302400
+review/summary: Dented Cans
+review/text: We received 12 cans.  Four cans were dented beyond belief.  One was actually smashed.  4 cans were barely acceptable even though they were dented.  The other 4 were okay.  I considered returning the cans to Amazon but what would they do with them and repackaging would be a lot of trouble so I donated the dented cans to a food bank.<br /><br />Amazon offers a microwaveable bowl in a 14 oz. size.  We've ordered that before and it was much better.  I wil never order soup in the can from Amazon again.
+
+product/productId: B001874C30
+review/userId: A15I11X7RV83C2
+review/profileName: John
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1315958400
+review/summary: Damaged Goods
+review/text: Gentlemen,<br />I enjoy doing business with Amazon very much, but something is very wrong with the Healthy Choice<br />Chicken- Rice Soup, especially at $32.89/12 pack. Several of my orders have arrived in a neatly packed<br />box,that when opened looked as though the cans had been in a train wreck,or major hurricane. Cans were<br />not leaking, but were dirty or dented badly, and very difficult to open. The taste was not as good in<br />several instances also.<br />Gentlemen you are selling damaged goods, and I am certain that you will fix this one very soon.<br />You are still number 1, but please fix the soup.<br /><br />John from FL
+
+product/productId: B001874C30
+review/userId: AK3KJATZRVPI0
+review/profileName: hhuerta
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314230400
+review/summary: Awesome
+review/text: It came super quick and with no damages. This is the second time I order these soups and I plan on ordering regularly.
+
+product/productId: B001874C30
+review/userId: A3NEAETOSXDBOM
+review/profileName: Stephen M. Charme
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299456000
+review/summary: Very tasty soup
+review/text: This is a low sodium low fat soup that uses good quality chicken and is very tasty. The rice is just the right consistency and is not mushy. I eat this soup all winter long.<br /><br />Shop for price. I buy this as part of a 10 pack (5 chicken noodle, 5 chicken rice) at my local Costco for ten dollars.
+
+product/productId: B004724HJM
+review/userId: A3X7SLF7BEMX9
+review/profileName: Teriba
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1338163200
+review/summary: Delicious and rasonably priced
+review/text: I grew up in Minnesota, and Wild Rice was a special dish in our home, served on Holidays and special occasions. I've lived in Hawaii now for 30 years, and can never find except for mixed blends, that don't have even a quarter cup wild rice. So I've been limited to visitors bringing me a bag here and there. Thanks to Amazons FREE shipping and most reasonable pricing, I am now going to enjoy Gourmet Wild rice on a regular basis. Much healthier then white rice. Slow release carb.
+
+product/productId: B004724HJM
+review/userId: A1V3BQFRKW9B8L
+review/profileName: bakermom
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332979200
+review/summary: husband happy
+review/text: husband would eat wild rice at every meal. this is a great deal on larger quantity. would purchase again.highly recommend.
+
+product/productId: B004724HJM
+review/userId: A7EK88GF8N40F
+review/profileName: Nicole S. Urdang
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329868800
+review/summary: Excellent
+review/text: This rice cooks up perfectly in my small Aroma rice cooker, which I also bought on Amazon. Two great products, and both at a good price.
+
+product/productId: B004724HJM
+review/userId: A1DRTI2OOC62L9
+review/profileName: R. Roesler "TropicBob"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344124800
+review/summary: Tastes Fine
+review/text: Rice arrived quickly and price was good. It tastes fine but did take over an hour before ready. I will buy again.
+
+product/productId: B004724HJM
+review/userId: A2ZIF718W4OWSF
+review/profileName: Angela Asbury "crimsontoll"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: YUM
+review/text: Quality wild rice at a reasonable price (not easy to find!).  I recommend buying this product and will likely purchase it again.
+
+product/productId: B000SSNJZW
+review/userId: A3KMEIWMPBJ9HM
+review/profileName: Bernadene Whitten
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1278720000
+review/summary: cooling effect in hot weather
+review/text: Chrysanthemum has been used in Chinese medicine for many centuries for its cooling effect, especially in fevers.  I found that this has as much cooling effect to help ones body to acclimate to the temperature around them, creating a cooling of the body.  I take a blood pressure pill that does not allow my body to acclimate to the temperature around me.  Each pouch comes in a plastic pouch for easy to carry with you until you need to make a drink.  The taste is delicious, something akin to a honey drink.  The drink takes affect in under a half hour and lasts around 8 hours.  I don't drink this at night as it makes me very chilly, but during the day it is an excellent cooler.
+
+product/productId: B000R411OI
+review/userId: A2BJD04R12L6G0
+review/profileName: MT C
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Good Smokey Flavor
+review/text: Stubb's makes a variety of marinades and sauces which are just first rate. This Mesquite Liquid is certainly no exception. When you open the bottle, it smells just like standing next to a Mesquite fire. Full of flavor. We a few drops in our chicken wing marinade tonight, thinking we could always add more later, and I'll have to say, it was enough. It was great!<br /><br />I highly recommend it for your cooking needs. And one bottle is going to go a long way.
+
+product/productId: B0002GUK3Y
+review/userId: AKVBKKMG89AL4
+review/profileName: Michael A. Stanga "Michael Stanga"
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1229385600
+review/summary: Very different taste
+review/text: I bought this product hoping it would taste good.  Our family did not like the taste and subsequently we threw the packages out.  Maybe just our taste.  We do each Japanese and Chinese often and we have lived in China.
+
+product/productId: B0002GUK3Y
+review/userId: A1SEU9HFEK4YL4
+review/profileName: Spencer
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333238400
+review/summary: Strange Taste
+review/text: I've eaten Mapo tofu in China and the US. This sauce is nothing like I've ever tasted, in the worst way possible.
+
+product/productId: B0002GUK3Y
+review/userId: A3DJYTXK67PM9E
+review/profileName: The Great Buzzwami "Buzz"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1311638400
+review/summary: The Worst
+review/text: Don't know where to start about how bad this sauce was. It has an off-taste, but the worst was the amount of salt. Almost 1,000mg in a 4oz package! I don't even know how they can get it so salty. I took one bite and it kind of burned my mouth with the same aftertaste when you gargle salt-water. The House brand is infinitely better, I just thought I'd try a change.
+
+product/productId: B0047LRBSW
+review/userId: A1R1QPG9UFXMY7
+review/profileName: Danielle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337558400
+review/summary: wedding
+review/text: Perfect for our favor bags for our wedding,came nicely packaged,no damage to almonds,and arrived quickly, will look nice onthe tables.
+
+product/productId: B002X4AAGK
+review/userId: A1BZMMQGZOJ5GL
+review/profileName: smarcus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338768000
+review/summary: Betty Boop Bops!!!
+review/text: The item was exactly as described!  I am completely thrilled to have this addition to my other Bettie's (including Pages and Boops!)<br /><br />Delivered in a very timely fashion!  Thank you!
+
+product/productId: B008ZWILNS
+review/userId: AMZ6FEOEHBCFO
+review/profileName: Jacqueline L. Patti "jackiepatti"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: great for coffee
+review/text: I tried a one-pack first <a href="http://www.amazon.com/gp/product/B0074A3WXG">Coconut Cream - 100% Pure</a>, having decided I like it, I switched to this.<br /><br />I am on a diet that requires me to temporarily be dairy-free and needed something for my coffee.  But I didn't want canned coconut milk, as I understand that the BPA-free cans contain BPS, which is nearly as nasty.  I wanted something in aseptic packages.<br /><br />When I first used it in coffee, it did taste slightly coconut-like, but not in an overwhelming way.  I am someone who can't use virgin coconut oil cause it's too strong, I get expeller pressed.  But this did not taste like too much coconut for use as a healthy coffee creamer.<br /><br />The package says to refrigerate after opening and to use within 2 days.  I do neither of these and it remains quite yummy & edible.<br /><br />I have also used it in a few recipes calling for coconut milk just by diluting half way with water.<br /><br />But my new FAVORITE is adding a tablespoon or two of this to a mug of homemade chicken broth and a bit of sea salt.  THIS IS INCREDIBLY YUMMY!
+
+product/productId: B004H0W0DY
+review/userId: A1CD5S0CCUMU13
+review/profileName: CSR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332374400
+review/summary: Best Chocolate!
+review/text: Just read the ingredient list and compare to the chocolate that you are eating right now. Depending on the type of Rausch chocolate you buy, there are only 3-4 ingredients....not all the other stuff other company's put in their brands.  Too bad Amazon does not keep their stock up very well!
+
+product/productId: B0001IPLE6
+review/userId: A1SR49WWOAB5YV
+review/profileName: lalady03
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1287100800
+review/summary: Yummy!
+review/text: This pasta is delicious!  I've been eating low-carb for a couple of years now and I love all Atkins products.  Some of their bars taste better than regular candy bars and this pasta is so good!  I make it all the time with butter, broccoli, chicken, and a little parmesan and it's yummy :)  It's one of my favorite dinners to make and so easy!  Eating low-carb doesn't have to restrictive :)
+
+product/productId: B0001IPLE6
+review/userId: A26KIN6LSNH840
+review/profileName: R. Huffer
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1326153600
+review/summary: Good but not impressive
+review/text: Bought this at Ralphs, 1 for $4.49 to try and was unimpressed. The high protein is great, but you can find that in other grocery store products. The high fiber is great for diets, and you can't find this high in any other pasta, but it tastes and is the texture like macaroni for kids. It definitely tastes and feels better than some "healthy" pastas available, but I'm just not sold on this. If you want low net carbs and that's your main goal, definitely use this and add in meats, veggies, and cheese to your dish for a good meal.
+
+product/productId: B0001IPLE6
+review/userId: A3NAACFQ4ZR820
+review/profileName: S. Chipps "Pink Lipstick"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1339027200
+review/summary: Good pasta.
+review/text: I have high triglycerids and have researched a lot about low-carb pastas, this one is the best in low carb content, flavor and texture. WIll keep on buying.
+

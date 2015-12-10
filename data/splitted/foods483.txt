@@ -1,0 +1,1143 @@
+product/productId: B001EO5R04
+review/userId: A1N32358AY0TZZ
+review/profileName: S. Aghassy
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1313107200
+review/summary: Solid, Strong Green Tea
+review/text: This is a pretty good all around tea.  You can make this pretty strong very easily.  Nothing too special about.  I will probably go on to try other teas.
+
+product/productId: B001EO5R04
+review/userId: A4XQ04F3KY20W
+review/profileName: K. Reznek
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1307491200
+review/summary: No bitterness
+review/text: This tea is delicious. No bitterness, and great flavor. The only downside is that it is only good for one brewing, but the cost was low enough that a single brew is acceptable.
+
+product/productId: B001EO5R04
+review/userId: A1KYY5W9P0FFRG
+review/profileName: Caroline
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1289001600
+review/summary: Little too strong for me
+review/text: It's okay, but I wouldn't buy it again.  My absolute favorite green tea is made by specialteas.com.  It's a decaf apricot green tea.  I always end up going back to that after trying other teas.  I've even gotten used to drinking it plain without any sweeteners.  A cup sounds pretty good right now!
+
+product/productId: B001EO5R04
+review/userId: A9RZL4DEXSXGS
+review/profileName: Joan Ellen Brode
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1284336000
+review/summary: Stash Irish Breakfast
+review/text: This is a great loose leaf tea.  A very fresh taste for the first cup of the morning.
+
+product/productId: B001EO5R04
+review/userId: A1I2FIFBUORRTE
+review/profileName: J. Reynolds
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1273276800
+review/summary: Avoid this one
+review/text: Buying tea online is a risky proposition. I've enjoyed Jasmine teas for years--just not this one. Consider Stash's Organic White instead. <a href="http://www.amazon.com/gp/product/B000I1OLTM">Stash Premium Tea, Organic Premium White, Tea Bags, 18-Count Boxes (Pack of 6)</a>
+
+product/productId: B000H227SE
+review/userId: A1BFY9I9X22U3A
+review/profileName: Christina M. "-C"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: Must have for the baker's pantry.
+review/text: I love these baking bars.  As a huge white chocolate lover I am constantly trying out recipes like white chocolate cupcakes or white chocolate fudge.  The fudge recipe from none other than the Ghiradelli cookbook itself is amazing with these bars.  I couldn't find them locally except around the holidays so Amazon to the rescue!
+
+product/productId: B005YVU4A6
+review/userId: A2LU545SISQOJ8
+review/profileName: Kelly
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1351209600
+review/summary: Chike!
+review/text: Just tried the orange and iced coffee this morning and really liked them both!  I am going to place my order today!
+
+product/productId: B005YVU4A6
+review/userId: A34XDTT262AATH
+review/profileName: Sharon E. Smith "Bluebandit"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346803200
+review/summary: these are good
+review/text: Got these to take on vacation. Bought the orange, chocolate, and iced coffee. Love them all. Bought the shaker bottle too. No need to use blender, they get thick and frothy with milk and shaking. I use them at work too because I get hungry in the afternoon.
+
+product/productId: B0088BE2SY
+review/userId: A2UG64JCONOVCW
+review/profileName: Hunter "lost_time_traveller"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346025600
+review/summary: Excellent for dogs who don't like rawhide.
+review/text: This is an excellent item. My dogs love this, they are fully digestible, it gives our puppy a way to calm down when she gets too excited, and the dogs do not have the stomach problems associated with rawhide.<br />My only problem is that the description says 10 sticks and you only get 5.  For this reason I will buy again but from another source that has a better price for the amount of product.
+
+product/productId: B0088BE2SY
+review/userId: A3BM8A3K54EW8K
+review/profileName: Jo-Jo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: dog loves them
+review/text: They're a nice change from rawhides for my dog..he loves the taste and they're good for him!I have a 120 pound dog, so I give him 1-2 sticks a day as a treat
+
+product/productId: B003R0MFYO
+review/userId: A3J8EP34CGOCEG
+review/profileName: GG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348272000
+review/summary: my cats love this food!
+review/text: my cats love this! they will push each other out of the way to get at the bowl when i put it down. and i love tiki cat because it's grain free and a high-quality food, and also the crude protein is high (14%), making it great for maintaining urinary tract health, which is something we worry about since my ladies are seniors now.
+
+product/productId: B003R0MFYO
+review/userId: AFD44X2VHLZFV
+review/profileName: K. Leonetti "Kleonetti"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346544000
+review/summary: Absolutely fabulous
+review/text: The tiki cat brand food is amazing! I have 7 cats and every one of them loves it! It's expensive but worth every penny. If you have a finicky cat this is the food to try. Be careful though because they may not want anything else!
+
+product/productId: B007HEFCZ0
+review/userId: AIUJP69Y5XYPT
+review/profileName: Sherry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Fun Food
+review/text: These reaspberries are a fun way eat a favorite food and add color to my food.  Very tart compared to fresh fruit but I like that for a change.
+
+product/productId: B000NNEESI
+review/userId: A1Q39QG0L0Q0GJ
+review/profileName: BJMC "bless you"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1193011200
+review/summary: delicious tea blend
+review/text: Most wonderful tea I have ever had--smell is out of this world, tea bags sturdy enough for several cups of tea;great gift idea for tea lover!
+
+product/productId: B000NNEESI
+review/userId: A1F7YU6O5RU432
+review/profileName: Angela Streiff
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1242864000
+review/summary: One of their best blends.
+review/text: This tea has a great Thanksgiving/Christmas flavor to it. It's a black tea with a taste and aroma of gingerbread cookies and cinnamon. It has a sweetness to it, but because it's a black tea it's not overly sweet.<br /><br />This is the kind of tea that makes you want to drink it in the evening front of a fireplace with snow falling outside or as a tea break while out Holiday shopping for friends and family. It's a great blend that's not too overpowering with sweetness.
+
+product/productId: B000NNEESI
+review/userId: A2NETJY5J8O041
+review/profileName: Michelle Fink "ChelleyBell"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1231804800
+review/summary: Great tea!
+review/text: This tea is awesome!!  My friend brought some while she was visiting, and let me try it.  I liked it so much I've been searching like crazy to find it.  I was so happy when I came across it on Amazon!  The flavor is amazing, you will not be disappointed!
+
+product/productId: B000NNEESI
+review/userId: A3ANAGD2LA783T
+review/profileName: Viv
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300492800
+review/summary: Excellent tasting Tea!
+review/text: This is an excellent tasting tea!  I would recommend it to anyone who enjoys the taste of holiday teas.  It arrived quickly also.
+
+product/productId: B000NNEESI
+review/userId: A3UP3KALFVN2FQ
+review/profileName: Coco "LaMadre"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262822400
+review/summary: Perfect cup of tea
+review/text: My mother brought a tin of this tea to our house over the holidays. It's wonderful and has a perfect combination of flavors and aromas. It isn't overly sweet (like the celestial seasons gingerbread tea, or the holiday candy cane type blends) or bitter at all. Thankfully she brought us a large tin, but we're definitely stocking up on more from Amazon before we run out.
+
+product/productId: B000NNEESI
+review/userId: A1JKPCR4ZQGJG4
+review/profileName: A.C.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1224979200
+review/summary: I love this tea
+review/text: WOW!! This is the best tea i have ever had the pleasure of drinking!! you will not be sorry
+
+product/productId: B000NNEESI
+review/userId: A2BVBFZVO29FVU
+review/profileName: Justa Facts "Justa"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: Hot Cinnamon Spice Is the Best Tea Ever!
+review/text: Don't understand how the name of this product changed.  I ordered Hot Cinnamon Spice, and got what I ordered.  Flavorful and fresh.  Smooth and spicy.  Makes a great cup.  Better than any other Cinnamon tea I've ever tried.<br /><br />Love HT!!!
+
+product/productId: B000NNEESI
+review/userId: A1PG93QIDD9CV7
+review/profileName: Alan D. Igo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Tea for two?  Nope, just me, not you.
+review/text: I also reviewed the same product, but in bag form instead of sachets.  Very good for sun tea, and it is bolder in the sachets style.  So I use 6 per gallon with these and 8 per gallon with the other.  If you like cinnamon as I do, this will be a very welcome treat.
+
+product/productId: B000NNEESI
+review/userId: ASTX4J3WTS5VU
+review/profileName: Twabas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337817600
+review/summary: Love This Tea
+review/text: I purchased this tea at holiday time and fell in love with it. I'm always thrilled when I can purchase it to enjoy even when it is not Christmas time.
+
+product/productId: B000YFE7QY
+review/userId: A29455AOQNJ2YM
+review/profileName: John Laker
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1241913600
+review/summary: Awful
+review/text: Maybe it's just me but I thought this really tasted like crap. Funky aftertaste and just not good tasting in general. Maybe it tastes better when your hungry and freezing while camping up in the mountains but in my kitchen it was no good.
+
+product/productId: B002VH591U
+review/userId: A2IRG6S6QA9SV2
+review/profileName: Juanita
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1341532800
+review/summary: Not very tasty
+review/text: These sour geckos are disappointing; they're not very tasty, and they're weirdly stretchy as well.  I love Brach's Sour Squirms, but they seem to have stopped making them.  I'm looking for a replacement, and this is definitely not it!
+
+product/productId: B002VH591U
+review/userId: A2AHMWY5TWBFQX
+review/profileName: K. Galbraith "Sped-Head"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319846400
+review/summary: sweet deal
+review/text: These were a huge hit at my daughter's reptile themed birthday party. They were fresh tasting and cute and priced right.
+
+product/productId: B002VH591U
+review/userId: A2K7MEOOX8R6XW
+review/profileName: Jeff C. "Jeff C"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1328832000
+review/summary: Finally, we have the sour Geckos.
+review/text: A few months ago on a family road trip we stopped into a combo BBQ / Gas Station / Candy Store.  My Five year old loves sour candy.  I see these interesting little Geckos (a sour candy never seen by our family before).  So I bought her one.  Ever since that trip, my daughter has asked and asked for me to find her another Gecko.  Well after random in and outs at any of the local filling stations with zero luck, I knew Amazon wouldn't let me down.  And now we have enough Geckos for her to share one with all of her classmates!<br /><br />These are really good.  Here is how I would rate them in a few areas (1 - 10 scale) comparing them to other sour candy (worms, patch kids, warheads, rips, punch straws, etc...)<br /><br />Sour Level: 5 (not the most sour but still has some zing to it)<br />Sweetness: 6 (a little sweet but nowhere near as sweet as Sour Punch Straws or Sour Patch Kids)<br />Hardness: 3 (these are pretty soft and chewy - not sticky)<br />Flavor Distinction: 5 (of the different colors, there is a slight variation of flavors but nothing dramatic)<br /><br />My Overall opinion of these: One of the best sour gummies I have had.  They're not too sweet, not too sour, and I like the softness.
+
+product/productId: B0071JC65K
+review/userId: A1GVMT8X7VB30E
+review/profileName: B. Williston
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344643200
+review/summary: Love these crackers!
+review/text: I bought these all the time when I lived in England 20 years ago during a semester abroad. I just visited England again, saw them in the grocery store, and love them all over again! My kids love them, too. They're cheese crackers but not like the ones in the States where they ooze artificial flavoring. These taste, and are, all-natural and just plain yummy!
+
+product/productId: B004CHA88Q
+review/userId: ACTJJCTIR4YJU
+review/profileName: P. SHALTON
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1341878400
+review/summary: Disgustingly illegal item.
+review/text: Nothing disposable is allowed when it comes to the AMERICAN FLAG.  Having a disposable wrapper "trashes" my beloved nation's flag.  This most certainly can't be an American owned business.  I'm surprised Amazon allowed it.
+
+product/productId: B0000WKU8K
+review/userId: AESNOYBYV9WGP
+review/profileName: Stepone
+review/helpfulness: 20/25
+review/score: 5.0
+review/time: 1178236800
+review/summary: Tastiest mayo ever
+review/text: Because it has MSG.  People are vastly over-concerned about MSG: it's a very small percentage of people who may have a legitimate reaction to the stuff, apparently.  Consider that the Japanese put it in tons of their food, and it's all over our food too (anything made with bouillon, for example).<br /><br />This is the best mayo.  It makes everything it touches delicious.  Sometimes I have to force myself not to buy it because we end up putting it on everything, and I worry at the thought of consuming that much mayo (ie, for fat and cholesterol reasons, but msg concerns).<br /><br />Try this, you'll be hooked.
+
+product/productId: B0000WKU8K
+review/userId: A2KAX2RRTY4DGP
+review/profileName: Joel
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1250121600
+review/summary: Great on steamed veggies!
+review/text: This mayo has a tangy flavor that works well with steamed veggies (Broccoli, cauliflower, carrots, or green beans)
+
+product/productId: B0000WKU8K
+review/userId: A38Z88YE2AKP6N
+review/profileName: Peggy
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1312070400
+review/summary: Favorite mayo
+review/text: This is the only mayo we use.  It has a tangy flavor unlike any other mayo I ever tasted.  It's creamy and doesn't taste heavy or oily.<br /><br />I love the squeeze bottle, the larger size has a star tip when the red cap is removed or mayo can be squeezed out through a small hole by lifting up the top of the red cap.<br /><br />We use it in potato and macaroni salad and mixed with soya sauce and wasabi when eating fish.<br /><br />My husband read the ingredients on the package and it doesn't say it contains MSG, but we don't know if all ingredients are listed.<br /><br />We use it in moderation once or twice a week so the amounts of sodium and MSG are not an issue for us.
+
+product/productId: B0000WKU8K
+review/userId: ANHUJOTVAIWRN
+review/profileName: G. Cantor
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309564800
+review/summary: Simply delicious in a bewitching kinda way...
+review/text: For years, I would go to a small Izakaya joint where I'd drink Japanese beer and have some insanely delicious small dishes like shishito peppers, lotus root, sashimi, etc. There was one dish that always hit the spot after a few beers: chunks of fried chicken with Kewpie mayo on the side. I'm not the kinda guy to be passionate about mayonaise, I never thought about it much, to be honest. But this mayo made me kinda crazy and in fact I ended up going to a market in Little Tokyo in search of this beauty (before it was available on Amazon) and it was worth every bit of effort.
+
+product/productId: B0000WKU8K
+review/userId: A1Z91YOTB7P56V
+review/profileName: Kristen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293667200
+review/summary: Good Stuff!
+review/text: I ordered this a while ago but never reviewed it. I love this Japanese mayo and it's great for making "spicy sauce" that is often put on Americanized sushi.
+
+product/productId: B0000WKU8K
+review/userId: A1ZU0995JB8OVF
+review/profileName: katiem030
+review/helpfulness: 4/6
+review/score: 3.0
+review/time: 1305331200
+review/summary: Tastes like Miracle Whip with MSG
+review/text: I have been making okonomiyaki quite often lately, but I have always topped it with American mayo, like Hellman's or Duke's.  I finally bought some Kewpie today because I kept hearing about how it's so much better for okonomiyaki.  I must say that I'm not really a fan.  It just tastes like Miracle Whip (I've always hated it) with MSG.  I'll be sticking with the American stuff after this is gone.
+
+product/productId: B0000WKU8K
+review/userId: AHY47PFCOFPDD
+review/profileName: Chris
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342396800
+review/summary: Tasty
+review/text: I was told about this stuff at a party and, as a lover of Mayonnaise, thought I'd buy some. I don't use it a lot, but it's pretty good on fries. I imagine it will make a great tunafish sandwich too. If you've never had it before, it tastes a lot like traditional Mayo but considerably more vinegar-y. Some people who don't like Mayo have told me they like this.
+
+product/productId: B0000WKU8K
+review/userId: A2YIA8K5DP4GQG
+review/profileName: S. Forrester
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1308787200
+review/summary: Unique flavor but you must use in moderation
+review/text: This provides a very different taste on salads that I enjoy once in a while but it gives you a lot of calories so you can only slurge once in a while if you are like me.<br /><br />I also like putting it on fish before I bake it.
+
+product/productId: B0000WKU8K
+review/userId: A32XMT8ULJ5CDV
+review/profileName: dontwannabeageek
+review/helpfulness: 2/4
+review/score: 4.0
+review/time: 1219622400
+review/summary: Had to try it...
+review/text: After reading other reviews on this mayo, I had to give it a try.  I grew up on Hellman's mayo, and as another review observed, you will probably prefer what you are used to.  Kewpie mayonnaise has its own distinct flavor, I can't exactly put my finger on what gives it its taste.  I want to try making some deviled eggs with it, I think it would give a nice twist on the flavor.  I also tried Duke's mayo, which is a lot like Hellman's, only with a more pronounced vinegar flavor.  I'm glad I tried both of these, I expect I will use up the Dukes, not sure about the Kewpie mayo.  It recommends using within one month after opening.  But ultimately, I think I'll end up staying with what I am used to, which is Hellman's.
+
+product/productId: B0000WKU8K
+review/userId: A3RDQS449HC370
+review/profileName: Debbers97058 "Native Oregonian since 1951"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1347926400
+review/summary: Japanese Mayo
+review/text: OK....I thought I'd put a bit of punch to hubby's sandwich, instead of the ho-hum Best Foods Mayo---ohOoooOh--FAILURE!<br />One bite and he said---Please! DO NOT EVER SERVE THIS TO ME AGAIN!<br />I guess it was that-bad!<br />I'll see if my neighbor will be able to use it w/her family.<br />If you  are a BEST FOODS lover---walk away---do NOT purchase this product!
+
+product/productId: B0000WKU8K
+review/userId: A320CKM18RWP8W
+review/profileName: Lorraine O. Mechem
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1339977600
+review/summary: NOT BAD
+review/text: I saw a TV segment wherein a chef specified the use of "Japanese mayonnaise" in a recipe, so I Googled it and found it on Amazon.  It comes in a very soft, pliable, plastic container, kind of floppy (Phthalates???).  It isn't much different than American Mayonnaise but does differ in a couple of areas.  It is a bit more tart and tastes more "egg'y" to me.  It says it's made with "vegetable oil".  Not sure what that is comprised of, possibly all or part soy, which is something I am trying to stay away from since, if it's not organic, is genetically engineered (GMO).  If the phthalates and the GMO aspect are not an issue with you, go ahead and try it.
+
+product/productId: B0000WKU8K
+review/userId: AK4E5XTM2BMY6
+review/profileName: Noah Kadner
+review/helpfulness: 1/4
+review/score: 4.0
+review/time: 1224547200
+review/summary: Great for sushi making
+review/text: As a standard mayo- this tastes a little odd, tangy and a bit less creamy than most Western mayonnaise brands. But, this plus a spicy chili powder called Togarishi are the two main ingredients to many sushi bars' spicy sauce. So if you want to make spicy tuna rolls at home, this is your thing.
+
+product/productId: B0000WKU8K
+review/userId: AATPGOYD5QJK1
+review/profileName: EAG "Childrenarejoy"
+review/helpfulness: 2/68
+review/score: 1.0
+review/time: 1309996800
+review/summary: MSG
+review/text: I haven't tasted this mayo, but I give it one star, because it has msg added.  There was no list of ingredients on the page, and I wrongly assumed that it wouldn't have bad ingredients in, because it is mayonnaise.
+
+product/productId: B002ZOCEVC
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1275696000
+review/summary: AWESOME!
+review/text: If you've never tried this French Vanilla coffee, then you're in for a real treat.  I took this into work the other day and literally, it looked like one of those weird commercials when people are floating towards the coffee room!  Everyone went crazy over this stuff - it smells so much like caramel when it's brewing and when it is done, the flavor is just so very rich that I just drink it black.  I really cannot recommend this one enough, and everyone that I know that has tried it, now keeps it on hand all the time.  This is my morning breakfast coffee now - lot less calories than a doughnut with the same effect (well, sorta!).  This is a little pricey here though.  I pay four dollars for it at my local hardware store (yes, I did say hardware store!).  This is the number one brand of coffee in the country, per consumer reports. Highly, highly recommend!
+
+product/productId: B002ZOCEVC
+review/userId: A1L039YS3P3JWR
+review/profileName: R. Reed
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1271721600
+review/summary: great coffee
+review/text: This is an overlooked coffee. Deep, rich taste and the French Vanilla eliminates any bitterness.  This brews up 1 fine cup of mellow, delicious coffee.
+
+product/productId: B002ZOCEVC
+review/userId: A1T1JBCTRFHTC
+review/profileName: hal "hal"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1276646400
+review/summary: Really good coffee
+review/text: I've been a fan of Eight O'Clock coffee since the days of my youth when my schedule demanded frequent injections of caffeine to remain coherent. This is some of the best flavored whole bean coffee I've found on Amazon and given the price (it was on sale) it was amazing. My wife and I just finished a pound of (@$30 per)Kona whole bean and I frankly liked this better.
+
+product/productId: B002ZOCEVC
+review/userId: A2M9G989NVH7YG
+review/profileName: Teacher La La
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1325116800
+review/summary: Prices keep moving back and forth?
+review/text: The coffee is great, but not 30 dollars for a pack of 4.  Awhile back, less than 2 months, I purchased four packs for 14.00 dollars.  Hiking the price up 16 dollars in less than 2 months?  Not cool Amazon.  You just lost this customer.
+
+product/productId: B002ZOCEVC
+review/userId: A1GJQE89OSYQRI
+review/profileName: Ronald James Nessler Jr.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350864000
+review/summary: Eight o clock coffee by Amazon.com
+review/text: a little goes a long way and is nicefor a change very flavorful and a nice change more of a desert coffee than somthing you would drink every day but nice rich flavor and aroma I like hole beans coffee last longer and when you grind them the fresh aroma is nice and a lot better flavor.
+
+product/productId: B002ZOCEVC
+review/userId: AKDLC4ERRS6BE
+review/profileName: M. G. Smith
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329609600
+review/summary: Thank you Amazon.
+review/text: I moved from NY to SF, the land of the coffee snob.  I missed my cheap tasty coffee.  Thank God Amazon sells my favorite-est cheap flavored coffee!  If you're not in to the burnt starbucks flavored 'gourmet' coffee and just want an pleasant cup of joe in the morning, look no further.  Unless you prefer Hazelnut, then check out 8-O'Clocks hazelnut beans...
+
+product/productId: B002ZOCEVC
+review/userId: A2SUIRFR0G7QI6
+review/profileName: Couerleroi "Couerleroi"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329264000
+review/summary: Very refreshing
+review/text: We have a coffee maker that grinds whole beans as part of making the coffee.  Eight O'clock brand is reasonably priced and makes a very refreshing, tasty cup when ground and brewed as part of the same process.  My wife and I have also found that adding a small amount of ground coffee with chicory to the filter basket imparts an extremely interesting taste.  We've been using this combination nearly two years and it has turned us against coffee not made by our coffee maker.
+
+product/productId: B002ZOCEVC
+review/userId: A3Q7XBGQ0UTZUS
+review/profileName: Tyler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302048000
+review/summary: Great!
+review/text: I bought a 4-pack on a deal. The other reviewers are correct, it tastes and smells delicious. I just bought a percolator, and now its even better. I get compliments on my coffees taste and smell.
+
+product/productId: B002ZOCEVC
+review/userId: A3D5SLFO6KCBIB
+review/profileName: FFF
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1300838400
+review/summary: It's OK
+review/text: I got this for my wife who drinks coffee daily. She still likes Starbucks better though the price for this is very good at Amazon.
+
+product/productId: B002ZOCEVC
+review/userId: AV16VBI3BEM9J
+review/profileName: Whiporwill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295136000
+review/summary: Best Coffee
+review/text: This coffee is by far the best. I was using another brand that I really liked, but they stopped making it. I tried many other brands and Eight O'Clock French Vanilla bean coffee is by far the best tasting. Amazon's direct ship is the way to go.
+
+product/productId: B002ZOCEVC
+review/userId: A153T4GQ5GIM56
+review/profileName: Doyle Lovil "John6305"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288742400
+review/summary: Delicious cup of coffee
+review/text: I've been trying a lot of different coffee beans lately and this is one of the best.  I would rate this up there with Kona coffee from Hawaii.  This is delicious coffee and I make it with an Aeropress coffee maker.  I will try the French press with these coffee beans tomorrow but I know this will be delicious.  It is not bitter, have a very good french vanilla taste, and the smell is amazing.  I love the smell of this bean when you open the bag and when its steeping in the hot water.  I will deifnitely be ordering this coffee bean again.  I will also be trying more coffee beans from Eight O' Clock cofee.
+
+product/productId: B002ZOCEVC
+review/userId: A2EGV6VLVXPPKC
+review/profileName: R. Ellsworth "Pragmo"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1333584000
+review/summary: Bummer
+review/text: One of those three inferior brands I referred to in another review.  Never tried eight o'clock before, shouldn't have done it that time around.  Taste was awful, like maybe bags had gotten lost in warehouse for a few years.
+
+product/productId: B002ZOCEVC
+review/userId: A9B4YQFQ6PDUC
+review/profileName: William C. Dickenson "Bill D,"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1314662400
+review/summary: Not French Vanilla
+review/text: I bought this coffee because the cost is about half of what I pay in the grocery store.  However, it has no, zero, French Vanilla flavor.  I will not buy this product again.
+
+product/productId: B002ZOCEVC
+review/userId: A3CQTBIBB8MYLD
+review/profileName: Rick Schneider
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1299628800
+review/summary: Same thing Cheaper than the store
+review/text: Getting your coffee via Amazon is a much cheaper alternative to buying it at the store.  You can also set it up so that it ships to you every few weeks!
+
+product/productId: B002ZOCEVC
+review/userId: A3SGR0UA9R8976
+review/profileName: Robert Murphy
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1312761600
+review/summary: Too much vanilla ruined our coffee grinder
+review/text: This is probably fine if you like Maxwell House International Coffee and you drink your coffee with lots of sugar. But I was looking for a hint of vanilla, and this was far more than a hint. I made a pot, took two sips, and poured the rest down the drain.<br /><br />But the reason I'm giving it one star is that grinding six tablespoons of this left our Capresso burr grinder reeking of vanilla. That hasn't happened with other vanilla-flavored coffees we've tried. Running non-flavored beans through didn't cure it, nor did disassembling and cleaning it. The vanilla seems to have permeated some silicone parts that can't be cleaned, and it's flavoring other coffee we run through it, so we're buying a new grinder. That was a very expensive pot of coffee. :-(
+
+product/productId: B004GWW042
+review/userId: A2TK020GACB6XQ
+review/profileName: K. Johnston "thephrog"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1342483200
+review/summary: Perfect!
+review/text: This product is fabulous. I am allergic to corn, and it's so hard to find baking powder without corn starch, so I was very happy to find this brand! It makes my life easier! Thanks!
+
+product/productId: B004GWW042
+review/userId: A1LJHCU8O09QCV
+review/profileName: schusterjo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Nice product
+review/text: After reading the book "Muscle foods" I set out to buy products listed in the book for a healthier life. Well, the problem here is that the foods listed are not easily found at the local stores. The item is exactly as described an provides the health value as mentioned in the book. Very happy.
+
+product/productId: B000NMGCFC
+review/userId: A1EKAXM8VOGO75
+review/profileName: KayJay
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339718400
+review/summary: Good Buy
+review/text: Candy was packaged nicely and game on time. I have no complaints at all would definitely purchase more product again.
+
+product/productId: B001HTJHIE
+review/userId: AKFDXT3YT56ND
+review/profileName: Thekevinator
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325894400
+review/summary: Amazing Banana Drink
+review/text: I have tried all of the Looza drinks but the Banana is my favorite. I was pleased to find these on amazon after my local grocer stopped carrying them.
+
+product/productId: B001XWNGTQ
+review/userId: A3C9SLIWJRC5TI
+review/profileName: Joanneva12a
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1301097600
+review/summary: Not just for cooking
+review/text: Cloves have many uses - they have an outstanding antibacterial properties and also anti-inflamatory properties as well as a refreshing quality.<br />You can put it on cuts, toothaches and even sprinkle it on your toothbrush when you brush your teeth.<br /><br />There is nothing wrong with the flavor of these cloves, just be aware that ground cloves do not have as long a shelf life as whole cloves. Be sure to use by the 'Best By' date stamped on the bottom of the bottle which is quite generous.<br /><br />Also I have heard you can extend the shelf life by placing in the fridge.
+
+product/productId: B001XWNGTQ
+review/userId: A17SZZO9LM3WYC
+review/profileName: Mayflower Girl "amazon-junkie since 1996"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1293667200
+review/summary: These cloves taste off
+review/text: I've bought so many different Brands of cloves, that it never occurred to me that I could buy one, especially an organic one, which wouldn't taste quite right.  I thought cloves taste like cloves... and didn't really think much of it.  Well, unfortunately these Simply Organic cloves do not taste like the McCormick, Badia, or even Store Brand ground cloves I've bought.  They don't taste like the whole cloves I've ground by hand in a spice blender either.  They taste... weird.  Just off a bit.  The color is redder too.  We go through a lot of cloves in my house--both using it in tea as a flavoring and in cooking/baking.  I've never encountered this before.<br /><br />Packaging is nice.  Price was great.  Amazon did a great job in wrapping it in a ton of bubble wrap.  But now I'm stuck with three large bottles of cloves that I don't see myself finishing.  If you've bought this brand at the health food store and like them--then maybe commit to the 3-pack.  Otherwise, I advise you to steer clear.
+
+product/productId: B001XWNGTQ
+review/userId: A146O9Y39V0IZ9
+review/profileName: Jackie Sears
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1270339200
+review/summary: Simply Organic cloves ground, certified organic
+review/text: This is an excellent product and I am very happy with it.  I received my product two days after ordering.  An excellent company!
+
+product/productId: B001XWNGTQ
+review/userId: A2RDYEO88144VC
+review/profileName: barefootgrma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: Fabulous Freshness
+review/text: I have written previously about Simply Organic Products, and these cloves prove to be another wise choice.  They have a deep clove flavor and you can smell the difference.  I'm pleased to have purchased this product.  I am contemplating giving organic spices for Christmas gifts this year, and my choice will be Simply Organic.
+
+product/productId: B0029JXP0C
+review/userId: A2HBLY0BLDGQ0F
+review/profileName: Susan E. Turner
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1289865600
+review/summary: Tasty and easy to make
+review/text: My daughter loves cinnamon coffee cake and this mix is extremely easy to make.  You simply add water and an egg and stir to make the batter.  I usually make the coffee cake and not the muffins.  I was happy to find that Amazon carries it because we live in a rural area and the local grocery stores do not carry this mix.
+
+product/productId: B0029JXP0C
+review/userId: A1C19WLTO01L95
+review/profileName: R. Klein
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309392000
+review/summary: The "Best" Cinnamon Crumb Cake
+review/text: You have to look "no further" when you are in a mood for a great cinnamon crumb cake.  This mix is so easy to use and prepare - and the taste is consistent with all Krusteaz mixes.  I have used this wonderful mix on so many occasions - it is unbelievable.  Living in a rural setting it is wonderful to have the availability to purchase online at Amazon and get them delivered to my door.  My area stores do NOT always carry a supply.  I receive rave compliments when I make this cake - It Is Wonderful!
+
+product/productId: B0029JXP0C
+review/userId: A3JYMREVLISM8V
+review/profileName: B. Bock
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322697600
+review/summary: Great breakfast mix
+review/text: This is a great mix that my family particularly enjoys.  The cinnamon & spice can be a little overpowering.  We will often add a small chopped apple and a handful of pecan pieces into the cinnamon layers.  This helps balance the strong spices and makes a great coffee cake even better.
+
+product/productId: B005FT1JTW
+review/userId: AD30TCZOL5F1N
+review/profileName: Papa Spanky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Love it, or not so much
+review/text: As my title says, you either will love it or not. I love it, some friends who tried it and didnt like it were disapointed the flavor didnt quite match the aroma. This is one you will have to try for yourselves.
+
+product/productId: B000S671XU
+review/userId: A20PJGSMDZEJMH
+review/profileName: J. Folsom
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1203465600
+review/summary: Easiest to make
+review/text: Be careful buying falafel, i made the mistake of buying a different brand that required you to let the mix soak in water for an hour.  This stuff only takes like 5 min and tastes great!
+
+product/productId: B000S671XU
+review/userId: A1WDI5ROS4SX62
+review/profileName: Jean Murphy "Jean Murphy"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1250726400
+review/summary: They remind me of Israeli falafel stands.
+review/text: These packets of Osem Falafel Mix are the best instant mix I have ever tried. They come very close to the fresh, hot falafels available on the streets of Jerusalem. I have served them to guests and they have all enjoyed them. When you're in a hurry to prepare falafels and don't have time to make from scratch, these are a great option. They are great paired up with Sabra Hummous too! Very flavorful and delicious! I always keep Osem Falafel Mix on my shelves.
+
+product/productId: B000S671XU
+review/userId: A39CRWEIQ9H4PA
+review/profileName: RR "Another Consumer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344643200
+review/summary: Staple Food Item in my Pantry!!!
+review/text: My husband being of Middle Eastern descent, introduced me to my first falafel on a visit to a little Middle Eastern market in the Boston area.  When I saw this mix in the grocery store I decided to give it a try and the rest is history.  These are so delicious I don't know if I will ever bother to try making them from scratch.  Sadly, we moved away from the store who carried this product and have yet to find another store with this OSEM (or, AWESOME, as I call it) mix.  Out of the blue, I decided to look for it on Amazon and surprise!!! Yes, there are a lot of packs in this order but they won't be wasted.  I plan to make some for an upcoming party as an appetizer.  Note, I do tend to make mine a little larger and while the pack yields around 30, I only yield half that amount.  I can't stress how wonderful they taste.  Throw them in a pita with lettuce, tomatoes and onions topped with a nice tahini/lemon/water/salt paste - amazing.<br /><br />Word of caution, when preparing, just make sure you form the balls with wet hands or the batter will stick to your hands.  What I find works well is to wet my hands, gently shake, form two balls, wash my hands and start the process all over again with wetting my hands.  Also, while I have seen some mixes say they can be baked, I have not tried it with this mix.  The instructions don't mention it as an option but I will probably try it one of these days.  For now, I fry. We don't have an exhaust fan so it does make the kitchen a little smelly because of all of the herbs.  We open windows to help it air out.  Totally worth it!!!  These are fantastic in my opinion.
+
+product/productId: B000S671XU
+review/userId: AKRH7PH37LH0Q
+review/profileName: Domenico Palombo
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347235200
+review/summary: Great mix, very tasty!
+review/text: I love these things.  I've got all my family hooked on falafel.  The trick is to use boiling water when making the mix.  Just wish I could find some of the other Israeli toppings like pickled beets.  We normally go with butter lettuce, cucumber sticks, grape tomatoes, sprouts, hummus,and tahini sauce in a pita.  Not authentic but still yum.
+
+product/productId: B000S671XU
+review/userId: A3NTEV1EPF7UP4
+review/profileName: Plaid Pantsuit
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: The best!
+review/text: Falafel have been one of my favorite foods for several decades.  I have eaten them in many restaurants in Europe and the USA but have never found a mix that I like until Osem.  It is my platonic ideal for falafel:  light and flavorful with none of those bitter overtones that other mixes have.  They are quick to make and the mix also keeps a very long time---I just found a packet that I bought well over a year ago, cooked it up and the results were just as fab as with a fresh package!
+
+product/productId: B000S671XU
+review/userId: A24BP8QGYFPMD8
+review/profileName: Montiel A. Hancock
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335916800
+review/summary: Wonderful!
+review/text: I've tried several brands of falafel mix, and this one is my favorite by far (sorry Ziyad. Still love you for the pickled turnips!). Ready to go in five minutes without the gritty bits you get in some mixes. The flavor is good, and the texture after frying is moist and almost fluffy inside and crisp on the outside. No hockey pucks! This will become a go-to staple in my house.
+
+product/productId: B000S671XU
+review/userId: A3V1YAYJO7NRJC
+review/profileName: Virginia Feldman
+review/helpfulness: 4/23
+review/score: 1.0
+review/time: 1290643200
+review/summary: buy local, and also avoid financing an Occupation
+review/text: I found this only average for making falafels. But then I read about  the company, OSEM, based in Israel--and decided that our American products, FANTASTIC and CASBEH, both of actually better quality, will get my future business. I'll have fewer carbon footprints with not having OSEM boxes transported  1/2 way across the world, and won't be giving money to Israel, a country which continues to snub international laws and disobey countless UN resolutions.<br />By the way, I say this as part of a Jewish family.<br />  VM Feldman
+
+product/productId: B000HPBRA0
+review/userId: A1H8D04PPQB9FU
+review/profileName: Bargain shopper
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1293321600
+review/summary: Better deal in store
+review/text: This isn't a bad deal, but in Tampa & St Pete Florida, the store Rolling Oats has had these priced at $1.99/box for several months.  I don't know what other health food stores charge around the country, but Rolling Oats price is a better deal.
+
+product/productId: B000HPBRA0
+review/userId: AV0PRM1QIYS0V
+review/profileName: Ginamarie Temoshawsky "I remember having a ba...
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1291593600
+review/summary: They disappear quickly around here
+review/text: These are my daughter's favorite cracker of all time.  I'm torn between these and the cheddar variety, too close to call it.  I love the taste and the crunch.  Sometimes I crave something crunchy and these hit the spot perfectly.  I can't seem to keep them in my pantry because they get eaten so regularly either alone or with other things.
+
+product/productId: B000HPBRA0
+review/userId: AC5UIM0EA1BNZ
+review/profileName: PalFam
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1312243200
+review/summary: Delicious!!
+review/text: The fact that these are gluten-free is really just a bonus to a delicious, satisfying cracker.  I was snacking on them prior to my teenaged daughter going on a GF diet because Nut-Thins are just incredibly tasty!  They are thin with a hard crunch, and a complex nutty flavor.  We've tried all of the various varieties of Nut-Thins, and I can't decide which is my favorite.  The Ranch and the Cheddar are great for out-of-the-box snacking.  Try the other varieties with a small slice of cheddar cheese for a little bite of YUM!.  Often the flavor powder on other crackers can be a bit heavy on the salt, so I was concerned before trying these since they are already a "salty" cracker.  But these are seasoned perfectly, where the saltiness seems to be the same as the non-flavored varieties.<br />Recently, my daughter had some of these Nut-Thins with her on an outing with her friends.  Her friends asked if the crackers were some of her "disgusting" gluten-free food.  My daughter persuaded them to try the Nut-Thins, and all of the girls declared the crackers to "taste great!" as they polished off the entire bag.<br />At the risk of sounding like a commercial, I have to say that, whether or not you are on a Gluten-Free diet, try all of the Nut-Thin varieties!  And get more than one box, because once you and your family taste them, they won't last long!
+
+product/productId: B000HPBRA0
+review/userId: A3G1U52N1EFGYF
+review/profileName: Sandra P Salinas Trevi�o
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349308800
+review/summary: Suuuper Salty !!!
+review/text: I bought This product expecting a very tasty product oh my God !! Its extremely Salty i bought 12 pcs, what i am going ro so with si Many boxes ??? Please put Them lesa salt , so Dissapointed : /
+
+product/productId: B000HPBRA0
+review/userId: A30DX2NMU5BY1L
+review/profileName: Tiffany
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: Best gluten-free cracker, I'm hooked
+review/text: The flavor of these is pretty intense, but they've got me hooked. Hopelessly addicted to these. They fulfill that salty/crunchy craving whenever it hits. I'm so happy to have a gluten-free cracker that doesn't taste like absolute cardboard.
+
+product/productId: B000HPBRA0
+review/userId: A3T0OTH5072YRE
+review/profileName: M. Reynard "kairosdreaming"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1337558400
+review/summary: Almond Nut Thins Country Ranch
+review/text: I've had some of the Nut-Thins crackers before, and I enjoyed them.  That being said, this wasn't my favorite flavor of them.  It just didn't have that great of a taste.<br /><br />I love pretty much anything flavored ranch.  Dressing, powder, popcorn, etc., it's all good.  This however, was not as good of a ranch.  It started out with a good initial flavor, kind of a buttermilk light flavored ranch with a punch of garlic, but then the taste quickly devolved into a pretty gross tasting after-taste.  And I think this was from the rice flour used.  I'm not a fan of rice flour, there's just something slightly sour about the taste that I really don't like the taste.  So to go from a lovely ranch to that just ruined the cracker for me.<br /><br />I was surprised at how many ingredients were in these crackers since they are natural and gluten free.  I'm guessing most of it was the flavoring, but it was still quite long.  And the first ingredient was rice flour.  So right there's where I had my problem.  The next was the almonds luckily so at least they were right up there, and then the rest was the ranch flavoring.  I was surprised that there wasn't that much garlic in there, because it was such a predominant flavor in the cracker.  It also had a few ingredients I couldn't pronounce, but always make me wary.  Although it's hard to say without an intense research if these are natural or not.  And I'm just not that ambitious.<br /><br />Calories are 130 a serving, and that's about 16 crackers.  So in all, that's actually pretty good.  It's perfect for accompanying a meal or you can just snack on them without worrying too much.  And there's about 4 servings per box.  Sodium is slightly high at 220mg a serving, but sugars are only 1 gram.  And there's 3 grams of protein.  For vitamins, there aren't a whole lot worth mentioning; it's not the main point of these crackers.<br /><br />Ok crackers, I like some of the other flavors, but I won't be buying this flavor again.<br /><br />Review by M. Reynard 2012
+
+product/productId: B000HPBRA0
+review/userId: A37MH7ICH80QOX
+review/profileName: Kate McMurry "Young Adult Author"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: If you like Ranch Dressing, you'll love these
+review/text: I'm not allergic to wheat, but I love these crackers anyway, and I've tried all the flavors. I personally rank them this way in terms of my preference:<br /><br /><a href="http://www.amazon.com/gp/product/B000H154WQ">pecan</a><br /><a href="http://www.amazon.com/gp/product/B003I567W4">almond with a touch of sea salt</a><br /><a href="http://www.amazon.com/gp/product/B000HP5FV2">hazelnut</a><br /><a href="http://www.amazon.com/gp/product/B000H154US">regular almond</a><br /><a href="http://www.amazon.com/gp/product/B003I5A85G">BBQ</a><br /><a href="http://www.amazon.com/gp/product/B000HPBR8W">cheddar cheese</a><br /><a href="http://www.amazon.com/gp/product/B000H11C6I">smokehouse</a><br />country ranch<br /><br />Yes, this is my least favorite of all the flavors, but compared to every other flavored cracker, corn/potato chip, and pretzel I've had, my least favorite of this cracker tastes far better to me than any of them.<br /><br />My two crunchy snacks of choice for some time now have been <a href="http://www.amazon.com/gp/product/B000G7V3LC">Snyder's Butter Snaps Pretzels</a> and popcorn popped in my <a href="http://www.amazon.com/gp/product/B00004W4UP">Nordic Ware 60120 Microwave Popcorn Popper</a>, but I recently discovered Blue Diamond Nut-Thins, and they've pushed those two treats from the top of my crunch list. In fact, I used to think the Snyder's butter flavor was great, but now in comparison, it just seems bland. The flavor of all of these various Nut-Thins crackers is sublime.<br /><br />In addition, you simply cannot beat this cracker for mouth feel if you like plenty of snap. They are wonderful with dips, but they are so delicious, I actually prefer to eat them plain.<br /><br />At only 8 calories per cracker, Nut-Thins compare favorably to the Snyder mini pretzels I mentioned, which are 5 calories each.
+
+product/productId: B000HPBRA0
+review/userId: A3NRAFDA4S8F0K
+review/profileName: Lacey B. "Music & Photo Aficionado"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308873600
+review/summary: Delicious cracker, almost don't taste the nut!
+review/text: As an individual who cannot eat gluten and doesn't really like nuts, I struggle with trying to find items that I like. Out of all the nut-thin Blue-Diamond crackers, these are my favorite. They taste great with tuna salad, but are great without too! I have to buy them at Whole Foods which is about a 35 minute+ drive depending on traffic, so needless to say, I was pleased to see that they sell them here online. And even without the subscription, they were still cheaper than buying them in the store, not by much, but still cheaper! Especially when you consider time, gas, and SALES TAX - all of which are momumentally saved on Amazon! I ended up signing up for the subscription, its a saving of $.78 cents per box, once again this excludes the sales tax of 10% I get charged plus the hefty price of gas! So, its well worth it to me. I also signed up for the subscription for Cheddar Cheese Blue Diamond Crackers, they are really tasty too!
+
+product/productId: B000HPBRA0
+review/userId: A1R9EEQPV5JSPQ
+review/profileName: C. Yetso
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304208000
+review/summary: Nutty about this cracker!
+review/text: Bought these almond nut-thin country ranch crackers for my son who told me about them.  We have not been disappointed!  Even our friends have enjoyed their unique taste.
+
+product/productId: B000HPBRA0
+review/userId: A2VBL3JMMB282U
+review/profileName: P. OBrien
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300924800
+review/summary: A Tasty Treat
+review/text: We are folks who almost always feel the need for a few crackers each day.  Having crackers with so few calories that actually taste really good is such a treat.
+
+product/productId: B000HPBRA0
+review/userId: A18M2D8OITB1QP
+review/profileName: ambrva1
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297728000
+review/summary: Mmh Nut Thins
+review/text: Nut Thins are fantastic.  I cannot stop eating them.  My favorite flavors are Ranch and BBQ.  I don't have any gluten issues, I just eat them because I like them.
+
+product/productId: B000HPBRA0
+review/userId: A3OTZ4M3POWKPG
+review/profileName: Erin Junge
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1273276800
+review/summary: Great crackers/chips - but buy from store or company!
+review/text: These crackers are amazing. A hint of almond and ranch with the crunch of a tortilla chip. I love them and they are great when you are craving something salty. I buy them from the grocery store or the cheapest that I have found is from the Blue Diamond store online. With shipping a dozen boxes was around $34, which is really 48 servings. Not bad for a fairly healthy, nutritional, gluten free snack!
+
+product/productId: B000HPBRA0
+review/userId: A3066UVUWXQOZX
+review/profileName: Desert Rat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251504000
+review/summary: Love these crackers!
+review/text: We've tried the Ranch and the Nacho Cheese.  LOVE the crackers!!  Only drawback here is that these are not available with the  super saver program with 15% off and free shipping. I don't want to pay $11 to have it shipped to me.  Sorry!
+
+product/productId: B000HPBRA0
+review/userId: AJ1GIYJYGXRK6
+review/profileName: J. W. "J.W."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1237852800
+review/summary: awesome, gluten free snack!!
+review/text: my husband will eat a whole box of these in one sitting, they are awesome!
+
+product/productId: B000MSXWM8
+review/userId: A909V722FQZ93
+review/profileName: K. M. Davidson "momakat"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1178841600
+review/summary: Yum
+review/text: These are some of the best chocolate i have ever had and i have had lots of chocolate.  I highly recommend this companys chocolate in whatever form. YUM
+
+product/productId: B000MSXWM8
+review/userId: A1Y7I29EPSOMLX
+review/profileName: Missy
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1322784000
+review/summary: Very good but OVERPRICED
+review/text: These are quite good but what fool would pay 20.00 for 12 graham crackers?????????? Find others that are just as good for less than half the price ... This is a joke!!!!!!!!!!
+
+product/productId: B001EO5R0Y
+review/userId: A23MDA823G0MSQ
+review/profileName: Miggi "miggi"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1218412800
+review/summary: Very poor tea
+review/text: I bought 3 bags of this tea and found each to be just as bad as the last.  This tea has a very weak/poor flavour.  I tried to brew it very stong but it still ends up tasting bad.
+
+product/productId: B001EO5R0Y
+review/userId: A3B3V1RPSY7U4P
+review/profileName: A.V.
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1204156800
+review/summary: Smokey tea!
+review/text: As others have said, "if you like your tea to taste like the smell of a campfire", then this would be the tea for you.  I personally don't like it, but my friend loves it.  He calls it "smokey tea" instead of it's real name.<br />It's one of those things that you either will love it or hate it, there's no in between.  If you liked smokey flavored things, you will probably like this tea.  It does taste better with sugar in it too, kind of "softens" the taste, but make no mistake...IT'S A STRONG FLAVOR!
+
+product/productId: B001EO5R0Y
+review/userId: AL6JFJM99T3JI
+review/profileName: M. Schroeder
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1174953600
+review/summary: Stash Darjeeling Tea
+review/text: I was disappointed with this tea.  The taste was no better than Liptons Yellow Label Tea.  I expected more from a Stash loose tea since I have had good expereience with some of their tea bags.
+
+product/productId: B001EO5R0Y
+review/userId: A1ORJI788TRZ0V
+review/profileName: tea4me
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1169078400
+review/summary: tea4me
+review/text: Great tea. Like dessert in a cup. Only 4 stars because Numi is better.
+
+product/productId: B001EO5R0Y
+review/userId: A16KK3YHCWE29C
+review/profileName: QF Jane
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1190678400
+review/summary: Not what I expected
+review/text: The price + being organic is what drew me in to try the Stash brand... but the taste is nowhere near the Jasmine tea that I can get at my local teashop.<br /><br />I have tried several different ways of brewing, and the sweet jasmine aroma & taste is barely discernible.<br /><br />It is drinkable though, and like I said, the price was very good.  I hope to try the Numi brand next -- I have heard rave reviews about their Jasmine Pearl teas!
+
+product/productId: B001EO5R0Y
+review/userId: A2WEQ52C7ZOGQY
+review/profileName: Ping Fin "tea expert"
+review/helpfulness: 2/5
+review/score: 2.0
+review/time: 1175385600
+review/summary: Not really an Earl Grey tea
+review/text: This tea is spiced with other spices than bergamont and while the tea seems of good quality its taste it unlike an Earl Grey.  It tastes almost sweet and more like an herbal than a black tea.  If you are looking for an Earl Grey, this certainly is not it.
+
+product/productId: B001EO5R0Y
+review/userId: A1S7MC961R4WE4
+review/profileName: Ash
+review/helpfulness: 2/5
+review/score: 3.0
+review/time: 1167868800
+review/summary: Not Strong enough
+review/text: The tea is Ok but if you like your tea strong or with a dash of milk, this is not the best!
+
+product/productId: B001EO5R0Y
+review/userId: A3C39I4ZCC5212
+review/profileName: Anthony Quang Pham
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1310169600
+review/summary: Very strong...
+review/text: This is my first bag of chai tea and I have to say, it's extremely strong if you try to drink this straight. I can barely taste the tea itself, just a bit of bitter, and an extremely strong spice taste.<br /><br />It gets better if you water it down a lot, or take it with a lot of milk (basically a chai tea latte), which I suppose is how it's supposed to be drunk. But you start losing the base tea and only get the other spices.
+
+product/productId: B001EO5R0Y
+review/userId: A3DQWFWINN3V5A
+review/profileName: David A. Lessnau
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1286928000
+review/summary: Bitter Grass Clippings
+review/text: I don't much care for this Stash Premium Loose Green Tea.  I'm no tea expert, but I've got several problems with it.  Flavor-wise, I find this tea to be bitter with a grassy taste (that's not a good flavor, to me).  Texture-wise, the tea "leaves" range from almost half-inch long thin shards of leaves down to 1/16th of an inch sized remnants (I've uploaded a picture so you can see for yourself).  The mishmash of textures makes it difficult to portion out the leaves and results in a lot of the small stuff making its way through the infuser of my <a href="http://www.amazon.com/gp/product/B0010NR7C0">Bodum YoYo Personal Tea Set with Infuser and 12-Ounce Glass</a> (admittedly, a finer meshed infuser might not have as much of an issue here).  Also, the wide range of textures indicates (to me) that these tea leaves might not necessarily have been chosen for inclusion.  Instead, it feels like they might just have been leftovers from other processes (that's merely my non-knowledgeable feelings and not based on any hard facts).  On a positive note, I will say that the steeped beverage does have a very nice yellowish green color.  Overall, though, I have to rate this tea at a not-very-good 2 stars out of 5.  A green tea that I do like is <a href="http://www.amazon.com/gp/product/B000F4H5FE">Twinings Green Gunpowder Tea, Loose Tea, 3.53-Ounce Tins (Pack of 6)</a>.
+
+product/productId: B001EO5R0Y
+review/userId: A2KQGGZJTJ1CGE
+review/profileName: D. Logan
+review/helpfulness: 1/4
+review/score: 5.0
+review/time: 1189382400
+review/summary: Good for Indoor Smoking
+review/text: Great for making "smoked" ribs in your oven!  (But I don't think I'd ever drink the stuff)
+
+product/productId: B001EO5R0Y
+review/userId: A3THJ7GQR0M37T
+review/profileName: R. Higgins
+review/helpfulness: 0/3
+review/score: 4.0
+review/time: 1238025600
+review/summary: Convenience of Auto Delivery
+review/text: I find it very convenient to have some of my grocery products automatically delivered to my door.  However, when I did postpone an order because I didn't need it yet, it was a problem getting it delivered sooner when I did run out.
+
+product/productId: B001EO5R0Y
+review/userId: A1CVPBZYFSVIAQ
+review/profileName: t rad "t rad"
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1173571200
+review/summary: Tastes like a Campfire!!!
+review/text: The product description says, "assertive, dark, smoky fragrance and flavor" and they ain't kiddin'!!!  It barely tastes like tea at all... more like they took a cloth, let it hang in campfire smoke for a week, soaked it in hot water and wrung it out into my mug.  Seriously!<br /><br />I've tried taking half of a pinch of this and adding to other tea leaves when I brew a pot. That turns out pretty good.  But straight? You'd better like wood smoke!
+
+product/productId: B001EO5R0Y
+review/userId: A7VNP2A3H72JD
+review/profileName: Glenda Steffee "GH Steffee"
+review/helpfulness: 0/6
+review/score: 5.0
+review/time: 1188604800
+review/summary: Daughter's first choice
+review/text: My adult daughter is "into" saving the planet, tigers, water resources, trees, etc. She chose this chai tea after discovering an old tea infuser in the kitchen drawer thinking it would be grand to make tea "the old fashioned way".  She realized with the first brewed cup that loose tea has a much fresher, intense flavor than teas in a bag. I doubt that she will go back to using tea bags again and will probably research and request more Stash tea products in the future.
+
+product/productId: B001EO5R0Y
+review/userId: A196SEEGLL4OGD
+review/profileName: J. Singer
+review/helpfulness: 10/10
+review/score: 3.0
+review/time: 1157414400
+review/summary: Good, but not great
+review/text: Unlike most Stash teas, and most premium loose teas in general, this tea is not identified by a region of origin or a method of preparation.  Fittingly, the flavor is very typical of unadulterated green tea.  Before infusion, the dry leaves smell of sweet hay, but after brewing, the smell and the flavor is a bit more mild and earthy.  There are plenty of stems mixed in with the tea leaves, which is disappointing in a "premium" tea.  The most important thing I can say about this tea is to only infuse it for 2 - 3 minutes.  The recommended infusion time of 3 - 5 minutes is way too long and results in a very bitter cup of tea.  Overall, this is a fine tea for the price, but don't expect anything outstanding.
+
+product/productId: B001EO5R0Y
+review/userId: A3LOIAZYY3U9V9
+review/profileName: Adam Z
+review/helpfulness: 10/11
+review/score: 2.0
+review/time: 1172707200
+review/summary: Go for Pinhead Gunpowder instead...
+review/text: Having purchased a package of this tea and one of Stash's Pinhead Gunpowder Green, I can safely say that the Gunpowder is much better tea. The "Organic Premium" is unacceptably heavy on stems and twigs, with an unpleasantly mulchy taste. The Gunpowder, on the other hand, is much lighter and more delicate. Same price, same distributer, both organic. Stash Gunpowder is simply better.
+
+product/productId: B001EO5R0Y
+review/userId: A3930X480VRR8D
+review/profileName: murray lee
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1181606400
+review/summary: great strong tea
+review/text: Use 1/2 as much tea as you normally brew and still have a stronger more full bodied tea.
+
+product/productId: B001EO5R0Y
+review/userId: A2OOGNEEW60IQ
+review/profileName: M. Bolin
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1169510400
+review/summary: Good value but.....
+review/text: This tea has a very grassy, vegetal taste and smell, which can be good or bad depending on your preference.
+
+product/productId: B001EO5R0Y
+review/userId: AAVXLDJPBOJBW
+review/profileName: Simon
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1168992000
+review/summary: Pleasant drinking tea
+review/text: This tea isn't quite as full bodied as some other Assams but still has a great flavor. The quality is good: the leaves are small tips and there is very little tea "dust" or stems in the bag.<br /><br />I have blended this 1:1 with Stash's Organic Ceylon for an easy drinking English-style tea.
+
+product/productId: B001EO5R0Y
+review/userId: A250CQHA3GDXIE
+review/profileName: chris "teh castle."
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1179100800
+review/summary: good tea, good bargain
+review/text: very good tea at a good bargain, you get three bags of tea that can each make about 45-50 cups of tea, so thats anywhere between 135-150 cups of tea.
+
+product/productId: B001EO5R0Y
+review/userId: A1B54NV7RNRBO4
+review/profileName: Lori
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1199577600
+review/summary: My favorite!
+review/text: I've started each morning off with this particular tea for the last 5 or 6 years. I love this tea. I went from a coffee drinker to a green tea drinker because of this tea. It has nice a strong flavor that I simply adore. (I make it much stronger then suggested, I love bitter tastes! Then I just add hot water to the leaves for the second cup, and it is as good as the first!) I have been purchasing this from Stash directly for years, but it is a better deal on Amazon.
+
+product/productId: B001EO5R0Y
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1186358400
+review/summary: Very Bergamot-y Tea!
+review/text: ****<br />I enjoy bergamot a lot, but this tea was way too fragrant for me; still it was different and enjoyable to try. The bergamot flavor is strong, not subtle, and a bit overwhelming---it's all you can taste.<br /><br />The ingredients of this tea are premium black teas with pure oil of bergamot---that's all.<br /><br />The manufacturer writes: "Oil of bergamot comes from the rind of a citrus fruit which grows very well in the Calabria region of Italy. Pure top quality oil of bergamot is expensive but no blend or man-made flavoring can match the ethereal aroma and finely nuanced flavor of the real thing.<br />Certain Earl Grey fanatics have grown especially fond of the top grade Calabrian oil of bergamot that we use and have asked for more, ..More,... MORE! Thus was born Stash Double Bergamot Earl Grey. In our Double Bergamot Earl Grey tea, the black tea base still serves as a solid foundation for this blend, but the oil of bergamot takes wing and soars to new unprecedented heights. The flavor is quite pronounced but not at all soapy or bitter which would happen with low grade oils. Is the flavor too strong? For a conservative drinker, maybe yes, but more adventurous types really seem to like it."<br /><br />I must not be adventurous enough. I do agree with the manufacturer, though, and it might be the tea for you if you're a huge fan of bergamot and want a lot of it, and I also agree that it tastes pure, not soapy or bitter at all.<br />****
+
+product/productId: B001EO5R0Y
+review/userId: A21XM05QOR21K3
+review/profileName: S. Jacobs "Elizabeth"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1174694400
+review/summary: outstanding quality, great price
+review/text: Stash's Organic Pinhead Gunpowder Green Tea, Loose Leaf, is the best of the best of green tea's.  It is rich, smooth, and looks like liquid gold in the cup.  The tea leaves can be used 2 or 3 times, depending on how strong you like your tea, with good results and good flavor.
+
+product/productId: B001EO5R0Y
+review/userId: AAVXLDJPBOJBW
+review/profileName: Simon
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1168992000
+review/summary: About right...
+review/text: My experience so far with black organic teas is that they tend to be lighter in flavor that their non-organic counterparts although I can think of no good reason for this. Stash's Organic Ceylon is no exception - it has a good, but subtle flavor.<br /><br />The quality is good: the leaves are small tips and there is very little tea "dust" or stems in the bag.<br /><br />I have blended this 1:1 with Stash's Organic Assam for an easy drinking English-style tea.
+
+product/productId: B001EO5R0Y
+review/userId: AXO4PQU0XG3TG
+review/profileName: Dwight
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1178409600
+review/summary: $13.60 for organic and pinhead
+review/text: From reading reviews of all the stash green teas, I decided to get the organic pinhead version for better quality.  I think it is excellent though it is not cheap.  The leaves look in excellent shape and only a spoonful is needed in a teapot.  I made the mistake of using too much tea for my first pot but this is a tasty tea.
+
+product/productId: B001EO5R0Y
+review/userId: A3KY6HIM0HCIGG
+review/profileName: Lynda Chassey
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1200960000
+review/summary: Excellent breakfast tea!
+review/text: I buy all my loose tea from Stash, and Kopili Assam is one of the best Assams I've tasted.  It's a bold, dark red, tea that tastes good any time of day.  If you only have a little left in the tin, it blends well with any other black tea.
+
+product/productId: B001EO5R0Y
+review/userId: A2R4BNNO98V4A2
+review/profileName: J. Prall
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1198022400
+review/summary: This is not premium quality tea
+review/text: I agree with the other reviewers.  Stash has some great teas, but this is not one of them.  I consider myself to be fairly well-educated when it comes to tea, and I have never seen tea milled in this manner before.  There are large bits and chunks of leaves and stems.  The flavor of the tea is very grassy, and the tea looks like it is relatively raw.  I guess you get what you pay for.  I'd avoid this tea and get the organic pinhead green.  Better yet, visit Stash's website for teas that come from established tea estates.  I recommend the Ambootia tea estate's Darjeeling Green.
+
+product/productId: B001EO5R0Y
+review/userId: A1NA2IGTRDXPAM
+review/profileName: Earl McKenney "Earl"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1168387200
+review/summary: Tea
+review/text: tangy ginger flavor - very pleasing to the senses; only takes a small amount to make a delicious cup of hot tea or iced tea in a pitcher for the refrigerator
+
+product/productId: B001EO5R0Y
+review/userId: A3MUSWDCTZINQZ
+review/profileName: Ulalume Jones "Creative Gal"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1283990400
+review/summary: My favorite Stash tea!
+review/text: I love this tea.  It is like the coffee of teas!  Strong brew, it has a malty taste I love. I've tried other Irish Breakfast teas and keep coming back to this one, other brands seem weak in comparison.
+
+product/productId: B001EO5R0Y
+review/userId: A971V3U77BXE5
+review/profileName: J. Hirschman "in California"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1268524800
+review/summary: Looks good, tastes bad
+review/text: I was looking forward to this product, as my wife and I both like Earl Grey tea, and decaf lets us drink it at night.  We drink a variety of tea, so we don't go through individual tea very quickly, so I was looking forward to the resealable packets.<br /><br />Unfortunately, this tea just doesn't taste good initially and has a particularly unpleasant aftertaste.  I definitely would not recommend buying this tea.
+
+product/productId: B001EO5R0Y
+review/userId: AUKAIUTI6IANW
+review/profileName: P. Beck
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1262304000
+review/summary: Not particularly strong
+review/text: I have a wrapper from a single teabag of Nummi Tarry Lapsang Souchong, and the wrapper alone smells stronger after being opened for two months than a whole 3.5 oz bag of this smells fresh. This tea only has a light smoky scent and flavor, whereas the Nummi tea had a strong pine smoke scent and taste. I know that tarry lapsang souchong should be stronger, but I'm still a little disappointed at how weak this one is. Maybe I'll just use more tea for stronger batches.
+
+product/productId: B001EO5R0Y
+review/userId: A3Q2XQ803BLXME
+review/profileName: C. Drennon "the stitch"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1255219200
+review/summary: Great green tea for not too much.
+review/text: Stash's gunpowder green has been a staple tea in our house for almost a year now. We prefer it iced, but it is decent hot. It is much more affordable than most other green teas and the quality is right up there with other good gunpwder greens we have had. Like most green teas, steep at 180 degrees for 3 minutes to get the best results. We go through a 3 pack of this stuff every single month.
+
+product/productId: B001EO5R0Y
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1224720000
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Kosher. Very smooth taste. Medium dark color. Great tea and brand. Economical. Assam can be a wonderful place to visit when calm. Off the well-beaten and ordinary tourist path. Beautiful people. Possible to take the train (or a flight) from Kolkata [Calcutta.] Large parts of Assam are blanketed with beautiful tea gardens. Stayed at a tea garden in Assam on one of my visits there. Loose leaf tea is very economical even for premium brands compared to tea bags. Bulk loose tea is also typically better than the powdered teas used for tea bags. Stash is a leading organic tea brand. Also really like <a href="http://www.amazon.com/gp/product/B001E5E268">Stash Premium Organic Jasmine Green Tea, Loose Leaf, 3.5-Ounce Pouches (Pack of 3)</a>. Check out that review if you are interested in some brewing tips. This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B001EO5R0Y
+review/userId: A32SK8XY51OQFR
+review/profileName: Pam "Tea freak"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1215561600
+review/summary: Lemon Ginger Tea
+review/text: Excellent tea.  Normally I am a black tea drinker, but this is an exception.  Superb when you have a cold or tummy ache.  A must have on hand tea.
+
+product/productId: B001EO5R0Y
+review/userId: A3DWLW7WWFKE6D
+review/profileName: Judith "judy"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1212451200
+review/summary: good but pricey
+review/text: A friend requested loose Jasmine tea for her birthday and there weren't many options. Being in a hurry, I bought it, keeping one of the 3 packs for myself. I think the price is rather high, but the package zip locks, and the favor is nice. Strong enough to know it's jasmine, but not annoying.
+
+product/productId: B001EO5R0Y
+review/userId: A35OD1RKGX6RJK
+review/profileName: foamweapons
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1195430400
+review/summary: Great Green Tea
+review/text: I've tried many green teas in the same price range, but I always come back to Stash Organic Green.<br /><br />This green tea tastes how I think green tea should taste.  It's light, vegetal and very smooth.  To get the full flavor you need to use more leaves than most other green teas, and make sure the water temperature doesn't go over 180 degrees.  I often mix this tea with cascade mint, jasmine green or other Stash loose leaf herbal teas because although it's very good by itself, plain green tea can get boring day-after-day.  Contrary to the other reviewer, I don't like the Stash Organic Pinhead Gunpowder, and recommend this tea instead.
+
+product/productId: B001EO5R0Y
+review/userId: A3OYRU2VONLAQT
+review/profileName: PAC "islandhousebooklover"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1194912000
+review/summary: great tea, great price, great service
+review/text: Being British in America and finding a good "cuppa" is almost impossible. but I think with the stash breakfast tea I can happily live here forever.
+

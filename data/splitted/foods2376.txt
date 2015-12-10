@@ -1,0 +1,1143 @@
+product/productId: B007UL2910
+review/userId: A1T1P7ZU838JW6
+review/profileName: s. thatch's
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339459200
+review/summary: Very good
+review/text: This is very, very good Hot Cocoa. I especially like the peppermint. I suggest a small cup versus large, as it is more flavorfull.
+
+product/productId: B007UL2910
+review/userId: A353Y7VBQHHW0T
+review/profileName: wackygirl "wackygirl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339372800
+review/summary: Great taste
+review/text: My 11 year old loves this product.  It is a nice little variety pack.  I am going to subscribe for 1 every 3 months.  Best hot chocolate k-cups made!
+
+product/productId: B007UL2910
+review/userId: A1YH8QBG38D7ZB
+review/profileName: Sarah Weiss
+review/helpfulness: 5/8
+review/score: 1.0
+review/time: 1339200000
+review/summary: gross!
+review/text: This hot cocoa tastes very artificial, like fake sweetener. I could barely finish a cup of it, it was that gross. Buy at your own risk.
+
+product/productId: B007UL2910
+review/userId: A2F5RA9B0P8VC
+review/profileName: A. Steele
+review/helpfulness: 1/7
+review/score: 1.0
+review/time: 1339113600
+review/summary: Product was damaged
+review/text: When I received this package, cocoa power was spilling out of the box.  Upon opening the box, 3 of the pods were cracked open and useless.
+
+product/productId: B004JQXB66
+review/userId: AAJOV2S9O7OO
+review/profileName: Torrey Pines
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1309046400
+review/summary: Greatly Disappointed
+review/text: I have brewed the coffee three times and my wife brewed it once, as well.  We tried different amounts of the pre-ground coffee and we could not brew a pot that we enjoyed.  The flavor has the overtones of chemicals, which is not to say there are chemicals in the process used, it just tasted that way.  Little body, low in complexity, and awful in flavor.  I tried one more time this morning and after tasting it once again, threw in ice, foamed milk, and poured the rest of the pot down the drain.  The unopened bag that I have and the opened bag will be disposed of.  I've read all the reviews and the touts of the manufacturer but given my druthers, I'd rather not drink coffee or suffer with the little bit of reflux I get from non-acidified coffee.  This just wasn't worth it.  I wrote to the manufacturer 2 weeks ago to say I was disappointed and asked if there is something that they recommend I do to perhaps improve the quality of the brewed coffee.  I never got a response which tells me a) they don't care and/or b) it is what it is and you will either like it or you won't. I took a chance and unfortunately it didn't work out for my wife and I.
+
+product/productId: B004JQXB66
+review/userId: A2QFYGBSKDGZF9
+review/profileName: Billy-Bob Quebodaux
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319932800
+review/summary: Puroast Coffee - Dark French Decaf
+review/text: The Puroast range includes decaf and caf, and it includes a variety of roasts.  I like the Dark French, because I am from Louisiana and I have always drunk industrial strength coffee.  But nowadays, with my doctor having insisted on my using decaf, well ... I want it to *taste* like industrial strength.  And my stomach doesn't really like the acidity of normal coffee.<br />So: I get two bags of the Puroast Dark French Decaf, and mix it with one box of Coffee Partner brand chicory.  This gives me a coffee that tastes like New Orleans, but doesn't give me a heart-attack or upset my stomach.  Win-Win!
+
+product/productId: B007FREB88
+review/userId: A1989WJVG7DHBK
+review/profileName: OhioAtty
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344470400
+review/summary: Good - a bit strong for me, but good
+review/text: I am a big fan of the Teavana flavor. They are pricy, but worth it. I've always loved oolong tea. This isn't my favorite. It's a bit strong. I blend it with other flavors and that has worked well. I won't buy it again. But I'll defintely drink up what I have. :)
+
+product/productId: B006MW5DGG
+review/userId: AEE1DL0IVKYKZ
+review/profileName: LvnLife520
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1339718400
+review/summary: ugogrl520
+review/text: I was very pleased with the taste of these "Gluten Free" products as well as the ease of making them, they make being healthier so easy.
+
+product/productId: B006MW5DGG
+review/userId: A287L44TW0X2N
+review/profileName: bauerrc
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330041600
+review/summary: Great Gluten free.
+review/text: These are really good for being gluten free. I am new to the whole NO wheat and these have been a great replacement.
+
+product/productId: B0012FHPPA
+review/userId: A2AVRC44POYX0A
+review/profileName: Colleen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335312000
+review/summary: Gift
+review/text: Gave this to my mother in law for valentine's day.  It looked nice and she said they were delicious.  I would purchase them again as a gift.
+
+product/productId: B000EMOCRQ
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1202688000
+review/summary: Great snack for kids!
+review/text: What a great playdate snack!  These things disappear so very fast, it's just unbelievable!  Can't really recommend them enough - the kids can't get anough of them.  The tropical is the least favorite, but hey, mom and dad get those!  It's so much fun to see the kids eat these things - it's pretty funny! They taste amazing, much better than I thought after those nasty things we had in the 70s. Highly, highly recommend!
+
+product/productId: B000EMOCRQ
+review/userId: A6CUJOWU2SFOL
+review/profileName: J. Brown
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341014400
+review/summary: Great flavor
+review/text: These roll ups have a good variety of flavors. Everyone I gave some to loved the mixed fruit roll ups. I would recomend them and I would purchase them again.
+
+product/productId: B003NLQ02U
+review/userId: A2KMQIB41DEQQ0
+review/profileName: hisWahini
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342051200
+review/summary: plain package, good licorice
+review/text: I bought these for a fathers day gift along with other candy from this seller. I received them on time but I was not happy with the wrapping for this particular product. The image online shows a nice box of licorice but I got the candy in a plastic bag. It specifies 2 x1 lb bags but I assumed they were inside a box like the one pictured. The licorice was very flavorful though. I also was shortened by one 1 lb bag of my total order which customer service said they are shipping but I have not received yet.
+
+product/productId: B0000E5JR0
+review/userId: A25MKLQ7ZG9344
+review/profileName: Carole A. Nelson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1275436800
+review/summary: Great Potato Chips
+review/text: I am glad I signed up for notification when these Cajun Dill potato chips are available.  We spent a lot of time in Louisiana, they are so good we were eating them for breakfast!
+
+product/productId: B0000E5JR0
+review/userId: AG1ZQXBXZYFSH
+review/profileName: Ziggy Mama "ZiggyMama"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1345507200
+review/summary: No Pickle Flavor
+review/text: I assume  "Cajun Dill" tastes nothing like " regular Dill". I wouldn't have known these were Dill flavored by tasting them -- 0% pickle flavor; not even a hint. They tasted more like "Lawry Seasoned Salt Flavored" Potato Chips. They looked liked Lays but were thicker and more crunchier (but not in a good way). I won't be buying these again, I didn't finish the bag. I'll stick to Dill flavored Pringles :/
+
+product/productId: B005ACNTVA
+review/userId: A3ISXAH2PLIG28
+review/profileName: Jessica Carpenter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: This is a decent price
+review/text: Despite what one reviewer wrote, this is a decent price compared to other retailers.  One should consider the size of the container when comparing prices.
+
+product/productId: B005ACNTVA
+review/userId: A2U65XOK057RNL
+review/profileName: HappyMommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339286400
+review/summary: excellent for acid reflux!
+review/text: So after 4 children and having tried almost every single formula on the market this is by far one of the best for doing its job... lessening the amount of spit-up from acid reflux. Keep in mind no powder can do it completely, its impossible because the muscles in baby's tummy will not be fully matured until later which causes spit-up no matter if you use formula or breastfeed. One thing to warn you of, this powder does really thicken. In newborn stage or at least if you still use the 1st stage nipple it will sometimes get clogged if you premake your formula in large quantities or let it sit in a bottle in the fridge for later. Using this type I have found best to mix it directly before a feeding instead.<br />Also when publishing a review here, you should be rating the actual product and not the price, as I've seen many do. Anyone can compare prices but not everyone has used a certain product and use this to look at reviews to see how the product performs. Price ratings alter an accurate overall product rating.
+
+product/productId: B005ACNTVA
+review/userId: A2FQAD725BG2AB
+review/profileName: QOTU79
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319414400
+review/summary: Works pretty well for frequent spit up.
+review/text: My 5 mos old girl has acid reflux and spits up A LOT. This formula has definitely helped her spit up less and she is now starting to grow out of it. I tried breastmilk, and all different kinds of formula before and after trying this one but A.R. seems to be the best for her. I would give it five stars if this product stopped her spit up 100% but it doesn't and it doesn't claim that it will. :)
+
+product/productId: B005ACNTVA
+review/userId: A1I0I9NH95Q0HM
+review/profileName: C. Connelly
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1324080000
+review/summary: Bad Price
+review/text: Unlike most other things we've found on Amazon, the price of this formula is terrible.  Diapers.com and Babies R Us offer much better pricing on this item, by almost $10 in some cases.
+
+product/productId: B000EY38MY
+review/userId: A367GOGRUU9TGQ
+review/profileName: Abigail in Winterville
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1167782400
+review/summary: Delicate product
+review/text: The product and service were excellent--EXCEPT that the delicate product arrived broken up with the tins dented in shipping.
+
+product/productId: B000EY38MY
+review/userId: A2P00L8ZU3AVLW
+review/profileName: HoneyMaven
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1277424000
+review/summary: Broken to Bits...
+review/text: These wafers taste incredible under normal circumstances but the six tins are a crumbled mess of smashed chocolate sticks. They should have written 'fragile' on the box. It's literally a pile of chocolate goo and crumbs. I will not order again...
+
+product/productId: B000EY38MY
+review/userId: AM68DFSTCHAE6
+review/profileName: W. Quattlebaum
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1216512000
+review/summary: Delicious but damaged goods
+review/text: As with most of the reviews here my tins arrived with 75% or more of the wafers crushed. We ended up using a spoon to eat the crumbs of the 1st tin we opened. Outstandingly delicious but I cannot imagine serving these to guests as the chocolate had also melted and you cannot avoid getting chocolate on your fingers as you pick at the small remaining wafer tubes that are available. What a mess. If these had arrived whole they would get 5 stars instead of just 2.
+
+product/productId: B000EY38MY
+review/userId: A3OAE6FKKQB04U
+review/profileName: S. Taylor
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1175644800
+review/summary: These Contain Milk
+review/text: I bought these at a specialty store before ordering them from amazon.  They did not contain milk at that time.  I loved them, and decided to order a case.  Milk, as of the writing of this review, is still not listed as an ingredient on this website.  There are stickers over the ingredients, which include milk powder.  I called the company and was told the recipe had changed.  They were very nice and offered a refund.  Unfortunately, we opened one and ate some before I noticed the sticker.<br /><br />Even if you don't mind the milk, please be aware that they will arrive in crushed bits, not in wafer rolls.
+
+product/productId: B000EY38MY
+review/userId: A1WZPVI7LO7CD0
+review/profileName: A. Sawyer
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1159747200
+review/summary: Dolcetto All-Natural Wafer Rolls,
+review/text: Wafer Rolls delivered with a large amount of breakage.  While they taste good it would be nice to have something that resembles a wafer rather then crumbs.  However the price is right.
+
+product/productId: B000EY38MY
+review/userId: A33UUAM37KZCG9
+review/profileName: Greg Staie "Film Fan"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1158537600
+review/summary: Delicious but fragile
+review/text: My wife and I love this delicate wafer rolled round a delicous chocolate paste. The only problem we encountered is that it was poorly packed for shipping and as fragile as the product was, we had many soft globs of chocolate surrounded by wafer flakes. There was at least 75% breakage.<br /><br />We will try it again soon, but if it comes damaged, it will be return/refund time.
+
+product/productId: B000EY38MY
+review/userId: ASCDYMBKU4P0J
+review/profileName: M. Coen
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1157587200
+review/summary: CROSS CONTAMINED WITH PEANUTS/NUTS OR EGGS
+review/text: I BOUGHT THIS PRODUCT BECAUSE IT HAD AN ALLERGY ALLERT BUT IT FORGOT TO MENTIONED THAT IT IS MANUFACTURED IN SAME FACILITY WITH OTHER NUTS AND THAT IT MIGHT CONTAIN EGGS.  WE HAVE A PERSON WITH PEANUT AND EGG ALLERGY AT HOME AND ENDED UP HAVING TO CALL RESCUE AFTER TWO BITES.<br /><br />OUT OF THE 6 CANS, WE ONLY OPENED 3 AND THEY WERE ALL MELTED OR BROKEN.<br /><br />TERRRIBLE.
+
+product/productId: B000EY38MY
+review/userId: A13NVE8JQSD7RW
+review/profileName: VeraB
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336089600
+review/summary: Yummy wafers
+review/text: These are delicious! A very thin wafer roll with a melt in your mouth chocolate/coffee filling. What's not to love about it!!<br />The only reason I don't give it 5 stars it's not because of the wafer itself but because of the condition it arrived, most of them were broken and even melted, I'm sure they were exposed to a very warm environment.<br />Still yummy dough!!!!
+
+product/productId: B000EY38MY
+review/userId: A2U43DVCR94IFJ
+review/profileName: Nancy L. Carpenter "Nancy Lee"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1253059200
+review/summary: Vanilla Wafers
+review/text: These wafers are very good.  The vanilla taste is just like real vanilla and<br />not fake vanilla.
+
+product/productId: B000EY38MY
+review/userId: A2NGMMWB3KERGB
+review/profileName: Ann Beatty Culbreth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1217203200
+review/summary: Best Dessert Ever!
+review/text: Dolcetto chocolate wafer rolls are without doubt the best dessert ever!  I cannot eat just one!  I would recommend them to anyone who likes chocolate.  Not too sweet or heavy--JUST GREAT!
+
+product/productId: B000EY38MY
+review/userId: AIS2YOA9ZSVSM
+review/profileName: M. Stansel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1174521600
+review/summary: Dolcetto Chocolae Wafer Rolls
+review/text: These rolls are superior to the name brands sold in most supermarkets.  Purchasing 6 tins is also more economical.
+
+product/productId: B005MWDVO8
+review/userId: A1Q4WNAKOCPYOQ
+review/profileName: Ella-Jo Bulleit
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1342915200
+review/summary: Gross & stale & chocolate part bloomed/ruined
+review/text: They came all melted and stale after I was so excited to try these.  Had one before from a store and it was yummy.  Ordering this box tasted like it had been stored for a year in a hot warehouse and then shipped to me.  Totally gross & I had been warned of this by other reviewers.  I should have listened.
+
+product/productId: B000GG1S5O
+review/userId: A1DS8QYWXT6CDA
+review/profileName: Clairzus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339545600
+review/summary: Good buy
+review/text: This product is a great substitute for sugar.  It's great if you're Dieting or just a healthy topping for almost anything.
+
+product/productId: B000RHXGRA
+review/userId: AR6V01B83OUEK
+review/profileName: E. Rock
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1260489600
+review/summary: Whole grain, no problem. Home delivery at half the price of store bought
+review/text: With staples, you just need the storage space and with the 10lb offering from Angelinas, it just large enough to give you substantial savings over store bought grains and small enough to store without moving too many boxes in a New York studio apartment.  Some things you just have to make room for and this is one of them.
+
+product/productId: B0017QNA9Y
+review/userId: ABX2WGO1ARPSJ
+review/profileName: J. Brubaker
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1260057600
+review/summary: great deal!
+review/text: Every once in a while my genes insist I make SOS and it is getting very hard to find this stuff in stores and if you do it is priced like caviar, so this is a find and after all it will keep pretty much forever.  Just be sure to rinse it before you use it to wash away what will be waaaaayyyy too much salt!
+
+product/productId: B0017QNA9Y
+review/userId: A3IZQWRULAKKMT
+review/profileName: Richard B. Spurgeon
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1246406400
+review/summary: great. reminds me of my days in the Navy
+review/text: If you can not find a product at the store you will always find it at Amazon.com.
+
+product/productId: B0017QNA9Y
+review/userId: A2GEZJHBV92EVR
+review/profileName: History buff
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344729600
+review/summary: Makes Awesome authentic SOS!
+review/text: I grew up having SOS every sunday. It was a family tradition. My dad was a cook in the Navy so he had this fantastic recipe for SOS. It used dried beef. This stuff brings back many pleasant memories. It tastes just like the dried beef he used to make his famous sunday SOS. I now gave that recipe was was so happy to find this at the store. I've made sos using the referigerated carl budding meat but ir's NOT as good. The dried beef makes the recipe turn out right, soooo delicious! A word of caution though. This stuff is LOADED with salt & you need to rinse it off really good before using. Then it us just fine. Awesome taste in sandwiches also. It's the best. Get some!
+
+product/productId: B0017QNA9Y
+review/userId: A35GAZCE3881IZ
+review/profileName: Crapey Dakes
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1313712000
+review/summary: Salty and overpriced
+review/text: I've used this product before and it is way salty and needs to be rinsed, but it's fine for dry beef and gravy which is all I've used it for.  I purchased it also at the 99cent store for more than a dollar less per jar.  I am disappointed that buying a case of it is still more expensive than buying it one jar at a time at the 99cent store.
+
+product/productId: B0017QNA9Y
+review/userId: AV739PKJ5BSL4
+review/profileName: Finally &#34;home&#34;
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292198400
+review/summary: Like when I was a kid.
+review/text: My mom was looking for this beef and couldnt find a the local grocery.  She used to fix it creamed over toast.  I told her she has to use it sparingly since it is high in sodium, but it tasted just like we remembered.
+
+product/productId: B00060MVXS
+review/userId: A39P9MYT2BUG9C
+review/profileName: teddy
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1305417600
+review/summary: Outstanding Pepper Jelly
+review/text: We LOVE this product--have used it for years!  But lately, we can't find it in the local stores. We are so relieved that we could order it online!<br /><br />It's sweet, but with a nice sassy kick! Great on buttered English Muffins, toast, or crackers.<br /><br />Our mistake is that we only ordered four--and in less than a month, we're on our third one already!
+
+product/productId: B00060MVXS
+review/userId: A3MQ672FYFNM7B
+review/profileName: JGC
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1277424000
+review/summary: sweet & sour
+review/text: Tabasco jalapeno jelly is very good. It is sweet and spicy and the perfect compliment for a variety of dishes. I just started using it recently and already I am in love with it. This comes in mild so it's not too spicy and not too sweet so everyone will enjoy it. I found it at my grocery store in the condiments aisle, next to the ketchup and barbecue sauce for only three forty-nine.<br /><br />BTW below is a terrific recipe in the new ATK 30-minute dinners summer  supplement for Glazed Drumsticks:<br /><br />3 tablespoons jalapeno jelly<br />2 tablespoons molasses<br />1 teaspoon cornstarch<br />1 teaspoon grated orange zest & 2/3 cup orange juice<br />1 minced shallot<br />2 teaspoons vegetable oil<br />8 drumsticks (you can also use thighs or breasts, just adjust the baking time)<br />salt & pepper<br /><br />Heat Oven to 450 degrees. Combine jelly, orange zest, juice, and shallot in small saucepan. Whisk in molasses and cornstarch and simmer over medium-high heat for 5 minutes.<br /><br />Pat chicken dry and season with salt & pepper, add oil to large skillet and cook chicken for about 5 minutes, until skin browns.<br /><br />If your skillet is oven-safe feel free to just pour off any of the remaining oil and use it for the oven, otherwise use another oven-safe roasting pan. Top chicken with glaze mixture and turn around until well coated.<br /><br />Roast in oven for 20 to 25 minutes until chicken is 175 degrees, turning halfway through.<br /><br />Remember, you are what you eat.
+
+product/productId: B00060MVXS
+review/userId: AW1H5ASBAZHBW
+review/profileName: P. Hatchett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343952000
+review/summary: Mmmmmm
+review/text: This is my favorite jalapeno jelly hands down.  Just the right amount of hot with the right amount of sweet.  I spread it on all kinds of things and also make sauces with it.  What more can I say?
+
+product/productId: B000LKVAGW
+review/userId: A1CC3G24842BG6
+review/profileName: E. Willis
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1262044800
+review/summary: good teether biscuit
+review/text: These are good teether biscuits. With four kids we have tried lots and they all break at some point, if a food was not able to break it would be very difficult for a child to eat. With any solid food babies need to be supervised. These are nice and dense and I feel break less easily than others. The kids like them, they are organic, and there are enough in the box to last a few weeks. If parents are having problems with their babies easily biting off pieces it may be best to break the biscuit in half and put it in a mesh feeder.
+
+product/productId: B000LKVAGW
+review/userId: A2LYEY1AGH4UEH
+review/profileName: scanpennett
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1244678400
+review/summary: Horrible!
+review/text: I wanted to love these, my son does, but they DO BREAK and very easily.  My 8 month old is able to bite off big pieces.  This is not a safe baby product.  For now I think we are going to stick to frozen banana in the baby safe feeders.
+
+product/productId: B000LKVAGW
+review/userId: A2K8UBI64T0BM8
+review/profileName: A. Carriglio
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1252540800
+review/summary: Yes, They Do Break
+review/text: How do I know?  Because my son choked on a piece that had broken off (and he hadn't cut a single tooth yet when this happened). I tried them again thinking that maybe just that one biscuit was "defective" but biscuit after biscuit continued to break.  Now I'm stuck with a case of these biscuits because it's the only way that Amazon sells them.  I may continue to give them to my son seeing as he seems to like the way they taste but will do so only when I have the time to sit down and watch him even more carefully than I usually do when he's feeding himself.
+
+product/productId: B000LKVAGW
+review/userId: A1Z681L8BUQONP
+review/profileName: L. Todd
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1228176000
+review/summary: great product
+review/text: perfect for teething toddlers; they do not break off, which is excellent so that you do not have to worry about your child choking
+
+product/productId: B000LKVAGW
+review/userId: A2OWQPX41ILBOW
+review/profileName: Janet Sherwin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301875200
+review/summary: We love 'em!
+review/text: My twin girls can mouth these for a really long time without breaking or finishing them. The biscuits get soggy slowly and provide a lot of entertainment, apparently. I mean, the babies love them! They make this yummy humming noise for 45 minutes working on them. It's great; I can watch them and prepare dinner. Also, I love that these biscuits are sweetened only with molasses, and the ingredients list is super short. Good stuff. They were a gift from a friend, but I'm online today to buy a case, as they are better than the softer Earth's Best ones my supermarket stocks.
+
+product/productId: B000LKVAGW
+review/userId: A3VKZT5R75UZW3
+review/profileName: Lok Wong
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1321401600
+review/summary: Unsafe teething biscuits
+review/text: This is my first review as a new mom but I felt I needed to alert parents that this product is not safe as a teething biscuit. I got this at Whole Foods supermarket for my 8-month old. While it is a nice shape to hold for his little hands, a bit on the end broke off and choked him.  He has no teeth. It seemed to melt mostly in his mouth but then a small piece on the end broke off. I had to turn him upside down to dislodge the piece. It's also not very tasty when I tried it. So I guess the rest of it will go in the trash.
+
+product/productId: B000LKVAGW
+review/userId: AD93UATO16KYD
+review/profileName: Sam A.
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1311724800
+review/summary: A real danger to children
+review/text: While some kids might not have any problem with these, and they may taste okay, my daughter seems to choke on a broken off piece every time she has one, and she has two teeth that are hardly visible. The latest incident (third biscuit out of three) was so severe and scary that I've rendered the rest of the pack dog food. I really wonder how many kids have died off this product. Terrifying, to say the least.
+
+product/productId: B002G8V81E
+review/userId: A1HHKZVA876ICH
+review/profileName: Happy Go Lucky "discerning reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: Tasty Coffee!
+review/text: I also get the regular coffee.  The vanilla is great, it's not too vanilla-ey but just right.  The best instant coffee I have come across so far!
+
+product/productId: B000MS05JG
+review/userId: A2LTA83LBPUDJP
+review/profileName: Justin
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1244937600
+review/summary: Great cocoa powder for a great price!
+review/text: This is very high quality cocoa powder, with high cocoa butter content.  It makes excellent hot chocolate, brownies, mochas, and frosting.<br /><br />It is not Dutch process, so it is suitable for most uses which do not explicitly call for Duch process cocoa.<br /><br />It ships in a durable and resealable plastic bag, and stays fresh and dry for months.
+
+product/productId: B000KNHDIY
+review/userId: A1UIE42TOC8KUX
+review/profileName: Joe S. "Joe Schmoe"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322524800
+review/summary: Best tasting milk chocolate chips out there
+review/text: On the back of the package there is a recipe for milk chocolate chip cookies.  It's pretty much a standard recipe ( looks the same as the one Nestl&eacute; has on their site). My favorite dessert is these cookies hot out of the oven.  Although this recipe would be good with just about any chips, I think it tastes best with these ghirardellis.  The milk chocolate is velvety smooth and has a real milk, cocoa and cocoa butter taste.  The milk chocolate isn't too light or too dark.  Bake a batch and enjoy!
+
+product/productId: B000KNHDIY
+review/userId: APX564RKWU13T
+review/profileName: KL "girly girl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305504000
+review/summary: Awesome Chocolate Chips
+review/text: I bought these at my local store because they were on sale.  Even without the sale price, these chips are a little cheaper than the Nestle brand ones.  These chips are larger than other brands and taste amazing.  I make chocolate chip cookies on a regular basis and I love using these chips.  Try them in your next batch!
+
+product/productId: B000KNHDIY
+review/userId: A2SSOFW16UH1CE
+review/profileName: Angela Daniels
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1306540800
+review/summary: Price has almost doubled!
+review/text: I love these and bought them about 6 weeks ago from this seller for 22.75 with prime free shipping . They are now 39.99 plus almost 10 dollars in shipping WHich works out to about (4 per bag of chocolate chips.  I guess I will have get them elsewhere in the future - yeesh!
+
+product/productId: B000P6XDT4
+review/userId: A3EZL2BG76QU2S
+review/profileName: Stan L. Riggin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1202256000
+review/summary: Necco Wafers Minis 5 lb Party Box
+review/text: Our order came quickly and was all that we expected it to be.  Good experience.
+
+product/productId: B000P6XDT4
+review/userId: A2TYCO0QZ5H34J
+review/profileName: Clark Macomber
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1188864000
+review/summary: Necco Fan's Delight
+review/text: If you're a Necco addict (you've tried 'em) this is a great deal for a whole lot of measured doses.
+
+product/productId: B000P6XDT4
+review/userId: A2KYFI19B1DKR4
+review/profileName: Crystal L. Ferguson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1187827200
+review/summary: Great Candy Favorite in Mini Snack Size!
+review/text: We LOVE Necco Wafers and enjoying them in the mini rolls keeps us from "over-indulging".  However, the "party box" is a misnomer.  They came in a plastic bag with a twist tie close.
+
+product/productId: B002MCHN8Q
+review/userId: AMBJQQSRCAOHS
+review/profileName: Scott_Andrews
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1297555200
+review/summary: Best Japanese Rice I have eaten.
+review/text: This is some of the Best Japanese rice I have tasted, I usually by smaller 5 lbs bags at jewel-osco in the Asian section. But this is way more of a saving for my family of 4. I would recommended this stuff to anyone who like sushi and Japanese rice, I know they also have brown rice and my Wife is a firm believer in brown rice. So If I try it I'll update later.
+
+product/productId: B002MCHN8Q
+review/userId: ABGH6P1RC1UDS
+review/profileName: Shady
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1317600000
+review/summary: Great Rice & Great Price with Prime Shipping
+review/text: This rice has an excellent taste and is very versatile. A little more expensive that buying it locally, but even though I live in a medium sized city, it's still hard to find it in stock...Even then it's 45 min ride to other side of town and the place was closed.;-( So, very convenient to get it with Prime here on Amazon! We use it for all sorts of dishes, from sushi rice to making our own Spanish yellow rice. My kids have it for lunch along with nori, hard boiled eggs & a little soy sauce for a simple meal.
+
+product/productId: B002MCHN8Q
+review/userId: A2UL4M5SXL7L0A
+review/profileName: basieswings
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1313107200
+review/summary: Excellent Flavor, Great Texture
+review/text: I was turned onto this rice seven years ago when I met my now husband (who is Filipino). I buy both the white and brown Botan Calrose rice at my local international foods mart, and they are both fantastic. When cooked according to the instructions on the bag they come out perfect. I've eaten the white rice for years but since we tried the brown, it's become my favorite (it's not quite as starchy and slightly chewier.) The white rice is a bit on the sticky side but great for using in any rice dish. I also love Botan's orange rice candy... try them all.
+
+product/productId: B002MCHN8Q
+review/userId: A27Q1DJ9E0QF1B
+review/profileName: J. Fletcher "Jim Fletcher"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332460800
+review/summary: Great rice for sushi!
+review/text: Reviewers who have complained about this rice being sticky are to blame for not knowing what they were ordering.  Rice that is described as "Great for sushi" in the product description is OF COURSE going to be sticky.<br /><br />This rice is delicious and perfect for sushi.  I do recommend rinsing a couple of times and then soaking for at least half an hour prior to cooking.  You'll find that the rice is even more delicious that way.
+
+product/productId: B002MCHN8Q
+review/userId: A7QY42NCM8UD3
+review/profileName: Tarsha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339200000
+review/summary: Perfect for sushi rice !
+review/text: I normally buy Tamanishiki or Nishiki for sushi rice, but I thought I would try something new.<br />I added 25 percent less water than it says on the cooking direction,<br />and let it soaked in the water for 30 min before cooking. It turned out great.<br />The rice goes perfectly with Mitsukan Sushi rice vinegar. Very yummy !
+
+product/productId: B002MCHN8Q
+review/userId: A1H7K79T4XFV74
+review/profileName: M. Stamate
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330473600
+review/summary: Great sticky rice
+review/text: I love this rice.  This 20 pound bag lasted us about 10 months, for two people who eat it frequently.  It is hard to find a sticky rice in our grocery store, and I was overwhelmed by all the choices at our local Japanese market.  This rice is perfect, I use it as sticky rice or for sushi.  I like to put some in a bowl and top with sliced steak, ham, vegetables or hard boiled eggs and pour some sauce on top - I like to use a seasame ginger salad dressing.  I love eating it for lunch or dinner.<br /><br />There are no cooking instructions with this rice and cooking sticky rice can be confusing because there is a lot of information out there.  I do not rinse my rice, I do not find it to be necessary.  It would probably be more authentic if I did but I think it is fine without that extra step.  This is the recipe I use:<br /><br />1 cup dry rice<br />1 1/4 cups water<br /><br />Combine in a sauce pan with a well fitting lid and bring to a boil.  Turn down to low and simmer for 20 minutes.  Remove from heat and allow to sit another 20 minutes without lifting the lid.  For sushi rice add about 1-2 tablespoons seasoned rice vinegar and stir gently.<br /><br />I try to avoid stirring too much once it is cooked as that will make it less sticky.  For that reason I do not fluff it like I would with usual American rice.
+
+product/productId: B002MCHN8Q
+review/userId: A2PU6511F08UBC
+review/profileName: kinsa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323129600
+review/summary: Easy to cook and yummy
+review/text: Cooking with this rice is very simple. Not even the need of rice cooker. I get rid of the rice cooker. I used any cooking pot.<br /><br />One is to one which is one cup of water to one cup of rice. After it boils without cover (you don't want any spills), slow the flame, put the pot cover and let it cook for 15 minutes. That's it.
+
+product/productId: B002MCHN8Q
+review/userId: A1YPGPO1S7CWTI
+review/profileName: Vicky
+review/helpfulness: 1/14
+review/score: 3.0
+review/time: 1304380800
+review/summary: Hard to cook
+review/text: I cant command how much water should I use. Its harder to cook than all the rice I have cooked before. But I think if I could cook with a right volume of water, mayge it would taste good
+
+product/productId: B002MCHN8Q
+review/userId: A1MEC4PTV3PYKA
+review/profileName: WSOP Dealer
+review/helpfulness: 0/14
+review/score: 3.0
+review/time: 1331942400
+review/summary: Cooked rice is sticky
+review/text: The cooked rice rice ends up on the sticky side.  If you want the cooked rice fluffy and light, this is not the item you want.
+
+product/productId: B000MJKGFI
+review/userId: A2Y3CWITEF9JGY
+review/profileName: JP Salazar "Web Developer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1290384000
+review/summary: Dinner for Every Month
+review/text: I got this Dinner of the Month Club pasta meal as a gift from a very special person back in CT where I used to live--I believe they are one of the leading gourmet presents companies nationwide.<br />The pasta is ready literally within 15 minutes--a quick meal is a good thing, especially for a single guy like me who doesn't have the time of day to cook complicated stuff--and not only that, it tastes excellent! (I added some parmesan cheese to the sauces that I got in my fridge and it made it even better). Honestly I wasn't expecting it to taste this good. As an Italian food fan, I was pretty satisfied with this gift. If you don't want to leave the house or what to stay home to watch the game, it's a perfect gift. Do I recommend their food and services? Absolutely! Giving gifts like these are a good idea for single people like me, so I am thinking returning the favor and sending these to some people I know for the upcoming holidays.
+
+product/productId: B000MJKGFI
+review/userId: A2U76GCOQQEZPA
+review/profileName: Hannah Knox
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1292112000
+review/summary: Dinner Club is GREAT
+review/text: I recently joined the dinner of the month club and I am so glad I did! It may be the best gift I've ever given myself:) My entire family reaps the benefits because it is a treat for everyone, no matter age or gender. We always look forward to the arrival of a new and exciting pasta in the mail every month. We even have a tradition now in our house that we all cook dinner together on "pasta night" and enjoy a savory dish provided by the dinner club.<br />It is so easy to make an impressive dinner with dinner club because they even send recipes to go along with their noodles and sauces! I recently received the Vegan Pumpkin pasta fettuccine paired with the Butternut Squash with Parmesan Cheese. I also got the Italian Spice Linguini with the Organic Roasted Garlic sauce. Even just boiling the noodles warms your home with a delicious fragrance. Everything I have ever received from Flying Noodle has always been of the highest quality. I have friends over to play dominoes every Tuesday night and I always brag about my Flying Noodle packages. They have tried most of my dishes and always want to know where they can get the noodles and sauces at our local grocery store. There is just nothing like it that you can buy from the store, I have since gotten all of my domino friends on Flying Noodle- dinner of the month club.<br />I definitely know where to go to do my Christmas shopping this year! There is something for everyone and I know I can trust Flying Noodle to deliver the best quality of products to my loved ones.
+
+product/productId: B002JG5TVS
+review/userId: A3I3FYY5N3777A
+review/profileName: Ena
+review/helpfulness: 56/57
+review/score: 1.0
+review/time: 1316736000
+review/summary: This is NOT the original Justin's Chocolate Hazelnut Butter !
+review/text: I hate to be the only one with 1 star review here, but I have to warn - I ordered Justin's Chocolate Hazelnut Butter because I loved the original. However, they recently (Sept. 2011) changed the formula which now includes almonds in addition to hazelnuts. The new label says "Justin's Chocolate Hazelnut Blend". The added word "blend" is tiny, but the taste difference is huge and and I don't like this new version. Justin's customer support team confirmed they changed the recipe and that they are now only making the "Blend" version.<br /><br />We'll see what other customers say about this new concoction. As for me - I'm not liking it. Justin, the original "Chocolate Hazelnut Butter" without almonds was WAAAAAAY better.
+
+product/productId: B002JG5TVS
+review/userId: A4PI4DZJSVF6Q
+review/profileName: Bianca
+review/helpfulness: 28/29
+review/score: 5.0
+review/time: 1280361600
+review/summary: Adult Nutella?!
+review/text: Ok, maybe not quite.  But that is the first thing that popped into my mind when I saw this at the store today.  I bought a little squeeze pack to try it and.... OH MY.  This is sooooooooooooo delicious.  It's a bit salty, a bit sweet, and really does make me think of Nutella.  A couple of things, though... this nut butter isn't completely smooth and it isn't really even close to being like Nutella.  BUT it so much more satisfying because it is a nut butter not just chocolatey sweetness like Nutella is.  I am so in love with this Chocolate Hazelnut butter that I am buying the three pack as soon as I am done typing this.  I bought a squeeze pack of the Chocolate Almond as well and I don't like it as much.  It is good, but the Hazelnut is totally out of this world.  And because it is a rich, satisfying food I will be less likely to eat the whole jar in two days like I do on the rare occasion that I allow myself to buy Nutella.  Thank you, for this product.... it allows me to think of my childhood in Germany without making me totally nuts with guilt over what I am putting in my mouth.  That's not to say that I will never buy Nutella again... because I will, but I don't think I'll feel the overwhelming urge quite as often with this stuff in my house.  Yum, yum.<br /><br />Before I sign off, though, I would like to emphasize once more (so I don't get hate comments on my review):  This is not a Nutella copycat, not even close... but if you love that and you love nut butters then you will be in chocolatey, nutty heaven with Justin's.<br /><br />UPDATE 10/09/2012:  Yes, yes the formula has changed. I'm guessing because Hazelnuts are expensive. That being said, I broke down and tried the new BLEND this morning... and you know what? It isn't anywhere near as bad as all of these 1 star reviews are making it out to be. Yes, the flavor of Hazelnut is not nearly as strong, but it IS there, and I still thought it was delicious. In fact, I found the blend to be just a little creamier than the original all-hazelnut version and I rather liked it. Did I prefer the pure Hazelnut? Yes. Do I like the new "Blend"? Yes. I liked it enough that I stand by my original five star rating.
+
+product/productId: B002JG5TVS
+review/userId: A1UG12HD5JVHJS
+review/profileName: Smart Shopper
+review/helpfulness: 11/11
+review/score: 1.0
+review/time: 1329264000
+review/summary: Original hazelnut butter vs new almond-hazelnut blend
+review/text: I have both original and new formula at home. They taste almost the same, but new formula separated after opening and has more oil IMHO. My child loves Nutella, we recently started on a dairy free diet, and this is an ok  substitute for our favorite Ferrero nutella spread. I personally didn't like justin's hazelnut butter taste, especially weird aftertaste, but, since new formula contains almonds, they should put almond picture on the label and the word "blend" should be the same size as brand name on the label. They should also lower the price.
+
+product/productId: B002JG5TVS
+review/userId: A3GTLCTTVIMPOL
+review/profileName: Subliminal Misanthrope
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1282867200
+review/summary: Better than Nutella!
+review/text: Oh my God, this hazelnut butter is so addictive I have to hide it from myself! :)<br />I originally got a couple of single packs at a local health food store because I didn't want to risk buying a whole jar of the 'unknown'. After I tried it, I RAN back to the store to stock up. :) The taste is out of this world and the ingredients are so simple, it's amazing. It really does taste a lot like Nutella, only in a more grown up way. :) It's also not as smooth as Nutella (it has a grainier texture) but I don't mind one bit. I actually prefer it to Nutella (even though I grew up eating Nutella and it used to be one of my all time favorite foods). I've also tried the almond butter and the maple almond flavors--both beyond delicious! Also, even though it doesn't say it on the jar, I'm pretty sure it's vegan too! I've signed up for email alerts from Amazon, so let's hope they bring it back soon.<br />In case you're wondering: no, I don't work for the company and I have no idea who 'Justin' is, I'm just in love with their products! :)
+
+product/productId: B002JG5TVS
+review/userId: A26H9KXTV6DEO3
+review/profileName: Lisa C
+review/helpfulness: 8/8
+review/score: 1.0
+review/time: 1328486400
+review/summary: This is an impostor!!!!
+review/text: This is not the original Justin's!!  It is a blend with mostly almonds!!  When I first saw and ordered, I thought I was getting the same product I have previously purchased at Whole Foods or at Target.  I thought this was a great deal since the product was often unavailable and cost $10/jar. My first impression was that I thought it looked odd that I had to stir the nut butter from amazon, something I never had to do with the store bought variety. It wasn't until I read another's review pointing out the word "Blend" that I went running to my kitchen only to discover my mistake in not noticing the difference. Thank goodness my daughter came to the rescue and picked up a jar from Target yesterday.  If you want the original and not the "blend"  you will have to go to the brick and mortar store or order direct from Justin's themselves.
+
+product/productId: B002JG5TVS
+review/userId: A1BYLNT2DXVA1Y
+review/profileName: Katy
+review/helpfulness: 8/8
+review/score: 1.0
+review/time: 1328313600
+review/summary: New Formula
+review/text: I originally purchased this product from Amazon a few months ago, and was very satisfied. Shortly after, I bought it in a health food store and could not understand the difference! I have since realized that the second jar, which still sits half-full in my cupboard, is a new formula. They have changed the recipe to include a hazelnut-almond blend. Definitely not the same texture or taste as the original. Very disappointed!
+
+product/productId: B002JG5TVS
+review/userId: A2038J3U7MW2Q3
+review/profileName: Praskofka
+review/helpfulness: 11/12
+review/score: 1.0
+review/time: 1329177600
+review/summary: Old formula - a winner with my family; New formula - won't touch it
+review/text: The old formula, which doesn't contain almonds, is oustanding; I would put a very thin layer on a slice of bread and I could say it is like heaven. The new formula tastes different, looks different....and I would simply not buy it again. I would try to see if Target has any left in stock though the last jar I bought there had an expiration of May. It is truly dissapointing for the company to go the cheap route and change the formula without surveying its customers first. Market share is hard to gain and easy to lose. There are a couple of other brands of chocolate hazelnut butter on the market and I am willing to give the Italian one a shot.
+
+product/productId: B002JG5TVS
+review/userId: A1KPLM7ZKNCRF9
+review/profileName: EMA
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1294790400
+review/summary: Ferrero Rocher in a Jar!!
+review/text: Oh. My!  This hazelnut butter is DIVINE!!! Being the frugal, savvy shopper that I am, I balked in the store when I first saw how much this cost. "There is no way I am paying almost $10 for a bottle of NUT butter," I thought (but there was no dissuading my boyfriend). And, the second it hit my tongue, I was a convert. This stuff is SO worth the price tag.<br /><br />  I feel that before I continue I should mention that unlike so many others, I am not, nor have I ever been a fan of Nutella.  In fact, I only tasted it once (several months before sampling this treat), and while I found it tasty enough (with that much sugar, fat, and chocolate, how could it not be?), I wasn't thoroughly impressed. But, THIS.  THIS is absolute heaven.  As noted in my title, it tastes like Ferrero Rocher, and it is ADDICTIVE!!<br /><br />  **A NOTE about CONSISTENCY/TEXTURE**  As other reviewers noted, this is not an entirely smooth butter, but I'm not really bothered by that. (It's not CHUNKY, but, there are bits of what I can only imagine to be hazelnut in the spread that are the size of small grains of sand.)<br />Let me note, though, that we first sampled this out of the squeeze pack, and after sitting in a pocket for a couple of hours, the butter oozed out in a gloriously creamy fashion, almost like a thick caramel sauce.  In fact, I don't recall detecting any of the "grit" or "grain" that is present at room temp. when we had it that way. . .So, try warming this up in a double boiler or other gentle heating method if you're really craving that smooth consistency.) Since this is so thick, sometimes it CAN be difficult to spread on softer breads; my boyfriend likes to eat this on challah (for some reason, the combo reminds me of a boston creme doughnut!!) but he likes to take a huge glob of it and smear it instead of gingerly spreading (I know, I know -- what guy "gingerly spreads"? :) so please take note of that.<br /><br />  I LOVE that the first ingredient in this is HAZELNUTS.  It IS vegan (though it doesn't say it on the container) so it doesn't contain any dairy.<br /><br />  No comparison can be made between this and Nutella (though it is obviously unavoidable as they are both a hazelnut chocolate spread) so please don't buy this hoping for something similar in taste (though I can't imagine even the staunchest of Nutella lovers being disappointed by this; my boyfriend is -- and HAS been for YEARS -- a Nutella diehard, and he, too, absolutely ADORES this). If you're looking for a delicious, decadent treat that will tantalize your taste buds :) and haunt your dreams, then, by all means, dig in!
+
+product/productId: B002JG5TVS
+review/userId: A1DZK7M8ZK4JZQ
+review/profileName: Zwee "Just Zwee"
+review/helpfulness: 5/5
+review/score: 1.0
+review/time: 1327190400
+review/summary: True Grit...and I'm not talkin' about the movie.
+review/text: Tried the 'blend' after having had their orig. recipe for quite a while. In my opinion it was a waste of time and money.<br />First off: all I could taste was the salt. Salty start, a whiff of cocoa, the slightest whisper of 'generic nut flavour', then more salt. Very unsatisfying.<br /><br />2nd: the texture. I don't know if adding the almonds to their 'blend' is responsible for this, but the gritty texture in this new recipe was awful. I've had poorly cleaned mussels and poorly shelled walnuts before: that's what this texture reminded me of. I kept getting these brief moments of alarm when one particularly gritty mouthful made me think I was about to bite into an even bigger piece of grit then end up with a cracked tooth.<br /><br />I wasn't expecting smooth and creamy like Nutella, but something that didn't remind me of unpleasant grit would have been nice.<br /><br />I understand that hazelnuts are more $$ than almonds, but having virtually no taste of hazelnuts at all made for a very sad and depressing sandwich.<br />If you only like the smell of almonds and don't care about texture, this might be for you. If you expecting anything else, look elsewhere.<br />Hopefully Justin's will change their recipe again, 'cause this one's a dud.
+
+product/productId: B002JG5TVS
+review/userId: AAJ361GDDI06D
+review/profileName: Lucky777
+review/helpfulness: 5/5
+review/score: 1.0
+review/time: 1324425600
+review/summary: Warning, new formula put almonds in there
+review/text: one star because when i called the company to ask them how much was almonds now and how much is hazelnut, they refused to tell me!<br /><br />not as good as the original, which you might still find in the small 1 ounce snack sizes!
+
+product/productId: B002JG5TVS
+review/userId: A1I6OZGN1TU1IW
+review/profileName: Shawn Len
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1330041600
+review/summary: Used to be much much better
+review/text: The original was much better than the blend.  Bought this, realized it tasted different, then looked at the jar. They added a little tiny blend to the labeling (it's not the same picture as shown).  I'm sure it was done to save money, but at $10 a jar I sincerely doubt they were losing cash on the product.  If I wanted chocolate almond butter, I would have simply bought it (they do sell it).  Disappointing that they changed the recipe then tried to slip it by everyone...
+
+product/productId: B002JG5TVS
+review/userId: A1FWWI05EVTUCU
+review/profileName: Laurent M. Bonetto
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1305849600
+review/summary: DO NOT BUY THIS
+review/text: Reasons for not buying it (among others):<br />- if you smell it, you will have to eat it<br />- if you eat it, you will dive in for more<br />- when the jar is empty, you will become very sad<br />- if your partner likes it too, you will have to fight<br />- if your children like it too (why wouldn't they?), you will have to be mean, take it from the top shelf, and eat it at night when they are not watching<br /><br />Some reviewers say this shouldn't be compared with Nutella. I disagree: an hazelnut chocolate paste HAS to be compared to Nutella by definition.  Well, this evil Justin's paste is more nutty, more salty, more grainy than Nutella.  If you have had a chance to compare the hydrogenated American version of Nutella against the European version of Nutella, you will have noticed that the European one has more character, more taste, more of a nut taste, and less of a wishy-washy sugar taste not to mention that it is healthier. Well, this Justin's paste is just taking all of these traits one step further and the result is evily good.  Being a 30+ year Nutella fan, I wanted to write to Nutella and ask them to bring the European kind to the US. Now, I do not need to write to them anymore: I am a traitor who sold my sole to the enemy. Justin's forever till I need to lose weight!
+
+product/productId: B002JG5TVS
+review/userId: A2ENRMJX4HZ20A
+review/profileName: Jamie
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1342224000
+review/summary: New "Blend" is horrible
+review/text: I am deeply saddened by the new "blend" which includes almonds. It tastes nothing like the original if you ask me- way to gritty and I can barely taste hazelnut. I am hoping that enough complaints will spark their interest to go Back to the original recipe- which was outstanding! Wish I stocked up on some original jars a while back... I shall try and make my own that comes close so I can get my fix in I suppose...
+
+product/productId: B002JG5TVS
+review/userId: AGJRZA4GW3E1H
+review/profileName: Sluggo
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1308528000
+review/summary: One more 5 star review
+review/text: I bought this because my family is pretty obsessed with the Justin's Maple Almond Butter and thought "hey maybe this is as good as Nutella". I could write a lot of words saying pretty much what all the other 5 star reviews say, but I'll keep it short and sweet:<br /><br />This is no reason for me to keep Nutella in the house ever again. This is yummier (WAY WAY yummier), and lower in sugar. Bye Nutella, it's been fun but something better (WAY WAY better) has come along and stolen my heart.
+
+product/productId: B002JG5TVS
+review/userId: A3IBWZPMGMRDHB
+review/profileName: Spartan Warrior
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1307577600
+review/summary: Healthy but salty aftertaste
+review/text: I am an aspiring natural bodybuilder, so am always trying to find good food choices. Compared to nutella, this blows it right out of the water, half the carbs and sugar and almost similar taste. However, this chocolate hazelnut butter has a salty like aftertaste. I'm afraid they use the sea salt so much (to prevent oil separation) that it messes up the potential of the flavor. I will try other Justin's butters and maybe I will find a tastier one, because this flavor wasn't certainly "all that". Worth a try, but don't expect it to be out of this world.
+
+product/productId: B002JG5TVS
+review/userId: A2C5Z6F97S4X82
+review/profileName: B. L. Johnson
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1307404800
+review/summary: Hazelnut Butter BLEND Now Includes Almonds
+review/text: ***UPDATE 2011:  100% Hazelnut Butter is no longer being made.  Justin's brand has changed the recipe to include almonds.  It is now called "Hazlenut Blend".  Ingredients: Dry Roasted Hazelnuts, Dry Roasted Almonds, Organic Evaporated Cane Sugar, Organic Cocoa, Organic Cocoa Butter, Organic Palm Fruit Oil, Natural Vanilla, Sea Salt.
+
+product/productId: B002JG5TVS
+review/userId: A2FA24Z8MXEKTE
+review/profileName: CE
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1297382400
+review/summary: Delicious American "Nutella" but much healthier!
+review/text: Yummy, yummy, yummy!!!!!!!! It actually tastes like a nut spread instead of sugar. Highly recommend it to anyone who likes nuts, peanut butters, high-end chocolates - they would really enjoy it as I do.
+
+product/productId: B002JG5TVS
+review/userId: A28UXOZS7JX5A1
+review/profileName: Lara
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1341446400
+review/summary: Love, love, love...
+review/text: After debating between nutella, this, and several other spreads, I finally picked this one up at a local store. A quick comparison of ingredients convinced me. Although I've never tried the original that everyone I praising, I absolutely loved this blend. It is clearly not the same as nutella - it is subtly sweet, has a grittier texture, but is absolutely divine.<br /><br />Since hazelnuts are the first ingredient, there are more hazelnuts in the product than almonds (or perhaps it's 50-50). However, this really doesn't bother me - it has the lovely taste of hazelnuts along with the nutritious benefits of almonds! This makes me a happy gal :) I only wish it cost a little less!
+
+product/productId: B002JG5TVS
+review/userId: AHUC2LKO6OV5
+review/profileName: Mom of three
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1340841600
+review/summary: Delicious and more nutritious
+review/text: I stumbled upon this product a year ago while looking up prices for Nutella on Amazon.  After reading the glowing reviews, I saved it in my cart for a future purchase, but never ordered it.  Fast forward to yesterday, when I was looking for non-dairy dessert options for my family and saw the priced dropped a couple dollars.  However, there were so many 1 stars for the new formula, I decided to purchase one jar at Whole Foods to try it (at $10 a jar btw).  I do love Nutella, which is like eating decadent candy from a jar.  This isn't as creamy or quite as sweet, but definitely has a similar enough taste to satisfy me, and is much healthier.  I can only imagine how wonderful the original recipe was, and wish I had tried it earlier!  But this one is still good, so I don't understand the bad reviews.  I can clearly taste the hazelnut, not the almonds.  And I specifically paid attention to the salt level.  I have a moderate salt intake (not low, but I'm not a salt-aholic).  It did not taste salty to me, although I'll admit I tasted a tad bit of salt on my lips a few minutes later.  It didn't bother me though.  It has only 65mg sodium (less than half what peanut butter has), so if you can tolerate the salt in Jif, this is significantly less.  It has 12g carbs for those of you wondering, 3 of which are fiber and 7 sugars.  4g protein, and 15g fat.  180 calories total.  No partially hydrogenated oils.  I just ordered the 3 jar pack from Amazon, so it's good enough for me.
+
+product/productId: B002JG5TVS
+review/userId: A33L6K2HC7P6IX
+review/profileName: flatironsgirl
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1339977600
+review/summary: Grown up nutella
+review/text: This stuff has 4 grams of protein per serving and tastes delicious with less than half the sugar in Nutella. Gave a jar of this to my mom for mother's day along with some other of their flavors and she loved this one the most!
+
+product/productId: B002JG5TVS
+review/userId: A2NP8RNW9T5BQF
+review/profileName: A. Brazhnykova
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1333497600
+review/summary: NOT A HAZELNUT but Almonds !!!!!!!!!!!!!
+review/text: read the ingredients! it has more almonds than hazelnuts .... and sooooo much chocolate that you can not taste anything but salt and chocolate...:(( will not buy ever again...and now im actually can not trust their other products....used to love the brand though...
+
+product/productId: B002JG5TVS
+review/userId: AUVZB2ZA2UW6A
+review/profileName: Nikki
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1317600000
+review/summary: Maybe this is only for health 'nuts'??
+review/text: Today I decided to try Justins chocolate hazelnut butter since its organic and the first ingredient isn't sugar -like Nutella but it is seriously nasty. It tastes like burnt salt. I couldn't taste the hazelnuts or the cocoa over the sea salt. I am really glad I only purchased the sample size at my store. This stuff is terrible. If they had a salt free version I would try it though, because Nutella is too sweet.
+
+product/productId: B002JG5TVS
+review/userId: AD53Z7NOGYIMO
+review/profileName: Alyssa M. Sanchez
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295740800
+review/summary: More satisfying than Nutella
+review/text: I just tried this product, and wow! This tastes just like when you bite into a Ferrero Rocher hazelnut chocolate, as it is like Nutella but with a more hazelnut taste. It's delicious and a tiny bit less sweet and smooth than Nutella, which I consider a good thing.
+
+product/productId: B002JG5TVS
+review/userId: A16WHSO9OBKPI3
+review/profileName: Book Lady "Book Lady"
+review/helpfulness: 6/8
+review/score: 5.0
+review/time: 1263427200
+review/summary: the squeeze packs aren's enough..bring on the jars!!!
+review/text: love the squeeze packs, love the jars even more!!! Great tasting healthy peanut butter is now a family staple in my kitchen. My family loves it and now my friends families love it also. Just shows how pure simple healthy ingredients can taste great and be good for you to.
+
+product/productId: B002JG5TVS
+review/userId: A1NCM5LAXZ04W2
+review/profileName: River
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1346284800
+review/summary: The new formula is not good
+review/text: I used to go through a whole jar of the old formula in no time. It was not too sweet, very chocolaty, and definitely full of hazelnuts. The new formula with the hazelnut-almond blend just isn't good, and the hazelnut flavor is barely there. I do hope they listen to their customers and go back to the original formula. If they do, I'll have to change this review to add two or three more stars.
+
+product/productId: B002JG5TVS
+review/userId: AVQ77Y5A8CLTF
+review/profileName: Michele B "Michele B"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339718400
+review/summary: TOO GOOD
+review/text: This stuff is way too good.  I'm going to end up gaining too much weight if I don't watch it!<br /><br />But - I was looking for a more nutritious alternative to nutella after I realized that oil and sugar are nutella's main ingredients.  And even my VERY picky child likes this too.  (I did however keep nutella out for quite a while so he probably doesn't remember what it tastes like much).  This is not as smooth - more like natural PB than creamy Jif consistency. OH SO YUMMY though!
+
+product/productId: B002JG5TVS
+review/userId: A31H9OI31UWNVT
+review/profileName: StephLo
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1338854400
+review/summary: I expected better :(
+review/text: I bought this product as an alternative to nutella since it's dairy-free, and even the cashier said it was the same if not better tasting, but maybe she was talking about the original formula. This spread tastes kind of dry, and not too sweet. It's also really salty, so much that it burns the roof of my mouth. I would not recommend this product at all.
+
+product/productId: B002JG5TVS
+review/userId: A1191WOG1EOCIX
+review/profileName: brent
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331078400
+review/summary: amazing!
+review/text: It is like eating a ferrero rocher for breakfast... yum! It is a staple in my diet now... hazelnuts have so many health benefits and it is amazing when you can get an organic product with amazing health benefits and chocolate combined.
+
+product/productId: B002JG5TVS
+review/userId: AJB5P7GVR0MT8
+review/profileName: Harry the Horse
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1322006400
+review/summary: Pay for it but don't taste it
+review/text: You pay for no palm oil yet still get it AND you're still blessed with the oil slick atop the product. Next time I fork over a premium, I'd expect a superior taste or at least better ingredients.
+
+product/productId: B002JG5TVS
+review/userId: AAEW50UKXP9Q0
+review/profileName: Laura Newton "It's a car wash ladies and gent...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313625600
+review/summary: Delicious
+review/text: This stuff is delicious.  People are comparing it to Nutella, but it was far superior.. it has a fraction of the sugar and you can eat it without getting a sugar rush.  It actually tastes like HAZELNUTS and CHOCOLATE.  Best stuff ever.
+
+product/productId: B002JG5TVS
+review/userId: A6A491OR2VUV0
+review/profileName: &quot;M&quot;
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349827200
+review/summary: New formula is pretty tasty
+review/text: I've not tasted the original version but the hazelnut blend is delicious. There was a bit of oil separation at the top but not as much as you get with most natural nut butters. I keep mine in the fridge and scoop it out one spoonful at a time.  Tastes like a hazelnut chocolate butter cup to me and I love the stiffer texture after being refrigerated.
+
+product/productId: B002JG5TVS
+review/userId: A3PE04XO67MY4B
+review/profileName: rakel
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349308800
+review/summary: Longtime Nutella Fan...
+review/text: I still love Nutella, but at 21g of sugar a serving I was looking for something a bit more guiltless. I saw the small packs at Target and decided to give it a try. I'm always a little skeptical, and have tried other chocolate spreads but once I tasted this one I knew I had found it. I do miss the creamy texture of Nutella, but the flavor is spot on, although more nutty/hazelnut than Nutella. This is a compromise for my health where I don't feel like I'm missing out. I don't even mind that it has less sugar - it's still plenty sweet to satisfy me. I'll probably still buy Nutella from time to time, but I think Justin's will be my staple!
+
+product/productId: B002JG5TVS
+review/userId: AXG7XT49SRLEV
+review/profileName: J. Chan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347753600
+review/summary: It's Nutella (stay with me now)... for grown-ups!
+review/text: Nutella, the seminal Chocolate Hazelnut spread, will always be the go-to comparison.  It's sweet and cocoa-y flavor is the stuff of legends, the golden standard for many.  Now, I don't know about you but while I'd love to eat that stuff for days, I simply can't.  It's immensely sweet and equally unhealthy. On a simple comparison, a serving of Justin's Hazelnut Blend contains only a third of the sugar with three times the fiber!<br /><br />As a food product, I approach Justin's Hazelnut Blend with four senses (because you can't hear something like this!).  Visually, it's more pleasant to me because it looks far less processed.  You can see that hazelnuts and almonds are in there, unlike Nutella's frosting appearance. And, when I give it a whiff, I don't get that "did I just get diabetes?" sensation but rather a pleasant and earthy smell from the cocoa and nuts.<br /><br />Eating it, Justin's just feels like how a nut spread should (again, unlike Nutella's heavy, frosting texture). Justin's Hazelnut Blend doesn't taste like Nutella and that's really why I love it. The cocoa and hazelnut flavor is more present and I thoroughly enjoy the almonds' richness.  I can actually taste the roasted flavor from the nuts and it pairs well with the subtler cocoa taste.<br /><br />Ultiimately, give this a try if you're looking for a healthier alternative to Nutella, or something that isn't just "sweet."
+
+product/productId: B002JG5TVS
+review/userId: AEP0XAC6F8N2Y
+review/profileName: April Fear
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344988800
+review/summary: Love it
+review/text: I love this spread on toast! I like that it isn't as sweet as Nutella and has much healthier ingredients in it. I've tried the chocolate peanut butter one, but like this chocolate hazelnut butter much better.
+
+product/productId: B002JG5TVS
+review/userId: A37AO20OXS51QA
+review/profileName: Roderic Rinehart "Roderic"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342742400
+review/summary: LOVEEEE IT
+review/text: I have no idea what the original formula had in it or how it tasted, but I know that this stuff is ridiculously good. I love the consistency and the taste. You can get your sweet/chocolate fix at night with one spoonful. So much better than Nutella and way better for you.
+
+product/productId: B002JG5TVS
+review/userId: A1J9R2FL71YSMB
+review/profileName: S. Lewis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339372800
+review/summary: Less sugar, better than  Nutella
+review/text: I'm reviewing the new formulation (with almonds as well as Hazelnuts) that other reviewers have objected to. Not having tasted the original with only hazelnuts I can't compare, but I can see how it would be even better with just hazelnuts and no almonds. Nonetheless, it's far better than any other chocolate hazelnut paste I've been able to purchase. Way less sweet and more hazelnut flavor than Nutella. I've picked up a couple of smaller Italian brands at specialty groceries as well and while they have more hazelnut flavor than Nutella, they're still too sweet. This one is better.
+
+product/productId: B002JG5TVS
+review/userId: A2A7TA7VTWSFA4
+review/profileName: ChrstnaLne
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1336435200
+review/summary: Are we suppose to stir?
+review/text: When I opened the jar, there was a lot of oil on top. I understand this happens with natural nut butters, but its so hard. Is this what everyone has to go through with each bottle? My hand sure does hurt right now.
+
+product/productId: B002JG5TVS
+review/userId: A8FRANEWAD49B
+review/profileName: Coco
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334188800
+review/summary: Seriously Delicious
+review/text: This stuff is not only tasty but also a healthy alternative to Nutella. It is a great product and I hope they continue to make it until the day I die!
+
+product/productId: B002JG5TVS
+review/userId: A17PZOA8ODTM53
+review/profileName: lindsay
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333065600
+review/summary: too salty!
+review/text: great, but too salty. and there are hard weird bits in it like the hazelnut shell was ground up in the process
+
+product/productId: B002JG5TVS
+review/userId: A30TXFB64ESR0S
+review/profileName: sallyjrw
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318032000
+review/summary: Not Nutella
+review/text: I love Nutella.  I was scared to try Justin's Nut Butter because I loved Nutella so much.  And the truth is, this does not taste like Nutella.  Nutella tastes like milk chocolate, I can't really taste the hazelnut in Nutella.  Justin's Nut Butter Chocolate Hazelnut Blend actually tastes like chocolate covered nuts that have been grinded into a spread.  There's no dairy in Justin's so it tastes more like semi-sweet chocolate.  Considering I like to melt semi-sweet chocolate chips and add various nuts, this spread is completely delicious to me.
+
+product/productId: B002JG5TVS
+review/userId: A1MRH4UW59OA83
+review/profileName: Casey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315785600
+review/summary: Better than Nutella!
+review/text: This Chocolate Hazelnut Butter is soo much better than Nutella. I've been trying to keep my sugar intake low and I can feel better about my this indulgence with only 7g of sugar!
+
+product/productId: B002JG5TVS
+review/userId: A3LAYCTGSO1IQR
+review/profileName: Purrrfectcat "purrfectcat"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315353600
+review/summary: delicious, filling, non-sweet, nutella
+review/text: I heard praises about Justin's nutella so I decided to give it a try.  I've bought other nutella (expensive and coming directly from Italy) and they are OVERLY sweet like eating thick chocolate paste or chocolate cake frosting (where every second you need to reach for a gallon of water), but Justin's is not at all sweet but has good chocolate flavor and a very nutty taste (with its hazelnuts and almonds) and I think the sea salt gives it a unique flavor. After tasting it, I'd rather pack Justin's nutella on a long tiring trip rather than peanut butter!!
+
+product/productId: B002JG5TVS
+review/userId: A1UAPSGXFVIUSZ
+review/profileName: Schapirita "noone"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313366400
+review/summary: Pure goodness!
+review/text: Only 7 ingredients and 7g of sugar for every 2tbsp (32g)!!!!!<br />It is truly delicious. Not sugary, delicious hazelnut taste with a hint of chocolate. Much better than Nutella. Nutella is easier to get with a knife and spread on bread but Justin's is not only tastier but fresher. I have the feeling that is fresher - anyone feel the same??<br />Justin's isn't made with hydrogenated oils which gets lots of points from me.
+
+product/productId: B002JG5TVS
+review/userId: A29GXY4Q2N172E
+review/profileName: Mrs. Susan K. Metzler "Mountain Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312675200
+review/summary: Delicious and handy!
+review/text: These packets of natural chocolate hazelnut butter contain delicious and healthy dark chocolate mixed with hazelnut nut butter in a handy two-tablespoon serving. They are perfect for travel to ensure you take in your healthy plant-based fats while on the go, and they are also a great aide for those counting calories or other dietary components, as the serving is already measured out for you!
+
+product/productId: B002JG5TVS
+review/userId: A266RRO8HGE2KV
+review/profileName: Kimmers
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311033600
+review/summary: So Much Better Than Nutella
+review/text: While I've always liked the taste combination of Nutella, the overly sweet and almost marshmallow-creme texture were too much for me.  I saw the sample-pack size of Justin's Chocolate Hazelnut Butter at Whole Foods Market and decided to try it.  When I got home I was unhappy that I did not buy a larger size (the closest market is 1.5 hours from me)!  This nut-butter is thick and substantial, and not nearly as sweet as Nutella.  It's healthier, less sugar, and a perfect deepness of the chocolate balanced with the hazelnuts.  It's great on bananas, sandwiched between Trader Joe's Meyer Lemon Thins, on English muffins or toast, or my favorite - on a spoon!  I am sure I am missing dozens of wonderful combinations but will certainly use my creativity!  I highly recommend this, as well as the Maple Almond Butter - Justin's makes a fantastic product!
+
+product/productId: B002JG5TVS
+review/userId: A1YR1PZNFVRFZG
+review/profileName: MunkchinMomma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309651200
+review/summary: OMG, yum!
+review/text: this is sooo delicious!!!! you will eat it pretty fast! the price is great too (subscribe and save was only 24$ for 3)! it's sweet and salty... perfect combo... and not overwhelming.. just perfect... it's super nice and creamy but you can still taste tiny pieces of hazelnuts.
+
+product/productId: B002JG5TVS
+review/userId: A1EDFB9U7M65B0
+review/profileName: Supermom of 2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309219200
+review/summary: 3 words: Subscribe and SAVE
+review/text: This stuff is fantastic!  The subscribe and save price can't be beat!<br />******Most importantly, I don't feel guilty about letting the kids eat it!
+
+product/productId: B002JG5TVS
+review/userId: A3M798YYM8TSQG
+review/profileName: Judy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308614400
+review/summary: Love this
+review/text: This tastes like the candy Toffifay without the carmel. Love to eat a spoonful of it right out of the jar.
+
+product/productId: B002JG5TVS
+review/userId: AYHDH4FFBS408
+review/profileName: Smuddpie "hobby addict"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308528000
+review/summary: What was I thinking?!
+review/text: I considered how dangerous this purchase might be, threw caution to the wind and completed the order.  If you have any issues with self control at all, I suggest you buy the individual serving squeeze packets instead.  This stuff is better than any candy bar and certainly better than Nutella.  In contrast to Nutella, it has a slightly grainy texture, is much less sweet (and has significantly less sugar) and has a darker chocolate flavor.  The only objectionable trait is the appearance.  It looks a little....recycled if you know what I mean.  But you quickly get over caring when you taste it.
+
+product/productId: B002JG5TVS
+review/userId: A35PIXLJIUTKZN
+review/profileName: TinyPliny "TinyPliny"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306281600
+review/summary: Tastiest and most healthful hazelnut butter on the market
+review/text: I have tried nearly 14 different brands of chocolate hazelnut butter (or nutella) originating from around the world. Justin's Chocolate Hazelnut butter wins hands down in the tastiest AND the most healthful category. It is not a cloying 75% sugar as regular nutella is, does not have shady ingredients and you can actually taste the chunky toasted hazelnuts in the butter. It is amazing on just about everything, toasted bread, Granny Smith chunks, peanuts, pretzels, pita bread and really, anything you can think of. Amazon's price for 3 1lb jars of Justin's Hazelnut butter is unbeatable. It is at least $3-$5 costlier at Target, Whole Foods and wherever else it's usually sold. Highly recommended for health-conscious and taste-conscious nutella lovers.
+
+product/productId: B002JG5TVS
+review/userId: A33K20V4DNLVRF
+review/profileName: S. Weiss "shwony"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303689600
+review/summary: Such a deal . . . .
+review/text: After browsing thru nut butters on Amazon, (and reading all the rave reviews) I decided to sign up for Justin's Chocolate Hazelnut subscribe and save.  Glad I did -- this stuff is good!  I don't like really sweet anything, tho I do use Nutella occasionally on whole wheat toast.  You can't even compare the two.  This is for grown-up taste,  great with a bananna or fresh strawberries, wonderful with pound cake, crackers, toast, the list goes on and on.<br /><br />After receiving my first subscription order I found this at a local farmer's market with a price tag of $10.49 per jar!
+
+product/productId: B002JG5TVS
+review/userId: A1RWHDNPNN7LZC
+review/profileName: belle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303344000
+review/summary: yummmm
+review/text: This is really delicious and the best thing, you can't eat it as much as Nutella :) It's real stuff.
+
+product/productId: B002JG5TVS
+review/userId: AU7H96JYE00NT
+review/profileName: pdogmum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302825600
+review/summary: Yummy!
+review/text: I was lucky enough to find this on clearance at Target for less than $3. I bought one went home and tasted it. It was Divine! So the next day I went back and bought some for my family and a couple more jars for myself. I have no clue what I will do with it (eating out of the jar sounds good to me) but for that price I could not pass it up. It is way better than Nutella (which is yummy too but it does kind of taste like frosting). This tastes more real and not so sugary. You don't feel like you are going to go into a diabetic coma after eating some like you do with Nutella. Overall if you like Hazelnuts and you like chocolate it would be worth buying to indulge yourself. Very yummy!
+
+product/productId: B002JG5TVS
+review/userId: A21EFY9QM7JBJI
+review/profileName: amazonMommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302566400
+review/summary: 4 yr old isnt as pleased as she is w/ nutella but....
+review/text: my 4 yr old was eating a jar of nutella until i read the label..bad momma i know...SUGAR! anyways i bought this stuff and she isnt aas pleased but she will eat it.  I forced her to the first few times and she got used to the difference.  It is not smooth, gritty, but is healthier than nutella which is why i bought this.  So far so good!
+
+product/productId: B002JG5TVS
+review/userId: A38FWMF430FML
+review/profileName: Krose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300060800
+review/summary: Yummy
+review/text: Justin's chocolate hazelnut butter is extremely tasty, and gluten free/healthy.  I eat it way to quickly, but it really is a happy treat on a gluten free diet.
+
+product/productId: B002JG5TVS
+review/userId: AYNMARV147P4Q
+review/profileName: Lynette
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299801600
+review/summary: Best EVER
+review/text: Oh my god!! So good. I love that it's nowhere as sweet and gooey as Nutella. I can't really think of anything else to say than... oh my god so good.
+
+product/productId: B002JG5TVS
+review/userId: A1A3LNWA2O3IO8
+review/profileName: anonymous
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299456000
+review/summary: OMG this is unbelievable!
+review/text: This product is soooooo good!  I took it to work with some plain cookies (Marias) and it was a huge hit.  I love hazelnut and this definitely is hazelnutty.  Much better than that other chocolate hazelnut spread (in my opinion).
+
+product/productId: B002JG5TVS
+review/userId: A22B3FCF9MXIY8
+review/profileName: A. Dimova
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297641600
+review/summary: Satisfying and Tasty
+review/text: This hazelnut cocoa butter is so good. The uniform but gritty texture reminds you you are eating in fact, actual nuts.<br />I bought because I had tried the peanut butter (BTW, good job marketing department for offering cheap squeeze packs to get hooked on your product) and found the ingredient list to be most appealing.<br />Cane sugar (and not a terrible overdose), cocoa, hazelnuts, a little vanilla, and nothing I can't pronounce.<br />I LOVED chocolate hazelnut spread as a kid but now with my own kids, I want them to have the same yumtasticness with-out the questionable additives.<br />Something that some people might point out - it's expensive, but I bet every ounce of this hazelnut butter has higher concentration of nuts and cocoa than the cheaper kinds. A spoonful of this satisfies my sweet-tooth in a pinch, too.
+
+product/productId: B002JG5TVS
+review/userId: A13KZY354PFZY2
+review/profileName: Malinda R. Allen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296000000
+review/summary: Best I Have Tasted
+review/text: This is great-it is not as smooth as others but the nurtional content is much higher with less sugar-I much prefer the taste as the nut taste is not masked by the sugar-an absolute delight and nutritious too.  Not often you can cover both bases.  I actually perfer the texture to the smoother brands.
+
+product/productId: B002JG5TVS
+review/userId: A34DMQO5OY2ZLG
+review/profileName: Becca
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1295568000
+review/summary: Yum!!!
+review/text: The Chocolate Hazelnut Butter is SO awesome! It tastes similar to Nutella but is SO much yummier and healthier... I'm addicted to the stuff! Can't get enough of it...
+

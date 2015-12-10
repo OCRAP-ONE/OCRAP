@@ -1,0 +1,1143 @@
+product/productId: B007TJGY5K
+review/userId: A2EBMYVJAEIK75
+review/profileName: Hobo Jan
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350518400
+review/summary: Coffee lover
+review/text: I must admit this was a little weak for me. I like my coffee-reg or decaf-to have backbone. Flavor was good, no bitter after taste. Just a little weak for me.
+
+product/productId: B007TJGY5K
+review/userId: A2U026QDV3Q0O3
+review/profileName: Sparky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: Dark Magic
+review/text: I love good coffee and for medical reasons must drink Decaf.  Emeril's Dark Magic Decaf tastes rich and flavorful, just like real caffinated coffee.
+
+product/productId: B007TJGY5K
+review/userId: A2FUBLM5H2ABTV
+review/profileName: Rocky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349568000
+review/summary: Great flavor
+review/text: Emeril's coffee in the K cups has a rich flavor, minus bitterness. Tastes like well brewed coffee, without all the work.
+
+product/productId: B007TJGY5K
+review/userId: A21C67YV96U1IS
+review/profileName: judy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349481600
+review/summary: Do not buy this product
+review/text: i bought this product because the reviews said it was a great tasting decaf. when the box arrived it said "decaffeinated using methylene chloride"<br />i looked this up. this is a dangerous chemical and a known carcinigen. amazon will not accept the unopened box as a return because it is a grocery. i have lost the money<br />correction - amazon is refunding my money.
+
+product/productId: B007TJGY5K
+review/userId: AY17KG3ZBN8V7
+review/profileName: Texas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: a really good decaf!
+review/text: Emeril's Jazzed-Up Decaf is the reason I bought my Keurig coffee maker!  I tasted the coffee when getting a haircut and knew I wanted to drink it often.  Since I must drink decaf, why not enjoy it?
+
+product/productId: B007TJGY5K
+review/userId: A3BWEYCB568ZBK
+review/profileName: ARC
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347753600
+review/summary: Beware!
+review/text: Coffee wasn't bad, but the majority of k-cup pods malfunctioned and sent coffee grounds everywhere.  Spent more time cleaning brewer than enjoying coffee.  Even when they didn't blow up, there were always grounds in the coffee.
+
+product/productId: B007TJGY5K
+review/userId: AEI6MBDTGGIQU
+review/profileName: GeekStuffDiggit "DJ"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344902400
+review/summary: The end of a long search for great decaf
+review/text: After buying my Keurig (Signature model with the expanded water reservoir), I tried several different decaf options in search of a decaf with real flavor.<br /><br />To be honest, my favorite doesn't come in Keurig format - Trader Joe's French Roast decaf. So I was searching for something close, since using the do-it-yourself K-cup accessory results in too much cleaning for where my Keurig is located: in my cube at work.<br /><br />So I tried: Donut Hole Decaf - meh<br />  Newman's Own Decaf - much better, but still a lighter roast than I wanted<br />  San Francisco Bay French Roast Decaf - was so bad I got a refund from Amazon (thank you!)<br />  Tully's Decaf - very good, but not quite it<br />  Green Mountain Dark Magic Decaf - excellent<br /><br />and finally...<br />  Emeril's Jazzed-Up Decaf - outstanding!!<br /><br />I drink mine black, and want to taste the flavor resulting from the roast. Emeril's has a rich set of flavors typical of a great French Roast, and smells fantastic. Most people that smell it can't believe it's decaf.<br /><br />A simply wonderful product. My hat's off, Emeril!
+
+product/productId: B007TJGY5K
+review/userId: A3690KJBTLZDMS
+review/profileName: fond-of-wine
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343174400
+review/summary: Will it ever get here?
+review/text: I've been waiting over a month for this to be shipped!  I really like Emeril's Jazzed Up regular coffee and want a decaf version.
+
+product/productId: B007TJGY5K
+review/userId: A16PDB0CIYNAMC
+review/profileName: Moe
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343174400
+review/summary: good not great
+review/text: My wife likes this k-cup a lot.<br />Its a good  k-cup coffee.<br />This coffee has amazing flavor and aroma.<br />You can really taste the coconut in this blend. This is my new favorite flavor.
+
+product/productId: B007TJGY5K
+review/userId: A1SVHXFN0WZYMK
+review/profileName: Tammy37388
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Nice Decaf
+review/text: I often like a cup of coffee late in the day or in the evening yet dont want the caffiene and this fit perfectly. Good taste, strong but not overbrearing.
+
+product/productId: B007TJGY5K
+review/userId: A1QA4O8XCBPOYH
+review/profileName: Susan Waldman "shwteacher"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339804800
+review/summary: Very good decaf.
+review/text: Son and I like strong coffee even when drinking decaf.  This one is full bodied and substantial.  So much better than most decaf coffees.
+
+product/productId: B007TJGY5K
+review/userId: A26RWTXRE4CJGM
+review/profileName: M. Ivey "meesh"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339632000
+review/summary: Weak
+review/text: I expected a better product because it's Emeril and since its called jazzed up I thought it would be strong. Not the case at all. Its just plain old decaf coffee. Nothing special about it. Its weak and not jazzed up at all. Since Emeril is located in New Orleans, I thought maybe it would include chicory or something from that area that would make it a better coffee but that's not the case.  If you want a dissappointment try it. If you like weak coffee try it. But, otherwise, keep walking.
+
+product/productId: B007TJGY5K
+review/userId: A2B1RFP7BRMW2V
+review/profileName: aklytta
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Good decaf choice!
+review/text: I was intrigued by the name of the coffee, and it lives up to the hype.  I enjoy it both hot and over ice, and it fulfills both requirements nicely.  Price, free shipping, and being decaf are also a bonus.
+
+product/productId: B007TJGY5K
+review/userId: A14O8S7PHTOJFX
+review/profileName: P. Collins "Catwoman 500"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336780800
+review/summary: jazzey coffee
+review/text: Both my husband and I like this coffee... and that is an accomplishment, as he likes VERY mild and I like bold, so it is a winner at our house.
+
+product/productId: B007TJGY5K
+review/userId: A2SA6RI9S9VP4Y
+review/profileName: LonJandis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336089600
+review/summary: Quality K-Cups without emptying your wallet
+review/text: Got these decaf K-Cups for my boss and he enjoys the coffee very much. My sole driving factor was price. I figured even if the coffee wasn't so great it wouldn't be too bad because we didn't pay >$1 per K-Cup like the grocery stores want you to. We were pleasantly surprised to find this coffee delicious and the aroma that fills the office is refreshing. Kudos!
+
+product/productId: B007TJGY5K
+review/userId: A2063UHCHXWM3Y
+review/profileName: Deb
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: Emeril's Jazzed up Decaf
+review/text: Great bold taste, great price. I love string coffee and this one is great. I highly recommend it to someone who enjoys a strong cup of coffee, but needs decaf.
+
+product/productId: B007TJGY5K
+review/userId: A2M7B4KBO5QCWO
+review/profileName: TG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: Jazzed up Decaf
+review/text: I think I've tried about all the decaf coffees on Amason at one time or another, and I consider this to be the best.
+
+product/productId: B007TJGY5K
+review/userId: A11BKFARW6VBJ
+review/profileName: Amazon Shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333843200
+review/summary: Very good decaf
+review/text: Better than Tully's decaf and couple other brands I've tried. Not bitter at all. Got it when it's onsale, will be watching this item.
+
+product/productId: B007TJGY5K
+review/userId: A2GOHNFBHUU3UI
+review/profileName: Gadget Man "Gadget Man"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333324800
+review/summary: Highly Recommended
+review/text: This Emeril's Jazzed up Decaf taste very good.  My only reticence is that I'm wondering if it has some caffeine in it.  When I have caffeine, I get a sort of a increased blood pressure buzz.  I had that type of buzz after having this coffee.  My wife had the type of feeling in her stomach that she gets when she has caffeine.  I have no way to test the ingredients to be sure.  But I wonder if this coffee is so "jazzed up" that it has a little caffeine.  It would be interesting to see what other people's experience is.<br /><br />UPDATE: - I've now tried this coffee a dozen times...I think it is safe to say that it has no caffeine.  I haven't had the "buzz" I described above.  But the coffee sure does taste good, so I increased my rating to 5 stars.
+
+product/productId: B007TJGY5K
+review/userId: A1UPWA0CCKG7SK
+review/profileName: hollywood five
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331078400
+review/summary: Love the taste...........
+review/text: My husband wanted this coffee maker, not me. I thought it was too expensive (still do) and the coffee was too expensive (still do). We bought the Newman's decaf and really liked it, when we were in a hurry the coffee maker is great. I decided to give another decaf a try and tried Emeril's Jazzed Up Decaf. It is a great coffee, no after taste and a good rich coffee. My son who drinks only reg. coffee does not know the difference with Emeril's. It's still over priced but it's good. I am not a big coffee drinker, one cup in the morning is about it but I like this one.
+
+product/productId: B007TJGY5K
+review/userId: A26NFIQ7KWI8Y7
+review/profileName: kt rose
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1329696000
+review/summary: drinkable for decaf
+review/text: I'm not a fan of decaf.  This one is drinkable with just a tinge of "conference coffee" taste.  I also like Green Mountain Dark Magic Decaf.<br /><br />For reference purposes my in store drink is a Starbucks Americano.<br /><br />My favorite k-cups are:<br />Starbucks French Roast<br />Starbucks Caffe Verona<br />Starbucks Pike Place Roast<br />Green Mountain Xtra Bold Sumatran Reserve<br />Green Mountain Double Black Diamond<br />Green Mountain Revv<br />Green Mountain Dark Magic<br /><br />Other k-cups I've tried:  Coffee People Jet Fuel ,Green Mountain Dark Magic Decaf, Starbucks Caffe Verona, Coffee People Black Tiger,  Starbucks House Blend, Starbucks Breakfast Blend, Starbucks Sumatra, Wolfgang Puck French Roast, Green Mountain Lake and Lodge, Green Mountain French Roast, Caribou Mahogony, Wolfgang Puck Sumatra Kopi Raya, Emeril Big Easy Bold
+
+product/productId: B007TJGY5K
+review/userId: AE0MTCE9NT975
+review/profileName: Harry Mark Hunsicker
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1329523200
+review/summary: Is this Decaf????
+review/text: No where on the box, other than the shipping label, does this state decaf? The k-cups do not say decaf either. Don't you think that the producer would label the box somewhere that it is decaf?<br /><br />If this is regular than I rate it a 3.
+
+product/productId: B007TJGY5K
+review/userId: A27YKN5IIUEILY
+review/profileName: Mom F
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329177600
+review/summary: nice coffee
+review/text: I was not sure I would like this coffee after reading some of the reviews on it, but I like the coffee and the fact that is has no bitter taste. It brews beautifully in my Breville K-cup machine! It tasted smooth and full flavored, even using the larger cup setting on my machine.
+
+product/productId: B007TJGY5K
+review/userId: A6GQN2JPZ9HHO
+review/profileName: Tinto59
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1327017600
+review/summary: An off batch of K-Cups
+review/text: I have been buying Emeril's Jazzed Up Decaf Coffee Keurig K-Cups for several months, and I've always liked it. Unfortunately, the batch I most recently received, with a use-by date of April 24/2012, seems to have about half the usual amount of coffee in the cups. The result is coffee that is weak and watery, unless I set the coffee maker on the smallest cup (espresso size).
+
+product/productId: B007TJGY5K
+review/userId: A28G9JUVC2EM5F
+review/profileName: kb
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325548800
+review/summary: Great for a gift!
+review/text: It was a gift, so I'm not sure how it tasted, but I was excited to be able to find a nice bold decaf coffee!  And it came quickly in the mail!
+
+product/productId: B007TJGY5K
+review/userId: A524XX7TCJPJ8
+review/profileName: kdh
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323907200
+review/summary: Best Ever
+review/text: My husband and I love this decaf.  It is our "Go-To" choice in the afternoon and evening.One would hardly guess that it is a Decaf.<a href="http://www.amazon.com/gp/product/B001D0GVAO">Emeril's Jazzed Up Decaf Coffee, 24-Count K-Cups for Keurig Brewers (Pack of 2)</a>
+
+product/productId: B007TJGY5K
+review/userId: ADUGZ4G4EQUOS
+review/profileName: David W. Jones
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1323043200
+review/summary: Do Not Buy - Only 8 K-Cups in a 24 K-Cup Box
+review/text: I paid over $30 for a box of 24 K-Cups.  The box came sealed; from the outside nothing looked wrong.  However, there were ONLY 8 K-CUPS IN THE BOX!!!  ARE YOU KIDDING ME?  According to policy, there is no way to return or exchange.<br />It doesn't matter whether or not the coffee is good if you don't get what you paid for.  DO NOT BUY THIS PRODUCT!!!
+
+product/productId: B007TJGY5K
+review/userId: A38RW30GMU05JD
+review/profileName: Hene
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: Robust Decaf
+review/text: This is my favorite decaf after trying many others.  It is strong enough for those who like full bodied coffee.  I enjoy it as much as Starbuck's.
+
+product/productId: B007TJGY5K
+review/userId: A1UMSPUAY0CZOF
+review/profileName: cindy lesch
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1321920000
+review/summary: TERRIBLE COFFEE
+review/text: This coffee tastes like colored water.  It has no flavor.<br />I like Emeril's regular Big Bold coffee and thought it would taste similar.<br />Don't waste your money
+
+product/productId: B007TJGY5K
+review/userId: A19O19MYEZN6QN
+review/profileName: Patricia Childers "LuLu7"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320278400
+review/summary: Emeril's Coffee
+review/text: This is my husband's favorite coffee by far and away. It has a nice robust flavor and a little more pep than most decafs. The coffee is consistent as well, consistently good.
+
+product/productId: B007TJGY5K
+review/userId: AA22G1EHH6WXB
+review/profileName: Rhonda McDonald
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319587200
+review/summary: Good coffee
+review/text: We switched to decaf a couple of months ago and Emeril's Jazzed Up Decaf is one of the best we have tasted. Works well in our Keurig, have not had any duds. Love the price as well, one of the more affordable choices on Amazon for the quantity that you receive.
+
+product/productId: B007TJGY5K
+review/userId: A3UCK1ENWTK4BZ
+review/profileName: David "I like fantasy, sci-fi and other books...
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1319328000
+review/summary: I didn't like it.
+review/text: I found the coffee to be too weak. I wonder what his Un-Jazzed Up coffee is like, it must be like drinking plain boiled water. This coffee is only good if you like your coffee weak or make a 6 oz cup maybe.
+
+product/productId: B007TJGY5K
+review/userId: A108NDB3YTO0L2
+review/profileName: Josephine  MacVicar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317513600
+review/summary: Great coffee
+review/text: Strong but not bitter.  I drink it with a little milk, no sugar.  It is the best kcup coffee and a good price.
+
+product/productId: B007TJGY5K
+review/userId: A35YGH5JF2TONB
+review/profileName: Mike Steed
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306195200
+review/summary: Emeril's Jazzed Up Decaf
+review/text: There must be 200 flavors of coffees for the Keurig machines.  I've tried about 20 of them and this is by far the best of the decaf products.  I'll be a repeat customer.
+
+product/productId: B007TJGY5K
+review/userId: A336X09LM6BYGV
+review/profileName: vansam
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1305676800
+review/summary: The worst coffee ever
+review/text: I ordered this coffee based upon Emeril's reputation in the food industry and the fact that it's called "Jazzed Up".  I generally buy Starbucks or other premium coffees but Starbucks isn't out in a k-cup yet.  I am still in shock about how bad this Emeril decaf is.  I can't even say it's like poor quality grocery store level - it's seriously revolting.  I tried another one just to make sure I didn't get a 'bad' k-cup, but it was just as horrible.  So now I have 48 of these putrid things left.  Wonder if Amazon will take them back?!
+
+product/productId: B007TJGY5K
+review/userId: A4EBYIKOMYFF9
+review/profileName: E. Wilson
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1304294400
+review/summary: not tasty, not strong, not good
+review/text: The only real flavor this coffee has is burned. No matter how little creamer I use all it tastes like is hot water if you ran it through an old, used k-cup. I really like donut shop decaf and especailly like green mountain french roast decaf, both have great flavor even when brewed on the largest size setting.
+
+product/productId: B007TJGY5K
+review/userId: A1X9JY3NKC7JPB
+review/profileName: jagaito
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303689600
+review/summary: Best decaf ever!
+review/text: I am now restricted to decaffeinated coffee for health reasons, but was very pleasantly surprised with Emeril's Jazzed Up Decaf.  It is by far the best decaf coffee I've had - at home or elsewhere.
+
+product/productId: B007TJGY5K
+review/userId: A2NGBXU7BG0XAF
+review/profileName: MED
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301788800
+review/summary: Best decaf I've tried yet
+review/text: This is certainly the best decaf K cup I have tried yet.  I use it with the 4oz setting on my Keurig platinum  machine.  It is still a little too weak, but is head and shoulders above all the other decaf's I've tried.  I've heard that Coffee People Decaf French Roast is superior, but I've had a hard time finding it in stock anywhere.  So until I do find it, Emeril's Jazzed Up will be my decaf of choice.  I'm about to put in my second order. I'm also thinking that a different K cup machine (eg Cuisinart) might result in a better extraction thereby making a stronger brew???  Any thoughts?  Thanks.
+
+product/productId: B007TJGY5K
+review/userId: A26GFVJ78JKVKT
+review/profileName: fvdragon
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301788800
+review/summary: Jazzed up is right
+review/text: i was looking for something bolder and different, and I found it.  Emeril's Jazzed up Decaf has amazing taste and good flavor.  Most decafs are bland, but this one has a great aroma from brewing on.  Worth the extra $$.
+
+product/productId: B007TJGY5K
+review/userId: A2BGFT7SMJHIYU
+review/profileName: wstcstbuyer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301788800
+review/summary: BEST Decaf Coffee for Keurig Machine - HANDS DOWN!
+review/text: I have tried many Decaf coffee's for use with the Keurig machine and this one beats them all.  I'll save you a lot of time trying them all out - use this one.  It's amazing!
+
+product/productId: B007TJGY5K
+review/userId: A3T421PY3APGUQ
+review/profileName: K. Field
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1300233600
+review/summary: No BAM for our buck
+review/text: We have been trying out decafs to find good strong ones. I was so hopeful when I opened the box covered with exclamations of  'BAM!' and 'Oh Yeah, Babe!'. That first cup was a huge watery letdown. I can only say that it is not acidic. I tried it a few more times and now it is the coffee that the kids are allowed to drink. Weak, sad decaf.
+
+product/productId: B007TJGY5K
+review/userId: A3L3T92RJRQSU0
+review/profileName: Ann deAvila
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300233600
+review/summary: Nice Robust flavor
+review/text: Emeril's Jazzed up Decaf gives nice robust smooth flavor without the caffeine.  It has proven to be my favorite among several which I have tried.
+
+product/productId: B007TJGY5K
+review/userId: A36SR7PRX10EA4
+review/profileName: Kiru Cat
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1299974400
+review/summary: Jazzed Down
+review/text: As a fan of the regular Big Easy Bold coffee cups, I did not hesitate to order the decaf, expecting the same depth and richness.  I was disappointed however when I brewed the first cup to find that it tasted much like Dunkin Donuts. The next time I brewed it using the 6oz water selection, and it was better, though still not as I had expected.  Next time I order I will go back to Green Mountain French Roast decaf, which I still have to brew at 6oz, but has the richness I expect.  46 pods to go..............
+
+product/productId: B0001PB9DG
+review/userId: A2KH3EOZO3DRCO
+review/profileName: MrsK "MrsK"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1214524800
+review/summary: Its ok, good but many out there that my husband liked better
+review/text: Bought it for my husband as a gift.  he liked it but not as much as Tony Roma;s, and many others.  We wont be buying these again.
+
+product/productId: B0072GYV5U
+review/userId: A3O1EBM7V7MYM
+review/profileName: Loki's Mom
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1345075200
+review/summary: Bag is really 15 lb
+review/text: Do not trust seller "Natural Choice Dog". The item name is "Natural Choice Chicken Meal, Rice, and Oatmeal Formula Dog Food, 30-Pound" but if you look in the details you'll see the size is actually 15 lbs; although the seller is selling it for $35.94 which is an expected 30 lb bag price.<br /><br />Thankfully Amazon will assist with a refund if you get suckered like I did but please be aware this item name is completely misleading. Shame on the seller "Natural Choice Dog" for setting that up.
+
+product/productId: B0072GYV5U
+review/userId: A35HRL8YD8R7MV
+review/profileName: K. Chapin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Great for Pit Bulls - almost totally eliminates gas!
+review/text: My last Pit Bull and the one I have now had THE worst gas - and frequently!  Tried this (& the venison meal version in the lavender bag) & the gas has been all but totally stopped.  Makes us all happy and it must feel better to her, too!
+
+product/productId: B0072GYV5U
+review/userId: AU55MLAG63ICI
+review/profileName: mtbgirlie
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346284800
+review/summary: misleading !!!
+review/text: the title of listing read 30 pounds, my packing list reads 30 pounds, i received 15 pounds.  that price would be outrageous price for only 15 pounds of food.  i needed to feed my dog so i opened the 15 pound bag, i've submitted a claim, hopefully amazon shells out the other 15 pounds!!  amazon did update the listing to be accurate since my order, but my order on amazon.com still reflects 30 pounds, and my packing list reads 30 pounds.  i want my other 15 pounds!
+
+product/productId: B0072GYV5U
+review/userId: AJHQMVY6A9LF3
+review/profileName: H. Policarpio "alongcamepoli"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Perfect for my dog :)
+review/text: My Australian Shephard goes crazy for this! I used to get her the Purina Pro Plan Sensitive Stomach product for her but she got tired of the same flavor (salmon), the only flavor it comes in. So I switched out to Natural Choice to try it out and we're sticking to this product. What I love most about this is that it comes several flavors especially for dogs with sensitive stomachs and for a decent price! It may be a few dollars more than other brands out there like Purina and Beneful, but I'll spare a few more dollars for my shephard if it means that she won't have digestion problems any more! (P.S. I bought this through Amazon because the $$$ can't be beat by the big name pet stores for both the 15-lb and 30-lb products...AND it was free prime shipping! :))
+
+product/productId: B000DCOM2W
+review/userId: AGSGWDDVVLDWO
+review/profileName: Greg W. Young
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1229472000
+review/summary: The Holy Grail of hot chocolate!
+review/text: I haven't had a cup of Swiss Miss since I tried this two years ago...  I haven't looked back.
+
+product/productId: B000DCOM2W
+review/userId: A3EPJSPH03AS29
+review/profileName: pebblepuppy
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1278288000
+review/summary: THE BEST Cocoa ever!
+review/text: YUMMMMM!  I'll never go back to regular cocoa after this.  I'm am so spoiled. I love all things Ghiradelli and this was true to it's quality name.  Makes a great gift or  treat for yourself.  ENJOY!
+
+product/productId: B000DCOM2W
+review/userId: A5AX7DXCFSYVM
+review/profileName: Alicia D "Ali"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1261785600
+review/summary: Great Choco Flavor!
+review/text: This is now the ONLY cocoa mix I buy! It is soooo good. I like how the ingredients are better than the other big brands. I can't do alot of dairy products and most other companies slam their mixes with milk powders. This one does not. I use it in my cereal to make it chocolatey and also on toast to make choco toast under the broiler. mmmmm
+
+product/productId: B000DCOM2W
+review/userId: A2GEZJHBV92EVR
+review/profileName: History buff
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: Wonderful & addicting. Best ever!
+review/text: This is a fantastic hot coco. The best I think. It has great flavor with double the coco. So nice to snuggle up with a cup on a cold Michigan winter night. Wonderful!!!! Always have some in the house.
+
+product/productId: B000DCOM2W
+review/userId: A15B0BMEQ2L4IQ
+review/profileName: juliagee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335312000
+review/summary: AMAZING!
+review/text: This is sooooo good! I bought it mostly because it was the only one I could find that was dairy-free and I am so pleased! I have mixed it in with soy yogurt (pudding!), sprinkled it on ice cream, and of course made hot chocolate and mochas. I will for sure continue to buy this product.
+
+product/productId: B000DCOM2W
+review/userId: A2BOFKQCTL0GTR
+review/profileName: S. Drew
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318982400
+review/summary: Rich, velvety hot cocoa
+review/text: Ghirardelli's Double Hot Chocolate mix is delicious!  Less sugary-sweet than most other brands; just rich, deep chocolate flavor.  The ultimate creamy treat is to make it with whole milk.  Perfect topped with marshmallows on a cold fall or winter day.
+
+product/productId: B0037JFHIQ
+review/userId: AHBI0Z6G0KMZ6
+review/profileName: R. Simms
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1275782400
+review/summary: Most Unique, Refreshing Beverage
+review/text: This is the most unique, refreshing beverage and we have not been able to find it's equal in the U.S. We first tried this on a trip to England. It has a light almost floral taste - like the taste of honeysuckle. It is worth the money to give this beverage a try. We think you will be glad you did.
+
+product/productId: B0037JFHIQ
+review/userId: A2FN98WWIQQTY9
+review/profileName: L. Taylor "L. Taylor"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347667200
+review/summary: Light and sweet
+review/text: I first tried this while on a trip to Europe, and after visiting the Starbucks where it was sold three times in one day to get more bottles of it, I knew I was hooked! I ordered it on amazon when I got back, and it came quickly and carefully wrapped. The flavor is light and slightly sweet, sort of crisp (I'm terrible about describing taste!). Is it pricey? Yes. But is it worth it? I think so :)
+
+product/productId: B0037JFHIQ
+review/userId: A2E1NBEF19ZFN4
+review/profileName: Anonymous
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344384000
+review/summary: Like underripe grapes.
+review/text: This beverage tastes distinctly like the underripe green grapes we used to eat from the vine in my aunt's yard.  Tart, sweet, sour, and refreshing.  If I did a blind taste test I would have assumed that this was a bottle of juice from those very same grapes as opposed to the combination of elderflowers and lemon juice that it is.  It is a pretty good drink, but I don't know how soon I'd be willing to pay $30 bucks (shipping plus cost) for it again.
+
+product/productId: B0037JFHIQ
+review/userId: A3EKJ5L2ZGMVX
+review/profileName: Susan E. Zinner "birdy5520"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342569600
+review/summary: Outstanding carbonated drink
+review/text: 'Tried this at the Stratford Shakespeare Festival in Stratford, Ontario, Canada at a little cafe when it was very hot.  It's really terrific...kind of floral and carbonated.  It's like a non-alcoholic version of the Saint Germaine liquer.  Thanks, amazon, for carrying this...I plan to order this on a regular basis!
+
+product/productId: B0037JFHIQ
+review/userId: A26Y4F4LFD1M0N
+review/profileName: Hilary "Jason Isaacs fan"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1276128000
+review/summary: Like Summer in a Bottle
+review/text: This is truly a unique soft drink--it's literally flavoured with flower blossoms. Elderflower has a curious pungency, a little muskier than honeysuckle in my opinion.  Belvoir Fruit Farms have sweetened this sparkling drink just enough and added a hint of lemon juice for balance.  Belvoir's beverages contain no corn syrup, artificial flavourings or colourings, or preservatives.<br />Elderflower is used medicinally to treat respiratory complaints, and I think drinking this lovely beverage does help stave off colds, etc.  It's more economical (as well as "greener") to purchase this as the cordial (a concentrated syrup) and mix it with your own sparkling water; I find that the cordial keeps very well (3+ weeks) if refrigerated, and I enjoy it even more mixed with a very tart fruit juice (like unsweetened pomegranate).  You can find elderflower and elderberry drinks and other edibles all over the UK--I'm delighted to have access to them here!
+
+product/productId: B0081A46H4
+review/userId: A2XFBDFIQJRGHQ
+review/profileName: Edwin R. Saunders Jr.
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1340150400
+review/summary: Very expensive!
+review/text: Investigating where to buy it in New Jersey and found that your price was exorbitant to what I am paying here in Pietro Rico. At Walmart I Am paying 2 (two) dollars and 16 cents for it. 6 cartoons would be 12 dollars and 96 cents! WHY THE DIFFERENCE? Do not know how to rate the item and what you mean by it. The product is good and at $2.16 it is great!
+
+product/productId: B0037ANOAS
+review/userId: A6MB509PHSZ4Y
+review/profileName: Li
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332028800
+review/summary: Good but it is small
+review/text: It is on time.  It is real yellow spray rose.  It is buy 50 get 50 free.  The flowers are blooms but so tiny, not the expectation of big bundle that make my girlfriend surprisingly.
+
+product/productId: B001ELL58K
+review/userId: A2UV5LZ2WIYHBW
+review/profileName: Steven R. Rikli
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: really good -- don't let the name fool you  :-)
+review/text: I was looking for some kind of new trail mix snack food to try, and stumbled across "Barnacles".  My first thought was I'd stumbled into the Amazon Bait Shop, but don't you make that mistake:  these things are pretty tasty.<br /><br />Barnacles are similar enough to traditional trail mixes that you won't feel like you're eating something crazy or peculiar, and the familiar favorites are there:  nuts, little cracker and pretzel pieces, garlic bagel chips, and a few things the Blue Crab Bay Co. calls "roasted pasta spirals".  There aren't many of those though, and the majority of the snack is nuts and cracker things.  If you like nuts you won't mind at all, since they used oversized peanuts which are crunchy and good.<br /><br />The seasoning is a spicy salt blend ("Chesapeake Bay Seasoning") and has a little kick -- nothing severe, but if you're looking for something which is only salty, this might not be for you.  Probably similar to a hot-ish BBQ potato chip for comparison's sake on the heat/spice level.<br /><br />If you like any kind of trail mix the Barnacles are definitely worth a try.
+
+product/productId: B001ELL58K
+review/userId: A2582KMXLK2P06
+review/profileName: B. E Jackson
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1336435200
+review/summary: tasty but... I'm concerned
+review/text: Okay when I go to the beach I have to scrape barnacles off the side of my dad's boat- slimy, sticky, smelly barnacles.  Please tell me this tasty little snack isn't related to... THAT!  I was told those particular type of barnacles are poisonous and you should wear a mask when scraping them off a boat.  Is this true?  What is this snack mix exactly?
+
+product/productId: B00168Q32E
+review/userId: A253XKAR4A93Z9
+review/profileName: John Stafford "johnstafford"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293580800
+review/summary: Outstanding; Works perfectly with Senseo
+review/text: Subtle and delicious flavors. Individually packaged for freshness. Pods are slightly "fat" and work perfectly with Senseo. Pressure brewing then yields the ultimate cup of coffee. If you're going to adulterate with cream and sugar, you're wasting your money.<br /><br />I usually have one on Saturday morning. Too expensive to drink the other days of the week. Real Kona coffee isn't cheap from any source though. The Kona coffee that comes from Senseo or you sometimes see in grocery stores is 5% or 10% Kona. Meaningless.
+
+product/productId: B00168Q32E
+review/userId: A23DL2FU9AVM4
+review/profileName: Eolian
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264118400
+review/summary: I'm addicted
+review/text: A bit more expensive, but worth it.  Not bitter or acidic.  Different in a good way.  No cream or sugar needed.
+
+product/productId: B004D9VY40
+review/userId: A2XDG0AVOJK4BC
+review/profileName: 09saints
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1328140800
+review/summary: additional review
+review/text: I had a problem with the pears received in my gift basket.  Information included in the basket explains that the company guarantee their product.  I called to explain I was not happy with the pears.  I was only expecting them to replace the pears but the company sent another basket in about three days and the pears were much better.  I am happy that they backed their product.
+
+product/productId: B004D9VY40
+review/userId: A1C6756X4K6UU1
+review/profileName: Jenny
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325894400
+review/summary: Super!
+review/text: My parents loved the fruit gift box! Their package arrived before Christmas even though I missed the deadline for that promised delivery date. They said the fruit was very good, and the pears came with an information sheet explaining when they would be perfectly ripe for eating.
+
+product/productId: B004D9VY40
+review/userId: A2KJA5JSLPII88
+review/profileName: Sandy Feete "Tribbles1"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330300800
+review/summary: Fresh and beautifully packaged
+review/text: I bought this as a gift and heard back that it was a beautiful arrangement of fresh food. The fruit was firm and unblemished. It is a great gift item as there is a little bit of something for everyone to enjoy. I've purchased other fruit gift baskets and this is by far the best value. Great quality.
+
+product/productId: B004D9VY40
+review/userId: AH7XOWBF61XG8
+review/profileName: 09Saints
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327622400
+review/summary: Just okay
+review/text: The item received is okay but not a good value.  The oranges are very very small and nothing like the picture.  You probably get a better value going to your local grocery store.  Would I purchase this item again?  Probably not.
+
+product/productId: B006XB5Q2C
+review/userId: A26Z6UG7QFVCIF
+review/profileName: MAN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: jelly beans
+review/text: Best strawberry tasting jelly beans ever!  Used maroon/red and orange for a college colors grad party and they tasted great!
+
+product/productId: B00016AU58
+review/userId: AJ4KYZLOKGO84
+review/profileName: Melbee
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295654400
+review/summary: Really works!
+review/text: This product has really worked for me. After a really bad year of depression I looked into St. John's Wort because I couldn't stand the "clouded" feeling my medication gave me. The taste of the tea is great and I loved it and I noticed that I was very calm and more patient after having consumed this product. I'm a busy college student and get stressed alot, I drink it everyday in the mornings before classes, or at night when I'm studying. I also slept better when drinking it before bed! I've recommended it to all my frends!
+
+product/productId: B00016AU58
+review/userId: AKU18EGFF6G02
+review/profileName: The Man
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345766400
+review/summary: Quality Tea; No need for added sweetener
+review/text: This tea has great taste and may not need added sweetener depending on your taste. The bags are of high quality and do not leak. If your are used to purchasing tea bags from local nationwide chains you may be familiar with leaky bags that seem to always fall apart in your cup often requiring straining. This brand is different.<br /><br />The taste is mild yet soothing and you feel alert and ready to go right away. I will be purchasing more from this vendor.
+
+product/productId: B00016AU58
+review/userId: A1GGJFR3KTA0DN
+review/profileName: Anatolij Strangar "mr t"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243987200
+review/summary: Yogi Tea St John's Wort
+review/text: One of the best tasting teas I ever tried. A little bit chipper than in local Whole Foods store, quick delivery.
+
+product/productId: B00016AU58
+review/userId: A22WY4EMT9DW6P
+review/profileName: Geraint
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1322784000
+review/summary: Tasty and seems to work
+review/text: I thought these were worth a try, and in fact I was a little surprised that over the course of a few days, they do indeed seem to work.  The taste is good too, with some sweetness from the liquorice and even a pleasant hint of curry (I think from the fenugreek), which is better than it sounds.<br /><br />They lose a star because, like many companies, they seem to insist on pointless strings and tags stapled onto the bags.  I prefer to just take teabags out with a spoon, then I can squeeze them against the side of the cup.  All the tag does is increase the chance of getting cardboard in your tea if you forget to hold the tag, and make you faff about removing a staple before you can compost them.
+
+product/productId: B00016AU58
+review/userId: A209J1YNGGNRPN
+review/profileName: M. barajas "Pre-Law-Journalist23"
+review/helpfulness: 0/4
+review/score: 2.0
+review/time: 1264982400
+review/summary: It did NOT give me any energy...
+review/text: I love Yogi teas especially because theyre all made organic & there is so much variety in choosing all the best flavors in the market, however, I bought this flavor based on the reviews on here, how this would give me energy. I guess it all depends on the person and/or every b o d y IS different however, it didn't do anything to me nor did I like the taste its too minty & has no flavor, I felt like I was drinking a tea made out of salt & pepper. I dont know in my opinion this is the only Yogi flavor I am not please with.
+
+product/productId: B0053T34I8
+review/userId: A4QCWR2V9D6UQ
+review/profileName: David from Tokyo
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326499200
+review/summary: Not fresh
+review/text: I was very disappointed with this tea, it didn't taste fresh.  It was not delivered in an air tight container and the leaves have very low fragrance and the brewed tea has a poor weak taste.  I felt the decaf teas from Taylor's of Harrogate and Clipper were significantly better.
+
+product/productId: B004XZWHUY
+review/userId: A16G1TD9YXM6ZO
+review/profileName: Meghan
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1329523200
+review/summary: Not so great
+review/text: These are quick and easy to prepare, that's the good part.  The bad part is they're a mess and my son hated them.  Obviously, that's a taste issue, so if your child likes them, go for it.
+
+product/productId: B0052P1YHQ
+review/userId: A3MHAISKX2M6OA
+review/profileName: J. Williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: Absolutely delicious
+review/text: We eat a lot of soup in our house and ordered this specifically because of the lower sodium.  What a pleasant surprise.  One container easily serves two people.  I disobeyed the directions and added a small amount of finely chopped ham and about 3/4 cup of water.  It was perfect.  The only problem I had was opening the carton.  The directions are there but I could not figure out how to do it...handy scissors to the rescue!
+
+product/productId: B006LLWELA
+review/userId: A2FMHJB0MWZAWY
+review/profileName: bootsie2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: a great matcha
+review/text: This is the best matcha that I have tried so far.  It is lightly sweet and delicious.  Other brands just don't compare.
+
+product/productId: B006FFA53Q
+review/userId: A3D0GR0NA7HGKY
+review/profileName: cgirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337299200
+review/summary: Great snack with NO SALT !
+review/text: I need to limit my salt intake and personally I think that most of us need to. Processed foods are way overly infused with sodium and it is really nice to buy a snack that is actually good enough that it does not need the salt. I am not really a health nut, but believe in eating healthy. But most "healthy snacks" that you might find in the alternative grocery stores are not that great. Most things that I have tried I have not liked. But this has just enough flavor to satisfy your craving for a light snack. These would be great for making nachos!! You may want to try them out first, (one bag - if you can find them). I usually buy the 6 pack bags and they are usually sold out when I try to reorder on Amazon. I guess that is saying something.
+
+product/productId: B0043P12S2
+review/userId: A33HORKZ8O0OA4
+review/profileName: J. Riley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338336000
+review/summary: they love it
+review/text: its more expensive but they eat it all so no waste. wish it came in bigger cups, for 2. also there is alot of moisture in it which is good for them too, thinner than gravy more like a sauce.
+
+product/productId: B0043P12S2
+review/userId: A23RNWNIG01IL
+review/profileName: Harold E. Thomas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335312000
+review/summary: The Cat's Meow
+review/text: Since I started giving this to my cat, she has forgiven all my past transgressions and brought her boyfriend home for me to meet him.  Seriously, she loves the product and no longer leaves food in her dish.  GOOD STUFF!!!
+
+product/productId: B0043P12S2
+review/userId: A1VOHUD15SD5VL
+review/profileName: tornado646
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: Best I could find for special needs cat.
+review/text: My cat has that incurable mouth condition (an auto-immune syndrome of stomatitis) and can't really chew large pieces of food. I was throwing away lots of food before I found the Tender Favorites Variety of Meow Mix. She is able to lap it up because of the moi]sture content and sometimes I add a little chicken broth after she's left just the larger pieces and she's able to get more down. The cups are small, that's good in my case and there's not much waste, but it's rather expensive to buy in most stores. Since I've found it at Amazon, with free shipping, it's more resonably priced ! She's gained weight and is a much happier cat now. That's well worth a little more money![[ASIN:B000VJHCA6 Meow Mix Tender Favorites Poultry & Beef Variety Pack,  2.75-Ounce Cups (Pack of 48)]
+
+product/productId: B0043P12S2
+review/userId: A2Z7A2LOY1HG0M
+review/profileName: flanative32
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347062400
+review/summary: TOO expensive now
+review/text: This product last month was 21.89, now its $31.58, not happy.  Receiving last shipment...stopped subscription!  The food is good, but the price I am no longer happy with.
+
+product/productId: B0043P12S2
+review/userId: A2JBX1QE2242DV
+review/profileName: Moonbeam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344297600
+review/summary: Great for little kitty!
+review/text: I love feeding my cat these! The plastic cup makes the food slide out, so no having to shake or use a spoon. The packaging it was shipped in was secure, and the price is as low as I can find it anywhere per cup.
+
+product/productId: B0043P12S2
+review/userId: AV43XO32OAHXU
+review/profileName: Marcella Thomas
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1325376000
+review/summary: He liked it and so did I until...the next shipment was scheduled
+review/text: The price doubled by the time it was ready to ship the following month.  It's good food.  My cat loves it, and it was a variety pack that I didn't have to worry he wasn't going to eat all of.<br /><br />The price jump was too much for me.
+
+product/productId: B0032GL19S
+review/userId: A3SU48A49T9TKR
+review/profileName: S. B.
+review/helpfulness: 13/16
+review/score: 2.0
+review/time: 1325203200
+review/summary: Too many fructose ingredients
+review/text: Leave it to General Mills....to undo nature!<br />Make your own decision, here are the ingredients....<br /><br />&iexcl;Ingredients: Vanilla Ingredients: Rolled Oats, High Maltose Corn Syrup, Sugar, High Fructose Corn Syrup, Crisp Rice (Rice Flour, Sugar, Malt, Salt), Wheat Flakes (Whole Wheat, Sugar, Salt, Malt), Palm Kernel Oil, Corn Meal, Fructose, Canola Oil, Yogurt Powder (Cultured Whey Protein Concentrate, Cultured Skim Milk, Yogurt Cultures), Corn Bran, Maltodextrin, Calcium Carbonate, Nonfat Milk, Soy Lecithin, Salt, Honey, Color Added, Natural Flavor, Lactic Acid, Calcium Lactate, Mixed Tocopherols Added to Retain Freshness, Sunflower Meal, Peanut Flour, Almond Flour. Strawberry Ingredients: Rolled Oats, High Maltose Corn Syrup, Sugar, High Fructose Corn Syrup, Crisp Rice (Rice Flour, Sugar, Malt, Salt), Wheat Flakes (Whole Wheat, Sugar, Salt, Malt), Palm Kernel Oil, Corn Meal, Fructose, Canola Oil, Yogurt Powder (Cultured Whey Protein Concentrate, Cultured Skim Milk, Yogurt Cultures), Corn Bran, Maltodextrin, Calcium Carbonate, Nonfat Milk, Soy Lecithin, Salt, Honey, Red 40 Lake and other Color Added, Natural Flavor, Dried Strawberries, Citric Acid, Baking Soda, Mixed Tocopherols Added to Retain Freshness, Sunflower Meal, Peanut Flour, Almond Flour. Blueberry Ingredients: Rolled Oats, High Maltose Corn Syrup, Sugar, High Fructose Corn Syrup, Crisp Rice (Rice Flour, Sugar, Malt, Salt), Wheat Flakes (Whole Wheat, Sugar, Salt, Malt), Palm Kernel Oil, Corn Meal, Fructose, Canola Oil, Yogurt Powder (Cultured Whey Protein Concentrate, Cultured Skim Milk, Yogurt Cultures), Corn Bran, Maltodextrin, Calcium Carbonate, Nonfat Milk, Soy Lecithin, Salt, Honey, Color (Blue 2 Lake, Red 40 Lake and other Color Added), Natural Flavor, Dried Blueberries, Citric Acid, Malic Acid, Mixed Tocopherols Added to Retain Freshness, Sunflower Meal, Peanut Flour, Almond Flour.
+
+product/productId: B0032GL19S
+review/userId: A6H0BSFKAXB5X
+review/profileName: Scooby Doo
+review/helpfulness: 7/9
+review/score: 5.0
+review/time: 1293494400
+review/summary: These are what you're looking for. the strawberry yogurt 36-pack
+review/text: The title of this product is slightly confusing. it says:"6-Count Boxes (Pack of 6)"<br /><br />They're trying to say that you get 6-boxes, and each box has 6 bars. 36 yogurt bars in all. More specifically, each box has 3 of each flavor, 3 strawberry, 3 vanilla.<br /><br />I rated 5 stars because its exactly as described. Obviously, food is more about personal opinion so this review really is me just talking about how much i like yogurt bars. I think you're a good consumer for reading this review, because i would do exactly the same.
+
+product/productId: B0032GL19S
+review/userId: A1KK0WZ5WM17I5
+review/profileName: James L. Zhang "Gadfly"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1296691200
+review/summary: Taste too good to be healthy
+review/text: I bought this product as a breakfast alternative when there is no time in the morning.  It has decent nutritional value, but it tastes really good!  Goes well with tea or coffee.
+
+product/productId: B0032GL19S
+review/userId: A1RZAT5C8OLHD9
+review/profileName: J. Black
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1309910400
+review/summary: Like the flavor but came melted from amazon
+review/text: I like the strawberry better then the vanilla yougurt bars. In fact the whole family seems to because I always find, boxes with all the strawberry eaten first! I won't buy these from amazon again in the summer months. The shipping is slow and in the bars sat on the delivery truck for over 15 hours in 100 degree heat so I got them melted. I had to put them in the freezer but they did not tatse the same.
+
+product/productId: B0032GL19S
+review/userId: ATUD3LTAIL32U
+review/profileName: G. Goldman "Most people with swagger really j...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306195200
+review/summary: Great office snack
+review/text: I stock our office on a regular basis (usually order off Amazon once a month) and these are uniformly a hit, month upon month.  They  taste great, they're good for a big boost of sugar, and I think they probably are somewhat healthy.  Although not sure at all of that, in the least.<br /><br />Get em.  They're pretty cheap too!
+
+product/productId: B0032GL19S
+review/userId: A2C5V5VRE1FK3W
+review/profileName: Experienced Shopper "product maven"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1308873600
+review/summary: LOW CAL SNACK THAT DELIVERS
+review/text: <a href="http://www.amazon.com/gp/product/B0032GL19S">Nature Valley Chewy Yogurt Granola Bars, Variety Pack of Vanilla and Strawberry, 6-Count Boxes (Pack of 6)</a><br /><br />Having to watch my calories has resulted in me always looking for foods that are low fat and delicious.  This combo is not easily available.  Having tried these yogurt bars which come in 2 flavors I have found a delicious low cal snack that delivers exactly what I want.  It is sweet, chewy and flavorful. You can also purchase these bars in either strawberry or vanilla rather then buying them together.  They are perfect alone or with a beverage.  If you have a sweet tooth and you are counting calories this granola bar is perfect, not too sweet, not sticky and not overwhelmingly chewy. They are perfect alone or with a beverage. They are even appealing to kids. I have given them to my grandsons who enjoy them as well. I will definitely re order this item and I am sure after you try them you will put them at the top of your shopping list.
+
+product/productId: B0032GL19S
+review/userId: A25C2M3QF9G7OQ
+review/profileName: Comdet
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Tasty, and the yogurt coating is a nice addition
+review/text: While I like yogurt out of a cup, I'm usually not fond of things that are dipped in yogurt. These are the exception - the yogurt coating on the bottom adds a very nice taste to the granola. Sweet, but not candy bar sweet. I prefer the strawberry over the vanilla, but both are good.<br /><br />The granola itself is soft but still holds together as a bar. The calorie count is decent (120 per bar). The nutritional content is not stellar, but reasonably good and much better than candy alternatives.<br /><br />Highly recommend, especially if you can get them on a price dip.
+
+product/productId: B0032GL19S
+review/userId: A27NTHPTRXB766
+review/profileName: Sandra L. Thornton "typingterror"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: Amazon winner
+review/text: These are so good they are sinful but the yogurt and fruit has to make them healthy.  I wish they had more flavors as I would have my cupboard stocked for winter pampering.
+
+product/productId: B0032GL19S
+review/userId: A3GEPXQB5LKUJQ
+review/profileName: C. O'Donnell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349568000
+review/summary: really really good
+review/text: The vanilla are my favorite; the strawberry are good but not quite as good. They are tasty, convenient, and relatively low in calories. I use them as an afternoon pick me up and for that they have even beaten out the also-excellent but slightly more caloric Kind Bars. Highly recommended
+
+product/productId: B0032GL19S
+review/userId: A3LBK53U2C50FO
+review/profileName: Gene A. Underwood "avid reader"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339632000
+review/summary: Stale
+review/text: The bars were stale.....very hard to chew, the expiration date was Aug. 2012, but you couldn't prove that by me, I ordered these for<br />a friend and myself, had to apologize to friend.
+
+product/productId: B0032GL19S
+review/userId: A2QWME8ERPVFM4
+review/profileName: Pablo Blanco
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1334880000
+review/summary: Vanilla coated were good, strawberry were disappointing
+review/text: Nature Valley Chewy Yogurt Granola Bars, Variety Pack of Vanilla and Strawberry, 6-Count Boxes (Pack of 6) were good (vanilla) and bad (strawberry). Would not recommend the variety package...
+
+product/productId: B0032GL19S
+review/userId: A11Q4P6U58BAXM
+review/profileName: Jim Chen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Quick and Tasty
+review/text: Signed up for a subscribe and save offer for these and was impressed by the texture and flavor.  Not too sweet nor bland.  They are chewy and won't break your teeth when biting into them like  some bars.
+
+product/productId: B0032GL19S
+review/userId: A25U1J7489YOYU
+review/profileName: Spencer M. Fong
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327276800
+review/summary: A little too sweet
+review/text: I wanted a bar for my breakfast before work but thought the special k bars might be too sweet.  THese are wayy sweeter.  14g per bar.  SO i guess for a daily meal it's probably pretty unhealthy.  But i dunno when i'm eating it I think i might as well be eating a candy bar or fresh doughnut because it's probably just as bad for me but tastes better (why i gave it 3 star).  I'll probably switch to something more healthy.  But i can't knock it down too much it taste good for what it is.. but its def not something i should have bought in bulk for my first purchase.
+
+product/productId: B0032GL19S
+review/userId: A2KCQJDZ9PQPKC
+review/profileName: SCV
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: yum!!!
+review/text: these bars are great.. since I am always on the go, these bars are perfect for me!! For some reasons they are not easily found at grocery stores.. Thx amazon !!
+
+product/productId: B0032GL19S
+review/userId: A3K8DFO3TXWNG0
+review/profileName: Guac in Texas
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1306281600
+review/summary: I'll stick with Crunchy Nature Valley Bars
+review/text: These bars are just two sweet for me and I prefer the crunchy over chewy bars.  I'm going to try and refrigerate the bars to harden up the yogurt coating.  This bar will definitely serve me more as a candy bar than a healthier snack bar.  They kind of taste like a fruity, tangy rice krispy bar to me.  Hopefully they'll grow on me 'cause we now own a pantry full. My guess is the kids won't be as particular and they like strawberry everything.  It was good value.  :-)
+
+product/productId: B0032GL19S
+review/userId: AYTPPGFKMF7MY
+review/profileName: Death_Rat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297900800
+review/summary: Why, WHY!!!!
+review/text: This bars are so good, and for some crazy reason they are not easy finds at most stores. Finally I thought of Amazon, and thank you for that!<br /><br />Is just one of those cases of delayed gratification!
+
+product/productId: B0032GL19S
+review/userId: A20713QKOYN8X2
+review/profileName: MidnightRunner
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1336348800
+review/summary: Expires in less than 4 months
+review/text: I received this item today bundled together in a way where I could not see the expiration date without cutting the plastic which bundled the 6 boxes together.  Mine expire 8/30 (today is 5/7).  I know that if I bought these in the store I would have at least a couple or more months of shelf life.  That said I should be able to get through them before the end of their shelf life and I would finish the rest even if they go over.  What is not cool is that the majority of groceries I have bought here are not nearly as fresh as those I would get a the store.  When I buy groceries here I expect them to be fresh, and considering Amazon's size I can't think of an excuse for getting products that have been sitting on a shelf for months.  I was unable to return (if I wanted to go to the trouble) these since they are not "not eligible for return."<br /><br />I gave these 2 stars for the actual product which is pretty good, but also sweet which needs to be considered if you are on a special diet.  I sometimes add them to my breakfast when I can't get something better.
+
+product/productId: B0032GL19S
+review/userId: A2F1420TJA10R6
+review/profileName: H. Sandin
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1333065600
+review/summary: Funny taste
+review/text: The flavor of the two does not taste lie strawberries and vanilla in my opinion. For being naturally flavored they do have a "manufactured" taste. I tried one of each before giving the rest away......
+
+product/productId: B0049Z7Q22
+review/userId: A1RR0SQDPY4EAG
+review/profileName: Amy Seltzer "100% Catholic, 100% pro-life"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1321660800
+review/summary: Don't even bother with other (fake) chocolate chips - these are the best!
+review/text: Made with real cocoa, these chips are fantastic.  Well worth the pain of searching them out (and now Amazon has them!).  They are available at Safeway stores, but are over $4/bag there.  Guiradelli can't touch these chocolate chips!
+
+product/productId: B0049Z7Q22
+review/userId: A2EBT03DMBBXSR
+review/profileName: Amazon Buyer
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1330387200
+review/summary: Excellent chocolate and vanilla flavors - outstanding melt
+review/text: These chips are fresh with outstanding melt and excellent chocolate and vanilla flavor.  Would like 70%+ cacao but for 63% cacao these are very good value.  Today was my first try out - I am ordering more.  I am substituting these for Schokinag Bittersweet Chocolate Chips which have climbed out of reach at King Arthur.  These are at least as good.
+
+product/productId: B0049Z7Q22
+review/userId: A2PBXCPLFTEV3R
+review/profileName: AMDONA
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1325289600
+review/summary: Guittard 63% Extra Dark Chocolate Chip, 11.5-Ounce
+review/text: Chocoholic here, these are the BEST! We bought them from Central Market. They have always carried a good assortment of chocolate chips and chocolate bars. These chips have the most chocolate and vanilla REAL flavor of them all. Won't buy any others now! Happy New Year!
+
+product/productId: B0049Z7Q22
+review/userId: A2KJ5DXX23SLLN
+review/profileName: Jenstam
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332806400
+review/summary: BEST DARK CHOCOLATE CHIP I'VE EVER HAD!
+review/text: Hands down, THE BEST! I love these chips and snack on them daily to get my chocolate fix. I also add them to banana bread, brownies and anything else you can add them to. Delicious!! So glad I found them!
+
+product/productId: B0049Z7Q22
+review/userId: ACU5123FVWJ5D
+review/profileName: Connie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330560000
+review/summary: The best chocolate chips ever!!!!
+review/text: Purchased originally at a Von's store. Wasn't aware it was a seasonal<br />item and when they were gone, I was hard pressed to find anywhere.<br />The taste of the chocolate chip is so rich and delicious that I will<br />not buy another brand if I can help it. Purchased on Amazon recently.<br />I bought 8 bags and will savor every one of them.
+
+product/productId: B0049Z7Q22
+review/userId: A33AQPJYH7UUXR
+review/profileName: Desert Gypsy "A Brooklyn Girl Out West"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328400000
+review/summary: *special* dark!
+review/text: Other supermarket brands just don't compare. These Guittard chocolate chips will bring out the best in your favorite recipe, that is if you can help eating them straight out of the bag. I use these in my cherry chocolate chip cookies and they add just the right "grown up" touch; the taste is dark without being bitter with just the right amount of sweet. Another favorite is a sprinkle of them on top of corn bread mini muffins, a treat I always enjoyed at a Canadian Pancake House while waiting for Sunday breakfast. Sweet!
+
+product/productId: B005HXI4V2
+review/userId: A2VW4RLJSWFNQ8
+review/profileName: bjy61
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1334188800
+review/summary: Nice-but not "red hot"
+review/text: Product came quickly. A pound sounded like a lot but it really isn't, and the price seems a bit high for the amount of candy you get. Also, if you are looking for the "red hot" variety, this is not it. They have a nice flavor, but very mild. While not quite what I was looking for, I still ate them all.
+
+product/productId: B0033D3QJI
+review/userId: A2ZUGF5JXE9EQC
+review/profileName: Robert Mitchell
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339718400
+review/summary: Wonderful; a real treat!
+review/text: If you want a coffe that will curl your toenails, this ISN'T it!<br /><br />This is great-tasting coffee!  Not bitter, but smooth and mild.  A nutty flavor with faint undertones of chocolate and fruit.  No bad aftertaste.  Suitable for any time of day or night.
+
+product/productId: B0033D3QJI
+review/userId: A15AA7MB9XN2S2
+review/profileName: Mikey
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1338508800
+review/summary: Understand the peaberry
+review/text: This coffee is very very good. Most coffee berrys have one seed . A "Peaberry" has two seeds within one fruit. THESE ARE THE BEST ONES. The only better coffee you could get is if a farm selected for PeaBerrys and then a Palm Civet only ate those fruit.
+
+product/productId: B0000VZPIQ
+review/userId: A3C5231O0WQX10
+review/profileName: Cute Party Ideas
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1296000000
+review/summary: Green Color Mist for a Green Alien Party
+review/text: I had so much fun with Wilton's green Color Mist for a green alien party! Remember, it's a MIST, which means it sprays LIGHTLY, so keep that in mind when you want to add just a tint of color to your party foods. For example, it's a great mist for popcorn. I sprayed some of the Kettle Korn green and added regular colored Kettle Korn for a party mix, then added green M&Ms for a sweet and savory mix. The kids loved it. You could use Color Mist to spray marshmallows, white bread, potato chips and any other lightly colored foods to keep with your party theme colors.<br /><br />I'll use the pink color mist for my next party: a pink pirate party, mateys!
+
+product/productId: B0000VZPIQ
+review/userId: A3SJ6OST09HD86
+review/profileName: gezy
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1309737600
+review/summary: I've never tasted bug spray suspect this is just as nasty.
+review/text: I wanted to make a black and white cake so I got this at a store near me. As soon as I got home I sprayed a tiny bit on my hand and licked it. It smelled and tasted horrible. I threw it out within minutes of coming home from the store. I own quite a few Wilton products but would advise against getting the black spray.
+
+product/productId: B0000VZPIQ
+review/userId: AHSGEZGKJS3QF
+review/profileName: kora
+review/helpfulness: 10/16
+review/score: 1.0
+review/time: 1259625600
+review/summary: Not So Black
+review/text: I looked everwhere to change my daughter's birthday cake frosting black when the frosting was white.  This product sprays on and says it will give it a black color.  I followed the instructions perfectly and it gave it a grayish color only if you sprayed a bunch on.  The smell was awful and it looked awful.  Realizing it wasn't going to work I stopped and tried to scrape it off.  The entire cake absorbed the flavor - it was horrible and the cake ended up in the garbage.
+
+product/productId: B0000VZPIQ
+review/userId: A3I7WIYAQMJNTF
+review/profileName: summer21
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1305936000
+review/summary: horrible chemical smell
+review/text: DO NOT BUY THIS! Thought this was a great idea. sounded quick and a fun way to add color to cakes. It did give color to the cake but the smell was horrible. Smells<br />like hair spray. Not something I want to eat or let my children eat.
+
+product/productId: B001HTL7HS
+review/userId: A1Y3UM7OC3AQXO
+review/profileName: Pat the Book Lover "Pat"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286928000
+review/summary: LOVE GIN-GINS!!!!!!!!
+review/text: Why did I buy a dozen 4-ounce boxes of Gin-Gins?! I love the things. They are tasty and good for the digestion--even for settling heart burn. I do not crave candy if I have a couple of Gin-Gins every day.<br />Gin-Gins rock!
+
+product/productId: B001HTL7HS
+review/userId: A3GUHHFC0QIZ6K
+review/profileName: Florida Science Guy "flspy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308873600
+review/summary: Addicting
+review/text: I love ginger candy and this is the best. I give them to friends on my boat and they seem to work really well.
+
+product/productId: B0049MHTFY
+review/userId: A26U5ZR566N7E0
+review/profileName: Yodio
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1316563200
+review/summary: Tastes great, works great!
+review/text: Pros:<br /><br />These energy shots really work! Some ingredients not listed in the description are Ginko Biloba and 5HTP, which  many experts say increase focus and energy. After drinking one of these, I noticed a significant focus and energy boost, and there was no crash like I have gotten with other energy drinks. The flavor is good, though obviously it's not going to taste like nectar since it has so many concentrated ingredients.<br /><br />BIG PRO: This has stevia as a sweetener -- no artificial stuff. I have always liked stevia and that is part of the reason I decided to try this one. Also, there are no artificial dies or flavors.<br /><br />Cons:<br /><br />The only cons I have come from the packaging. The energy shot cap has a paper cover that just sits in there. If you drink part of an energy shot and then drink the rest later, you have to take the cap off and remove the soaked paper cover. This is really a minor issue so I decided not to knock off a star in my review.<br /><br />The shot is a little on the expensive side, but in my opinion, why buy cheap energy shots that have mediocre ingredients? It's just a few dollars higher than 5 hour energy, which did not work for me at all.<br /><br />------------------------------------------------------------------------------------------------------<br /><br />Since the ingredient list is not in the Amazon item description, here it is:<br /><br />EBOOST blend: Aloe vera leaf, vegetable glycerin, green tea leaf/caffeine complex (150ml caffeine), elderberry fruit extract, N-acetyl-L-tyrosine, glucoronolactone, blueberry juice concentrate, blackberry juice concentrate, blueberry puree, grape skin extract, maqui berry juice, Gingko biloba leaf extract, pomegranate concentrate, agave root, huperzine, mango fruit concentrate, quercetin dehydrate, acai fruit (Euterpe oleracea), grape seed extract, resveratrol, 5-HTP (from Griffonia simplicifolia seed extract).<br /><br />Other Ingredients: Purified water, natural flavors, citric acid, potassium sorbate, sodium benzoate and stevia leaf extract.
+
+product/productId: B0049MHTFY
+review/userId: A1H3NZ6YRX85Y3
+review/profileName: Maria Styles
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1316217600
+review/summary: best energy shot ever!!
+review/text: love Eboost, i use all there products, especially love the energy shot! i use it before my workouts and it really helps with enegry and endurance
+
+product/productId: B0049MHTFY
+review/userId: AYUGXGYXVZW8Y
+review/profileName: T. Lantz
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1341187200
+review/summary: YUCK!
+review/text: Being a very health conscious person, I thought I'd give Eboost products a try.  These taste horrible!  I'm at a loss for words to even describe it, but it's hard to swallow and kind of tastes like that bile substance you get in your mouth when you throw up in your mouth a little.<br /><br />I also tried the orange powder drink mix from Eboost and it was equally as bad.  I actually felt a little sick after I drank it.  I think the shot is a little worse though.  I don't believe the 5 star reviews that say it tastes great can possibly be real.  There is no way this tastes great, and is barely even tolerable in my opinion.  I don't believe it is an acquired taste either.<br /><br />I gave it two stars because it does have some vitamins in it, and it did give me a little boost of energy without that jittery caffeine feeling.  Once I stopped feeling nauseous from the taste, I actually felt pretty good.  It won't be enough to make me buy more though.
+
+product/productId: B0049MHTFY
+review/userId: A3BQY5GDO2VIZP
+review/profileName: sully
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340841600
+review/summary: Awesome energy shot!
+review/text: I must say that I have tried different energy drinks and this one takes the cake.  I recently had to get off pain medications in the past 2 weeks after surgery.  I had awful withdrawal.  One of the symptoms was during the 2nd week, you experience depression and just feel exhausted.  This morning, I decided to try a sample someone sent me and I have been running ever since.  However, I think it tastes a little gross.  Almost a medicine taste.  But since it is all natural ingredients, I feel safe taking them.  So I'm getting ready to buy a supply of them.  I don't know how long they last but I hope it lasts all day.  Yesterday blew having to sit around feeling lousy.  Today is a good day just because of this energy shot.  Awesome! Thank you to whoever made these things.  xoxoxo :-)<br /><br />Kim
+
+product/productId: B0049MHTFY
+review/userId: A1RHY79611994D
+review/profileName: Courtney S
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1294617600
+review/summary: EBOOST Really Works
+review/text: I've tried many energy drinks including Red Bull, FRS, 5-Hour Energy and good old coffee but nothing makes me feel as good as these shots.  They're healthy for you they really work!  Plus, I haven't gotten sick at all this season.
+
+product/productId: B0049MHTFY
+review/userId: AXRD8QGSS4NC0
+review/profileName: J. Taekman "Jet Setter"
+review/helpfulness: 3/8
+review/score: 5.0
+review/time: 1294272000
+review/summary: Finally a GREAT SHOT
+review/text: Finally an All Natural Shot that actually tastes decent but uses Green Tea & B12 for great BOOST of Energy with no crash but when you read the supplement facts it is loaded with tons of Super Nutrients and essential vitamins.  This SHOT Boosts my workouts to the next level and my wife uses it everyday at 2pm to power through the rest of the day with the kids.
+
+product/productId: B0042MU0TI
+review/userId: A25EGMGZQIDX3H
+review/profileName: Factual  Hunter
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1320537600
+review/summary: perfect item compact and  works very well
+review/text: I was  highly satisfied with this  sourdough starter works very well.  its compact  directions are easy to follow. I recommend it.
+
+product/productId: B0006HHTTW
+review/userId: A2FBKLHNW4IOCD
+review/profileName: Tim
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1261612800
+review/summary: Replacement for Millstone
+review/text: I wanted to replace my Millstone brand that was discontinued.  Shipping was prompt, product received in satisfactory condition but thought I ordered decaf. All efforts were taken to contact company; landline was disconnected and email not responded to.  Not satisfied with customer service.
+

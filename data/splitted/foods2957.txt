@@ -1,0 +1,1143 @@
+product/productId: B000OK48CC
+review/userId: A3M6FHNS5OU3GD
+review/profileName: Paolo Palombo
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1322870400
+review/summary: Best Tiramisu - confirmed by an Italian
+review/text: My wife and I are from Italy. She makes the best Tiramisu (family recipe), and she *only* uses Pavesini.<br />Even in Italy, some people use a different type of cookie ('savoiardi'), thicker and larger. But we find that Pavesini make the Tiramisu lighter and more enjoyable.<br />Hundreds of friends have praised her recipe over the years. Kids love it. Trust me, it's the real deal.
+
+product/productId: B000G6STSS
+review/userId: A1SBQ0QT09BU0T
+review/profileName: Robert H. Scheer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259625600
+review/summary: Whoop Ass Sauce
+review/text: The sauce is actually what I expected it to be.  If you like hot food this is a good choice.
+
+product/productId: B001SBA5SC
+review/userId: A38U5D4DTJQ5OD
+review/profileName: Patrick T. Kelley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: Great flavor!
+review/text: I tried this brand of coffee at Costco - pricing is better here, and quality is the same. (w/o the 1/2 hour wait in line). Bright, bold flavor - not bitter.
+
+product/productId: B005TH72DM
+review/userId: ATJLS4RDZ64AM
+review/profileName: Laurie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: Excellently Scrumptious!
+review/text: Rarely, if ever, do I write a review.<br />But...I am a total snob when it comes to SeaSalt Chocolate Caramels, and I had to stop and let Ghirardelli know just what a perfectly tasty treat they created. So good. Such a great balance of flavors. The only problem I see is that now my weekly ration of sweets is going to be extremely difficult to maintain, because I LOVE these! Love LoVe Love!<br />Thank you Ghirardelli!
+
+product/productId: B005TH72DM
+review/userId: A1EFWG9DMWKB2L
+review/profileName: facedog99
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344729600
+review/summary: Delicious!
+review/text: These little chocolate squares are absolutely delicious. The product was perfectly fresh, the packaging is easy to open and the taste is fantastic. There is just enough salt to provide a great counterpoint to the sweetness of the chocolate. After the first day, I had to force myself to take two out of the bag and put the others away or I'd have gone through a bunch more. Highly recommended.
+
+product/productId: B001FA1LGQ
+review/userId: A2USAJLU4LOUN5
+review/profileName: Stacy Thompson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1254787200
+review/summary: My Favorite Crystal Light Flavor
+review/text: Out of all of the Crystal Light flavors, Strawberry Orange Banana is my favorite. For some odd reason, I can no longer find this flavor in stores. I live in Southern California and it's only available online. I'm so glad that I can order it through amazon.com and at a discount! It's even less expensive when I order it on a monthly basis. Thanks Amazon!
+
+product/productId: B001FA1LGQ
+review/userId: A2EOPLRJ6LEN0D
+review/profileName: Candace Gregory "memyselfandi"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1220054400
+review/summary: Hard to Believe it is Sugar Free
+review/text: With the summer heat, a cool drink it what hits the spot.  You could drink something like Snapple, but at such a lower cost and just as good (if not better) are these Crystal Light Drink Mixes.  The Strawberry Orange Banana is a winner!
+
+product/productId: B001FA1LGQ
+review/userId: A2XMHFDSIXMZYH
+review/profileName: MissKitty "Spread the love"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262476800
+review/summary: U CAN FIND THIS FLAVOR @ WALMART
+review/text: It's because of all your reviews I kept an eye out for this and found it @ the Anaheim Walmart for $2.98.  SoCal Area.
+
+product/productId: B001FA1LGQ
+review/userId: AVE60L1768E5T
+review/profileName: Eugene J. Turner "Dasymetric"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1253836800
+review/summary: It's hard to find a good SOB
+review/text: Even though Crystal Light says this flavor is available at local supermarkets they seem to carry all other flavors but strawberry-orange-banana. So found it on the web. Arrived as advertized and I should be set for quite a few months of happy drinking.
+
+product/productId: B001FA1LGQ
+review/userId: A3QBGGDSTYVQ86
+review/profileName: Glenn W. Sanborn "GW Sanborn"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1245196800
+review/summary: On-Line Crystal Light purchase
+review/text: What I'd be buying in the store, should the store I shop at still be selling it.  Much more expensive, but worth it to me if I am able to still get it.
+
+product/productId: B001FA1LGQ
+review/userId: A22VZZFGXUHMBG
+review/profileName: K. Mead
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1242864000
+review/summary: Best Crystal Light flavor by far
+review/text: I'm glad I can still find this flavor of Crystal Light online, because it seems to have disappeared from most stores. After trying several other flavors, including many of the newer ones, I'm convinced that this is the best Crystal Light flavor by far. It has less of the sugar-free aftertaste of most products, and amazingly enough, it's even pretty good warm. For the best flavor, I mix it with a little less water than called for (about 7.25 cups of water instead of 8). You have to like this kind of drink in general, but if you do, this one's a winner.
+
+product/productId: B001FA1LGQ
+review/userId: A1NG3ADI4IBBQ4
+review/profileName: David L. Kline "Truth Seeker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1241654400
+review/summary: Great Flavor
+review/text: I was surprised someone wrote a review about this drink having a bad aftertaste.  I've not had that experience at all.  Strawberry-Orange-Banana is my favorite with Orange-Pineapple a close second.  I highly recommend Crystal Light in your favorite flavor!
+
+product/productId: B001FA1LGQ
+review/userId: A1YWCDXH7PCM4
+review/profileName: K. Tutor "techno geek"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1237852800
+review/summary: Great Drink
+review/text: Could not find this flavor in my local stores.  Everyone that has tasted this, loves it.
+
+product/productId: B001FA1LGQ
+review/userId: A267MWVG8IPE9S
+review/profileName: V. Lamb "Tori"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234224000
+review/summary: Crystal Light
+review/text: It's been so difficult to find this flavor of Crystal Light in the stores.<br />Actually it's been impossible so to get it so easily is really wonderful.
+
+product/productId: B0027E4UVW
+review/userId: A2QD213HWXB883
+review/profileName: rEnE'E "reNee"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1340668800
+review/summary: images arnt always what they seem!!
+review/text: This fathers day basket set looks bigger in the pic totally false when I received it,opened the large box it was saftly shipped in and out I pulled this small cute package very small!
+
+product/productId: B002XH1CBO
+review/userId: A3DCM837WA2NGF
+review/profileName: V. Abrol "aboxy"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1263168000
+review/summary: wow,exactly what I needed
+review/text: MDH Karahi Chicken Masala is excellent. I tried various combination of spices at home but never got the taste. Usually not a big fan of these blended spices but this masala definitely amazed me.<br />Here is my experience [...]
+
+product/productId: B004H4PB5Y
+review/userId: A2KWPN1XZHGOG2
+review/profileName: keeliyoshi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Best Hot Chocolate
+review/text: This is the best hot chocolate my husband and I have ever had.  The extra money spent compared to other hot chocolates is totally worth it.  You will not be disappointed with this delicious chocolaty treat.
+
+product/productId: B004H4PB5Y
+review/userId: A37CX97IN138FY
+review/profileName: Elizabeth McNamara
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: Agreed, yummy
+review/text: Smooth, a great guilty pleasure. No sugar needs to be added, but a drop of cream with the milk, makes for an especially terrific comfort drink.
+
+product/productId: B004H4PB5Y
+review/userId: A2Q8BOLBRNTSL3
+review/profileName: GoldCat "Joe"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340236800
+review/summary: Rich hot chocolate
+review/text: Very yummy hot chocolate.  Also Amazon price really good.<br />You don't need to add sugar.  Just hot milk and add some of this sarabeth hot chocolate.
+
+product/productId: B00061ESLK
+review/userId: A3RTUE3I7JQ1KV
+review/profileName: K. Oswald
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1141257600
+review/summary: Thank you so much!
+review/text: I want to thank you for sending the sunflower seeds to my daughter overseas.  Your prompt attention to this order was appeciated by me and my daughter and your thoughtfulness and kind message was a wonderful surprise.  Once again thank you!
+
+product/productId: B00061ESLK
+review/userId: AZKFUIDT2YEXK
+review/profileName: D. F. Hackney "Dave"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1188691200
+review/summary: David's Ranch Flavor Sunflower Seeds
+review/text: I send a case of these every other month to a buddy in Iraq.  They are shipped direct to an APO address and usually get to him within a week.  Great service and value.
+
+product/productId: B002QT1U9S
+review/userId: A22JU70AS1K7CY
+review/profileName: productreviewstew
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1332028800
+review/summary: Dog likes it.
+review/text: My dog likes it, and I've used this brand for years. Pretty good price. Yes, it has corn as a main ingredient, like many brands. I've tried "organic" dog food, and my dog wouldn't eat that stuff. This Purina Dog Chow, however, my dog chows down on (pun intended). Very happy to see this product on Subscribe & Save.
+
+product/productId: B002QT1U9S
+review/userId: A1WQXBNPHL3ORI
+review/profileName: Proud Aussie Owner
+review/helpfulness: 2/7
+review/score: 1.0
+review/time: 1325721600
+review/summary: Made of CORN!
+review/text: The very first indgerint is what? CORN! Yes CORN!  Corn in dog food= cheap food. Dogs were not made to eat lots of corn, yes they need carbs but corn is too cheap. And meat? second ingerdint but it is a MEAT BY-PROUDUCT. Witch means hoofs, guts, eyes, brains, ect... Stuff humans don't want to eat. Pay a little more and buy Purina ONE, pliz.
+
+product/productId: B000RXA5GY
+review/userId: AW8E8WKBEFLGI
+review/profileName: William M. Adams
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1252713600
+review/summary: Excellent Fence Charger
+review/text: Purchased this charger for a 10 acre horse pasture. Mounted under a 5 gallon bucket on a 4x4 post. very strong current, tops the tester light and I watch the deer get zapped from time to time. The horses are a little smarter.Have bought Zareba in the past but they are getting overpriced.
+
+product/productId: B000RXA5GY
+review/userId: A1URA99Z25FZEF
+review/profileName: Frank_Allen
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1322265600
+review/summary: Fi-Shock SS-2000X Fence Charger
+review/text: Product seems to function as advertised but it should have been made clearer that this unit is not water tight and cannot be mounted out in the weather.  The 12 volt power and small size lead me to believe it was water tight and outside mountable.  I used a plastic bucket with a lid to mount both the charger and a small 12 volt battery in.  I had to mount the charger upside down in the bucket for easy access to the output terminals and to see the activity indicator.  The mounting system had to be modified to allow upside mounting but all seems to be working perfectly.  Just a few minor modifications to the mounting options and a water tight enclosure would make the SS-2000X fence charger an outstanding device.
+
+product/productId: B000RXA5GY
+review/userId: A3LYG7MKLP52H9
+review/profileName: Dave
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341619200
+review/summary: Excellet product!
+review/text: This fence energizer seems to be working very well and has convinced this mare to respect the fence. I had no touble installing the fence or the charger. Thanks you guys!!
+
+product/productId: B000RXA5GY
+review/userId: AMP3GNQAWW5B4
+review/profileName: amazman "boon"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319846400
+review/summary: Fi-Shock ss-200x fence charger
+review/text: it had been about 4 months,it is working good so far. wire length about 1600 feet, when test the tester the voltage never goes over 6000 volt. may be i did not installed correctly.
+
+product/productId: B000RXA5GY
+review/userId: A1LFTZT93N3J0V
+review/profileName: Mernie Younger "roo"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1289347200
+review/summary: It works
+review/text: Not sure how long this will last but for the price. We use it for our portable corrals and emergency back up charger for the main fences.
+
+product/productId: B001QD5XHK
+review/userId: A21FO8HXJECL08
+review/profileName: WILLIAM D. WOOD
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Great For Cleaning Drip Coffee Makers..
+review/text: Heinz Distilled White Vinegar is a wonderful sanitizing product for cleaning most any brand of drip coffee maker. About once every three months I'll run two cups of this through the coffee maker just like brewing coffee. Pour it in the water tank and turn it on. This cleans out the tank and water distribution system inside the coffee maker. After the cleaning, run a fresh pot of water through to clear out the residual vinegar. This should keep your coffee tasting fresh.<br /><br />Please rate this review if you found it helpful.
+
+product/productId: B001QD5XHK
+review/userId: A2U77Z3Z7DC9T9
+review/profileName: Ronald M. Chavin "rmchavin"
+review/helpfulness: 0/4
+review/score: 5.0
+review/time: 1345161600
+review/summary: Does vinegar cause cancer?
+review/text: The Russians say, no, not by itself but vinegar (acetic acid) increases the deadliness of any cancer-causing nitrosamines in your diet.  Salt and sea salt always contain nitrosamines.  Beef, pork, and poultry always develop nitrosamines (and heterocyclic amines) when they are cooked in normal ways.  Processed meats contain nitrosamines even before they are cooked.  The only way to avoid creating nitrosamines in bloody, raw meat is to boil it in water without adding any salt.  (Please click "Comment" below if you want to read what scientific studies from Russia say about vinegar).  Balsamic vinegar is by far the most delicious of all vinegars but it contains a substantial amount of lead, which is toxic.  The lead comes from the oak wood caskets in Italy in which balsamic vinegar is manufactured.  Distilled white vinegar is made from corn and is very low in lead.  French's Yellow Mustard, Worcestershire Sauce, Heinz Ketchup, and many other commonly consumed foods contain substantial amounts of distilled vinegar in their ingredients.
+
+product/productId: B000FDKUWU
+review/userId: AOPZE0YL8T9KB
+review/profileName: Malcolm Baker
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1171324800
+review/summary: Triple good - Can't stop eating them
+review/text: You won't want anything on them either! They are that good. Warning - be prepared for quite a number of broken and crumbled crackers from the shipping.
+
+product/productId: B000FDKUWU
+review/userId: AYUFDW7YXO59S
+review/profileName: cj
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1290124800
+review/summary: Best Spelt Crackers
+review/text: I love these crackers!  I discovered them while in NY and was thrilled to find them on Amazon.  They're delicious plain, with hummus, almond butter, or any dip you enjoy.  They're the best spelt crackers I've ever had.
+
+product/productId: B000FDKUWU
+review/userId: ANOGQ2JZM7DLN
+review/profileName: C. Dennison
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1287446400
+review/summary: Best Cracker Ever!
+review/text: These crackers are so good.  I have them with soup almost everyday.  I am so glad I found a way to save on them.  I love the seeds they really make them extra tasty.  They are good for you too.  .
+
+product/productId: B000FDKUWU
+review/userId: A2WNYZ8Z3YSIF
+review/profileName: HockeyMom33
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1247097600
+review/summary: Fabulous!!!
+review/text: I love these crackers!  They are crispy and delicious and good with just about anything.  Hard to believe that they are good for you.
+
+product/productId: B000FDKUWU
+review/userId: A129K7NK4CR5GC
+review/profileName: Berta
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348876800
+review/summary: Delicious healthy crackers, but...
+review/text: Like these crackers very much, but once again there is a problem with at least one of the boxes, which was "leaking" cracker crumbs before I even opened the box.
+
+product/productId: B000FDKUWU
+review/userId: A3GKD8MAHURH91
+review/profileName: alltatup
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332633600
+review/summary: Delicious crackers
+review/text: I agree with what every other reviewer has said; these are really good with soup, salad, cottage cheese, etc. My particular favorite is to slice avocado and put it on the cracker.<br /><br />I also like these because they have no added oil.<br /><br />Very flavorful crackers!!!
+
+product/productId: B0032CUA0I
+review/userId: AF1PLI8HUWJ1Q
+review/profileName: jaguirre
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1306368000
+review/summary: DIDN"T GROW!! PRODUCT NOT GOOD
+review/text: I followed all of the directions on the package and the letter it came with. It has been three weeks and nothing has popped out. I really wanted this to grow for my cats but i guess it couldn't happen. When i opened the package some of the seeds were already out of the package. But okay shipping. Not a very good product...wouldn't recommend.
+
+product/productId: B0032CUA0I
+review/userId: A1NH2K8N77S5RY
+review/profileName: Flight_173 "Flow on"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313193600
+review/summary: Sprouted well
+review/text: I'd say about � to 3/4 of these sprouted. They were doing find until our cats found them.... :) I'm sure everyone can guess what happend. At first to protect them I put Big rocks inside the pot. This allowed the plants to get a few inches tall before they were torn asunder. But eventuly our Tom cat caught on and moved them / layed over the whole pot. (it's a large pot). Not a bad price for seeds off the net. I think you could do better at a Mejier or a grainery though.
+
+product/productId: B0032CUA0I
+review/userId: ASTI3NGYQC99K
+review/profileName: Garrett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304553600
+review/summary: Great Catnip Seeds
+review/text: I've been very happy with these catnip seeds. They grew with beautiful white flowers that decorated my garden. I'm very impressed with these seeds. They only take about a week to grow.
+
+product/productId: B003DW0WM8
+review/userId: A3UK0TKUXCV5ZK
+review/profileName: grannyp
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341532800
+review/summary: LOVELY PLANT!!!!
+review/text: Th lovely little plant arrived early and in great shape in the middle of this hot Texas summer, I love it.  I have two white ones and I am llooking forward to the pink flowerrs.
+
+product/productId: B003N2ZUJS
+review/userId: A26RBEABEEZZV5
+review/profileName: Tim Jones
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1310083200
+review/summary: Makes the best pizza!!
+review/text: Franks sweet chili sauce makes the BEST ham/pineapple pizza. I have experimented alot with pizza, and plane jane tomato sauce with herbs, garlic onion won't cut it anymore! Good luck finding it local though.
+
+product/productId: B003N2ZUJS
+review/userId: AIQ7FISKFQSXM
+review/profileName: Soggy Bottom
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1329264000
+review/summary: What?
+review/text: This is $3 a bottle at Publix.. and Publix is EXPENSIVE! Why is is $6.50 a bottle here? Should this be a 6 pack and the listing is a mistake?
+
+product/productId: B000F4GQ22
+review/userId: AIDMLAYRQRIU3
+review/profileName: M. Roberts
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1306800000
+review/summary: Very Tasty, BPA free
+review/text: I buy the Native Forest peaches, pears, and pineapple slices. I think they're all delicious. The pineapple slices might be my favorite, I throw the can in the refrigerator the night before I eat them, makes them taste even better.<br /><br />BPA issue -- Random Native Forest reviews here on amazon had concerns about BPA in the cans so I emailed Edward and Son's (company that makes Native Forest brand) about the cans to find out the truth. The pineapples, pears, and peaches were on the list of BPA free cans that they emailed me back. The asparagus and baby corn that I bought were not, so i stopped buying them.<br /><br />As I did with my review of the peaches, I'll post the list of BPA free cans that I was given in the email in the comments. For those of you who don't care about the BPA issue, you should just know these are delicious.
+
+product/productId: B000F4GQ22
+review/userId: A3173BUN91R8RF
+review/profileName: Chris St Pierre
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1299369600
+review/summary: These are Awesome
+review/text: Wonderfully delicious. These are amazing in flavor and seem to have a lower acidity than other canned pineapple. They are tender and taste great. I love the organic fact and helping out farmers to make a difference.
+
+product/productId: B000F4GQ22
+review/userId: A1X7NMM9RTN4EV
+review/profileName: Cynthia G. Barley "Earth Nana"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1258934400
+review/summary: Delicious!
+review/text: Great pineapple taste, not too sweet and not bitter. Makes a great pineapple upside down cake. These came packed in a cellophane flat and the cellophane burst leaving one can badly dented, but intact. Will buy this product again and will try the chunks and crushed also.<br />Second shipment came through much better no dented cans.
+
+product/productId: B000F4GQ22
+review/userId: A1ENPV2FE31VNW
+review/profileName: S. G. "Mom of Teens"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1268352000
+review/summary: Great Product, Great Value
+review/text: Have these set up on 'Subscribe & Save' plan.  I dehydrate the whole case for a yummy, healthy snack.  It's a favorite at our house!
+
+product/productId: B000F4GQ22
+review/userId: A17H42X3IBHFN8
+review/profileName: bri
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1294531200
+review/summary: great product!
+review/text: Great product for a fare price; I'm constantly looking for organic variety for the family.  So far i like it
+
+product/productId: B000F4GQ22
+review/userId: A1YP5WLIHGG136
+review/profileName: Techthusiast "n00b"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341792000
+review/summary: Yummy
+review/text: Well, this pineapple is very yummy... I put a few slices and some pineapple juice into some of my banana/protein smoothies and it's so good.<br /><br />I'm not a connoisseur of the stuff to know if this is especially primo pineapple -- plus it's so tasty I wonder how you could tell if pineapple were bad?<br /><br />Well, this is nice, firm, juicy... I have no girlfriend to confirm it's supposed secondary effects.<br /><br />For the shake I recommend trying out bananas, nonfat plain yoghurt, flaxseed seeds/meal, goji berries (if you're blending), maca powder, peanut butter if you like it, scoop or two of protein powder... usually a fruit cup, strawberries, filtered water, or pineapple juice will get you the smoothie texture you're looking for... not too thick, not too watery.<br /><br />Have fun experimenting but you can't go wrong with this!
+
+product/productId: B000F4GQ22
+review/userId: A6BL422N584T
+review/profileName: OCK Products
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1322438400
+review/summary: I love the product but hate the metal
+review/text: Item again was badly packaged!! Several cans had dents on them!! As if Bisphenol A used in the coating of the inner lining of the can is not bad enough, i have to deal with the release of metal into the fruit juice from the dents!! I
+
+product/productId: B0000DG6WN
+review/userId: A1TJPMB7N776WS
+review/profileName: MICHAEL ACUNA
+review/helpfulness: 2/21
+review/score: 5.0
+review/time: 1095552000
+review/summary: Patio Dining
+review/text: I received one of these Bavaria Hams as a gift from a well-meaning, Glazed Ham loving, though non-cooking friend. So, being the nice person that I am, I invited he and some friends over for some Ham, Asparagus and a big pile of Yukon Gold Potato salad. And since it was hotter than blazes inside, I decided to heat the Ham and roast the asparagus and potatoes on the BBQ.<br />I slathered the Ham with my secret BBQ sauce, placed it on the cooler side of the Grill and about 2 hours later we were all sitting down on the patio with a big, hot, delicious, BBQ'd Ham staring us in the face.<br />The French Rose' was poured, the Meal was consumed and a good time was had by all.
+
+product/productId: B000NA8CWK
+review/userId: A1ZU33VMBIGLJC
+review/profileName: S. Baker "cover-to-cover in a day"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1341446400
+review/summary: Meh..
+review/text: Maybe I'm too picky, but I won't be buying this again. I ordered 3 different items at the same time. The other two have been awesome; this one, not so much. Tried it twice now, using a HEAVY coating the second time. Just has no flavor. I was very disappointed, but the no-salt make up of it still earns it 3 stars. My dad, for whom I cook daily, is salt-restricted, and I thought sure this would be a great way to liven up the weekly chicken dishes. Nope. I wound up dumping the whole bottle into my home-made canister of rub...didn't even change the flavor of that! It was no more than "filler" for the home-made stuff, which I guess will at least make it go farther. Like I said, the other stuff I've purchased from these folks is great...I use them almost daily, and am very pleased, but I will stick to making my own rotis-chicken rub.
+
+product/productId: B000NA8CWK
+review/userId: A81V9AB54OCGQ
+review/profileName: A. Rosser "Andyross"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297036800
+review/summary: Good Stuff
+review/text: This is a wonderful item.  I have used it on both boneless and bone-in chicken.  Tastes great! Easy to apply, large container should be enough to last for quite some time.
+
+product/productId: B000NA8CWK
+review/userId: A30XRZWIDS6Z07
+review/profileName: TINA M MLNARIK
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295740800
+review/summary: Marshalls Creek Spices
+review/text: <a href="http://www.amazon.com/gp/product/B000N8GUC6">ORENTIAL FIVE SPICES FRESHLY PACKED IN LARGE JARS, spices, herbs, seasonings</a> and <a href="http://www.amazon.com/gp/product/B000NA8CWK">ROTISSERIE CHICKEN SEASONING NO SALT FRESHLY PACKED IN LARGE JARS, spices, herbs, seasonings</a> and <a href="http://www.amazon.com/gp/product/B000N4LS04">BBQ SEASONING NO SALT FRESHLY PACKED IN LARGE JARS, spices, herbs, seasonings</a> and <a href="http://www.amazon.com/gp/product/B003LZ5S8A">SAZON SEASONING MIX, NO SALT, WITH ANNOTO</a> They were worth the money. they're good sized jars for the price. I also liked the fact there is no salt in them, that's hard to find and my husband puts enough salt on for all of us. I've been looking for spice mixes that don't contain salt. now I've found them. i intend to buy others starting with smoked paprika.
+
+product/productId: B000NA8CWK
+review/userId: A2WR0SLXH847YJ
+review/profileName: net
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338854400
+review/summary: Big Bottle
+review/text: My order came very quickly.  The bottle is huge. It will last me the whole year.  I will re-order again.  Makes my food taste great too. Thank you
+
+product/productId: B000NA8CWK
+review/userId: AU32T53STZT74
+review/profileName: Linda McDermott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329609600
+review/summary: Yummy
+review/text: Yummy..I cooked my chicken breast in the crock pot with this seasoning. Mmmmmmmmmm....it is so delicious. I also used it on baked chicken. The flavor is so good. Try it you will love it. Great value too.
+
+product/productId: B000NA8CWK
+review/userId: A2KC8TUNAIUUSK
+review/profileName: Zachary Palmer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323561600
+review/summary: Decent rub for more than just the birds.
+review/text: A handful of people have all commented that this rub is actually quite good on pork steaks and chops, and not just on chicken. It's a decent bulk buy, and it's salt free, so you can control the salinity of the season while still using a ready mix. This is a good bulk buy.
+
+product/productId: B000NA8CWK
+review/userId: A2MG8RXBD3UHS2
+review/profileName: brownsugar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323302400
+review/summary: rotisserie chicken seasoning
+review/text: I really like spices that when into large jar rotisserie chicken seasoning and items was shipped to me on time.
+
+product/productId: B000NA8CWK
+review/userId: A247ZFMSVKOHUI
+review/profileName: Deborah Breault
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314662400
+review/summary: rotisserie chicken seasoning
+review/text: The seasoning is wonderful.  We have chicken about 3 times a week and we use it everytime.  Our friends have even asked about it...<br /><br />Debbie Seidl<br />Comfrey, MN
+
+product/productId: B003O5U33C
+review/userId: ANJOHTY4EC2D
+review/profileName: Angel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: This is my 2nd favorite tea
+review/text: I love the flavor of this tea. The smell out of the bag is very strong, but once made...it is the almost the best tasting tea ever. To me it is worth the price. This is one tea that I do not have to use a lot of sugar with to still enjoy the taste. It will always be a toss up between this tea which is beautifully done and the white ambrosia made by white lion.
+
+product/productId: B0009Z17GM
+review/userId: A2SL95JKG2HPLD
+review/profileName: Little Purple Lilach
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1186876800
+review/summary: Kikkoman Wakame Soup
+review/text: I really like this soup. It's simple to make, just add boiling water, give it a stir, and let it sit for a few minutes.<br /><br />It's also very tasty. It has a fish broth, but to me it doesn't really taste fishy, just slightly salty. If you don't like the salt taste, you can make it less intense by adding more water, which is what I do. The seaweed in this soup has a nice texture, it's not rubbery or anything like that. Just pleasant. The smell might remind you of the sea, but I don't think that's a big surprise. Once you taste it, you get over the smell.<br /><br />It's also conveniant, because I can usually find this soup in the Asian foods aisle of almost any grocery store.
+
+product/productId: B0009Z17GM
+review/userId: A8OUU5PXAFFLG
+review/profileName: Erin Haight
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1266796800
+review/summary: Great soup mix
+review/text: I love this soup. It is great on a cold day, or when you need something light. When added to hot water, there are green onions, sesame seeds and a surprizing amount of wakame (seaweed) in a delicious broth.
+
+product/productId: B0009Z17GM
+review/userId: A3I6J68C14EZ9R
+review/profileName: A. Ochoa
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1258329600
+review/summary: "The Best Seaweed Soup Ever!"
+review/text: I used 3/4 of a cup of boiled water per packet, and it turned out great! You can add thinly sliced sauteed beef and a small pinch of dried chili flakes to this soup to change it up, but it's perfect just the way it is.<br /><br />If you can visualize yourself taking a long deep breath of ocean air, the briney parfume filling your nasal cavity is the best way to describe your overall taste experience. Plus, it has just the right amount of soft, thin seaweed pieces.<br /><br />My four year old son loves it, he'll ask for two servings when I make it.<br /><br />"Kikkoman Instant Wakame Soup Is A Winner!"
+
+product/productId: B0009Z17GM
+review/userId: A3KA4BHQGQDJE3
+review/profileName: M. L. Fritz
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301529600
+review/summary: Instant Wakame
+review/text: Arrived on schedule and in promised condition. Now I can make tasty homemade miso soup. For that I give it 5 stars.
+
+product/productId: B0009Z17GM
+review/userId: A1UVKA2ZQD2C8Z
+review/profileName: Anon-e-mouse
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300492800
+review/summary: Love this soup!
+review/text: You can't go wrong with Wakame Soup.  Great for breakfast, lunch or dinner.<br />I tried making my own from scratch, but I prefer the flavor of this.<br />Yummy!
+
+product/productId: B0009Z17GM
+review/userId: A3GV75YMLZA87O
+review/profileName: Nora
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1254787200
+review/summary: Very Good, Easy For Work Lunches
+review/text: I purchased several flavors and enjoy them all. This is a nice, warm snack you will enjoy.
+
+product/productId: B0009Z17GM
+review/userId: A3T304LGNIPZZR
+review/profileName: Johnny Ferguson "MFerguson"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1235779200
+review/summary: My favorite soup
+review/text: This is the best soup ever, as close as I can find to Kohana's our favorite Japanese restaurant.  The only draw back, lots of sodium, but still wonderful!!!!
+
+product/productId: B000HBBJ3Y
+review/userId: A2FWMXFU5PF4GD
+review/profileName: Judith A Dain
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306195200
+review/summary: Fennel Tea 24 Bags
+review/text: The product arrived when the seller said it would and in fine shape. It is a good quality and excellent for good health.<br /><br />Thank You, Judy
+
+product/productId: B00032EJ48
+review/userId: A35PU6DDT4SJXK
+review/profileName: J. Straub
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1122508800
+review/summary: Best New Soft Drink
+review/text: I can't believe that you can actually buy Coke products on Amazon!<br /><br />If I was going to order any soft drink online, it would be Diet Coke with Lime.  The lime improves the taste of Diet Coke signifigantally and makes the aftertaste (from the artificial sweetener) much less noticeable.  Coke has quite intelligently taken  one of the mixes that many beverage-drinkers have been enjoying for years and made it available as a consistently-mixed, no knife (to peel the lime) needed version!
+
+product/productId: B005GR18EY
+review/userId: A3BOJJDOLU8AWO
+review/profileName: Cozette J. Carlisle
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345939200
+review/summary: great treat
+review/text: Very rich, sweet and delightful, flavors very intense and joyful.  One piece is all you need to satisfy your sweet tooth. Great service, will definitely order from this seller again.
+
+product/productId: B005GR18EY
+review/userId: A1C27U8GU8AIOJ
+review/profileName: Gumby "Gumby"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: never had any td and these are just wonderful, but
+review/text: just want to let you know i've never had turkish delights so i thought i would try these fruity ones and see how they are. awsom in taste and texture, thickness, just be careful not to eat too many at one time cause it will give you an upset tummy otherwise there<br />wonderful
+
+product/productId: B00146BHRO
+review/userId: A65SL6QZY0JM1
+review/profileName: M. Mathes "Deacon"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1268092800
+review/summary: Delicious Licorice
+review/text: I just love the Rainbow String Licorice.  I can eat it all day long it tastes so good.<br /><br />I would recommend it anyone who likes candy.
+
+product/productId: B00146BHRO
+review/userId: A27MMQLLSDTFKC
+review/profileName: Dorien
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336176000
+review/summary: Awesome
+review/text: I love candy laces, but ever since I moved to America I couldn't find any yummy ones. They all tasted like plastic to me.<br />But these laces are sooo good, tasty, colorful and above all, super awesome.<br />However I do think they are a bit expensive, but I will gladly buy them again.
+
+product/productId: B00146BHRO
+review/userId: A2D8K0GPVMMSER
+review/profileName: Yummycheetos25 "LeLe"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332633600
+review/summary: Yummy
+review/text: These tasted fresh and fruity my son and i ate the whole bag in 3 days it's addictive please be warned these are delicious :)
+
+product/productId: B00146BHRO
+review/userId: AQXYD1H2ZQ9NN
+review/profileName: frugalshopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327449600
+review/summary: Good Value
+review/text: Sent these to our son in college and he said they tasted really good.  They arrived in a timely fashion and were fresh.
+
+product/productId: B00146BHRO
+review/userId: A1PSDYEBBEF89I
+review/profileName: Becky Turner
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1221004800
+review/summary: awsom candy you cant get enough of it is good and fun to eat
+review/text: awsom fun candy you wont regret buying it you will regrete if you dont buy enough
+
+product/productId: B006VRQLWM
+review/userId: A1YNBM7LYJCP8O
+review/profileName: Nanx "Nanx"
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1306454400
+review/summary: Too much sugar
+review/text: These bars would have been perfect had they not been so heavily loaded with sugar. I had better satisfaction with a 3 Musketeers bar, no kidding. Why not a "diet" version, or a diabetic version using artificial sweetener?  Maybe they possibly do fill you up but only for a few minutes...  they set off that blood sugar spike:  Eat one then you want another!  That's the  infamous "high glycemic index" in demonstration for you. When I realized I couldn't maintain with them, I gave them to the whole family. They all went through them super fast.  At least it was a tasty good riddance!  Will be buying any sugar free high protein MR bars instead.
+
+product/productId: B006VRQLWM
+review/userId: A2V3FTILDQEOX6
+review/profileName: Ronald J. Spoto
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1204329600
+review/summary: we love these bars
+review/text: These bars in the peanut/chocolate or the chocolate chip are the best!  They fill me up have good fiber and protein content.  Whenever I can get a good deal at Amazon I stock up!
+
+product/productId: B006VRQLWM
+review/userId: A211LARF9RT41K
+review/profileName: David Sevilla
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1205020800
+review/summary: good product, satisfies my hunger :)
+review/text: I already wrote a review for the chocolate chip ones, though I thought I was writing it for this flavor, so I will just copy and paste. THe both taste good.<br /><br />I bought these bars as a meal replacement, since I am usually hungry about 4 hours after I had lunch, or 2-3 hours after breakfast, so I have to survive before the next meal. This does the job well. I can stay without eating for another 2-3 hours. It also depends how much water you drink, sometimes all you need is water to get rid of the "hunger". It's the way your body tells you you need water as well.<br /><br />My stomach is somewhat sensible and doesn't like a lot of stuff, but these bars never bother me.<br /><br />I also think they are tasty, but only the chocolate ones. I tried the strawberry ones, but they are too creamy. I also liked the chocolate chip ones, they both taste similar, though the chocolate chip ones have more fiber than these ones :P
+
+product/productId: B006VRQLWM
+review/userId: A3AZ5GNJY8DOSQ
+review/profileName: Splint
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1309305600
+review/summary: Best tasting protein bar out there.
+review/text: The only downside to these for me are that they taste so good i want to eat them like candy.  About as dense and filling as most other bars of the same weight, but taste a lot better.  Chocolate chip flavor is good as well, but this is the best flavor.
+
+product/productId: B006VRQLWM
+review/userId: A8YHZ75X5XIH3
+review/profileName: Kyle Hood "hood_kyle"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1303862400
+review/summary: Big fan of these bars.
+review/text: These bars are very tasty.  I mean, they're not a candy bar, and they don't taste quite so good as a candy bar.  They are a bit drier on the inside, in particular.  However, they are much more satisfying than a candy bar, and they are still very sweet.  While a single bar is not a whole day's worth of food, one can get by for quite a while on one, without the sugar crash I experience after eating sweets.  The only gripe I have about Special K is that I wish they could have a "diet" option in which they reduce the calorie content with the addition of some artificial sweetners.  Nonetheless, these are the best "meal bars" I have had, and I have tried a bunch of different brands (south beach, atkins, fiber 1, etc.).
+
+product/productId: B006VRQLWM
+review/userId: A23CNTATVOMS05
+review/profileName: J. Bowman "Bookworm"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1284249600
+review/summary: Staple of my diet
+review/text: I eat these on a daily basis, they're that good. I can go weeks of having one or two a day until I start getting burned out, and after a couple of days I'm always ready for another. Special K meal bars have just the kick to last those extra two hours at the end of the day, or replace a junky fast-food breakfast. I feel like I've had a lot less problems with fatigue and stress since I've started keeping one handy all the time; when I start to get tired and grouchy I pop one open, get a short jog around the building, and I'm good to go. I go through about 2-3 boxes a month. After hundreds of bars I'd say the taste and texture could be improved just a little, but they're the only bar I've liked so much, while costing so little, that I eat it constantly. Never had a stale one. Get the subscription, it's so worth it.
+
+product/productId: B006VRQLWM
+review/userId: A22ENBS081LY6C
+review/profileName: L. Brassfield
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1209168000
+review/summary: Much better than Nutrisystem
+review/text: Much better than Nutrisystem. I bought the Nutrisystem plan for 8 weeks, less than half the food was edible, comparing this to their breakfast bar this is by far better tasting and it does make you feel full longer.
+
+product/productId: B006VRQLWM
+review/userId: ADKR47TMI23LY
+review/profileName: JL
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317081600
+review/summary: Pretty good for a couple hours
+review/text: It's what it says it is.<br />With 190 calories, it takes away hunger for about 2-3hours.<br />This has very rich chocolate texture/taste and some may find it a bit too sweet.<br />So, I wouldn't eat 2 in a row.
+
+product/productId: B006VRQLWM
+review/userId: A2WUG8AITAY1W1
+review/profileName: lita o
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1294358400
+review/summary: good taste
+review/text: I think these protein bars are very tasty but overwhelmingly sweet for me.I will not purchase again because im watching my sugar intake...
+
+product/productId: B006VRQLWM
+review/userId: A5GD534YF8G6X
+review/profileName: P. Wright
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1286496000
+review/summary: Love these bars.
+review/text: I have been replacing a few meals with these bars and I have been dropping a couple of unwanted pounds. The double chocolate and chocolatey chip stay in stock in my pantry at all times. They taste great, they keep me satisfied, they are a perfect on-the-go meal, and they have helped me lose some weight. I heart them so much. :-) If for some unforeseen reason these bars ever go out of production I will be really devastated. Sad, but true. :-)<br />Thank you Special K for the awesome bars!!!
+
+product/productId: B006VRQLWM
+review/userId: A1X9PZN2W25R5F
+review/profileName: Debra Goldfaden
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1282953600
+review/summary: Delicious and healthy snack.
+review/text: Satisfyingly sweet with lots of protien. I eat it as dessert or quick pick me up.
+
+product/productId: B006VRQLWM
+review/userId: A1TUDVYG9NH1C2
+review/profileName: Mrs. Lucas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326672000
+review/summary: Best Protein Bar
+review/text: The Special K protein bars are by far the best protein bars I have ever tried. While they are not for body builders who need much more protein..they have just the right amount of protein to keep me full. Sometimes I do not have time for breakfast and these keep me full until I can go on my first break at work.
+
+product/productId: B006VRQLWM
+review/userId: AIFQRXIVPETIS
+review/profileName: clothesmaven "clothesmaven"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297468800
+review/summary: Special K products deliever
+review/text: I have reviewed other products I used while trying to lose a few pounds, such as ADKINS. I have also used Special K Meal Bars to quell that late night snack urge and replace a meal..They work !! They taste great. By ordering the same number of boxes from Amazon as I would have purchased at a retail store. I saved money!! Imagine that..lose weight and save money !! My only concern was, would they be fresh. They definitely were.In fact,some I have purchased at retail stores, were not. I'm totally satisfied with these purchases and will buy again from Amazon !!
+
+product/productId: B006VRQLWM
+review/userId: A2DEB8DJ3MYSN2
+review/profileName: ashleygranger
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295568000
+review/summary: very good
+review/text: I really like these bars.  I didn't think they'd taste good so I was pleasantly surprised.  I don't know if they'd replace a meal but they do have fiber and protein.  I am usually rushing around in the morning, so they are great to grab for breakfast.  I've also used them as a pre- or post-workout snack, or if I'm craving chocolate (they're fewer calories and much healthier than a candy bar).  I'm definitely hooked.
+
+product/productId: B006VRQLWM
+review/userId: AV8CW1T8NILNA
+review/profileName: Ranga
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1280707200
+review/summary: Delicous
+review/text: Yummy product. I eat this everyday at school as an afternoon snack. 10g of protein really helps to get you out of that tired mood. And I'm sure the chocolate helps too.
+
+product/productId: B006VRQLWM
+review/userId: AJHH59ALYINWZ
+review/profileName: Erica "Erica"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1279065600
+review/summary: Really great protein bar
+review/text: I unfortunately work in a job setting where we do not just get to take breaks when we feel like it or snack while working. This can be a problem for me, as I tend to get hungry every two hours and sometimes only get a 10 minute break. These bars are small enough to eat quickly and keep me full til I can have a real meal. They are tasty too!  A bit like a chocolatey rice crispy bar. Only downside is price. On sale they work out to be about a dollar a bar, which is about the same as most protein bars, I just wish I didn't have to resort to an extra $20 a month protein bar to keep my stomach happy.
+
+product/productId: B006VRQLWM
+review/userId: A3OA0HGD9OTX4
+review/profileName: Joni Ellsworth "Rowdy Texan"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1271721600
+review/summary: Low fat, high fiber meal replacement bar
+review/text: I eat a high protein meal replacement bar every day for breakfast, and I have lost several pounds. The bar is high in protein, which does keep you fuller longer. By lunchtime I am usually pretty hungry, but I can hold out until lunchtime without a problem. They are a bit dry, so I always have a drink on hand while eating them. The chocolate flavor is great, not that cheap tasting chocolate that usually comes with diet products. The bar has a nice chew, but isn't overly chewy, nor does it stick to the teeth. They have a good flavor - not the best bar I have ever eaten as far as taste goes, but better than tolerable for sure. These bars are lower in fat content to some of the Slim Fast meal replacement bars, which is why I tried them in the first place.<br /><br />This high fiber bar will keep you feeling full for several hours, and replacing a meal a day with them does create results. Following their diet plan of two meal replacement bars a day with three snack bars will more than likely increase weight loss from the few pounds I have lost eating one bar a day.
+
+product/productId: B006VRQLWM
+review/userId: A1XW2XF0638QI3
+review/profileName: Jennifer Leonard
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1268092800
+review/summary: We eat WAY too many of these!
+review/text: I've been eating these for a couple of years now, and my boyfriend finally tried them and now he eats them more than I do!  They're great.  The only issue I have with them is that sometimes the quality is different -- not sure if it's something that happens during manufacturing or afterwards during storage/shipping, but occasionally we'll get some that don't taste as chocolately or are gritty or something.  On the other hand, it helps keep them from all tasting the same.  They're particularly great on the go!
+
+product/productId: B006VRQLWM
+review/userId: A1NY8881BNJFKQ
+review/profileName: A.S.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1264550400
+review/summary: Yummy taste!
+review/text: I was really surprised by how good these taste, as most protein bars tend to be a little bland.  But these are anything but--as another reviewer commented, they almost taste like candy!  The 10g protein is satisfying enough, although lower than most protein/meal bars; the 5g of fiber, however, helps out with filling you up.  They actually have 170 calories, not 190 like Amazon says - not a big difference, but still a nice surprise :)  The bars are also pretty long compared to Luna, Balance, and others, making them a little more of a filling visually, if you know what I mean.  Overall, I like them!
+
+product/productId: B006VRQLWM
+review/userId: A33Y8C4818EJL0
+review/profileName: Live, Laugh, Love...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261612800
+review/summary: High Protein Snack for my Growing Boys
+review/text: I started buying these last year for my boys to take for snack time at school.  They were complaining about being hungry after most snacks.  These fill them up until lunch and they love them!
+
+product/productId: B006VRQLWM
+review/userId: AMPPCIVSE8XE3
+review/profileName: B. Simon
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1241136000
+review/summary: Special K...tasty and chocolately  meal replacement
+review/text: My supermarket ran out of the Double Chocolate at the old price of $5.99.  When I re-checked again, the price was $7.25 a box.  I got 3 boxes for $19 on Amazon (including shipping) and within 2 days so I think that's an okay deal!  I love these after a workout or before going to the movies.  It curbs my appetite for up to 3 hours so I don't crave food during the movie or raid my freezer after a strenuous workout.  I also like the pink lemonade protein powder but I haven't been able to find that on line.
+
+product/productId: B006VRQLWM
+review/userId: AJ6OHB412JP03
+review/profileName: David J.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1217808000
+review/summary: These are awesome!
+review/text: So, in my long search for meal bars, I have tried any I have ever seen on the shelves. My general reaction to most of them is that they are like eating cardboard. Also, the "flavor" that most claim to have is not there. So, from childhood I loved double chocolate granola bars. Not healthy at all, but I was a kid. I saw these on the shelf, and decided to try them, despite the many other double chocolate bars I had tried recently. To my surprise, these taste amazing. Has a very chocolaty taste, with no awful after-taste. Also, eating them is just like eating my granola bars I remember...except these are much better for you.<br /><br />I of course don't promote these to people who are on diets that need to watch more than calories, as the fat content and sugars may be a little high for many people. But I can tell you I am male, 5'11", and weigh about 180. This bar with a piece of fruit will keep me full for my entire 5 hour morning.
+
+product/productId: B006VRQLWM
+review/userId: A17YYG33CPGZN5
+review/profileName: Wendy K. Schaitel "Wendy S"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1208131200
+review/summary: The best way to lose weight!
+review/text: I absolutely love these bars!  They are better than any candy bar I have ever tried!  Super!  At only 180 calories- it's a better than any other  chocalate fix I've tried!
+
+product/productId: B006VRQLWM
+review/userId: A11EOR4D9NN4D2
+review/profileName: Kodiji "~kitten"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1285804800
+review/summary: Love love love them
+review/text: When the men are away, the women don't want to cook. These are really great because the taste is good (driiink something with them), they satisfy your hunger for a meal, and they are healthy. Plus it doesn't involve heating anything up or cooking. It's helped me stay at my regular weight because without it, I was just munching all the time because I didn't want to cook.
+
+product/productId: B006VRQLWM
+review/userId: A2HCMDFPSUZK9G
+review/profileName: D. Cameron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343520000
+review/summary: Great Breakfast Bar
+review/text: These are the best tasting bars on the market. I eat two first thing in the morning and I am good until a last lunch at 1.
+
+product/productId: B006VRQLWM
+review/userId: A3EE48AN7XXPI5
+review/profileName: sherrieb "Sharon Rumsey"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340496000
+review/summary: Yummy Good
+review/text: These bars are "yummy good".  They fill the need for something to eat to tide you over until the next meal or use them instead of a meal when you are in a hurry.
+
+product/productId: B006VRQLWM
+review/userId: A2CCWTC8BI1HVR
+review/profileName: Elsa Wolf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336521600
+review/summary: Delicious and filling
+review/text: I have tried these and the Chocolate chip and the chocolate caramel.  They are each delicious.  They are the best tasting "protein" bar I have ever tried and I have had many.  These have 10 grams of protein which is plenty to give most people a relatively healthy  snack that also somewhat fills you up.  They each have 170 calories, not the 190 that this product information says.  Now if you are watching sugar carbs, there are 15 grams of those so probably not good for that type of "diet".  In most stores they cost $6.99 per box of 6 so this price of $14 for 3 boxes of 6 is pretty good.
+
+product/productId: B006VRQLWM
+review/userId: A3BH49ZKESHDID
+review/profileName: Fred Camfield
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334793600
+review/summary: Another high protein bar
+review/text: This is one of many high protein bars on the market.  I would not call it a meal replacement, but it does have (according to the wrapper) 10 grams of protein, 5 grams of fiber, and some amount of vitamin and mineral content.  It is something that you can eat quick, if you did not have time for lunch, or something to fill in during a long afternoon.  It has a light crunchy texture and a good flavor.  170 calories is not overly high, and is less than some other energy/protein bars with similar amounts of protein and fiber.
+
+product/productId: B006VRQLWM
+review/userId: A2X1TN90B0QMT8
+review/profileName: C. M. Wilson "Troop Supporter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334707200
+review/summary: Better than I thought it would be
+review/text: I am a chocoholic trying to watch my calories/fat/carbs and still enjoy life. A friend recommended these bars for breakfast.  I saw the price in the grocery store and thought maybe not. BUT the price with free shipping at Amazon made the cost per bar much more appealing so I decided to give it a try. LOVED IT!! They taste better than most of the other breakfast bars and they have more nutritional value that almost all of the others. For Weight Watchers, they're only 4 Points (PP)which is a good choice for breakfast.
+
+product/productId: B006VRQLWM
+review/userId: A3M72J3CZIJ2ZG
+review/profileName: Flash
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: Meal Replacement Bars
+review/text: My husband is on a Doctor supervised medical meal replacement diet.  I'm doing it with him with over the counter products.  This bar is really good.  I use them as snacks, as well.  I eat half a bar for a mid morning and mid afternoon snack.  Sometimes I skip the afternoon and eat the second half for an after dinner snack.  It's very tasty - not at all griddy, and satisfies the body's need for protein, and my sweet tooth.  I eat a regular food meal (low cal!) for dinner.  Please do NOT do this without letting your doc know - especially if you have diabetes, or any other medical issues.  My doc has done bloodwork and is monitoring my progress so she can cut down my diabetes and other meds as needed.  So far I've cut my metformin in half, and my cholesterol and triglicerides have come down amazingly!  Enjoy!
+
+product/productId: B006VRQLWM
+review/userId: A2CH3AVJI0UR3P
+review/profileName: C. Morris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329177600
+review/summary: Tastes good, keeps me from being hungry
+review/text: I don't really eat these on a regular basis. These are my breakfasts when I sleep in late or my lunches when I can't be bothered. I carry one with me in my bookbag/purse just in case. They taste good and keep me from being hungry for hours afterward. One of the few bars that I've seen with a decent amount of fiber and protein. My husband likes them too. I can easily see these being a good daily breakfast if you're busy or trying to diet, or as an addition to a meal if you're trying to gain.
+
+product/productId: B006VRQLWM
+review/userId: A1IJFBM4XM3PD6
+review/profileName: KAM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Great Deal!
+review/text: This is a great deal! It is way cheaper than the grocery stores in my area for this item!  This is the 10 grams of protein per bar, the full size meal bars.
+
+product/productId: B006VRQLWM
+review/userId: A3VPV2VD8065EI
+review/profileName: M C
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1327363200
+review/summary: Hydrogenated Palm Oil in this Diet bar
+review/text: Well, these taste ok, but there's partially hydrogenated oil in these bars-- really? Ugh.<br />Ingredients include:<br />Coating (Sugar, Partially Hydrogenated Palm Kernel Oil, Cocoa Processed With Alkali, Whey, Nonfat Dry Milk, Soy Lecithin, Sorbitan Monostearate, Salt, Polysorbate 60, Artificial Flavor),
+
+product/productId: B006VRQLWM
+review/userId: A2KAZ7NG3PE5ZT
+review/profileName: Chelentaz
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1260316800
+review/summary: Great meal substitute - even for a 4-year old!
+review/text: I bought these bars as a quick meal replacement or snack, but my 4-year old son (an extremely picky eater) has enjoyed them for breakfast more than anything else I've offered!  He thinks they are candy bars and requests at least one daily.  The nutritional information on the package suggests that they are an even healthier, heartier choice than granola or cereal bars. Now, if he would just leave me a few...
+
+product/productId: B006VRQLWM
+review/userId: A3FINMLII6FWSI
+review/profileName: J. Gordon "John R. Gordon"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252713600
+review/summary: BEST tasting protein bar!!!
+review/text: I need to eat 1 or 2 protein bars every day as a post bariatric surgery patient to ensure that I get enough protein every day. This double-chocolate Special K protein bar (10g protein, 180 cal), is my very favorite protein bar, since it tastes more like a chocolate candy bar with crunch. I've been eating 4-5 per week for over a year and I still don't get tired of them. There may be bars with more protein, or ones with more fiber. but none with better taste in my opinion. Buy one box and you'll be hooked.
+
+product/productId: B006VRQLWM
+review/userId: AV8TMTED9YDWW
+review/profileName: M.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1239062400
+review/summary: A delicious healthy alternative to vending machine purchases
+review/text: This is a very delicious and nutritious alternative to what you'll find in a vending machine.  It tastes good and is large enough to sate even the hungriest of us all.  Best of all, unlike other meal replacement bars, there are no sugar alcohols or substitutes.  Moreover, for such a tasty bar, it packs a good amount of protein.  I highly recommend it.
+
+product/productId: B006VRQLWM
+review/userId: A378T3FI1ROBO1
+review/profileName: dicey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236211200
+review/summary: Yummy!
+review/text: I am so happy with this purchase!  I've tried so many different meal replacement bars without finding one that tasted like FOOD.  This is the best tasting meal bar I have ever eaten.  I don't have much time to eat lunch during the week and this is a perfect meal on the go.  It tastes like a yummy candy bar and not a chalky protein product.  I highly recoment!
+
+product/productId: B006VRQLWM
+review/userId: A3AXQTXLH0ZNT5
+review/profileName: Brooke Austin "Teacher"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234828800
+review/summary: Great taste!
+review/text: I love these.  I am a teacher and get to school at 6:30am.  The meal bars get me through to lunch. They keep me from running to the vending machine.
+
+product/productId: B006VRQLWM
+review/userId: A3ACI3VN7R33JW
+review/profileName: PACU Nurse "Frequent walker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234051200
+review/summary: Not just for dieters
+review/text: Although marketed for dieters, these bars are GREAT for teens whose eating habits are not always the best. I have a son whose idea of dinner is limited to burgers, grilled cheese or chicken nuggets. At least with these bars, I know protein, fiber are not going to be an issue, especially when running to sports practice, while keeping fat and calories down. Love the autoshipment--I always have them on hand.
+
+product/productId: B006VRQLWM
+review/userId: AA8SEVISJIYDH
+review/profileName: Linda Donahue "Linda Wheeler Donahue"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214092800
+review/summary: Satisfying and Delicious
+review/text: Kellogg's Special K Protein Meal Bars are amazing.  I love the chocolatey taste of the Double Chocolate flavor.  But perhaps the strongest recommendation for this product is how satisfied I am for many hours after eating one.  And it feels good to know I have had a  dose of protein even thought I did not go to the trouble of cooking a meal.
+
+product/productId: B006VRQLWM
+review/userId: A10PR3V7L6T4O9
+review/profileName: Gisele Ryan "Make-Up Artist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1209340800
+review/summary: tasty tasty tasty
+review/text: Special K Bars are very delicious and they satisfy my sweet craving. I have (1) one every day as a treat to keep me on my Body For Life / Eating For Life program.
+
+product/productId: B006VRQLWM
+review/userId: A363CWAFMIG1A3
+review/profileName: C. Maylett
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1327449600
+review/summary: Yuck!
+review/text: I've been eating PowerBars for years, and thought I'd try a double chocolate Kellogg's Meal Bar.<br /><br />Holy cow! It's like biting into a ground-up mixture of styrofoam and dirt that's been compressed into a semi-solid then dipped in overly sweeten chocolate. The beach sand residue left in my mouth from this thing is horrible. I've got half the bar sitting here in front of me, and I really don't think I can finish it off. Yuck!<br /><br />Judging from the other reviews, maybe these gross, awful things are an acquired taste or maybe my taster is just seriously out of whack. Whatever the case, they're downright nasty! Even the smell is bad!
+
+product/productId: B006VRQLWM
+review/userId: AZ7289G0ILRFF
+review/profileName: Stephanie Reid-Simons
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1245801600
+review/summary: Chocolate-y, breakfast-y goodness!
+review/text: I trusted the people who raved about the taste of these bars, and they were right. I cycled through South Beach, Atkins and others and though this does contain high fructose corn syrup (wish it didn't), it's the best combo of taste and value I've experienced.
+
+product/productId: B006VRQLWM
+review/userId: A1MAB962ZLTD7F
+review/profileName: Maricelis Colon Rodriguez "Maricelis Colon Ro...
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1200096000
+review/summary: My favorites
+review/text: I love this bars,i'm a chocolate woman.I love the flavor and the price is good.Hurray for Kellogg's,and Amazon for the price.
+
+product/productId: B006VRQLWM
+review/userId: AW7RNJHEQ8LHR
+review/profileName: PowerUserAZ
+review/helpfulness: 8/14
+review/score: 1.0
+review/time: 1251158400
+review/summary: So close to perfect...
+review/text: I love(d) these bars. They taste like a candy bar, have fiber, fill me up, whats not to like!<br />Oh wait... they use SOY PROTEIN.<br /><br />I'd heard about the dangers of men/boys eating soy protein before from friends/colleagues and pretty much dismissed it as tinfoil hat conspiracy theory. But when Men's Health had a large report on it, I figured it was worth the time to do some independent analysis.<br /><br />Long story short (and don't just take my word for it, I could be a crazy person on the internets) if you are a man, you are essentially taking large doses of estrogen every time you eat one of these. Note only does estrogen not help out in the muscle building department, the soy phytoestrogens have been linked (through legitimate research) to a whole lot of bad things, namely behavioral, pulmonary, circulatory diseases.<br /><br />So eat these things if you'd like, but I will be running not walking away from them. And it REALLY bums me out because they taste great... I just wished Special K would have ponied up the couple extra cents to whey protein...sigh.
+
+product/productId: B004QEG2AS
+review/userId: A2O421DTA8J0RW
+review/profileName: Dogs & Horses "Spanish Norman Horses"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349654400
+review/summary: Chemical aftertaste, smells nice though
+review/text: I loved the Chai Tea Latte pods for the Nescafe Dolce Gusto machine, so this was one of the first flavors I bought for our new Keurig machine. What a let down. There is a distinct chemical after taste with the Cafe Escapes version. Add to that the fake sweetener taste amd I can't drink this at all. I added milk and some real sugar, but still the chemical aftertaste existed. Bottome line is that while breweing this Chai Latte smells wonderful, but if you are at all sensative to the chemicals used in artificial flavoring & fake sweeteners, then avoid this brand's version of the Chai tea.
+
+product/productId: B004QEG2AS
+review/userId: A1AXZ8766COHR6
+review/profileName: Greg W
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339545600
+review/summary: Great taste, but it's not a real tea
+review/text: Although this tea tastes great, it's just an instant tea mix that get completely dissolved (k-cup gets empty). I still really like it, and drink it, just not that often. The taste is reminiscent of pumpkin spice tea. It's rather sweet tasting. It may have artificial sweeteners in it (I'm not sure, but I think other reviewers mentioned it).
+
+product/productId: B004QEG2AS
+review/userId: A1PUXO0JTL7CMZ
+review/profileName: Amy P "Amy P"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320105600
+review/summary: Great Chai!
+review/text: My favorite Chai is Starbucks!!  However, Cafe Escapes is is a very, very close 2nd!!! Although a much cheaper alternative but with a great taste, too!
+
+product/productId: B004QEG2AS
+review/userId: A2NWIBURBR217A
+review/profileName: Mister0704
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304812800
+review/summary: Taste just like store bought!!!
+review/text: I am not a big coffee fan but I wanted a Keurig maker. I absolutely love Chai Latte. I make two cups of it. I found that mixing it on the middle setting and one on the smallest cup setting mixed together makes it a perfect combination! It tastes just like when I used to buy it for 3x the price. It is creamy and the right amount of flavor. I would recommend this to anyone who is looking for a nice kick of flavor in the morning but ins't looking for the caffeine of coffee! I also enjoy this as a little treat since I am watching my weight and this doesn't make a big dent into the amount of calories I consume a day. I did wish I could find i for less expensive on Amazon as my local store has it for a better price but it is not always in stock.
+
+product/productId: B000ITYT0K
+review/userId: AQLL2R1PPR46X
+review/profileName: grumpyrainbow
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1236729600
+review/summary: Tasty tuna
+review/text: I usually buy the G'Day Gourmet Tuna, but decided to buy this because the price was so much lower.  The tuna is nice and there are very large chunks.  It actually doesn't have much tuna in it because it has so much sauce.  Thankfully the sauce is very tasty - a very slightly spicy tomato taste with chunks of real tomato.  The tomato is not acidy or overly sweet.  Just really good.  So while the can size seems very large, it's a bit deceiving.  Still a good product that I enjoyed.
+
+product/productId: B000ITYT0K
+review/userId: A377LPVLLAI42D
+review/profileName: Chris
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1274400000
+review/summary: Good food but a misleading name
+review/text: Contrary to what another review said, I think this is mostly tuna with a little salsa. Maybe 70-30, but it is difficult to estimate as you pull it out of the can with a fork. The liquid content isn't unreasonable for something in a tomato based sauce. The flavor is good for my tastes, a little bit of bite, but not really hot. I'm just about to order my second batch, so obviously I have no problem with the product.<br /><br />The name is a little misleading, the company may have been set up by South Australian farmers in 1945 but the can came from Thailand in 2010. The label says [...]<br /> and it turns out they are just another multinational playing off their founder's past.
+
+product/productId: B000ITYT0K
+review/userId: ADFBSAM0O6F0Q
+review/profileName: Alice Cooper
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1259625600
+review/summary: Not that G'day Gourmet Tuna taste I was hoping for!
+review/text: I loved G'day Gourmet Tuna in Tomato Onion and Salsa Tomato. Since they are not available, I ordered this Safcol Tomato Salsa in hope to substitute the G'day Gourmet. Not even close! Watery, salty and not as tasty. Alas...
+

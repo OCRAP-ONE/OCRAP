@@ -1,0 +1,1143 @@
+product/productId: B004DVARSC
+review/userId: A8VFMDAK1Y2WM
+review/profileName: obigb
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1312761600
+review/summary: Love love love
+review/text: My new favorite candy n the whole world.  My Chiropractors office had a bowl and tried one for the fist time n June, this is my second order due to my daughters helping me eat them.
+
+product/productId: B004DVARSC
+review/userId: A1M8AYAL3L8ACP
+review/profileName: Amanda L. Davis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331078400
+review/summary: Good Candy, Interesting Flavor
+review/text: This candy has a nutty, sweet flavor and tastes a bit like peanut brittle to me.  They're a bit hard, but I like to suck on them for a while to make them chewable.  It doesn't stop me from liking them.
+
+product/productId: B002J9NR14
+review/userId: A2A81993H4TBAL
+review/profileName: Steven S. Shagrin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334016000
+review/summary: Amazing Black Truffle Salt!
+review/text: I've been using this black truffle salt for years and, when looking for more online, found it in this large container.  Now I can refill the smaller jar I have, send more to the kids, and share some with friends.  The large container is very cost effective vs. the smaller jars of the same item.  It adds the most amazing flavor to things I cook -- and it's one of my favorite "secret" ingredients.
+
+product/productId: B002J9NR14
+review/userId: A1V5H1WX9IRAMI
+review/profileName: WeHo Queen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315180800
+review/summary: I'm in love.
+review/text: I admit that I have a problem with all things truffle.  This salt is good on everything.  I put some in a small shaker for when I travel so I always have the taste and smell of truffle with me.
+
+product/productId: B002J9NR14
+review/userId: A1X2AZLN32FT6H
+review/profileName: flossy "flossy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294963200
+review/summary: Putting it on everything!
+review/text: I got it for my boyfriend and we love it so much I need to order more to keep at my house!
+
+product/productId: B007XPOTU2
+review/userId: AEVXW8ZEYCHRJ
+review/profileName: Anna
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350345600
+review/summary: Quite frankly these mints taste nothing like lemon..
+review/text: When you see something advertised as lemon mints, you expect it to taste like lemon, or at least has a scent of lemon. Well they may have tried to put lemon fragrance to it, but these neither taste nor smell close to lemon. These are just regular cooling mints in lemon tin. I give it two stars because it does function well as mints, but if you expect sour, lemon flavored kinda, you would be disappointed.
+
+product/productId: B000PMC7GI
+review/userId: A17MRB5QEHV7ZX
+review/profileName: Bug fan
+review/helpfulness: 18/18
+review/score: 4.0
+review/time: 1240272000
+review/summary: Pretty nice
+review/text: The product consists of an approximately 10 inch (25 cm) long piece of meat with 1 or 2 smaller (approx 1 1/2-2 inches, 3-5 cm) pieces thrown in.  The meat is about 1/4 inch (6-7 mm) thick and comes in a fairly easy, peel open package.  Taste is good though on the salty side (it carries more than 1/2 the daily recommended amount of salt).  It does not actually taste like steak, just jerky, but the meat is pretty tender and I didn't feel like I was wrestling with shoe leather.  I appreciate the fact that the pepper bits are not "loose" like some other jerkies, so crumbs are not much of a concern.  Per the box, store in a cool, dry place.<br />Nutritional info:<br /><br />Servings per container: 1<br />Calories: 120<br />Total fat: 2g (3%)<br />Saturated fat: 1g (5%)<br />Trans fat: 0g<br />Cholesterol: 50 mg (17%)<br />Sodium: 1360 mg (57%)<br />Total carbohydrates: 4g (1%)<br />Dietary fiber: 0g<br />Sugars: 2g<br />Protein: 22g
+
+product/productId: B000PMC7GI
+review/userId: A2YKWYC3WQJX5J
+review/profileName: Shannie "Shan"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1251331200
+review/summary: Has most of what you want in a Jerky...
+review/text: ...in that it's chewy, beefy, and has a long shelf life. Jack Link's Peppered jerky is a tad too peppery for my liking, so I expected the teriyaki flavor to be just as robust. Instead, it is mild. Still really good, however! One word of caution, although it's addictive, eat in moderation, or your sodium levels will be off the chart.
+
+product/productId: B000PMC7GI
+review/userId: A2ZSK8NC6PX0ZY
+review/profileName: Donald G. Dassel "Donald347"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1260057600
+review/summary: Excellent Protein Quatity
+review/text: I find the Jack Links Teriyaki Beef Steaks excellent in taste and loaded with protein without a lot of fat nor a lot of carbohydrates, and excellent choice for camping, trips etc. the price thru Amazon can not be beat.  I am very satisfied.
+
+product/productId: B000PMC7GI
+review/userId: A1WNGKUT3O644D
+review/profileName: Bonnie S. Seybert "Bonnie"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1208563200
+review/summary: These are great!!!
+review/text: I love Jack Links Beef Steaks. These have a wonderful flavor with just the right blend of spices and hickory flavoring. I have trouble eating just one. It makes a great snack anytime. Before letting my grandkids know I have some, I make sure I hide a few first. Kids love them too.
+
+product/productId: B000PMC7GI
+review/userId: A38QF0U6C4GRM8
+review/profileName: S. Pericciuoli
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1188259200
+review/summary: only kind
+review/text: this is the only kind of peppered beef steak i buy.it's always very fresh.and taste better than the other brands,if you like jerky i would recomend this product.
+
+product/productId: B000PMC7GI
+review/userId: A1P6US8I1D57YU
+review/profileName: Carl,
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1342310400
+review/summary: this thing has a molding issue.
+review/text: finished half of one steak, the other half dropped on my desk, so i picked it up, saw those nasty white mold on it. makes me sick.<br /><br />i've seen other reviews saying it had mold issues, i didn't really take it serious since i lovED it.<br /><br />now i see the problem, not over due, not under the sun, not in high temperature.  white mold.<br /><br />just found out this today,  i usually don't write reviews. but this is really really..  i can't think about it anymore. just..<br /><br />try not to buy it, or just buy the ones in 7-11  at least u can see it b4 u buy it.
+
+product/productId: B000PMC7GI
+review/userId: A389YYIMGEJJ30
+review/profileName: Mike Clifford
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1329696000
+review/summary: moldy all the time
+review/text: When I bought this item the first time, I was happy then I "subscribed and saved". What a waste! Once they have their hooks in you, they give you the bottom of the barrel. I even gave them a second try the next month and they were all moldy AGAIN. Terrible company. "Subscribe and save" users should form a class action lawsuit like done against Netflix when they gave new subscribers the latest movies, leaving the old B movies to the long term customers. Shame on Jack Links. Pathetic.
+
+product/productId: B000PMC7GI
+review/userId: A2WUQYHSFXNUGH
+review/profileName: B. Alexander
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1327622400
+review/summary: One of my worst Amazon purchases
+review/text: I bought 2 boxes of these at the same time thinking I was getting a better deal than buying from the gas station. The first few I ate I didn't have any problems with. Since then, they either have mold or have been so hard that I cannot take a first bite through it (sidenote: I am an avid carnivore). They need to step up their quality control before selling this.
+
+product/productId: B000PMC7GI
+review/userId: A1TMAVN4CEM8U8
+review/profileName: Gunner
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1267660800
+review/summary: maybe a 6 on a 10 point scale
+review/text: Jack Link's Beef Steak, Flavor, 1-Ounce Packages<br /><br />These are a nice snack, maybe a 6 on a 10 point scale, I prefer the <a href="http://www.amazon.com/gp/product/B000FYVKRS">Buffalo Bills 2.1lbs Hot Short Shots (120 beef sticks per bag)</a><br /><br />Gunner March, 2010
+
+product/productId: B000PMC7GI
+review/userId: A3Q816H5AFX2SB
+review/profileName: J. Luk "Techie"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1263254400
+review/summary: Like licking a salt cube! 1470mg of Sodium!
+review/text: After trying the teriyaki flavor of these beef steaks, I decided I would try another flavor so I ordered these peppered ones.  The flavor is really like throwing a salt and pepper shaker into your mouth.  You never really get a chance to taste the meat since your tongue is overwhelmed by this cloyingly salty, stale pepper flavor.  The worst part? There is 1470mg of Sodium in a single package, which is a whopping 61% of your daily value of sodium for the ENTIRE day.
+
+product/productId: B000PMC7GI
+review/userId: A3CJW3AM6V6HI9
+review/profileName: Meme "MAB"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1250985600
+review/summary: Original Beef Steak is muchbetter than any bagged jerky
+review/text: This is a sooo much better snack than crackers or chips.  I have blood sugar issues and a protein snack is just what I need.  I also quit smoking in Jan. 2007 and am still smoke free thanks to Jack Links 2 oz. Original Beef Steak.  I honestly love them.
+
+product/productId: B000PMC7GI
+review/userId: A1YYT9PM8PNFI8
+review/profileName: Michael Plechaty "Mike"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1244764800
+review/summary: Tastes great and not loaded with corn syrup or sugar
+review/text: These jerky packs are great.  They actually do fill you up or at least stop the grum bellies.  I stay away from all the products that are just different ways of eating sugar and corn syrup.  I have a boy with ADD and I don't have him on drugs so it is very nice to have a great tasting and filling snack that isn't just sugar with flavoring.  Since sugar and corn syrup are major contributors to that condition.  Keep up the good work Jack Link.
+
+product/productId: B000PMC7GI
+review/userId: A2BRZ26DRBZCN5
+review/profileName: T. Huddleston "k.rogers fan"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1186444800
+review/summary: If you like SALT
+review/text: I thought this was the beef jerky that I was used to getting from the gas station on my trips. However, after eating one stick(really two sticks in one).  I ended up drinking two bottles of water.<br />The Salt content!<br />you can taste the salt before the beef jerky
+
+product/productId: B000PMC7GI
+review/userId: A31LJUPR0HFDWP
+review/profileName: H. J. KANG
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1219449600
+review/summary: Way Too Much Salt
+review/text: Just after one bite, I could really tell there was way too much salt in the jerky.  After two bites, I simply couldn't eat more.<br />Nutrition Fact says one serving's Sodium Content is 1540mg - 64% of daily value.<br />I would not recommend this jerky unless you already know what it taste like.
+
+product/productId: B000PMC7GI
+review/userId: A2FESJATQP75KT
+review/profileName: Christina1080
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1348012800
+review/summary: Not the best flavor of Jack Link's
+review/text: I enjoy this product simply because it is beef jerky (don't know when I became a redneck) and I like how it comes in 1-oz packages, but I won't be ordering this flavor again.  I'd recommend the pepper flavor instead.
+
+product/productId: B000PMC7GI
+review/userId: A2XDTXRKBTNO01
+review/profileName: gunny13
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347926400
+review/summary: mmmmm
+review/text: This was a great product, shipped quickly and was hassle free. I will consider buying this on a regular basis.
+
+product/productId: B000PMC7GI
+review/userId: A3BTGEZMZI2LJ5
+review/profileName: oldalba
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: Jack Link's Original
+review/text: Healthy treat for dogs and grandchildren.  I use them for training both.  Good behavior merits a Jack Link.  Give them a try.
+
+product/productId: B000PMC7GI
+review/userId: ALSW7HGFU3ZRG
+review/profileName: Dean Benkowski
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347321600
+review/summary: Greasy, but good
+review/text: This is a greasy product, but has good flavor.  The meat is soft, not too salty, and meaty.  I would buy again.
+
+product/productId: B000PMC7GI
+review/userId: A2N03453MYMJ6
+review/profileName: Mark
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347235200
+review/summary: Pepper Beef Steak Way Too Salty
+review/text: The Pepper Beef Steak is way too salty and tough.  It's a shame they don't put the nutrition facts on the packaging, but I guess that's intentional, because if I knew, I wouldn't not have purchased.<br /><br />Very disappointed.
+
+product/productId: B000PMC7GI
+review/userId: A39AAVT3J3DW5D
+review/profileName: work bot
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343779200
+review/summary: Mold problem
+review/text: Have seen mold on a couple of different flavors of this jerky.  I keep it in a cool dry place and it doesn't expire for another year.<br /><br />I've had it in the gas station before and it's fine.  But the couple boxes I ordered from amazon had ones with mold on them. I personally like this jerky but molding product gets a 1 star review.
+
+product/productId: B000PMC7GI
+review/userId: A1MSR1JJP22EC5
+review/profileName: acedonkeyace
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339286400
+review/summary: 2 Boxes of Masterpiece BBQ BeefSteak,
+review/text: The product came quickly, one was great, but one of the boxes was dry and at the end of the pull date.<br />Thanks<br />Mike
+
+product/productId: B000PMC7GI
+review/userId: A6QWDMDGLXX5Y
+review/profileName: Patty Ben "Gadget girl"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337385600
+review/summary: Good snack!
+review/text: Have order three boxes in total now. I bring one as a snack to work almost everyday. Soooo much cheaper to order from Amazon than to buy at a gas station. Some reviews say they've had 'moldy' packages. So far I've only had one single package that tasted a little off. The rest of the box was fine. Some jerky strips will have a bit of congealed grease on them, I just wipe it off. Perhaps those folks with the 'moldy' packages were mistaking grease for mold? I will continue to buy this product from Amazon and will always have a box on hand in my pantry. (Oh, of note, these strips are made from WHOLE strips of beef, not the "chipped, chopped, pressed and pattied" variety, and it is very lean. Lots of protein and only 70 calories a package. 'Beats a package of potato chips any day! They are a tad salty, but so are potato chips - and I always have something to wash them down with too!)
+
+product/productId: B000PMC7GI
+review/userId: A2Y4S4CNGKF21S
+review/profileName: H. Swanson
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1332374400
+review/summary: Very dry, kinda crumbly :\
+review/text: I was pretty disappointed with this. It's incredibly dry, to the point of being almost crumbly in your mouth. I also thought the flavor itself could have been better.  I've made jerky myself that tastes much better than this.
+
+product/productId: B000PMC7GI
+review/userId: A1DPWQR4WSPXTM
+review/profileName: Japri
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331424000
+review/summary: Very unsatisfied
+review/text: I subscribed and saved to this kind of jerky in the past, then had the subscription canceled for a time. Since jerky is more expensive by the piece, I recently restarted the subscription... only to cancel it after the second shipment. It's nasty. I got two boxes of it and don't know what to do with it. It's old, moldy and disgusting. I am very disappointed with this product and recommend people avoid this until the company steps up and improves the quality. It may be a better deal to buy it in quantity, but it's not when you can't even eat it.
+
+product/productId: B000PMC7GI
+review/userId: A3A1JK9NG39PX6
+review/profileName: Me
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1330732800
+review/summary: Utter Crap, Not same as store, low quality
+review/text: Product not what is in stores, low quality. Taste and quality varies greatly between items in package. Stay away form these. Teriaki is plastic like and has a chemical taste
+
+product/productId: B000PMC7GI
+review/userId: A2X674TN3P7AVU
+review/profileName: MS fanatic "MS fanatic"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1330473600
+review/summary: To much dietary salt.
+review/text: I do like how these taste but there is too much dietary salt. I also found that after eating two, I began to get stomach knots.
+
+product/productId: B000PMC7GI
+review/userId: A2PVHEQQH592ZN
+review/profileName: Michael Martin
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1328227200
+review/summary: Eww
+review/text: These things are terrible.  They have a waxy coating and some sort of chemical on top.  The taste of the chemical is very prominent.  I can't even give these things away.
+
+product/productId: B000PMC7GI
+review/userId: A2NWIBURBR217A
+review/profileName: Mister0704
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325289600
+review/summary: Good price, and just the right size
+review/text: These are perfect for my bf and myself. They are perfect size for a snack or for myself I have sugar issues so this is a good source of protein when my sugar is getting low. For the price and when you do the subscribe and save it is even better. They work great on the go or just when you need a quick snack and the flavor is tasty!
+
+product/productId: B000PMC7GI
+review/userId: A3AU8SF9IMRUXK
+review/profileName: paul amascato
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1307664000
+review/summary: 2 more rotted beef steak in a carton
+review/text: Over and over again I keep finding rotten or stinking beef steak in each carton . The quality control is very poor at Jack Link's
+
+product/productId: B000PMC7GI
+review/userId: A23BIPSF5IQT7W
+review/profileName: A. Arnold
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1306454400
+review/summary: delicious, convenient, and salty
+review/text: The best jerky I've found for a low price. I'd rather have the organic/free range/etc jerky but am a poor grad student, so this stuff works for me. The best deal I can find for jerky anywhere is here on Amazon.<br /><br />They are so easy to carry around and are very filling. Sometimes they are a little tougher than others, but it's not so bad you'll rip your teeth out eating them. I only have 2 complaints - a ridiculous amount of sodium and a few other additives (like SUGAR) that I'd prefer not to be eating. But still... so good for what you pay for.
+
+product/productId: B000PMC7GI
+review/userId: A89SUO04NLQTD
+review/profileName: Abdo
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1300320000
+review/summary: Bad Service
+review/text: I bought 2 Jack Link's Beef Steak pack of 12. One of the two packs was open and had only 11 Beef Steaks. Also the meat is very tough to chew unlike when you buy from grocery stores.
+
+product/productId: B000PMC7GI
+review/userId: A30QZI1339WUVZ
+review/profileName: jdflana
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1299369600
+review/summary: Poor copy
+review/text: This jerky is; tough, fat, has gristle, and does not taste like teriyaki. They do not even try to make it with the right flavorings. If you like teriyaki get another product.
+
+product/productId: B000PMC7GI
+review/userId: A1EUNOH8MS18P5
+review/profileName: Office Supplies
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299110400
+review/summary: Great taste!
+review/text: I order this for my office and everyone seems to love it. After much taste testing, we chose Jack Links for the great taste, variety, and value.
+
+product/productId: B000PMC7GI
+review/userId: A3XZDJGLJOIQG
+review/profileName: G. Kuhn "Budman"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294963200
+review/summary: Good stuff
+review/text: I picked one of these up at a convenience store for a snack. It was just the right amount for a mid-meal bite. I bought a whole box from Amazon to keep in the office. Other reviewers said that they thought these were too salty, or old. The box I received wasn't old, and as for salty - it's beef jerky stuff, what do you expect? Calories and fat content aren't bad either.
+
+product/productId: B000PMC7GI
+review/userId: A1HOW3RL7Y93BT
+review/profileName: LLeangelaC
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292198400
+review/summary: Best Jerky / Beef Steak! Best to buy it from Amazon!!
+review/text: I have not yet purchased this product FROM amazon, BUT as soon as my box from the Jack Link's Site is gone I will forever buy it from Amazon alone! This (Jack Link's ORINGINAL Beef Steak) is my absolute FAVORITE jerky and has been for years! I've spent way to much time and gas looking for it at near-by stores only to be disapointed and settling for either Jack Link's other products or O'Boy Oberto which are both fine, but for me it does NOTHING for my beef jerky cravings! It is true it is quite salty but what good beef jerky isn't???? My husband a fitness/gym nut LOVES this jerky as well as the high protein content! I also LOVE the extremly low fat content as I cannot stand chewing on leather or fat that never chews away! This product is not only healthy (aside from salt), filling, great tasting, and a great snack thats easy to eat it is also CHEAP! At least in my perspective! On Amazon it is an amazing $10.00+ cheaper (when including shipping cost) than the same box from the Jack Link's website(kicking myself in the butt for that)! I will absolutely be setting up auto shipping for this product!
+
+product/productId: B000PMC7GI
+review/userId: AKWKQOY3JIPDM
+review/profileName: S. Turner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289088000
+review/summary: Less Additives than other Packaged Jerky
+review/text: It's tough to rate a food item as everyone has their own tastes. However, I think when it comes to store bought beef jerky, Jack Link's is about as good as they come. Most companies add a ton of extra garbage to their jerky, including sugar. You'll sometimes find 8-10 grams of sugar in some other brands. But with Jack Link's you are getting only 2 grams, and a taste that is comparable. And while all jerky is high in sodium, I realized these are a bit less than most competitors.<br /><br />In a nutshell, this is just good beef jerky without all the hoopla. A perfect healthy snack for someone in need of a little extra protein during the day. It won't beat the stuff coming direct from a butcher, but it's better than most of the other one's you'll find at a convenient store.
+
+product/productId: B000PMC7GI
+review/userId: A2LNSJZCD110HX
+review/profileName: THATGUY
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1285372800
+review/summary: Best When Direct
+review/text: Much happier with this product when purchased through Amazon. Meat appears older, less fresh when bought in the store.
+
+product/productId: B000PMC7GI
+review/userId: A2EVQ8S7FMLGL
+review/profileName: Jeff Rutsch
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1282953600
+review/summary: Good but salty!
+review/text: It's a nice price for a good jerky.  I try to keep loaded up on protein, and these jerkys are easy to just have lying around in case I feel like having one.  They taste pretty good, they're very low in carbohydrates and fat...<br /><br />But they're too salty.  I don't mean in a "Gee that's more than the Surgeon General recommends" kind of way, but in a disgusting kind of way.  Maybe if you have a really high tolerance for salt it's no problem, but I think most people would agree...anyway I get the Teriyaki flavor, with 440 mg of salt per oz.  The Pepper and the original flavors, at 770 per oz, are just too salty for me to want to eat.<br /><br />Amazon also has like alligator and elk and duck jerkey for sale...think I might give those a try once I run through this box.
+
+product/productId: B000PMC7GI
+review/userId: A2ETUPQEBECCVA
+review/profileName: JohnC
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280016000
+review/summary: Very good beef jerkey
+review/text: I really like this jerkey because it's not too spicy, has a good meaty texture and taste and it's the right size snack for me.  These boxed sets are a good price and I don't have to spend time running to the store and paying extra for them.
+
+product/productId: B000PMC7GI
+review/userId: A2OBDNQ5ZYU1L8
+review/profileName: Diana De Avila "MS Gkygrl"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1279411200
+review/summary: Thick and chewy, not traditional jerky but delicious nonetheless
+review/text: I am in search of a good jerky and just had to try these.  I guess I paid little attention to the label "Beef Steak" versus beef jerky.  These pieces are thick and chewy and very peppery (in the original flavor).  I [personally find that I have more of an affinity to the regular, thinner sliced jerky over these "beef steaks" ... but we bought two boxes and are certainly enjoying them.<br /><br />These 2-ounce packs are filling, packed with protein and provide a great mid-day energy boost.  They travel well and the Jack Links brand has not let us down.  With so many varieties, we will be trying more.  These were a pleasant surprise and were different.<br /><br />Keep in mind that this is a thicker cut, 2 oz packs have 1280 mgs of sodium per serving.  Quite a lot!  Also, keep a toothpick or dental floss nearby, you'll need it!<br /><br />Very enjoyable nonetheless.
+
+product/productId: B000PMC7GI
+review/userId: A1QN48FQZ7OIS7
+review/profileName: Jone Sigvart Eik Mon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1278201600
+review/summary: Good snack
+review/text: The Jack Link's Beef Steak, Peppered are always nice to have in the pocket in case I get a bit hungry
+
+product/productId: B000PMC7GI
+review/userId: A2FIY5AE30X5JJ
+review/profileName: J. Kato
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1277683200
+review/summary: Tasty but very salty!
+review/text: I've picked up the smaller size at convenience stores and have always liked them.  I read some of the reviews and one person mentioned how very salty they were, but I bought this pack of 12 anyway.  I thought maybe he was just a little sensitive, but, wow, he was right!  I like the flavor, but cannot eat much of it at once. I eat only a small amount each time and close the package back up.  The small ones I get in the convenience stores don't seem this salty.
+
+product/productId: B000PMC7GI
+review/userId: A1MMXIOXM89RIZ
+review/profileName: Kate W. Hickman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1274054400
+review/summary: Best Price you will ever find
+review/text: We all know Jack Link's is an excellent product. Dates were excellent and you will never find a better price anywhere so go ahead sign up for autoship and enjoy healthy protein anytime.<a href="http://www.amazon.com/gp/product/B000GW0U3E">Jack Link's Beef Steak, Teriyaki, 2-Ounce Packages (Pack of 12)</a>
+
+product/productId: B000PMC7GI
+review/userId: AGEKVD8JPZQMT
+review/profileName: M. Rodriguez "Cnyper"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1268956800
+review/summary: That's what she said!
+review/text: This is big!  It's about a foot long and they has a pretty good girth to it (that's what she said)!  It's not as soft as normal jerky you find in the bag - I think this stuff is made differently.  It's tough and salty (that's what she said).  It's not the best tasting Jerky I've ever had, but for the price it definitely exceeds my expectations.  I've tried the Oberto brand jerky sticks and they were not very good at all.  And with 23g of protein and only 2g of fat in each stick it's pretty good for you!  One stick is pretty much a meal, though.  I find myself working on it for about 30 minutes before I down it all (that's what she said).<br /><br />Goodnight everybody - i'll be in town all week!
+
+product/productId: B000PMC7GI
+review/userId: AOV9UT5TNSDMZ
+review/profileName: kwanhy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265846400
+review/summary: Jack Links's beef steak
+review/text: The shipping charge was free and the transaction was smooth and quick. the product is fresh and easy to order. will order again and recommend.
+
+product/productId: B000PMC7GI
+review/userId: A10VM50OFNAXHI
+review/profileName: Cher
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1265587200
+review/summary: beef jerky
+review/text: I've ordered this before and enjoy it, however wish it didn't have so much sodium.
+
+product/productId: B000PMC7GI
+review/userId: A3VZIFXZ64ABCE
+review/profileName: Steven B. Mills "tread"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1258761600
+review/summary: better than the rest
+review/text: peppered beef steak tastes better than other flavors offered by Jack Links......i actually have only tried the kc bar-b-q. but the other reviews say this flavor tastes the best.
+
+product/productId: B000PMC7GI
+review/userId: A3VZIFXZ64ABCE
+review/profileName: Steven B. Mills "tread"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1258761600
+review/summary: gave it away
+review/text: Ive never tried kc bar-b-q so i didnt know what it was going to taste like. When i finally got it i took one bite and eewwwww not the greatest taste.......not like any bar-b-q ive tasted. Jack links should take this beef steak off the market.......maybe ok for older people that cant tolerate hot food.....my older friend really liked it so i gave it to him. try the peppered beef steak by jack links its the best by far.
+
+product/productId: B000PMC7GI
+review/userId: A3VZIFXZ64ABCE
+review/profileName: Steven B. Mills "tread"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1258761600
+review/summary: better than the rest
+review/text: I really liked the peppered flavor of the beef steaks.........i have yet to try them all but i hear peppered is the best flavor. spicey as far as pepper goes and tender. somethings you cant find in stores so i like shopping with amazon there great too.
+
+product/productId: B000PMC7GI
+review/userId: A2R9ZTZ3HUY4C3
+review/profileName: A. Ketchem
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1247184000
+review/summary: Salty
+review/text: My husband loves beef jerkey, and he will not eat these.  They are way too salty.  Maybe some people won't mind the salt, but for us, it was too much.
+
+product/productId: B000PMC7GI
+review/userId: A13WBUX01Q4D35
+review/profileName: A. Beckstedt
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1246233600
+review/summary: It's beef jerky ...
+review/text: The taste on these are just not right and what I was expecting. I thought it would taste just like the bagged jerky but its not. I would stay clear and stick with the bagged jerky.
+
+product/productId: B000PMC7GI
+review/userId: A3FINMLII6FWSI
+review/profileName: J. Gordon "John R. Gordon"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243036800
+review/summary: Like BBQ Beef? Buy this.
+review/text: Do U like BBQ beef snacks??? Then buy this one, I think you'll love it.
+
+product/productId: B000PMC7GI
+review/userId: A1SQEQG5FGZA82
+review/profileName: Bolo
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1240876800
+review/summary: Nice kick to it
+review/text: I've tried the hickory and peppered so figured I'd try the cajun too since I like spicy food. It has a nice kick to it but it's not too hot, at least in my opinion. The spicy taste lingers in your mouth for a bit but it's not a hot burn. It's not as tasty as I'd like but overall it's good and I'll order it again. My favorite is the peppered though, great taste and just a little spice from the pepper.
+
+product/productId: B000PMC7GI
+review/userId: A1080SE9X3ECK0
+review/profileName: L. Meza "fire2ice"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1240531200
+review/summary: great tasting!
+review/text: wow the taste in this is great,very good flavor.very fresh tasting.i cut this in small pieces, for my kids.my whole  family enjoys the chewy beef steak,i will buy again.great for on the road trips.a quick snack.
+
+product/productId: B000PMC7GI
+review/userId: A1SQEQG5FGZA82
+review/profileName: Bolo
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1240185600
+review/summary: Great snack for the cost
+review/text: Not greasy like the typical gas station or convienence store sticks. These are meaty and very tasty. The 2 oz packs are a great size for a snack. The sodium level is a bit high but they are defitnetly one of the better beef jerky sticks available. I bought both the peppered and the hickory but I like the peppered better.
+
+product/productId: B000PMC7GI
+review/userId: AG7QPDO7GNT5B
+review/profileName: Fake name real review
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1240012800
+review/summary: pretty good
+review/text: These were pretty good but the 2 oz ones taste better. Maybe I just got a bad box of these though. still great protein and energy.
+
+product/productId: B000PMC7GI
+review/userId: AZYMD9P9F9UZ6
+review/profileName: W. Coombe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1239148800
+review/summary: Good Jerky
+review/text: I like the peppered flavor a lot better than the original or plain, it does have a good cracked pepper flavor. I also think the quality is better than most other brands that I have tried. I like the 1 oz. packages and great value compared to buying individually.
+
+product/productId: B000PMC7GI
+review/userId: AZYMD9P9F9UZ6
+review/profileName: W. Coombe
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1239062400
+review/summary: Nice flavor
+review/text: I like the quality of Jack Link products, this one is more sweet than hot to me, just a little hot. But overall the flavor is good. The price is very good compared to individual prices.
+
+product/productId: B000PMC7GI
+review/userId: AZYMD9P9F9UZ6
+review/profileName: W. Coombe
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1238630400
+review/summary: Good Jerky
+review/text: I like the peppered flavor a lot better than the original or plain, it does have a good cracked pepper flavor. I also think the quality is better than most other brands that I have tried. I prefer the 1 oz. packaged.
+
+product/productId: B000PMC7GI
+review/userId: A3DTSH9W8K6BP4
+review/profileName: Michael Lerew "Iron-Mike�"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234656000
+review/summary: Great for gym rats..
+review/text: This product is pretty good. With 26 or 27 grams of protien and low in fat, it is great for gym enthusiasts or people who want to stay healthy by eating healthy. I personally am a body builder and I'm looking to eat as much protien as possible everday. I definatly noticed an upgrade in performance in the gym and during the day when I take this. Although the cajun flavor is a tade too spicy for me at times. Like my eyes will get red and my nose will start to run. Other than that it is delicous. I will probably try the Teriyaki next.
+
+product/productId: B000PMC7GI
+review/userId: AG7QPDO7GNT5B
+review/profileName: Fake name real review
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234396800
+review/summary: Delicious!
+review/text: I'd definitely recommend this beef jerky to anyone. I'm buying this again for sure. They are high in protein and low in fat. Don't buy the garbage quality slim jims or another brand. Get these
+
+product/productId: B000PMC7GI
+review/userId: A2OTO7TH9F433R
+review/profileName: Fluffy
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1233360000
+review/summary: Needs to retain freshness longer...Gets like shoe leather
+review/text: Even though these are in sealed, individual packages, which is nice, it seems like they don't retain there freshness. A few of the sticks got like shoe leather and had little taste. I would not purchase them again. I think they should have more flavor since they are vaccummed sealed for freshness. Also the sticks get very hard.
+
+product/productId: B000PMC7GI
+review/userId: ACYWVK1RG8999
+review/profileName: T. Lewis "Toni"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1232064000
+review/summary: Cajun Jerky
+review/text: Have never seen this in the stores, my favorite is Peppered but also ordered this at the same time.  Was glad I did.  Very good flavor, kind of spicy "after the fact".  Love the single serving packs so you don't eat too much and great source of protien!
+
+product/productId: B000PMC7GI
+review/userId: A1Z6OII9ZI2IF3
+review/profileName: B. Howard "humankind watcher"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1228608000
+review/summary: Mmmm pepper
+review/text: If you like cracked pepper this is definitely good eats.  Not too overpowering, it's just right!
+
+product/productId: B000PMC7GI
+review/userId: A1Z6OII9ZI2IF3
+review/profileName: B. Howard "humankind watcher"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1226880000
+review/summary: A little dry
+review/text: I love the Jack Link products, but this a bit on the dry side and not much of a BBQ taste.
+
+product/productId: B000PMC7GI
+review/userId: AV7VLXGTNSO10
+review/profileName: Sunshine87
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1221523200
+review/summary: Excellent
+review/text: Awesome flavor, great texture, just the right amount of pepper to give you a great tingle to the taste buds.  Definitely one of the best.  It is real steak.  Highly recommended!
+
+product/productId: B000PMC7GI
+review/userId: ASYCBKR9CD6KT
+review/profileName: alstream
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1213833600
+review/summary: Moist and just the right size
+review/text: Great tasting jerky. Nice, thick, moist texture tears and chews easily. 1 oz size is a perfect hight protein, low fat snack. Sodium content isnt too outrageous either.
+
+product/productId: B000PMC7GI
+review/userId: A1WNGKUT3O644D
+review/profileName: Bonnie S. Seybert "Bonnie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206057600
+review/summary: Burst of flavor
+review/text: I love Jack Links Beef Steak and this has to top them all. I only ordered 1 box and will definately order more. I very highly recommend the peppered beef steak. A perfect blend of pepper and spices with a smoked flavor make this a great anytime snack.
+
+product/productId: B000PMC7GI
+review/userId: AZAXJ3OL0Q346
+review/profileName: ImAtThePostoffice "yourownmailbox"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1193443200
+review/summary: even better than jerky
+review/text: Hickory is one of the top flavors when we asked US troops what they like.  They love the steak strips as they are a bit softer but very satisfying.  If being able to carry along a snack, and needing protein is part of your decision, this flavor in a steak strip cannot be beat !  You won't go wrong on this item.
+
+product/productId: B000PMC7GI
+review/userId: AQLL2R1PPR46X
+review/profileName: grumpyrainbow
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1178668800
+review/summary: Good
+review/text: Good quality jerky.  Not too hard.  Taste like real meat.  A little hot for my taste, so I gave it 4 stars.  I would get the plain.  It's pretty spicy.
+
+product/productId: B000PMC7GI
+review/userId: AZAXJ3OL0Q346
+review/profileName: ImAtThePostoffice "yourownmailbox"
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1181174400
+review/summary: Steak Strips
+review/text: Good brand.  They must pay their sales people a lot tho.  I saw these in stores for at least 50% more and convenience stores.... well, who has a wheelbarrow that big to haul around their change in?<br /><br />Send a lot of Jacks Link's steak strips and jerky to the American GIs in the Sand and found ordering it this way to be much more pliable and easier on your jaw than the same brand in Mart type or warehouse membership stores. If you send any to the heat like that, this is a much better product so there's a little time allowed to still have decent jerky arrive.  Steak strips and jerky are better liked than the nuggets tho..
+
+product/productId: B000PMC7GI
+review/userId: A2OTO7TH9F433R
+review/profileName: Fluffy
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1233360000
+review/summary: Could stay a little fresher since vaccummed sealed
+review/text: Even though these are in sealed, individual packages, which is nice, it seems like they don't retain there freshness.  A few of the sticks got like shoe leather and had little taste.  I would not purchase them again.  I think they should have more flavor since they are vaccummed sealed for freshness.  Also the sticks get very hard.
+
+product/productId: B000PMC7GI
+review/userId: A1BCQF9CZ5P1RF
+review/profileName: Pat Gaskin "dog lover"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1230595200
+review/summary: My Dog Loves The Beef 1oz Beef Steaks
+review/text: I have a border collie and my husband started to give our dog a jacks beef steak every night as a treat. Now I buy boxes of 24 all the time and the vet says they are better to give then a raw hide or some of the treats in the stores .So I think they are ok in my book. Hard to find 1oz ones sometimes but they are worth the price.
+
+product/productId: B000PMC7GI
+review/userId: A5XGP2YYCGMTX
+review/profileName: Robert Brock "MrMom"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1174435200
+review/summary: Flavor/yes price /Hmmmm
+review/text: I'll give Jack Links 4.5 stars on flavor and quality but a much lower rating on bulk pricing.  I order quite a bit of beef jerky online in larger quantities from many vendors.  To keep fresh remember to store this in a cool environment.  The 2 ounce package is a perfect portion size.
+
+product/productId: B000PMC7GI
+review/userId: ALJN039DSSX5E
+review/profileName: H. Shin "Hyundae"
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1186704000
+review/summary: Try it in strip form and from somewhere else
+review/text: I usually buy the Sweet&Hot jerky strips at Walmart and love the taste. I decided to try the 2oz stick from Amazon and was disappointed for 3 reasons:<br /><br />1. They came with expiration date only 48 days away. I've bought a couple of grocery items from amazon and this seems to be a common pattern. I've also read reviews complaining about the expiration issue on other Amazon grocery products. I love shopping from Amazon, but this reason alone may stop me from buying perishables from them again.<br /><br />2. These sticks are not nearly as soft in texture as the strips. Maybe it's because it's almost reached its expiration date?<br /><br />3. The flavor is not exactly the same as the strips. It tastes more or less the same as regular beef jerky. A bit of hot (as most jerkies are), but not much sweet. Again, is age a factor?<br /><br />I've tried many brands and flavors, and Jack Link's Sweet&Hot is by far my favorite. Get it in strips.. and get it from you local grocer.
+
+product/productId: B000PMC7GI
+review/userId: A13WBUX01Q4D35
+review/profileName: A. Beckstedt
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1246233600
+review/summary: It's beef jerky ...
+review/text: I would recommend to stick with the bagged beef jerky. I bought these because I thought it would be much easier to transport with me on the go like road trips but the taste is way off compared to the bagged jerky and I didnt care for it. Very dissapointed in the taste.
+
+product/productId: B000PMC7GI
+review/userId: A1MPV41FQPCBE1
+review/profileName: Truong Nguyen
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1207180800
+review/summary: Eating Salt Jerky
+review/text: I thought this was similar to the Jack Links Peppered Beef Jerky, boy was I wrong.  This stuff is like eating pure SALT.  Nasty as hell.  One package serving is 57% of your recommended daily intake of Sodium.  This is one of the highest content of sodium I've found in Beef Jerky.  I don't recommend this unless you really really like SALT.
+
+product/productId: B000PMC7GI
+review/userId: A2ZLVDEDH1P1ZC
+review/profileName: Rhonda Hurtado "Chancelor"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1168300800
+review/summary: Jack Links Beef Steak, KC Masterpiece BBQ Flavor, 2 Ounce Unit (Pack of 12)
+review/text: This Customer is quick about sending out their product, this is the 2nd order of jerky I have received and will be ordering again in the near future.  Thanks
+
+product/productId: B002YLI9E2
+review/userId: A2691CBPM2RQZ7
+review/profileName: Farid Ansari
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1345075200
+review/summary: Bad Batch!
+review/text: This stuff has an off smell! i didn't even bother using it...<br />I'm going with Wabash, since the little sample of coconut oil I got with their popcorn maker actually smells extremely pleasant!<br />Not this stuff..and they're supposed to be the same...coconut oil with a touch of coloring..
+
+product/productId: B002YLI9E2
+review/userId: A2IUN8DVEPZOX4
+review/profileName: serious sam
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1303603200
+review/summary: the bigger the better
+review/text: Great size and price it has no fake ingredients and is 100% all natural,gives popcorn a great and healthy taste.It is better than putting butter in your popcorn and it lasts a long time so you don't have to keep buying one over and over again.
+
+product/productId: B002YLI9E2
+review/userId: A2BI8CZH0FJ31U
+review/profileName: Ed
+review/helpfulness: 2/9
+review/score: 1.0
+review/time: 1311292800
+review/summary: Overrated
+review/text: I am very dissatisfied with this product, the reviews I read on this oil taste better than the actual product. Very overrated. There are soybean products that taste better that what I bought at Amazon
+
+product/productId: B002YLI9E2
+review/userId: A1AYDOJ02D8SMR
+review/profileName: anonoymous
+review/helpfulness: 3/13
+review/score: 1.0
+review/time: 1303084800
+review/summary: disappointed
+review/text: I did not read description closely enough where it says that this product adds no flavor. I think because it is a goldish color, I thought it would add a butter flavor which it does not. If you are looking to add movie butter flavor to your popcorn, this is not the product you are looking for!
+
+product/productId: B002YLI9E2
+review/userId: A25HLLKNFHGJM
+review/profileName: M. poulin
+review/helpfulness: 3/18
+review/score: 1.0
+review/time: 1292976000
+review/summary: The color is the only thing "movie Threater" about this
+review/text: Expensive, bad for you and no taste.  I was willing to accept the "bad for you" part if the taste was exceptional, but I would say this is just a heart attack in a jar.  I am going to stick with using peanut oil - Much better flavor!
+
+product/productId: B002YLI9E2
+review/userId: A1SK10AIJVSK1Q
+review/profileName: Rolanda
+review/helpfulness: 3/29
+review/score: 1.0
+review/time: 1295395200
+review/summary: oil as a solid?
+review/text: this product while its taste is great, is in a solid form.<br />it won't be easy to carve out the further down you go.<br />if I had known it wouldn't be in liquid form, I wouldn't have<br />purchased this product.
+
+product/productId: B002YLI9E2
+review/userId: A8BU93IGVDFQ0
+review/profileName: FormerlySF
+review/helpfulness: 0/36
+review/score: 1.0
+review/time: 1314316800
+review/summary: Went missing
+review/text: This product never arrived so I received a refund from Amazon.  I'm giving it one star, but should give it zero stars since I never received the oil.
+
+product/productId: B002YLI9E2
+review/userId: A18FVZWJ4RBGNH
+review/profileName: Christopher Chirdon
+review/helpfulness: 126/127
+review/score: 5.0
+review/time: 1278460800
+review/summary: THIS + Flavacol + Butter = AWESOME
+review/text: I have identified 3 critical parts to the movie theatre popcorn you love.  I will break it down for you:<br /><br />  1- Paragon Coconut Popping Oil = Provides the 'nutty/toasted' flavor, the odor that permeates the local cinema, and yellow hue to the popped corn<br />  2- Flavacol = The pseudo-buttery flavor and ultra-fine salt of good cinema popcorn.<br />  3- *Butter-flavored topping = that goo you get when you ask for "extra 'butter' " at the concessions counter.<br /><br />I hesitated buying this at first ... thinking "$15 ... is it really worth it?"  I procrastinated buying Flavacol because it seemed silly that shipping cost more than the product itself.  Well, now after 1.5 years I still haven't used up either product and spent less than $30 total for popcorn that is absolutely incredible.<br /><br />*IMPORTANT* - I read a review that stated the purchaser was dissatisfied because it wasn't 100% Coconut oil.  The label on the back says "76 (degree symbol)" coconut oil plus beta carotene NOT "76% Coconut oil" .  It's 100% Coconut Oil mixed with beta carotene (for yellow color).  The "76 (degree symbol)" refers to the melting temperature of the coconut oil.  [I had it sitting on the counter when it was 80 degrees indoors and it started to melt ... later that same evening when the A/C brought the house to 74 degrees for a couple of hours ... it began solidifying again.  Neat.]<br /><br />This popcorn oil is a solid at room temperature* (less than 76F) and provides NO butter flavor.  It does not require refrigeration once opened.  It DOES provide the 'missing ingredient' between cinema popcorn an your homemade popcorn.  Been using some form of vegetable-oil haven't you?  It JUST doesn't taste correct, right?  Add about a heaping spoonful of this 'popping oil' (solid, remember) to a batch of stove-top popcorn and you're done. (I have tried 'gourmet' popcorns, white popcorn, etc ... but have found that plane-jane barebones no-frills yellow popcorn from your local store actually tastes best.)<br /><br />If you want 100% theatre-like popcorn ... you'll have to substitute #3> above with the 'butter-flavored topping' of your choice.  But, to be honest, that goo kind of turns my stomach.  The butter does soften the popcorn slightly (there's a little water in the butter after all) but it's still awesome.<br /><br />I prepare my popcorn using a stovetop hand-crank popcorn popper, add a heaping spoonful of the 'oil' (remember, solid at room temperature) and 3/4 tsp of flavacol.  Top with 3 tbs of butter melted in the microwave and you're done.  Bliss.  Heaven.  It's soooooooo good.
+
+product/productId: B002YLI9E2
+review/userId: A2ZA3ORIX6Q481
+review/profileName: S. C. Hunsaker
+review/helpfulness: 33/34
+review/score: 5.0
+review/time: 1280880000
+review/summary: Another great Popcorn product for afficionados
+review/text: I just found this huge gallon jug of red coconut oil.  I've been using it for weeks now and it tastes and handles just like the movie theater.  It is semi solid at room temperature.<br /><br />A friend I know has owned a movie theater for over 20 years.  He told me the industry secret.<br />You know that old popcorn smell at the movie theater?  That sweet smell that reassures you and lets you know you've arrived in the cool air conditioned retreat of your favorite movie house?  That smell is red coconut oil cooking over high heat.  Sadly the health conscious has abandoned this, but still today in most theater's red coconut oil is used.  I've found a couple products I really like but they come in tiny containers.  That's no good.  This is a gallon.  Bring on the popcorn!  This will be enough to serve an entire crowd at a high school football game.  You only need a tablespoon and a half for an 1/4 cup of uncooked popcorn.<br /><br />Next get Flavorcol.  This is the seasoned salt that is used.<br /><br />Don't use butter.  It won't turn out right.  Use butter flavored topping.<br />Good Luck!
+
+product/productId: B002YLI9E2
+review/userId: A1KRBNK3N1SBEP
+review/profileName: SkinTrade "napisarn"
+review/helpfulness: 28/29
+review/score: 5.0
+review/time: 1265932800
+review/summary: Makes great popcorn!
+review/text: Coconut oil is what they use at the movie theaters.  Accounts for that sweet almost floral fragrance.  Makes great movie theater style popcorn.  Kinda scary seeing this giant tub of orange oil.  Even scarier seeing the level of it going down.  But does make crispy, fragrant popcorn.  it solidifies at room temperature, so you have to scoop it out into a bowl, microwave it at 30 seconds and then it goes into the kettle.
+
+product/productId: B002YLI9E2
+review/userId: A3E90Y0WZBPMBR
+review/profileName: SleazyRider
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1312502400
+review/summary: Wow!  Just wow!
+review/text: I've been studying up on how to make the perfect popcorn for quite some time now, and the very best advice I got was right here on Amazon!  Lots of "popcorn people" here, many of whom revealed their secrets.  I bought the threesome recommended by Amazon: Paragon Coconut Oil, Paragon Popcorn, and Flavacol.  With Super-Saver shipping, it's a deal that can't be beat.<br /><br />After reading the instructions on all 3 ingredients and the reviews published herein, I settled on the following recipe: 1/4 cup of coconut oil, 3/4 cup of popping corn, and 1 teaspoon of Flavacol.  I heated up the oil, added the popcorn, then added the Flavacol while the stirrer was churning.  I kept my fingers crossed and waited.  All of a sudden, all hell broke loose and the popcorn commenced to popping.  Much faster than that Orville Redenbacker crap---this was like a machine gun going off!  Very few unpopped kernels compared to brands I've purchased in the supermarket.  This is the real deal, folks.  My house smells like the lobby of a movie theatre!<br /><br />After a squirt of butter, I chowed down on the best popcorn I've ever eaten!  Seriously.  Buying the ingredients in these quantities saved a bunch of money compared to the supermarket, and I have enough to last for a very long time.<br /><br />I'd advice folks to buy a few Tupperware re-useable cereal containers to store the bulk popcorn, as the bag cannot be resealed; and I'm also looking into getting some smaller jars for more convenient storage and use of the coconut oil.<br /><br />Thanks to all who contributed their advice to this "forum" of sorts!
+
+product/productId: B002YLI9E2
+review/userId: ACCR7OYHT2OXE
+review/profileName: Kafka45
+review/helpfulness: 11/12
+review/score: 4.0
+review/time: 1316390400
+review/summary: Massive amount, but if you eat a lot of  popcorn...........
+review/text: Ok.. the price keeps going up on this, but its ONE GALLON of popping oil.  Its semi-solid when it arrives in that massive container.<br />I managed to get one with free shipping so not a bad deal at all. The ratio they suggest is 3 parts corn to one part oil.  So.. 1/2 cup of kernals<br />and you need 1/6 cup oil.  Since most people don't have a 1/6 cup.  I'd use at least 2 TBS.. heck use 3.  It adds TASTE, and that's why<br />you buy this stuff!!  Its for heavy popcorn eaters...... but I've looked on the net, and the shelf life is around 5 YEARS if stored<br />in a cool dark place.  That should last everyone.<br /><br />Buy some...  lifes too short for crappy popcorn.
+
+product/productId: B002YLI9E2
+review/userId: AXWR2JA9JFGBV
+review/profileName: CJ Rose
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1316649600
+review/summary: Excellent  Product...
+review/text: I was very happy with this Coconut Popcorn Popping Oil. It makes a makes a tasty difference to your popcorn and if you read up on the NEW information out about coconut oil you will also find that contrary to past belief it is actually very healthy for you!
+
+product/productId: B002YLI9E2
+review/userId: AIFORWTG2DQWX
+review/profileName: M. Ambrose "Techno Nerd"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1271808000
+review/summary: Make the best popcorn at home.
+review/text: This product allows you to make the movie popcorn you know and love in your own home.  It's great and with free shipping the deal is outstanding.
+
+product/productId: B002YLI9E2
+review/userId: A24OLZBP5H9GNT
+review/profileName: Captain Nemo
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1311465600
+review/summary: I felt like I found the Holy Grail of popcorn
+review/text: I've been searching for the perfect popcorn for 6 years trying to get it to taste like the movies.  After reading a couple reviews on Amazon a couple reviewers pointed out the key ingredients:  Coconut oil and Flavacol.  Follow the directions on the Flavacol, use coconut oil, and you're in business.<br /><br />The popcorn comes out crispy with that distinct movie theater taste.  I literally jumped for joy when I tasted it!  Just watch out because the coconut oil is LOADED with saturated fat and calories and the Flavacol is loaded with sodium.  That said there are just some things that are TOTALLY WORTH IT!<br /><br />If you're looking for movie theater popcorn do not hesitate, do not pass this up, just buy the coconut oil and Flavacol.  You will not look back.  Also you'll have enough ingredients to make popcorn for a year.
+
+product/productId: B002YLI9E2
+review/userId: A23BF3JV086H6G
+review/profileName: G. Carpenter "GC"
+review/helpfulness: 12/15
+review/score: 3.0
+review/time: 1271030400
+review/summary: Entirely Adequate, but Lacks Buttery Oomph Expected
+review/text: Well, some time ago, I decided to stop using my 30 year old air popper and retry oil popping. I am now on a quest to discover the popping oil with the best natural or synthetic butter flavor.<br /><br />This popcorn oil is evidently made from coconut oil and pops well. Enthusiasts will recognize that coconut oil produces a superior tasting popcorn. This product does most of that but seems to lack buttery flavor in the finished product. I would buy this again if I could not find something better, but there are likely some slightly better.
+
+product/productId: B002YLI9E2
+review/userId: A39M7J418TDJ2N
+review/profileName: Steve D. Marsh "At least my soul is rich."
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1341878400
+review/summary: Best popcorn oil on the planet
+review/text: I'm not kidding. I'm a big popcorn fan. I eat it several times a week. This is the BEST popcorn oil on the planet. And just to be especially cool, it is among the least damaging and most beneficial cooking oils on the planet as well. Just stop looking. This is the stuff you've been seeking.
+
+product/productId: B002YLI9E2
+review/userId: A2IF092QO7A09H
+review/profileName: Lori
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1318118400
+review/summary: Coconut Popping Oil
+review/text: Just like movie theater popcorn. I used an internet suggestion.  Melted a small amount of coconut popcorn popping oil in the microwave and filled a ice cube tray with the oil.  Placed in freezer.  Excellent idea, just the right amount of oil in the cube, without the mess of digging into the jar.
+
+product/productId: B002YLI9E2
+review/userId: AT14ZGW24ICIC
+review/profileName: Mike P.
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1313107200
+review/summary: Makes great popcorn
+review/text: I've worked in a movie theater before, and this is even better than the regular corn oil they used. Pair it with "Flavacol" for authentic movie popcorn!
+
+product/productId: B002YLI9E2
+review/userId: A30T84IGII9JN2
+review/profileName: Amazon Buyer "AB"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1272499200
+review/summary: Tastes great!
+review/text: I've had a hard time figuring out the right amount to use, but this product tastes great! It was shipped quickly & packaged well.
+
+product/productId: B002YLI9E2
+review/userId: A15X50XEMEYA0J
+review/profileName: J. Jordan
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1340236800
+review/summary: Coconut Oil + Flavacol = GREAT POPCORN! One WARNING, and a few tips
+review/text: Everything good you've read in other reviews is true.  You will get great popcorn using coconut oil!<br />*Coconut oil will produce the yellow movie theater look and taste.<br />*Use Flavacol as your salt, and it takes it to another level.<br />*I have not taken the 3rd piece of advice and bought a buttery topping.  Haven't used butter either. Just the coconut oil + Flavacol is a winning flavor.  (It's already popped in fat, so I've avoided pouring on additional fat and tell myself it's healthier this way.  Not permanent avoidance, though; just until I figure out which topping I want!)<br /><br />The warning?  Understand the composition.  Below 76 degrees, coconut oil is solid--think Crisco, but wetter--and is fairly easy to handle. Above 76 degrees, it's liquid.  And as a liquid, it is VERY difficult to deal with a gallon container of grease.  It's VERY messy. You will not get a clean pour. It will drip and spill down the sides.  Every time.  Even spooning some out can be messy. It clings to EVERYTHING--the lid, the mouth, the sides of the container, even the spoon.  Thus comes a tip:<br /><br />Tip 1: Avoid the mess by keeping some in a bottle as you would olive oil, and it dispenses easily. (I used a spoon and a funnel to minimize mess when transferring.) There is absolutely no mess or waste with the olive oil dispenser.  When it's cooler inside and it's solid, bypass the dispenser and scoop from the gallon container, which hopefully, is solid, too.<br /><br />(I suppose you could keep it in the refrigerator, where it'd always be solid and thus easy to use. I didn't do any research on whether refrigeration affects product, so if you're thinking that, pls research before you do.)<br /><br />Tip 2.  A gallon is a LOT of product.  Using 2-3 tablespoons at a time, you will have this around for a long time. A carton of Flavacol is also a LOT of product.  So if you're concerned about having it around for years, divvy it up among a few friends. Think a few olive oil containers, small jars (for when it's solid), and some dredges for the Flavacol.  Everyone can then make great popcorn.  (Great idea for homemade popcorn gift baskets, right?)<br /><br />Don't second guess yourself with this one.  Get a gallon of this and a carton of Flavacol.  You'll stop buying microwave popcorn.
+
+product/productId: B002YLI9E2
+review/userId: A3O3O5YSQ6IYIG
+review/profileName: JP
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1326931200
+review/summary: Good Product, Tough Extraction Towards the End
+review/text: We use this oil in conjunction with a Whirly Pop and Flavacol.  Let me tell you that the results are amazing.  It's the closest to move theater popcorn I've ever had at home.  We will never go back to microwave.  Here's our ratios:<br /><br />1/3 cup popcorn<br />1 spoonful of oil (since this oil is a solid at room temperature we use a normal sized spoon and take one good scoop)<br />1/2 teaspoon of Flavacol<br /><br />My 4 year old daughter and I LOVE popcorn and this amount is perfect for her and I and my wife.<br /><br />The only issue I have, and it's a small one, is once you get about 1/3 of the way into the jar it gets a little harder to get the oil out.  Make sure you have a long sturdy spoon.
+
+product/productId: B002YLI9E2
+review/userId: A2JNADKB7LYXXH
+review/profileName: Melinda
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1316304000
+review/summary: great popcorn oil
+review/text: This makes our popcorn taste just like the mivie theaters.  It works great in our popcorn maker, I use about 1/4 cup. We will definitly buy more when we run out.  I do use the flavcal seasoning with it.
+
+product/productId: B002YLI9E2
+review/userId: A15U9H8N3S0SYX
+review/profileName: E. McClintock "setfreebYthebloodofJesus"
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1305763200
+review/summary: tastless and need lots!
+review/text: We decided to buy a movie style popcorn maker out by warner. It is awsome the Paragon Coconut Oil is alright although lacks true movie theatre taste we was hoping for. I recommend organic coconut oil with very little sea salt, it is by far better tasting and much healthier.
+
+product/productId: B002YLI9E2
+review/userId: A3354PMQY0EXLR
+review/profileName: Robert Noel Jr.
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1303776000
+review/summary: great tasting popcorn oil worth every penny
+review/text: I was a little concerned about the price plus shipping $30+ dollars. But I took a chance based on the reviews and purchased a gallon. The first time I made popcorn with Flavorcol butter salt:  IT WAS THE BOMB!!!<br />I made 4 containers from my stove top popper and all 4 were great!!! Only thing missing was movie theatre butter topping! I figured the formula (3 Tablespoon popcorn to 1 tablespoon oil). The oil in solid or liquid ( when it gets warmer this summer) will last years! I believe this is an excellent purchase and willget more when needed!!
+
+product/productId: B002YLI9E2
+review/userId: A177X9IWIKI6YS
+review/profileName: mmcglone1
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1302480000
+review/summary: Secret Ingrediant for the WIN!!!!!
+review/text: This is the secret ingredient to Theater popcorn (1)  Next is the Flavorcal and last is the butter flavored oil....and man, is it AMAZING.  I never have to go to the Theater for popcorn again!  I will certainly be ordering this from now til the day I die.  PERFECT for that at home theater popcorn machine!
+
+product/productId: B002YLI9E2
+review/userId: A2Q8YGJ2TGJY8
+review/profileName: Bill S.
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1308700800
+review/summary: That's a Lotta Oil!
+review/text: OK, somehow I got the idea that Coconut oil was hard to find these days (due to political correctness/nanny state restirictions?), but wanted to try it for my hard-core popcorn habit.  ("I'll quit tomorrow!")<br /><br />Found this on Amazon via a web search, and cheapskate that I am I wanted free shipping (especially since most sources had postage as pricey as the product!).  I could have just added some cheap item to get total over $25, but NO!  I bought TWO GALLONS of this stuff for $42 delivered to my door.<br /><br />First thing I did was call the company to ask about shelf life.  Not sure the guy knew but supposedly asked and told me roughly two years.  Now that I'm using it, I should be able to finish the supply by then.  We'll see.  (Been on a movie kick -- free ones at Blockbuster thru July 4 -- so rate may decrease once that's over.)<br /><br />ANYWAY...  The oil is good but nothing super special.  Definitely gives the corn a yellow color once popped, and smells quite nice while popping.  Can't tell a huge taste difference, however.  I'd never used "solid" oil before, so getting the quantity correct took some trial and error.  Their "3 to 1" corn to oil ratio seems about right.  Slightly less better than too much I think.<br /><br />I'm sure it's not as healthy as some zero transfat ACLU-approved oil, but they can bite me.  I like buttery popcorn, OK?  If it was good enough for my beloved grandmother to make (in a frying pan fer Godsake!), then it's comfort food for me today.<br /><br />Sue me, DHS!<br /><br />Bill S., City and State undisclosed to keep the black helios off my back.  (Ignore that San Diego profile thing, OK?!?)
+
+product/productId: B002YLI9E2
+review/userId: A2CXXMTGQDMA0K
+review/profileName: Brian K. Mcmillian "maccve"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1342569600
+review/summary: Who needs $10 popcorn at the Theater
+review/text: All you need is coconut oil, Flavacol and some buttery topping and you have Movie Theater Popcorn...is usually even better because it is always fresh when you make it yourself!
+
+product/productId: B002YLI9E2
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1341446400
+review/summary: The original, and still the best!
+review/text: My family was in the theater business for over 80 years, and this is the<br />oil we used every day, decade after decade, and it makes the best popcorn<br />you ever had. But the stuff we used came in 15 gallon barrels made from<br />stainless steel. LOL<br /><br />I know a gallon sounds like a lot, but you will become such a popcorn junky<br />with this stuff, especially if you get some Flavacol (which we also used) to<br />season the finished product with. The kernels come out with a rich golden<br />orange color, and this oil has a very high smoking temp so its not likely the<br />popcorn will ever burn.<br /><br />Great stuff, will remind you of the good old days before the corporatization<br />and GMO infiltration of our food supply.
+
+product/productId: B002YLI9E2
+review/userId: A21V48YH0BAYI5
+review/profileName: appletree83
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1335484800
+review/summary: Ditto!
+review/text: Popcorn connoisseurs all!  Locate the most excellent review on this product and I will add, "Ditto!!"<br /><br />I just popped my first batch of popcorn using the Paragon Coconut Popping Oil, and can add my agreement to those who say that it makes your popcorn taste like it came directly from a movie theatre.  Yay!<br /><br />I only need to locate an excellent buttery-topping, which is my next assignment.  It looks as though other popcorn lovers are giving high recommendations to the Wabash Family Farms brand, so I'll give that a try in order to accomplish the coup de gr�ce for the perfect batch of popcorn!<br /><br />P.S.  Also used Flavocol seasoning, in addition to the coconut popping oil, and the correct ratio DOES seem to be 1/2 level teaspoon Flavocol to 3 tablespoons coconut oil.  I'm very glad that the coconut oil is solid (a little firmer than Crisco shortening) because it's easy to scoop out.
+
+product/productId: B002YLI9E2
+review/userId: A26KCPF4QUOKIA
+review/profileName: American Princess
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1335312000
+review/summary: Great for cooking, long shelf-life
+review/text: My husband and I first bought this product two years ago for making high quality popcorn. We were so impressed with it that we did some research and experimenting and decided to use it in our regular cooking. It works great as an alternative to other oils and has a nice but not overly powerful taste. The shelf-life is great; as the first container that we bought almost two years ago has no signs of going bad and tastes just as fresh as when we first opened it. FYI for those who do not know, coconut oil is a solid. It will stay as a solid unless heated, just scoop some out and melt it like butter.
+
+product/productId: B002YLI9E2
+review/userId: A2IFVGJ2T7N0F6
+review/profileName: Ron Howard
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334707200
+review/summary: Paragon cocout popcorn oil is the best
+review/text: I purchased a gallon of this Paragon coconut popcorn popping oil, and I think this is the greatest thing sense popcorn.  It is so good I usually have popcorn every night. The only way you can tell the difference between theater popcorn and your home made is your feet doesn't stick to the floor. I LOVE THIS OIL<a href="http://www.amazon.com/gp/product/B002YLI9E2">Paragon Coconut Popcorn Popping Oil (Gallon)</a>
+
+product/productId: B002YLI9E2
+review/userId: A3MM0KB9DGTIGF
+review/profileName: Dale M. Birmingham "not satisfied"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334620800
+review/summary: Beyond amazing
+review/text: You won't buy popcorn at the movies again because it won't be as good as what you can make at home using this coconut oil!
+
+product/productId: B002YLI9E2
+review/userId: A1AHUA7J25HTBS
+review/profileName: osu4sons
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334534400
+review/summary: Great Popping Oil
+review/text: I love this Coconut popcorn popping oil. It is easy to scoop out of the container, does not need refrigeration after opening and lasts forever. I am still looking for the perfect topping but this is the perfect popping oil for our popcorn machine.
+
+product/productId: B002YLI9E2
+review/userId: A180TD7JX5UVBT
+review/profileName: William Cotsifas
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334016000
+review/summary: just like the theater and I tasted no coconut flaver,just butter
+review/text: This product was very satisfactory. I'm assumeing it needs no refrigeration. It gets hard as a rock in the refrigerater.
+
+product/productId: B002YLI9E2
+review/userId: A42YFWGJ7AWCE
+review/profileName: Dster
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332806400
+review/summary: Just cant stop
+review/text: Let me tell you I can not put this stuff down.  All my freinds and family love the taste that the coconut oil gives the popcorn.  I picked up a 2oz cookie scoop that I use to get it out. It is still hard as a rock and looks bad when you open the container.  The taste is great and when I run low I will be ordering another.  I do have to say that I am sort of hurt that the day after I ordered it the price went down by 4 dollars.
+
+product/productId: B002YLI9E2
+review/userId: A2KVKGZLOH7OB3
+review/profileName: Colonel H "Professor and Historian."
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331769600
+review/summary: The Real McCoy
+review/text: Delicious, needs nothing added at all, except some salt. It will produce theater quality popcorn, but about $10 a batch cheaper. Please note; this is a semi-solid at room temperature, and not a liquid oil as you might expect. It does not need refrigeration.
+
+product/productId: B002YLI9E2
+review/userId: A1FAWTXAMB6DWU
+review/profileName: Brian J.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331510400
+review/summary: Excellent Product
+review/text: I am extremely happy with this product, it gives popcorn exactly the right color, taste and texture as movie theater popcorn, right down to that little crispness around the edges.  The price is a little high, especially since you have to pay for shipping, but we have been using it regularly now for a few weeks and have barely made a dent in the gallon.  It should last forever, making the price not quite as daunting as it might originally seem.<br /><br />One note that I wish I had noticed in reviews so that it did not scare the heck out of me when it arrived, this product begins to solidify around 76 degrees.  So it arrived solid and will likely stay that way the entire time it is in storage.  It does, however, melt very quickly and cleanly when heated.  We use an electric popper with a heated base and a rotating bar to move the kernels around, which is probably not the optimal setup for this coconut oil, but it still works fine.  I scoop out the appropriate amount, drop it in, let the little bar rotate it around for about 30 seconds while it melts... then sprinkle some Flavacol into the liquid oil, pour in the popcorn, and put the lid on.  Since the oil has hated through by now, the popping starts very quickly.
+
+product/productId: B002YLI9E2
+review/userId: A3ORX3MYJY5MQK
+review/profileName: Lace
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349481600
+review/summary: Movie Theater Popcorn - Here We Go!!
+review/text: This is the absolute BEST to use in the Whirley Pop to make authentic movie theater tasting popcorn. We all just love it! Use a tsp of the Flavacol and 1/2 cup popcorn kernels and 1 scoop of this coconut oil (less than 1/3 cup) and you will be in popcorn love!! It tastes just like the movie theater popcorn for just a fraction of the cost! We are popcorn aficionados here and the smell will make your mouth water while making it in your Whirley Pop! Go ahead and take the plunge and purchase some today. You won't regret it! God Bless!
+
+product/productId: B002YLI9E2
+review/userId: A1AB1KUIXYEOS7
+review/profileName: Chris O'Connor
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341619200
+review/summary: One of the secrets to theater popcorn
+review/text: This coconut oil is one of the secrets to great theater popcorn. When mine arrived by UPS it was liquid and quite warm. I knew already that it will turn solid at 76 degrees. I was just surprised that it took about 2 full days to drop down to 76 degrees and become solid even though it was inside in the air conditioning.<br /><br />I say this so other people don't panic when it isn't solid. Give it time. If it was liquid it takes some time to solidify. I was so worried I contacted the manufacturer just to ask. I was worried my oil was bad. But they assured me all is well and it will soon solidify and within a few more hours it did.<br /><br />Give this oil a shot. If you're a popcorn fanatic you need to use Paragon's coconut oil so you can enjoy theater taste right at home.
+
+product/productId: B002YLI9E2
+review/userId: AJ8QD0BD5P478
+review/profileName: AnneB
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335744000
+review/summary: Yum!
+review/text: I bought a 4 oz popcorn machine. Love it and it has been great for parties, movie night and game nights. We eat lots of popcorn. Microwave popcorn doesn't do the trick it's not great. If I'm going to eat a snack it has to be great. Yellow coconut oil, yellow popcorn & yellow popcorn salt and you have an awesome snack. We have tried popcorn oil from the store, olive oil, corn oil, vegetable oil and clarified butter...yuck it was all awful. The true taste of the popcorn is unaltered with the coconut oil add a little popcorn salt and great happens!<br /><br />Just a little more to add...we have had 3 gallon jars now and we wont trade brands just because its a great product. Use flavorcol salt for the flavor and it is an awesome snack.  Friends and neighbors stop by everyday for a small snack great fun and awesome snack.
+
+product/productId: B002YLI9E2
+review/userId: A2CYBEN4ITZ85Z
+review/profileName: Pets
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1335398400
+review/summary: stinky
+review/text: I think we got an out-dated batch because it smells like stinky fried fish every time we make popcorn. I would never buy this brand again, or from this seller.
+
+product/productId: B002YLI9E2
+review/userId: A3DNG54DMW2G88
+review/profileName: M. Klinker
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330905600
+review/summary: Coconut Oil
+review/text: Studied coconut oil for a while before deciding to purchase since we had heard all the negatives, being a saturated fat etc.  In my research, it turns out that it is one of those "good" fats and has 0 transfats. All I can say is WOW!  It pops corn excellently.  It leaves it crisp and flavorful, no different that what you get from the theater except you control how much you use and pay a fraction of the cost.  I especially like it, because I can seldom eat a large container in one sitting so when I go back hours later it is still crisp even with a topping, which sometimes I like even better than when it is still warm.  Besides, when handling it I usually get some on my hands which makes an excellent hand lotion (as it is also sold for that purpose).  I have also found I use less salt.  Before I added too much popcorn flavored salt to try to emulate theater popcorn.  Now, I am making the real deal and it is healthier than the microwave kind and tastes so much better.  Great Stuff!!
+

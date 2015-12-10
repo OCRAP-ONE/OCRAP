@@ -1,0 +1,1143 @@
+product/productId: B001C1OKPW
+review/userId: A2I4JZHIEETU5H
+review/profileName: Nana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: Best Ever!
+review/text: I have tried many versions of Lobster Mac and Cheese and Hancock has, far and away, the best tasting one.
+
+product/productId: B005116LQU
+review/userId: A328S28RVN3A15
+review/profileName: Richard Father
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1321660800
+review/summary: Lowell Foods Dew Sugar
+review/text: What a smart way to sell sugar. Yes. The Lowell Dew Honey tastes like sugar and it is probably in 80% sugar. I know, because I used to have unadulterated  Polish dew honey from good source in Poland. The real honey smells and tastes different.
+
+product/productId: B004CWOAIU
+review/userId: AHG6XILWNX2C1
+review/profileName: S. Lau
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344211200
+review/summary: Smokey flavor is a little bit of a shock at first!
+review/text: The snacks themselves are delicious. Although, when you first open the bag, you really get a whiff of that smokey flavor. It's quite intense!! If you don't like smokey or meat, be prepared when you order this item.
+
+product/productId: B004CWOAIU
+review/userId: A3REQFR4S7FXLU
+review/profileName: M. Kaforey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334361600
+review/summary: LOVE, THEM!!!
+review/text: These are SO good!!! I love the light and crispy triangular puffs. Taste like real cheese...all three flavors are wonderful.  Best on the market, as I have tried all available looking for a substitute for Cheez-its. I especially enjoy eating the Wellaby's Cheese Ups while having a glass of wine with friends.
+
+product/productId: B004GW8LBI
+review/userId: A1E6M4ZBR7FZBC
+review/profileName: Gwen "buzzkill87"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325116800
+review/summary: Awesome tea!
+review/text: This tea not only tastes great it makes me feel great! I can't say that there's any scientific evidence behind it but I love this tea. My boyfriend and I bought it on a whim at our local health food store and finished the entire box in a week. Highly recommend Tulsi teas are great!
+
+product/productId: B001UIHKUE
+review/userId: A346IYOW1DTWYH
+review/profileName: Amazon Buyer
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1293580800
+review/summary: Nice plant
+review/text: My husband recieved this and it was not in good shape....This company quickly and without question replaced this plant with another one. I'm very impressed and would do business with them again.  Thank you for all of you help!!
+
+product/productId: B005P0LZKO
+review/userId: A2FBJ8QYCDA5HK
+review/profileName: Michelle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: love this tea
+review/text: have been enjoying this tea for over a year and still love it. i enjoy it plain but do love to mix it in with my coffee too. has helped me reduce my coffee intake
+
+product/productId: B001SAU9YI
+review/userId: AVU4E9JKWY8UV
+review/profileName: baxter girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310256000
+review/summary: Really good, too expensive here
+review/text: My friend's mom made a Greek pasta salad for a party, and everyone loved it.  I asked her for the recipe and was amazed that she used a bottled salad dressing.  And a light dressing to boot! It really was that good!  I made the same recipe for another party the next day, and everyone went back for seconds.  Plenty of flavor with just the right amount of spices and feta cheese.  Difficult to find in the supermarket, but too expensive to buy on Amazon.  I understand that it includes the shipping, but it is more than twice the store price.  Guess I'll just have to run out and clear the supermarket shelves before I can't find it.  Try it!  You'll love it!
+
+product/productId: B001SAU9YI
+review/userId: AOQJRQFB02V4H
+review/profileName: D. Stephens
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310083200
+review/summary: Very good flavor!
+review/text: I haven't been a big fan of vinaigrette dressings because the vinegar flavor is usually a little too strong.  However, I really like this one.  My mom ran across the Cardini's Light Greek Vinaigrette Dressing at the store by accident and decided to give it a try.  When I was looking in the fridge for some salad dressing one day she told me that the Cardini's one is really good so I decided to give it a shot and I was sold on it!
+
+product/productId: B0006MWNP2
+review/userId: A2HK5B0IJJS6U3
+review/profileName: SexyGermanBen "SexyGermanBen"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294358400
+review/summary: I'M AMAZES.MY DOG LOVE THIS FOOD
+review/text: I had study up on what to get for my dog.and what is healthy for him.so i had read up on what was in this food.and i was amazes how good it is for dogs.I'm so happy that i had got this food.My dog eat it up like it was some type of dog candy lol.his coat is very nice and smooth.his health is very good.What more can u ask for?...i don't think there is a better dog food that can outbeat WELLNESS.
+
+product/productId: B0006MWNP2
+review/userId: A6RK12C9Z09RP
+review/profileName: Linz
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1294099200
+review/summary: Great Food
+review/text: I am very pleased with Wellness food.  My Basenji does really well on it.  His coat is nice & shiny and he seems to like it.  He doesn't require a special diet but, I can tell a difference now that I have switched his food to the Wellness Super5 Mix.
+
+product/productId: B0006MWNP2
+review/userId: A193DRQ5TXYF2V
+review/profileName: S. Collins "janeinthemtns"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288828800
+review/summary: Really Good Dog Food
+review/text: My rescue Border Collie has severe allergies to pork and chicken.  She really loves this dog food and all the trouble has disappeared.  It is very expensive, but I am glad it is available.
+
+product/productId: B0006MWNP2
+review/userId: A3RI57SH1QFOW0
+review/profileName: Bookworm
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1288137600
+review/summary: Made my dog ill.
+review/text: Thought I was doing a good thing for my doxie mix by getting one of the better brands as listed on dogfoodanalysis but boy was I mistaken. Gradually made the change from her old food to the new and she hates it. She has thrown up twice so far. I will be taking my loss and throwing the rest out. Back to her old food. It may be great for some dogs, just didn't work for mine.
+
+product/productId: B0006MWNP2
+review/userId: A18O55X8GSYWY1
+review/profileName: M. F. H. "mary fran"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287619200
+review/summary: best ever
+review/text: The dog food got good ratings at consumers, so I bought it and the dogs just love it.. It seems to be a very healtful and complete food.. I just add a little hot water and its gobbled up in no time
+
+product/productId: B0006MWNP2
+review/userId: A2JJX21HO09MFS
+review/profileName: J. Caine
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1287532800
+review/summary: Made both my dogs vomit and eat less.
+review/text: We switched to this food from Purina One because the ingredients are advertised to be of much higher quality, and we wanted to improve our dogs' diet. We made a smooth transition to this food by slowly mixing it in with their existing food, as vets recommend. Once the transition was complete, they were vomiting their meals several times per week, which they had never done before the switch. We continued to feed them this food for about a month to see if it changed, and they still have problems keeping it down. I often see them eating grass to induce vomiting as well, so I think its giving them a stomach ache. They also got to the point where they just didn't want to eat the food at all sometimes, which I've never seen them do. We switched to Newman's Own dog food now, and they're eating much better already.<br /><br />I wish I had done some research on this food before purchasing it. Type "Wellness dog food vomit" into Google, and you'll see what I'm talking about.<br /><br />I would not recommend this product.
+
+product/productId: B0006MWNP2
+review/userId: A3DAVDQZ3MU2WR
+review/profileName: arcanamundi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287360000
+review/summary: Won't Use Anything Else
+review/text: My dogs have been on Wellness for about four months now. I have a 10 year old lab/border collie, a 2 year old Pug/Beagle, and a 1 year old Aussie/Boxer/Beagle and they all love it! Their coats are soft and shiny as can be---I won't feed anything else!
+
+product/productId: B0006MWNP2
+review/userId: A1IHQRQJ2KX4G0
+review/profileName: M. Hellberg "Betsy B"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285372800
+review/summary: My dog loves this food!
+review/text: I have a mini schnauzer and I have been feeding her puppy wellness until she was one which is when i got her this one. She likes it a lot and i think she is happy and healthy!
+
+product/productId: B0006MWNP2
+review/userId: AQA8F45V8GLQW
+review/profileName: Victor S. Wang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1284163200
+review/summary: excellent dog food
+review/text: After my dog has had wellness, she has more energy then before. I strongly recommend to people to buy it for your dog.
+
+product/productId: B0006MWNP2
+review/userId: A1M80B1M2YAQN8
+review/profileName: Anne Van Dalinda
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1277510400
+review/summary: Finally found a food that works for my dog
+review/text: Jaz has food allergies that cause him to have diarrhea and gas. The Wellness Super5Mix dry dog food, chicken recipe, is the best food that I have found to control his symptoms. He eats it twice a day, with some canned food, also. No diarrhea, no gas, and his coat is super shiny!
+
+product/productId: B0006MWNP2
+review/userId: ANF2IB0S7R71Q
+review/profileName: Helpful Reviewer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259020800
+review/summary: High quality dog food worth the price
+review/text: Wellness Super5Mix is a high quality dog food. Yes, it costs more than the junk you can buy in Wal-Mart, but as with most things in life, you get what you pay for.  Wellness keeps my beagle regular with no indigestion or diarrhea. I've tried switching to cheaper brands, but they leave him gassy, listless, and constipated. My dog isn't crazy about the taste. Of course, he'd prefer canned or, even better, table scraps. But he does eat the Wellness, and it keeps him healthy.<br /><br />Highly recommended!
+
+product/productId: B0006MWNP2
+review/userId: A353M5QAGAUJG6
+review/profileName: Jake
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1343865600
+review/summary: A sub-par version of store bought Wellness
+review/text: We've been buying this exact formula of Wellness for our Cocker Spaniel "Lucy" for over a year now.  We thought that it would be worth purchasing on Amazon since it was priced almost identically and it would be more convenient than going to Petsmart since it would be delivered to our front door.  We didn't receive the food for well over a week after we ordered it so we were forced to buy a small bag at the store until we received the food.  No big deal...we figured next time we'll just order it a couple of weeks in advance so that Lucy's food supply isn't as low and we have plenty until we get the next bag.  After feeding her two meals of the bag we got from Amazon, Lucy started having violent diarrhea.  I'm familiar with the fact that changing foods can cause an upset stomach with dogs but this is the exact same food we have been feeding her for a very long time.....or so we thought.  We knew that the only thing that changed in Lucy's diet was the fact that we ordered the food from Amazon.  So we went and bought another small bag of the same stuff from Petsmart.  Much to our disappointment, there was an obvious difference in the appearance of the food.  The bag from Amazon had chunks that were misshaped, very porous and even smelled different.  Our conclusion was that Amazon received the reject bags at a discount and sold them as the same product.  We then stopped feeding Lucy the Amazon bag and switched her back to the store bought bag.  Immediately her bowls improved.  Although we were refunded for our purchase we had to jump through a few hoops that weren't worth the time we wasted to do so.  Please reconsider before you purchase this food.  Wellness is an Amazing product and we're proud to feed our little Lucy the best food that we possibly can but this is not up to the quality that Wellness is known for.  I'm going to post pics of both the Amazon bought food and the Store bought food so that you can see the difference.
+
+product/productId: B0006MWNP2
+review/userId: A1ARFA38Q9CI8L
+review/profileName: hepnr
+review/helpfulness: 2/4
+review/score: 2.0
+review/time: 1301529600
+review/summary: NOT a cure-all if that's what you're looking for
+review/text: My dog has severe allergies as well as a sensitive stomach. After thousands of dollars, allergy shots, etc. I decided to give the fish and sweet potato a try because for years everyone has raved about how much better it is for dogs who are allergic to the typical proteins, etc. in kibble.  Well, let me say...I'm disappointed.  It's been six weeks and I've seen no difference in the itching/licking and scratching.  The fish breath? I can live with that but whoooooo-weeee the GAS that this stuff caused for not only my allergic dog but also my "stomach of steel" dog. They can clear the HOUSE in about two seconds flat.<br /><br />While I do appreciate the quality ingredients that are supposedly in this food, I am disappointed that I've seen absolutely no difference between this and the Pro Plan or Natural Balance I tried before this. Could it be just my dog, sure. But all in all, if you're looking for a magic cure, sorry to say this isn't the one it's hyped to be.
+
+product/productId: B0006MWNP2
+review/userId: A2S3XL05JHEG6A
+review/profileName: Berlinda R. Hughes "Luv my German Shepherd"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1347148800
+review/summary: Developed problems after couple weeks
+review/text: I have had my German Shepherd on Canidae (chicken) since she was a puppy and did wonderful. Well, Canidae had a recall last winter & I had to switch her, so I tried Wellness (chicken).  I have to say, I am really disappointed with this dog food. Besides her not really liking it, her breathe smells bad, has very loose to diarrhea stools, and she has been licking her paws & shaking her head like her ears are bugging her ( which she never has done before and that is a sign of allergies). I noticed the chicken formula is back on the market and I will for sure be switching.
+
+product/productId: B0006MWNP2
+review/userId: AAQS2Y435S510
+review/profileName: exoticwaterfall
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1341532800
+review/summary: Nice Holistic Dog Food
+review/text: I like this dog food alot for my dogs and I change the flavor everytime they run out so they dont get board and the dogs really like the food
+
+product/productId: B0006MWNP2
+review/userId: A3CT24BSBOL4BF
+review/profileName: Storm
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1327881600
+review/summary: Incorrect Ingredients
+review/text: The ingredients listed are NOT for this particular recipe! The lamb, barley mix does not include chicken as this page indicates. Love the potato, whitefish mix by the way. My 12 yr old is doing well on it.
+
+product/productId: B0006MWNP2
+review/userId: A2KIZ2NOQMVN1J
+review/profileName: Barbara M. Dumas
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1338336000
+review/summary: Dog Food was excellent - but, don't count on it...
+review/text: Our dog has many allergies, and - finally - we found a dog food that he can tolerate.  Happy Days!!  But, Wellness wasn't selling enough of the Salmon and Rice - so, they took if off the market.  No Warnings, no advice to begin to seek out an alternative - just, gone.  He is now vomiting on the Wellness replacement - and we're seeking yet another alternative - but, it won't be from this company.
+
+product/productId: B0006MWNP2
+review/userId: A39JF4NO5TYNNI
+review/profileName: winner1322
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1338076800
+review/summary: dog food
+review/text: My dog will not touch this food. Very surprised because all reviews were positive. He will not eat it with chicken added or anything else. I am aware of a recall on some of the Wellness brand but this food was not included in the recall.
+
+product/productId: B0006MWNP2
+review/userId: ALZL9MH8WVQMW
+review/profileName: S.Kim
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1317686400
+review/summary: Loose stools from beginning to end
+review/text: I am very fond of Wellness brand itself, but this particular kind just did not get along with my dog's digestive system. I purchased at Petco store. My dog is a Sheltie and she has not had special dietary need that I know of. She was fine with other formulas/treats from Wellness.
+
+product/productId: B0006MWNP2
+review/userId: AMQ1MEG334SAP
+review/profileName: Bigmac
+review/helpfulness: 1/4
+review/score: 1.0
+review/time: 1332892800
+review/summary: My Dog Wouldn't Touch this with a Ten Foot Pole!
+review/text: My dog seems to be allergic to poultry so we thought we would switch him to this lamb-based formula.  Usually he is a good eater, but my dog had one smell of this stuff and wouldn't come back.  I understand Wellness puts higher-end ingredients in their food but if a dog doesn't like it there goes your money right down the drain.
+
+product/productId: B0006MWNP2
+review/userId: A3VDQDVHDE4PYO
+review/profileName: E. Skiver
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1336867200
+review/summary: Diamond Pet Foods are RECALLED
+review/text: I don't know if this particular one is recalled though. But I just thought I'd try to give everyone a heads up though.<br />So, this is not a true review about this products features per say.....but I feel that everyone needs to know that this company has recalled their products and it is going on right now.<br />To begin with, I want to say that I know that unfortunately there are plenty of human products that get recalled too and that is the most important thing. And yes, I know that every time we go eat out or buy any type of store bought food.... that it is a gamble too.<br />But, my family considers our dogs as part of the family and this is very important too.<br /><br />Many years ago I did research to find the best priced grain free. no dye or by product food.<br />I found that some of Diamond Pet Foods had the first ingredient as being the actual real meat.<br />Plus,the grain free food made my baby girl look so healthy and shiny.<br />Also,since it had no fillers and quality ingredients it actually made her stool smaller and less stinky.<br />She has less allergies and it stopped most of her constant itching/biting/licking at her paws and less tear stains.<br />She actually loved the product, by the same maker, named "Taste Of The Wild" in Bison the most.<br /><br />But,I am saddened now because Diamond Dog Food has now been RECALLED for "SALMONELLA CONTAMINATION"<br />This company makes various products that have been recalled.<br />Such as:<br />Diamond Naturals, Wellness, Natural Balance, Taste of The Wild, Apex, Chicken Soup Soul, Canidae, Country Value, 4Health, Natural Balance, Kirkland Signature, Natural Balance, Premium Edge, Professional and Solid Gold.<br /><br />I am saddened that we actually spend more money on these "better than store" dog food and they keep getting recalled!<br />So many families have unfortunately lost their fur babies babies and have spent thousands of dollars on Vet bills....when all we are trying to do is buying the "better" which are higher priced, dog food ingredients.<br />I am pretty thankful that I had signed up online,for emails about the latest dog food recalls last week.<br />My hubby and I was devastated to see that Diamond Dog Foods, Taste Of The Wild was on the list now.<br />I am sickened by these companies being so careless. When the reason we buy their higher priced food is cuz they are suppose to be healthier!<br />I just wanted to write this and try to stop another baby from getting sick or even worse dying
+
+product/productId: B0006MWNP2
+review/userId: AMQ1MEG334SAP
+review/profileName: Bigmac
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1332892800
+review/summary: My Dog Wouldn't Touch this with a Ten Foot Pole!
+review/text: My dog seems to be allergic to poultry so we thought we would switch him to this lamb-based formula.  Usually he is a good eater, but my dog had one smell of this stuff and wouldn't come back.  I understand Wellness puts higher-end ingredients in their food but if a dog doesn't like it there goes your money right down the drain.
+
+product/productId: B0006MWNP2
+review/userId: AMQ1MEG334SAP
+review/profileName: Bigmac
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1332892800
+review/summary: My Dog Wouldn't Touch this with a Ten Foot Pole!
+review/text: My dog seems to be allergic to poultry so we thought we would switch him to this lamb-based formula.  Usually he is a good eater, but my dog had one smell of this stuff and wouldn't come back.  I understand Wellness puts higher-end ingredients in their food but if a dog doesn't like it there goes your money right down the drain.
+
+product/productId: B0006MWNP2
+review/userId: A1397AZ6S5F0JJ
+review/profileName: Barbara Muenze
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1329868800
+review/summary: It sinks and my dogs hate it
+review/text: I have 3 dogs and all three of my dogs will not eat this dog food. I even mixed wet food in with it, hoping they would eat it, but they just pick around the dry food and leave it. I would not recommend this food. Plus, it stinks!!!
+
+product/productId: B0006MWNP2
+review/userId: AWG8LJRE2XD6V
+review/profileName: Thinker "Thinker"
+review/helpfulness: 2/7
+review/score: 1.0
+review/time: 1287100800
+review/summary: It's different than the ones from stores
+review/text: The idea is great. Save trips to the store and is cheaper than the stores but when I opened the bag, it smelled funny and color is much lighter than the ones that I bought from the stores. My two Labradors actually turn their heads away from the kibbles. How do you return the opened bag with loose kibbles ? So I tried to feed the kibbles to the dogs and they were having diarrhea or very soft stool and I'm not happy with that type of situation at all. The Wellness dog food is good but something about shipping makes me wonder.... Anyway I went to the local pet store got the same kibbles and my babies are happy ever after.
+
+product/productId: B0006MWNP2
+review/userId: A21QDASUVVM04Y
+review/profileName: M. Killian
+review/helpfulness: 1/6
+review/score: 2.0
+review/time: 1293580800
+review/summary: Good Going In, Bad Coming Out
+review/text: After losing a dog at the age of 9, we looked into providing our pets with a better quality dog food just in case the Purina Pro Plan they had been eating was even partially responsible for her early death.<br /><br />The Wellness dry foods were one of the brands we tried. We took the effort to slowly introduce the food and gave it a good 4 months before finally giving up.<br /><br />Our dogs did not seem to really like this food. I am not sure if it was the taste or if it was the terrible gas or diarrhea it gave them. It would sit in their bowl for hours before they finally gave in and finished it.<br /><br />After much thought we decided that we would rather our dogs enjoy their food and not suffer from daily diarrhea than force them to eat this food, even if it might extend their life a little.<br /><br />We settled on Science Diet brand. They gobble it up at every meal and have returned to normal bowel movements. I realize the ingredients are not as good as Wellness brand, but I feel better about their quality of life.
+
+product/productId: B0006MWNP2
+review/userId: A31F70ZQCQXRZD
+review/profileName: T. Smith
+review/helpfulness: 3/11
+review/score: 5.0
+review/time: 1167868800
+review/summary: Oh my gosh!
+review/text: I know this is going to sound crazy but my dog (who is usually pretty fussy about her eats) LOVED this food so much that I had to taste it.  I don't mind telling you--Wow!  Before she was finished her bowl of Wellness Dry Dog Food I was pouring myself a cereal bowl full.  Not only did I scarf that one up, I poured myself another heaping bowl of this dry goodness (by the by, it's even better wet).<br /><br />  Here's the really crazy thing about Wellnesss Dry, I don't even like sweet potato.  I don't know what spices they put in this, but kudos (kudogs?) to the chefs at Wellness.  They have provided a product that is good enough to double as munchies at my next party.  Oh, I almost forgot to mention how full and shiny my hair looks.  Keep doing what you're doing Wellness!
+
+product/productId: B0006MWNP2
+review/userId: A2VRYFRC3SNU2B
+review/profileName: WinterMaple
+review/helpfulness: 0/10
+review/score: 2.0
+review/time: 1277078400
+review/summary: embarrassing
+review/text: Got a wellness dog treat before which the dogs absolutely loved. Then i bought this dog food... very weird. None of my four dogs like it. Sniff, and go away. Regardless how good it is... if it can't even appeal to the dogs, it means nothing. Only one of my dogs is picky about food; others love almost every brand; esp. the 1st time they try a new dog food.<br /><br />Not this one. Embarrassing for me cuz I've opened it and can't return it.
+
+product/productId: B0006MWNP2
+review/userId: A10Q1QIHVXKT8M
+review/profileName: Teresa Walker "doggie mom"
+review/helpfulness: 29/29
+review/score: 5.0
+review/time: 1148515200
+review/summary: Wellness for well fed doggies
+review/text: I have two large dogs, one a yellow lab, and the other a lab/dalmation mix.  Both of these were on prescription foods(not the same, so quite costly), one had been treated for bladder stones, the other had pancreatitis. I tried Wellness and they have both never looked so good,and been so healthy. No recurring health problems which were a constant worry, and the best part they know can eat the same mix.<br /><br />Terri W.(Augie&Dusty's mom)
+
+product/productId: B0006MWNP2
+review/userId: A18RTNWQZDRB2L
+review/profileName: J. Stoops
+review/helpfulness: 21/21
+review/score: 5.0
+review/time: 1189209600
+review/summary: An Excellent Food
+review/text: Pet guardians, please take the time to educate yourselves on what goes into your pet's food. That initiative will give them the gift of a longer, healthier life, eliminate many chronic health issues that pets face, save you money in vet bills in the long run... the list of benefits goes on and on.<br /><br />I have done extensive research on canine and feline nutrition and I highly recommend, if you are going to feed commercial food, Welless, California Naturals or Innova. For a great complete meal, I give my dogs all one of those dry foods mixed with a little bit of canned from the same brands, water for hydration, a touch of a good quality essential oil (such as olive, flax, etc.), a touch of powdered kelp and alfalfa, a splash of organic apple cider vinegar, Prozyme digestive enzymes to unlock the nutrients in all that good food and top with a dollop of plain yogurt. It sounds like a lot, but it takes me less than 5 minutes to assemble the meals for 6 dogs - and they are ridiculously healthy an full of energy, even our 3 seniors who are 11, 12 and 13. I have two seniors with heart murmurs and at our most recent vet check, my dog with the worst heart murmur, a 12 year old beagle that I love desperately, had a 2-grade improvement in condition severity - that is HUGE. Good nutrition makes all the difference!
+
+product/productId: B0006MWNP2
+review/userId: A11V85TH6QDXEH
+review/profileName: S. Gorostiza
+review/helpfulness: 19/19
+review/score: 5.0
+review/time: 1181347200
+review/summary: Wellness Dog Food - - Excellent choice
+review/text: My dogs had bad skin problems (itchy, flaky, reddness).  Vet wanted to put them on steroids.  Talked with my on-line buddies and they recommended Wellness.  Best decision we've ever made.  Vet is amazed with results of just changing dog food.
+
+product/productId: B0006MWNP2
+review/userId: A36PPDWYJKK8SG
+review/profileName: The Next Opinion
+review/helpfulness: 18/19
+review/score: 5.0
+review/time: 1161302400
+review/summary: Good stuff and cheaper than vet bills
+review/text: I have three dogs, a minpin, a lab, and an aussie pup. My min-pin got sick recently. It was pancreatitis and kidney problems. His liver was a mess too. After he got out of the vet hospital (800 bucks later) they wanted him to eat a prescription food that they sold. He hated it. Would NOT eat it.<br /><br />I got the Wellness through a reccomendation and it has been a life-saver. My minpin is healthy now. His liver is fine, as are his kidneys and pancreas. He looks years younger with his shiny coat. My lab and my pup are looking fabulous as well.<br /><br />Whats ironic is that I WAS feeding a supermarket wet food and it was costing me 90 bucks a month to feed these guys. Now, it's cheaper, they are healthier and they LOVE it. I have never seen dogs freak over dry food like they do over this.<br /><br />If you can afford it, I highly recommend this product. It saves you money in the long run and makes your pets happy and healthy.
+
+product/productId: B0006MWNP2
+review/userId: A1KP6QQUWBH867
+review/profileName: Charlotte Burr "Mother of Dreams"
+review/helpfulness: 14/14
+review/score: 5.0
+review/time: 1175040000
+review/summary: Healthy and Happy
+review/text: We adopted a mix breed that was approx 1 year old. His coat was coarse, dry and skin was flaky. He was licking his feet and shaking his head. Tried several brands and found that duck and lamb make him extremely gassy with a really rude odor.  He loves the fish and sweet potato, his coat is like velvet now in just a couple short months.  No more shedding or flaking and NO RUDE ODOROUS GAS problem. Highly recommend.
+
+product/productId: B0006MWNP2
+review/userId: A30KNLUAYQ73F2
+review/profileName: P. A. Kettlewell "handyhen"
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1196121600
+review/summary: ALLERGIES DEALT WITH!!!
+review/text: My black German Shepherd has allergies to corn & wheat, which seems to be the primary ingredients in most dog foods.  We suffered with her for years, cooking chicken, hamburger, rice to keep her healthy until we found the WELLNESS products.  They have turned her into a beautiful, not scratching or licking youthful dog.  We are also now feeding our lab and corgi the same foods with similar results.  Thank You Wellness!  (Incidentally the foods sold by the vet as hypo-allergenic had either corn syrup &/or wheat germ in it.  We read all labels now, all the way thru the fine print!)  Another added benefit for the larger dogs is the incorporation of glucosamine & chondroitin into it, saving additional vet bills.
+
+product/productId: B0006MWNP2
+review/userId: A3SUCXWNLDQKF7
+review/profileName: J. Mills
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1196035200
+review/summary: Simply the Best!
+review/text: I've done a lot of research and this is one of the best all natural dog foods out there. My dogs love it, their skin is great, no stomach problems and they are so happy and healthy thanks to Wellness! I RECOMMEND THIS TO EVERYONE WHO HAS DOGS!!! Try their treats too (Old Mother Hubbard)
+
+product/productId: B0006MWNP2
+review/userId: A28Q87PAMQEKUF
+review/profileName: Book Worm and canine "guidingpaws"
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1150588800
+review/summary: They Really Mean Improved!
+review/text: Wellness has taken an already great product and improved it even further. I initially tried introducing Wellness to my black lab in 2003 and found her to be intollerant of the Lamb formula. So i put her on another food all the while hoping the Wellness formula would change a tad so i could try her on it again. I transitioned her onto the new Wellness about two weeks ago and she is doing fantastic!! She has a lot of food allergies and sensativities, but we have found the new and improved Wellness to work wonderfully for her. The high quality ingredients really do make a world of a difference - especially for a working dog!
+
+product/productId: B0006MWNP2
+review/userId: A34A2SK45Q1UAO
+review/profileName: C. Lambert
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1210118400
+review/summary: The best food!
+review/text: I was concerned about the effect "regular" dog food was having on our dogs. We have one puppy and one senior, so both are in crucial stages. The puppy had bad dandruff and dull, course hair while the senior had various issues throughout his life including seizures and IBD. I decided to try a home cooked diet for them but after the pup developed an allergy I was scared to try anything else on my own. We decided to try Wellness after some research on the natural brands (not to mention a taste test with samples from Pet People).<br /><br />This food has done WONDERS. The pup no longer has dandruff and his coat is shiny and silky. His energy level is also through the roof. Our older dog has always been a veeery picky eater, sometimes going a couple days in between meals if it wasn't appetizing enough for him, but he loves the Wellness food and even eats it dry! No canned mix-ins necessary! Since he started eating it we haven't seen any IBD symptoms and he's acting a lot younger.<br /><br />I wholeheartedly recommend this food, or at least another brand of natural food. I encourage you to compare the ingredients in Wellness to regular food as even  "high-end" grocer brands (like Science Diet) contain the same junk as the generic ones!
+
+product/productId: B0006MWNP2
+review/userId: A1E5F4L4PC6QNA
+review/profileName: T. Leinaar "Bird on a Wire"
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1195948800
+review/summary: GOOD FOOD!
+review/text: I have used this product for five years now for both of my shelties. They like the taste, there coats are much smoother and it has lessened the number of seizures my female gets and there severity. I will continue to use the fish and sweet potato food regardless of price.<br />Update:<br />On Thanksgiving day of 2010 my female sheltie passed away. This broke my heart, she was my best buddy. I can't help but think her Whitefish and Sweet Potato food had something to do with giving her a very long healthy life. She lived to be 17, and was playful up to the end. My vet agrees that this food and good exercise was instrumental in extending both my shelties lives. I now have a new sheltie puppy and a rescued 6yr old sheltie female. Needless to say they are both on Wellness brand Whitefish and Sweet Potato food. There snacks have always been Blue Dog Bakery products supplemented with fresh baby carrots.
+
+product/productId: B0006MWNP2
+review/userId: A3OMVQX7DY7Q8H
+review/profileName: M. Gayevsky "Masha M"
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1169510400
+review/summary: My dog will only eat this brand
+review/text: My pug had stomach problems and I have tried every food out there.  The only thing that worked was Science diet until I found this one.  Its more natural and my dog does enjoy eating it more and have not had any problems since I switched a couple of years ago.  Love this brand.
+
+product/productId: B0006MWNP2
+review/userId: A5FBDIZ6VV4L6
+review/profileName: C. Dunn
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1194220800
+review/summary: Happy Dog!
+review/text: We recently started giving our dog this food and he is thrilled. Our dog has always liked eating, but now he seems especially happy. Even more, our dog seems to have an sensitive tummy and he's had no tummy problems since switching to this food.
+
+product/productId: B0006MWNP2
+review/userId: A2JWLGQZRIR4MB
+review/profileName: Rachel "Rachel"
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1135036800
+review/summary: The best so far
+review/text: Due to allergies on the part of one dog, and pickiness on the part of the other, I've switched to natural dog food over the past year.  Of them all, my dogs love this stuff the best.  It has a nice smell and texture, and is more easily chewed by the elderly dog.  Relatives who hadn't seen the dogs for a few months immediately commented on the healthier appearance and renewed vigor of the dogs.
+
+product/productId: B0006MWNP2
+review/userId: A3PQBXEJX8WZ14
+review/profileName: Lurline W. Threatt
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1235865600
+review/summary: Doggie food
+review/text: This is all I feed my baby. She is a 12 year old Boston Terrior. She has allergies but this is the only food I have found that does not break her out. It is easy to digest and keeps her wieght under control. She likes the taste and it has the great stuff for her skin in it. If your dog is having skin problems I hightly recommend trying this food. It is the BEST!!!
+
+product/productId: B0006MWNP2
+review/userId: A2JI4IQ89YTGES
+review/profileName: Catherine Caron "Basenjilover"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1175644800
+review/summary: Hormone free and ultra quick shipping.
+review/text: This is my second order from this company and they ship incredibly fast. I order on-line in the afternoon and the dog food is here within 24 hours. I do not pay any extra for that service. I chose this brand because it has quality ingrediants and is hormone free.
+
+product/productId: B0006MWNP2
+review/userId: A38A35R8VN5RWL
+review/profileName: J. Veytsman
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1195776000
+review/summary: good product, excellent service
+review/text: I've been buying Wellness Lamb Dry Dog Food from this company via Amazon.com for the past few years and have nothing but good things to say about the quality of both, the product and the service, competitive pricing and fast delivery.  My dog loves the food, and I love the service.  Thanks for being a reliable source.
+
+product/productId: B0006MWNP2
+review/userId: AYENK8JYGMT8J
+review/profileName: Nora K. Brill
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1191196800
+review/summary: No more gas
+review/text: Boxers are known for being susceptible to gas. My Boomer is aptly named, but since switching to Wellness dry with about a third of a can of Wellness canned food, fed once  a day, he stays slim, energetic and blessedly flatulance-free. I also note, over a few months, that skin bumps are disappearing. I've tried several top brands, and this seems the most healthful.
+
+product/productId: B0006MWNP2
+review/userId: A2IUBJJBH9PF9R
+review/profileName: J. Raney
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1271462400
+review/summary: Extremely healthy for you dogs!
+review/text: I highly recommend ALL Wellness products!! My Shih Tzu's were plaqued with severe allergy problems,, Spent $$$$ after $$$$ at vet for relief for them, nothing seemed to work.. I did extensive research on dog food and found out the mainstream brands are all crap, nothing but by products, additives, nothing natural about any of them.. Did research on Wellness and Blue Buffalo, look them up, you will find out for yourself.. Their products are all natural, no additives, no preservatives, 100% meat from animals that are NOT fed growth hormones, etc.. My dogs have been on this food, both wet and dry and they are thriving and the picture of health, bright eyes, shiny coats, full of energy and NO MORE allergies..
+
+product/productId: B0006MWNP2
+review/userId: AOR789D8SQEM1
+review/profileName: S. Rojo
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1266192000
+review/summary: this cured my dogs allergies!
+review/text: I have a Shih Tzu that will be soon turn 3.  I had her on a grain free Chicken diet until several months ago when she started having allergy problems.  Her constant licking and scratching drove me thru the roof.  My vet put her on a very expensive pill (like $60 a month), and recommended to me that I find her a diet with one "novel" protein.<br /><br />So, I went on-line and did some research.  Wellness was always something I was curious about.  I went on their website and found out that I could get some free samples.  After speaking with their customer service rep, I was informed that this Whitefish and Sweet Potato formula was their number one food recommended for dogs with allergies.  So, the company mailed me two trial size bags of this kibble.<br /><br />Well, it worked.  I've had my dog on this food for about 5 months now and she's completely stopped her licking and scratching in about a month.  I slowly weaned her off of her prescription allergy pill as well.  My vet is very, very impressed.<br /><br />I would give this food 10 stars if I could!
+
+product/productId: B0006MWNP2
+review/userId: AK3DGMY737DLY
+review/profileName: Jake the snake
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1180483200
+review/summary: good food
+review/text: My dog has numerous allergies and have tried several foods, her ears are the biggest problem and she chews her feet and other areas. she is a golden and on  the food 3 weeks so need more time to detox old food and see how her skin does. In the past I know right away if a food works, she goes crazy itching in about 1 week. So far so good!
+
+product/productId: B0006MWNP2
+review/userId: A2N8GUXXNH62Y6
+review/profileName: vermont girl
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1196899200
+review/summary: Best food out there
+review/text: This food is great for all breeds (even LARGE)!  My Bernese Mountain dog and two Shetland Sheepdogs all love this food...I have been feeding it to them for over 9 years now...Great stuff!
+
+product/productId: B0006MWNP2
+review/userId: A2YH1H9SUJ8RT5
+review/profileName: H. Delmas
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1180656000
+review/summary: Best Dog Food Ever
+review/text: After bouts with Pancreatitis in both of my schnauzers (neither are overweight, but have major sensitivities to fat content), this is the only food I can feed them without worrying if it's right for them.  It has no corn, which is fantastic--unlike other cheaper brands.  It might be $10 more than you're used to spending on dog food, but it is worth it.  They are your family and deserve to eat as well (or better--haha) than we do.  I love my dogs more than anything which is why I will only feed them this.  (They love it too!!)
+
+product/productId: B0006MWNP2
+review/userId: A1JHURB5O69G8S
+review/profileName: Thomas S. Lindner
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1331769600
+review/summary: Package and shipping issue
+review/text: I rarely leave negative feedback, but I was shocked by how this product was packaged.  I understand that it is dog food, but a little more time and thought could have gone a long way and not have caused me the pain of what I experienced when the box was opened.  First, the box was the same size as the bag of dog food and had no additional packing.  I'm fairly certain the bag was opened or starting to open prior to being packaged and shipped.  Needless to say, when the package arrived via UPS, I opened it in the garage and the contents of the bag went everywhere.  Half of the bottom of the bag was open.  I lost at least half of the bag.  In addition, I don't know how long the bag was sitting opened.  It's probably not an issue with dry dog food, but you never really know.  All I can say is I wouldn't buy an opened bag of dog food at the pet store.  What I intended as a convenience of having this brand of dog food shipped directly to me, turned into a wasted amount of food and a lot of clean up.  I gave a shipping review to Amazon last week, but there was never any "I am sorry for your inconvenience" or any other type of apology.  I'm gathering these reviews are only spot checked.<br />The Wellness dog food itself seems to be a high quality dog food that my dogs enjoy.  I'm just very reluctant to purchase this through Amazon again.  If I would have thought of it at the time, I would have taken some pictures and posted them online. I was so irritated and it's just not worth the time for this particular product to do a RMA.  Buyer beware.
+
+product/productId: B0006MWNP2
+review/userId: A2RVZ9UBCYQI02
+review/profileName: Drea Rene "Drea rene"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1327968000
+review/summary: For your overweight dog.
+review/text: I have a 3 year old poodle the vet told me she was a little on the heavy side. I was recommended these dog food. She loves it and ive noticed that she has already dropped some pounds. The only con it is a little pricey. But if your loooking for a good deal shop here. Pets mart and Pet co will charge you 7.00 or more in shipping. Amazon gave me free shipping you can not beat that!!! and usually the stores wont carry such a large bag. Def a good product if your dog is unactive and overweight.
+
+product/productId: B0006MWNP2
+review/userId: A26UKSRCYP10N5
+review/profileName: Jessica L
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1314921600
+review/summary: Happy Chihuahua
+review/text: My long haired chihuahua is overweight. Her ideal weight is approximately 6-7lbs, however she currently weighs approximately 9lbs (this is my fault, I overdid it on the treats). She loved her Wellness brand super5mix adult formula for small breeds kibble, but I recently noticed the small breeds weight reduction version being sold at PetSupermarket, and decided to switch her over.<br /><br />I was worried she would not like it, as I had once unsuccessfully tried to switch her over to the other Wellness Super5Mix weight control kibble (purple bag, normal sized kibble). Surprisingly she took to the taste of the Wellness Small Breed Weight Control kibble almost immediately. I didn't even need to ween her off of the Wellness original kibble, just gave her the weight control formula and she liked it, no problems with her digestion. The color of the kibble is slightly less brown than the original adult formula, but she did not seem to notice a difference at all. She likes the small size of the kibble, and recently I have noticed that she has lost about 4 ounces... not much but it is a start. Hopefully with exercise and some restraint by me, she will be within her normal weight range, but I am happy I made the switch and will continue to purchase this brand.<br />TIP: My dog is a picky eater, so I sometimes mix a bit of water into the food which causes the food to give off an aroma, which draws her to it. It also makes it easier for her to eat because it softens the kibble. It's also good because it keeps her hydrated... Just an FYI.
+
+product/productId: B0006MWNP2
+review/userId: A3CC8YNE3BKR2U
+review/profileName: Shelley Aeschbacher
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1294876800
+review/summary: Our dogs liked the food
+review/text: We tried 4 different kinds of highly rated food, this brand and one<br />others the dogs loved. Would recommend.
+
+product/productId: B0006MWNP2
+review/userId: A3KHMI2UYVBJGT
+review/profileName: Pisatelnaya
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1268697600
+review/summary: The best dog food
+review/text: This is a phenomenal pet food.  I have used it for 5 years with two dogs and it's wonderful.  First, they think that it's delicious of course and eagerly eat it day in and day out. Second, it's been crucial for my pet's health.  Dog 1 had allergies and was scratching and putting her paw into her mouth.  After going on this food, she no longer had those issues and her coat looks fab. She's a black lab mix.  Dog 2 was adopted with horrendous inflammatory bowel problems and suspected allergies to common proteins.  We had to start him on a very restricted diet of only novel proteins and chose the Wellness Simple food.  He didn't enjoy it as much and when he was stable, we switched him to this and he did great.  He loves it and it has kept his gut stable.  Also a lab mix and his coat looks great on this food.  We use both the Wellness fish kibble and canned food.  Highly recommend.  It's pricey but as someone else said, cheaper than the vet bills!
+
+product/productId: B0006MWNP2
+review/userId: A3NO05U8A7GKF5
+review/profileName: luvthgirls
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1268006400
+review/summary: Life-changing Product
+review/text: I've purchased Wellness before: my border collie is epileptic. The omega fish oils and organic ingredients have improved her health, helped to reduce her seizures, and improved her sister's health as well. I highly recommend the product: it arrived promptly and in perfect condition.
+
+product/productId: B0006MWNP2
+review/userId: AMM6C75WQA1IS
+review/profileName: Cristina Perez-cordon "CRISTINAPCORDON"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1256083200
+review/summary: GREAT PRODUCT!!!
+review/text: MY DOG HAS VERY SERIOUS STOMACH PROBLEMS AND THIS IS THE ONLY DRY FOOD HE CAN ACTUALLY EAT. I WOULD RECOMMEND IT WITHOUT A DOUBT!!
+
+product/productId: B0006MWNP2
+review/userId: A9QFWDCMHMSFF
+review/profileName: K. Yang "Kimmy"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1226793600
+review/summary: Great Dog Food
+review/text: Tommy loves Wellness and he really enjoyed this flavor. I always buy it in the bulk (30lbs) and he didn't complain once. He actually enjoyed it so much, he whined everytime dinner was coming up!
+
+product/productId: B0006MWNP2
+review/userId: A2M1G638X75XE2
+review/profileName: R. Burns
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1341187200
+review/summary: Attention AMAZON:
+review/text: I think Amazon is doing a disservice to Wellness Dry Dog Food by mingling all the reviews together rather than separating the opinions out, based on the particular type and "flavor" of the Wellness food being reviewed.  I was researching the food for SMALL BREEDS and zeroed in on that particular type, but the reviews were all over the place talking about many of the other varieties.<br />My experience with using the dry Wellness for Small Breeds, both the regular type and the Healthy Weight type has been excellent.  All out mini dachshunds love the food, have beautiful coats and are very healthy.  My only suggestion is that they offer the SMALL BREED variety in super size bags.  Buying 12 lbs at a time is ridiculous when one is feeding multiple dogs, and many of us with little guys, have more than one..... the potato chip theory, right?
+
+product/productId: B0006MWNP2
+review/userId: A355CDUANYFNIE
+review/profileName: Sophie
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334448000
+review/summary: The "dream food" of small breed overweight dogs!!!
+review/text: This is it, look no further if you want a healthy, holistic dog food which supports  your dog immune system and keeps her weight under control. My dog was 2-3 pounds overweight and i had a very hard time finding a dog food which is good in nutritions and its low in fat. After 1 month my dog became lean and much more energized eating wellness healthy weight dog food. I believe all overweight dogs should be on this diet, its trully wonderful! I've tried other brands to help my dog lose those extra pounds, along with long walks, but this is the best! The best holistic weight management dog food.
+
+product/productId: B0006MWNP2
+review/userId: A3OYPP8NRW7GFP
+review/profileName: dEadDollY "dD"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1318118400
+review/summary: Best brand out there...
+review/text: I have 7 dogs.  All various breeds and sizes.  I was looking for a brand without additives that all my dogs would benefit from.  I have a few that need to lose weight.  Wellness makes the best product.  I buy the small bites for my little ones....pieces are small and they love it.  I but the Healthy weightCORE for my "dieters" and mix it with canned green beans or peas and carrots.  So far my Golden, who was an overweight rescue at 129 pounds, has lost 19 pounds -- she's been on this food for about 7 months.  I buy the original CORE version for my baby bulldog, who had a lot of gas.  No more smells and ripples in the night!  Amazon has the best price for Wellness. And its shipped right to my home -- no lugging big bags back and forth.  Yes, it's more expensive than the other stuff--but it really works.  And that will cut down on future vet bills.  All my dogs are healthy and have nice shiny coats.  Priceless!  Wellness now has a SIMPLE version for those dogs who suffer with food allergies.  A family member has a little Teddy Bear with severe skin issues -- she'd scratch until raw and bloody.  She switched to the SIMPLE version of Wellness and has been itch free ever since.  Again...great brand!
+
+product/productId: B0006MWNP2
+review/userId: A35CCGJDNXUDY9
+review/profileName: Sandra Brazier "Artist, educator, and musician"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1266278400
+review/summary: Its Names Says It All!
+review/text: Although I have tried other more expensive brands, I find I am continually forced back to this brand. My purebreed "babies" are prone to skin and digestive problems, and this healthy food is the only one that can really make a differrence. The quality is unsurpassable, the price is better than most. I highly recommend this dog food.
+
+product/productId: B0006MWNP2
+review/userId: AV307UIAVPGSJ
+review/profileName: Debby Athearn "nini.mv"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1257379200
+review/summary: Stop the scratching!
+review/text: Dogs probably don't really want to spend most of their lives scratching, but it seems that's what they do.  After trying many foods on two dogs, Wellness has stopped that.  It must be the natural ingredients because when I've tried "supermarket brands" they go back to scratching again.  Thanks, but I'll just stick with this.  Coats are shiny, even after swimming and mud baths.  It's expensive compared to "supermarket brands" but a bargain compared to other holistic dog foods and the vet bills we used to have!  Many years ago, we started feeding it to our black lab and he showed significant improvement in a couple of days.  After he died, (he was 14) we eventually got a golden retriever pup and tried him on the cheaper food but he showed the same signs of scratching and dull coat.  We put him on Wellness and all symptoms cleared up quickly.
+
+product/productId: B0006MWNP2
+review/userId: A3S3L24L3MMDXR
+review/profileName: Maxwell I. Ginsburg "Dr. G"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341878400
+review/summary: best dog food on the market
+review/text: When I first found my dog at a shelter I started feeding her eukanuba and a few other mainstream brands. Then, I decided to start organic foods. I tried several different brands until I found this. Great ingredients, trusted by MANY pet stores, and my dog LOVES IT! I've tried the lamb, chicken and whitefish flavors. She loves them all. Price is on par with most stores as well! she is now 12 years old and still going strong!
+
+product/productId: B0006MWNP2
+review/userId: A163A92N8CQI7G
+review/profileName: she buys stuff
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334793600
+review/summary: great deal, great product
+review/text: Our dogs love this stuff! Wellness makes a great product that you can feel good about feeding your dogs and our dogs love to eat it.  Amazon pricing is some of the best we've found for this product and they deliver to your house, so win win!
+
+product/productId: B0006MWNP2
+review/userId: A5ILWGR37TDNE
+review/profileName: Gerald Jaax
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318550400
+review/summary: Wellness Dog Food Chicken Recipe 15 pound bag
+review/text: Great product and fast shipping! Would definitely buy again from this vendor. My pet is really enjoying this food. You can see the difference in her behavior and coat appearance. This product line is fantastic!
+
+product/productId: B0006MWNP2
+review/userId: A141QC5GR9CDLL
+review/profileName: Amy C. Bennett "chasadchick"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1312588800
+review/summary: Dog loved the food...but
+review/text: It didn't last that long.  I've got a 20lb Scottish Terrier, and this bag barely made it a month.  The dog loved the taste, but I'm not sure it was worth the price for how much you get.
+
+product/productId: B0006MWNP2
+review/userId: A26UAPB128NLT9
+review/profileName: KarenMarie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308355200
+review/summary: Great Dog Food
+review/text: I've been using Wellness dog food for my 2 dogs for about 3 years and in the last year have switched to the Senior Mix. I add a little canned food on top of the dry and they eat it all without problem.  One of my dogs used to have gastric upset but it has decreased drastically since using Wellness. I think it is a great dog food and since my local source closed I get it through Amazon prime and have it delivered to my door. Daisy, Duke and I are happy.
+
+product/productId: B0006MWNP2
+review/userId: A1PY83VL3VJ1FV
+review/profileName: mADwRESTLINGfAN
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308268800
+review/summary: Great food, well worth the money!
+review/text: My dog is a cute, lovable poodle/bishon mix with sensitive skin and allergies to regular dog food. She was a picky eater and had some real problems with itching and scratching herself raw--until a few years ago when we started buying Wellness. Big improvement! She loves the taste, she scratches less and her coat looks better than ever. I recommend this brand highly.
+
+product/productId: B0006MWNP2
+review/userId: A2S9YX8PTJIAPO
+review/profileName: Peggy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297987200
+review/summary: Excellent dog food
+review/text: We have been feeding Wellness Super5Mix with Lamb to our mini schnauzers since they were 12 months old and they love it and it makes us feel really good to be feeding them the highest quality food available. They very seldom have any stomach upsets and maintain their weight easily. Amazon usually has the best price when it ships for free.  I recommend this dog food all the time to family and friends. Feel our dogs are the healthiest they can be as a result of Wellness dog food and daily exercise.
+
+product/productId: B0006MWNP2
+review/userId: A1X010HGFSPNVM
+review/profileName: MSHope
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1287532800
+review/summary: Not good...
+review/text: I decided to try this food with my 13 years old dog. He didn't like the taste, I had to combine it with something else for him to eat it.<br />Sounds like a good choice for old dogs, but what good it does if the dog doesn't eat it.
+
+product/productId: B0006MWNP2
+review/userId: A2Z9VE09ZBS4YE
+review/profileName: trevor
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286755200
+review/summary: Perfect for mini schnauzer
+review/text: First let me say that every time i read some of the dog food recipes on the labels i begin to think that there are real bits and pieces of fish in the bag. lol but no. This dog food is phenomenal. My miniature schnauzer had been on puppy chow before i got him.( not the best) however i made the foolish decision to transition a pure breed mini schnauzer from puppy chow to Purina One. And that's when the problems started. My dogs coat went from a nice black with brown highlights to a black coat with his pale white skin showing under it. He looked sooooo sick and his coat felt really dull and wiry. He refused to eat any more of the Purina one and so i had to think fast. I had remembered that a breeder website (bijou poodles i was thinking about getting one) had listed some top grade dog food as one of their links. So i so Wellness Core as a good choice. Well I decided to go with the fish and sweet potato recipe and my dog was not disappointed. He loves the food and has began to get a lot of his color back.<br /><br />Bag: Very loud bag package. Plus i don't really like the resealable feature since it does not come with a zip lock. However if my dog gets into the dog food bag the material food be so loud my neighbors wood here it.<br /><br />Smell: awesome he lost his cool as sooon as i cut the bag open.<br /><br />Quality/quantity: Wellness does not do like some companies and make the bag really big, while theirs less than half the dog food in the bag. 15 pounds is exactly that, 15 pounds. Also my mini would eat a lot of the puppy chow at one time. However with Wellness he only needs about a half a cup and hes full!
+
+product/productId: B0006MWNP2
+review/userId: AUXOAKAIZV79N
+review/profileName: cccamazon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283817600
+review/summary: My dog loves it!
+review/text: My dog loves Wellness dog food, and I love it because it's healthy and well-balanced. I've been feeding my dog the dry food for about 1.5 years and very satisfied.
+
+product/productId: B0006MWNP2
+review/userId: A21LC8KZI8TOLK
+review/profileName: Jim "jim77345"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1273881600
+review/summary: Great Dog Food- Great Price
+review/text: Wow. Who would have ever thought that ordering 30# of dog food on line would be such an EASY transaction? I ordered this on Monday and it arrived on Friday via FedEx. Not only was this an easy transaction, it was cheaper than buying it in the local store. Our Sadie loves this food and I feed good knowing that we're giving her a diet of something that's good for her.<br />.<br />I'll be ordering again in 8 weeks!
+
+product/productId: B0006MWNP2
+review/userId: A273AXLT4X9J4A
+review/profileName: B. Wood
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262908800
+review/summary: Best ever dog food!
+review/text: I've fed my little pug this dog food brand all his life. Now as a young adult I feed him 2/3 cups of food daily. He's energetic, happy, and not over weight as pugs tend to get. He also has a very healthy and minimal stool - which is great because he is trained to use a litter box with a "permanent" type doggie pee pad (changed daily) in the bottom. Pudge is always ready to eat so, I try to give mostly healthy treats: maybe a few bites of veggies of my dinner plate and maybe a milk bone a few times a week. But he loves his Wellness and its made him a handsome, healthy little dude
+
+product/productId: B0006MWNP2
+review/userId: A22G4LL8CHIQEA
+review/profileName: manaalaq
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1341014400
+review/summary: Best dog food we have fund
+review/text: Wellness is by far the best dogfood we have ever fed our yellow lab.  Though it is expensive, we figure we spend the same amount  or less than we would through purchasing a cheaper food as we would need to feed more for the same caloric intake.  We get by with a thirty pound bag about once a month or so.  Our lab's coat is healthy, he has high energy, and his "movements" are solid... May be too much information.  However, that is one of the big differences I notice with cheaper dog foods.  To help with further comparison, our lab is 8 years old, is an active hunter nine months out of the year (waterfowl spring and fall, rabbits, upland birds), and he is an indoor family dog.
+
+product/productId: B0006MWNP2
+review/userId: A1AFOYZ9HSM2CZ
+review/profileName: Jerrica Johnson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Happy with the product
+review/text: My dog was suffering with itchy skin.  He had been eating Natural Choice brand (cheaper) since he was a puppy.  I was nervous to change foods.  The vet suggested to change foods sand see if the skin issues cleared up.  Wellness brand did the job.  My dog seems to love the food and the skin issues cleared up within a few weeks.
+
+product/productId: B0006MWNP2
+review/userId: A1SV1K399X4O2E
+review/profileName: D. Rock
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348704000
+review/summary: Not for my dog
+review/text: I purchased this, thinking it to be a good product.<br /><br />However, within 3 days, my dog was itching and pulling her hair out.<br /><br />Took her off the food and her hair is coming back.<br /><br />Went to another brand immediately.
+
+product/productId: B0006MWNP2
+review/userId: A2AL52HWZW44YX
+review/profileName: Mon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Great!
+review/text: We have a black female lab. And since she was little she would not eat anything but pedigree and as long as shd was fine we gave it to her. For the past 3 months she was licking her paws, itching, she had bald spots. I treated her with different kind of oitments which brought her coat back at thr bald spots however she was still licking and itching, shaking. We finally decided to change her food from that horrible by products pedigree to wellness and two days later less itching licking and everything. Although it is pricey i dont care she is herself again!
+
+product/productId: B0006MWNP2
+review/userId: A2CNEQ7K9YE531
+review/profileName: D. Calhoun
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: Great, high quality food
+review/text: I will no longer feed my dog(s) standard grocery store foods though I did have a cocker spaniel live almost 17 years mostly on that before I knew better. This is a very good food. Good ingredients (meat should always be the first ingredient, not corn, wheat, etc). Can be a little pricey, so you may have to shop around, but it is worth it. You will occasionally find dogs that can't tolerate certain foods and this is no exception. So far hasn't been a problem for my dog after > 2 years of this particular type. Breed: Giant Schnoodle, ~66 lbs. He loves fish so this is perfect. If we're having fish for dinner (tuna, baked tilapia, etc), you can be assured he'll be nearby with his nose turned up somewhere sniffing around.
+
+product/productId: B0006MWNP2
+review/userId: AD29UXW42GRA4
+review/profileName: S. Sewell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346630400
+review/summary: My picky Husky loves this
+review/text: I have a chow mix and a husky. My chow eats anything and is on the Wellness Healthy Weight (chicken flavor). My husky is really picky. She finally ate the Wellness puppy chow when she was a puppy after refusing to eat many other brands. At almost 2 years old I really wanted to change her to "big girl" dog food. She is still pretty skinny, because she is so active and still did not eat very much. I decided to switch her to the Wellness Core, but she constantly vomited. So I got the Wellness Fish and Sweet Potato since her puppy food had sweet potato in it too - hoping that she would eat it. NOPE. I guess she does not like fish!!! :-( Then I noticed that she likes my chows chicken flavored food, but the low calorie food was not ideal for her since she needs to put on a few lbs. So I finally tried this one ......... and BINGO ........... She LOVES IT!!! She can't get enough of it and always wants more. I am very happy with this food!!! And even better - it shipped from a location 30 min from my house, so ones it was shipped I had it the next day! The price is also about $10 lower than where I used to order Wellness before!!! So this is where I will always get it from now on! Thanks for fast shipping and a great price! I also recommend Wellness - its really a great food with real meat and NOT byproducts and tons of corn! ;) Your dog will love you for getting a great food!!! :)
+
+product/productId: B0006MWNP2
+review/userId: A1ODZ1IJJ4UWQK
+review/profileName: elaloha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343865600
+review/summary: Good food, great shipping
+review/text: The product is superior, although not perhaps the tastiest. However if I switched from junk food to vegan, I suspect the result might be the same.<br /><br />And the price is great. Given the quantity it is much the same price as the stuff they sell at the supermarket. It doesn't have the yummy "chicken in a biscuit" smell but it is way more nutritious according to all the internet investigation that I've done.
+
+product/productId: B0006MWNP2
+review/userId: A2LQYNV39948ER
+review/profileName: Chris.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342137600
+review/summary: GOOD DEAL!
+review/text: Got the 30lb bag on Amazon at $9 less than the local petstore. How excellent is that??? - Better price and good to have it delivered to my door!  My pup has been eating this premium dog food for years....it's got all the good stuff and none of the bad!
+
+product/productId: B0006MWNP2
+review/userId: A1KFHAUCOP7PQ8
+review/profileName: BG "bgv1"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: My dog loves it
+review/text: My dog loves the taste and you can definitely see the benefits of feeding it to her - shiny coat and healthy skin. No allergy issues and it keeps her fit and trim. Just wish they offered it in a larger size.
+
+product/productId: B0006MWNP2
+review/userId: AWIRG4E1G7MW8
+review/profileName: Barbara Galasso
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: Good food
+review/text: The Wellness brand of dog food has always been a good quality product.  My dogs coats looked nice and shiny and they enjoyed the food as well.
+
+product/productId: B0006MWNP2
+review/userId: A1H8NAVEQBP92W
+review/profileName: Cynthia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340150400
+review/summary: Perfect
+review/text: Thank you very much. Just what I was looking for!!! My dog had just ran out of food and they don't sell this anywhere and the nearest pet store is kinda far
+
+product/productId: B0006MWNP2
+review/userId: A14FR42W13CU7W
+review/profileName: S. O'Connor "oc95b"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339027200
+review/summary: So far, so good...
+review/text: My puppy loves it, and I love my puppy.  She doesn't eat a whole lot just yet, but she will soon.  Looks like it costs about $50-$60 for a month's supply.  Considering that I spend that much on myself in a week, I'll gladly spend that much on my sweet Layla for a month.  The better you spend on dog food, the less you'll spend in the veterinarian's office.  And that's exactly what I told my vet when I took her in for her rounds of shots, and she agreed wholeheartedly.  She only wants my money for routine office visits.  I firmly believe that Wellness dog foods will help ensure that you only take your beloved pet to the vet for routine maintenance.
+
+product/productId: B0006MWNP2
+review/userId: A32W59WJVK4QEV
+review/profileName: Miss T.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Picky dog gobbles it up!
+review/text: I have two rescue chihuahua mix dogs (2yr old chiweenie 19 lbs. & 7mo jack-chi 9.6 lbs.). Both have started turning into butterballs from extra treats given during training as well as not enough walks, and could each lose 1-3 pounds. We've stepped up exercise but I still wanted a food that would help maintain their weight because they're both low to the ground and weight gain prone. My bf and I have been searching and searching for the "right" food to give them both. The choices and information on dog food is insane and combined with finding food they'll both eat is head spinning!<br /><br />The bigger/older one is super picky about all food and is known to spit out treats he doesnt like and to not even sniff new foods he hasn't experienced until u show him or break it up for him, but the little one will gobble anything in a flash. Previously we've had the oldest on Kirkland brand adult food and while he doesn't "love" it, he'll eat it with some waffling and overall its proven to keep him solidly healthy. After getting the 2nd pup who has typical jrt skin sensitivities I started researching foods to help him out and switched him from blue buffalo puppy to blue wilderness (also he stopped growing up and started growing out bc of too much puppy food richness which our older one also experienced when he was transitioning to adult). (As most know small dogs can stop growing much sooner compared to large dogs.) We tried to feed blue wilderness to the older one but found that he definitely turned his nose at it and given half and half portions preferred Kirkland over blue. In general I think blue is an awesome food but tends to be a little too calorie dense for our guys. Combined with their recent chubbiness and based on great reviews and ingredients, I decided to try Wellness Super5mix Healthy Weight for small breeds.<br /><br />We've only just bought some a few days go so I'll have to report back on weightloss, but we were super excited that based on first a small sample to each, then second when we mixed a meal with their old food they both immediately gobbled up the food. This is amazing because our oldest has always seemed to tolerate his kibble but hasn't ever loved any brands we've tried to date. This is the first time he's started eating a new food immediately!! My bf is also happy bc he would rather feed them the same thing than to have separate kinds for each like we were doing. I'm pretty sure we've found the "it" food that works for us!!!
+
+product/productId: B0006MWNP2
+review/userId: A88WK54WGJ15T
+review/profileName: Oregon CATS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: NOT involved in the recall
+review/text: I have used this Wellness fish formula for 8 years for my dogs. This food is a super high quality food for dogs as well as having some healing attributes that make it very healthy for seizures and liver issues. My Schipperke's are doing very well on this formula and no longer require Phenabarb or any seizure medication and the liver studies on their blood work are almost normal at 13 years of age after serious liver problems 8 years ago.<br /><br />Wellness tests All batches for problems prior to distribution. They did give a voluntary recall on the puppy formula even when it tested out with no contamination. I also feed the senior dog formula to my 100 pound German Shepherd dog as I believe it has given him wonderful joint health help as he ages.
+
+product/productId: B0006MWNP2
+review/userId: A3VDQDVHDE4PYO
+review/profileName: E. Skiver
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1336867200
+review/summary: Some Diamond Pet Food Wellness are RECALLED
+review/text: I don't know if this particular one is recalled though. Just though I'd give a heads up though.<br />So, this is not a true review about this products features per say.....but I feel that everyone needs to know that this company has recalled their products and it is going on right now.<br />To begin with, I want to say that I know that unfortunately there are plenty of human products that get recalled too and that is the most important thing. And yes, I know that every time we go eat out or buy any type of store bought food.... that it is a gamble too.<br />But, my family considers our dogs as part of the family and this is very important too.<br /><br />Many years ago I did research to find the best priced grain free. no dye or by product food.<br />I found that Diamond Pet Foods had the first ingredient as being the actual real meat.<br />Plus,the grain free food made my baby girl look so healthy and shiny.<br />Also,since it had no fillers and quality ingredients it actually made her stool smaller and less stinky.<br />She has less allergies and it stopped most of her constant itching/biting/licking at her paws and less tear stains.<br />She actually loved the product, by the same maker, named "Taste Of The Wild" in Bison the most.<br /><br />But,I am saddened now because Diamond Dog Food has now been RECALLED for "SALMONELLA CONTAMINATION"<br />This company makes various products that have been recalled.<br />Such as:<br />Diamond Naturals, Wellness, Natural Balance, Taste of The Wild, Apex, Chicken Soup Soul, Canidae, Country Value, 4Health, Natural Balance, Kirkland Signature, Natural Balance, Premium Edge, Professional and Solid Gold.<br /><br />I am saddened that we actually spend more money on these "better than store" dog food and they keep getting recalled!<br />So many families have unfortunately lost their fur babies babies and have spent thousands of dollars on Vet bills....when all we are trying to do is buying the "better" which are higher priced, dog food ingredients.<br />I am pretty thankful that I had signed up online,for emails about the latest dog food recalls last week.<br />My hubby and I was devastated to see that Diamond Dog Foods, Taste Of The Wild was on the list now.<br />I am sickened by these companies being so careless. When the reason we buy their higher priced food is cuz they are suppose to be healthier!<br />I just wanted to write this and try to stop another baby from getting sick or even worse dying.
+
+product/productId: B0006MWNP2
+review/userId: AT94MZ62SJKIZ
+review/profileName: Nancy Brooker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336608000
+review/summary: Everything good!
+review/text: This food has been really good for my dogs!  Their hair is softer and shinier, their eyes are clearer and their energy is better.  Even though this is much more expensive than the food I had been giving them I find it a bargain because after more than a year I see a profound difference in their appearance and health.<br /><br />Also buying through Amazon has been an excellent experience!  I usually have the food within a couple days, the shipping is free and my delivery guy even brings it in for me!
+
+product/productId: B0006MWNP2
+review/userId: A3TCZZCQWGRJQL
+review/profileName: D. Buckingham "Bucky1st"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: Great dry dog food product!
+review/text: I was made aware of the Wellness brand by a dog-owner friend of mine 3 years ago and, after reviewing the ingredients list switched our dog and 2 cats' food to Wellness products right there and then! They all enjoy the products and are in perfect health according to our vet! I feel good feeding our pets tasty, healthy and nutritious food.
+
+product/productId: B0006MWNP2
+review/userId: A38583MMBXVQPW
+review/profileName: Shopper Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336089600
+review/summary: Best dog food ever
+review/text: I have an older dog who has a lot of health problems. He had skin allergies, hot spots, joint pains and other ailments. Every since he has been on the Wellness dog food, he is like a young pup again. He doesn't have any skin problems and seems to have so much more energy than he before.<br /><br />I also appreciate the quality of the ingredients that is in this dog food and only wish I would have discovered Wellness years ago.
+
+product/productId: B0006MWNP2
+review/userId: AQUHQFTQFB63R
+review/profileName: Blwessels "Blwessels"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335398400
+review/summary: Makes my beautiful dog more beautiful!
+review/text: We have an 8 month old beagle mix.  We were given a bag of Science Diet when we brought her home from the shelter and she wouldn't eat that.  My daughter picked up a bag of Iam's puppy food and that's what we were giving her the first month. Her poops smelled so bad from day one when we got her and didn't improve on the Iam's.  She seemed to have consistently runny poops as well.  She was also constantly itchy and scratching at herself.  We switched to Wellness puppy food and after the initial introduction for her to get used to that brand we haven't looked back.  She loves it!  She is now on the adult formula even though she's not quite a year old (read that beagles should be switched over to adult food at about 6 months because they have reached their full height).<br /><br />We are finishing up her second bag on the adult formula and she is looking beautiful, sleek and healthy.  We have so many people comment about how pretty she is and, especially, how soft her fur is. Her poops rarely smell and when they do it is usually because she was given new treats/snacks or one she hasn't had in awhile.<br /><br />I have seen some reviews (mostly from the puppy formula) with people complaining about runny stools but it is important to gradually get your dog used to any new dog food and gradually build up the amount by mixing it with the dog food you are replacing.  We even did this when we switched from the puppy to adult formula even though it probably wasn't as necessary to do that as both were the lamb formulas.<br /><br />She's full of energy and very happy and seems to love her dog food as she always eats it up and sometimes will carry in her bowl looking for seconds!!<br /><br />Also love how fast this company ships out the dog food too!  Whoever was selling the puppy chow would take awhile for it to arrive but this one usually shows up in a day or two.  Do wish this was available at our local market though!
+
+product/productId: B0006MWNP2
+review/userId: A3PMJ3IU6F81SC
+review/profileName: ThanksH
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335052800
+review/summary: after 10 years my dog feels great!
+review/text: My dog is an 11 year old pitbull and has had a sensitive stomach, reoccurring chronic ear infections, and was always licking her paws since she was a puppy. She would get up to walk around and immediately throw up for no reason. This would happen sometimes several times a day. Her symptoms were similar to acid reflux in people.I took her to 3 different vets for these issues separately (never realizing they could all be connected). She was on nausea medications, antibiotics for her ears, and several different ear washes. Nothing completely cured any of her issues. After doing a lot of research, i came across Wellness white fish and sweet potato and couldn't be happier. Over a 10 day period, i slowly changed over her food from the Iams i had been feeding her. It has now been about 3 months and she is a completely different dog. Since fully switching over to this food, she hasn't thrown up once and she is no longer scratching at her ears. She has more energy and always wants to play. I no longer have to coax her into eating by mixing in wet food with the Iams. She wags her tail when she sees me filling her bowl now and eats right away. She even licks the bowl when she is done and looks at me for more. If your dog has any of the same symptoms my dog had, you should definitely give this food a try. It might not be a fix for every dog but it doesnt hurt to try. It worked for my dog!
+
+product/productId: B0006MWNP2
+review/userId: A163A92N8CQI7G
+review/profileName: she buys stuff
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334793600
+review/summary: great deal, great product
+review/text: Our dogs love wellness brand dog food and Amazon has the best pricing I could find.  It's great that the product is delivered to our house and that the pricing is so great we can get different flavors to give our dogs some options.  This food has had an amazing impact from the health of their coats to their willingness to eat the food.  I would highly recommend.
+
+product/productId: B0006MWNP2
+review/userId: A3H535R16MVVJ0
+review/profileName: John F Pate
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333324800
+review/summary: Good Stuff!
+review/text: My dog has always been fed Wellness. They make a great product. I've always fed him the poultry blend and decided to give this recipe a try. He loves it.<br /><br />I also turned my neighbor on to Wellness for small breeds about 6 months ago for her Yorkie. She has always been under weight at about 3 LBS. She is now up to a healthy 4 LBS and coat looks much better. The groomer even noticed her healthier appearance.<br /><br />This is a fine product!
+
+product/productId: B0006MWNP2
+review/userId: ALM0YZ8FHFZP6
+review/profileName: C. Yeager
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332979200
+review/summary: Excellent Dog Food For Some
+review/text: I have a 6 year male old lab mix that has had numerous problems with allergies, skin irritations, and digestive issues that could not be fixed through steroid injections or expensive medications.  When he was young I fed him Beneful and he did okay for a bit and then he would have medical issues.  Through expensive medical treatment, we would get him back to normal but it was only a short time before the next outbreak.  I tried everything.  Supplement pills, different foods, allergy medication, steroids, limited diet and nothing seemed to work.  He would get better and then back to being bad with him constantly itching, chewing his skin, and he just looked miserable.  It seemed as though this cycle would never end.<br /><br />Then while visiting my brother who owns a collie recommended this food because I kept commenting on how healthy he looked and how soft his fur was.  I was hesitant at first because I had tried so much and nothing had seemed to work.  I gave the Wellness Super5mix whitefish and sweet potato a chance.  All I can say is that he no longer has ANY skin irritations, his fur is shinny and soft, he has a lot more energy, and overall I would say he is in his best health every.  The change came after about 3 weeks of him eating the food.  We use to have to bath him once a week and with the Wellness food we bath him maybe once a month.<br /><br />But I will say this food will not have the same effect for every dog.  As some of the others on here have stated that their dog had loose stool issues and the dogs simply refusing eating the food, this is very true.  My other dog has no allergies what so ever and I figured if it worked for the one dog it should be fine for the other so I would only have to buy one type of food.  The non-allergic dog began eating the Wellness and had immediate issues with loose stool and upset stomach.  So I keep him on his old food which is just the average food you would find in any pet store.<br /><br />Give it a shot if you have exhausted all other efforts.  All I can say is that my dog is in his best health ever and it was only due to a better diet and more attention and with the help of Wellness.  I would recommend this food to anyone who shares similar dog problems as I have experienced.
+
+product/productId: B0006MWNP2
+review/userId: A1FJS8W56VA59T
+review/profileName: Drew S
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331078400
+review/summary: Quality kibble from a brand you can trust
+review/text: My dog was experiencing skin allergies and had actually chewed her tail down to the bare skin. Her once shiny, lustrous coat had become dull and flaky and she was putting on extra weight to boot. After a trip to the vet (where she got a clean bill of health but I was told that she was about 8 pounds too heavy) I immediately switched her to this food and scaled back her portions on the advice of the vet. It's been about 6 weeks and the results are clearly visible. The scratching and the hot spots are gone, the coat gleams once again and the dog has shed most of the excess pounds.....she really seems to enjoy the kibble and happily scarfs it down when put in her bowl.<br /><br />Dogs react differently to different foods but I highly recommend giving this one a shot. It's worked wonders for my pup.
+
+product/productId: B0006MWNP2
+review/userId: A2YEV9NFLE379V
+review/profileName: JC
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1330646400
+review/summary: Dog loves it but......
+review/text: After two years on Eukanuba lamb and rice i thought i would try a different food for my choc lab just to give him a bit of variety.<br />He likes the food alot not surprisingly but the difference is after three weeks of eating it is that he is alot hungrier than he was before, his poop is alot looser, he is thirstier and his breath is not good. His coat condition and enery levels are very good though so a mixed bag for me over all. I will likely go back to the previous food with the next order.
+
+product/productId: B0006MWNP2
+review/userId: A3J593YMM5OZVP
+review/profileName: dollhouse
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329955200
+review/summary: Worth the price
+review/text: I adopted a 6 month-old dalmation-pit recently and when I brought him home he had watery, disgusting smelling stools. I tried Natural Balance, which didn't really make a difference, and Before Grain, which he liked but it didn't have any effect on his poop. I did some research and decided to try the chicken super5mix and after mixing it into his food for about a week or so his stools became significantly less watery and it takes him about half the time to do his business than before (where I would watch him struggle and it looked painful and sad :( wonder what they fed him at the shelter ). He's my first puppy and I noticed that after a long time in the sun/we go out for a jog, he would have this weird funky smell like rotting chicken. I'm guessing that's his sweat smell. After about two weeks on Wellness the smell decreased SIGNIFICANTLY! His coat is also glossier. Leonidas hasn't been on this food for that long so I'm a bit hesitant to attribute the change just to food.. but I really think that's what it is. Bought the 15-lb bag to test it out last time, just ordered the 30. I'll try to remember to update this after he finishes it :)<br /><br />P.S. he also has MUCH less gas. win-win for both Leonidas and myself (but more for myself)
+
+product/productId: B0006MWNP2
+review/userId: A2CMY0ES1238AI
+review/profileName: Jolise
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329350400
+review/summary: No more hauling bags for me!
+review/text: Already buy this feed regularly and very pleased, but, this was my first time having it shipped due to usual supplier discontinuing stock. Wish I'd done this sooner. SOOOO easy, arrived fast, and with the free ship option, no more expensive. Why did I haul those bags for years? No more.
+
+product/productId: B0006MWNP2
+review/userId: A2V322FZ6KY4XA
+review/profileName: Belinda Salzberg "save a book"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: never enough
+review/text: My 7 year old Catahoula has been eating Wellness Super 5  Mix for 2 - 3 years and is thriving on it.  Her coat is beautiful and her stomach "activity" is nice and normal.  She gets 3/4 cup twice a day and a few treats during the day and she appears to be a happy camper.  She cleans her bowl at each meal and would probably eat many, many cups of this dry food ---if I offered it!
+
+product/productId: B0006MWNP2
+review/userId: A1JU4WVSVFHJSK
+review/profileName: jetset78
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325980800
+review/summary: My service dog LOVES this product!
+review/text: My service dog loves this food and never leaves his bowl without finishing it! and I love that I can get it on amazon for about 10$ LESS than at petco or petsmart(& save gas and my BACK having it delivered)! if you care about your dog you will spend a little more, because then you don't have to feed them as much because they get their nutrients with WELLNESS! I just wish I could use my coupons on amazon!
+
+product/productId: B0006MWNP2
+review/userId: AGPLJLVQ47QLT
+review/profileName: Stephanie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: DOOMHAMMER approved
+review/text: I love this brand. If you go to their website, sign up for their newsletters. They'll send you $3.00 off coupons every couple of months or so. No so helpful when purchasing through amazon but helpful if you have a local store with Amazon similar pricing like I do ;)<br /><br />My dog loves this food. I like the ingredients, the way his coat looks, how he NEVER has bad breath or dog farts. Ever.
+
+product/productId: B0006MWNP2
+review/userId: AGPLJLVQ47QLT
+review/profileName: Stephanie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: DOOMHAMMER approved
+review/text: I love this brand. If you go to their website, sign up for their newsletters. They'll send you $3.00 off coupons every couple of months or so. No so helpful when purchasing through amazon but helpful if you have a local store with Amazon similar pricing like I do ;)<br /><br />My dog loves this food. He suffered from some stomach problems when he was a puppy so I switched him to Innova. I loved Innova, but my puppy didn't - his hair became oily, he didn't seem interested in the food, he began to smell bad, and the stomach issues continued. I did more research, switched to Wellness, and everything cleared up! I like the clean ingredients, the way his coat looks, and how he NEVER has bad breath or puppy farts. Ever.
+
+product/productId: B0006MWNP2
+review/userId: AD4BNNYT74YCV
+review/profileName: Kane
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322438400
+review/summary: Best food on the market ...
+review/text: Great food for my pooch's coat and helps her produce a consistent stool. Switched from Nutro Natural Choice, which was fine too, but considering they are both priced in the same neighborhood and Wellness has a higher protein content, this made more sense.<br />But I probably wouldn't have switched from Nutro if it wasn't for all those recalls a few years back -- it really freaked me out. My dog is glad I switched.
+
+product/productId: B0006MWNP2
+review/userId: AR7DVIWO3NRFQ
+review/profileName: G. Eagle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317254400
+review/summary: Wellness dog food
+review/text: My dog, a picky eater, loves this food.  And it's made with better ingredients than most other stuff on the market.
+
+product/productId: B0006MWNP2
+review/userId: A3KTUA9LX02EUQ
+review/profileName: pat olsen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315699200
+review/summary: Golden Retrivers Love It!
+review/text: if you have a golden whose hair tends to smell, this product will significantly reduce the problem. When I adopted my golden, she was extremely overweight and she didn't smell that great. After a few weeks of eating this dog food which was recommended by a friend, she began to lose weight and smell better. It is now about a year and a half later and she's in great shape and smells like a dog. The product does not contain any corn.
+
+product/productId: B0006MWNP2
+review/userId: A2UIPB4ROKUYL5
+review/profileName: R&B Johnsonite Rockford Williamson "Star Review"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1309219200
+review/summary: Great food for the boys!
+review/text: My dogs love this food and I also stay with it because there have been no recalls since I started using it. 4 star due to a little to expensive.
+
+product/productId: B0006MWNP2
+review/userId: AZJ1HP7MBFC4W
+review/profileName: AQuinnT
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308441600
+review/summary: Healthier coat in a week
+review/text: We rotate foods with our one year old. Went from a poultry mix to the fish and his coat is so much softer after only three weeks. Seems to be extremely palatable, and our pup had no issues switching over. He's extremely active so we've been feeding him a little more than the recommended amount on the bag, and his weight and energy level have remained constant. Wonderful food thus far -- no stomach or gas problems, just a mild case of fish breath. Would recommend to anyone!
+
+product/productId: B0006MWNP2
+review/userId: A1I4JU8YRZVXAH
+review/profileName: Daniel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307145600
+review/summary: Only the best for my dog
+review/text: Our dog loves this food. We tried the salmon and the whitefish flavors also but he clearly likes the chicken the best. We have only used wellness for our dog and his coat remains shiny, he is at an appropriate weight and full of energy, and has healthy bowel movements. I think this is the best you can get and well worth the price in the longevity your beloved pet gains in eating a healthy, natural diet.
+
+product/productId: B0006MWNP2
+review/userId: A2VF25F0XZHXMW
+review/profileName: Chris Apolant "Quill & Ink"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1307145600
+review/summary: Too High On Carbs, Low On Protein
+review/text: I am not rating this food with three stars because I dispute the quality of ingredients, or that it's one of the healthiest commercial dog food available on the market. Wellness is an excellent brand, more importantly, one whose quality control I trust. My dogs are doing fairly well on it, too, however, the reason I cannot give the Super 5 Mix a five star review is for the unusually low levels of protein and fat, which are not suitable for my highly active Beagles.<br /><br />My dogs spend as much time outdoors as they do snoring on the couch (which is a lot), and unfortunately, the 22/12 ratio of fat:protein does not cut it for them. By most standards 22% is a very low amount for even a maintenance diet, and despite the inclusion of whole grains, fruits, and veggies, I've found that I need to add oils and meat on a daily basis because their coats have been thinning out/shedding more than usual and their muscle mass has definitely decreased in the several weeks I've been feeding it. I'm very disappointed because it's only the middle of summer, when they normally maintain their coat very well and are less active than in the cooler months. Energy levels are also not very good... I am seeing spikes and crashes which is usually indicative of a high carbohydrate feed, so alas, will have to find another, more meat based diet for my pack. Although I would still recommend this for less active dogs - it's just not right for mine.
+
+product/productId: B0006MWNP2
+review/userId: A1GVXO2ZZCGTMF
+review/profileName: Chris R. Hatton
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1306281600
+review/summary: Gotta Love Organic Dog Food from Wellness!
+review/text: I remember when it was almost impossible to find oragnic dog treats online. Amazon rocks when it comes to buying organic dog treats! I ususally get my treats from doggiemunchies.com because of the quantities and flavors they offer, however I decided to try the 30 pound bag of organic dog food to offer both organic treats from doggiemunchies.com and the food from Wellness. Now my dogs get the best from both worlds!
+
+product/productId: B0006MWNP2
+review/userId: A2L8ODA6KVBG6D
+review/profileName: Flipflopsforever
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304294400
+review/summary: My dog loves this food!
+review/text: My 17 year old terrier mix has been enjoying Wellness Senior for at least two years now. She has never had any troubles with digestion.  She is happy so I am happy. Amazon has the best price and with free shipping with my prime account it's the best thing going.
+
+product/productId: B0006MWNP2
+review/userId: A3NO05U8A7GKF5
+review/profileName: luvthgirls
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303430400
+review/summary: Super Dog Food
+review/text: I have used this food now for several years.  My golden girls love it and their coats are shiny and soft. It also helped my golden/border collie mix with her seizures. I highly recommend it to anyone needing a quality product that your dog will enjoy.
+
+product/productId: B0006MWNP2
+review/userId: A1XW6CL6JGBJ60
+review/profileName: Al Anderson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301270400
+review/summary: Great Product
+review/text: We have two Large Yellow Labrador Retrievers. One has always been fine with a higher end large breed grocery store brand. The other, developed terrible ear problems over time, after trying other remedy's we finally started changing foods, and found Wellness brand cleared up the ear problem within days! Sometimes mild ear irritations would come back, although in a very mild form as compared to before.<br /><br />A few months ago, we decided to try the Wellness Chicken, and the ear problems are gone. Another benefit is, so is their Gas!<br /><br />The dogs love the food, are still just as active, and look just as healthy as they always have. Plus they love helping open the box that the food comes in when picked up off of the front porch!<br /><br />Thanks to Amazon and Prime we do not have to search pet stores that are always out of this stuff, and we can have dog food on our doorstep within 2 days! All of this without paying crazy shipping costs.<br /><br />Keep it up Amazon, and Wellness.
+
+product/productId: B0006MWNP2
+review/userId: A1YPSR335VNGC5
+review/profileName: Diane Marie "Diane Marie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300147200
+review/summary: Vet tech approved!
+review/text: Im a vet tech and I have researched many brands. This is one of the best with quality ingredients, a good nutritional balance, and value. I only feed dry food to my dogs, but occasionally will give some Wellness canned food. My dogs love it, well worth the price.
+

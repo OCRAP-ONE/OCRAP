@@ -1,0 +1,1143 @@
+product/productId: B001EO5U8I
+review/userId: A1ORJI788TRZ0V
+review/profileName: tea4me
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1169078400
+review/summary: tea4me
+review/text: Great tea. Like dessert in a cup. Only 4 stars because Numi is better.
+
+product/productId: B001EO5U8I
+review/userId: A16KK3YHCWE29C
+review/profileName: QF Jane
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1190678400
+review/summary: Not what I expected
+review/text: The price + being organic is what drew me in to try the Stash brand... but the taste is nowhere near the Jasmine tea that I can get at my local teashop.<br /><br />I have tried several different ways of brewing, and the sweet jasmine aroma & taste is barely discernible.<br /><br />It is drinkable though, and like I said, the price was very good.  I hope to try the Numi brand next -- I have heard rave reviews about their Jasmine Pearl teas!
+
+product/productId: B001EO5U8I
+review/userId: A2WEQ52C7ZOGQY
+review/profileName: Ping Fin "tea expert"
+review/helpfulness: 2/5
+review/score: 2.0
+review/time: 1175385600
+review/summary: Not really an Earl Grey tea
+review/text: This tea is spiced with other spices than bergamont and while the tea seems of good quality its taste it unlike an Earl Grey.  It tastes almost sweet and more like an herbal than a black tea.  If you are looking for an Earl Grey, this certainly is not it.
+
+product/productId: B001EO5U8I
+review/userId: A1S7MC961R4WE4
+review/profileName: Ash
+review/helpfulness: 2/5
+review/score: 3.0
+review/time: 1167868800
+review/summary: Not Strong enough
+review/text: The tea is Ok but if you like your tea strong or with a dash of milk, this is not the best!
+
+product/productId: B001EO5U8I
+review/userId: A3C39I4ZCC5212
+review/profileName: Anthony Quang Pham
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1310169600
+review/summary: Very strong...
+review/text: This is my first bag of chai tea and I have to say, it's extremely strong if you try to drink this straight. I can barely taste the tea itself, just a bit of bitter, and an extremely strong spice taste.<br /><br />It gets better if you water it down a lot, or take it with a lot of milk (basically a chai tea latte), which I suppose is how it's supposed to be drunk. But you start losing the base tea and only get the other spices.
+
+product/productId: B001EO5U8I
+review/userId: A3DQWFWINN3V5A
+review/profileName: David A. Lessnau
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1286928000
+review/summary: Bitter Grass Clippings
+review/text: I don't much care for this Stash Premium Loose Green Tea.  I'm no tea expert, but I've got several problems with it.  Flavor-wise, I find this tea to be bitter with a grassy taste (that's not a good flavor, to me).  Texture-wise, the tea "leaves" range from almost half-inch long thin shards of leaves down to 1/16th of an inch sized remnants (I've uploaded a picture so you can see for yourself).  The mishmash of textures makes it difficult to portion out the leaves and results in a lot of the small stuff making its way through the infuser of my <a href="http://www.amazon.com/gp/product/B0010NR7C0">Bodum YoYo Personal Tea Set with Infuser and 12-Ounce Glass</a> (admittedly, a finer meshed infuser might not have as much of an issue here).  Also, the wide range of textures indicates (to me) that these tea leaves might not necessarily have been chosen for inclusion.  Instead, it feels like they might just have been leftovers from other processes (that's merely my non-knowledgeable feelings and not based on any hard facts).  On a positive note, I will say that the steeped beverage does have a very nice yellowish green color.  Overall, though, I have to rate this tea at a not-very-good 2 stars out of 5.  A green tea that I do like is <a href="http://www.amazon.com/gp/product/B000F4H5FE">Twinings Green Gunpowder Tea, Loose Tea, 3.53-Ounce Tins (Pack of 6)</a>.
+
+product/productId: B001EO5U8I
+review/userId: A2KQGGZJTJ1CGE
+review/profileName: D. Logan
+review/helpfulness: 1/4
+review/score: 5.0
+review/time: 1189382400
+review/summary: Good for Indoor Smoking
+review/text: Great for making "smoked" ribs in your oven!  (But I don't think I'd ever drink the stuff)
+
+product/productId: B001EO5U8I
+review/userId: A3THJ7GQR0M37T
+review/profileName: R. Higgins
+review/helpfulness: 0/3
+review/score: 4.0
+review/time: 1238025600
+review/summary: Convenience of Auto Delivery
+review/text: I find it very convenient to have some of my grocery products automatically delivered to my door.  However, when I did postpone an order because I didn't need it yet, it was a problem getting it delivered sooner when I did run out.
+
+product/productId: B001EO5U8I
+review/userId: A1CVPBZYFSVIAQ
+review/profileName: t rad "t rad"
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1173571200
+review/summary: Tastes like a Campfire!!!
+review/text: The product description says, "assertive, dark, smoky fragrance and flavor" and they ain't kiddin'!!!  It barely tastes like tea at all... more like they took a cloth, let it hang in campfire smoke for a week, soaked it in hot water and wrung it out into my mug.  Seriously!<br /><br />I've tried taking half of a pinch of this and adding to other tea leaves when I brew a pot. That turns out pretty good.  But straight? You'd better like wood smoke!
+
+product/productId: B001EO5U8I
+review/userId: A7VNP2A3H72JD
+review/profileName: Glenda Steffee "GH Steffee"
+review/helpfulness: 0/6
+review/score: 5.0
+review/time: 1188604800
+review/summary: Daughter's first choice
+review/text: My adult daughter is "into" saving the planet, tigers, water resources, trees, etc. She chose this chai tea after discovering an old tea infuser in the kitchen drawer thinking it would be grand to make tea "the old fashioned way".  She realized with the first brewed cup that loose tea has a much fresher, intense flavor than teas in a bag. I doubt that she will go back to using tea bags again and will probably research and request more Stash tea products in the future.
+
+product/productId: B001EO5U8I
+review/userId: A196SEEGLL4OGD
+review/profileName: J. Singer
+review/helpfulness: 10/10
+review/score: 3.0
+review/time: 1157414400
+review/summary: Good, but not great
+review/text: Unlike most Stash teas, and most premium loose teas in general, this tea is not identified by a region of origin or a method of preparation.  Fittingly, the flavor is very typical of unadulterated green tea.  Before infusion, the dry leaves smell of sweet hay, but after brewing, the smell and the flavor is a bit more mild and earthy.  There are plenty of stems mixed in with the tea leaves, which is disappointing in a "premium" tea.  The most important thing I can say about this tea is to only infuse it for 2 - 3 minutes.  The recommended infusion time of 3 - 5 minutes is way too long and results in a very bitter cup of tea.  Overall, this is a fine tea for the price, but don't expect anything outstanding.
+
+product/productId: B001EO5U8I
+review/userId: A3LOIAZYY3U9V9
+review/profileName: Adam Z
+review/helpfulness: 10/11
+review/score: 2.0
+review/time: 1172707200
+review/summary: Go for Pinhead Gunpowder instead...
+review/text: Having purchased a package of this tea and one of Stash's Pinhead Gunpowder Green, I can safely say that the Gunpowder is much better tea. The "Organic Premium" is unacceptably heavy on stems and twigs, with an unpleasantly mulchy taste. The Gunpowder, on the other hand, is much lighter and more delicate. Same price, same distributer, both organic. Stash Gunpowder is simply better.
+
+product/productId: B001EO5U8I
+review/userId: A3930X480VRR8D
+review/profileName: murray lee
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1181606400
+review/summary: great strong tea
+review/text: Use 1/2 as much tea as you normally brew and still have a stronger more full bodied tea.
+
+product/productId: B001EO5U8I
+review/userId: A2OOGNEEW60IQ
+review/profileName: M. Bolin
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1169510400
+review/summary: Good value but.....
+review/text: This tea has a very grassy, vegetal taste and smell, which can be good or bad depending on your preference.
+
+product/productId: B001EO5U8I
+review/userId: AAVXLDJPBOJBW
+review/profileName: Simon
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1168992000
+review/summary: Pleasant drinking tea
+review/text: This tea isn't quite as full bodied as some other Assams but still has a great flavor. The quality is good: the leaves are small tips and there is very little tea "dust" or stems in the bag.<br /><br />I have blended this 1:1 with Stash's Organic Ceylon for an easy drinking English-style tea.
+
+product/productId: B001EO5U8I
+review/userId: A250CQHA3GDXIE
+review/profileName: chris "teh castle."
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1179100800
+review/summary: good tea, good bargain
+review/text: very good tea at a good bargain, you get three bags of tea that can each make about 45-50 cups of tea, so thats anywhere between 135-150 cups of tea.
+
+product/productId: B001EO5U8I
+review/userId: A1B54NV7RNRBO4
+review/profileName: Lori
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1199577600
+review/summary: My favorite!
+review/text: I've started each morning off with this particular tea for the last 5 or 6 years. I love this tea. I went from a coffee drinker to a green tea drinker because of this tea. It has nice a strong flavor that I simply adore. (I make it much stronger then suggested, I love bitter tastes! Then I just add hot water to the leaves for the second cup, and it is as good as the first!) I have been purchasing this from Stash directly for years, but it is a better deal on Amazon.
+
+product/productId: B001EO5U8I
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1186358400
+review/summary: Very Bergamot-y Tea!
+review/text: ****<br />I enjoy bergamot a lot, but this tea was way too fragrant for me; still it was different and enjoyable to try. The bergamot flavor is strong, not subtle, and a bit overwhelming---it's all you can taste.<br /><br />The ingredients of this tea are premium black teas with pure oil of bergamot---that's all.<br /><br />The manufacturer writes: "Oil of bergamot comes from the rind of a citrus fruit which grows very well in the Calabria region of Italy. Pure top quality oil of bergamot is expensive but no blend or man-made flavoring can match the ethereal aroma and finely nuanced flavor of the real thing.<br />Certain Earl Grey fanatics have grown especially fond of the top grade Calabrian oil of bergamot that we use and have asked for more, ..More,... MORE! Thus was born Stash Double Bergamot Earl Grey. In our Double Bergamot Earl Grey tea, the black tea base still serves as a solid foundation for this blend, but the oil of bergamot takes wing and soars to new unprecedented heights. The flavor is quite pronounced but not at all soapy or bitter which would happen with low grade oils. Is the flavor too strong? For a conservative drinker, maybe yes, but more adventurous types really seem to like it."<br /><br />I must not be adventurous enough. I do agree with the manufacturer, though, and it might be the tea for you if you're a huge fan of bergamot and want a lot of it, and I also agree that it tastes pure, not soapy or bitter at all.<br />****
+
+product/productId: B001EO5U8I
+review/userId: A21XM05QOR21K3
+review/profileName: S. Jacobs "Elizabeth"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1174694400
+review/summary: outstanding quality, great price
+review/text: Stash's Organic Pinhead Gunpowder Green Tea, Loose Leaf, is the best of the best of green tea's.  It is rich, smooth, and looks like liquid gold in the cup.  The tea leaves can be used 2 or 3 times, depending on how strong you like your tea, with good results and good flavor.
+
+product/productId: B001EO5U8I
+review/userId: AAVXLDJPBOJBW
+review/profileName: Simon
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1168992000
+review/summary: About right...
+review/text: My experience so far with black organic teas is that they tend to be lighter in flavor that their non-organic counterparts although I can think of no good reason for this. Stash's Organic Ceylon is no exception - it has a good, but subtle flavor.<br /><br />The quality is good: the leaves are small tips and there is very little tea "dust" or stems in the bag.<br /><br />I have blended this 1:1 with Stash's Organic Assam for an easy drinking English-style tea.
+
+product/productId: B001EO5U8I
+review/userId: AXO4PQU0XG3TG
+review/profileName: Dwight
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1178409600
+review/summary: $13.60 for organic and pinhead
+review/text: From reading reviews of all the stash green teas, I decided to get the organic pinhead version for better quality.  I think it is excellent though it is not cheap.  The leaves look in excellent shape and only a spoonful is needed in a teapot.  I made the mistake of using too much tea for my first pot but this is a tasty tea.
+
+product/productId: B001EO5U8I
+review/userId: A3KY6HIM0HCIGG
+review/profileName: Lynda Chassey
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1200960000
+review/summary: Excellent breakfast tea!
+review/text: I buy all my loose tea from Stash, and Kopili Assam is one of the best Assams I've tasted.  It's a bold, dark red, tea that tastes good any time of day.  If you only have a little left in the tin, it blends well with any other black tea.
+
+product/productId: B001EO5U8I
+review/userId: A2R4BNNO98V4A2
+review/profileName: J. Prall
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1198022400
+review/summary: This is not premium quality tea
+review/text: I agree with the other reviewers.  Stash has some great teas, but this is not one of them.  I consider myself to be fairly well-educated when it comes to tea, and I have never seen tea milled in this manner before.  There are large bits and chunks of leaves and stems.  The flavor of the tea is very grassy, and the tea looks like it is relatively raw.  I guess you get what you pay for.  I'd avoid this tea and get the organic pinhead green.  Better yet, visit Stash's website for teas that come from established tea estates.  I recommend the Ambootia tea estate's Darjeeling Green.
+
+product/productId: B001EO5U8I
+review/userId: A1NA2IGTRDXPAM
+review/profileName: Earl McKenney "Earl"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1168387200
+review/summary: Tea
+review/text: tangy ginger flavor - very pleasing to the senses; only takes a small amount to make a delicious cup of hot tea or iced tea in a pitcher for the refrigerator
+
+product/productId: B001EO5U8I
+review/userId: A3MUSWDCTZINQZ
+review/profileName: Ulalume Jones "Creative Gal"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1283990400
+review/summary: My favorite Stash tea!
+review/text: I love this tea.  It is like the coffee of teas!  Strong brew, it has a malty taste I love. I've tried other Irish Breakfast teas and keep coming back to this one, other brands seem weak in comparison.
+
+product/productId: B001EO5U8I
+review/userId: A971V3U77BXE5
+review/profileName: J. Hirschman "in California"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1268524800
+review/summary: Looks good, tastes bad
+review/text: I was looking forward to this product, as my wife and I both like Earl Grey tea, and decaf lets us drink it at night.  We drink a variety of tea, so we don't go through individual tea very quickly, so I was looking forward to the resealable packets.<br /><br />Unfortunately, this tea just doesn't taste good initially and has a particularly unpleasant aftertaste.  I definitely would not recommend buying this tea.
+
+product/productId: B001EO5U8I
+review/userId: AUKAIUTI6IANW
+review/profileName: P. Beck
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1262304000
+review/summary: Not particularly strong
+review/text: I have a wrapper from a single teabag of Nummi Tarry Lapsang Souchong, and the wrapper alone smells stronger after being opened for two months than a whole 3.5 oz bag of this smells fresh. This tea only has a light smoky scent and flavor, whereas the Nummi tea had a strong pine smoke scent and taste. I know that tarry lapsang souchong should be stronger, but I'm still a little disappointed at how weak this one is. Maybe I'll just use more tea for stronger batches.
+
+product/productId: B001EO5U8I
+review/userId: A3Q2XQ803BLXME
+review/profileName: C. Drennon "the stitch"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1255219200
+review/summary: Great green tea for not too much.
+review/text: Stash's gunpowder green has been a staple tea in our house for almost a year now. We prefer it iced, but it is decent hot. It is much more affordable than most other green teas and the quality is right up there with other good gunpwder greens we have had. Like most green teas, steep at 180 degrees for 3 minutes to get the best results. We go through a 3 pack of this stuff every single month.
+
+product/productId: B001EO5U8I
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1224720000
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Kosher. Very smooth taste. Medium dark color. Great tea and brand. Economical. Assam can be a wonderful place to visit when calm. Off the well-beaten and ordinary tourist path. Beautiful people. Possible to take the train (or a flight) from Kolkata [Calcutta.] Large parts of Assam are blanketed with beautiful tea gardens. Stayed at a tea garden in Assam on one of my visits there. Loose leaf tea is very economical even for premium brands compared to tea bags. Bulk loose tea is also typically better than the powdered teas used for tea bags. Stash is a leading organic tea brand. Also really like <a href="http://www.amazon.com/gp/product/B001E5E268">Stash Premium Organic Jasmine Green Tea, Loose Leaf, 3.5-Ounce Pouches (Pack of 3)</a>. Check out that review if you are interested in some brewing tips. This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B001EO5U8I
+review/userId: A32SK8XY51OQFR
+review/profileName: Pam "Tea freak"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1215561600
+review/summary: Lemon Ginger Tea
+review/text: Excellent tea.  Normally I am a black tea drinker, but this is an exception.  Superb when you have a cold or tummy ache.  A must have on hand tea.
+
+product/productId: B001EO5U8I
+review/userId: A3DWLW7WWFKE6D
+review/profileName: Judith "judy"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1212451200
+review/summary: good but pricey
+review/text: A friend requested loose Jasmine tea for her birthday and there weren't many options. Being in a hurry, I bought it, keeping one of the 3 packs for myself. I think the price is rather high, but the package zip locks, and the favor is nice. Strong enough to know it's jasmine, but not annoying.
+
+product/productId: B001EO5U8I
+review/userId: A35OD1RKGX6RJK
+review/profileName: foamweapons
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1195430400
+review/summary: Great Green Tea
+review/text: I've tried many green teas in the same price range, but I always come back to Stash Organic Green.<br /><br />This green tea tastes how I think green tea should taste.  It's light, vegetal and very smooth.  To get the full flavor you need to use more leaves than most other green teas, and make sure the water temperature doesn't go over 180 degrees.  I often mix this tea with cascade mint, jasmine green or other Stash loose leaf herbal teas because although it's very good by itself, plain green tea can get boring day-after-day.  Contrary to the other reviewer, I don't like the Stash Organic Pinhead Gunpowder, and recommend this tea instead.
+
+product/productId: B001EO5U8I
+review/userId: A3OYRU2VONLAQT
+review/profileName: PAC "islandhousebooklover"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1194912000
+review/summary: great tea, great price, great service
+review/text: Being British in America and finding a good "cuppa" is almost impossible. but I think with the stash breakfast tea I can happily live here forever.
+
+product/productId: B001EO5U8I
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1186617600
+review/summary: Good Basic Tea
+review/text: ****<br />This is a good, albeit unexciting breakfast tea from Stash. It is made from blended black teas. I much prefer Stash's Organic Breakfast Tea and Stash's Irish Breakfast Tea because both of those have distinctive and pleasurable tastes. However, there is nothing wrong with Stash English Breakfast Tea and it is a good change from basic orange pekoe tea. It can be brewed nice and strong without getting bitter (by brewing it longer), a sign of a good quality tea. Recommended, especially if you enjoy a simple, basic tea.<br />****
+
+product/productId: B001EO5U8I
+review/userId: A1YGG6T4YJZWC1
+review/profileName: bethany "birds and more birds"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: fantastick
+review/text: i was a die hard Teavana fan until they discontinued (retired) several of my favorite teas<br />including Assam Gold Rain FTGFOP though i had some left i decided to give this a try and was<br />pleasantly surprised, it is full bodied w slight astringent qualities balanced by sweet notes at<br />the start w a nice malty finish.<br />i drink it straight up w raw sugar &/ or raw honey.<br />it is about the same price as Teavana's Assam was (if you buy it on Amazon) i will be buying more soon<br />my friends and family love it also by the way.
+
+product/productId: B001EO5U8I
+review/userId: A4XQ04F3KY20W
+review/profileName: K. Reznek
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307491200
+review/summary: Delicious
+review/text: I've only done this tea as a cold brew iced tea. There is no bitterness, just a smooth, refreshing, green taste. The ginger is very strong. I love ginger, so that is no problem for me. A second brew was significantly weaker, so I will stick to one brew per batch of leaves with this one (I am able to get three quality brews from many green teas).
+
+product/productId: B001EO5U8I
+review/userId: AZ2NEHE8TNRUW
+review/profileName: prb in California
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1295568000
+review/summary: weak Earl Grey
+review/text: This tea is a disappointment because its flavours are weak.  It takes about double the amount suggested to brew a proper pot.  The packaging is green, but that does not make up for the weak tea inside.  If you do not like a strong, traditional bergamot flavour, then try this one.  You might like it, but I did not.
+
+product/productId: B001EO5U8I
+review/userId: A1O5NDRKV5N64P
+review/profileName: Ryan Mitchell
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288569600
+review/summary: A lovely tea
+review/text: After having some incredible green tea with ginger at a restaurant, I began my search for something similar. I eventually decided on this tea, and I'm very happy with it. It's very smooth and has great flavor that's not dominated or overpowered by the ginger or lemongrass. I also agree with the previous reviewer that this works wonders for an upset stomach. The price is also very fair, given the high cost of quality loose leaf teas.
+
+product/productId: B001EO5U8I
+review/userId: A1CHKAWX7FAOM4
+review/profileName: L. Kirk "Crabseye"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1275350400
+review/summary: High quality, organic!, a little flat
+review/text: I have been drinking fine tea for a few years now. I have a couple of favorite Assams that I have enjoyed for some time. Both are graded TGFOP and both are superb: filled with body, complex flavor, malty. But over the years I have become concerned about pesticides used in foods. I have chosen to use as many organic food products as I reasonably can. I recently tried this Stash Premium Organic Assam Tea.<br /><br />This is a very good tea. The pouch is filled with quality loose leaf product. My uneducated guess would be an approximate grade of FOP or perhaps TGFOP.<br /><br />The taste is basic, unadorned Assam. Malty and full of body. It is not as complex as teas from the finest plantations. By complex, think of colors. This tea flavor has maybe one or two colors, where a complex tea from a fine plantation might have 3, 4, or more flavors you can distinctly identify.<br /><br />Still, at a fair price and with an organic grade, this will be a regular choice at my house in the future.<br /><br />I would prefer to see an organic tea packaged in a non-plastic pouch though.
+
+product/productId: B001EO5U8I
+review/userId: A1LVEPRENTHRSH
+review/profileName: Amazon Customer B
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1266969600
+review/summary: Sweet Jasmine
+review/text: I am a long-time green tea consumer.  I switched from coffee to green tea when I learned about the beneficial effects of green tea.  I like a fairly strong tea and usually grate fresh frozen ginger into my tea cup for extra flavor.  I steep a generous teaspoon of the loose leaves in 8 oz. of hot water (not quite boiling).  To my delight, the Jasmine green tea is always good with or without ginger.  I can use the leaves at least twice with good results.  The mild aroma of the tea is like jasmine blossoms and the taste has a sublte sweetness.  I drink at least 24 oz. of the tea each day.  So the fact that the tea is organic is a plus. The price is competitive.  I will buy this tea again
+
+product/productId: B001EO5U8I
+review/userId: A3GMNAZ67M6D6D
+review/profileName: Rebekah
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262908800
+review/summary: Good all around tea
+review/text: This tea is my go to tea for everyday!  It is nearly indestructible!  I've forgotten about it and it has steeped for 15 minutes and still tastes great!  I can brew it, put it in my travel mug, go to the gym and an hour and a half later it still tastes great!  Can't beat the value either at about $5 a bag.  If I recall correctly it is about $7 at the Stash store in Oregon.  This is the tea that got me drinking green tea!
+
+product/productId: B001EO5U8I
+review/userId: AT0IKAJJBC86V
+review/profileName: kis "simplicity"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261526400
+review/summary: Great Coffee Substitute
+review/text: Coffee was killing my stomach so I went in search of a healthy organic alternative to my morning ritual and discovered this little treasure.  The jasmine is strong and the green tea is superb.  And, with less caffeine in my life, I am a much nicer person (chuckle).
+
+product/productId: B001EO5U8I
+review/userId: A1GYS4NZQDMUVO
+review/profileName: A. Palmer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1242000000
+review/summary: Great morning tea
+review/text: This is one of the better Irish Breakfast teas I have tried.  I will keep buying it as long as it is offered!  The packaging does a good job keeping the tea fresh.
+
+product/productId: B001EO5U8I
+review/userId: A3MABADRI0B300
+review/profileName: C. Yi
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1220659200
+review/summary: Bland
+review/text: Expected good, full flavor from this tea, recently having finished 2 packets of Japanese Gyokuro. It is bland, and the color of the steeped tea, an unattractive dark brown - with no hint of green.
+
+product/productId: B001EO5U8I
+review/userId: A2FRFAQCWZJT3Q
+review/profileName: B. Davis "The Happy Hermit"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1216771200
+review/summary: Good stuff!!
+review/text: Two level measuring teaspoons makes at least 30 ounces of tea, good strong tea that is highly stimulating.  I don't even miss coffee now!  Using distilled water makes the best tea in my opinion.  I drink the first mug straight and the rest I put soy milk powder in.  GOOD STUFF.  Will continue to buy this tea.
+
+product/productId: B001EO5U8I
+review/userId: A3D9TNJMK7GZYW
+review/profileName: gcsdls "gcsdls"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1201219200
+review/summary: The BEST!!!
+review/text: This has become my favorite Stash tea.  I liked the Earl Grey, but the Double Bergamot Earl Grey is twice as good!  As to whether or not it tastes like 'real' Earl Grey, who's to say?  They're all a little different.  But if you like Earl Grey, this is DEFINITELY worth a try.
+
+product/productId: B001EO5U8I
+review/userId: AI959626J3RK3
+review/profileName: murlburt "SmartConsumer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1198713600
+review/summary: Delicious tea
+review/text: I'm a fan of flowery teas and this is definitely a wonderful addition to my tea assortment...and a great value!
+
+product/productId: B001EO5U8I
+review/userId: A1PVQTIU3JXBZ1
+review/profileName: Noesis
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1198368000
+review/summary: Yummy
+review/text: I have tried several incarnations of this tea, both in bags and loose. Numi's loose version is cut bigger, which means less sediment, but I prefer Stash's smaller resealable bags.<br />I really like the sweet taste and often mix honeybush with rooibos.
+
+product/productId: B001EO5U8I
+review/userId: A1VYHEP4HDGJ4C
+review/profileName: A. Lientz "lientz"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1194393600
+review/summary: Solid strong tea
+review/text: Good wake up tea.  Solid flavor.  Requires a fine strain on your tea cup.  It's a fine cut of tea and will get bitter if you overbrew.
+
+product/productId: B001EO5U8I
+review/userId: A32SK8XY51OQFR
+review/profileName: Pam "Tea freak"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1191974400
+review/summary: Stash English Breakfast Tea
+review/text: Alway a Irish Breakfast fan, I was surprised I enjoyed this tea so much.  Found myself choosing it over much more sophisticated teas.  Nice, basic, very drinkable tea.
+
+product/productId: B001EO5U8I
+review/userId: A3IKZU52IAXVI9
+review/profileName: C. H. Walker
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1190160000
+review/summary: Tasty and Good for You!
+review/text: This is the perfect morning perk me up.  The tea brews nicely and has just a hint of jasmine flavors (not overpowering at all).
+
+product/productId: B001EO5U8I
+review/userId: A282SV3AIUE154
+review/profileName: K. Feucht "OncoDoc"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1291334400
+review/summary: Good product
+review/text: Most Earl Grey teas taste similar. This product has a sense of freshness that reflects Earl Grey at its best, and is reasonably priced. To those who do not regularly use loose tea, the tea bag (Teebeutel, sachet) definitely does not taste as crisp and refreshing as the comparable tea when brewed as loose tea.
+
+product/productId: B001EO5U8I
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1224720000
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Kosher. Nice beautiful loose leaf jasmine tea. Great for brewing a cup at a time with an infuser or for larger amounts with my TeaDrop. Loose leaf tea is very economical even for premium brands compared to tea bags. Bulk loose tea is also typically better than the powdered teas used for tea bags. Stash is a leading organic tea brand. You can also make any amount using a method common in India by adding the tea leaves into roiling boil water in a pot on the stove for a 3-7 minutes (to taste) and then using a strainer to remove the tea leaves. Longer boiling makes darker tea, but any tea can also become more bitter if boiled longer or too long this way. It is also not advisable to leave the tea leaves in the tea after boiling for the same reason. Use a timer and boil a test batch. Dip a ladle and pour through a strainer into tasting cups at one minute intervals. Set them aside and taste test after finished. Choose your preferred time and strength for future use. This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B001EO5U8I
+review/userId: A1D3E0AU6BNG4D
+review/profileName: lrh
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342915200
+review/summary: Its good!!
+review/text: *rolls eyes at other reviewer* of course its going to smell like a campfire they roast the tea over pine and its awesome!!! I love this tea, but their suggestion of one teaspoon is a bit conservative for black tea you usually do one tablespoon per cup not a teaspoon, its up to preference but i love this tea and the fact that it reminds me of camping is a plus! it makes me feel good, and it tastes great too!
+
+product/productId: B001EO5U8I
+review/userId: A227E8U5TLDWP
+review/profileName: Patricia A. Lesniak
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Decaf Chai spiced loose tea
+review/text: This is the only brand which I could find that sells decaf chai as loose leaf tea.  It is delicious also.
+
+product/productId: B001EO5U8I
+review/userId: AIOYMXZNIE4ZN
+review/profileName: LazySAHM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340150400
+review/summary: Decent tea for a moderately picky tea lover
+review/text: I am not a real connoisseur of loose teas, but I do like decent black tea with no added flavors, just loose black tea like indian or ceylon teas or maybe some blends like irish or english breakfast. This is a perfect example - relatively inexpensive but good tasting with full, rich flavor. Perfect for someone who would not settle for teabags, but is also not into exquisite expensive teas.
+
+product/productId: B001EO5U8I
+review/userId: A21XUSS7STBPPY
+review/profileName: Laurence E. Spaner "Lee Spaner"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339632000
+review/summary: Jasmine Green Tea.
+review/text: Stash has done a fine packaging job on its organic green teas.Whether they are the gunpowder which I like(more fond of the Twinings gunpowder).<br />  That being said the Stash Premium Organic Jasmine Green has to be ranked right up there with Rishi Jasmine.If you are familiar with Rishi.<br />  Republic of Tea Jasmine, is better than both of these.However if you are LQQking for a tea that is in a great package,easy to store,easy on the pocketbook and still delivers,then this is the one.Is it the greatest jasmine in the world,no of course not,but it is enough of a great tea for everyday drinking in and out all year long.<br />  Even the best of teas need some time off,but with this one i am never disappointed.<br />  Two minutes brew time at 175 temp, and it doesn't get bitter,and can make a second great cup minus the caffeine.Remember all the caffeine goes into the first cup.You can avoid the caffeine altogether by giving it a flush for 30 seconds in a cup of 175 degree water and then removing the brewing basket.Thanx
+
+product/productId: B001EO5U8I
+review/userId: A2QM9IE3S9ZZL3
+review/profileName: Jo Anne Pitcher "JoAnne"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Great tea
+review/text: I wanted some Stash Earl Grey Double bergamot tea for my Keurig. It doesn't come all nicely wrapped in its own little K-cup, but it IS loose tea and if you have the attachment to brew your own cuppa, this works great.
+
+product/productId: B001EO5U8I
+review/userId: A7BO1FF6K0PEA
+review/profileName: Trini
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334880000
+review/summary: It's okay
+review/text: Not really the best tea but not awful either. It is good if you just feel for a cup of tea and don't have anything else.
+
+product/productId: B001EO5U8I
+review/userId: A2U4YO4IY98IB7
+review/profileName: M. Thomas "M. Thomas"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333065600
+review/summary: Good stuff
+review/text: Back to buy more.  Love this tea!  I have had a lot of different green tea, jasmine green tea is my favorite, and this is my favorite jasmine green tea of any that I've tried.  Great quality and flavor!  LOVVVVE IT!
+
+product/productId: B001EO5U8I
+review/userId: A1V05GCUK5VF1G
+review/profileName: Nikki R.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: My Boyfriend Loves It
+review/text: I'm not an Earl Grey fan myself, but I bought this for my Earl Grey fanatic boyfriend. He says it tastes different than Twinnings, but he loves it just the same.
+
+product/productId: B001EO5U8I
+review/userId: AF3ARXQTCC4B4
+review/profileName: Ben
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331337600
+review/summary: Pretty bad
+review/text: pros:<br />+ resistant to overbrewing (getting bitter) when left to steep for long periods of time<br /><br />cons:<br />- very little smell or taste<br />- cannot re-brew, even once; a good green tea can be re-brewed twice for a total of three brews<br />- about twice as expensive as my previous green tea, which is far superior in every way except for the overbrewing issue noted above<br /><br />i'm going back to my previous tea:<br /><br />http://www.amazon.com/Yamamotoyama-Loose-Sencha-Green-7-Ounce/dp/B003XUL1MK/ref=sr_1_5?ie=UTF8&qid=1331447807&sr=8-5
+
+product/productId: B001EO5U8I
+review/userId: A1V1I97UQ82WK4
+review/profileName: gagunter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Great Decaffeinated Chai
+review/text: My wife drinks 4-5 cups of hot decaf chai every week.  We found the decaf version of any brand was hard to find in local stores, so I went to my trusty Amazon and found this product.  It tastes good, she can drink at night with no sleep problems and we've ordered it regularly from Amazon over the past year and a half.
+
+product/productId: B001EO5U8I
+review/userId: A1P8KV7CYBX3AP
+review/profileName: Morgan Avery
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326844800
+review/summary: A great deal
+review/text: I recently started drinking loose tea instead of bags. I was buying the jars from my health food store, but they are pretty expensive. I am always looking for a better deal, so when I found these on Amazon, I decided to get them. I gave one to my mom, and one to my brother. I kept one for myself and I think it is going to last me awhile. Since I don't know all that much about teas, I can't comment much on the quality but as far as I know it is good! It seems comparable to the same stuff I got in the smaller jars. Recommend :)
+
+product/productId: B001EO5U8I
+review/userId: A3UR5KVANJF2W3
+review/profileName: Yooper Gal "bird watcher"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1326412800
+review/summary: E.G. tea
+review/text: Nice light earl grey flavor. pleasant aroma. Use filtered water for cleanest refreshing flavor.I make it in a coffee maker that has never made coffee to keep the flavor pure. Decent cup of tea for the price.
+
+product/productId: B001EO5U8I
+review/userId: A2MQ6I7OOCTHZD
+review/profileName: E. Foote
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323820800
+review/summary: Excellent tea
+review/text: This tea is absolutely delicious, my husband and I love it. It's very smooth and subtly sweet, and especially good mixed with a little green rooibos and a bit of white tea for a touch of caffeine. I haven't noticed any sediment in my cup at all from it yet. I have no complaints, I'm turning into a regular drinker and am signed up for Subscribe & Save. Highly recommended.
+
+product/productId: B001EO5U8I
+review/userId: A3DRFWD0NBIW73
+review/profileName: MovieGuy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317168000
+review/summary: It's heavy on the Bergamont people!
+review/text: <a href="http://www.amazon.com/gp/product/B001EO5R0Y">Stash Premium Double Bergamot Earl Grey Tea, Loose Leaf, 3.5-Ounce Pouches (Pack of 3)</a><br /><br />This is a very nice double Bergamot, if you don't like Bergamot stay away, if you don't like Earl Grey stay away<br />It's heavy on the Bergamot people! That's why they call it DOUBLE BERAMONT EARL GREY.<br /><br />The Upton Tea loose Extra Bergamot is a good alternative also.  But for the price this is a good one.  Loose, or in bags it's a nice tea.
+
+product/productId: B001EO5U8I
+review/userId: A16DKF41U2RBMP
+review/profileName: Kocur
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316822400
+review/summary: Great quality tea
+review/text: This is one of the best English Breakfast (loose) tea I have ever tasted. The flavor is very good and certainly $5 per bag is worth to buy it. Give it a try and you won't be disappointed!
+
+product/productId: B001EO5U8I
+review/userId: AI45MQMDG3FLB
+review/profileName: cindyanne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316044800
+review/summary: Love it
+review/text: I love this tea by itself or combined in my own Russian Caravan blend. Assam combined with hint of Lapsang Souchong and an oolong is delicious. I like knowing exactly what teas are in a blend. Most purchased blends do not give details on their labels.
+
+product/productId: B001EO5U8I
+review/userId: A2SF1TJBQZR3JW
+review/profileName: Rahul Ashok
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310256000
+review/summary: Excellent English Breakfast Tea
+review/text: I have been searching for the 'right' balanced English Breakfast Tea for a few years now. Other than actual English Teas from London, England, it was very difficult to find a rich and aromatic English Breakfast.<br /><br />After trying out at least 20 different varieties, including some very expensive brands, I've found this to be the perfect cuppa in the morning. Personally, loose leaf seems to taste a lot better to me, and I've not tried the tea-bag variety on this one.<br /><br />Hope others enjoy this tea as much as I have.
+
+product/productId: B001EO5U8I
+review/userId: ALC2730501FVO
+review/profileName: GAYLE ISHII
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307577600
+review/summary: lodi gayle
+review/text: I LOVE THIS TEA.  I WISH STASH STILL HAD THIS IN TEA BAGS.  I WAS ABLE TO TUCK THEM INTO GIFTS TO FRIENDS.  NOW I HAVE TO MAKE MY OWN BAGS TO GIVE AWAY.  THE TEA IS GREAT.
+
+product/productId: B001EO5U8I
+review/userId: AIZBSI36ZSV9E
+review/profileName: Spruce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306108800
+review/summary: the best green tea
+review/text: We lived in Japan for 3 years and I leaned to love green tea.  Upon our return to the U.S. I started a hunt for green tea in a price range suitable for daily use - e.g. breakfast.  Stash Premium Green Tea, whether loose or in bags, is really excellent. Most other green teas taste like the lawn, this green teas is really delicious.
+
+product/productId: B001EO5U8I
+review/userId: A3PBDS0C38K5X9
+review/profileName: John C. Kendall "John Kendall"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300320000
+review/summary: We really like it
+review/text: We've been drinking this tea for 3 years now.  My whole family really enjoys it.  We drink it plain (no sugar, milk , etc).  One reviewer says it is sweet or has other ingredients; I disagree.  From what we can tell, it is just tea and bergamont.<br />The tea is very high quality whole leaves and it is packed and shipped very well.
+
+product/productId: B001EO5U8I
+review/userId: ARDSUEAU593W4
+review/profileName: Alex "AG"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296345600
+review/summary: Too much sediment
+review/text: I do love Stash Honeybush but the tea bag version.  I thought I'll give the lose tea a try.  The tea leaves are cut TOO SMALL!  The sediment is everywhere.  I have to strain it 3 times.  I'm definitely not getting this again.
+
+product/productId: B001EO5U8I
+review/userId: A21XUSS7STBPPY
+review/profileName: Laurence E. Spaner "Lee Spaner"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291507200
+review/summary: gunpowder green tea
+review/text: <a href="http://www.amazon.com/gp/product/B001EO5TL6">Stash Premium Gunpowder Green Tea, Loose Leaf, 3.5-Ounce Pouches (Pack of 3)</a> Its a great gunpowder tea, typical taste and texture but a much tighter pearl than most. It can be left standing in its leaves longer without going bitter, I think its worth a try. I know I drink it all the time.
+
+product/productId: B001EO5U8I
+review/userId: A244ZOEIN2H8A7
+review/profileName: David Calder
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1287360000
+review/summary: Very tasty
+review/text: I liked this a lot and will keep this in my tea stock.  The Bergamot is strong and compliments the full bodied earl grey tea well.
+
+product/productId: B001EO5U8I
+review/userId: A3S994HDBZ6CAP
+review/profileName: donna in memphis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1275177600
+review/summary: I always come back to this tea
+review/text: I have become quite the tea drinker, a bit of a tea snob actually.  I have tried them all. I no longer drink tea bag tea, only full leaf loose tea.  This English Breakfast tea by Stash, (full leaf loose) is by far my favorite and one I always come back to.  It has a nice body and aroma, yet never muddy.  Never bitter either.  I always add milk, never sugar, because to me, this tea has a natural sweetness to it.  It is clean & smooth, yet rich.<br />It has a perfect balance for my taste.  I cannot understand why some people only give this tea one star, maybe they just received a bad batch.  I will say that I have noticed slight differences from different batches I have received throughout the years.  I have been drinking this tea for 6 years now, and I love it.
+
+product/productId: B001EO5U8I
+review/userId: A1TN9GMAWHQXWU
+review/profileName: M. Crosson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1273708800
+review/summary: Quality Teas at Reasonable Prices
+review/text: Stash is a decent brand of tea. We've got a number of their varieties in the house. We only use loose leaf and this doesn't have that tendency you sometimes get in loose leaf to be teeny tiny powder bits. You can actually tell that this was, at one time, a plant.<br /><br />It's got a good mild flavour that is just right near bedtime.
+
+product/productId: B001EO5U8I
+review/userId: A38K9AHJIOLYD
+review/profileName: D. Chao
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1272931200
+review/summary: Too many stems
+review/text: It's not bad, as the fragrance just hits you when the bag opens. That being said, way too many stems in the product. I'm not a tea expert, but I've bought enough and I think they have more stems than the average. I do like the eco-friendly no frill packaging with the zipper though.
+
+product/productId: B001EO5U8I
+review/userId: A1PYBRKVC1MKV4
+review/profileName: koo
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1272585600
+review/summary: Second batch inferior to first
+review/text: My son drinks gallons of green tea.  We ordered one of the three-packs in the fall, and it was really good.  He was so impressed, we ordered it again. That (second) batch was disappointing - not nearly as full-flavored as the first.  I'm ordering it just one more time, hoping that the poorer quality was a fluke.
+
+product/productId: B001EO5U8I
+review/userId: AZ4T61QUJHA9E
+review/profileName: Patrick K. Miller "Keeper of Nothing"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1272326400
+review/summary: Good tea.
+review/text: This is good loose leaf tea and the packaging makes this tea a very good purchase. There are three packages so while using one the other two stay fresh, the package has a zip lock thing to help preserve freshness and the bottome is fasioned so that it can stand up like in the picture. The tea itself is very good, but you must remember that this is Jasmine green tea... All in all I am happy with the purchase.
+
+product/productId: B001EO5U8I
+review/userId: A1LC4QKZFH5PWM
+review/profileName: M. MATYASTIK
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1269129600
+review/summary: Follow the directions
+review/text: This is a quality tea that requires you to follow the directions.  My first attempt was by using my old method that works well with a different brand of tea.  In my opinion, when I did the job my old way the result was powerful (too strong).  After two more failed attempts I finally decided to read and follow the brief directions on the package. What have been enjoying for a few years is a strong tea with milk.  Now I have discovered a tea that can be enjoyed straight.
+
+product/productId: B001EO5U8I
+review/userId: A1S4QSDPBDKGMA
+review/profileName: C. Patton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1257552000
+review/summary: A great tea, plain and simple!!!
+review/text: I drink this tea as a part of my everyday ritual.  Those of you who drink tea understand.  I particularly love this jasmine tea.  It has a light flavor with a nice smell.  It is also a great perk that I can order it in a three pack as I use this tea both at work and at home.  I hope you enjoy this product as much as I do.
+
+product/productId: B001EO5U8I
+review/userId: A3MSDZ7KLMRGRR
+review/profileName: J. C. Rose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254787200
+review/summary: Stash Organic Assam Tea
+review/text: Stash Organic Assam Tea is my regular everyday tea. Rich and smooth, I can brew it easily by the cup or by the pot. It also works well in a French press coffee pot. One teaspoon per cup of water, plus a teaspoon for the pot if you're making a potful.
+
+product/productId: B001EO5U8I
+review/userId: ACG6O0II5IZE1
+review/profileName: Music Fan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231286400
+review/summary: Stash Premium Gunpowder Green Tea, Loose Leaf
+review/text: This is a high quality green tea from Stash that makes some excellent tea.<br /><br />The first time I made the tea, I steeped it for a little too long, so there was some bitterness.  When I made another cup this morning, I cut the steeping time down a bit and it was excellent.<br /><br />I have been using a 16oz steeping mug made by "The Tea Spot," which I also recommend highly.
+
+product/productId: B001EO5U8I
+review/userId: A76V5HMU5MQMC
+review/profileName: Alyson Davis "Cooking RD"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1230163200
+review/summary: Gunpowder tea
+review/text: A very good bargain, this tea has a slightly different taste if you are used to regular sencha green tea, but it is worth the adjustment for the price savings!
+
+product/productId: B001EO5U8I
+review/userId: A3PL6PA3U51TA7
+review/profileName: cwe "Christine"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1195603200
+review/summary: yum
+review/text: This tea has a delicious flavor, fresh and light. I love it, and this is a great price. For regular tea drinkers it is a great deal on Amazon's auto-order feature.
+
+product/productId: B001EO5U8I
+review/userId: A16KK3YHCWE29C
+review/profileName: QF Jane
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1190764800
+review/summary: Bitter aftertaste
+review/text: I love good teas -- and this is my second disappointment with Stash in the last few weeks.<br /><br />If you brew this as directed the tea leaves a decidedly bitter aftertaste.  I am trying out different lengths of steeping -- I did less than they recommend on the bag, and it didn't have much flavor.  I may try a little longer, or adding more tea leaves per cup.<br /><br />Otherwise, the price is very good, so for someone who is not picky it is a great deal!!!
+
+product/productId: B001EO5U8I
+review/userId: A1M5D0DG09UGVM
+review/profileName: Bonne Maman
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1185494400
+review/summary: Big leaves
+review/text: I haven't had any problems with this tea so I am a notch above indifferent.  I don't regret buying it.
+
+product/productId: B001EO5U8I
+review/userId: A2HIMA1WC68O2O
+review/profileName: R. Gulati "Tea lover 2007"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1183075200
+review/summary: Honest Brew
+review/text: Stash have tried very hard to get quality product for the consumers. The tea comes fairly close to the best on the market -  this is quite an endorsement from an Indian palate who has nearly 30 years of twice daily Darjeeling tea drinking "experience".
+
+product/productId: B001EO5U8I
+review/userId: A1G31ONMDUNNQ7
+review/profileName: Kim C. "avid reader"
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1158105600
+review/summary: Great tea
+review/text: My husband's favorite loose green tea.  He drinks every morning, and it is a little better price than from Stash.
+
+product/productId: B001EO5U8I
+review/userId: A351W0BCYYUGYW
+review/profileName: Sandy M "sandygod"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1252972800
+review/summary: a darn good pitcher of tea
+review/text: I have been making black tea in my bodum iced tea pitcher and wanted to try a nice loose green. This one works perfectly. It has a mild taste that is very fresh.
+
+product/productId: B001EO5U8I
+review/userId: A2PQ0UMRCFKQF7
+review/profileName: careful buyer
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1163030400
+review/summary: nice organic Assam
+review/text: Satisfactory but not completely satisfying as some other tea growers' Assams are but priced reasonably.
+
+product/productId: B001EO5U8I
+review/userId: A1BOXR5OPYYWWJ
+review/profileName: M. Armstrong
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1342483200
+review/summary: Doesn't taste like English Breakfast to me.
+review/text: I usually drink Twinnings or Bigelow English Breakfast tea in bags, but I'm trying to switch to loose teas and this was my first attempt at English Breakfast.  The dry tea smells like English Breakfast to me, but once it is brewed it smells and tastes totally different, and I don't like the taste at all.  I followed the directions and I have tried different brewing times (2-5min), adding different amounts of milk and/or sugar.  Other people might like it, but be aware that it may not taste anything like what you expect.
+
+product/productId: B001EO5U8I
+review/userId: AKJ95RJVUPGRW
+review/profileName: Joyce Basch
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1330128000
+review/summary: Terrible
+review/text: This was the worst loose tea I have ever had.  I love Stash teabags, English breakfast, but this is bitter and not smooth.save your money
+
+product/productId: B001EO5U8I
+review/userId: A1N32358AY0TZZ
+review/profileName: S. Aghassy
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1313107200
+review/summary: Solid, Strong Green Tea
+review/text: This is a pretty good all around tea.  You can make this pretty strong very easily.  Nothing too special about.  I will probably go on to try other teas.
+
+product/productId: B001EO5U8I
+review/userId: A4XQ04F3KY20W
+review/profileName: K. Reznek
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1307491200
+review/summary: No bitterness
+review/text: This tea is delicious. No bitterness, and great flavor. The only downside is that it is only good for one brewing, but the cost was low enough that a single brew is acceptable.
+
+product/productId: B001EO5U8I
+review/userId: A1KYY5W9P0FFRG
+review/profileName: Caroline
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1289001600
+review/summary: Little too strong for me
+review/text: It's okay, but I wouldn't buy it again.  My absolute favorite green tea is made by specialteas.com.  It's a decaf apricot green tea.  I always end up going back to that after trying other teas.  I've even gotten used to drinking it plain without any sweeteners.  A cup sounds pretty good right now!
+
+product/productId: B001EO5U8I
+review/userId: A9RZL4DEXSXGS
+review/profileName: Joan Ellen Brode
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1284336000
+review/summary: Stash Irish Breakfast
+review/text: This is a great loose leaf tea.  A very fresh taste for the first cup of the morning.
+
+product/productId: B001EO5U8I
+review/userId: A1I2FIFBUORRTE
+review/profileName: J. Reynolds
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1273276800
+review/summary: Avoid this one
+review/text: Buying tea online is a risky proposition. I've enjoyed Jasmine teas for years--just not this one. Consider Stash's Organic White instead. <a href="http://www.amazon.com/gp/product/B000I1OLTM">Stash Premium Tea, Organic Premium White, Tea Bags, 18-Count Boxes (Pack of 6)</a>
+
+product/productId: B003QGQF0O
+review/userId: A12P3GO8EQQ58G
+review/profileName: j0hnny
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317254400
+review/summary: It's better at home
+review/text: I use this product to make iced white chocolate mocha'. I use Peet's coffee(beans are a bit fresher). The drink is simi sweet, creamy in texture. I have tried Ghiradelli white chocolate sauce, I recommend this product.
+
+product/productId: B003QGQF0O
+review/userId: A3P08G7ZBJ3ITF
+review/profileName: Van
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314057600
+review/summary: Tastes just like the store
+review/text: I bought this at the Coffee Bean and Tea Leaf store to try to replicate the Iced White Chocolate Latte they make at the store. With my $60 espresso machine and this powder it is pretty close to what I usually pay $4.79 for a large. I think my limitations are the beans I'm using and the quality of my espresso machine but otherwise I am 90% there. I actually prefer the taste of Coffee Bean's White Chocolate powder over the Starbucks White Chocolate sauce. Starbucks White Chocolate sauce is way too sweet while Coffee Bean's White Chocolate has a more mellow taste. I'll be buying more on Amazon because I think it costs like $15 per can in the store.
+
+product/productId: B003QGQF0O
+review/userId: A1TZKZRN2IUXLW
+review/profileName: mama2nine "mama2nine"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349913600
+review/summary: Damaged Containers/spilled product
+review/text: This product is good! I only like coffee with sweeteners and flavors and white chocolate is my favorite. This dissolves well even in cold coffee. (I have not tried this in milk - only coffee)<br />My problem with this product is that one of the containers had spilled at least half it's product. The others may or may not have spilled - there was so much loose sweetened powder in the bag containing the three cans that it is hard to tell.<br />I had hoped with the cute cans that one or more might be able to be given as a gift, but all three cans were damaged. I transferred the powder from the cans with intact lids into quart jars and began using it.<br />I called Amazon and they replaced the product for free. In the second shipment one can is missing it's lid and there is again sweetened powder all around the cans. I have not yet opened the bag because I have one of the jars from the first order in use and have not had time to deal with the mess of transferring this into quart jars. Until I empty out the loose powder surrounding the cans in the bag I can not tell if the cans with lids are dented or not. I gave this three stars because I like the product. I did not seek a replacement the second time because between the two orders I received the amount of product for which I had paid. If Amazon could figure a way to ship it undamaged it would be worth 5 stars for cute packaging.
+
+product/productId: B003QGQF0O
+review/userId: A1QCAHSTX0SFQQ
+review/profileName: Sunnluvver
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Love it!
+review/text: Found out that they use this at the coffee stand in the Venetian in Vegas and have used it ever since.
+
+product/productId: B003QGQF0O
+review/userId: A21936QWI1QDIR
+review/profileName: xmicgrrl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: Cheaper than buying individual cans
+review/text: If you have an espresso machine at home, you can make the White Chocolate Dream exactly like CBTL makes them and save $$$!
+
+product/productId: B003QGQF0O
+review/userId: A1YBXD56RMF3WM
+review/profileName: Stephanie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1310601600
+review/summary: product good, packaging not so good
+review/text: The product was good, as expected.  The packaging didn't do as well when shipped.  One of the 3 cans broke open and spilled in the box, as well as leaking out.  A second can was almost open.<br /><br />While I don't feel that the box was appropriately packed, I think perhaps the cans should be sealed more tightly as well.
+
+product/productId: B003QGQF0O
+review/userId: A39UQFN4Q6LQA8
+review/profileName: Scott E. Bradley "80's Kid"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1308614400
+review/summary: Blah
+review/text: This is glorified Coffee Mate. Tasted nothing like White Chocolate sauces like Torani's. Will be donating it to work. Also one of the cans came busted open and the way it was packed (sealed in a bag) I know who ever boxed it at Amazon saw it. No blame to the company.
+
+product/productId: B003QGQF0O
+review/userId: A1PNW7CIVXY3JD
+review/profileName: masood_mj
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1350518400
+review/summary: damaged containers and spilled powder
+review/text: The containers were damaged and the powder was spilled out of the containers into the bags and the box. We managed to pour back the powder from the bag but threw away what was in the box. I am really disappointed with this product. I should have bought that from store.<br />Besides, I don't know why the containers are only full up to two/third of their capacity.<br />Anyway, go and buy from store unless you want deformed half full containers.
+
+product/productId: B000FDMVNG
+review/userId: AYGIIQGSHKZNI
+review/profileName: Audes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286928000
+review/summary: Wonderful Taste!
+review/text: Our family decided a long time ago to avoid wheat and also go organic.  After trying several options for WHEAT free, in pasta, we landed on Vitaspelt as the best alternative.  Tinkyada (spelling?) is a good one also, but this has more texture to it than the rice type pastas and a better flavor.  I'd never cook it to the 10 minute mark it gives though.  And if using this for mac and cheese  - cook a tad less than it calls for in time - maybe barely 6 minutes, then after putting in the hot cheese mixture, placing it in the caserole dish, adding your sliced tomatoes on top - pop it into the oven for yummy home made mac and cheese. No one will ever know this is a wheat free alternative  I found any longer than 6 minutes with the added cooking in the oven and it gets too soft. One word of warning with Vitaspelt products - READ the labels as some of them are WHOLE WHEAT & spelt, which takes away from the avoiding wheat.  We did not care for the whole wheat (hubby didn't read the label and bought it by accident)
+
+product/productId: B000FDMVNG
+review/userId: ADXVRWXV3BUBJ
+review/profileName: C. Long
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1220140800
+review/summary: Tastes great!
+review/text: I purchased this item because of my wheat allergy, but it tastes even better than the semolina elbows that I was using.  It cooks up in 7 minutes and even my husband who has no food allergies loves it!
+
+product/productId: B000NIFO96
+review/userId: A3CO7FPTEIFHLZ
+review/profileName: Rose M. MOORE
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1252713600
+review/summary: THE BEST TEA AND BEST VALUE !
+review/text: I LOVE THIS TEA, ITS HARD TO FIND GOOD DECAF GREEN TEA AND<br />THIS IS THE BEST, VERY GOOD PRICE. I LIKE TO USE AS HOT TEA<br />AND COLD TEA BY SIMMERING 4 TEA BAGS IN A POT OF WATER, ADD A LITTLE<br />BIT OF HONEY, REMOVE FROM STOVE TOP AND LET SIT FOR A FEW HOURS<br />THEN POUR IN PICTURE IN REFREGIRATOR AND YOU GOT NICE HEALTHY TEA !<br />MY SON EVEN WILL DRINK IT !
+
+product/productId: B000NIFO96
+review/userId: A2BCDZO1XQLDH
+review/profileName: R. Lanthier
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1252022400
+review/summary: Excellent green tea
+review/text: Superb green tea. Organic and decaf. These bags are really filled up, so you get a lot of bang for the bag! With they came in larger boxes...
+
+product/productId: B000NIFO96
+review/userId: A1535XDPVEQH3I
+review/profileName: Bill Martin
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1333324800
+review/summary: not that decaffeinated
+review/text: I was hoping to find a green tea with very little caffeine; no "decaffeinated" tea has no caffeine. This one, however, still made me jittery; I could feel the effects immediately.
+
+product/productId: B000NIFO96
+review/userId: AFGZDLXC1GL81
+review/profileName: A. Lopez "nisanne"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1306022400
+review/summary: BEST CHAI BLACK & GREEN TEA
+review/text: I HAVE BEEN EXPERIENCING WITH TEA'S SINCE OCTOBER OF 2010 AND I'D HAVE TO GIVE THIS TEA A FIVE + STAR!!!! NOT ONLY FOR ITS TASTE BUT FOR THE PRICE AS WELL. THIS IS BY FAR THE BEST TEA IVE EVER HAD. I AM SO ADDICTED TO IT NOW, THAT A BOX ONLY LASTS ME ABOUT A WEEK.<br />MY CO-WORKER INTRODUCED ME TO STASH ABOUT 3 MONTHS AGO AND TO MY SURPRISE I'VE LOST 10LBS WITHOUT CHANGING MY DIET AT ALL. IF YOU LIKE CHAI TEA, THEN THIS IS THE TEA FOR YOU!!!!! GIVE IT A TRY, YOU WONT BE DISAPPOINTED!
+
+product/productId: B000NIFO96
+review/userId: A1JEALZIK2FEWA
+review/profileName: Laurie
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1300492800
+review/summary: MIGHT AS WELL BREW UP DRIED LAWN CLIPPINGS!
+review/text: I decided to buy the Stash ORGANIC chamomile tea this time and since I drink a lot of it, I decided to use the "Subscribe and Save" feature to save 15% and receive it regularly. IT IS TASTELESS! Hope Amazon will give me a refund.  If not, I am stuck with 6 boxes that will end up in the green waste bin. Cancelled the "Subscribe and Save" feature. Calling Amazon for a refund right now.
+
+product/productId: B000NIFO96
+review/userId: A3BU6A9P0FD6QL
+review/profileName: Seattle Lee
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1275436800
+review/summary: SeattleLee
+review/text: Loved the distinct flavor of Stash Organic Chai Black and Green Tea and, when I could not find it, finally purchased the Earl Grey Black and Green.  Found it okay, but nothing unusual or extremely tasty.  Will not repurchase and will continue to locally watch for the Organic Chai Black and Green Tea.
+
+product/productId: B000NIFO96
+review/userId: A3NNOTZUB56O04
+review/profileName: Edward Miller
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1260921600
+review/summary: Quantity of tea included
+review/text: I notice from the labels that the net weight of this is actually lower than the net weight for their organic white tea. This implies somewhat less tea proper per bag, since the mint is also part of the weight. If drinking white tea for the health benefits, this may be important. It would be nice if it was easy to determine the exact amount of tea being bought.
+
+product/productId: B000NIFO96
+review/userId: A2E3WMF9RWW2X2
+review/profileName: K. Duvall
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1257552000
+review/summary: Good tasting tea, great value.
+review/text: I am drinking two cups of this a day.  Tastes good.  It would be nice if it came without the string and stapple.  I like the automatic shipment then I do not run out unexpectedly.  My only point of note, would do not over brew it.  I have forgotten about my cup waiting for me and the taste gets a little off when it has sat for an hour!  My bad really, not the teas problem.
+
+product/productId: B000NIFO96
+review/userId: A1HGIBUOYSL3I5
+review/profileName: B. Klein
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1235088000
+review/summary: no lemon. not much green tea
+review/text: If you're looking for a combination of the three flavors mentioned in the title of this tea, it's probably not a good idea for you to purchase this (especially 6 boxes of it). The tea's flavor is dominated by ginger, and some lemongrass, with barely any green tea taste. That's right, not lemon, but lemongrass. Not exactly what one might expect from a product titled "lemon ginger green tea." It doesn't necessarily have a bad taste, just an unexpected one. If I want my tea to have more of a green tea flavor, i prepare this with another plain green tea bag.
+
+product/productId: B000NIFO96
+review/userId: A1EQYE90GIKA57
+review/profileName: Robert J. Rossi "rrossi74"
+review/helpfulness: 2/5
+review/score: 3.0
+review/time: 1231200000
+review/summary: Where are the flowers?
+review/text: The product is fine but it didn't quite meet my expectations. I was expecting Stash tea bags to contain the same beautiful chamomile flowers Stash sells as its loos Chamomile tea. Instead it looks they took a bunch chamomile leaves, chopped them up finally finely, and stuck them in a bag.
+
+product/productId: B000NIFO96
+review/userId: A3VGB141KEL3CC
+review/profileName: b.t. moose
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1210982400
+review/summary: Wrong shipments
+review/text: I've ordered the Black Tea twice and received Green Tea both times - I'll try once more.
+
+product/productId: B000NIFO96
+review/userId: AQF2SMXB950D9
+review/profileName: Aurora Dawn
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1289433600
+review/summary: Great Green Tea and Great Company!
+review/text: This is a great decaf green tea. I decided to start drinking green tea due to its purported benefits of prevention of breast cancer, which runs rampant in my family.  I have to drink a decaf product, which is unfortunate as some of the beneficial properties of green tea are removed with the caffeine.  After some research, I found out that there are several "natural" methods of decaffeination and that one involves actually using "natural" but not necessarily safe chemicals.  Probably the safest method is a process which involves using carbon dioxide.  I emailed Stash about this product and within an hour received a very informative, personalized email describing the process they use, which is the CO2 process and the best as not only does it not use chemicals, but the antioxidant properties of green tea are diminished less with this process than others.  Since I am drinking green tea solely for the health benefits and not the taste, that is important to me.  I think it tastes great for a decaff tea.  It is not strong and has a mild slightly bitter taste.  I add a little peppermint tea and honey to it and it is super tasty. I am impressed with this tea and company and will continue to order from them.
+
+product/productId: B000NIFO96
+review/userId: A6WME11TGFMEW
+review/profileName: E. Willingham "The Tea Lady"
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1293148800
+review/summary: So glad Stash now has Lavender Tea
+review/text: For years I have been getting "Miss Rona's" Lavender tea.<br />However that company closed.<br />I've tried a couple of others that didn't come close.<br />This Stash Lavender tea is outstanding and relaxing.
+
+product/productId: B000NIFO96
+review/userId: A1DBC47OWOILTQ
+review/profileName: Carole Chesser
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1154217600
+review/summary: Yum!
+review/text: This is one of my favourite teas.  My mom had picked up some a couple summers ago so that I'd have some tea to drink while visiting her.  I've had a horrible time finding it locally.  I've been drinking Stash's black chai spice instead, which also makes a nice cuppa, but the black and green blend has a nice, gentle flavour that is just marvelous.
+
+product/productId: B000NIFO96
+review/userId: A33AMRSCWG7E1E
+review/profileName: Tea Sister "TS"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1163462400
+review/summary: Tea Time
+review/text: I was looking for a organic black tea to replace the Tetley tea I usually drink.  This Stash tea was it.  I wish it was less expensive, but feel it is worth it.
+
+product/productId: B000NIFO96
+review/userId: A12B6C5NWBU32
+review/profileName: Stacey J Driscoll
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1292025600
+review/summary: Perfect for stressful moments
+review/text: This is perfect for stressful moments to just take a break and enjoy some Tulsi goodness.  It helps me feel calm and relaxed - I really enjoy it and it's well worth a try.
+
+product/productId: B000NIFO96
+review/userId: A7RSK5VUN9BH8
+review/profileName: A. Smothers "All who wander are not lost..."
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1232755200
+review/summary: Excellent Green Tea from a real Tea drinker!
+review/text: I have had the pleasure of exploring and experimenting with Green tea for the last five years. During that time, I believe that I have sampled the gamut of options on the market today. From rare, true Gyokuro tea from Kyoto, Japan at a friend's home which cost over $500USD/lb to cheap generic Sencha. I have had the pleasure to seek out various types of green tea from Lung Chung, Putuo Fo Cha and many others. I am always searching, tasting and learning about tea and its amazing health benefits.<br /><br />However, I was looking for something both readily available, cost effective and of excellent quality. Not an easy combination of traits at all considering my experience. I settled on the Stash brands of Teas and this version being the organic version was just pennies more than the non-organic green tea version from Stash. After researching, I discovered that this tea is grown and processed not in Japan but Brazil, yet from my personal experience, it rivals the Japanese tea leaf for leaf.<br /><br />The warm, rich tea that is produced after a moderate boiling temperature is very refreshing. Personally, I steep for about 3 minutes today and then allow it to rest up to a mild warm temperature where you can truly start tasting the mild notes of organic flavor. There is no taste of excessive tannins, bitterness, nor rough processing that comes through in its flavor. It is quite purely, an excellent tasting, fresh & mild form of green tea. Very enjoyable and surprising! :)<br /><br />Color is medium green to very slight brown in cup. Expected since this tea is not produced in the traditional "Gyokuro" shade growing and yielding techniques, but it is actually very flavorful and easy to drink. (Even for new green tea drinkers who might be turned off by some of the most traditional blends) --- something I cannot say for some of the more expensive Green teas. They can be quite hard to get used to at first!<br /><br />I can add nothing else but to note that for the price and for the fact that it is truly certified organic, I cannot recommend this tea enough.<br />It is a simply outstanding value for an excellent variety, flavor and production of pure green tea. For about $0.15 a cup, I cannot imagine where else you could possible buy a more flavorful organic drink that has so many tremendously wonderful health benefits.<br /><br />Cheers to STASH Tea for bringing us such an amazing cup of Green Tea goodness. Even after traveling the world and back, I was pleasantly surprised to find this STASH tea....At this price, I will make it a great habit of STASHING more of this away for safe keeping.
+

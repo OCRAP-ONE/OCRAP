@@ -1,0 +1,1143 @@
+product/productId: B001HTKXZU
+review/userId: A27EV5VOO854YI
+review/profileName: Kris10
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1236124800
+review/summary: delicious & nutritious
+review/text: this is the best instant oatmeal I've ever had. my 2-yr old loves it too. it is hearty & tastes delicious & it's good to know it is actually good for you - unlike the "leading brands" of instant oatmeal! the creamy vanilla is nice.
+
+product/productId: B003CHPAC6
+review/userId: A2UKMVERIHITU9
+review/profileName: Rachel
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1306108800
+review/summary: Incredibly delicious
+review/text: These are a real treat to those with a gourmet or culinary bent, and would be of interest to anyone planning<br />small gatherings, to serve at B & B, or for a delicious treat with tea, coffee, or wine and cheese.  Some stores have them but they are not easy to find.
+
+product/productId: B003CHPAC6
+review/userId: A3EADUUXXFI613
+review/profileName: Carollou3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344038400
+review/summary: Incredibly Delicious
+review/text: Found these at the local Whole Foods and bought them having no idea what they were. What a delightful surprise. They are awesome and addictive.
+
+product/productId: B003CHPAC6
+review/userId: A2RCAT4HGY3AC6
+review/profileName: Annie "alps"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343865600
+review/summary: Light, very delicate anise flavor - incredible!
+review/text: My family and some friends rented a beach cottage in Old Orchard Beach, Maine for  a vacation.  I found these at a local supermarket and picked them up on a whim.  My whole family and friends absolutely loved them.  So much so I went back and bought more packages.  I served them with a sharp asiago cheese, prosciutto and green apples.  We would also take them as is to the beach as a snack.  They are light, crispy and have a sweet delicate anise flavor. I am hoping to find them in my local market.  They are not inexpensive but for a special occasion, or no occasion at all, definitely go for it!
+
+product/productId: B0006NNJPY
+review/userId: APWXRIPJ0BQ3Z
+review/profileName: C. Point
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1240704000
+review/summary: Unique flavor
+review/text: This is a great black tea. It is robust but doesn't require milk to drink it. In fact, I tried it with milk and the flavor was lost. With a touch of sweetener, this tea is excellent.  It has a unique flavor all its own.<br /><br />I also like the fact that it doesn't have excessive packaging. It's sold in a simple cardboard box. Inside the box, the tea is placed in a plastic bag to preserve freshmess.
+
+product/productId: B0006NNJPY
+review/userId: A9HAC4T0FCKHH
+review/profileName: E. K. McCarthy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1218931200
+review/summary: Favorite of a new tea connoisseur
+review/text: Zawadi Jambo! is one of my favorite black teas.  It has a bold flavor that holds milk (well, in my case soy milk) and sugar well.<br /><br />I was surprised when I first opened the package; the unbrewed tea, comprised of only the tips of the leaves, looks a bit like instant coffee granules.  It comes packaged in a resealable plastic bag inside of a cardboard box, so the tea stays fresh for a long time.  I so treasured the first box I bought that I rationed it out over eight or nine months, and the flavor never suffered.<br /><br />Because the tea is small, you'll want a fine filter.  I highly recommend the <a href="http://www.amazon.com/gp/product/B000G72D70">swissgold� TF 300 Tea Filter</a>.
+
+product/productId: B0006NNJPY
+review/userId: A3D6TFYRMIV3ZL
+review/profileName: Themis-Athena
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1102118400
+review/summary: Kenyan Breakfast.
+review/text: Introduced to Kenya from India in 1903 by a settler named G.W.L.Caine, nowadays tea is one of Kenya's major economic sectors; directly or indirectly employing roughly 10% of the country's population and, at over over 180,000 tonnes per year, constituting around 10% of total global tea production or 20% of worldwide export. Kenyan tea is grown at elevations between 5,000 and 7,000 feet and generally harvested year-round. The primary growth regions are the Nandi Hills and the highlands around Kericho north of the Massai Mara Game Reserve and west of the central Kenyan Great Rift Valley, which in turn is the home of Meru National Park (of George and Joy Adamson/"Born Free" fame - further east near Mount Kenya) and Isak Dinesen/Karen Blixen's beloved Ngong Hills (in the south near Nairobi).<br /><br />Kenyan tea has small, grainy leaves and a rich color and distinct, full-bodied aroma that makes it a near ideal breakfast tea and as such, a nice alternative to the traditional English breakfast blend (which sometimes contains Kenyan teas as well).
+
+product/productId: B000MN910K
+review/userId: A2OJUBPVCEA4OM
+review/profileName: Lucky "Hop"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1181088000
+review/summary: Best Tea in the World.
+review/text: If you like your tea strong and black, similiar to fine, mild coffee, then this is the tea for you. This tea is not delicate or light in any way. It is bold and robust while at the same time having a pleasant, smooth taste. Yorkshire Tea is unique and wonderful. My day is not complete until I have had a cup or two. Needless to say, I buy it in bulk quantities.
+
+product/productId: B000MN910K
+review/userId: A1JL5QHZF0O4UQ
+review/profileName: Matt
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1304899200
+review/summary: Great Strong Flavorful Tea
+review/text: If you like strong coffee you probably will like this.  This is my favorite tea and it is the very best.  I have bought this many times for many years.  It is almost as dark as coffee, and delicious!
+
+product/productId: B000MN910K
+review/userId: A1802OZOOHU8GB
+review/profileName: R geist
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1246233600
+review/summary: What happened to Yorkshire tea?
+review/text: I have been drinking Yorkshire tea since I studied at a university in England in 1988.  I am a big tea fan.  However, my most recent box of Yorkshire has resulted in distinctly weaker, less flavorful tea. I would say it's even mediocre tea, and it cost me a lot because I live in New Jersey.  I have to put two (!) tea bags in one cup to get an approximation of the brew one tea bag used to produce, and yet something still is lacking.  I honestly hope this is just because the box I bought is old.  I can't help suspect these tea bags have less tea in them than they used to.  I am going to take one over to my mom's and compare it with the box of tea she has, which is from a few years ago.  Because one Yorkshire tea bag used to make a pretty decent pot.  I can't get a good cup from one bag now.  The result is almost as bad as American tea.  Where can I turn, if they have compromised Yorkshire tea?
+
+product/productId: B000MN910K
+review/userId: A1PYLEVN9FZE09
+review/profileName: M. Wilkinson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1183852800
+review/summary: America Needs Decent Tea
+review/text: Good strong tea at a good price. Straight forward tea. No perfume or herbs. Couldn't find anything as good in any US stores.
+
+product/productId: B000MN910K
+review/userId: A244LG5UZ1R1MO
+review/profileName: RescueLabDad
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344729600
+review/summary: Worth Every Drop: Taylors of Harrogate, Yorkshire Tea.
+review/text: Need a break from Coffee and like Tea?  Read some great reviews on this tea and decided to give it a try.  Felt strange ordering "tea" from the net, but this classic black tea without the generic supermarket taste was worth it.  The Yorkshire Tea has a pleasant and fragrant aroma.  Whichever way you enjoy your tea, Taylors of Harrogate makes a quality tea worth your palate!
+
+product/productId: B000MN910K
+review/userId: A39CGH0GUXBJY7
+review/profileName: Priariedawn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300233600
+review/summary: Best Tea in the World
+review/text: This tea has a wonderful robust flavor and is smooth and creamy when you add milk.  I got hooked on it in England thirty years ago and am thrilled I can now order it on the Internet!
+
+product/productId: B000MN910K
+review/userId: A2MOO803UJXOH0
+review/profileName: Clayden John Graham "JayCee"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1237593600
+review/summary: Subtle it ain't
+review/text: but a tea worth paying tax on it is!<br /><br />If you like a weak and delicate tea, this is not for you. I travel worldwide and have it shipped wherever I go so it's ready for my arrival. No better tea is known to man.
+
+product/productId: B000NMFXAW
+review/userId: A38N5WAMPE808U
+review/profileName: Hollywood Hack
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1279238400
+review/summary: M and Ms melt in your mouth, not your hands
+review/text: I can't seem to find the twix box at my grocery store with 11 candy bars, and only 25 cents each one. Call me a cheapskate, but with postage the lowest is about 35 cents each in twin packs that melt together at room temperature. At least offer customers a discount for buying large boxes through the mail.
+
+product/productId: B004XZHY5C
+review/userId: ABI3SFP4SD1I4
+review/profileName: Guess Who
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1330300800
+review/summary: 1 pack only
+review/text: Beware you only get 1 pack with only 5 lollipops in it, NOT 5 packs as advertised.Not worth 7.56 for 1 pack.
+
+product/productId: B0037BAQKI
+review/userId: A200YCKG0JZOMN
+review/profileName: stephanie m
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350432000
+review/summary: Great stuff!
+review/text: This popcorn has a nuttier flavor than the regular yellow corn.  There are less kernels left over and the flavor can't be beat.
+
+product/productId: B0037BAQKI
+review/userId: A118PGN3LN0YSA
+review/profileName: S in Alexandria, VA
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338163200
+review/summary: Delicious popcorn!
+review/text: If you prefer huge white fluffy pieces of popcorn you'll be disappointed; but if you like popcorn with a better taste than the typcial variety and don't mind that the kernels are a little smaller you'll really like Crimson Jewell!  As the other reviewer said, most of the popcorn kernels pop, but more than that, what hulls are there are literally softer so they don't painfully wedge between your teeth your gum doesn't get cut.  Even kernels that are mostly or partially popped can be eaten because they are softer.  We're getting ready to order another 6-pack.  This has become our favorite popcorn and worth every penny!
+
+product/productId: B0037BAQKI
+review/userId: A334A2EZ7HH4GS
+review/profileName: Tony W.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334880000
+review/summary: You HAVE to try this!
+review/text: All I can say is, this popcorn is fantastic.  Different kinds of corn really DO pop different than the kind that most of us are used to.  This product is no different.  Red kernels really do have a different "popped" texture than the common yellow variety.  Not to mention, there is MUCH less popcorn hull left over, so that's less that you have to pick out of your teeth, etc.  Outstanding value.  Recommend this to everyone.  :)
+
+product/productId: B0000DIZ6N
+review/userId: AAYW1H4SMNOI
+review/profileName: AFP "AFP"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1070236800
+review/summary: One of the best gums out there.
+review/text: There's alot of good tasting gum but this is easily one of the best. It's extremely soft and you can eat alot at a timem the taste is pretty good too, the gum is stringy, and it's purple, if you didn't eat these when you were a kid here's your chance.
+
+product/productId: B0000DIZ6N
+review/userId: A2B7BUH8834Y6M
+review/profileName: Shelley Gammon "Geek"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1092528000
+review/summary: the best all-American gum ever!
+review/text: No unwrapping of 5 pieces to get a big bubble-enducing wad of gum - just rip open a bag of shredded Big League Chew! Sticking a piece between your cheek & gum is not satisfying, but pretty hilarious. Super juicy fake grape flavor is awesome and you can blow one seriously huge bubble if you can cram a whole pack of this gum in your mouth!
+
+product/productId: B0005ZW3VY
+review/userId: A1HFQ9ROADJ40K
+review/profileName: C. Drougas
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1169510400
+review/summary: A+ dessert food.
+review/text: These are my all-time favorite snack! It tastes like whoopie-pie dipped in chocolate syrup (hardened, of course, unless microwaved). The cake is delicate and light, but that is only to make you into a complete addict. There is nothing wrong with the chocolate on these cakes as compared to any others. It tastes like. . . .chocolate.<br /><br />It's a definite good thing, though, if you don't like these. In order to feel satisfied I need to eat an entire box! I decided to mix two into a bowl of ice cream because I just eat them too fast by themselves. And yes, they couldn't hurt putting a little extra filling in there, but just get a tub of cool whip to dip them in. That should fill ya up.
+
+product/productId: B0005ZW3VY
+review/userId: A3HX8FEFIDG5C
+review/profileName: Matthew S. Ludwig "Luddy"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1138406400
+review/summary: A Traditional Tasty Treat
+review/text: I've had these things since I was a kid and they still don't get old. They are chocolate on the outside and creamy in the middle. They come in two per pack. You wont be disatisfied with these.
+
+product/productId: B0005ZW3VY
+review/userId: AMP7TQRWAIE84
+review/profileName: Adrian Cooper "Letsgo2thestars"
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1192579200
+review/summary: OK, but TOTALLY overrated!
+review/text: Too much chocolate, but the filling is decent.<br /><br />They're pretty sweet too. Overly sweet.<br /><br />I prefer Rice Crispie Treats or Star Crunch!<br /><br />2.5 stars.
+
+product/productId: B0005ZW3VY
+review/userId: A11D1KHM7DVOQK
+review/profileName: Person "qazwsx34651"
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1169337600
+review/summary: Such An Average Craving
+review/text: Little Debbie, much like Hostess, is a company that serves chocolate cake-like products to grocery stores. You can find them for dirt cheap. Swiss Cakes Rolls are just not very tasty to me. They taste cheap, as if the chocolate was set out in the rain for too long. There's something about these, and it just resembles a cheap taste. The inside has creme, but not as much as Ho-Hos do, therefore they taste somewhat dry and not as fresh. The chocolate cake wrapped around tastes blank and unnatural. Then the extra chocolate above tastes just as bad.<br /><br />So, in overall terms, Little Debbie's Swiss Cake Rolls are just not good. The choclate tastes cheap and unnatural, and there is not enough creme inside the rolls. Do yourself a favor and pass on this Little Debbie product. 2 stars.
+
+product/productId: B0005ZW3VY
+review/userId: A1K79OB1IBN8LT
+review/profileName: Andrew Arpin "Snack Cake Expert"
+review/helpfulness: 2/6
+review/score: 2.0
+review/time: 1167264000
+review/summary: A poser at best
+review/text: We all know that Swiss Cake Rolls will never achieve the delicious status enjoyed by Yodels, but I really do give them an A for effort. The major complaint with these snacks is that they are just too dry. They attempt to surround creme filling with some kind of chocolate cake, but the result comes off as a cheap tasting joke. I don't really have any advice for Little Debbie to improve this product, though. They should simply leave it up to the experts at Drake's Snack Foods.
+
+product/productId: B001G72V9Y
+review/userId: A3DPZHQEGM9A0N
+review/profileName: Stephanie From PA
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328918400
+review/summary: Delicious cookies and great customer service
+review/text: I sent these cookies to my boyfriend for valentine's day because oatmeal cookies are his favorite,and they seemed like a good buy for the price.  My boyfriend called me saying he received them, and when I asked how many cookies were in the box he said there were 8. I was very upset because it was advertised that it comes with 16 cookies.  I emailed the seller and explained my problem, and the very next day they gave me a full refund and my boyfriend enjoyed the cookies he received for free! When I originally found out he only received 1/2 the order I had intended for him, I swore off ever buying from Harvard sweet boutique ever again, but their wonderful service and delicious taste ( or so I've been told) has won me back as a customer.  The boyfriend has been raving about this delicious twist on his favorite classic cookie for the past month, I think I might just have to order some for myself.
+
+product/productId: B001F8MWKM
+review/userId: AVYJ7NUE9SDXP
+review/profileName: J. C. Bradley "portledge"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1291161600
+review/summary: Gift winner
+review/text: I ordered this yesterday for my sister-in-law in St. Louis, and I just got a message from her telling me how thrilled she is with the basket -- especially all the healthy, organic choices! That's all I wanted to hear.
+
+product/productId: B000X65LY6
+review/userId: A3VQEE4I8UVX00
+review/profileName: choco "charcoal"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295481600
+review/summary: original, tasty
+review/text: This is the real thing;raw, original sea salt. It reminds me the pickles my Mom used to make for us. It serves as a good finishing salt too. Very good.
+
+product/productId: B007MLGPZY
+review/userId: A2I8T02US4Y9OT
+review/profileName: Anna
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Great mochi! Soft and just right
+review/text: The Green tea mochi were very fresh - soft and chewy (as they should be) - perfect with white tea! Each in individual wrapping - which makes them easy to take to work! A little cell phone charm that came with the package is of quite good quality, and was a nice touch.
+
+product/productId: B000EUF9CK
+review/userId: A1AHFNTFBPCLC7
+review/profileName: K. C. King
+review/helpfulness: 29/29
+review/score: 5.0
+review/time: 1263081600
+review/summary: Delicious, organic, and fair trade too!
+review/text: I am a chocoholic who loves very dark chocolate.  I have always been eager to sample new brands whenever I find one that has a  rating of 75% or higher.  Endangered Species Black Panther is the best I have ever tasted. Some  dark chocolate over 80% is bitter or dry, but not this one. Even those in my family who normally don't like the very darkest chocolate like the smooth creamy taste of this one.  I am now totally spoiled and feel deprived if I have to eat any other kind of chocolate.<br />In addition, a couple of years ago I decided I would no longer buy chocolate that was not "fair trade", that is chocolate that was made from beans that were harvested without exploiting children and other low-paid workers.  What a delight to find that this particular fair trade product also happens to be the most delicious as well.
+
+product/productId: B000EUF9CK
+review/userId: A14MJSYRJN97A5
+review/profileName: A. Davidson
+review/helpfulness: 15/15
+review/score: 5.0
+review/time: 1276905600
+review/summary: Like a Glass of Wine
+review/text: Just wanted to add my vote for this as the best extreme dark chocolate I've tried. It really isn't for those who are expecting sweet dark chocolate. Like those who posted 1-star reviews of "Yuk!", I made the mistake the first time of snapping off a row and chomping down on a piece... what a shock to the tastebuds! But there was -something- there, so I didn't throw it out. I simply nibbled on the rest of it, and what a difference! It was suddenly just sweet enough, with an intense, very satisfying chocolate flavor. The "extreme" in the bar's name isn't there for exaggeration! So if you want something more like a nice glass of wine to be savored slowly rather than a glass of grape juice to be chugged, give this bar a try.
+
+product/productId: B000EUF9CK
+review/userId: ALBMZQVX4OK18
+review/profileName: D. Fafarman "davefxx"
+review/helpfulness: 26/29
+review/score: 5.0
+review/time: 1228435200
+review/summary: Everyone Wins With This Product
+review/text: Premium chocolates (such as Black Panther) have much character and subtlety in their flavor, with aromas that are fruity and spicy. Besides being a fine taste, you can feel good about eating this because it is rich in healthful antioxidants, is grown so as to protect the environment, and is "fair-traded" to give the farmers a break. In addition, 10% of net profits go to help endangered species or indigenous peoples.<br /><br />This chocolate is barely sweet, but more sweetness would detract from the intense flavor, as well as raise the glycemic index that we're better off without. It's even easier on your teeth.<br /><br />Although I'm giving BP 5 stars, it's really about 4.6 so as to leave room for the indescribable chocolate dream varietal Ocumare.
+
+product/productId: B000EUF9CK
+review/userId: A3FY3H6F4249E0
+review/profileName: Kathy W
+review/helpfulness: 14/15
+review/score: 5.0
+review/time: 1263600000
+review/summary: Really Good & Really Different
+review/text: I tried this product because I have read about the health benefits of dark chocolate, and because it is an "all natural" product, and because 10% of the profits are donated to help support species, habitat and humanity.<br /><br />It is really quite good, and very rich.  But you should know that the flavor is a lot different from a Hershey bar.  This particular one is 88% cocoa with only 5g sugar in one-half of a 3 oz bar.  The 3 oz bar is a nice size and is more chocolate than I would eat in a sitting, not that I eat a lot of chocolate anyway.  It tastes something like the DARK Hershey bar WITHOUT the sugar.  That could be a somewhat bitter taste to someone, especially if you are not expecting it.  There are also 0 mg of sodium (salt) and 0 mg cholesterol.  There is 4 % calcium and 15% iron, as well as 6 g fiber and 210 calories in one-half of a 3 oz bar.  The back of the paper label tells you about the leopard and jaguar.  The candy bar (if you really want to call it candy) is wrapped inside a foil wrapper.  (I think of it more as a health food.) The cacao is purchased from small family-operated properties to help sustain the habitats and communities in which they exist.<br /><br />I have a bar in my desk at work, inside a baggie.  Ever-so-often, I schnick off a piece. Then I let it melt in my mouth. Good stuff, just a little different.
+
+product/productId: B000EUF9CK
+review/userId: A21K0AUUT35B2V
+review/profileName: D. Mayfield
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1218412800
+review/summary: EXTREME!
+review/text: This chocolate is excellent quality and VERY sweet and smooth for being such a high percentage of cocoa. Eating a small bit of the darkest chocolate you can get immediately after taking your medicine helps the medicine work better (info given to me by a cardiologist)... and it does!<br /><br />Also, what could be better than helping an endangered species; ensuring that the workers who work in the fields are getting a fair wage for their efforts; AND enjoying some delicious chocolate?? It's a win-win-win situation!
+
+product/productId: B000EUF9CK
+review/userId: A2ELPO7OY9WGLP
+review/profileName: Lori Green "absmom"
+review/helpfulness: 16/18
+review/score: 5.0
+review/time: 1142553600
+review/summary: The BEST dark chocolate!
+review/text: I haven't found the dark chocolate yet that is too dark for me, except perhaps unsweetened! This chocolate is really dark(88% cocoa) but really smooth and yummy! It is my favorite so far!
+
+product/productId: B000EUF9CK
+review/userId: A1V5RNLHWDAGO7
+review/profileName: SFerguson
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1309392000
+review/summary: Excellent chocolate
+review/text: Endangered Species makes awesome chocolate.  The Extreme Dark (88%) is one of my favorites.  Occasionally, I will venture between the 88% and the 72% but nothing curbs my appetite for REAL dark chocolate like the 88%.  You won't be disappointed in this brand or flavor.
+
+product/productId: B000EUF9CK
+review/userId: A28OXC0S4S409E
+review/profileName: J. Riskin
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1301875200
+review/summary: If you enjoy very dark chocolate, this will be a rich experience!
+review/text: Black Panther 88%<br />I've tried about a dozen or so different dark 72-90% chocolate bars and so far, nothing has come even close to this bar.  It is rich and smooth, and not bitter at all. I've tried other 70%+ bars that were much more bitter than this. They obviously up the cocoa butter to compensate for the lack of sugar.<br /><br />I HIGHLY recommended it if you enjoy other very dark chocolate. There do seem to be availability issues and I have had local stores either sporadically carry them or have older or heat damaged stock (white chalky coating). The company even sent me coupons to replace the older bars though.<br /><br />Do NOT buy this if you don't like other ultra-dark chocolate. I had to bust out laughing when another review said "I dont know why there are so many good reviews for this. Some people out there must really love to punish their tastebuds. Maybe they also like black licorice and black coffee?". Actually, YES, many people DO enjoy black coffee. So if you're the type that enjoy's coffee flavored sugar or tea flavored sugar, then this is probably NOT for you.<br /><br />But, if you enjoy rich non-sugary treats, then this may be a great experience. Honestly though, go buy a single bar before you invest in a whole case of chocolate you haven't tried yet.
+
+product/productId: B000EUF9CK
+review/userId: APFBMOYLQAD04
+review/profileName: SoundGuy
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1198886400
+review/summary: Amazingly smooth and sinfully delicious
+review/text: When it comes to my chocolate....the darker the better.  This one does not disappoint.  It has incredible dark richness with a silky smooth texture and only 5g of sugars in a generous serving.  The absolute best I've tried to date.
+
+product/productId: B000EUF9CK
+review/userId: A1FSHPZD56YMVY
+review/profileName: Mecat
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1215993600
+review/summary: Great Dark Chocolate
+review/text: I love several versions of the endangered species chocolate.  The panther is very dark and not terribly sweet which I prefer.  I order on a regular basis.
+
+product/productId: B000EUF9CK
+review/userId: A5GEADM7HZQF7
+review/profileName: milou "milou"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1317859200
+review/summary: top of the line
+review/text: In comparing this chocolate with green and black, ghirardelli, and godiva, (all 85 or 86%) I would rank them as follows:<br />this chocolate and green and black - best, godiva - second, ghirardelli - third.
+
+product/productId: B000EUF9CK
+review/userId: AH14F9TYDABNH
+review/profileName: M. Abendroth
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1300752000
+review/summary: My favorite chocolate
+review/text: If you love dark chocolate, and don't want it very sweet, this is for you.  If you want the health benefits of chocolate without the ill effects of sugar, this is for you.  It does NOT taste like baking chocolate.  It IS good straight up, really good, IF you like authentic dark chocolate.  If you think of Hershey's dark chocolate as dark chocolate, this may not be for you.<br /><br />Endangered Species is a good brand; I've had many of their chocolates and I've always enjoyed it, and I do not like all chocolate.<br /><br />Tip:  Don't order meltable items in the summer time.  Neither UPS trucks or cardboard boxes are air conditioned.  In the hotter months, buy your chocolate at a brick-and-mortar store that receives their food products from an air conditioned or refrigerated food distribution truck.
+
+product/productId: B000EUF9CK
+review/userId: A2CN04YLM1UFX9
+review/profileName: Edward B. Miller
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1197676800
+review/summary: Orgasmic
+review/text: This is the best chocolate I have ever had, bar none. The fact that it is also so healthy is just mind boggling.
+
+product/productId: B000EUF9CK
+review/userId: A1P1TX6TC3Z63M
+review/profileName: B. A.
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1319932800
+review/summary: Extremely Dark Chocolate is No Lie
+review/text: I've never had something past 75% cacao, so I wanted to up the ante a bit and try something new. This is definitely not an everyday type chocolate for me--a bit too sharp. Still, for a once in a while taste, it's marvelous. It's creamy and complex and has very subtle nuances. When I say 'sharp', I do not mean bitter! It is just a more powerful punch of cacao if you're not used to it. It smells divine and was in perfect condition when bought. I'll definitely be buying this brand again (and perhaps in some of their other flavors too!)
+
+product/productId: B000EUF9CK
+review/userId: A703CSUDTZDMP
+review/profileName: Johnny
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1311033600
+review/summary: Endangered Species Chocolate is delicious
+review/text: I bought this chocolate because I was looking for some way to enjoy the health benefits of chocolate since I can't tolerate meds for cholesterol. I really wasn't concerned with taste when I ordered it. Now I find that I really like the taste of this chocolate and other chocolates seem too sweet for me. I've already gone through one box and I'm on to my second.<br />You get the best of everything in this brand: fair-market, organic, healthy and great-tasting. Plus some of the proceeds go to help endangered species. But really you can justify it on the taste alone. It's really delicious! The thing I love best is that it will last in your mouth for several minutes if you can resist biting into it. There's not much more I can say about Endangered Species Chocolate except that writing this recommendation is making my mouth water...
+
+product/productId: B000EUF9CK
+review/userId: A1BRVS3V0M3LW5
+review/profileName: P. Watts
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1340582400
+review/summary: Very Disappointing - bland,sweet and dry
+review/text: Being a great fan of 85% plus chocolate I was excited to try this 88% product. What a disappointment! It manages the remarkable feat of being bland at 88%! It lacks flavour (tastes like extremely cheap chocolate), has a poor, dry mouth feel and is overly sweet. I suspect the presence of Soy Lechtin is not helping. It is very light in colour compared with similar strength chocolate - again amazingly so for a claimed 88% bar. If you only eat 85% plus chocolate then it is unlikely you will enjoy this chocolate :-(
+
+product/productId: B000EUF9CK
+review/userId: A6ZUIKQJL95JR
+review/profileName: Karen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1328400000
+review/summary: Quite sweet if you don't each much sugar
+review/text: I have been following a more high-fat/protein diet since reading some of Gary Taubes excellent articles in the New York Times about carbohydrates, insulin and inflammation.  I now eat very little sugar, and have cut back on fruit.  I felt I was missing out when the rest of the family got dessert, so I thought I'd try this for myself.  I think it tastes quite sweet, but then my taste buds are acclimated to a low-sugar lifestyle (I do eat berries, but few simple carbs).  To my mind it's got a very lovely deep chocolate flavor.  My 12-year-old son also likes it (he eats plenty of desserts, but is a bit of a gourmand), but his dad doesn't (blech! I believe was his description).  I have not tried baking chocolate in a long time - but do think this is significantly sweeter, especially noticeable if you don't eat a lot of sugary foods.<br /><br />Hooray that it is also fair trade and supports causes I too believe in.  From their website:  ABOUT ENDANGERED SPECIES CHOCOLATE<br />Who are we?  Endangered Species Chocolate is a mission-driven company that is passionate about chocolate and the environment.  We are fully committed to providing premium, all-natural, ethically traded, naturally shade grown chocolate products.  Endangered Species Chocolate confirms that all beans used in its products are purchased from family-owned properties where the income benefits the community.  10% of our net profits are donated to fund species and habitat conservation efforts.  Savor chocolate.  Save our planet.
+
+product/productId: B000EUF9CK
+review/userId: A2TVFLF707IWJF
+review/profileName: D. Hurst
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1321056000
+review/summary: Excellent dark chocolate bar
+review/text: All Endangered Species chocolate is excellent and there are may varieties to suit your tastes.  This is a non-bitter VERY dark chocolate.  You can eat just a few bits (I usually eat 3 sections at a time) to satisfy your chocolate craving!  Very smooth and delicious!  You can't go wrong with this chocolate, but I did find that sometimes I get bars that aren't as fresh as I'd like.
+
+product/productId: B000EUF9CK
+review/userId: A2HR7LCG4GBTXF
+review/profileName: Michael C. Desesa "ahomesteader"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1305676800
+review/summary: For super-dark chocolate lovers
+review/text: If you are looking for a sweet treat - this is not what you want.  If you love extra dark chocolate like my wife and I do, this is great stuff.  Not sweet at all.  It's also nice if you believe all the ethical trade and habitat support claims.
+
+product/productId: B000EUF9CK
+review/userId: A32NEDX6UVV8DE
+review/profileName: John G. Svinos "Harleydude"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1305331200
+review/summary: Great tasting high quality dark chocolate
+review/text: This is the dark chocolate you can eat every day guild free since it is very good for you. As more and more scientific evidence shows that dark chocolate is good for you I have been trying to find a bar that is very high in the percent coco bean but also tastes good. I had first bough a 95% bar that did not taste good. This bar has the right combination of taste and % for me and I suspect for others as well.
+
+product/productId: B000EUF9CK
+review/userId: A3LWC833HQIG7J
+review/profileName: austin_Larry
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1303257600
+review/summary: Interesting, intense, different, but I like it
+review/text: This is not your mom's Hershey bar. Even her 'special dark' Hershey bar. But that is a good thing. This bar is a very itense chocolate taste. And even though I am partial to 'dark chocolate' this was unlike anything I had tried before. There is no hint of sweet, is a savory experience. At first the unsweet intense taste was not the most pleasing. But as I finished the first bar and then had more in the coming days and weeks I started to very much enjoy the rich, savory, full chocolate taste.<br /><br />It will take some getting use to though. But if you like mole, one of my favorite Mexican dishes, I think you will like this. If you are a fan of dark chocolate give this a try. Good price on Amazon, you get your money's worth and some of that money goes for good causes as well.
+
+product/productId: B000EUF9CK
+review/userId: A27IML1IW3ZBK1
+review/profileName: Randolph Mccormack
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1296691200
+review/summary: Great product
+review/text: Have tried all of the 85% and above cocoa and this is the best.  Great price and with my Amazon prime account a very quick delivery.  Good stuff!
+
+product/productId: B000EUF9CK
+review/userId: A321W4SSC0F6AP
+review/profileName: Joseph Dewey
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1293753600
+review/summary: Dark and panther-like chocolate
+review/text: If you had to make some chocolate that embodied the essence of a panther, you'd probably make it really dark, not very sweet, and a little of a bite. This chocolate lives up to all of that but the bite.<br /><br />It's not very sweet at all. It has a tiny bit of sweetness to it, but if you're used to <a href="http://www.amazon.com/gp/product/B000IXWCQO">Hershey's Milk Chocolate</a>, it's not going to taste sweet at all.<br /><br />It's very dark, and very lovely, very similar to European chocolate. The picture of the panther on each bar is awesome, and the individually-wrapped bars look really cool. If you have a friend who's a chocolate snob, they'll love this.<br /><br />Pros:<br />+Dark<br />+Lots of chocolate<br />+Has a cool panther on each<br />+12 of them<br />+Each bar divided into 12 sections<br />+Not very sweet, if you're looking for a "real chocolate" experience<br />+Has a bunch of enviro-friendly stuff that I didn't read or don't really care about. I just like tasty chocolate.<br /><br />Cons:<br />-The 12 bars come in a really poorly made outer box. If you're gifting the whole box, you might be disappointed<br />-Not very sweet, if you're looking for sweet
+
+product/productId: B000EUF9CK
+review/userId: A2K2MDKAFED09P
+review/profileName: Andrew Loup "Andy"
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1311292800
+review/summary: great customer service
+review/text: great customer service. my original product came defective, when the company learned about it they sent a new package immediately
+
+product/productId: B000EUF9CK
+review/userId: ATGM5BDW6IQHN
+review/profileName: Molly B. Reed
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1285545600
+review/summary: Best dark chocolate ever
+review/text: This is the very best super dark chocolate I've ever tasted.<br />I snack on a square or two in the afternoon and because the quality is so good... you only need a taste!
+
+product/productId: B000EUF9CK
+review/userId: A2BIS0YKQ718E7
+review/profileName: Sarah
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348617600
+review/summary: Disappointed.  I can't eat other dark chocolate now.
+review/text: Do you like dark chocolate?  No, what I mean is, does Hershey's Special Dark (45%) taste like cheap milk chocolate to you?  If you like daaaaark chocolate, you've got to give this stuff a try.  I will warn you, though - you better like it super dark.  This is comparable to doing a shot of espresso as opposed to having a latte with extra sugar.  It's hard to get much closer without just eating the chocolate beans.<br /><br />Me?  I love dark chocolate, and this is the best dark chocolate I've found.  That popular brand that starts with G?  Yeah, a few bites of this stuff and theirs will start tasting like chocolate-flavored chalk.  Somehow Endangered Species has managed to make a  chocolate that's both extremely dark but still slightly melts satisfyingly, which seems to be a tough feat based on the other extremely dark chocolates that I've tried.<br /><br />I LOVE this stuff.  Head to the local organic store to give it a go - I mean, it's only $3.
+
+product/productId: B000EUF9CK
+review/userId: A17GERWGF9NCCI
+review/profileName: Peter T Swanson
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1336953600
+review/summary: i love dark chocolate but not this!
+review/text: I was really looking forward to this dark chocolate after reading the other reviews, but I found it to be very dry and not smooth at all.  I would NOT buy this again!
+
+product/productId: B000EUF9CK
+review/userId: AE5A0AOJOAZJO
+review/profileName: Alexander J. Semritc "Alexander"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332201600
+review/summary: Best Chocolate Ever
+review/text: This is some of the best chocolate I've ever had. It is well worth the price and something everyone would enjoy. I have traveled the world and I would match this chocolate against any of the best European brands.
+
+product/productId: B000EUF9CK
+review/userId: A1V9TNHO6G3D96
+review/profileName: Snow Bird
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331164800
+review/summary: Better than I expected.
+review/text: I've had a number of ES bars from health food stores;but never this one. After I ordered it I feared I may have gone too dark. I'm used to 70% from another source.<br /><br /> Picked up some of my 'other source' chocolate for a side by side. I can no longer go back to that one. I'm used to the less sweet taste of THIS ONE.<br /><br />Discovered something interesting about these. Half of one melted in my car after a long trip. I put it in the fridge to save it. It tasted better after it's been melted first. I ate it right out of the fridge. And it melted quickly in my mouth & tasted sweeter, but in a good way.  Hmmm.
+
+product/productId: B000EUF9CK
+review/userId: A2BUGR79KV22IT
+review/profileName: Vivian Kanchian "SZTUMPF"
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1317772800
+review/summary: BEST CHOCOLATE EVER... but hold the soy lecithin please?
+review/text: This chocolate is rich, creamy, bitter and every bit satisfying.  I like to refrigerate it then eat a couple squares (read: half the bar) chilled and crunchy jagged.  Most Americans will find this chocolate too bitter for their taste, at only 5g sugar per half bar serving.  But if you're the type who likes your espresso straight up, and bitter flavors in general... you will HEART this chocolate!  It also may not be as bitter the 2nd and 3rd time you try it... so hang in there and at least eat up the entire bar.<br /><br />I just reallyreally wish they'd find a better substitute for the soy lecithin.... which is the only reason why I took away one star.  Pretty please???
+
+product/productId: B000EUF9CK
+review/userId: A3SN9X62WOT0FC
+review/profileName: star
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1307059200
+review/summary: Dark Chocolate
+review/text: Hmmm it is very bitter (according to everybody that tasted it). however i feel it is an acquired taste and with time i loved the rich feeling of almost pure cocoa in my mouth...<br />Very good.. and rich in anti oxidants huh....
+
+product/productId: B000EUF9CK
+review/userId: A3P7UANHKLNW7H
+review/profileName: Kdgum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: I was very surprised
+review/text: After hearing about the health benefits of dark chocolate I decided to buy some at our local health foods store. I did not buy this on Amazon but wanted to comment.  I was very surprised by this chocolate. I will admit, at first I was thinking " omg, this tastes nothing like chocolate" BUT, it's 88% cocoa and since I've never really had any other dark chocolate except the hershey bar, I didn't really know what to expect. I'm not a baker too so give me a break:) Anyway, this is definitely growing on me, I had my second piece today, I bought the little pkg of 10 individually wrapped squares. It is very good and you definitely should let it melt in your mouth and savor the flavor, like another reviewer stated " like a glass of wine"  I will definitely be buying more of this. And for those that say "yuck!"  It's not your typical candy bar, it's more of a delicacy per say.
+
+product/productId: B000EUF9CK
+review/userId: A2CXPULSSEHRGL
+review/profileName: Debs "stargazer7"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Very good smooth dark chocolate
+review/text: This is now my family's favorite new dark chocolate. The flavor is very smooth and not too sweet.<br />It is an added bonus that the product is fair trade and that a part of their profits goes into doing good.
+
+product/productId: B000EUF9CK
+review/userId: A35XE5R9ELORTH
+review/profileName: J. Carroll
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348272000
+review/summary: Wonderful for my low carb diet!
+review/text: I love love love very dark chocolate, but not if it's dry or bitter. This chocolate is fantastic! I eat one little square after each meal and it's like Heaven! It has a great mouth feel, is just enough sweet to make it not bitter, and melts beautifully o my tongue. I started using this to make peanut clusters and other candies. It's perfect because I don't have to add artificial sweetener, so the taste is amazing.<br /><br />As for the negative reviews, I can only think that they received very old bars that had been sitting on the shelf for a very long time, or a bad batch. Trust me, these bars are amazing and the best I've ever had for this high percentage of cacoa--and I've tried them all!
+
+product/productId: B000EUF9CK
+review/userId: A3NG936AKNOY2E
+review/profileName: Andrew Johns "Andy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: Delicious!
+review/text: I was worried if I'd like it from reading the reviews.  So many people said that extreme dark chocolate is an acquired taste, and needing to work up to the higher percentages, but it was delicious from the first bite.  My only other significant experience with dark chocolate was those little Hersey's Dark Halloween bars, haha.  I sometimes chomp on pistachios when eating this chocolate as I find that particular combination addictive.  Yum!  88% dark chocolate has quickly become my favorite "healthy" lifestyle change.  I lowered my caloric consumption accordingly, and have lost weight since starting my daily chocolate habit.
+
+product/productId: B000EUF9CK
+review/userId: A2M6PDV1KXVS58
+review/profileName: Chocolate lover
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: Endangered Species Chocolate
+review/text: This is the second time I have purchased Endangered Species dark chocolate. It is so rich. I only need 3 squares to satisfy my chocolate cravings. It has just a hint of bittersweet. On top of how good it tastes, it is good for me. Win, win!
+
+product/productId: B000EUF9CK
+review/userId: A3O7B83JB6L1RY
+review/profileName: Johanna Galt
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334707200
+review/summary: Good flavor - could be smoother.
+review/text: For a somewhat pricey chocolate I feel I can be a little critical. The flavor is very good, but it lacks some smooth mouth-feel, almost like it needs more fat or better blending.<br /><br />In general this type of dark chocolate is good for you. I will probably buy it again.
+
+product/productId: B000EUF9CK
+review/userId: A31LD9HFE75994
+review/profileName: M. Bhatnagar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324080000
+review/summary: my kind of chocolate!
+review/text: I am a huge fan of dark chocolate, and consider my selections very carefully.  Quality and ethical craftsmanship is extremely important to me.  This chocolate is delicious, is fair trade, and supports the environment in a variety of ways.  How awesome is it to know that just by buying something that you LOVE, you are positively impacting the world around you.<br /><br />Whats more, is the health benefits you receive from eating pure, dark chocolate.  No sketchy additives or high amounts of sugar here!  Just honest amounts of protein, magnesium, fiber, and good fats.  And less sugar than a serving of ketchup.<br /><br />Finally... the price is fair for the amount of chocolate in a bar.  I eat about 1/3-1/2 a bar a day, and this is my "indulgence".  Plus, the store where I buy it from sometimes sells it for 1.99 a bar!
+
+product/productId: B000EUF9CK
+review/userId: A2QO3VPN591MNI
+review/profileName: L. Bernstein "Knitting is Gluten Free"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322352000
+review/summary: The Most Incredible Chocolate . . .
+review/text: I have to eat gluten-free, and all I can say is: This chocolate bar saved my life.<br /><br />Well, maybe not saved my life, but it sure added to my life.  This bar is melt-in-your-mouth delicious, as are all the other gluten-free bars I've had from this company.
+
+product/productId: B000EUF9CK
+review/userId: A1YEJ1X95EYEJY
+review/profileName: Alix
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234828800
+review/summary: Best Dark Chocolate!
+review/text: I LOVE this dark chocolate, its really dark, and really good. I can't get enough of it.
+
+product/productId: B000EUF9CK
+review/userId: A1DYQQ8DD8KA4Q
+review/profileName: Hollida Wakefield Underwager "Hollida Wakefield"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1263340800
+review/summary: The best dark chocolate I have found
+review/text: I read more and more that dark chocolate with a high cocoa content is healthy. And this has the highest cocoa content I have found. It also tastes good.
+
+product/productId: B000EUF9CK
+review/userId: A2HSWPT6YHAMOG
+review/profileName: D. Pitcher
+review/helpfulness: 6/11
+review/score: 2.0
+review/time: 1282521600
+review/summary: Ruined by heat
+review/text: I was keen to know what this chocolate tastes like though unfortunately when it arrived it was clear it had melted sometime during shipping which changed the structure and turned a bunch of it back into cocoa powder.  I'm rather disappointed that it barely tastes edible and as a fan of really dark chocolate I'm doubtful that's how they're supposed to taste.<br /><br />By contrast I ordered the <a href="http://www.amazon.com/gp/product/B001S34CUW">Ghirardelli Chocolate Intense Dark Chocolate Bars, 86% Cacao Midnight Reverie, 3.17 oz.</a> and was rather confused by the higher shipping costs.  I figured out why when they arrived.  They'd been shipped with special freezer packs and bubble wrapped.  The freezer packs kept the chocolate from melting and they arrived in perfect condition.
+
+product/productId: B000EUF9CK
+review/userId: A1EF41GGXZYIVW
+review/profileName: Randy Jarrett
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1302480000
+review/summary: Too much like Baking Choc.
+review/text: As far as choc. goes this really good. But someone who reviewed should have explained it is so close to baking choc. you can't hardly tell the difference. Since I bought this I have experminted, and between 60 and 70 % is good for a dark chocalate lover.<br />Randy
+
+product/productId: B000EUF9CK
+review/userId: A1RV02ZG5F9ERB
+review/profileName: Edward Terry
+review/helpfulness: 5/11
+review/score: 3.0
+review/time: 1273536000
+review/summary: Deceptive label information, but great taste
+review/text: The nutritional information on the label doesn't add up. According to the label, one bar has 320 calories, 300 calories from fat.  However, the label also lists 8 grams of protein and 24 g carbs which also have calories. The caloric content of the entire bar should be listed as 428 calories (300 + 32 + 96).  I bought this thinking it would lower in carbs, but the flawed label information leaves me wondering.<br /><br />Other than that, I love the taste.  This tastes like chocolate only.  Since I lost my sweet tooth, even very dark chocolate is too sweet.  My wife hates this stuff claiming it's bitter.  I don't find it bitter, just chocolate without the sweet taste of sugar.
+
+product/productId: B000EUF9CK
+review/userId: AHYRTWABDAG1H
+review/profileName: E. Thomsen "arvig"
+review/helpfulness: 4/10
+review/score: 5.0
+review/time: 1306281600
+review/summary: Finally, the flavor I expected!
+review/text: I have tried other products made by these people, to be specific the one with the chimp on the label, the bat and the rainforest.  In all previous cases, none of them had the flavor I expected due to the label of the product.  But finally, a chocolate bar by them that tastes exactly as it's described!  I can strongly taste some sort of cat, I assume a black panther based on the label when I bite into each and every bit of this delicious chocolate.  Don't get me wrong, as far as chocolate goes the chimp one, the bat one and the rainforest ones all were good..AS CHOCOLATE.  But the Chimpanzee one had no chimp flavor, nor the bat one any bat flavor.  And in no way at all did the rainforest one taste like a tree, or any compost caused by leaves rotting around a tree base, or anything else that might remind me of a forest.  But this..this very much has the strong gamey taste of a feline!  The fuzzy chunks within the chocolate, the fuzz from the animal fur (I assume) are a nice bonus!  Oddly enough there was no mention of black panther or any other feline in the ingredient listing.  But I can tell by the taste and texture, this very much includes cat meat, very much includes cat fur.<br /><br />Finally, they get it right!
+
+product/productId: B000EUF9CK
+review/userId: A1H1HPHF8EBH0N
+review/profileName: ellen_angel12
+review/helpfulness: 3/9
+review/score: 3.0
+review/time: 1280448000
+review/summary: Great chocolate, melted delivery
+review/text: I love this chocolate, and have bought it local stores. However, when it arrived on my doorstep, it was a giant melted mess. I have ordered chocolate from several companies, and all of them refrigerated the chocolate in some way for delivery. Buy it in the store.
+
+product/productId: B000EUF9CK
+review/userId: A2JR3138MMC567
+review/profileName: Tink
+review/helpfulness: 0/5
+review/score: 3.0
+review/time: 1312848000
+review/summary: packing sucked
+review/text: the chocolate was all melted, so I am not sure if I really like it or not. it taste ok I guess but it is all white and this is not white chocolate... so I am really disappointed...
+
+product/productId: B000EUF9CK
+review/userId: A2V2CF4OKZQMBY
+review/profileName: Stomper
+review/helpfulness: 3/15
+review/score: 3.0
+review/time: 1274313600
+review/summary: Good for baking, not straight up
+review/text: After reading the reviews, I expected something different.  Something....  Tasty.  I like dark chocolate A LOT, but this tastes exactly like unsweetened baking chocolate.  So, if you have ever tasted baking chocolate and thought, "hey, thats good."  Or  "Hey, I can taste notes of tulips and roses and hints of caramel and berries.", then you will like this.  Otherwise, save your money and buy something with a little more sugar.  I have had 60% and thought it tasted great.  Apparently, 88% is just too much concentration for me.<br /><br />When I tasted it, I gagged a little bit and made the famous sour lemon face, and my daughter started laughing.  She thought I was joking in order to hog the rest to myself.  So, I did what any good dad would do.  I offered the rest to her.  But, I grabbed the trash can just as she took a bite, because I knew what was about to happen.  She has a much lower tolerance to bitter taste than I do (she is only 7).  The black lump came flying out her mouth just as fast as it went in.<br /><br />I dont know why there are so many good reviews for this.  Some people out there must really love to punish their tastebuds.  Maybe they also like black licorice and black coffee?  Now, what do I do with the remaining 11.75 bars of chocolate?  :(<br /><br />Update: I found a use for my leftover chocolate.  I chopped one bar up and used it to replace half of the chocolate chips called for in a recipe.  The resulting cookie was very good, so now I am happy I have this chocolate.
+
+product/productId: B000EUF9CK
+review/userId: A132ETQPMHQ585
+review/profileName: Donna's Reviews "I Love Shopping on Amazon!"
+review/helpfulness: 4/24
+review/score: 1.0
+review/time: 1324166400
+review/summary: Awful....
+review/text: I'd rather give up chocolate than eat this stuff....healthy or not....Endangered Species Black Panther, Extreme Dark Chocolate (88%), 3-Ounce Bars (Pack of 12)....Just way too bitter!~ Just not for me!~
+
+product/productId: B000EUF9CK
+review/userId: A2WM4CUI6D7FEL
+review/profileName: Fran I. Sugarman
+review/helpfulness: 4/50
+review/score: 1.0
+review/time: 1256342400
+review/summary: WAY too strong
+review/text: I put one square in my mouth and it made me want to vomit. I love most of their other products but this was absolutely volatile. The taste was stuck in my mouth for the rest of the night. Unless you like your chocolate very very very very very dark, do not get this. 88% cacao content is ridiculous- I try to stay below 70-75.
+
+product/productId: B0002PHFKQ
+review/userId: A1A78EFLWHPL4O
+review/profileName: K. Fogg "dessert maker"
+review/helpfulness: 15/15
+review/score: 5.0
+review/time: 1120608000
+review/summary: Orange Flower Water
+review/text: The price was fantastic and the quality is great.  It has just the right smell and taste for use in baklava.  I would recommend it to anyone.
+
+product/productId: B0002PHFKQ
+review/userId: A1OKCJVBQI9KPX
+review/profileName: Carolyn C. Llorente
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1231286400
+review/summary: orange flower water
+review/text: Difficult to find, but easy to get.  The retailer sent it right out--exceeded expectations.
+
+product/productId: B0002PHFKQ
+review/userId: A19222G1UW8YRT
+review/profileName: Mica L. Marsh "micachip"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1292198400
+review/summary: Yum Yum!!!!
+review/text: Life without good orange flower water is lacking.....Ramos Gin Fizzes require it and they are the nectar of the Gods - breakfast with all the necessary food groups!  And those little bottles just do not last....this is dee-lish!!  Thanks!
+
+product/productId: B0002PHFKQ
+review/userId: AJU5NCWYOM5T2
+review/profileName: Beatriz V. Austin
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1325548800
+review/summary: Orange flower taste in a bottle
+review/text: This orange flower water is pretty good. You have to be very careful and start with just a tad and then taste and if it needs more, add it in very small amounts. If you do this, you will get a taste kind of similar to the real orange flowers, but not exactly the same. But overall, you do get a pleasant taste if you are careful.<a href="http://www.amazon.com/gp/product/B0002PHFKQ">Orange Flower Water 16 oz.</a>
+
+product/productId: B0002PHFKQ
+review/userId: A3CHY7UWPA6O6Y
+review/profileName: DJ Brasier
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305936000
+review/summary: My "secret ingredient"
+review/text: I throw a bit of this into almost everything sweet that I bake.  People rave about my baking, and I think this is why.  Highly recommended.
+
+product/productId: B0002PHFKQ
+review/userId: A2Y8M2Y5BH8AFA
+review/profileName: Juliebug
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288224000
+review/summary: Fantastic orange flower water
+review/text: This is a great product for a pretty good price too.  It was shipped quickly and I have used it a number of times.  It is called for in some mixed drinks.  I've also used it in a cream sauce to give just a hint of orange flavor.  Wonderful!
+
+product/productId: B0002PHFKQ
+review/userId: A2NXHHB0ADG02R
+review/profileName: chatterly lady
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1287878400
+review/summary: orange flower water
+review/text: After trying to find this product in liquor stores, etc. found it at Amazon.com.  And what a bargin too!  So much more product for so much less money.  A great way to shop.<br />C L
+
+product/productId: B0002PHFKQ
+review/userId: A8Y5QGKE8C24P
+review/profileName: nbowncrawford
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329350400
+review/summary: Normally a Hard-to-Find Product
+review/text: Typically this product is harder to find then most in its class, we purchase it for our restaurant/bar and use it in our signature cocktails.  Only a few drops at a time adds the perfect 'creamsicle' twist to any drink, and our customers have been raving about it lately.  We also find this product great when used to flavor pastry and food items, since it contributes a subtle orange taste (the flavor profile is almost that of orange oil from the skin of the fruit; tart yet mellow and smooth).<br /><br />Great Value and quality for the size and price.  Super fast shipping as well.
+
+product/productId: B0002PHFKQ
+review/userId: A2RGEFLGKIJ8ML
+review/profileName: Kathy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311465600
+review/summary: Impressed!
+review/text: Nice size bottle for a great price.  Ordered here after having no luck finding it in local stores.  Quick shipping, great communication.  Would order again!
+
+product/productId: B0002PHFKQ
+review/userId: A1Y4FN8DEEDCI9
+review/profileName: Isabel Cutler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308268800
+review/summary: Delish!
+review/text: This product arrived in a very timely manner and EXTREMELY well packed.  I would buy from this vendor again.  I needed the orange flower water for some Moroccan Cookies I was baking. You can see my Moroccan Ghoriba in my Flickr gallery (isabel95)in the recipes section.  The linked recipe, I wanted to warn you, left out the flour, so add some to be able to roll the cookies into balls!
+
+product/productId: B0012C4XBW
+review/userId: APGEXX15DLCAC
+review/profileName: A. Huguley "skeptical buyer"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1234742400
+review/summary: Amazingly Delicious
+review/text: This chocolate soy milk is just delicious! I first tasted this milk while deployed in Iraq, and it was one of the things I missed when I came home. Lo and behold, ol' faithful Amazon had the stuff - and at a great price! (I have the subscription!) My husband, a dedicated milk drinker, loves this stuff too!
+
+product/productId: B0012C4XBW
+review/userId: A1IXF8JNO7M2BN
+review/profileName: NE1
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1261180800
+review/summary: Makes A Great Organic "Fudgsicle"!
+review/text: <a href="http://www.amazon.com/gp/product/B0012C4XBW">Pacific Natural Foods Enriched Soy Milk Non-Dairy Beverage, Chocolate, 8-Ounce Aseptic Packages (Pack of 24)</a><br /><br />This chocolate soy milk has a creamy, velvety texture.  Shake well and pour into popsicle molds and freeze for a delicious and nutritious frozen treat.<br /><br />I use this as the liquid base for my fruit smoothies and as the perfect complement to a snack of natural peanut butter on whole grain bread or crackers.<br /><br />Side note:  As of this writing, the nutritional information on this page omits the Vitamin D content.  As per the package, in addition to 40% Daily Value of Calcium, 8 ounces of this soy milk also contains 30% Daily Value of Vitamin D.<br /><br />Nutritious and deliciously satisfying in a convenient single-serving size, shelf-stable package.  Highly recommend!
+
+product/productId: B0012C4XBW
+review/userId: A2HFCYPV9ENQZO
+review/profileName: Lori L. Myers "trixie"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252713600
+review/summary: soy milk
+review/text: My kids love this soy milk.  And I love the individual boxes because they are easy to throw in their lunches.  I watch for sales and then stock up on them.  My kids say this soy milk tastes great.
+
+product/productId: B0012C4XBW
+review/userId: A353U0L2HAMSHV
+review/profileName: Cricket "Living life and loving it!"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1242950400
+review/summary: A great addition to my daughters lunch
+review/text: My daughter switched to soy milk about 2 years ago for no other reason than she prefers the taste.  For drinking at home we buy the brand she prefers, but they don't carry individual sizes so we had been looking for something she'd like. I bought these on sale to try out and she really liked them. We keep a weeks worth in the fridge and she grabs one to take to school for lunch. She says that the taste is very good with just the right amount of chocolate sweetness.<br /><br />I appreciate that Amazon offers this product on Subscribe and Save.  It keeps us from running out, keeps me from running to the store and also saves my family money!
+
+product/productId: B0012C4XBW
+review/userId: A2VKQF185EG307
+review/profileName: Becky Shores "GM2"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1281484800
+review/summary: Soy Milk
+review/text: This was awesome! I drank Pacific Soy while in Iraq, when I came home i tried other soy milks but none of them tasted this good. The chocolate is always a good choice, but the regular is easy to love also, never had the vanilla.
+
+product/productId: B0012C4XBW
+review/userId: A30SLY6N6WKV5W
+review/profileName: K. S. Shifflett "Sourdoughnative"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1252368000
+review/summary: Lunchtastic!!
+review/text: I was a little leery at first, my kids are pretty picky when it comes to soy products. But the taste and portability won them over. They are both in middle school and look forward to taking one in their lunch or drinking one when they get home. I love that it is shipped automatically whenever I choose. Great product!!
+
+product/productId: B0012C4XBW
+review/userId: AZWRZZAMX90VT
+review/profileName: Rennie
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1240185600
+review/summary: Good but caution if you don't like the flavor of soy
+review/text: Yum. I loooove chocolate milk and indulge of plenty of chocolate soy milk because I'm lactose intolerant.  However, this one has a noticeable "soy milk" flavor. It's not super strong, but it's definitely there. Silk makes the best chocolate soy milk in my opinion.
+
+product/productId: B0012C4XBW
+review/userId: A5MUGKHKFT5K2
+review/profileName: Kate Gombrich
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325203200
+review/summary: A good product with too much sugar
+review/text: I like this chocolate soy milk pretty well, and have it delivered by subscription every few months, but I always mix it half and half with non-fat milk and unsweetened cocoa (plus protein powder and ice -- in a blender).  It's just too much sugar otherwise.  Cloying.  I would LOVE IT if they would make a low-sugar version (NOT artificial sweetening!! just less sugar).  How does it compare with Silk chocolate soy milk?  I can't tell much difference -- and the nutritional info is about the same.
+
+product/productId: B0012C4XBW
+review/userId: A2GTIFY34FM10D
+review/profileName: L. Lowman "Linda DL"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286582400
+review/summary: My Favorite Chocolate Soy Milk
+review/text: I've tried several chocolate soy milk products before this one and found this to be the best tasting. I love the single serves and they come with a straw so you can throw them in your lunch bag or grab one anytime. I also love mixing it with coffee for my own special homemade iced mocha coffee. A lot cheaper than a Starbuck's iced mocha!
+
+product/productId: B0012C4XBW
+review/userId: A2MUGFV2TDQ47K
+review/profileName: Lynrie "Oh HELL no"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283299200
+review/summary: My Favorite
+review/text: After reading the positive reviews I decided to take the plunge when this was on sale. It's wonderful and I highly recommend it.
+
+product/productId: B0012C4XBW
+review/userId: A1775QOMY6CMN
+review/profileName: Lafayette H. Bunnell "Riso"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1232582400
+review/summary: Good value
+review/text: My three year old said this was great stuff and just said we better order more
+
+product/productId: B0012C4XBW
+review/userId: A1CFYV8RQ8L6DS
+review/profileName: maglean "magaugust"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1224028800
+review/summary: So Chocolate
+review/text: I'm please with this purchase the taste is good. I use this for my creal also just as a drink. I don't have to worry about the soy milk spoiling.
+
+product/productId: B000HDL1T4
+review/userId: A2PNOU7NXB1JE4
+review/profileName: Peggy "pab920"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1192924800
+review/summary: Requires extra step
+review/text: I had always purchased the staple American powdered tapioca found in every grocery store. This one is superior, but it does require soaking the beads first, then basically the recipe process is the same. These pearls are larger and I think better tasting. This is one of my childhood to adult favorite puddings that I like warm or cold. I think it's worth the extra effort.
+
+product/productId: B000HDL1T4
+review/userId: ANI40ZOPD8TK3
+review/profileName: Una
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1217721600
+review/summary: Best small pearl tapioca
+review/text: This is my favorite small pearl tapioca.  I have used this brand for decades.  I have also used many other brands, when I could not get this one.  I do not use "quick" tapiocas;  they are not especially quick and the results are gluey.  Bascom's tapioca is my favorite because the pearl size is very uniform with an absolute minumum of broken pearls and powder, and the pearls are very smooth and cook up well, with a very smooth and even consistency.<br /><br />The recipe on the box is good, but I prefer to reserve the egg whites, beat them to stiff peaks, and fold them in at the end.  The pudding sets up just as well yet is very fluffy, like a great mousse.  To avoid any risk of salmonella, use pasteurized eggs.<br /><br />These pearls do need to be soaked in water before cooking.  I soak them overnight and cook in the morning, or soak them all day and cook in the evening (my family likes tapioca pudding for breakfast).  I soak them in the refrigerator.
+
+product/productId: B00032HBDY
+review/userId: A3N5BMVR4U9HBM
+review/profileName: the cherry "bomb"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1172016000
+review/summary: Such good coffee!
+review/text: This stuff is popular for a reason. It's a dark, rich coffee that tastes amazing drunk as caf&eacute; con leche or just black with lots of sugar. It puts Starbuck's to shame. I had some leftover Starbuck's and couldn't bring myself to drink it once I experienced Caf&eacute; Bustelo. I won't drink anything else!
+
+product/productId: B00032HBDY
+review/userId: A38FWIRQ4AOZPE
+review/profileName: C. Beall "zincb"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1187568000
+review/summary: Utterly Delicious !!!
+review/text: Bustelo tastes great (a full, creamy, smooth, soul-warming flavor) from first sip to a wonderful *non-bitter* aftertaste.  It does NOT have that Starbucks over-roasted burnt & bitter flavor that many confuse with good coffee.  If you like real coffee, try this one, or even better, Bustelo Supreme.  The only coffee that even comes close to Bustelo is Lavazza.
+
+product/productId: B00032HBDY
+review/userId: A2Y7SU4QNC5FVW
+review/profileName: M. mireles
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1179360000
+review/summary: BEST OF THE BEST
+review/text: I lived in Miami for 4 years and Bustelo & Pilon was the only 2 espresso's you can get down there. It is the Starbucks of Cuba. It's a different taste from Starbucks without a doubt but once you try it you will LOVE it. I will not drink anything else but Bustelo.
+
+product/productId: B00032HBDY
+review/userId: A2UJKDFVE9EMH8
+review/profileName: floosie
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1178755200
+review/summary: Yuck
+review/text: I guess you either love it or you don't. I recently read that Cafe Bustelo is a great dark roast coffee for espresso so I gave it a shot. It does not even have the aroma of coffee. To me it smelled and tasted like those stale packages of motel room coffee. It's back to Starbucks Italian Roast for me.
+
+product/productId: B002T1BVCE
+review/userId: A1OA824MB8MWAB
+review/profileName: Bill J. Schuchman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350777600
+review/summary: good price, good quality
+review/text: Good quality peppers, large amount for a rather cheap price, which worked out great for the recipie I needed them for.  Would purchase them again when needed.
+
+product/productId: B002T1BVCE
+review/userId: A2OR8QYLG9WZ5M
+review/profileName: Jennifer Cote "chef and author"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: Hot Chipotle- these are great!
+review/text: I researched Chipotle Peppers when we wanted to make a good sauce for New Deli sandwiches. I am not going to pay good money for a can full of cheaper ingredients, when I can get something like these wonderful dried peppers, for considerably less. All we do at the deli is stem the peppers and soak 'em overnight in a covered jar, in a half cup or so of boiling water. Next day, we can process/chop the whole thing, water too, adding some salt (helps 'em keep longer), and some virgin olive oil. We then have some "chipotle paste" that can go into sauces, soups, etc., FULL of chipotle flavor... If you do that, the paste will keep for months in the fridge (IF you don't eat it sooner). I highly recommend this product! (Although I'd get the larger size. They're that good.)
+
+product/productId: B0002B0REQ
+review/userId: A2V8SYNH3UVXFY
+review/profileName: MukilteoLover "Loving Mukilteo"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1267574400
+review/summary: Really does work!
+review/text: I order this for my husband who has dry eyes. At first we were skeptical as to if it would really work. Well, it does! He noticed an immediate improvement if used regularly. After a while results diminish though, so he takes a break and then starts using it again to get results.
+
+product/productId: B000UYBPUU
+review/userId: A1PRSUQ9MJZH3W
+review/profileName: Cesar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316476800
+review/summary: Very good product.
+review/text: Very good product. the flavor and consistency are as indicated. I can make very good cotton candy, cotton does not become sticky. I recommend this product.
+
+product/productId: B005CRVJ38
+review/userId: A2FTZ9YH2OV0C2
+review/profileName: Deborah A Norris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: Yummy and nourishing!
+review/text: I love this product and the service.  I like a hearty warm beverage, without caffeine - and this is it.  It is helpful for the digestion as well.  The service was also excellent.  Thank you.
+
+product/productId: B005CRVJ38
+review/userId: AWI7533KVSBMU
+review/profileName: Avon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343692800
+review/summary: I Love it!
+review/text: job's tear is good for health, especial the brown one from Taiwan, so I am very glad find this product! It's very convenient, and the taste is great too! The only pity is it's not Amazon's prime delivery.
+
+product/productId: B004T34U7S
+review/userId: A2P9VIURHY5YDF
+review/profileName: J. Abendroth
+review/helpfulness: 22/22
+review/score: 5.0
+review/time: 1322352000
+review/summary: Excellent product - here's why I already ordered it again...
+review/text: I tried this product after being unable to find anything other than lemon juice concentrates with preservatives in my local stores.  If you're reading this review, you may have a similar desire to avoid those little yellow lemon juice balls that are so common.  I wanted to start incorporating more alkaline foods into my diet to balance it out.  I was so happy with the Santa Cruz lemon juice that I placed a larger order a few days ago so that I wouldn't run out.  Here are my thoughts on it:<br /><br />Pros:<br />  - Organic (no "cides" - pesticides, herbicides, fungicides, etc.)<br />  - One ingredient and that's it (no preservatives like sodium benzoate or sodium sulfite)<br />  - Alkaline/acidic for a nice balance to many Basic diets<br />  - NOT from concentrate<br />  - Great taste; not too weak or strong - just right<br />  - Glass bottle (no BPA)<br />  - Packaged very securely during shipping<br />  - Shipping was fast (and free as of this writing from Vitacost, despite having less than $25)<br /><br />Cons:<br />  - Pasteurized (this does not bother me, but some may find it as a negative)<br />  - Pouring from a glass mouth is more prone to spilling/dripping than other containers (this is extremely minor, but it's difficult to find much wrong with this product)<br /><br />I hope this helps your purchase decision - cheers!
+
+product/productId: B004T34U7S
+review/userId: A2FHNRPKEXGLQ3
+review/profileName: Laura McGovern "McLaura"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1339718400
+review/summary: Tastes great and no sulfites
+review/text: I was skeptical at first ordering this online, but it got to me in perfect condition, and was very fresh testing.  I am very happy to have found a good lemon juice without sulfites.
+
+product/productId: B004T34U7S
+review/userId: A2DNG4KLU1LOYJ
+review/profileName: Patricia A. Buie
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1328745600
+review/summary: It can't hurt !
+review/text: I have Lung cancer and a friend sent me a article from a magazine that stated Lemon Juice was 10,000 more effective against cancer than most things used in chemo.  I don't know if it is true, but I take 2 Tsp of the lemon juice and 1 Tsp of organic Honey in a cup of hot water every morning.<br /><br />It is great to be able to Order the Lemon Juice from Amazon and get it so quickly.  Helps me plan when to order with out running out.  Thanks Amazon !
+
+product/productId: B004T34U7S
+review/userId: A2IXJQJ3ZS7NNS
+review/profileName: AuddieB
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350518400
+review/summary: Satisfied
+review/text: Im very satisfied with Santa Cruz Organic Lemon Juice and intend to keep this in my shopping inventory so that I can buy it again. I use it in alot of recipes. Very fresh.
+
+product/productId: B004T34U7S
+review/userId: A1ZDI8PBVH6II5
+review/profileName: Karina
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348444800
+review/summary: Pretty good.
+review/text: Tastes like lemon juice. Nothing spectacular about lemon juice. I did like the price, size, and prompt arrival though. I will definitely be ordering this again in the future as needed.
+
+product/productId: B004T34U7S
+review/userId: A21C5CR95LT0ZY
+review/profileName: S. Jackson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: A Perfect Subsitute to Real Lemons.
+review/text: This is delicious lemon juice.<br /><br />I was a little scared about buying it bottled for making lemonade, but as it wasn't from concentrate I took the risk. And I love it! I can store a few bottles at a time, drizzle on salads as needed and not have to worry about my lemons spoiling.<br /><br />It tastes the exact same as fresh squeezed lemon juice and love that it's also organic.<br /><br />I'm now going off to buy a few more bottles...
+
+product/productId: B004T34U7S
+review/userId: A21KF68C4KD0IK
+review/profileName: N. Fiordimondo "naomifior"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: An At Home Chef's Must Have
+review/text: I always have one in the fridge and a backup in the cabinet. Fresh lemon juice brightens just about any dish and the Santa Cruz juice is so much more convenient than squeezing the lemons yourself without compromising the fresh squeezed taste. Plus it's a decent price and ships beautifully. Love it!!
+
+product/productId: B004T34U7S
+review/userId: AO7EM9CGE117F
+review/profileName: C. Norris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Great taste!
+review/text: This product tastes very good - almost like fresh juice from a lemon. It came packaged very well - wrapped and re-wrapped to prevent breakage. I'll purchase again!
+
+product/productId: B004T34U7S
+review/userId: A2JZOFFFH7LMQY
+review/profileName: Chris-Chris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335571200
+review/summary: Good Juice!
+review/text: I am usign this juiice or the master cleanse because it was suggested by a co-worker. It is really good! Fast delievery and shipped very well so glass would not break.
+
+product/productId: B004T34U7S
+review/userId: A3BHV79JEMO393
+review/profileName: Kiara Mizer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325721600
+review/summary: Love this Juice
+review/text: Great for making tasty lemonade && you don't even need to add so much of the juice which is always a plus !!!!
+
+product/productId: B001650W1A
+review/userId: A2MSCJF4Z0R6BV
+review/profileName: Dorothea R. Horton
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333929600
+review/summary: Great instant coffee
+review/text: The product is great as well as a great price. My Mom will not drink any other flavored coffee and it would cost her a ton of money if she only went to the gas station to get her 2 cups a day.<br />Thank you for having this product on your web site.
+
+product/productId: B000N3NOQG
+review/userId: A1IFP6YHU0M5ZH
+review/profileName: Mukesh K. Maniraj "Mukesh K Manirajkumar"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1171756800
+review/summary: Great product, easy and authentic
+review/text: This is a easy way to make mouth watering dosai's.Very precise instructions.
+
+product/productId: B000N3NOQG
+review/userId: A2NOW4U7W3F7RI
+review/profileName: rpv
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331164800
+review/summary: Ok if you are very hard pressed for time
+review/text: Nthing comes close to making dosai the traditional way, soak rice/dal, grind, let ferment, let it rise and make it. These don't come that good as traditional, but nevertheless they are dosai. I tried once and will not go back. I prefer a restaurant or making at home.
+

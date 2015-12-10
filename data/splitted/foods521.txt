@@ -1,0 +1,1143 @@
+product/productId: B0045P4V0G
+review/userId: A34PJJTFME1821
+review/profileName: A. Tran
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301788800
+review/summary: Good all around
+review/text: I'm not a coffee drinker so I'm going by my husband's taste. He likes it. Still a strong coffee but not overwhelming. I enjoy the fragrance more than the darker roast, that made me sick!
+
+product/productId: B0045P4V0G
+review/userId: A1PK3XMIOQCE1S
+review/profileName: lois moyer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301184000
+review/summary: Great product with fast delivery
+review/text: This is a really good coffee. I think this taste much better than Gevalia and at a fraction of the price. The auto delivery is the way to go because you save even more with this method.
+
+product/productId: B0045P4V0G
+review/userId: A2QWNAQVM0CQX8
+review/profileName: B. Petereson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300233600
+review/summary: Favorite Tassimo Coffee Blend
+review/text: I believe I have tried all the coffee T-Discs for the Tassimo.  The Maxwell French Roast hands down is my favorite.  I'll still try all new products offered but I usually go back the the French Roast.
+
+product/productId: B0045P4V0G
+review/userId: A1OEL4UZT3KKI4
+review/profileName: coffee drinker in PA "coffee drinker in PA"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1298160000
+review/summary: Coffee lover from PA
+review/text: Surprisingly good! My favorite is the Starbucks Africa Kitamu.  However, if you purchase a two pack of the Maxwell French Roast from Amazon it's a better deal than the 5 pack....for some reason, they don't allow subscriptions for the 2 pack.
+
+product/productId: B0045P4V0G
+review/userId: AWIGEALAYP1Y6
+review/profileName: Dianne McPeak
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297123200
+review/summary: Full flavor.
+review/text: Maxwell has always been a great coffee. To put that same flavor in a T-Discs is great. I'm sure I will order more of the Maxwell coffee's.
+
+product/productId: B0045P4V0G
+review/userId: ABXBHLABPHOFG
+review/profileName: Frank
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339027200
+review/summary: Frank
+review/text: I have been using this brand of coffee in my Tassimo<br />Brewer now for a few months and am pleased with it.<br /><br />I own a business where I offer my clients a cup and<br />they are pleased to receive a fresh brewed cup. If they<br />want it a bit stronger, I just end the brewing cycle sooner.
+
+product/productId: B0045P4V0G
+review/userId: A1HNZSXCDN0PM8
+review/profileName: Olemax
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319673600
+review/summary: Nice Bold Brew
+review/text: Maxwell House Cafe Collection French Roast is a good choice for those who like bolder, darker blends.  It has nice body and great aroma, without being bitter.<br />This is a nice step up for an otherwise middle of the road coffee company.
+
+product/productId: B0045P4V0G
+review/userId: AAHQIQMJNPQVB
+review/profileName: Sarah Steel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318204800
+review/summary: Delicious everyday coffee
+review/text: This is a great strong roast, my husband and I drink it daily. We were drinking the Maxwell House morning blend, but we prefer the richer flavor of this one. There are no better prices on T-discs than on Amazon!
+
+product/productId: B0045P4V0G
+review/userId: A1GOL2AKKVDFKO
+review/profileName: Pei
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317600000
+review/summary: The best coffee
+review/text: My husband and I were so disappointed when they discontinued Starbucks coffee discs., after reading the reviews on amazon and trying several different coffees, finally found this one, it's the best coffee so far and my husband is very pleased ! I didn't think its possible to find anything to replace the Starbucks coffee but this is it. We love it!
+
+product/productId: B0045P4V0G
+review/userId: A3T4NQJCOBE3T3
+review/profileName: Tom S
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1316822400
+review/summary: tassimo t-discs
+review/text: The cost is considerably less, however the loss of the Starbuck brand and African Kitamu t-discs was a real downer. I have tried many single serve coffees and Starbucks was the best. I'm sure it has had a negative effect on Bosch single serve coffee maker sales. At this time I'm considering a Nesspresso machine because of the bold, dark coffee blends available.
+
+product/productId: B0045P4V0G
+review/userId: A3KHF4HNHSQYZ0
+review/profileName: sambakervb
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316131200
+review/summary: pretty good except 4 shortage
+review/text: ordered a 5 pack and received a 4.5 pack. one pack had only one sleeve/box of t-discs. i took pictures and sent to amazon... but received no response. they got their cut of the sale so why should they care... . the coffee had a rich and bold flavor. i think it is a good value (so long as the quantity is correct). i will definitely buy this 5 pack again.
+
+product/productId: B0045P4V0G
+review/userId: A3PCCTR96EW8WX
+review/profileName: Susan H. Hull "Doc Suzie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315699200
+review/summary: Undiscovered gem
+review/text: You've already discovered Tassimo, now discover one of their best and cheapest coffees!  This French Roast is just as good as the more costly Gevalia.  It's also better than the regular Maxwell House blend, I think it's called House Blend.  I used to buy it directly from Tassimo, but they have gone up a dollar per package so this is the best deal going.  Hope Amazon continues to offer it forever!
+
+product/productId: B0045P4V0G
+review/userId: A16MXXC7KAX1G7
+review/profileName: M. Spreer "RockChalkgal"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313366400
+review/summary: Good coffee, great price
+review/text: This coffee is a good choice for your morning cup, but isn't as great as some of the other offerings: Gevalia or Starbucks. However, at this price, I'm very happy with it.
+
+product/productId: B0045P4V0G
+review/userId: A3CZ4DG0DE1VNB
+review/profileName: Lee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312675200
+review/summary: Delicious Bang 4 Your Buck!
+review/text: You get a full (American sized) cup of absolutely delicious coffee. You'll be drooling while brewing! The aroma rivals any of the more expensive versions of coffee that I've sampled. You won't find a better price on any auction or shopping site. This coffee doesn't taste like it costs less than thirty cents a cup. This is the all around package. You will not be disappointed. Enjoy...I am!
+
+product/productId: B0045P4V0G
+review/userId: A1Z03Z1YCUW2DQ
+review/profileName: Artworks
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1312156800
+review/summary: Okay coffee
+review/text: This coffee isn't bad but it's nowhere near as good as the Gavalia Morning Roast.  It has a decent flavor and is fine if you don't like a strong coffee.  If I couldn't get the Gavalia Morning Roast, I would buy this coffee again but it would not be my first choice.
+
+product/productId: B0045P4V0G
+review/userId: A1J2KSPJOJ1FGC
+review/profileName: Allen H. Chopik "Northern Al"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311206400
+review/summary: Everyday Use a Great Cup
+review/text: Latte's, Cappacino's and every other delicacy is fine but you can't beat a cup of Maxwell Coffee. This was a wonderful prchase my coffee habit is taken care of for a long while. Seller was prompt in shipping and it was everything they promised. This is a relationship I will cherish for years.
+
+product/productId: B008UDP8KG
+review/userId: ACCY9ZFCJ4NL6
+review/profileName: J. Jurist "Zenyatta Forgotta"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1229817600
+review/summary: If time and convenience matter...
+review/text: ...give this product 5 stars.  Yeah, it's not Star****s, but it's a quality cup of frothy Joe that will start the engine with smooth creaminess.  Plenty hot, but not a lot of coffee (don't use your mammoth "venti" cup, unless you use 2 of each disk, and even then...), it's nice to havethe option of using just the espresso disk if you need a jolt.
+
+product/productId: B008UDP8KG
+review/userId: ADGEMJREA7KS4
+review/profileName: Michael M.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323302400
+review/summary: Coffee has new meaning for me
+review/text: I bought the Bosch Tassimo T-Disc single cup coffee and beverage maker (chocolate, teas, etc.) I am so pleased with this system. And I LOVE the Tassimo Gevalia Latte pods (T-Discs).<br /><br />What I like best:<br /><br />-- There's two discs used for each cup of coffee (latte), one is the REAL MILK creamer, the other espresso.<br /><br />-- This gives you the option of having an espresso ONLY, should you choose. Simply don't use the included creamer disc.<br /><br />-- The strength of the espresso or milk is separately adjustable. Simply hold the big, shiny button when the green light is flashing (flashes after the initial brew) and the unit adds more steamed water to the espresso and/or the milk.<br /><br />-- The milk in this latte pack is real milk, not powdered crud like other machines use! IMO it imparts a better, more genuine coffee house flavor to the latte.(Bonus Tip: The milk has been pasteurized at extremely high temperature. That gives it a longer shelf life, but still only about six to 10 months - do NOT refrigerate or freeze. So if you buy these off of eBay or here, ask the seller the date code on the side of ANY package containing dairy (hot chocolate, creamer discs, etc.) since you do not want to get a package close to the shelf life expiration or worse, with expired dates.<br /><br />-- If you want a latte quick, you can be sipping a just-right (not too hot, not lukewarm) in about two minutes from adding the first disc. To avoid fisticuffs on who goes first in the morning or in the break room, there is a dual coffee maker that brews two cups, side by side.<br /><br />-- Unlike other machines, the Bosch Tassimo machine(formerly made by Braun) has a bar code reader that reads the bar code on the label on each disc. The machine reads the bar code and knows what it is supposed to do in terms of how much water to add, how long to heat, etc. How cool is that! Very! For example, if you insert a 12 oz. coffee T-disc, the machine automatically knows to add 12 ounces of hot water to the brewed coffee. If you insert an espresso disc (which comes in this latte package) the machine adds just the right amount of water to make an espresso like you would find in an Italian cafe (about three tablespoons of water). If you need to wake up in the morning have an espresso, you will be gritting your teeth, driving 80 mph in the car to work).<br /><br />-- COFFEE FLAVOR IS EXTREMELY SUBJECTIVE. One man's elixir of the Gods is to another Satan's poison. So these coffees are like romantic relationships. Only you know what you see in someone and you are not going to base a relationship on what friends, family or co-workers think of your significant other. Same goes for coffee. Why on earth would you buy coffee, or not, based on what a total stranger (that's me) thinks tastes good. You need to make up your own mind on what tastes good to you.<br /><br />So what I recommend is that you buy a sampler and find out what you like. After that, then buy packs containing 8 to 14 cups of brew. (Because I like a lot of Half/Half in my way-too-strong coffee shop coffee, I ended up loving these Gevalia Latte T-Discs (but I also happen to like Gevalia coffee). You may like the Maxwell House coffee or the Gevalia Morning Roast blend (I find the Gevalia Morning Roast way too strong for my tastes. I found that with the 12 oz T-Disc I was cutting the 12 oz brewed coffee in half and adding 4 ounces of Half & Half like I had been doing at Starbucks, for example. So that coffee is NOT for me.)<br /><br />-- These individual coffee machines are the rage for making coffee. It is great in the office break room, or for couples who want fresh cups of coffee each morning but not a full or partial pot (making a partial pot is a hassle). I predict that all other coffee makers, except for making big pots for four to ten people, will fall by the wayside. Even with large groups I predict most people are going to want a coffee made to order.<br /><br />-- It is also a fantastic way to save money. Each cup of coffee costs less than a dollar, on average. That's far less than paying $3 to $5 at Starbucks.<br /><br />Bonus Info:<br /><br />-- The package indicates the product is made by Kraft Foods. IMO that's a name you can trust and it will back up the product.<br /><br />-- Do NOT refrigerate, do NOT freeze (the creamer disc will explode rendering them unusable).<br /><br />-- The date code (expiration date) for the creamers (that are a real dairy product, not powered MRE cr#p) is clearly displayed on the side of the package. On mine just bought on 12/02/11 the date code is Aug 05, 2012.<br /><br />-- You can also lose weight with these machines? How is that? Well I don't know about you, but when I used to get my morning and afternoon cup of coffee at Starbucks I would also cave and get a sweet roll of some type. So by not going to the cafe I cut out the temptation (and eventual desire) to get a lemon bar or carrot cake. Cutting out two sweets a day, that has to result in significant weight loss.<br /><br />-- These are cheaper online than, for example, at my local supermarket. For an Eight Latte pack (8 espresso, 8 creamers) I paid $12.99 at my local Safeway. Of course at Safeway I had the latte pack in hand immediately, no waiting for shipping. So for me in an emergency Safeway will do albeit that significantly increases the PPCOC.<br /><br />Sidenote: These machines are a win win. The coffee machine manufacturers and producers make a lot more money because these discs give us far less coffee (per pound if you want to use that measure). But we win because of convenience, weight loss, and also saving money by not spending $10 daily at the cafe (coffee and a sweet). Even a coffee by itself cost about $3 to $5 here in San Francisco, so cutting that expense is significant.<br /><br />Office managers, this is a reason to get one of these types of machines. And arguably productivity will go up since employees won't be leaving the office to get a coffee. And making a coffee with one of these machines is fun. So it might even boost morale (the first few months will be trying because you will have to determine which T-Discs people want. There might be fights if two employees argue over who gets the last latte in the pack.
+
+product/productId: B008UDP8KG
+review/userId: A2QKTB9NDM66TQ
+review/profileName: Irritated
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1327708800
+review/summary: Tassimo Disc Malfunction
+review/text: I have been using tassimo gevalia espresso for at least three years and LOVE it.  The pods now have a new foil covering.  For some reason, when I lift the handle to take out the pod it explodes with hot grounds, making a gigantic mess and ruining the cup of coffee.  I would say at least half of each box does this.  Irritating!
+
+product/productId: B003ZS2EJE
+review/userId: A11F60W72FUBH8
+review/profileName: Henry Halladay "Slide show creator"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324944000
+review/summary: Great Juice
+review/text: I have been buying this product for years at nearby grocery markets and have watched the price continue to rise. I then checked Amazon and found that I could get this item for a 30% savings. The delivery was fast and I will buy it again if available. Packaging was adequate for this type of product. Overall, a good deal and available when I needed it. Would recommend.
+
+product/productId: B003ZS2EJE
+review/userId: AKGNQQO1MMJII
+review/profileName: SWS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: So much Clamato!
+review/text: This was a great deal.  So much Clamato! The bottles are big, but the value is unbeatable and they all shipped quickly and are delicious. Perfect for bloody marys or smoothies.
+
+product/productId: B000PVX84E
+review/userId: A35DJ5UIZVGBP6
+review/profileName: gshoes
+review/helpfulness: 13/13
+review/score: 5.0
+review/time: 1263254400
+review/summary: Thai Pavilion Pad Thai
+review/text: 300 Calories per container<br />45 Calories from fat<br />Total Fat 5g (Saturated Fat 0.5g, Trans Fat 0g)<br />Cholesterol 0 mg<br />Sodium 810 mg<br />Total Carbohydrate 57g (Dietary Fiber 0g, Sugars 10g)<br />Protein 5g<br /><br />The taste is surprisingly good. There is a medium spiciness to the flavor. Packs well in my purse for the commute. I use hot water from the coffee machine at work and it cooks up nicely in 5 minutes.
+
+product/productId: B000PVX84E
+review/userId: A3BMXVPSW75SJF
+review/profileName: kari
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1259107200
+review/summary: Wow - fantastic!
+review/text: I got this and it sat in my shelf for a while because I didn't really expect much. Then I made it one night to share with my son (2) and daughter (4) and we all loved it! My daughter has celiac and is super picky, so I was happy it said "gluten free" right on the box. And it was so good - we ate the other box we had too (peanut flavor). Both were fantastic, the Pad thai is a little more spicy (but not too much). I was so surprised it was so good, I can't wait to get more!
+
+product/productId: B000PVX84E
+review/userId: A31J176KH7ZZEY
+review/profileName: Lalita Tawjareon
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1308268800
+review/summary: This Thai Pavilion Pad Thai Passes My Taste Test!
+review/text: I ordered this six-pack of Thai Pavilion Single Serve Pad Thai as part of a gift for my father. My parents are from Thailand, and I thought this portable instant Thai Pavilion Pad Thai would be good for him to eat when he's at work or when we're busy and don't have a lot of time to cook.  I thought it was ironic and weird timing how I ordered Pad Thai a whole day in advance before all these news headlines emerged on the Internet about two Trader Joe's customers arguing and fighting over remarks and behavior revolving and involving Trader Joe's frozen vegan Pad Thai. This case even ended up going to court. Type "Trader Joe's" and "Pad Thai" if you want to read the whole stories.  Anyways, I don't know how Trader Joe's frozen vegan Pad Thai tastes like (maybe I'll try some Trader Joe's Pad Thai in the future after reading those news stories), but it's a bonus that we can order good Pad Thai online such as that from Thai Pavilion. Thai Pavilion's Pad Thai is not frozen, and you can store Thai Pavilion's Pad Thai at room temperature. Thai Pavilion's Microwavable Pad Thai is delicious. Of course we have to be realistic. Eating this is not going to compare to visiting Thailand, dining at a Thai restaurant, or eating my mother's or any of my Thai relatives' Pad Thai, but out of the instant Pad Thais out there, this is pretty darn good. It's of medium spiciness - more true to Thai flavors and spices since Thai Pavilion write on their box that this is a product of Thailand. This product is all natural, gluten-free, and vegan. Anyways, this meal is very easy to cook. All you have to do is to remove the rice noodles from the plastic bag and put them in the tray. Then you put water in the tray to soak and cover the rice noodles. Then you snap the tray lid on and microwave heat the noodles for three to four minutes. You also have the option of pouring boiling water over the noodles. After completely heating the noodles, you drain the water from the hole slits on the lid corners of the tray (this is my favorite part of the instant cooking). I like the lid tray design, and I thought it was considerate that they packed a fork with the meal as well. Then you remove the lid and add seasoning and oil packets and mix it in with the rice noodles. On the Thai Pavilion box, they boast that they are "True Thai Food", "Authentic", and "Imported". The spiciness and flavor from this Pad Thai, in my opinion, is very close to how real Thai food is like. On their box they say that they have a Spicy Pad Thai Single Serve Microwavable version as well. This is the regular one. This Thai Pavilion Pad Thai tastes so much better than Thai Kitchen's Pad Thai (On Thai Kitchen's Pad Thai box, they say that their Pad Thai was made in China. Thai Kitchen do make some great products such as their Thai fortune cookies. But if you want my complete honesty, when it comes to instant Pad Thai, Thai Pavilion wins. Thai Kitchen's Pad Thai has a sour and tangy taste to it due to the sauce.)<br />Anyways, if you like things hotter, then you can opt for Thai Pavilion's Spicy Pad Thai, which I know my father would like as well. My father loves hot and spicy food items. My father likes to put hot seasonings, Thai chili peppers, Thai Sriracha sauce on his pizza, noodles, rice, etc. So, I ordered Thai Pavilion's Single Serve Microwavable Green Curry noodles as well - they list the taste level on the Green Curry noodle box as "very hot". My father ended up eating all of the Thai Pavilion Green Curry noodles within the month. Garlic Chili and Thai Peanut are the other two instant meals from Thai Pavilion. Give this Pad Thai a try! I have to say that this Thai Pavilion Single Serve Instant Pad Thai passes this Thai American gal's taste test!
+
+product/productId: B000PVX84E
+review/userId: AEFE24SV3QRZG
+review/profileName: Kevin Murphy
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1341619200
+review/summary: The Taste of Thai version is SO much better (and lots lower in sodium)
+review/text: As of this review, I've also tried the Thai Kitchen and Taste of Thai versions, as well as Dr. McDougals RightFoods version. This one is not great tasting and is loaded with sodium - 810 mg. Taste of Thai, on the other hand, is just 320 mg (and best tasting of the lot, by far) compared to 650 for Thai Kitchen (just another so, so product). Although the sodium is listed as 480 mg for the supposedly "healthy" Dr. McDougal version - it's actually the highest in sodium since McDougal's is only about half a serving, so multiply 480 times 2 to get the real comparative sodium.
+
+product/productId: B000PVX84E
+review/userId: A286UCNZKNPX57
+review/profileName: cdw1953
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1333929600
+review/summary: surprisingly good
+review/text: This Pavillion Pad Thai is surprisingly good.I liked it much better the the Pavillion Thai Peanut.The Thai Kitchen brand of Thai Peanut is the much better of the two.
+
+product/productId: B000PVX84E
+review/userId: A32A1TYEPBDN3D
+review/profileName: Anna
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1323388800
+review/summary: Great flavor and calorie count
+review/text: I love this one. I do have a complaint that a portion is very tiny and I feel like you could get a little more satisfying prepared meals for the same amount of calories.
+
+product/productId: B005T64YYS
+review/userId: AREJ3VR4J66K9
+review/profileName: Dorothy
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1320364800
+review/summary: A great value.
+review/text: What a great value this is. I saved a lot of money, buying this assortment of syrups. And they are all my favorite flavors, too. I love the spicy, fragrant, delicious flavors we all enjoy in the winter. I would love to hear from other people who have tried these syrups, sharing all the ways they can be used. My favorite so far is to swirl the Pumpkin Spice into some plain yogurt. Very good. Any other ideas out there?
+
+product/productId: B005T64YYS
+review/userId: A1X6J7FXZOTPZH
+review/profileName: MH
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1330387200
+review/summary: Good Syrups
+review/text: These syrups arrived when expected. They are good quality and came with six pumps which I didn't expect but would've needed.  The flavors taste good mixed with coffee, espresso, or hot chocolate. This is a good vendor.
+
+product/productId: B005T64YYS
+review/userId: A37T9SP1BSR9O6
+review/profileName: Sarah0210
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1334534400
+review/summary: Chai is so so
+review/text: I love that this product is so concentrated.  All of the flavors pack a punch.  I was, however, very disappointed with the flavor of the Chai.  To me, it didn't really taste like chai tea.  Still in search of the perfect chai tea concentrate. :-(  The other flavors are great!  My favorite is the gingerbread.
+
+product/productId: B005T64YYS
+review/userId: AWMJSP9UNMNRL
+review/profileName: Internet Walnut
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327449600
+review/summary: These are wonderful toppings.
+review/text: I love these. The pumpkin tastes like you would expect pumpkin to taste, not just spices. We use these in coffee and yogurt. I just wish they all came in sugar free!!!<br /><br />But they are wonderful for cold mornings, especially.
+
+product/productId: B005T64YYS
+review/userId: ADSOLM59OYNXJ
+review/profileName: Kristen Stanley
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1329609600
+review/summary: Great customer service
+review/text: The syrup is OK. It's very thick, which makes it hard to mix into coffee drinks, which is the whole reason I bought it. I've only tried 2 flavors so far. The eggnog is OK, but the nutmeg is unbearably strong. Based on the other reviews, I'm almost afraid to try to pumpkin spice.<br /><br />I thought I'd give a different brand a try, and I was excited to try the holiday flavors, but I doubt I'll purchase Amoretti again. I would think about returning it if it weren't for the price of the return shipping. I'm just hoping the other flavors will make up for it.<br /><br />The above was my initial review.  The company contacted me within a few days and discussed other ways to use the syrups rather than just using them to flavor coffee.  Apparently I was using a little too much syrup.  If you're used to using other flavorings, you only need to use about half as much with Amoretti.  He gave me a lot of good ideas, such as in yogurt, baking, etc.  He also shipped out some more items for me to sample, including flavored olive oil and a martini mix.  Everything I've tried is delicious.  The ingredients are very high quality.<br /><br />The syrup is thick, but with some experimentation, it's becoming easier to use.  I'm also very happy that the pumps are included with the syrups.<br /><br />I've never experienced such great customer service.  Amoretti really wants to make sure their customers are happy.
+
+product/productId: B005T64YYS
+review/userId: A3B53Y1KS1NCUY
+review/profileName: Becky in Texas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349654400
+review/summary: Love it !!!
+review/text: I ordered the 6paxk so I would be able to play around with the flavors. I figured I probably would not like the eggnog or the chai but I was wrong. Okay- so the chai won't be my favorite but I know my friends will like it.  What's great about the Amoretti  6pack is each bottle comes with its own pump. They are pretty concentrated so you won't need but half a pump per cup of coffee or whatever you use it for. The customer service is awesome -I received my package 2day !!!  I had ordered the peppermint along with my 6 pack but instead received a Hazelnut.  I contacted customer service and they responded very quickly and were extremely helpful in correcting the problem !! Shout out to Paul  for your help. !!! Oh- and before I forget, each flavor is true to what it's suppose to be and not a flavored sugar syrup !! You will be happy that you ordered this !!!
+
+product/productId: B005T64YYS
+review/userId: A30062W7KUKZTW
+review/profileName: Jasmine DM
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1347408000
+review/summary: Only So-So (Good!)
+review/text: I was extremely excited about receiving this set.  Once received, the visual aspect of it was wonderful! However, I can't fully say the same thing about every last syrup. Lets start with the Eggnog: this was probably my favorite because it truly tasted like eggnog (alcohol and all) and the smell was dead on, Nutmeg: exactly what it should smell like, Cinnamon: this one reminded me of red hot candies which isn't bad but I have yet to try it in my coffee, Pumpkin Spice: One word, potpourri. I DEFINITELY did not like this one.  Yes, it is called "Pumpkin Spice," but this is not what I expected.  It's waaaaaay too spicy!!  It tasted like tons of spices added onto the Cinnamon.  It's just a NO! Chai: This one smelled like bubblegum and chai tea spice.  The scent was somewhat nauseating to me.  Didn't like it at all.  Finally Gingerbread:  This one was OKAY, but not a true keeper.  There was too much ginger in it to fully call it gingerbread.  Should have been called Candied Ginger instead.<br /><br />So all in all, I WOULD NOT re-purchase this set again.  I really do not like the Pumpkin Spice, Chai nor the Gingerbread although the bottles were nice....<br /><br />~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br />UPDATE:  It was only a few days after posting the review on this particular product (set) and my dislike about some of the flavors, that I received a phone call/voicemail from Paul Barsoumian himself about my review.  Quite frankly, I was a bit shocked due to never experiencing customer service like that before.  I was debating on returning this set and just purchasing the Holiday 3 set (peppermint, eggnog, gingerbread I think) since I was not too fond of the gingerbread, chai or pumpkin spice.  He very graciously took the time out to call me and provide a bit more on their products and even how to use them, especially the trio that I did not take to right away.  When using the syrups, I did know that since they were more concentrated than other syrups like Torani, DaVinci, etc and less sugary but what I didn't quite grasp was that you really do not need so much.  The two times that I used the gingerbread syrup, I would put a full pump into my drink (coffee) and it was soooo overwhelming that I literally dumped it into the sink.  However, when talking to Mr. Barsoumian, he informed me that I only needed half a pump if that.  I will say that I have yet to retry it in coffee, but I do like to add a touch to tea for a hint of gingery flavor. I will try it soon though.<br /><br />Even with the Pumpkin Spice and my true dislike for that flavor.  I am starting to wonder if my pre-exposure to other "Pumpkin Spice" syrups have ruined my taste buds with their artificial nature.  I'll admit, when I purchased this set, that was one of the main reasons why I chose it.  Pumpkin Spice just screamed my name.  But when tasting it, my expectations were shot.  I do not blame Amoretti for this because when I actually think about it, this is what Pumpkin Spice SHOULD taste like.  It taste like Autumn if that is even possible, yet without the pumpkin which is fine because the name isn't Pumpkin Pie Spice, just Pumpkin Spice.<br /><br />After informing me of the usages of the syrups and how much to use, Paul sent me a few samples of other products (like the New Pumpkin Pie, Crema di Tiramisu and a few other products).  I honestly thought that when he said 'samples' he meant miniature versions of the original, but apparently these were the original size! Regardless, each flavor that I received was absolutely delicious!  I will say that the Pumpkin Pie was definitely what I was looking for.  And the Crema di Tiramisu was just WOW.  It was like liquid tiramisu.  The espresso flavor blends with the actual espresso in a coffee drink but it somewhat mellows it out leaving the true flavor of tiramisu.  I'd just like to restate that Amoretti has by far, the BEST customer service that I have ever came across.  I definitely plan on trying more flavors from this company and building my ever growing collection of Amoretti Syrups (I already have 14!).<br /><br />I have changed my ratings to 4/5 stars rather than 3/5.  This is not due to a hate for the flavors, but I just have not found my preference for what to put them in yet (have not been given the time), but even the ones that I do not care for as much, I have seen that others do like them.  They are great!
+
+product/productId: B005T64YYS
+review/userId: A2P0CJG8KC8ZEW
+review/profileName: Paddle Girl
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1346976000
+review/summary: Not so great
+review/text: I was excited to receive this holiday pack but I have to say that I am less than thrilled with the flavors. The packaging was very good and I appreciated receiving the pumps for each flavor. The directions state to use 1 1/2 pumps for hot drinks- well this was way too much for my taste. The pumpkin spice flavor was overwhelmingly harsh and spicy. I found if I used enough for it to be sweet, then it was way too spicy. When I used a smaller amount, I had to use sugar to sweeten my coffee. I normally like spicy flavors but this is just too strong. I'm not sure how we'll ever make our way through the flavors. I don't plan on repurchasing.
+
+product/productId: B005T64YYS
+review/userId: A308QEOR7ISGGN
+review/profileName: Crystal D. Weaver "police officer"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1329955200
+review/summary: No need for sugar
+review/text: With these flavorings there is no need for me to add sugar.  I just add some of whatever flavor I am in the mood for.
+
+product/productId: B005T64YYS
+review/userId: AJS8RI2X4PMBH
+review/profileName: William T Rinaldi
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1349308800
+review/summary: I think the people who left high reviews are hard of tasting.
+review/text: Its eh.  I ordered this even though I had read that the pumpkin spice had too much of a cinnamon spice to it.  I thought, "Its called pumpkin SPICE and its supposed to have a cinnamon flavor.  Silly reviewers."  I am now that silly reviewer.  The pumpkin spice was a big let down.  It has too much cinnamon.  I haven't even tried the cinnamon flavor yet because I'm afraid.  The egg nog is the best of the bunch.  I wouldn't buy this again.
+
+product/productId: B006JTNOWC
+review/userId: ABZV1E3I34FYL
+review/profileName: David D.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Great company!!!
+review/text: I ordered the grape gummi bears for my wife, and we received the gummi's withing 2 days with the standard shipping. Great service. I'm not even a fan of grape flavor, but these things are delicious. Hats off to this company.
+
+product/productId: B00126IAPI
+review/userId: A37UTZW5YH21I1
+review/profileName: Gessica
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: Delicious!!!
+review/text: I so enjoyed both cooking and eating these and so did my mother and I plan to order again :)
+
+product/productId: B003ASYT60
+review/userId: AEMIRV8H6WO3R
+review/profileName: Milano Double Chocolate Lover
+review/helpfulness: 8/8
+review/score: 1.0
+review/time: 1292716800
+review/summary: Pepperidge Farm lover
+review/text: OK you can get these from kroger from 2.50 each. why did i think this was a good deal? i bought 3 of these and spent $60, when I could have gotten 3*3=9 packs of cookies from Kroger for less than 30 dollars.<br />This is a rip off.
+
+product/productId: B003ASYT60
+review/userId: A1XYCNRK479N8G
+review/profileName: SANS VOITURE
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344556800
+review/summary: Get What You Pay For
+review/text: I just ordered this product - i read, and re-read the item info on the page, eventually i understand it to be that i will be getting a total of 45 cookies, and this is it! In one sense, i thought it was 45 cookies per package, with 3 packages - thus, 45 x 3, but then i again re-read the info, and i gather and the more likely answer is, the total is ONLY 45 cookies!!! Now, this is 'neither good' nor 'bad'. All it is, IS, you are paying pretty much the price that is on  the cookie bag if you were to buy one alone at a supermarket, but having it brought right to your door, thus shipping!  So, you are really paying the SAME PRICE of a GROCERY STORE, and little more, for 'shipping' - but, for me, I have no car, so, to have 3 bags of cookies arrive at my door, while i sit sans car, makes things only a little bit easier.  I still say, it should be 45 cookies PER BAG, with 3 bags in this total, 'special package' deal....  Cause if you think about it, it DID SHOW THE PRICE OF $25 AND UP with a line thru it, thus, implying you were getting over 100 cookies!  Cause why on earth would someone pay, 25$ for the product, alone, then the 7$ shipping on it, if it were only TOTAL 45 cookies? I gave it 3 stars, for it being 'ok' -  and only 'ok' - not great, but, its just one way to make life a little easier, i guess.
+
+product/productId: B003ASYT60
+review/userId: A3M69WGLFKJ9PI
+review/profileName: Geoffrey Kim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342828800
+review/summary: pepperidge farm
+review/text: It's so good that you can order Pepperidge Farm online and receive in time and price is not all that good but you make up with convenience of ordering online.
+
+product/productId: B003ASYT60
+review/userId: A29313797NGT9L
+review/profileName: Eddie Wannabee
+review/helpfulness: 1/4
+review/score: 3.0
+review/time: 1293321600
+review/summary: Average!
+review/text: Not a personal favorite. Bought it as a gift from amazon but could not find better options. Still, it is Pepperidge and everyone knows they make upper end cookies. 3 Stars which is another way to say average.
+
+product/productId: B00060XKM4
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: A great introduction to anchovies.
+review/text: As I have always said, Anchovies make everything taste better and thats<br />never been truer than this awesome combination.<br /><br />Leave it to Goya, the Number 1 purveyor of Spanish food products in the<br />US market, perfect hand-picked Manzanilla olives and minced anchovy loins<br />in a really cool pop-top can. Just rip off the lid and pour them in a<br />bowl for your friends to chow down on. The thing about anchovies, and why<br />Lea and Perrin's tastes so good, is because they are blessed with a magic<br />extra 5th flavor that always leave you wanting more.<br /><br />Four olives = 25 measly calories so don't listen to your health nut friends<br />that tell you "olives are fattening"...they aren't. And a couple of these<br />in your martini will make you kick yourself for not having discovered these<br />wonderful olives at a younger age.
+
+product/productId: B000H28AE4
+review/userId: ATXD6FNMP1WIE
+review/profileName: Momma D "Nanna"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: MMmmm GooD!
+review/text: We love the flavor of this Cappuccino! It is creamy and just great tasting. We, at times, mix just a bit of whole milk in with it too, very good!
+
+product/productId: B000H28AE4
+review/userId: A1OC44Q6V9TT0G
+review/profileName: LadyLayla
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: Excellent
+review/text: GREAT COFFE FOR THE BEST PRICE.  YOU WILL NOT FIND IT CHEAPER ANYWHERE ELSE ON THE NET.  SATISFACTION IS GUARANTEED AND I HIGHLY RECOMMEND IT
+
+product/productId: B0071CEPTC
+review/userId: A2YGUYZS0SE0G4
+review/profileName: Shelley Hoselton "kehele"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1340064000
+review/summary: The perfect Snack
+review/text: They are delicious, Healthy and for only 100 calories has a decadent rich taste! I usually buy the big bag, but this is a perfect amount for a snack and chocolate boost.
+
+product/productId: B0071CEPTC
+review/userId: A1G3LVCT1NN0B9
+review/profileName: sassyboots
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: Love These Snacks!
+review/text: I absolutely love these Dark Chocolate covered Acai with Blueberry treats.  I have a really hard time finding them in the stores around here, so I just order them from Amazon.  They have always arrived in good shape, never melted even in the hot weather we have been having.
+
+product/productId: B001ABUYIQ
+review/userId: A2HGY4VPHAEQHO
+review/profileName: Jennifer Jen
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1238025600
+review/summary: best hot chocolate ever!
+review/text: i am a hot chocolate addict, and this is the best one I have come across. It has a rich flavor with a hint of spices in it. It's really great.
+
+product/productId: B001ABUYIQ
+review/userId: A1L1KN09U55WBC
+review/profileName: saad
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1320969600
+review/summary: Info
+review/text: There is way to much surgar in this hot chocolate it's like having sugar flavored chocolate, I am going to have to buy some pure powedered chocolate and mix it in the bag, other then that I would say it would taste good if it was not so sweet.
+
+product/productId: B001ABUYIQ
+review/userId: A3QE70O99JUFW0
+review/profileName: Denver Girl
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1245888000
+review/summary: Loving hot chocolate in Denver
+review/text: The first time I tasted this Mexican Spiced Ground Chocolate was in a restaurant in Southern Colorado. It was a cool rainy day and I was in love with it after the first sip.I have never tasted anything this good. I took down the name of the product, googled it, and quickly ordered it from Amazon. I will now be ready for the first snowy day in Denver. It is the best hot chocolate mix ever!!!
+
+product/productId: B001ABUYIQ
+review/userId: A3J3GW7CGXAL01
+review/profileName: RCC "Brian"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1238716800
+review/summary: Mexican Hot Chocolate
+review/text: I first tried this product after visiting the Chocolate exhibit in Chicago six years ago and it reminded me of a tasty coffee I had in Canc&uacute;n in the late 1990s.  It makes a great cup of hot chocolate and I occasionally enjoy mixing some with coffee to make a mocha.
+
+product/productId: B001ABUYIQ
+review/userId: A2FVJ6N4JDNK2H
+review/profileName: T. Reynolds
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1328572800
+review/summary: Overpowering spices
+review/text: I am a big fan of chocolate and cinnamon, and was looking for a stronger cinnamon flavor than Stephen's Gourmet Chocolate Cinnamon (which is very good, but very subtle).<br /><br />This one has way too strong of a generic spice flavor for me.  It almost tastes like someone brewed really strong chai, then tossed in a little bit of chocolate for flavor.  The spice mix overpowers the chocolate, both in smell and taste, and I can hardly taste the cinnamon part at all, which is mostly why I bought it.<br /><br />Also, I drank the first 1/3 of a cup, then stopped and cleared the dishes later.  When I dumped it out, there was over an inch of THICK goopy sediment.  I followed the directions when making it, so I don't *think* I used too much mix, but you might try using less than the instructions call for.<br /><br />I'm going to try it again at some point, using less mix and keeping it stirred in between sips, to see if that helps.  But otherwise I have 3 more canisters to try and give away - if you haven't tried it, buy as small of a pack as you can for a taste test first.
+
+product/productId: B001ABUYIQ
+review/userId: AMI9P4Y5TNH2T
+review/profileName: Jason D. Summers "jrsunshine"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1320278400
+review/summary: Terrific
+review/text: This is a great treat for the Fall and Winter months hunting, camping or just snuggling up to watch a movie. The cinnamon is not too overpowering with the chocolate and has a rich cocoa flavor. My wife drinks it as an alternative to coffee so she can sleep at night.
+
+product/productId: B001ABUYIQ
+review/userId: A2ZRP165IFS95I
+review/profileName: Debi Ziemba
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1268611200
+review/summary: Love this Mix
+review/text: Ok it makes a Great Cup o' Chocolate! But I really use it in my baking of Brownier, Cookies, etc. Such a good addition to any scratch baking project.
+
+product/productId: B001ABUYIQ
+review/userId: A6SM104267C1C
+review/profileName: C. J. Postelli "The Good Aunt"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1257638400
+review/summary: Great Hot Chocolate w/a bit of spice
+review/text: This makes an excellent hot chocolate.  I also make my own gourmet hot chocolate mix and I use a bit of this to kick up some of the mix.
+
+product/productId: B001ABUYIQ
+review/userId: ARDLYY9P54KTY
+review/profileName: C. Wood "C-Me"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1237766400
+review/summary: No other will do!!!
+review/text: Tried this while I was visiting in PA. All natural ingredients, while the flavor is exceptional!  Try this one, you'll never drink any other!
+
+product/productId: B001ABUYIQ
+review/userId: A2HTJPKXV4VWP6
+review/profileName: A Reader
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1230940800
+review/summary: Yum, yum.
+review/text: This is, hands down, the absolute best hot chocolate ever. First had it years ago in a little cafe in Va. Have been ordering it online ever since. Have also given it to friends & family as a gift and everyone raves about it. A wonderful taste of chocolate mixed with just the right spices. Try it once and you'll be hooked.
+
+product/productId: B001ABUYIQ
+review/userId: AKW867T7C6HF8
+review/profileName: HWJ3
+review/helpfulness: 4/6
+review/score: 2.0
+review/time: 1269388800
+review/summary: Mostly a bag of sugar
+review/text: To me it seems like too much sugar, not enough chocolate, a little heavy on the spice. Sugar is the first ingredient. But if not for the sugar problem I wouldn't complain about the spice. I tried adding 1/2 pound of powdered cocoa to the 3 pound bag and it was still too sweet. It's amazing to me how far this is from "the best hot chocolate ever" like other reviewers rated. Def try a small bag first to see who you agree with.
+
+product/productId: B001ABUYIQ
+review/userId: ACZJK9D80WOFI
+review/profileName: cocolover
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1301788800
+review/summary: Too Spiced And Not Chocolaty Enough
+review/text: Unfortunately, I was disappointed with this chocolate--too heavily spiced and too sweet; not enough of that velvety, smooth pure chocolate that I prefer. I have 4 tins that I will give away to friends and family.  I'll be back and will let you know how they like it.
+
+product/productId: B001ABUYIQ
+review/userId: AEC521J743EDT
+review/profileName: Annie Lastar
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1251417600
+review/summary: A taste of chocolate heaven
+review/text: A wonderful taste surprise that has spoiled me for all other hot chocolate drinks there ever were.<br />MOCAFE Azteca D'oro 1519 Mexican Spiced Ground Chocolate is a rich, creamy, spice surprise that is not your mama's hot chocolate. If you are a hot chocolate drinker don't miss this.
+
+product/productId: B001ABUYIQ
+review/userId: A3IGARBJ4SE9EQ
+review/profileName: Arielle M.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: delicious, full-flavored cocoa mix
+review/text: This is probably the best-tasting cocoa I've ever had at home.  A friend gave me a small tin of it years ago as a holiday gift.  We enjoyed every bit of it but had trouble finding more until it turned up on Amazon.  Smells great, tastes great, and is made with real ingredients (not artificial sweeteners and weird chemicals).  Really fantastic stuff.  It's also great in brownies and cakes - adds some spices above and beyond what most people expect.  Tastes like fall, in the best way possible.  Here's a recipe to try:  a few frozen bananas (for chill and body), about a  cup of crunchy peanut butter, about half a cup of almond or regular or soy milk (more milk if you like a thinner shake), a scoop of this cocoa, and blend.  Drink it right away.  Filling, lots of vitamins, and naturally sweet.  I know people who swear by it as their daily breakfast.  Yum!
+
+product/productId: B001ABUYIQ
+review/userId: A2C8QA2LOENFXM
+review/profileName: p.s.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Tasty Iced Spiced Chocolate
+review/text: I got the 3lb bag and the recipes on the bag call for "scoops." A scoop was not provided in my bag, but they say that 2 scoops is equivalent to about 8 tbsp. However, the nutrition information is given by 38g serving, not by tbsp or "scoop." I measured it out with my food scale and 38g came to exactly 3 level tbsp, so if I made the Iced Chocolate as directed (2 scoops/8 tbsp), I'd be getting almost 3 servings of chocolate mix (420 cal before the milk!). I cut the milk in half (3oz hot and 4oz cold) and use one serving (38g/3 tbsp) chocolate, served over ice, and to me it is delicious with a nice strong spicy chocolate flavor, and it is a reasonable 217 cal when using skim milk.<br /><br />Different palates are going to have different preferences as far as the balance of spice and chocolate, but I can tell you that I like it. My husband does not care much for cinnamon but he also likes it, and my children like it too. We have only tried it cold so far and are looking forward to trying it hot!
+
+product/productId: B001ABUYIQ
+review/userId: A1RBSGNKVX6SUR
+review/profileName: PTrocme
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Spiced Hot Chocolate
+review/text: I purchased this product because of the reviews I read and I'm so glad I did.  I love it.  If your looking for a good hot chocolate this is it.  Sweet, spicy chocolate...very good.
+
+product/productId: B001ABUYIQ
+review/userId: A3MNLHQKAT4O65
+review/profileName: A'OK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: Mocafe Azteca D'oro 1519 - Yummmmmmm!
+review/text: This is the best drinking chocolate I have had on the market.  The spices are perfectly combined for an authentic Mexican taste. The seller delivered 100% as promised.<br />Thank you.
+
+product/productId: B001ABUYIQ
+review/userId: A2BPLAAW7NPZ7L
+review/profileName: CMO
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335830400
+review/summary: EWWWWWWWWWW
+review/text: This stuff is just awful. Doesn't taste like chocolate in the slightest. I've had very good Mexican spiced chocolate that actually tasted like chocolate. This stuff is just a mix of cinnamon and a bunch of other overpowering spices that are not pleasant. I can't believe this stuff has such good reviews. It's iky
+
+product/productId: B001ABUYIQ
+review/userId: A1JZKTUBX3ENKL
+review/profileName: JSL "JSL"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332028800
+review/summary: Best Hot Chocolate Ever
+review/text: I've been using the MOCAFE Azteca for years.  Sweet and a bit of spice.  Mixes easily.  And you can get by with half the suggested amount.  Nothing warms you up faster on a cold, winter day.
+
+product/productId: B001ABUYIQ
+review/userId: A2FYZZ7V6B2EOF
+review/profileName: mudewsa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: my relaxation
+review/text: i love this spicy chocolate. it's perfect for anytime. the best way to make it, is to heat your milk on the stove and add the chocolate as it is warming. i also add some whipped cream to my cup with a sprinkle of chili powder on the top. love to curl up and just relax with a warm cup.
+
+product/productId: B001ABUYIQ
+review/userId: A1FLP52B7FFNSO
+review/profileName: Cisco-Kid
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1328486400
+review/summary: Not that good.
+review/text: if you want to try an excellent brand La Parisienne Couture Cocoa you will find is the best one on Amazon.<br /><br />So far I have tried:<br /><br />Bellagio Sipping Chocolate<br />Lake Champlain Hot Chocolate Mixes<br />La Parisienne Couture Cocoa (My Favorite)<br />MarieBelle Mocafe Azteca D'oro 1519 Mexican Spiced Ground Chocolate (didn't like at all)<br />Jacques Torres Classic Hot Chocolate<br />Vosges La Parisienne Couture Cocoa<br />Sarabeth's Kitchen Hot Chocolate<br />La Maison du Chocolat Tasse de Chocolat<br /><br />Love to hear others feedback.....
+
+product/productId: B001ABUYIQ
+review/userId: A3RHSM88RVGQ9L
+review/profileName: Carlosrc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326412800
+review/summary: Good Stuff
+review/text: This stuff is good!!  That's all I have to say.  Rich chocolate, sweet but not overpowering, with a taste of cinnamon and almonds.  Great combination.
+
+product/productId: B001ABUYIQ
+review/userId: A2X80QTROMCYTH
+review/profileName: S. Schoenrock
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325635200
+review/summary: Not nearly as good as 2 other Mexican Spiced hot chocolates.
+review/text: This is the 3rd brand of Mexican Spiced hot cocoa that I've ordered.  This by far is the poorest in tasting.  The other 2 were far superior in flavor.
+
+product/productId: B001ABUYIQ
+review/userId: A2ZWE0C4N5ZP8
+review/profileName: Lew Craig "rockyroad"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Gourmet...
+review/text: ...but you'd better like sweet. This is not for those who want dark or semi-sweet chocolate. For those of us who like sweet, this is decadent . It is worth the $! Go for it!!!
+
+product/productId: B001ABUYIQ
+review/userId: AZ0P4OTHA090E
+review/profileName: billy joe martin jr
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: great chocolate
+review/text: this is the best mix i have found.  i have been buying it for the last four years and plan on buying it as long as it is for sale.
+
+product/productId: B001ABUYIQ
+review/userId: A34GUGZV8WOICY
+review/profileName: gijoe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325030400
+review/summary: MOCAFE Azteca D'Oro 1519
+review/text: I had 6 sample packets 1.25 oz. My oldest daughter 12 yrs loved it with whole or 2% milk. Have used some mixed with my morning coffee. Best Hot Cocoa mix I've tried.
+
+product/productId: B001ABUYIQ
+review/userId: A2X7WHN5E06AJY
+review/profileName: Angela R. Neil "Alishye"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320883200
+review/summary: BEST Hot Chocolate EVER!
+review/text: So chocolaty and spiced just right! I decided to try this brand after reading all the wonderful reviews. I'd never had spiced hot chocolate before - just the plain store-bought instant kind. WOW! The flavor of this just blew me away! Best cup of hot chocolate I've ever tasted!! I'm hooked!!
+
+product/productId: B001ABUYIQ
+review/userId: ANQI48ED8C83E
+review/profileName: Wren Kelly York "Eclectic Entertainment Junkie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313712000
+review/summary: My fa fa favorite!
+review/text: Love this stuff.  It has one of the best combinations of chocolate and mexican spice flavors of any I have tried.  I used to live near a bookstore where the cafe made mochas with this cocoa and now I buy it at home for the same purpose.  It also works really well to add a little spice to your cookies.
+
+product/productId: B001ABUYIQ
+review/userId: A2BLVQRDLBG8M7
+review/profileName: C. Nemia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298160000
+review/summary: Awesome stuff!
+review/text: First found this hot chocolate on the Museum of Natural History of all places. There's a great blend of sweetness and spice. It's so yummy!
+
+product/productId: B001ABUYIQ
+review/userId: A21BMUL4UEY53N
+review/profileName: chocoholic
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294444800
+review/summary: Can't get much better than this.
+review/text: This awesome mix is not your usual Hot Chocolate so if that is what you are looking for do not buy this product. But if you are looking for a chocolate that tickles your senses then you definitely want to buy this. The first time I tried it I was not sure so I drank some more, still couldn't decide so I drank some more. So I still couldn't decide so I drank more and then I knew. . . . Ahhhhh What a delicious hot chocolate this is. One that can not be defined.<a href="http://www.amazon.com/gp/product/B001EO651Y">MOCAFE Azteca D'oro 1519 Mexican Spiced Ground Chocolate, 14-Ounce Tins (Pack of 4)</a>
+
+product/productId: B001ABUYIQ
+review/userId: A2QUB19JWZUJXP
+review/profileName: tacokato
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293753600
+review/summary: the gold standard
+review/text: This cocoa has ruined all other cocoas for me! This is all I want now, but to be honest it is a little expensive, especially with shipping always applied. So when it arrives I hide it. I leave the Swiss Mix and the Nestles out, and save this for moments when I just want to indulge myself. I have shared it occasionally, but only when the kids are very, very good. Try it and treat yourself.
+
+product/productId: B001ABUYIQ
+review/userId: A16HTA3HPTT2VT
+review/profileName: Bob
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290729600
+review/summary: Wonderful Hot Chocolate + another use
+review/text: My husband is not a coffee drinker and the nippy mornings left him a little jealous of my warm cup of coffee.  Having just returned from a trip to Santa Fe where I had purchased it originally, I introduced him to the pleasures of morning hot chocolate.  He was hooked!!  Now for the other use, today , the day after Thanksgiving clean up we were at breakfast without any milk in the house, but an abundance of leftover decaf coffee from the celebration, his long face was brightened when I spooned in a bit of MOCAFE Mexican Spiced Chocolate into a cup of decaf.  WOW! a new taste and he loved it!<br /><br />What else can I say, it's a hit around our house.
+
+product/productId: B001ABUYIQ
+review/userId: A1BKYRD6BZX6J3
+review/profileName: M.Greenwood
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290297600
+review/summary: Gluten Free & Dairy Free Excellence!
+review/text: As a family living with Celiac Disease (Gluten Intolerance) as well as Dairy/Lactose Intolerance, finding tasty hot chocolate mix that doesn't taste like tree bark and dirt (my children's descriptions for other brands we've tried)  is a challenge, until now. THIS chocolate is amazing- we mix this with hot Silk (tm) Brand Almond Milk and WOW! Even our non-Celiac friends and family love it- it is smooth, creamy, rich and delicately spiced. Just amazing and well worth the price! We LOVE it! ADDICTIVE!
+
+product/productId: B001ABUYIQ
+review/userId: A2Y4AK3VNU2CD1
+review/profileName: A2N2
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1289865600
+review/summary: The best pre-mixed spiced hot chocolate ever!
+review/text: I first tried it about seven years. Trader Joe's use to sell it in their stores and at the best price ever!  I am a hot cocoa fanatic AND I'm Mexican.  Per my qualifications, I say this is a great blend.  The ingredients are fresher than Abuelita and the sugar isn't as gritty.  I only wish I could find it wholesale.  Price is a bit steep at Amazon...<br />16 oz. (3-pack) - 34 cents/oz<br />14 oz. (4-pack) - 43 cents/oz.<br /><br />The 3-pack is the best deal (just over $1.00 per 8 oz. serving).  You can get 69 servings for $32.67.<br /><br />I have yet found a better prepared Mexican hot cocoa, seven years later.
+
+product/productId: B001ABUYIQ
+review/userId: A2F659W8DIC8FH
+review/profileName: Stephen Murrish
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1288483200
+review/summary: Yumminess.
+review/text: This product is, in fact, a spiced, chocolate drink.<br /><br />It is yummy.<br /><br />It is not super-chocolatety, but it does have enough chocolate flavor to warrant it being labeled a chocolate drink.  It *is* very sugary, but what reasonable person believes that a chocolate drink should be anything other than a treat?<br /><br />I give it four stars because while very yummy, it does not send my consciousness into the higher stratosphere of the realm of pure, abstract deliciousness.  It is, however, a product I will purchase again.<br /><br />It tastes sweet, cinnamony, and chocolatey and has some other flavors I cannot identify.  I recommend it if you like or are curious about such things.
+
+product/productId: B001ABUYIQ
+review/userId: A2EMWA1B7RCYXK
+review/profileName: AspenLeaf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1278201600
+review/summary: great in coffee
+review/text: I really like to put this on top of the coffee before brewing.  Yummy!
+
+product/productId: B001ABUYIQ
+review/userId: A2DNRK6IJQ2QN0
+review/profileName: Roseann M. Johnson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268438400
+review/summary: delicious
+review/text: This is a fabulous drink that our entire family enjoys ! It has just the right combination of spices and chocolate.
+
+product/productId: B001ABUYIQ
+review/userId: A1EX5SK2PD0XLC
+review/profileName: Kenneth Sandberg
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1268179200
+review/summary: not my cup of tea, so to speak
+review/text: This product is great if you like the particular spices used in the mix.  Unfortunately, although I am drinking it, I am not enjoying it as the flavors just don't jive with my palate.  If you really like the spice combination (I like cinnamon, for example, in almost everything, but in the chocolate mix it just doesn't make it for me), you'll love it.  I guess my advice is the product is fine if you like the flavor combination, but I would advise trying the mix in a small packet to determine whether or not it's for you.  I have this huge quantity to consume, and I rarely partake of it as I don't really care much for it.
+
+product/productId: B001ABUYIQ
+review/userId: A15GCRDTPITKVD
+review/profileName: Dawn Terry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267315200
+review/summary: Love it!
+review/text: This is the best spiced cocoa I've ever used. I love to put it in my coffee every morning!
+
+product/productId: B001ABUYIQ
+review/userId: A1AF48ABEIIDOX
+review/profileName: 'Sascha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266969600
+review/summary: WINTER BLAST HOT CHOCOLATE
+review/text: This hot mexican spiced ground chocolate is a great defroster for the winter blast weather.  I love sipping this hot chocolate while watching the snow flakes falling.
+
+product/productId: B001ABUYIQ
+review/userId: A1GH646HGNHD4C
+review/profileName: rhonda
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1266537600
+review/summary: good in coffee
+review/text: I really like this product. I NEED coffee in the morning, so I add this to my coffee, in addition to adding a teaspoon of ground espresso to the cup as well. This has a nice taste to it, not too too sweet & just a bit of a cinnamon-y flavor. Its very good. A little pricey, but buying it in quantity like this saves me a few trips to Whole Foods.
+
+product/productId: B001ABUYIQ
+review/userId: A2WLS1TTUUGJYU
+review/profileName: jipsii M'Sina "JMS"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264896000
+review/summary: Gotta' Have My Chocolate!
+review/text: YUMM!! And it's Lactose, Gluten and Soy Free* (*Save Soy Lecithin/lecithinan, which it seems that many with soy allergies can tolerate)<br />Ingredients - per package (3 # bag)<br />Pure Hawaiian cane sugar, Premium Forestero cocoa, ground chocolate (sugar & Cocoa processed with alkali, unsweetened chocolate, soy lecithinan emulsifier, pure vanilla), spices, all natural flavors & salt<br />&<br />Although the tins come with the scoop (which holds about 2.5-3 T.), I get a better price buying the 3-Pound Bag and using a 2 T. coffee scoop. I found the secret to using this in a manner I can enjoy it, as I find the original instructions make it way too intense.  I only add 1 scoop (2T.) to a cup, then add enough hot water to fill the cup half full, stir, then top off with almond milk or coconut milk.  Yummm!!  And, being Diabetic, I get my daily cinnamon!<br /><br /><a href="http://www.amazon.com/gp/product/B001ABQ60G">MOCAFE Azteca D'oro 1519 Mexican Spiced Ground Chocolate, 3-Pound Bag</a>
+
+product/productId: B001ABUYIQ
+review/userId: AZG438ZR5Y51J
+review/profileName: S. Ferguson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1264809600
+review/summary: MOCAFE Mexican Spiced Chocolate
+review/text: The MOCAFE Azteca D'oro 1519 Mexican Spiced Ground Chocolate is a very interesting drink. Not knowing what to expect [I speculated that the hot chocolate would have a touch of heat], I made a cup as soon as it was delivered. To my surprise, it has a strong cinnamon [and probably nutmeg] flavor - it is a good hot chocolate.<br /><br />I mix the chocolate powder with steamed/frothed milk from my espresso maker - I find this makes the drink much better. It takes a couple of cups to really make an opinion, but I think it is a good hot chocolate to drink every day.
+
+product/productId: B001ABUYIQ
+review/userId: A3T51X20C2WJSW
+review/profileName: Martin D. Young "Marty"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264636800
+review/summary: The best Mexican mocha powder
+review/text: We discovered a cafe that had excellent Mexican mochas about three years ago. They were expensive but we didn't visit that often. Then we discovered this was the powder used to make the mochas. It is all natural and tastes great. It is really rich and has nice spicy undertones. This is the cheapest way to purchase it in bulk.<br /><br />Now we make our mochas at home with an espresso machine and steamed milk. This also is loved by our children for hot chocolate.
+
+product/productId: B001ABUYIQ
+review/userId: A219E2LVIJEJFX
+review/profileName: Stacey Gonfiantini "Stacey"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1258329600
+review/summary: Yummy, yummy Mocha mix!
+review/text: I first got this in Ridgeway, CO., driving 40 minutes each way to get a mocha made with this<br />mix. Then the woman who was making my coffee during my stay let me know it was just a<br />mix. I couldn't believe it, but it's true, a very delicious mix you can do right at home.
+
+product/productId: B001ABUYIQ
+review/userId: A2NDOAIJWHXNNE
+review/profileName: Kimberly
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1264896000
+review/summary: yuck
+review/text: I love hot chocolate, but I found this mix repulsive. There wasn't a strong chocolate flavor and the other flavor notes where far too sweet.  I had to throw it away. I will never purchase this again.
+
+product/productId: B001ABUYIQ
+review/userId: A2UFZ5ELTPKBKK
+review/profileName: D. Smith
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1246233600
+review/summary: Good, rich and high quality but not what I was expecting
+review/text: I rather enjoy mexican hot chocolate and am used to getting the thicker ground Ibarra style version.  The ingredients are quality and it makes a good drink appreciated by guests but unfortunately is not exactly what I wanted.
+
+product/productId: B001ABUYIQ
+review/userId: A3HK2RRJHLYVA2
+review/profileName: Jennifer B. Smith
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1220659200
+review/summary: Yummy Mocafe
+review/text: I found this product in a coffee shop in Chincoteague, VA  And was blown away by it's taste.  Energizing, but not too over the top.  And I received it quickly.
+
+product/productId: B001ABUYIQ
+review/userId: AKKYSJ648AXWC
+review/profileName: Pamela Ramirez
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1336521600
+review/summary: Love the cocoa, not the packaging.
+review/text: I found this cocoa at Bristol Farms while looking for a healthier cocoa without the partially hydrogenated oils in most of them.  I love the spiciness of this cocoa and put half a scoop in my coffee every morning.  I don't drink straight coffee so I carry this powder with me when I travel too.<br />I was thrilled to find this item on amazon after Bristol Farms ran out for a while.  I have received a few of the 25 lb boxes with no problems, but my last $113 box is in the trash after I cut the plastic tie and found baby silverfish in it.  These bags are not sealed, just have a plastic tie aroung the bag opening so lots of tiny things can crawl in.  I know we have silverfish here at my husband's house, but now that I have just thrown $100 in the trash I wonder why they can't seal these bags?  I'm going to have to start buying a smaller quantity and just pay more per ounce so this doesn't happen again.  Unless a few people are drinking this or you only have one serving a day you need to plan for storage of this powder for quite a while.
+
+product/productId: B001ABUYIQ
+review/userId: ARUDAGJKKTGCV
+review/profileName: Steel Dog
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1282953600
+review/summary: Do Not Buy Mocafe Azteca D;oro 1519 from Amazon.com!!!
+review/text: Do Not Buy Mocafe Azteca D'oro 1519 Mexican ground chocolate 3lb bag from Amazon.com. Ordered 1st time on 7/18/10 did not receive Azteca, instead received CHAI The excuse was could not stop the order in time.  2nd time received Chai again although on Amazon's website the product advertised is Mocafe Azteca 1519 ground chocolate. This time i'm told to buy from a out side vendor. SAVE YOUR SELF THE AGGREVATION AND DO NOT BUY FROM AMAZON!!!<a href="http://www.amazon.com/gp/product/B001EO653M">MOCAFE Azteca D'Oro 1519 Mexican Spiced Ground Chocolate, 3-Pound Tins (Pack of 2)</a>
+
+product/productId: B005HI4MUO
+review/userId: A3RP8X4Y80NP66
+review/profileName: Marcia Brinkley "Book Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311120000
+review/summary: Great Taste!
+review/text: I've been searching for a good-tasting protein drink since I had a gastric bypass 3 years ago. I saw this product on another weight loss surgery blog and decided to give it a try. You can drink it warm (unlike most other protein drinks) or cold and it mixes quite easily if you use a container with a blender ball. I thought it was a bit too thick when I mixed it according to the directions (2 scoops in 12-14 oz. of water) so the next time I used more water. Others might prefer the thicker version, though. I also added crushed ice after I mixed it which kept it cold longer and made it more like an iced coffee drink. When I travel, I take my empty blender ball container in my carryon bag, stuffed with ziploc bags filled with protein shake powders but on my next trip will be taking these packets instead.
+
+product/productId: B005HI4MUO
+review/userId: A34MIG3U61IFAS
+review/profileName: FlamingoMom
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1308355200
+review/summary: Metallic Taste is the Deal Breaker
+review/text: Purchased this to use for travel as it's difficult to find iced coffee in most hotels & using water to mix makes it the perfect travel drink. I so wanted to love this. You have to shake vigorously - preferably using a shaker with a stirring ball or filter - as it's VERY grainy & takes about 2 minutes of solid shaking. Grainy I can live with, but the taste is the deal breaker. It has an incredibly strong metallic taste. The only way to soften the taste is to add lots of milk, which defeats my purpose of bringing a water mixing drink to travel. It's expensive for the convenience and would have been worth it - if only I could drink it. Oh well, the search for a traveling, water mixing iced coffee continues.
+
+product/productId: B000H225ZO
+review/userId: AW5DSCRLV843G
+review/profileName: Big Bad John
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: Prized but lost item found
+review/text: We've enjoyed this special cooking product for many years because of the excellent taste and texture it provides when preparing various kinds of fish.  We've been frustrated for quite some time because our local sources no longer supply it.  Imagine my pleasant surprise to find that I can convenienty order it from Amazon (one of my most favorite mail order sources).  For years I've counted on Amazon for books, electronic items, and (more recently) cooking items and musical stuff.  Now I can/will add food items to that list.
+
+product/productId: B0039555VM
+review/userId: A1YFYMK666E5T
+review/profileName: Brandon Lackey
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1273708800
+review/summary: Perfect Medium Roast
+review/text: I got hooked on the House Blend at a gas station near the house. When I found out they had it in the k-cups I immediately stocked up. It's not too acidic (like Columbian) and not too weak (like a breakfast blend). It's my go to coffee for just about any time of the day. Definately worth a try if you have never had it!
+
+product/productId: B0039555VM
+review/userId: A2K933BDG22FBB
+review/profileName: LCL "not lost"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1271116800
+review/summary: Nice Medium Roast
+review/text: This is a nice medium coffee.  Not too strong and not too weak.  It has a good flavor and isn't bitter at all.  I typical go for the donut blend but tried this one because it's cheaper and I don't think I'll go back.
+
+product/productId: B0039555VM
+review/userId: A3FBOUQQWKO2T2
+review/profileName: RumbleSis162 "RumbleSis"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1272844800
+review/summary: Excellent coffee!
+review/text: In fact, I am drinking a cup of this now!!  It is a nice full bodied coffee, not bitter, no aftertaste.
+
+product/productId: B0039555VM
+review/userId: A15BW0IWOMXULX
+review/profileName: D. Cowger
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1270166400
+review/summary: Coffee - K Cup
+review/text: Waited awhile for delivery, as this was a promotion and product was pre-ordered, so price was excellent. The coffee is better than anticipated: smooth but flavorful. Definitely my new breakfast/ early morning favorite.
+
+product/productId: B0039555VM
+review/userId: A3F55K281O28Y0
+review/profileName: D. Reisinger
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1291248000
+review/summary: Perfect Anytime
+review/text: This blend is perfect for any time of the day,  morning or noon or night. My preference is the House blend, because it doesn't leave that lingering sour 'finish' I experience with each sip of the Columbian blend. The House blend finishes clean and inviting , something I don't experience with other blends. And if I feel a need for a little more robust flavor, I'll just pick the smaller serving size, for my taste at that moment.<br />I've sampled a number of blends and brands from various Keurig providers, from Green Mountain to Gloria-Jean's and more, but for me personally, the Van Houtte House Blend is my choice.
+
+product/productId: B0039555VM
+review/userId: A2SZLNSI5KOQJT
+review/profileName: Carrie, "Formerly &#34;Sister Carrie&#34;"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1287792000
+review/summary: Nice, Smooth Medium Blend. Good Cup of Coffee
+review/text: This Van Houtte blend is a nice, smooth solidly medium blend.  It is not acidic at all.  It is slightly stronger with a touch more flavor than <a href="http://www.amazon.com/gp/product/B003VXHGE6">Wolfgang Puck Breakfast in Bed (Medium Roast), 24-Count K-cups (Pack of 2)</a> and is comparable to <a href="http://www.amazon.com/gp/product/B0029XDZIK">Coffee People, Donut Shop K-Cups for Keurig Brewers (Pack of 50)</a>.<br /><br />Not too weak, not too strong.  Solid medium blend.  Recommended for those who like medium blend coffee.
+
+product/productId: B0039555VM
+review/userId: A3ND61PV3BL25P
+review/profileName: G. Cubillos
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1282348800
+review/summary: #1 COFFEE FOR THE KEURIG
+review/text: OMG!!! BEST COFFEE EVER FOR THE KEURIG. I WONT EVEN DRINK ANYTHING ELSE EXCEPT OF COURSE FLAVORS ON OCCASION.  SERIOUSLY BREW THIS ONE ON TRAVEL MUG SIZE AND MMMMM ENJOY!!
+
+product/productId: B0039555VM
+review/userId: A3BJA77CI78TT7
+review/profileName: S. Cole
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1275264000
+review/summary: Not as good as Colombian
+review/text: Not bad overall. Mild taste. One thing I noticed is beyond 12 oz it tastes watery. I frequently make 14 or even 16 oz cups with other coffees that taste fine. Their Colombian is a bit bolder and can brew a larger cup but my favorite is Coffee People Donut Shop.
+
+product/productId: B0039555VM
+review/userId: A306ZVR6MU456T
+review/profileName: Morrie F. "Morrie"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1311552000
+review/summary: coffee lover
+review/text: Once again Van Houtte scores as my favorite coffee brand. I usually like flavored coffees but decided to get this for friends and family that want "real" coffee. This has a full bodied flavor that is very good.
+
+product/productId: B0039555VM
+review/userId: A2M3I5JEBZJR40
+review/profileName: Ernie "WardenKeeper"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1311379200
+review/summary: A little weak.
+review/text: I like a bolder more fully flavored coffee.  This coffee was just too weak for me. No complaints with packaging or anything else just not my choice.
+
+product/productId: B0039555VM
+review/userId: A1W0OK5CVMQCFG
+review/profileName: Marcia T. Lewandowski
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302480000
+review/summary: Delicious!!!
+review/text: I was looking for a light tasting coffee with no bitter aftertaste.  I found it!!!  House Blend has all my favorite attributes.  It's smooth, tasty, clean coffee flavor.  I sigh after every sip.  Yummmmmmmm!!
+
+product/productId: B0039555VM
+review/userId: A38XUEEWNAS3TD
+review/profileName: North Coast Joe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296172800
+review/summary: Balanced medium-strength brew
+review/text: I really like this.  It is medium-bold, but is not harsh, nor does it taste scorched. It has nice balance.
+
+product/productId: B0039555VM
+review/userId: A2ZRQGSEYBE67J
+review/profileName: Ronald I. Brigham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293753600
+review/summary: My favorite coffee!
+review/text: I really like this coffee and have been buying it for several years now.  However, where I was buying it - raised the price considerably.  Buying it via Amazon is the best buy.
+
+product/productId: B0039555VM
+review/userId: AZRISMP4MBIER
+review/profileName: Terri T.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291507200
+review/summary: Van Houtte House blend k-cups
+review/text: My very favorite brand of k-cups! So much so I signed up for automatic delivery , which results in free shipping and an unbeatable price. It is a nice medium roast, no bitter after taste. Just like a fresh brewed pot of coffee in every cup.
+
+product/productId: B0039555VM
+review/userId: A28GISS88GQI5K
+review/profileName: jenmopo "Jen"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291075200
+review/summary: A new favorite!
+review/text: This was my first time buying this one and I LOVE IT!  YOu won't be dissapointed.  Smooth and not bitter at all.  LOVE IT and will order again!
+
+product/productId: B0039555VM
+review/userId: A221IYGUANAAL2
+review/profileName: Cheryl L. Clark
+review/helpfulness: 2/4
+review/score: 3.0
+review/time: 1274400000
+review/summary: Van Houtte House Blend
+review/text: This coffee is okay, it's not the best tasting, but it's not the worst.  I would buy it again.
+
+product/productId: B0039555VM
+review/userId: A31XPLWD28HRFI
+review/profileName: jbizz
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1293667200
+review/summary: Van Houtte House Blend not tasty
+review/text: I have tried several different K-cups (Timothy's, Van Houtte, Gloria Jeane) and flavors/roast (bold, light, medium, etc) but this is the worst tasting coffee I ever had in my life.  I don't think there are too many reviews as people don't always leave a review when something is bad or if they have tried this coffee already, they know not to purchase it again which leads to a review not being done.<br />I will never buy this again though I love and prefer the columbian medium and kenya kil. roast from Van Houtte.
+
+product/productId: B0039555VM
+review/userId: A2IVH1D3GLACL3
+review/profileName: Melody
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1292976000
+review/summary: Great, if you like K-cup coffee quality.
+review/text: Van Houtte K-cups are my favorite if I have to drink k-cup brewed coffee.<br /><br />I have tried many K-cup varieties.  None taste as good as home brewed coffee or coffeehouse coffee.
+
+product/productId: B003WP54TW
+review/userId: AS44QEHT3KSPK
+review/profileName: slaphappy
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1318464000
+review/summary: Freshen up gum is still here! Yay1
+review/text: I was so excited to see this on Amazon - it reminded me of high school. I loved having this gum again, but it does lose its flavor pretty quickly, and it gets hard pretty fast, too.
+
+product/productId: B0058DA0H2
+review/userId: A3UIUYTCE0JF2A
+review/profileName: amharach "bookcite"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1311811200
+review/summary: Absolutely LOVE these!  Handy, healthy, fantastic flavor!
+review/text: Like another reviewer, I became familiar with Oloves in a snack pack during a flight.  Ever since I have selected the snack pack to get the olives.  They are a delicious snack, packed in the little foil envelope.  Easy to carry, little fluid in the bag, already pitted, and taste fantastic.  I am so happy I can now get in the US.
+
+product/productId: B0058DA0H2
+review/userId: A1V1M86GVTSQA6
+review/profileName: Thomas V. Pham
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1311811200
+review/summary: I love Oloves
+review/text: I would buy the snack pack during my flights on United Airlines just for these delicious olives.  After a long wait and numerous attempts at contacting the company directly to buy the Oloves, I'm soooo delighted to hear they are available on Amazon.<br /><br />I use to like eating olives, but I now love eating Oloves.
+
+product/productId: B0058DA0H2
+review/userId: A2TUJNSQG84FYQ
+review/profileName: Gregory Rehl
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323993600
+review/summary: Fantastic!
+review/text: I was just introduced to these olives on a United flight this week. Probably the best tasting green olives I have ever had (I usually never eat green olives). I was so happy with them I purchased two snack pack boxes with the Olove packs on my return flight to share with my wife and kids. I'm thrilled I am able to purchase these on amazon and really suggest them to anyone looking for a great snack.
+
+product/productId: B0058DA0H2
+review/userId: A2L6CX2STZBX3O
+review/profileName: Emily
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1319155200
+review/summary: Deliciously Satisfying!!
+review/text: I bought these Oloves for my mother and aunt who were coming to visit me. They had tasted them on an airline and wanted more. As the hostess with the mostess I surprised them with a big box of Oloves at their arrival. These are delicious, healthy and easy to transport. I keep mine in the fridge because I like cold olives, but you can also eat them room temp if you so choose. All in all, a good buy! I just hope that Trader Joe's picks these up, they would be a hit!
+
+product/productId: B0058DA0H2
+review/userId: AAGDAL1IRHXW7
+review/profileName: Mountain Climber
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311811200
+review/summary: The best olives ever
+review/text: I echo what other reviewers have said--I learned to love Oloves when I got them in an airline snack pack, and they are the best. I even tried to get my local grocery store to stock them. I am extremely happy that they are now available on Amazon!  I like to grab a pack when I go hiking or on a car ride--the small packages are so convenient.  And the taste is the best.
+
+product/productId: B0058DA0H2
+review/userId: A7JMSPHEOFVVQ
+review/profileName: Susan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344556800
+review/summary: I LOVE OLOVES
+review/text: These tasty little treats are great for a lunchbox or a hike. They are tender and savory - what more can you ask from an olive??
+
+product/productId: B0058DA0H2
+review/userId: A1NQF4X89BPIGW
+review/profileName: Cathy Pickren
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312156800
+review/summary: So excited!
+review/text: I have been waiting for these to be available. It's a wonderful company. When I told them how much I wanted some they actually sent me some samples. It was fantastic.<br /><br />Oloves are one of the best things I have ever had in my mouth.
+

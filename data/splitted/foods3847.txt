@@ -1,0 +1,1143 @@
+product/productId: B005K4Q1YA
+review/userId: A28LXT9XBGRA18
+review/profileName: K. Durden
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351123200
+review/summary: Too sweet
+review/text: It's silly to call this a Cappuccino. There is no coffee flavor whatsoever. I have even tried making this 1/2 and 1/2 with strong coffee. Still can't tolerate it.
+
+product/productId: B005K4Q1YA
+review/userId: AQ9336463S5W8
+review/profileName: JennStew07
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1351123200
+review/summary: not what we thought
+review/text: Thought it was coffee k cups we were purchasing but it is powdered drink mix. Read carefully before buying this brand.
+
+product/productId: B005K4Q1YA
+review/userId: AH1QYCY9W98C5
+review/profileName: Hawaii Vet
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1351036800
+review/summary: K -Cup Cappuccino
+review/text: This is a product that we will use again as it was a quick way to create a drink that satisfied the need for a casual cup of refreshment.
+
+product/productId: B005K4Q1YA
+review/userId: A2ULZQ6VFL2MCD
+review/profileName: Kathleen M. Keller
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Grove Square Cappuccino
+review/text: I love this product, the taste is so rich and satisfying.<br />When your craving something sweet , this takes that edge off and only 80 calories!
+
+product/productId: B005K4Q1YA
+review/userId: AJ5XWPOIPOKFB
+review/profileName: Anna P. Araujo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: Delicious!
+review/text: The flavor is rich, sweet and you do not need to add anything to it. It has sugar and cream already in it...just pour and enjoy it as is!
+
+product/productId: B005K4Q1YA
+review/userId: A12FGETYAHR723
+review/profileName: Gloria Gallagher "cooknknit"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: Addicting its so good!!!
+review/text: I love this coffee.  So far have only had the vanilla but going to try the others.  It is like having a cappuccino in a coffee house. Try it, you'll love it.
+
+product/productId: B005K4Q1YA
+review/userId: A2D9UWGVKD8IXK
+review/profileName: RoseMarie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: delicious
+review/text: If you like flavored coffee these are a real treat!  They are a great afternoon pick me upper and the price is right!
+
+product/productId: B005K4Q1YA
+review/userId: APWA6B5K04EQI
+review/profileName: Nichole M. Ahlers "Loves to read!"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350691200
+review/summary: Way to sweet.
+review/text: I couldn't even finish the cup of this. It was extremely sweet and I could feel a cavity coming on! I'll be offloading the rest of this box...
+
+product/productId: B005K4Q1YA
+review/userId: A2SSIBT9RTIH4S
+review/profileName: blynsmomma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350604800
+review/summary: LOVED it
+review/text: This is my all time favorite k cup, so far ;) we are about 2 weeks into our first keurig and have been trying all sorts of flavors.  this one is, by far, THE BEST!  used a french/vanilla creamer with it also, made it even better.
+
+product/productId: B005K4Q1YA
+review/userId: APGONAKJGE5EP
+review/profileName: SilverWind "Wicked_Witch_of_ WV"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350518400
+review/summary: Not As Good As Starbucks, But Better Price
+review/text: I bought this item for an occasional treat but still have to find the right setting use to make it have that perfect flavor. The largest "Travel Mug" setting leaves the coffee too weak and the smallest "coffee cup" setting is too much and even the middle size isn't "just right" and sort of tastes like a "lite" cappaccino. I never thought I was hard to please but it seems like this has proven me wrong.<br />The price is pretty good so I can't complain on that note, but I guess I'm going to continue to drink this item and let it grow on me. As a now-and-then cup of cappaccino it's ok.<br />The 4 star rating is for the price and convenience of not traveling miles to get a cappaccino.
+
+product/productId: B005K4Q1YA
+review/userId: A3MACO24KIT1BV
+review/profileName: Samuel Salk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: great taste
+review/text: this product is hard to find for us in stores in ohio, most k cups are french vanilla coffee, not cappuccino, its delicious, will buy again for sure!
+
+product/productId: B005K4Q1YA
+review/userId: A3C3LBMRCCYYPZ
+review/profileName: Katrina Crossman
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350259200
+review/summary: Gross
+review/text: Tastes like melted plastic.  I will not buy this ever again nor would I recommend it to anyone else.  Ick!
+
+product/productId: B005K4Q1YA
+review/userId: A3XBK7BSRQGB8
+review/profileName: Kelly Alcorns
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Great Cappuccino
+review/text: This is not cappuccino flavored coffee like the one from Gloria Jean's, this is semisweet yummy real cappuccino. (Tastes like the cappuccino from gas station machines) Perfect just the way it's brewed, no sugar or creamer needed.
+
+product/productId: B005K4Q1YA
+review/userId: A17H8PXE468O8K
+review/profileName: Suzy O
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350172800
+review/summary: Defective and Weak!
+review/text: I think half the cups were not filled or defective.<br />They seemed empty and the coffe came out like cream colored water. Yuck!
+
+product/productId: B005K4Q1YA
+review/userId: AAYRB1RE3A1QL
+review/profileName: Misty :-) "Misty"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Love love love it
+review/text: I love cappuccino from the gas station. It is sweet and a good pick me up. This tastes just like that! I love love love it. French vanilla and caramel yum yum yummy too. I highly recommend this item for those who love the sweet gas station cappuccinos. I like it sweet and creamy and that is what this is.
+
+product/productId: B005K4Q1YA
+review/userId: AO7L9S511TNAC
+review/profileName: Marlowe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: 4Star all the way
+review/text: If you think nothing beats a great cup of cofee in the AM you need to try Grove City Square Cappuccino.Just a greaaat way to start the day.
+
+product/productId: B005K4Q1YA
+review/userId: A1JTSUAJLIT9GK
+review/profileName: S. M. HUNT
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350086400
+review/summary: I Miss Gloria Jean Cappuccino
+review/text: Unfortunately these flavored Cappuccino's don't live up to the old Gloria Jean Cappuccino. They are all sugar and artificial flavoring. However, if you are fine with tons of sugar, artificial sugar and artificial flavors then this would be a very good product for you.
+
+product/productId: B005K4Q1YA
+review/userId: A1YWF2A6J23YZB
+review/profileName: Marie A. Voelker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Amazon's Grove Square Cappuccino
+review/text: I love this cappuccino.  I have tried many others and this one is now the only one I buy.  I wish I could find it in the stores around here but no not here.  I love to sit down at night with my jammies on and my favorite book or TV show and just relax with my cappuccino!<br />A perfect end to the day.
+
+product/productId: B005K4Q1YA
+review/userId: A2RZPV3R0GT83Z
+review/profileName: B. Colton
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350086400
+review/summary: Wife Loves Them
+review/text: My wife doesn't like standard coffee and has gotten used to the SBUX specialty drinks. While these cups aren't in the same league, they are still good with significantly less calories. Good taste, great price, good product.
+
+product/productId: B005K4Q1YA
+review/userId: A1O813R7I4NXXB
+review/profileName: Euyless E. Miller "Pepper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: Soup is not the only thing that is umm, umm good!
+review/text: French vanilla single serve cups by Grove Square for the Keurig K-cup brewers is my absolute favorite!<br />Every morning before I leave for the work-day drive, I brew a tall mug of the French vanilla with a cup of one of my favorite bold coffees. The cappuccino/bold coffee mix keeps me alert on my drive, and by the time I reach work, I am raring to get the job done. This is especially umm, umm good on these cool Fall mornings.<br />Pepper Miller<br />Greenville, SC
+
+product/productId: B005K4Q1YA
+review/userId: A2HF8IM0W4UFVM
+review/profileName: Rebecky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: My Favorite :-)
+review/text: Great quality service and product every time !! Everyone should try Grove Square French Vanilla Cappuccino cups.  The option for the 3 pack 18 count best fits my lifestyle.
+
+product/productId: B005K4Q1YA
+review/userId: A2JZ6J6CL3I185
+review/profileName: D. M. Schmidt
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349913600
+review/summary: Really?
+review/text: Terrible flavor.  Watery and weak. Does not compare to the supposedly similar Cafe Express brand of Chai Latte.  DO NOT ORDER *YOU CAN NOT RETURN OR EXCHANGE FOR A BETTER PRODUCT*.  You will not like this, that is why it is so inexpensive compared to regular coffee K-cups.
+
+product/productId: B005K4Q1YA
+review/userId: A2PO59VPM6WD0I
+review/profileName: barelyjerry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Great product, great price.
+review/text: I tried Grove Square Cappuccino when I was in Washington state and enjoyed it tremendously. After returning to my home in Montana, I found it was unavailable here. I, then, ordered from Amazon and haven't been disappointed with the cappuccino or with Amazon.com. Thanks for a great product and a great price.
+
+product/productId: B005K4Q1YA
+review/userId: A1KBP78UEQOLBJ
+review/profileName: Sang Min Yi
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349827200
+review/summary: Taste Good but too sweet
+review/text: The coffee taste is good but just too sweet for my liking. Also they seem to use instant coffee which can leave bad aftertaste.
+
+product/productId: B005K4Q1YA
+review/userId: A2WBIX7X3IV0AJ
+review/profileName: Allen Borza
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349827200
+review/summary: Good Flavor, not real coffee
+review/text: It is a great tasting "coffee" but in fact it is more akin to a hot chocolate than a coffee.  The flavor is coffee (not chocolate-y), but  I noticed it didn't give me the pep as my other Kcups, so I decided to open one of the Cappuccino Kcups and noticed that (unlike my coffee Kcups) this was only a powdery mix - NOT ground coffee placed over a filter - the standard innards.  If you are ok with the idea that this is a coffee equivalent of a hot chocolate powder mix, then this is a great tasting buy, with less pep than coffee.
+
+product/productId: B005K4Q1YA
+review/userId: A3UIV2N4A2V7XO
+review/profileName: G.S. Smith "G.S."
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349740800
+review/summary: Well.. it's not coffee...
+review/text: First, it's not coffee. It's an instant powdered mix, which is completely disappointing. I was expecting flavored coffee, not instant mix in a small container. Kind of defeats the purpose doesn't it?  I guess it's my fault for not having read the package? But no where in the product description does it indicate this is "Instant Coffee".<br /><br />I would never buy this product again.  It smells wonderful, but tastes like what it is, and that's simply not good for someone looking for a cup of coffee.
+
+product/productId: B005K4Q1YA
+review/userId: A1PWI6KZ7AW0ML
+review/profileName: Mike
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349740800
+review/summary: Really
+review/text: Received cappuccino K cups from Grove Square, they were in a mailer box not even in the original box , I was unable to see nutrional value of any of the three types of coffee , it is super sweet, I am very disappointed and am stuck with $45.00 of K-cups.
+
+product/productId: B005K4Q1YA
+review/userId: A346BHQCKY876O
+review/profileName: Georgia A. Bryson "Georgia"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: Grove Square Cappucino
+review/text: I had tried this Cappucino in a package of a variety of flavored coffees when I bought my Keurig coffeemaker<br />and really liked it.  I still enjoy it and loved getting the packages mailed from Amazon. I have always had<br />wonderful service anytime I have ordered anything from Amazon. G. A. Bryson
+
+product/productId: B005K4Q1YA
+review/userId: A22KYJ5282CP1Z
+review/profileName: Bryan Booth "Bryan Booth"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349395200
+review/summary: Strong Artificial Sweetener taste
+review/text: I typically love vanilla cappuccino, and have tried many brands and was excited to try this.  However I had to dump it out because of a Very Strong Artificial Sweetener taste. I also verified that low sugar or low calorie was not on the box.  So something happened in packaging the product, or a very bad recipe.  However I will not buy these again...
+
+product/productId: B005K4Q1YA
+review/userId: A3T8RQO7MS1OI0
+review/profileName: Jennifer Richardson
+review/helpfulness: 72/77
+review/score: 5.0
+review/time: 1320537600
+review/summary: New morning pleasure
+review/text: I love this French Vanilla cappuccino!  It is exactly what I was looking for to make in my Keurig.  You see, I am NOT a coffee drinker so I am always on the look out for tea or other speacialty drinks to make in my Keurig.  This would be similar to the Cafe Escapes Cafe Mocha and Chai Latte.  It is a mix that fully emties when you run it through the Keuirg.  A word of warning to the die hard coffee drinkers...this is not your Starbucks cappuccino.  It's more like your gas station cappuccino, which was exactly what I was looking for.  Great taste even on the largest cup setting on the Keurig platinum.  My new favorite morning pleasure.
+
+product/productId: B005K4Q1YA
+review/userId: AKGG1DDHNA7XW
+review/profileName: Bud
+review/helpfulness: 113/127
+review/score: 1.0
+review/time: 1327363200
+review/summary: Ingredients
+review/text: Ingredient: Partially Hydrogenated Vegetable Oil (may contain coconut, soybean, sunflower, palm and/or canola), Sugar, Corn Syrup Solids, Instant Coffee, Sodium Caseinate, Salt, Natural and Artificial Flavors, Cocoa (processed with alkali), Dipotassium Phosphate, Cornstarch, Mono- and Diglycerides, Silicon Dioxide, Soy Lecithin, Artificial Color, "Sucralose".
+
+product/productId: B005K4Q1YA
+review/userId: A241A7W4WQXEDX
+review/profileName: Kralnor "2. LOOK IT OVER"
+review/helpfulness: 141/162
+review/score: 1.0
+review/time: 1318896000
+review/summary: Gas station coffee dispenser garbage
+review/text: This stuff tastes like the "coffee" you get from those vending machines at interstate gas stations or 7-11s.  The first ingredient listed on the box is group of partially hydrogenated vegetable oils.  Doesn't bode well for a supposed cappuccino.  That's followed by multiple, seemingly random sweeteners, then instant coffee, a long list of other stuff that has no business associating itself with coffee, and then (inexplicably) sucralose, which gives it a strong artificially bitter aftertaste.  I took 2 sips about 45 min ago, and still can't get the taste out of my mouth.  Definitely avoid.
+
+product/productId: B005K4Q1YA
+review/userId: A20A2SOQ4E05FZ
+review/profileName: No More Fleas Please, Inc. "FLEA_DOCTOR"
+review/helpfulness: 14/14
+review/score: 5.0
+review/time: 1319155200
+review/summary: Really good for what it is
+review/text: This was very different from what I originally expected it to be.  That being said, I found this to be probably the best k-cup I have ever had.  It is very creamy and has a great hazelnut flavor.  I enjoy a cappucino once in a while and I love hazelnut coffee.  I expected this to be more of  cappucino with a light hazelnut flavor.  That was not the case.  This is like a creamy coffee/hazelnut flavored hot cocoa without the cocoa.  I was expecting something completely different but ended up being pleasantly surprised.  This is a great after dinner or mid day pick-me-up and this will now hold a permanent row or two in my revolving k-cup counter top display. If you want a real cappucino, this isn't for you.  If you want a great tasting hot liquid sweet snack, get this.  I liked this so much, I will be ordering the French vanilla version to give that a try as soon as I complete this review. Also, you cant beat the price....less than $10 delivered to my door.  Wooooo Hooooo!
+
+product/productId: B005K4Q1YA
+review/userId: A3NID9D9WMIV01
+review/profileName: Louie Arrighi "Lou da Joo"
+review/helpfulness: 14/15
+review/score: 5.0
+review/time: 1318982400
+review/summary: For 10 dollars, yes. otherwise, no
+review/text: This coffee is delicious. I would assume it's an instant blend, because the K-Cup is completely empty after usage. The caffeine content is low, so it's a great afternoon coffee that won't keep you up at night. If the price stays at 10 dollars with free shipping, it's a good deal. Once they raise the price though, I'm out of here.
+
+product/productId: B005K4Q1YA
+review/userId: A33DBT08PM908I
+review/profileName: bicks11
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1325721600
+review/summary: Delicious
+review/text: Sure they are more like instant coffee than freshly ground, and there may even be some artificial sweeteners in there, but the truth is, they're delicious. And for those of you who don't want to put these things in your body, feel free to send them to me. I'm not that picky. I'm a healthy eater all day long, 2 cups of fakely sweetened, fake coffee a day isn't going to kill me. And if it does, so be it, a life without taste is a waste!
+
+product/productId: B005K4Q1YA
+review/userId: AEA2PXYT7WYB4
+review/profileName: E. Bailey
+review/helpfulness: 12/14
+review/score: 2.0
+review/time: 1319068800
+review/summary: Not pleased with these K-cups
+review/text: I was so excited to receive these K-cups and had one today. I wasn't very impressed. It tasted watered down and I had to add Stevia and sugar free creamer to make it taste half way decent to drink. I like a stronger tasting coffee and these just don't cut it. I'm giving both boxes to my daughter-in-law. I knew I should have ordered only one box to try first. Oh well...live and learn. I cancelled my subscribe and save too.
+
+product/productId: B005K4Q1YA
+review/userId: A1BIZKW047ROEO
+review/profileName: Ams
+review/helpfulness: 12/14
+review/score: 5.0
+review/time: 1318723200
+review/summary: Yum!
+review/text: Grove Square Single Serve Cappuccino Cups, French Vanilla, K-Cups for Keurig Brewers, 24-Count<br /><br />I was concerned it would taste watered down, but I think this is delicious.  The caramel flavor in this brand is excellent, too.
+
+product/productId: B005K4Q1YA
+review/userId: AP8JWRAMSNPDN
+review/profileName: Robert Welborn
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1320278400
+review/summary: This is so much cheaper then getting my cappuccino from the gas station in the mornings!
+review/text: I purchased the Grove Square French Vanilla Cappuccino K-Cups not really expecting much for the price...Boy was I WRONG!!!! This cappucinno is absolutely delicious!!!! It tastes just like what I buy every morning at the gas station on my way to work...ONLY IT IS MUCH CHEAPER!!! It's also more convenient now that I can make it at home and not have to stop at the station to buy it! Makes my day a little smoother and I don't have to rush!<br />Yes, this K-cup is instant coffee, but so's the stuff I buy from the machine at the gas station! I love it! I love the price! I love the taste! I will make sure to keep this in stock at my house...especially if the price stays low!
+
+product/productId: B005K4Q1YA
+review/userId: ADSGJIX2XGP5K
+review/profileName: tubetone
+review/helpfulness: 8/9
+review/score: 1.0
+review/time: 1332547200
+review/summary: Partially Hydroginated crap
+review/text: Threw the entire box away.  I thought I was buying Cappichino grade coffee not realizing it was a pre-mixed crappichino. Not only is it premixed but the main ingredients couldn't be more fake and gross. It's a k-cup full of preservatives......YUM.
+
+product/productId: B005K4Q1YA
+review/userId: A3JM9PLW3GC6XH
+review/profileName: David M. Sides
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346803200
+review/summary: Kinda weak....
+review/text: This is a fairly weak Cappuccino and a little bland. Still shopping for a good one........It doesnt have much taste at all really. To me its very watery...
+
+product/productId: B005K4Q1YA
+review/userId: A1NDDKN0RUMTQ
+review/profileName: pmonnia
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343865600
+review/summary: Very sweet
+review/text: This is the first time I ordered, I hadn't read the reviews, which I know I should have. The product was very very sweet, and I like sweet. I kept the coffee, BUT, personally this might be ok if I make it as an iced coffee for the summer.  I guess if you like extra sweet, this is the coffee for you.
+
+product/productId: B005K4Q1YA
+review/userId: A3FYZNXA411W1J
+review/profileName: Sandra Coelho
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342569600
+review/summary: Keurig Cups Cappaccina
+review/text: Just love these and can pretend they are "cocktails". Most of my friends love them too.  However, I prefer them a little less sweet, so I runn it through the Keurig twice.  Tastes good to me and is cheaper.
+
+product/productId: B005K4Q1YA
+review/userId: A1Z2EIRMO8RYO8
+review/profileName: Kyra
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Favorite Morning Coffee!
+review/text: Love this coffee especially because I don't have to do anything to it! It has the perfect amount of cream and sugar which is great for me because I have more time to get ready in the morning. Some people say it's gross because it is instant coffee and uses hydrogenated oil but it's super great-- plus you're saving money on cream and sugar! Also, I agree with the person who said it tasted like gas station coffee, but we must have different gas stations because everybody (myself include) loves the cappucinos at my gas station!
+
+product/productId: B005K4Q1YA
+review/userId: A36BKB2KY1YMOQ
+review/profileName: michael romano
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1342137600
+review/summary: Tastes like cereal marshmallows
+review/text: It has that super sweet fake marshmallow in cereal taste. It's not great for coffe, but kids would probably love it. I was hoping to actually taste the hazelnut. All you taste is sweetness. It's an overload of the taste buds in all the worst ways. Day one was okay, then progressively it gets worse and worse until now I feel like I have to write a review about it and I don't usually write reviews.
+
+product/productId: B005K4Q1YA
+review/userId: A2I8B37H2TGSID
+review/profileName: Great Nurses
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1342051200
+review/summary: Too sweet and too artificial
+review/text: Was not impressed with this product at all. In fact, it's just sitting in the pantry now. It might be possible to brew a cup of strong coffee, divide it two and then run cappuccino to add as a flavor.
+
+product/productId: B005K4Q1YA
+review/userId: A284MCYI3VF1B9
+review/profileName: C. C. Kurek "loreenak"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341964800
+review/summary: Starts my morning!
+review/text: I love Grove Square Cappuccino - especially the Caramel.  It is wonderful to find a K-cup in yummy flavors that is not too acidy on my stomach (like the Emeril Big Bold Easy my husband drinks).<br />This product is difficult to find in stores; our Wal-Mart was constantly running out because it is so popular, so I am happy to find it on Amazon.  This shipment was fast and the price is great.  Thanks!
+
+product/productId: B005K4Q1YA
+review/userId: A1B4RVDPHBWREL
+review/profileName: Ma-nus Gray
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341532800
+review/summary: Great Deal
+review/text: Ordered on Sunday and arrived on Monday. WOW. We will purchase again and maybe try a different flavor next time.
+
+product/productId: B005K4Q1YA
+review/userId: ANIVQK3UPK90Y
+review/profileName: Katz "Kathleen"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: I goofed but it worked out
+review/text: So I thought these were just regular cappuccino cups, when I got them, I saw the Hazelnut and thought oh boy....much to my surprise, they're very tasty!  I've always been a hazelnut fan, but wow!  They're very creamy and flavorful.  So this will be a re-order when I need to re-stock on my cups, very pleased!!
+
+product/productId: B005K4Q1YA
+review/userId: A3J6JKYJ817HCQ
+review/profileName: Carolyn Gaughan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Mmmmm Mmmmmm good
+review/text: This cappuccino tastes as good as any I have ever bought from a coffee shop.  I love the french vanilla.
+
+product/productId: B005K4Q1YA
+review/userId: AG08SJ3U2ZV6J
+review/profileName: Face426
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: Husband Loves it!
+review/text: My husband is particular about his coffee.  This has a good flavor and he loves it.  It's definitely not traditional coffee though.  This is instant and is like the cappuccino you get out of the machines at gas station rest-stops.  As long as you're not expecting real coffee, it's great!
+
+product/productId: B005K4Q1YA
+review/userId: A149WNNLXRM7Q1
+review/profileName: R. Mccoy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340841600
+review/summary: It taste ok!
+review/text: I love cappucchino & carmel. After reading the reviews I decided to go ahead and buy this. The only thing I wish I had done was buy a smaller box. It doesn't taste bad but it isn't so DELISH that I would be running back for more. I am not a real coffee drinker and before Mcdonalds switched over to the stronger mud tasting cap I LOVED theirs so I thought this would taste like it. It is not real sweet (as other reviewers have indicated). I didn't add anything to it but I will have to doctor it up in order to drink all three boxes. I did not taste any aftertaste either. For me it wasn't that bad but it wasn't that GOOD either. It was just ok. I would be willing to try a sample of the French Vanilla. It might taste better.
+
+product/productId: B005K4Q1YA
+review/userId: A3BHZT28G6RUPU
+review/profileName: Grace1999
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340668800
+review/summary: Gas station cappuccino
+review/text: This is not your Starbucks cappuccino, but your gas station cappuccino.  Tastes just like what comes out of the machine at the gas station- if you like those, you'll love these K-Cups.  They work great in the Keurig and the price is good.
+
+product/productId: B005K4Q1YA
+review/userId: A2J8BTZ1Q6O6MQ
+review/profileName: daisy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340668800
+review/summary: hard to find in stores
+review/text: was very excited to find this product on here. buddy and i at work split the order because we were both hooked on it and couldn't find it at the store. very good tasting
+
+product/productId: B005K4Q1YA
+review/userId: A9ESBS6Q6P5OH
+review/profileName: loveamazon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Grove Square Cappuccino French Vanilla
+review/text: Great cappuccino and great buy!  I have shopped the internet and Amazon has the best price!  Would definitly recommend this product.
+
+product/productId: B005K4Q1YA
+review/userId: A181LOC0HE4OAS
+review/profileName: H. Maley "willysgrandma"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340582400
+review/summary: Tastes great but it's instant
+review/text: These cups are a great choice if you would like something different than regular coffee.  It tastes and looks like General Foods International Coffees, rather than real coffee.  There is no coffee remaining in the pods when it is finished. It is a nice treat.
+
+product/productId: B005K4Q1YA
+review/userId: A2G5994VXZSPLI
+review/profileName: TLB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340496000
+review/summary: These taste so good!
+review/text: I love this coffee. It is wonderful, smoothe and just tastes great! I first tried it locally and loved it. Then, my store no longer planned to carry it so I bought all they had. When I found it on Amazon it was delightful. This is my coffee treat and the rest of the time it is hazelnut coffee, not capuccino.
+
+product/productId: B005K4Q1YA
+review/userId: A2V7HCJ7AOQUT2
+review/profileName: blondie708
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340496000
+review/summary: very good
+review/text: for the price of this Cappuccino, I think it is very good, has a slight caramel taste, brews excellent in the Keurig. I will buy again this brand.
+
+product/productId: B005K4Q1YA
+review/userId: A3K6FOS4A16W4M
+review/profileName: Sandy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: Grove Square Cappuccino kcups
+review/text: When I first got my kcup maker i went to walmart and found these kcups,For those who like a really nice creamy cappuccino hazelnut this is delicious. I would not recommend their reg coffee, but the hazel nut cappuccino is the best on the market nothing to add just make and enjoy but i recommend not to use more then 6oz.serving size to get the best flavor, using a larger amount will weaken the flavor very important!they also have vanilla cappuccino and carmel cappuccino which are both very good also.
+
+product/productId: B005K4Q1YA
+review/userId: AMBGMZBIFQOSP
+review/profileName: mjc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: OMG ... Yummy
+review/text: Best hazelnut cappuccino k-cups I've tasted ... these have just the right amount of sweetness, smooth and creamy with a subtle taste of hazelnut ... absolutely awesome!
+
+product/productId: B005K4Q1YA
+review/userId: A1M5FDTHPODA1S
+review/profileName: Pockets
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: Cappuccino is fantastic
+review/text: I loved this and for a Weight Watcher is is so friendly, only 2 Points Plus. Have already ordered it it again and will continue to do so. <a href="http://www.amazon.com/gp/product/B005K4Q34S">Grove Square Cappuccino Cups, French Vanilla, Single Serve Cup for Keurig K-Cup Brewers, 12-Count (Pack of 3)</a>
+
+product/productId: B005K4Q1YA
+review/userId: A3Q60ADOCQ9SQC
+review/profileName: SANDRA E. KIMBEL
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: great tasting capuccino
+review/text: this capuccino is very smooth and tastes great.  use the lower water amount for a richer, fuller flavor  but i like it with 10 ounces of hot water.  great alternative to very expensive store bought  capuccino.  french vanilla is excellent also
+
+product/productId: B005K4Q1YA
+review/userId: A1ZOFN739B9ZKD
+review/profileName: M. Graves
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340150400
+review/summary: Instant Cappuccino
+review/text: This is an instant cappuccino similar to what I have bought in gas stations.  It makes a medium size cup.  It is very sweet and I like it for a change of pace.  Just be aware, this is not coffee shop cappuccino.
+
+product/productId: B005K4Q1YA
+review/userId: A14SXPIYRPWP94
+review/profileName: bluebirdnana5
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339977600
+review/summary: Delicious
+review/text: This is one of the most delicious coffees i have ever had. i have tried many different brands and this one get my thumbs up. If you love caramel you will love this coffee.
+
+product/productId: B005K4Q1YA
+review/userId: A2DP4PGLT9XC8B
+review/profileName: Robert F. Krysiak "Manamal"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339545600
+review/summary: Great taste and very smooth
+review/text: Great tasting coffee, very convenient, no mess, Great when you don't have time, because it's quick and easy, Plus you don't waste coffee, in the morning before work, if you can not finish a pot of coffee.  I just wish they can come out with Irish Cream flavor, My Favorite Cappuccino..
+
+product/productId: B005K4Q1YA
+review/userId: A243WG123LPNW2
+review/profileName: Diana "DA"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339372800
+review/summary: Very strong taste
+review/text: I am not a coffee snob, but I find this strong is very strong in flavor.  I use the large cup selection on my maker and combine it with a cup of regular coffee.  I think it might be ok over ice.
+
+product/productId: B005K4Q1YA
+review/userId: A1UV8UCBOYABKQ
+review/profileName: deek
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339113600
+review/summary: yummy
+review/text: I like this cappuccino.  It of course is not like you would get at a coffee place it's more like the powdered stuff you can buy. For my preferance it is a little sweet so I mix it 1/2 with coffee but the tast is good and the price is't bad either.
+
+product/productId: B005K4Q1YA
+review/userId: A39F6S9OFDFF1N
+review/profileName: fedora
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338940800
+review/summary: hazelnut k-cups
+review/text: This is my favorite wake up coffee for in the morning. It's just too good.I ordered 4-24 count boxes just incase theres a flood in downtown milwaukee......i like to be prepared.
+
+product/productId: B005K4Q1YA
+review/userId: A3QQCEQ33O0GJU
+review/profileName: RDS
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1338768000
+review/summary: Good flavor
+review/text: Don't brew on high setting if you drink a breafast blend normally becuase you will find these flavored coffees kind of weak.
+
+product/productId: B005K4Q1YA
+review/userId: A3QQCEQ33O0GJU
+review/profileName: RDS
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1338768000
+review/summary: Kinda weak
+review/text: Packaged nicely but after drinking breakfast blends maybe this just seems to weak to really enjoy. They are probably better on the lowest water setting of your Kuerig.
+
+product/productId: B005K4Q1YA
+review/userId: A331XFO5LLMX9P
+review/profileName: Nana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338595200
+review/summary: Coffee lover
+review/text: These K cups are delicious.  A great pick-me-up any time of day.  A great gift for a friend<br />who enjoys cappuccino.  Think about a Keurig coffee maker and these k cups for fathers day.
+
+product/productId: B005K4Q1YA
+review/userId: AV5A6X2XH8YL6
+review/profileName: Tom Swift "Tom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338595200
+review/summary: Very satisfying
+review/text: The "non coffee" Grove Square K-cups are great. Very tasty, convenient, and at a good price. We especially like the sugar free hot cider but the Cappuccino is good too.
+
+product/productId: B005K4Q1YA
+review/userId: ARJ93UOEVKSDW
+review/profileName: Stephanie Shealy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338595200
+review/summary: Cappuccino cups
+review/text: These Cappuccino cups were waaaayyy too sweet for me, but I rated them with 4 stars because they were delivered quickly and my boyfriend loves them I figured he would be the one drinking them anyway
+
+product/productId: B005K4Q1YA
+review/userId: A19GSQ4PI3OJS2
+review/profileName: S. Vrooman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338508800
+review/summary: Love, Love, Love Grove Square Cappuccino
+review/text: I will be a repeat buyer of Grove Square French Vanilla Cappuccino. At 54 cents a cup it is worth every penny spent. It has a great French Vanilla flavor and is ready in less than two minutes. No complaints here.
+
+product/productId: B005K4Q1YA
+review/userId: AWITXZ40PNPSM
+review/profileName: john
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: Addicting Drink
+review/text: This is a deliscious drink.I have trouble keeping it in stock because all my friends and family go for it the moment they come into my house. Perhaps it wouldn't need tp be quite sp sweet. It is awesome.
+
+product/productId: B005K4Q1YA
+review/userId: A31RPHPK3GTR5M
+review/profileName: lespaulio
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1338249600
+review/summary: Funny Aftertaste
+review/text: I bought these knowing they probably wouldn't be great quality, and I was right. They're not horrible, and going down they taste okay. But they leave this really unpleasant aftertaste in your mouth after each sip you take. Probably won't purchase again.
+
+product/productId: B005K4Q1YA
+review/userId: A2ZMII1QSBIC83
+review/profileName: CrystalB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338249600
+review/summary: French vanilla k cups
+review/text: So glad these are available!! Not having to go out to get a french vanilla cappuccino is great! We love these!
+
+product/productId: B005K4Q1YA
+review/userId: A1KB8EA3SAFPEH
+review/profileName: S. Paola "I Save More so I can Shop More"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: Love!
+review/text: I'm not a big coffee drinker as I hate the bitterness.  These k-cups changed the way I think of coffee completely.  They are delicious!  My husband does miss the bitterness of regular coffee and I have some friends who think its a bit too sweet so they do a half and half mixture, but for me... perfection!
+
+product/productId: B005K4Q1YA
+review/userId: AHGYQEFZCA0YX
+review/profileName: Paul
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337817600
+review/summary: Sweet tooth coffee drinker will love it!
+review/text: I purchase a wide variety of k cups for the office staff. This is a favorite amount those who like sweet, flavored coffee. I know it's instant, but those who like it, like it a lot!
+
+product/productId: B005K4Q1YA
+review/userId: AE93H5CYKWA4E
+review/profileName: Amber D
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Delicious!!!
+review/text: This is the best tasting cappuccino, ever! Just like the yummy gas station stuff that I love. I always look forward to drinking this every day=)
+
+product/productId: B005K4Q1YA
+review/userId: A2QQRDGHF3LYBN
+review/profileName: Ransito
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337385600
+review/summary: Yummi
+review/text: Great Flavor with decent price, much better than spending fortune on a daily basis at starbucks!!!! I wish the price will be fixed and don't change every week.....
+
+product/productId: B005K4Q1YA
+review/userId: A27F823KF94F7F
+review/profileName: Marc A. Spence
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336780800
+review/summary: good stuff
+review/text: tastes like the convenient store stuff from the machine. Its probably mad eof crap but it tastes good and great price.
+
+product/productId: B005K4Q1YA
+review/userId: A1RRD8ELL7D2II
+review/profileName: Sylvia Lorenzano
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336694400
+review/summary: Scrumptious.
+review/text: I ordered the Grove Square Cappuccino cups, Hazelnut.  The price was right, so I figured why not.  I prepared a cup & Had to run out, so I took it with me, I took a few sips & it was really yummy. I had to run in for a short meeting & left the cup in the car.  It was a cool day & when I got back to the car, my coffee was cold. I picked it up & took a sip, I was pleasantly surprise at the creamy cold taste, it was fabulous.  So now I drink it cold & hot. Very satisfied with the taste & creamines. So glad I tried it.  Thanks Amazon.<br /><br />Sylvia Lorenzano
+
+product/productId: B005K4Q1YA
+review/userId: A3SV2J54PZER9C
+review/profileName: Richard E. Morse "The Mixer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: Flavored coffees at their best
+review/text: Excellent flavored coffee. Medium brew setting is perfect. I have non-coffee drinkers enjoying this particular brew. The price is right also. It is one of the least expensive brews on the market that don't disappoint the drinker.
+
+product/productId: B005K4Q1YA
+review/userId: A3DQY7X2COG92Z
+review/profileName: Steven Daly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336262400
+review/summary: Excellent "dessert" coffee
+review/text: My wife and I really enjoy this coffee after a meal, as dessert. Unlike other Keurig pods we've had before, this coffee contains all of the cream, sugar, and flavor built in. We really have enjoyed this coffee.
+
+product/productId: B005K4Q1YA
+review/userId: A1OOP5I3H77UNE
+review/profileName: C3Troop
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: delicious
+review/text: this stuff is wonderful.  Nice and sweet.  The caramel is also great.. Much better than real coffee and cheaper too.
+
+product/productId: B005K4Q1YA
+review/userId: AN6E96XC8T5VW
+review/profileName: happyshopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335830400
+review/summary: Very Happy Husband!
+review/text: I ordered these for my husband, because he always stops by the local well known coffee shop and gets a french vanilla cappuccino. Well he LOVES the flavor and smell of these. He said " No more buying out....infact it taste even better!" I will be ordering more!!
+
+product/productId: B005K4Q1YA
+review/userId: A2UOVBZUMDZ5CX
+review/profileName: Momof2inIL
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335744000
+review/summary: Pretty good for a mix
+review/text: This is pretty good for it being a mix.  Had good flavor and it's a good on the go beverage.  Nothing needs to be added.
+
+product/productId: B005K4Q1YA
+review/userId: A2BCW971WNEKXM
+review/profileName: Barbara L. Vanderbeke
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: We love this product!
+review/text: This is such a wonderful break from regular coffee.  We enjoy being able to "switch it up" from time to time -- it's quick, convenient and yummy!
+
+product/productId: B005K4Q1YA
+review/userId: A1SI4WG4DVLJS1
+review/profileName: Mike Raples
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: Great taste
+review/text: Cappuccino in a K cup is a great idea. It's quick and easy and tastes great. It is just the right mixture and not overpowering.
+
+product/productId: B005K4Q1YA
+review/userId: A1AULQPZ7BH5Y5
+review/profileName: C. McCary
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335571200
+review/summary: Good for something different!!!
+review/text: I decided to try this as something different from coffee and it is really good...easy to use, of course, and cheaper than having to leave home to get a cappuccino!
+
+product/productId: B005K4Q1YA
+review/userId: A1GD2URTB9KU4X
+review/profileName: Holby137
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335484800
+review/summary: Great tasting cappuccino for a great price!
+review/text: These cappuccino k cups are perfect! Before I had a Keurig machine I used to buy the General Foods International French vanilla cappuccino, it is really expensive and not nearly as good as this. I have not tried any other cappuccino k cups so I have no other k cup cappuccinos to compare it to but I drink this every day and love it! It's cheaper than my Husbands k cups coffee, cappuccino is never cheaper than coffee! I compare it to the Irving convenience store's cappuccino. It's a great daily treat!
+
+product/productId: B005K4Q1YA
+review/userId: A1AWWGXPHZIWRO
+review/profileName: Steve
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335225600
+review/summary: great taste
+review/text: Love these cappuccinos but because I live in Canada I will not be able to get them much longer. Why?
+
+product/productId: B005K4Q1YA
+review/userId: A29SUSSWXULNVU
+review/profileName: Runnergirl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335139200
+review/summary: trigirl
+review/text: A very enjoyable sweet treat; love the taste and the price. It's a lot less expensive than going to the convenience store in the mornings.
+
+product/productId: B005K4Q1YA
+review/userId: A2OIH61PAAW602
+review/profileName: Michael S. Uhl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335139200
+review/summary: I LOVE this product
+review/text: I absolutely LOVE this product. I order and reorder this product every time I need to spend a little more money to get my free shipping with amazon. This is always my go to product. Everyone I have had try this product really loves it and ask me for to give them the product info which I do. I want to help support this company by all means. Thank you for a great product.
+
+product/productId: B005K4Q1YA
+review/userId: ANTR35ZS06V9P
+review/profileName: Vickie Haines
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335052800
+review/summary: Grove square k cups
+review/text: I ordered three different flavors for a birthday gift to go along with the Keurig brewer.  I tried the caramel, hot chocolate, and hazelnut, and they were all excellent.  Rich in flavor and very easy to use.  I am going to buy a Keurig now.  The whole purchase was great.  I will be buying from them again.
+
+product/productId: B005K4Q1YA
+review/userId: AI0HZNZSZNFPT
+review/profileName: Tired Mommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334966400
+review/summary: delicious
+review/text: These are great for your morning coffee without having to have any cream or sugar.These are delicious and easy to use in K Cup form.
+
+product/productId: B005K4Q1YA
+review/userId: A1XPFCBNCJ32SC
+review/profileName: bgibe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334880000
+review/summary: Cappuccino Carmel K-Cups
+review/text: This is the best K-cups I have found.  You don't have to add milk or sugar.  It's all there.  Love it.
+
+product/productId: B005K4Q1YA
+review/userId: A3U3ZZ8MFCA52I
+review/profileName: DrJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334880000
+review/summary: Great Taste.
+review/text: Great taste for me. Cup has sweetener and cream, coffee is ready to drink, if you like these both. I am not sure of calories, but I do need to count them
+
+product/productId: B005K4Q1YA
+review/userId: A1RZP06XLJV3LC
+review/profileName: Robert P Johnson
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1334620800
+review/summary: Cappucino cups some were broken and not able to use
+review/text: The box had been opened before and was taped with Scotch tape Several of the kcups were leaking into the box and had to be tossed That is the first time that has happened but I was very disappointed.
+
+product/productId: B005K4Q1YA
+review/userId: A1Y6ZRLRN9715N
+review/profileName: irishatheart
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: Great price
+review/text: I have been very happy with the Grove Square K-Cup products.  I really like the creamy Cappuccino French Vanilla flavor.  The French Vanilla is great when you want a coffee that's creamy with a light flavor.  Great Price, cost less then other K-Cups which is also a great selling point!  I also like Grove Square Dark Chocolate Hot Cocoa, Grove Square Caramel Apple Cider, and think the Grove Square Medium Roast is okay (it is an instant coffee, so it's lighter in flavor but still good).
+
+product/productId: B005K4Q1YA
+review/userId: A2CBPZWVCK2F3A
+review/profileName: Tothgang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: Wonderfully easy cappuccino!
+review/text: This cappuccino is fabulous and very reasonably priced! It's like instant dessert from your Keurig with a smooth caramel flavor! I've also ordered the vanilla and love it just as much.
+
+product/productId: B005K4Q1YA
+review/userId: A2IFOVH5AC8DYB
+review/profileName: nybutterfly
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1334448000
+review/summary: MUD IN A KCUP
+review/text: Pure garbage do not even bother to buy this! Tastes like mud in a cup gross. To those who say it tastes like gas station cappuccino...I have no idea where you get yours but by my area they taste great and better than this crap of a kcup!
+
+product/productId: B005K4Q1YA
+review/userId: AXL5GJLYKKLMX
+review/profileName: KCBrad "KCBrad"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334361600
+review/summary: Fantastic coffee
+review/text: This is my new favorite coffee.  I have tried over 20 different k-Cup brands and flavors and this one beats them all.  It comes out of the coffee machine looking like chocolate milk and has a very great French Vanilla flavor.  I would highly recommend this flavor.
+
+product/productId: B005K4Q1YA
+review/userId: A20KJ6OVTEQREG
+review/profileName: Burt F. Cypress "dart shooter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334361600
+review/summary: good
+review/text: gf loves it  says taste  great  cheap enoiugh  would deffinatly buy again  if you drink coffee  enjoy this one  i hate  coffee
+
+product/productId: B005K4Q1YA
+review/userId: A1O8LBX4PB9H7P
+review/profileName: Travis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334361600
+review/summary: Tasty!!!!!!!
+review/text: This is one of my favorite K Cups out now.Very good cappuccino,and the price is right.I highly recommend this to anybody!!!
+
+product/productId: B005K4Q1YA
+review/userId: A1FK6GLHTRGT54
+review/profileName: Scott
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334275200
+review/summary: Great Deal
+review/text: I really like this product and at such a low price. I am happy anytime I can buy k-cups for 50 cents or less per cup. Has good flavor and my only complaint would be if you use the biggest cup setting it's a little too weak so I use the middle setting.
+
+product/productId: B005K4Q1YA
+review/userId: A7L60X4U75U3J
+review/profileName: Java Mama
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334188800
+review/summary: Great deal for a cappuccino
+review/text: I make these on the small cup setting and they are yummy, but not a suitable replacement for a good cup of coffee.  I bought them for my 11 year old daughter and they work perfectly because you don't need to add any sugar or cream.
+
+product/productId: B005K4Q1YA
+review/userId: A21CZIJ7LXR1A1
+review/profileName: Olinda "Steady Shopper"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334102400
+review/summary: Like but Not Love
+review/text: Don't get me wrong, this is a good coffee. Only reason for the 4 stars; I am partial to the Hazelnut Cappuccino. We all have different tastes, you may love it, so I recommend you try it. Good pricing, worth a try. Remember, it you don't like it, I believe you can return it.
+
+product/productId: B005K4Q1YA
+review/userId: A21CZIJ7LXR1A1
+review/profileName: Olinda "Steady Shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: Love Love Love
+review/text: These are not sold on Keurig website and this is the only place I will buy them, due to good pricing. Another coffee that gives me the caffeine I need PLUS it's so, so tasty. Like having dessert ... wonderful and delicious! Yes, redundant, but it's that good! Give it a try.
+
+product/productId: B005K4Q1YA
+review/userId: AKNBHZEDXO1L6
+review/profileName: Kat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: Yummy
+review/text: Love this cappuccino. Had a hard time finding it. So ordered in bulk :) Will continue ordering. Both my husband and I love it.
+
+product/productId: B005K4Q1YA
+review/userId: A2H3BO8G0NXA0T
+review/profileName: Cocoa Futch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: Delicious!
+review/text: Every bit as good as from mt favorite coffee shop.  I will definitely order again!  The price was great too!
+
+product/productId: B005K4Q1YA
+review/userId: AKJHHD5VEH7VG
+review/profileName: Dominique W
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1333756800
+review/summary: I think this is weak and watery
+review/text: Even brewing into my smallest cup, this blend is on the weak and watery side.  I'm not a fan but my husband seems to like it.  Go figure.
+
+product/productId: B005K4Q1YA
+review/userId: A3DW1BRVOGP1KJ
+review/profileName: txmom3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333756800
+review/summary: Mmm
+review/text: This is the 2 nd time I've ordered this flavor. I love the taste of it. But if u want it sweeter put a little sugar (I use Truvia) & I also put one Carmel Macchiato single creamer. Don't forget to use the 6-8oz setting
+
+product/productId: B005K4Q1YA
+review/userId: A1XYA26VZKTZR0
+review/profileName: T. Rutter
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333670400
+review/summary: Wife likes it
+review/text: My wife loves our local Road Ranger gas station cappuccino. Nothing else will do, until now. I no longer have to go out in the cold/rain as long as I keep these in stock.
+
+product/productId: B005K4Q1YA
+review/userId: A25WUHRRU995BX
+review/profileName: KimJones
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333497600
+review/summary: I love this product!
+review/text: Terrific value and it tastes great, the perfect blend of flavors and sweetness! I love it! I am not a big coffee fan, so finding a cappuccino for a reasonable price is exactly what I was looking for!
+
+product/productId: B005K4Q1YA
+review/userId: A8TPMYYCV00OB
+review/profileName: ES
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333411200
+review/summary: Grove Squares are the Best...
+review/text: I will order more of this item asap! great stuff. I was hooked the first time that i tried it.
+
+product/productId: B005K4Q1YA
+review/userId: A3CRMAEORXLYZH
+review/profileName: AJ Pardilla
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1333324800
+review/summary: way too sweet by itself.  but makes a good mixer
+review/text: way too sweet by itself.<br /><br />however this and a bold coffee makes a pretty good mix.  just do 5oz of this then replace, and do a 5oz of a bold coffee of your choice in the same cup.  then stir.
+
+product/productId: B005K4Q1YA
+review/userId: A45TN8TJF1T5C
+review/profileName: RHey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333152000
+review/summary: Very Good Taste!
+review/text: Groveland French Vanilla Cappuccino was very good!  The product was delivered as described & quickly.<br />I would purchase this product again!
+
+product/productId: B005K4Q1YA
+review/userId: A2V5073VJ0SZCV
+review/profileName: RogandNell
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333065600
+review/summary: Very tasty!
+review/text: Wow, these k cups are so yummy and perfect if you are on the go. They don't require cream and sweetener so just brew and go! The only thing I would like better is if they were sugar free using a sugar substitute and were lower fat or fat free. They do taste yummy though and for the price, you can go wrong!
+
+product/productId: B005K4Q1YA
+review/userId: A18ZB4D4Y35516
+review/profileName: JerryW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332720000
+review/summary: Smooth & Creamy
+review/text: I thought Gloria Jean's cappuccino was good--but Grove Square cappuccino is much better!  It is smoother and creamier--and it costs less.  I'll be ordering more soon.
+
+product/productId: B005K4Q1YA
+review/userId: A2OI9SGT50H3K0
+review/profileName: Mrs. Bad
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332720000
+review/summary: This is great, not garbage!
+review/text: I just received the Vanilla Cappuccino, this is GREAT!  This one has to be my favorite out of the hazlnut & carmel.  It's sweet, but not too sweet...you don't even have to add any creamer to it.  I will be back for MORE!
+
+product/productId: B005K4Q1YA
+review/userId: AN8JG566B238N
+review/profileName: Andrew J. Panish
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332633600
+review/summary: Carame Cappuccino for Keurig
+review/text: Nice price, fast shipping. A Keurig machine is not necessary to brew. I found the product to be very sweet so I add it to 12 ounces of hot water rather than the 8 ounces in the directions.
+
+product/productId: B005K4Q1YA
+review/userId: A3NS0YMSWNF8HP
+review/profileName: she say whaaaat?
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332460800
+review/summary: Just what I'd hoped for!
+review/text: I bought this coffee after reading multiple reviews that it was just like gas station cappuccino (which I LOVE). Turns out it really is! It has that sweet creamy vanilla taste that requires absolutely no creamers or sugar!I am so pleased that I don't have to go to my local gas station to enjoy this sweet treat anymore!
+
+product/productId: B005K4Q1YA
+review/userId: A2QWH8G7X342CT
+review/profileName: Peggy Cobden
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332288000
+review/summary: Great coffee
+review/text: coffee goes down very smoothly. taste like very expeensivese coffee when the prices is clearly very affordable. Hope everyone tries it it is very affordable.
+
+product/productId: B005K4Q1YA
+review/userId: A1WU99RI2DTTJZ
+review/profileName: Steven M. Mcmahon "deal hunter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: Pretty Good if You Like Cappuccino
+review/text: I must admit up front that I don't really drink cappuccino. I'm a fan of stronger, black coffees and espressos. I purchased this for other family members and friends who visit. That said, I did taste it and it tastes, well, like cappuccino: ceamy, light, sweet. Almost like hot chocolate if hot chocolate were made of coffee.<br /><br />The price was very good with subscribe and save and still shipped pretty fast, I think it even arrived within 2 days, though as I recall when one uses subscribe and save, in exchange for that extra discount one loses the free 2-day shipping. In any case, it arrived very quickly and the price was 11.xx I think for a 24 pack which is ok for Keurigs on Amazon. I usually expect to pay under 50 cents a cup for my favorite coffees, and this didn't disappoint.<br /><br />There's not much else I can say about this... the cups themselves seemed to require a little bit of a harder push than usual to puncture the bottom in the machine - the first time around it didn't puncture, but closing the top harder the second time worked. I've seen this issue before with a box I got from Sam's Club.
+
+product/productId: B005K4Q1YA
+review/userId: A15DMJJSZ6EU3Q
+review/profileName: QualityOverQty
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332201600
+review/summary: Yummy!!  Addicted!!
+review/text: I love this cappuccino for my Keurig!  It is the only product I use with it.  I just wish they would come out with more flavors, like White Chocolate Mocha, or something.
+
+product/productId: B005K4Q1YA
+review/userId: A1NHOU6YM1KQBV
+review/profileName: Amy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: YUMMY!!!!
+review/text: I'm a vanilla coffee-aholic, and I love this product!!!  I usually use the medium or large setting on my Keurig for one cup, or one of each when I fill my thermos.  What I love about this product is that I don't have to add any additional creamer or milk or sugar, it's just perfect!
+

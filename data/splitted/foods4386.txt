@@ -1,0 +1,1143 @@
+product/productId: B000KAA72G
+review/userId: A35KPC8XCGWFX5
+review/profileName: arkitekt
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1284854400
+review/summary: garbage!
+review/text: this item was a real disappointment, it smells bad, tastes bad, looks bad, after preparing it looks very watery, portions are quite small, i threw the while thing out!
+
+product/productId: B00144HVO4
+review/userId: AIPPY41W5SUMC
+review/profileName: Carol "Carol"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1222992000
+review/summary: My first "expensive" cheese
+review/text: I first received this cheese from a cheese club. Tasted so good I actually went hunting for it online because it's not available locally. The price threw me a bit but decided I was well worth it. The cheese has the perfect amount of saltiness to suit my taste. I use it grated on everything that I would normally grate cheese on - and some things that don't normally get cheese. Shreds of it in a salad give the dish a boost. I've added it to macaroni and cheese, grilled cheese sandwiches, and cheese grits! Have not found anything yet that it's not good with. It's great just to nibble on also.
+
+product/productId: B001JHBRP0
+review/userId: A39HLX2QUNHEXK
+review/profileName: xena
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1288396800
+review/summary: Yummy rice
+review/text: I used this rice for a paella dish and it was delicious... it was a real crowd pleaser :o)
+
+product/productId: B001JHBRP0
+review/userId: A2EXSVDICJQ4QZ
+review/profileName: Saedi Folluf
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1341792000
+review/summary: OK Rice, great Price
+review/text: It is what it is. Does what it should. Could be better but it also could be more expensive. All in all, I'm happy.
+
+product/productId: B004VCLHS2
+review/userId: ARGLP1M90HMLJ
+review/profileName: Catherine E. Kehl "tylik"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317600000
+review/summary: best organic soba noodles I've yet found
+review/text: I still am looking for the fabled organic 100% buckwheat soba noodles. But until then, these are what I'll be eating. The ten pound box is great - small, no extra packaging, but it will keep you in soba for a good long time even if you're a complete fiend. (This is not speculation, I tested it.)
+
+product/productId: B000NVBVCC
+review/userId: A2KDQ58RKEQUKV
+review/profileName: Catharine Beale "hollysmother"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1262649600
+review/summary: Dinner Is Served!
+review/text: Who knew dog food could be this delicious, this nutritious, this fun to serve? How can you go wrong with a product named "Stella & Chewy's" -- the name alone makes you want to hug the package.<br /><br />But dogs can't read. So the real test came when I opened the package and popped out the dry, puck-sized wafer and put it in front of Madeleine, our 4.5 lb Papillon. Madeleine gobbled it down like she hadn't had a thing to eat in months. Sold.<br /><br />What's in the wafers? Freeze-dried, RAW farm raised chicken with no imitation anything. It's also CERTIFIED safe raw and pathogen free food.<br /><br />Do I trust those words? In today's FDA-scammed market, they aren't what they used to be.  And yet, the whole package just seems to ooze with clues this company is ethical, responsible, progressive, and aware of the potential damage "ordinary" dog food brings to the table. I just have a feeling this company knows more about perfecting the domestic dog diet than I do.<br /><br />This stuff is "Made in Wisconsin" according to the emblem on the front, but there's French writing all over the place. That's because Stella & Chewys' LLC is exporting their gourmet dog food to France, complying with French law by pointing out that it is indeed "Fabrique aux Etats-Unis" and it is "Nourriture pour chiens".<br /><br />Given the exchange rate and the shipping costs, by the time it reaches the Left Bank, it must cost a bundle.  And worth every Franc.<br /><br />Botttom line: I think these people at Stella & Chewy's care about the same things I care about. That may be irrelevant in the business world.  Profits are hard enough to come by these days.<br /><br />But they aren't cutting any corners in Chewy's Chicken Dinner.  Because it's a healthy blend of this, that and the other thing, it's even healthier than, say, pure Chicken or Steak right off the dinner table.  This has fruits and vegetables mixed in (organic blueberries, apples, carrots, squash, beets, broccoli, cranberries and pumpkin seeds).  That's important for a happy, healthy dog.  No wonder Madeleine is hooked.
+
+product/productId: B000NVBVCC
+review/userId: AJV2QY96IVPVM
+review/profileName: SuperFids
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1259884800
+review/summary: Great for travel!
+review/text: My dog is on a raw diet, which is impractical when traveling.  I feed Stella & Chewy's freeze-dried food during trips and it works out beautifully. The patties may be re-hydrated or fed dry - my dog loves them either way.<br /><br />IMO the true measure of dog food's quality is the dog's "output."  I'm happy to report that whenever my dog eats this food for a few days his stools are *normal* without any dietary upset whatsoever, despite the fact there's often stress involved in travel.<br /><br />Some people feed this food as a main diet, but it can get expensive depending on the size of your dog.<br /><br />If you're dabbling in raw feeding or need a practical alternative for traveling, buy Stella & Chewy's without hesitation.  It's a great product and all of the flavors are delicious according to my dog.  :-)
+
+product/productId: B000NVBVCC
+review/userId: APMY65P6KEBIT
+review/profileName: Stephanie A. Heller
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294790400
+review/summary: Great food
+review/text: Mostly I use this broken up into small pieces for training treats.  However, this also makes a great addition to my dog regular food.  Either way, my normally very picky eater really loves this stuff.
+
+product/productId: B000NVBVCC
+review/userId: A3KPKKHHZABPWR
+review/profileName: Wilma J. Howell "geekette"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1194134400
+review/summary: Timmy likes it!
+review/text: My dog Timmy likes it, and that's a pretty strong endorsement.  I like it because it is good for him and not messy.  That's a winning combination. :)
+
+product/productId: B000NVBVCC
+review/userId: A2KC38ZRZSQNM2
+review/profileName: Nahe
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350432000
+review/summary: Not as described
+review/text: This product clearly  says:  1 "Stella & Chewy's Freeze Dried Dog Food for Adult Dogs, Lamb Patties, 6 Ounce Bag (Pack of 12)"<br />A pack of 12 was not sent.  Only one 6 ounce bag was received.
+
+product/productId: B000NVBVCC
+review/userId: A2DZ8D42JIFK4T
+review/profileName: makeup maven
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347062400
+review/summary: Perfection.
+review/text: A friend of mine got a free bag of this of gave me a few patties that i crumbled to serve as treats, he loved them so much that i searched for a deal and bought him a couple of bags. He LOVES them. Firstly, if my dog was not a toy size dog I would not be feeding him this very often, it is EXPENSIVE. For my 8lb it would be 3 large bags a month, $80. So no way. I find a way to get discounts and it ends up being $60/mo for an 8lb pup.<br /><br />The packaging says your dog should drink 1/4 cup water for every patty, so i make sure i serve them re-hydrated so that i don't have to worry that he's drinking enough water afterward. He gobbles it up without fail.<br /><br />They are easy to measure, for my dog's size he eats about 3 1/4 patties a day, I break the patty into quarters and put them in water to rehydrate; they are ready to serve in less than 2 minutes. The ingredients are awesome and not only do they include all the meat products as the first ingredients but then vegetables that follow are organic. And to top it off they include probiotics for intestinal health.<br /><br />I can't report any increase in energy or anything like that because my dog is only 2 years old so he's got all the energy in the world. But i love that raw-type foods, even if not the frozen kind, are very easy to digest compared to dry food, that's always better for the system.<br /><br />Anyway, we've only tried this flavor so far, duck is next. : )<br /><br />Ingredients:<br />Chicken Ground with Bone, Chicken Liver, Chicken Gizzard, Pumpkin Seed, Potassium Chloride, Organic Cranberries, Organic Spinach, Organic Broccoli, Organic Beets, Sodium Phosphate Monobasic, Organic Carrots, Organic Squash, Organic Apples, Organic Blueberries, Choline Chloride, Dried Pediococcus Acidilactici Fermentation Product, Dried Lactobacillus Acidophilus Fermentation Product, Dried Bifidobacterium Longum Fermentation Product, Dried Enterococcus Faecium Fermentation Product, Taurine, Tocopherols (Preservative), Calcium Carbonate, Zinc Proteinate, Zinc Sulfate, Iron Sulfate, Iron Proteinate, Vitamin E Supplement, Niacin, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Sodium Selenite, Manganese Proteinate, Thiamine Monohydrate, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Calcium Iodate, Vitamin B12 Supplement. (42% Protein, 25%)
+
+product/productId: B000NVBVCC
+review/userId: AFUFC7TDYE6W3
+review/profileName: R. E. Montes "Montes"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328140800
+review/summary: Our dog loves it . . .
+review/text: We moved and were no longer able to buy the raw patties. We tried these "dry" patties and our dog can't tell the difference. Easy to prepare for our dog. You add water, microwave and that's it!
+
+product/productId: B000NVBVCC
+review/userId: AE6U2ZFP8YLET
+review/profileName: S. Daniell "chilipepper54"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327622400
+review/summary: The end to my search for dog food!!
+review/text: I have been trying all kinds of dog food to get my pick little chihuahua to eat something nutritious. Nothing was working. Then I discovered Stella & Chewy's Freeze Dried Chicken Patties and HE BLEW THROUGH THEM!!!<br /><br />I think we have a winner here! I am going to order some of the other flavors to give him some variety. Hope he likes them as well.
+
+product/productId: B000NVBVCC
+review/userId: A2C6P5970X2P2T
+review/profileName: Cate
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327017600
+review/summary: My fussy pekingese adores this
+review/text: The chicken dinner is one of several from Stella and Chew's that I tried after my dog rejected a long line of excellent dog foods. He is healthy and has an excellent appetite but prefers people food. He also likes the beef, lamb and other varieties of this dinner. He looks great and has lots of energy. I'm delighted.
+
+product/productId: B000NVBVCC
+review/userId: A3PZE16TCZ1FAD
+review/profileName: Terri Green
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311379200
+review/summary: Perfect for my picky pup
+review/text: It was hard to find a raw food that my yorkie would stick too and because we traveled it made it even more difficult! Thankfully stella & chewy was the only food that she ate and have continued to eat for months! Also its so easy to travel with because so it makes everything super convenient. Also her transition from her previous raw was smooth and she had no problems with her stools. Not only does she like chicken, but she likes the duck and surf & turf. I keep the beef and lamb around too but she mostly prefers the chicken. Overall great company and great product!
+
+product/productId: B000NVBVCC
+review/userId: A34JS3CSLGZ5T4
+review/profileName: Dawn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307232000
+review/summary: My pets love this!
+review/text: I have 2 older dogs that are so picky and one dog has no teeth and this product is wonderful..I mix it with canned food or as a treat and it doesn't upset their tummies! They love this and I plan on buying more! Our cat even likes it!
+
+product/productId: B000NVBVCC
+review/userId: A1INXGGWMAW6K1
+review/profileName: vb
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287792000
+review/summary: great Dog Food
+review/text: My dog eats the frozen Stella and Chewy's but I can't travel with them so I get the Freeze Dried. They don't need refrigeration, are easily re-hydrated and my dog loves them
+
+product/productId: B0055P0N6Q
+review/userId: A24ZTCZ61RUKQR
+review/profileName: Pamela "Hickory Point Sales"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325203200
+review/summary: Delicious & satisfying!
+review/text: This sugar-free Halva by Achva is absolutely delicious!  My husband and I both loved it and ate a little every day, while it lasted.  The texture is nice and the taste is mild and not too sweet. We found it in a little European market in Florida but now have to order it, since it's not sold in our area, at least not that I've found yet.  Definitely one of our favorite treats - and so much more healthful than most!
+
+product/productId: B004PX9JPU
+review/userId: A2QHTT4OLEQDGD
+review/profileName: Hawai`i
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1320969600
+review/summary: FIRE HAZARD!
+review/text: I bought the Kettle Corn variety Pop-Up Bowl. The first bag I tried to pop totally burned within 12 seconds (with smoke pouring out of the microwave), well before it was even fully popped, and the second bag, which I set on a lower temperature (even though it specifically says to use HIGH) actually caught on fire! Avoid this fire trap product at all costs. To avoid throwing all the rest of the bags out, I settled for cutting the bags open, scraping the contents into a heavy, lidded-skillet, and cooking it old-school. Those came out fine, as there's nothing the matter with the popcorn, just the packaging. So, unless you have a desire to destroy a perfectly good microwave, and possibly burn down your house in the process, avoid this packaging at all costs. Mark my words, this is going to come up in the future. The Orville Redenbacher brand is going to see lawsuits for this one! I wanted to give it ZERO STARS, but the program wouldn't let me! Be forewarned!
+
+product/productId: B004PX9JPU
+review/userId: A3BZO2B2LM44XU
+review/profileName: A. Bowman
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1316736000
+review/summary: Potential fire hazard
+review/text: I'm a sucker for convenience, but with two kids and a job - do you really blame me? I'm the stereotypical busy mom, and I thought these would be great. I bought the popcorn in early August but quickly forgot about it as we moved into the fall months. While cleaning our pantry, I re-discovered them.<br /><br />Today I thought it would make a great addition to my lunch. I went to the break room, popped it on and waited patiently.<br /><br />It was still popping when I pulled out, but it just smelled burnt.<br /><br />To my surprise, it was. Not only that, but the bag had sprung a leak. Unpopped kernels and butter leaked out. Had I let it go the full 2 minutes, we would have been facing a massive fire. Cleaning the microwave after that was bad enough, but having to deal with the possible problems it could have caused? Even worse.<br /><br />I've only used one bag, but I'm throwing the rest of the box away. A fire hazard isn't worth it.
+
+product/productId: B004PX9JPU
+review/userId: ABQ1823BGCOL8
+review/profileName: Adrian Steed "I don't write reviews... I feel...
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1309824000
+review/summary: Orville is rolling in his grave
+review/text: So far, I've popped two bags (bowls) and both times, I've ended up with burnt popcorn, and many, many unpopped kernals.  These two things (burnt popcorn and large volumes of unpopped kernals) shouldn't occur together.  My guess is that this is the result of the grey heat reflector portion of the bag being smaller to accomodate the removable "bowl" lid.  So there is less surface area for the popcorn to be in contact with this reflector.  I will definitely not be purchasing any more boxes of these dumb "bowls" in the future.  It was a good idea, but very poorly executed.  Orville is surely rolling in his grave over the number of unpopped kernals with his name on them!
+
+product/productId: B004PX9JPU
+review/userId: A1ZA7U12YXXRN4
+review/profileName: Caroline J.
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348876800
+review/summary: Low Quality Product
+review/text: A few observations on this product:<br />- The pop-up bowl sells for a premium over the regular bag version yet it seems to be worse.<br />- Is this really a bowl or just a paper bag held sideways? There is big difference between the portrayal on the package and the product inside. The "bowl" end result will not look like the package illustration but more like a paper hat partially filled with popcorn.<br />- The product did not cook as well as the bag version and actually came out a bit scorched. It seems to make less popcorn than the bag version, and is definitely not like portrayal of the product on the box in which popcorn overflows from the "pop-up bowl."<br /><br />Overall, this product seems like an interesting idea that was executed on the cheap. And the problem is compounded by charging a premium to the consumer.  The company is degrading its image by putting out this product under the Orville Redenbacher brand name.
+
+product/productId: B004PX9JPU
+review/userId: A3O28QL02C5222
+review/profileName: H0W "H0W"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347408000
+review/summary: Burn Baby Burn
+review/text: It should be illegal to sell this product. It's a fire hazard and lawsuit waiting to happen! The popcorn burns, the bag burns, the butter burns. And then how do you put it out. the top and bottom are made of plastic which gets terribly hot, put it under the faucet and you got wet paper and popcorn all over.<br /><br />Redenbacher used to be a trusted brand, but with ConAgra taking over, it seems that the brand name is being used to shill inferior product.
+
+product/productId: B004PX9JPU
+review/userId: AM5BGR8PRIM9W
+review/profileName: Scott F. Schramm "scottinaboat"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1328227200
+review/summary: won't pop and burns popcorn
+review/text: This is a total disappointment of what could have been a good product.  I have tried this on two different microwaves both same result.  Burned in the middle and won't pop fully.  Don't bother, go back to the original style bag.
+
+product/productId: B004PX9JPU
+review/userId: A18P0T2NZTGWYX
+review/profileName: J. Martin
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1313712000
+review/summary: Sprayed orange grease all over the inside of the microwave
+review/text: The pop-up bowl sounds like a great idea, but evidently they rushed it to market before all the bugs were out.<br /><br />The first bag I cooked was fine, except the instructions for opening the bag are far from clear, and even after you figure out how to do it it's a lot of trouble and makes a big mess.<br /><br />But the second bag evidently sprang a leak - it sprayed bright orange grease all over the inside of my microwave, even into the tiny vent holes inside the top and side. I always watch popcorn carefully while it pops, but I could not see the grease spray until after it was done and I opened the door. Cleaning it all out was a horrible ordeal, and I'm sure everything I cook in the microwave will come out smelling like popcorn grease for weeks.<br /><br />They released this product too soon. It needs serious redesign. I will not buy it again.
+
+product/productId: B004PX9JPU
+review/userId: A28L1PDOADXPQG
+review/profileName: myna
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1310515200
+review/summary: Popcorn bowls a great disappointment!
+review/text: When the popping sounds slow down, it's too late--the popcorn in the middle is burnt! The package is somewhat awkward to open. Some of the popcorn usually ends up on the counter. I love Orville's popcorn--no one does it better, but please don't keep this package design!
+
+product/productId: B004PX9JPU
+review/userId: A24J6PQ0FN55A6
+review/profileName: WestGrl
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1303516800
+review/summary: Flawed design
+review/text: I loved the idea of popcorn that would pop in its own bowl. I gave it a try tonight as I settled in to watch a movie. The first thing I noticed as it popped was that the sides of the bag were a red see through type of material so you could see the popcorn popping. Not sure if that's needed but I liked it so it was a plus. The "bowl" was disappointing though. Essentially, its just a bag of popcorn that you place on it's side, rip the side off & you eat the popcorn this way so you have a wide opening to eat from. Problem is, where you tear the side off doesn't work well. I followed the directions and found the area that is supposed to rip off didn't go smoothly & part of it didn't tear where it should & I ended up having to go back & rip more areas off, etc. Perhaps with practice you can get it right but it was a little underwhelming. The popcorn was a little bland also. Great idea but poor design. Hopefully someone will improve on it.
+
+product/productId: B004PX9JPU
+review/userId: A3OYD5Y3Y394OP
+review/profileName: a. elliot
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1336608000
+review/summary: Wow
+review/text: Either the people who have reviewed this product are idiots, or they've greatly improved the product design by the time I bought it. Please take note. The 'popcorn button' on your microwave sucks. Stand there for the 2-3 minutes it takes and listen for the popping to slow. When there's 10-15 (if not less) delay in between, you have perfect popcorn.<br /><br />The bowls were nice. The top ripped off easily all but one time. Don't know what happened there, but I'm willing to chalk it up to a human error on my part. The only part I didn't like was they left very little room to shake up the popcorn and equally distribute salt.
+
+product/productId: B004PX9JPU
+review/userId: A21BNKXAQY9AHF
+review/profileName: Nathan Totten
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1328400000
+review/summary: Pop Up Bowl is Terrible
+review/text: The bowl bag does not pop in the same amount of time as a normal bag so it makes your microwave's popcorn button useless. Additionally, about half of the bags are faulty and open when popping resulting in very little popped popcorn. Last, I have found it almost impossible to get the bag to pop completely even when watching it pop (since I can't use the popcorn button!). Overall, this new bowl design is terrible and I would recommend switching to another brand until they go bag to the old bags that work.
+
+product/productId: B004PX9JPU
+review/userId: A21JQROCWPLAF0
+review/profileName: George OConnor
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1308700800
+review/summary: Ripoff
+review/text: In all of the groceries that I've been to in my area, these new "Pop-Up Bowls" of popcorn are replacing the traditional bags.  But the price for the new bowls is always the same as the price for the old bags, and there was 13% more popcorn in the older bags (3.3 oz bags, vs. 2.9 oz bowls).  This seems to be another in a series of sly moves by food retailers to disguise significant price hikes by subtle quantity reductions, like Tropicana did when they reduced their cartons from 64 oz to 59 oz.  The old bags were fine, and I'd much rather have 13% more popcorn than the new bowl.  If Redenbacher had been honest about the price hike, and charged 13% more but kept the quantity the same; or if they offered a choice between the old larger bags and the new smaller bowls instead of outright replacing the bags with the bowls, then I could respect this change.  But given how they've made this change, I'm shopping for a new brand (Central Market, mabye?).
+
+product/productId: B004PX9JPU
+review/userId: A2IGMIAE0NR8M2
+review/profileName: Jennifer Snyder
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1307836800
+review/summary: Popcorn bowls and dyed counters
+review/text: The popcorn was good and this was a great invention, except for the fact, there is red plastic on both the top and bottom of the bowl.  The red plastic dyed the countertop red.  This is not safe for furniture.  They should fix it or put a warning on the packaging.  Sent in a complaint to the company.  We'll see what I hear back.
+
+product/productId: B004PX9JPU
+review/userId: A1HYTYOWA1678F
+review/profileName: Pheebers "Pheebers"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1304640000
+review/summary: My daughters love it.
+review/text: My teenage daughters think this is the best-tasting microwave popcorn there is (although it's a bit buttery for my tastes as I'm used to the dry diet kind) and they love the bowl.<br /><br />It felt awkward to pull the top off the first time, but now that we've done it about a dozen times, it's really easy.  Hold the bag where indicated and pull the red plastic up from one corner.  It's neatest if you pull it about halfway and then repeat from the other side, otherwise a few pieces inevitably end up on the counter.  This takes a total of about 5 seconds, there's nothing to wash, and it's much easier to eat.<br /><br />The only downside I can see is it isn't offered at my local warehouse club, so I'm stuck buying many boxes at a time, and it's expensive.  That's why I came to Amazon, and I'm hoping they carry it in large quantities soon.
+
+product/productId: B000P1I8QW
+review/userId: A3VK3FIIVKFQ6C
+review/profileName: Robin L. Wade
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1216684800
+review/summary: Excellent Product, Fast Shipping
+review/text: Scott's Cakes contacted me after receiving my previous order.  Representative was pleasant, and wanted to know how they could improve.  They did what was recommended and my next shipment came on time and without melted chocolate!!!<br /><br />Thank you Scott's Cakes for providing my family with delicious products and excellent customer service!!!
+
+product/productId: B001G7QXQ6
+review/userId: A1I2LNUDOMUWMH
+review/profileName: White Bird
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1254614400
+review/summary: Not bad at all
+review/text: I buy alot of organics at the local co-op.  Sometimes I do order from Amazon.......especially when they have sales.:)  I like to try new products.  This one is quite good.
+
+product/productId: B001G7QXQ6
+review/userId: A3BF0L01AXADSA
+review/profileName: Melinda L. Harris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254441600
+review/summary: best sugar on the planet !!!!!
+review/text: simply the best tasting and actually not so bad for you type of sugar around.  works great for baking, drinks and smoothies and has a rich taste that blends well with many flavors and is not too heavy like some types of darker mascavo sugars. you will never ever go back to white sugar.
+
+product/productId: B0018GDSH2
+review/userId: A16LSZKUPNYV5X
+review/profileName: M. Samuelson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1279843200
+review/summary: Delicious addition to espresso, hot or cold
+review/text: I've been purchasing and using the sweet ground white chocolate for a few years now.  I add it to my hot espresso drinks as well as cold. It's perfect year round.  The ability to purchase it in the 3 lb can adds to the cost savings I get over going to a coffee house to get espresso.
+
+product/productId: B0018GDSH2
+review/userId: A1VYSNCLMGLJSF
+review/profileName: J. Morford
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1312848000
+review/summary: More than what I expected
+review/text: I bought this product to try and find a white hot chocolate mix.  I will admit that this is a bit on the pricy side as it only has enough to make about 25 coffee cups worth.  The taste though is worth every cent.  I wish that I could say how great this product is in words, but I think the name Ghirardelli says it all.
+
+product/productId: B0018GDSH2
+review/userId: A3VNFT5T77FNTI
+review/profileName: pldries
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1282608000
+review/summary: Great Taste
+review/text: I cannot have chocolate but can consume white chocolate. I was looking for something to add to my milk so I could have a change once in awhile. This product is very good tasting but doesn't mix to well in cold milk. I still use it though and enjoy the flavor!
+
+product/productId: B0018GDSH2
+review/userId: A2Q9KFA94B3OVA
+review/profileName: Shehab
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348876800
+review/summary: Amazing taste and aroma! Pleasant surprise!
+review/text: I purchased this from Amazon after trying the Starbucks Fontana White Chocolate Sauce that I believe they use on their beverages of White Mocha. I purchased the Fontana from here but it was sold by Starbucks and let me tell you something, this stuff, the Ghirardelli is way far more superior than ANYTHING I tasted in the white chocolate beverage range. It is very aromatic, adds very nice sweet but not overly sweet notes to the beverage, let it be espresso , latte or cappuccino. it is also easy to dissolve and doesn't "clog". Also it has instructions on the back telling you how much you need for different drinks and sizes. Highly recommended, quality stuff.
+
+product/productId: B0018GDSH2
+review/userId: A3RZG8X4KTQUCP
+review/profileName: Joe D Johnson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296864000
+review/summary: White Chocolate Delite
+review/text: Very good product for making drinks and for use in baking. If you need sweet ground white chocolate, then get the best from Ghirardelli.
+
+product/productId: B0018GDSH2
+review/userId: A2JVOR6X22W2BA
+review/profileName: R. Youmans
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1291680000
+review/summary: good stuff
+review/text: My wife liked but we compaired it to dunkin donuts white hot chocolate and this is not the same. This has a coconut flavor to it which is good but it is not the same as dunkin donuts. If you don't mind the coconut flavor it is really good.
+
+product/productId: B0018GDSH2
+review/userId: A3RFDPI8CSQNUR
+review/profileName: Jill K Bond
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294790400
+review/summary: Love it!!!
+review/text: Wonderful winter drink. Mix it with milk heated in the microwave. Just like hot chocolate, but it's white hot chocolate. It's delicious.
+
+product/productId: B0018GDSH2
+review/userId: A2ZKDR6WMX0H8S
+review/profileName: Mahesh Rumale "manu"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1282867200
+review/summary: Ghiradelli Sweet Ground White Chocolate
+review/text: This is the first time I have ordered chocolate powder over Amazon. The order process was a breeze, as it always is at Amazon. We got the product on time. It is the same product we are used to.
+
+product/productId: B0018GDSH2
+review/userId: A2JAENLLILEOM1
+review/profileName: nikly
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1322611200
+review/summary: Goes great with cold beverages, not hot
+review/text: The best way to have this is half a cup of it blended with ice and two shots of espresso. Takes like a white chocolate cooler. I would not recommend using this as an addition to hot drinks. It gets lost in the coffee and milk but shines when blended with ice and espresso as mentioned before. I worked in a coffee shop and we used it only for cold drinks and syrup for the hot since syrup seems to blend better in warm beverages and holds its flavor better.
+
+product/productId: B0018GDSH2
+review/userId: A38NS2VVMULUJX
+review/profileName: Jeep Loving Mama
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1312070400
+review/summary: The product is awesome, ordering directly from Ghirardelli is not
+review/text: First of all, I would rate this product as a 5 star product!  I've bought it for the last 12 years and LOVE it!  You have to mix it into a hot liquid or it will not dissolve, but it is AWESOME in iced white mochas!  Just mix it in with the hot shots, add milk and ice and you have yourself a sinfully delicious little treat ;)<br /><br />However...<br /><br />Buyer Beware of purchasing directly from Ghirardelli!  While the quoted shipping price was high, but reasonable, upon checkout I was only given the Expidited Shipping option without a cost break down in a large order from multiple sellers.  Only when I went into my Amazon account to check the status of an order, did I see that I was charged nearly 4 times as much in shipping and it was past the reasonable Expidited Shipping deadline!<br /><br />I have yet to hear from Ghirardelli, Amazon can not help (because I purchased from a third party seller) and I have filed a claim, so we will see...<br /><br />8/3/11 Update- Still no product.  Got a call from Ghirardelli 2 days ago stating that they would honor the quoted shipping price and send it out on next day shipping so I should have had it yesterday, but still no chocolate powder.  The most frustrating part is that they charged my card the FULL amount of the 4 times inflated shipping charge!!!!  NOW, I have to file a claim with my bank...awesome.
+
+product/productId: B0018GDSH2
+review/userId: A10YXAS90UCU7E
+review/profileName: onoemt
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1346112000
+review/summary: wrong
+review/text: I wanted a product equal to dark chocolate, thought that's what this was.  It will not work in recipes using chocolate.  Total disappointment plus total waste of money.  Shipping charge was equal to product charge!!
+
+product/productId: B0029I6PJ6
+review/userId: A1PBNQNVVDECNW
+review/profileName: C. W. "Buyer516"
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1290902400
+review/summary: Better than the current formula in the grocery store
+review/text: I've never purchased this via Amazon, but we used to live in Waco, TX and were able to buy this at the Dr. Pepper Museum there (Dr. Pepper was invented in Waco). The glass bottles are the best, and the smaller size is perfect for a nice treat (they're about 100 calories each). This original recipe is better than what you buy in the store today - it has pure cane sugar as opposed to corn syrup, and you can taste the difference. Nice and crisp; a sharp sweetness that just can't be captured with corn syrup. I miss being able to drive a few miles to get this! We stocked up before we moved, but we've run out and are craving it :)<br /><br />I like how the big beverage companies are going "retro" and re-introducing their original tasty recipes with real sugar, and this is no exception. This is a great gift for yourself or a Dr. Pepper fan, because I don't think you can find it outside of Texas.
+
+product/productId: B0029I6PJ6
+review/userId: A3C7YXUTSH5GCX
+review/profileName: junieann
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1326326400
+review/summary: Will gladly pay the extra price
+review/text: I'll gladly pay the extra $$$ for one last sip of America's greatest soda! R.I.P. Dublin Dr Pepper shame on you Dr Pepper Snapple!
+
+product/productId: B0029I6PJ6
+review/userId: A2VIMPWX8NRAG4
+review/profileName: A. Bolin
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1314748800
+review/summary: Heaven
+review/text: After trying Dublin Dr. Pepper, even if I hadn't given up HFCS and wasn't allergic to Nutra-Sweet, I would never go back to drinking "regular" Dr. Pepper again.  There's even a difference between the Dublin version and the "Heritage"/"throwback" versions that Dr. Pepper Snapple produce from time to time.  The Imperial cane sugar makes a huge difference.  This is so much better than what I've been used to.<br /><br />Update 10/21/2011:<br />I just got my second shipment. I was going through withdrawals after the first one ran out about 2 weeks ago. This stuff is addictive. If you cannot afford to keep this habit, you probably shouldn't start it.<br /><br />Update 4/25/2012:<br />Sadly, Dublin Dr. Pepper is no more. Dr. Pepper Snapple sued them and as part of the "settlement," Dublin no longer produces this soda. The bottler who was actually doing the work for Dublin Dr. Pepper also makes this soda with the same cane sugar but different packaging, but so far I've been unable to find any for sale on Amazon. I'll be kind to Amazon and not list their competitors name, but there is another site on the web that does sell the Dr. Pepper Imperial Cane Sugar version. Hopefully Amazon will do so soon.
+
+product/productId: B0029I6PJ6
+review/userId: A29SO3ZXU163FV
+review/profileName: PC
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1310774400
+review/summary: the drink of a lifetime
+review/text: So, I grew up in Houston, and was weaned to Coca-Cola, which like every other respectable soda, was made with real cane sugar, Imperial even, because of the cane fields and processing plant SW of Houston.  Think late 40s, early 50s timeline.  Howard Hughes was brewing Grand Prize beer and Golden Age soft drinks in orange, grape and strawberry (which was called "Big Red" by my name-unconscious younger brother).  All soda came in 6 or 8 ounce bottles, except Royal Crown (RC) Cola, whose big marketing ploy was a 12 ounce bottle - "Twice as much for the same price!"  In the summer, we would visit our grandparents in Erath County, only 14 miles from the golden hub - the Dublin Dr Pepper Company.  The neighborhood grocery sold Dublin DP, and my grandfather was very fond of it. If we wanted a Coke, we had to cross the street and buy it ourselves. I drank DDP rather than blow my movie money on a difference of opinion.  As we got older, we spent fewer summer weeks at our grandparents' house, playing dominoes and drinking DDP.  That elusive flavor called to me, Mr. Pibb, various store brands that promised to taste the same, but they failed the test.  For nearly 2 years I lived in the Dublin "territory" in the 70s.  Then I moved to Austin. About 30 years ago, my father, looking for retirement, bought 3 farms in Hamilton County.<br />When we went to visit, we would bootleg Mr.Pibb into Dublin territory.  Once I discovered Hamilton County was located in DDP territory,I gave up Mr. Pibb and began doing calculations on how many cases we had to take home each visit so we didn't run out before the next trip.  I began to travel everywhere with the car half-filled with Dr Pepper and the rest with husband, self, a litte baggage and a few dogs. I actually flew to MA to attend a fellowship course at Tufts Vet Med School. Earlier ventures east of the Mississippi and north of<br />the Tennessee had blown it into my face that they didn't carry that pansy-assed tea party fare in those parts. A major fast food chain had never heard of it. But one of the doctors at Tufts actually drank DP! And he wouldn't share it at our box lunch socials.  I one-upped him with Dublin DP, and while I wouldn't share either, I sent him a case from Texas.  Next year, he came to a conference in Texas and looked for DDP everywhere. I finally told him the territorial secret and gave him Willie Kloster's Dublin factory address. I don't know if he could afford it on a vet/professor's salary (the shipping will kill you), but at least he had tasted Heaven.  I gave up alcohol, inherited a farm in DDP territory,and changed my life, dedicating myself to good deeds.  Is that a witness or not!  Truly, I love Dublin Dr Pepper, and met Willie Kloster on a plant tour, complete with a cold bottle of his brew from the machine (he put up the dimes).  On a side note, James Lee Burke's Dave Robicheaux likes Dr Pepper over crushed ice, but he doesn't have access to the good stuff.  You don't water it down. Maybe he would have stopped drinking sooner if Willie could have sold his product in LA.  Insert silly emoticon here. Dublin Dr Pepper has about a 1% share of Snapple Dr Pepper sales, but other distributors see Willie's original formula as a threat and are suing to restrict sales of Dublin Dr Pepper to the original 6 counties and to take Dublin out of the name.  Never happen.  It is the greatest stuff ever, and will persist in the environment as long as DDT, but it is better for you.
+
+product/productId: B0029I6PJ6
+review/userId: A2IDP8TTUCECEJ
+review/profileName: david p. carleton
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1305590400
+review/summary: THIS IS AN EXPENSIVE HABIT
+review/text: This is great stuff NOT to be shared.  It is very pricey but very good.  It makes the new stuff pale by comparison.
+
+product/productId: B0029I6PJ6
+review/userId: A6XGIW9KSC0Y1
+review/profileName: Washuai
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322006400
+review/summary: Dublin's the Best Dr. Pepper
+review/text: If you prefer Dr. Pepper, you need to try this cold and fresh at least once.  Drink one of these a day for six days and good luck going back to regular without missing it.<br /><br />Sure it is only 8 ounces and about $2 a bottle, including shipping.  Both aluminum and plastic affect taste.  Additionally, not even the beet sugar they had out compares to the cane sugar.  Real sugar soda is more satisfying, so you'll be full/satisfied faster.  IF you're satisfied from a 12 ounce serving, you'll be satisfied by this 8 ounce. I can't always afford Dublin, over regular, but I'd always take it over regular.  Given the smaller portion and higher price, this is definitely soda for once a day or less and savored, not chugged (which is the healthier way to consume soda, anyways).<br /><br />Admittedly, if this was cheaper/more available, I would probably drink two of these a day, no matter how bad it was for me and what caffeine withdrawal I would face without them.<br /><br />I've never gotten this from Amazon, but from local restaurant or Dublin's web site.<br /><br />Worst of all, Corporate Dr. Pepper has sued Dublin, which is outrageous.  Get this before corporate stupidity stops production of the best Dr. Pepper (and in my opinion soft drink) on the planet.  Seriously, if this stops being available, I'm going to ban corporate.<br /><br />My fave beverages are certain water, Dr. Pepper, Green Tea and Milk.  Certainly I enjoy other beverages.<br /><br />Those trying a real sugar soda, coming from high fructose corn syrup, should be aware that real sugar soda tastes a little sweeter.  Obviously, this product isn't ideal for those for who want quantity over quality, non glass containers, etc.  It is possible to get Dublin DP in cans, but that isn't the best way to taste test.
+
+product/productId: B0029I6PJ6
+review/userId: A2RO3ZLWS1ZLFZ
+review/profileName: M. LaBonte
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1313625600
+review/summary: Incredible!!!
+review/text: I am totally allergic to high fructose corn syrup. It causes IBS symptoms, and even my doctor couldn't figure out what was wrong with me, just told me I would have to live with those horrible symptoms, not a fun idea.<br />I went to visit family in Florida last year, and my father mentioned that high fructose corn syrup had been linked to my symptoms. I immediately cut out all high fructose corn syrup, and suddenly no more symptoms, after six years, I was delighted!!!<br /><br />Well, my favorite drink is Dr. Pepper. I hate diet soda, and refuse to drink it, forget it. I gave up soda completely, and moved on with my life.<br /><br />On a recent trip to Colorado, an antiques shop had Dublin Dr. Pepper. I had no idea anyone still made Dr. Pepper with real cane sugar anymore, and I was ecstatic!!! I bought five bottles and hoarded them greedily! Of course, five bottles simply wasn't nearly enough, and now I find out Amazon carries this! I am so happy, of course the price is outrageous, but it is far better than not having any!
+
+product/productId: B0029I6PJ6
+review/userId: A4ZS7FBU1OMQR
+review/profileName: Jack
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350604800
+review/summary: Buyer Beware
+review/text: The product description would have you think of the once booming bottling company who until quite recently manufactured the Dublin brand Dr. Pepper, when in fact these bottles are indeed knock-offs not made by the Dublin bottling co. As a side note, these bottles also were delivered with less than a month left on the expiration date.
+
+product/productId: B0029I6PJ6
+review/userId: A3KNVED193ME7
+review/profileName: ben
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345852800
+review/summary: 1000 times better than normal
+review/text: this is an incredibly good soda, and is well worth the money. one thing i noticed that was odd is the cap says its bottled by temple bottling co. but it still says dublin. either way this is amazing.
+
+product/productId: B0029I6PJ6
+review/userId: A25BOV9LZUPY50
+review/profileName: Specialty Sodas "specialtysodas"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: Dublin Dr. Pepper Soda Review | Specialty Sodas
+review/text: <span class="tiny"> Length:: 4:44 Mins<br /><br /></span>The soda is a nice dark caramel color. There is mild carbonation and a slight froth at the top. It smells like the characteristic Dr. Pepper smell, which is slightly fruity, spicy, and sweet. There is a faint minty undertone to it. It is made with Imperial Pure Cane Sugar instead of High Fructose Corn Syrup, and the sweetness of it is just perfect. It has a creamy consistency and is very very smooth to drink. It has the Dr. Pepper taste, yet unlike the canned version of the soda, it is not acidic or harsh in any way, and is not overpowered with carbonation of sweetness. The Dublin Dr. Pepper is very delicious. After drinking this, I am left wanting more!
+
+product/productId: B0029I6PJ6
+review/userId: AWIBPIXDCV4E6
+review/profileName: $4$ &#34;Rick&#34;
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322265600
+review/summary: The current store bought Dr Pepper cannot compare!!!
+review/text: For those not within driving distance to Dublin, Tx, you just need to cough up the higher cost plus shipping. In Dublin you can buy them for about $1 each. I grew up drinking the original Dr Pepper 45 years ago in the 10oz bottles.  In the mid 70's, my family's construction business built a new bottling plant in Irving, Tx. They still used the original receipe.  We have some cool commemoritive bottles.  When the US went nuts and started using high fructose syrup, all soft drinks became garbage.  I all but stopped drinking soft drinks. Then I rediscovered my coveted (Dublin) Dr Pepper at a local (Dallas) market. That was a one time only deal.  Now I have to drive to Dublin. Many stores now carry the new "pure cane sugar" from Dr Pepper but it is NOT the original recipe developed in Waco, Tx and is ONLY available now in Dublin, Texas. The difference in taste is stark even though both are using imperial pure cane sugar. The 8oz bottles are 100 calories and are the perfect size. I have no financial interest in Dublin Dr Pepper, they are simply the best Dr Pepper you will ever taste. Cheers!!
+
+product/productId: B0046HCONO
+review/userId: AEXCN6N30ICKD
+review/profileName: LRO
+review/helpfulness: 21/21
+review/score: 2.0
+review/time: 1338249600
+review/summary: Soy and/or canola oil is first ingredient
+review/text: I could not find the ingredient list in the Amazon product description, so went to the Spectrum website.  For those of you looking for olive oil mayo due to concerns with soybean and canola oil in typical mayo, beware that soy and/or canola oil is listed as the first ingredient in this product.  Full ingredient list:<br />Organic expeller pressed soy and/or canola oil, organic whole eggs, organic egg yolks, organic extra virgin olive oil, filtered water, organic honey, organic distilled vinegar, sea salt, organic mustard (organic distilled vinegar, water, organic mustard seed, salt, organic spices), organic lemon juice concentrate.
+
+product/productId: B0046HCONO
+review/userId: A27NQEQ9A2MMJ6
+review/profileName: LillyG
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1314230400
+review/summary: SO Yummy
+review/text: This is the best tasting mayonnaise I have had in a long time. I don't know what it is about their blend that makes it so tasty, but it is.  Definitely outclasses the conventional brands I was using before.  A little pricier than I'm used to, but organic usually is, and this is totally worth the cost.<br /><br />I would look into a way to buy in bulk and try to save on the shipping costs.<br /><br />Great product, will definitely be buying more in the future!
+
+product/productId: B0046HCONO
+review/userId: A3UUSUMPB2JX8F
+review/profileName: Babyboomer
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1337040000
+review/summary: Happy babyboomer!
+review/text: I eat and drink 99.9% organic now (my version of health insurance)so was happy to find this mayo.  The photo changes once in order mode but it DOES come in a glass jar, which is important to me. Vitacost, via Amazon, usually has the best price around especially by ordering a min. of $49 of merchandise from them thus engaging free shipping.  Vitacost products usually have a substantial shelf life and arrive well packed.  Altho you can order directly from Vitacost there is no additional savings so I stick with placing my order thru Amazon.  My experience with Amazon has had an excellent track record.  Problems, tho seldom any, get immediate attention.<br /><br />.........oh and the mayo tastes great!!!
+
+product/productId: B0046HCONO
+review/userId: A2218S720D9F0V
+review/profileName: Gaby
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Good for health!
+review/text: Mayonnaise is a healthy and tasty, the big disadvantage is the container, is made of glass and have no care on the shipping, you can get it broken and impossible to send it back for the refund, which is not well covered and designed, it's a pitty ... otherwise the product is 100% recommended very yummy! My 5 years son love it!
+
+product/productId: B006ABD2JO
+review/userId: AW6AFZZH66H5A
+review/profileName: Pierre Zeitoun "Electronic Heaven"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1329868800
+review/summary: Just like remember !
+review/text: Being French I grew up knowing how important it was to use a good unrefined salt. The one from Brittany being the very best. No! It's not foolish to spent money on a  basic spice. It has a very delicate flavor (almost floral) and you don't need a lot. Will taste great on salads. A clear healthy winner.
+
+product/productId: B006ABD2JO
+review/userId: A31AS7L29JTV6H
+review/profileName: G. Baker "nJoyLife"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1314921600
+review/summary: Wow
+review/text: Not really sure if I can describe this salt properly. Yes, it has a wonderful flavor without too much of a salty flavor. It's very clean tasting. Mostly, though, I think it seems "creamy". Yea, I know that sounds weird, but the moisture with the salt gives it a creamy-salty embodiment. I use this for special dishes to add a delectable flavor to a dish...also knowing that I'm serving food with a healthy salt with tons of minerals.
+
+product/productId: B006ABD2JO
+review/userId: A1C2GFOPBDFM8L
+review/profileName: David S. Lott
+review/helpfulness: 9/10
+review/score: 4.0
+review/time: 1312761600
+review/summary: Good Product Well Priced
+review/text: This is good, briny large crystal grey sea salt, which for most uses I prefer to the more expensive white.
+
+product/productId: B006ABD2JO
+review/userId: AUOJEXT54C9TS
+review/profileName: frogladysmiles
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1323734400
+review/summary: Love it
+review/text: <a href="http://www.amazon.com/gp/product/B004VEQUIW">1 Pound - French Gray Sea Salt - Light Grey (Coarse) - Bag -"Sel Gris De Gu&eacute;rande" French Sea Salt</a>  Don't know why, but when using this - there is a something special flavor added.  Never used anything but regular table salt.  But I am hooked!!!
+
+product/productId: B006ABD2JO
+review/userId: A19THLC5ICNIKV
+review/profileName: artlady
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1331596800
+review/summary: salt of the earth
+review/text: This wonderful sea salt is both beautiful and healthy for you. It takes less to season. Anyone who is concerned abot salt and diet will love this product
+
+product/productId: B006ABD2JO
+review/userId: A2N9W653IF2ATM
+review/profileName: 2cents
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1331424000
+review/summary: Yumo!
+review/text: Man, this salt is really good!  Love the flavor, and that it's a much better/wiser choice vs regular table salt.  Good Stuff!
+
+product/productId: B006ABD2JO
+review/userId: AI5SG3N6F0RMN
+review/profileName: John Ron-Je'
+review/helpfulness: 8/10
+review/score: 5.0
+review/time: 1314316800
+review/summary: Great stuff,and a must to have
+review/text: I got into salts, the more I learned to cook.  Firstly all salt is salt,  but different textures appeal differently on your palate.  They seem so anyway.  Now the darker shades of salt do have different minerals, depending where they're from.  You need to be careful though , remember these gourmet salts do not have iodine, so make sure you continue to use table salt, though it is hard to do so.  Love this salt on salads and steak,  trust me.
+
+product/productId: B006ABD2JO
+review/userId: A2NHZN41OXJBNP
+review/profileName: M. fletcher "Angelsongsilove"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334966400
+review/summary: FAMILY LOVES IT!
+review/text: Got this stuff and it looked like they just swept it off the beach . I think its still wet actually. We got the course and we grind it ourselves. We love it. We even took a taste test, first this French gray , then Mortons salt. Hands down we could taste the difference and we could taste how much better the French Gray was. I would get the fine salt next time. I wanted that but must have hit the course by accident. We still like it! You will too. Worth every dollar. And now im spoiled.
+
+product/productId: B006ABD2JO
+review/userId: A9TPV4O2YQJXO
+review/profileName: loves purses
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334534400
+review/summary: mm mm good
+review/text: Love this salt.  It has a really nice flavor, not too salty, has a mineral taste that is very good.
+
+product/productId: B006ABD2JO
+review/userId: AYNH2BHO8SO52
+review/profileName: Nicole
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346112000
+review/summary: Tasty
+review/text: I never realized this, but the salt and mineral concentration of seawater is different in each part of the world, and therefore the taste of sea salt varies based on where it comes from.<br /><br />To me, "French gray" sea salt is delicious - the flavor is more gentile than regular salt and has a slightly tangy taste with just a hint of minerals.  The price may seem high compared to table salt, but Amazon's price is low compared to other places I've bought it. Definitely worth it, in my opinion.<br /><br />One thing to note is that this sea salt is very moist, so it doesn't work well in a grinder or shaker.  Sometimes I'll serve it in a salt cellar, but generally I just keep it in a glass jar by the stove for cooking and use regular salt at the table.
+
+product/productId: B006ABD2JO
+review/userId: A3N0XT43RFEJLD
+review/profileName: Andrea N. Fleuren "Doctor 72"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: loved it
+review/text: great product.  actually we've used it all now.  great to scatter on veggies, as well as cooking in meals. highly recommends.
+
+product/productId: B006ABD2JO
+review/userId: A3GQP16J109A3F
+review/profileName: Homer Jay Simpson "Homer J."
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1339200000
+review/summary: why is it wet?
+review/text: the salt is wet and i dont like that. it's not dripping or anything, but it's moist and it is clumping. i had to put it in the oven and as i type it's baking to get the moisture out.<br /><br />i did not know that it would be damp.<br /><br />it has a nice flavor, quite salty. if it was not damp/wet, i'd buy it again.
+
+product/productId: B006ABD2JO
+review/userId: A2U1BYEK28NS3F
+review/profileName: Auntie Sandy "Hooked on Books"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1342137600
+review/summary: Yummy!
+review/text: Yeah, I know that salt is salt, but I like the taste of this salt. It wasn't as costly as many of the gourmet salts, so I use it to make my own seasoned salts for myself and for gifts.
+
+product/productId: B000NVBVCW
+review/userId: A3DPI6ORO7T971
+review/profileName: J. Park
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1296518400
+review/summary: Wholesome Goodness That My Pup Loves!
+review/text: I know a lot about dogs. People consider me a future dog lady and I preach the words of Cesar Millan. My pup is the cutest 8 lb. Yorkie. Stella and Chewy's was recommended to me by an expensive pet store in NYC's West Village where my friend works. These treats are probably the closest things that your dog will get to a "wild" nutrition. The meat is freeze-dried so the texture is light and flaky. For those worried about parasites, there is a pathogen-free guarantee on the label. The package is SMALL. My pup flies through these things. His favorite is the duck flavor and he doesn't really like S&C's Kisses.
+
+product/productId: B000NVBVCW
+review/userId: A143C5BH6HDFWK
+review/profileName: sandiego3day
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308182400
+review/summary: Works for my dog who is a finicky eater
+review/text: I crumble up and sprinkle about 4 on top of my Bichons food and he eats. My guy is a very picky eater. I order the chicken and the beef pkgs and he likes them.
+
+product/productId: B000NVBVCW
+review/userId: AC3EJQZ0GF35T
+review/profileName: shoeprincess12
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346976000
+review/summary: Cats can not get enough of this
+review/text: My cats rush to get a treat as they think this product is extremely delectable. This is one one of their favorite foods.
+
+product/productId: B000NVBVCW
+review/userId: ADTWOB28WIGUM
+review/profileName: WinnieGirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: My Dogs and Cats love Stella and Chewy's treats!
+review/text: These are great! All of my babies absolutely love them (both canine and feline species). These are their "special treats" that they only get one or two of a day (very small pieces for the cats of course).  When I get to the bottom of the bag, I take the crumbs and sprinkle it on top of my dog's dinner as a special treat. He loves it! Highly recommended.
+
+product/productId: B000NVBVCW
+review/userId: A1INXGGWMAW6K1
+review/profileName: vb
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: Great Dog Food
+review/text: My dog loves these as he does all of Stella and Chewy's- the dog food and the dog treats.  I love that it is food quality and good for him.  Only downside is that it is expensive
+
+product/productId: B00032KHL2
+review/userId: A2II09GQGWOMTQ
+review/profileName: Brian Nallick "METALMANMN"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1280448000
+review/summary: Yum, yum, yum.
+review/text: Just recently I started making my own Chinese dishes at home.<br />And while this has been fun and challenging...with Iron Chef sauces? Why bother?<br />I just bought a bottle of the General Tso's on a whim and it tastes JUST LIKE the best resturant variety you can imagaine.<br />Certainly better than ANY glaze I have yet to produce. :(<br />My cooking abilites (or lack there of)aside....<br />Iron Chef, General Tso's sauce comes......<br />Highly recommended.<br />Can't wait to try all the others. :)
+
+product/productId: B00032KHL2
+review/userId: A23PBLHUOR6GNN
+review/profileName: M. Felton "CrazyMike"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1240358400
+review/summary: Make your own general Tso's at home without the grease
+review/text: I've never found take out General Tso's that is not deep fried, but with this sauce you can cook some chicken breast or thighs in a pan, put them over rice and broccoli or mixed veggies, pour on the sauce and microwave to make a reasonably healthy meal.  It isn't quite as spicy as some restaurants, but you could always buy some peppers to add.
+
+product/productId: B00032KHL2
+review/userId: A3AMH5PQ9QF9R8
+review/profileName: MK
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1232150400
+review/summary: Great stuff.
+review/text: This is really good stuff. Our local Costco had it in the larger bottle and we are glad we tried it. A couple of boneless chicken breasts cut up, one cup of sauce, some steamed broccoli and a little rice and you can have a great meal in about 10-15 minutes that's pretty healthy. NO MSG. Only 240 mgs of sodium (10% of RDI).
+
+product/productId: B00032KHL2
+review/userId: A3AVELRKIEYFIR
+review/profileName: Diane
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: Fabulous product
+review/text: I love this chicken glaze..its the best.  I have eaten in many restaurants and only one or two of them meet the quality of this General Tso's glaze sauce.  I use it faithfully now and sometimes use it to make very delicious sesame chicken too.  I give high praise to this fine Iron Chef product.
+
+product/productId: B00032KHL2
+review/userId: A19WBNIMDXXW51
+review/profileName: John Petrocelli "New York Hypnotist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Best Barbecue Chicken Glaze . The General Does It Right
+review/text: I'm not the biggest chicken fan, but a friend of mine, Chef Mike,<br />of West Creek, NJ ...barbecued chicken for the first time ...<br />Matter-of-fact, he cremated it and was about to throw all 6lbs.<br />out ...  Luckily, I took a bite before it hit the garbage bin.<br /><br />And From this point, I was addicted. Chef Mike made all the mistakes<br />that day of a beginning barbecue novice. He didn't marinate the chicken,<br />just slapped it on the chicken and threw it on the grill (low settings).<br />He turned the chicken 4 times. The skin was blackened ... charred ...<br />but the taste, at least to me, was addicting, out of this world.<br /><br />He made the same chicken for my visit last week the exact same way<br />because I raved about his recipe (remember, I'm not a big chicken eater)<br /> .... Again ... Totally blackened on the outside, perfectly cooked inside.<br />NO raw,rubbery taste.<br /><br />I went to my mom's this weekend. We tried to replicate Chef Mike's chicken.<br />We used a generic ShopRite Barbecue sauce. No way. It wasn't the same. After<br />three pieces, I had had it (and so did everyone else).<br /><br />I guess this sauce, General Tso's, along with the blackened flavor is what gave<br />Mike's chicken that unique, addicting taste, one of a kind, taste sensation (I<br />ate 5 lbs of chicken myself, at one sitting).<br /><br />Give it a try ... and if you like the really like the flavor of<br />sizzling grilled chicken .. try a piece or two... and if you get hooked,<br />make sure you invite me over for your next grilling !
+
+product/productId: B00032KHL2
+review/userId: A2G1PNDX51545E
+review/profileName: KKD
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268179200
+review/summary: Yum!
+review/text: Super Sweet and Delicious. 3 Bottles weren't enough! Mmmmmmm General TSO! Although it isn't really spicy at all. I had to add spices to it to give it a kick.
+
+product/productId: B00032KHL2
+review/userId: A1DI5Y4MW2GXU4
+review/profileName: Joe
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1279843200
+review/summary: Great for grilling steaks
+review/text: I bought this at the local Costco in the large bottle. Marinated Skirt steaks for 1 hour on 1 side. Placed on our bbq grill sauce side up for 7 minutes then turned over and basted uncoated side with sauce another 5 minutes and turned over again for 1 minuted with grill on high. The steaks were delicious, so easy to prepare. I took credit for making the sauce myself from scratch. Its our secret. Cant wait to try the other flavors Iron Chef makes.
+
+product/productId: B004S5SQO0
+review/userId: A15TIQSRJFRW1W
+review/profileName: Laura A. R. Wingfield "whodunit"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1316476800
+review/summary: Even better than MacIntosh
+review/text: When MacIntosh no longer made the toffee bars we all loved, a friend introduced me to this toffee.  It's an even better toffee and you still break it up by whacking it on a hard surface.  I'm happy again.
+
+product/productId: B004S5SQO0
+review/userId: A17MC8YYN0OY35
+review/profileName: Heather N. Holder "Taterbug160"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Excellent!
+review/text: I discovered this toffee when I was visiting Ireland and I found a package in a gift shop while waiting on a ferry. It is SO good. It's buttery and creamy and chewy and just perfect. So excited to find some on Amazon!
+
+product/productId: B004S5SQO0
+review/userId: A2ZE53L49S28V9
+review/profileName: Gary D. McKay, Ph.D "Author, STEP programs, N...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334275200
+review/summary: Great Toffee!
+review/text: A friend of mine in the UK came to visit earlier this year and brought me Walkers Original Toffee. When I finished the gift, I went on line to see if I could order some more and found that Amazon sells it. So I placed an order. The flavor is excellent and I will order some more when I finish what I have.<br />http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dgrocery&field-keywords=Walkers+Original+Toffee
+
+product/productId: B002DZKLTK
+review/userId: AMPXK123R1VBO
+review/profileName: bakerash
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1283990400
+review/summary: Easy & Amazing!!!
+review/text: What a great idea!!  The mix, an egg, and a pie crust.  This makes making a pumpkin pie so easy.  The flavor is great too!!!
+
+product/productId: B002DZKLTK
+review/userId: A13GZCHAMKWYBT
+review/profileName: Vikki Hallen "lizardwitch"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1253577600
+review/summary: Easy!
+review/text: Gees! Shake the box, add an egg,,pour into frozen 9" pie shell.  Good flavor too
+
+product/productId: B0006OA5L4
+review/userId: A355PZ56RVA77M
+review/profileName: BB
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1138838400
+review/summary: Beautiful Basket & Excellent Customer Service
+review/text: The recipient of this basket was very happy with it.  We did have a little problem with the item being delivered later than 3 days, but that was due to the shipping partner, and it was immediately resolved (without any interaction by me) to my complete satisfaction by Winsconsinmade's wonderful customer service.  We all know problems that are out of our control can occur once an item is shipped, and dealing with a company that does not care can be a big headache.  But this company left me very satisfied.  I would highly recommend Wisconsinmade.
+
+product/productId: B004KB89EY
+review/userId: A1BEPO29STV1U5
+review/profileName: mercsinc
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1324339200
+review/summary: great to eat while typing on the computer
+review/text: as i write this review, i have one of the honeystix in my mouth. look... no hands.<br /><br />taste is good. portion is okay. easy to just eat on its own.<br /><br />you can consume the honeystix while doing a multitude of other things; to name a few... while playing guitar hero on the ps3, while driving to work, and while mowing the lawn.<br /><br />but, it is not recommended to consume the honeystix while smoking, running and falling down the stairs. trust me, i tried.
+
+product/productId: B004KB89EY
+review/userId: A1LHV1BC72V8XJ
+review/profileName: Richelle Swinton
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331078400
+review/summary: Exactly what I was looking for.
+review/text: I'm not quite sure what other reviewers were expecting, but I love these. They're about the size of a BIC pen, and perfect to sweeten a cup of tea or just to snack on. I will definitely be ordering these again.
+
+product/productId: B004KB89EY
+review/userId: A306DS4EC2C02T
+review/profileName: Gavin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347062400
+review/summary: Very good Honey
+review/text: Honey sticks are average size, (what i wanted). Honey is sweet and mild but nothing like a clover honey. I'm a bit of a honey addict so to have an easier way to eat it other than dipping a spoon into a jar like Winnie the poo is great=] To open, grab edge of honey stick with thumb and pointer. Hold the honey stick so the edge is vertical and bite down the edge with your front teeth. I open them very easily with this technique. Some of my friends struggle opening them their first time. it's really easy though.
+
+product/productId: B004KB89EY
+review/userId: ADEZOPMPKK146
+review/profileName: Will
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331683200
+review/summary: Delicious Snack
+review/text: These Wildflower honey sticks are an extremely sweet, delicious delight for those who love honey. It's enough for a cup of tea for me, yet may not be for others. Each stick is approximately a teaspoon of honey. This is also a great snack for you kids because it's much healthier than the sugary, high fructose chemical junk in most snacks these days. LOVE that it's a 100 percent USA product as well and not made in CHINA. My only beef about AMAZON is price. Sometimes their prices are very reasonable. I just bought a few days ago for $10 and now see they are $12 for 50 sticks.
+
+product/productId: B004KB89EY
+review/userId: A2BBTJPWHIH2PM
+review/profileName: Honeyman
+review/helpfulness: 5/7
+review/score: 5.0
+review/time: 1308614400
+review/summary: Honey straight from heaven
+review/text: Now I wouldn't consider myself a honey "fanatic"... but what the hell. I have traveled the world and tried honey from all over the world. Up until now, my last personal favorite came from a hive of a good buddy's back yard in southern france. Now one day I found myself in need of some honey. I had heard that wildflower honey is good and I went with the honey sticks because I can use it to mix right into my drink.<br />If you want to know my first impressions, it went as follows: "YUMMO"<br />I would recommend this honey to everyone.
+
+product/productId: B004KB89EY
+review/userId: ARIBS7YIZJSC4
+review/profileName: anne's opinions
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1330819200
+review/summary: these are tiny mini stix... not full size
+review/text: <a href="http://www.amazon.com/gp/product/B004KB89EY">Floral Honeystix - Wildflower - 100% Honey - Pack of 50 Stix - Honey Sticks</a>Please note that these honey stix are small, mini-stix, not full size.  In my opinion, they are not worth the $10 price tag because per ounce they are ultra expensive. They are packaged in a small plastic baggie and not suitable to give as a gift. You can find other types of honey at a better price.  If you are a fan of the honeystix, check local beekeepers in your area for honey sellers.
+
+product/productId: B003EMQL0O
+review/userId: AQTX71IBF05E6
+review/profileName: katie
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1335052800
+review/summary: Smells really good
+review/text: I really liked it, it smelled and tasted really good. Doesn't smell or taste like cheesecake though. It's more like buttercream frosting, but still really good.
+
+product/productId: B002LVACZE
+review/userId: A175N19FS2B4J
+review/profileName: Lisa M. Mims
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1258156800
+review/summary: Gluten-free!
+review/text: There are a small number of companies that make gluten-free food, and they don't bother to talk about it.  These are, and as far as I can tell from reading the celiac boards, always have been gluten-free.<br /><br />Other than that, well, they're Cocoa Pebbles.<br /><br />Note;  I use them for pie crusts on gluten free vegan pudding pies:  coconut milk, agar agar, agave nectar and vanilla.  If you want the recipe, please feel free to e-mail me--it's going in the cookbook.
+
+product/productId: B002LVACZE
+review/userId: A2XES1N1NVC5W
+review/profileName: babsi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: children love it
+review/text: My son doesn't eat cereals that don't have any chocolate flavours. This cereal he just loves. The cereal is coated with lot of chocolate & very crunchy.
+
+product/productId: B000HHO5HK
+review/userId: A1FS7FJ2VHAB0G
+review/profileName: David A. Hoehn
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1313107200
+review/summary: So good, I have 'em too!
+review/text: My dogs've become picky over the years and turn their noses up at brands I've purchased at my local pet shop.  The ones they liked were in a 150 pack and are no longer available.  Went to the all pervasive Amazon and a beautiful selection of chew sticks were available in different flavors!  I bartered for their love and I got it!  Peanut butter, beef and chicken basted rawhide treats!  I'm a new regular customer!
+
+product/productId: B000HHO5HK
+review/userId: AK4ZF7QR840HL
+review/profileName: C. Smith
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1325030400
+review/summary: Bad Batch?
+review/text: Don't know if I just got a bad batch or something, but the package I received had such a strong chemical smell, and my dog seemed to like them okay at first, but then was drinking water like crazy, and puked it back up a few hours later...
+
+product/productId: B000HHO5HK
+review/userId: A1F5TYNH36IQRR
+review/profileName: blackirony
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1331596800
+review/summary: My dog loved the beef flavor but not the peanut butter
+review/text: These sticks don't smell like peanut butter at all, so my dog didn't like them... though she goes absolutely gaga over real peanut butter. Also these sticks are much softer than the beef flavor, which my dog likes. After begrudgingly eating a couple of these, she barfed, and has not wanted them since. If you need to buy this, go for the beef flavor!!
+
+product/productId: B000HHO5HK
+review/userId: AQMDSQNGGLM30
+review/profileName: J. Martin
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1309046400
+review/summary: Doggy treats hit and miss
+review/text: My dog seems to like these. He's a 17 pound terrier mix. It seems like he likes the plain variety more, but but does occasionally treat himself to these peanut butter snacks. I have them lying around the house in strategic locations. I have to replace the piles every few days or so. He's a REALLY picky eater. But I'm glad he likes these and I don't have to donate them to the dog park.
+
+product/productId: B000HHO5HK
+review/userId: A3A6UFUVOFHVAU
+review/profileName: Always Right
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1296604800
+review/summary: The Munchy My Dogs Love
+review/text: My dogs, 5 of them all love the munchy csticks. They each get a couple after their meals, which gives them a little treat and helps to clean their teeth.
+
+product/productId: B000HHO5HK
+review/userId: A1YSPYBD85OAKP
+review/profileName: breezy "C"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: He likes them!
+review/text: My Pom/Beagle mix can have an unpleasant reaction to some peanut butter products so I took a chance on these as they were a rawhide munchy and a good price.  He has had a couple of them with no adverse affects and inhales them.  He's an agressive chewer so that didn't surprise me but he definitely liked the flavor.  He goes for them first in his treat cupboard now so for me they were a good investment.  He likes them and they don't bother his digestion!
+
+product/productId: B000HHO5HK
+review/userId: A1UWHYHADNLBA9
+review/profileName: D. Vanhoose "Concerned Reader of Reviews"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1336780800
+review/summary: Not for aggressive chewers, and Made in China
+review/text: Very good value for the quantity, so I tried them.  My chihuahua loves them, ... but as I watched, he goes through one in 2 minutes or LESS.  Gone.<br /><br />And after reading the package, I see they are made in China; I wish I had known that first, I would not have purchased.<br /><br />I found that chews, treats and other products by Zukes, Smokehouse and Beefeaters  are made in the USA, are VERY reasonably priced - and the quality is much better.  The Beefeaters chews take him days to get through, and they are 100% digestible.<br /><br />So I'm not without options for quality treats that last that are made in the USA.
+
+product/productId: B000HHO5HK
+review/userId: A2JMKQD867B4VJ
+review/profileName: M. J. Fox "FoxyArt"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1332633600
+review/summary: Third favorite flavor, but still okay.
+review/text: My dog prefers beef or chicken chews, but likes these also!  This seems to be a good brand, however, the beef seems to last the longest.  Also a reasonable price.
+
+product/productId: B000HHO5HK
+review/userId: A1K81HS7ZNT33R
+review/profileName: MUSE PT
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206489600
+review/summary: Our dog loves these things!
+review/text: Our dog loves these things!  If I even go near the cabinet they are in she is alert and focused.  The peanut butter is her favorite treat.
+
+product/productId: B000HHO5HK
+review/userId: A3MOP2NVU8P6XG
+review/profileName: J. M. Shannon
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1182902400
+review/summary: Good price and free shipping!
+review/text: Same price as Walmart but these guys have it in stock! No tax and free shipping with orders over $35.
+
+product/productId: B00264VGBK
+review/userId: A20FRX767ZT30Q
+review/profileName: The Raddish
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1275955200
+review/summary: Just what I ordered, price a little high though
+review/text: My local pet superstore quit carrying this dogfood which I have been feeding my dog for the last three years (I have an 11 year old German Sheppard mix).  Petco sold it through Amazon, though the price was about eight dollars more than what I am used to spending.  I see that it fluctuates though, so I'll buy more often at the lower price.
+
+product/productId: B004R5C6HY
+review/userId: A2WAB1XWFQFSIB
+review/profileName: diane77
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Great Tea, Can't Taste The Pomegranate
+review/text: Allegro Pomegranate Green Tea tastes great with lemons or limes. I couldn't taste the pomegranate in this tea. This tea has a green tea flavor.
+
+product/productId: B003GTR8KM
+review/userId: AIMGHPI1AGVRF
+review/profileName: Davewise
+review/helpfulness: 16/16
+review/score: 1.0
+review/time: 1288915200
+review/summary: Error 404: Caramel flavor not found
+review/text: There is no caramel flavor here to be found, unless you add your own. The coffee itself is good but it is very disappointing if you are expecting it to taste like caramel. For people who dislike flavored coffee this might be a good choice (though why would those people be looking at this product I'm not sure...) The description has one thing right - "hint of caramel". With this subtle a hint, I don't think anyone would guess it was caramel flavored coffee without reading the label.
+
+product/productId: B003GTR8KM
+review/userId: A3MEMX0XF00TBD
+review/profileName: delicateflower152
+review/helpfulness: 16/17
+review/score: 3.0
+review/time: 1285718400
+review/summary: Caramel Flavor So Mild, It Barely Exists...
+review/text: I love a cup of Starbucks coffee, and I love a good flavored coffee.  When Starbucks announced Natural Fusions Ground Coffee, I really looked forward to purchasing and tasting it.  Caramel-flavored coffee is one of my personal favorites - as long as it is not sickenly artificial, e.g. Ghirardelli Chocolate Caramel flavored coffee.  Based on my experience with regular Starbucks ground coffees, I was sure Starbucks would be able to produce an excellent flavored coffee.<br /><br />Unfortunately, I feel Starbucks missed the mark.  The Caramel Flavored Natural Infusions Ground Coffee has almost no caramel odor and has even less caramel taste.  Since the coffee I purchased was just being put onto the grocer's shelf, I know it was fresh and had not lost scent or flavor due to aging.  In an attempt to be sure my dissatisfaction was not due to drinking my coffee black with sweetner only, I added cream to the cup.  This did nothing to enhance or elevate the intensity of the caramel flavor.  Because the coffee does have a mild caramel tone, it actually has a bit of a burnt taste.<br /><br />I am less than pleased with Starbucks Natural Fusions Caramel Flavored coffee and have rated it as an average brew.  If you are interested in trying this coffee, visit the manufacturer's and put the word "fusions" in the search box.  You will be able to print two coupons for $1.50 off a bag of this coffee so that you can decide for yourself whether Starbucks has produced a brew that meets its usual quality standards.
+
+product/productId: B003GTR8KM
+review/userId: AG3YS7ARECO4Y
+review/profileName: brandonedgar
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1327363200
+review/summary: Strange Color, Smells Weird, Bad Aftertaste
+review/text: To give a bit of credit the side of the bag explains that the coffee is a dark roast flavored with burnt sugar, licorice root, orange peel, cinnamon and nutmeg - not quite the delicious buttery caramel that they picture on the front. I feel it's deceiving though - the coffee looks unusually dark, has a strange chemical smell [perhaps from the licorice, but I love licorice and this smells like a solvent] and a noticeably bad aftertaste. Even with extra cream. For the eight bucks I paid in-store I'd rather have bought some Folgers and a bag of Werthers caramels to mix in - would have been a better value.
+
+product/productId: B003GTR8KM
+review/userId: A1R9O1HTR781M
+review/profileName: paccbet79
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294876800
+review/summary: Yay for quality
+review/text: There is no Starbucks in my town, and this is the next best thing. It beats every other ground coffee on the shelf. Also, I save my empty bags so when I visit a town with a Starbucks, I can get a free cup of coffee! Rewarding responsibility is a great thing.
+
+product/productId: B003GTR8KM
+review/userId: A2ZS6GA2LQ540D
+review/profileName: atmMom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294876800
+review/summary: great coffee...great price
+review/text: I could not have asked for a better price on a great brand.  The flavor was new for us, and delicious as always!  I will purchase again!
+
+product/productId: B003GTR8KM
+review/userId: A16YHC2C1U5YIM
+review/profileName: Cheesasaurus Rex
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1291766400
+review/summary: i couldn't even have half a bag
+review/text: this coffee has been extremely disappointing for me, i can't finish it it's so bad.<br />i am a HUGE starbucks fan and pay their premium for coffee because it's good but this is unacceptable.<br />the coffee has a burnt flavor, and not as in pike place roast burnt- BURNT, and the caramel flavor which is almost non-existent is disgusting.<br />if you like starbucks with caramel, get pike place roast, the christmas blend, or something else comparable and add torani or hershey caramel syrup.
+
+product/productId: B003GTR8KM
+review/userId: A3FOGXS7SWWTZH
+review/profileName: Jomyja
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1285200000
+review/summary: Amazing Coffee
+review/text: I thoroughly enjoyed buying this coffee. I am a Starbucks coffee lover, and I had never seen this line before so I was curious. It was definitely a plus that I received the items before the initial shipped date! It was delivered fairly quickly as well! I would definitely buy this favor of coffee again, and the price was a steal!!!
+
+product/productId: B003GTR8KM
+review/userId: A3GUE3RUGPJ2U3
+review/profileName: Brian Loggains
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347062400
+review/summary: Wonderful Coffee Blend
+review/text: This came in phenomenal time.  I was shocked at how fast it arrived.  The coffee itself does taste like caramel, but it's not too sweet nor does it have that strange aftertaste that some flavored coffees can have.  I would use this seller again in a heartbeat and look forward to trying more of their coffee.
+
+product/productId: B003GTR8KM
+review/userId: AXELK3BGKRSP2
+review/profileName: Arcan OKKALI
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: Delicious aroma
+review/text: Delicious aroma and good quality. One of the best choices for coffee. Delivered very fast. I will buy again. Try also the vanilla aroma.
+
+product/productId: B003GTR8KM
+review/userId: AQR85WGYMH98T
+review/profileName: Ruby Dee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327363200
+review/summary: Delicious
+review/text: I love flavored teas and don't like flavored coffee, mainly because the flavoring is too strong or as in some like the Door County brand, taste like chemicals.  Yuck.  This coffee is perfect, coffee taste with just a little caramel.  It is a little pricey, at least for me.
+
+product/productId: B003GTR8KM
+review/userId: A1JG0AQ6AAL3SM
+review/profileName: CAQ
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1321920000
+review/summary: How can you beat Starbucks?
+review/text: Great tasting coffee.  Arrived on time in a nicely packaged box.  Enjoyed to the last grind was brewed.  Would recommend this to anyone who like a robust coffee.
+
+product/productId: B003GTR8KM
+review/userId: AMJDXLWY0V0QZ
+review/profileName: Roadie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320451200
+review/summary: Great taste!
+review/text: I read the bad reviews on this coffee and am glad that I didn't let them dissuade me from buying this product.  I like the Natural Fusions vanilla coffee by Starbucks and this one is just as good.  It's a pleasing coffee with subtle caramel undertones.  I'll buy it again in the future if it's available.
+
+product/productId: B003GTR8KM
+review/userId: A17C5OPW0AWIH2
+review/profileName: M. Davis "Techwomans"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1317254400
+review/summary: Horrible odor, Smells like no coffee I ever enjoyed.
+review/text: I love coffee, and have a terrible addiction to Starbucks! So, when I was in the coffee aisle looking for a nice flavor to try I saw the Starbucks Caramel Natural Fusions. I was so excited to set up my coffee maker so that all I had to do was hit the switch in the morning! There is nothing I love more than the smell of fresh coffee when a new package is opened but when I opened up this coffee I almost gagged. The smell was overwhelming, sort of like burnt dirt. It was extremely dark in color too, almost like soil. I still have yet to hit the brew button on the coffee maker tomorrow morn, but I figure I would give it a fair shot. After reading some of the reviews here tonight, I am already expecting to be tossing it down the drain.
+
+product/productId: B003GTR8KM
+review/userId: A22DY0QO4D2R3W
+review/profileName: Sarah Elena "Lyrical"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1312848000
+review/summary: Absolutely Disgusting!
+review/text: My office of 4 women tried this coffee. Every single one of us thought it was disgusting. Some of us checked to see if the beans had mold on them because it tasted SO bad.  And the SMELL! We didn't notice it when we were making the coffee but if you take a little sniff from the bag, it almost makes you want to vomit. A couple of us decided that it smelled like a filthy behind/tush.  I seriously can't believe that any business, let alone Starbucks, would sell this!!! FOR GOODNESS SAKES DON'T BUY THIS! It's HORRIBLE.
+

@@ -1,0 +1,1143 @@
+product/productId: B002C4A70A
+review/userId: A1UIN5MWKRMUTG
+review/profileName: A. Mock
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1249862400
+review/summary: Delicious
+review/text: I tasted it with a spoon and it tasted really good.  I did think it had more salt than other diced tomatoes (hence the 4 stars).  I made chili with it and the chili tasted great.
+
+product/productId: B002C4A70A
+review/userId: A2Q2GDB5XDYQV5
+review/profileName: From The Tree House
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1286409600
+review/summary: Not as described
+review/text: First order contained over half severely damaged cans, and the product was not tomatoes with basil. Amazon replaced the first shipment, and the second had three damaged cans. Once again the product I received is 50% water and tomatoes. No basil, as described.
+
+product/productId: B0035YLIZE
+review/userId: A1DFX52N2O6FG8
+review/profileName: Nija and Matt
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1270944000
+review/summary: Crackers, yes; but animals, eh?...
+review/text: My fiance and I received these from his mom.  Awesome present!  Good for snacking on the couch at home, or for taking along with you to school, work, etc.  They taste great, not too sweet, not too bland.  They are all natural.<br /><br />We have spent way too much time though, trying to figure out what animals these crackers are supposed to be! They are definitely not the animal crackers of our youth (1980's).  Perhaps barnyard animals.<br />There are 1, maybe 2 cats; 1 horse, something with three legs, and 1 that is either a tall goat or a short giraffe. no monkeys though.
+
+product/productId: B0035YLIZE
+review/userId: A3R7V5694II3O7
+review/profileName: L. dewolf
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1342656000
+review/summary: WAY OVER PRICED- COMPLETLY GYPED ONLY 5 DOLLARS AT THE STORES
+review/text: THESE ARE ONLY 5 DOLLARS A CONTAINER AT THE STORES- STUPID ME PAID 17 DOLLARS - BIG GYPE~~~! THEY ARE GOOD YET GO TO WALMART OR BJS AND SAVE YOUR MONEY HERE! DISGUSTED!
+
+product/productId: B001FA1H74
+review/userId: A1FSTL62QA7AQX
+review/profileName: Music Man "Musc Lover"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290816000
+review/summary: Great Peanuts
+review/text: I thought these peanuts were wonderful.  They are big peanuts with a great crunch.  Just the right amount of salt.  I bought these because the extra large Virginia peanuts I used to buy at Costco were discontinued.
+
+product/productId: B001FA1H74
+review/userId: ADXNP6QH1DCTC
+review/profileName: Mary K. Moos
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346889600
+review/summary: royal Oak Peanuts
+review/text: These are the world's best peanuts! If you live any where north of St. Louis you don't know how good peanuts can be. They are fresh, crunchy, and company-worthy.
+
+product/productId: B001FA1H74
+review/userId: A2Y4UJ2IVBL9EU
+review/profileName: Dianne C
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Love, love these peanuts!
+review/text: I have tried SO many types of peanuts and this one is hands-down the absolute best. Very large, fresh peanuts with just the right amount of salt.
+
+product/productId: B001FA1H74
+review/userId: A1NS7UG2EQ9EFN
+review/profileName: Debra Oertel "mickey fanatic"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338595200
+review/summary: crunchy
+review/text: I purchase these peanuts a while ago but they are excellent very crunchy.  I would definately purchase these peanuts again.
+
+product/productId: B001FA1H74
+review/userId: AWVYJLIVSOQLT
+review/profileName: Lite
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1335398400
+review/summary: not excellent anymore
+review/text: I was very disappointed. I have ordered this product before and it was excellent with very large crunchy peanuts. This time the peanuts were much smaller, mixed with few large peanuts. It is too bad they reduced their quality
+
+product/productId: B001FA1H74
+review/userId: A3WMU351DDVHE
+review/profileName: Big Dooley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331337600
+review/summary: GREAT PEANUTS!!!!!
+review/text: I love Peanuts and these are some of the best I have ever had!!!!  They are fresh tasting with a very satisfying Crunch and just the right amount of salt.
+
+product/productId: B001FA1H74
+review/userId: A3MPJUO2SA3TUM
+review/profileName: Joyce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: Christmas gifts
+review/text: These are the best you can buy. Take it from me, you won't be disappointed with the quality and the price of these peanuts.
+
+product/productId: B001FA1H74
+review/userId: A2M1JX96WSNXXK
+review/profileName: Shannon Hawkins "smythee"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322956800
+review/summary: Royal Oak Virginia Peanuts
+review/text: Both my husband and my father-in-law love these peanuts. You can taste the difference between these peanuts and the grocery store peanuts. Royal Oak peanuts are more crisp and the taste is less oily.
+
+product/productId: B004H3N2LU
+review/userId: A2LK3Y6Z0T2QHJ
+review/profileName: Autumn "crazy ny'er"
+review/helpfulness: 60/62
+review/score: 1.0
+review/time: 1294185600
+review/summary: Glorified Instant Coffee
+review/text: I picked up a box of Grove Square "single cup" coffee (medium roast) at Wal-Mart. I should have shaken the box and compared it to another brand and maybe I would have caught on before I left the store. At home when I took one of the cups out to put in my Keurig machine I shook the cup and was alarmed at the noise. Regular K-Cups don't make that much of a noise. I brewed one to test it and the coffee was just so-so.<br /><br />After the K-Cup cooled down, I took a knife and removed the foil top. There was nothing there. At all. Just an empty cup. In other K-Cups there is a filter and the coffee grinds are left in the in the filter. Since there was no filter, no coffee grinds left in the cup, and none in my cup of coffee, then the Grove Square "single cup" coffee is glorified instant coffee.<br /><br />I was not impressed. They are being returned to Wal-Mart.
+
+product/productId: B004H3N2LU
+review/userId: A2TDVPKRN29MNF
+review/profileName: CJ
+review/helpfulness: 15/15
+review/score: 2.0
+review/time: 1295481600
+review/summary: Not Great
+review/text: I purchased these K-cups on sale recently on Amazon.  Unfortunately there weren't any product reviews available yet, so I took a risk.  I am fairly certain these cups contain instant coffee.  I think that for a few reasons 1) if you shake these cups they have a distinctly different sound than K-cups of other types that I have.  It's as though the contents are dehydrated and take up significantly less space in the cup than the others; 2) The coffee comes out of the machine initially as dark sludge, then as almost clear water.  Obviously these extremes mix together in the mug; and 3) the flavor reminds me a lot of instant coffee.  Not undrinkable, but not something I would buy again, even if it were on sale.
+
+product/productId: B004H3N2LU
+review/userId: A1X4C22JAUK7FL
+review/profileName: buyer
+review/helpfulness: 19/21
+review/score: 1.0
+review/time: 1294963200
+review/summary: instant coffee
+review/text: This is instant coffee.  I wish it had been sold as such, and I wouldn't have purchased it.  I'm disappointed that Amazon would sell such a product without labeling it properly.  Very misleading.
+
+product/productId: B004H3N2LU
+review/userId: A27VTUAUZXW0VV
+review/profileName: jtga
+review/helpfulness: 7/7
+review/score: 1.0
+review/time: 1296086400
+review/summary: Lowest quality product ever purchased from Amazon
+review/text: We make @5 purchases a month from Amazon, and this is by far the lowest quality product we've ever purchased.  Unfortunately, there weren't any reviews posted the day we purchased.  I hope others won't make the same mistake we did.  We love Amazon, but the return policy on products like this is really disappointing.  I'm very disappointed that Amazon would even carry this.  As other reviews have said, this is, at best, instant coffee in a K-cup.  It sounds like an infant rattle when you pick it up.  Our first cup came out like water that was slightly discolored.
+
+product/productId: B004H3N2LU
+review/userId: A2VUSLI3LTA7I9
+review/profileName: M. J. Reed
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1295568000
+review/summary: Buyer Beware
+review/text: Be aware if you buy this that it is INSTANT COFFEE. I purchased this at WalMart because the price was so much better than regular K-cups. I brought it home and tried it - awful coffee when you are expecting a cup of fresh brewed coffee.  I contacted Grove Square Customer service to c/o what appears to be deception but got no response. I also contacted Keurig and they did reply saying they were aware of the product and that Keurig was in "talks" with Grove Square about this since Grove Square apparently is not authorized to sell this coffee as a Kcup coffee and the coffee was NOT recommended by Keurig.  I feel if you pay >100$$ for a brewer it isn't to brew instant coffee. I too, like one other reviewer, removed the top after "brewing" my cup of coffee and found absolutely nothing but coffee colored water.  What an absolute disappointment this is.
+
+product/productId: B004H3N2LU
+review/userId: A3T60XAQ0WUTB0
+review/profileName: astro128 "astro128"
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1299888000
+review/summary: Terrible Product
+review/text: Like many others have said, this is INSTANT coffee, not only that but it is terrible instant coffee. Don't Buy!
+
+product/productId: B004H3N2LU
+review/userId: A2KJHA97J1JOO9
+review/profileName: Andrew Chua
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1296864000
+review/summary: Worst coffee ever! No Filter
+review/text: I was surprised at how light each cup was, then had some trouble w/my Keurig even puncturing the bottom of the k-cup.  I opened one up and realized there wasn't any filter!  No wonder the instructions say to brew w/the smaller size cups only.  Everything brewed into my cup.  Now I wish I read the reviews before buying. and realize that it's instant coffee.  I feel so ripped off that I'm writing my 1st review to warn people NOT to buy this.  Terrible product, bad taste.  Grove Square should be ashamed of themselves!
+
+product/productId: B004H3N2LU
+review/userId: AEMA00Y4WE3F4
+review/profileName: jbaker
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1302220800
+review/summary: Worst K-Cup EVER!
+review/text: I did not realize this coffee was instant before I bought it. The cups were only 1/4 filled with grinds that you can shake like noise makers (versus the packed, quiet, REAL coffee k-cups). Above all however, the taste is flat, acidic, and bitter like most instant coffees are. I felt deceived. The box should have been more clear. WILL NOT buy again to save $3.
+
+product/productId: B004H3N2LU
+review/userId: AO8LWJ9DZUEEM
+review/profileName: very disappointed
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1301443200
+review/summary: Grove square single cup for keurig
+review/text: bought 4 large boxes (pack of 2) in all flavors. when we received them they were very light. Upon opening them there were no grounds, or paper filters.  They were competely empty.  When we brewed them, the coffee was first dark, then appeared to be clear.  This was a very disleading coffee.  We were expecting real coffee not instant.  When you read the label you think it is ground coffee not something else. It also left a sediment in the bottom of the cup.
+
+product/productId: B004H3N2LU
+review/userId: A2FXB425NB476G
+review/profileName: PRSAXE "PRSAXE"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1300320000
+review/summary: I feel deceived.
+review/text: Instant coffee in a K cup.  Not fair.  I feel deceived. Paid too much for poor coffee. Bad purchase.
+
+product/productId: B004H3N2LU
+review/userId: AFSJB6A5MOS64
+review/profileName: Steve Johnson
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1299888000
+review/summary: total crap
+review/text: The cups are about half full of coffee at best so that mostly all you get is brown water with a hint of coffee flavor.  I will drink it because I paid for it, but I would not offer it to a guest.
+
+product/productId: B004H3N2LU
+review/userId: A1IBQEMMRXCA9X
+review/profileName: J. Newton
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1296086400
+review/summary: Cheap k-cup, expensive instant coffee
+review/text: Not too thrilled with this product.  Definitely instant coffee, will drink the rest of them though, because while its not great, when done at the lowest water setting, with 1/2&1/2 its tolerable.  Will not buy again.
+
+product/productId: B004H3N2LU
+review/userId: A1E4Q5NL327DDH
+review/profileName: Debbie Stanley "debstanley"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343433600
+review/summary: My Ideal Coffee
+review/text: Review of Grove Square Medium Roast K-Cups:<br /><br />Yes, this is instant coffee. No, they don't make that abundantly clear. Here's why I like it anyway:<br /><br />1) I'm not a coffee aficionado, so subtleties in flavor are lost on me, and a brutally strong (I guess you coffee fans call that "robust"?) coffee is off-putting. I just want two simple, basic cups of caffeine, er, coffee every morning.<br /><br />2) On the same note, I don't care to pay a lot of money for my basic daily coffee. This product is priced tolerably enough.<br /><br />3) This instant coffee tastes far better than the kind that comes loose in a jar. That stuff is awful. Some reviews have said this is the same; I disagree.<br /><br />4) When my Keurig produces a "short cup" (doesn't use enough water in the brew cycle), it doesn't work to "re-brew" a k-cup of actual coffee grounds, but it works fine with this product. No wasted k-cups. I've also found that short-cupping happens far less often with this product. My hypothesis is that the brew process for this requires/creates less pressure in the cup than that of "real" coffee, so it's easier on the machine. Yes, the machine should be capable of performing as promised, but that's another review.<br /><br />Bottom line: This product is currently my ideal coffee.
+
+product/productId: B004H3N2LU
+review/userId: AXODC5GGVFSQQ
+review/profileName: patty
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1299801600
+review/summary: Grove Square Coffee
+review/text: I had no idea this was Instant Coffee.  So sorry I ordered so much, I will NEVER order it again. I thought it was strange that it didn't have the great coffee smell, it runs out real dark then clear. I drink black coffee but not this coffee, I have to add creamer/sugar and can barely get 1 cup down.  Wish I could get rid of all I have.
+
+product/productId: B004H3N2LU
+review/userId: ACHZ43T8AHI5D
+review/profileName: Sean Garnham "Sean"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1299715200
+review/summary: This is instant coffee
+review/text: I don't know why anyone would want to buy (and therefore why any company would make) Keurig K-Cups with instant coffee in them. Is there a market for people who prefer the flavor of instant coffee? It doesn't make things quicker. Coffee still brews in under a minute, just like the regular k-cups. I wish I had never bought these. I'm just trying to finish them off so I can get some REAL coffee.<br /><br />So in case anyone didn't catch it in the product description, this is INSTANT COFFEE. Don't make the mistake I did.
+
+product/productId: B004H3N2LU
+review/userId: A2638O5H528XFC
+review/profileName: big family
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1299628800
+review/summary: Sad excuse for K cups
+review/text: This is a sad excuse for coffee... I'm like the other reviewer that wondered why it's so light. So we cut it open to see, only a sprinkle of instant grounds on the bottom that disappear when you run it through the Keurig. Yes they're way cheaper but yuck, not worth it.
+
+product/productId: B004H3N2LU
+review/userId: A32YPVTQ7CTMM0
+review/profileName: Boomerang86
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1298851200
+review/summary: don't be fooled! you get what you pay for here
+review/text: Frankly I'm shocked to see such an inferior product offered for sale on Amazon! Like another reviewer here I spotted this brand in Wal-Mart. It's much cheaper than the usual K-cups, and there's a reason. Look at the packaging carefully; you won't find the official Keurig logo anywhere since this company doesn't use the patented K-cup design... in fact there's no filter in the K-cup at all, just INSTANT coffee. It tatses like instant coffee too. You might as well buy freeze dried granules, pour a spoon in your cup and run your brewer with no K-cup in the basket for hot water. Stick with official K-cup brands OR use a My K-cup with REAL coffee instead.
+
+product/productId: B004H3N2LU
+review/userId: A2TSP47R6VKHEF
+review/profileName: Jim Stevens
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1298764800
+review/summary: Not very good
+review/text: After I ordered it, I was amazed to see that it as not real ground coffee, but rather a half teaspoon or so of what appears to be freeze dried instant coffee
+
+product/productId: B004H3N2LU
+review/userId: A28Y3WP50HNF66
+review/profileName: Eilene I. Krasselt "wordlover"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1298332800
+review/summary: Poor
+review/text: I was extremely disappointed with this product.  I have bought many different kinds of K-Cups, but this is the first time I saw this kind. It wasn't your normal coffee grinds...it was like "instant coffee" and the taste is not very good. I would like to return what I have left and get my money back.  How can I do that?  Thank you for allowing me to express my concerns.
+
+product/productId: B004H3N2LU
+review/userId: A1V2K2X9I328ZF
+review/profileName: Ginny
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1298332800
+review/summary: Didn't know it was instant
+review/text: Glad to see that Amazon has added (Instant Coffee) to the description.  It was not in the description when we purchased! We purchased because we thought it was a great value and were looking to save some money. We should have known...you get what you pay for! Won't buy it again!
+
+product/productId: B004H3N2LU
+review/userId: A33PLZ7SD5MCG0
+review/profileName: Patty Kaye
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1344384000
+review/summary: Don't be fooled into believing this is like your average K-cup
+review/text: I decided to save a few dollars at the grocery store and try these off-brand K-cups.  The first thing I noticed was that the cup felt like it had a fourth of the amount of coffee in it as a regular K-cup.  The brewed coffee was very weak, and the flavor was poor.  It wasn't until my husband tried it and told me that it was obviously instant that I realized why it was so cheap.  I had thrown the box away, so I can't couldn't check it, but I definitely do not remember it saying anything about being instant.  If it does say it on the box, it isn't obvious.<br /><br />I feel the packaging is a bit deceptive.  It should clearly state that this is INSTANT coffee.  I don't plan on buying this product again.
+
+product/productId: B004H3N2LU
+review/userId: A3MJ1OH04JQNQF
+review/profileName: Js Banks
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343347200
+review/summary: Hey! This is instant, and costs too much for what it is.
+review/text: I picked this up right away when I noticed it was cheaper than anything else. I mostly load my own freshly ground stuff in that Kuerig cartridge or the Eco-cup. The K-cup coffee they sell in the stores sits there for weeks or months (check the date in the square on the bottom and always buy freshest) and it loses a lot of flavor.  I use the K-cup coffee for emergencies, until I get some fresh roasted beans.<br /><br />So, grading on the curve, this stuff is on par with some of the staler K-cups I've had. I came at it with an open mind, only noticing for sure it was instant when I took the cup out of the maker after brewing and noticed it was strangely light. I peeled back the top, and... Nothing! It took my slow brain a minute to figure it out: coffee crystals! As good as Starbucks instant, I think (faint praise).<br /><br />But they don't tell you it is instant. Shame on them for that.  I won't be buying this again.<br /><br />Update, September. Apologies... they DO tell you it's instant, if you are good at reading fine print. I have dropped my rating from 3 stars to 1 because the coffee is not really that good. In fact, I threw it away. Does not make sense economically, even if you like instant coffee.
+
+product/productId: B004H3N2LU
+review/userId: A2I0EAG2SEXHHI
+review/profileName: H. Buchanan "HLB"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1342915200
+review/summary: Absolutely Worthless
+review/text: I thought something was defective about these cups after trying several of them. They're very bad. There's no filter inside the K-Cup, just what looks to be instant coffee. I got a short stream of sludgy coffee followed by a longer stream of clear water. What a waste of money.
+
+product/productId: B004H3N2LU
+review/userId: A384L9VRIENFQX
+review/profileName: LA Tracks "&#34;Doc&#34;"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1341273600
+review/summary: ZERO-Star Coffee
+review/text: This is instant coffee hiding in a K-Cup package, plain and simple. If you enjoy a nice cup of hot water to start your day, you will love this. Zero flavor.
+
+product/productId: B004H3N2LU
+review/userId: A3F71UH88UHB06
+review/profileName: S. T. Iwamoto "Southbayscott"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1340668800
+review/summary: BUYER BEWARE!! INSTANT COFFEE= "INSTANT SLUDGE"!!
+review/text: I have been buying numerous K-Cup varieties for the past couple of years and never had a product as bad as this one. Not even close! I grew up with Folgers, Sanka, Nescafe, Hobo Coffee, etc. Ughh!! Grove Square has found a way to make a far worse product and it can be prepared in seconds!! It has a strong bitter motor oil flavor with a slight burned coffee undertone. I have never had a cup of coffee as bad as this one.
+
+product/productId: B004H3N2LU
+review/userId: AFN0UYOBCO6J3
+review/profileName: H. Kelly
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1340582400
+review/summary: DO NOT BUY
+review/text: This item is not worth any money. 1. The product recieved expired in March 2012 - 3 months ago. 2. I don't recall seeing in the description that this was instant coffee. 3. It took 10 days from the day ordered to arrive.<br />It is AWFUL - barely drinkable - which could be the expiration or the product. I have thrown out the remaining 35 k-cups. Spend the extra few bucks and get a medium worth drinking.<br />Honestly, it deserves ZERO stars, but I had to checkmark something.
+
+product/productId: B004H3N2LU
+review/userId: A14BC95Z0S20XG
+review/profileName: Danielle Sierra "Madre Sierra"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340236800
+review/summary: Good Stuff, Great Price!
+review/text: I started buying this coffee at the local Stop & Shop. When I saw it was an item at amazon's Subscribe & Save, it made it taste that much better.
+
+product/productId: B004H3N2LU
+review/userId: A3AW1QJKPAIIDD
+review/profileName: Bryan
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1336521600
+review/summary: Terrible
+review/text: I wished I had checked out reviews prior to purchasing........this is the worst coffee I have ever had.  It undoubtedly is instant.  Spend the extra $.10 per cup for real Keurig coffe cups.
+
+product/productId: B004H3N2LU
+review/userId: A35VVDGG47RIFD
+review/profileName: Ray Doyle
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333411200
+review/summary: Absolutely Awful
+review/text: What you get with this product is a cup of weak, poor-tasting junk. If you have any liking for real coffee, stay away from<br />this brand. Halfway through the brwing process you can see clear water running into the cup. Does not even deserve the one star I had to give it.
+
+product/productId: B004H3N2LU
+review/userId: A31PY8FV2X0U4S
+review/profileName: Nathan
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1329264000
+review/summary: It's not real coffee
+review/text: It is not marketed as instant coffee, but that is exactly what it is.  There is no "brewing" going on here.
+
+product/productId: B004H3N2LU
+review/userId: A18WV5IUNZUTJ
+review/profileName: Michael Y Lau
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326844800
+review/summary: Not Worth It
+review/text: Wish I read the reviews before buying this product. I agree that this is nothing more than instant coffee which is not what I was expecting. It should be clearly marked as such!
+
+product/productId: B004H3N2LU
+review/userId: A32J53MPMFS6Y4
+review/profileName: Anne Britton "annie12966"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1324512000
+review/summary: Disgusting rip off
+review/text: This "microground coffee" is glorified instant coffee and tastes worse than any instant coffee I have ever had. Real Kcups have coffee grounds left in them after brewing, these end up empty If I wanted instant coffee I could have gotten hundreds more cups for the price I paid for these. The company should hang their head in shame.. so deceiving. I am awaiting a response to the complaint I wrote to the manufacturer!
+
+product/productId: B004H3N2LU
+review/userId: A310VSMN2XEEUJ
+review/profileName: Lees7
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1323820800
+review/summary: This is the worst coffee ever!
+review/text: I found this coffee on sale at a drugstore for a very low price, and thought I would give it a try. Big mistake! It's INSTANT COFFEE. I took one sip, and poured the rest down the drain cause it tasted awful. I looked at the box, and it doesn't state anywhere that it's instant. It does however, say "soluble and microground Arabica & Robusta Coffee" in micro print. How many people study the label that thoroughly? Extremely deceptive packaging! If I could give it 0 stars, I would!<br /><br />I give Amazon five stars for making it clear that this coffee is instant.
+
+product/productId: B004H3N2LU
+review/userId: AIEM80THQUL1O
+review/profileName: K. Abernathy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1323216000
+review/summary: Bad Cofee
+review/text: This is not good coffee.  The taste is not good.  Don't bother, first time we have bought something we didn't like
+
+product/productId: B004H3N2LU
+review/userId: A3GVXHQNBH22I6
+review/profileName: Christina Cosgrove-rooks
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1321747200
+review/summary: I can't believe it was instant
+review/text: I really wish Amazon would actually have REAL coffee k-cups on subscribe and save.. I had NO idea these were instant and they are awful..
+
+product/productId: B004H3N2LU
+review/userId: AZEO2U5MYXLQN
+review/profileName: Rob
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1321315200
+review/summary: Absolute Ripoff
+review/text: The "K-cups" have a bit of instant coffe in them, no filter, no coffee grounds.  If you watch the stream of liquid coming out when these "brew" you'll notice a dark stream coming out for a second when the coffee powder dissolves and then the rest is water.  The coffee is terrible and the worst part is they cost as much as the real K-cups.<br /><br />Do no buy these, they are a complete waste.  Save yourself a ton of money and go buy some Folgers if you just want instant coffee.
+
+product/productId: B004H3N2LU
+review/userId: A2HSFKA6KHVIWK
+review/profileName: Mark D. Leney "Mark Leney"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1320019200
+review/summary: Vile enough for your unwanted dinner guests
+review/text: When I was in high school, we had to write theater criticism (don't ask). We were not permitted to write wholly negative reviews, there had be some "balance". This habit has stayed with me. In an effort to say  something positive thing about this product I can say the text on the box about a "coffee lovers charter" is so ridiculous it made me laugh, and, this coffee is so vile that it is helping me tackle my excessive coffee drinking.  This week I have approached the Keurig several times only to find that I can't face this coffee. This could also be used to drive people away from your house, unwanted guests, people that just come over to use the Keurig etc...<br /><br />Somehow I missed the fact that these contain instant coffee when I was buying them from Amazon.... maybe I was in a hurry, maybe it isn't indicated clearly enough, I don't know. I have drunk some instant coffee in my time and it's not all terrible, especially some of the European stuff. However, these Grove Square K-cups make the most terrible coffee. It is thin, watery, and smells nasty and tastes revolting. I may have to actually read the instructions for my Keurig to figure out how best to clean it in order to remove the residue of this stuff. Yuck.
+
+product/productId: B004H3N2LU
+review/userId: A3VQQW51G5NP2Z
+review/profileName: Seamsmith
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319587200
+review/summary: Worst product ever
+review/text: This is instant coffee!!  Overpriced and nasty!  I threw mine out after one cup.  They should not be selling this without making it clear that all you're getting is a teaspoon of bad instant coffee.
+
+product/productId: B004H3N2LU
+review/userId: A4SP7UVFUIGAZ
+review/profileName: Peter Brubaker
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319068800
+review/summary: THIS IS INSTANT COFFEE
+review/text: Seriously--this is unlike any K-Cup you have ever tried. There are no coffee grounds, and no filter in this K-cup. In very fine print on the box it states, "Soluble and Microground Arabica Coffee." In other words, instant. Tastes like it too. Even if I wanted this kind of low-quality coffee I certainly would NOT buy it in a K-Cup.
+
+product/productId: B004H3N2LU
+review/userId: AXTAA2D3478K7
+review/profileName: LackeyFamily
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1318896000
+review/summary: Disgusting
+review/text: Worst cup of coffee I've ever had, my local gas station brews better. Even for instant coffee, it tastes terrible!
+
+product/productId: B004H3N2LU
+review/userId: A19FJUO4I0OSCU
+review/profileName: T. Patocka
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1317945600
+review/summary: I tried so hard to like this stuff but...
+review/text: I just couldn't bring myself to drink another cup.  I picked up an 18 count box of Grove Square medium roast at my local Wal-Mart for around $7.98.  I should have paid more attention to the instant coffee notes on the box and taken that as a warning.  They really sold me on the k-cup for the dollar ratio and I was a sucker for it.  I like instant coffee, in fact, I am one of the few people who has actually written a review for Nescaf&eacute; Cl&aacute;sico, an instant coffee of which I have been a fan for many years but this...coffee, I guess you can call it, is awful.  I try to approach each different k-cup with an open mind and open palate but maybe I was just spoiled from all of the french, espresso roast and Nantucket blend that I have been consuming over the last few months but seriously, this coffee would scare a new Keurig customer away from our machines (no, I don't work for Keurig, but our brewer is loved in our home more than our cat at times).  The coffee has a flat, watery taste to it with almost no roast taste to it, even though it is supposedly "medium roast", but instead leaves a lingering bitter taste on the back end, kinda like that last swallow of cold coffee that has been sitting around for an hour or so.  I would compare the flavor of this instant k-cup to that of Caf&eacute; Oro brand instant coffee.  I might drink this if I have no other k-cups around the house but I may even, God forgive me for saying this, add a flavored creamer to it just to get my money's worth out of it.  That or I may just return it.  This is a sad day for coffee lovers and k-cup fans everywhere.
+
+product/productId: B004H3N2LU
+review/userId: A15DQX10DS95EZ
+review/profileName: Lloy B. Stevens
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1316995200
+review/summary: Willl not buy again
+review/text: This coffee was nothing more than instant coffee that would not dissolve and left a deposit on the bottom of the cup. I do not recommend this product.
+
+product/productId: B004H3N2LU
+review/userId: A3LX9N71CZEP0J
+review/profileName: Karla M Rush
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1315872000
+review/summary: Not What It Appears
+review/text: This product is like the old Sanka instant.  Beware if you are accustomed to quality K-Cups.  I am trashing my box after using only two cups.
+
+product/productId: B004H3N2LU
+review/userId: A1HP3J0WM0YX8O
+review/profileName: Mag
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1315353600
+review/summary: This stuff is terrible!
+review/text: The reviewers are correct, this stuff is terrible.  The cups are so light, that when it was delivered and I picked up the boxes, I thought that I had ordered the wrong product for my machine.  It's just bad and not worth the savings of buying on Amazon.
+
+product/productId: B004H3N2LU
+review/userId: A1O06W3OY0J9MC
+review/profileName: Mark
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1311638400
+review/summary: Don't waste your money!
+review/text: I purchased the Grove Square K-Cups (Instant Coffee) because of the low price. My expectations were not high, however, I certainly did not count on nearly a third of the K-cups (11 out of 36) to be COMPLETELY EMPTY.  There was no coffee in them at all!
+
+product/productId: B004H3N2LU
+review/userId: A31V303E0E0QAW
+review/profileName: Jessica
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1311206400
+review/summary: Horrible
+review/text: Not real K-cups. They are horrible and leave "coffee grounds" in your coffee. Its a shame these are the only subscribe and save Kcups, I will now be looking at ordering my kcups elsewhere.
+
+product/productId: B004H3N2LU
+review/userId: A18F6EPN8MVV3Q
+review/profileName: Dr. Mike
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1309910400
+review/summary: Not a fan of this product
+review/text: My recommendation is to stick with the k-cups that are NOT instant coffee.  For a few more bucks you can get REAL coffee k-cups and flavoured ones as well.  I won't be buying this product again.
+
+product/productId: B004H3N2LU
+review/userId: A1PVAXYPQUUA52
+review/profileName: Carol
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1308700800
+review/summary: Don't buy this coffee unless you want flavored water!
+review/text: We are completely disappointed with this coffee.  Wish we would have read the reviews before ordering.  Practically NO coffee in the k-cups; approx. 1/4th filled.  In two seconds, it turns to water flowing into cup.  We couldn't believe it.  Going back to Donut Shop coffee; theirs is totally full.
+
+product/productId: B004H3N2LU
+review/userId: AVV5C2PSTYEOR
+review/profileName: S. Leeson "Cruiser"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1307232000
+review/summary: Don't bother, put your favorite "instant" in your cup instead
+review/text: Bought some Grove Square Medium Roast.  Got it home, and when I opened it I found out it was "Instant" freeze dried in a K-Cup.  K-Cups feature real coffee grounds, the idea is to make it fresh brewed.  This is an insult on how some run-of-the-mill company can maximize profits.  It's much cheaper to buy your favorite "instant" and run the Keurig without a cup for the hot water only, instead of buying these pre-packaged instant cups. I won't be taken again, that's for sure! I'm sticking to Name Brands that feature real coffee!
+
+product/productId: B004H3N2LU
+review/userId: A2RQGP0POKJ3PQ
+review/profileName: Paranoid Android
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1306022400
+review/summary: yuck!!!!
+review/text: I picked this up at Walmart while waiting for my Timothy's Coffee to be mailed from Amazon.  I didn't realize it was instant coffee, but I should've known something was wrong when I took one out of the box & the k-cup felt practically empty.  It's overpriced instant coffee & nasty tasting at that.  Save your money!!!  Every time I think about how it tastes, I get a little queezy.  You get real coffee taste & more for your money by buying Coffee People or Timothy's.
+
+product/productId: B004H3N2LU
+review/userId: A1NZ6PQYZJRS35
+review/profileName: TBBL "TBBL"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1304208000
+review/summary: Worst K Cups EVER!
+review/text: Dont waste your money on this junk. Instant coffee. Very weak-cup has minute traces of coffee (instant). Mostly water in your cup. Extremely disappointed.
+
+product/productId: B004H3N2LU
+review/userId: A2PPC60THVKFBF
+review/profileName: Susan crowley "crafty triplet mom"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1304121600
+review/summary: Awful
+review/text: Awful!  not coffee this is instant coffee and bad instant coffee at that.  Do not be tempted by the price-not worth a penny.
+
+product/productId: B004H3N2LU
+review/userId: AMCSAITQYOAJL
+review/profileName: Lis
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1298764800
+review/summary: Mud in the bottom.  (ok, they are really grounds)
+review/text: Hoped that these cheaper k-cups would be tasty.  Not so much.  Fortunately, I use a glass measuring cup instead of a coffee mug.  I was able to see the sludge and not pour it into my travel mug.  I am a light weight coffee drinker (aka a lot of coffee creamer involved), so I try to use a k-cup twice.  There was no way I could get "two" servings out of one of these k-cups.  The second attempt turned into water.
+
+product/productId: B004H3N2LU
+review/userId: A2F8CX07QS3U5K
+review/profileName: alim1166
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1298332800
+review/summary: Grove Square K Cups
+review/text: The K cups were filled maybe 1/10 of the way, the coffee tastes watery. They were terrible. Very disappointed with this product.
+
+product/productId: B004H3N2LU
+review/userId: A10E198RVH5NLM
+review/profileName: Fred
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1298332800
+review/summary: Short Cups
+review/text: After receiving coffee, I tried a cup through my Kurig coffee maker, and saw that the cups themselves were ony half full.  The whole shipment was the same way.  Very weak cup oh coffee.  I need to know how to get this corrected or reimbursed for this obvious misfilling of the containers.
+
+product/productId: B004H3N2LU
+review/userId: AYZPOTXF3UE62
+review/profileName: K. Kasperitis
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1298160000
+review/summary: Real Keurig?
+review/text: I enjoy a variety of Keurig coffees.  This one is different!  The K-cup doesn't work the same.  The coffee comes out in the first ounce or two and then the rest is just water.  The coffee flavor is okay but it has the consistency of instant coffee.
+
+product/productId: B004H3N2LU
+review/userId: A2JM0IHFFF9881
+review/profileName: Michelle Barrett
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1298073600
+review/summary: This is instant coffee
+review/text: I was about to rant about deceptive trade practices, but I see the product description now says "instant coffee", It either it did not say so when I ordered it, or I totally missed it.  The box says "soluble & microground", not instant.  VERY disappointed!
+
+product/productId: B004H3N2LU
+review/userId: A17WMSZJA5DN2D
+review/profileName: Denise M. D. Mcgregor
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1297987200
+review/summary: Grove Square Coffee Review
+review/text: This was the worst coffee product that I have ever purchased.  I knew something was wrong when I opened the product and realized how little the amount of coffee in the cup was.  This coffee could not even produce a drinkable 8 ounce cup of cofee. It tasted like hot water.  Steer clear of this product.
+
+product/productId: B004H3N2LU
+review/userId: A3H3FNG607FRGZ
+review/profileName: Mary J. Frisone
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1297814400
+review/summary: Instant coffee not ground
+review/text: Very disappointed in this coffee. I would not have bought it if they stated it was Instant coffee. Cheaper to go out and buy a jar of instant.
+
+product/productId: B004H3N2LU
+review/userId: A2YKU3DY0U2C3H
+review/profileName: Karen Troy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1297814400
+review/summary: Instant coffee!
+review/text: We bought this because it was on sale and figured we'd give it a try. It was awful, practically undrinkable. When we were throwing it away, I opened one of the K-cups - it was instant coffee! We were mislead as to what it was - a kcup, not instant coffee.
+
+product/productId: B004H3N2LU
+review/userId: A3PGOAHNKLS0WY
+review/profileName: Hope Laso
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1297209600
+review/summary: HORRIBLE!  This is instant coffee
+review/text: I have been buying K-cup coffee from Amazon for 2 years and have never been so unhappy with a product I would need to write feedback.  This is instant coffee and the taste is like water.  For anyone familiar with k_cups after the cup is brewed there are grinds still in the pod, with this brand the K-cup is empty after brewing.  Beware that you can not return so I am stuck with 4 boxes I would never drink.
+
+product/productId: B004H3N2LU
+review/userId: A3LFVOLUWH98W2
+review/profileName: John Fielek "Johnny"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296777600
+review/summary: Terrible Coffee
+review/text: Grove Square is probably one of the most miserable cups of coffee you'll ever encounter. This is true of any roast they sell.  If you enjoy coffee, don't even think of trying this - ( even in a pinch).  Make yourself a cup of tea instead, for any other beverage is most likely better than this glorified instant coffee. To be fair they do add a pinch of micro ground coffee.
+
+product/productId: B004H3N2LU
+review/userId: A25650MAG566ON
+review/profileName: mlren
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296777600
+review/summary: GROSS instant coffee
+review/text: Grove Square coffee tastes like instant coffee. Yuck! Why would I have a Keurig system and drink instant coffee. Gross!! Buyer Beware
+
+product/productId: B004H3N2LU
+review/userId: A39PNZ27Q7QXB3
+review/profileName: Hfzeus "hfzeus"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296604800
+review/summary: Overpriced instant coffee
+review/text: When I saw that the net weight of the entire box was about one ounce, I should have sent it back.  Instead, I watched mostly clear water pour into my cup and was rewarded with instant coffee.<br /><br />Amazon should be ashamed to sell this swill as well as labeling it coffee instead of instant coffee.
+
+product/productId: B004H3N2LU
+review/userId: A31NH7Z22U7OI8
+review/profileName: Missy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296432000
+review/summary: Poor Quality
+review/text: I ordered two boxes and the K-Cups are less than half filled with coffee, Sounds more like little maracas. Also leaves grounds at the bottom of cup. Apparently there is not a return policy for these K-Cups. Very bummed out.
+
+product/productId: B004H3N2LU
+review/userId: A2V1YGIB36E0TB
+review/profileName: Judith Jones
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296432000
+review/summary: BEWARE!!! This is instant coffee!...
+review/text: I should have known by the price that this was not the same "ground" coffee that I'd been buying for a year...opening the box, right away I noticed the weight/feel was different...when I brewed the first cup...there was an "empty" K-cup left...no grounds...really dissapointed...this should not even be sold in the same category as a K-cup...this is flagrantly deceiving, I think...could buy a jar of instant granuals much cheaper if that's what I wanted...
+
+product/productId: B004H3N2LU
+review/userId: A2QVP2TX7E5VNO
+review/profileName: Daniel Carlquist
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296345600
+review/summary: knock-off
+review/text: This is a Knock-off of k-cups.  Never thought amazon would sell a knock-off product..  Instant coffee in a k-cup holder.
+
+product/productId: B004H3N2LU
+review/userId: A8YQ5LP60TXP
+review/profileName: Motor City Bluesman
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296259200
+review/summary: Won't buy again
+review/text: I'm not a coffee snob. I just like a good cuppa joe in the morning, something medium roast, smooth, with good flavor. No blueberry this or vanilla that. My usual brew is either Timothys Italian Blend or Kona Blend and Green Mountain Nantucket Blend. I saw this Grove Square coffee at a local grocery so I thought I would pick up a box to try. I didn't realize that it is just instant coffee packaged in a K-cup. It starts out brewing very thick for the first few seconds and then lightens up to plain hot water. The K-cup comes out empty when you remove it from the brewer. I thought the taste was lousy and there was a slightly gritty sludge at the bottom of the cup. I took the box back to the store and suggested they not stock it.<br /><br />The front of the box does state that it is "Naturally Roasted Soluble and Microground" coffee beans. It also states that in the descriptions here at Amazon at least on the ones that I looked at. If you like instant coffee, you would do better with Starbucks Via than this stuff.
+
+product/productId: B004H3N2LU
+review/userId: A2AQ6KGDUC1QQP
+review/profileName: ChloeCabana
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296259200
+review/summary: TERRIBLE Instant coffee- not brewed, instant.
+review/text: This is just instant coffee in a kcup, it is not brewed coffee like the rest of the kcups.<br />The taste of it is terrible.<br />Do not buy this "coffee"!!!
+
+product/productId: B004H3N2LU
+review/userId: AQ3CTJ1HK430P
+review/profileName: NotHappy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296172800
+review/summary: Instant, and it doesn't really work in our Keurig machine
+review/text: Was extremely disappointed to learn after purchasing and attempting to try this product that it is instant coffee in a Keurig cup.  Actually, the term on the box is "soluable" coffee.  At any rate, in our machine (Model B40), the instant coffee crystals clog up the hole that is punctured in the bottom of the cup, resulting in only about 2 oz. of liquid (I won't say it's exactly coffee) being dispensed.  Going to ask Amazon for a refund.
+
+product/productId: B004H3N2LU
+review/userId: A3T6VDQIEAZJ43
+review/profileName: D. Tredennick
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296172800
+review/summary: This is INSTANT COFFEE
+review/text: Beware - this is instant coffee - it is NOT a bargain. Why spend the money on a k-cup for this??
+
+product/productId: B004H3N2LU
+review/userId: A9E4M8BOZA0GW
+review/profileName: gambowler
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296172800
+review/summary: It's instant coffee
+review/text: I wish I would have read these reviews before ordering.  There is a reason the price is so low.<br />This is instant coffee and it tastes like instant coffee.  You do not need a Keurig brewer to make it-just add it to hot water.<br />I am very disappointed, and will pay more attention to reviews in the future! I have re read every description and there is no indication that it's instant coffee.<br />I don't get it, what's the point if putting it in a K cup?
+
+product/productId: B004H3N2LU
+review/userId: A1M2G8QEP7N6RT
+review/profileName: The Toxster
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296172800
+review/summary: Not *real* K-cups
+review/text: You wil notice if you look carefully at the box that nowhere does it actually say K-cups. That word is a trademark and is only  used on products that are approved by Keurig. They should not be listed as such in the Amazon description--it is false advertising that is no different that calling a generic teenage girl doll a Barbie. The product says "For use by owners of Keurig� cofffee makers." That is a big red flag. There are also a number of these off-brand fakers at grocery stores. Avoid them.
+
+product/productId: B004H3N2LU
+review/userId: A1QN1DP754GQ4G
+review/profileName: cfizz
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296086400
+review/summary: AWFUL!
+review/text: Tried to give this a 0 star rating - but it wouldn't let me!  The plastic is so flimsy, the machine is unable to poke a hole in the bottom of the cup.  It took 3 different k-cups before I could get it to brew.  When it finally did make a cup - a dark syrupy looking liquid came out first, then just water.  It was undrinkable.<br />Coffee from a vending machine was better than this.  Thankfully, Amazon refunded the cost to me.  I love Amazon - just hate this coffee!<a href="http://www.amazon.com/gp/product/B004H3QBOA">Grove Square Coffee, Medium Roast, 24-Count K-Cups for Keurig Brewers (Pack of 2)</a>
+
+product/productId: B004H3N2LU
+review/userId: A1V16NBTNC34QM
+review/profileName: C. Howland
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1295913600
+review/summary: Don't Buy This- RIPOFF!
+review/text: This is just instant coffee put in a k-cup. We made the mistake of buying this because it is SLIGHTLY cheaper. How a company can be this sneaky is absurd! They are much lighter in weight and upon brewing, you will see that all the "coffee" comes out in the beginning and then it runs clear for the rest of the perk. If you open up the k-cups after a brew, you will find that the grove square is empty while a regular k-cup has grounds inside. Just do yourself a favor and DON'T BUY THIS!!! This company should be ashamed of itself!!!!! Horrible business ethics!
+
+product/productId: B004H3N2LU
+review/userId: A2Q5QW3C8372I6
+review/profileName: Doreaux
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1318636800
+review/summary: Great coffee if you know your drinking instant
+review/text: I believe this is instant coffee.  When your coffee is done brewing the K-cup is empty. There are no coffee grounds as in other brands.  It didn't taste as good as regular coffee but if you think of it as instant coffee (as I think it is) then it's not bad.
+
+product/productId: B004H3N2LU
+review/userId: AS1YS2N0MKQUV
+review/profileName: R M M
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1298332800
+review/summary: Disappointed....
+review/text: I know I ordered medium roast;  but for me, the coffee was too bland. I  still use it (cause it is such a waste) but on espresso setting. It tastes great on that setting. And there were two containers that didnt have any granules in them (they were empty)....Plus, the one thing I really don't like is when I ordered (I did it on subscribe and save) the the price was really very good. But today, I checked the price (it's still on my subscription) and the price was jacked up that its kinda senseless to even order it on subscribe and save. I'm cancelling the subscription just like the gloria Jean hazelnut I had before....cause the price that they entice you with to go into subsctribe and save after the first order....prices go way up!!!! Not good....
+
+product/productId: B004H3N2LU
+review/userId: A3HMTALLECOWXO
+review/profileName: Dan
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1317772800
+review/summary: Yes it is Good!
+review/text: Pleasantly surprised by the quality. A nice smooth, full flavor. Very enjoyable coffee to have in hand either in the morning or at night!
+
+product/productId: B004H3N2LU
+review/userId: A2CW017M0GZXHO
+review/profileName: Nicole Leiren
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1297036800
+review/summary: Not as good as I had hoped
+review/text: While the taste of the coffee itself is acceptable for the most part, several of the cups did not work properly and I was unable to get them to brew.  I also found it interesting that on the ones that DID work...when the water went through it in the brewer, initially the stream of coffee was very, very dark and then it turned to water.  Made it seem like there was something similiar to instant coffee in there...<br /><br />Anyway, while it seemed a good price initially, I won't be purchasing this brand again.
+
+product/productId: B004H3N2LU
+review/userId: AEQOB7GJM0IDE
+review/profileName: Granola Eater
+review/helpfulness: 3/6
+review/score: 5.0
+review/time: 1294531200
+review/summary: Great Instant Coffee
+review/text: I actually liked this product.  Maybe because I drink a fair about of instant coffee.  Good price...Great Flavor!!
+
+product/productId: B004H3N2LU
+review/userId: A3TONWEN4IVC1C
+review/profileName: Ronda
+review/helpfulness: 1/4
+review/score: 4.0
+review/time: 1298505600
+review/summary: It's Instant??
+review/text: This coffee does not taste like instant at all... We tried the Light Roast, too weak. The Medium Roast it much fuller tasting. I just ordered the Dark to try it out! Great price as well! My husband is a french press coffee drinker and he likes them!<br />If you love coffee try the Medium or Dark Roast! The price is unbeatable!
+
+product/productId: B004H3N2LU
+review/userId: A86A6W0DV3QBV
+review/profileName: D. Koneck "airkoneck"
+review/helpfulness: 0/3
+review/score: 4.0
+review/time: 1300665600
+review/summary: Good Coffee, Solid K-Cup Recipe
+review/text: It's a good solid blend of coffee.  It's not the best stuff in the world but it is good and solid.  For the price I would definitely buy again.
+
+product/productId: B004H3N2LU
+review/userId: A2ZTDCMFK8U8X0
+review/profileName: zigley
+review/helpfulness: 1/5
+review/score: 5.0
+review/time: 1298592000
+review/summary: Love it!
+review/text: When you shake the cup, it is light and sounds instant, but who cares?  The taste is fantastic and it's one of my favorites that I keep on hand all of the time.
+
+product/productId: B000L8CIYC
+review/userId: AJBRUAV6FUXBM
+review/profileName: The_Fire_Of_December
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297900800
+review/summary: Good Stuff
+review/text: I just love this cereal and eat it most mornings. Keep in mind it's more of a porridge (you can add more water to thin it down if desired). It isn't overly salty, so if you eat a lot of salt, it may seem bland. For me, the sodium is well balanced with the other ingredients.
+
+product/productId: B000L8CIYC
+review/userId: A2P3FYGUGUV09O
+review/profileName: crazybrit "lifeisajoy"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1165449600
+review/summary: Good, but I personally needed to add a little salt.
+review/text: On its own it's thick and very strong. Likely I'll be adding this to soup or rice.
+
+product/productId: B000L8CIYC
+review/userId: AKJA3W51GLHXZ
+review/profileName: C. A. Parker
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350864000
+review/summary: Great product, ridiculous price
+review/text: I love this cereal, super easy to make (just add boiling water) and has all kinds of yummy/healthy ingredients in it. I am giving it three stars because the price is silly for what you are getting. Save your money and buy it in the Asian market for about 1/4 the price.
+
+product/productId: B005RGOSRS
+review/userId: A2B6RRW1XS7X6R
+review/profileName: Denise McMahon "gerkeeper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330992000
+review/summary: Very Nice and Pretty too!
+review/text: While the large chunks gave my mill a little bit of hard time, the extra effort was worth it.  The flavor is superior and the slight bluish color is lovely.
+
+product/productId: B00126AOA2
+review/userId: A1VJRB2FDB6BNU
+review/profileName: Gary J. Warner
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1245024000
+review/summary: frog leg fan
+review/text: I am a intermediate school teacher.  Our class dissected grass frogs.  Afterwards, I 'treated' them to fried frog legs!  The order was delivered on time, packaged well, and the kids...after some hesitation...LOVED THEM!!!!
+
+product/productId: B00126AOA2
+review/userId: AJ6O4K0WERG92
+review/profileName: Terrence Grimes
+review/helpfulness: 11/15
+review/score: 1.0
+review/time: 1275696000
+review/summary: Overpriced!
+review/text: Greetings:<br /><br />I blew off your first request for a review....however, will respond to your second request & trust that you will never print it....am not interested in casting any bad light on the vendor nor do I want any retaliation from same....with that said, suffice it to merely say that I was most disappointed in what I received for what I paid....the actual weight of the frog legs was @ 3 1/2 #s & they were small (I went to Wal-Mart & bought a diet scale to weigh them)....my total cost was @ $65.00 & divided by the #'s was costing me @ $18.57 a pound....imagine my surprise when I discovered the next week that I could buy JUMBO frog legs for @ $3.99 a pound locally....in fact, just purchased 10 #s yesterday for @ $40.00....want to see the receipt?  I'll send it to you....<br /><br />Bottom line, it has opened my eyes to NOT think that ordering anything online is going to be cheaper than buying locally....from here on, will always exhaust all local vendors for anything I want before resorting to online....that's a reversal from the way I used to shop....suffice it to say, I will NEVER order frog legs from you folks again, & short of the great deal you offer on Colman's Mustard, will check locally on everything from here on....thanks for the lesson learned!  Have a Nice day....tfg
+
+product/productId: B00126AOA2
+review/userId: ACLTSK9ICS3LI
+review/profileName: Don Wallen
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343433600
+review/summary: Very good wild game treat
+review/text: I have not had my own wild caught legs for years.These do not compare to those gems.I have purchased these a few times and will continue to,they are a good treat.
+
+product/productId: B00126AOA2
+review/userId: A1ZTYUAOMI1CON
+review/profileName: CoolHand
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1329350400
+review/summary: redundancy
+review/text: Can't we just say 48 frog legs instead of "24 pair"?  Do the left and right legs taste differently?  I was a connoisseur of frog legs for several years until one fateful day at an authentic Chinese restaurant.  I was delighted to see a placard for frogs' legs on the buffet sneeze shield until I discovered that the legs were prepared attached at the crotch.  Being a fan of the dish, I placed several on my plate and returned to my table.  I immediately used my knife to separate the legs and attempted to enjoy my entree.  The legs were prepared exquisitely; however, I could not enjoy them as I kept imagining going down on an amphibian.  Since that day in 1999, I have forsaken all exotic foods of the oriental variety.  This includes:<br /><br />1. frogs-legs attached at the crotch<br />2. fish served with head and eyeballs displayed<br />3. whole baby octopi<br />4. anything with tentacles<br />5. shrimp with heads<br />6. deviled eggs<br />7. jello
+
+product/productId: B001FB6ASY
+review/userId: A1W31JOBFPCJYI
+review/profileName: Frena Gray-Davidson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332547200
+review/summary: The Best
+review/text: This hot sauce combines the heat you would expect of a good hot sauce with a fruitiness that is the perfect compliment. Just the right amount of sweetness, just a little. Perfect for seafood.
+
+product/productId: B001FB6ASY
+review/userId: A1EBH7XDPJJILL
+review/profileName: Grant P. Nelson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223856000
+review/summary: best  I have ever had
+review/text: I find this NOH goes good on all meats, not over powering in anyway. I go to no end to find it in the stores. I have been using it now for 8 years and buy nothing else.
+
+product/productId: B004T3AM02
+review/userId: A2500CE9ZNK413
+review/profileName: Joyce York
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327276800
+review/summary: Great Alternative
+review/text: I purchased the Grapeseed Oil after reading some articles in a health food site and decided to try it as an alternative to other oils.  Very satisfied with the flavor and texture...I have used it for many things, baking, cooking and on salads.
+
+product/productId: B0014APFB4
+review/userId: A1QDSJZQWJZOL1
+review/profileName: T. Cox
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1324166400
+review/summary: Good stuff
+review/text: I'm surprised how much it tastes like coffee. To be completely accurate, it tastes like a watered down coffee (like the kind you get at hotels) with hazelnut flavor -- and a *very slight* earthy undertone. If someone gave me a sip and didn't tell me what it was, I'd think it were coffee, let's put it that way.<br /><br />There's not all that much root per teabag though, and since I like strong coffee I only use 6 oz of water per bag and steep it covered for 15 mins. Then with some cream and sugar it's quite good.<br /><br />As for the liver tonic claim, well dandelion stimulates bile flow and supposedly helps clear out some stuff gunking up the liver. I don't know about that yet, but so far I haven't noticed any ill effects from drinking this. I feel fine, if not outright good after drinking a cup, but that's as far as I can confirm the effects.<br /><br />And with even decaf coffee containing 5-15 mg caffeine per serving, this stuff being completely caffeine free is a blessing for those of us who go bananas and light public property on fire when we get the slightest bit of caffeine. Anyone who needs a coffee substitute, do give this a try.
+
+product/productId: B0014APFB4
+review/userId: A3E41R118HJM67
+review/profileName: Christopher C
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1322265600
+review/summary: Really Gross
+review/text: I've read lots of other reviews deeming this tea as "coffee tasting" or with "roasted flavors," but to be very truthful, it tastes just the way I could imagine second hand smoke would. It's very very strong, requires 15 minutes to steep, and is not for the faint hearted. I've heard wonderful reviews related to weight loss regarding this product, but I was not able to tolerate the taste long enough to actually see any weight loss benefits. Good luck to those who care to brave this "roasted" flavor.
+
+product/productId: B0014APFB4
+review/userId: ASX0HBQ5OWAO4
+review/profileName: Donna "DeeLee"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1274313600
+review/summary: Great Tea
+review/text: I have been taking this tea twice per day and I am enjoying the way I feel
+
+product/productId: B0014APFB4
+review/userId: A2B1Z7VCEMXLBQ
+review/profileName: James Or Kathleen Ramsett "institches"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1338163200
+review/summary: Part of Dr. Oz's Tea Diet
+review/text: This is part of Dr. Oz's Tea Diet. Works like a charm. I have lost inches already and I have been on it for 4 days.
+
+product/productId: B0014APFB4
+review/userId: A3TZLD0Z36WR6L
+review/profileName: nameless
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1337558400
+review/summary: NASTY
+review/text: This was the worst tasting tea, actually the worst tasting anything, that I have ever consumed. I took one sip and could not bring myself to finish the cup. It tasted like dirt, which makes sense since it is a root. The rest of the tea bags are going in the trash.
+
+product/productId: B0014APFB4
+review/userId: A2JSH6MZ9BOVJ2
+review/profileName: Joshua Lutz
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333584000
+review/summary: Apparently good for you, TASTES LIKE BITTER DIRT
+review/text: Hands down, by far the absolute worst tasting tea I have ever had.... and I have ALLOT! I am an avid tea drinker and I just can't get it down. The benefits are supposed to be amazing so I'll keep it around to water down and sugar up but wow it's bad. So strong too, tastes like dirt (*that's been pissed on in the woods).
+
+product/productId: B0014APFB4
+review/userId: A214RJ0BMHRUAK
+review/profileName: thamnosma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332720000
+review/summary: My go-to coffee subsitute
+review/text: Dandelion root is reported to aid in reducing high blood pressure, which is why I drink it.  I've pretty much given up coffee drinking and this is a tasty substitute, though one must acquire a taste for it.  At home I use bulk roasted root but these tea bags are fantastic during travel.
+
+product/productId: B0014APFB4
+review/userId: A1ZK5P0EOE727F
+review/profileName: Denise M. Everett "writergirl"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1304467200
+review/summary: This is great tea.
+review/text: I really like this tea, I started drinking it at the suggestion of a friend.<br />It helps to sooth an upset stomache. I will be buying it again in the future.
+
+product/productId: B0014APFB4
+review/userId: AJJJQYQJ4MIVB
+review/profileName: Flo Sells
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296000000
+review/summary: Cup of dandelion tea a day, keeps the doctor away!
+review/text: I love this brand of Dandelion Root tea.  The tea is so good for your health and keeps you regular.  Transaction went smooth like always.  So glad to hear Amazon may soon have home delivery of groceries to my door.  I have some disabilities that require someone to shop for me but I do a lot of it on Amazon.com
+
+product/productId: B0014APFB4
+review/userId: A12JKE0CYLRUCM
+review/profileName: BookSmartie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293321600
+review/summary: Love it!!
+review/text: I love this tea. And it makes you feel very healthy, which is so needed during the Christmas and New Year season.. I haven't used it in one week, and I can soooo feel my body needing a good detox.  I recommend for anyone who has stomach issues, over indulges, and wants to feel generally better.
+
+product/productId: B0014APFB4
+review/userId: A3RSG2ULMEW2TS
+review/profileName: IvyGirl316 "IvyGirl316"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1226880000
+review/summary: EXCELLENT ITEM AND SERVICE
+review/text: Reveived my item fast! It was exactly what I ordered in excellent shape with safe shipping - i will came back and shop here again.  Thanks
+
+product/productId: B0014APFB4
+review/userId: A1B0ZKGS0ZAHQW
+review/profileName: V. Mcknelly "weiserv"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1174003200
+review/summary: Use it every day
+review/text: I drink this tea every day (I'm 7 months pregnant), and have done so since I found out I was pregnant.  I love that it's organic and contains all the herbs that support a healthy pregnancy.  I don't notice anything dramatic when I drink it or don't drink it, but I will say I feel nourished when I drink it, and have had NO PREGNANCY COMPLICATIONS WHATSOEVER.  I'm 36, this is my first pregnancy, and I have been exceptionally healthy throughout.  I highly recommend this for any pregnant woman--at least a cup a day!
+
+product/productId: B0014APFB4
+review/userId: A2JSH6MZ9BOVJ2
+review/profileName: Joshua Lutz
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1333756800
+review/summary: GOOD FOR YOU, BUT WORST TASTING TEA EEEVVVEEERRR
+review/text: As an avid tea drinker of all corners of the earth, I have had hundreds of teas, and everything from this company as well. I read about this tea as a very powerful health herb but all the reviews said it tastes bad. What do I care? I'd rather be healthy. I never take sugar in my tea either. If you've read this far you are waiting for me to say how bad it was. You can't imagine how bad it is. Without exaggeration I would describe the flavor as a very bitter tasting dirt. Yes, as a 32 year old with children I know what dirt tastes like and this tastes like dirt but with a super bitter taste that makes it hard to drink. My recommendation is to let it steep for a shorter amount of time as to not make a rich bold tea. As you know, the longer it steeps the bolder the tea becomes. Yea, don't do that with this. Four stars because it is apparently very good for you and I thank the company for bringing it to us regardless of the taste of death when other tea companies are using Artificial ingredients to make their teas taste better.
+
+product/productId: B0014WOUR2
+review/userId: A3A1A9WFNFX92S
+review/profileName: Nishant Mittal
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313193600
+review/summary: Very Handy for travel
+review/text: This product is well packaged for travel. It also saves the bothersome "measuring" that one has to do when using bigger formula tubs. Other formula companies should take a cue from this and consider making travel packs as well.
+
+product/productId: B0014WOUR2
+review/userId: A3R7Q2RWQ8K2S7
+review/profileName: MamaCito
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1300492800
+review/summary: Lifesaver
+review/text: Whoever came up with this is a genius and a lifesaver. I too only use formula when I'm on the go or need to supplement if I don't have enough breast milk, so the can is a waste since I won't finish it in a month. The packets are so convenient. I carry a bottle or two of 4oz water and a couple of packets in my purse at all times for emergencies.<br /><br />Only 4 out of 5 stars because you can only make 4 oz or 8 oz.  So if your baby is currently eating more than 4oz but less than 8oz you either hope he is satisfied with 4oz or make 8oz and waste some.
+
+product/productId: B000RDOREK
+review/userId: A5XG0KDFX4WMI
+review/profileName: K. Levin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1264291200
+review/summary: Best tomato sauce I've ever found in a jar
+review/text: This sauce comes in a rather small jar. Compare the size to what is in your pantry before you buy! One jar is "5 servings"--more like 3-4 servings of pasta for our family. I'd guess the average oversized restaurant bowl of pasta uses almost as much as you find in one of these small jars.<br /><br />It is also quite expensive per jar. I buy this at my local Whole Foods for about 30% less than the current Amazon merchant price I see here, and it is still pricier than many "regular sized" (bigger) jars on the Whole Foods shelf.<br /><br />That being said, I buy this sauce and no other when I find it in stock at my grocery store. It really is tastier than any other jarred sauce I've ever tried. I think it captures that delicious taste difference between a fresh-picked tomato from one's own yard as opposed to a store-bought fruit. Yes, it is that much better, IMHO.<br /><br />I was browsing for this brand on Amazon hoping to find it cheaper by the case, but I do feel it is worth the price I pay for it. I put it in the context of taking my family out for a pasta dinner: even if I use two jars to make a huge pot of pasta, it costs less than it would to feed one of us at a restaurant.
+
+product/productId: B000RDOREK
+review/userId: A7JY4UC4CQ063
+review/profileName: Jack Lull
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1204934400
+review/summary: The Best Jar Sauce on Earth
+review/text: I've tried many different sauces over the years and this is absolutely the best by far. The only bad news is it's expensive. For me, it's worth it. For you, I'd suggest trying one jar and decide for yourself.
+
+product/productId: B000A6HP1Q
+review/userId: A278KSMHPSL1JZ
+review/profileName: Lauren K.
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1165190400
+review/summary: The BEST PANCAKES EVER  !!
+review/text: I'm not much of a pancake person - I like them and eat them occasionally in restaurants, but hadn't made any in about 15 years.  I got this mix as a gift.  These are easily the best pancakes I've ever had.  They are light, fluffy, full of flavor, and absolutely delicious!  I think the malt and vanilla flavoring are what makes them so good.  I looked in the grocery stores to see what ingredients other mixes had, and was unable to find any that didn't contain soy flour! I am concerned about the amount of soy that is added to everything now. This mix has no soy.  I ordered 4 more containers of this mix, along with Stonewall Kitchen raspberry syrup (also to die for) and now I make pancakes about every other weekend.  If you like pancakes, you must try this mix!
+
+product/productId: B000A6HP1Q
+review/userId: A32SZ5MTZF56KW
+review/profileName: E. Hsu
+review/helpfulness: 7/9
+review/score: 5.0
+review/time: 1118102400
+review/summary: Great pancakes!
+review/text: If you're looking for an easy-to-use pancake mix that results in great pancakes here you go!  The pancakes are light, fluffy and easy to make.  Best with lots and lots of real maple syrup.  Beats other common brands like Aunt Jemima's, Bisquick, and Hungry Jack by miles!
+
+product/productId: B000A6HP1Q
+review/userId: A3A6S8LAH7RSB5
+review/profileName: SLKS
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1204934400
+review/summary: tasty  but not all natural
+review/text: Fred S. Carbon developed this recipe back in 1937, and it somehow found it's way to Stonewall's.  Tastes great, but I wonder what kind of artificial flavor Mr. Carbon was using back in 1937.  Nonetheless,  it has a great flavor.  Recommended with "artificial flavor" reserve.
+
+product/productId: B002UQ18JE
+review/userId: A20J7OGEZ8UXUJ
+review/profileName: D. Alicea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348444800
+review/summary: Absolutely fantastic
+review/text: This tea comes ina very large amount! The quality is amazing and it is such great value, i highly recommend to all!
+

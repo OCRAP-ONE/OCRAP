@@ -1,0 +1,1143 @@
+product/productId: B000QV2H36
+review/userId: ASNDALY414KWS
+review/profileName: TMoma
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1332028800
+review/summary: Misleading Picture!
+review/text: I needed these for a project I'm working on and the misleading picture shows colorful acorn capsules. What I recieved was all blue ones! I'm upset!
+
+product/productId: B001HTP9WC
+review/userId: A6C19VKIRS1A3
+review/profileName: L. Denny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: Great BBQ sauce
+review/text: I used this sauce with chicken in my crock pot. I used only the chicken thighs and the sauce, and it came out terrific. My husband complimented the recipe, which says something because he's a fan of BBQ. I have also tried the Organcville Teriyaki sauce with excellent results. These sauces are perfect for a very easy, very quickly-prepared meal using almost any type of meat.
+
+product/productId: B001HTP9WC
+review/userId: A5W4U80B73Z80
+review/profileName: CONCERNED PARENT
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1341792000
+review/summary: GLASS MADE IN CHINA
+review/text: ORGANICVILLE BBQ SAUCE BOTTLES ARE MADE IN CHINA.  I PURCHASED A CASE OF ORGANICVILLE BBQ SAUCE.  THE CARD BOARD CASE AND GLASS BOTTLES ARE MADE IN CHINA...IT IS ACTUALLY WRITTEN ON THE CASE.
+
+product/productId: B0027E4ROW
+review/userId: ALAC0EYQBZQGM
+review/profileName: Tivo Man
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308873600
+review/summary: So much easier on my babies tummy.
+review/text: When we switch my daughter from nursing to eating her first solid foods we started with rice cereal.  The misery that caused will be forever emblazoned on my memory.  Colic, gas, and it backed her up right proper.<br /><br />My wife and I started researching alternatives on the Internet.  We found a bunch of references to how Barley was easier on a tummy.  That Barley soup/broth is often what is given to people recovering in hospitals etc...  I went to every local store looking for some.  Family and friends that had used it used to buy it locally.  I couldn't find it anywhere.  I found it here on Amazon and bought this pack of 12 boxes.<br /><br />We found rather strongly that this was much easier on my daughters tummy.  She continued to eat without distress after we made the switch.  We started using it just as cereal and then as she got older we started using it as a thickening agent and filler when mixed with pureed vegetables etc...  She liked things better when they were less runny and we liked things better when she was happy.<br /><br />We will be ordering more here shortly for the twins that have now joined our family.  For us it worked great.  I really do recommend it as a far better option that rice cereal.
+
+product/productId: B0027E4ROW
+review/userId: A128UKWXA5AJB6
+review/profileName: Yuliya Viner "supermom"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1275177600
+review/summary: gerber barley cereal - very healthy choice for a baby
+review/text: Healthy choice for my baby, very convenient package, easy to prepare, my baby loves it, no added milk or fruit, which may either spoil the real taste of the product, or cause allergic reaction. Best choice for busy parents.
+
+product/productId: B0027E4ROW
+review/userId: A1NJ4U693AT9EF
+review/profileName: Leah Pinto
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1210550400
+review/summary: Lots of little boxes
+review/text: These boxes are smaller than the size I normally buy in the store but I think that's a bonus.  They stay fresh longer since they are sealed.  Great product.
+
+product/productId: B0027E4ROW
+review/userId: A2VPC9EZMOC01Z
+review/profileName: Jennifer Gaetan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326067200
+review/summary: Best Value
+review/text: I have to say, I'm definitely looking for a deal when it comes to baby food and this is one. Compared to the store prices even with coupons, buying by the case is a great buy.
+
+product/productId: B0027E4ROW
+review/userId: A15ZCT30QMRCXY
+review/profileName: AmazonMySavior
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300838400
+review/summary: My son's 2 and this is still his preferred breakfast
+review/text: I mix cereal, cheese & hot milk, and my son gobbles up his breakfast.<br />I find this to be the best when compared to nutritional value when compared with Rice, Wheat or Mixed grain.
+
+product/productId: B0027E4ROW
+review/userId: AFBHTIFNWLLBF
+review/profileName: M. Paris "Ms. Paris"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1297296000
+review/summary: Good Nutrition, Doesn't Like The Taste Much
+review/text: It's good and filling for my child but when given to him by itself he doesn't like the flavor. I usually mix it with a banana but I have recently started to buy the mixed fruit cereal which is sweet and mixing one pack of each and that seems to do the trick. Plus, the oatmeal is cheaper than the mix fruit so it lasts longer :-)
+
+product/productId: B0027E4ROW
+review/userId: A1PPUCP32K8LBI
+review/profileName: MonaP "MonaP"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1294444800
+review/summary: Easier online, no deal on price
+review/text: I purchased this product online because I couldn't find it in the stores at that time (2 days later it was in the store also). It's good that comes quick, save a trip to the store, however, no deal on the price; same as Walmart, Kroger, etc.
+
+product/productId: B0027E4ROW
+review/userId: A1PPUCP32K8LBI
+review/profileName: MonaP "MonaP"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1293580800
+review/summary: 50c per box more expensive than stores
+review/text: I purchased this product online because I couldn't find it in the stores at that time (2 days later it was in the store also). It's good that comes quick, save a trip to the store, however, the price is so much higher than Walmart, Kroger, etc (50c per box more expensive, total 7$ more expensive than the stores)
+
+product/productId: B0027E4ROW
+review/userId: A128UKWXA5AJB6
+review/profileName: Yuliya Viner "supermom"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1275177600
+review/summary: Gerber is always the best food for baby
+review/text: My baby loves this cereal. He is allergic to many foods, but with Gerber I can be sure that there are no hidden ingredients. EAsy to prepare, easy to keep fresh, convenient packaging. I highly recommend it to the parents as one of the first foods for a baby.
+
+product/productId: B0027E4ROW
+review/userId: A3NR0YJNQLL6WI
+review/profileName: Daryl Beauregard "Love movies"
+review/helpfulness: 1/5
+review/score: 3.0
+review/time: 1264982400
+review/summary: Geber Barley Cereal
+review/text: the only reason I purchased this on amazon is because I could not find it in the stores and the pediatrician had recommended it for my infant grandson.  It does not disolve well and tends to clump up in the nipple.
+
+product/productId: B0027E4ROW
+review/userId: A1ZSF5CJ0A4CIO
+review/profileName: Fancy Trimmins
+review/helpfulness: 1/6
+review/score: 5.0
+review/time: 1250726400
+review/summary: Always have this on hand
+review/text: I keep Gerber 'Mixed' and 'Barley' on hand all the time. The 'mixed' consists of rice, oat and wheat so I mix a box of that with a box of the 'barley' and have a completely balanced breakfast cereal. I don't use it for people: I keep it handy for when the dogs have upset tummies and their regular food is too harsh on their digestive systems and they need soft, easy to digest food that fills them up and is healthy for them.  As their tummies return to normal, I reduce the baby cereal a bit and add in some of their normal foods and as they continue to improve, the baby cereal gets reduced while their normal foods eventually return to full bore.<br /><br />This is good for them, too, after dental cleanings/extractions, surgeries, when they need a little help in the 'bowel' department (fiber), or just as an added treat to change it up a bit in their daily diet.<br /><br />I have used this in place of bread crumbs when making a meatloaf (ok, I was desperate), but didn't care for the texture of the meatloaf once cooked. It was too soft for our liking, but still quite tasty.
+
+product/productId: B0057FSWP8
+review/userId: A1029CAC8JRPJX
+review/profileName: David F. Saenz "Mr Az Clean"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1344816000
+review/summary: Berry  Medley too sweet
+review/text: Comstock Berry Medley Pie filling is too sweet. I saw this and I thought of all the ways I could use berry medley, but after I made on pie I don't know if I will use the last two cans.  I thought if I did use the other two cans I would try to wash out some of the sryup, but how?  I would not buy this again.  I made a pie, use two cans, and we could not finnish the pie.  I idea is great and would be useable if it was in a "lite" sryup.<br />I served small slices, it didn't matter.  Too much corn sryup or sugar.
+
+product/productId: B006V78A3U
+review/userId: A2F0ROXOUD8890
+review/profileName: Curly Blue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348790400
+review/summary: Great Flavors
+review/text: If you like hard candy but don't want the sugar, give these a try.  The price is reasonable. And the flavors are awesome.  Nice and fruity.
+
+product/productId: B004742XWI
+review/userId: AY2G51ZYM4MLF
+review/profileName: TMalsav
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334620800
+review/summary: No complaints here!
+review/text: These came in perfect condition with no damage. I put two of the bags in the freezer to save for later!  The cups seem a lil overfilled however, which makes them hard to peel, but results in more candy!
+
+product/productId: B004742XWI
+review/userId: A3G2A8ES3E7L90
+review/profileName: Ian M. Peery
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333756800
+review/summary: Perfect
+review/text: These came in perfect condition with no melting or other damage. I put two of the bags in the freezer to save for later and would definitely buy again!
+
+product/productId: B002Y2QSLC
+review/userId: A2XG6VCDBYCMLV
+review/profileName: shamangrrl
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1328918400
+review/summary: CC Sumatra Dark Roast
+review/text: I tried several brands of coffee before settling on this one.  There's a lot of taste and almost no bitterness with this blend, and I've been quite happy with it.  I usually tend toward the quite dark, expresso roasts, but I've been finding that the bitterness in the followthrough has been ruining things for me.  If you like Starbucks, you will probably not like this coffee - but I gave up Starbucks as overly roasted (burned, really) and sour years ago.  This coffee is smooth with lots of taste, but easy drinking enough for multiple cups.  I usually can't drink coffee black, because I make it strong, but I can drink this black without any problems.  I'm quite impressed with the product, and with Ship and Save, it's even more attractive.
+
+product/productId: B002Y2QSLC
+review/userId: A1ZIMSTK7AZ7CI
+review/profileName: TeckFreek
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307836800
+review/summary: Everyone has their taste but for Sumatra
+review/text: Everyone has their own pallet and their opinion on what is too bitter, roast flavor, too strong etc. For the Sumatra bean and their roasting, this is a good flavor and balance. I still think that some roast too hot/long and kill some flavor while others seem to add its own taste by the roasting process. I am no coffee afficiando but I do know what I do and don't like and this is a re-buy once I finish.
+
+product/productId: B002Y2QSLC
+review/userId: A2JRG4HOGHT71J
+review/profileName: M. Edinger
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: Rich and dark
+review/text: Flavorful rich dark coffee.  This is great high quality coffee that makes a great cup of coffee time after time.  Will definitely purchase again.
+
+product/productId: B002Y2QSLC
+review/userId: A1DBUW6P7925AK
+review/profileName: Janeenee
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327536000
+review/summary: Its Coffee.
+review/text: Its a good robust coffee, however not much different from any other brand as coffees go. Not sure it is worth the energy of ordering, shipping cost (if you have to pay it). I am at the store at least 4 times a week so picking up coffee I like is not a problem.
+
+product/productId: B002Y2QSLC
+review/userId: A11MEQXAWL8REN
+review/profileName: Curtis D. Radford "radrogue"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316304000
+review/summary: Great Tasting, Fresh, & Excellent Value
+review/text: I've placed my second order for 3 bags<br />of the Community Sumatra Private Reserve<br />coffee. The first 3 bags arrived fresh,<br />with a nice oil sheen on the beans and really<br />tasted great-even when brewed extra strong.<br /><br />I used to go to college in<br />New Orleans and getting to drink this coffee<br />takes me back to my times there years ago where the<br />famous New Orleans eateries served the best coffee<br />to go with their excellent fare.<br /><br />This coffee is an tremendous value and is well<br />worth the price which is very reasonable compared to<br />other coffees on Amazon. Even better, it arrives from<br />Amazon freshly roasted!
+
+product/productId: B002Y2QSLC
+review/userId: A1WJ7EEENCTQEZ
+review/profileName: BigG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306022400
+review/summary: Smooth, Well Balanced
+review/text: Although I have had friends tell me that Community Coffee tastes like it was soaked in a Bayou before being packaged, I have been pleasantly impressed with this blend.  Though not as intense as other Sumatra blends I have had, the flavors come out very well when fresh ground and put through my coffee press.  Will definitely keep this on subscription, as the price cannot be beat anywhere near me.  Even mediocre coffee costs $7 or more per bag in the stores.
+
+product/productId: B002Y2QSLC
+review/userId: A1DQQG737TC9FD
+review/profileName: William
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302998400
+review/summary: Excellent Coffee in French Press
+review/text: I bought this coffee for use in an espresso machine and it worked fine. I didn't like it as much as I like Community Coffee's dark roast. I then used it in my press pot and found that it tastes outstanding after a five minute steep with a coarse grind. If you own a press pot give this coffee a try. I doubt you'll be disappointed.
+
+product/productId: B002Y2QSLC
+review/userId: A325RWA8LHK2QJ
+review/profileName: Nettie Scott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Great quality!
+review/text: I was pleased when Amazon decided to sell Community Coffee since I long ago decided it was the best of the rich, strong flavored Louisiana coffees.  The private reserve coffees Community Coffee sells are quite good, just as I remembered them being when I lived in Baton Rouge many, many years ago.  Community Coffees offer a consistently rich, flavorful roast.  The price is reasonable especially with Amazon's subscribe and save program.  I make my own blends of Sumatran, French Roast, Columbian and Espresso and am very happy with the results.
+
+product/productId: B002Y2QSLC
+review/userId: AIW1JN3RTSW5B
+review/profileName: Jenbo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299628800
+review/summary: Great Coffee
+review/text: Sumatra has to be one of my favorite coffees and Community Coffee Company knows how to roast it to perfection! I love the full body and earthy flavor and their packaging is wonderful!
+
+product/productId: B002Y2QSLC
+review/userId: A24RGDE4ESSBHZ
+review/profileName: Calvin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293580800
+review/summary: My 1st Whole Bean Coffee
+review/text: I have always love Sumatra type coffee. A friend told me to get a coffee grinder and try whole bean coffee. Well, I did! WOW, this has made me fall in love with coffee again!<br /><br /><a href="http://www.amazon.com/gp/product/B002Y2QSLC">Community Coffee Private Reserve Whole Bean Coffee, Sumatra, 12-Ounce Bags (Pack of 3)</a>
+
+product/productId: B002Y2QSLC
+review/userId: A2Y00L1N2C8F66
+review/profileName: April11
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1328400000
+review/summary: Sumatra Community Private Reserve Coffee Whole Bean
+review/text: This coffee is a disappointment. The taste goes nowhere...no full body and aroma. So much for the private reserve alluring trap, really!
+
+product/productId: B002Y2QSLC
+review/userId: A3CY0ZUSC93WE
+review/profileName: Hillary Anzis Hostetler "Hillary"
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1305590400
+review/summary: Quality is inconsistent
+review/text: I have edited my review three times. My first order-I was very surprised to find an improperly sealed package. Amazon responded promptly and replaced the coffee. The first batch had 2 sealed and one unsealed bag. The sealed bags tasted old from that shipment. The beans were dried out looking and the coffee bland. The replacement shipment was very good. I liked the coffee in the second shipment alot. It was full flavored and the beans were shiny and in good condition. I reordered this coffee and hoped it was an unusual event in their quality control.I subscribed to delivery service. Unfortunately the next batch was stale tasting, not vacuum packed and dry looking beans. Sadly I canceled the subscription. The quality is very inconsistent. At it's best it is great , and at it's worst - tastes very stale.
+
+product/productId: B000GZUBAS
+review/userId: AKY1HGHJYUQE8
+review/profileName: H. Mitchell
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1192665600
+review/summary: Gluten-free snack!!
+review/text: Fantastic snack for your baby without any major allergens (no wheat, corn, soy etc.) which is really hard to find these days.  Although it does have milk powder, it shouldn't bother your baby if they can have formula or if you drink milk and they tolerate your breastmilk fine.  Really, your child will love them.  Both the vegetable and regular are amazing.
+
+product/productId: B000GZUBAS
+review/userId: A2XKICN5N3A4T3
+review/profileName: babe2395
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1301616000
+review/summary: rice snacks
+review/text: this product is good my daughter loves them but the seller needs to get thier butt in gear i ordered this 2 days ago and i put a one day shipping on it.
+
+product/productId: B000GZUBAS
+review/userId: A22IWJPU0BK1MC
+review/profileName: John Ceraso
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1298764800
+review/summary: Wow! Good product, but really overpriced on Amazon!
+review/text: Another reviewer said this and just I went and checked it out. These are available for way less-- even with the Amazon Prime free shipping the price here is a rip-off! I'm surprised, since prices on so many other things are so good. Unless the price goes down, I'll be buying these elsewhere from now on.
+
+product/productId: B000GZUBAS
+review/userId: A1IX64LDFAFTK6
+review/profileName: Lyn
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1278979200
+review/summary: Great Product!
+review/text: These are wonderful for your child.  Perfect for the car because they don't make a mess.
+
+product/productId: B000GZUBAS
+review/userId: AE5Z5PLZYDWJG
+review/profileName: Regina Halatsis "Nurse Mom"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1278892800
+review/summary: Mum-Mum = Yum-Yum
+review/text: My LO loves these.  She started eating them @ about 9 months.  She is now 18 months old & they are still one of her favorite snacks.  They are a favorite of mine too as they are super easy to transport, are healthy & make little to no mess!
+
+product/productId: B000GZUBAS
+review/userId: A25JOETM8QZ0E1
+review/profileName: Janesdoe
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1275609600
+review/summary: Great snack!
+review/text: This is a great snack for my daughters, 10 months and 3 years. They both love the vegetable, orginal flavor and the toddler strawberry. The only "bad" thing is that they are made in China. I'm very leary of items that come from China.
+
+product/productId: B000GZUBAS
+review/userId: AEC5FQ29P6NUJ
+review/profileName: Ang
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1272326400
+review/summary: A must have for teething babies
+review/text: Our 10 month old LOVES these. She loves feeding herself and practicing chewing. They dissolve easily to prevent choking. They tend to be sticky at first if the baby sucks on it more than bites off pieces. Will definitely buy more when we run out.
+
+product/productId: B000GZUBAS
+review/userId: A28WRCN5F5ZI04
+review/profileName: K. Finoia
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1265500800
+review/summary: Baby mum-mums are AWESOME!!
+review/text: My mom gave my son baby mum mums while we were walking around a store one day, and I had never seen them, and he LOVED them!!!  After that, I had such a hard time finding them!!  I was thrilled to find them here.  My son loves them. They are the perfect size for his little hands, and he can chew them fast or they just dissolve in his mouth if he has small chunks left.  He has been eating them for 6 months now, and he still loves them.  He prefers the vegetable, but will eat both flavors.  Will buy them again!!
+
+product/productId: B000GZUBAS
+review/userId: A389WLWLG0VTAI
+review/profileName: Nancy Bauman
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1259625600
+review/summary: Could'nt live without this product
+review/text: I was so happy to discover these. I run a baby daycare and have lots of teething babies and they all LOVE Mum-Mums. They are not as messy as the other baby cookies and they seem very safe for even 5 months old. I buy these by the case now!
+
+product/productId: B000GZUBAS
+review/userId: AX5EOHHCTPDPQ
+review/profileName: B. Freitas "mom of two CA"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1259107200
+review/summary: Baby Mum-Mum Vegetable Flavored Rice Rusks
+review/text: I discovered these at Walmart and then purchased them in bulk at Amazon (a much better savings).  I was reluctant to try them at first.  I was searching for biter biscuits or zwieback toast when our daughter started teething but was having a difficult time finding such products and when I did they were never on sale.  I stumbled upon the Baby Mum-Mum products at Walmart, they were affordable and conveniently packaged.  Our daughter LOVES THEM.  She knows the package and gets excited when you pull one out.  I love that they are wrapped in two packs also, you don't have to waste a baggie packing them to go and they don't go stale.  We bring them with us to restaurants and it's a great way to keep her busy and get in a healthy snack while we are waiting for the food to come...a lifesaver!  I think it is also important to mention that they contain vegetables and are tagged as "organic" I don't hold a lot of importance in finding organics products because of the price but am happy when I can afford them.  Also, I've found that many snacks for babies/children (such as Gerber Graduates line) are loaded with extra sugar which I believe is unnecessary.  The fruit snacks have twice as much sugar as normal fruit snacks off the shelf.  So I'm happy to find a product such as a Mum Mum which doesn't contain a lot of excess sugars.
+
+product/productId: B000GZUBAS
+review/userId: A3FOM5Q202HE32
+review/profileName: Lilly's Grammy "Grammy from NH"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1255305600
+review/summary: Mum Mum's for Lilly
+review/text: I can only find these at Walmart and my grandchild loves them.  She is 9 months.  I have never heard of them and was looking for some info about the safety of this product.  It is ideal because it melts in her mouth and I don't have to worry about her choking on it.
+
+product/productId: B000GZUBAS
+review/userId: A2UKD0Y5J6M2CJ
+review/profileName: Doc Bee
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1254700800
+review/summary: Healthy Alternative to Gerber Puffs and Such
+review/text: When my child was starting to learn to self-feed, people always recommended Gerber Puffs and other types of airy/puffy easily dissolved food for babies.  The problem is that these snacks are processed, full of preservatives and artificial flavors and colors- pretty much Cheetos for babies!  I saw these at a local store and tried them based on another mom's recommendation, and my little has loved them ever since!  They don't make a mess like other teething biscuits, dissolve easily, and are made of natural ingredients.  These are especially handy if your little one has diarrhea, since rice is easy to digest and firms up the stools.  The taste of this is mild, similar to Rice Krispies, and like I said, the little one LOVES them.  I would tell any new mom to try these as a healthy way for their child to start self-feeding.
+
+product/productId: B000GZUBAS
+review/userId: A39JV7E0LMTTV4
+review/profileName: Tinia Stratton "Deineria"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1254182400
+review/summary: These are so SAFE to eat, and my baby loves them
+review/text: I wish these had been around with my oldest. My son has been eating them since about 6 months, and he loves them. He will eat 2-4 daily in the veggie flavor.<br />They dissolve so quick, I do not worry about him getting choked.<br />They are not messy either, like biter biscuits, and those worry be because they can break off and not dissolve
+
+product/productId: B000GZUBAS
+review/userId: ACTNP12D215SN
+review/profileName: Melinda Pierce "torme523"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1252195200
+review/summary: Most wonderful product
+review/text: My son absolutely loves these.  They are gluten free and disolve easily for teething and make great finger foods.
+
+product/productId: B000GZUBAS
+review/userId: ADCEOWMB5P7TX
+review/profileName: Mama Birdy
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1243900800
+review/summary: Mum-Mums...  Yay
+review/text: If you are starting baby on finger foods, these are a must try.  They dissolve easily in the mouth and our baby loves them.  She can hold the shape/size easily in her hands.  They're also great for on-the-go because they come in individually packaged sets of 2.  I give them to her in the grocery store as a little distraction snack and she's happy as can be.  Just a note: they are really sticky so may want to have a wipe on hand.  Also, they are great ingredients-wise... no preservatives or other yucky stuff that you have to look up on the internet to see if it's safe!  They can be hard to find locally, so stock up if baby likes them.
+
+product/productId: B000GZUBAS
+review/userId: A2I18PPY4AZDRM
+review/profileName: ZoINka
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1242691200
+review/summary: Great snacky food!
+review/text: My boys have been gnawing on this since they were old enough to sit on their high chairs and they are going on two now and still love it! Highly recommended snack :)
+
+product/productId: B000GZUBAS
+review/userId: AK8LOFYRZJJW0
+review/profileName: C. Wollin
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1238198400
+review/summary: My daughter's favorite cracker.
+review/text: These are wrapped in packages of two, so it's easy to toss a pack or two in my purse, my daughter's backpack or her lunchbox.  They melt in your mouth, so they're great for babies learning to eat solids.  We also keep them handy for when the kids aren't feeling well because they're bland and easy on the tummy.
+
+product/productId: B000GZUBAS
+review/userId: A1GON5NGOPZ56M
+review/profileName: Erika Welch "Natural Mommy"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1233792000
+review/summary: Awesome again!
+review/text: The Veggie flavor is GREAT!  I like having an non sweet alternative for snacking.  I loved the Original Mum-Mums and now I love the Veggie too!
+
+product/productId: B000GZUBAS
+review/userId: ABZ2EMYQ02MVP
+review/profileName: Mom of 3
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1231027200
+review/summary: Perfect for teethers
+review/text: I happened upon these recently at Walmart and thought I'd give them a try for my 9 month old daughter (we tried the veggie variety). She absolutely loves them! They are easy to chew - they sort of dissolve in baby's mouth making it the perfect first snack for those early eaters. They come wrapped (two packs) which makes them perfect for on the go. I have recommended them to other parents and will continue to buy them for my little one, even after she's eating more and more solids.
+
+product/productId: B000GZUBAS
+review/userId: A32ITF5A5BCU5U
+review/profileName: mom2threeboys
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1324512000
+review/summary: packaging overload
+review/text: My baby loves these.  However, the packaging is over the top.  Do the rusks really need to be individually wrapped, as well as, wrapped in another plastic bag, inside of a cardboard box?
+
+product/productId: B000GZUBAS
+review/userId: A1S9LZKZ0TVUXR
+review/profileName: Anna S. Zina "Anna"
+review/helpfulness: 3/7
+review/score: 1.0
+review/time: 1316390400
+review/summary: not made in the usa
+review/text: these are awful, my 7 month old did not like them and eevn when I threw them out to the birds they didn't even eat them. What bothered me also is that they weren't even made in the U.S.A. I was surprised that Earth's Best had a low rating. She loved them, she was able to hold on to them better than these, they didnt just dissolve away like nothing. the Earth's Best is a million times better.
+
+product/productId: B000GZUBAS
+review/userId: A3TRAXVXM3QRFJ
+review/profileName: SmyrnaMommy
+review/helpfulness: 1/4
+review/score: 1.0
+review/time: 1340150400
+review/summary: Made in CHINA! Choking Hazard!
+review/text: I was horrified to find out this product is made in China!  Before realizing that, I did give it to my 5 month old baby. She liked it, but I had to watch her VERY closely. Pieces easily break off and do not dissolve quickly enough. She once choked on it, but luckily she was able to cough up the piece of cracker.
+
+product/productId: B000GZUBAS
+review/userId: A3199FQDIYL0AG
+review/profileName: BronzeMedal "rous2000"
+review/helpfulness: 3/8
+review/score: 1.0
+review/time: 1333324800
+review/summary: Baby food product made in Mainland China? No thanks.
+review/text: If I had known this baby food product was made in Mainland China, I would not have ordered it.<br />We refuse to give our baby this product due to the negative publicity plastered all over the news associated with tainted infant formula and other food products made in Mainland China. I own other items made in China but food products are something that I refuse to consume.<br /><br />I went back and re-read the description on the Amazon.com website and did not see a product origin. Isn't there a disclosure requirement for retailers to disclose from where products they sell are made? (silly me!)<br /><br />We both ate packs of the rice crackers while I did whatever research I could on the factory in Guangzhou, China that made this rice cracker. Not much came out of my simple desktop research -<br />1) a letter from the FDA regarding claims on the box: [...];<br />2) import refusal letter from FDA:<br />[...]<br /><br />Funny thing, the rice crackers actually taste good. And, I am still around to write this review. However, in my kitchen, I have six boxes of Baby crackers that I will probably not eat.<br /><br />In the mean time, I will search for and purchase a baby teething cracker made some where other than Mainland China. Maybe I'll walk to a local Wholefoods rather than buy baby products from Amazon.com.
+
+product/productId: B000GZUBAS
+review/userId: A2QDWTCUG38PXA
+review/profileName: babymama
+review/helpfulness: 3/8
+review/score: 2.0
+review/time: 1259020800
+review/summary: baby crackers made in china?
+review/text: I was really excited to order these crackers because my toddler liked them when a friend of mine gave her one, but I didn't realize that they were made in China. They dissolve really easily and are individually packaged, but come on now, do you really want to feed your child snacks that are made in China? It's up to you, but I know that I wouldn't have ordered it if I knew where it was made.
+
+product/productId: B000GZUBAS
+review/userId: A2E89RFE0Y37LN
+review/profileName: Safe Mama
+review/helpfulness: 12/24
+review/score: 1.0
+review/time: 1245456000
+review/summary: Not Happy
+review/text: I just received these, and I will not be giving them to my baby. They are made in China. No where on Amazon does it say that. Maybe some may view me as paranoid, but feeding my baby food from China is not something I feel comfortable with.
+
+product/productId: B000GZUBAS
+review/userId: A3DJDIZFS2SACR
+review/profileName: Jack Chen "jack"
+review/helpfulness: 5/12
+review/score: 1.0
+review/time: 1300752000
+review/summary: Buyer Beware - Can't Return This Product
+review/text: My wife ordered this, so I'm not sure if she was aware that this product came from China.  When we got the pkg and learned that this was from China, we wanted to return it.  But this product cannot be returned even if you haven't opened it.  We will be throwing this in the trash.  We just felt that food products from China are questionable, and we didn't want to risk this with our 8 month old son.
+
+product/productId: B000GZUBAS
+review/userId: A2YUBYDREBHWJG
+review/profileName: BigShawn
+review/helpfulness: 3/9
+review/score: 1.0
+review/time: 1254441600
+review/summary: Great Item, God Awful Price???
+review/text: My little man loves these & I came here to Amazon to check into purchasing from them instead of where I have been.  [...]  I can't believe there are so many people here getting ripped off, do a little digging & you will find them much much cheaper!!! Try [...]................Your Welcome!
+
+product/productId: B000GZUBAS
+review/userId: A3NMV4K3K5BHYL
+review/profileName: bellybutonlint "bellybutonlint and other such...
+review/helpfulness: 14/29
+review/score: 1.0
+review/time: 1233619200
+review/summary: made in china
+review/text: These are made in china...not a good idea at all considering all the food saftey issues of late. also i feel that it is wrong to buy food/agricultural products from another country (a politically hostile one at that) when our own poor farmers are having such a rough time making ends meet because all their work has been outsourced to these unsafe chinese farms. there are many much safer and ethically sound alternatives to these snacks.
+
+product/productId: B000GZUBAS
+review/userId: A1WCRQ2Z12M4S
+review/profileName: Dan
+review/helpfulness: 10/22
+review/score: 1.0
+review/time: 1222473600
+review/summary: you watch TV anyway - just pay attention
+review/text: With all these scandals around Chinese products, I am not feeding my baby (or any babies visiting us) any food made in China.<br /><br />Perhaps unfair to some products, but I am not ready to take a chance, especially on a baby, whether mine or not.<br /><br />Sorry.
+
+product/productId: B000GZUBAS
+review/userId: A1ZLQ8BPFIX7SB
+review/profileName: ZL "Jedulka"
+review/helpfulness: 12/27
+review/score: 1.0
+review/time: 1203984000
+review/summary: come on people ... MADE IN CHINA
+review/text: Just few words ... MADE IN CHINA I would be very scared to feed my child that we have problem with medication not having the right dose, poisons in toys .. but food for kids ... just be careful ...
+
+product/productId: B000GZUBAS
+review/userId: A3UU8BALH937V8
+review/profileName: Loyal Amazon Customer
+review/helpfulness: 6/17
+review/score: 1.0
+review/time: 1326931200
+review/summary: Made in CHINA and contains SUGAR
+review/text: Read the box before you buy this product! Made in China and second ingredient is sugar? Not for my baby, thank you.
+
+product/productId: B000GZUBAS
+review/userId: A94MIAN2VIRJ9
+review/profileName: SDeHonney
+review/helpfulness: 0/8
+review/score: 5.0
+review/time: 1313625600
+review/summary: Great toy
+review/text: This toy is great! I am able to latch it on to the car seat or stroller and my son just loves to play with it. All the things to grab hold to and different colors and textures make for a great time!
+
+product/productId: B000GZUBAS
+review/userId: A2WH1XLV4AKHR3
+review/profileName: Nicholas O. Sintos
+review/helpfulness: 1/28
+review/score: 2.0
+review/time: 1234742400
+review/summary: sadly...
+review/text: BUYER BEWARE:<br /><br />This is NOT edible baby parts.<br />It is ACTUAL food.<br /><br />How disappointing...
+
+product/productId: B000GZUBAS
+review/userId: A20JUC1O5OHONO
+review/profileName: Jersey mom
+review/helpfulness: 9/9
+review/score: 4.0
+review/time: 1215820800
+review/summary: Watch out for limited expiry dates
+review/text: LOVE the product.  Was very disappointed that the expiry date was only 9 weeks away.  I thought bulk purchasing was the way to go but there's no way I'd want my 9 month old to get through 12 boxes of these in such a short period of time!  Makes me wary of buying bulk again.
+
+product/productId: B000GZUBAS
+review/userId: A1DAYVHM2367JJ
+review/profileName: Mom2Meghan "Mom2Meghan"
+review/helpfulness: 12/13
+review/score: 5.0
+review/time: 1187568000
+review/summary: AWESOME treat
+review/text: These are so awesome. My daughter likes them and they are so much more cost effective than the gerber greaduate crunchers. I hope they get them back in stock.  We've done both the veggie and plain and prefer the veggie.
+
+product/productId: B000GZUBAS
+review/userId: A1SN27V477FNSJ
+review/profileName: Ray of Agoura
+review/helpfulness: 26/32
+review/score: 5.0
+review/time: 1276646400
+review/summary: Great Brand from Taiwan
+review/text: My husband and I came from Taiwan and have been living in the US for over 15 years. Normally we only buy Chinese snacks that are brand names and made in US or Taiwan. However, I was very glad to find this product in Amazon even though I just bought it today and haven't yet received it. I do know "Hot Kid" very well and used to have it for snack growing up in Taiwan. It was one of my few favorite snacks made by a well reputed Taiwanese company. I trust this brand just as I do General Mills or Kraft. It was already a major food company in Taiwan back then and "rice rusk" was the most popular product. Now, this company has made its way to becoming one of the three biggest food companies in China. Interesting enough, these three companies are all Taiwanese companies. I think the main reason is that people in China do not trust their own brands. I believe that "Hot Kid"is a quality food product. I think the worry is overdone and the red flag is unnecessary. My son is 7 months now and it was a pleasing surprise to have found this product in US.
+
+product/productId: B000GZUBAS
+review/userId: AUDORM7YZPPOR
+review/profileName: A. Gregorio "SpiderWomanKnits"
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1216684800
+review/summary: Great Snack for New Eaters
+review/text: These are great for little ones who are just started to get teeth or are new to eating solids. These crackers sort of just dissolve in your mouth. I was always nervous about chunks breaking off of the hard teething biscuits. These were a snack I could give without any concern at all. The only reason I didn't give them five stars is because the sugar content is a bit high.<br /><br />Also, we ordered a case from Amazon in April that expires in the beginning of August which is coming upon us quickly. I don't know if these have a short "life expectancy" or if Amazon had them sitting around a while. The product isn't stale or anything it's just a case is a lot to go through in just a few months.
+
+product/productId: B000GZUBAS
+review/userId: A3FQIK0A1EXWLL
+review/profileName: G. liang "vivian"
+review/helpfulness: 6/7
+review/score: 2.0
+review/time: 1205193600
+review/summary: not good as I thought
+review/text: after reading all the reviews, I thought this is a good to buy, after it arrived, I gave it to my son who is 7 month old, but he doesnt like it at all.  Then I found out it is too dry for his mouth.  I tried it by myself, the taste is ok, no suger taste which is great.  It reminds me what I had when I was little back to china.  However, I can find the same stuff in a nearby chinese store for much cheaper price.  If you have any chinese store nearby, I dont see any reason to have it for this expensive price.
+
+product/productId: B000GZUBAS
+review/userId: AGJRZA4GW3E1H
+review/profileName: Sluggo
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1237766400
+review/summary: My son would probably eat 5 million of these at a sitting if we let him!
+review/text: They are great for a quick on the go snack for a baby. They come wrapped two to a pack, so you can either give your child both of them or nibble on one if you're feeling desperate.<br /><br />They taste pleasant enough to me (not a strong flavor but light and a sort of fluffy crunch if that makes any sense), but they are like baby crack. I have yet to meet a baby that didn't love mum-mums. They are fabulous for teething-- in fact they helped us avoid numbing gels and pain killers during teething. They are also a fantastic find for snacks/distractions during grocery shopping or car rides (these saved us during a 14 hour train trip when our son was 8 months old).<br /><br />If you aren't sure, try a single box from a store. Your child will almost undoubtedly love them. Then come back here to stock up! The last time Amazon had a discount code for mum mums we bought 4 cases, and I'm kicking myself for not buying more already!
+
+product/productId: B000GZUBAS
+review/userId: A251OTCDOJVQLJ
+review/profileName: Rachel Baldes
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326758400
+review/summary: Baby Mum Mums are Baby Yum Yum!
+review/text: My daughter might need to go to Mum Mum rehab before it is all said and done. She (and every other baby I have met or have heard of trying them) LOVES her Mum Mums. We've tried every flavor and honestly it doesn't seem to matter to my daughter. I ordered the veggie flavor just to see if it would be more cracker like flavor wise than the banana or plain, but she just gobbles them right up. If I don't watch out my husband eats them as well sometimes and the dog eats the little mushy pieces of mum mum that baby leaves behind.
+
+product/productId: B000GZUBAS
+review/userId: A2OW6IAQ5IQ6BS
+review/profileName: ccarcallas
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1276819200
+review/summary: Baby loves it!
+review/text: We've only tried the vegetable version but my 6 month old loves it. It dissolves right when you bite it, and she enjoys holding it and putting it in her mouth. I only gave it 3 stars because it is no different from the rice crackers they sell at the Asian groceries. I thought I was getting a good deal on Amazon, but the ones at the Asian groceries are only 2-3 bucks a package. I agree with a previous poster that this company uses an awful lot of packaging. It's a nuisance especially since there is so much eco-awareness nowadays.<br /><br />BTW, my two year old loves these too so I always have them handy in the trunk of the car. These will get crushed in your diaper bag, so stash somewhere safe :)
+
+product/productId: B000GZUBAS
+review/userId: AIA7VMHDX0C1B
+review/profileName: K. L. Kuhlman
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1210204800
+review/summary: great baby snack
+review/text: these are a great baby snack. it melts in their mouths and is a good size/shape to learn to hold and feed themselves. many of the babies in my mommies group are addicted to these.
+
+product/productId: B000GZUBAS
+review/userId: A1AW3TPT0LC54G
+review/profileName: linda "linda"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1208736000
+review/summary: great snacks for my son
+review/text: My son loves these.  They are easy to eat and I am not worry about him chocking on them.  THey seem pretty healthy too.  And I am glad it comes with small packages, easy to carry in my purse or diaper bag.
+
+product/productId: B000GZUBAS
+review/userId: A2OG9GXCPHFFFH
+review/profileName: Mom to Lovely Lizzie
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1203552000
+review/summary: Great for my baby
+review/text: I bought these purely from the reveiws here as I had never heard of them.  My 6.5 month old seems to really like them and its the only thing that I let her feed herself.  She makes a bit of a mess (of course) but seems to like to feed herself and does really well with them - I was concerned as I just started giving her any solids at 5.5 months.  I watch her closely, of course, but she has not had any trouble with the crackers at all so far.  I've tasted them and they are quite good.
+
+product/productId: B000GZUBAS
+review/userId: A1RGQ3C9SA9UM1
+review/profileName: Mavis McGavis "Mav"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1202601600
+review/summary: Babies Love Mum-Mum's
+review/text: I have yet to meet a baby that didn't love Mum-Mums.  They dissove easily in their mouths, so even the "chokiest" of babies seem to have no trouble with them. The taste is mild, and babies are so happy to be able to self feed!  Plus, if you are in a silly mood, you can make all sorts of rhymes and word play to entertain your baby.  "Mum-Mum's MMMM Yum-Yum..."  My son has been eating this since about 5.5 months.  They are packaged in little pockets of two, so you can slip one in your purse and pull it out in case of emergency.  My third baby get's dragged along to board meetings at my son's preschool, PTO meeting's and fundraisers at my daughters elementary school, and every where else I go, so I love how convienient they are.  Unlike Cheerio's and other lose pieces, I don't have to worry that they are going to be dropped all over the place, and unlike biter bicuits they don't make him all messy faced.
+
+product/productId: B000GZUBAS
+review/userId: APR2APAHD46VZ
+review/profileName: Angel
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1187740800
+review/summary: These are wonderful.
+review/text: I have three kids, 9 7 and 1. These are the best product I have ever found. I wish I had known about them when my older two were younger. My son had trouble eating anythign chunky without choking. These are amazing, they are easy to eat and serve, great tasting so the kids love them and they melt in the mouth so they cant and dont choke on them.<br /><br />I would recomend them to anyone and everyone.
+
+product/productId: B000GZUBAS
+review/userId: A1270PVUVGXDFL
+review/profileName: Irene Tagumasi "Irene Tagumasi"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1170979200
+review/summary: Baby Mum-Mum
+review/text: We visited Hawaii in December and had seen this at Walmart. I have to say my 7 month old baby loves this. We bought 10 boxes of this before going back to California. We don't have anymore and my baby and my old daughter who is 4 year old loves this and is looking for more. Luckly i surfed the internet and happen to find it at Amazon. I literally had to email the maker of this cracker to stock some in California. This cracker is the best.. It melts in your mouth and she has not choked on this cracker from the time we bought it. I would have to say this is better than the little gerber crackers that they sell at the stores.
+
+product/productId: B000GZUBAS
+review/userId: A2V8M3PS3UHB1
+review/profileName: bald4 "Steph"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1170720000
+review/summary: Easy
+review/text: I love these snacks.  I can give to my son without worry.  He loves them and they keep him from screaming in the carseat.  Perfect for a quick east fix.
+
+product/productId: B000GZUBAS
+review/userId: A3NKSVKXMM5I4T
+review/profileName: Royalfamilyfive "The Professor"
+review/helpfulness: 6/8
+review/score: 4.0
+review/time: 1176422400
+review/summary: Absolutely worth the wait
+review/text: These crackers are really easy for my toddler to hold and eat.  They are packaged well and have a very mild taste, especially if you like rice snacks.  Amazon shipping or supply chain management was horrible, the order experienced three delays, but eventually got here.  On another note, Amazon does not charge you until the items ship.  These crackers were worth the wait.  I may purchase the plain next time.<br />These are always out of stock.  Eat 'em if you've got 'em!<br />Update from 8/12.  I just keep buying these crackers.  Each time they are in stock, I stock up.  Really, my 10 month old daughter can say "mum-mum".  Fantastic crackers and easy packaging.  I have not tried the plain, but the vegatble flavor are outstanding!  Bon Appetite.
+
+product/productId: B000GZUBAS
+review/userId: A1H0P82Q8RLYHB
+review/profileName: Francis Ramirez
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1337040000
+review/summary: Cheaper at Target
+review/text: Item is fine. It is just over priced. Buy smaller quantity at cheaper price at target. Cannot return. Save your money
+
+product/productId: B000GZUBAS
+review/userId: ACR77COG7N9Q9
+review/profileName: JenMouzooni
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332115200
+review/summary: Life saver
+review/text: This is the only way I can ever get anything done around the house.. I put my twins in high chairs and give them a Mum Mum cracker and they love it.  They hold it in their mouth as it slowly dissolves.  LOVE IT!! highly recommend for any baby that's old enough to hold something and stick it in their mouth
+
+product/productId: B000GZUBAS
+review/userId: A2T6NKMSCQC356
+review/profileName: Barbara Smith "bentleys gaga"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1328227200
+review/summary: grandson loves mum-mum
+review/text: I  found these at walmart and my grandson loves these ,when surfing on amazon and found them to be delived to me  that was even better ,now I never run out of them because I alwas have mum-mum  for my Bentley<br />I open the cabinet and he sees them and knows they are for him
+
+product/productId: B000GZUBAS
+review/userId: AXBC52UXVOIO0
+review/profileName: Aleisha Fritzen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326844800
+review/summary: Mum-mum Vegetable flavor
+review/text: I love mum-mums! My kids go crazy for them. My daughter and son fight over them. lol good thing they come in packs of 2. I have even eaten them. They taste good and low in calories. Highly recommend by me!
+
+product/productId: B000GZUBAS
+review/userId: A1ZQGAX40CFS46
+review/profileName: Alex C. Rudloff
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1326067200
+review/summary: Love these!
+review/text: I LOVE these as a snack for my baby, and use them mostly when on the go since baby can hold them himself.  I keep them in my car and offer them to him when shopping, in church or other errands.  GREAT for a stroller snack when on walks/run.  Rather than puffs where they go all over and he is always grabbing and vocalizing for more, these keep his hands and mouth busy for a good while.  And he feels grown up to be feeding himself.  They are "individually packaged" with two rusks/pack which is great, because like most good things one is never enough!  He always wants one more.<br /><br />Baby liked banana flavor just fine, but I'm partial to the veggie and since he likes them, and I always end up taking a nibble or two, I just get veggie now :)<br /><br />The only reason it is 4 stars not 5 is because mum mum + baby saliva = cement.  Best to clean his hands and pick up any dropped pieces before they get uber sticky and harden.  That said, once dry the pieces do chip off clothes or stroller/carseat material easily with your nail.
+
+product/productId: B000GZUBAS
+review/userId: A67OGRYLLKLGY
+review/profileName: Catharine
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318982400
+review/summary: Good product
+review/text: I gave this product to my 6 month old who has three teeth. He loves it. I do not break it up for him although I watch him closely while he eats it. It dissolves very quickly.
+
+product/productId: B000GZUBAS
+review/userId: A1HOUYNNS4HT9Q
+review/profileName: lilcap
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294444800
+review/summary: way better than puffs for my baby;  but won't ship to APO
+review/text: My baby just loves these - she's 8 months and just really started to know how to chew.  We tried the puffs, but they were too small.  Also Mums are good car snacks, cause she doesn't have to hold a cup AND try to put small puffs into her mouth.  Just discovered these this Christmas while visiting in the states.  We live in Germany.  We're with the military, and our commissary doesn't have these so I tried to order from Amazon.  They only ship mum mums to 48 contiguous states.  I tried drug store dot com and they shipped no problem, though! Yay! Baby's gonna be happy.
+
+product/productId: B000GZUBAS
+review/userId: A17RLKPASZ8RKJ
+review/profileName: W. Lewis "Vegtbull"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1276387200
+review/summary: baby approved
+review/text: Both my children love these and I love that they are made with some veggies. These are a great snack, easy for the babe to hold, and don't make a mess. However, they are fragile and if you're not careful about how you store them in the diaper bag, they will break easily. The ONLY reason I'm not giving 5 stars is because sugar is still one of the top ingredients (although don't taste sugary) and they use a tremendous amount of packaging. A pair is individually wrapped in plastic, then all 12 pair are wrapped in another plastic package, and finally enclosed in a box. The brand could do better to have less impact on the environment w/ their packaging. Overall, love this product. It's a staple for my baby.
+
+product/productId: B000GZUBAS
+review/userId: A289RGW7O7PT50
+review/profileName: Casey Claypool "Mpls Mama"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1245715200
+review/summary: 7 month old LOVES them!
+review/text: A friend recommended these, and my daughter loves them! They're great because they dissolve quickly. I think she learned how to eat solids with these -- they're big enough for her to hold before she could pick things up with two fingers, and she would just suck/gnaw on them (she also didn't have teeth yet, so she wasn't breaking off pieces when she first started eating them). She would get SO EXCITED when she'd hear me opening a pack of them! I also used them to get veggies and other nourishing foods in here when she was putting up a stink and wouldn't eat them. I'd wait for her to open her mouth for the Mum Mum, and then I'd stick a spoonfull of veggies in her mouth. She didn't seem to care because she was getting her Mum Mum! She's getting to smart for that trick now, but it worked for a while! Just a heads up -- when she first started eating them, she stuck the end of the piece in her mouth a couple times, which was too big. As with all solid foods, make sure you're with them when they're eating. I'm a big fan!
+
+product/productId: B000GZUBAS
+review/userId: ACA6YW22GF8Z6
+review/profileName: Rona Golan
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1243468800
+review/summary: baby mum mum
+review/text: the best snack for my daughter... really good and not to bad flavor wise.<br />we love it.
+
+product/productId: B000GZUBAS
+review/userId: A2GLO7VYVDZOAA
+review/profileName: Marquita Hammeken
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1234656000
+review/summary: Hot Kid Baby Mum-Mum Vegetable Rice Rusk, 24-Count Boxes
+review/text: I purchased these for my grand daughter.  She loves them.  I have eaten some myself.  Not bad.  Healthy ingredients, no fats, colors, or preservatives. What is so good about them is that they do not create a mess as with some other brands.  And we all know what they are, right moms?
+
+product/productId: B000GZUBAS
+review/userId: A4POMQP3J286N
+review/profileName: mrspooley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1220745600
+review/summary: Love these!
+review/text: My son loves these! I choose these as his first cracker, almost his first food and he loves both the regular and vegetable variety. I break off pieces for him instead of giving him the whole thing but he gobbles it up.
+
+product/productId: B000GZUBAS
+review/userId: ADDDFVHP3CSVA
+review/profileName: Sistertex
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1203379200
+review/summary: Good stuff.
+review/text: I just got these for my grandson and even I like them. He enjoys munching them down. Something we can share is never a bad thing.
+
+product/productId: B000GZUBAS
+review/userId: ADZT19R00KDDA
+review/profileName: Juliana Milevski "Teta Julie"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1202688000
+review/summary: Mmmmm Good!
+review/text: We went to Canada to visit my nephew's godparents and he was kind of fussy when we first got there.  His godmother gave him a Vegetable Mum-Mum and he loved it.  We live in Indiana and couldn't find Mum-Mums in our area, so I ordered two cases of them.  I was so excited!<br /><br />Julie<br />Crown Point, IN
+
+product/productId: B000GZUBAS
+review/userId: A2D3RVMAW7T285
+review/profileName: LoveBeingMommy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1199232000
+review/summary: My baby LOVES these!
+review/text: Someone originally from Canada introduced these to our babies' playgroup and they pretty much all went crazy for them! Unfortunately, you can't find them anywhere, so we've all purchased them from Amazon with no trouble at all.
+
+product/productId: B000GZUBAS
+review/userId: A22DX4UMRJMY2K
+review/profileName: wan yi tsui
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1296345600
+review/summary: Great Product!
+review/text: I've tried so many Teething Cookies... The gerber ones are a joke, They just "crumble" in the baby's mouth and leave a goo on my little one's hands.  The Earth's best ones are hard, and doesn't crumble but the goo is always every where. These rice rucks are awesome, they will melt, they come off in bits and doesn't crumble in my lttile one's mouth.  Her hands are not full of cookie goo.<br />It's inexpensive.  I grew up eating the same kind of product from Hot Kids in Hong Kong and in the States. So i trust this company.  I'm just like any other moms, looking for the best product for your little one. If you are looking for a snack that your little one can hold and wont make a mess. this is it! we tried all the baby mum mum flavors. I usually go with the organic ones. but i do switch it up!<br />also, it doesn't constipate her. because is rice. and they eat rice cereal anyway!<br />If you don't want to buy 6, you can go to babysrus or target. "target is the cheapest its less than 3$" buy one box, and you wil be hooked! just make sure to look at the label that says BABY or Toddler.<br />hope this helps!
+
+product/productId: B000GZUBAS
+review/userId: A33ON0FQAIKXOI
+review/profileName: Ashley Yoon
+review/helpfulness: 42/64
+review/score: 1.0
+review/time: 1282176000
+review/summary: Made in China
+review/text: I understand that many of our daily products are now made in China.<br />And I am not saying that all products made in China are bad.<br />I own many products around the house that are made in China.<br />But food is something I refuse to buy that are made in China.<br />In the product description, it does not specify that it's made in China.<br />On the box I received indicates that it's<br /><br />*******************************************************************************************<br />MANUFACTURED BY Guangzhou Yongwant Foods Co., Ltd<br />IMPORTED BY Liberty Richter Bloomfield, NJ 07003<br />*******************************************************************************************<br /><br />I thought I would share with others who feels the same before wasting your money.<br />My purchase 1 box (6 packs) went straight to the trash.
+
+product/productId: B000GZUBAS
+review/userId: AUYITEGT1ARX4
+review/profileName: Mom in Hanover
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1319587200
+review/summary: MIC is fine, but THE NUTRITION FACTS are not
+review/text: Some people are concerned about this product being made in China, personally I think it's fine, since it's from the largest rice cracker manufacturer in the world, they should have decent quality control systems-- after all, the ingredients from the frightening food scandals in China never appears in any of their product that's made in China. (Interestingly, some of their adult rice snacks made in Taiwan were involved).<br /><br />However, I hope I've read the nutrition facts before purchasing this product:it has sugar and sodium. Baby food are not supposed to have sugar and salt added into it. THEY ARE FOR ADULTS! Especially, the sodium per serving for this product is about 2/3 the value for reduce fat potato chips. Since you cannot return grocery purchases on Amazon, think twice before you buy this. My daughter is 8 months old, I'll probably give her this after she's 12 months old -- since I cannot return this anyway, but I won't give her too much in a day simply because of they added salt into this product.
+
+product/productId: B000GZUBAS
+review/userId: A2MVQ150G6I2ED
+review/profileName: Eliana T. Anderson "Eliana"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1284508800
+review/summary: GREAT Teething - snack cookies Gluten Free
+review/text: My son is sensitive to gluten ( I nurse and I can't even eat gluten products). He is 9 months old and he has been eating these brand and all flavors cookies for 2 months now.<br />The vegetable is as delicious (in his point of view) as the sweet flavors. He also eats the organic strawberry toddler version cookie too.<br />If your baby has any type of allergies or sensitivity to an ingredient. Try these cookies. Ben and I recommend. :)
+
+product/productId: B000GZUBAS
+review/userId: AYPBBOCW24BIY
+review/profileName: J. C. Feldman "Armchair Shopper"
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1277424000
+review/summary: So delicious kids love them!  But made in China
+review/text: Such a good deal through Amazon, and if you subscribe, even better.  However, my husband made me get rid of them upon learning they're made in China.  What with all the fake milk, fake eggs, fake everything they put into baby food, even though I'm 99% sure these are fine (they gotta be, right?  I mean, they're made for export!), you never know with Chinese products.<br /><br />In this day and age I don't trust made in China anything for things my child can put in his mouth, drink, ingest, lick, breathe in, bite, bathe in, wash with, etc.<br /><br />But it's delicious.  I snacked on these too when we went to the park and we're both fine.  I still give these four stars for the taste and packaging.  So if you don't care about made in China, I recommend!<br /><br />But we're listening to daddy to be safe than sorry.
+
+product/productId: B000GZUBAS
+review/userId: A251IXB9ID12NL
+review/profileName: Mark Ruble
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1222473600
+review/summary: My son's first word was "Mum Mums"
+review/text: I am a mother to 3 children under the age of 3 and have always been worried about my little one's choking on those first "finger food" crackers. I tried Mum's Mum's because my daughter has many food allergies and these were made of rice. She loves it. My son Jacob is 11 months old and absolutely devours these snacks. In fact, his very first word was not "mamma" but "mum mum". Hmmm....highly recommend this product. P.S. Not messy like other first crackers, biscuits or cookies.
+
+product/productId: B000GZUBAS
+review/userId: AMZRY5WD5EAUW
+review/profileName: Axxul
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1210809600
+review/summary: Baby's favorite snack for the last 6 months
+review/text: I saw this at Walmart's baby aisle and decided to give them a try..my son tried them for the first time when he was 7 months and he ate them easily and without hesitation..6 months later MUMs are still one of his favorite snacks..I wish I had noticed that Amazon sells them before since they're approximately 35% cheaper than at Walmart.  I definitely recommend them!
+
+product/productId: B000GZUBAS
+review/userId: A2WH5YHDNPSWY9
+review/profileName: Redredwine "Book hunter"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1207008000
+review/summary: Baby gives this a loud "yum yum"
+review/text: This is a great product for babies who are teething and toddlers.  I read the reviews & decided to give this one a shot - thought some extra veggies couldn't hurt.  My baby loves it & says "mum mum" whenever she see it!  Highly reccomend!
+
+product/productId: B000GZUBAS
+review/userId: A2YN0T5UHUXSBM
+review/profileName: LLK
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1205452800
+review/summary: Yummy
+review/text: My baby boy loves these rusks.  I bought this product when he was 6 months old.  Now he is 10 months old and smiles when he sees me opening a packet for him.  They are easy to eat and melts quickly so he will not choke.  My 4 year old also loves it too.  I would recommend this product.
+
+product/productId: B000GZUBAS
+review/userId: A1ZXSB8BLEP5NL
+review/profileName: Ms. Renee L. Carter "RLCarter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: My kids loves these
+review/text: My almost one year old eats these all the time and my 3 year old still loves them.  I like to buy in bulk for the cost savings, and I bring a box for them for snack at daycare as well.  They also like the banana flavored ones.  They disolve in the mouth so I felt comfortable giving them when my girls could hold on to them around the time they started puffs.
+
+product/productId: B000GZUBAS
+review/userId: A3FOXMEE8558SG
+review/profileName: Nga S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: Great starter solid food
+review/text: A great starter for babies, as they get introduced to solids and makes for a good snack as they grow. These vegetable flavor ones have been a firm favorite for both our daughters over the last three years.
+
+product/productId: B000GZUBAS
+review/userId: AUMWUL2TBUSEY
+review/profileName: geraldine
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343606400
+review/summary: awesome treat
+review/text: my daughter loves these treats.  was first introduced to these by a friend and my daughter loved it so much i needed to get it for her.  i always have some when on the go.
+
+product/productId: B000GZUBAS
+review/userId: A1LX457HYZBR0A
+review/profileName: Swedishgirl73
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339977600
+review/summary: Best "No Mess" Snack Ever!
+review/text: We started feeding these to our baby when he was around ten months old and he loved them right from the start.  He is now 13 months old and I have to say, I love them better than the puff snacks, (although he likes those also), but these don't make the mess like the little puff snacks do.  Baby holds on to the cracker and eats it, rather than dumping a bowl of puffs all on the floor, half of which usually end up getting vaccumed up.  We think these are the best value for the buck as there is less waste, he enjoys them and best of all, no mess!
+
+product/productId: B000GZUBAS
+review/userId: A2NE143AJM6OKP
+review/profileName: BostonianMom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337299200
+review/summary: Great choice for young babies
+review/text: These were big hit with my baby when he first started solid. You can offer them to the baby without worrying about chocking as they dissolve in the mouth immediately. I tested them myself before offering them to my baby and they really do :)
+
+product/productId: B000GZUBAS
+review/userId: AW41FIYTMHXXL
+review/profileName: Anna_SD
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331251200
+review/summary: Baby Mum-mum rice rusks
+review/text: Those are the best crackers/snacks for little ones. They do not crumble so no mess and they dissolve very easy so babies don't choke. I started giving those rusks to my 5.5 months old twins, they loved them, my 2.5 year old toddler also likes them alot. They taste great. We tried original and vegetable flavors, both are good. I've been ordering them on the regular basis. Great for to go in the stroller or in the car.
+
+product/productId: B000GZUBAS
+review/userId: AT4TEQ216VX3K
+review/profileName: John
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329264000
+review/summary: Gluten Free Baby Loves His Mum-Mums
+review/text: I have a wheat allergy so our pediatrician has advised us not to give our son wheat until the age of 3. It's hard to find baby snacks that do not contain wheat, so I was delighted when I found these. I'm even more delighted that my son absolutely loves these little crackers!
+
+product/productId: B000GZUBAS
+review/userId: A1J3T2AHYBSRBI
+review/profileName: SkyeNoir
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325721600
+review/summary: Mum Mums are Yum Yums!
+review/text: My baby is 7 months old and she LOVES these!  They are easy for her to hold, dissolve almost instantly, have few ingredients, low calories, and make a great easy snack for home or on the go.  I couldn't find veggie flavored in the store, only the original flavor.  Buying these on subscribe and save makes them cheaper than in the store anyway, so, yay!  I took off one star because these turn into paste when wet, so they stick everywhere.  You will need a wet cloth nearby to clean up your baby and likely the area they are eating in.  I don't know of any baby so far that doesn't like these.  When my daughter goes through one pack she goes crazy for seconds.
+
+product/productId: B000GZUBAS
+review/userId: AZ4F2MMWM5Y67
+review/profileName: Flavia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: My kids' favorite snack!
+review/text: I first purchased this because my son, who was about 8 months old, was diagnosed with milk, eggs and soy allergies. Not too many products out there for kids with allergies, and this was a great find. My 5 year old decided to try (maybe out of that sibling rivalry feeling), and now it is almost all they want for snack. Which is a great thing, since it is on the healthy side, particularly the vegetable flavored one. I love hearing the crackling sound of my baby enjoying his snack, and it is pretty portable since it is individually wrapped, great for car rides. Just be careful how you transport it since it breaks off easily. I usually have a box in the car, ready for anything.
+
+product/productId: B000GZUBAS
+review/userId: A33ZNDBNWJTBKU
+review/profileName: Peri
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323993600
+review/summary: My son lives on these!
+review/text: If there were no more Mum Mums on earth, I think my son would be heart-broken.  He's been eating these since around 8 months and LOVES them.  He is 1 now, and I better not even think of leaving the house with these on me.  Subscribe and Save makes them a good price.  Otherwise, the price here is comparable to the stores.  A fair deal.  At least with Subscribe and Save, I know I'll never run out.  Whew!!
+
+product/productId: B000GZUBAS
+review/userId: A1FAPYMSO2AMJ5
+review/profileName: AllKit "nopenotme"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323648000
+review/summary: My daughter loved these from 7 months until 2 years old
+review/text: These treats were perfect for my little one. She started on them at about 7 months and they were great for a quick snack anywhere. I always carried them wherever we went. I would recommend them to anyone. They are quite plain nutritionally speaking, but so much better than sugary or salty snacks.
+
+product/productId: B000GZUBAS
+review/userId: AEQ50BFWWZHOM
+review/profileName: Rico "PR"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323129600
+review/summary: 6 month daughter loved it!
+review/text: She knows the sound of the package of mum mum and she gets excited, she loves it! I ask the pediatrician and she said was fine to give to my baby. Plus she loves it! I will always have in the diaper bag whatever i go.
+
+product/productId: B000GZUBAS
+review/userId: A26VFMRHLPELX5
+review/profileName: michelles72
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318550400
+review/summary: Great first snack
+review/text: I just bought the vegetable ones for my six month old daughter and she loves them.  There is very little mess (especially compared to most first biscuits) and she has no problem handling them herself.  It's nice to have a treat I can give her this young.  My only reason for four stars instead of five is because they have sugar. Bummer. but otherwise I guess they'd probably taste like cardboard.
+
+product/productId: B000GZUBAS
+review/userId: A2OXCDEW0C12JZ
+review/profileName: JamieP
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309996800
+review/summary: MY BABY LOVES THEESE
+review/text: I know where they are made.. BUT for my teething baby starting at 6 or 7 months.. theese have been awesome.. She is now 15 months and still loves them.. They are great for an on the go snack, they feel good on her gums, they dont make a mess, and I dont worry so much about her chewing on them.. I would reccomend them to any one..They are an awesome find....
+
+product/productId: B000GZUBAS
+review/userId: A3IHKT3Q4RLJLM
+review/profileName: J & LM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309478400
+review/summary: Easy Snack, Less Mess
+review/text: I love the Baby mum-mums for a couple of reasons -<br />1. They dissolve in the baby's mouth, so they are not as much of a choking hazard as some snacks, even if baby bites off a big piece.<br />2. They are much less messy than some other snacks (biter biscuits especially!). They clean up easily & don't stain.<br />My baby loved these & didn't seem to have much of a preference between the veggie or other flavors. They were a life saver snack when he was too little for many other baby snacks!
+
+product/productId: B000GZUBAS
+review/userId: ATE0W245UHL72
+review/profileName: A. Wicks
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303084800
+review/summary: Less mess
+review/text: My 7 month old loves these and it helps with teething (he is working on teeth 9&10). Less messy than the other teething biscuits out there and they dissolve quickly, so he doesn't choke on them. Thought they were a great deal when on sale and using the save and subscribe discount!
+
+product/productId: B000GZUBAS
+review/userId: A387M04IEU46AT
+review/profileName: D. Faccone-Rusin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Baby Mum-Mum Vegetable Rice Rusk
+review/text: I had read some pretty good reviews and thought I would try them for my grandson who is 7 months old.  He loved them and so did his mom.  They are great to take along anywhere and don't make the mess like other treats.  I hold it up and he gets so excited to see it and reaches for it.  He has several teeth but we have never had any problem with him choking on them.  They seem to dissolve in his mouth, even if he accidently bites off more than he should.  I will certainly buy more and try other flavors.
+
+product/productId: B000GZUBAS
+review/userId: AR0KN4W0ZDOHS
+review/profileName: UP Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300665600
+review/summary: Amazing snack!
+review/text: My son loves these and they just dissolve so I never worry about him choking on them. (He's 7 months old) Even thought the packaging seems redundant, it's nice that they are sealed in packs of 2 so they are easy to throw in for a meal on the go.
+
+product/productId: B000GZUBAS
+review/userId: A20T9PL7U6KUNN
+review/profileName: Dallas "squishy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291075200
+review/summary: baby loves these!
+review/text: We tried these and the banana flavor, and he likes these a lot better.  I like that they dissolve so he doesn't EVER choke, unlike other teething biscuits where a chunk can always come off.  They don't work as good as those for teething, but it's not what they're meant for.  The packaging is excessive (in a box, in a bag, in individual bags) but that's my only complaint.
+
+product/productId: B000GZUBAS
+review/userId: A3CVDICLGKRO3U
+review/profileName: J. Muchnik
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1290816000
+review/summary: Baby's favorite snack
+review/text: These are great to keep in the diaper bag and/or car when on the go.  The rusks come packed in pairs and make a great snack that travels wells.  Baby loves them, I just wish there were less additives (sugar, sodium, etc.) in them.
+
+product/productId: B000GZUBAS
+review/userId: A2PNYZVF1BAIVY
+review/profileName: NY Allie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289347200
+review/summary: LOVE THESE TODDLER SNACKS!!!!!
+review/text: These are the BEST baby/toddler snacks!  Easy to take along, NOT messy at all, easy to eat, melts in mouth, yummy, and I LOVE the veggies in the ingredients. I tell all my mom friends about this!  My little guy asks for them and all his friends come to me for some too!
+
+product/productId: B000GZUBAS
+review/userId: A23UJF80AF81FK
+review/profileName: Mary W. Baker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285545600
+review/summary: Good Baby Snack!
+review/text: These are about the only thing my 10-month-old asks for by name.  (Helps that the name is baby-friendly!).  The vegetable flavor is actually pretty tasty, and he seems to like them the best.  We also have banana, organic, and original.  I am pretty sure these Rice Krispy-esque crackers are the reason my kid is self-feeding so well.  They are easy to grasp, dissolve (for no choking fears), and taste good.
+
+product/productId: B000GZUBAS
+review/userId: A2IOTR66G634X8
+review/profileName: Caryn Lonz "SCMom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285545600
+review/summary: Love them!
+review/text: I was nervous about giving my second baby finger foods at an early age, because she only had one tooth for the longest time - unlike my first who had a mouth full of teeth by the time she was nine months old!  These were the perfect solution and my daughter loves them.  She is going to be one soon, still only has four teeth and still eats these like they're her favorite treat.  All she has to see is the wrapped package and she starts babbling like crazy!
+
+product/productId: B000GZUBAS
+review/userId: A2ZRHKM3YNEF7U
+review/profileName: C. Castany "you can't scare me, I have twins!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281312000
+review/summary: great snack
+review/text: every time I put my twins in their car seats they start crying. I just give them one of this cookies and they are instantly happy. they disolve in their mouth so it is easy to eat and much less messier than any other cookie I have tried. I looove them
+

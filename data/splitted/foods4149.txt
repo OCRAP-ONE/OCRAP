@@ -1,0 +1,1143 @@
+product/productId: B004NNDDTA
+review/userId: A2YCIDPGFKP3GI
+review/profileName: Old School Gamer
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1318377600
+review/summary: Yummy Pretzels
+review/text: These used to be carried in my local grocery store but no more....so I had to find them elsewhere.  These are so good.  I can't get enough of them.  They are pieces of large pretzels. Nice and crunchy and lots of flavor.
+
+product/productId: B0087FG9AK
+review/userId: ALGUDJWO6TO11
+review/profileName: Jon R. Kennedy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: The Best for Ice Tea
+review/text: I grew up on iced tea.  Unfortunately, being a Yankee, it was Nestea instant mix.  After moving down south, I discovered what REAL ice tea is.  Over the years, making iced tea at home, I had tried the big-name teas - Lipton, Luzianne, Tetley, etc. - and thought they were okay, but I could never quite make the tea strong enough no matter how long I left the teabags to steep.  Then I came across Red Rose at the grocery store one day and thought I'd give it a try.  Wow, was I blown away at how much better it was.  Huge tea flavor from the same amount of teabags - that astringent tannin taste was so much more that I now think other brands must somehow either use poorer quality tea leaves or screw something up in their processing.<br /><br />But then, wouldn't you know, my grocery store stopped carrying Red Rose tea, so I started ordering it online directly from the company a few years ago.  I have had only one issue with one box (it had 21 instead of 22 and I just wanted to let them know for q.a. purposes - no big deal) and they promptly sent me a whole new box.  That's real customer service!  A company that cares if you like them or not, even if the issue was such a trifle! Finally, I found you can order it here at Amazon, albeit by the case, but that saves on shipping costs vs. ordering thru Redco Foods directly (where you can order individual boxes if you want to try it out).  And at $3/box it is a terrific price and value for the superior quality received.<br /><br />So, if you would like a stronger tea flavor from your ice tea, then Red Rose is the brand you've been looking for.
+
+product/productId: B004DJHC8C
+review/userId: A3C10WRWSY149N
+review/profileName: Raven Dana
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350259200
+review/summary: TOUGH AND SPICY
+review/text: I found the product to be virtually inedible. It was very tough and the spice, rather than cajun, seemed to be pure cayenne. After the struggle for the first bite and the heat of the burn, I tossed the rest out.
+
+product/productId: B004DJHC8C
+review/userId: A1VRRXAOPBSTG3
+review/profileName: Elixir
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344643200
+review/summary: Tasty treat
+review/text: This was an unusual treat that I normally would not think about getting. However, I got it and was very surprised at how food it actually was. Surprises await you when you try new things.
+
+product/productId: B0032GQM5G
+review/userId: A11S0ZJBJ5BXT1
+review/profileName: Andrew Alan Olson "Kathryn"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1286755200
+review/summary: just like home
+review/text: can't get these at our local grocery so we order them all the time, they're easy and great and taste the same after having been frozen.
+
+product/productId: B0032GQM5G
+review/userId: A2Z1D93RSTUXEN
+review/profileName: Island Lady
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323475200
+review/summary: I get this regularly via Subscribe and Save.
+review/text: They are the perfect size for regular tacos and our favorite fish tacos. I never run out with the convenience of having these in my Subscribe and Save section.
+
+product/productId: B0032GQM5G
+review/userId: AO5EDR2POGPNE
+review/profileName: B. Dever
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1323216000
+review/summary: Mediocre at best
+review/text: These tortillas are not inedible, but there is very little flavor in them. You would be much better off with almost any other brand. The only ones I've found to be worse than these are the Taco Bell brand tortillas and the Chi-Chi's brand.
+
+product/productId: B0032GQM5G
+review/userId: AJUBE4OLGAXGO
+review/profileName: lllllll
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1302220800
+review/summary: Terrible Tortillas
+review/text: These tortillas taste terrible, and they have been sitting in my cupboard ever since I got them. I wanted a tortilla with a great shelf life, but these are just ridiculous. There must be some sort of preservative they use that gives them this indigestible taste. I have done my best to give them some palate feel by buttering and frying them, but every method has proven futile and these tortillas remain unused. Do not waste your money.
+
+product/productId: B0032GQM5G
+review/userId: A12FZW4N0UEJ3P
+review/profileName: Jacob C Acheson
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1294185600
+review/summary: Description/Price per oz is wrong
+review/text: I ordered these because it said it was .11 per ounce. You get 12- 8.2 packages for 21.13. That's 98.4 oz for 21.13 which is actually .21 per ounce.
+
+product/productId: B002FJM9SU
+review/userId: A2D6914PKBFTM2
+review/profileName: CL
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323388800
+review/summary: Good food for baby and toddlers
+review/text: I was pleased with this product for my baby. She has used organic formula along w/ breastfeeding. I was very confident feeding her this as I had done much research.
+
+product/productId: B002FJM9SU
+review/userId: A3LPV8TJEST7NG
+review/profileName: Navy mom
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323043200
+review/summary: Has worked great for us
+review/text: My baby has been on this from 5 months and has worked great. He is now 14 months and thriving. I wish I knew about this when daughter was on formula.
+
+product/productId: B002FJM9SU
+review/userId: A1MM8QDC2OBU2P
+review/profileName: SparklingBrightPink
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1322524800
+review/summary: Totally outstanding
+review/text: Here is why this is the perfect formula:<br />1. Organic<br />2. No corn syrup solids (almost impossible to find this)<br />3. Fortified with DHA<br />4. DHA is extracted using organic processes versus the indrustry standard of using hexane (toxic for the environment, at the very least)<br />5. Great taste<br /><br />Our daughter is 13 months - we do 1/2 organic whole milk, 1/2 this formula.  She was breastfed for the first year, and transitioned easily to this formula.<br /><br />Highly recommended!!
+
+product/productId: B002FJM9SU
+review/userId: A548ZPM2GUC4C
+review/profileName: baby mama 2010
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1319760000
+review/summary: Switching baby from exclusive breast fed to this formula at 1 year!
+review/text: So I know that it is ok to give a baby cow's milk at 1 year old, but I have exclusively breastfed and my son has never had any formula or cow's milk before 1 year.  So I am transitioning to this, it has more vitamins than regular milk, it doesn't stink like formula (while it doesn't smell great, but I'm used to breast milk) and I think it is a healthier option than giving him regular whole milk.  I am still weaning---down to 2 nursing sessions a day) but I am doing 50% breast milk with 50% formula and he seems to like it fine!  The first time I tried it, he furrowed his brow a couple of times but still drank 4 oz (I have never been able to get my son to drink more than 5 or 6 oz from a bottle).  So we are very pleased, I am going to taper him over to this gradually from breast milk so hopefully he will  have no problems and will hardly notice the transition.  I'm planning to do 70% formula to 30% breast milk next week and then just straight formula, depending on how long my breast milk stash lasts.<br /><br />I honestly believe the hardest part in introducing any food/milk is patience and consistency.  I think I have put peas and sweet potatoes  in front of my son 8 times until one day he decided he would eat it.  I think so much of it is nutrition training...
+
+product/productId: B002FJM9SU
+review/userId: ABJ1JI51HW8F7
+review/profileName: Julia
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1331164800
+review/summary: arsenic
+review/text: I used this formula for my baby thinking I was getting the best (with all the info about hexane, DHA, etc.). But recently it was out in the news that Baby's Only, both dairy and soy formulas, contain arsenic levels 20-30x more than that of other formulas. Now that is a huge difference.<br />  Because the 2 official statements this company has come out with are just denials of what the studies have shown, I no longer trust this company. Why not just replace brown rice syrup with another sweetener? But they continue to claim brown rice syrup is safe, when it's been found to contain high levels of arsenic. Safety should be the priority, especially when you're dealing with infants/toddlers, not profit.
+
+product/productId: B002FJM9SU
+review/userId: A33303Y3A5ZGXX
+review/profileName: dranglophilia
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1330646400
+review/summary: Doctors said to discontinue due to highest arsenic levels of any formula out there
+review/text: After consulting with many doctors in our area, ww decided to discontinue this formula.  The high levels of inorganic arsenic in this formula are believed to increase the risk of many cancers, diabetes etc.  Although we have been feeding this stuff to our baby for about 6 months, the doctors said it is no cause for alarm, but to be on the safe side to change to any formula that does not contain brown rice syrup as its principal ingredient, until more studies have been completed.  It is astounding to me that the brown rice syrup is not regularly being tested by Nature's one because he FDA does not have any firm standards for arsenic.  What a cop out.  This is completely irresponsible considering its the main ingredient.  I did a lot of research before feeding this to my child and wanted to believe that this was the best formula out there but I feel like we have been let down.  I guess I have to rethink that idea that anything labeled "organic" is made with purest, ethical ingredients.  Anyway, I know other formulas have their drawbacks too (hexane, etc), but they are much lower risk than the inorganic arsenic which i read takes about 2-3 days clear half of it from the body and about 7 months eliminate all of it.  Look elsewhere.
+
+product/productId: B002FJM9SU
+review/userId: A3G2H4HEXNUYS3
+review/profileName: Nick
+review/helpfulness: 6/11
+review/score: 1.0
+review/time: 1329955200
+review/summary: Baby's Only - Only if you want arsenic (Recalled in Canada)
+review/text: We used this product for many months only to find out recently that it had elevated inorganic arsenic levels equal or higher than the FDA standard for drinking water.  The company refuses to publish testing results, likely out of fear that they are higher than what the Dartmouth study revealed.  This company is not honest with its customers.  AVOID AT ALL COST.  My daughter will be tested for arsenic shortly - I repeat this company is not ethical - go to their facebook page and see the number of unhappy parents.<br /><br />Do your research and find another formula.<br /><br />P.S.- 2/27/12 - The Canadian version of the FDA has issued a recall on all Nature One products.
+
+product/productId: B002FJM9SU
+review/userId: A24UTJU9XAMGGN
+review/profileName: Robert Stehwien
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1328918400
+review/summary: Another baby with (bad) constipation
+review/text: Formula tastes good and is high quality but our poor girl got serious constipation from drinking it (we made sure by changing only one thing in the diet).
+
+product/productId: B002FJM9SU
+review/userId: A1U0RNXMUOP9XI
+review/profileName: Todd B.
+review/helpfulness: 2/5
+review/score: 1.0
+review/time: 1338854400
+review/summary: Do your research
+review/text: If you do a search for "arsenic baby formula" you will see the results of a study that showed that this formula contains high levels of arsenic.  Read the study, make your own decisions.  The study isn't talking about organic baby formula in general, it is specifically this brand, this formula.<br /><br />When I told my pediatrician we were giving our daughter organic formula, she made sure we were not using this brand.  Unfortunately, we bought this before reading the study.  We won't be using this formula.  Instead, we're going with Vermont Organics.<br /><br />**Update**<br /><br />A recent article in Consumer Reports shows that Baby's Only has made an effort to remove arsenic in their formula.  Look for a use-by date of January 2014 (Dairy with DHA & ARA), July 2015 (Dairy), or later.  In these newer formulas, arsenic is undetectable.<br /><br />I'm leaving it at 1 star because I have 3 cans of this that I can't return and that I'll never use.  I won't be buying the new formula because my daughter is already enjoying Vermont Organics and there's no point switching, so I don't know if the new stuff is any good.
+
+product/productId: B002FJM9SU
+review/userId: A21QAOU5PLEA95
+review/profileName: Mg
+review/helpfulness: 2/5
+review/score: 5.0
+review/time: 1330473600
+review/summary: Safe and great for my child
+review/text: I am happy with my product. I bought this and it is safe for my child because they didn't have constipation. He loves it, I reccommend all parents try it on their toddlers and babies.
+
+product/productId: B002FJM9SU
+review/userId: A1QTU5RH4HLDCO
+review/profileName: Krissty341
+review/helpfulness: 5/10
+review/score: 1.0
+review/time: 1329955200
+review/summary: ARESENIC
+review/text: I would give it a zero if I could. Please do not give this to your child. I have been giving it to my 9 month old for 4 months now. Look into the formula history and the non-bias studies showing that there is arsenic in the Organic Brown Rice Syrup. Please do your research and do NOT give your little one this formula. We as parents go out and research and try to provide the very best for our children and this company is okay with the amount of arsenic that is in their formula. I am not okay with that...there should be NO pesticides in the formula. Shame on YOU Nature's One Shame on YOU. Please do not be deceived like I was.
+
+product/productId: B002FJM9SU
+review/userId: AU2JWB80KBXLF
+review/profileName: Diem
+review/helpfulness: 3/7
+review/score: 1.0
+review/time: 1334534400
+review/summary: Do your research first. Contains Arsenic from Brown Rice Syrup!
+review/text: i've switched to Earth's Best since..Organic Brown Rice Syrup is the main ingredient and reports have shown that Organic Brown Rice Syrup: Hidden Arsenic Source.<br />This formula is VERY sweet, like a milkshake. Beware!I'm very upset bc i pay a lot of $ for organic only to find there's hidden dangers such as arsenic.<br /><br />[...]<br />[...]
+
+product/productId: B002FJM9SU
+review/userId: AZU0ECDXQMZ28
+review/profileName: Diego
+review/helpfulness: 3/7
+review/score: 5.0
+review/time: 1331337600
+review/summary: Don't be fooled by the arsenic reports
+review/text: I hate seeing recent 1 star reports due the flawed arsenic study. Do your research and you'll realize this is the best formula out there. There are no better alternatives.<br /><br />Diego.
+
+product/productId: B002FJM9SU
+review/userId: A1N7EOFVTROINF
+review/profileName: runningmama4
+review/helpfulness: 3/7
+review/score: 5.0
+review/time: 1330128000
+review/summary: Nothings perfect, but we love this formula!
+review/text: My twins have been on this formula since they were about 7 months old.  It was an easy transition for them from breastmilk... no constipation or anything.  I did a lot of research at the time to try to find the best formula for them.  I was really impressed with the high quality ingredients, lack of corn by-products, etc.  I ruled out other formulas one by one due to other concerns (hexane, bpa, etc).  Now my girls are almost a year old and we are almost done with formula and there are reports out about arsenic concerns.  It is a bit alarming, however I'm not sure what I would switch them to since I already ruled out all of the other for various reasons!  Certainly can't go back to breastfeeding at this point.  It seems that everything out there from baby formula to apple juice to baby shampoo has something in it that's bad for us.  It's a scary world for a parent, trying to find the best products for our children.  But at some point we just have to take a deep breath and relax.  We're doing the best we can.  My babies have been happy and healthy while on this formula.  They are chubby and regular.  I don't plan on switching them to any other formula (which would have some other ingredient for me to be concerned about).  My only advice to moms out there is to breastfeed for as long as you can!
+
+product/productId: B002FJM9SU
+review/userId: A2U9XV81IV0WS4
+review/profileName: LucyR
+review/helpfulness: 3/7
+review/score: 5.0
+review/time: 1329696000
+review/summary: Tips: My baby started this from 2 weeks and is now a happy, healthy 9 mo old.
+review/text: I had previously had three babies that breastfed like pros, but my fourth child had to have formula because she did not suck strong enough to make my milk supply stay at all and for some reason pumps don't work for me--even the hospital ones : (<br /><br />At two weeks I started transitioning my baby from Enfamil newborn to Baby's Only.  I did half and half for 2 canisters worth.  Yes, she did get constipated a bit, but I only had to use a glycerin enema twice.  These are the tips I have.<br /><br />1. Water it down a bit--3 oz of water for each scoop.  After about a month I realized that this combo of 3 oz to each scoop worked much better for my daughter.  She has been using this mixture for 7 months and is growing very well.  This also saves you money on formula and is my most important tip. : )<br /><br />2. Stir or swish around, do not shake up and down.  Luckily I have wide mouth bottles--Tommee Tippee bottles.  If you use a clean craft stick or something to stir it with or you can swish it around in a circular way it does not make bubbles.  If you shake it up and down it makes a TON of bubbles that don't pop very easily and your baby will not be happy with a bubbly tummy.<br /><br />3. Give it some time to transition.  If you are transitioning from breastmilk--that is great, just do half and half for about 2 weeks and then the next week or two do 1/4 part breastmilk or old formula and 3/4 part Baby's Only.  Just in case your baby does get constipated, have Fleet glycerin enemas on hand if your baby hasn't pooped in 2 or more days and is getting uncomfortable.<br /><br />If you have a Sprouts (grocery store) nearby they also sell this and it is a bit cheaper.  Plus, if you buy a case you get 10% off.<br /><br />This formula is wonderful and can work for your baby, even if it takes a little bit of time to get used to.  Best wishes.
+
+product/productId: B002FJM9SU
+review/userId: A1FDTMGZ07I3LZ
+review/profileName: Alexandro Gomez "alex tech"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1349568000
+review/summary: WARNING ARSENIC
+review/text: brown rice and rice in general has a lot of arsenic! any rice or brown rice syrup from texas and other southern states is dangerous! avoid this!!! when eating rice products buy rice from asia.
+
+product/productId: B002FJM9SU
+review/userId: A1XYMY4L8XSIE6
+review/profileName: smartshopper
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1347062400
+review/summary: The worst constipation!
+review/text: My lo never had a problem with any formular such as, similac, enfamil, gerber and etc EXCEPT Baby's only.<br />This formula gave him the worst constipation ever.  I noticed that he didn't have bowel movements for a few days, and I was a bit worried, then one day, I saw him trying to push, his face turned really red,<br />crying so hard in pain.  When I took off his diaper to see what was going on, I was horrified to see that<br />his bottom was bleeding as the big hard stool was stuck in his buttock.  My lo was just 5 months old, and was desperately trying to push it out, but he couldn't.  So, I had to dig the stool out with oiled q-tips.<br />The stool eventually came out with 15 min of struggle, but I felt like an hour.<br />The bleeding wasn't light, so I had to take him to our doctor.  The doctor told me it left several fissures<br />in his anus. I threw away two unopened cans in the garbage as soon as I returned home.<br />As soon as I changed his formula to another brand, he became a happy baby once again.
+
+product/productId: B002FJM9SU
+review/userId: A22T5S3SZ5NQ6E
+review/profileName: still searching
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1324944000
+review/summary: Great product, but didn't work out
+review/text: Approximately one month ago, we needed to start supplementing with formula as my milk supply wasn't enough for our 5 month old. I wanted to provide the best possible alternative and came up with Baby's Only. I agree that the ingredients are great...nutritious without any unnecessary extras. She seemed to do ok when I made bottles with half breastmilk and half formula. However, this past week we have gone to full formula bottles and unfortunately she hasn't been able to tolerate it. The powder is thick and doesn't dissolve very well. So I end up stirring it which causes a ton of air bubbles. This has in turn caused some major gas pains and sleepless nights for her. I also noticed that she was starting to become constipated. Reluctantly, I switched to a mainstream brand of formula and she has been doing great. It dissolves almost immediately, no air bubbles and looks a lot like my own milk.
+
+product/productId: B002FJM9SU
+review/userId: AABX5ZDTNPHUE
+review/profileName: J. Schippert "Baseball Nut"
+review/helpfulness: 4/9
+review/score: 1.0
+review/time: 1332979200
+review/summary: DO NOT BUY!!!
+review/text: Do not buy!! I did some research on brown rice syrup (#1 ingredient in this formula) and studies show that dangerous amounts of arsenic were found in organic powdered baby formula, intended for toddlers, whose top ingredient was brown rice syrup. These formulas contained six times more arsenic than the Environmental Protection Agency considers safe for the water supply. It seems there are no safe toddler formulas anymore.. Enfagrow used to be my choice, but they changed to high fructose corn syrup and almost doubled the amount of sugar in their formula... I am a firm believer that everything is okay in moderation, even high fructose corn syrup, but this is not needed in a toddler formula that they will be consuming many ounces of each day....I think I will just stick with Horizon Organic Milk with DHA and OMEGA 3... I will just have to get my daughter some iron in her foods that she is fed though out the day... I breastfed all of my children until they were 1, but liked to give them the toddler formula after they turned 1 in order to get the iron that they needed. Just think twice before purchasing any of these toddler formulas!!
+
+product/productId: B002FJM9SU
+review/userId: A3UR7U7NYOCSF3
+review/profileName: Amazon Fan
+review/helpfulness: 2/6
+review/score: 1.0
+review/time: 1343779200
+review/summary: NOT GOOD!, ARSENIC ETC... + NO CALL BACK, NOW USING HOLLE
+review/text: We had been feeding our baby for weeks using this formula, but then realized the studies recently found.<br />I guess we did not want to believe it but call the company after all. First it was hard to get someone qualified about the issue, the lady was nice but couldn't help us.<br />So she toke our number saying someone would get back to us, but nobody ever did, do they want to stay away from the arsenic issue???<br />Nutrition is so important in a babies first few months of life that we now use another brand and have moved on from this one.<br />It's so dissapointing that they have to add sweetner anyway! I mean it's a baby formula, and being one of the first ingredient it tells you a lot.<br />We now use the Holle brand, it was very hard to get before but fortunately now avaiable on amazon! Much better quality, more organic and especially no added extra useless stuff that should not be in a baby diet!
+
+product/productId: B002FJM9SU
+review/userId: A3VK8A043LR22Z
+review/profileName: A Citizen of Earth
+review/helpfulness: 3/8
+review/score: 1.0
+review/time: 1333756800
+review/summary: High Levels of Arsenic found in brown rice syrup which causes cancer
+review/text: Nature's one submitted samples to the FDA to test for arsenic, the tests are complete but Nature's one won't release the numbers. Will the FDA release these numbers? The wait smells fishy here. Arsenic can cause cancer and other chronic illnesses.  All concerned parents should stop this product from natures one until they prove through FDA that their baby formula products do not contain high levels of Arsenic or no Arsenic for that matter.  Natures one SHAME on you for deceiving millions of innocent parents and little angles who do not know anything about capitalism and money greedy companies who self claim they are the best in what they do when they aren't.<br /><br />[...]
+
+product/productId: B002FJM9SU
+review/userId: A3DML6OOB27JE7
+review/profileName: Lola85
+review/helpfulness: 5/12
+review/score: 1.0
+review/time: 1329350400
+review/summary: Brown Rice Syrup contains arsenic!
+review/text: A new study found that baby formulas that had brown rice syrup  as the main ingredient had twenty times the legal limit of arsenic in them.<br />[...]
+
+product/productId: B002FJM9SU
+review/userId: A1VZBHJXL2ANYV
+review/profileName: Kim in Mpls
+review/helpfulness: 2/7
+review/score: 1.0
+review/time: 1335052800
+review/summary: DO NOT BUY - Contains high levels of arsenic
+review/text: As some of the other reviewers have noted, Baby's Only Organic Formula contains high levels of arsenic. I would love to have exclusively breastfed, but, due to a low milk supply that couldn't meet my baby's needs, I have to supplement with formula. I did a ton of research before buying Baby's Only and thought I was giving my baby the next best thing to breastmilk. I didn't want to buy Earth's Best because it contains hexane. Baby's Only was the only organic formula I could find without hexane. So I was appalled when I learned that Baby's Only dairy formula tested for high levels of arsenic (read the story on the Boston Globe's website: "Arsenic hidden in baby formula, cereal bars, and energy shots?") due to the brown rice syrup in it. Baby's Only hasn't issued a recall, voluntary or otherwise. I cannot believe this formula is still being sold. DO NOT BUY BABY'S ONLY. I ended up ordering another organic formula called Holle from a website in Germany. It's not available in the US, but the international shipping cost was worth it for my baby's health.
+
+product/productId: B002FJM9SU
+review/userId: A2P80QL4JD89IE
+review/profileName: Frank Frank "Frank"
+review/helpfulness: 3/9
+review/score: 5.0
+review/time: 1331424000
+review/summary: The ONLY Organic Toddler formula
+review/text: This is the only Organic Toddler formula we could find. I have no idea why no others exist. Why would you give your kid anything but Organic for milk?
+
+product/productId: B002FJM9SU
+review/userId: A2QEZ2KVHTJV9X
+review/profileName: New Mom
+review/helpfulness: 4/11
+review/score: 1.0
+review/time: 1329350400
+review/summary: Arsenic
+review/text: I am so upset....I fed my baby this giving her 1 to 2 bottles in order to supplement the breast milk.  My child got ill.  She had very bad diarrhea and had blood in her stools.  Tests were taken and came back negative for salmonella and ecoli. My pediatrician had recommended I stop giving this formula because she didn't think it gave my child the nutritional value she needed so I stopped giving it to her.  She got better and recovered.  I didn't know why she got ill, now I'm wondering if it was due to this formula :(<br /><br />Breastfeeding is best, I know this, but I what formula is safe to supplement with?  We don't have many choices so I will continue to try to get my milk supply up.<br /><br />Very upset!
+
+product/productId: B002FJM9SU
+review/userId: A7F357DFUU1AE
+review/profileName: Amy Schuler "aqua"
+review/helpfulness: 1/7
+review/score: 4.0
+review/time: 1273968000
+review/summary: like the product.....didn't like the shipping
+review/text: Love this product but when we got these shipped over half of the cans were dented. I will not be ordering from them again. Will buy in store.
+
+product/productId: B002FJM9SU
+review/userId: A30E0WUQQIYQ6Z
+review/profileName: Annie O.
+review/helpfulness: 3/11
+review/score: 1.0
+review/time: 1329523200
+review/summary: Buyer Beware
+review/text: Nature's One, the company that makes Baby's Only, has done nothing but lied, deceived, evaded and deflected blame since the arsenic finding was publicized. They're not even regulated by the FDA, though their reps will tell you they are if you call them! I wish I'd never heard of this company. Roll the dice with another brand. This one can't even be considered the best of the worst.
+
+product/productId: B002FJM9SU
+review/userId: A27LHIJIFWPES5
+review/profileName: Abby Holcomb
+review/helpfulness: 4/13
+review/score: 3.0
+review/time: 1282003200
+review/summary: Great tatste, but 1/3 the calories
+review/text: I bought this formula for my 12 month old baby. He loved it. The taste is great and I have not had the mixing problems mentioned by another review. The only problem is that my son started to wake up at 3am hungry, even though I was giving him the same amount of formula. I looked at the nutrition information and noticed that the formula has less than half the calories that Enfagrow next step has. Once I switched back he started sleeping through the night again. For a growing baby boy who needs all the calories he can get, I do not recommend this formula. There is no price to my baby's health, yet when this cost twice as much as the other brands and still does not fill it is really not worth it.
+
+product/productId: B002FJM9SU
+review/userId: A356E0SUU6DXPX
+review/profileName: jc7k "jc7k"
+review/helpfulness: 0/6
+review/score: 4.0
+review/time: 1277856000
+review/summary: Good product, bad shipping
+review/text: The product seems to be highly rated by parents and is a good value. However, the shipper delivered my order to the wrong house and when I called Amazon, I was told the tracking info was wrong and to wait another day. It turns out it was delivered the right day, but to the wrong house. Thanks to my neighbor, I did get the formula a day later. What's the point of getting 2-day shipping if it is not delivered to the right place on the right day? I'll give it one more try. If there is shipping problem again, I will buy this product elsewhere.<br /><br />The second order went much smoother. I will be ordering this product from Amazon again.
+
+product/productId: B002FJM9SU
+review/userId: A3DHUOF6A156IM
+review/profileName: G. Bartolome
+review/helpfulness: 1/9
+review/score: 5.0
+review/time: 1323388800
+review/summary: It clearly says "TODDLER" formula!
+review/text: In other words.. Do not feed to newborns or infants!<br /><br />I'm reading about all these babies reacting with constipation, and as a mother of 3, it makes me feel bad that those babies have to go thru all that pain!<br /><br />C'mon people!  A little bit of common sense isn't gonna hurt.
+
+product/productId: B002FJM9SU
+review/userId: A38RDCFKZPQQKX
+review/profileName: Pdubs "pdubs"
+review/helpfulness: 94/106
+review/score: 1.0
+review/time: 1330041600
+review/summary: Natures' One Deleted My Post from their Facebook page.
+review/text: Nature's One deleted my post from their Facebook page so I am posting my doctors recommendations here.<br /><br />If there is any question whether this company is hiding something it was quickly answered after they deleted my post in which I described recommendations that I received from the toxicologists at Environmental Health Sciences at Children's Hospital in Boston, MA.  This department specifically deals with public health issues regarding environmental toxins so I believe their opinions are less biased than that of Natures One or their "independent researchers."<br /><br />Anyway, I have been feeding my baby this formula since she was born 5 months ago.  I was concerned after hearing the news report regarding the levels of inorganic arsenic in the brown rice syrup so I called my local pediatrician who recommended that I call Children's Hospital.  The toxicologist recommended that I stop using any formula that contains brown rice syrup as its principal ingredient along with any other baby food products with it until they have more information. He mentioned the Dartmouth study stating the brown rice syrup has well over the recommended amount of inorganic arsenic, about 6x times past the limit.<br /><br />It was a relief to hear from the toxicologist that I need not worry about any acute or chronic arsenic toxicity for my baby, and that she does not require any urine, blood or hair tests.  This is in contrast to what many other pediatricians have recommended for their parents who are feeding their children the same formula.  The toxicologist believes that my daughter's risks to developing any illness, cancer etc was less than 1% greater than a child who had not been given the formula, so that was very reassuring.<br /><br />After hearing these recommendations from Children's Hospital I could see how someone would still continue using the Natures One product because the health risks are low, however I opted to switch because I realize my role as a parent is to reduce any risks to my child, even if it is less than 1%. There are so many other chemical risks out there that I feel any risks that you can take off the table would help protect my child because it is probably the cumulative effect off all these chemicals that leads to adverse problems. And i figure if those people who have a Masters in Public Health are recommending to discontinue it who am I to disagree with them.<br /><br />An ethical company would have taken the Dartmouth study information and told the public that they will try to improve on their product, ie. reduce the inorganic arsenic, however, they still claim they make the finest baby formula out there.  Their website says they are looking out for the health of our children but refuse to recall or change their product which speaks for itself.<br /><br />In light of them deleting my post above from their Facebook page, it appears that they definitely have something to hide, as I was just posting public health information that I felt people in my situation would like to know given to me by one of the most reputable health institutions (Children's Hospital) in the world.<br /><br />Obviously, I would give this product zero stars if I could.  Hope this info helps some of those confused, concerned parents out there like me.<br /><br />UPDATE #1*** please read the article from the Huffington Post written Dr. Gary Ginsberg, a toxicologist from Yale.  It is in line with the recommendations from Children's Hospital of Boston.<br /><br />UPDATE #2*** I received a response from Dr. Gary Ginsburg in response to the new testing results by Nature's One.  Looks like their testing results indicate an even worse situation than originally thought.  Here is the response from Dr. Ginsburg: "Seeing your comment made me hopeful that this is just lab error, a false alarm. However, saying that Dartmouth doesn't know how to measure arsenic is like saying Roger Federer doesn't know how to play tennis. The Nature's One press release sounded scientific - they explain how the Dartmouth analysis was different from their method and why theirs was better. But when you click on their own results - in 3 samples of their baby formula, the inorganic arsenic is actually greater (53 to 83 ppb) than the Dartmouth results (10-20 ppb)!! So calling the Dartmouth results too high and flawed is an insult to Dartmouth as well as to all of us. Further, they compare their results to an outmoded WHO (CODEX) arsenic acceptable intake of 2.1 ug/kg/d. This was withdrawn in the latest CODEX because it was too close to the cancer effect level and CODEX did not supply a new value. Nature One claims that Dartmouth relied on the 2.1 ug/kg/d value but in fact Dartmouth used 0.3 ug/kg/d (the dose corresponding to USEPA's drinking water std) to compare against. If Nat1 used that target, their baby formula would be in the danger zone, so they chose the withdrawn target instead. The bottom line is that the company's own data make the situation worse, with levels of arsenic in their baby formula 5 to 8 times greater than the USEPA drinking water standard for inorganic arsenic (10 ppb)."
+
+product/productId: B002FJM9SU
+review/userId: A236SWR0PUAQDY
+review/profileName: R Nichols
+review/helpfulness: 34/40
+review/score: 5.0
+review/time: 1299801600
+review/summary: Perfect formula for an organic family
+review/text: Love this formula. All of the nutrition, none of the ridiculous crap.<br />My son started to self-wean around 8 months, which was devastating for me since I know the wonderful benefits of human milk for human babies. I researched a TON--from goat's milk, to raw milk, to every formula under the sun. This was the best option I could find. The ease of not having to refrigerate it, combined with it being the closest to human milk as you can get--even down to tasting slightly sweet. Yes, I tasted it.<br />I love that they have a lactose-free option that isn't soy. Soy mimics estrogen and should not be fed to infant boys. Or girls, for that matter.<br />It does tend to be foamy when you shake it up, but we just scooped it off with a spoon--no biggie. Even if we didn't remove the foam, son didn't get gassy from it.<br />I know it says it's a Toddler Formula for 12 months and up, but that is because the company is a proponent of breastfeeding for the first year. I actually think it's admirable for them to do that. This company's obviously not like the mass-market big brands.
+
+product/productId: B002FJM9SU
+review/userId: A2JW4AOWXS1CN9
+review/profileName: Blue Subie
+review/helpfulness: 21/25
+review/score: 1.0
+review/time: 1314489600
+review/summary: HIGH ARSENIC LEVELS
+review/text: 6/10/12 For those interested in the Holle brand of formula, please visit:<br />violey.com<br />At the top of the page please select English and then perform a search for Holle.<br />Please also see the pictures here for the nutritional information for the stage 1 and stage 2 Holle formulas.<br /><br />Please continue to feel free asking questions/concerns, etc in the comments.<br />There is a bunch of info in there, along with other user testimonials, so be sure to check them out, too.<br />---------------------------------------------------------------------------------------------------<br />****As of 2/16/12 since the news of the elevated arsenic levels, we are searching for an alternative.<br />The Nature's One brand of Baby's Only, both Dairy and Soy based formulas, have been mentioned as being the highest of the brands tested.<br /><br />This information was published on several different media sites that I was able to find. Although the scientific results and brands were not released, I've found from several different sources that this brand is far higher than the others, contrary to the statement posted on the Nature's One website.<br /><br />**3/13/12 For anyone interested, we have officially switched to the Holle brand of infant formula. Our daughter has been on this formula for almost 2 weeks, and she took to it right away. There is plenty of information, along with user reviews from around the world, online.<br /><br />Unfortunately, it is not available for sale here in the US.<br />Please see the source I have been ordering from in Germany that offers relatively moderate shipping fees in the comments.<br />If you have any questions about the Holle products, please leave a comment, and I'll get back to you at my earliest convenience.<br />----------------------------------------------------------------------------------------------------------------------------<br />ORIGINAL REVIEW:<br /><br />I ordered this formula because my wife is starting back to school in a couple of weeks, and won't have the ability to breastfeed or pump as she has been doing. I have read much of the info from the manufacture's website, and the many online reviews. Even with the occasional constipation some users have had, we decided to give this a shot.<br /><br />Our 4 month old daughter (wow does time really fly with them) took right to it. My wife tasted the formula, and said it is sweet like breast milk tends to be. We had tried another brand since we get free samples, and it must have been awful. Our daughter didn't like it one bit.<br /><br />We haven't had an issue with constipation, however she is still receiving breast milk, which may be helping with that. We are hoping that my wife will be able to pump enough in the mornings and evening, before and after class, to keep a supply, and only really need to supplement with the formula, which is only twice a day currently.<br /><br />I also really like that the manufacturer is an advocate of breastfeeding, and that is why they label their products for 12+month infants.<br /><br />You also can't go wrong with the 3 pack price that Amazon offers. Plus is comes with free 2 day shipping using Amazon Mom Prime.<br /><br />UPDATE:<br />Our daughter is now on this formula exclusively. She hasn't had constipation issues as other reviews have mentioned. Her bowel movements are firmer, and more solid, which makes clean up easier, and still regular. I wouldn't say she has any pain associated from this though.<br /><br />She still also takes to it wonderfully. There was never any problem with her distinguishing between breast milk and this formula.<br /><br />As a note, Amazon's price on this only saves us 1 cent per can compared to the local Whole Foods price. However, we do not regularly shop at Whole Foods as it isn't very convenient for us. The 2 day shipping is great, and very convenient. Just make sure to stock up while Amazon has it in stock. They seem to sell out quite often.<br /><br />ANOTHER UPDATE: 11/6/11<br />The Amazon price has increased on the 3 pack of this formula. It is no longer feasible to buy from here, so off to Whole Foods we go. Somewhat disappointed, as Amazon was saving us money, and valuable time.
+
+product/productId: B002FJM9SU
+review/userId: A1IH8KWOB9H0SI
+review/profileName: Laura Garden
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1342569600
+review/summary: The best formula
+review/text: After doing months of research on all different formulas, I decided to go with Baby's Only. If you read the overwhelming amounts of positive feedback from satisfied moms, the choice is clear. My baby LOVES the taste of this formula and has already increased her intake of formula by and ounce per feeding. She had been on Gerber Good Start prior and although I wasn't unhappy with it, I wanted to go Organic for her. She would drink the GGS, but she didn't like the flavor and ate a lot less. Now I can tell she is thrilled to drink her milk.<br />I realize there has been a lot of backlash about the arsenic issue back in February, but if you go to the Nature's One website, you can read all of the steps that they have taken to correct this and test for it more stringently. This is a company that makes a very reputable product at a very good price.  I highly recommend it.
+
+product/productId: B002FJM9SU
+review/userId: A31K5IJZB5FYPK
+review/profileName: adelina78
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1326326400
+review/summary: caused constipation
+review/text: I too wanted to love this formula because i believed it was better for my little one.  however, we also experienced issues with constipation.  my poor baby was in so much pain that she would cry.  the smell was good and the consistency was good too, however it just didn't work my baby's tummy.  we have used other formulas and she has not gotten constipated with those.  she has also been exclusively breastfed for about 3-4 months with no constipation issues.  she is now going on 5 months and i am only supplementing here and there with formula.
+
+product/productId: B002FJM9SU
+review/userId: A1C8NAHYR6Z10F
+review/profileName: Asha D. Horikawa
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1344470400
+review/summary: seems like good quality product, and baby was a fan
+review/text: I exclusively breastfed my first daughter, but when my second little girl was born, things didn't go as well. We have luckily over come many of our challenges, but we did have to supplement with formula for a little while. This was the formula we chose, and we were very pleased with it.<br /><br />This formula did not cause our daughter digestive issues at all, though we did couple it with Bio Gaia probiotics which we ordered through Amazon and later probiotics from CustomProbiotics. She seemed to like the flavor though it has a less sweet smell than breast milk, and it was not overly thick.<br /><br />There is a lot of information out there on the quality of this formula, and one of the best things about the company that produces it is that they advertise it as a "toddler formula" because they support that breastfeeding is the normal way to feed infants for at least their first year. They say to consult your doctor for correct feeding amounts - and I think all of this is a great way to approach formula sales. I have also never seen samples of this brand given out at hospitals which is very helpful for people trying to establish breastfeeding in the early days.<br /><br />If formula is necessary or preferred, this is a great formula - possibly the best out there.
+
+product/productId: B002FJM9SU
+review/userId: AF8SREA2XE7BJ
+review/profileName: M. Karazim
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1342915200
+review/summary: If it works for you, use it
+review/text: I think, despite anything else, that is formula is the best on the market.  I know all about the arsenic scare, but every single formula out there has at least one thing in it that I would consider to be harmful, whether it be hexane derived DHA, BPA in the packaging, or corn syrup solids as the first ingredient.  So which is the worst offender?  I really wanted to breast feed, but due to being on medication that would be passed into my breast milk and dangerous for the baby, I could not.  So, I began my search for the best formula.<br /><br />I can't give this formula a bad review based on my experience, because if it had worked for us, I would not hesitate to use it.  But it caused terrible constipation, to the point of my poor baby having a little blood come out with the hard stools he passed while on it.  He was in a lot of pain for about a day, and it's just not worth watching him go through that.  I did have fair warning.  Other reviewers said they'd had problems with constipation, but I still wanted to try it.  I thought well, what if it does work for us?  If I didn't try I'd be missing out.  I see now that it was not a good idea to gamble like that.  I don't ever want to see my son suffer to poop like that again.<br /><br />My son is a little over two weeks old.  I had him on Enfamil Newborn, but he was spitting up a ton.  So we tried Enfamil Gentlease, but the first ingredient is corn syrup, and it smells like malt mix.  I didn't feel good about giving him something that was primarily sugar.  He spit that up too.  So, with the wisdom of a new parent (ha-ha), I decided that since he spits up everything in sight and I really wanted him to have organic formula in the first place, I'd try this.  I would have kept him on it without a doubt if he'd tolerated it.  It does smell more like milk than typical formula, and I think the company really does care about their customers and their product.  I don't always like going with the big corporations just because they have been around for 50 years.  But after one day he was screaming to poop, and it was heartbreaking.<br /><br />Finally, I decided to go back to Enfamil Newborn.  Do what works for you.  This might work great when my baby is older, who knows?
+
+product/productId: B002FJM9SU
+review/userId: A2CTWLJPWU7NUK
+review/profileName: Picky Mom
+review/helpfulness: 12/16
+review/score: 5.0
+review/time: 1288656000
+review/summary: Mom of 2, 2 & under
+review/text: I found this formula after doing a lot of research 2 years ago.  I was weaning my daughter and wanted to put her on something I felt good about.  At the time, there was a scare regarding most powdered formulas.  Babies Only was one of the few that wasn't affected.  I also appreciated the fact that it didn't smell foul.  I figured if it smelled ok to me, it would be more appealing to my daughter and that proved to be true.  She rejected other powdered formulas, but transitioned beautifully to this one after initially trying some liquid ones that she seemed to like.  I just had a hard time finding it locally.  Only Whole Foods carried it and they were constantly running out.  Fast forward 2 years and when I was weaning my son, I immediately put him on this and he took to it well.  Again, I had trouble consistently finding it locally, so I started using Similac organic. But, as luck would have it, just a month after using it, there was another recall!  It's just too scary how often that happens with the popular brands.  When I started researching alternatives again, I found Babies Only was still the best.  I discovered that Similac Organic had an extremely high sugar content- no wonder my son liked it!  Unfortunately, Babies Only wasn't much more available, but happily I found it here on Amazon and it's basically like buying 2 and getting 1 free, with free shipping.  I just wish I had found this 2 months ago as he's just about ready to get off formula.  Anyway, I LOVE this product.  As a mom who nursed both kids for 10 months, this is the only formula I felt good about giving my kids.  Neither had any problems with digestion, transition, etc. with it.  I highly recommend it.
+
+product/productId: B002FJM9SU
+review/userId: A3RKYTXA1MS89H
+review/profileName: woodlandnymph
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1330819200
+review/summary: Used it for my first, will use it for my second!
+review/text: Prior to finding this formula for my first child (for supplementation, horrible milk supply after working with many professionals) I tried Parent's Choice organic formula (horrible BMs) and used Similac Organic. Similac wasn't too bad, but I still didn't like the ingredients or methods of processing. Once we tried Enfamil and my daughter threw, not spit, threw that nasty stuff up everywhere. After searching for a better alternative, I came across Baby's Only for even a lot cheaper through my co-op. She took to it right away, even spitting it up much less than breastmilk. We used it from a few months old until she was 18 months. My sister then used it for her son to supplement as well, with great results.<br /><br />I went to order it again for our second arriving in a few weeks, when I saw all this hype about arsenic (btw, if you haven't purchased a product, you should not submit a review on it! That's abuse). I immediately freaked out a little at what my alternative would be? Then after reading all of the information out there that I could get my hands on, I decided that this is still the best choice for us. If there is no regulation on something, you cannot just pick out one or two items, test them and scare the nation. You need to see what is in everything else as well and test comparable brands for safety in their ingredients too! Personally I feel a lot safer giving this formula to my child, a company that has not had any incident reports (that I know of) since they have been around, then give my baby a formula that children have gotten sick on and one recently died from. Be it contamination or ingredients.<br /><br />For me there isn't a good alternative. I feel good about Nature's One as a company who strives to do the best for it's customers. They have worked so hard at trying to offer the best formula they can. Even removing as much BPA from packaging as they can, and giving options to parents to choose what to give their babies.<br /><br />I hope this formula will continue to be available and that this issue can be rectified quickly through more testing.<br /><br />Update: I just checked their website and they have further testing that has been done, stating that this formula is safe and levels are far below standards for rice for babies (no standards have been set for formula). Very possible false positives in the Dartsmouth study.<br />[...]
+
+product/productId: B002FJM9SU
+review/userId: A1L7MD0S3IBVLL
+review/profileName: A. Hennis
+review/helpfulness: 7/9
+review/score: 4.0
+review/time: 1329436800
+review/summary: Arsenic? Who do I believe? Can I trust the other formulas? What's next?
+review/text: I have supplemented my baby with this formula since birth, he is now 6 mths and I have had no issues with it. He is actually quite advance in his development. When we did experience issue with constipation it was not because of the formula but instead because of the solids we had introduced him to. We gave him both banana and applesauce and later found out that these two fruits cause constipation. We stopped giving him the applesauce and now give him pureed prunes plus mix this in his sweet potato and now his stool is soft once more.<br /><br />&lt;Exhale>..... reports now show that the organic brown rice syrup in this formula contains arsenic, Natures One the company that produces this cereal states that " Nature's One's California based supplier of U.S. grown organic brown rice syrup uses a qualified, world renowned, third-party, independent lab to test arsenic levels in their organic brown rice syrup.  Their testing results report undetectable amounts of arsenic at laboratory testing limits.  The Environmental Science & Technology extensively tested rice and found California organic brown rice to be the lowest for arsenic [Environ Health Perspective. 2007 June; 115(6): A296].test by a 3rd party"<br /><br />Who do I believe, the reports are showing that its the Baby's Only formula that tested high for the arsenic levels... but then again, is this arsenic report another plot against "Organic" foods because the mega growers are loosing money due to many people turning to organic foods or are they correct. The reason I did not initially purchase "Earths Best" was because I read that the DHA/ARA in the formula was extracted by use of Toxic Hexane Formula. If I switch from Baby's only to Earths Best am I moving from one evil to another evil?<br /><br />I say a prayer before my baby and I eat. Everything we eat seems to have something added that is not good for us. Does not seem like we can win this fight for good, healthy, safe food. God bless and protect us all.
+
+product/productId: B002FJM9SU
+review/userId: A1QLJZRS2AAC29
+review/profileName: Anna Maria
+review/helpfulness: 7/9
+review/score: 5.0
+review/time: 1311897600
+review/summary: This is the best, healthiest formula on the market that I could find!
+review/text: After trying to nurse my son for the first month under very challenging circumstances, I found it necessary to switch to formula. I started with Similac, as that was all I had on hand from offers sent in the mail. I did lots of research and finally settled on Baby's Only Organic Dairy Formula. I have been feeding this formula to my son ever since he was about a month and a half. I give him a little bit of probiotics and vitamin D3 each day--as recommended by my amazing, unique holistic / MD pediatrician, and this has really helped to build his immune system. He also is able to digest his food beautifully! I have read that it is good for babies to get used to lactose, rather than automatically going for the sensitive, lactose free options. I believe that my son might have a tiny bit of difficulty digesting any formula without the aid of probiotics, but with the probiotics, he is able to digest his formula really well.<br /><br />I LOVE this formula! It is the only one on the market that I could find without the unnecessary and deceiving "DHA/ARA for brain and eye development" added, which uses Hexane to extract or produce it for use in baby formulas. Baby's only has the natural fatty acids that help the human body to produce it's own DHA/ARA for brain and eye development. The other formula's use this additive in a very deceptive way--basically just as a selling point by making you think it is something your baby won't get unless it's added, which isn't true!<br /><br />Additionally, Baby's Only appears to be a company of integrity, and I love that. They purposefully label this as a toddler formula, simply because they believe mothers should breast feed their babies for the first 12 months, if at all possible. This formula has all of the necessary nutrients for infant development, and it is comparable to any other top one on the market--only it is less expensive, AND organic!<br /><br />My baby boy smells SO good, and his diapers smell like a normal, healthy breast fed baby's diapers. There is no strong or offensive odor as sometimes caused by other formulas.<br /><br />Check out Baby's Only Organics official site by doing a search online for more excellent information on this awesome product! Absolutely recommended for babies of ALL ages! Best wishes to you!
+
+product/productId: B002FJM9SU
+review/userId: A1AE77YSU97H03
+review/profileName: Aubrey Harvey
+review/helpfulness: 7/9
+review/score: 5.0
+review/time: 1301184000
+review/summary: Great Formula!
+review/text: I love this formula! It's great for babies and not full of tons of chemicals and waste.  I started my daughters on this formula to supplement because I couldn't keep up with her appetite. Other formulas taste HORRIBLE, and had a bad metallic taste. This formula tastes much better and smells better too. My child didn't have any problems with constipation but her BM's where much more pasty compared to the watery breast milk ones. If you do feed this is an infant make sure you give them a **VITIAMIN D SUPPLEMENT**. This formula does not contain enough vitamin d, but and neither does breast milk (so no biggie). But it has just enough and (in most cases) more vitamins than other formulas! It's nice to know you're not giving your baby crap. I would recommend this, BUT do not go with Earth's Best, it contains hexane which is dangerous for babies. My only complaint would be that it is foamy, but if you let it sit for a few minutes then it goes away. :)
+
+product/productId: B002FJM9SU
+review/userId: A1397E8X2JQWXP
+review/profileName: Jessica N. Standefer "Square living"
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1322524800
+review/summary: Constipation
+review/text: We have a 7 week old and his stool was extremely hard and dry after using this formula. I very much wanted it to work, but be careful with it...our child was wincing in pain with each bowel movement. That can eventually lead to fissures and blood in the stool. Maybe if he were older he could handle this formula...real bummer:(
+
+product/productId: B002FJM9SU
+review/userId: A3HMGJFRR04Z1L
+review/profileName: M Freeland
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1334707200
+review/summary: Still using and still happy
+review/text: After much debate over the brown rice syrup and detailed reports of arsenic we have decided to stick with this product and are ultimately VERY happy with it.  My daughter has not handled other formulas as well (either stomach cramps or runny poo) and I do not produce enough milk to sustain her on breast milk alone.
+
+product/productId: B002FJM9SU
+review/userId: A24L3YSJ3U31SQ
+review/profileName: R. DIAMOND "RJ"
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1326844800
+review/summary: Terrible constipation!
+review/text: It's a great formula, I just wish that it worked for my little guy. My son went 4 days with out a bowel movement and sat crying for the next two days. It was the worst thing ever!!! I gave him fruit as well as cod liver oil but it didn't seem to work at all. I'm talking rock hard poo's that made my son experience a lot of pain! I would be very reluctant to use this formula again until he's much older and using this as just a supplement once in awhile with food. For now he is mostly on formula with a few little snacks here and there. I'm back to using Earths Best, since it seems to make my guy healthy. Sorry Baby's Only I really did try to love you!
+
+product/productId: B002FJM9SU
+review/userId: A1FPRURYQ0D57
+review/profileName: Heather
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1326412800
+review/summary: Best Alternative to Breast Milk that I Have Found
+review/text: I planned to nurse my twins exclusively.  However, after hospitalization with pneumonia, CT scan, and hospitalization for a major surgery, I was going through my frozen supply of breast milk quickly.  I realized that we would need to start doing one feeding per day in order to not run out.  I have not been able to get my supply back yet, so we are still using formula once/day.<br /><br />I knew I wanted to choose an organic formula.  I found that Earth's Best was most accessible, and I found that Baby's Only was less accessible but easy to find online.  I immediately started researching.  Please do your own research as things change and information is not always accurate, but here is what I found in my search.<br /><br />First I looked at BPA.  BPA is leached into liquid formula.  Both Earth's Best and Baby's Only are powdered, but I looked into it anyway.  Earth's Best uses BPA in the lining of its metal cans.  Baby's Only has BPA-free packaging.<br /><br />Next, I looked into percholate (jet fuel component that has been found in many types of formula).  The CDC did not have Earth's Best or Baby's Only in its testing results that I could find.  I found in other places on the internet that neither of these contain percholate.<br /><br />Earth's Best contains DHA and ARA for brain development.  Baby's Only sells DHA and ARA in little packets so you can mix them into the formula, sprinkle on cereal, etc.  I read further into the extraction process by Cornucopia Institute (a dot org site).  Earth's Best uses an extraction method to get the DHA/ARA that involves the chemical hexane as well as a bleaching and deodorizing process.  Baby's Only uses a water process.<br /><br />After this, I went with the Baby's Only.  I was worried my twins wouldn't take it after only drinking breast milk for 7 months, but they love the taste of it.  Also,  Baby's Only is listed as "Toddler Formula" on the can, but it is also for babies.  The company just promotes that breast milk is best for the first year.  You can buy it online in bulk 12 or 24 at a time to get the best price.<br /><br />The formula gets a little bubbly when you mix it up.  I have found that if I whisk it with a small amount of water then add the rest of the water it keeps the bubbles to a minimum.  Otherwise, the bubbles aren't a big deal anyway.  They typically float to the bottom of the bottle (during feeding when it is upside down), so I don't let the babies drink that part to avoid gas.<br /><br />I hope this helps someone.  I spent a lot of time finding a formula I was comfortable with.<br /><br />UPDATE:  With all of the information that has come out about arsenic, that is on my radar as well.  Baby's Only's first ingredient is Organic Brown Rice Syrup, which has been the topic of arsenic studies.  I contacted Baby's Only and was pleased with the quick response the same day.  I got a follow up email a few weeks later saying Baby's Only had independent testing done on its formula and it was declared "safe."  I tried to understand the testing and tolerances in the studies, but it was a bit over my head.  Apparently the Dartmouth study did not use acceptable testing methods which are prone to false positives of arsenic due to sugar carbons.  However, I still have concerns.  Earth's Best does not contain Organic Brown Rice Syrup.  I guess that leaves me wondering which is worse--BPA and hexane or supposedly-safe levels of arsenic.  It is very frustrating!
+
+product/productId: B002FJM9SU
+review/userId: A13DWE1O2LJIZP
+review/profileName: marina
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1310256000
+review/summary: three brown hairs found in the formula!
+review/text: I've been buying this formula for 3 months and my daughter likes it more than the other brands we tried before. But today opening one of the cans from the latest delivery by amazon I found three brown hairs in the powder! This makes me very concerned about the quality control of this product. And I wonder whether I should continue using it.<br />If it were not for this incident I would have rated this formula as 5*.
+
+product/productId: B002FJM9SU
+review/userId: ATBMVZPFIGZ7A
+review/profileName: mrsjackblack
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1349913600
+review/summary: Really really wanted to like this formula
+review/text: My little one is lip tied and I have had to pump for her, and I sometimes needed a mommy break and so we began supplementing her. We were using Gerber Goodstart Protect, with no issues really except it smells terrible. I wanted her to have something more natural, so at 4 months, we began to transition her to this formula.  It smells like real food! I love the ingredients compared to the Good Start, hence my rating as high as it is, but oh my goodness, the constipation is horrid! Her poos are hard hard hard. Like, way harder than when they start eating solid food! completely formed and don't even stick to the diaper at all. My pediatrician has had me start adding more water to her bottle vs powder, and giving her pear juice. So far it's not helping, maybe I'm not doing enough of it. I don't want to be feeding her too much empty juice calories though.  I don't want to give up on this formula, as it's so much more natural, but my seeing my little baby screaming her way through a poo is not okay.
+
+product/productId: B002FJM9SU
+review/userId: AZJZGR3RTGX0M
+review/profileName: TAD
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341273600
+review/summary: An amazing formula option
+review/text: Both of our sons loved (and love - our 11mo) Baby's Only formula.  Neither would drink Earth's Best - no wonder if you taste or smell them as they are very different.  We have not tried any of the other organic formulas.  I was pleased with Baby's Only ingredients (and price) and our boys have thrived on it.  Similar to breast milk, it does not stain either.  I hate that Whole Foods stopped carrying it because of the false arsenic claims.  Even after more research proving otherwise, they have not started carrying again, so we always have to watch our supply and make sure we order more before we run out!
+
+product/productId: B002FJM9SU
+review/userId: A102P5NP69G13S
+review/profileName: R. Thomas "RainCheck"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338854400
+review/summary: Wonderful formula!
+review/text: After my sister-in-law struggled to produce enough milk following breast surgery, she finally had to switch to infant formula. We researched formulas and finally settled on this one. My nephew you loved it and has thrived on this formula. As far as the arsenic concerns, the sugar content in brown rice syrup can create false positives on certain lab tests for arsenic. Duke University used a control with much lower levels of sugar in it and tested on equipment not capable of the very sensitive testing required for this sort of comparison. It was honestly very irresponsible of them to declare their finding accurate. It has been show through specialized testing their findings were completely inaccurate. That being said I am sure Natures One will be going out of their way now to find brown rice with even lower levels of arsenic. I will not hesitate to use this product with my own infant due in October.
+
+product/productId: B002FJM9SU
+review/userId: A31YMZJ71NA54P
+review/profileName: Shoe Lover
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338854400
+review/summary: babys only is the best formula on the market hands down!
+review/text: I did so much research as to what formula will be best for our child. We wanted to choose organic definately and was willing to pay the cost. Then we came across this brand and instantly fell in love. I love the fact that they support breast feeding and insist babies be fed just that for first year but ofcourse we all know it is not always as easy as it sounds. I breast fed my baby for first 6 months exclusively and pumped exclusively as she would never latch. When I weaned him off breast milk, we started him on babys only organic formula. our son love it! He has never had any problems with it. No constipation at all infact he goes x2-x3 daily. I have also read some bad stuff on internet such as the recent study  condeming this formula and yet I still stand by it and will continue using it. I would say to the company, keep on making good formula for little ones but if at any chance you are thinking or doing any harm to our little ones, you must stop immediately as we all have faith in you. i bought my formula on amazon it is definately much cheaper than other places
+
+product/productId: B002FJM9SU
+review/userId: A80J46CHLP02Q
+review/profileName: Yuxiang Luo
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1321660800
+review/summary: constipation constipation constipation
+review/text: I never bothered to write a review although i shop at Amazon a lot, but in this case, it concerns my child's health, so I have to write one. This is the best formula for its "organic"-ness and taste. But it caused "serious" constipation to my baby. She was in so much pain when passing stool, and when the stool finally came out, it was so hard and firm, no wonder. I plan to stop it immediately and switch to other formula, I simply can not put my baby under such horrible condition. So try it for a few days to see if it works for your baby, if it does, great! if it does not and cause constipation, stop immediately.
+
+product/productId: B002FJM9SU
+review/userId: A30XZTAM8HAT5A
+review/profileName: GP
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1314316800
+review/summary: Horrible on the Stomach
+review/text: I read the reviews and thought I would try the formula even though there were some complaints of constipation, my daughter is on prophylaxis antibiotics and I hoped that would even it out. The first day was okay, I guess she still had some of her previous formula still in her system. Days 2-6 got worse and worse. Day 2 started the constipation which continued into day 3. Days 4-6 there was no bowel movement and my daughter's stomach was rock hard. After her crying at the top of her lungs I gave up on the organic formula and switched her back to her previous formula. Within 2 bottles she had 3 bms. Her stomach may have evened out if we kept her on it longer, however I could tell she was hurting and did not want to try any longer.<br />FYI: Amazon was great and issued a refund so it was worth a try, it just didn't work out for us
+
+product/productId: B002FJM9SU
+review/userId: A2FUW5DMVCURG0
+review/profileName: Discerning purchaser
+review/helpfulness: 5/7
+review/score: 5.0
+review/time: 1329523200
+review/summary: Taking recent reports with a grain of salt
+review/text: Due to a nurse recommendation,  we started our baby off on RTF (Ready to Feed) ProSobee until we read about it having the highest BPA concentration in their cans of all RTF formulas. The report from Enfamil stating that "people only use RTF formulas infrequently, and primarily use powder formulas" confirmed they didn't really care.<br />A little more research showed that Soy has high concentrations of Aluminum and Estrogen, neither of which did we want for our Baby Boy. Thus we decided to try switching to a dairy-based product.<br />After EXTENSIVE research, taking into consideration BPA levels, flouride levels, melamine concerns, and corn syrup, our list quickly shrunk to Earth's Best and Nature's One.  Nature's One appeared better since Earth's Best uses hexane to extract their DHA, however the constipation reports with Nature's One convinced us to try Earth's Best first, especially since our baby was only 4 months old.<br />After a week of transition to Earth's Best (1 can), our baby was having trouble sleeping through the night, his stool was loose and green, he had a fussy tummy, and we were wondering if he had a milk allergy. Since several reviews had mentioned babies quickly taking to Nature's One, we decided to give it a try before switching back to Soy.<br />Right off the bat, Nature's One mixes so much easier and more completely with water than Earth's Best did. It doesn't clump, looks cleaner and tastes MUCH better (yes, we both tried it). It didn't surprise us when our son immediately took to it. Additionally, however, to our amazement and delight, his stool firmed back up, was no longer green, and he started sleeping through the night again!  5 days later... the reports of arsenic popped up on every news channel possible. Argh!<br />From the research available, it appears Nature's One is the only manufacturer that doesn't use some form of corn syrup, melamine, nor hexane. They also appear to use the most expensive ingredients, yet provide a very affordable product (it's comparably priced to the mass-produced brands).  We were disappointed to hear of this new concern, but are taking the recent reports with a grain of salt. Here's why:<br />1) California-grown Brown Rice has 41% lower arsenic levels than other US-grown Brown Rice<br />2) These tests were done at one University, who didn't specifically name Nature's One Baby's Only (possibly so they can't be sued?)<br />3) The tests showed inorganic arsenic levels "as high as" twice the limits allowed in US drinking water (10 parts/billion), yet the levels shown to cause harm were in water supplies 35 times this level. What does "as high as" mean? Did they run the test 100 times, and it came up that high once? Extraneous data points are generally thrown out in scientific studies. How were these tests tabulated?<br />4) The alerts were MUCH higher for the other products tested (energy bars, etc) which had 20+ times the limits allowed in US drinking water.<br />5) Which is worse? Still-quite-low amounts of arsenic, or the only alternatives which contain melamine, aluminum, BPA and/or hexane.<br />6) Are these recent reports an attempt to halt a shift of buyers away from these other brands? Maybe not, but...<br /><br />In any case, for now we're sticking with this product. Ultimately, our baby's digestive system seems to prefer it, he REALLY likes it, and it still seems to be the best/safest option available. I just hope they don't go out of business as a result of this mass-scare...
+
+product/productId: B002FJM9SU
+review/userId: AZE70TE5RCOLT
+review/profileName: A.nonymous
+review/helpfulness: 7/10
+review/score: 1.0
+review/time: 1330992000
+review/summary: BE AWARE: Loved this formula UNTIL the arsenic research came out
+review/text: Studies show high levels of arsenic in this formula due to the organic brown rice syrup.  Nature's Only is refuting the studies that show that the arsenic levels are a concern, but I think they are making small talk of a big problem.  On their website, they are talking about "adult" exposure.  As any parent knows, a child's body (and digestive system, and metabolism) are vastly different from an adult's.  Children are developing, and take in a much higher amount of calories vs. body mass, and are much more heavily influenced by toxins in their developing system.  Nature's own comparing it to an average adult intake in water is almost comical if it is supposed to be reassuring, it is like comparing cherries to grapefruit.  I'm upset that I purchased a 3 pk immediately before the studies came out, and would like to get my money back.  My daughter is 14 months and no longer 'needs' a formula supplement, so we will forego it, all of the regular types you find on the store shelves smell awful, and are full of concerning ingredients, so we are just going to go pure and simple with organic dairy and goatsmilk products instead.
+
+product/productId: B002FJM9SU
+review/userId: A2P1UXYS9XWJL3
+review/profileName: S. Wilson
+review/helpfulness: 7/10
+review/score: 3.0
+review/time: 1311120000
+review/summary: I so wanted to love this stuff :(
+review/text: My baby had been on other name brand formulas for a few months with no problems when I read that many of those formulas are made with corn byproducts and corn syrup solids. I am worried about childhood obesity and since I was physically unable to nurse after 6 weeks (mastitis took my supply), I wanted a healthier option. Enter Baby's Only. Moms had raved about it online and I could get it locally at our Whole Foods. Moms had also conversely said it constipated their babies so I was cautious. I mixed it appropriately and boom. Within 2 bottles-worth, my infant was constipated.  I thought it would be ok and we could work through it but it ended up constipating him so badly that I had to start giving him pear juice and extra water to ease it. But I kept with it because he has always had stomach issues and I thought it would work itself out.<br /><br />Then we went to my mom's and I bought a different name brand formula, because I was out of the BO. And boom, the opposite. He pooped and pooped and pooped after only 1 bottle of the different formula. I knew then that I had no other choice but to go back.<br /><br />Pros- smells great, more like milk than some of the other formulas. My baby really liked the taste.<br />Is truly healthy for baby (I believe).<br /><br />Cons- constipation, constipation, constipation.<br /><br />I really wanted this stuff to work but I just can't keep buying it knowing it makes my baby sick. :(
+
+product/productId: B002FJM9SU
+review/userId: A26GIT79U612XR
+review/profileName: A. P. Rodrigues
+review/helpfulness: 11/16
+review/score: 5.0
+review/time: 1329609600
+review/summary: Don't believe the hype people!! Please don't give up this company!
+review/text: This formula is the best out there. Don't be a media-hype sucker. The media are well paid to produce unnecessary hysteria by big business like Hain Celestial Group who happen to produce EVERY organic baby formula including the store brands, except Nature's Only. A little convenient no? Look, EVERY piece of produce you eat, organic or not, and anything produced from that produce has arsenic along with many other heavy metals in it, from past pesticide abuse. Your tap water, well water, even the bottled spring water and juices you drink have more arsenic in them in some cases than this formula. The Dartmouth Doctor who did the testing has admitted as much plus stated the testing they used has an inaccuracy of up to 40%! They did not use the government standard. To boot the other formulas use corn syrup which was recently found to have high levels of mercury and that stupid Life's DHA which is derived from algae using horrible chemicals like hexane. You are telling me that's safer?<br />My daughter has thrived on this formula. I have never had to switch her from anything. Once I stopped breastfeeding, I went right to this and have never had issues. My older son on the other hand, I had to switch the big brand formulas like five time to finally have one that didn't make him sick with digestive issues and colic plus eczema! By that point he was almost off of formula. I swore I would not make the same mistake again and I fully trust and believe in this formula.<br /> I am so tired of this world's misinformation for financial gain at the cost of our health. Please do some research about EVERYTHING you put in your and your children's mouths before you put it in you. The reality is that this one news story has possibly permanently damaged a reputable small business trying to feed our kids right.
+
+product/productId: B002FJM9SU
+review/userId: A1DHKKNNW6H783
+review/profileName: Justbooking
+review/helpfulness: 13/19
+review/score: 1.0
+review/time: 1329350400
+review/summary: News and report links - arsenic found in this type of baby formula
+review/text: UPDATE: Diane Sawyer of ABC World News Tonight did a whole segment on this and identified Nature's One as the formula tested. Dr Richard Besser, Chief Health and Medical Editor says that with "infants and children, and developing brains and bodies, doctors simply do not know what levels of arsenic are safe... there are currently no standards in place today". He also addresses Nature One's response. Andrea Rock of Consumers reports also weighs in on this news story. See comments section for all links.<br /><br />This the original article, published by Environmental Health Perspectives. The full study can be down loaded on the same page using the links on the upper right hand side.<br /><br />Title: "Arsenic, Organic Foods, and Brown Rice Syrup"<br />Corresponding Author: Brian P. Jackson, Brian Jackson, Ph.D., Director, Trace Element Analysis Core<br />Dartmouth College, Hanover, NH, 03755<br />Other authors: Vivien F. Taylor, Margaret R. Karagas, Tracy Punshon, Kathryn L. Cottingham<br />Date: Published online February 16, 2012<br />Full contact information for the corresponding author, phone, fax, e-mail etc is found on page 2 of the study.<br /><br />***<br /><br />I was looking for a formula for my toddlers and was shocked to learn today that those made with organic brown rice syrup contain particularly high levels of arsenic, compared with products without this syrup.<br /><br />Seventeen baby formulas were tested in the Darmouth College study. According to the Today show, "Two of the infant formulas contained organic brown rice syrup as their primary ingredient. These products had arsenic levels 20 to 30 times that of the other infant formulas.. The amount of arsenic consumed by an infant could be significant depending on which formula they drank.. arsenic exposure early in life may increase the risk for health problems later on."<br /><br />The study, published in Environmental Health Perspectives, indicates that organic infant milk formula containing OBRS as the primary ingredient had total concentrations up to six times the EPA safe drinking water limit.<br /><br />The formulas tested were not named but a quick search turned up that Baby's Only organic toddler formula - both dairy and soy - uses brown rice syrup as its main source of carbohydrate. I for one will be passing on this product.
+
+product/productId: B002FJM9SU
+review/userId: AIXFLBHGXL2AD
+review/profileName: Mackenzie Griffis
+review/helpfulness: 6/9
+review/score: 5.0
+review/time: 1297987200
+review/summary: Good formula option.
+review/text: I breastfeed probably 90%-95%. I bought this formula for the few occasions when I need to leave my baby and I don't have any pumped breastmilk. I was going to buy the Earth's best brand until I read the reviews and discovered that the DHA that is added to it (and all other formulas that have DHA) is extracted using a dangerous chemical called Hexane. Of course the manufacturer claims that all of it is evaporated, but why take a chance.
+
+product/productId: B002FJM9SU
+review/userId: A3J9Q288AN7K0P
+review/profileName: Kara
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1330646400
+review/summary: Pediatrician Ok'd -- Great for my baby
+review/text: I recently started using this formula as a supplement to breastfeeding for my 9 month old. I did a lot of research before making the decision. For me, the use of brown rice syrup rather than corn syrup or sucrose was a plus, as was the fact that this formula does not include hexane-produced dha. This formula also seems much closer to breastmilk than other formulas we considered (taste and smell) and my daughter has had no issues with it's addition to her diet. Of course, I was concerned about the recent reports of "high" arsenic levels and temporarily stopped giving the formula to my daughter until I could discuss the issue with our pediatrician. Our pediatrician has been following the issue and has no concerns about the safety of this formula, so we will continue to use it. Do your research and talk to your doctor. Also, be wary of internet claims -- some reviews have stated that this formula was recalled in Canada. I have tried to locate information about this alleged recall, and I can't find anything about it.
+
+product/productId: B002FJM9SU
+review/userId: AXX65EFT9IXS6
+review/profileName: flyersbrb
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1284163200
+review/summary: Organic and fabulous formula
+review/text: Was nursing my daughter until about 10.5 months; wanted to start transitioning her to formula along with frozen breastmilk.  Was concerned about additives in formulas, read great reviews about Baby's Only organic and, as a result, tried the product.  My daughter loves it, and we mix it right in with her breastmilk; she is sensitive to some foods and has had no bad reactions to this formula.  We are so happy with it; we keep buying it now regularly, and have moved to about two-third Baby's Only organic with one-third breastmilk.  It's a fabulous product!!
+
+product/productId: B002FJM9SU
+review/userId: A3GS4YBF03QH1C
+review/profileName: Kev
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1333411200
+review/summary: Great Formula
+review/text: My daughter was 4 months old when we started her on the Babys Only Organic formula. This was after having been through the usual laundry list of formulas - Similac, Gerber, Enfamil. The first thing that struck me was that the Babys Only formula didnt taste and smell horrible, unlike the others mentioned. Additionally, the fact that it did not have the DHA/ARA dervied from the Hexane Solvent extraction method was a big draw. My daughter loves this formula and we plan to continue with it.
+
+product/productId: B002FJM9SU
+review/userId: A3LTCTMDVKXX02
+review/profileName: RunningMom
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1328313600
+review/summary: Awesome Customer Service
+review/text: My son struggled with constipation while transitioning to Baby's Only from breastfeeding when he was nine months old.  I contacted BO by email about my son's issue, and a representative got back to me immediately.  The customer service is great.<br /><br />To address the constipation, I took bananas and apples out of my son's diet temporarily, and I added pureed prunes to his morning yogurt.  That solved the problem.  My son is now 15 months old and still enjoys BO without any issues.
+
+product/productId: B002FJM9SU
+review/userId: AVRLYRAZK47WM
+review/profileName: Hmone
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1328054400
+review/summary: I gave this to my baby one week before her 1st Birthday. She tookmit down right away and she was breastfed exclusively for the
+review/text: I gave this to my baby one week before her 1st Birthday. She tookmit down right away. FYI - she was breastfed exclusively for the first 8 months and I supplement with Enfamil infant. The smell and taste is way better and you feel better about giving it to your baby. Just re order 7 sets fo 3 since we are traveling to Asia for 5 weeks. Highly recommend it!
+
+product/productId: B002FJM9SU
+review/userId: A31VASSS5HXPHX
+review/profileName: Heidi J Rayala
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1327795200
+review/summary: Better than the other Organics!
+review/text: We have now gone through 4 formulas, and here are our conclusions.<br /><br />Similac (non-organic): They use cows which have been given growth hormones.  Seriously, even most non-organic milks in grocery stores do not use growth hormones.  Our baby spent his first four months off the growth-charts until it finally dawned on me to check into this.<br /><br />Similac Organic: Our baby liked this one, but then a NYT article revealed that this formula has a significant amount of cane sugar added - no wonder he liked it.<br /><br />Earth's Best: We really struggled with the transition from Similac to Earth's Best.  We went through a 2 week transition of 3/4 Similac, 1/4 Earth's Best...with a slow increase in the Earth's Best.  Even to our adult taste senses, it had a fishy odor and taste (likely the DHA, which is supposedly taken from seaweed for this brand).  And it NEVER WENT INTO SOLUTION.  We would constantly have to interrupt his feeds to check and see whether the nipple was clogged - being a baby, he would suck and suck -- even when no milk was coming out.  Our baby developed eczema - I am not convinced the formula caused the problem.  Babies get eczema.  But after trying everything else (detergents, lotions, soaps, etc) and reading some reviews questioning whether Earth's Best caused eczema, we decided to try one more formula switch.<br /><br />Baby's Only Organic: "Now here is something I can add to my coffee when we run out of milk," says my husband.  It has a wonderful smell of oatmeal.  No transition needed, our baby finished an entire 8oz in one sitting.  It goes into solution better than both the Similac and the Earth's Best.  No GI distress or constipation when we made the switch.  I agree with other reviewers that it is annoying that the canisters are small, but scoop for scoop, it is less expensive than Earth's Best.  Just waiting for Amazon to have a "subscription" discount.  I highly recommend Baby's Only!
+
+product/productId: B002FJM9SU
+review/userId: A119RW19UWK7PH
+review/profileName: Sylver "Emergency Nurse"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1320624000
+review/summary: Wonderful formula!!
+review/text: I'm a nurse practitioner, and I researched a lot of formulas before deciding on this one for my daughter. I breastfeed her the majority of the time, however occasionally need formula to supplement. Baby's Only is perfectly fine for infants; legally, every formula has to have the same percentage of fat, protein, carbohydrates, vitamins, minerals, etc. The company just wants you to discuss formula with your healthcare provider BEFORE you start it as they are fully committed to breastfeeding. My daughter loves this formula, and I love that the ingredients are nutritious and nontoxic!!!
+
+product/productId: B002FJM9SU
+review/userId: AYYHFVHIT63GV
+review/profileName: Adrianne R
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1318723200
+review/summary: Delicious and Nutritious
+review/text: This is the first review I have ever written and I buy many things on Amazon and online in general. I am amazed how so many mommies are unaware that this formula exists. I happened upon this formula at WholeFoods when my son was about 4 months old. I had just returned to work and knew I wasn't going to be able to keep up with him with breastfeeding. Initially I was going to buy Earths Best but they only had the very large can for over $30 and I didn't want to buy it if he didn't like it so I saw this small can(it only comes in one size) and decided to do some research via my cell right there in the store. I liked everything I was reading. From the reviews on Amazon to Nature One's very informative site. And if you compare the price to the mainstream non-organic formulas of the same size, this formula is CHEAPER without all of the added chemicals and whatever else is allowed in baby formulas these days.  My now 9 month old son absolutely loves it and does not like it if we have to supplement with something else until we can get more.  Whole Foods sells it for $9.99 and they very rarely have more than 5 cans on the shelf when I go so I've learned to order them online so I always have a supply. This formula does not have that metallic smell that the more popular brands have. The canister and even the scoop are now BPA free and the company does not use hexane to extract the DHA like many other companies do. I feel confident that my son is getting all the nutrients he needs without the added synthetics and chemicals that are present in many other formulas. I wish I had it with my first son! Kudos to Nature One for making the health of our children the top priority!
+
+product/productId: B002FJM9SU
+review/userId: A1NMTXF56P22XU
+review/profileName: Krista
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1318377600
+review/summary: Horrible Constipation
+review/text: This is without a doubt the best formula on the market and I wanted to be able to use it so badly but it just didn't work for us. On JUST this formula, no solids, we ended up in the ER with our 5 month old daughter who had screamed trying to pass a bm for so long she passed out. We thought she would surely even out but even with prune juice, pear juice and even trying Miralax - she still never could get over the terrible constipation. We went to Good Start Gentle and she's completely regular. If your baby can handle it, it's by far the healthiest available - but beware that it can cause serious constipation.
+
+product/productId: B002FJM9SU
+review/userId: A3LWC833HQIG7J
+review/profileName: austin_Larry
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1313020800
+review/summary: Feel good about using this AND cheaper than most store bought non-organic brands
+review/text: We are in the process of adopting an infant baby girl. She has been in our care since she was 5 months old. We knew we wanted an organic brand since the brain of an infant is developing so much and much smaller amounts of pesticides can have a larger impact compared to their effect on an adult.<br /><br />The two most common orgnaic brands are this one and Earth's Best. We had no problems with Earth's Best but like many people the extraction of DHA and AHA using Hexane versus Babys Only which is the only organic formula I could find that does not use Hexane extraction. Now I know Hexane can be measured in the parts per billion but I did not want to take a chance.<br /><br />Plus reading the ingridient list and the other positive reviews made me feel good. If you go to the naturesone website they have a handy comparsion of this forumal compared to other national brands. We emailed that to our doctor so she could approve the use for our (hopefully) daugther since our daughter is under 1 year old.<br /><br />One thing to keep in mind is that ordering this from Amazon over the past few months it goes on Prime shipping directly from Amazon (I assume since it is over $25 it will also be free super saving shipping when the option to buy direct is available) then disappears for a week or two, then comes back on. Ususally the Amazon price is the best price. So I have taken to buying 2 3-packs at one time to have a little cushion until the direct from Amazon comes back on. As a final bonus this is actually CHEAPER than non-organic brands in supermarkets. Really glad we have found this.
+
+product/productId: B002FJM9SU
+review/userId: AT034GK3950Q7
+review/profileName: Shawn
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1302566400
+review/summary: The best formula you can buy.
+review/text: My daughter was breast fed for a couple of months but couldn't continue for a variety of reasons.  We supplemented with this formula after trying a few other brands.  The other brands made her constipated or she wouldn't drink them.  Baby's Only formula has never made her sick or proved to be difficult in any area.  It's organic which some people may have problems with because it may cost a little more.  However you can't put a price on good health and the first few years of life are so important as their bodies are going through so many changes.  You don't want toxins and cheap fillers to get in the way and affect essential neurological development.  Bottom line: this formula is the next best thing to mother's milk.
+
+product/productId: B002FJM9SU
+review/userId: ABRLI5JVBJYP6
+review/profileName: Mandy
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1301788800
+review/summary: Love this formula!!
+review/text: I've been feeding this formula to my son since he was 6 weeks old. It did cause some minor constipation but so do most formulas with iron. I add one packet of the comnpany's probiotics to one bottle a day and all is good in that area ever since. I also love that I can mix in my own DHA with the company's individual packets and they don't process it with all that junk other brands do. I highly recommend this formula especially with the probiotics they sell with it:)
+
+product/productId: B002FJM9SU
+review/userId: ABPWPVWHBBDSD
+review/profileName: sherwood
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1293580800
+review/summary: great stuff!!!
+review/text: we were searching for a healthy alternative to breast feeding when my wife had to go back to work. i researched other formula's and didn't like what i read. thats why we are now using baby's only formula.
+
+product/productId: B002FJM9SU
+review/userId: A3EVDP4LFPWRLM
+review/profileName: mona
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1291766400
+review/summary: Great quality formula and it's organic, too!
+review/text: We have been using this formula on our now fourth-month old for about 2 months now. I use it to supplement my breast milk supply which cannot always keep up with his increased need. It is excellent, as close to breast milk as you'll find I think. The only other brand I have tried is the Enfamil Premium Lipil they gave me at the hospital, used it early on when supply was getting established. He spat it up a little and hesistated to eat it but did when hungry, and it was some weird beige color. And it smelled weird too. I am sure it is fine, really, it is infant formula and safe I am sure. But I wanted to try something organic since that is what we mostly eat. I was really impressed with this formula and chose it over Earth's Best because of others' comments on the way the added DHA/ARA is extracted. Since this is only a supplement to my breast milk, he can get the DHA from that.<br /><br />As for use, I mix prepared Baby's Only formula with my breast milk and he tolerates it very well. I've even given it to him straight and he's fine with it. It smells good like milk and is white, not beige or strange in smell. It does foam up a little when mixed but I try to mix a quantity ahead of when I'll need it so the foam has time to settle.<br /><br />No complaints. And I am glad they make it in small cans because I couldn't finish a big can in one month which is when the can says you should finish it after opening. I highly recommend this formula to anyone who has to supplement their breast milk supply or wants to feed their baby a good quality, organic formula.
+
+product/productId: B002FJM9SU
+review/userId: A1NUQ6CDN23P7
+review/profileName: Wildflowers "Lily"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1281571200
+review/summary: Good Formula
+review/text: I transitioned my baby onto this formula after I learned about the method that other companies use to extract the DHA for their formulas. I figured an Organic formula would be much better for him since I only feed him organic food anyway. He loved it, took to it immediatley. It is slightly foamy, but my baby has never been colicky. It's definitley not as bad as some other reviews state. I noticed that it only gets somewhat foamy if you shake it for a good while. If you are really concerned about that, you can stir it, it will not get foamy. It's not a concern to me. Overall, glad I switched his formula.
+
+product/productId: B002FJM9SU
+review/userId: A393RGGZUD2QFC
+review/profileName: Dance enthusiast
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350604800
+review/summary: New stuff is arsenic free (but is that what you're buying?)
+review/text: I did alot of research last year and decided this was the best organic formula. My baby likes it and its caused no problems. Unfortunately I just threw out a flat of the stuff because of recent testing showing high arsenic levels because of the brown rice syrup.<br /><br />However, according to a Consumer Reports article, any Dairy formula with due dates of July 2015 or later, and Dairy with DHA&ARA with due dates of January 2014 or later have been tested to be safe. Sadly my cans had earlier due dates.<br /><br />The challenge when ordering online is to make sure the product you are getting is not from an old stockpile. I was getting mine from diapers.com and after some inquiries found that their stock was older too. Don't know about amazon yet.<br /><br />I'm disappointed that Baby's Only didn't recall the older product.
+
+product/productId: B002FJM9SU
+review/userId: ALEDKN69D0LZB
+review/profileName: R. McNary
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343088000
+review/summary: It's official, I've tried them all!
+review/text: We have been on a long road to finding the right formula for our baby.  Not the way I wanted it to be but after 8 months of health issues related to feeding, we found out he has severe allergies to 7 foods.  Obviously I will not rate this formula on his allergic reaction to it but since it was the first formula we tried, there weren't any problems at first, except for the horrific constipation.  It was ridiculously bad.  I don't think there will ever be a formula that doesn't have junk in it and I appreciate what this company is trying to do but I don't think brown rice is the best ingredient.<br />  For your information, if you are reading these reviews for help - if your baby is throwing up ALL the time and in varying amounts through the day, has eczema and has tummy issues it may be food allergies.  I had one doctor tell me I was overfeeding him!  So trust your instincts. He is now on Nutramigen AA which he is tolerating well. He's allergic to soy and dairy which required us to go to the heavy duty formulas.  STAY AWAY FROM SIMILAC.  They are not as organized nor as helpful as Enfamil.  I can call Enfamil, get a person that knows what they are doing and even get medical information in regards to their formula (ingredients, percentages of casein etc). Good luck with your search!
+
+product/productId: B002FJM9SU
+review/userId: A735TCIDNBPKL
+review/profileName: stroll-her
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Seriously...
+review/text: My baby loves this formula. It does suck that no store around me sells it so I have to order it online only, but oh well. When you start to run out, order more.<br /><br />My doctor said this formula was great, though she suggested for a cheaper option to go with Similac Organic.
+
+product/productId: B002FJM9SU
+review/userId: A2AO9PN6YV27ZZ
+review/profileName: zayjah
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318464000
+review/summary: Closest thing to breast milk - and it's organic
+review/text: I wish I would have tried this earlier.  I had tried to breastfeed with some success until about 6months.  My daughter did a lot of spitting up, so I was using Enfamil AR formula.  It REALLY stinks and I hated giving it to my daughter.  Finally came across this one day on Amazon and decided to give it a try.  I smells SO MUCH better and my daughter likes it.  She seemed to have a little firmer stools, but I just made sure she had enough fiber (pears and blueberries etc.) while making the switch.  She's now 10 months and is doing fine with it.
+
+product/productId: B002FJM9SU
+review/userId: AL0I8X5J1KBDB
+review/profileName: Y.T.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316304000
+review/summary: I like it
+review/text: We started using it as a snack before going to bed after a year. There is something pacifying about warm milk/formula. I add a dose of probiotics to this formula and it works well for us. It tastes good - I tried it myself.
+
+product/productId: B002FJM9SU
+review/userId: A12GOUX0P09UF3
+review/profileName: dmama
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315699200
+review/summary: Best formula on the market.
+review/text: I've been an extended nurser for both of my kids, but have supplemented with Baby's Only during times when I was working, weaning, or sleeping. I did extensive research and found the most comfortable with their product. Please do yourself a favor and read through their website and learn about the issues involving DHA. I also appreciate that the first ingredient isn't sugar or corn syrup like some other formulas.  Ad of course the organic ingredients puts me at ease. Fnally, neither of my kids had any problems digesting this and they drank it happily. Which is a concer when you're a nursing mom! Try it. You'll love it for your kiddos.
+
+product/productId: B002FJM9SU
+review/userId: A3JYU128SZCBDZ
+review/profileName: Amanda Scoggins
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1315008000
+review/summary: wish I could like this!
+review/text: Well my little one was exclusively breastfed until 4 1/2 months when we started having supply/weight gain issues. Heartbroken we started supplementing and she was doing fine, poos were ok just smelly lol! Then when I ran out of the sample the pedi gave me I wanted to go organic if only to make myself feel better and bit more in control, then she had the hardest most uncomfortable stool. I felt so awful! I will have to switch! I may try earth's best to see if that works. If this works for you great, but just be aware it seems some babies have a hard time digesting this. i wish she didn't need corn syrup in her formula but maybe she does :(
+
+product/productId: B002FJM9SU
+review/userId: A1AYUAD97NH1TP
+review/profileName: Mom o' four "Mom o' four"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311292800
+review/summary: My toddler's favorite!
+review/text: This toddler formula has been used in our family with 2 babies, to help transition from breastfeeding. Starting at about 10 months, my kids loved this formula, and would not have anything to do with the acrid taste of the standard formulas. This formula is naturally sweet, and tastes more like real milk than other formulas (even other organic formuals out there). Other formulas taste like bad oil to me. This formula is a great choice for parents who want to supplement their older baby's/toddler's diet with more vitamins and minerals. Amazon's price has been less than other website's, and the prices at Whole Foods, and includes free shipping. Always a great plus.
+
+product/productId: B002FJM9SU
+review/userId: AURX0G54K5B4G
+review/profileName: myboys2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310947200
+review/summary: Great Formula
+review/text: I have used this formula with both of my boys (4yrs/11mo). We didn't have any problems with acceptance by either child. I like that the company is also concerned with safety of plastics and chemicals, making sure that their products are  organically sound.
+
+product/productId: B002FJM9SU
+review/userId: AEX4E7PPSEG36
+review/profileName: Kosta Blyznakov
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297382400
+review/summary: Great product
+review/text: Our little one is very happy with this product. She is digesting it well and after what I was reading on the web this is one of the best formulas on the market
+
+product/productId: B002FJM9SU
+review/userId: A3AF6E0XFNMCMA
+review/profileName: S. Lin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289088000
+review/summary: My baby will drink this!
+review/text: Needed formula for the transition from nursing-- tried similac (baby almost gagged on similac), enfamil (did not like it and had skin problems), good start (was ok with this-- my backup formula).  Although Good Start was perfectly fine, I wanted organic, so I tried Babys Only.  My little guy liked the dairy and soy formula, did NOT like the lactose free formula.  His skin has stayed perfect on Babys Only (unlike Similac and Enfamil).  I would definitely recommend.  One thing to note-- powder formula is a pain to make, so I bought a japanese tea maker (Zojurushi) and placed the water temp setting at 140 degrees.  My life is MUCH easier with the tea maker-- formula is much easier to make!!
+
+product/productId: B002FJM9SU
+review/userId: A2SXLWC418XV4H
+review/profileName: DL MOM
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1285200000
+review/summary: smells really good, but doesn't dissolve well in water
+review/text: the formula smells really good compared with other infant formula. The only small issue is that somehow it doesn't dissolve well in water, so the nipple get clogged pretty frequently, which can be quite annoying to a hungry baby.
+
+product/productId: B002FJM9SU
+review/userId: A14P09V7MUMYRN
+review/profileName: Bryant
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280448000
+review/summary: Great Product!
+review/text: Great,organic,and it has a great price!The only not so good part is that it foams a little
+
+product/productId: B002FJM9SU
+review/userId: A1U9L9CEOWVE1Y
+review/profileName: Freefallinsunshine
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1280448000
+review/summary: If she doesn't get breastmilk, she gets this.
+review/text: After researching many formulas, I decided to purchase baby's only organic.  I am satisfied that this is currently the only organic formula available that is safe for baby.  I have breastfed exclusively until nearly 6 months and am introdusing a bottle/day of formula at 10.  The only negative aspect of this formula is that some canisters do not mix as thoroughly as others.  However, if you are patient, you can smash all the clumps out with a spoon.  I highly recommend this product to mothers.
+
+product/productId: B002FJM9SU
+review/userId: ABBW1ZS2W9LUQ
+review/profileName: New Mom
+review/helpfulness: 9/14
+review/score: 2.0
+review/time: 1286668800
+review/summary: Caused Serious Constipation
+review/text: My daughter is 6 mo.  I nursed my daughter until 5 1/2 mo when I went back to work and have been doing partial formula and partial nursing (night and morning).  We started with Similac Organic and that was great and then it got recalled.  I next tried Earth's Best and she was really fussy on it.  We switched to Babys Only because the reviews were great.  Unfortunately, after 2 days on the formula (during the day only) she had serious constipation.  She was in a lot of pain and had several very solid and hard BM.  It has taken about 24 hours to get a normal BM.  We didn't switch her food so we know it is related to the formula.  Our daughter was in so much pain it had me in tears.  The formula mixed well, she loved the taste, but she just did not tolerate it well.  If you try it and your baby gets a solid BM, stop immediately.  My Dr said to give a formula 7-10 days but two days caused a lot of problems.  I regret not stopping immediately.  I am not saying this isn't a good formula for some babies but it was not good for mine.
+
+product/productId: B002FJM9SU
+review/userId: A2CKKVYXI6T5ZR
+review/profileName: WLife
+review/helpfulness: 5/8
+review/score: 5.0
+review/time: 1329523200
+review/summary: Arsenic in Formula? I am waiting this one out
+review/text: Like most moms when I read and saw the arsenic report by Dartmouth College, I was upset and terrified. I have been supplementing my baby's diet with 2 bottles a day for over a month now since I don't seem to produce enough milk any more. Before I chose a formula, I spent 2 days researching different options until I settled on Baby's Only. Hence, when I learnt about the findings, I was angry and felt deceived. After some more research, I decided to stick with this formula and this is why:<br /><br />1. There is no real alternative. Similac, Enfamil or Earth's Best? Those have their own issues - from BPA to Hexane.<br />2. Sabotage on Organic food?<br />3. This is a response by Professor Brian Jackson that headed the Dartmouth Research team responsible for this discovery:<br /><br />SHORT ANSWER:<br />"Sorry, so many telephone calls and e-mails; try to reply as quickly as I can. Yes, that is the brand but please don't be alarmed, these are not acutely toxic levels and this is a short exposure duration. Blood tests are not necessary. Arsenic does not accumulate in the body and is excreted within 2 - 3 days; this is why long term (decades to lifetime) is where we have data for risk."<br /><br />LONG ANSWER:<br />"We found 10 ppb inorganic arsenic (30 ppb total arsenic) in the diary formulas, 15 - 25 ppb inorganic in the soy formulas. These were two cans for each product (different lot numbers) obtained from our local COOP; how representative they are of all lots of the product over time is not known, but from what we know about the range of arsenic in rice and therefore possible ranges in syrup, I'd say that much higher concentrations are quite unlikely. The levels we detected for the dairy are either equal to the safe drinking water limit (if we just consider inorganic arsenic, which, at least for juice is what the FDA would say), or 3X the limit if you consider total arsenic. For the soy they are 1.5 - 2.5 X the level for inorganic arsenic and 3 - 6 x the level based on total arsenic. Remember the drinking water limit is set assuming you'll get a lifetime exposure at that concentration; so we don't know what risks are associated with low level, limited duration exposures (in fact that is a main research aim of the groups I work with here at Dartmouth). I have been advising people not to be alarmed; if they are concerned about arsenic exposure via formula then to consider switching to a formula where rice syrup is not the main ingredient (until such time as we have standardized testing of these products). I also recognize that there are many factors that go into choosing a formula and that this is really a decision for the parents in consultation with their pediatrician.<br /><br />To further put this into perspective these are similar concentrations to those we encounter for people in New Hampshire (also Maine) who are on private well water and have slightly elevated concentrations of Arsenic (due to our local geology). We encourage people to have their water tested and assist them to reduce water arsenic concentrations if it tests high."<br /><br />There is a thread on Babycenter.com about this topic. [...]<br /><br />My conclusion: I am sticking with Baby's Only formula for now because I don't know what other brand I would switch to. I wish I could exclusively breastfeed him...:(
+
+product/productId: B002FJM9SU
+review/userId: A2P7B00G8SB2O4
+review/profileName: ConcernedMommy
+review/helpfulness: 3/5
+review/score: 1.0
+review/time: 1329782400
+review/summary: THE ARSENIC WORRY
+review/text: I'm a mother of two young babies who were fed this formula for 6 months.  At the time I purchased and used this formula in 2009-2010, I was incredibly happy and confident that I had found the perfect formula for my babies.  It smelled and tasted different from other formulas that we had tried on our babies.  I compared all the nutrient labels and believed that it was equivalent to other formulas commercially sold.  I told everyone I knew about the product, encouraging other mothers to use it for their babies.  Since learning of the arsenic in Nature's One formulas, I'm angry and very scared about the possible health effects as a result of my babies ingesting this arsenic through the formula.  This is the only way I know how to deal with some of my emotions--let other mothers know about this very important issue.<br /><br />I'm not a "hired writer" (but I'm certain that the mere fact that I'll be accused of it again by the company and its followers will be enough "proof" for some).  This seems to be the common term the company and its followers are using on many of the online forums like Amazon and Facebook to label and harass mothers who have been brave enough to raise questions about the safety of the product.  For all the truly worried-sick mothers asking too many questions, this is a debate that must be carried on despite the tediousness of the continuous harassment by the company and its followers because the safety of our babies and an entire generation of people are at risk.  The company and its followers are successfully getting postings deleted from online forums in order to suppress thoughts and opinions that it doesn't like because they raise important and valid issues.  Apparently, we're asking some of the right questions--questions that require answers that the company doesn't want to give to parents.  It's not just about this company however.  This is just the starting point.  It's about getting the truth out of the FDA and getting our government to set definable and safe standards for arsenic in our food.<br /><br />First, as unfortunate as it was to discover that there is arsenic in baby formula, it is only the tip of the iceberg.  As I've devoted my time to researching and reading scientific papers and articles, I am just starting to understand that arsenic in our food supply is more prevalent and more dangerous than the public realizes.  The scientific communities around the world have been studying and writing about the dangers of long term arsenic poisoning from water and food for years, and yet it's a fact that most people weren't even aware of until now.  How many of us knew that the U.S. standard for arsenic in our water supply was set at the level it is now (10 parts per billion) not because it was the lowest and safest level that could be achieved, but because the government agency responsible did a cost analysis and determined that it would be too expensive to remove more arsenic than that from our water supply?<br /><br />I suppose it shouldn't be surprising given the fact that the FDA has been "monitoring arsenic in foods for 20 years" (yes, it has known about arsenic in chicken meat for years) but has never taken actions until now to limit this toxin in our food supply.  I guess that the majority of the public (who aren't involved in this debate over Nature's One's formula) will continue on with their lives without ever knowing about the negative health effects of ingesting arsenic every day through water and food.  The majority of us will live a reasonable number of years and suddenly find out that we have some form of cancer, and think it was predominantly genetics that determined our illness, never dreaming that it could've been the arsenic in our food and water.  Regardless of the reasons why the FDA and various agencies never acted to protect the people from arsenic toxicity, it's enough to know that scientific communities have been urging governments to set "safe" standards to limit the amount of arsenic consumption.  It's intolerable to think that the government has been allowing this to go on for so long.  Isn't it time that we demand better from the government of the greatest nation on earth?<br /><br />As I step back from all the debate over whether Nature's One's organic formula is safe or not, I realize that this will be an ongoing war of words.......with no immediate winners.  I imagine that the only thing we'll be left to deal with will be the long term health problems of a small percentage of babies who were unlucky enough to have been fed this formula.  It's sad to think that by simply refusing to admit that the levels of arsenic found in its formulas are unsafe, the company is possibly jeopardizing the health of many babies.  We as parents did the research on all the available formulas and decided to trust this company with our babies' health.  We believed that we were getting the best formula on the market for our babies; we trusted that this organic company was testing for dangerous toxins like arsenic in its products.  Naturally, we trusted, never imagining that an organic company would sell an organic product containing brown rice syrup that was made from rice grown in soil contaminated with arsenic.<br /><br />As of yesterday, the company has decided to release its test results on its website.  I read the numbers, and at first, it meant nothing to me.  I did some research and tried to understand what this truly meant.  From what I was able to find online, my understanding was that the WHO standards that the company cites as safe (2.1 mcg/kg of bodyweight/daily) were set in 1983 and were based on standards for arsenic in water that were much higher (50 parts per billion) than the current standard of 10 parts per billion.  Arsenic experts from around the world agree that this standard is outdated and needs to be revised using "a firm scientific basis."  According to experts, this WHO standard is a "fallback position" due to the lack of current standards for arsenic in food, and not one that is necessarily safe.<br /><br />My fears about what the future may hold for my babies in terms of their health keep me up at nights.  I wonder, and I'm sad about what I might have done to them in my quest for the best.  I only pray and hope that all the babies around the world who were fed this formula will show the amazing resiliency of the human species, and that we as their parents will have the strength to deal with whatever may come.<br /><br />Articles:<br />"Arsenic and Rice"<br />"Getting to the Bottom of Arsenic Standards and Guidelines"<br />"A Bitter Sweetner in Baby Formula"<br />"Arsenic, Organic Foods, and Brown Rice Syrup"
+
+product/productId: B002FJM9SU
+review/userId: A23SNMLR20J7GR
+review/profileName: Lori
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1320364800
+review/summary: fantastic infant formula
+review/text: While I was pregnant I made the decision that my baby would be formula-fed from birth.  In doing research I discovered that this formula is the only true organic formula, as it does not contain DHA and ARA (DHA and ARA are made in a lab and extracted with hexane, which makes them not organic products).  I did not want my baby exposed to DHA and ARA, since safe levels have not been determined.  So I purchased a can of Baby's Only and took it to the hospital for the birth, and my daughter received her first bottle of it within 1 hour of her birth.  Things were smooth sailing from day one.  We never ever had digestive problems.  She never had any other brand of formula, or breastmilk - exclusively Baby's Only for 15 months; we introduced solids at 4 months.  She was always happy to take her bottle, and grew normally and healthily.  She is now 19 months, and naturally self-weaned off the formula (and bottles) and onto whole cow's milk (in straw cups) around 15-16 months old.  The transition to cow's milk and straw cups was seamless and easy.  She has never been sick.  She is 95th percentile for height and 75th percentile for weight.  Her growth has been steady, even, and normal.  She lost very little weight after birth, and was back up to her birth weight by her first checkup in her pediatrician's office 4 days after she was born (we left the hospital exactly 24 hours after birth) - our doctor says that usually takes 10-14 days.<br /><br />We are exceptionally pleased with Baby's Only formula, and recommended it to our best friend who's new baby was losing weight on breastmilk and was having lots of GI problems on Similac, Enfamil Isomil, and their doctor told them she was lactose intolerant and was pushing expensive Alimentum predigested formula.  Her baby is now doing well on Baby's Only Dairy, and has regained the weight she lost (and she's clearly not lactose intolerant!).<br /><br />The formula will make lots of bubbles if you shake it in water.  We purchased several formula mixers (similar to this, but costing only $3 each <a href="http://www.amazon.com/gp/product/B000FNH01E">Fit & Fresh Portable Drink Mixer</a>) to make up the formula directly in the bottle, and this worked really well.  We used Dr. Brown's bottles, and this whole system was very effective at preventing tummy bubbles.<br /><br />I did a cost analysis, and per ounce of formula, Baby's Only costs the same as the Costco house brand (Kirkland Signature) which is not organic and contains DHA.  It costs almost half of what Similac and Enfamil (non organic) cost.
+
+product/productId: B002FJM9SU
+review/userId: A2GA3V548XWCDF
+review/profileName: PitLove "concerned mom"
+review/helpfulness: 3/5
+review/score: 4.0
+review/time: 1300147200
+review/summary: We love this formula!
+review/text: I am updating my review....we've been off & on Baby's Only Dairy since she was a month old because it was making my daughter constipated. She's now 5 months & we've been back on it for 3 weeks now. She did get constipated right away (we were on Earth's Bests but that made her very gassy :(). She started eating solids at 4 months so that already has made her BM's firmer now adding to it the Baby's Only, she got really bounded up. I have her eating oatmeal cereal with either prunes or pears mixed in- she loves it. Then I add a tiny,tiny bit of prune juice to her bottles. This absolutly helps. I feel better knowing that she is on the best formula out there without toxic DHA & ARA. It is hard to mix- becomes very foamy so I mix a days worth in the Dr. Browns pitcher (we love this pitcher-it's well worth the $$) & also add the Baby's Only probiotic supplement & their DHA supplement. The customer service at Baby's Only is WONDERFULL! They are willing to answer any questions that you have. I've been bugging them with emails since we started the formula. I only want what's best for my daughter!! She absolutly loves the formula...sucks down the whole bottle! Out of all the formula's we've tried (Earth's Best, Gentlease, Good Start Gentle Plus & Similac- which all smelt like metal- yuck!!) this one smells good & taste good. A++++++++++
+
+product/productId: B002FJM9SU
+review/userId: A3MIBFDGTQT2VS
+review/profileName: hmdmb8520
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1336780800
+review/summary: Great Formula
+review/text: I like how this formula's first ingredient is brown rice syrup vs. your regular formula's which is just corn syrup.  I also love that it is GMO free, but still has all the nutrition a baby needs.  Great Formula!
+
+product/productId: B002FJM9SU
+review/userId: AWRIVBP35NBL
+review/profileName: painslayer "EL"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1336694400
+review/summary: Baby likes it
+review/text: No complains. Our baby likes it. No colic. Works as advertised. We did not notice too much bubbles - yes, using organic takes a little work (shaking). But the bubbles float to the top anyway, so they do not seem to create more gas than his previous non-organic formula. Good stuff....
+
+product/productId: B002FJM9SU
+review/userId: A1ELLXK5IAF9JU
+review/profileName: Melissa Wier
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1334620800
+review/summary: Damaged product
+review/text: One of the canisters of formula got damaged in shipping so I called amazon to find out what to do. Their returns department is awesome. They told me to toss the damaged item and are sending me another one for free. They have great customer service and I would recommend amazon to anyone.<br />I have been ordering this formula for a few months now and this is the 1 st time this has happened. I rarely ever receive damaged products from amazon. But as with anything, that is shipped through the mail, it does sometimes happen. I never doubt that amazon will correct the problem and still leave me a satisfied customer.
+
+product/productId: B002FJM9SU
+review/userId: A1X7T9QWR36GK9
+review/profileName: J. Gillette
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1327536000
+review/summary: Our 5 month old likes it
+review/text: We got this formula because it was well priced.  The organic aspects were a big plus too.  We also liked that it was 3 12 oz canisters as we use it to supplement mom's supply.  We would not get through a large canister before it expired.  Some reviews reported digestive problems but we have not noticed any disgetive difference between this and the other formulas we have used.
+
+product/productId: B002FJM9SU
+review/userId: A31JQVH4TOJUXN
+review/profileName: Luckyone
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1327363200
+review/summary: LOVE this formula!!
+review/text: I mainly breastfeed but i had a very "healthy" large baby so he was eating and eating and never seemed to get real full with breast milk. At about 1 month of age, I started supplementing with this formula. He loves it! I tried the other non-organic brands and he hated them. I like the fact this is organic. I have read that others have a hard time getting it disolved. It does take some time but i actually stir it and not shake it so there's no bubbles. I use Dr. Brown's bottles with this formula so my baby doesn't have issues with any gas or anything. It does seem to keep him full longer than my breastmilk did. I recommend this formula to all my friends with babies!
+
+product/productId: B002FJM9SU
+review/userId: A2K6GX3JRLMW25
+review/profileName: mcandelario
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1326672000
+review/summary: Great Product, Don't buy on Amazon
+review/text: This formula has great health benefits and through my research I've come to the conclusion that if you are not breastfeeding this is the best formula for your baby.  HOWEVER, buying directly from the company's website is a cheaper option than buying on Amazon!!  [...]
+
+product/productId: B002FJM9SU
+review/userId: ARRVAYRLATRE5
+review/profileName: JK
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1326326400
+review/summary: Great Formula
+review/text: By 6 months I was ready to be done with the pump!!!  We started supplementing our daughter (slow transition to 50% Baby's Only/ 50% frozen breast milk)increasing the Baby's Only about 2 oz a day for a week.  Our daughter seems to really like it - she is not a picky eater.  No problems with constipation.  We were sure to give the Baby's Only probiotics as well to help with the transition.  We like that Baby's Only takes it easy on the synthetic stuff and that the DHA comes from a human food source (eggs).  Also, the Baby's Only with DHA has some (2mg/ 5 oz I think) Cholesterol which is found in breast milk, but not other formula.  I think only the plus DHA kind has the cholesterol.  I would recomend this for an older baby.
+
+product/productId: B002FJM9SU
+review/userId: A2UNPSQRE9749V
+review/profileName: Stacy
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1325548800
+review/summary: My baby loves it!
+review/text: My son started to reject nursing around 10wks, and since then I've been exclusively pumping. My son is almost 5 months now, and has been eating more than I can pump due to his big size. After a lot of research on formula this one seems to be the best. It smells, and tastes good (yes, I tasted it). It has a vanilla flavor to it, and my son loves it. I only have to give him one bottle a day with formula, the rest is breast milk. I was worried about constipation so I also add in 1 packet of Baby's Only Essentials Probiotic to his 1st bottle of the day.<br /><br />The only thing I don't like about this formula is that it gets really foamy when you try to mix by shaking. So I use a mini wisk, and it works great.
+
+product/productId: B002FJM9SU
+review/userId: A220GIPE7XILXZ
+review/profileName: Amy Pope
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1325376000
+review/summary: Watch out for constipation!
+review/text: I picked up this formula over the holidays because the store was out of our regular choice (Earth's Best) and it was the only organic option.  Within 2 days of feeding it to my twin girls, they were outrageously fussy and straining terribly to pass gas or poop.<br /><br />As soon as we were able to get back to the store, we put them back on Earth's Best and they both passed VERY SOLID, formed stool - not normal for a 2 month old!<br /><br />Our girls are primarily breastfed, and receive only 8 oz a day of formula to supplement my milk supply.  I would hate to see what eating only Baby's Only formula would do to an infant's poor little intestines!
+
+product/productId: B002FJM9SU
+review/userId: A31DQH6UOJXB4S
+review/profileName: Amy Peterson
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1312934400
+review/summary: Great organic formula
+review/text: This formula was the only one I could find on the market that does not have DHA and ARA in it.  Weren't those banned or special regulations put on them?  I'm sure it's in breastmilk, and since I breastfeed mainly, I'm not worried.  I needed something that I could use when I WASN'T around or hadn't pumped enough (I cannot pump enough to feed my baby, no matter how hard I try, and it's not like she isn't on the breast most of the time I'm not pumping.)  My infant will go to daycare at 4 months, and I am going to pump as well as provide this formula for her while I'm working.<br /><br />My first baby 6 years ago was fed Horizon Organics, but now that's Earth's Best, and they use ARA and DHA products.  I am not interested in these two supplements at all.<br /><br />Baby's only is made with ingredients I prefer, brown rice syrup is the sweetener.  This makes the formula LESS sweet than my own breastmilk, which is awesome.<br /><br />It says "toddler formula", but that's because the brand is very clear on their website that they prefer you to breastfeed exclusively the first year.<br /><br />We use the dairy and have had no problems so far.  The only problem I have is that my kid prefers breast to bottle, and will only take a breast if I am anywhere nearby!!  For mommy's who prefer to breastfeed as long as possible but who need to supplement, this is a formula you can feel really good about.  [...]
+
+product/productId: B002FJM9SU
+review/userId: A6E6NKNCSH5TU
+review/profileName: Nico
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1312848000
+review/summary: Good product
+review/text: I switched from Earth Best infant formula to Baby Only toddler formula. My baby did not feel the diference and enjoy every meal. She has not had any other issue with it.
+
+product/productId: B002FJM9SU
+review/userId: A3HEVKPV97ZPZZ
+review/profileName: CountryChic
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1312243200
+review/summary: BigFamilyBound
+review/text: I bought this formula for my 17 month old and he did not like it. I don't know why, but he just didn't like it. I tried everything from just putting little amounts in, to get him used to the flavor, but nothing worked. My husband tried it and said it tastes very sweet, so, maybe my child didn't like the sweet. I purchased it because my child is such a picky eater I wanted to make sure he's getting all of the nutrients, but what can you do when they don't like it! I will keep the other two cans, in hopes of using it for our next baby.
+
+product/productId: B002FJM9SU
+review/userId: A3MT928W2U7975
+review/profileName: scoutmb
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1311379200
+review/summary: Very happy with this formula
+review/text: Been using this formula for a couple of months. No hexane processed DHA & ARA. No nasty smell. No constipation. Only complaint is the limited availability in store.
+
+product/productId: B002FJM9SU
+review/userId: A1U7ACVVF6VCCV
+review/profileName: Nourhan
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1308787200
+review/summary: Baby is very pleased! Formula tastes great!
+review/text: I started my son on this formula to SUPPLEMENT (still nursing) because I could not keep up with his appetite. I believe that Baby's Only Dairy Formula has all the nutrition and none of the ridiculous crap other formulas have. I do not mind that it's missing the DHA because I add BLUE ICE Royal Butter Oil/Fermented Cod Liver Oil Blend in my son's baby food to provide the DHA. I also add every other day, some Life Start Probiotic Powder (bifidobacterium infantis) to his bottles. He absolutely loves this formula, I have never experienced a spit up. it smells good and tastes GREAT.
+
+product/productId: B002FJM9SU
+review/userId: A1KXQ1GM6GOHGI
+review/profileName: Anita Mar
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1305244800
+review/summary: Good quality, but wish the can was bigger
+review/text: Nice organic product. My toddler loves it. I wish the can were bigger though, other than that I like this formula.
+
+product/productId: B002FJM9SU
+review/userId: A112TT2PCJDZTZ
+review/profileName: Lori Niva
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1295568000
+review/summary: my 9 month old loves it
+review/text: awesome, smells and tastes way better than all other formulas.  and her burps and spit up dont stink like with other brands.  i also like their dha supplement over lifes dha.
+
+product/productId: B002FJM9SU
+review/userId: A161OTKFO6YVYJ
+review/profileName: M. Oberbeck "Homer J."
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1293580800
+review/summary: Only formula my son would drink
+review/text: Started supplementing formula for my son at 10 months. I couldn't keep up with the demand. I tried enfamil and similac and my son would literally vomit after a few swigs. I would try to trick him, give him expressed breast milk in a bottle then switch to the enfamil. He would vomit the whole thing up after spending a couple of seconds gagging. I was really stressed out about what I was going to do next, just feed him what I could produce or try to find something else. After many hours of research, I settled on Baby's first. I was going to get Earth's best at first but was confused about the DHA added to the formula. I gave my daughter enfamil with DHA but didn't know there was controversy over the DHA extraction process. I just thought I would skip the DHA all together and try Baby's First. The first night I gave it to him, he drank the whole bottle and proceeded to drink about 36 oz in addition to breastmilk in 24 hours. I know that's way too much but I just thought maybe he was really hungry from my lack of supply. Now he drinks the normal amount. I make 16 oz of formula at one time and mix in about 8-12 oz of expressed breast milk. In the beginning, he would take 50% breast milk and 50% formula, now we are about 30/60. He doesn't seem to notice a difference between the two. He's been on it a month now.<br /><br />I know that there have been reviews about the formula not mixing in well, I don't have that problem. I don't think its anymore difficult or extra foamy compared to enfamil or similac. However, I do heat up about 16 oz of water then wisk in the 8 scoops of formula. I emailed to request scoops (which were not included in the first 3 cans I bought) but then I noticed that scoops were included in cans that were sent from amazon. I think they just started putting them in. Another thing that I noticed was that Baby's first smelled really good. I tried the enfamil and gagged myself, it really smells and taste awful. Baby's first smells yummy, has vanilla in it. I gave it a 5 just because my son drinks it and doesn't give me any problems. Plus, its cheaper than the other brands, which took me completely by surprise seeing how it is organic and not readily available. I found it at Wholefoods, Vitamin City, Amazon and Diapers.com.
+
+product/productId: B002FJM9SU
+review/userId: A1J2CNUPZZULAY
+review/profileName: PNW
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1293580800
+review/summary: excellent baby formula
+review/text: smell this and you'll immediately notice how much better this smells than Similac, Enfamil, many other formulas.  our baby's been doing great on this, as for the reviewer who said her baby got constipated, all babies do occasionally and ours did once or twice but also went away and she's on Baby's Only for 7 months now and typically has very normal BM.  I'd highly recommend this
+
+product/productId: B002FJM9SU
+review/userId: A3FFHA91OP93M8
+review/profileName: PSU-Amber
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1288483200
+review/summary: You can feel good about this!
+review/text: This is the only formula on the market that seems truely safe for baby.  Instead of processed DHA/ARA from fungus, they use DHA from egg.  Also, they don't add preboitics, which Dr.'s say haven't been studied yet.<br />Did seem to firm up stools, but she has adjusted and I also cut back on rice cereal.  Hope your baby loves it!
+
+product/productId: B002FJM9SU
+review/userId: A3D4SW0Z508S8J
+review/profileName: denverpippi
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1279584000
+review/summary: Great product, great price
+review/text: Great price for organic formula, I usually buy it at Wholefoods but this saves me a trip, and we get free shipping!
+
+product/productId: B002FJM9SU
+review/userId: AG6TEDWL71ZK3
+review/profileName: Beata Planeta
+review/helpfulness: 6/10
+review/score: 1.0
+review/time: 1330905600
+review/summary: Organic brown rice syrup containes arsenic
+review/text: I'm a mother of 19 months old and started using this formula when my son was about 9 months and used it for about 3-4 months till he switched to a cow's milk. I did tons of research before deciding on this formula. I thought it was the best one on the market. I have recently found out about a study that published horrifying results about organic brown rice syrup (the main ingredient in Baby's Only used as a sweetener in organic food products as an alternative to high fructose corn syrup). The researchers found that the two baby formulas that contained brown rice syrup had arsenic levels that were far above the EPA standard for drinking water and more than 20 times greater than each of the 15 formulas that didn't contain brown rice syrup. These products were Baby's Only Organic Dairy Toddler Formula and Baby's Only Organic Soy Toddler Formula, both made by Nature's One.<br />Arsenic levels in the two formulas were also higher than the World Health Orgnanization's "maximum tolerable daily intake" standard for babies, who are particularly vulnerable to arsenic's neurological effects because of their small size and developing brain.<br /><br />As a mother, I feel dreadful to realize I was giving my child something that could be harmful to him. I just want to warn other mothers  about the results so they can make a wise decision.<br /><br />[...]
+
+product/productId: B002FJM9SU
+review/userId: A1I7S28ST2RGSW
+review/profileName: Christine
+review/helpfulness: 10/17
+review/score: 1.0
+review/time: 1329350400
+review/summary: Warning - High Levels of Arsenic
+review/text: I have been feeding this formula to my baby for four months now, thinking that I was providing the safest, purest formula available.  Today on the news I saw a report on a study conducted at Dartmouth University that revealed formulas made from rice sugar have extremely high, UNSAFE levels of arsenic in them.  Doing some more research, I see that arsenic is naturally in high levels in rice.  The levels discovered in this formula exceed what an adult should ingest.  I'm so concerned about my baby's health from use of this product.  I'm writing this review because I want other Moms to be aware of this new report and please, do the research before you pick this product.  I would LOVE to see the company's response to this study.  I would think that they would test for unsafe levels of all chemicals within their product.
+
+product/productId: B002FJM9SU
+review/userId: A1FYXNJ9BMZ7R6
+review/profileName: Anne
+review/helpfulness: 5/9
+review/score: 1.0
+review/time: 1329955200
+review/summary: I would give ZERO stars if possible!.... HIGH ARSENIC
+review/text: I thought I was picking the best formula I could for my daughter.  Since the breaking news this week I have been horrified to know what is really in this formula...HIGH levels of ARSENIC!!!!!!  And to make matters worse the company is NOT being forth coming at all.  They are posting inaccurate information on their Facebook page and deleting posts from concerned parents who are trying to make them be accountable!!!!!!!  In order to avoid all the hexane formulas here in the US, I suggest you buy from a European company.  DO NOT buy this product!!!!!!!!!!!!!!!!!!
+
+product/productId: B002FJM9SU
+review/userId: A33QZ4Q2PV0K10
+review/profileName: wmiles
+review/helpfulness: 5/9
+review/score: 1.0
+review/time: 1329955200
+review/summary: I recommend finding another product!
+review/text: I would find another product.  According to a study out of Dartmouth this product had questionable levels of arsenic in it.  Nature's One promised they would do testing, which they did, however they will not release the test results.  Please see Nature's One's website for more infomation.
+
+product/productId: B002FJM9SU
+review/userId: A2TMYVUOG9YY4G
+review/profileName: I TELL U THE TRUTH
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1349136000
+review/summary: BIG BRAND ENFAMIL & GERBER "TOXIC FORMULAS". BABY'S  ONLY GUILTY!
+review/text: The FDA found melamine and cyanuric acid, a related chemical, in samples of baby formula made by major U.S. manufacturers. Melamine can cause kidney and bladder stones and, in worst cases, kidney failure and death. If melamine and cyanuric acid combine, they can form round yellow crystals that can also damage kidneys and destroy renal function. Melamine was found in Good Start Supreme Infant Formula With Iron made by Nestle, and cyanuric acid was detected in Enfamil Lipil With Iron infant formula powder made by Mead Johnson.<br /><br />Never forget! "This FDA, this a corrupt administration, instead of protecting the public health, their will always protect the industry,"<br /><br />The U.S. Food and Drug Administration (FDA) has recorded many reported incidents of adverse reactions in infants that linked to intolerance to these additives, (DHA and ARA additives) The majority of these reactions involve severe gastrointestinal distress, prolonged periods of vomiting and painful bloating.<br /><br />Many of these parents only found out that there was a problem with their infant's formula when they accidentally tried a brand without DHA and ARA additives, product ingredients under the trademarked names "life'sDHA(tm)" and "life'sARA, produce by a pharmaceutical Biosciences company name MARTEK. additive produced from algae, and its ARA oil is an Omega-6 additive produced from a fungus. These oils are extracted using petrochemical solvents, (which are extracted using hexane solvent and treated with acid, and bleach.) including the potential neurotoxin hexane.<br /><br />Only one company refuses to add these chemicals in their baby formulas, you guess it that is Baby Only Organic, they recently added DHA/ARA but there is made from egg yolk.. Now their are under attack because of the research on organic brown rice syrup. But like their counter parts, they are not innocent...<br /><br />My experience. I started using Enfamil & Gerber (good start) and watch my baby suffer with constant gastrointestinal pains, restless nights, rashes, cradle cap/eczema and many other discomfort. Until I wise up and start investigating these toxic chemicals these manufacturer put in these formula, I started on Baby only organic and experience some change, still too early for full feedback, because she is still weaning off some of the toxic effect left behind from the Gerber & Enfamil.. .<br /><br />However, there are a few negative about this product,(baby only)  it lacks probiotic and after 24 hours of using my baby was constipated and stool/poop was hard as a rock and round and rubbery this was not normal and seems dangerous, that this baby's only formula could do this to my child... I email the company dietian and waiting on response in regards to this.. The company is aware of all the feedback as it relates to the hundreds and possible thousands of parents who have complain about the major and serious constipation issue and now this other concern and controversy over the brown rice syrup and they have turn the other way and refuse to take real positive action. Not just chattery. I am so very dissapointed , now there is no other baby formula I can find without having some kind of potential toxin and poisonous ingredient.  What happen to the good old days...when growing up and formulas if any never contain all this garbage..any other formula will have to be imported from another country. What a mess!<br /><br /> As knowledge and science increase, health and safety decrease...What's wrong with these manufacturers, our food are now being made in a science lab by all these satanic pharmaceutical and biotech company...we all need to boycott & rally for clean and safe food, the way God intended it to be and not man manipulation or grown in a science labalatory.
+

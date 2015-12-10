@@ -1,0 +1,1143 @@
+product/productId: B001EW5YQS
+review/userId: A2LW76JCI8HFBW
+review/profileName: Patrick Gleason "Patrick"
+review/helpfulness: 29/30
+review/score: 4.0
+review/time: 1253750400
+review/summary: Simple plug and play that just worked - period.
+review/text: I bought the Blue Icicle because I had to quickly record some trumpet lines and I didn't have an interface. Well, actually, I did pick up an open box unit that didn't work because they couldn't provide me with the external power supply, so I took it back and got the Icicle as a quick fix that would get me where I needed to go in a timely manner.<br /><br />Hardware: iMac, dual core 2.0 GHz processor and 4 GB or RAM. OS 10.5.8.<br />Software: Garage Band.<br />Mic: Shure SM57.<br /><br />Pros. For recording trumpet with an SM57 it was perfect. Clear sound, low noise, LOTS of signal. With the gain a little over half way on the Icicle and about 58% in Garage Band I got hot horn lines with gain to spare.  Any hotter and they would have started clipping, so it definitely gave enough signal to get the job done.<br /><br />Cons. The gain knob has no dial or indicators for how far you have turned it - it has to be done by feel making it almost impossible to duplicate your settings exactly. This could be improved with a knob with an arrow and a marked dial so you can see where it's set. It also feels a bit cheap - it's lightweight and feels almost fragile. Treated with care it's fine, but I doubt it would take much abuse before it would break and I have been ultra careful with it because it feels so lightweight and cheap.  I also used it as recommended in the accompanying literature and didn't plug it directly into the back of the mic - I used it with a mic cable.<br /><br />For what I needed it was perfect - simple plug and play that got good sound into my computer, and it worked well in a pinch.  I just wish it was a little higher quality in terms of construction.  A bit heavier and a better dial for the analog gain, and I would have rated it a full 5 stars but as it is, I can at best give it 4.
+
+product/productId: B001EW5YQS
+review/userId: A23O94XN0B0U6T
+review/profileName: Drew Larck
+review/helpfulness: 16/16
+review/score: 5.0
+review/time: 1325030400
+review/summary: I love it
+review/text: This is all that I needed to make my condensor mic work! I have an MLX 990 and it works great with it! without this I was going to need to buy a preamp, and something that converted XLR to USB and a phantom power generator. This little thing does it all. It does exactly what it says it does, nothing more and nothing less.<br />I am not a professional recorder by any means I just wanted to set up a small studio in my room and be able to have my mic go straight to my laptop without having to buy a small soundboard. This might not work for someone who has a fancier setup than mine, but for my basic stuff it works amazing.<br /><br />The only thing I was surprised about was the size. in the picture it looks like its really small, but its really like 1 1/2" round and as long as my hand. It in no way effects the performance or anything I just thought it was noteworthy.<br /><br />If this was helpful please take a few seconds to hit the helpful button above. I would really appreciate it :)
+
+product/productId: B001EW5YQS
+review/userId: ACQ0P9WT55CRX
+review/profileName: RWR
+review/helpfulness: 13/13
+review/score: 5.0
+review/time: 1244246400
+review/summary: AWESOME PRODUCT
+review/text: I have several of these converters in my home studio -- the quality is amazing on both dynamics and condenser mics!  I had an Icicle that initially had a low hum, contacted Blue, and they said that the first 500 units produced had a low hum but that has since been fixed.  They sent me a replacement unit and it works perfectly now.  BUY THIS PRODUCT if you have the need.
+
+product/productId: B001EW5YQS
+review/userId: A395T0P09AYURP
+review/profileName: Matthew Foy "Stone Messiah (I.W.G)"
+review/helpfulness: 11/11
+review/score: 4.0
+review/time: 1233273600
+review/summary: TRUE PLUG N PLAY ON THE GO WHEREVER THERES A PC
+review/text: The Icicle is truly a great piece of hardware. It's as simple as plugging your mic cord into the product and plugging that into your USB. The BEST thing about this product is it allows you to take your mic wherever there is a usb equipped computer. It is light weight so I don't know it's durability and don't plan on throwing it to find out. The Icicle comes with a gain knob which is a plus BUT remember with this is a 60 dollar plug n play tool so it doesn't have any other features.<br /><br />*also i didn't have the noise/feedback issue
+
+product/productId: B001EW5YQS
+review/userId: A2TCZMPP3GFF39
+review/profileName: T K
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1250640000
+review/summary: simply great
+review/text: Though this micpreamp has several weaknesses, I give this 5 stars because it's just perfect for what I do.<br /><br />I've been finding ways to record vocal in convenient way with good quality. Everyone told me I'm suppose to get audio interface for good vocal recording, but audio interfaces always ended up with frustration.<br /><br />After seeing several reviews of Icicle, I was going to return this, but once I used it, I don't think I want to return it anymore.<br /><br />This preamp is way beyond my expectation.<br /><br />However, like I mentioned above, it has weaknesses so this might not be a solution for many people<br /><br />1) it has no headphone jack for direct monitoring<br />2) no asio driver<br />3) only one input<br />4) does not look strong so always be careful<br /><br />If you are a person like me who just to need to record vocal conveniently using easy software like cool edit or audacity, you won't regret.
+
+product/productId: B001EW5YQS
+review/userId: A386TZHV73KG9X
+review/profileName: MZ "MAZ"
+review/helpfulness: 11/12
+review/score: 1.0
+review/time: 1281571200
+review/summary: Worked great, then...
+review/text: Just plug and play with your preferred software.  No hassles, worked great for about 3 months then just stopped working.  Didn't drop it (It is made of a flimsy plastic and is light as a feather - feels cheap).  It just stopped working.  When I buy a product I don't just want it to work great for three months.  Totally dissapointed.
+
+product/productId: B001EW5YQS
+review/userId: A393EQ8RHZH191
+review/profileName: George D. Girton
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1240963200
+review/summary: works perfectly, sounds great
+review/text: I tried this on both Mac OS X and on Vista (not on the same computer), and it worked perfectly with both. Although Vista was a little confusing, nothing more was involved than finding the right audio preferences.  No drivers in either case.  I recorded a short review of the Blue FOR each setup, WITH each setup, which I posted on my devnotes posterous com blog -- you can search that out and listen to both of them if you have any doubts about the sound.  The whole thing lights up blue when it's plugged in, so if you love blue, this mic's for you.  I have a Behringer condenser mic, about the least expensive mic you can find, but it sounded great before and it sounds great through the blue icicle.
+
+product/productId: B001EW5YQS
+review/userId: A3GLGFJCBK5N18
+review/profileName: sKeaLzZz
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1342310400
+review/summary: Owned This For A Year; Windows 7 Problem?
+review/text: I've owned this product for about a year already and it is still working completely fine; although, there was a few technical issues I had to figure out myself. There's no problem with the Blue Icicle itself though. There would be a problem when trying to install this with Windows 7. There was no problem at all using it with Windows XP. It seemed like it would install a different driver instead of it being 'Blue Icicle'. Instead, it would show up as 'USB Multi-Channel Audio Device'. It just didn't sound the same when I was using it with Windows XP. It sounded more louder with some feedback in the background. What I did to fix this problem was to uninstall the 'USB Multi-Channel Audio Device' driver from Device Manager, then unplug the Icicle and plug it back in. When the 'Installing device driver software' notification pops up, click it and click 'Skip obtaining driver software from Windows Update'. It will now be installed as 'Blue Icicle' and work like how it should be! Make sure you raise the levels up in Sound in Control Panel if the mic sounds too low for you, even with the Gain Control Volume up; it shouldn't be up that high anyways as it would have some feedback in the background. I'm not sure if I'm the only one with this problem, but I hope this helps whoever does!<br /><br />When I first got the Icicle, it sounded amazing and I had a lot of fun with it! I still do, too! I use this with my Audio-Technica AT2020. I use it almost everyday, whether if it's for music producing or online gaming with friends. And yes, this does work for the PS3 -- not sure about the Xbox 360 though. I recommend this product for anyone who doesn't have a mixer for their microphone 'cause mixers are kind of expensive! Haha.
+
+product/productId: B001EW5YQS
+review/userId: ALPJUZBVTL8GP
+review/profileName: Dennis
+review/helpfulness: 5/5
+review/score: 1.0
+review/time: 1320969600
+review/summary: Too Cheap
+review/text: Owned two of these and when they work they are fine.  The power knob has no indicator on it though.  My biggest problem, and the reason I will NEVER purchase another, is this: both gave out with in a year.  One now sounds like I am recording from behind a wall and one developed a hum that will not go away.  Do yourself a favor and find a more reliable option.
+
+product/productId: B001EW5YQS
+review/userId: A1VB7O2W2CKPDP
+review/profileName: Gil Gildner
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1308960000
+review/summary: Until it stopped working it was okay
+review/text: Great audio, until a few months in it just decides to stop working. Common problem: google it and you'll see. Cheapest construction of any product every designed in the entire world. Feels like a fast food toy.<br /><br />I do not recommend this product. Piece o' garbage.
+
+product/productId: B001EW5YQS
+review/userId: AY62TN9VGKI2Z
+review/profileName: Mitchell Small
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1288310400
+review/summary: Match Your Mic Carefully
+review/text: I will admit, the Icicle does allow you to plug any mic with an XLR jack to your computer using a USB jack. It does indeed provide phantom power to condenser mics and it will deliver a signal to your recording software.<br /><br />Beyond that, the usefulness depends on your mic and what you consider an acceptable recording level.<br /><br />I tried this with an AKG 200, BLUE enCORE 200 and an AKG 4500. All deliver very nice sound when used in a conventional recording chain. I could barely get an audible record level yelling into the enCORE 200, my staple for location voice recording. Normally, I plug the enCORE directly into a digital audio recorder with an XLR cable. No mic preamp, no phantom power, no EQ, and I get a good clean clear sound level near the peak of input level.<br /><br />This is one very disappointing product. If you route your mic through a preamp, then put the Icicle between the preamp and the USB input of your computer, you can get a decent record level, but that extra equipment is what this light weight gadget is supposed to avoid. Personally, I think you might be better off getting a decent channel strip* or mic preamp and an XLR to to mini jack to go between the channel strip and your computer input and forget the Icicle altogether.<br /><br />BLUE makes some great products, but this is not one of their better ones.<br /><br />*For those that don't know, Channel Strips combine several pieces of equipment into one box: typically a mic preamp and a compressor. Higher end units add some EQ capability as well or have other options.
+
+product/productId: B001EW5YQS
+review/userId: AMV01BUXTGVQ3
+review/profileName: Greg Ah Sue
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1253750400
+review/summary: Works great!
+review/text: Great USB audio interface! I also own the Shure X2U and they perform just about the same...I wish I would have known that before I spent way more on the X2U.
+
+product/productId: B001EW5YQS
+review/userId: A1T6EKXP0TNDQW
+review/profileName: Marcus
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1319241600
+review/summary: Not for long term use
+review/text: This product was awesome the first couple months, I was convinced I was over any potential "defective period..." Well, after caring for it well and giving it no reason not to work, it of course stopped working for me. I now can't use it for anything serious. Anything I record that is profound or important runs the risk of cutting out half way without giving any warning leaving me with half a recording of audio and half with crickets. There must be some crappy design inside the tube that prevents establishing a solid connection, I'm just happy it's not my $100 blue microphone! Don't waste your money on the icicle, it's productive ability has an expiration.
+
+product/productId: B001EW5YQS
+review/userId: A1GNZ0J7JSMUGM
+review/profileName: JL
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1313971200
+review/summary: Cheap
+review/text: Cheap: A plastic tube with some presumably lightweight circuit inside.  Never worked right; no user interface, no known way to engage or defeat the phantom power.
+
+product/productId: B001EW5YQS
+review/userId: A1GU98C18GNK78
+review/profileName: Jules
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1303948800
+review/summary: the business
+review/text: Put simply this is a brilliant piece of kit... does exactly what it says on the tin... converts any XLR mic to USB  - including phantom power supply.<br /><br />We have an Neuman professional condenser mic here at Blockhouse tv and I kid you not  - it sounds amazing with this piece of kit.  Have plugged into our mac and thrown the signal into Audacity and/or Final Cut pro and it sounds the business - no hum, noise, clicks or pop. We use it to voice the children's animation DVD series; Jack and Holly.  Both the actors and the tech staff find it a really easy and portable set-up to use. OK - looks aren't great - and it's plastic - but I don't really give a monkey's about that - all I care about is the signal to noise ratio, the sound quality and can it power our very expensive mics?  The answer is - yes it can.  We say buy!<br /><br /> <a href="http://www.amazon.com/gp/product/B004AM5PZ4">Jack and Holly's Christmas Countdown (US Format)</a> <a href="http://www.amazon.com/gp/product/B00439GWTM">Jack and Holly's Christmas Countdown (European format)DVD </a>
+
+product/productId: B001EW5YQS
+review/userId: A332FI25MJFSMJ
+review/profileName: Riley Jacobs "RJ"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1238025600
+review/summary: Cool stuff
+review/text: I already have the Bluebird from Blue and was using it to record a friend's live performance. With only a laptop computer at my disposal, I was able to connect my XLR to USB directly into Garageband. The Icicle is small, portable, and so easy to use-- plus, I didn't have to carry a huge A to D converter!
+
+product/productId: B001EW5YQS
+review/userId: A3SJODL9LKXB6V
+review/profileName: Russell J. Johnson
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1267142400
+review/summary: Very Noisy
+review/text: I was told by the salesman at Guitar Center that the Icicle was easy and very high quality. . .  It is perfectly easy but I have had nothing but problems from mine. There is a constant popping in anything I record.  I am using an AKG C3000B microphone I have had for a long time and it is in perfect condition so the problem is not with my mic.  Anyone else having this problem? Haven't been in touch with tech support yet, but I will say I am not happy with the Icicle. . .
+
+product/productId: B001EW5YQS
+review/userId: A63VK1TB122UD
+review/profileName: Generousalzir
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1331424000
+review/summary: Not bad, not great
+review/text: Icicle is a pretty good preamp for the price.<br /><br />Very easy setup and a cool design, but definitely was not very rigid. It's very light and made of plastic.<br />But the one things that I didn't like was the noise. It had a fair amount of buzz along with it.<br /><br />A cheap preamp for the price, but you get what you pay for.
+
+product/productId: B001EW5YQS
+review/userId: A2FK11U8INJYUP
+review/profileName: KR
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1319241600
+review/summary: Poor volume with Shure SM57
+review/text: I find that even with the gain on maximum, the volume is not very loud.  I use it with a Shure SM57 mic and my Macbook (using Audacity).  One must be very close to the mike and speak somewhat loudly.  When I use the Shure mics with a mixer (the "analog" way), there are no volume problems.<br /><br />It is simple to set up, being almost "plug and play".  You have to choose the input source.
+
+product/productId: B001EW5YQS
+review/userId: A3EISQCOUUSWY2
+review/profileName: C-Rain
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1304812800
+review/summary: Works Awesome
+review/text: Read a few reviews, some good and some bad, and i finally decided to take the risk since the icicle was on sale.<br /><br />Works great and is perfect for a home/room studio.<br /><br /> I love everything Blue: Though the icicle is a little light and delicate, i treat it as careful as i do my microphone.<br /><br />I would highly recommend this product.
+
+product/productId: B001EW5YQS
+review/userId: A1FK2TOH3PZHDD
+review/profileName: digband
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1294790400
+review/summary: Works Well
+review/text: Have only had the need to use this a few times, but it has always performed well and consistently. Nice that it has a little preamp so you can control levels - doesn't seem to color the tone in any negative way.
+
+product/productId: B001EW5YQS
+review/userId: A2ZGLZE62RW8Y3
+review/profileName: GrungeIsDead94
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1348790400
+review/summary: Not Compatible With Windows 7 :(
+review/text: the product was simply not recognized by my windows 7 home premium computer. very disappointed, considering on the Blue website it says that it is. I gave this the extra star because im sure its a great product, but the lack of communication of the compatibly was very disappointing. Most likely wont be buying anything else from Blue
+
+product/productId: B001EW5YQS
+review/userId: A6FIAB28IS79
+review/profileName: Samuel Chell
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1326153600
+review/summary: Promising--if it works. Not always a guaranteed solution.
+review/text: I have little doubt that the Blue Icicle will get the job done with a Shure SM-58, or similar "dynamic" microphone.  But its claim that it will convert any "condenser" mic, even one that normally requires XLR connection and phantom power, into a "plug 'n play" USB mic should not be taken at face value.  I say this because I have an acquaintance with the original Audio Technica AT2020 Condenser mic who had intermittent and marginal success when he tried such a conversion.  In the long run, he would have been ahead (in terms of both the conversion and saving a few bucks) by purchasing the AT2020 USB mic.  As it is, the Blue Icicle is probably the best such converter on the market (the comparably priced LightSnake cable will not convert condenser mics, despite what you may have read).  So, if necessary, give it a try--and more than one.  But make sure there are return privileges.
+
+product/productId: B001EW5YQS
+review/userId: A2V576O8N1GROI
+review/profileName: Roejen
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1325289600
+review/summary: Decent price for a good product
+review/text: Works fine for my Podcasting needs. I use it with a sure SM58 microphone. It is made of plastic and does feel cheap but I have had it for a few months and had zero problems with it. For desktop use it should be fine. Works great for my needs. Wouldn't recommend for heavy use on a stage or being tossed around.
+
+product/productId: B001EW5YQS
+review/userId: A1MGO5KVMP2RIV
+review/profileName: OtherSyde
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319155200
+review/summary: Works great :)
+review/text: It does what it says. I was only worried that either it wouldn't be compatible with my mic, or that my computer wouldn't recognize it, but everything turned out great. It's plug and play, my computer (running Windows 7) instantly recognized it and I was able to use this right away (in less than 5 minutes from unboxing it).<br /><br />It seemed like a joke to me at first, because it is so small and lightweight, so I thought it wouldn't actually supply Phantom Power or something like that, but it actually does, so this is pretty great. What I love most about this is that it is extremely portable and easy to set up, I DEFINITELY recommend this.
+
+product/productId: B001EW5YQS
+review/userId: A3MU6M7AYJLYNB
+review/profileName: Fuzmeister
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1318377600
+review/summary: Afforable Low-Noise XLR-To-USB Preamp
+review/text: This device does one thing and it does it well. I use it to record demos and it provides a crisp, clean sound with zero noise! I have read some reviews where people complain about the durability of the icicle. While it feels a little chinsy, I hardly think it will snap in half. The price is right and the sound is great.<br /><br />For the most part, setting the icicle up is incredibly easy. I had a few instances where I had to reboot for Windows to recognize it again and such, but no serious headaches.<br /><br />Overall, this is a great device to have on hand of for the traveling musician who wants to quickly lay down ideas on the road.
+
+product/productId: B001EW5YQS
+review/userId: AMHGLOGBCGDO0
+review/profileName: alex
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317168000
+review/summary: What a little beast.
+review/text: This thing is great. I am running a BlueBird into the Icicle into Logic 9 and the sound I am getting is tremendous. There's little to no noise, but it boosts the signal plenty. I've had no trouble with not having enough gain, I have plenty of sound. Another thing is that I don't think it feels as light and toy-like as a lot of people here have stated. Just treat it with care, and don't drop it like any piece of musical equipment. Fantastic buy for the money, recommended.
+
+product/productId: B001EW5YQS
+review/userId: A1JG2EE1T2WV82
+review/profileName: 501.Studios
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1314835200
+review/summary: Very good!
+review/text: i have used the icicle a few times, and it sounds great! everything works how it's supposed to, and it is a very simple but efficient interface. the ONLY thing that i can see that's wrong with it, is it just feels light and cheap. granted its only around $40 so you can't expect too much from it. the plastic just feels rather cheap. but i plan on treating it very nicely and gently anyways so all in all i don't foresee a major problem on that front.
+
+product/productId: B001EW5YQS
+review/userId: A2SU2EMB7LUYGB
+review/profileName: Philip E. Lister "Phil Lister"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309996800
+review/summary: This Icicle is HOT!
+review/text: I was somewhat skeptical about purchasing any XLR to USB adaptor, but I have to say...this thing works great! The recordings are crisp and clear, just as good as recording on my camcorder in PCM! Now, I can record directly to my PC without the need of Mini DV tapes and capturing the audio to the computer! The unit is a bit cheap feeling (weight-wise) but don't let that fool you one bit!<br /><br />It's true plug and play too! No need for any additional drivers/software...simply plug everything together and you're off and running! Overall, it's a great product! I highly recommend this for anyone who does any amount of voice recording!
+
+product/productId: B001EW5YQS
+review/userId: A1OY9LNIROSE3E
+review/profileName: rockmesteady
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1300579200
+review/summary: great product! unbeatable price!!
+review/text: 3 years ago I bought a Digidesign 002 protools rack and a lot of other equipment to start recording - but I could never get it to work with my OS on either computer.  I was at an impasse for a long time until I saw this product on Blue's website.  I already had a $400 condenser mic in the closet I had never gotten to use and didn't want to spend more money on a quality USB mic.  I couldn't be happy that this product exists - in it's quality or price!  I noticed no noise or coloration of the signal and it worked without a problem.  It does exactly what it's suppose to do -- act like it doesn't exist.  It just serves it purpose to convert the signal well, and stays out of the way on everything else.  It does feel light weight and the signal was a little lower than i thought (as many reviews said) and that is the only reason i didn't give it 5 stars.  But I don't think that should keep anyone from getting this product.
+
+product/productId: B001EW5YQS
+review/userId: A2RAEFX1IMVYOI
+review/profileName: Andrew Johnstone "zombie hunter"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1296950400
+review/summary: Quick, Easy, Durable, Touchy
+review/text: I've had this product for 6 or 7 months at this point and I use it for podcasting. I've used 3 different mics one was dynamic and the other two condenser. All three have worked just fine as if I had plugged them into a mixer or a PA system, no problems. I have also beaten the crap out of this thing, knocked it around way too much and left it on the floor at my desk where I record, no problems still runs fine and it's not showing any signs of stopping. This thing is also super easy, plug and record on any software including the free Audacity software, Garage Band, and Sony Acid (the three I've tested)<br />One problem, that gain knob, while very useful, is super super touchy. I found a volume I liked and then taped it down, otherwise it'll jack up or down the gain with the slightest jostling. Doesn't make this a bad product, it just means have some tape handy and this is a quick and easy solution especially for podcasters who don't want to be limited to the USB microphones and don't want to shell out big money for a USB compatible mixer.
+
+product/productId: B001EW5YQS
+review/userId: A1FUDD4U3S5GCA
+review/profileName: Suryakant Sansare
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1286928000
+review/summary: works but does not have enough gain
+review/text: using it for recording vocals on home PC using Shure C606 mic. It is a big improvement over the mic to stereo in for sure.. There is no background noise which was very prevailant in the mic in method. The 4 stars instead of 5 is due to the gain. Even with the gain knob turned all the way up i still had to add gain from my software for the sound to be loud enough. But overall a great product.. do not regret buying it and would recommend it as well.
+
+product/productId: B001EW5YQS
+review/userId: A23NHZBPOOCCPS
+review/profileName: chris salazar
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1280016000
+review/summary: way better than i thought
+review/text: ive heard mixed reviews of this.. yeah it feels cheap... but so what?! just take care of it like you would anything like that! and it sounds perfect! i use it to record vocals on logic studio (i get others to sing, i cannot; but they sound amazing) ive had no problems with it and im super happy with the purchase. well worth the money!
+
+product/productId: B001EW5YQS
+review/userId: A1P202BHNDDVWD
+review/profileName: BP Foto
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1276214400
+review/summary: Could be better, but it works and it's inexpensive
+review/text: Pros: Easy to use. Plug it in, set your levels and go! Works well with Condenser Mics. Has 48v Phantom Power. Runs solely off USB (No need for a wall wart).<br /><br />Cons: Very plastic. Feels like it could snap with the slightest bit of rough handling! I wouldn't try to plug it directly into a mic. Use an XLR cable. No headphone monitoring jack and quite a bit of latency when monitoring with a separate interface. I would not recommend it for Dynamic mics. I tried it with my Rode Procaster Dynamic Mic and could not get high enough levels without practically yelling into the mic. I also tried it with an old V-Tech handheld stage mic and levels were a little better, so dynamics with a higher line output might work better with it.<br /><br />Overall, it does what it's supposed to, but it could be a lot better. For about $30-40 more, you can get better interfaces with 2 mic inputs, but this one is nice for situations where running off of USB power is a must.
+
+product/productId: B001EW5YQS
+review/userId: A2I4JKNO3DAG9X
+review/profileName: Buster Maxwell / Writer, Performer, Producer
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1265500800
+review/summary: Clean sound, easy setup
+review/text: Simple, plug-in setup. Garageband recognizes it right away, as long as it's opened as first step, before plugging in Icicle. Nice, clean, "transparent" sound without much coloring with my Electrovoice stage mic. Depending upon your setup, you may have to crank up your inputs and headphone volumes to get comfortable levels.  Blue recommends plugging directly into computer. A great little device for the price!
+
+product/productId: B001EW5YQS
+review/userId: A12YHHMXXE88CD
+review/profileName: Pradeep T
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1265414400
+review/summary: Value for money
+review/text: Brought this product for recording a radio program from home. Along with the Behringer<br />C-1 microphone, provides a cost effective solution.
+
+product/productId: B001EW5YQS
+review/userId: A27Q7HBEBV5Y22
+review/profileName: Michael L. Jones
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1264982400
+review/summary: Mic adaptor for computer
+review/text: The level from this unit was hard to adjust, and when all was said and done, it was very low.
+
+product/productId: B001EW5YQS
+review/userId: AJA31UYVQP4UI
+review/profileName: S. Gresham "Symonty"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1259193600
+review/summary: Great value way to use my nice Rode mic
+review/text: I have some nice mics round my place for video and thought I could use them to help my skype chats, and for the money it is amazing little USB device.
+
+product/productId: B001EW5YQS
+review/userId: A1RPTVW5VEOSI
+review/profileName: Michael J. Edelman
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1244246400
+review/summary: Pretty good for the money
+review/text: I was a little concerned after reader some of the reviews here, but the warranty, Blue's reputation, and Amazon customer service convinced me to give it a try. And in general, I'm pretty satisfied with it. Using it with one of my Oktava MK-301 microphones I get excellent sound, no hum, and so far, excellent reliability. I'm using it with Audacity and a few other programs, none of which have any difficulty recognizing it. There were some issues setting it up initially, and I'm a bit leery about the plastic construction, but for what I paid I think it's a good value. For those thinking of using it in field recording- stick it inside a carrying bag, and tape the cable to it to prevent stressing the USB connector. You shouldn't have any problems.
+
+product/productId: B001EW5YQS
+review/userId: AXNHNE40M921C
+review/profileName: James
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1325635200
+review/summary: Does not deliver enough volume
+review/text: I have several different ways of connecting XLR microphones to my computers for use in webinars, and I thought this design would be simpler to transport and connect, but when I tried to use it with a Shure SM58 mic the volume it produced was about 25% of what I am used to, and was not adequate for my purpose.
+
+product/productId: B001EW5YQS
+review/userId: AKR4OBQ88S5OY
+review/profileName: Jbizzle
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1287792000
+review/summary: stopped working...
+review/text: I had this product for literally only a week, and had only used it one time. When trying to use it again I found that it wasn't sending the sound through. When I plug it into my PC, it recognizes it and the icicle lights up, and i select it as my recording device, but then when i actually try to record, it makes no sound at all (and i have tried moving the gain knob around so it's not that) This was a complete waste of money, unless there's an easy fix that i'm missing...
+
+product/productId: B001EW5YQS
+review/userId: A32ENLNRSM1NZG
+review/profileName: Larry Wagner "Athlete, Analyst, Coach, Dad"
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1249430400
+review/summary: Great product ! Beautiful sound !
+review/text: We've only had the Blue Icicle 1 week, but my daughter loves it, and is working with it every day.<br /><br />How good is it ?  My daughter is 18, and turned down $25,000 a year in scholarship money to Pepperdine's Music program as a coluratura soprano.  Her voice is so perfectly re-produced using a Shure 57 and the Icicle, that I can not tell when she sings and when she plays it back through the computer, an off-the-shelf Dell, using a pair of $30 JBL computer speakers for sound.<br /><br />The icicle is really good.<br /><br />Now they can replace the old TV commercial, from "Is it live, or is it Memorex ?"<br />to  "Is it live, or is it Blue ?"
+
+product/productId: B001EW5YQS
+review/userId: ADZBI354AGFH3
+review/profileName: Brandon
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1307750400
+review/summary: Can't monitor what your recording without latency
+review/text: It does record with ease and decent quality for the price. The only problem is it acts as a sound card and you can't record and listen to yourself at the same time without latency. This is a deal breaker for me. Blue microphones should add a headphone jack onto the interface so you don't have to listen to recordings through your computer and you can hear your recordings in real time.
+
+product/productId: B001EW5YQS
+review/userId: A2MRLXOY9T02OT
+review/profileName: Annunaki
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1295740800
+review/summary: Works great, no noticeable noise and has a high output gain with a smooth flat responce
+review/text: Let's get this out of the way, first: Yes the case is made of thin flimsy plastic, and it doesn't look like it can handle drops to the floor.<br /><br />I'm using it with a Behringer ecm8000 mic and Real Time Analyzer (RTA) software (on my laptop running WindowsXP PRO SP3) to precisely tune notch filters and speaker crossover networks and it works perfectly.  Audio output sinewaves show up very clean and accurate under an oscilloscope, with peaks at 90 degrees (which is a good sign).  No hissing sounds at all, it's very quiet with a mic connected, high frequency-spectrum wise.  For the record, I bought a usb to Toslink output adapter to connect to the amplifier because integrated laptop/PC sound cards are usually noisy as hell.<br /><br />I think some people are using mics with very low sensitivity or crappy output sources (e.g. cheesy soundcards, amps, receivers or multimedia speakers), or even lousy, improperly shielded mic cables and blaming the unit, but who knows.  What I can safely say is, for the cheap price, the unit manages to produce an output that has a very high gain and runs virtually flat while covering the entire audio spectrum.<br /><br />WINDOW7 FUNCTIONALITY(updated):<br />At first, it didn't work with WINDOWS7 x64 Ultimate.  I kept getting a message about not being able to find a driver.  And at the time the Icicle website made no mention of Windows 7 compatibility (2 months later, they are saying it's compatible with XP, VISTA and Windows 7).  After nearly giving up, I found my old USB motorola cell phone charger cable lying around and noticed it had a similar mini-usb header to the that of the Icicle's.  I connected the Icicle using the motorola cable into my Windows 7 PC, and to my surprise it was recognized.  I actually got the idea when the Icicle began losing its USB connection (with the original cable) whenever I moved it around a lot.  Could it be the dinky looking USB cable included with the Icile causing intermittent disconnects or driver problems with Windows 7?  I'm really not sure at this point.  What I can say is that the Blue Icicle seems 100% reliable when used with the old Motorola USB cable.  Perhaps the Motorola cable makes better contact or has better shielding--who knows.  (I'm inclined to cut away the white insulation of the original Icicle cable just see if it's shielded to the USB's electrical ground source.  It wouldn't be the first time I find an unshielded USB cable.  Then again, it might be the mini-USB header causing the problem.)
+
+product/productId: B001EW5YQS
+review/userId: A3W30LNSPWCR3V
+review/profileName: Ricardo
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351036800
+review/summary: didn't work on windows 7
+review/text: this does not work on windows 7, tried reinstating software and to no surprise it din't work. This was a waste of time and money. Be aware of this issue.
+
+product/productId: B001EW5YQS
+review/userId: A3NVE8YYNYKVB2
+review/profileName: RivieraDude
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Icicle on Mac OS X
+review/text: This Icicle performs flawlessly with very good audio quality for my audio-technica cardiod condensor mic.  Took me a short while to figure out the little silver button on the side wasn't a button, but instead a rotational knob for setting the gain.  This device literally plugs into your USB port on a Mac, you adjust that knob, and your done.  You then can forget about the device and enjoy flawless audio performance out of your mic.  This beats the hell out of the more expensive FireWire solutions I had used before.
+
+product/productId: B001EW5YQS
+review/userId: A1QM68NKDJC2Z7
+review/profileName: D. Gordon
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347580800
+review/summary: Blue Icicle - does not work with Windows 7!
+review/text: I have been using a standard XLR to USB cable with my Shure 58 dynamic mic, which works okay, except for an annoying hissing noise that accompanies the majority of my vocal recordings.  I bought the Icicle in hopes of eliminating those noise issues.<br /><br />When I received the Icicle, I couldn't wait to plug it in and take it for a "test" drive. Unfortunately, right off, I got an error - unable to load drivers.  This is a plug and play device, so there are no drivers to download, and I knew something wasn't right. After 3 restarts and uninstalling the USB Hubs and ports numerous times, as suggested by Icicle's troubleshooting website, it was still a no go.  I went to Icicle's website and logged a ticket, explaining the issues in detail and that I was running Windows 7.  The next day, I received an email instructing me to send the Icicle back, as it has a defective driver.  Amazon was GREAT about sending a replacement while the return was on its way.<br /><br />So, I received the replacement Icicle today, pulled it out of its packaging and with bated breath, plugged it in, hoping for success. No such luck - the same error message came up about the drivers. I decided to Google my issue:  "Icicle compatibility with Windows 7", and Bam!, it took me to a Guitar Center review of the Icicle that CLEARLY shows in the product specifications that it is NOT compatible with Windows 7.<br /><br />Amazon needs to get on the ball and add this to their information.  It is nowhere in Amazon's description and the Icicle "techs" themselves didn't have a clue about it either. I found this inadequacy with the blue mic technical team to be unacceptable.  They probably have non-technical CSRs pretending to be techs for all their troubleshooting. That's one way to save a dime, but please people - if you're going to give us "technical support", then say so.  If it isn't really technical support, then say it is Customer Service.<br /><br />I am terribly disappointed that this device has not been upgraded to accommodate the newer technologies.  Windows 7 has been out for some time now.  There is no indication in the little mini booklet that comes in the Icicle package that says Windows 7 is incompatible -it only gives set-up info for Mac and Windows (does not show which OS).  I am sending my Icicle back to Amazon for a refund and will need to look for something that WILL work with Windows 7.<br /><br />If you have a PC that was purchased in 2011 or later, save yourself the hassle and don't bother with this product, as your OS will more than likely be Windows 7.
+
+product/productId: B001EW5YQS
+review/userId: AFVUM6ECDA9FX
+review/profileName: S. Beckner "Paledaddy"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347408000
+review/summary: Windows 7 users, pay attention
+review/text: Picked one up to use with a laptop running Windows 7 Home Premium.  The computer saw the item, but said it needed troubleshooting.  Nothing worked.  After researching online, I found that many people had run into this problem.  Apparently, the firmware is not compatible with Windows 7; it's supposedly been corrected in newer runs, but there's no way to tell if the one you're purchasing is newer or not.  I tried contacting Blue, twice, hoping to get a firmware update, or check into exchanging it, but never got a response from both attempts, so I finally just had to return it.
+
+product/productId: B001EW5YQS
+review/userId: A2QOU81GSVUJHL
+review/profileName: YoCatz "Kim"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: Great product
+review/text: I have now owned this product for over a year and it is still going strong. I mainly use it for voice overs for YouTube videos, Skype calls, and recording music. It all works great.<br /><br />When I first received it in the mail, I simply opened it, plugged it in, and it worked. As simple as that. There were no drivers, no installation, and no updates. I just plugged my XLR condenser microphone into the Icicle and the Icicle to the USB on my computer and it was immediately recognized as a USB mic.<br /><br />This product was WAY lighter than I expected and feels rather cheap. However, that is not really an issue because the product works great. And the blue glow that lights up when you plug it in adds some nice visual appeal.<br /><br />The knob is also useful, as it allows you to control the sensitivity of the mic.<br /><br />Overall, I am extremely satisfied with this product, as it is plug and play. Very simple, and it just works.
+
+product/productId: B001EW5YQS
+review/userId: A32GYU46F5U8PU
+review/profileName: Tiffni Blake
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346976000
+review/summary: Windows 7 USB issue!
+review/text: I'll add to the growing list of reviews here regarding the Windows 7 "USB Audio Device" error.  I figured I had a 50% chance of it working.  It didn't.  Windows 7 insists on loading a USB driver that doesn't work.  There is a review here giving details on how to possibly circumvent this loading process, however, that did not work for me.  Its easier to return this thing, than spend my whole weekend jerking around in Windows 7 hardware manager.<br /><br />Blue probably has a good product here, and probably blames Windows for this issue.  However, BLUE should provide a driver that works.  Don't rely on Windows to do this.  That is corporate laziness.  Spend some resources on programming something that works for Windows 7... make it available on your support website, and make it true plug and play.  Not plug and cross-fingers, then spend hours messing around in the weeds of Windows settings.<br /><br />Also agree with other reviews here... in the 2 days I spent with this product... it's all plastic parts, feels cheap and fragile, and the gain button is poorly thought out.<br /><br />Hey Blue... you had my business... then you lost me.  I'm moving on to something else.
+
+product/productId: B001EW5YQS
+review/userId: A2N7F3MVCTAOYP
+review/profileName: Ronnie Roper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Great little extra power source for condensor
+review/text: I use this with my Audio Technica condensor. Works great for home recordings hooked up to garageband on macbook pro for rough recordings. Its super simple to use and has a dial for the gain. It's not bulky which is a nice.
+
+product/productId: B001EW5YQS
+review/userId: AKCMNQW6YH6BL
+review/profileName: Michael
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Another Great Product
+review/text: This people is a must have especially to take xlr over to usb it provides un  interrupted audio flow during recording and provides phantom power. Great invention !
+
+product/productId: B001EW5YQS
+review/userId: ADSJKDJ15ETD4
+review/profileName: JoJo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341792000
+review/summary: Excellent preamp for the price!
+review/text: This thing works instantly. You plug in your mic and plug the usb into your computer. It will light up, then you adjust the sound to what is audible. It can get pretty loud. I was intimidated at first when contemplating the purchase because of the low price; but it has done everything I needed it for. The other preamp models I was looking at were near $200.<br /><br />The only "downside" to this is that it looks plastic. I don't consider it a con because the look doesnt really matter.
+
+product/productId: B001EW5YQS
+review/userId: A2KF68IMB7CE6L
+review/profileName: christy19
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1341532800
+review/summary: came damaged.
+review/text: purchased and it came looking new, as i had bought it NEW, but it was actually damaged.<br />customer service with the actual company is awful--as i needed to contact the company itself to return it.
+
+product/productId: B001EW5YQS
+review/userId: A1MKZ7HX33FBZY
+review/profileName: Jim Scanlan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340323200
+review/summary: Bllue Mic Icicle
+review/text: The Icicle is an excellent product, works as advertised. I think it's the easiest way to attach a quality mic directly to your computer.<br />the icicle is a fine "Plug & Play" mic interface.
+
+product/productId: B001EW5YQS
+review/userId: AYL7IM9DEY22A
+review/profileName: EZ Web Man
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339632000
+review/summary: New, inexpensive fix for over priced XLR to USB mic interfaces
+review/text: Going from the $600 Digidesign Mbox to this $15 tube made me feel like I got back at Digidesign for screwing all of us who had XP computers that they refused to support after we bought their over-priced gear for recording voice overs.<br />I could wish that the Blue Ice converter was made of heavier materials and came with a CS department that one could reach. But, for $15... well, 'nough said.
+
+product/productId: B001EW5YQS
+review/userId: AIZ79NPILEJFG
+review/profileName: Boris
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1338595200
+review/summary: Broke after several uses
+review/text: Used it a couple of times over the course of a month, and it worked great! Third time, high pitched noise, and no mic signal coming through. Not too surprising, given how flimsy this thing feels. This is apparently a known issue, just look at other 1-star reviews of this product. 'Nuff said!
+
+product/productId: B001EW5YQS
+review/userId: A1SZUPMDG6BFXX
+review/profileName: penname
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338163200
+review/summary: worked for me
+review/text: This product has worked since the first day I have had it. Tremendous buy for me. I needed my mic to go directly into the computer. Thanks.
+
+product/productId: B001EW5YQS
+review/userId: A10APXLM7P5P0G
+review/profileName: NO WORLD ORDER- WAKE UP
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336608000
+review/summary: Cheap reliable solution
+review/text: Bought this because i didnt want to pay 100 plus for the alternative. Found it to be extremely reliable. Very crisp sound with little to no background noise. Before i bought it other reviews stated it seemed a bit cheap. I disagree, though i do find it to be a bit bulky for it's function. I did drop and break it once, but it  was completely my fault. After breaking it, i contacted customer service, and it was replaced very rapidly. The company's website was easy to navigate, and rather amusing.
+
+product/productId: B001EW5YQS
+review/userId: A1476RGAGP85ND
+review/profileName: R. Huber
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1335139200
+review/summary: Not Working for me
+review/text: I wanted to like this product, as it would have been a fast and easy solution for many of my needs, but it didn't work well at all.  Very noisy.  Lots of hissing and pops that are completely absent when using the same mics and computers with other adapter devices.  Considering the decent reviews by others, I may just have a defective unit.  Either way... it's going back in the mail today.
+
+product/productId: B001EW5YQS
+review/userId: A2EO4O7D7BA2K8
+review/profileName: Blood
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335052800
+review/summary: Not very good at all, cheaply made, MXL Micmate is far superior!
+review/text: I bought this before I purchased the MXL Micmate. It is plastic, and very cheaply made. I felt like it would break very easily, and would not be something that would last me a while. So then I bought the Micmate. It is solid metal, and is way better sound quality than this. I beg you to buy that over the Icicle. Buy the MXL used (Like New) from "TheMintMovieMan", a great seller and it is a great product. <a href="http://www.amazon.com/gp/product/B000VZ8WC2">MXL MICMATEC XLR To USB Preamp for Condenser Microphones</a>
+
+product/productId: B001EW5YQS
+review/userId: A1QMQ85ZW2V4JE
+review/profileName: CZABeatz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: Awesome, Affordable, Worth it
+review/text: I don't write reviews at all but I'm just going to say that this is a very decent product to buy if you're not looking to spend hundreds of dollars on a mixer, phantom power supply, and pre-amp for XLR mic recording. Because guess what this little thing has it all in one all for a low price! Cop you one!
+
+product/productId: B001EW5YQS
+review/userId: ACQHZ2C3GP82L
+review/profileName: Whoisjulien
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334275200
+review/summary: Almost Five
+review/text: "Patrick" gave a spot on explanation of everything, just in different uses. Personally, I use it vocally, and acoustically and it has worked perfectly in every way, however, either something is lacking in craftsmanship or  i find my ability to adjust by feel is a little more connected to using numbers instead of blanks. I found the quality just like Patrick said. I too think it "feels almost fragile;" And, "I also used...a mic cable" because for me, that seemed the most sensible solution because I didn't really need it to move it. So, I mounted the connection to my desk; And now I move it very little. Aside from the "no dial or indicators for how far you have turned it," on the gain knob, i think it would be awesome if they just threw in some molded heavy something to give it some weight for setting on your desk. That would make it secure and you would feel like it had a little better quality in craftsmanship. Hey maybe even give the connector itself a littl weight to stay put. Anyways, great product but I guess, "Thats what... he said?..." Regardless,<br /><br />Pros: Does what it says. Get it if you need it. Its at an amazing price compared to the <a href="http://www.amazon.com/gp/product/B001PPXFAG">Shure X2U XLR-to-USB Signal Adapter</a> version. This, however, is fantastic for people saving for a new Presonus interface like me.<br /><br />Cons: Craftsmanship appears lacking.
+
+product/productId: B001EW5YQS
+review/userId: A3VJZQJPSRPAR2
+review/profileName: Pastor Glenn M Feehan
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333756800
+review/summary: Used for audience Mic pickup
+review/text: Plugged direct into windows and controlled via ustream.tv software interface - this worked well, (although we needed a little more gain - obtainable by using better software - cubase, garage band etc), as an interim setup before we could get a more pro level interface for more than one mic etc.  Nice!<br />It feels a bit flimsy construction wise - but we were not going to take it on the road!
+
+product/productId: B001EW5YQS
+review/userId: A2FKR632H2B7H3
+review/profileName: Kevin A. Foresman "b_budd"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: Just what I needed
+review/text: I use this to record in GarageBand on my MacBook. It works unfailingly and sounds as good as it should considering my primitive setup. I love the level knob and the quality construction. If you read the instructions and use it correctly, this tool is invaluable.
+
+product/productId: B001EW5YQS
+review/userId: A1VMDYBJRZ0M12
+review/profileName: JayBird23
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331337600
+review/summary: It Works
+review/text: This product works. If you are only looking to do vocals this is a good product. So far I've had it a few months with no experience of sound distortion or loss of power. Its great if you don't want to go to the trouble of figuring out how to use a mixer. I've been told a pre-amp is better but it seems to work alright for me and my MXL 67G.
+
+product/productId: B001EW5YQS
+review/userId: A181Y2IRMIRWFO
+review/profileName: C. P. Brown "I'd Rather Have A Full Bottle In...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330646400
+review/summary: Works well if all you need is 16-bit, 48kHz mono
+review/text: I've purchased a few of these, and they are very reliable. I've used them with Win7 and OS X. The A/D quality is acceptable for most needs. The limited bit depth and sample rate are probably the only drawbacks.
+
+product/productId: B001EW5YQS
+review/userId: A1DN8CJFUUJ6U5
+review/profileName: Karred
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327708800
+review/summary: Cold as Ice
+review/text: I was really worried when I ordered this that the phantom power would make it overheat, apparently I was worried for nothing! I use this paired with a Blue Yeti Pro, a seriously beefy microphone, running over shielded cable that is about eighty feet away, It's absolutely great!<br /><br />The one downside that I have seen from this piece of kit: It will occasionally not register as a USB device, Granted I only have seen it happen once, but you will always want to double check your connections!
+
+product/productId: B001EW5YQS
+review/userId: A3VWUYJU3HGA7Z
+review/profileName: Chrsitian
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1324425600
+review/summary: The Blue Icicle is decent
+review/text: Cheap and works well the only thing is the gain on it is a little low even at highest setting. Other than that ir records well and does what it needs to.
+
+product/productId: B001EW5YQS
+review/userId: A21VM9WVF8EOSJ
+review/profileName: Jonathan C. Warren "NiALTA"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1322784000
+review/summary: A tad bit noisy and cheaply made
+review/text: Never really intended to use this in a professional setting so the noise issue is not that big of a deal. Just wanted a simple device that could fit in my backpack to interface with my laptop for impromptu interviews and music recordings. For the price paid, it's very cheap and lightweight plastic construction leaves much to be desired. Overall, I can not recommend this product at the current price it's sold at. 15 to 20 dollars, then sure. Still, it's an OK product.
+
+product/productId: B001EW5YQS
+review/userId: AXGZILBCKE0B4
+review/profileName: drez
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319673600
+review/summary: Iffy
+review/text: it is what is is... and it did the job that it was made for. lasts long if u take care of it but is easily out grown when just starting ur own studion
+
+product/productId: B001EW5YQS
+review/userId: A7IHMYAADW14P
+review/profileName: GBoomer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311379200
+review/summary: Does the Job and Does it Well
+review/text: I create language teaching materials for a living on both PCs and Macs. Not only do I care about the sound quality of audio recordings for voice, but I record a lot of music as well. For work I that I do at home, I bought the Blue Microphones Icicle to use with high quality condenser mics. Before buying I read lots of reviews here and some others online.<br /><br />When the Icicle arrived, it worked fine right of the bat. Since then I have recorded hours and hours of audio on it, using both PCs and Macs. Not once have I had any problems with the product.
+
+product/productId: B001EW5YQS
+review/userId: A3529YROG7926Z
+review/profileName: NeonKue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308355200
+review/summary: PERFECT!
+review/text: Perfect tool for any musicians trying to make recording much easier at an affordable price.<br />Easy to open plastic case, medium sized, durable (People have said that the plastic body feels cheap<br />and feels easy to break but it's not true. The Icicle's plastic body feels durable and won't break if<br />you're not clumsy with it or break it on purpose). I only wished that the "Gain Control" had numbers or indications<br />of levels so I can turn the knob to the correct position for recording and remember it instead of guessing all the time. Sound quality is FLAWLESS! No buzzing noises or anything picked up really...just nice crispy sound recorded through a good quality microphone is all I hear. I hear no difference in it with an Icicle or a Mixer
+
+product/productId: B001EW5YQS
+review/userId: AZVQMPXZEHQGZ
+review/profileName: Jonathan A. Travers
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300752000
+review/summary: Works perfect!
+review/text: This product works just as advertised!! Guitar center told me the only way to connect my mic to my computer was either an expensive converter box or a usb mic. A-HOLES haha. I love this little gizmo and would definitely recommend it to a friend!!
+
+product/productId: B001EW5YQS
+review/userId: A3JL82SR4YHE2R
+review/profileName: Jonathan Gill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291507200
+review/summary: AWESOME! BUY FOR SURE!
+review/text: I bought the ICICLE because I have been doing a lot of hip-hop vocals and I was using a Samson C01U and the thing with that Mic you can get close to studio but with so much work and you can always tell that you messed with it alot.<br /><br />Well I always wanted to buy a expensive Mic but didnt want to spend $200 more on a USB Pre-Amp so I see this on here the other day and went to Guitar Center and after deciding for a while I went with it. I also already had a MXL V-88 which is a pretty high end condenser mic, although now you can find it for cheap but original RSPV=$700 and average selling price after it being out was $349-400. But I am very happy.<br /><br />I use Reaper to record vocals with a ASIO driver (AND IT DOES WORK WITH MY ASIO DRIVER) someone put in their comment that it doesnt. For those of you that arnt familure with ASIO it is a driver/program that runs and samples your audio going in, you basically use it with anything that is MIDI or MIDI/MIC to USB. It makes your audio not lag and sound more professional. Also for the people that said the volume was too low, go into Sound in windows and turn the mic up a little, I keep mine on 5%. Also your recording program will let you turn up while your monitoring the record or after.<br /><br />GO AHEAD AND BUY ONE!
+
+product/productId: B001EW5YQS
+review/userId: A2I8IR1MOR982X
+review/profileName: Rielle2173
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1282608000
+review/summary: Good
+review/text: I'm glad i came across the blue icicle (on amazon othere prices where 60 or more) before i went on to buy a mic, preamp and source for phantom power. I literally got i all in one at a verrryyy low price. Good bargain. i recomend it for anyone with a home studio and deff go buy a xlr cable. plugging a mic deirectly into it wont work so well.
+
+product/productId: B001EW5YQS
+review/userId: A1VNSRVQZBNERN
+review/profileName: Solomen Grundy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1274227200
+review/summary: Cost effective solution for low budget home recording
+review/text: A great tool for low budget home recording. I mic every track to Audacity. I use a low budget dynamic mic and the Icicle gives the right boost for PC recording. I keep the gain at 90 to 100 percent and do volume control on the PC.<br />I see some complaints out there about durability. Keep in mind it is a piece of computer hardware like a modem or an external hard drive, NOT something that you would use onstage or throw into a gig bag. Another plus is no drivers or setup. That's important to me when I get home from work and want to record a tune. Just plug it in and go!
+
+product/productId: B001EW5YQS
+review/userId: A21SXUZ89SOB9F
+review/profileName: Rick W
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270771200
+review/summary: Works Great!
+review/text: I needed the Icicle to provide better audio quality for recordings I was doing on my PC. I wanted to use my high quality XLR mic for this purpose and found that the Icicle provided far better performance than any other USB mic that I currently owned. I didn't have any problem with the trim pod on the Icicle as reported by a previous review so maybe Blue Mic has corrected that issue.<br /><br />I have and do recommend this to anyone that wants to use their current XLR mic on their PC. The product is great and the price is right.
+
+product/productId: B001EW5YQS
+review/userId: A24OR46MO22VYS
+review/profileName: Bryan J. Moore
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1269302400
+review/summary: Excellent Buy!!
+review/text: Great price for what you are getting.  Recording via a USB port ROCKS!!!! The only thing that could maybe be improved is the durability.  It feels like a toothpick in your hand.  It may be more durable than it feels, but I'm still going to be very careful with it.  But, for the price this is only a minor gripe.  Great product, I would recommend it to anyone.
+
+product/productId: B001EW5YQS
+review/userId: A1B01XVMENVX22
+review/profileName: Garth D. Braithwaite
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1258329600
+review/summary: feels like a small lightsaber
+review/text: Works well.  It is slightly lighter than expected, but the quality of the sound is excellent.
+
+product/productId: B001EW5YQS
+review/userId: A1VE605MKFVMT8
+review/profileName: Tre
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1302048000
+review/summary: Worked for 2 hours, then stopped.
+review/text: I used the icicle for about two hours. After taking a break, I plug it in and my laptop wont recognize it. I did everything I could think of to fix this, even hours of searching google. Nothing. In the process of a return. =/ It would've been perfect if it just worked.
+
+product/productId: B001EW5YQS
+review/userId: A2M969EKGXV15A
+review/profileName: Rick W. Dole
+review/helpfulness: 8/14
+review/score: 1.0
+review/time: 1233878400
+review/summary: leave this one on the shelf
+review/text: It works reasonably well with condenser microphones.  With dynamics the hum exceeds the signal.  Works with Windows, not with Linux.  The build is very cheap.  Anything more than $5 for this is too much.
+
+product/productId: B001EW5YQS
+review/userId: A2K612RQUL98D3
+review/profileName: ecevallos
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1298851200
+review/summary: Transportable y buen Sonido!
+review/text: Muy buen producto. por su tama&ntilde;o, uno lo puede llevar a culquier lado junto con su laptop y hacer culquier grabaci&oacute;n, en cualquier momento. Antes de tener este producto, tuve muchos problemas con la entrada de audio en mi mac, pero con el icicle por fin pude tener una entrada decente para cualquier micr&oacute;fono. Hasta el momento no genera ruidos de ning&uacute;n tipo y la calidad es impresionante para algo tan simple.
+
+product/productId: B001EW5YQS
+review/userId: A2I5MYKB7JNOLN
+review/profileName: Application Security
+review/helpfulness: 1/4
+review/score: 3.0
+review/time: 1233187200
+review/summary: Still up in the air
+review/text: I bought this device and use a brand new sure 52 with it.<br /><br />The noise and feedback I received with this device was horrible - I might have a bad unit.<br /><br />When I called customer service, a real person answered right away and offered to expedite getting me a new unit. (Very cool and is why I gave them 3 stars for now)<br /><br />I'll see how that process goes and update my review.
+
+product/productId: B001EW5YQS
+review/userId: A1U8Q39H1BJ5RH
+review/profileName: MullaPeriyarDam
+review/helpfulness: 0/3
+review/score: 4.0
+review/time: 1325808000
+review/summary: No good for Wii
+review/text: Bought it thinking this would plug into the Wii and I would be able to use my condenser microphone with it. Well, long story short, doesnt work. But it is still usable with a PC/laptop to record audio. But we can do that with a builtin mic also. Would u like to pay 1$ towards the presidential election?
+
+product/productId: B001EW5YQS
+review/userId: ASE2B2IBIYO1Q
+review/profileName: Anxious Andy
+review/helpfulness: 0/7
+review/score: 3.0
+review/time: 1250035200
+review/summary: Not too happy thus far...
+review/text: Shipping: Ordered on a Sunday of Week 1.  Placed in box on a Friday of Week 2. Received it Wednesday of Week 3. Whoever's responsible for shipping (Amazon or Blue) took their sweet time to drop it in this 8"x5" box.<br /><br />Product: Currently testing the converter with a Shure PG58. Gain is incredibly low and a annoying tone when recording. I do believe the product is in working condition; too bad I have to figure out how to edit the hardware properly.
+
+product/productId: B001EW5YQS
+review/userId: A327EWFXV6016L
+review/profileName: 44BX
+review/helpfulness: 4/16
+review/score: 1.0
+review/time: 1240358400
+review/summary: A Slight Quality Control Issue
+review/text: I ordered this item on March 22nd.  I expect to get its replacement from the people at Blue sometime today.  So, what's a month, anyway?  The first one that came from Amazon had a constant, high-pitched tone.  I emailed, then called Blue, and eventually spoke to a pleasant tech support guy who was aware of the problem. He allowed that the company had shipped out a number of units with this defect.  That's always good to hear.  So, several emails later, I received a Return Merchandise Authorization, and shipped it right back to them.  Who knows, if this one works, maybe I'll like it.  Blue's products look good, but they make a strong case for buying locally.
+
+product/productId: B004391DK0
+review/userId: A27H2Z677SECMJ
+review/profileName: Pam A. Fults "tufbroad"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: A product for Celiac's
+review/text: This product is excellent for the group of people who have Celiac disease.  A tasty treat for Sunday brunch. The only problem I have, is the cost, but<br />as we all know, being saddled with Celiac disease is not cheap.
+
+product/productId: B004391DK0
+review/userId: A2HJ7P7F5N7MRO
+review/profileName: PaulMcCarl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Perfect Pancakes! Enough Said.
+review/text: So life with a gluten allergy can sometimes seem unfair; however, once bisquick started making this product, things got a lot more equal. It tastes like Bisquick. It works like Bisquick. Hey, it is Bisquick. It just happens to be gluten-free. Perfect pancakes! Enough said.
+
+product/productId: B004391DK0
+review/userId: A2I8D1UC6Y6JWN
+review/profileName: Julie Knudsen "Realist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Great stuff!
+review/text: Finally a gluten free mix that tastes great! I have used this mix over and over and I have never been disappointed. It works just the way the regular mix works and it has opened up a whole new world for me. I thought I would never be able to find a mix that I like, but this one I love. I am excited about trying all the fun things I can do with it. Even cookies!
+
+product/productId: B004391DK0
+review/userId: A1D1S7D2V7Y2XK
+review/profileName: EKM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348790400
+review/summary: Bisquick GF - so delicious!
+review/text: The first time we cracked open a box of Bisquick Gluten Free and made a batch of pancakes, I was surprised. They were DELICIOUS! Perhaps the best pancakes I've ever had. We did make a couple modifications from the box recipe. Instead of using oil, we use the same amount of melted butter. And we add fresh blueberries to each pancake as it's cooking. Then, serve with whipped cream. So great! I'm looking forward to trying some of the other recipes with this, including pizza crust.
+
+product/productId: B004391DK0
+review/userId: AFK0W27LQIHCW
+review/profileName: C. HAWKINS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Really good Gluten Free Pancakes
+review/text: I really like it when my wife makes anything from her Betty Crocker cookbook, so I know when we got the gluten free pancakes that they would be good.  They are not overly dry like some of the other brands of gluten free pancakes.<br /><br />We usually have them with earth balance butter spread, and sliced bananas or sliced strawberries, chopped pecans or walnuts and maple syrup.  They are great.
+
+product/productId: B004391DK0
+review/userId: A1FL73ANQ2VZNC
+review/profileName: GFCFgirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Great alternative!!
+review/text: A few years ago, going Gluten Free was really difficult. I missed the basic things I loved to eat and pancakes were certainly one of them. I tried other mixes but the batters were very dry and required items to moisten them such as fruit, etc. But Bisquick's GF pancake mix was surprisingly good! It is a great alternative to the real thing. Certainly all of us Gluten Sensitives out there know it will never be that delicious stack of buttermilk pancakes like we once knew, but I'm happy to know there's a great alternative. :)
+
+product/productId: B004391DK0
+review/userId: A164I2IDQLWC7H
+review/profileName: JR
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345075200
+review/summary: Excellent product, versatile and convenient
+review/text: This replaces many of other brands of Pizza crust mix, cake mix, foccaccia and more.  The only reason I don't give it 5 stars is that it is slightly pricey, but that is an issue of living gluten free.  Enjoy and be creative with it.
+
+product/productId: B004391DK0
+review/userId: A15HXCKNH5O71S
+review/profileName: KDillard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344643200
+review/summary: Great gluten free product
+review/text: As far as gluten free products this is awesome.  I use it as a substitute for any recipe that asks for flour.  It makes great pumpkin waffles.
+
+product/productId: B004391DK0
+review/userId: A6DZ4CZYBGMMS
+review/profileName: chef pam
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344643200
+review/summary: finally
+review/text: Finally-a Gluten Free Pancake product! Pancakes not to bad, taste like regular Bisquick. the batter is just right, not too heavy pancakes. this was a good price compared to local grocers.
+
+product/productId: B004391DK0
+review/userId: A1OG3Z8E8ODUWC
+review/profileName: tmhm72
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344556800
+review/summary: Awsome
+review/text: This is a very versital product!!!! Love it. My husband must eat gluten free and my kids prefer pancakes made with this!
+
+product/productId: B004391DK0
+review/userId: A30D76N0QYOQ6B
+review/profileName: Kirsten Gunsolus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343606400
+review/summary: As good as Regular Bisquick!
+review/text: My son who has Celiacs LOVES the pancakes you can make from these, and so do I...and I will eat them, even though I don't need to eat GF! Highly recommend!
+
+product/productId: B004391DK0
+review/userId: AQGYVTZDU7LT7
+review/profileName: Alice Y. Miller
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342656000
+review/summary: Everyone loves Gluten Free Bisquick !
+review/text: I have now served Gluten Free Bisquick Pancake and Waffle Mix to several of our friends and relatives. I usually make waffles and have even done a taste test with regular Bisquick and 5 people. Everyone liked gluten free best!  I am so happy that I can buy it on Amazon as it is twice as much in the grocery stores.  Thank you for carrying this great product.<br />Alice Miller, Modesto, CA
+
+product/productId: B004391DK0
+review/userId: A2ORW7CE60B9EU
+review/profileName: Cindy H.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341532800
+review/summary: great simple GF mix
+review/text: After searching many local stores to find this product I ordered it via Amazon.  I took the advice of other reviewers & ordered the 3 pack.  I've only made pancakes w/ it, but they are delicious.  Some complain that they are bland.  I always add a little something to flavor my pancakes.  A few drops of vanilla & a sprinkle of cinnamon had these pancakes tasting wonderful!  My 2 yr old loved them.  I highly recommend you try the GF Bisquick.
+
+product/productId: B004391DK0
+review/userId: A1YCF9HVJ561CH
+review/profileName: Julie M. Baker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341187200
+review/summary: Easy and Tasty
+review/text: I've been gluten-free for a little over a year and I've struggled with finding tasty and affordable alternatives to my favorite foods. The great thing about this mix is that it's really easy to make, affordable, and the pancakes are so tasty, my children do not object to eating them--saving me the time of making two batches of pancakes. If they didn't see me eating them, I don't even think my kids would notice that they are eating gluten-free pancakes.
+
+product/productId: B004391DK0
+review/userId: A2VFL12HI60R5D
+review/profileName: GFMom
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1340668800
+review/summary: Yuck! Don't waste your money.
+review/text: Been gluten free for 7 years now. Thought we were done with mixes that tasted awful.  We threw it away because we did not like it. For my money, you can't beat Pamela's baking mix. But, the Betty Crocker chocolate chips are the BEST! So, don't give up Betty Crocker, just work on this one!
+
+product/productId: B004391DK0
+review/userId: A3ELCV44JRP42S
+review/profileName: J. Dorland
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339286400
+review/summary: so nummy!
+review/text: Wow... it's delicious!<br />The kids Love it!<br />We made it for breakfast this morning... the pancakes were eaten in no time at all!<br />The only complaint was that there wasn't more!<br />(actually, it was disappointing that the boxes weren't bigger)
+
+product/productId: B004391DK0
+review/userId: A9OKYXRTXPGDK
+review/profileName: anonymous 101
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338940800
+review/summary: pretty good
+review/text: The first time I tried this product to make pancakes, I thought it was terrible.  I made it according to the directions and used the "right" measuring cups for liquid and dry ingredients, but found that the batter came out thin and the texture was gummy.  Then, one day when I was visiting my mother, she decided to make pancakes, and since I am GF, she had bought this mix for me (not knowing I had already hated it).  I saw that she measured the ingredients "incorrectly" as she used the same measuring cup (generally used to measure liquids) for both the dry and the liquid ingredients.  She also used a whisk to mix the ingredients.  Amazingly enough, the pancakes came out fluffy, and I really liked it.  In fact, it is my favorite gluten free pancake mix so far.  Having said that, both my husband and I are of the opinion that this product still has a bit of the gritty texture that is present in many gf products.  However, it is the best pancake mix that I have found so far.
+
+product/productId: B004391DK0
+review/userId: A3IN5O9624L8WI
+review/profileName: Sfpreemiemom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338249600
+review/summary: Amazing!
+review/text: Best bisquick pancakes I've ever made!  I think these are better than the original Bisquick pancakes.  My husband even loved these!  I would recommend buying this product!
+
+product/productId: B004391DK0
+review/userId: A1L5JA1WES0W2E
+review/profileName: Jill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337731200
+review/summary: The Best GF Mix Out There
+review/text: You won't find a better gluten free pancake mix out there.  As a matter of fact, I much prefer these gluten free pancakes to regular pancakes (and I buy them for my husband).  I love bisquick for this product!
+
+product/productId: B004391DK0
+review/userId: A18EX8YOL07UXG
+review/profileName: dreamerlrz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337731200
+review/summary: Yea for GF!
+review/text: When I found GF Bisquik in the stores, I was happy. When I found it on Amazon with a good price as a subscription, I was thrilled. Our daughter lives in Texas and is gluten intolerant so I mail her items on a regular basis. This has become a staple in her kitchen. Anything you can make with regular Bisquik you can adapt using this. So now she makes cookies, pancakes and biscuits to her heart's content. Taste and texture of items made with it are good.
+
+product/productId: B004391DK0
+review/userId: A8CKH8XB33XGN
+review/profileName: Dave the Pear
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337472000
+review/summary: Good... but still gritty!
+review/text: It makes good tasting gluten free food... but... like most gluten free food, it's expensive and it's got a slight grit to it. I've made biscuits, waffles, and pancakes with it... a friend made some awesome banana bread with it. it's very good for gluten free...
+
+product/productId: B004391DK0
+review/userId: A2FSEI9NRVMHJI
+review/profileName: MasaRyou
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335052800
+review/summary: Fantastic!
+review/text: It's great! I actually used this to make gf donuts the other day. I love how convenient it is. It's so hard being gluten free so this is god sent for how many things you can make with this. I have celiacs and I haven't had any sort of negative reaction to this. I would definitely recommend this for anyone who can't have gluten but still wants things like pancakes and waffles and donuts and other fun things.
+
+product/productId: B004391DK0
+review/userId: A3IWO1KYMRQWMI
+review/profileName: Taylor Grandberg
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1334448000
+review/summary: Meh. Not bad but a little bit of a mushy texture
+review/text: The first brand of GF pancake mix I attempted was Bob's Red Mill and I loved it. I went to the store to try to find it again and this was all they had so I tried it. It's... okay. I'm egg-free too and used mushed banana instead, so maybe that contributed to the slight mushy texture but I made a batch of egg ones for my in-laws and they said it was a bit mushy too.<br /><br />It's not horrible, but I prefer BRM brand personally.
+
+product/productId: B004391DK0
+review/userId: A2XWNL7JV2VE7
+review/profileName: J. Lam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334275200
+review/summary: Perfect!
+review/text: We use this mix for pancakes and waffles and it's perfect. We have had a terrible time finding a good all purpose flour that is gluten free (the popular brands taste terrible!) so we tend to use this pancake mix as a base for a lot of our recipes--- including breading for baked chicken and other things. It's definitely best as a pancake mix of course, but using it as a starting point for baking has helped us find "normal" tasting gluten free baked foods. :)
+
+product/productId: B004391DK0
+review/userId: A42C92TOCLV1J
+review/profileName: Kristin C "Kristin C"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333324800
+review/summary: Keep this stock on my shelf
+review/text: I recently went gluten free and this is one of my favorite mixes.  I used it for biscuits and pancakes and it's very good.  You can also use it for pizza dough and to make fried chicken - it's about average for that.
+
+product/productId: B004391DK0
+review/userId: A2D9J4MVZFNXMT
+review/profileName: Dee Jam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333152000
+review/summary: The Best Gluten Free Pancake Mix!!!!!!
+review/text: I could not believe how great this mix tasted...it's like eating the regular one.  It came out soooooo good, fluffy and delicious!!!!!
+
+product/productId: B004391DK0
+review/userId: A2Z6HY02YT5FP
+review/profileName: Carolyn P. Janecek "avid reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332547200
+review/summary: A Godsend for gluten intolerant people!
+review/text: I find it hard to express how pleased I was to find Bisquick in a gluten free form.  I have tried countless recipes using mixtures of rice, and potato flour and none of them tasted good.  The Bisquick bisquits are delicious, but unfortunatly I couldn't make satisfactory dumplings with the mix.
+
+product/productId: B004391DK0
+review/userId: A1RU8IS6GTV5RA
+review/profileName: Mama42cuties
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332374400
+review/summary: Makes great pancakes
+review/text: My son loves these pancakes. Much healthier alternative to the original. I am excited to try the other recipes soon.
+
+product/productId: B004391DK0
+review/userId: A2W5OOJ65NWCK5
+review/profileName: Tim Mellberg "Tim"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331942400
+review/summary: It acutually tastes good!
+review/text: If you only knew....<br /><br />Bisquick Gluten Free(GF) is by far one of the best options out there for people with Celiac or Sensitivity to Gluten.<br />I honestly don't know how healthy it is for you. What I do know it that it is a great option for people trying<br />to eat as normal as possible. This GF option has been a great meal saver for my wife who this last year was diagnosed<br />with Celiac and got sick in tired of tasting gross tasting GF options or super simple meat and vegetables options for meals.<br /><br />We have made all types of breakfast items, biscuits, even fried food (chicken tenders, mozzarella sticks, fried fruit,...) We bout our own little frier<br /><br />http://www.amazon.com/dp/B0016NQ49Q/ref=as_li_ss_til?tag=talkinhome-20&camp=0&creative=0&linkCode=as4&creativeASIN=B0016NQ49Q&adid=0XK6HZPJRKAED855HEWP<br /><br />In short, It has not only been a great option, but also has been quite tasty allowing my wife to make one meal for both of us not worrying that<br />it will taste bad to me.<br /><br />Hope this was helpful.
+
+product/productId: B004391DK0
+review/userId: A23S4LR3B2VFKH
+review/profileName: Austin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331856000
+review/summary: NO way.....
+review/text: I find it really hard to believe this is GF because it tastes better than any GF product I've EVER had. I made waffles with it this morning and I didn't even want butter or syrup! It was THAT amazing! I want proof that this truly GF...
+
+product/productId: B004391DK0
+review/userId: A1EP22TU1P4MCN
+review/profileName: Andrea Brosnan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331424000
+review/summary: Great
+review/text: This is a great product for us gluten free people.  We use it for everything....From pancakes, waffles, to cookies, scones, cooking.
+
+product/productId: B004391DK0
+review/userId: A2PJYTDF5FRMAK
+review/profileName: B.M.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330732800
+review/summary: AMAZING
+review/text: So grateful for this!! What an amazing mix. It can be used to make some of the best gluten free products out there. What a break through for us gluten free individuals who miss REAL mixes. Some of the other ones on the market just dont do the trick like this does :)
+
+product/productId: B004391DK0
+review/userId: A7GZAIEUMPCL4
+review/profileName: JFroggin11
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330560000
+review/summary: Bisquick Gluten Free
+review/text: I've tried many gluten free products on the market and this is by far the easiest and more yummiest product yet!!  Thank you Betty Crocker!!!
+
+product/productId: B004391DK0
+review/userId: AV62F64BK0ITW
+review/profileName: Dawn M. Drechsler "DDrechsler"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329868800
+review/summary: Music to my belly
+review/text: Thank you thank you thank you.....I have an intolerance for Gluten and Bisquick is my hero. I have tried some of those other packed product and invested in loads of ingredients to make my own mix but "Bisquick" has saved me from myself. Again thank you thank you thank you
+
+product/productId: B004391DK0
+review/userId: A3GOXIH8NTUY3X
+review/profileName: Bill and Mandy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329609600
+review/summary: Finally!  :)
+review/text: My children can not have wheat, gluten, soy, dairy, eggs...  It is very hard to find products that they can have.  We use this for pancakes, pizza crust, cakes.  Basically we just use it in place of flour.  It is so nice to be able to buy Bisquick in the grocery stores now; however it is much cheaper through Amazon!
+
+product/productId: B004391DK0
+review/userId: AAD0HZLJHL3BI
+review/profileName: J. Burt
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1329264000
+review/summary: A bit disappointing
+review/text: I was hoping Bisquick got it right when they released this product, but they missed their mark.<br /><br />I made both biscuits and dumplings (chicken & Dumplings). The biscuits came out okay but the flavor was bland. The dumplings were fluffy but not very flavorful and turned hard after a day or two.
+
+product/productId: B004391DK0
+review/userId: A6C94GK7BLD7R
+review/profileName: journey
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328745600
+review/summary: Good stuff!!!!!
+review/text: My husband is gluten intolerant and as with all gluten free products out there the results are not always the best.  He loves this product and since I only really make the pancakes I can't say how the other Bisquick recipes would turn out for any of you.  And yes he has this texture and taste thing with gluten free products as well...  gritty, sandy or off tasting.... etc. etc...  So I am happy he likes this one!  With gluten free products you really have to test them out one by one as some perform in the taste and texture area better than other blends.  My advice to anyone searching for gluten free products they want to try that it is best to buy them in the single packages, if possible.  I know on Amazon they sell them in bulk but if you find that you don't like it you are then stuck with alot of packages you no longer want!  Just a tip for all of you out there.  It may cost more for one package but the waste will be much less unless you donate them to the local food bank...  Good product and great results!  Thank you, Bisquick!
+
+product/productId: B004391DK0
+review/userId: A2SV8U00L3JH5S
+review/profileName: ss
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328227200
+review/summary: Bisquick
+review/text: I like the Bisquick, it works great in a variety of uses. Wish it came in a bigger box, the recipes are good on the box though.
+
+product/productId: B004391DK0
+review/userId: A219EE3BLYDEZN
+review/profileName: MLB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328140800
+review/summary: Tasty non-corn muffins
+review/text: Neither myself nor my husband can have any type of corn products, but we love cornbread.  This mix makes biscuits that taste just like corn bread to us.  Nice to find an alternative that tastes so great!  Appreciate having this order size option as well since it's often missing from grocery store shelves.
+
+product/productId: B004391DK0
+review/userId: A32O1Y2DOSWESZ
+review/profileName: blessedbyfour
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: this is a great product!
+review/text: I love this!  Such a great product for all us gluten free folks!  It works the same as the regular Bisquick. Their website has tons of gf recipes too!  This makes delicious pancakes and 'magic crust' pies. Yummy!
+

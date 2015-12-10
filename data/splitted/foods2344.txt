@@ -1,0 +1,1143 @@
+product/productId: B002Q0Z8F4
+review/userId: AFA76MZL43L42
+review/profileName: Melanie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302134400
+review/summary: My cat comes running...
+review/text: Every time I just shake this package my cat comes running for it...a little pricey but I think it's worth it!
+
+product/productId: B002Q0Z8F4
+review/userId: A1MYIOKDNJ0BMT
+review/profileName: Alexis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1295654400
+review/summary: Natural Treats
+review/text: I feed my three cats a natural diet but was unable to pair their natural diet with natural treats, I was stuck giving them grocery store brand treats since they stuck their noses up at the natural brands I brought home. They didn't like the chewyness or the jerky-style of the natural brands. I happened to find these one day and decided to give it a try and lucky for me, they liked them. My cats will forever prefer soft treats but we seem to have found common ground with these, it's the only natural-brand treat they'll eat.
+
+product/productId: B002Q0Z8F4
+review/userId: A1BP52U9NEFL9W
+review/profileName: J. Taylor "mrsjoe"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281225600
+review/summary: My cats loved them!!!
+review/text: Another review said their cats wouldn't touch these treats. I guess all cats are different because my cats go crazy for these treats. The could be sound asleep and if I just get the bag out of the cupboard they come running! If you look at the ingredients, they seem more healthy than a lot of other treats on the market. I give these 5 stars! Highly recommend!
+
+product/productId: B005EX6M3C
+review/userId: A10UHQ7SM1BWFI
+review/profileName: Penny
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322697600
+review/summary: Delightful Kinder Egg Knockoff
+review/text: These ornaments are about the size of a tangerine and are wrapped in foil. Inside the foil is a yellow plastic ornament (really a yellow plastic ball that snaps open) that has a trinket inside. So far, I've seen two spinning tops and a package of stickers. For those of us lucky enough to have had Kinder Eggs over the years (they're illegal in the US), these are the closest thing to them I've found. They are much more fun for children than the Wonderball (hollow chocolate ball with candy or gum inside). The chocolate isn't very good, it reminds of the taste of the Palmer chocolate coins (edible but not tasty). The chocolate isn't the star of this show, it's the surprise inside. If a Wonderball was rated a 1 and a Kinder Egg a 10, these are probably a 6. For those who are not familiar with Kinder Eggs, these are absolutely wonderful and you'll think they're a 10! Totally worth the price for the delight on a child's or even an adult's face when they discover the toy inside.
+
+product/productId: B0058RNTLM
+review/userId: A12YPC3CGHLDO5
+review/profileName: P. Croydon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: Twix Minis, 11.5-Ounce (Pack of 4)
+review/text: Much better than the previous 36-CT box purchased.  These are quite fresh, great with a cup of coffee, and a great value for the money.
+
+product/productId: B001EPQ4T6
+review/userId: A4M1UQIPDHWGD
+review/profileName: Marilyn Simcox
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1314230400
+review/summary: All of the Roland balsamic glazes are terrific!
+review/text: I have purchased the original glaze, blood orange, ginger, pomegranate and whatever others there are.  I used to make my own by putting balsamic in a pan and reducing it, sometimes flavored with something else.  The Roland glazes are so much easier and just squirt out of the bottle in a nice thin stream.  Great on Bruschetta, pork chops, or whenever you would garnish a dish with thickened reduced balsamic, without the work.  They also last longer and don't end up with crud in the bottom of the bottle after a few weeks, like regular reduced balsamic does.
+
+product/productId: B003TL60YW
+review/userId: A36WGHR8TO5DKT
+review/profileName: Goldwave "shopper"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348876800
+review/summary: Good Sauce But Overpriced Here
+review/text: I've had this sauce; it's the only one my butcher sells.  I'm not a bbq sauce expert, and of course any premade sauce is going to be lacking in one way or another.  However, I find this one to be highly adaptable, not too heavy, but still good at adding the right sort of flavor you want in a slightly sweet, slightly vinegary, red bbq sauce.  This isn't the syrupy thick sort of coating, it's a bit lighter.  I particularly like it as a sauce for crockpot meat, which is super easy.  It seems to tenderize the meat as well.
+
+product/productId: B003TL60YW
+review/userId: A3AC9O50KDV3W0
+review/profileName: JUSTIN C SHAW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344297600
+review/summary: Definitely tastes great especially barbecue wings
+review/text: I make hotwings a lot and when I do I make some barbecue for those that don't like the hot stuff. They love this stuff and its thin enough you can toss it like regular wing sauce. Plus its not full of crazy you can't pronounce fillers and corn syrup. Because of that it is quite runny, but I have used it straight up barbecue and brushed a few coats on. This is also great in the crock pot as well. You will like this stuff, I assure you.
+
+product/productId: B003TL60YW
+review/userId: A36WKPFG35IOZ
+review/profileName: Professor Ty Sanders, Esq. "ipushbuttons"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1335744000
+review/summary: Not bad, but not good either
+review/text: First off I ordered "thicker", I can only imagine how watery the original sauce is because the thick sauce isn't thick at all. If you are thinking of using this as a condiment, think again. This is really only good for soaking, prepping meat that is going to be put on the grill. As a BBQ sauce goes I would put it up there with most store bought brands. This is not worth the price tag.
+
+product/productId: B003TL60YW
+review/userId: A21WL26MHRG3ZI
+review/profileName: captain crunch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332979200
+review/summary: Well balanced BBQ sauce
+review/text: I really like this sauce as it has great balance.  Not too sweet, not too hot, good texture.  I prefer my BBQ sauces on the thiner side rather than the thick rich sweeter sauces.  Try it, you'll like it.
+
+product/productId: B0017WNF34
+review/userId: A2HO7MC35II5B8
+review/profileName: Heinz Gf Matuschka
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327363200
+review/summary: Milk choco turtles
+review/text: Fabulous taste at a very good price, with very fast delivery!  Just delicious!  I buy these regularly and have never been disappointed.
+
+product/productId: B0017WNF34
+review/userId: A2A8KWCE8RKB9T
+review/profileName: David Glazer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1276646400
+review/summary: These are addicting...
+review/text: These candies are very rich and dense and pack a flavor wallop...POW...they explode in your mouth with many layers of yummyness.  Get em..esp if on sale.
+
+product/productId: B000UBPTQE
+review/userId: A2J1MM9A9F9LX9
+review/profileName: Lisa S
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1314144000
+review/summary: THE best rice blend ever...
+review/text: Like the previous reviewer, I first bought this product at Costco. They carried it just long enough for me to decide "I LOVE it."  When Costco stopped carrying this rice I searched and found it to purchase on line.<br />I'm VERY happy this product is now available through Amazon. PLEASE continue to carry this product.
+
+product/productId: B000UBPTQE
+review/userId: ALY5NF2W4OFJQ
+review/profileName: varmint
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1322956800
+review/summary: Harvest Blend Rice
+review/text: When looking for a new breakfast food, I ran across the Harvest Blend Rice at Costco. Last night, in search for more, I discovered that Costco no longer carries this amazing product. I put some in my rice cooker, and serve it for breakfast with a nut/ground flax seed/banana mixture with milk. This is so much better than a bowl of cereal, and I stay full for a long time. I also cook up whole barley and whole wheat groats for breakfast. Thanks to the much touted Mediterranean diet, I have transformed breakfast.
+
+product/productId: B000UBPTQE
+review/userId: A10TQWIM6NGTBW
+review/profileName: glr "glr"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311552000
+review/summary: If you like "real" rice...
+review/text: In my travels, I have eaten many types and blends of rice, and I can say that this is probably the best rice I have tried.  Originally bought it at Costco, and of course now that I'm hooked they are not carrying it anymore...<br /><br />C'mon Costco.<br /><br />Uh, nevermind, C'mon Amazon. ;-)
+
+product/productId: B000UBPTQE
+review/userId: A2XKJ1KX6XUHYP
+review/profileName: NYFB
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1321488000
+review/summary: Tasty with Aroma...
+review/text: I used to consume brown rice and used to purchase the organic ones from Whole Foods which was priced real well, .99 cents a lb but stopped consuming organic brown rice when I found out about quinoa few years ago. Nothing comes close to the nutritional value of quinoa especially Bob's which is the cleanest of all <a href="http://www.amazon.com/gp/product/B000EDG3UE">Bob's Red Mill Organic Grain Quinoa, 26-Ounce Packages (Pack of 4)</a>. Lately I came across this Harvest Medley Rice Blend and after tasting it now I consume less quinoa than I used to since this rice blend is that delicious. Brown rice goes rancid in six months which becomes worthless so I consume this real fast and keep unused portion in freezer. These are very small rice and draining it in a strainer is just impossible. The rice has such a good aroma that I truly enjoy mixing it with some spicy curry and place it in the refrigerator for future consumption. It is a hardy rice so I soak in the water few hours before cooking. Bravo.
+
+product/productId: B000UBPTQE
+review/userId: A2S7VD8OBXFD7F
+review/profileName: dacrowesq
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343606400
+review/summary: Best Rice Ever
+review/text: I bought this rice at Costco on a whim because the nutrition label showed such great protein and fiber amounts.  I love rice, but this product is in a league of its own.  It is incredibly delicious and filling.  Like some other commenters I actually found myself craving this stuff for breakfast the next morning (I know, right?!).  When I went back to Costco, they were no longer carrying this rice which was a real let down because I was going to purchase some extra containers for other family members.  You owe it to yourself to try this rice.  It is simply delicious and is incredibly healthy to boot - two great things that go great together but you don't find them together very often.  Thank you SunWest for making this product and to Amazon for carrying it!
+
+product/productId: B000UBPTQE
+review/userId: A2TGORCG3I4SWR
+review/profileName: Michele
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1335657600
+review/summary: Disappointed
+review/text: Although I love this rice, I was disappointed with my order.<br /><br />I received the rice in mid-April and the "best by" date was June 22.  Based on the number of servings in this large container, my husband and I would have to eat this rice, on average, every other day in order to use by June 22.
+
+product/productId: B003SO4N4O
+review/userId: A2O19U8OOS7BFA
+review/profileName: Tanvi
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345248000
+review/summary: Ordered at the wrong time of the year, company was great.
+review/text: I ordered this chocolate at the wrong time of the year--it was weather affected due to the extreme heat here in Seattle.  However, the company was extremely gracious about it and refunded me for the product.  I would order from them again (perhaps when the weather is cooler for this type of item).
+
+product/productId: B003SO4N4O
+review/userId: A3FR2L0OZJUNJV
+review/profileName: Alexander Scott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342396800
+review/summary: Great choclate, decent price
+review/text: I run a chocolate-of-the-month club at my work, and this was the July 2012 chocolate.  It's a good dark chocolate, with strong taste but not too bitter.  The cherries seem to be real cherries (which is better than fake) and add both sweetness and a little tart zing.  The downside is that they are a little gummy and stick to the teeth, as do the almonds.  Not a big fan of nuts in my chocolate, preferring the melt-in-your-mouth sensation.  The packaging is attractive and there is a poem inside, which doesn't add to the flavor but adds to the aesthetic when handing them out as a part of a club.  As far as "adult" chocolates go, I prefer Newman's Own, but this is a great fun chocolate and you don't see a lot of cherry chocolate bars.
+
+product/productId: B003SO4N4O
+review/userId: AOSUS76RAR06Z
+review/profileName: SCRAPPYHAPPY "LOVE TO SCRAPBOOK!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: Love this bar
+review/text: This bar tastes good.  The dark chocolate, almonds and cherries are a great mix.  I am picking w/ my dark chocolate and this isn't bitter.  I loved it.  I will purchase this again.
+
+product/productId: B000G2UPXO
+review/userId: A1A4XGQ9UAL3DD
+review/profileName: Valerie Sykes
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1217808000
+review/summary: Soft Chicken Sausage
+review/text: My yorkie loves this product.  I want to say one thing.  Why do some bags contain very hard sausages?  My yorkie will not eat these hard one.  He only eats the soft sausages.<br /><br />You claim you have old/used products.  In the future, please only send me new and fresh products.  Please.<br /><br />Thank you.<br /><br />Valerie Sykes
+
+product/productId: B000G2UPXO
+review/userId: A2ITQYZXEJKFBP
+review/profileName: Louise Shepard
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1303689600
+review/summary: DOGS WILL NO LONGER EAT THIS PRODUCT
+review/text: My dogs would eat the chicken and duck soft sausages all the time.  But know they won't touch them.  They were no longer available because there was something wrong with one of the ingrediants.  I was told this by another website where I was getting this product about half the price amazon was selling them.  This product has had the ingrediants changed and they DO NOT STAY FRESH LIKE THEY DID BEFORE.  THEY GO MOLDY EVEN AFTER THEY ARE RESEALED. I HAD TO THROW ALL OF THEM OUT IN THE GARBAGE.  MONEY DOWN THE DRAIN.  I WILL NO LONGER BE ABLE TO PURCHASE MY DOGS FAVORITE TREAT AGAIN. I purchased this item and the duck sausage from Amazon and the other website and I got the same results from both.  Product goes moldy after opening and the smell and color has changed.
+
+product/productId: B00351Z56A
+review/userId: A30XSDYT3XTB4T
+review/profileName: be truthful, don't lie to get what you want.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321574400
+review/summary: Fantastic!!!
+review/text: My daugther won a basket filled with breakfast items from her school and one morning she wanted pancakes. I saw the mix and now we're hooked. If you want quick, easy, moist and super tasty pancakes, this mix is for you. Make sure you read what's needed and maybe add fruit, nuts or dates. I promise you will enjoy. This company also makes other great products.
+
+product/productId: B00351Z56A
+review/userId: ANWAZCAUPT6M7
+review/profileName: A. Reynolds "Xenomorph"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316736000
+review/summary: Best Organic Pancake Mix
+review/text: These are by far the best pancakes you can buy in a mix. I my opinion, no other mix tastes so home made. I originally bought a box at a local store (which no longer stocks it) and enjoyed them. I could no longer find the box, so I started buying other Organic Mixes, which tasted nasty. When I thought I lost out on finding this mix again, I tried amazon and found it. I now subscribe to the delivery to this mix. If your son or daughter doesn't like this mix, go back to the local store and choose from an entire isle of nasty pancake mixes that make spongy pancakes.
+
+product/productId: B00351Z56A
+review/userId: A32JRYIZMJNLT7
+review/profileName: lisann
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310169600
+review/summary: Great pancakes
+review/text: My family loves these pancakes...especially when I add bananas or pumpkin. If you make them on the thin side, they remind me of Swedish pancakes. You can roll them and stuff with whipped cream and fruit.
+
+product/productId: B00351Z56A
+review/userId: A1GSB2MRA6LV6B
+review/profileName: LeighAnn
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1299110400
+review/summary: Terrible - consistency is off
+review/text: My daughter wouldn't even touch these.  I don't blame her - the consistency is so odd.  It makes spongy pancakes.  Who wants to eat spongy pancakes?
+
+product/productId: B005CV7VKO
+review/userId: ATS38U0VEZHHJ
+review/profileName: CE Gillham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Great
+review/text: These things are great!  When you need a quick and lite snack, these Crackerfuls prove just right.  I bought them to share and found I have to hide them now.  The supplier completed the order quickly.
+
+product/productId: B005CV7VKO
+review/userId: A32PZAIAIMW24Q
+review/profileName: silver meme
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: cant find them anymore :(
+review/text: this is the BEST snack cracker EVER..i was buying them 2-3 boxes at a time..then suddenlly no one has them..<br />why are the BIG STUFF cheddar not available?  just how it goes, you find something you really like and they quit making it..  i refuse to buy any RITZ items now..  just because i can!  very disapponted in ritz...  bring them back! please..
+
+product/productId: B005CV7VKO
+review/userId: A11M59Q51I96D9
+review/profileName: Michael A. Bridgman "Mrmike"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Ritz Colossal Cheddar Big Stuff
+review/text: Since these crackers came on the market I have been buying them and I really like them alot.  However, lately they are disappearing and being replaced by the big peanut butter crackers..which are good but not as good as the cheese.  Someone please tell Ritz to continue to make the cheddar along with the peanut butter. So whoever sells these in the future...I want to know so I can purchase more.
+
+product/productId: B005CV7VKO
+review/userId: A21UEAKWYD8VTT
+review/profileName: EmilyAnn
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343692800
+review/summary: Guilty Pleasure
+review/text: Probably not the most healthful snack on the planet, but for 190 calories these are really really good and quite filling when you are in the hungry zone and need something good and fast.  They've got a big blob of cheese filling and the crackers are tasty (not and all like regular Ritz crackers).  Will continue to buy...
+
+product/productId: B00427ZLOW
+review/userId: A14ZMTS3J55PRQ
+review/profileName: skuldsbugs
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1301356800
+review/summary: Great cat food.  It's a keeper!
+review/text: All 3 of my cats love this food.  They were previously on Wellness Turkey and when the cans were recalled I tried this on the suggestion of a family friend since their one cat has the same crystal issues our oldest does.  He eats his prescription dry in the morning and this at night.  Normally he's content to let the other two cats get to their food first and hold back with patience for his own, but with this it is the first time I have seen him muscle away the other two cats to eat.  I'll be sticking with this and the turkey flavor.<br /><br />Also there is no fish in this or the turkey flavor wet or dry foods which is excellent!  My cats don't tend to enjoy food that has fish in it and this is one of the few foods I can find that is both good for them and has no fish.  One of them does not like the peas in the food, he will eat around them, but one of the others eats them when he's done.  So if your cat hates bits of veggies they may not really enjoy it as much.<br /><br />Oh and one more point, it doesn't have that funky wet food smell a lot of other foods (even good ones) have.  I really can't smell it once I stand up after putting it in the bowl.
+
+product/productId: B00427ZLOW
+review/userId: A3OWU1R4LAL8GF
+review/profileName: GirlX "&#34;Addicted to Amazon&#34;"
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1301875200
+review/summary: Excellent choice for my finicky feline!
+review/text: Since my elderly cat has started eating a wet food diet, she's become extremely finicky. She used to eat anything I'd put in front of her, until about a year ago when she decided nothing was good enough.  I'd been through every brand in the store...she doesn't like fish, plain chicken or lamb so my choices were limited.  When I found this, I gave it a try since she primarily likes beef. The ingredients were excellent and I read great reviews from Vets about it online.  She has been scarfing this food down from day 1 and still loves it. There are peas and carrots in it and the  consistency of it is very mushy. She likes it that way, so she doesn't have to chew much. I also noticed it doesn't dry out if there's any left in her bowl for several hours, like other brands have.  I definitely plan to continue giving this to her. I've been ordering on Amazon since it's been difficult to find it in my local pet stores lately.
+
+product/productId: B00427ZLOW
+review/userId: AIM47BCJFPC0T
+review/profileName: Paul
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1302048000
+review/summary: apparently, delicious
+review/text: my cat is going to be morbidly obese. she loves this food so much it's almost dangerous to her health and my wallet. it looks and smells delicious. i would feel fine eating it myself. that's how wholesome and REAL it is. we get the dry food too- my cat is KING OF THE CASTLE. sigh..
+
+product/productId: B00427ZLOW
+review/userId: AZFOZTEJAI5J5
+review/profileName: Catman
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1330905600
+review/summary: Cats are obligate carnivores
+review/text: Whole peas may seem appetizing to a human but to cats, they're junk food. Cats get all their nutrition by eating the whole animal. Cats have hard time digesting plant matter. This is closer to dog food than cat food since dog's physiology will allow digestion of many plant based food itms. My cats ate about half of the yellow goo around the peas and carrots. If you want a true holistic approach for cats, veggies gotta go.
+
+product/productId: B00427ZLOW
+review/userId: A2IVB6L8GQY2TV
+review/profileName: YZ
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1339286400
+review/summary: vegie heavy
+review/text: Called a stew, but it's really a soft pate, and with big chunks of green beans and carrots.  Overall my cat seems to like it okay -- not a difficult task for him to work around the vegetables and leave them in the plate.
+
+product/productId: B00427ZLOW
+review/userId: A1VNFOV5225CU
+review/profileName: Sara
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1313712000
+review/summary: Great cat food
+review/text: After my cat was diagnosed with renal failure, he refused to eat any of the canned versions of his vet prescribed food for kidney disease although he would eat Hill's Science Diet k/d dry food, but he was vomiting it up regularily. Since his diet requires low protein after searching online I finally found Spot's Stew. My cat really likes it and readily eats the chicken, turkey and salmon varieties. Granted sometimes he eats around the carrots, peas and green beans, but he does eat them. I really like that Spot's Stew is an all natural cat food with no by-products or fillers, and especially that it is an alternative for my cat that he really enjoys.
+
+product/productId: B00427ZLOW
+review/userId: A2WPAPA1IJOAI0
+review/profileName: wolfe275 "wolfe275"
+review/helpfulness: 6/8
+review/score: 2.0
+review/time: 1313107200
+review/summary: Dog Food Masquerading as Cat Food
+review/text: My cat loved the dry version of spot's stew.  When she was sick with a UTI, I purchased this in hopes of adding some additional fluid to her diet.  When I dumped it in her bowel, she looked up at me as if I were mad, and I couldn't blame her.  It is literally "stew," with whole chunks of peas, carrots, etc. in it.  Cats are carnivores.  I have owned several, and I have never seen one of them willingly eat a piece of fruit or vegetable, grain products excluded, that hadn't been completely ground up and disguised in something else.<br /><br />She took one sniff and walked away.  Of course, cats are unpredictable creatures and YMMV.  But there are loads of good quality pate-style wet foods and all-meat wet foods that most cats are more likely to prefer.
+
+product/productId: B00427ZLOW
+review/userId: A3EYP9APJQF5OQ
+review/profileName: Jennifer S.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346544000
+review/summary: Exceptional Cat Food!
+review/text: Oh, this is some good cat food!<br />Have you ever opened a can of Friskies and gagged at the awful smell? How can your cat eat that?<br />This cat food smells pretty good, and it simply looks and smells like good food. My kittens made so much noise when I opened that can! They gobbled it right up, and I have to admit that it smelled pretty good.
+
+product/productId: B00427ZLOW
+review/userId: A2CBYJDTC6TT1I
+review/profileName: Victoria
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341446400
+review/summary: Kitty is in love!
+review/text: This stuff looks disgusting, it really does. It's like meat soup that has been pureed. My cat goes nuts for it. She chirps her tiny cat meow at me whenever I get up in the morning and when I come home from work. I put her dry food in, that she used to love (will definitely switch to Spot's Stew dry next time I buy) and she looks at me like I'm evil. All she wants now is her succulent salmon.
+
+product/productId: B00427ZLOW
+review/userId: AJWZ0Y2SW3MD7
+review/profileName: Straykat8
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1329782400
+review/summary: Cats review
+review/text: I purchased this for my 15 year old cat who has health issues. Unfortunately, this cat decided after about 2 cans that she was not going to eat any more health food. She didn't eat the first cans very well even though I tried giving it in the morning when she's the hungriest and she licked a couple times and then followed me around meowing for something else. I finally gave up and gave it to the other cats. Two of the seven other cats will eat it but they leave the peas and anything else that is not mashed. So as far as I'm concerned it is great food, but the cats weren't impressed.
+
+product/productId: B00427ZLOW
+review/userId: A93B4YN4BD3UK
+review/profileName: Elizabeth Whitmire "technophile, pet lover, &...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: My cat loves Spot's Stew, and I know it's good for him.
+review/text: I've seen other reviewers say their cats wouldn't eat the vegetables in Spot's Stew. Before deciding for or against this product, try just a couple of flavors from Petco or Petsmart first. My cat goes ga-ga for all of this product, including the vegetables. Every cat's different. I know this product is healthy from looking at the label. I used to buy Blue, but one of the top Blue ingredients is chicken meal, which, if you look that up on the internet, is chicken skin. Uggh! I wouldn't ever want my furry loved one to eat skin - that's like feeding a human infant McDonald's, no offense to McD's.
+
+product/productId: B00427ZLOW
+review/userId: A22Y5NVZQFEV3S
+review/profileName: M. E. Dvorak
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314921600
+review/summary: Wow! Cat Food That Seems Yummy!
+review/text: Wow! I have the pickiest cats in the whole universe.  The only wet food they eat is Spot's Stew Chicken.  I can get them to eat the Chicken/Beef flavor if I add some shaved Bonito but with three cats Slinky, Jester and Regal, only Slinky and Jester scarf the food down.  They will eat the chicken without the Bonito but Regal is another story.  She won't eat it at first but might come back later and eat some.  She will ONLY eat the Chicken and does not like Bonito so with her, it gets a little more tough.  However, this food is a wonderful consistency, smells good (to me the human) and I assume to the kitties as well because they LOVE this stuff.  For the vegetables, I don't know if cats really need them however, I mush them up with the meat and they don't notice.  If I miss mushing some, then yes they try to eat around the peas/carrots.  All I can say is thank goodness for this food.  I spent lots of money and time trying to find something they would like.  I also feed them a mix of Halo dry Sensitive Formula Turkey and Purina Dental Health.  In order to prevent urinary symptoms, I give my cats only fresh bottled water every day that I put in bowls all over the house.  With the good water, the good food and lots of petting, I have the happiest cats in Arizona!  Thank you Halo!!
+
+product/productId: B00427ZLOW
+review/userId: A1Y23S418988R8
+review/profileName: Zanne
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310601600
+review/summary: My cats love it!
+review/text: I feed my cats Halo dry food and supplement it with a little of the canned food.  They love it and they are very happy and healthy.  The canned food is amazing - looks and smells like people food.  I've been buying this for years and have no intention of switching to something else.  If you read the labels you'll see how good this stuff is.
+
+product/productId: B00427ZLOW
+review/userId: A33U8304RD0F6B
+review/profileName: Shay
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1298419200
+review/summary: Winner!
+review/text: My furry little friend, who happens not to enjoy eating and who has turned down many cat food brands, LOVES Spots Stew chicken.<br /><br />The consistency and texture are soft and fluffy, much like mousse. I am gathering by the clean plate that the flavor is just the thing to get any picky little eater to ask for seconds.
+
+product/productId: B00427ZLOW
+review/userId: A3UKPQFMSF3WPD
+review/profileName: J. Heathershaw
+review/helpfulness: 4/6
+review/score: 3.0
+review/time: 1295740800
+review/summary: soupy
+review/text: I like all halo products but this canned cat food is just a little too soupy.  My cats look at me with "What's this?" .<br />They like a little something to chew on.
+
+product/productId: B00427ZLOW
+review/userId: A3D4IY3MYEE0HO
+review/profileName: J. L. Carr
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1301184000
+review/summary: A good low protein food!
+review/text: I was surprised to find that the canned Halo cat food is low in protein - even lower than Science Diet wet KD for cats.  And my cat refuses to eat the Science Diet food anyway.  She loves this (turkey) and also the chicken and salmon.
+
+product/productId: B00427ZLOW
+review/userId: A2OK22K9WTY0G9
+review/profileName: LoveAmazon!
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: YUM MY LITTLE QUEEN SAYS!
+review/text: This even smells good!!  Not like any other cat food I have ever purchased.  My cat dove into this and didn't look back.  She loved it.  I AM REORDERING because she is my little sweetie.
+
+product/productId: B00427ZLOW
+review/userId: AO40PMMPYUTGY
+review/profileName: Jude M. Cancelliere
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349568000
+review/summary: Cats love it!
+review/text: Our 2 fussy kitties hate any seafood but love beef with gravy, so we gave this a try & they licked the dish clean!
+
+product/productId: B00427ZLOW
+review/userId: A1CODDSXLMHQ3Q
+review/profileName: Lulu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337385600
+review/summary: Favourite
+review/text: It's the best food my cat has loved for a long time, there's nothing left after I put it down and she craves it, I've a very happy cat!
+
+product/productId: B00427ZLOW
+review/userId: A1Z4LX3Q1YMF84
+review/profileName: Cindy A. Osterhout "Cindy O"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: Chicken and Beef
+review/text: I have 5 cats and they all love this Chicken and Beef Recipe. Whenever I put it out at feeding time, there is a rush to the bowls that have Spot's Stew in them. With 5 kitty mouths to feed, the whole case would be gone in about 4 or 5 days if everybody got the Spot's Stew, so I put some other favorites out also and pretty soon everyone is satisfied. Since no cat eats a whole can at one sitting, those poor things that had to "settle" for Trout or some such later wander over and get their fair share of the stew. I have been so pleased with it, that I plan to order in other flavors that are also 5 star winners.<br />But, at our house, WHOLESOME CHICKEN AND BEEF are definite winners and we all recommend them to all who are looking for something to hit the spot with their felines!
+
+product/productId: B00427ZLOW
+review/userId: A2PMR1N1Y7BVGD
+review/profileName: collects.junk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323561600
+review/summary: Picky felines love this canned food
+review/text: My two cats somehow never figured out how to use their teeth to bite into their food--given dry food, they'll just use their tongues to lick it up and swallow the kernels whole, with an occasional bite with the teeth to crunch on food that's already been delivered into their mouths.  For a while I despaired of getting them to eat wet food, as they would just sit there and lick up all the juices, without getting much of the meat.  Typical canned food is just packed too tight, and the texture is not amenable for breaking off little bits with just their tongues.  Finally, I tried out Spot's Stew, which solved the problem.  This food is much looser, I think due to the inclusion of peas and other veggies, and the meat part is just the right consistency where they can lick it up successfully.  At first the cats would eat around the veggies, but they now lick up every morsel, and even prefer the Spot's Stew over the Wellness pouches.  I also like that the food doesn't contain any fish, as one of my cats is allergic to something or other (his back legs are always itchy, and he'll pull out the hair), and the vet suggested it might be fish.  Anyways, thank goodness for Spot's Stew, otherwise my teeth-challenged cats would never have been able to enjoy wet food!
+
+product/productId: B00427ZLOW
+review/userId: A14RZUPW44KCPF
+review/profileName: felisfanaticus "&#34;The smallest feline is a...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319414400
+review/summary: Stewpendous!
+review/text: Well, all of my babies love this food.  They are sometimes a bit picky, but this food was a sure fire hit!  It is in pate form, but you can see the veggies.
+
+product/productId: B00427ZLOW
+review/userId: A35R32TA60XD57
+review/profileName: M. Torma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319328000
+review/summary: Cats love it!
+review/text: I wasn't sure what would come of my venture in buying this food for my 2 cats that can eat poultry after reading the mixed reviews, but thought it was worth a try.  I am so glad I did!  I was expecting a stew like another reviewer said, and I guess you could refer to it that way.  When I opened the first can that is what I was expecting to see, but instead it is a course pate with chunks of veges in it. Kind of like a toddler food.  Cats are tricky to please for sure, but mine loved everything about this food.  They not only ate the chunks of veges, but licked their bowls clean.  I love the fact that it was such a hit, and will continue to buy it for them.  I also love that is like something you would make for them at home, only with all the right vitamins and minerals added.  Very user friendly.  My 3rd cat cannot eat poultry, so until Halo makes one without chicken in it, she will be fine with her Nature's variety instinct rabbit and Tiki foods.<br />UPDATE - 11-16-2011  My cat has been eating this now for a little while and she always seems hungry when she gets this!  I don't think I will be buying more for her.  I do think it is a good food and probably perfect for cats that need the lower protein, but mine need less moisture in the food and more meat.  I always add about a tablespoon of water on their canned food anyway.  Cost wise, this is about the same as Natures Variety, Natures Logic and even Addiction which are wonderful foods.  I like it better when I add the moisture and am paying for meat in their food.
+
+product/productId: B00427ZLOW
+review/userId: A6LHTEPYT5P5B
+review/profileName: K. Alexandrakis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317772800
+review/summary: The cats love it....
+review/text: I used to buy this at Whole Foods, which seems to have discontinued it.  Glad to find it at Amazon!<br /><br />This is one of the few foods all 3 cats will eat.  And none seem to pick out the veggies!  The soft texture, and good nutrition, is excellent for (1) the elderly cat (2) the cat who's sick and (3) the cat who will literally eat anything, but you'd prefer he eat something healthy!<br /><br />This is "human quality" cat food, meaning the ingredients are pure enough for a human to eat, and it smells a little like chicken pot pie filling!
+
+product/productId: B00427ZLOW
+review/userId: A1YN6Q7NN5IF0U
+review/profileName: Allie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313971200
+review/summary: Doesn't upset little tummies
+review/text: I have a kitten that just LOVES this stuff. The breeder I got him from didn't give me any of his old food, and I had heard that switching food quickly causes stomach upset... but I read about Spot's Stew being great for problem tummies and it's true! My kitten has never had any problems on this food since we brought him home. Also, from the human perspective, this stuff smells like chicken/turkey/fish and not like dog vomit, like certain brands of cat food. Big plus for me.
+
+product/productId: B00427ZLOW
+review/userId: A2FRFAQCWZJT3Q
+review/profileName: B. Davis "The Happy Hermit"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1313452800
+review/summary: I wish they'd omit the veggies
+review/text: The texture of this food is like cooled pea soup.  It's not as stiff as some of the pate style foods and my cat likes it.  All but the veggies that is.  So she leaves not only the veggies, and there are a lot of them, but also a good bit of the chicken surrounding each veggy.  This makes for more waste than I am willing to tolerate so I won't be buying any more Spot's Stew.
+
+product/productId: B00427ZLOW
+review/userId: A3QEVD8CVEX8S5
+review/profileName: Cynta
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1313452800
+review/summary: So disappointed that this didn't work for my kitties
+review/text: The first time I served this they both chowed down on it...except for the veges as everyone seems to complain about...but then a little while later they both came back and finished up the veges too!  So I thought this was the greatest thing...but the next time I fed them the one cat decided the novelty had worn off and wanted nothing to do with it.  The other one though continued to chow down, and again left the veges, but came back later and ate most of them.  The next serving -what do you know -neither of them wanted it anymore.  I don't get it -I've never had cats like something so much one day and the next day be turned off from it.  I'm very disappointed, I wanted them to like it, knowing how good it is for them.
+
+product/productId: B00427ZLOW
+review/userId: ABI0PMAWOT6X2
+review/profileName: CEO "CEO"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311638400
+review/summary: Great Food!
+review/text: Halo makes great food. Good ingredients. Safe and healthy! My cats leave the veggies for last, but always come back and eat them. I put them on a can food only diet. They are loosing the extra pounds I could not get off any other way!!!
+
+product/productId: B00427ZLOW
+review/userId: A22A1W41PJ1B81
+review/profileName: Beelzeblondie
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1308268800
+review/summary: My cats love this brand of canned food, but....
+review/text: My cats love this brand of food, especially the salmon and turkey flavors. However, they leave the peas and carrots behind. Which makes me feel like I'm not getting my money's worth! However, I've started squishing the carrots into the food, and they seem to be leaving less in their bowls. After trying many brands of canned foods, this is one of the few that they eagerly eat, and it doesn't smell as bad as some.
+
+product/productId: B00427ZLOW
+review/userId: A18AGGEOI4UPTL
+review/profileName: D. Krizik "misara"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305504000
+review/summary: Great quality,cats love it
+review/text: My big boy (21.6 lbs) was put on an all-meat diet and he LOVES this food. It is a little less solid (slightly soupy) but my cats love that about it. They even eat all the little veggie pieces in it. Our feral deck cat leaves the peas behind, though.  It's hilarious. If it wasn't so darn expensive, I would buy more of it.
+
+product/productId: B00427ZLOW
+review/userId: A3V9UYZR4ZCI7S
+review/profileName: Missmae
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1313798400
+review/summary: Cat loves this stuff
+review/text: Cat loves this stuff! And cats now best.  Cat loves this stuff! And cats now best.  Cat loves this stuff! And cats now best.  Cat loves this stuff! And cats now best
+
+product/productId: B00427ZLOW
+review/userId: A3OF76YJBXYM01
+review/profileName: Catowner
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1309219200
+review/summary: Dented cans
+review/text: I ordered 2 cases of Halo cat food for a total of 24 cans.  Fully half the cans arrived seriously dented to the point that I wonder if the food inside is still viable.  It also makes me wonder if the supplier is offloading "seconds" to Amazon consumers....that would NOT be cool.  I came to Amazon to avoid Petco, the only local supplier.  But badly dented cans may force me to look elsewhere for the product which my cat enjoys.
+
+product/productId: B004Y8TVN6
+review/userId: A231O4SV09ID2X
+review/profileName: J Birkey
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325116800
+review/summary: Great Alergen-Free Dog food
+review/text: My 6 year old German Shepperd loves this dogfood and it has done wonders for her skin.  She is on an Immunosupressant Allergy Treatment, but it only treats environmental allergies.  In addition to 3 types of pollen, dust and grain mites she is also allergic to Rice, Yeast, Corn, Wheat, Beef and Horse.  I couldn't find a single store brand (non-prescription) dog food, until this one, that has none of the ingredients that she is allergic.  I can attest to the quality of this product since her allergies are VERY severe and the slightest amount of rice or beef and she would break out in hives and chew her paws until they bleed.  She is also very sensitive to grain mites and since the dog food comes sealed, this is an excellent preventative measure.  There is not a whole lot the manufacturer can do for grain mites once the bag is opened, aside from starting with quality ingredients, so I still recommend storing the food in a sealed container out of the heat/moisture if this is a problem for your dog as well.  Freezing it is another good option which is what I do since my house is very damp (she doesn't mind it cold).  I have tried other Hypo-Allergenic and Limited Ingredient dog foods before this one and this is the only one that my German Shepperd isn't allergic to.
+
+product/productId: B004Y8TVN6
+review/userId: A3CRPH68DTQC11
+review/profileName: J. Kennedy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346025600
+review/summary: So so for my dog
+review/text: I had done my research and this brand came with a strong recommendation.  I have a German Shepherd who can be a picky eater and who tends to itch a lot.  I thought this would be great for both items.  Also it's organic and somewhat local (I'm on the West Coast).<br /><br />Unfortunately my dog did not seem to take to this.  I tried a couple of bags thinking it might be due to the food transition but it never became appealing.  I have no reason to doubt the very positive reviews others have posted.  It's a 3 star due to lack of appeal for my dog.
+
+product/productId: B004Y8TVN6
+review/userId: ANUUF3N6B9NTA
+review/profileName: Tabitha
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1341100800
+review/summary: Organix Organic Adult Dog Food by Castor & Pollux - Dry
+review/text: I purchased the Organix dry dog food for my two ShihTzus Darby and Hampshire.  I found the food at my local whole foods market.<br /><br />Hampshire and Darby both had a week of uncontrollable diareau, and Darby was also vomiting.  I returned the Organix dry food to the store, and they gave me a full refund.<br /><br />The Organix dry dog food made their feces very dark and runny and the stains were more difficult than normal to remove.  Darby is 4.6 years and Hampshire is 3.11 years.<br /><br />I also purchased the Organix organic dog food canned varities which are excellent (read my review).  No problem with the canned dog food.  Darby is 4.6 years and Hampsire is 3.11 years.<br /><br />Darby and Hampshire both weigh between 14-16 lbs., they are medium build, and 16" from neck to hind.
+
+product/productId: B004Y8TVN6
+review/userId: A2M6J4CGEA29JI
+review/profileName: Risa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Something About the Taste
+review/text: Not sure what kind of organic crack the manufacturer puts in this, but my dogs LOVE it. I have one prissy lady who simply isn't enthused enough to eat any kind of food that comes from a bag - except this (and the non-grain-free kind, <a href="http://www.amazon.com/gp/product/B001BCOZ3E">Castor & Pollux Organix Adult Canine Formula, Chicken, Brown Rice & Flax Dry Dog Food, 25-Pound Bag</a>). When I first put this out, it was as if I'd left the trash lid open - she practically nose-dived into it. Crazy.<br /><br />I switched to this grain-free food after my other dog seemed to have an allergic reaction to the regular Organix non-grain-free food.
+
+product/productId: B004Y8TVN6
+review/userId: A21QMED5GKG6HI
+review/profileName: Kelley Howard "CAPTAIN AMERICA"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: My dog loves this food
+review/text: I am so happy to see more and more organic food available for our pets. My dog loves this food. It may be a little pricey, but my best friend is worth every penny.
+
+product/productId: B004Y8TVN6
+review/userId: A79WEDY44P50Z
+review/profileName: raquelnoel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322784000
+review/summary: Picky ST Bernard loves grain free!
+review/text: I have a 7 year old ST Bernard who has been on different formulas of Organix and Ultramix. She would turn her nose up at them after a few days -- but she does this with all brands of food. I started feeding her the grain free food as soon as it came out several months ago and she loves it! So far it is the only food I have found that she doesn't turn her nose up when I put it in her bowl. She also really loves the canned version of Organix grain free.<br /><br />Update:<br />Just wanted to report that normally my dog gets very dry, itchy skin in the winter which leads to hot spots, infections, hair falling out and vet visits. This is the first year that we have had NO problems with her skin! In fact her fur is the shiniest, and fullest that it has ever been. We love this food!
+
+product/productId: B004Y8TVN6
+review/userId: A1ROQPI9PA7TJ7
+review/profileName: Popi "Popi"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1315094400
+review/summary: My dogs love it!
+review/text: Great product! I dont know why the prev post was so hateful and uninformative... my dogs have been eating Organix for a long long time and now I switched to their grain free formula which is healthier for my dogs. My dogs love it! I did notice that they poop more often but that just means that there is more protein in their food which is BEST!
+
+product/productId: B001AC57NM
+review/userId: AID6CVJP7AVOQ
+review/profileName: Meagan Johnson "dazed81"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1228176000
+review/summary: Delicious- I eat them with my daughter
+review/text: We have this Pancake and Waffle mix and we prepare it with Rice milk as my daughter is allergic to dairy AND Soy. It is DELICIOUS. We make Mickey Mouse shaped waffles together, She eats an entire waffle herself. I eat them too because they are SO Delicious and it is easier than making seperate waffle mixes. Plus I think they taste BETTER than regular waffles. Very light and fluffy. We are just finishing our first box (which makes 9 waffles) and I am going to order a case from Amazon because the price is excellent. I paid almost $7 for one box at a local health foods store. I haven't made them into pancakes yet, because we have a waffle iron and it's just simple. Each 1 cup of mix makes 3 waffles. We each eat one and then I put the remaining prepared mix in the fridge and it keeps until the next day or two days later to make another waffle for her. Wonderful product and I can't thank them enough. Check out their website and save the bottom of your boxes. We have Chocolate Cake Mix and frosting to try next!
+
+product/productId: B001AC57NM
+review/userId: AY29B4R3I869V
+review/profileName: Melissa Casses
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1234310400
+review/summary: The answer to our gluten/egg/milk free dreams!
+review/text: We have finally found the answer to our prayers. My kids LOVE pancakes and we have tried almost everything on the market. The store we typically shop at had this cherrybrook brand and I decided to give it one more shot- there's no acidic, gluten free taste, just super yummy! We love to mix in gluten free/milk free choc. chips and bananas, makes it even better. You really can't even tell the difference.
+
+product/productId: B001AC57NM
+review/userId: AJ8XMXUMZSSSU
+review/profileName: Saraji
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1308355200
+review/summary: So bad I returned it... a sticky mess.
+review/text: This is the worst gluten-free pancake mix I ever bought in my life!! First I tried it on a well-seasoned iron pan (we don't use "nonstick" pans here because teflon contains harmful chemicals). It stuck so badly after 2 tries that I had to soak the pan... not even brillo (which ruins pans) could get it off. Then, not wanting to waste the rest of the mix I'd made, I got out my nonstick waffle iron, adjusted the recipe and tried again. (I oiled it REALLY WELL with ghee, which works best as a cooking oil to prevent sticking). It stuck to the waffle iron so badly that I had to end up scraping it with a fork. I ruined the waffle iron's surface doing this. The taste of the scraps (I didn't want to throw them away) was all right, very "gooey," but even the crispy parts got soggy in syrup more than most gluten-free mixes. If only they could find a way to get this to work I guess it would be all right but I am very frustrated right now after disappointing my daughter and ruining my favorite waffle iron and pan. I don't know what people who liked this product did to get it to work. BTW I don't use rice milk, we used regular dairy milk because we're not dairy-allergic or vegans. If this is a problem they should say so on the box, because I ALWAYS do substitutions with pancake mix recipes and it's never usually a problem. Not everyone has rice milk on hand.
+
+product/productId: B001AC57NM
+review/userId: A8EUH01IVAWME
+review/profileName: Jane Austen
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1308268800
+review/summary: Worst cooking experience of my adulthood
+review/text: I have major problems cooking these on my iron griddle. Although the box says to cook them on a non-stick surface, my well-seasoned, greased iron surface has had no problems releasing food until now (plus it is free of teflon!). I've tried cooking the pancakes three times now. The first day I made the mix I added berries and extra almond milk because the batter seemed too thick. I ended up with burnt, partially cooked gloop and a very messy iron griddle. The second day I tried to match the directions on the box as carefully as possible, and added extra oil to the griddle. The pancakes turned out better, but still stuck to the cooking surface. What seemed to help the most was keeping the heat very low. This morning I tried making them again, with results similiar to the second batch. I will not use this brand again, because I prefer to add berries to my pancakes, and it takes way too long to scrape the burnt bits off my iron griddle!<br /><br />As far as flavor goes, these have a sweet vanilla note without being cloying (which I liked), but they taste strongly of baking powder. They remind me in flavor and texture of mochi, so I suspect that the white rice flour on the ingredient list is a sticky rice flour.<br /><br />All in all, I've had much better luck with other pancake mixes!
+
+product/productId: B001AC57NM
+review/userId: AKCBW8LEOCT3P
+review/profileName: Fieena Zvenyach
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304640000
+review/summary: Gluten free dreams indeed!
+review/text: I have been gluten free for so long, I almost forgot what a "real" waffle tastes like.  I was looking for an easy mix that would work without too much fuss.  I tried a box of this mix and was very pleased.  Not only I love the waffles, so does my husband.  I played with adding a bit of protein mix to the waffles and even that did not change the taste or the texture.  I usually make the entire box and refrigirate the remaining waffles.  They are great even toasted.  Huge fan!
+
+product/productId: B001AC57NM
+review/userId: A3DGVOM8ES5P4S
+review/profileName: Teresa L. Thorne
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1288742400
+review/summary: Did not like this particular mix at all
+review/text: I am a loyal fan of Cherrybrook products especially their pancake mixes.  I started out with the whole grain but unfortunately Amazon must of had some issues w/ stocking it.  I moved on to the reg. pancake mix which is great minus the fiber content which I prefer.  We normally add chocolate chips to our mix for a fun surprise at breakfast for the kids so I thought why not try the mix w/ them in it.  Wow, I must say we all spit it out on the first bite.  We are pretty easy w/ tastes, but for some reason this particular mix was just aweful....sorry to say.  If you have a special diet/needs, this might work for you but I will go back to the original mix and be happy.
+
+product/productId: B001AC57NM
+review/userId: A1OM8QHJCKB1WR
+review/profileName: J. Anderson "jeremy2002"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1275091200
+review/summary: Amazing waffles
+review/text: We weren't so crazy about the pancakes we made with this mix. They weren't bad, but they weren't great. But when we used it for waffles, wow! Crunchy outside, chewy inside, and any extras keep well in the freezer. I prefer these to waffles made with wheat--which is amazing because, to my taste, things with rice flour are usually nowhere near as good.<br /><br />So now we can all really enjoy a family waffle breakfast with my son who's allergic to eggs. Yum.
+
+product/productId: B001AC57NM
+review/userId: A3JRLQCYXTHV0L
+review/profileName: CC "CC"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1239062400
+review/summary: Delicious Gluten Free Waffles!!
+review/text: My daughter has been gluten free for a year.  She finally does not complain that her waffles taste horrible and cry that she hates being gluten free.  She loves these waffles.  Thank you Cherrybrook!
+
+product/productId: B001AC57NM
+review/userId: A27BX38SJX0D0G
+review/profileName: J. Harrington "love to read"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1237680000
+review/summary: Egg Free and Tasty!
+review/text: These pancakes are fantastic!  My son has egg allergies and it is hard to find products which he can eat that are actually good.  Our whole family loves these and it is by far the best tasting pancake mix I have ever purchased.  Do not hesitate to try these!
+
+product/productId: B001AC57NM
+review/userId: A3LKNMV807ZD6W
+review/profileName: wonkabar70
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1232409600
+review/summary: yummy pancakes!
+review/text: My son has been on a gluten-free diet for three years; he's also allergic to all nuts.  Cherrybrook Kitchen Pancake Mix is by far the **best** mix we've tried, and we've tried them all.  The taste and texture are excellent.  They're really light as opposed to the typical really dense gluten-free mixes.  We add chocolate chips, and they're awesome! :) I've added cinnamon and sugar to the mix and then topped them with cinnamon butter which was also excellent. This is the only mix we've tried that would get me to sit down to a plate of pancakes! We've tried a couple other CBK products and love them as well (premade choc frosting, choc chip cookie mix and mini choc chip cookies). ENJOY!!!
+
+product/productId: B001AC57NM
+review/userId: A18K8UIR68KJUX
+review/profileName: alisonb
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333152000
+review/summary: Two tries - stuck to my pan like crazy. horrible experience
+review/text: I don't know what I am doing wrong this these. I'm using oil, low/medium heat and they stick LIKE CRAZY to my non stick pan in under one and half minutes (the box says "cook for two minutes"). They aren't exactly burning, just sticking like super glue to the pan. It's horrible. I've read other reviews that say the same thing. I've made pancakes so many times before and this was such a frustrating experience. Never again.
+
+product/productId: B001AC57NM
+review/userId: A372HEZ8VEV02T
+review/profileName: JandDsmom08
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317945600
+review/summary: Best Gluten/Dairy Free Pancake EVER!!
+review/text: My boys are both milk protein intolerant. They also have food allergies and sensitivities as well. When my oldest son who is special needs had to give up milk he was devastated. It took ages to find a "cheese" he could have and pizza was even worse. By far though, pancakes where the worst thing to replace. One of his many issues is Sensory Processing Disorder, his oral issues are numerous. One being a VERY sensitive pallet, he notices a slight change in just about everything! I must've ran through dozens of homemade pancakes, and almost as many boxed mixes. None were even close to being anything he'd even sit next to, let alone eat. So, when he not only sat down next to a plate full, but took a big sniff, followed by an even bigger bite, I almost cried!<br /><br />Since then, he will eat nothing else. In fact, at his birthday party this weekend, he's having a birthday pancake stack! He won't eat cake because of the texture of it. I'm so thankful for this product and now for finding the ability to order it online!!<br /><br />I saw several people mention it sticking. I don't use a waffle iron but, I use a cast iron pan to do his pancakes in. All I do is give it a little (I do mean a light) spray before each pancake. Not a single one has stuck on me yet. When I make them, I make a whole box worth of them too and then refrigerate or freeze them for the week or two ahead. Then pop them in the microwave to reheat when he's ready for them. 1 box generally lasts us a week. Pancakes being a little bit over 4" and all, I don't think that's bad by any means.<br /><br />Oh and these pancakes are soo delicious that even my 13 yr old stepson can't get enough of them and asks for them when he comes to visit! Believe it or not, the kid is a very picky eater too. So, trust me when I say this pancake is THE best allergy friendly pancake I've ever eaten!
+
+product/productId: B001AC57NM
+review/userId: A316WNBX9B3U8I
+review/profileName: lorie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312329600
+review/summary: Easy gluten free pancakes
+review/text: My family and I love these Gluten free, egg free, and dairy free pancakes.  For a variation I make both strawberry pancakes (chopped very small and added to batter) and blueberry as well.  I also use coconut milk if I don't have any rice milk on hand.  Very good, just expensive.
+
+product/productId: B001AC57NM
+review/userId: ADUOQMKP1VVSE
+review/profileName: Chickadee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299715200
+review/summary: Surprise discovery!
+review/text: When I first bought mix I thought it would be more like an American pancake - doughy and soft.  To my surprise the rice content in this mix, combined with coconut milk to a crepe consistency, and served with molasses, is reminiscent of Malaysian Indian pancakes.  What a wonderful surprise discovery!  This is now my favorite pancake mix.
+
+product/productId: B001AC57NM
+review/userId: A2X0W9T3Z2BOKX
+review/profileName: Tommy Boy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296432000
+review/summary: The best GF and allergen free pancakes!
+review/text: Having a daughter with lots of allergies (Wheat, Soy, Dairy) we've tried every pancake mix out there that she can eat.  Cherrybook makes the best pancakes of any out there!  The whole family eats these and love them.<br /><br />We haven't tried making waffles with them yet but seeing the other reviewer rave about them I now know that we need to try it.<br /><br />There may be better GF ones out there but they all contain something that my daughter can't eat (usually Soy).  For what she can eat these are by far the best ones out there.<br /><br />{UPDATE} - We finally made the waffles.  They're awesome!
+
+product/productId: B001AC57NM
+review/userId: A3MSBBGTJZNSRB
+review/profileName: daveyg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290211200
+review/summary: Alas, pancakes for children with alergies
+review/text: My son is alergic to milk and eggs.  I discovered this product at a local health food store and fell in love with it.  My son was now able to eat something tasty for breakfast without it being a problem with his alergies.  I then found the product on Amazon and was overjoyed since it was so much cheaper to buy it with them.  He now has pancakes 3 to 4 times a week and it's a staple in his breakfast diet.  :)
+
+product/productId: B001AC57NM
+review/userId: A14NN6J3DGHLAI
+review/profileName: roberta butler-schreib
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287014400
+review/summary: best gluten free pancake mix
+review/text: This is the best gluten free pancake mix around.. and I have tried EVERY brand out there!!!.. My son loves real pancakes but he can not eat them. With this brand I have been able to replace regular mix for these and they are so good you do not even realize this is gluten free.. Even the rest of the family eats them.. They freeze and heat in the microwave really well to make large batches at once!!
+
+product/productId: B001AC57NM
+review/userId: A72H1W5S6UFMY
+review/profileName: King of Breakfasts "King"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272585600
+review/summary: Great Gluten Free Mix
+review/text: I found this mix to be very good and not overpriced as many gluten free mixes are. I will use it again.
+
+product/productId: B001AC57NM
+review/userId: A12STKL6I0ST1K
+review/profileName: Nancy J. Cook "grandma cook"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271203200
+review/summary: yummy pancakes and waffles
+review/text: these are hard to tell from the original gluten pancakes we used to eat.<br /><br />The family loves them and they are very nice tasting with great texture.
+
+product/productId: B001AC57NM
+review/userId: A1LZDASMUAYRKE
+review/profileName: P. J. Martone "peejae"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268870400
+review/summary: best pancakes
+review/text: the whole family eats these pancakes now even though I am the only celiac. They have awesome flavor and I like how you can make only a few or the whole box depending on how many people you are feeding.
+
+product/productId: B001AC57NM
+review/userId: A1LTQ2OUDOF62L
+review/profileName: Allergy-free C "fleader"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1265587200
+review/summary: Fluffy Vanilla Taste
+review/text: I've tried a number of gluten free pancake mixes, these are the thickest so far. Mine turned out more the texture of french toast than pancakes, but I think adding some more liquid would help. They have a nice vanilla flavor. If you are able to tolerate dairy, I think the Pamela's mix is closer to "real" pancakes, but for the DF this is a decent substitute.
+
+product/productId: B001AC57NM
+review/userId: AAAICPINMMSQW
+review/profileName: Leyla Nazhandali
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265414400
+review/summary: great taste
+review/text: My son has multiple allergies and has had a very restricted diet from birth. He is also a typical picky 2-year old. He really likes this product. We make it as waffles in a not-so-expensive waffle maker. They turn out great. I make them in small quantities, so it was difficult to measure volume. I transferred all the measurements to weight and use an accurate scale and my waffles are turning perfect every time from that point. My husband and I like them too. So, it is easy to "share" my son's food so that he feels he is included.
+
+product/productId: B001AC57NM
+review/userId: A16BKC0W9VYEW8
+review/profileName: Nicole Hirshberg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1255478400
+review/summary: Love it.
+review/text: These pancakes are delicious.  My son loves them. NO dairy, egg, gluten, soy... and they still taste great.
+
+product/productId: B001AC57NM
+review/userId: A12ENBT314RFXR
+review/profileName: P. Gray "The Gluten Free Assistant"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1249171200
+review/summary: Low Allergen Breakfast Joy!
+review/text: This great mix is good for pancakes or waffles and smells so good I can hardly wait for them to cook! I've been gluten and casein free for a couple of years now and this is by far the best mix I've found for pancakes and waffles - even better than Pamela's or Bob's. Great all around from the low allergen to the ease to prepare and store any leftover batter. I love shopping for the boxes in bulk to help save on the price jump at some of the local stores that do carry gluten free items. Soy, nut, egg, dairy and gluten free and you won't even know!
+
+product/productId: B001AC57NM
+review/userId: AF1D1SXVYVK4Y
+review/profileName: Momma Bell "recipe seeker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1247961600
+review/summary: A+
+review/text: These pancakes are delicious - my hubby and I even eat them.  We haven't tried them as waffles yet but as pancakes - just scumptious. They cook better than my old recipe that used oat flour and the first time my son had them he wanted to eat them for breakfast and lunch.  They cook better if you allow the batter to sit longer than the suggested five minutes, but they are just great either way. I couldn't find them in my local store but Whole Foods in Atlanta sells these and my son enjoys them on the weekends.  I thank Cherrybrook Kitchen for providing this product.
+
+product/productId: B001AC57NM
+review/userId: A2ERRHI8U370K4
+review/profileName: hope
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244937600
+review/summary: Gluten/Soy/Corn/ Egg- Free and yummiest pancakes
+review/text: Due to Severe Allergies my son can't eat Gluten, corn or Soy.<br />We tried other brands and even mixed our own flour for pancakes, but so far this is the best pancake I found. I also put a teaspoon of honey in the mixture as my son does not like any kind of syrup on it.<br />I am a pancake lover too - I have no problem with Gluten but these are so good that I eat this with my son all the time.<br /><br />I am excited to try out more of Cherrybrook Products.
+
+product/productId: B001AC57NM
+review/userId: AXSDO362TJI0T
+review/profileName: Sew lady "Fredsgirl"
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1249171200
+review/summary: Nutritional info
+review/text: Although I haven't purchase this item, I would like to know what the ingredients are and the carbs and calories. I may have overlooked it but can't find this info anywhere.
+
+product/productId: B002OMAZ5C
+review/userId: A1MPMITIRHFFS2
+review/profileName: Tracy A. Beall
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1298332800
+review/summary: Love It!!
+review/text: My plants are only about 3" tall right now and I'm getting ready to repot them, but they've germinated and grown well so far!!  I've bought a lot from this company and have been very satisfied with each purchase!!  I do tend to repot the seedlings fairly early since it's difficult to tell how moist the soil is from the medium used and the fact that it's in a can, but every seedling that I've transplanted into a more typical container with media that I'm familiar with has done very well!!  I will definitey buy more from this company soon!!
+
+product/productId: B002OMAZ5C
+review/userId: AOUEM5EBTL1QK
+review/profileName: Girlscout1016 "Girlscout1016"
+review/helpfulness: 6/8
+review/score: 4.0
+review/time: 1280188800
+review/summary: Great Gift
+review/text: My Aunt is super super difficult to buy for, but adores to garden.  I have never ever heard her be more in love with or more appreciative of a gift.
+
+product/productId: B002OMAZ5C
+review/userId: A2CONYJSLYYY8A
+review/profileName: Court "juliet8379"
+review/helpfulness: 8/11
+review/score: 1.0
+review/time: 1283990400
+review/summary: Not happy
+review/text: Two little plants grew to about an inch tall then died.  I tried everything - more water - less water - more sunlight - less sunlight.  Nothing seemd to make it better or worse - it just dies and very slow death.  might try it again at another time.
+
+product/productId: B002OMAZ5C
+review/userId: A3W06YJC2YACTH
+review/profileName: R. Siegfried
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1342656000
+review/summary: Used as instructed. Never came up.
+review/text: Used as instructed. Never came up. I need to write more words to get the minimum number but I would not buy one again.
+
+product/productId: B002OMAZ5C
+review/userId: A3JUVQU38RSM4F
+review/profileName: Lynn
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1330473600
+review/summary: NO SEEDS!!!
+review/text: Gave plant to my mother for X-mas and nothing grew, she took it apart and NO SEED, none at all! I cant sent it back because I dont have the original packing slip, my mother is very disapointed and I'd buy her another one but I dont want the same thing to happen! :(
+
+product/productId: B002OMAZ5C
+review/userId: A3I7HKSIETMGOX
+review/profileName: Nikkii
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1309564800
+review/summary: Not Happy
+review/text: I got this plant as a Mother's Day gift to my mom, needless to say nothing grew so I am hoping to get a full refund.
+
+product/productId: B0079BT1CQ
+review/userId: ALLP4RO0RH3YQ
+review/profileName: Lynn G.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334361600
+review/summary: Picky eater loved it !
+review/text: Our 10 year old pointer / husky cross has been a picky eater the last few years.  I was told this was a great one try to get away from the basic chicken formulas.  Our dog absolutely  loves it !  In less than 2 weeks we have seen a noticeable difference her in coat as well.  It's shiny and feels really soft.  Really pleased with this.  Worth the price !  We were also told to occasionally switch formulas  of meat so that they don't get tired of their food.  Example :  chicken to duck  to fish.  Great idea !
+
+product/productId: B000NME76I
+review/userId: A3TC59BO4V8I2X
+review/profileName: Brian J. Berney "Brit-zilian"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1201046400
+review/summary: A deliciously wicked treat! :-)))))
+review/text: I first experienced these liquor filled delights in Italy. And when I returned I gave a box of them to my wife. She has always loved the European liquor candies, but they are so hard to find here in the US. They are the kind of thing that you keep for special moments... Maybe in the evening with a nice cup strong coffee... when the kids are in bed... And you can sit back and spoil yourself a little... But they are so good that you will want to spoil yourself a lot more often!!! :-))))<br /><br />From the first bite as the chocolate candy opens up, releasing that wickedly delicious liquor (and it is REAL liquor) to overwhealm your taste buds and slip warmly down your throat... To the deliciously firm Marachino cherry center, and the finish of excellent creamy milk chololate... It is a wave of pleasure... You know, I think I'm going to run off and have one! :-)))))))))) You should buy some too! You won't be sorry!
+
+product/productId: B000NME76I
+review/userId: A11Y4CDV7YUCLY
+review/profileName: MsPammywhammy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295395200
+review/summary: Never Go Wrong With Mon Cheri
+review/text: I love this product. I always have these in my home during the holidays. Family and friends have started to expect them, it's become a holiday tradition. The candy always arrive fresh and out of this world good. I had looked for years and was so happy to find them on Amazon.com
+
+product/productId: B000NME76I
+review/userId: A13GXI06BXJMRX
+review/profileName: P. mcgrath
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261526400
+review/summary: Mon Cheri chocolates
+review/text: I was introduced to Mon Cheri chocolates by German friends while visiting them in Germany. They have become a must. I really love them.
+
+product/productId: B0002NVLBM
+review/userId: AA4BAHMCECOT
+review/profileName: L. Forrer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262563200
+review/summary: Great in casseroles & soups
+review/text: Can't buy these fresh where I live.  These dried ones are geat in soups & casseroles.  I've also soaked them in water and used them in an omelet.  Dried mushrooms are good because you don't have to worry about them going bad before you get them all used up.
+
+product/productId: B0025UC2KE
+review/userId: A39137LW12KK7B
+review/profileName: R. Toro "Tech Junkie"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334102400
+review/summary: Tastes Great!
+review/text: I don't generally care too much for the healthy alternatives, especially when it comes to coffee. However, after trying Truvia at a hotel, I am now hooked. I usually get it at the grocery store, but it is good to see that it is available on Amazon, and now that I have Prime, I might just be getting it online instead.<br /><br />This sweetener tastes really good, and in addition to coffee, I have had it with desserts and it tastes great. I think it even tastes better than sugar, and definitely tastes better than splenda.<br /><br />I cannot comment as to the health aspects related to artificial sweeteners, but I'm sure that there is plenty of information available on the Internet related to that.<br /><br />As a casual coffee drinker, I highly recommend Truvia! But definitely buy a smaller package if it is your first time trying this!
+
+product/productId: B0025UC2KE
+review/userId: A27FP0S5QH7GNE
+review/profileName: IslandSandy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336435200
+review/summary: Have you priced this in the grocery store?
+review/text: I will not use any other type of sweetener other than real sugar and Truvia.  The prices in the grocery store are outrageous but here on Amazon they are more realistic.  I usually order these large boxes and they last several months.  Shipping is within a day or two and it comes packaged in a thick cardboard box.
+
+product/productId: B0025UC2KE
+review/userId: A29YTSBP0LOYCP
+review/profileName: DAP
+review/helpfulness: 6/14
+review/score: 1.0
+review/time: 1318896000
+review/summary: Good Produce, Bad supplier
+review/text: I have bought Truvia for a very long time, and I love the produce. My issue is with the suppler of the produce. I was given a day that I was to receive my Truvia, and as of today which is now 20 days later I still have not gotten my Truvia, and no response from the supplier, who I did contact, nor have they credited my account for the amount of the purchase either. All around bad experience with this supplier.  I still buy Truvia, but only at my local retail supplier.
+
+product/productId: B0000D9NC9
+review/userId: A1JW53MJN3HO2R
+review/profileName: N. D. Starr "army girl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266969600
+review/summary: Amazing!
+review/text: Th feta received was amazing, with very intense flavor. Not for the light of heart! Definitely for the feta lover! Thank you, I want to order more, on a  regular basis!
+
+product/productId: B001KUVTM2
+review/userId: A2K3JZ7RW6AXF0
+review/profileName: RDW "Lover of great Science Fiction, Mysterie...
+review/helpfulness: 18/18
+review/score: 1.0
+review/time: 1263945600
+review/summary: Bad Experience purchase this product
+review/text: Instead of delicious chocolate truffles we received a Donckels box containing a solid block of what looks white soap or wax(doesn't even smell like chocolate and I'm not going to taste it), which I see was the same experience as the other customer reviewing this product today.  I have no idea what the substance is, maybe that's what the truffles look like after they've melted in shipping or something but it is certainly not something I am going to eat.  What a disappointment, my wife and I had these truffles at Christmas time and they really were the best chocolate either of us has tasted.  I've never had a bad experience shopping through Amazon before but this one has left a bad taste in my mouth, exactly the opposite of what I was expecting.  BTW the seller was listed on the packing receipt as Potential Dynamix LLC.
+
+product/productId: B001KUVTM2
+review/userId: A1ZBHIFBKC7ZRK
+review/profileName: J. McLaughlin
+review/helpfulness: 10/10
+review/score: 2.0
+review/time: 1294704000
+review/summary: Beware -- NOT a true ganache truffle
+review/text: I was very disappointed to learn that the "centuries-old Belgian tradition" in this case included the use of palm kernel oil and other non-dairy fatteners instead of actual heavy cream.  I don't have the ingredient list in front of me, but it was NOT, for example, what you'd even find in a box of Lindt truffles.  It's highly processed junk chocolate, and a huge disappointment.  I gave one of the boxes away.  That being said, the flavor was decent, so I gave them two stars, but haven't been able to eat more than two of them at a time because of the greasy film in my mouth afterwards.  Even with a good flavor, though, selling these as "real" Belgian truffles is marketing bunk, and Donckels should be ashamed of themselves.  Better to charge a little more and use quality ingredients.
+
+product/productId: B001KUVTM2
+review/userId: A31G5E0DC9CG3A
+review/profileName: Michael Thorn
+review/helpfulness: 6/7
+review/score: 1.0
+review/time: 1263945600
+review/summary: Delicious chocolate, not shipped well
+review/text: Someone gave me these chocolates for the holidays and they are terrifice.<br />I thought that ordering from Amazon would be great but...<br />It's the dead of winter here and the contents was one hard white block or ..something. The expiration date was two weeks from the date they arrived.<br />I returned them but I think that I will have to find them in local stores.<br /><br />They are..the best chocolates I've ever had when they are fresh.
+
+product/productId: B001KUVTM2
+review/userId: A11T807LX2EF00
+review/profileName: Michael
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1257897600
+review/summary: Melt in your mouth explosion
+review/text: These chocolates are absolutely the best.  I had a bunch of co-workers come by and have some.  I advised them to let the chocolate melt in your mouth... don't chew.  A while later many of them came back to tell me about the awesome experience they had.  Simply the best chocolate they have had.<br /><br />The secret is to let the chocolate slowly melt.... as it does you experience a sensational explosion of taste.  Wonderful treats.  And for this price it is amazing... it rivals the French chocolates at a store down the street..... at a fraction of the price.<br /><br />Enjoy...and make sure to let these delightful nuggets slowly melt in your mouth.
+
+product/productId: B001KUVTM2
+review/userId: AX1Z5RQ1LWMM2
+review/profileName: j-rob-82
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1324339200
+review/summary: Control Yourself and You'll be Fine. May cause explosive diarrhea if you dont.
+review/text: Let me say these are very good and very rich in taste which is good and bad.  By rich I don't mean if you look around the Monopoly guys house you would find a box of these.  So I found myself eating about eight in one minute which was quite excessive but man they were good.  Even my wife ate quite a few and we both agreed to put the bag up or we would finish it up.  Not a good thing since in four pieces I think there is fifteen grams of saturated fat and around two hundred forty calories.  We usually don't get sweets but when we do we indulge.  When you first eat one it tastes really good but after its been chewed the aftertaste sets in.  I did notice after a couple the taste gets unbearable so I had to drink something.  The dark chocolate is so rich that it is kind of overbearing after awhile but still they are very good.  I wouldn't say its my favorite chocolate but they do offer a certain taste I was looking and I am glad I bought them.  I wish there was a smaller bag to sample them with but we took a gander and really liked them.  Try them out and they might fit your taste.  If you are like me you will find yourself eating one after another which I don't recommend.  Oh yeah I did have major stomach cramps and a case of diarrhea afterwards but it was worth it just for those moments of bliss.  Thank you Donchels.
+
+product/productId: B001KUVTM2
+review/userId: A7443GL3L31S
+review/profileName: L. J. Cote
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1280966400
+review/summary: Chocolate Snob's Opinion
+review/text: By far, this is the very best chocolate that has passed my lips. I am the atypical chocoholic for only the very best will I eat. Since I tried Donckles no other chocolate will do, and, since it is exorbitantly expensive, I will do without rather than substitute. Shortly after the end of the year, I was able to purchase this wonderful experience from Marshall's department store. Their supplies have long since vanished.<br /><br />Enjoy!
+
+product/productId: B001KUVTM2
+review/userId: A2KT1R56X7WFB9
+review/profileName: Caring/Sharing
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1239753600
+review/summary: Wow
+review/text: Received these as a gift at Easter.  Unexpectedly smooth, delicious, quality candy.  I am not a huge chocolate fan or even a big candy fan but these are irrisistable. I am searching online to see where I can find more for myself and to give as gifts.
+
+product/productId: B001KUVTM2
+review/userId: AIDDN92OWE92N
+review/profileName: Chris Welch "Just a guy"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1262131200
+review/summary: No Better Chocolate Than This!
+review/text: These things are the bomb! The Shiz Nizzle! The Whoopity Whoop Whoop!<br />I have had the pleasure of tasting true Swiss chocolate and yeah, thats<br />good stuff, but THESE???  You aint had nothin yet!  These chocolates<br />blow them away! Smooth, creamy, true melt-in-your-mouth bliss! They are<br />dusted in cocoa powder so at first they taste a little bitter, but once that<br />cocoa dissolves and you get to the real-deal . . . well, you just have to<br />experience it on your own. I usually have two a time, the first one I let<br />melt all the way and the second I let melt a little bit and then I cant resist<br />the urge to chew it. Both ways are awesome. After eating these, I balk at a Kiss,<br />turn my nose at Dove, and Ghirardelli? Not even close. So what are you<br />waiting for? Order the 3 pack!
+
+product/productId: B001KUVTM2
+review/userId: A1PB8TGGQGECF0
+review/profileName: margyman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297900800
+review/summary: Great
+review/text: These truffles are great.  Much better than any Lindt or godiva product. I am very satisfied and I will be ordering these again... if they come back in stock. great for hanukkah as well
+
+product/productId: B001KUVTM2
+review/userId: A1ND2JCBZD66YH
+review/profileName: A. Mays
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262044800
+review/summary: MUST TRY
+review/text: I received these as a gift and they are decadent, smooth and creamy. Must be tried to fully appreciate!
+
+product/productId: B001KUVTM2
+review/userId: A313L3YRM0SH4S
+review/profileName: Heather Arcand
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1249862400
+review/summary: Stole My mother's now I want more!
+review/text: My parents recieved these as a christmas gift, and everytime i went to their house after the holidays I stole a few from the pantry. . . . now they are all gone and I want to buy my own box.  WHo am I kidding I went to buy 10 boxes.  What a tasty treat!  Fabulous chocolaty taste with a velevt texture, all in a pefectly sized little cocoa dusted ball . . . .mmm a real pleasure.  If you see this brand anywhere - buy them and stock up!!
+
+product/productId: B001KUVTM2
+review/userId: A3EEGQSYV0WNTT
+review/profileName: 3Dawgs
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1333497600
+review/summary: No cocoa
+review/text: The taste was still the same but the boxes were tattered and there was no dusted cocoa on the outside. I could not give it as a gift because of the appearance. I was disappointed but my hubby and kids were happy.
+
+product/productId: B001KUVTM2
+review/userId: AKGSZ1J0IFF1B
+review/profileName: xin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333238400
+review/summary: Miraculous Choclate
+review/text: It is the best choice forever. I brought it to my colleagues and got a bunch of cheers. The only thing confuses me is it came as a whole block instead of seperate pieces shown on the package.
+
+product/productId: B001KUVTM2
+review/userId: A3ATD0NZY5FADQ
+review/profileName: S. Valenti
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331510400
+review/summary: Beautiful and delicious
+review/text: I got these for my mom for Valentine's day and she loooooved them.  I was concerned about previous commenters' experiences with melted chocolate, but they were perfect.  Of course, they were delivered in February.
+
+product/productId: B001KUVTM2
+review/userId: A2IA9NTVUGP6EH
+review/profileName: End of the Dream "end of the dream"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330819200
+review/summary: They Don't Get Any Better
+review/text: Donchels Cocoa Dusted Belgian Chocolate Truffles is really a superb candy.  In my experience they have only been bested by fresh chocolates, ones that have been prepared that very same day, (e.g., in NYC, a store called Li-Lac, cooks their deserts that very same day and when they run out of them, they run out.  They don't try to fake it by using yesterday's product.<br /><br />But barring those unusual offerings. Donchels is at the top of my list (for truffles).  The outer candy is firm, but not not crunchy, and the inner chocolate cream was soft, sweet, and simply melted in my mouth.<br /><br />I did not experience the gastrointestinal "issues" that some of the other reviewers here speak of because I limited myself to 3 of the truffles spread out through the day (the last being at bedtime).  That way I was always looking forward to something a bit later (and it took much will to avoid "cheating"),  Certainly during the winter months, shipping should not be a problem (not so for late spring through late fall...these puppies tend to melt unless they are taken very good care of until delivery...I can't speak to that since I've always ordered them in cool/cold environments).  My advice: give them a try during the winter.
+

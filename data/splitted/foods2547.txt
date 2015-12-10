@@ -1,0 +1,1143 @@
+product/productId: B0017I1QE8
+review/userId: A37CENQP0ZNKVE
+review/profileName: sailor "sailor hill"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306022400
+review/summary: Tasty little Snack
+review/text: Once in a while you want something to snack on...you don't know what but just need something.  This Pickle does the trick to give you a new experience taste and texture sensation.  The pickle is CRISP, CRUNCHY and Sweet with a little tang of heat at the end.  It awakened my taste buds for sure and it was delicious.  The perfect combination of flavors and texture that you are looking for in a Candied Pickle.  For an occasional pick-me-up snack, this may just be what you are looking for.
+
+product/productId: B0017I1QE8
+review/userId: A27JD6UZG29C06
+review/profileName: Janet
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333584000
+review/summary: candied pickles
+review/text: I placed my order and made a mistake.  I thought I was ordering candied peppers!  But, no I ordered the pickles.  I don't think I would have ever tried them but I recieved them two orders and my family and I really did enjoy them!
+
+product/productId: B0017I1QE8
+review/userId: A2T61NNBDATBWY
+review/profileName: lazycook
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1318291200
+review/summary: to sweet for my tastes
+review/text: It is up to every one taste buds which are so different, but for me just to sweet.  I did eat them so I'm not complaining.  My one negative comment would be some slices were crunchy (good) and some were not (no so good).
+
+product/productId: B0000CNU5B
+review/userId: AG7GLPT4HDS74
+review/profileName: Jean Caruso
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1164931200
+review/summary: Lee Kum Kee Guilin Chili Sauce
+review/text: The BEST sauce!!!!  I stir fry green beans and then just stir in a teaspoon or so - it is very hot so a little goes a long way.  My friends all love it and some of them say it is their favorite vegetable.
+
+product/productId: B0000CNU5B
+review/userId: AT6UIUABL79MG
+review/profileName: dave j
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: make a great tasty meal
+review/text: This is not your regular pantry items, i stumbled upon this sauce by fluke as i was looking for something else.  I read the label and thought i would give it a try.  Boy was i surprised, i made the chicken dish as suggested on the label and it was gone in no time.  it doesn't have the over powering hotness that one expects from Guilin peppers but it has a very good flavor.  This sauce is the goto sauce for quick meals that will please everyone.  you have a vegetarian, just add this to tofu, and magically you have one tasty tofu dish.  works well with everything.  a standard must have for our house.
+
+product/productId: B0000CNU5A
+review/userId: A8AQO4G75E69D
+review/profileName: intrepix
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301529600
+review/summary: This is definitely an eye opener and one of the BEST
+review/text: I used to think that most soya sauces were pretty much the same, salty, some heavier and saltier than others, some light, less salty and that was my understanding of soya sauce.  I happen to get a small, disposable sample of Yamasa soya sauce via a takeout retailer and never bothered using it until one day I ran out of soya sauce and put some of this on some Nishiki Premium Sushi rice along with a few drops of sesame seed oil.  WOW, the flavour was over the top, down the road and around the bend and nothing like any other soya sauce I ever tried before.  It's totally different, wonderful flavour, very light on the salt and works in harmony with sesame seed oil and sushi rice.  Honestly, you need no other ingredients and it's like chips or peanuts, you won't stop until you're done.  Man is this soya sauce great but just buy a bottle, try it and you'll leave the Chinese versions on the shelf and I like Pearl River Superior Light Soya Sauce but Yamasa takes soya sauce to a whole new level.
+
+product/productId: B0000CNU5A
+review/userId: AHX9I7RPXXLBL
+review/profileName: J. Orach
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1117238400
+review/summary: Authentic
+review/text: If you go to a good Japanese restaurant, chances are they have Yamasa on the table. You can't do any better than that.
+
+product/productId: B0000CNU5A
+review/userId: A2WNWOJDL0A81
+review/profileName: Jonathan Sprenke
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1065398400
+review/summary: mmmmmm salty
+review/text: This product reminds me of a thousand lunches of chicken teriyaki and mounds of steamed rice. Why eat out, when you can drizzle some soy over your food at home. Make everyday a teriyaki day!
+
+product/productId: B0002C96JM
+review/userId: AZRPFU1HD4HYL
+review/profileName: Seljano "Seljano"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1257465600
+review/summary: The best I have ever had!
+review/text: I actually visited this mill that this came from, located right outside of Firenze in the heart of Toscana.  You can stay at the villa, it has been turned into a B&B and it is beautiful!  I purchased a small bottle of this while I was there (this past summer) for 10 euro, and just ran out.  This is the only place I have been able to find this oil in the states, and believe me it is worth it!  The best I have ever had...would definitely recommend.  Also, don't cook with it...its better if used in it's virgin form, so with dipping/salads.
+
+product/productId: B001VNGMDE
+review/userId: A4X2NM1CZL8TV
+review/profileName: Alvin D. Smith
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1268352000
+review/summary: best of the best
+review/text: the strongest garlic powder i have ever had i eat whole or powder garlic every day for the past 10 years will keep getting it
+
+product/productId: B001VNGMDE
+review/userId: A3QFOYRN9G515S
+review/profileName: Kerry Searle "Galavantin"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1303430400
+review/summary: Don't need much to get a good garlic taste.
+review/text: This is a strong but fresh garlic powder. Enjoyed. Better than what I was getting in the grocery store. Stores well in a sealed jar. I put small amounts in the small shaker to reduce exposure to air. Great when peeling cloves gets old. Would like to grow my own but until then, powder works fine also.
+
+product/productId: B001VNGMDE
+review/userId: A1MT18CTADFC0Z
+review/profileName: creative cook in the kitchen
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1303776000
+review/summary: amazing garlic powder, no fillers!
+review/text: This garlic powder is our FAVORITE garlic powder available.  This is the real deal... no fillers what so ever.  It is more of a powder than your average garlic powder (which is more granular).  It is organic & accordingly is non-irridiated.  Good stuff indeed!
+
+product/productId: B001VNGMDE
+review/userId: A338NGK967YAUA
+review/profileName: Tom Jefferson
+review/helpfulness: 4/6
+review/score: 2.0
+review/time: 1325203200
+review/summary: "Organic" garlic from China
+review/text: Skip eating questionable food from China and demand USA grown food. You can get garlic grown in the USA at your farmer's market. You can also get it from farmers online and distributors such as: spicesinc.com. Or you can search under "garlic not grown in China" like I did. It does exist.<br /><br />Please join me in encouraging Amazon to get an organic source of garlic that is from the USA; they currently have none. Let's help our own economy and not buy food from communist China.<br /><br />UPDATE 1/14/12: spicesinc.com carries USA garlic whenever possible, but they can't always find it. When I wrote the review, they had it in stock. I spoke with Greg, the CEO, today and he is searching for more USA sources. Just call to verify when you place your order.<br /><br />Another way to search the internet is to list a state such as: "California organic garlic powder".
+
+product/productId: B001VNGMDE
+review/userId: A37MH7ICH80QOX
+review/profileName: Kate McMurry "Young Adult Author"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334448000
+review/summary: This is a lot of garlic, so share it with your friends!
+review/text: This is a high-quality powdered garlic with great flavor. It's well-sealed and organic. It is definitely a whole lot of garlic, though, so share it with your family and friends or it will last you years and years. I bought it because even if I can't use it all up, the price is much, much cheaper than in a grocery store.
+
+product/productId: B001VNGMDE
+review/userId: ABBJ51HPLCF9M
+review/profileName: Randa Rose
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1299024000
+review/summary: Too strong!
+review/text: I have never had any garlic powder like this.  It is so strong... (I guess that is what it wrong with it.) that it burns my mouth.  Not just mine but my daughter's as well.  It actually makes me nervous to even use it.  We have no allergy to garlic.. it has been a major commodity in my kitchen for years and I have used a Frontier brand of garlic powder that was wonderful.  I thought this was the same thing, but the first thing I noticed was the powder is ground so fine that it just clumps together.  I can't use it in a shaker as I did my other powder.  Then with the burning it causes... I feel I just wasted my money.  I will not buy again.
+
+product/productId: B003A23HZK
+review/userId: A31FYZK04YNOJ5
+review/profileName: P. Sorornejad
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1330560000
+review/summary: Use it for dinner time, fully engaged and learning!
+review/text: After reading a bit more about toys that encourage learning and rewards, I came across a TON of reviews for this.  At first I wasn't too sure if it was something my puppy would like, but I decided to give it a shot anyway.  I filled it up with his dinner, and placed it on the ground.  I could tell he knew there was food in there because he was smelling it like crazy.  He then accidentally knocked it over and some food fell out...... suddenly he realized....if i play i get treats!  Normally when I feed him dinner it takes him less than 1 minute or two to woof it down, then he lets out a little burp.  Sometimes he even managed to throw up a bit after because I noticed he wasn't even chewing.  Well, it took him literally 25 minutes to get through a whole dinner with this.  He got a bit frustrated as it was nearing it's last few kibbles, but I think he understands the concept now.  Highly recommended! (my pup is a 6month old shihpoo, 10lbs)
+
+product/productId: B003A23HZK
+review/userId: A3JUPBDJOFZU7I
+review/profileName: LMD
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329782400
+review/summary: Recommended for agressive chewers or large breeds
+review/text: This is a great product for keeping the pup busy for a bit- it is made of hard plastic and holds up well to rough play.  The only down side is you may want to have your pet play with the cube on a carpeted area-it's noisy!
+
+product/productId: B003A23HZK
+review/userId: A3A5N0SFOIJEU3
+review/profileName: Lynn M. Thomas
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1329609600
+review/summary: Buster Food Cube
+review/text: My dog is a chewer and somehow managed to gnaw away at the inside tabs for adjusting the difficulty level.  So, our use is just at one level.  May try the smaller cube, which doesn't have the tabs so play can be more challenging.  Otherwise, she enjoys playing with it and it keeps her busy chasing the cube and finding the hidden treats.  Good challenge.
+
+product/productId: B003A23HZK
+review/userId: A3KXMON77IAEYE
+review/profileName: MJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329177600
+review/summary: Awesome
+review/text: Awesome product for hours of entertainment for my dogs. I have several dogs, but bought this specifically for my pug. He pushes it around for quite awhile. It didn't take him long to figure our that flipping it usually brings a reward. He seems disappointed when he flips it and there aren't any morsels on the floor, but he keeps at it. Great Product!
+
+product/productId: B003A23HZK
+review/userId: A3G8FYQH72SFVY
+review/profileName: April
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329004800
+review/summary: Great
+review/text: Bit loud on the tiles and due to the opening size there is only a few treats other than kibble we can put in. Hours of noisy entertainment for my smart Miniature Pinscher who finds a normal treat ball a little too easy. I also couldn't get the holes to open to adjust the difficulty, had to get someone else to figure it out and have not tried to adjust it since. Would not recommend for soft food as it's hard to get out and can easily get stuck.
+
+product/productId: B003A23HZK
+review/userId: A1V9M90K175NBC
+review/profileName: 2c_worth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328486400
+review/summary: Great puppy fun
+review/text: I wouldn't say that our puppy loves this item but it certainly keeps her amused. I think she is still figuring it out as all her other toys have been balls that she can roll around or shake. This one requires a bit more delicacy to get the food out and it takes a while to get all the food out. It is made of tough plastic and seems solidly constructed so should last for ages. I usually put about 1 cup of dry food in the large size cube and this seems to work well.<br /><br />I had some difficulty getting the inner cylinder out for the first time. I persisted and just as I was about to give up it popped out with seemingly no effort at all.
+
+product/productId: B003A23HZK
+review/userId: A1OIDJ7WTJ8O
+review/profileName: A. Simon "in search of perfection"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327017600
+review/summary: Nifty, but not for my scaredy-dog
+review/text: I thought this was great, my dog is afraid of it. It's made of hard plastic and my wimpy dog was afraid of it as soon as it turned over once against the floor. I've tried wrapping it with rubber bands to soften the roll but too little too late!<br /><br />Update... my dog's older brother loves it! He's a little bigger and is a total food whore so I thought he'd like it. He's just visiting but I'm sending it home with him and I think it's finally gonna get some great use!
+
+product/productId: B003A23HZK
+review/userId: A32KYESZRIM4MB
+review/profileName: julian ungar-sargon
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327017600
+review/summary: noisy
+review/text: the concept of the buster cube is great, it makes getting food fun for the dog. the only, yet very significant problem is that if you use it on hard floors it makes a ton of noise that's pretty much unbearable. and if you use it on a carpet it leaves crumbs. there are other products identical to the buster cube's purpose in dispensing food that way that are made of rubber.
+
+product/productId: B003A23HZK
+review/userId: A1U31XOCVZJFOW
+review/profileName: Olivia
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1326240000
+review/summary: Dog Cube
+review/text: I like the food cube except it's not as indestructible as I had hoped.  I have four dogs and I bought this toy to see if I could curb my lab mix from her destructiveness due to mild separation anxiety.  Well, one of the other dogs figured it out first and taught her, the only problem is that the other dog also figured out how to pick the cube up to get it out of corners and this broke one of the plastic tabs inside that help you screw on and off the lid by pick it up with one canine in the hole and the other on the outside edge of the cube.  My 40lb dog broke the tab so what's going to happen if I were to let the 100 pounder play with it?  Thought this would be more like a Kong and less like rawhide that is easily destroyed.
+
+product/productId: B003A23HZK
+review/userId: A2AG7VCM3O3AK9
+review/profileName: Leslie L. Rowan "Doll Maker Maniac"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: Love, Love, Love this cube!
+review/text: My golden retriever, Whisper, is very prone to anxiety when I leave the house. I just fill this cube with Cheerios, or even her regular serving of her dog food, and she goes to town rolling it on the floor to get every bit of treats from the cube. We both love it!<br />Word of caution: You need to have the cube in a room where there are no places for the cube to roll into and get stuck, like under couches or chairs. I have blocked off high bottomed chairs and couches so the cube does not get rolled into and stuck. My dog rolls this all around the room. I should spray her with Endust and have her clean up her hair while she is playing. KIDDING!
+
+product/productId: B003A23HZK
+review/userId: A3I4GCI6XTX1BB
+review/profileName: Eric C. Vizinas "Q"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325635200
+review/summary: Best IQ Dog Toy Ever
+review/text: It's really a great toy. It has an adjustment for the difficulty and it's easy enough to clean. My pup personally LOVES it. If you've got a dog who gets bored when you're away, or a dog who needs constant engagement, this is a great toy to introduce. Just stuff it with their favorite treat and let them have at it.
+
+product/productId: B003A23HZK
+review/userId: A2TWZTOY0HO25N
+review/profileName: orangeotter
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325548800
+review/summary: Has potential, but my dog just didn't get it
+review/text: I bought the Buster Food Cube to hopefully help with my Spaniel Mix's bad habit of woofing down her meals in a couple of seconds.  I got the cube and was anxious to fill it up, however, it took a while to fill it.  Once it was filled, I put it on the floor and kicked it around for her to help her figure out what she needs to do.  She ate the kibbles as they fell, but unfortunately she's not the brightest dog ever so all she did was lick the hole where the kibble falls out and has to be put in to fill.  I think she successfully knocked it over once or twice, but gave up shortly after that.<br /><br />I think overall the Buster Food Cube has potential to be a good product for a smarter dog.  As for me, I'll just have to keep looking for solutions.
+
+product/productId: B003A23HZK
+review/userId: AYGPOPHTHD5ED
+review/profileName: lizyohn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323302400
+review/summary: My dogs love this!
+review/text: This toy is very engaging for them.  It's also incredibly durable.  It took a few demos from me before they figured it out.  It has been Game On ever since!  The frequency and quantity of kibble pay out with this toy engages my 60# dog for well over half an hour with approximately one cup of food.
+
+product/productId: B003A23HZK
+review/userId: A3GFA7BXLYDW8N
+review/profileName: Matt the Man "Matt"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1322524800
+review/summary: Dog Never Understood
+review/text: It looks like a solid item, but My dog has never understood what to do with it. I'd hoped this would be a fun toy, but its not being used.
+
+product/productId: B003A23HZK
+review/userId: A3H120GZL44V7J
+review/profileName: A-systematic
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322438400
+review/summary: Buster Food Cube
+review/text: We have been using this food cube for a few years and our black lab really likes the challenge.  It fits about 1.5 - 2 cups of food and usually takes about 5-10 minutes for our dog to get it all out.<br /><br />Pros:<br />Keeps him engaged and makes him earn his food.<br />Very durable design. Make sure your dog knows not to chew on the opening to get the food, but rather push it around.<br /><br />Cons:<br />It is a little loud with all the food rattling around.<br />Crumbs get into the carpet (vs feeding out of a bowl). We usually make him use it on tile flooring (louder).<br />It is tough to load.  We have been measuring the food into a cheap rubbermaid plastic bottle, and then shaking it through the mouth of the bottle into the cube.<br />I would like it to take longer to get the food out...<br /><br />It was a good purchase, but would need to be easier to load to get 5 stars.
+
+product/productId: B003A23HZK
+review/userId: A3RE36LHNND956
+review/profileName: Katieb1972
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321747200
+review/summary: Great entertainment for your dog
+review/text: I live in Canada and this toy is pretty hard to find up here. I ordered it from the US because I had heard how great it was. I fill it with kibble in the morning and leave it for my dog to play with. She goes crazy for it. The difficulty setting lets me put it to max so the food doesn't all come out in the first 10 mins. I bought 2 so I could give one to my mom for her dog.
+
+product/productId: B003A23HZK
+review/userId: AE2RDPOYEGCG1
+review/profileName: Stephen Andrews
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1321660800
+review/summary: Good idea...POOR execution
+review/text: We bought this (the large cube) for our eighty pound retriever. He played with it once, then it broke in half. I glued the halves back together, he played with it once more, then it broke in half again. I then put super epoxy on it and plastic-welded it back together. He played with it once, then it broke AGAIN. I finally drilled holes in the side and riveted a make-shift bracket to either half, effectively sealing the thing together for eternity (or as long as it takes for the plastic to break-down into it's constituent materials). Even now the center tube hardly "locks" anymore. I'm done with this toy. The manufacturer needs to redesign the cube halves so the halves screw together.<br /><br />Even when it was brand new the center lock was VERY hard for my wife to get out. I almost broke my thumb trying to do it myself. I finally had to jamb a towel into the hole, then stuff my finger into the towel and "wrench" on the part to get the cube to open.<br /><br />One star for construction and durability.<br />Three stars for the concept.<br /><br />Average: 2 stars
+
+product/productId: B003A23HZK
+review/userId: A1KFQCBTV2G4VS
+review/profileName: AleB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321488000
+review/summary: Great Toy~
+review/text: My dog just love it. He likes to flip it around all of the time. I have a toy destroyer puppy, this cube is still intact!
+
+product/productId: B003A23HZK
+review/userId: ADP79YYMKZXOC
+review/profileName: Ashley K
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1320969600
+review/summary: Scared our dog
+review/text: We fostered a dog and bought him a bunch of toys to keep him entertained while we were at work all day.  Some of the toys he loved, but this one scared him.  The plastic is think and hard, so when he would roll it from side to side it made a loud noise from the impact on our hard floors.<br /><br />I think it would work better with carpeted homes.  Also, it can be pretty tricky for dogs to get the treats out, so I would say this is an 'advanced' toy.
+
+product/productId: B003A23HZK
+review/userId: A23YIHOI5V7BTA
+review/profileName: Opahfish
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1320710400
+review/summary: This cube is a pretty horrible dog toy
+review/text: I have a german shepherd puppy and even he is not interested in this toy. We tried rolling it around for him and he was not amused. he ate the treats that fell out (like 10 at a time) and then left it where it was. Buyer Beware. It would be better if it was actually soft plastic but its hard and uncomfortable to play with for him. 1/2 star!
+
+product/productId: B003A23HZK
+review/userId: A1XWKUFIX8SHT0
+review/profileName: John Milton "Amy" "seventeenth-century poetry...
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319673600
+review/summary: LOUD but entertaining
+review/text: The buster cube keeps my lab puppy busy, but it is so loud on hardwood floors that you can't carry on a conversation in the same room.
+
+product/productId: B003A23HZK
+review/userId: A2OH2OZ9K4SOSU
+review/profileName: Edward Jaffe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319328000
+review/summary: Great toy for (the food modivated) dog!
+review/text: This has been (of varying size) the favorite toy of each of the three dogs i've had.  Even the most recent rescue that doesn't care for toys.  Took a couple play sessions to teach her to use it, but once she got the idea, it's the only toy she gets excited to see.  Highly recommended.  Once they get it, it's easy to just take some (or all) of the meal kibble and let them work it out.  If your dog is having a hard time understanding it, I suggest trying two things that helped us out.  Add some Zukes minis (semi-moist) treats in with the dry kibble (the stronger scent got my dog interested after kibble alone didn't draw her to it) and practice play on a solid (preferably light colored) carpet that makes it easier to see the rewards spill out.  The regular size one was good for my small-medium dogs, and the mini is good sized for my little (14 lb) terrier mix.  Warning that the mini cube might not fit your kibble/treats if they're larger sized.  If you want to use the mini cube, have "small-bites" or toy-dog sized kibble on hand.  Happy play!
+
+product/productId: B003A23HZK
+review/userId: A1FD8AKLKHYUZU
+review/profileName: KGH
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318377600
+review/summary: My dog loves it
+review/text: I got this for my dog about a week ago because he was eating his food too fast and too often wanted his humans to be his sole source of entertainment. Now we put about half his kibble in his bowl and the other half in his Buster cube. He goes to the cube periodically throughout the evening and doesn't need constant human entertainment. He caught on to the concept pretty quickly. I suspect with this type of item, either your dog will be into it, or he won't. There's not a lot of middle ground. The downside is the cube often gets stuck in corners or under furniture. Also, it doesn't evenly dispense food, so he'll get a lot of kibble in the first five minutes of play, then over the course of a few hours he only gets a few more. It's difficult to get the last few pieces out. he's only emptied it completely once. The cube is bigger than i expected; about the size of his (black lab) head. It's not especially easy to fill, as some kibble in inevitably remains in the shaft and thus falls out immediately. Despite the imperfections, the dog uses it and is entertained, so i consider it a success.
+
+product/productId: B003A23HZK
+review/userId: ABU48SCSDIQV5
+review/profileName: Darlene A. Difford
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318291200
+review/summary: The Best!
+review/text: I have used the buster cube for years with various dogs.  It is by far the best interactive treat toy.  Believe me, I have tried everything and always come back to this cube.  You will not be disappointed!
+
+product/productId: B003A23HZK
+review/userId: A3J74EMK0NLNZ0
+review/profileName: Doglover
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1315958400
+review/summary: Good toy if used
+review/text: I really wanted an interactive toy for my golden to play with while I was out of the house...however my dog does not find this toy interesting.  I have filled it up full of kibble, I will knock it around so he see's what happens and he will eat the kibble that fell out from me and then walk away.  He is not able to destroy this toy so maybe thats why he is uninterested! :) I think this is a good toy as long as your dog will like it!
+
+product/productId: B003A23HZK
+review/userId: ASDO9MGRBB18R
+review/profileName: sam
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1315526400
+review/summary: Food falls out very quickly
+review/text: We use dog food in here...but it all falls out of the hole pretty quickly! I'm not sure if there are certain kinds of treats that would work better in here, but it does not work as well as i thought it would. Although, when it is empty, my dog likes to play around with it. So I guess it entertains him and that's always good! (6 mo. old yellow lab)
+
+product/productId: B003A23HZK
+review/userId: A3URGVZA532GOF
+review/profileName: A. C. Garcia
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315094400
+review/summary: Good but not great
+review/text: The first time I gave the cube to my puppy to play, she just kept looking at it. She didn't want to play. I left full of treats on the ground. The next day, she decided to play. She loved it. She played for a long time. The problem is, after few days, she can get all the treats out in only few minutes. It's a good toy, but not challenging enough. I wish it had more options to make it harder for her. She stills enjoys playing with it, but for a shorter amount of time.
+
+product/productId: B003A23HZK
+review/userId: A3RN3UDXB6OKWW
+review/profileName: Susan McKay
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1314230400
+review/summary: Perfect Size?
+review/text: I saw this toy at my pet's vet but it was $23 I don't remember what I paided but I know it was less than 1/2 through Amazon!  I have a Corgi and the small one was just the right size, Corgi's have short legs and I had seen the large one also at the vets and it would have been too big.  Right size toy, wrong size food holder!  I ended up having to purchase some toy breed miniature dog food to put in it, it's almost like gerbil food but it's the only thing that fits.<br /><br />The dog loves the toy though, he doesn't mind the tiny treats, they come out anywhere from 1 to 4 at a time and he gets exercise chasing it around as well.
+
+product/productId: B003A23HZK
+review/userId: A16H2882YN4H2L
+review/profileName: D. Jones
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289088000
+review/summary: The Best Food Cube I've Ever Tried
+review/text: My Miniature Schnauzer is a gobbler, when it comes to eating.  She would then throw her food up.  She got Pancreatitis and the vet suggested that I feed her by hand, so that she didn't wolf her food down so fast. He also suggested that I feed her 3 times a day.  I found this Mini Cube, which I fill with her kibble and she has Crazy Fun rolling, knocking and hunting (I hide it and make her find it) for her meals.  She has not had any bouts with Pancreatitis or throwing up since I started feeding her this way.  It takes her about 20-30 minutes to eat each meal. And, she seems very satisfied when she is finished.<br /><br />It's great Exercise and since Schnauzers are hunters by nature, it keeps her mental alertness sharp!
+
+product/productId: B003A23HZK
+review/userId: A3CTXFPNJCCUVO
+review/profileName: Keith Corbin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287014400
+review/summary: Dog Loves It!
+review/text: My dog LOVES this! She rarely plays as she's an older beagle, but shake the cube with some food it in and no matter where in he house she it, she'll come runnin'.<br /><br />We got the same brand dog food, just different flavor, so she thinks it's a "treat" but we can still keep it low cal as beagles are prone to weight problems.<br /><br />I would also make sure you watch them play and pick it up when it's empty as this will help them realize when it's on the floor, there's food, otherwise they might get bored of it. We've had it for a few months and she STILL loves it!<br /><br />What a simple product with a fun result!
+
+product/productId: B003A23HZK
+review/userId: A30IO16J1Y2D1D
+review/profileName: Susan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1269388800
+review/summary: Excellent -- Buster Mini Cube
+review/text: As other reviewers have stated, this is a a great toy for dogs -- I put Cheerios in it, and my dog plays with it all over the kitchen until all Cheerios are finished.
+
+product/productId: B003A23HZK
+review/userId: A3KNHLXPL0CF4D
+review/profileName: D. Thompson "dt"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266192000
+review/summary: Great fun for both me and Lacey!
+review/text: I use this buster cube to feed one of my schnauzer's her breakfast each morning.  It entertains her for a good 30 minutes or so as she rolls it around and munches the kibble as it falls out.  Her first buster cube lasted 6 years (would have lasted longer if my second one, JoJo, hadn't chewed up the plug...), so chaos reigned in my house until we got the new buster cube.  Now it's a morning ritual again.<br /><br />This toy is extremely durable, easy to fill, and great fun for both you and your dogs.  I would heartily recommend it to be introduced to the pup before their first year is up, and you may have to, uh, demonstrate it.  Once the dog catches on, you'll enjoy watching them roll the buster cube around getting their kibble/treats from it.  This toy is worth the money, for sure!
+
+product/productId: B003A23HZK
+review/userId: A2K0RQFRQXTSFV
+review/profileName: momof2 "Aim"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1265932800
+review/summary: Pets Buster is ok
+review/text: We have only used the cube a couple of times, it works fine as far as the dog working a little harder at getting his food.  However, we cannont get the middle part to come out for cleaning.  Until we can get it to do that we will not use it very much.
+
+product/productId: B003A23HZK
+review/userId: AQBVOKC71T0WJ
+review/profileName: Chris Winn "C.Winn"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264809600
+review/summary: Great Product
+review/text: Our Welsh Corgi loves this product.  She had stopped eating and we were trying to find something to excite her about eating again.  This product made eating fun, and now she can't wait until breakfast.
+
+product/productId: B003A23HZK
+review/userId: A2RAHVQXI12VGA
+review/profileName: BeGreen
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1262736000
+review/summary: My dog didn't like it, but my friend's dog loved it
+review/text: When my maltese was a puppy, he was scared of all the loud noises it made when the food was clinking around inside. But, I'm sure that other dogs would be interested in it. My friend came over with her dog and her dog couldn't stop playing with it. She finally asked me about it and I gave it to her, since my dog was scared of the Buster cube. Even though my dog didn't like it, I think this is a great product and must be very useful to other dog owners. If your dog is timid, then I wouldn't recommend this product.
+
+product/productId: B003A23HZK
+review/userId: A3P2Z4OGWMC8DA
+review/profileName: Jennifer W. Hazelton "Seaprincessinc"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1260403200
+review/summary: Mini-Schnauzer Loves it
+review/text: This toy is my mini-schnauzers favorite way to get his meal. I put his dry food in it and he slides it all over the house to get the good out.  My other mini stands and watches him and benifits from the toy as well, but is too lazy to do the work so he lets the baby do it and reaps the rewards.  It's fun to watch them play with the toy also.
+
+product/productId: B003A23HZK
+review/userId: AO32ERMCG9SBA
+review/profileName: Marie Leroux
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1255737600
+review/summary: 4 month old ~6lbs puppy loves it
+review/text: i have an alaskan klee kai puppy who is getting close to 5 months and MAYBE 6 pounds if i'm lucky -- she LOVES this thing. i initially got it bc she INHALES her food as if i've starved her for days, and wanted her to slow down and chew her food. well, it slows her down a little, but she still inhales. she even plays with it when there's nothing in it and it's still sitting around in her xpen or kennel. the only thing i absolutely hated about it was when it fell in her waterbowl (from her nosing it everywhere) water got stuck in the cube with some dry food and i couldnt get it out for the life of me. it took FOREVER to get the center piece out (i had to stop using it for a couple weeks since it was disgusting) and i finally read somewhere that someone used a screwdriver to kind of pull the piece out. i didn't hear anything when i did, but it came out somehow. now it's clean and stuffed with her meals :) just for this reason, i dont know if it really would be cleaned too well in a dishwasher, since it took a while to get water out of it completely for me when i was just trying to empty it out before i opened it. if you hate loud noises, probably should stay away from this one. also, the hard setting doesnt seem to be too hard for my puppy, so if you're looking for something SUPER slow, this one will only get you there for a few uses. however, i love it, and so does juneau, so definitely an easy 5 stars.
+
+product/productId: B003A23HZK
+review/userId: A3309IEQSU5WF9
+review/profileName: Amani2 "jishera"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1248739200
+review/summary: Great for dogs who need more challenge
+review/text: We have quite a few treat dispenser toys, and our 10 pound chihuahua mix LOVES food, so of course, she loves these toys. We feed her lunch and breakfast with the toys. Unfortunately, they were starting to get too easy for her. We have the large Omega Paw Tricky Treat Ball, which she loves, but she gets the food out so quickly that we needed something more challenging. This mini classic buster cube fits her (and our) needs. Similar idea, but since it is more difficult for her to roll and move the cube, she has to play with it longer. So far, it is holding up well and she enjoys it. I highly recommend this toy if you want something more challenging for your dog.
+
+product/productId: B003A23HZK
+review/userId: A1KWRPTR0XBVJ4
+review/profileName: David F. Twomey "dave2mee"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1229904000
+review/summary: Buster Cube Review
+review/text: Good service; good product. Delivery charges a little high relative to price of the product.
+
+product/productId: B003A23HZK
+review/userId: A2FNVNTWWQNDXO
+review/profileName: V. Von Slomski
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1227484800
+review/summary: It SOUNDED like a good idea...
+review/text: My vet recommended this toy for my dog Koko (terrier mix) b/c it would keep her distracted and away from destroying my things. I filled it with the dry dog food that she likes and showed her how to play with it, but she won't have anything to do with it! I tried chopping up a treat that she likes and using that, but it didn't get her interest either. Maybe it's just my dog, but I was dissappointed. I highly recommend getting your dog a Kong toy though, she never lets that thing go!
+
+product/productId: B003A23HZK
+review/userId: A1Z5SQXIOJ62CG
+review/profileName: LL
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1208736000
+review/summary: Tons of entertainment!
+review/text: My dog loves his Buster Cube and so do I.  It keeps him busy and out of trouble.  He stopped chasing the cats and now pushes around his Buster Cube.
+
+product/productId: B003A23HZK
+review/userId: A1R2YYVEZ18CQU
+review/profileName: Roldan Teroy
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1345161600
+review/summary: Did not last one day
+review/text: Ordered this product along with the Large Kong Wobbler Red toy for our 3 dogs (weight in at 45 to 65 lbs each). This item was hard to fill, hard to seal, and hard to clean. Found the toy on the lawn the next morning after the sprinklers drenched the dried dog food into a melted mess. The port and plug located on one side of the cube which you add kibble is about the size of my middle finger. Impossible to clean even with a bottle brush. I soaked the kibble out and refilled it to give the toy a 2nd chance. Found that the plug shaken loose from the port and I later discovered it chewed up. This render the toy useless. Would not by again. Still have the Kong Wobbler Red and refill it daily.
+
+product/productId: B003A23HZK
+review/userId: A1VPYRNZ0VLQ55
+review/profileName: dog mom "Melanie M"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1248220800
+review/summary: good fun
+review/text: I bought this ball for my standard poodle. It didn't take him long before he was kicking it around & getting to the treats. He did become board with it.
+
+product/productId: B003A23HZK
+review/userId: ACD9ADV6D8DIA
+review/profileName: Long Tall Sally
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1233792000
+review/summary: Unhygienic, But Fun For Dog
+review/text: Our very smart, very small dog, who is a Papillon and Jack Russel mix, really enjoys this toy. However, I find it frustrating that the cube just won't come apart for cleaning as it is supposed to. We actually returned the first one we bought because it wouldn't open, but the replacement cube won't either. The hygiene issue is unpleasant for the owner--but I guess it's not such a big deal, since from the dog's point of view, clean things are less fun than dirty ones!
+
+product/productId: B003A23HZK
+review/userId: A1HWFFQA5DEK20
+review/profileName: R. McKee
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1205107200
+review/summary: Dog LOVES It !!
+review/text: My parents have a dachshund and she LOVES this toy. It's the only toy she plays with. That dog has had this ball since she was a young dog and she is now 11 years old and still plays with it. After eight years (and much much use), the ball is finally starting to wear out. We've tried other balls to replace it, but she wants this one. I'm so glad I found the exact same ball for sale here, so she can have the kind of ball that she likes.
+
+product/productId: B003A23HZK
+review/userId: AIE9W7YFSJPDJ
+review/profileName: Jennie K. Nelson
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1299196800
+review/summary: Piece of crap
+review/text: My 40lb cockapoo (he's not fat his father is a medium sized poodle) played with it well for 3 minutes then bit it and broke it nearly in half.
+
+product/productId: B003A23HZK
+review/userId: A2FT9M73ONUW1B
+review/profileName: Sandra L. Wake
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1267401600
+review/summary: Pets Treat Cube
+review/text: I wouldn't buy this product again as it's too hard to open and insert the treats. It says to put your finger in and twist to open.  I gave it to my niece to open and she even had trouble.
+
+product/productId: B003A23HZK
+review/userId: A108HCW5DYBX88
+review/profileName: biz "biz"
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1232409600
+review/summary: buster cube
+review/text: Great toy but a mouse got stuck in it,  was half hanging out and dead.<br />so much for that.
+
+product/productId: B003A23HZK
+review/userId: A1ALWIBW24W9HA
+review/profileName: John Gutraj "John"
+review/helpfulness: 2/4
+review/score: 3.0
+review/time: 1169510400
+review/summary: Not recommended if you have 2 dogs
+review/text: I got the adult and puppy buster cube for my dogs.  One of the dogs does all the work while the other dog follows him around eating the kibble that falls out.  I think its a great concept if you have one dog.
+
+product/productId: B003A23HZK
+review/userId: A1AOP4UBG0YKBD
+review/profileName: DPrice
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1339804800
+review/summary: CAUTION BEFORE YOU BUY!
+review/text: I am sitting here watching my dog completely sound asleep after a $600 emergency vet visit.  We did as instructed with this toy last night and sat with our Pit/Mastif 17month old puppy named Daisy.  She loved it and today we went out for two hours to look at homes to buy.  When we returned she did her usual running around and greeting us with her new toy in her mouth.  Several minutes later she was laying at our feet with her toy still there.  While reaching out to grab the toy and play with her it was stuck.  I mean stuck.  She had literally gotten her entire lower jaw stuck in the hole that you take in and out to place the food into.  Not a tooth not a hair, her entire jaw.  I cannot believe that this is the first occurance for this toy.  It definately needs some redesign or removal from market.  This toy has cut a ring around her jaw to the point of bleeding and massive swelling because of how it was lodged.  We bought the large version as HELLO we have a large dog.  If you really care for your pet, look elsewhere for a toy that does keep them entertained when you are not around.  It kept our baby entertained alright.  But she couldn't eat or drink as she walked around with a 6 inch cube stuck to the front of her face.  We feel pathetic that we did this to her.
+
+product/productId: B003A23HZK
+review/userId: A3UPPZWOMGF9J3
+review/profileName: E. Block "Mightymo"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1333929600
+review/summary: Dog loves this thing
+review/text: There's not a whole lot to say about this toy. It's simple, and does what it's designed to do. My wife had a little trouble figuring out how to open it, but she has trouble opening the front door. Once you get past that small hurdle, you put food in it and close it; simple. But the dog loves it and gets about an hours worth of play kicking this thing around in order to get the treats. She likes it far more than any of the other food/toys that we have. Great investment.
+
+product/productId: B003A23HZK
+review/userId: A2AA6VDAJNBCVI
+review/profileName: Happy'sCompanion
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1331510400
+review/summary: USELESS
+review/text: This item was ordered as a package deal (saved $1!!!). One was sized for a 150 lb. Great Dane, one for a 5 lb. dog and this one is just right but impossible for me to get food into or a dog (or me) to get it out. Recommended by local SPCA!!!
+
+product/productId: B003A23HZK
+review/userId: AO1CGATK4PBU6
+review/profileName: M. Shaw "Fido & Friends"
+review/helpfulness: 4/8
+review/score: 2.0
+review/time: 1168300800
+review/summary: Mini cube....outch!
+review/text: The Buster Cube and the Mini Cube is a great idea! The problem is that I almost broke all of my ten fingers, trying to get the inner cylinder out (for cleaning purpose). I let several people try it, because I thought there might be a trick...none of them was successful! I even went to Petsmart where they sell that toy. Needless to say that nobody there was successful as well. I ended up sending it back and putting some ice on my hurt fingers!!! 2 Stars for the idea...
+
+product/productId: B003A23HZK
+review/userId: A2T90OFSZ5QVE8
+review/profileName: Doxie Mom X 4
+review/helpfulness: 39/39
+review/score: 5.0
+review/time: 1117411200
+review/summary: Don't Be Without a Buster Cube!
+review/text: I bought a mini buster cube for my miniature dachshund to help build up his rear leg muscles a few months after he had back surgery.  All I had to do was put a few pieces of his dry dog food in it and he figured it out quick.  It's 7 years later and it's still his favorite toy.  He can even pick it up with his mouth and carry it around the house.  He puts it in his dog house and bangs it around for hours.  He literally plays by himself and keeps busy all day in the yard too.  He doesn't even care that I stopped putting food in it years ago.  I had a few of these break after wear from the rocks in my last yard but I keep about 5 at a time in my house in case the company decides not to make them anymore.  I bought one for my friend's pomeranian and he doesn't stop playing with it either.  He now has two.
+
+product/productId: B003A23HZK
+review/userId: A3N7V77E79XRFR
+review/profileName: S. Wong
+review/helpfulness: 22/22
+review/score: 5.0
+review/time: 1233100800
+review/summary: Definitely recommended!
+review/text: My dog is picky and doesn't eat his food in a bowl, but the buster cube solved all of that. This keeps him busy, exercised and happy. We fill it up two times a day for him.<br />The only down side is filling the cube. You have to put the food in the hole, shake it for the food to slide through a hole on the side, and keep adding food. The whole process takes about 1.5 minute, which isn't too bad.<br />I recommend this to all dog owners.
+
+product/productId: B003A23HZK
+review/userId: A1PJEAN52CCM9Y
+review/profileName: G. Lopez
+review/helpfulness: 31/33
+review/score: 3.0
+review/time: 1259452800
+review/summary: Loved it at first, but it's not very sanitary
+review/text: I received the mini buster cube and my mini schnauzer had tons of fun with it. I put his kibble dinner in it and he tossed it around and got most of it out. However, over time I could hear that food "dust" was being left behind, and I found this product absolutely impossible to open and clean.<br /><br />I tried to open with the instructions many times, asked different people for help, but the opening on the mini cube is so small that I couldn't really get my thumb in there (as the instructions recommend).<br /><br />It was left unused for a bit and then one day when I picked up a small swarm of flies flew out of it! It was so disgusting I ended up throwing it away.<br /><br />If you can manage to open it and clean it, this would be a perfect toy. Perhaps people have better luck with larged sized cube because it might be easier to open, but that one is much too big for my little dog.
+
+product/productId: B003A23HZK
+review/userId: AURID7J89LEPV
+review/profileName: JEM
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1318291200
+review/summary: The only toy that keeps them interested AND they can't destroy...
+review/text: Dog A: 42lb male corgi/lab/border collie<br /><br />Dog B: 32lb female border collie/Godknowswhat<br /><br />Dog A will crunch and bash to shards anything that resists him.  Dog B will spend hours nibbling to bits anything that interests her.<br /><br />Kongs stuffed with peanut butter and frozen survive all this but provide only 15min or so of dog engagement.<br /><br />The Tug-a-jug is Dog A's favorite, but after a month he'd already managed to crack the thing in a bunch of places, after two months it was a miracle it was still in one piece, after three months it finally gave up.  Dog B not too interested in Tug-a-jug.<br /><br />The cube interests both, and neither has managed to do significant damage.  Biggest negative is that it's very noisy as they're pawing, nosing, batting it around the floor.
+
+product/productId: B003A23HZK
+review/userId: A1O5O67B078W0S
+review/profileName: M. Howells
+review/helpfulness: 9/9
+review/score: 4.0
+review/time: 1318291200
+review/summary: Great, once they figure it out
+review/text: <span class="tiny"> Length:: 0:31 Mins<br /><br /></span>We give half of Bo's dinner in his bowl and the other half in the Cube and it's been really effective at keeping him occupied and slowing how fast he eats. There was a learning curve of a couple hours - I suggest when introducing it use really tasty treats and kick it around a few times to show there's good stuff coming out. With patience I imagine most dogs will pick it up. The biggest downside, and it's not really much of one, is that it can be a noisy process with the dog nosing the thing around on the floor and banging it into walls, chairs, etc., to get the kibble out.
+
+product/productId: B003A23HZK
+review/userId: A3EWMJZTFJZGPN
+review/profileName: Mark P.
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1201478400
+review/summary: Great Product for Hyperactive Puppy
+review/text: A product that will actually last with a puppy that destroys every toy.  Highly recommended.
+
+product/productId: B003A23HZK
+review/userId: A2MRKOBQH8CS5G
+review/profileName: Rae payne "lynnie"
+review/helpfulness: 6/6
+review/score: 3.0
+review/time: 1312934400
+review/summary: My dogs are special needs or just stupid.
+review/text: The concept is terrific and I loved the ability to layer different flavors to keep the dogs interested.  I ended up kicking the toy around in order to get their attention and they only ate what fell out.  My darling idiots aren't able to put the concept of their effort resulting in treats by nosing or pawing the toy around.  The device would probably work well for smarter dogs, however, my dogs are just stupid.  One more toy they don't understand.  I give up.  Oh well, my dogs entertain themselves by digging holes, breaking into the trash can and being loveable idiots. I KNOW there is a toy or two out there that matches their very low IQ and curiosity so I will continue to search.  Good luck to all of you with more advanced IQ dogs.
+
+product/productId: B003A23HZK
+review/userId: A2NQKBC54RAZL5
+review/profileName: Keribeth
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1296691200
+review/summary: Best Toy for Active Dogs
+review/text: This toy is my dogs absolute favorite. He goes nuts whenever we take it out. I put an entire meal inside and it keep him occupied for at least 20 minutes. The hard plastic has a potential to do a number on your wood furniture and floors. My dog figured out if he drops it down the stairs, the food comes out faster. On the other hand, the hard plastic is what makes this so durable. I have a STRONG chewer. Very few toys last around our mutt but this lasted a couple years with frequesnt use. Yes it's hard to clean but at that point, wear and tear required a new one anyways. We are on our second and it remains a favorite in our house.
+
+product/productId: B003A23HZK
+review/userId: AXYOVYG27O75G
+review/profileName: Ashley Adams
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1292198400
+review/summary: best toy ever!
+review/text: I have a siberian husky that has destoyed EVERY toy until this.  It only took her about 10 seconds to figure it out...but it keeps her busy for about an hour at a time.
+
+product/productId: B003A23HZK
+review/userId: A3E5J75J2Q5NWM
+review/profileName: Deb.Bear
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1327104000
+review/summary: Sturdiest Food Dispensing Dog Toy We've Tried
+review/text: We have a 9 month old lab mix puppy who is extremely high energy-- even with 4 miles or more worth of walks per day he has lots of excess energy.  We've taken to serving his meals solely out of food-dispensing toys as it keeps him entertained and makes him think. This is the 6th food dispensing toy we've tried and it's the one that has lasted the longest and seems to take him the longest amount of time to get all of the kibble out of it, though he can still empty it pretty fast!<br />We've tried <a href="http://www.amazon.com/gp/product/B0002DK26M">Omega Paw Tricky Treat Ball, Large</a> and <a href="http://www.amazon.com/gp/product/B005TRBTAY">Omega Tricky Treat Ball Soccer</a> both of which worked pretty well but broke after prolonged use.  The <a href="http://www.amazon.com/gp/product/B003ALMW0M">Kong Wobbler Dog Toy</a> and <a href="http://www.amazon.com/gp/product/B001GE8OV6">Busy Buddy Twist n' Treat LARGE</a> were chewed apart pretty quickly and were useless after that. And our dog figured out that if he just tipped the <a href="http://www.amazon.com/gp/product/B000KV7ZGQ">Premier Busy Buddy Tug-A-Jug, Medium/Large</a> with the opening down he could dump most of the kibble out without doing any work and consequently he would be able to get all the kibble out within seconds.<br />With the large Buster Food Cube, though, there really isn't any way he can get the kibble out without actually rolling it around, and it has lasted quite a while.  It's made out of hard plastic so it can be pretty loud when used on a hard surface. We've mainly been having him use it outside on the grass though, so it's quieter and it's less likely that he'll break it by dropping it as opposed to if he used it on a hard surface.  When he wants a refill, though, he'll drop it on the metal door sill, which he does quite a lot, and it has still held up fine.  When you receive the cube it says on the package that you should get a size that will be too big to fit in your dog's mouth, probably to avoid the toy from breaking because of being dropped or chewed on.  The first couple of days our dog used it he wasn't able to fit it in his mouth, however, after that he managed to figure out how to pick it up (maybe he stretched out his jaw muscles? Ha ha).  We bought the large size cube and he is a 50 or 55 lb lab mix so bigger dogs will probably be able to fit it in their mouths too, or maybe our dog just has a really big mouth.  So far it hasn't been a problem at all, though, other than that it's pretty loud when he drops it from his mouth. If we see him chewing on it when there's nothing in it we just put it away until the next meal time, but the hard plastic seems like it isn't very appealing to chew on, so that isn't much of a problem.  Wiping off the cube is also easy, as opposed to with other treat balls that have ridges where dirt and such can get stuck.<br />When you pour the kibble or treats in the cube you kind of have to cover the hole with your hand and shake the cube a little so that the food will go down into the cube and not just sit by the entrance and fall out immediately.<br />On a final note, this type of toy might not be for all dogs-- we tried to get our other dog, who is 8 years old, to use it, and she couldn't figure it out even though we kept showing her how to use it-- she would just eat the food that came out when I rolled it around and then stare at me expectantly, waiting for me to make more food come out of it.  We already knew the puppy seemed to be more intelligent than the 8 year old dog though, even though we still love our clueless doggy!
+
+product/productId: B003A23HZK
+review/userId: A2G4AZ8DEZZTQE
+review/profileName: Kim Wishing I was in the South
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1300492800
+review/summary: Great Toy!
+review/text: I had a larger one for my 80lbs. Aussie and he loved it for 11 years until we had to say good bye to him! Now a gal at work got a new puppy and I thought it would be great for her pup to have one! It last forever, made out of hard plastic nd they have to work for their treats. We put kernels of dog food in it, they roll it around it it dispenses the kernels. Keeps them busy! Would highly recommend! Cheaper than getting it at the pet store too!
+
+product/productId: B003A23HZK
+review/userId: A15YB1I848GTZ4
+review/profileName: ShoppinginMD
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1298419200
+review/summary: Good idea, but didn't work for us
+review/text: This is a great idea, however the center came loose and my dog got his lower jaw stuck in it and had to go to the vet to have it removed,so for future and current owners the mini centers seemed to have a problem with coming loose easily and with treats inside dogs will quickly get stuck even while supervised(in less than 30 seconds while I tried to get it from him he was stuck)<br /><br />Before all of the commotion though he seemed to love it. He also was not hurt but had to be sedated to have it removed. I did follow the manufacturer's directions I guess it just wasn't in there tight enough which could have been my fault or a manufacturing error with the cube's locking mechanism, the vet was not sure, this is not so much a negative review on the cube but more a warning to other owners to make sure it's in tightly and don't leave your pup unsupervised with it.
+
+product/productId: B003A23HZK
+review/userId: A11QL0IEF4NOUT
+review/profileName: the one and only me
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1262131200
+review/summary: Durable construction
+review/text: The animals enjoyed this item (husky & basset hounds).  It is made of durable construction.  The largest animal that uses it doesn't have any difficulty and is 75lb.
+
+product/productId: B003A23HZK
+review/userId: AH6CLLCRZZATY
+review/profileName: R. Sick
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1220313600
+review/summary: Entertainment for puppy!
+review/text: I got this for our Cairn terrier puppy, as they are smart and good at getting into things.  He LOVES this toy!  His puppy kibble was a bit small for the opening, but we got some bigger food, and he's got to knock, scoot, and tumble the toy in order for the food to come out.  While it's noisy on tile, the pup is entertained for 20 min at least and we know where he is!  So the pup gets excercise, gets to "figure out" the cube, and gets a treat all at once.
+
+product/productId: B003A23HZK
+review/userId: AFRL0WQJ2GX8L
+review/profileName: Lucas
+review/helpfulness: 6/7
+review/score: 1.0
+review/time: 1323388800
+review/summary: Very Fragile dog toy for big dogs
+review/text: My dog did not have a time to play with this toy. He just thrown the cube to the wall and then, the cube was split into 2 pieces, broken!<br />Do not recommend it for big dogs (Labs).
+
+product/productId: B003A23HZK
+review/userId: A1Z27IP1Y7ADIK
+review/profileName: justanothermom
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1235433600
+review/summary: hard plastic toy - a few years later
+review/text: We bought this for our 4 month old terrier (15lb). The thing I like best about this toy is that it fits his small puppy dog food, so I can just insert his day-to-day food without worrying about his diet being affected. It is HARD plastic so it is not a chew toy for his teeth like some of the other puzzles, and on our hardwood floors it can make a bit of a racket causing me to wonder about the scratch factor on the floors (but, oh well we have a dog AND kids).  Our pup was scared of it for the first few weeks due to the noise it makes but now it is one of his favorite puzzle toys. It has two settings: easy pour and somewhat easy pour.  Because of the hard plastic he really has to rely on the use of his front paws to get the food out rather than just his mouth (although he has mastered picking it up now.) It is a fun toy for him and a good thing to have around when he is restless and looking for trouble.<br /><br />Aug 2012 Update: Our terrier is now 25lb and he still loves this toy. It remains a good size for him even though he grew much bigger than we expected. He gets super excited whenever we pull it out.  He is fearful of thunderstorms and we use it as a positive reinforcement tool when the skies grey and the wind picks up.  He gets distracted by the puzzle ball and forgets all about the weather.  It is too big (or maybe it is too loud and too hard in texture) for our 8lb dog - she will not play with it even though she wants the food inside.
+
+product/productId: B003A23HZK
+review/userId: A2IY80G3S499PJ
+review/profileName: Brian Mathason
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1310083200
+review/summary: Must have dog toy!
+review/text: This is MY favorite dog toy because it keeps my dog entertained for at least 20-30 minutes at a time.  It holds more food than many other treat-dispensing toys and takes a long time to dispense all the treats.  The large size means that the toy doesn't get into small spaces, which would only frustrate the dog and require assistance to get out.  The square shape takes more concentration and skill which smarter dogs will enjoy.  The solid construction and rounded corners make this toy virtually indestructible, even for heavy chewers.
+
+product/productId: B003A23HZK
+review/userId: A2G1LRD120SJPC
+review/profileName: K. Hill
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1305590400
+review/summary: Thought It Was Too Heavy - I Was Wrong!
+review/text: When this first arrived, I thought for sure it was too heavy and probably too difficult for my little dogs, but WOW I was so wrong.  They chase this thing, playing soccer with it, all over the house, only stopping on occasion to check for treats.  VERY VERY CUTE to watch.<br /><br />I found it rather easy to open, so don't have the problem that some do with the stopper.  I am amazed at how happy I am with this silly thing.  Paws UP!!
+
+product/productId: B003A23HZK
+review/userId: A3D5A7W6HIMBHV
+review/profileName: Helvetebrann
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309478400
+review/summary: Great for my puppy
+review/text: Abbey, our new puppy, is obviously intelligent.  Regular toys just weren't quite cutting it for her.  And she didn't care for Kongs because they were too easy for her to figure out.  This toy, however, has been incredibly effective for her.  She figured out how to work to get the food out extremely quickly.  However, using the hardest setting, she has to work for half of her breakfast and half of her dinner throughout the day.<br /><br />I also have had no problem pulling out the center piece.  It's really easy.  (I'm not sure why other people have difficulties with that...it's really simple.)<br /><br />Best purchase.<br /><br />*Update: This is Abbey's favorite toy.  It keeps her entertained for about 30 minutes.  Our older chihuahua even loves it and follows behind to pick up any loose pieces that Abbey misses.  This beats out the Kong any day of the week.
+
+product/productId: B003A23HZK
+review/userId: AZ50F6MW6LWOD
+review/profileName: Jokerfan
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1296950400
+review/summary: Disappointed
+review/text: I was disappointed with the cube. It is almost impossible to open. Finally I used the handle of a pair of pliers, after seeing a video on youtube, and I tore up the handle of the pliers opening it, it was that hard. The kibble either doesn't come out, and my dog gets frustrated and barks, or it comes out 5 pieces at once, and I have to refill it all the time. It also slides along the ground more often than it rolls over to dispense kibble. Maybe that's because my dog is too small to roll it? He's 6 pounds.<br /><br />One more thing, the instructions both on the product and Buster Cube's website refer to "min" and "max" settings. There is no such thing on the cube, only "lock" and "unlock" settings.<br /><br />My dog loves it though, so it gets 3 stars.
+
+product/productId: B003A23HZK
+review/userId: A3ISYEH714U3ZV
+review/profileName: Kim_in_California
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1294790400
+review/summary: Very noisy and gets stuck in corners
+review/text: We lost a different kibble ball that our 16-pound Havanese loved: <a href="http://www.amazon.com/gp/product/B0002DK26M">Omega Paw Tricky Treat Ball, Large</a> (the small size). I thought I'd try a different kibble ball as a replacement. The Buster Mini Cube is made of hard plastic and makes a lot of noise when the dog rolls it onto the linoleum kitchen floor and into chair legs, furniture, etc. It's also a cube (true to its name) and gets stuck in corners. Maybe it's because my dog first learned how to get treats out of the Omega Treat Ball, which is round and made of softer material, but he definitely didn't have as much fun with the Buster Mini Cube. He also liked to carry the Omega Treat Ball around in his mouth, and the Buster Mini Cube is too large and square for him to do so. I just purchased another Omega Treat Ball and expect it will remain his favorite kibble ball.
+
+product/productId: B003A23HZK
+review/userId: AZ4IFJ01WKBTB
+review/profileName: K B
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1291680000
+review/summary: hard to load, good but there are other products that are better
+review/text: we love the idea of draining a dog's energy, stimulating their mind, giving them a fun challenge, and feeding them all in one.  we have bought a lot of the products that do just that.  the buster cube was one of the first products we bought.  it does what it says.  the only downside is loading this thing.  it takes time and is kind of a pain.  we have since moved on to the <a href="http://www.amazon.com/gp/product/B003ALMW0M">Kong Wobbler Dog Toy</a>, <a href="http://www.amazon.com/gp/product/B003ARUKTG">OurPets DT-10504 Smarter Toys IQ Treat Ball, 5 Inches</a>, and <a href="http://www.amazon.com/gp/product/B000KV7ZGQ">Premier Busy Buddy Tug-A-Jug, Medium/Large</a>.  all of which are easier to load and accomplish the same goal.
+
+product/productId: B003A23HZK
+review/userId: A1IKLTRDBBO84F
+review/profileName: Lisa A. Jones
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1279670400
+review/summary: Cube material too hard
+review/text: This cube is the right shape, and dispenses treats wonderfully.  However, my wrestless herding dog, who is very smart, does not enjoy the difficulty in getting the hard plastic cube to "turn over" and give her a treat.  I'm disappointed because I hoped this toy would help some of her boredom during the day while I work. If the plastic were softer or there were more outlets that dispense treats she might go for it.  Otherwise I don't recommend this for at least the Sheltie breed.
+
+product/productId: B003A23HZK
+review/userId: A1DXT87IHZ4VHP
+review/profileName: Sinister Stairs
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1277424000
+review/summary: Our favorite puppy toy, and arguably second-best investment we made!
+review/text: We absolutely love the Buster Cube, as does our dog Jack!  This is easily our favorite toy of his, and arguably the second best item we've bought for him (his crate being #1).<br /><br />When we first got the Buster Cube, it distracted him for 30 minutes at a time.  Not only does it challenge his mind, but it forces him to eat slower so he digests better.  We pretty much put his entire dinner in there now!<br /><br />He loves the cube as well, and views it as a treat now, in and of itself!  (i.e. He'll "beg" for it, and even roll it around when there's no treats in it.)<br /><br />Since then he's gotten much faster at getting the food out, so we have been slowly dialing up the difficulty.  (There is a dial that increases/decreases the food reservoir.)<br /><br />Some tips:  It's really noisy if your dog plays with it on tiling, and it slides around more than it rolls.  So if the noise bothers you or if you want to make it easier for your dog, have hir play with it on carpeting.<br /><br />Also, it helps to play with it in an area where the cube won't accidentally roll underneath dressers or down the stairs or get wedged into a corner.  (Although, through these kinds of mistakes, Jack has figured out how to avoid them.)<br /><br />The most important thing, as mentioned in the included instructions, is to make make sure your dog quickly gets food out of it and realizes there's more to be had. Even the very first time we tried the Buster Cube, Jack was completely focused and involved. :)<br /><br />Update:<br /><br />We've had this over a month now, and now the full-size Buster Cube is our favorite -- our dog outgrew the mini as his meals got bigger and it took longer and longer for us to pack them into the mini.<br /><br />If we ever got another puppy, I'd also use the small-sized Cube in between the mini and the large.  The Cubes are awesome, but let them grow with your pet. :)
+
+product/productId: B003A23HZK
+review/userId: A1YZ41A0YPE2BB
+review/profileName: G. McKenzie
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252627200
+review/summary: Keeps Puppy Busy
+review/text: Busy puppies are less apt to get in trouble.  I have a 3 month old lab puppy who will do anything for a treat.  Sometime I just need him to be busy so I can finish the dishes or clean up.  I put some kibble in his cube and off he goes.  He paws at it and pushes it with his nose then looks to see if anything comes out.  Perfect little distraction until I'm ready to play with him again!
+
+product/productId: B003A23HZK
+review/userId: A7HUOSNQCWXIB
+review/profileName: S. Storm
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1242259200
+review/summary: Best thing ever!
+review/text: ...or close to it! Our Cairn terrier looks forward to pushing her mini cube all over the house in anticipation of a bit of kibble tumbling out. When it's empty, she lets us know with "yip!" Unlike the rest of her toys, this one has been indestructible so far.
+
+product/productId: B003A23HZK
+review/userId: A22M8VJY8PKCA3
+review/profileName: J. Sanders "catfarmer"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1228780800
+review/summary: Great toy but poor design
+review/text: I got this toy for my puppy and he LOVES it. I agree with other reviewers that it is a 'must have' toy. However, the inner cylinder pops out occasionally on our tile floor It works better for him outdoors. It is also a bit difficult to load and adjust. I am very satisfied, overall, with the product because it keeps him entertained.
+
+product/productId: B003A23HZK
+review/userId: A27EGU0R3EIO73
+review/profileName: KMVH
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1206403200
+review/summary: Great for active dogs
+review/text: I got this cube after my vet recommended it.  I have a border collie Alaskan husky puppy.  Both breeds are high energy, so she is very active. My vet said that this toy will help with mental stimulation.  My puppy loves it.  The minute she sees it in our hands she gets all excited.  When we put food in it and shake it she goes nuts.  One thing that is really nice about this is that you can make it harder.  I think this is a great toy, and my puppy uses almost every single day.
+
+product/productId: B003A23HZK
+review/userId: A2TUMS3J8MMCHI
+review/profileName: springbrookgoldenlover
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1324166400
+review/summary: TOY CAUSED TRIP TO VET!!!
+review/text: MY GOLDEN RETRIEVER MANAGED TO CHEW THE CENTER, REMOVEABLE PIECE OFF AND GOT A PART OF IT STUCK IN HIS MOUTH.<br />DO NOT BUY THIS PRODUCT.  GET THE ATOMIC "MOLECULE BALL" INSTEAD.  ITS SOFTER AND MORE PLIABLE AND NOT NEARLY<br />AS DANGEROUS.
+
+product/productId: B003A23HZK
+review/userId: AGYHD93TH5UP2
+review/profileName: amazon shopper
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1303084800
+review/summary: Terrible "toy"
+review/text: I'm sorry I bought this impossible toy.  The instructions on the box do not match the product.  In order to open it, you are supposed to insert your finger into hard plastic and turn.  I had to put on a glove as it scratched me so much.  It's very difficult to open and to close.  The instructions include difficulty settings and there are none on the ball.  The dog would have to bat the ball like a cat to get it to work.  Waste of money!
+
+product/productId: B003A23HZK
+review/userId: A3CW94YYFXEBSI
+review/profileName: C. Jones "bascelflt"
+review/helpfulness: 8/11
+review/score: 1.0
+review/time: 1306195200
+review/summary: BLOOD EVERYWHERE!  BEWARE - NOT SAFE!!!!!
+review/text: I was in the same room with my schnauzer when he suddenly went nuts and there was blood everywhere!  the middle insert came out and he got his teeth caught in the cube trying to get to the food.  NOT SAFE!  he was hitting everything in his path and it took a few minutes to calm him enough to lower his head and get his teeth out of it.  We won't use THAT again EVER<br /><br />It is also VERY difficult to put the food into, you need good finger dexterity to accomplish that feat.  This was truly a waste of money.<br /><br />This deserves a ZERO star.
+
+product/productId: B003A23HZK
+review/userId: A2O20KV04D8IX
+review/profileName: Erica
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1345161600
+review/summary: Durable but not for hard floors!
+review/text: I have a dog who can destroy almost anything he touches (everything but his kong and tire) and even he hasn't put a dent in this one a year later. When we had carpet I loved it, though I agree that the food dust makes a mess when it rolls around and gets everywhere. Now we have hardwood floors and it is SO loud I can't stand it. It seems like he always gets it out when I'm trying to talk on the phone or watch tv! It is awesome and keeps him busy, however, so we love it.
+
+product/productId: B003A23HZK
+review/userId: A33L700IYXDWWS
+review/profileName: .mel.
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1343692800
+review/summary: Way better things out there
+review/text: My dog loves interactive toys and it seems its the only way I can get her to actually eat her meals.  I bought this thing (mini size) with high hopes but once I got it in its done nothing but disappoint.  First of all I think I may have a defective product since there is absolutely no way I can get the middle cylinder out.  I looked this up online and it seems numerous others are having this problem.  Therefore strike 1: can't clean the thing which I can see getting gunky real fast.  Fine I can't remove the cylinder, maybe I'll just throw some small treats in there and see how she likes it.  Put it on the hardwood floor and BAM BAM BAM BAM it goes.  Try constantly  throwing a slightly heavy plastic object at your furniture, walls, and floor...my neighbors are going to freak!  Strike 2: SO LOUD.  Ok, maybe its because I can't take the cylinder out/defective but after five minutes of banging not a single treat has fell out and my dog is getting frustrated.  Fine its the human's turn...okay I'm shaking, I'm turning, I'm shaking, I'm turning, now I'm peeking through the hole and shaking and shaking and shaking....NOTHING.  Seriously?  I had to maneuver the cube (the thing is set at minimum difficulty) and could only get one of the treats out after doing some pretty delicate turns and rotations.  Hows my dog suppose to do that with her nose and mouth?  Strike 3: treat dispenser that doesn't dispense treats.  Maybe the thing keeping my cylinder from coming out is keeping treats from coming out as well.  Doesn't matter...I'm over it.
+
+product/productId: B003A23HZK
+review/userId: A3S73OIUJKMNS9
+review/profileName: Liz
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339632000
+review/summary: Gaming for Cats, too
+review/text: I purchased a small buster cube for one of my cats, who is an expert at quickly deciphering puzzle treat dispensers. The ones that merely require tipping or rolling a ball are too easy, and the Nina Ottoson puzzles are conquered in less than ten minutes. However, more than six months later, this cat probably spends an hour each day occupied by the Buster Cube, deftly rolling it over the rounded corners to shake out his breakfast.<br /><br />No other puzzle toy I've met can keep clever animals occupied for as long as the Buster Cube. My cat is definitely less anxious and restless since getting it. I just wish that they made a version that was easier to clean, and perhaps even chew-proof (I wouldn't leave the hard plastic unattended with a hard-chewing rottweiler, for example). Now that we're getting a new puppy, the Buster Cube is the first toy on my list.
+
+product/productId: B003A23HZK
+review/userId: A270XWP1VRQJ59
+review/profileName: willorun
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338854400
+review/summary: Great product
+review/text: I bought one of these for my Siberian husky house dog. She recovered from a serious injury and cannot romp and play with other dogs. This toy helps keep her entertained. It is tough and can take the abuse of a husky batting it around the house. It is challenging for her to get the treats out, and it can be set from easy to harder, so you can make it easy at first, till the dog gets the idea, and then make it harder so it is more challenging. I've had several other puzzle/food dispenser type toys for her and this is the best one, hands down.
+
+product/productId: B003A23HZK
+review/userId: A203OCQQ12MAVT
+review/profileName: HMMWV "God, Country, Corps"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1335312000
+review/summary: NOT good for big dogs, plug comes out too easily
+review/text: My smartphone accidentally ordered this item for me at 2:30 AM while I was asleep.  There was a reboot and software reload that night and I guess amazon was recommending this on my screen.  Anyhow I had it for 2 days while trying to find a post office that would accept it and take it back to amazon since *I* did not order it.<br /><br />Looking at the product, it has weaknesses.  I did not let my German Shepherd Dog play with the toy as she is pretty destructive.  The first problem I identified is that the plug that keeps the food inside and lets it dribble out at a slow rate does not secure itself well enough to prevent a clever dog from getting the plug "unplugged".  Basically the detent is not firm enough to hold the plug in place.<br /><br />It's also not sturdy enough for big dog roughhousing - thin wall brittle plastic construction, loose plug (which once removed will get chewed to pieces), and a small gap that will not let big dog food fall down the tube make it useless for big dogs and their oversize kibble.  The cube is pretty big (5-6") for small dogs with 1/4" kibble which is what it is really deisnged for.  My dog's 5/8" funky shaped kibble would never go down the chute and would piss off the dog.<br /><br />So too small for a large dog for which it is sized, and too big for a little dog which makes it wrong-sized except for the mid size (15-30) lb dogs which would probably have a good time playing with it provided the owners make sure the plug stays in place-it rotates out too easily.  Eventually the brittle plastic will crack - depending on the dog the crack may be sniffed out as an alternate route to the food supply, and depending on the teeth the crack may become large enough to get kibble out of.<br /><br />I had already bought the LARGE KONG <a href="http://www.amazon.com/gp/product/B003ALMW0M">Kong Wobbler Dog Toy</a> toy and took a knife to carve out the opening so large kibble would come out ok without fustrating the dog.  When the dog knows there is food inside they will become irate, and get into trouble trying to figure a way into the food.  Pretty soon the kong goes flying, hurled by an energetic dog fustrated with getting to the treat, which is what brought out the knife to open up the hole it falls from.  Dog and Kong are doing fine now that the food comes out ok.  I don't like the food chute on the cube design - as an engineer I feel it is flawed from the beginning.  I don't really like the kong either because it screws together the top and bottom halves.  Dogs seem to understand threaded connections after a few trys even without opposable thumbs.  A good grip and bite will unscrew a kong especially with a big mouthed dog, e.g. a german shepherd!
+
+product/productId: B003A23HZK
+review/userId: A2F3UYEROQXTSJ
+review/profileName: James Cummings
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1334966400
+review/summary: Great toy!..just needs a tweak.
+review/text: <span class="tiny"> Length:: 0:28 Mins<br /><br /></span>My lab/pit mix destroys most things. We've had this cube for a few weeks now and its still in great shape. It does, however have far too many openings inside for food to get out (if you're just using his dog food). So I taped off the bottom 1" hole and half of the side opening with duct tape. NOW it only releases a piece or 2 every so often.<br />He's rolling it all over the living room as I type this and couldn't be happier.
+
+product/productId: B003A23HZK
+review/userId: A20AMMXLG78K4I
+review/profileName: J. Hahn "J.Hahn"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1332979200
+review/summary: Don't use on hardwood floors
+review/text: Our corgi really loved this food toy/game.<br /><br />The only problem, we have hardwood floors and the toy was going to destroy our floors. So we're pretty bummed, but the dog won't be using this after just one day. Hardwood floors are too expensive to ruin for this toy. If you have wall to wall carpet or another type of flooring that a hard object won't damage it's great!
+
+product/productId: B003A23HZK
+review/userId: A2J45FFL1O12LL
+review/profileName: Bradley "Foady"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1332720000
+review/summary: Dog loves it.
+review/text: The only problem with the Food Cube is that it is slick on all sides.  My dog could not get it to roll on either the kitchen floor or carpet.  I fixed this by putting some friction tape on each side.  Now it keeps him busy for almost an hour at feeding time.<br />Best of all, it is too large to fit under our couch.
+
+product/productId: B003A23HZK
+review/userId: A22JEN2EZXCLLA
+review/profileName: norcal.girl21
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332028800
+review/summary: My "Other" Best Friend
+review/text: This is my rainy-day lifesaver!! I have an 85 pound Lab/Pit/Rhodesian Ridgeback mix. He is typically well behaved in the house, but once the rainy days start to kick in and we don't get to go to the local dog park he becomes a menace! So on rainy days we fill up his Buster Cube with his breakfast or dinner and let him go to town! It is loud and it is annoying, but it's better than having the house ripped to shreds. The Buster Cube is the only toy that will actually wear him out! We'll never be without one again!
+
+product/productId: B003A23HZK
+review/userId: A3HANR61OYNKQ
+review/profileName: Elizabeth Zimmerman
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1329350400
+review/summary: Could not withstand the wrath of my heavy chewer
+review/text: This was a great toy for my beagle, who immediately figured it out and nosed the cube all around the house while the kibble dribbled out.  Not so for my pit mix, who didn't have the patience for such antics. Instead she just tried to bite it in half.  It didn't take took long for her to be able to do just that.  Although I will say the buster cube has lasted longer than some similar interactive toys which took her seconds to destroy, it's now unusable like the rest.
+
+product/productId: B003A23HZK
+review/userId: A21PEB5NYNKHOQ
+review/profileName: Avid Reader
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326067200
+review/summary: A Stomach Saver  - and tons of fun!
+review/text: When we adopted our dog, she had a variety of medical problems, "intestinal turbulence" chief among them.  She was a competitive eater, wolfing down her food in seconds, which contributed to the problem.  This toy not only engaged her mentally and physically, it forced her to eat slowly, which has helped her digestion tremendously.  She is absolutely bonkers for it.  She spins in delighted circles whenever we pull it out.  She creates obstacle courses for herself while rolling it around, and leaves pieces of kibble behind to be rediscovered later once the cube is empty.  In other words, she has added her own layers to the game.  The best part is, if we feed her in her regular bowl now, she eats much more slowly, as the cube has taught her to take her time with her food.  This is a very, very durable toy - the first food puzzle toy she hasn't broken.  The only negative is that it is very loud, so don't use it in the same room where you're trying to watch television, or have a conversation, or think. :-)  I find it extremely fun to watch our dog play with the cube for the 20-40 minutes it takes for her to empty it, so I don't mind the noise.  Highly recommend.
+
+product/productId: B003A23HZK
+review/userId: AK0V9I5XJOS4J
+review/profileName: Jennifer S.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324252800
+review/summary: Dog toy? Sure, whatever. Pig toy? Heck yeah!
+review/text: I bought this for my indoor pet pig and so far he's loved it. It's great for the rooting instinct and insane drive for food, and keeps him pushing it around the room for at least an hour.<br />The little hole thingy comes out easily enough for me, but he hasn't managed to pull it out. Also very easy to clean.
+
+product/productId: B003A23HZK
+review/userId: A19XNWQ5IQY16K
+review/profileName: Soph
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1324080000
+review/summary: Center Lock Easily Falls Out
+review/text: THe center lock easily falls out and makes it's easy for the dog to chew it up.  The cube itself can be very noisy but that doesn't bother me and the dog loves it. I just wish my dog hadn't chewed up the center lock.  I only had the cube for a few weeks before it fell out and she chewed it.
+
+product/productId: B003A23HZK
+review/userId: A2RALM1QW6H7T7
+review/profileName: Nelson Urdaneta
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1322870400
+review/summary: A little scared at first, but now she loves it
+review/text: <span class="tiny"> Length:: 0:47 Mins<br /><br /></span>Great toy, a little noisy though.<br />Our 18 month beagle first get scared of this toy, she knew there were stuff in it but she just sniffed it, I had to kick it to let the treat out for her to enjoy them.<br /><br />After a while (a few months) I just saw her kicking the thing for her own.<br /><br />She sits there waiting for us to leave her toy with it, and once we let her, she doesn't stop until she gets the last treat off it.<br /><br />It would last for a couple of hours on the hard setting (the cap all the way to the locked position).<br /><br />I think it's a great toy, keeps our beagle active for a while, it makes a lot of noise banging to the furniture and walls, but we use it when we are not at home.<br /><br />The only thing I don't like about it, is that it's very hard to clean, harder if it gets wet.  Your dog won't care about it, but some neat folks might care.<br /><br />It's a keeper.
+
+product/productId: B003A23HZK
+review/userId: A1JTDDKNYKJ9NP
+review/profileName: Wendy Young "Cajun Mommy"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1313625600
+review/summary: Not impressed
+review/text: My 8 month old labradoodle prefers the one that is round (another brand). The square design on this one makes him scoot it around which seems to lose his interest rather quickly. Plus it's rather noisy.
+
+product/productId: B003A23HZK
+review/userId: A23NS4BVECATTK
+review/profileName: cdub1979
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1312329600
+review/summary: fun for him... not for me!
+review/text: my 14 week old puppy LOVES the buster cube. I ordered the large one and had NO problem with the instructions and also found the "difficult setting" too easy for my shepherd/jindo mix. He WOULD play for hours im sure if i didnt have hardwood floors and consideration for the neighbor below me ... and my own sanity.  Not sure why its made of such hard plastic but its like a car wreck in your home. I can handle about 5 minutes of it and then a have to put it away much to the dismay of my very entertained pup.  This is a great idea but maybe best for people with carpeting or possibly just an 'outside toy'.
+
+product/productId: B003A23HZK
+review/userId: A34GKXFIUNTFWP
+review/profileName: SuzieQ
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311206400
+review/summary: Dog's Best Friend!
+review/text: My 18-pound Bichon absolutely loves this toy!  Even though it says it is for large dogs, he rolls it around the house working to get the treats out and even picks it up with his teeth and carries it to the room where he wants it.  I really enjoy watching him play with it, but I also like to give it to him when I can't be home.  It keeps him occupied for hours on end.  Much easier and less expensive than getting a second dog to keep him company!  I would rate it higher than five stars if I could!
+
+product/productId: B003A23HZK
+review/userId: A1ATRHJL7FWOHG
+review/profileName: Louie &amp; Colette
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307923200
+review/summary: So much fun!
+review/text: Your dog 50 ibs. or under will spend as long as it takes to get all the treats out and never lose focus! These are such fun for any breed!
+
+product/productId: B003A23HZK
+review/userId: A38I7Y6CMYOLHW
+review/profileName: SteelCityRock
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1303603200
+review/summary: good but noisy, which my dog likes
+review/text: This took a little longer for my dog to use because it doesn't roll as easily as his other treat toys.  However, my dog enjoys making a lot of noise when playing so this is good for that.  He has never been able to fully empty this ... maybe because I finally take it away because he gets so worked up playing with it and really starts batting it around.  I usually switch him out to a quiet rubber toy after a while but this toy is still great to get out his fixation with making noise.
+
+product/productId: B003A23HZK
+review/userId: A231KNAD4J7I0H
+review/profileName: bookworm1976
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300406400
+review/summary: Buster cubes
+review/text: Great product. I fill the cubes with liver treats and my two pugs absolutely love them. They can play with the cubes for hours and they're usually picky with their toys.
+
+product/productId: B003A23HZK
+review/userId: AW7TF999PGWDP
+review/profileName: Diane
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299283200
+review/summary: My dog loves this toy!
+review/text: Keeps my frenchie puppy occupied! I purchased the small size for him. The more he plays with it the more he likes it.
+
+product/productId: B003A23HZK
+review/userId: A3HF7ZN9D3ASDV
+review/profileName: Spike
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1299024000
+review/summary: Solid product, entertaining and effective.
+review/text: My dog is rather smart, so I've found it a challenge to keep him mentally occupied for longer than 15 minutes with any type of toys - Busy Buddy, frozen Kongs, anything.  The mini Buster Cube has finally done the trick.  I just put his normal serving of food (1/2 cup) in here and set it to the most difficult setting, and he's busy for about half an hour, which is wonderful!<br />The cube is easy to fill and use, easy to clean and doesn't seem prone to breaking, so I would highly recommend it.
+
+product/productId: B003A23HZK
+review/userId: A1TGWHOPZOMPN5
+review/profileName: DB
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295049600
+review/summary: Great food toy!
+review/text: My terrier chases it all around the house. He finally gets tired - a good thing! The cap can be adjusted for the size of the treats, and how fast you want your dog to get the treats. If at the "easiest" setting, my terrier finds a way to remove the cap. For aggressive hunters I suggest keeping the cap at the tightest setting.
+
+product/productId: B003A23HZK
+review/userId: A1H405FWEHJZG8
+review/profileName: Miss K "Miss K"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294963200
+review/summary: Great Toy!
+review/text: My dog is an only "child," so keeping her occupied is challenging.  She loves this food-filled cube for both entertainment and for satisfying her hunger when she wants a snack.
+
+product/productId: B003A23HZK
+review/userId: A1LYZDJ33YZ3PI
+review/profileName: Stacy in Texas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291852800
+review/summary: Great Toy/Feeder
+review/text: Our dog loves it! She is a Toy Manchester Terrier and this is a great idea. The middle was hard to get out the first time. I couldn't do it and just filled it a little at a time. My husband was able to get it out and ever since he did it the first time it comes apart very easily. And it is easier to fill that way.
+
+product/productId: B003A23HZK
+review/userId: AXWTOXXBXRRNX
+review/profileName: Linda L. O'Rear
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291766400
+review/summary: Great puppy entertainment
+review/text: This is one of the best puppy entertainment toys that I have ever bought.  I have a 7 lb. mini Dachshund who loves this toy.  She will run & get it & drop it at my feet & sit looking at me until I put the treats in it.  She will then play with it for a long time even after the treats are gone. The treats I use in it are Old Mother Hubbard "Bitz".  They are the perfect size for the mini cube.
+
+product/productId: B003A23HZK
+review/userId: A5LM8VZ7MMPUR
+review/profileName: Sugarsmom
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1288483200
+review/summary: Fun but LOUD
+review/text: My dog LOVES this toy (Weimaraner/Rottweiler mix). She has not chewed it up as she does with so many of her toys. The only disadvantage is that it is LOUD. I have hardwood floors and she sounds like a one-woman wrecking crew!
+
+product/productId: B003A23HZK
+review/userId: AJV2QY96IVPVM
+review/profileName: SuperFids
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1262908800
+review/summary: Challenging & fun but limited use for non-kibble feeders
+review/text: Must-have product for dogs that eat kibble.<br /><br />PROS:<br /><br />  * Good quality; solid construction; good quality plastic; smooth edges<br /><br />  * Nice-looking/ attractive design<br /><br />  * Challenging!  Square shape requires dog to work hard in order to earn treats<br /><br />  * Adjustable difficulty level - you may turn the inner cylinder to adjust "flow" of treats<br /><br />CONS:<br /><br />  * Plastic is hard and *noisy*. Apartment dwellers may have downstairs neighbors complain.<br /><br />  * Hard to clean. As others mentioned, the middle cylinder is virtually impossible to remove.<br /><br />  * Limited use.  It's pretty much designed for kibble.  Odd-shaped treats get stuck at the bottom.<br /><br />IMO this toy is GREAT for folks who feed kibble since it provides a challenging game that will keep dogs occupied.<br /><br />Since I feed my dog a raw diet I fill the cube with irregularly shaped food items (dehydrated beef/ liver/ chicken, jerky, etc.).  Unfortunately these don't fare well in the Buster Cube.  A better option is the Tug-a-Jug with the rope totally removed.<br /><br />I like the Buster Cube but can only give it 3 stars based on the size limitation of stuffable items.  Having to cut treats into small pieces so they "flow" through the toy is frustrating and time-consuming.
+

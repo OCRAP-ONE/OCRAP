@@ -1,0 +1,1143 @@
+product/productId: B000ZH04L8
+review/userId: A1RWIGVJ023XLK
+review/profileName: Beryl Stafford "Annie"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1233792000
+review/summary: Simply Amazing!
+review/text: Bobo's cinnamon raison bar rocks I think I may be addicted. I have one at least three times a week.
+
+product/productId: B007BPURTG
+review/userId: A1LW0M07GGZ4RE
+review/profileName: Brittany Campbell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Stellar customer service & amazing cookies!
+review/text: Cookies from Home is a great company because of their amazing customer service and their amazing, delicious gluten free cookies! I sent these cookies as a gift and my friend could not believe all the cookies I sent were gluten free! I recommend Cookies from Home for any occasion, or if you just want to send something to yourself. For me, as someone with celiac disease, I know I will be ordering a lot more from Cookies from Home in the future.<br />Highly recommend this company and their baked goods :)
+
+product/productId: B007JRYQ4I
+review/userId: A3IAOYHHON03ST
+review/profileName: plantas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347062400
+review/summary: Good israeli couscous
+review/text: The couscous was very good.  Easy to follow directions on the container, and it turned out well.  The price is low too, which is a bonus.
+
+product/productId: B000HQMNC0
+review/userId: A2KJM72KYED2GG
+review/profileName: best friend "ambassador"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1230336000
+review/summary: had better and meatier vienna sausages
+review/text: not good right out of the can like some other brands, and not as dense as some others ['meatiness']--but throw them in a stew or sauce of some kind and when heated are pretty good. all comes down to price and for the price I can't complain.
+
+product/productId: B001I8BOJO
+review/userId: A2GV05OU99A9TL
+review/profileName: baba
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342224000
+review/summary: MY breakfast coffee
+review/text: The only detriment to this truly delightful cup of joe is that the the price goes up<br />everytime  that I order. This just takes a tiny piece of flavor from my already<br />awakened and revived aroma/taste/reincarnated sensations in my mouth,gums,throat,gullet and stomach. Folgers Breakfast blend replenishes my brain<br />waves in some magical way!
+
+product/productId: B001EQ5SNS
+review/userId: A1CRT2UI0YIOQN
+review/profileName: A Customer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1312502400
+review/summary: We've Tried Them All
+review/text: We've tried all of the YummyEarth Organic Lollipop flavors and our whole family loves the Watermelon flavor the best. They're delicious!
+
+product/productId: B001EQ5SNS
+review/userId: ATIAD2WL24IPS
+review/profileName: Laura B
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1211328000
+review/summary: They really are yummy!
+review/text: I love these lollipops!  The watermelon and pomegranate are my favorites.  Everyone I share them with loves them and usually winds up ordering their own bags.
+
+product/productId: B0014JW2NY
+review/userId: A2I3TKKHF6INI6
+review/profileName: Teddy Bird
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1304121600
+review/summary: Nothing to really object about.
+review/text: I bought these before picking up my 2 yr old from daycare.  He is used to having a snack in the car on the way home before naptime.  I usually bring crackers or a banana.  The boy really enjoyed these crackers.<br /><br />My own experience with these crackers is different, sadly.  The first bite was lovely.  But later bites were sadly lacking.  These crackers are like a lesser Cheez It.  There is a little bit (not enough) of cheese flavor, but the unique pretzel energy is lost.  It's best not to combine the modest pretzel with flashier snacks because it can't stand up.  It just winds up giving you a watered-down version of The Other Thing, in this case a Cheez It.<br /><br />I would say, stick with Cheez Its, OR, pretzels, but combining them  minimizes them both.
+
+product/productId: B0014JW2NY
+review/userId: AUCOL2XUE1IX7
+review/profileName: Joshua P. OConner "Josh O'Conner"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1292889600
+review/summary: Well-balanced in flavor and texture
+review/text: I received the FlipSide Cheddar Pretzel Crackers in a care package and was initially a bit skeptical about the concept being afraid that either taste might be over-powering.  Although the idea is a bit strange, Town House managed to make an interesting cracker with a unique flavor and texture.  The cheddar and pretzel flavor is well-balanced and the texture falls somewhere between a pretzel and a cracker.  The cheddar flavor is somewhat subdued and is more of a sharp cheddar flavor.<br /><br />The cracker stands well on its own and would make an excellent snack in and of itself.  The Cheddar/Pretzel mix would also make the cracker excellent with dips like smoked fish.
+
+product/productId: B003XEHRCE
+review/userId: A3CJZ7JTVZWFTA
+review/profileName: Dana C. Grumbine "roosters pb"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327017600
+review/summary: best hot sauce!
+review/text: I got a yummy product and great service at a great price.  Couldn't be more pleased, except, there is even a bonus...  the company donates money for wildlife conservation with each purchase! I will re order!
+
+product/productId: B001PRQMTK
+review/userId: A1TCTWOC3FZ7OO
+review/profileName: Carole Cilento
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328140800
+review/summary: best snack cakes ever!!!!!!
+review/text: Eating these almost 50 years now. Have tried many other brands and none compare. Really worth the time and effort to find them. I might not have moved off the east coast if I had known how hard these are to get in this region.
+
+product/productId: B001PRQMTK
+review/userId: A678LT734OMS0
+review/profileName: Valinda J. Miller "Lost without Books!!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338768000
+review/summary: They don't sell them here, but I need them badly!!
+review/text: I have always loved these cup cakes and so glad I can have them delivered to my stomach.  Boy, can't get enough of these!!!<br /><a href="http://www.amazon.com/gp/product/B003TLMVVI">Black Kindle - African American Books on the Kindle Blog</a>
+
+product/productId: B001PRQMTK
+review/userId: A3UDWG8OAP02EV
+review/profileName: J. Abrahams "Jaji"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315699200
+review/summary: Best Cakes Ever!!!
+review/text: I lived in Delaware and this is the only cake I like.  They don't sell them in Florida....PLEASE distribute to Florida!!! ;)
+
+product/productId: B001PRQMTK
+review/userId: A2UVYX5O1OPHK3
+review/profileName: Alexander Alex
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263600000
+review/summary: ALEX
+review/text: I've had these ever since I was a kid. They have never disappointed me. Deep rich chocolate topping with a medium moist chocolate sponge cake. Superb. Thier bluberry pies are equally as tasty.
+
+product/productId: B0015THQ1G
+review/userId: AKG7XH2B2A7AP
+review/profileName: TJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328227200
+review/summary: YUM
+review/text: one of my favorite flavors of bubbalicious, it used to be called twisted tornado, now called fruit twist either way i can't stop myself from eating its so flavorful =)
+
+product/productId: B0003290ME
+review/userId: A10D9DIUVFID2T
+review/profileName: A. Gordon "LiL' Miss Bargain Hunter"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1188259200
+review/summary: Best Sauce Ever!
+review/text: I swear this has to be the best barbeque sauce in the world. I eat it on everything, if u havent tried it go get it. I'd recommend u try the Honey Barbeque Sauce first that's my favorite. Right now im cooking some nice thick spare ribs and they should be done any minute now....
+
+product/productId: B0003290ME
+review/userId: A82G34PJ0HIXL
+review/profileName: Marilyn Mercury
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1259971200
+review/summary: Mmmmmmm
+review/text: I love this sauce. It tastes great. I got it with the Original and I like this one more. The Original has a little more spice, and I'm not a fan of pepper. But this one has a sweeter taste. Great for ribs. One of the best, or the best, BBQ sauces out there.
+
+product/productId: B0003290ME
+review/userId: A3IBAPZD6FI4DL
+review/profileName: e.g.
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1216771200
+review/summary: Fantastic BBQ Sauce
+review/text: I agree with what other reviewers have said.  This is probably my favorite barbecue sauce.  The Sweet Baby Ray's original sauce is good too but the Honey Barbecue flavor is something special.  In addition to the sweetness from the honey, there is a detectable molasses flavor which I really like.  I believe I would have a hard time making a better sauce from scratch.
+
+product/productId: B0003290ME
+review/userId: A2O4N9KL4G7FEP
+review/profileName: Megan
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1177286400
+review/summary: This sauce IS the boss!!
+review/text: Best BBQ Sauce out there.  Pick some up today!
+
+product/productId: B0003290ME
+review/userId: A277SZS39YTIMO
+review/profileName: C. Irsik
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: The best around
+review/text: Sweet Baby Ray's has got some of the best bottled BBQ sauces around. We have tried every flavor they make and can't really pick a favorite... I recommend trying this at your next BBQ or for pulled pork. However I would not buy it from amazon at this price. You can pick it up for 4 dollars less and no shipping at kroger, king soopers & city market... They just recently had their 10 for 10 sale and SBR's was one of the products for sale. We stocked up.
+
+product/productId: B0003290ME
+review/userId: A36WUZ5TOXGYU7
+review/profileName: C. Luznar
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1317513600
+review/summary: Excellent BBQ Sauce
+review/text: There is no doubt this sauce is excellent.  Only home-made sauces might beat it.  This is excellent on ribs, chicken, steaks anything.
+
+product/productId: B0003290ME
+review/userId: A1BVCH82W0M2W2
+review/profileName: Paul Tognetti "The real world is so much more...
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1315785600
+review/summary: Makes for some mighty fine eatin'!
+review/text: I don't know about you but it seems that is is becoming more and more expensive for my wife and I to eat out these days.  Here in Rhode Island you are looking at around $13.00 or $14.00 for a half a rack of ribs at national chains like Texas Roadhouse or at a local institution like Wes' Rib House.  Since my wife and I are not made of money we only go to places like these on special occasions or during a night out with friends.  Most of the time we choose to cook at home on our Weber grill.  If the menu calls for chicken or pork we always brush the meat with our favorite store bought sauce "Sweet Baby Ray's Honey Barbecue Sauce".  Frankly, we find that the meat turns out every bit as tender and flavorful at it does at a restaurant for about 1/4 to 1/3 the price.<br /><br />Since I am not particularly fond of hickory smoke flavor we never barbequed at home very much.  Years ago hickory smoke barbecue sauce was just about the only variety available at your local supermarket.  As I recall that all began to change with the introduction of the KC Masterpiece line of sauces in the mid 1980's.  Suddenly, exciting new flavors were bursting onto the scene.  I first became familiar with honey-flavored Bar-B-Que at a popular rib house in Montreal called Bar-B-Barn.  I just fell in love with the taste so when  "Sweet Baby Ray's Honey Barbecue Sauce" was introduced  I had to give it a try.  And I am happy to say that I was not disappointed.  I find that while I enjoy this stuff on chicken it is even better on pork.  See if you agree!  Very highly recommended!
+
+product/productId: B0003290ME
+review/userId: A2U76X413GP9O7
+review/profileName: Dan A. Contreras "Daniel Contreras"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1285372800
+review/summary: What-a-BBQ Sauce!
+review/text: This by far is the best barbecue sauce I have ever tasted. I'm eating some BBQ ribs right now as I'm typing. I'm getting sauce all over myself. I'm getting barbecue sauce on the keyboard. Holy smoke!  And this is just the regular flavor. I can't wait to try the honey flavored!
+
+product/productId: B0003290ME
+review/userId: ATQI1W1O1NCHB
+review/profileName: Consumer 1011100100
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1341100800
+review/summary: Gelatinous and an Odd Sweet Flavor
+review/text: I understand that opinions vary greatly in these things, but I cannot for the life of me see how so many people like the Sweet Baby Ray's sauces.  I tried the original recipe and this.  The original was very ho hum but I thought this one was kind of gross.  The taste is slightly fake, as if its not made with sugar or honey but with some sort of chemical.  The texture is a bit gelatinous which contributes to the feeling of this being a synthetic product.  It reminds me of American cheese.  Its not awful, and on the right application actually tastes good, but it isn't really cheese and eating it makes me feel kind of yucky.<br /><br />I have since moved on and tried a few other sauces commonly found in grocery stores.  The one I landed on is "Cattlemen's Award Winning Kansas City Classic Barbecue Sauce".  So good you could just drink it.  Try that one out.
+
+product/productId: B0003290ME
+review/userId: A2W09KREK0F4Z
+review/profileName: A. Reichert "A"
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1335484800
+review/summary: Disgusting
+review/text: EW. This sauce tastes AWFUL. Has a weird aftertaste...kkind of like the one you get from diet soda or diet vitamin water. Never buying this again. Threw away the entire bottle. <a href="http://www.amazon.com/gp/product/B0003290ME">Sweet Baby Ray's Honey Barbecue Sauce 18 oz</a>
+
+product/productId: B00474D3UO
+review/userId: AUZYQ307CHAME
+review/profileName: Eileen Parker
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1336608000
+review/summary: Thank You
+review/text: I have been looking for this tea for several months and could not find it in the stores anymore. I had just about given up hope of ever enjoying it again,when my daughter-in-law suggested I look on line for it. And up popped Amazon with my favorite Lipton Green Citrus Tea. I cannot tell you how pleased I am to be able to enjoy my breafast with a lovely cup of my favorite tea. Thank you so much.<br />I was so happy to have found it I ordered 6 boxes Horay for me.
+
+product/productId: B00474D3UO
+review/userId: AQ92FN0E4JZDG
+review/profileName: Jean M. Dickson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308700800
+review/summary: Delicious any way you choose
+review/text: I like brewing this for iced tea. I use the recommended amount of tea bags, add a little honey or without; either way it is a smooth flavorful refreshing light green tea.
+
+product/productId: B00474D3UO
+review/userId: ADT7MYB82J7W2
+review/profileName: Terri22
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: Great Product
+review/text: Lipton Green Tea Citrus is an great tea to brew at home and be able to have the same great flavor that you get in the bottle version, but control the amount of sugar.
+
+product/productId: B00474D3UO
+review/userId: AGURH4J5DZ8BM
+review/profileName: HERBMAN "JON"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: tea leaves
+review/text: We purchased this product on line because we could not get it locally.  We are very pleased with the product and the amount of time it took for us  to receive it.
+
+product/productId: B00474D3UO
+review/userId: A2VWIUL99OXP96
+review/profileName: BarbaraW.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341705600
+review/summary: Make it at home
+review/text: First had this bottled diet while on vacation.  Decided we would like to make it at home (without bottling additives) but couldn't find the tea bags in any local stores.  So we did what we always do when we can't find something in the stores....checked Amazon!  And the rest is history!  This is green tea & therefore somewhat bitter by nature but the citrus adds a nice subtle sweetness to it-not too strong.  Love being able to make this at home!
+
+product/productId: B00474D3UO
+review/userId: AJB5P7GVR0MT8
+review/profileName: Harry the Horse
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1308528000
+review/summary: Really not flavorful
+review/text: Certainly not worth purchasing by its lonesome. I came in not expecting the world from Lipton, and they gave me little reason to doubt my doubts.
+
+product/productId: B000NXS2AY
+review/userId: A17RBACGRC86FA
+review/profileName: tara
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1325289600
+review/summary: sugar free gumballs
+review/text: These were the only sugar free gumballs i could find anywhere....i even had my mother searching for them in ny.....no luck.....i thought they were a lil pricey but when this is all u could find for the gumball machine.....beggars cant be choosers and my kids seem to like them too
+
+product/productId: B004488J1G
+review/userId: A2FZILA5E5DQZX
+review/profileName: rw66
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: Magic sauce
+review/text: We call it "magic sauce" because it simply goes well with any kind of food: meat, seafood or salad!! We even add a small spoon to our pasta (non-creamy type) sometimes. You need to shake it really hard before using just so all ingredients would mix completely.
+
+product/productId: B0029K2X6I
+review/userId: A3QRB3HGX28RU3
+review/profileName: Lori Sturges
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343692800
+review/summary: Ridiculously priced!!!!
+review/text: I can't believe that this sauce is being sold for over $6 per can.  I can buy this at the grocery store in NJ for $2.  I will do without before I would give this company a dime.  Money grubbers is all I can say, may it rot on the shelves!  Buy the case sells it at less than half this price!
+
+product/productId: B0029K2X6I
+review/userId: A33XP2OL2P0T0
+review/profileName: Connie L. Reed "Oh Herd CR"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314835200
+review/summary: Great pizza sauce
+review/text: This is the best pizza sauce anywhere!!!  Don Pepino's flavor is unique and popular.  Our family has been using Don Pepino sauce for more than 20 years.  It really makes our pizza and pepperoni buns.  We are happy that Amazon offers it because it is hard to order elsewhere.  Also, Amazon has easy, safe ordering.
+
+product/productId: B00028Q96O
+review/userId: A2YQLZKA294DYO
+review/profileName: Scrockern
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: Delicious!  Tastes very fresh!
+review/text: My mom recommended this tea to me after having it served at a restaurant.  She described it as "the best raspberry tea I've every had!"  I must agree.  It tastes like fresh raspberries and is somewhat sweet even without sugar.  I've gone through most of the box in the last 2 weeks and plan to order more.  Very yummy hot and cold!
+
+product/productId: B007AZ4YNM
+review/userId: A3H41NB0S6KV7M
+review/profileName: KC Sway "krockgrl"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343347200
+review/summary: Love Nutramigen but DO NOT pay this Price
+review/text: I love Nutramigen for how it helped my daughter through some difficult times.  I used the concentrate cans quite frequently but NEVER paid this much for it.  If you can find a local retailer that does "can can" sales ;)you can find the same for half the price.  At least purchase directly through Enfamil.  This formula is expensive enough as is without this vendor trying to take you for a ride. For shame!
+
+product/productId: B0028PW2I8
+review/userId: A2M0MUXZXFMKDF
+review/profileName: Kathleen Devaney
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1272240000
+review/summary: Too expensive
+review/text: A warning dialogue box should come up asking if you want to spend $8 for shipping for a $6 product. It was shipped from someplace different from the rest of the order. The cake was good, but having to add 2 cups of sugar, 1 or 2 sticks of butter and 6 eggs made it too expensive.
+
+product/productId: B005MJF6C6
+review/userId: A3POAWC2JPQQQP
+review/profileName: me
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341532800
+review/summary: delicious chocolate chip cookies!
+review/text: I got the "chocolate chip cookies" flavor and they were so good! They really taste like the real deal - just like the typical normal chocolate chip cookies (except much healthier!).
+
+product/productId: B005GTXSVS
+review/userId: A1B4TXE58QSYVH
+review/profileName: Louise Hurlburt
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342742400
+review/summary: No sugar, great taste
+review/text: Finally a dressing that tastes great only sweetened by fruit.  I bought this when I was trying to avoid sugar and corn syrup, but wanted a sweet dressing.  It fits the bill.
+
+product/productId: B005GTXSVS
+review/userId: A1PUF7YTIDBTPI
+review/profileName: paizley
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1340064000
+review/summary: Not good.
+review/text: If you even like this product...the bottle design doesn't allow one to effectively shake up the ingredients before pouring therefore you get all oil right off the top. I suggest pouring it into a bowl and whisking. It contains xanthan gum but it wasn't effective as an emulsifier. No one flavor stood out but I could taste the canola oil. I like tart and this isn't. With the sweetness of the fig, a bit more acidity would have balanced it out. I found the flavor cloying and unpalatable. I even tried adding wine vinegar to it but it didn't help. It ended up sitting in my refrigerator for over 6 months. I finally used some to baste the top of a pork roast and poured the rest down the drain. I still can't figure out why they added caramel color when balsamic vinegar is already dark and so is fig paste. Also, I bought this on sale (it was a discontinued item) at my store. I asked one of the managers why it was was discontinued and he said usually it's because the product was not a good seller. I can see why.
+
+product/productId: B000GW0UGG
+review/userId: A3OXHLG6DIBRW8
+review/profileName: C. F. Hill "CFH"
+review/helpfulness: 19/19
+review/score: 5.0
+review/time: 1268438400
+review/summary: Very Good Meat Snack - Highly Recommended
+review/text: Jack Link's "X-Stick Original" snack sticks are very good tasting and far less greasy than other "meat sticks" (like Slim Jim). These are great snacks for diabetics (like me) since they have a negligible amount of Net Carbs.<br /><br />The Amazon "Product Features" incorrectly lists these as 160 Calories each, and neither the box or individual packaging list the Nutrition Facts, so I visited the Jack Links web site and found the following:<br /><br />Serving Size: .5 Oz (1 stick)<br />Calories: 60 (45 from Fat)<br />Total Fat: 5g (2g Saturated Fat)<br />Cholesterol: 15mg<br />Sodium: 220mg<br />Total Carbohydrates: 0g<br />Protein: 3g<br /><br />These do contain MSG, which can cause "gastric distress" in some people (like my dad).<br /><br />Overall, these are great as a snacks between meals and they are so much better than the competition.<br /><br />Highly Recommended!<br /><br />CFH
+
+product/productId: B000GW0UGG
+review/userId: A2MOJANFPX353G
+review/profileName: Ken M
+review/helpfulness: 22/23
+review/score: 5.0
+review/time: 1222819200
+review/summary: Good Stuff!
+review/text: These are along the line of Slim Jims but have a milder, less spicy, taste. The X-Sticks also have a much better texture than Slim Jims, these things actually look like they are made of real meat, NOT the 'mystery meat - goat hair/cardboard' texture of the modern Slim Jim.<br /><br />The X-Stick is 'not exactly' a health food snack. They have a fair amount of fat, a little over 5 grams (each stick, in this package, is 14 grams total mass). Sodium content is about 224 mg and, about 3.2 grams of protein and only 64 calories (about 47 calories from fat) per stick.<br /><br />What the X-Stick is, is a very satisfying snack. I sometimes have to miss a meal, due to my work. One or two of these take the hunger away and puts some energy back into me. I do try to limit my fat intake but do not feel guilty about snacking on these once in a while.<br /><br />Enjoy.<br /><br />Ken
+
+product/productId: B000GW0UGG
+review/userId: A7MXWFCWVXJZE
+review/profileName: H. Smith "Beautacentric"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1277251200
+review/summary: Very good better than...
+review/text: These are so much better than Slim Jim's they don't have that weird fur texture when you bite it; and as far as biting goes you can actually bite these without fighting with it. They taste good, but have that typical meat stick flavor. These are also MUCH easier to open than a Slim Jim. Packed well, arrived quickly and fresh.
+
+product/productId: B000GW0UGG
+review/userId: A3RMGIKUWGPZOK
+review/profileName: Jean Visnefski
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1302566400
+review/summary: Great Meat Snacks
+review/text: This review is for the 0.5 ounce X-Sticks box of 50.<br /><br />First I will comment on the taste.  The X-Sticks have a mild and pleasing flavor to them.  They taste similar to Slim Jims, just without the chemical spiciness and odd plastic texture of Slim Jims.  In a taste test, the X-Sticks would win without a problem.<br /><br />Next is the price.  The price for the box of 50 0.5 ounce X-Sticks tend to fluctuate on Amazon but it's still worth it, provided the price stays below $20 a box.  When you combine this with the Subscribe and Save discount, you can save even more!  The price of the same type of Slim Jims is almost $10 higher, so once again, the X-Sticks win.<br /><br />So my final thoughts are if you're looking for a meat snack that isn't going to repeat on you an hour later, these are the way to go.  Although they can't claim to be "All natural", they have more natural ingredients than the Slim Jim.  These also are composed of beef and pork (yum), whereas a Slim Jim is composed of beef and mechanically separated chicken...  (Eww).  Anyway, I was very happy with this purchase and I highly recommend them for you.
+
+product/productId: B000GW0UGG
+review/userId: A2MNB77YGJ3CN0
+review/profileName: L. Mountford
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1275782400
+review/summary: Good for a snack --
+review/text: I can't really compare these to other similar products (Slim Jim,etc.), as I had never had jerky-type snacks before I got these.  I decided to take a long road trip (4500 miles round trip), and I have a tendency to get drowsy if I don't get enough protein.  I decided to carry these plus some string cheese in the car to tide me over between meal stops.<br /><br />I really like these.  The flavor is good, the texture is fine, and the "damage" from a diet standpoint is minimal (these are 60 cal apiece, based on the Jack Links site).  They're not too salty, either.  Having them on the trip from Bellingham, WA to St. Louis, MO and back was a huge help.  One or two of these provided just the right amount of tasty protein.  The size and packaging is handy, too, and easy to open when driving.<br /><br />I now keep them on hand for when I need a little pick-me-up.
+
+product/productId: B000GW0UGG
+review/userId: ABBAG2ZQY7NY
+review/profileName: rickjames360 "Rick"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267401600
+review/summary: Best of all the beef sticks I have tried
+review/text: My son and I love these beef sticks! I purchased these and slim jims at the same time and was amazed how much better taste and tecture they have over slim jims. Infact I'm tempted to throw my slim jims in the trash! Perfect for your 72-hour kit.
+
+product/productId: B000GW0UGG
+review/userId: A21Z8B8XSZ4R17
+review/profileName: Eric R. Dierks
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1260662400
+review/summary: Jack Link's X-sticks 30-pack, Pepperoni
+review/text: This stuff is great for snacking, has a long shelf life, and convenient to pack for travel.  The taste and texture is awesome.  Buying on-line saves money and time.  I keep a box in my office and another at home.  It is a great way to enjoy group discussions and family time.  Eric D., Wanamingo, MN
+
+product/productId: B000GW0UGG
+review/userId: A2Q5Z7B2BIMMHX
+review/profileName: Clara Burger "Mom and reader"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1243382400
+review/summary: Easy snack sticks on the cheap
+review/text: I am a meat lover and this makes a perfect snack for the road.  Inexpensive.  Can't say the taste is outstanding but is certainly not yucky.  Will get another box when this one runs out.
+
+product/productId: B000GW0UGG
+review/userId: AFKPDH4X6YPZQ
+review/profileName: Can't Believe I Bought It
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1171324800
+review/summary: These Are The Best
+review/text: After eating these you'll Never want another Slim Jim<br /><br />These are Awesome.
+
+product/productId: B000GW0UGG
+review/userId: A18RJ1117H4ZL2
+review/profileName: M. Mooney "super tech"
+review/helpfulness: 8/11
+review/score: 2.0
+review/time: 1284595200
+review/summary: Expiration date is horrible
+review/text: So these sticks taste ok, I mean, it's jerky, how do you mess that up? My issue is with the expiration date, which was a little less than one month from when I got my box. How am I supposed to eat 50 of these things in 25 some-odd days? That's just cheap trying to offload these so close to the expiration date. Never buying these again.
+
+product/productId: B000GW0UGG
+review/userId: A3BADG55FYI5M2
+review/profileName: Gary M.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343952000
+review/summary: A Good Tasting Stick
+review/text: This was my second purchase. Watching carbs, I look for snacks that are high protein with low or no sugars. Tiring of nuts all the time I tired these a couple months ago. Very surprised, they taste good with a bit of spice kick. Recalling that most convenience store sticks were dry or greasy or blah tasting, it was nice to snack on these. They are not the long sticks but a nice size at about 6 inches. Wrapped individually and easy to open. Great item to grab when looking for a quick munch.
+
+product/productId: B000GW0UGG
+review/userId: AAYDSU79B8KG4
+review/profileName: J. M. L
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1327622400
+review/summary: Just okay -- not nearly a Slim Jim
+review/text: While certainly edible, I don't think Jack Links brings a realistic competitor here with their version of the Slim Jim.  Honestly, there are some bites I take which remind me of dog food.  I know we are talking about meat sticks here and not fine dining, but the texture of these is just not right, almost too granular.  I know Slim Jims have that greasy taste but these guys have a bit of it too and I have to admit I kind of enjoy it.  Overall, in my opinion, Slim Jims are much much better than these guys, but to each his/her own!
+
+product/productId: B000GW0UGG
+review/userId: A3SYL423X4ZTAG
+review/profileName: Brea Hasselbring
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1311120000
+review/summary: Moldy!
+review/text: Just letting ya know that I bought a pack of these before..they were perfectly fine..this time? no. They were moldy, so I just threw them out, what a waste of money!!
+
+product/productId: B000GW0UGG
+review/userId: ATVO9QNOANFSW
+review/profileName: Jake G.
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1308700800
+review/summary: Expired
+review/text: The first time I got these, everything was great. The second time, however, the sticks tasted a bit off... then I notice the 3-months-expired date on them.
+
+product/productId: B000GW0UGG
+review/userId: A3I9PGVKL3PE8
+review/profileName: L. Clements
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1279065600
+review/summary: Great Tasting Jack Links
+review/text: My husband has tried many links is his day and these stand out.  Would compare these to Fat Freddies.
+
+product/productId: B000GW0UGG
+review/userId: A126QYD2SINLVM
+review/profileName: D. A. Kanode
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1214265600
+review/summary: Advance
+review/text: I first bought these at my part-time work at Advance Auto and since I could buy them cheaper this way, I did it.<br />Good flavor and a bit of a bite.
+
+product/productId: B000GW0UGG
+review/userId: AD5HV4YQVU099
+review/profileName: Jen B.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1174521600
+review/summary: Tasty and Easy to Store
+review/text: The product is exactly what we had been purchasing in the store.  I love the box to store them becuase they would fall behind things in the cabinet and now they are always easy to find.  The price was better than in the store.
+
+product/productId: B000GW0UGG
+review/userId: A2QCTRSRAMMFA3
+review/profileName: Kevin Bennett
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1216598400
+review/summary: jack links
+review/text: my son has type 1 diabetes and needs to eat low carb snacks.  he loves the jack links small beef jerky.  we take them with us everywhere.
+
+product/productId: B000GW0UGG
+review/userId: AFKPDH4X6YPZQ
+review/profileName: Can't Believe I Bought It
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1171324800
+review/summary: These Are The Best
+review/text: After eating these you'll Never want another Slim Jim<br /><br />These are Awesome.
+
+product/productId: B000GW0UGG
+review/userId: A1IYYA15QACXW7
+review/profileName: Carlos Hurtado
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1214179200
+review/summary: I'll never Have another slim Jim again
+review/text: This jerky is the greatest jerky ever it taste so good it comes with 50 links for only 15 bucks!!!! i bought this last month and i just finished them i'm buying more right now!!!!!!!!!!!!!!!!!!!!!!!!
+
+product/productId: B000GW0UGG
+review/userId: A8F0WKYV1AAEA
+review/profileName: Tony M.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343520000
+review/summary: Good Value
+review/text: Have purchased this product several times and we are pleased. It is a good value for the money compared with the retail stores.
+
+product/productId: B000GW0UGG
+review/userId: AV998ZR1DZ046
+review/profileName: Ryan Brandenburg "greenbayPACK"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339459200
+review/summary: Good buy
+review/text: Better than thought theyd be  A+++++++.  Excellent choice for a great snack at work.  never got close to getting sick of them and will buy again.
+
+product/productId: B000GW0UGG
+review/userId: A1QY5OBC2VIFQZ
+review/profileName: burkhas
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1339372800
+review/summary: It was OK
+review/text: Product is tastey but I would like some cheese to go along with it since the beef sticks alone don't taste as good after awhile.
+
+product/productId: B000GW0UGG
+review/userId: A2UCZAWAN5QMJQ
+review/profileName: Thomas F. Harper Jr.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338508800
+review/summary: A bit on the greasy side, but the kids love them
+review/text: Some fairly improved ingredients vs a typical 'slim jim', at least its not made with jowls and pink slime.  The taste is good, salty, smoky, a bit on the greasy side.  If you've had the x-sticks, this is just small pieces of that in a bag, four times the weight of the stick.  In other words, excellent for sharing or a snack at school where eating a whole stick might be a problem.<br /><br />I also dump a package into a ziploc and can snack on it a piece at a time to boost my protein and fat intake a bit.<br /><br />A pack of 12 lasted my 7 year old and his friends about a week, which is way faster than most other meat snacks I've put on the snack counter.<br /><br />But even the 7-10 year olds say its a bit greasy, as they devour another package.
+
+product/productId: B000GW0UGG
+review/userId: A31IT4N2NH7FE2
+review/profileName: Michael A. Pennington
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: mmm mmm good
+review/text: this will be the third time i bought this an enjoy it every time much better then slim jims  their tender an full of flavor i often want a snack at random times but don't want eat a lot or a full meal this ties me over an is worth the price
+
+product/productId: B000GW0UGG
+review/userId: A14QC0VV8E3O9M
+review/profileName: Skrapr2 "DP"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Jack Links Beef snack sticks
+review/text: My kids love these beef sticks...... so this year I purchased these and stuffed lots of them in their Christmas stockings.  These were a much better replacement to all the Christmas candy they usually get.  Great item and great price!!!
+
+product/productId: B000GW0UGG
+review/userId: A3PRTPC4W8A6CF
+review/profileName: jm
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322438400
+review/summary: good snack
+review/text: Realy liked the taste, price and quality. Only downgrade would be that about 20% of the easy peel opening packages are not serrated and need to be cut with scissors. Only defect
+
+product/productId: B000GW0UGG
+review/userId: A3MQ9XEN54X3TN
+review/profileName: David
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1320883200
+review/summary: good tasting
+review/text: I have ordered this item several times and am very pleased with it. Will order again. It is one of my favorite jack link products.
+
+product/productId: B000GW0UGG
+review/userId: AEIA1BRM7J4Z0
+review/profileName: Justin
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1318118400
+review/summary: Good, But Tastes Very Artificial
+review/text: Having never had the X-Links before, I bought them based off some customer reviews I read here. Maybe I should have read more, but these are most comparable to a Slim Jim. While they are much better, they still fall into the same category, and I was looking for something a little more "real" tasting. These have a much better taste than Slim Jim does, although there is still a substantial "artificial" taste. Highly recommended as a Slim Jim upgrade, but don't buy these if you're looking for a more natural tasting product.
+
+product/productId: B000GW0UGG
+review/userId: A1K4AIPL0NFAGF
+review/profileName: Constance Cade
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316131200
+review/summary: Good taste and texture
+review/text: Very pleased with these. They had both a good taste and texture. The price was right for what you get. I would highly recommend.
+
+product/productId: B000GW0UGG
+review/userId: AY8570BDDIFXD
+review/profileName: Vance's Dad
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315699200
+review/summary: Very good, but not really EXTREME
+review/text: I like these sticks better than Slim Jims because they are less greasy and have a meatier flavor.  However, they could benefit from some more spice.  That's my only suggestion.
+
+product/productId: B000GW0UGG
+review/userId: A1MW5XDAO3A0VB
+review/profileName: BEARDOOG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311724800
+review/summary: THE BEST BEEF STICK PERIOD
+review/text: I love these sticks i have purchased 2 boxes from amazon and I have bought many from local stores. These are the best tasting sticks i have ever had just wish i could get them by the case yum yum.
+
+product/productId: B000GW0UGG
+review/userId: A343FJEAVW9U5E
+review/profileName: A. Fleming
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1310860800
+review/summary: Good Flavor
+review/text: The product is the same as what we had been purchasing in the store. I like keeping the box to store them becuase I dont lose track of where they are in the cabinet and now they are always easy to find. The price was better than in the store.
+
+product/productId: B000GW0UGG
+review/userId: A5B4H6S7AARQP
+review/profileName: B. Le
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1307232000
+review/summary: Good snack
+review/text: Very good snack sticks.  It does not feel greasy like Slim Jims and is easy to chew.  The size is perfect for a snack so I don't eat too many all at once.  I prefer it to be a little bit spicier though but they don't come in this size and price.  This is good if you have a craving for protein and should help hold off the hunger between meals.
+
+product/productId: B000GW0UGG
+review/userId: A38KJYGQUJABF7
+review/profileName: Charlotte Larsen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304640000
+review/summary: Great On-The-Go Snack
+review/text: I just bought my second box of Jack's Links because I'm sold on these!  I purchased a box of small Slim Jim's for my son's lunch box and for throwing snacks in my bag for the long afternoons of driving kids around to activiities and someone ALWAYS asking if I have something to eat!!  The Slim Jims were just ok, but after time got really hard, even in their individually packaged cases.  So I bought the Jack Link's X Stick and immediately my 10 year old son said they were WAY better than Slim Jims.  The 0.5 oz size is a little bigger than the small Slim Jims, yet not too big so that I'm filling my kid with even more fat and junk.  This is just the right size for a "snack" and the price is great.  At Amazon today I bought a box of 50 on sale for $17, which is about .35 cents a stick.  Don't hesitate to buy these if you are like me and need a variety of on-the-go, non-refrigerated snacks or lunch box fillers!!  Great product!
+
+product/productId: B000GW0UGG
+review/userId: A3L476N7YKO02A
+review/profileName: Kimberley R. Renemans
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304467200
+review/summary: Great Taste!
+review/text: I'm not a beef stick/beef jerky eater.  These were bought for my son's school snack, however I have eaten a few and really like the beef flavor.
+
+product/productId: B000GW0UGG
+review/userId: A17TPOSAG43GSM
+review/profileName: Herrick
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1299110400
+review/summary: Doesn't meet expectations
+review/text: Sounded like a great product - pepperoni with an extra kick of flavor. But when I first bit into it, it tasted bland and strange - I was expecting something like the Slim Jim Pepperoni sticks, which are soft and flavorful. Another thing I dislike, is that neither the box nor the product itself contains any nutrition information - you have to mail them to get the info, it says. 29 sticks to go..
+
+product/productId: B000GW0UGG
+review/userId: A2HQ1UANZOCHF3
+review/profileName: AznRevlAzn "Sars"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299024000
+review/summary: Better than Slim Jim
+review/text: This is much better than a slim jim. These are softer and have a good snap when you take a bite. The seasoning is not out of control like in a Slim Jim and the color is naturally brighter. Packing is good, much better than a Slim Jim, Jack Links have peel-able  packaging while with Slim Jims you have you to find a nice cut edge and wrestle with it.
+
+product/productId: B000GW0UGG
+review/userId: AA4Y9H7FPCTQX
+review/profileName: R. A. Phillips
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291075200
+review/summary: Jack Link's X-Stick, Pepperoni extra 1.25 oz X-Sticks
+review/text: Shipment is always on time. This is one of Jack Links best products. Just the right amount of spice and texture.
+
+product/productId: B000GW0UGG
+review/userId: A3T8ME3BRVGXJR
+review/profileName: Only "onlyiwillremain"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1271203200
+review/summary: X Stick isn't so hot.
+review/text: This will be the shortest review I've ever written, because it's based soley personal taste when it comes to beef sticks.<br /><br />I didn't like the X Sticks. I wouldn't even put them in the same universe as <a href="http://www.amazon.com/gp/product/B000RFS57I">Jack Link's Beef Stick, Original, 0.92-Ounce Sticks (Pack of 72)</a> or any of the beef sticks that Jack Links makes based on the 'Original' formula/base. I dig all of their flavored stuff, spicy stuff, etc, as long as it's based on the original beef stick variety.<br /><br />The X Sticks taste... like potted beef, wrapped into a beef stick? I don't know, It's odd. I'm still going to eat all 50 of them or whatever; they're not awful. Just "okay"; and in my world of seriously loving beef jerky and beef sticks, being just "okay" is a crime...
+
+product/productId: B000GW0UGG
+review/userId: A24Q67HGIY696S
+review/profileName: Roy L. Carter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270166400
+review/summary: Jack Link's X-Sticks-Original Flavor
+review/text: Very much enjoyed the product under review; however, one slight problem.  The extended length of the X-stick over the shorter length market -size.  Prefer the shorter length.  Also, I have purchased the 7.2 oz.size in my local market.  This is also a good product.  I might be interested in buying these in quantity fron Amazon if offered.  Thank you for the opportunity to comment.
+
+product/productId: B000GW0UGG
+review/userId: A3QNX5KWHDV0GD
+review/profileName: James Cooper "Conspicuous Consumer"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1268438400
+review/summary: Different tastes
+review/text: Guess people have different. They taste like Slim Jims with all the flavor and texture boiled out of them. Bologna sticks shaped like Slim Jims. Anyone want a box of 49?<br /><br />update: After some time I tried another. Not inedible. The more I ate, the better they tasted. I think I still prefer Slim Jims. A little more work to eat; spicier, with a little snap to the skin. But I'm raising my rating to 3 stars from 1.<br /><br />I couldn't find any nutrition information which I thought was required for food products made in the US. I don't really want to know what the put in these things anyway
+
+product/productId: B000GW0UGG
+review/userId: AZDU8HHPA9ORU
+review/profileName: Joel S. Brandon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267920000
+review/summary: The Best Beef Sticks
+review/text: These things are by far the best beef sticks among those that are commonly available.
+
+product/productId: B000GW0UGG
+review/userId: A1SCCTYDQHXXWZ
+review/profileName: D. Lattin "DL"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1264377600
+review/summary: Pretty Good - Not Trash
+review/text: Good stuff if you want a Slim Jim type of replacement that is of better quality.  Does not have that waxy taste that Slim Jim tends to offer.  If you want real beef jerky I'd pass on this.  In fact, I assumed they would be more like the regular bagged Jack Links (myfault) just in stick form.  This has that mixed spiciness that you cant really find in any of their regular flavors but did remind me of Slim Jim.  Tastes like a hot dog in a way which is good and they tend to do the job as far as giving me a boost.  I give it 3 stars but I am going right back to the regular bagged stuff which so wayyyyy better.
+
+product/productId: B000GW0UGG
+review/userId: AWOY280RY1WWC
+review/profileName: Texas Scott "snack meister"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251504000
+review/summary: Snack on the go!
+review/text: This is by far,the best beef stick on the market.I have been a fan of Slimjims for years and this beats them and all the rest,HANDS DOWN!<br />With today's frantic pace in living on this planet,when fast food restaurants are not an option,Jack Links is a quality snack on the go.Taste,texture,and convienience in small packages is the way of the future.
+
+product/productId: B000GW0UGG
+review/userId: A33REC3J2JU2EL
+review/profileName: D. Figueroa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1249430400
+review/summary: Great Deal for a Tasty Snack
+review/text: These were only .19 each after getting 40% off with Amazon's snack sale, which is incredibly cheap.<br /><br />My hubby likes them in his lunches and I like giving him anything that isn't loaded with sugar or starches.<br /><br />I recently had a Slim Jim after about 20 years without trying them and it was awful. I like the flavor of Jack's Links ten times as much.<br /><br />Easy to get into the package, too, just peel it back.
+
+product/productId: B000GW0UGG
+review/userId: A1TDDXQX3RPKK7
+review/profileName: Thomas A. Burns "Tomasso"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1247702400
+review/summary: very tasty
+review/text: These snack sticks are all individually wrapped and are very good! They taste a lot better than slim jims, plus my dog likes to lick the wrapper if i accidentally leave one on the floor overnight!
+
+product/productId: B000GW0UGG
+review/userId: A2Y8IDC1FKGNJC
+review/profileName: L. A.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1247356800
+review/summary: better than slim jim!
+review/text: These are way better than Slim Jims for a fraction of the price. I order these through subscribe and save for even more savings. The flavor is outstanding. Love the portability. Makes a great protein snack any time of day. Even the picky eaters in the family love these. Also love these come from my home state.
+
+product/productId: B000GW0UGG
+review/userId: A1P51R2I1JDI5J
+review/profileName: Sleepwalker
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1243555200
+review/summary: Good jerky for a quick snack
+review/text: I had tried one of the Jack Links snack pack, the kind that come with cheese, pretzel and meat, so after trying that, and loving it, I knew Id most likely enjoy this.  I took a bite from the first stick, and it wasn't too good, I guess it naturally tastes better with cheese IMO, but after eating the second and then third, they started to grow on me.  These things are perfect for that late snack and its convenient and does the trick for a hungry tummy.  They have a chewy consistency, but when you take a bite each time, you can hear a small snap from when you bite<br /><br /> I also like the design, you just remove a piece of cardboard from the bottom and it becomes a dispenser, which is a little nice idea. I ended up liking these so much, I am going to subscribe to receive these once a month.  Price is great and if you do that, you get a nice little discount (15% off).  I definitely recommend this.
+
+product/productId: B000GW0UGG
+review/userId: A1P5OY4C9MLTVE
+review/profileName: Denise Abaray
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1241395200
+review/summary: Sooo GOOOOOOD
+review/text: I bought these because I like meat snacks and Slim Jims are just way to greasy. I can't wait to purchase the next box.
+
+product/productId: B000GW0UGG
+review/userId: AXGUWE8ILM8RC
+review/profileName: Nancy E. Illian
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1239321600
+review/summary: Jack Links
+review/text: I buy these by the box for my husband as his "stash" snack at work...he is always happy to receive them. Thanks for making a consistenly quality product. They ship ridiculously fast and we've never had a problem with our orders.
+
+product/productId: B000GW0UGG
+review/userId: A2JKD2KFHGTJB3
+review/profileName: MandyNMe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223942400
+review/summary: Highly addictive!!!
+review/text: My whole family loves these and usually fights over the last package.  Great for on the road, quick protein fix.  Kids really enjoy them.
+
+product/productId: B000GW0UGG
+review/userId: A3MM40UDJTBGU9
+review/profileName: Buckeyefan "Buckeyefan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213401600
+review/summary: Very good
+review/text: Better than Slim Jims.  Kids love them as a snack.  Not too salty, either.  Will buy again.
+
+product/productId: B000GW0UGG
+review/userId: A5YVSME9OU7H9
+review/profileName: Guru
+review/helpfulness: 5/8
+review/score: 4.0
+review/time: 1210809600
+review/summary: Individual Jack Links best for sharing
+review/text: Have to admit I've never had Jack Links X-Stick (or any other Jack Links product) and have NO idea what they taste like.  I bought these because I know a Marine in Afghanistan loves them and so do his buddies.<br />This particular item is perfect for military CARE packages: each unit is individually wrapped so nothing goes stale or gets sand in it after the box is opened.<br />The small-size box is great for people without a lot of storage or 'personal' space.  The single-servings are ideal for sharing (without wiping yourself out of goodies) and fit into cammy pockets without taking up a lot of room or adding to the weight you're carrying.<br />They make a welcome change from MRE's or when you need a quick energy boost (the convoy can't always stop for lunch).<br />Even if you don't know if your 'fighter' likes them, I guarantee they'll be appreciated - remember when the kids traded lunches in school?  They may be older but trading goodies within the unit is a time-honored tradition, too!
+
+product/productId: B000GW0UGG
+review/userId: A1CPHRHOMT27P
+review/profileName: Andy
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1304985600
+review/summary: Received expired product
+review/text: I ordered this on April 29, 2011, and received it on May 2, 2011. The product expired in March. I am only giving this one star because that is the lowest rating that I can give. If it weren't for the one star minimum, I would give it 0 stars.
+
+product/productId: B000GW0UGG
+review/userId: A21Z8B8XSZ4R17
+review/profileName: Eric R. Dierks
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1260662400
+review/summary: Jack Link's X-sticks 30-pack, Bacon-Cheddar
+review/text: This stuff is great for snacking, has a long shelf life, and convenient to pack for travel.  The taste and texture is awesome.  Buying on-line saves money and time.  I keep a box in my office and another at home.  It is a great way to enjoy group discussions and family time.  Eric D., Wanamingo, MN
+
+product/productId: B000GW0UGG
+review/userId: A10F2EN5LA34Z9
+review/profileName: Alma Bell "ABell"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1240531200
+review/summary: Good and Good For U !!!
+review/text: A quick, filling snack or not fattening beef stick, call<br />it what you like...it is good! Most lunches for me is this<br />beef stick and a cheese stick. That is usually all I have<br />time for. It is easy to carry and stays fresh.
+
+product/productId: B000GW0UGG
+review/userId: A25QOW6YRH9C3I
+review/profileName: Big Lee "Traveling man"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1223424000
+review/summary: x stick
+review/text: Great snack, taste good and is a good value. Convenient package and just the right size for a snack.
+
+product/productId: B000GW0UGG
+review/userId: A17FT1VXKCHAR4
+review/profileName: C. Preston
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1199577600
+review/summary: If you love beef jerky, you'll love this!
+review/text: I gave this as a Christmas present to my older, single brother.  He ate them all in less than a week!  I'd highly recommend buying this for someone!  I might even buy some for myself!  If you like beef jerky or Slim Jims, you'll definitely like Jack Links X-Sticks!
+
+product/productId: B000GW0UGG
+review/userId: AHJF1J9I4LYVR
+review/profileName: Drektath
+review/helpfulness: 2/4
+review/score: 3.0
+review/time: 1277942400
+review/summary: Meh
+review/text: Edible, but not great. I picked these up because Amazon had stopped carrying Pemmican beef jerky (which hadn't been the same since the company was sold anyway) and I was looking for something to snack on. I like Slim-Jims ok when they're good (but quality control is a major issue with Slim-Jims, as for every good one you get, you're likely to get one that tastes rancid or worse).<br /><br />Obviously, these aren't like beef jerky, they're closer to Slim-Jims. The consistency seems to be much better than Slim-Jims and the price is pretty good. The flavor isn't as good as a good Slim-Jim, but is much better than a bad one, so it kind of evens out.<br /><br />I was hoping these would be closer to the "Matador" line of snack sticks that Jack Link's makes. For whatever reason, despite carrying many Jack Link's products at present, Amazon doesn't seem to have the Matador line.
+
+product/productId: B000GW0UGG
+review/userId: A3VAQB4LRWLZIZ
+review/profileName: G. Warner
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1280448000
+review/summary: DIFFERENT THAN SLIM JIM;S
+review/text: EASIER TO CHEW, MILDER FLAVOR . I THINK LESS EXPENSIVE. MY KIT LIKES THEM TOO.
+
+product/productId: B000GW0UGG
+review/userId: A1VHFCR9BT4O0I
+review/profileName: BuckeyeShopper
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1244764800
+review/summary: Very tasty, not greasy, and tender.
+review/text: Having just bought both these X-Sticks and some Slim Jims Nacho Flavor, I like the X-Sticks better. They are less greasy, more tender, and don't have the tough casing that Slim Jims sticks have.
+
+product/productId: B000GW0UGG
+review/userId: A17MRB5QEHV7ZX
+review/profileName: Bug fan
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1240272000
+review/summary: Bite sized bits
+review/text: The taste is very similar to Slim Jim's, but tenderer and with less excess liquid.  Each piece is about 1/2 inch long and a little over a 1/4 inch in diameter.  The package is not resealable, a small gripe since they aren't too big anyway.
+
+product/productId: B000GW0UGG
+review/userId: A21Z8B8XSZ4R17
+review/profileName: Eric R. Dierks
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1226793600
+review/summary: Jack Link's X-sticks 30-pack, Original
+review/text: This stuff is great for snacking, has a long shelf life, and convenient to pack for travel.  The taste and texture is awesome.  Buying on-line saves money and time.  I keep a box in my office and another at home.  It is a great way to enjoy group discussions and family time.  Eric D., Wanamingo, MN
+
+product/productId: B000GW0UGG
+review/userId: A27L7CNH712613
+review/profileName: Thomas A. Belleman "LowCarb Man"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1167868800
+review/summary: Great for Low Carb Diets
+review/text: These sticks are good to carry with you in your breifcase for when you want a snack, but are watching out for carbs.
+
+product/productId: B000GW0UGG
+review/userId: A1J0IMB7PYQH5S
+review/profileName: Valerie
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1296518400
+review/summary: shrunk to a 42 pack
+review/text: This 50 pack was only a 42 pack in my order. When I noticed pack was only half full upon opening, I counted and box WAS short.
+
+product/productId: B000GW0UGG
+review/userId: A1AAD0UZ3EULVY
+review/profileName: Marvin Herrington "marvh"
+review/helpfulness: 0/3
+review/score: 5.0
+review/time: 1235433600
+review/summary: Jack Links is great !
+review/text: My order was exactly as it should be, I got what I ordered in a short delivery time.
+
+product/productId: B000GW0UGG
+review/userId: A21Z8B8XSZ4R17
+review/profileName: Eric R. Dierks
+review/helpfulness: 0/3
+review/score: 5.0
+review/time: 1226793600
+review/summary: 2 for1 is the way to go
+review/text: 2 for 1 Jack Link Snacks are easy to distribute, store, and get good visibility.
+
+product/productId: B000GW0UGG
+review/userId: A2R8CKV5ENL7MX
+review/profileName: S. PAK "Gadget Guru"
+review/helpfulness: 0/6
+review/score: 3.0
+review/time: 1212105600
+review/summary: If you like Slim Jim you won't like this
+review/text: I purchased this because I had cravings for Slim Jims and read a review claiming that these were similar to Slim Jim. Well, I just received it and after one bite I realized these were NOTHING like Slim Jim. They taste like plain old boring beef sticks with jazzier packaging. Slim Jim is an institution and this is a pizz poor imitation, if in fact that's what they were going for. These might be healthier but nothing comes close to the distinctive taste of SJ. So if you want SJ, snap in to a SJ!!!!!!!!
+
+product/productId: B000GW0UGG
+review/userId: A2R8CKV5ENL7MX
+review/profileName: S. PAK "Gadget Guru"
+review/helpfulness: 0/8
+review/score: 3.0
+review/time: 1212105600
+review/summary: If you like Slim Jim you won't like this
+review/text: I purchased this because I had cravings for Slim Jims and read a review claiming that these were similar to Slim Jim. Well, I just received it and after one bite I realized these were NOTHING like Slim Jim. They taste like plain old boring beef sticks with jazzier packaging. Slim Jim is an institution and this is a pizz poor imitation, if in fact that's what they were going for. These might be healthier but nothing comes close to the distinctive taste of SJ. So if you want SJ, snap in to a SJ!!!!!!!!
+
+product/productId: B00028Q96E
+review/userId: A1PKAQGJNXVFUM
+review/profileName: Heidemarie De Paul
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326844800
+review/summary: Great Raspberry Royale Tea
+review/text: My husband loves raspberry tea - I conducted a blind taste test of all raspberry teas on the market and Bigelow's Raspberry Royale was the clear winner. It is delicious both hot and chilled.
+
+product/productId: B00028Q96E
+review/userId: A20ELYWSCSXEIJ
+review/profileName: Martha R. Patton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1153267200
+review/summary: grocery shopping onliner
+review/text: The product was excellent and one I have used in the past.  I have used this on-line grocery site through aol for two other orders since and have been well pleased with everything I have received from this on-line market.<br /><br />Though the shipping charges through UPS are high, that is something out of this site's control.  Thank you for sponsoring the shopping opportunity through your servers
+
+product/productId: B004QK5JD8
+review/userId: A1LSZXI63N8EDC
+review/profileName: Sharon Anne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319587200
+review/summary: One of my favorite ingredient secrets!
+review/text: The brand of sweet dough flavoring is delicious. It tastes buttery, with a hint of vanilla and a slight blend of citrus! It's almost magical in baking sweet breads, sugar cookies and especially cinnamon rolls. The aroma conjures wonderful memories from my youth, smells like inside the Disneyland Main Street Blue Ribbon Bakery!<br /><br />It quite potent, so you needn't add much, but when you do, people will ask you for the recipe and what's your secret to success. Worth every penny!<br /><br />To save on shipping, be sure to order (their) <a href="http://www.amazon.com/gp/product/B004QPUGZY">Cook's Pure Vanilla Bean Puree (Paste) 4 oz</a> and <a href="http://www.amazon.com/gp/product/B0049Z98Z0">Cooks Pure Vanilla Powder, 4.5-Ounce (Pack of 2)</a> to use in dry mixes. Check out my reviews for both. I'm not an employee, I've just been enjoying these products for years. BTW, if you like these tips, Google my name SharonAnne and cooking for more NiFTY DiFTY tips and techniques!
+
+product/productId: B002U4KVSU
+review/userId: A3CUUOG8GD6VR5
+review/profileName: Connie Gomez
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333584000
+review/summary: Safe and healthy
+review/text: as a pet-sitter, I give these to clients;  they MUST be healthy and safe!<br /><br />Great product, written about in Whole Dog Journal two years ago, I believe.<br /><br />Thanks!!!
+
+product/productId: B003Y390TC
+review/userId: A2JDDCULJXSBU8
+review/profileName: M. Lacey "MLacy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328227200
+review/summary: Spanish Garden Smoked Spanish Paprika 2.65-ounce cans
+review/text: Great product. Quality and flavor are oustanding. It will improve any type of dish. Highly recommended. Will buy this product again.
+
+product/productId: B003YARL1O
+review/userId: A3ASWULTGOS3CF
+review/profileName: Richard N. Barg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344038400
+review/summary: Gigantic - Tell Guests it's from an Archeological Find
+review/text: This is really my fault for overestimating the capacity of my 30 lb Wheaten Terrier to navigate this bone. it's huge and only for dogs over 50 lbs w/large mouths.  I put this bone next to my African Safari pictures.
+
+product/productId: B004BY7HKC
+review/userId: A3T0OTH5072YRE
+review/profileName: M. Reynard "kairosdreaming"
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1330819200
+review/summary: Snikiddy Cheddar Cheese Fries
+review/text: I've had the pleasure of trying a couple different kinds of the Snikiddy snacks. This one, and the Southwest fries. This one wasn't so good. They may be a "healthier" snack, but this one definitely wasn't very tasty.<br /><br />Snikiddy boasts of an All Natural product. Which it is. They are gluten free, no msg, vegetarian, and they have less fat than a lot of other snacks. There's even some vitamins packed in there. A read through of the ingredients shows that they can all be pronounced without problems, which is always a positive. It even has real cheese, yay! But cornmeal is the first ingredient listed. Which isn't necessarily bad, but I wish corn wasn't the predominant ingredient. It would be nice to have a snack without corn.<br /><br />The taste, its kind of hard to describe. Worse than cheetos, definitely. It tasted cheesy I guess but not in a good way. I usually can get through a whole bag of snacks during a workday. This one though, is still sitting mostly full on my desk after about a week. I just can't make it through more than a fry or two at a time. The cheese is kind of cloying and the texture gluey once you get through the initial crunch. The taste never changes through the entire consumption but stays the same bland yuck the whole way through.<br /><br />Not a very good snack in my opinion. They need to revamp the taste to something different. A healthy snack that noone wants to eat doesn't help anyone at all.<br /><br />Review by M. Reynard 2012
+
+product/productId: B004BY7HKC
+review/userId: AMMWS46PU9MO7
+review/profileName: Virginia K
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347753600
+review/summary: Snikiddy Snacks Cheddar Cheese-Sure to Please
+review/text: I have purchased this product before, it is fantastic, have shared with friends and co workers, no negative comments, everyone really enjoyed it, this product should definitely be added to lunch programs in schools/universities etc, it being what it is- Natural and all. Thanks for carrying it.  Virginia Keutmann
+
+product/productId: B004BY7HKC
+review/userId: A18GKCC69KPR51
+review/profileName: Norman Girard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339200000
+review/summary: Surprise
+review/text: MOST HEALTHY PRODUCTS WITH NO ARTIFICIAL ANYTHING USUALLY TASTE LIKE CARDBOARD.I WAS DELIGHTFULLY SURPRISED AT THE GREAT FLAVOR AND ACCOMPANYING GREAT PRICE.I ORDERED SMALL BAGS BUT NEXT TIME I NEED LARGER ONES THEY ARE SO TASTY.
+
+product/productId: B004BY7HKC
+review/userId: A2BZRU1B3DY7BX
+review/profileName: GadgetGuy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330819200
+review/summary: Love Snikiddy products. Sent this to friend for Birthday, he loved em too.
+review/text: I love Snikiddy's French Fry Ketchup snacks a lot. so much I buy them by the case. They are baked, have no Sat fat, and are low in everything else. They actually taste like McDonald s or Burger King French Fries with Ketchup, but don't have the bad stuff.<br /><br />My friend on the other hand loves cheese and never heard of Snikkidy, so I sent him a case of the cheddar cheese snacks as an extra surprise gift(in addition to the reg present I sent)and he flipped.<br /><br />He loves em !
+
+product/productId: B004BY7HKC
+review/userId: A2CQIWHK4CKTGZ
+review/profileName: C. Stowe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: Great gluten free snack
+review/text: Out of all of the gluten free snacks I have tried, I think these ones are the best. They are nice and crunchy and the cheddar flavor is spot on. The flavoring doesn't seem as salty or processed as other cheese snacks I used to eat before having to go gluten free (Cheetos, Doritos, etc.) I actually prefer these to the cheese snacks I grew up on.
+
+product/productId: B004BY7HKC
+review/userId: A221I9R7I92ORO
+review/profileName: IRG
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1311724800
+review/summary: My newest baked snack favorite
+review/text: As someone who is fond of baked  cheddar cheese puffs, crackers and potato chips (I wish I was not), I was interested to try these. I'm always looking for something with great flavor but also something that is not outrageously high in calories or sodium and that has acceptable ingredients (you can view the nutritional information for the cheese fries here: [...]) and not a lot of chemical ingredients.<br /><br />These are marketed as baked "fries" and from my tastebuds' perspective, they are a much healthier alternative than the real thing. They have that crisp and crunch you don't find in chips (or I haven't found) plus great taste.<br /><br />Now, they aren't low calorie at 130 calories for a 1 ounce serving (about 4.5 servings per package) so you do have to restrain yourself, cause it is VERY easy to eat the bag in a couple (if not one or two) sittings if you don't restrain yourself.<br /><br />If you're looking for a cheesy "fried" alternative in a baked snack, give the Snikiddy Cheddar Cheese baked fries a try.<br /><br />They are now available at more retail stores where I live, but the price remains a bit higher than similar products that come with more ounces per package. But again, it's all about taste.<br /><br />You don't need to eat a lot of these to fill up fast and feel satisfied. Something that's also a consideration along with taste.
+
+product/productId: B004BY7HKC
+review/userId: A9PKYI8B9V9VB
+review/profileName: V. Vanderbent "always curious"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1337126400
+review/summary: Sad snack product
+review/text: I've had cheddar cheese puffs from a different manufacturer that were so inconsistent from one batch to another it made me wonder how companies get away with it, but this beats them all. I love snacks like this, I just didn't like this particular product - at all. It appears they use artificial coloring though they say they don't; the fries are thin; the fries break easily; the fries lack any discernable real cheese flavor and are so full of air, they're just like cheese puffs in potato fry shape. And poor tasting puffs at that, but I said that already. Avoid, despite the attractive price. There's nothing organic in it either, so the price should be even lower than what it already is.
+
+product/productId: B004ZI8NBQ
+review/userId: AJRGRPE8622OO
+review/profileName: nelbel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: Yum!
+review/text: I love Korean Red Pepper Powder. It adds such depth of flavor to soups and stews. It also has the most delicious scent! Korean Red Pepper Powder is even good used in cuisine other than Korean!
+
+product/productId: B0014C0HJW
+review/userId: A2ICKRVZ0FTVT6
+review/profileName: Mark E. Root "Rootman"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233100800
+review/summary: Cinna-Miunt
+review/text: We keep a tin of these in each car all the time.  They are no calorie, taste great and pick you up when you need a quick cinnamon burts.  The best mint there it!!!
+
+product/productId: B0014C0HJW
+review/userId: A2D9IOX4UJX1JJ
+review/profileName: Laura O. Brokaw
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287446400
+review/summary: Yummy
+review/text: These are so hard to find, but they taste wonderful.  Not too hot, not too mild.  I love keeping these in the car.
+

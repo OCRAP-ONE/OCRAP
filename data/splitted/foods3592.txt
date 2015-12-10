@@ -1,0 +1,1143 @@
+product/productId: B001EO7INI
+review/userId: A10MO5XCHKDOOX
+review/profileName: Jura Blynas
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1298764800
+review/summary: Disappointed
+review/text: I was looking forward to trying this Tahini.  It arrived without damage, however I found the taste to have an underlying bitterness. Going back to my health food store for their less economical, but better tasting, Tahini.
+
+product/productId: B001EO7INI
+review/userId: A366MPTPSZOG6D
+review/profileName: Angela
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293840000
+review/summary: This Tahini is Awesome
+review/text: This Tahini is absolutely awesome.  It doesn't have a bitter taste and has a wonderful texture.  I will buy this product again.
+
+product/productId: B001EO7INI
+review/userId: A2NYF01KCJU7EC
+review/profileName: PawPrints4Ucom
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1320537600
+review/summary: Great Tahini!
+review/text: I prefer raw tahini, but I make a raw cashew hummus and it tastes much better with roasted sesame seeds.  This is a great tasting product and I have ordered it numerous times.  My four star rating is because I prefer the flavor of raw sesame but for toasted, it is very good.
+
+product/productId: B005E5IMII
+review/userId: A3X1WP7M9ICAA
+review/profileName: ladysiren
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350345600
+review/summary: Hoop Cheese
+review/text: The Hoop Cheese made it all the way to Afghanistan and it was perfect. Aside from the packages being a little oily from the travel, they were wonderful!!!
+
+product/productId: B00815FR68
+review/userId: A1SYSKR79LA2CB
+review/profileName: Mycroft "Virture is its own punishment"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1233014400
+review/summary: Taste wise it is a 6 star item
+review/text: The mouth says, "How do I love thee, let me count the ways..."<br />If you like apple products a must have item.  The only draw back, shipping cost.  These are very heavy.
+
+product/productId: B00815FR68
+review/userId: A3D1TXE98KRKYO
+review/profileName: Danny "The Student"
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1256515200
+review/summary: Great Support
+review/text: Arrived slightly thawed. My parents wouldn't accept it. However, the company was very helpful and issued a full refund.
+
+product/productId: B00815FR68
+review/userId: AVCA516CFZ9HF
+review/profileName: S. Fowler
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335139200
+review/summary: TART!
+review/text: The crust on these tarts are perfect.  My husband loves these, but I'm not so crazy about them.  They are just too sour/tart for my taste.  I'll eat the crust and hubby takes my filling.  My kids think they're great, so maybe it's just me.
+
+product/productId: B00815FR68
+review/userId: A1P21J0DMTVGS7
+review/profileName: Lovethemovies
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332028800
+review/summary: Omaha Apple Tartlets
+review/text: These are absolutely scrumptuous!  My husband and I both love them, however, as another customer put it, they are expensive to ship!  The cost of shipping is more than the tartlets themselves are!
+
+product/productId: B00815FR68
+review/userId: AL3E5V6MXO9B0
+review/profileName: pionex1796
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326412800
+review/summary: Loved these Tartlets
+review/text: What a nice alternative to an apple pie. Love the fact there was no slicing and dicing. Easy to prepare. I also loved the fact that you can make them fresh whenever needed.
+
+product/productId: B00815FR68
+review/userId: A2O9G2521O626G
+review/profileName: Rachel Westendorf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308700800
+review/summary: The best
+review/text: I like Creme Brulee. I loved that these were so easy. Just sprinkle on the sugar that came with and broil. They look amazing and taste great. My guess thought I really went out of the way for them when really it took all of 5 minutes. I will be ordering more!
+
+product/productId: B00815FR68
+review/userId: A1ZKFQLHFZAEH9
+review/profileName: S. J. Monson "world citizen"
+review/helpfulness: 2/8
+review/score: 3.0
+review/time: 1236384000
+review/summary: disappointing
+review/text: not what I was expecting in terms of the company's reputation for excellent home delivery products
+
+product/productId: B004XM4FGG
+review/userId: A19GFB6MYAG7PN
+review/profileName: D. Elefteriadis "Leftee's Girl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: OMG it is SO GOOD
+review/text: a lot of the things you give up with a gluten free diet is the TEXTURE of foods you used to love.  The spongy, slightly chewy moistness of a decadent chocolate cake is missing out of most box versions.  This one does not disappoint!<br /><br />I am buying a case.  It's that good.
+
+product/productId: B000VK4EVA
+review/userId: AACDBDRQQM2EJ
+review/profileName: MLE "MLE"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1273536000
+review/summary: Great
+review/text: Love the packaging and the flavor is great.  I used to get the William Sonoma brand but they stopped making them.  This is definitely a good alternative
+
+product/productId: B000PUMJ22
+review/userId: A39FCZFPSTJUIV
+review/profileName: E. Cronk "Terrierific"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Delicious
+review/text: brought my first bag back from Melbourne 7 years ago and have been ordering it ever since. The best finishing salt for fresh vegetables - steamed or raw!
+
+product/productId: B0016BOAF8
+review/userId: A2W3SAOSYKUT0Q
+review/profileName: schefe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1265932800
+review/summary: xylichew gum
+review/text: longer lasting flavor and nicer softer chew than other xyltol gums<br />seems to be out of stock frequently.
+
+product/productId: B000G7TBKM
+review/userId: A24KH2LLYGFSTP
+review/profileName: CleffedUp
+review/helpfulness: 65/70
+review/score: 5.0
+review/time: 1258675200
+review/summary: Evil.
+review/text: These pretzels are evil. When my snacking comes to an end, I see flashes of myself laying on the unkempt wooden floor of an abandoned house. Scant beams of light burn between the cracks in the boards on the lone window frame, illuminating my tattered and orange-stained clothes. The sound of my body writhing over a pool of empty yellow aluminum bags, a half foot high up the empty broken walls, is quieted only by the echo of my cries of longing and despair.
+
+product/productId: B000G7TBKM
+review/userId: A2BPBHC8ZSELQ9
+review/profileName: T. Yoder "bluebottle_7"
+review/helpfulness: 16/17
+review/score: 4.0
+review/time: 1192406400
+review/summary: These are awesome, fatty, and flavorful.
+review/text: These little pretzel pieces are totally addictive, which is probably not a good thing because they're a lot worse for you than you'd think pretzels should be. They have around 60 fat calories and 3 grams of saturated fat in ONE ounce, which equals out to be 15% of your daily sat fat intake per serving (one ounce).<br />The reason they're so good AND so fatty is that the mustard/onion seasoning is in an oil that permeates through the shell of the pretzel, making them extra flavorful and not dry at all. They're a little sweet, have good mustard flavor, and the onion flavor even comes through a little (they taste like they're supposed to). I try to just grab a handful at snack time and quit while I'm ahead, but I usually end up going back for more later.<br />If you're willing to put up with a little extra fat for a lot of extra flavor, these are a perfect snack.
+
+product/productId: B000G7TBKM
+review/userId: A1VI3X4BG4PMQC
+review/profileName: S. Dotlich
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1210291200
+review/summary: It's like eating real hot wings!!!
+review/text: If you like pretzels and you like hot wings. Do yourself a favor and try these. You will not believe how much like a true hotwing they made these pretzels taste.<br />Oh and to the 3 star reviewer who didn't like that they are hot. Umm they don't call them cool wings. They are not hot, but do have a spice to them. If you are someone that eats hotwings you will love them.
+
+product/productId: B000G7TBKM
+review/userId: A17FNU1A3FIRIM
+review/profileName: NotListening "So there!"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1291852800
+review/summary: Can't stop eating these puppies!
+review/text: I love buffalo wings; not just the heat, but the flavor! This product, while not offering tongue-burning, sinus-clearing heat, has good bite to it. The flavor--how can I describe it? It's very addictive! I can down a whole 10 ounce package in no time. I'm not sure if I'm imagining it, but there seems to be a hint of a bleu cheese taste in there as well, which adds to the whole "hot wing" experience of the snack, in my opinion.<br />My kids like these as well. I have to hide the bag from them sometimes just to ensure that I get my fair share.
+
+product/productId: B000G7TBKM
+review/userId: AUCW2I68TDTQ5
+review/profileName: Matthew R. Davis
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252713600
+review/summary: Delicious!
+review/text: These are delicious. Taste exactly like a buffalo wing should taste. They are not very healthy but I don't care. I love them.
+
+product/productId: B000G7TBKM
+review/userId: A13E08777SGIBC
+review/profileName: J. Gagliardi "joannag4942"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1178668800
+review/summary: I love this snack
+review/text: I'm a girl from buffalo NY and these have true Buffalo hot wing /hot sauce flavor. I can easily eat a whole bag - although it probably would not be wise. Do yourself a favor and buy this snack! I just bought a case to give as treats to friends that enjoy a good hot wing
+
+product/productId: B000G7TBKM
+review/userId: A2II09GQGWOMTQ
+review/profileName: Brian Nallick "METALMANMN"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332806400
+review/summary: Jalapeno apocalypse!!!
+review/text: I've tried the Buffalo flavor and loved them.<br />They taste great all by themselves or tossed in a salad.<br />Then I saw they had jalapeno.<br />Anything with jalapeno and I start drooling all over myself.<br />I saw.<br />I bought.<br />I ate.<br />I cried...they were all gone.<br />I bought more.<br />(Brian doing happy jalapeno dance).<br />Delicious.<br />Unhealthy.<br />Who cares.......recommended.
+
+product/productId: B000G7TBKM
+review/userId: A2OA8MXM2CKJVV
+review/profileName: eric
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311033600
+review/summary: Maybe too delicious?
+review/text: Snyder's Honey Mustard & Onion Prezel Pieces might very well hold the title for most delicious non-candy snack item.  A large bag rarely lasts a day in my house, which isn't a good thing when they're pretty caloric.  They're so delicious you just want to stuff a whole handful in your mouth and slowly suck the flavor out of them, crunching on the remains as you look like a mad squirrel.<br /><br />I would go as far as to say that you could eat these every day and not get tired of them.  I would replace every meal of the day with these things if I wasn't afriad of them giving me heart disease.<br /><br />Try them once and you'll be hooked.  I have tried the other flavors since some stores run discounts, none of the other flavors were anywhere near as good as the Honey Mustard & Onion.  Buttermillk Ranch is ok, but you can't top Cool Ranch Doritos.  Cheddar Cheese wasn't good at all, and Buffalo Wing was hard to eat (flavor makes your hands all nasty).
+
+product/productId: B000G7TBKM
+review/userId: A3UXMCZD5HHEE1
+review/profileName: Wendy Moffitt
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301702400
+review/summary: Honey mustard pretzels
+review/text: There are many types of honey mustard pretzel but the Snyder Honey Mustard pieces are the best most flavorful and satisfying to me others just don't compare and are lightly flavored in comparison.  I LOVE them.
+
+product/productId: B000G7TBKM
+review/userId: A2WCUH4O3QRBLL
+review/profileName: DBaer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1287792000
+review/summary: World's Best Pretzels
+review/text: This is a kind of pretzel that will make your taste buds tingle, if you honestly don't like pretzels much at all, you will love them after you try these pretzels.  They are the most excellent tasting pretzels around.  I would strongly inform people to try these amazing pretzels.
+
+product/productId: B000G7TBKM
+review/userId: A1JANFHYNNKRYN
+review/profileName: I-sung Yang "chubby"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286236800
+review/summary: Excellent taste for all ages
+review/text: Bought a trial bag at a local market.  Taste is very addicting.  The whole family loved it, even the little ones.  Bought bulk at Amazon and spread the wealth to other family members, co-workers, and friends.  All seem to enjoy this flavor and texture quite nicely.  Good price at Amazon and 12 pack is gone in no time.
+
+product/productId: B000G7TBKM
+review/userId: A2IJFCJVF6CZCD
+review/profileName: E. Benducci
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1223942400
+review/summary: Hot Buffalo Wing Pretzels
+review/text: Love them! Gotta have them! They really are good especially if you like HOT treats!
+
+product/productId: B000G7TBKM
+review/userId: A1VI3X4BG4PMQC
+review/profileName: S. Dotlich
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1222992000
+review/summary: Amazing
+review/text: If you like Buffalo Wings, You'll love these. I can't believe how they can make a pretzel taste so much like a buffalo wing. These are GREAT!<br />If you haven't tried them yet, do yourself a favor and try them today.
+
+product/productId: B000G7TBKM
+review/userId: A12MQA7IMXZ7JT
+review/profileName: TV Freak "DWs Dad"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1221264000
+review/summary: Great Taste - Goes fast
+review/text: Everyone in the family (and my daughter's friends) like these.  Even though you get 12 bags they don't last long.  Need to refill every few months.
+
+product/productId: B000G7TBKM
+review/userId: A1FPM1AAUDJ30L
+review/profileName: Kerry J Halva
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1219968000
+review/summary: Hot Stuff
+review/text: <a href="http://www.amazon.com/gp/product/B000G7V3BM">Snyder's of Hanover Hot Buffalo Wing Pretzel Pieces, 10-Ounce Packages (Pack of 12)</a> If you like pretzels, buffalo wings, heat and salt you will love these.  They are a product that actually delivers on their promises.  They are hot and spicy, but not in the bland heat just to say they are spicy of so many other products.  These have the heat and the vinegar tang of actual buffalo chicken wings.  I love them.  Unfortunately they don't last long at our house.  Once a bag is opened they are gone as the burst of heat you get from them is addictive. The only downside aside from the speed at which they get eaten is the orange fingers you get from them.  But that is a small price to pay for entrance into flavor heaven.
+
+product/productId: B000G7TBKM
+review/userId: AQ86MVVQOQH6G
+review/profileName: A. White "pretzel lover"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1181606400
+review/summary: yummy!!!!!!!!!!!!!!!!!!
+review/text: I found the Butermilk Ranch Pretzel Pieces while on a trip to Texas a couple years ago.  My family and I feel in love with the flavor as well as the crunch.  But, to our dismay, that particular flavor was almost impossible to find in our state of Connecticut.  I found the web site and Voila!!!! Twelve scrumptious bags of the tasty treat.
+
+product/productId: B000G7TBKM
+review/userId: A2IUXZ60NRW8ZO
+review/profileName: Debi71294
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: Hanover HMO Pcs
+review/text: I am huge pretzel lover.<br />These in my opinion, are the best tasting pretzels out there.<br />They are TRULY finger licking good.  Everybody I know who has tasted them raves about the flavor.  I don't think you could have found a better combination of flavors to add to a pretzel.  I've tried Hanover's other flavors but they don't come near this all time favorite.  I did have to stop buying and eating them because of health reasons, but when I did eat them, I would not be without any in  my house.
+
+product/productId: B000G7TBKM
+review/userId: A26SMQZS13HCRB
+review/profileName: Martain
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1329004800
+review/summary: hit and miss
+review/text: Honey mustard and onion was so good I wanted to try more flavors...buttermilk ranch tasted more like a pickle than ranch.  I hate to throw food away but I just couldn't eat them.  Like I said though honey mustard and onion are great, just don't kiss anyone after eating them.
+
+product/productId: B000G7TBKM
+review/userId: A2A8KWCE8RKB9T
+review/profileName: David Glazer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327708800
+review/summary: Pretty good
+review/text: These are pretty good and these are not low calorie..they are about the same as potato chips....so they are not like regular pretzels....get em on sale in Amazon Warehouse and then go make some friends.
+
+product/productId: B000G7TBKM
+review/userId: A274A2Z8QVMKUH
+review/profileName: Sassie580
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324857600
+review/summary: Food of the Gods
+review/text: I just love these pretzels.  There was only one bag on the shelf at the store today and I nearly had a heart attack!  Totally panicked thinking "Oh no what if they have discontinued them"  I sure hope they never will!
+
+product/productId: B000G7TBKM
+review/userId: A2PSC7LUNIDEAH
+review/profileName: Dmitry Kristal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318809600
+review/summary: The best pretzel snack you can buy.
+review/text: These are absolutely mouth-watering.  About 10 nibblers will cost you:<br /><br />-130 calories<br />-3 grams of fat(1.5 sat. fat.) - no trans fat<br />95 mg sodium (just 4% dv)<br />3g protein (amazingly you get protein out of this)<br />Less than 1g sugars<br />23g carbs (8% DV<br /><br />Also has 10% DV or less of: Iron, Riboflavin, Folate, Niacin, Thiamin.<br /><br />With the taste this good and nutrional value so great, this might make you ditch the fatty chips and start buying these.  I don't even feel guilty about over-eating these from time-to-time.  I solute Snyder's for making these!
+
+product/productId: B000G7TBKM
+review/userId: A2WYKLLB8LA52T
+review/profileName: J. Gardella "jdgardella"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314835200
+review/summary: Get Some!
+review/text: A few words that come to mind.....amazing, wonderful, astonishing, delicious, fantastic, and delightful.  Thank you Snyder's of Hanover for these pretzle pieces bravo!<br /><br />These are the next best thing to an actual Buffalo chicken wing!
+
+product/productId: B000G7TBKM
+review/userId: A2P7T94KQGQVZC
+review/profileName: Alexander Reeser "vilago"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1312502400
+review/summary: Brazil nut effect?
+review/text: These taste great and they are my snacking weakness! however, they get on my nerves because the non-uniformaly shaped pieces exhibit the brazil nut effect where granular particles of similar/equal density tend to be on top aka the larger pretzel pieces tend to be in the first handful but as you eat more the smaller ones are always on the bottom of the bag no matter what you do. frustrating but unavoidable. just be aware.<br /><br />snyder should get a better pretzel chipper machine or whatever they use and keep the size consistent! if it works for potato chips why can't it work for pretzel???
+
+product/productId: B000G7TBKM
+review/userId: A1FWSD2IT03MTE
+review/profileName: Jasmine22
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310601600
+review/summary: The Best!!
+review/text: I don't like pretzels and was hesitant about trying these but omg they are gooood!! I couldn't taste the actually pretzel, just the hot wing. I love this and definitely adding to my favorite snacks. The honey mustard isn't bad either but hot wings are #1!
+
+product/productId: B000G7TBKM
+review/userId: A1H0S0Z1GPA57
+review/profileName: birdmfc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303257600
+review/summary: Best Pretzels Ever!!
+review/text: These are not sold in stores where I live, so I had to order them online.  They are the best pretzels ever, we eat them all the time.
+
+product/productId: B000G7TBKM
+review/userId: A1PI8VBCXXSGC7
+review/profileName: Lynn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300320000
+review/summary: Cheddar Cheese - Bursting with Flavor!
+review/text: <a href="http://www.amazon.com/gp/product/B000G7VYRA">Snyder's of Hanover Cheddar Cheese Pretzel Pieces, 10-Ounce Packages (Pack of 12)</a> package claims these pretzels are bursting with flavor. I agree with this claim, my family agrees with this claim, my son's family agrees with this claim; as a matter of fact, everyone I've shared these pretzels with agrees with this claim.<br /><br />These are hard, sourdough pretzel pieces.  I'd guess the average size is 1/2" x 3/4" - 1"  of all different shapes because they are randomly broken. I ordered these using Amazon's subscribe & save program which brings the price down to less than I'd pay in the supermarket. Twelve packages are a lot. I share them with my family & friends.<br /><br />Nutrition Facts:<br />1 oz. or approx 1/3 cup serving = 130 calories<br />Total fat 6g<br />~Saturated fat 3.5g<br />~Trans fat & Cholesterol 0<br />Sodium 260 mg (11% of your daily value)<br />Total Carbs 18g<br />~Fiber less than 1g<br />~Sugars less than 1g<br />Protein 2g<br />Vitamin A, C, & Calcium 0<br />Iron & Niacin each 6%<br />Riboflavin 8%<br />Thiamin 10%<br />Folate 20%<br /><br />I can't really describe the flavor so I thought I'd list some of the ingredients which make up the 'burst of flavor.' Included in the ingredients: Cheddar cheese, buttermilk powder, onion powder, tomato powder, spice, nonfat dry milk, garlic powder, turmeric extract, annatto extract, & paprika extract.<br /><br />Allergy info: These are produced in a facility that handles peanut butter.<br /><br />Warning...very addicting!!!
+
+product/productId: B000G7TBKM
+review/userId: A81LEWNPJ49WO
+review/profileName: Danny
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1295222400
+review/summary: Jalapeno: Awsome Tase, can only eat 5 at a time...
+review/text: There is 3,800 MG of sodium in this entire 10oz bag, that's alot of salt. It's very salty, its unnessary for the flavor, but hey, its awsome when you eat like 5 pieces, than another 5 an hour later. I reccomend these
+
+product/productId: B000G7TBKM
+review/userId: A16O0S1QROXGJM
+review/profileName: Amy in SC "Amy in SC"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1294617600
+review/summary: Order with caution
+review/text: These taste great and arrived well packaged.  However, be prepared to eat these in a hurry - the expiration date was only 2 weeks away when they arrived. Eat quickly or throw away.  Amazon really needs to improve this problem.
+
+product/productId: B000G7TBKM
+review/userId: A33X6G6VME0WA0
+review/profileName: SURVIVOR "SAILBOAT RACER"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1279929600
+review/summary: SNYDERS PIECES
+review/text: Excellent product, received promptly and fresh when opened. However, I found it was priced about the same as in Walmart. I expected more of a price bargain when ordering in bulk.
+
+product/productId: B000G7TBKM
+review/userId: A4FCEHJ2IKOU9
+review/profileName: mo girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1277424000
+review/summary: pretzel pieces snack
+review/text: Love this snack!  <a href="http://www.amazon.com/gp/product/B000G7VYRA">Snyder's of Hanover Cheddar Cheese Pretzel Pieces, 10-Ounce Packages (Pack of 12)</a>Cannot find it locally any more so Amazon is my go-to store.  Ordering is easy & convenient, price is comparable to stores, delivery is quick.
+
+product/productId: B000G7TBKM
+review/userId: A152HHNM1G7YIN
+review/profileName: J. J. Archer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270512000
+review/summary: snyders jalapeno pieces
+review/text: excellent product, however high in salt, but I love them...recommend to all<br />people who like spicy stuff..
+
+product/productId: B000G7TBKM
+review/userId: A1M3625X7X5MKY
+review/profileName: Sonya Lipps
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265155200
+review/summary: excellent
+review/text: these pretzels are so great! i purchased them for my husband because we can no longer find them in the grocery store. i highly recommend them to anyone who likes spicy foods.
+
+product/productId: B000G7TBKM
+review/userId: A2X27DCR0QI5OV
+review/profileName: Izz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1258502400
+review/summary: It tastes soo good!
+review/text: I bought a bag for our road trip and everyone just dived into it till it was all gone. Nobody could stop, even those who don't usually like pretzels. It's savory with a hint of sweetness. Yum.
+
+product/productId: B000G7TBKM
+review/userId: A3388KHFJG3IE9
+review/profileName: Milford Duane Hickory Montgomery "gotfish"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1253145600
+review/summary: 10 stars actually!
+review/text: Although these are really excellent by themselves, I use them as croutons on my daily salad.  Totally wonderful.  It just wouldn't be a great salad without them.
+
+product/productId: B000G7TBKM
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1249257600
+review/summary: The best!
+review/text: As a rule, Snyder's just makes the best pretzels, hands down.  They've been making them for 100 years now and well, there's a reason they're still in business!  These are great - they disappear rather quickly.  My only complaint is that they're small and very hard so they scrape the roof of your mouth.  Other than that, they're the best tasting things out there.  Highly recommend!
+
+product/productId: B000G7TBKM
+review/userId: ARFQMW7PET9I3
+review/profileName: P. Strickland
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1248739200
+review/summary: You can't eat just a handful!
+review/text: These are the best pretzel snack out there.  The broken pieces really soak up the flavor which a whole pretzel would not.<br /><br />And what everybody else said!
+
+product/productId: B000G7TBKM
+review/userId: A12D1F0XB6E4PO
+review/profileName: BEN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1245456000
+review/summary: WILL EAT WHOLE BAG AT ONE SITTING !
+review/text: Goodness, these are soooo good. the most tastiest snack on the planet. It lights up your eyes. and you go YUMMMMM. and you cant stop. they are addicting !  There must be a cult fan club over this particular snack if there isnt one already. Get someone to try it who never had it before. They will be addicted as well.
+
+product/productId: B000G7TBKM
+review/userId: A435KUVVQBFOV
+review/profileName: K. L. Miller
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1236211200
+review/summary: YUM!
+review/text: These are awesome tasting, like authentic Ranch dressing, but dont eat too many in one sitting as the flavour can overpower!
+
+product/productId: B000G7TBKM
+review/userId: A1ZFS59IHNVHQK
+review/profileName: 2boys_enough "2boys_enough"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231804800
+review/summary: Finger-licking good
+review/text: These are spicy and salty, and highly addictive if you don't worry about the salt content. I am sure after the case of 12 I will die of kidney damage one day. But they are that good.
+
+product/productId: B000G7TBKM
+review/userId: A1ZFS59IHNVHQK
+review/profileName: 2boys_enough "2boys_enough"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1231804800
+review/summary: Absolutely addictive
+review/text: My son discovered these somehow so we purchased some from the grocery store. Yummy. Very salty (but not as much as the buffalo wing flavor), and yes, not as "good" for you as the regular pretzel, but hey, they taste 10 times better. Bag gone in 10 minutes. Thanks to the other reviews I now have no fear getting the box of 12...
+
+product/productId: B000G7TBKM
+review/userId: A1BD2GPUEV08WX
+review/profileName: Charles Richardson "Charlie's Express Stop"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1230163200
+review/summary: Quality Presels
+review/text: Snyder's are the best quality pretzels, in my opinion.  The fact that they have been around for 100 years speaks for itself.<br /><br />Also as a retail convenience store I get my supply from Amazon because the price is right.  On Subscribe and Save I make over 40% at retail price as oppose to the 25% I use to with a local middle man distributor.
+
+product/productId: B000G7TBKM
+review/userId: A1J15LNHEF1QSE
+review/profileName: ZeusGalore "Zoos"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1225238400
+review/summary: Tasty Bliss
+review/text: Oh Glorious day when I found the best snack treat on Amazon.  Just like hot wings, except in pretzel form.  No longer have to wait for the store to get in stock, I can order online now.
+
+product/productId: B000G7TBKM
+review/userId: A3VZHV0YN4XPPO
+review/profileName: T. Jefferis "mathmom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223164800
+review/summary: Mississippi Mathmom
+review/text: These pretzels are wonderful.  The heat is present but not overpowering.  My 4, 7, and 13 year old kids love them.  Try using them in your "famous name cereal" party mix.  It makes a big difference!
+
+product/productId: B000G7TBKM
+review/userId: AMDN7KZJVHKDG
+review/profileName: B. S. Wright
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1222905600
+review/summary: Hot Stuff!
+review/text: I tried these as I had already ordered the regular Snyder's pretzels.  They are very good and very hot.!  If you don't like "hot stuff" they are probably not for you.
+
+product/productId: B000G7TBKM
+review/userId: A2Y0YUFEC6R6WO
+review/profileName: Em M
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1203292800
+review/summary: A little broken up but the taste is GREAT!
+review/text: I really loved  Snyder's of Hanover Cheddar Cheese Pretzel Pieces, 10-Ounce Packages (Pack of 12).  The taste is fabulous and texture is crunchy.  Mine arrived a little broken up but that doesn't change the great taste.  Just smaller bits to nibble on!  Wish I could put this order on automatic!
+
+product/productId: B000G7TBKM
+review/userId: A7MXWFCWVXJZE
+review/profileName: H. Smith "Beautacentric"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1185926400
+review/summary: SOOOO GOOOOD
+review/text: If you are in the mood for good eats (ok maybe Alton Brown can charge me for that) try these jalapeno pretzels. They are very good, not too hard and great flava flav. And it's really true you get 12 packages.
+
+product/productId: B000G7TBKM
+review/userId: A1QXXWCAX6TBSD
+review/profileName: R. Hill "sopretti"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1181260800
+review/summary: Feeds my addiction
+review/text: It can be hard to find this flavor in the grocery stores; I made sure to stock up.
+
+product/productId: B000G7TBKM
+review/userId: AJNX9JEXOAS7V
+review/profileName: B. A. Smith "Gramma Bobbi"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1245801600
+review/summary: Holy Hot Sauce, Batman!
+review/text: Who knew they could put buffalo wings in a bag?  These pretzel pieces are absolutely wonderful . . . and  . . . a-hem . . . less fattening than actual chicken wings.  All the glory, less fat!  Yummy!  Yummy!  Yummy!
+
+product/productId: B000G7TBKM
+review/userId: A1VRJDJRSA6UYB
+review/profileName: C. Liebendorfer
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1209859200
+review/summary: I'm addicted
+review/text: I am hopelessly addicted to these jalape&ntilde;o pieces. Someone help me. I need some kind of medication to wean me off of them.
+
+product/productId: B000G7TBKM
+review/userId: A3QB2JR2QR129T
+review/profileName: Jie Zhang "Parker"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1172793600
+review/summary: Taste very good
+review/text: I tried it in a party and found it very tasty.  It is kind of oily, though.
+
+product/productId: B000G7TBKM
+review/userId: A3VVFKKKT2BMYX
+review/profileName: J. Moon "thepacket"
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1256342400
+review/summary: Buyer Beware
+review/text: Taste is good.  Received the product on Oct. 22nd, 2009, but ALL 12 bags expires on Nov. 29th, 2009.  Only 38 days to eat them all or give away.  I will NOT order again.
+
+product/productId: B000G7TBKM
+review/userId: A1LIUOB88X6RSJ
+review/profileName: Leisel "new online shopper"
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1201564800
+review/summary: Great, but 11 of the 12 bags came.
+review/text: These pretzels are very tasty when you crave a salty, mild cheddar cheese flavor. They are crunchy and hard, which I love. But, the box was one bag short (11 out of 12).
+
+product/productId: B000G7TBKM
+review/userId: A2HTDMMRJRE9YQ
+review/profileName: Seenu Subbu "Seenu Subbu"
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1280188800
+review/summary: Salty,Salty,Salty,Salty and more salty
+review/text: Very flavorful, jalapeno is a fantastic concept for Pretzels. Random bags yield random results, the first pretzel in your mouth is an awesome experience, for the most part.<br /><br />But, for crying out loud, why do they have to add an YEAR'S WORTH OF SALT in one friggin bag?!! It's not consistent, sometimes you get lucky with the top portion of the bag when it's not all that salty, but by the end of one bag, you do get the feeling that you have consumed an ocean's salt content. Why this idiocy? When all one craves for is the taste of spicy jalapeno? The sucker that I am, I eat the first couple of pretzel pieces and then throw the whole bag away, it's serious sodium poisoning if you do consume the whole bag.
+
+product/productId: B000G7TBKM
+review/userId: A300GMVCM24VLB
+review/profileName: Horacio Villarreal "Ecadese"
+review/helpfulness: 1/6
+review/score: 2.0
+review/time: 1290988800
+review/summary: Not the best Snyder's of Hanover Pretzels
+review/text: Snyder's of Hanover makes good pretzels (Honey Mustard & Onion is my favorite), but these are just not appetizing at all.  "Hot Buffalo Wing" gets its kick from dried cayenne pepper sauce.  So if you are a fan of peppers you might like this pretzel.  They are nowhere near as good as Honey Mustard in my opinion, though they aren't as bad as just cheddar cheese.  Hot Buffalo seems to be enhanced by eating them with other food, in my case, chocolate M&M's.  If you like a spicy zing, try these pretzels, they are not horrible.  If you like sweetness just stick to Honey Mustard & Onion.  Nutrition-wise, are not the best as they contain MSG and caramel color.  Also, if you consumed an entire 10 oz. bag in one sitting, you would be consuming 1400 calories.  I guess their good if you are trying to gain weight like I am trying to do.  Otherwise stick to the healthier counterpart of the unflavored ones.
+
+product/productId: B000G7TBKM
+review/userId: ADJKLEFWNZFI3
+review/profileName: Elizabeth A. Chinappi "avid reader"
+review/helpfulness: 0/6
+review/score: 3.0
+review/time: 1197072000
+review/summary: hot wings
+review/text: the "hot wing" pretzels were hot. if you like hot things you will like these.
+
+product/productId: B003ZIAOV4
+review/userId: A2YQTQ9DI3WYK8
+review/profileName: TH
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319328000
+review/summary: Knock off brand made from Concetrate
+review/text: Not made in USA as stated. This is NOT made by "Florida's Natural", Amazon has the wrong information listed.  It is a knock off brand by a company called "Florida's Natural GROWERS PRIDE".  Bottom of can states:<br />"Product of ARGENTINA, made from concentrate".
+
+product/productId: B0041CK6FW
+review/userId: AZV26LP92E6WU
+review/profileName: M. Hammond "ColemanFlGuy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341878400
+review/summary: another great amish noodle
+review/text: these are very good but they are not my favorite. these are good for a change. they add a little bit of variety to the menu. my favorites are the "amish kitchen noodles wide & extra wide". those are really delicious. they are unbelievable delicious with mashed potatoes. i will eat these noodles up though. they will not go to waste.
+
+product/productId: B002JVJU6S
+review/userId: A1WE8KTC20NY65
+review/profileName: Denise
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309996800
+review/summary: Great Sauce!
+review/text: Since Rib-It went out of business, we had a tough time finding another sauce we loved until we found Bone Suckin sauce.  We prefer the flavor of the 'hot' variations even though the flavor isn't really hot...it's kinda sweet with a tang (but not overly sweet like a brown sugar or honey bbq sauce).<br /><br />The thicker style is nice to get a good bbq sear on the grill.  The normal sauce is very thin and is basically great as a dip, marinade or mix-in.  But this thicker style can definitely stand on it's own!
+
+product/productId: B001UUJ910
+review/userId: A2YKWYC3WQJX5J
+review/profileName: Shannie "Shan"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1341705600
+review/summary: Nothing special
+review/text: I tried a different brand of lemon juice and lemon oil from Italy, and liked it. This one is cheaper, but there is a reason for that. I suspect my other brand has a higher dose of the oil, or comes from tastier lemons. My batch expires in December, but can it be that DeLallo uses the European way of writing a date, where JULY 12th, 2012 would read 12/7/2012? Maybe I was sent a batch that is expired.
+
+product/productId: B001UUJ910
+review/userId: A2FFAC8S1KZ1IX
+review/profileName: William J. Deangelis "blueshadow"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316822400
+review/summary: A Very Good Product
+review/text: This product is perhaps a half-cut below that of the similar Sicilia Brand product, but way ahead of any other such product (Goya, Realemon, etc.  The taste is close to that of freshly squeezed lemon juice, but just a tad off - there is a slight hint of a taste which I can best describe as that of a very good lemon gumdrop mixed in with the natural lemon flavor.<br /><br />You need to be careful about reading labels on such products. The Sicilia brand uses sulpher dioxide as a preservative. Sulpher dioxide, in small quantities, is harmless to most people, but can trigger a serious allergic reaction in a small percentage of people. I cannot tell from the information here whether that preservative is used. It's never bothered me at all, but people should be careful about such things.<br /><br />What I can vouch for is that this product has a very pleasant taste and is very easy to use.
+
+product/productId: B001UUJ910
+review/userId: AD2QRU9ZXBQZ1
+review/profileName: Domestic Gnome
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1262131200
+review/summary: Not especially strong lemon flavor
+review/text: Expected stronger lemon flavor so have to use a lot to really taste the lemon.  Not terrible but pretty mediocre...
+
+product/productId: B001UUJ910
+review/userId: A1EMHZ5HO010GC
+review/profileName: C. Lane "Be the change you want to see in the...
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1250553600
+review/summary: You'll Love this!
+review/text: Has the most wonderful fragrance!  You'll think you just sliced open a lemon.  I'm hooked on this product.
+
+product/productId: B001UUJ910
+review/userId: A2S3ZODBPE4XI5
+review/profileName: Sergio A. Rodriguez
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1303516800
+review/summary: DeLallo Juice
+review/text: Not as good as a fresh lemon, but close.  The best part of it is the convenience of it.  You can just open the cap and squeeze.  Also, it's a perfect size they come in.
+
+product/productId: B005F0JM7W
+review/userId: A2O4V3MCB7EPPU
+review/profileName: Bellingham Bookworm
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1339804800
+review/summary: I love this K-cup holder so much I bought a second one!!
+review/text: I don't like to have a lot of kitchen counter clutter so I was so happy to find this product.  I read a bunch of the reviews ahead of time so I went ahead and secured it with the screws so it wouldn't go anywhere.  I love this thing so much that I bought a second one so both my husband and I can have our own coffees in our own holders. The design is sleek and I love being able to have a bunch of different flavored coffees right by my Keurig without having a pile of different boxes on the counter.<br /><br />The one tip I would like to pass on is to open and close the holder by using the front bar only.  Otherwise it can go up cockeyed and not close up flat.
+
+product/productId: B005F0JM7W
+review/userId: A111HFSKT81IK8
+review/profileName: Kenneth J McTavish Jr
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1324944000
+review/summary: Solid unit
+review/text: Bought the smaller one for the wife.  Mounting is a breeze.  I went ahead and used the screws to insure it wasn't going anywhere.  Perfect way to store your K cups without taking up a drawer or more counter space.  It tucks them away nicely out of site under the cabinet.  Highly recommend this unit.
+
+product/productId: B005F0JM7W
+review/userId: A18WIGYN4TK4R3
+review/profileName: Handyman321
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1324166400
+review/summary: Nice ...BUT
+review/text: Very nice item. The BUT is about the self (non)sticky tape provided. Had it installed about my wine glasses. In the middle of the night it fell down. It comes with screws USE THEM!!!<br /><br />Will look for another though.
+
+product/productId: B005F0JM7W
+review/userId: A2RUQFW6UBKAT
+review/profileName: Kean Christensen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1338163200
+review/summary: Kcup at hand
+review/text: These are great.  I purchased 3 of them.  One for coffees, one for teas, and one for specialty drinks.  I like that these are not sitting on my cupboard taking up space.  Well made
+
+product/productId: B005F0JM7W
+review/userId: A2EX2DK4BO680S
+review/profileName: N. Williams
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1337990400
+review/summary: Great storage for k cups
+review/text: This was easy to install. After reading other reviews I decided to use the included screws. The bottom of my cabinet has a rough texture so I doubt the adhesive would have held very long. I did use it to keep the rack in place while I screwed it in. I love that it keeps my countertop clutter free. This is by far the best storage for k cups!
+
+product/productId: B005F0JM7W
+review/userId: ASOCQE81BEUEZ
+review/profileName: Beulah Hammond
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1333670400
+review/summary: BEST Storage option for kcups, IMHO.
+review/text: I love this storage option for kcups.  The rack mounts EASILY under a cabinet with included 3M adhesive and/or included screws.  The rack efficiently uses what is normally wasted space under the cabinet and frees up valuable counter space.  Once installed and filled only the very bottom of the kcups are visible.  It pulls down and pushes up smoothly, and there are tiny, strong magnets that hold it closed.  If you have limited space, you won't regret this purchase.
+
+product/productId: B005F0JM7W
+review/userId: A2RQPKJL02G21B
+review/profileName: flipflop
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1351036800
+review/summary: Thank You for Your Donation
+review/text: Dear coffeekeepers:<br />Thank you for your generous donation to our United Way Silent Auction.  It is due to company's like coffeekeepers that the United Way can continue to strive and help those in need.<br /><br />Sincerely,<br />Carolyn Law<br />Federal-Mogul Corporation<br /><br />http://www.amazon.com/gp/product/B005F0JM7W/ref=cm_cr_rev_prod_title
+
+product/productId: B005F0JM7W
+review/userId: A1YSPYBD85OAKP
+review/profileName: breezy "C"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335830400
+review/summary: Item 5 star.  Shipping 0 star!
+review/text: Ordered this product based on reviews and am not disappointed.  It clears the clutter from my counter but the K-cup selection is at our fingertips.  I'd order a second one except this one took nine days to process and be delivered.  The product origin point was two hours from my home and took six days to be delivered.  That type service doesn't deserve to be rewarded with a follow up order.<br /><br />Follow-up:  Our family of four liked this so well that my daughter ordered the second one using her membership upgrade.  It came from a different location and shipping was better.  This installs quickly, used the screws provided and they both work great.  We keep flavored coffees, etc., in one and plain coffee in the other. It's easy to keep a supply and variety readily available yet out of sight!
+
+product/productId: B005F0JM7W
+review/userId: A3CK0ZLLSKHRJU
+review/profileName: Ken
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335139200
+review/summary: Easy to Install and hides out of the way
+review/text: Great Product for clearing the counter of boxes while leaving plenty of K-cups near our Keurig. Easily Mounts under cabinet with 4 wood screws.
+
+product/productId: B005F0JM7W
+review/userId: A1JE48J53WFSCD
+review/profileName: Matt
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332201600
+review/summary: What a great idea!
+review/text: This product was very easy to install and works great!  I followed a recommendation from another reviewer and used the screws to install it.  This does a great job of keeping you k-cups organized and out of the way.  If you're short on counter space, this is a perfect addition to your kitchen.
+
+product/productId: B005F0JM7W
+review/userId: A122UCV7259NMX
+review/profileName: alawman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331078400
+review/summary: 100% WORTH IT - BUY A FEW!
+review/text: IF YOU OWN/BUY A KEURIG, IT IS A MUST-HAVE!  BUY IT IMMEDIATELY! I have one and am buying another - it's totally hidden,operates smoothly - it's a fantastic product!
+
+product/productId: B005F0JM7W
+review/userId: A1IXNA6VS3FEX2
+review/profileName: Matthew
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326412800
+review/summary: Almost perfect
+review/text: I don't like messy counters or appliances take up all my counter space.  The Kuerig does a good job of consuming space, and most of the storage for K cups appear to do the same.  I was originally going to make wall mountable shelf to store some, but the Coffee Keeper seems to better fit my need.<br /><br />It has double sided tape preapplied for a quick and easy installation (also some alcholol swabs to prepare the surface before applying).  Directions were simple and clear.  It also included optional screws (I thought about using them, but the tape is more than sufficient when given time to bond).<br /><br />It's a clever, useful, and evidently unique solution to K cup storage.<br /><br />There are two small cons I'd like to point out, which hopefully they correct in future versions.<br /><br />The one I received was a bit tight to pull down, obviously they should not be loose enough to drop on their own, but to pull down with a single finger would be nice.<br /><br />In fact a little pull tab in the front to grab on to would be very beneficial, rather than having to find and pull down on the edge/lip (which is hidden by your cabinet). I thought about deducting a star for this, but I've been told they will be adding it in the future and frankly it's still pretty darn convenient.
+
+product/productId: B005F0JM7W
+review/userId: AC7G7MH3MA00S
+review/profileName: KO
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324166400
+review/summary: K-cup under cabinet holder
+review/text: Opted for the smaller rack that fit well under the cabinet. Rack works well, free's up counter space and always draws positive comments from guests. Would like to install a second one but is unavailable.
+
+product/productId: B005F0JM7W
+review/userId: A3U9177XF7ZF3P
+review/profileName: BigJohn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Works great, simple install.
+review/text: I bought two of these. Easy to install and works great. The only problem is now my wife is buying more K-cups.
+
+product/productId: B005F0JM7W
+review/userId: A2O8TEAKQ3X1TP
+review/profileName: Ruth Holbrook
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Love this.
+review/text: I love this Under Cabinet K-cup holder.  It fits snuggly under the counter.  I can't stand lots of "stuff" on my countertops, so this clears up my countertops. So far it seems well made and haven't had any problems.  Would definity buy this again.  It may be a bit pricey but it is exactly what I wnated
+
+product/productId: B005F0JM7W
+review/userId: A3B9IXS65SJ4TF
+review/profileName: *.*
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: Great Space Saver
+review/text: This product works just as described.  It is not too flimsy and appears to be sturdy enough for everyday household use.  One word of caution--if you use the adhesive strips they are VERY sticky and you cannot easily remove it.  Make sure it is exactly where you want to mount it when using the adhesive strips.  We also used the included screws as an added measure.
+
+product/productId: B005F0JM7W
+review/userId: A4ZS2E6QGQLIL
+review/profileName: Splitpi
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349913600
+review/summary: Pleased with it
+review/text: I received the under cabinet K-Cup holder promptly.  The packaging was a simple plastic bag, but it included everything need from instructions to alcohol cleaning pads and screws.<br /><br />Install was simple.  Clean the underside of the cabinet with the alcohol wipes and allow to dry.  Peal back the double sided tape already attached to the holder.  Press it up and into the underside of the cabinet.  Hold for 60 seconds.  Screw in the supplied screws.<br /><br />My only complaint was that my item was slightly bent/malformed.  I fixed this with some light taps of a hammer and I squared everything up.<br /><br />Overall, I am very happy with this product and it saves counter space.
+
+product/productId: B005F0JM7W
+review/userId: A1SEAQFEQEF55M
+review/profileName: A. Wasser
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: Best K-Cup dispenser ever!
+review/text: I absolutely love this under cabinet K-cup dispenser. It gives me more counter room and is almost hidden. What a great idea! I found it on Amazon.com and am amazed each time I use it. My husband installed it for me quickly and easily. It came with screws and it's wonderful. It iss easy to pull down to choose the K-cup I or my guests want, and just as easily, is pushed up again under my cabinet. I highly recommend this dispenser for anyone who wants more counter space or even just wants to have the most innovative design available.
+
+product/productId: B005F0JM7W
+review/userId: AP7X40ARU1OEV
+review/profileName: 9340
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344902400
+review/summary: Under Cabinet K-cup holder
+review/text: Ordered two of these to rid clutter off my counter.  Fairly easy installation; just remember to check direction of the pulldown and closeness to any contact walls, husband forgot to do this twice and had to change afterwards.  Not easy to do but he managed.  Received lots of compliments from visiting family and friends plus wanting to know where to purchase one too. Enjoy not having clutter on counter and this does the job. Only gave 4 stars as the directions were a little too simplistic.
+
+product/productId: B005F0JM7W
+review/userId: A2XKCFFTIVUZBU
+review/profileName: Michael L. Maninger "M. Maninger"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344643200
+review/summary: This thing is great
+review/text: This is the best Kcup holder I have seen . We mounted it and have had very good complements from everyone about how well it keeps the Kcups out of the way. I recomend this to anyone with a Kcup storage problem.
+
+product/productId: B005F0JM7W
+review/userId: A2R375S0EZI436
+review/profileName: Cutie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: perfect
+review/text: perfect......size, quality and appearance.....works easy but must use the screws to install, not anything of lesser degree.......gives a nice clean line.
+
+product/productId: B005F0JM7W
+review/userId: A5TP8K46XU1U5
+review/profileName: Sarah Blades
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342656000
+review/summary: Awesome contraption!
+review/text: This little device has been a lifesaver in my house. I have told so many of my friends about it, who are sad because it doesn't ship to Canada. Luckily, my boyfriend was in NC for work and I had it sent to him there. When you come to Canada - be warned - this will take off! :)
+
+product/productId: B005F0JM7W
+review/userId: A3BLM2W246JK39
+review/profileName: annette
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341014400
+review/summary: I love this product!!!
+review/text: I love this k-cup holder. I don't have a lot of counter space, and I couldn't get one of the ones that sits under the Keurig because my shelves are a bit low. So this was perfect for us. I've had it a few months and it works like a charm. I mounted using the screws because the adhesive didn't hold well enough. I didn't not want the worry of the whole unit coming down everytime I gave it a pull. The screws are under the shelf, so it's not like anyone will ever see under there. I highly recommend this product. The only downfall is you can totally see the bottoms of the cups, but that's to be expected. That's something the maker and the customers can't really get around.
+
+product/productId: B005F0JM7W
+review/userId: A1YJOCHOPZSJCX
+review/profileName: Bill
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340928000
+review/summary: Great product
+review/text: This is the ideal rack for k-cups. it is especially good if you have limited counter space. Installation is a breeze.
+
+product/productId: B005F0JM7W
+review/userId: A1AOAU5I2S72CK
+review/profileName: Lori Kay "rascalsgirl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339372800
+review/summary: Fantastic Device, Outstanding Manufacturer
+review/text: First- let me tell you these are the ONLY way to store K-Cups!!!<br />Easy to install, well designed and made to last.<br />The company who makes them offers fantastic customer service, too.<br />These were sold out when I originally tried to purchase them. I inquired directly about<br />availability and was told they'd email me as soon as they were in stock. A couple weeks later I got the email,<br />went directly to Amazon- where they were still sold out. Tried again in a half hour and bought two.<br />I'm about to purchase a few more as gifts, don't wait for Christmas when demand will skyrocket!
+
+product/productId: B005F0JM7W
+review/userId: A1X8N0DD8QNCTS
+review/profileName: KandRR
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338681600
+review/summary: Keeps the K-cups in order
+review/text: You gotta love this gadget. Keeps my k-cups in order - - not in my cabinet, not on the counter, not in the pantry . . . r i g h t above and to the left of my keurig coffee maker.  The ONLY reason I did not give it 5 stars was because I wanted it all to be hidden . .  however the space under the upper cabinet is slightly shallow so you can see 1/2 of the k-cups in their slots.  No fault of the gadget, just be aware it will only hide the cups if the depth of the aforementioned cabinet is deeper than the standard.  New kitchen cabinets are in my future . . . and I know that this space needs to be about 1/2" more than standard if it continues to bother me.
+
+product/productId: B005F0JM7W
+review/userId: A1OY87YITQULKF
+review/profileName: E. GRAY
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332720000
+review/summary: Awesome!
+review/text: LOVE this k cup holder, worth every penny I spent on it! It fits under my cabinet perfectly and have had no issues with the tape. It does come with screws, I just haven't got around to putting them in yet.
+
+product/productId: B005F0JM7W
+review/userId: A1ODLKTOGN2U0C
+review/profileName: LB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: Easy to install, completely disappears!
+review/text: This K-cup holder is an EXCELLENT alternative to the carousel holders to get all your extra k-cups out of the way. Easy to install and you don't even see the k-cups under the cabinet! I followed the advice of other reviewers and installed it with the screws. This holder also holds my eKoBrew cups. Highly recommend.
+
+product/productId: B005F0JM7W
+review/userId: AOBKPKOVD1OCN
+review/profileName: PumpkinFox "althea_the_pirate"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: Super Convenient
+review/text: This is a great product. Easy to install and such a space-saver. It fit easily under my counter and holds more cups than other solutions I've found.
+
+product/productId: B005F0JM7W
+review/userId: A3S2BG9ESOCTI8
+review/profileName: Chris Bailey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330560000
+review/summary: Perfect Product...just too expensive.
+review/text: This works perfect if space is limited.  I actually bought two because if you're like me, 30 kcups close by just isn't enough.  Anyway, love it but just a little expensive for such a simple solution.
+
+product/productId: B005F0JM7W
+review/userId: A2S1NGOPAHPD2N
+review/profileName: TraceyS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330473600
+review/summary: Great Design
+review/text: The most ingenious design of any k-cup holder!! So convenient-especially for those of us with limited counter space. Sturdy construction and easy to install. Best purchase I've made this year. Even my hard to please husband was impressed!!
+
+product/productId: B005F0JM7W
+review/userId: AO0XIK20HXZCA
+review/profileName: Marc Lewis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330214400
+review/summary: Heurig kCup Rack
+review/text: Great storage fits in a small spot, easy to install with a screw driver.  Can't be seen from face of cabinet.
+
+product/productId: B005F0JM7W
+review/userId: A95O39BWCXUZW
+review/profileName: soccarmom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329609600
+review/summary: perfect
+review/text: I bought 3 of these and love them.  They keep my counters cleared and now I can keep an assortment available.
+
+product/productId: B005F0JM7W
+review/userId: A310XTNPE1U743
+review/profileName: cac Idaho
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Great for small kitchens.
+review/text: Keeps the cups off the counter!! It is a very well made sturdy product. It is a little stiff to pull down but but I'd rather that than falling down by it's self.  We used the included screws to make sure it stays up. We are very pleased.
+
+product/productId: B005F0JM7W
+review/userId: A2CORJXW6VMIPZ
+review/profileName: Philip B. Davison
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328832000
+review/summary: Great product and well constructed
+review/text: I have to say i bought this item with some apprehension but when it arrived I was happy. The item doesn't come in any packaging except a plastic bag, hmmm, bit odd, but its not made of plastic itself its actually metal, very sturdy. Now my main concern was that I ordered it and my wife said how does it fix to the units, I replied by sticky pads. Oh she said you do know we are replacing our kitchen units soon, oh I said, well have no fear it came with screws as well, thank you. It fits up pretty easy although you do need three hands just because of its shape, design and you need to hold it underneath a kitchen unit. But it works perfectly and does exactly what it says. Very, very pleased. Highly recommend this for your K-cups.
+
+product/productId: B005F0JM7W
+review/userId: AN00NARW5QSEY
+review/profileName: smallworld
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328832000
+review/summary: Under Cabinet K-cup� Holder. Designed for Keurig's� K-cups�- Elite
+review/text: So PERFECT!!!I don't drink coffee my husband does and I use basically all of my counter top and I just hated to wast so much space for his kcups...and then I found this....it was sold out the first time I saw it, and when I saw it stocked again I bought it..got it yesterday, and im so glad i did! I love it. I think I might buy a 2nd one for extra storage to go right next to the one I have! GREAT PRODUCT!!!!!
+
+product/productId: B005F0JM7W
+review/userId: A3TVI3WD0QJ9PJ
+review/profileName: C. Swanson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328832000
+review/summary: Best K-cup holder idea EVER!!
+review/text: I searched and searched for a k-cup holder to keep them off my limited counter space, and this is it! Those of us with no counter space usually also don't have much cupboard space so well the ones that go in your cupboard are well and good for some people, they aren't for me...I'd have no place to put it! Now this is genius!
+
+product/productId: B005F0JM7W
+review/userId: A2JUGLC6QW2Y90
+review/profileName: keg1889
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328486400
+review/summary: Awesome product
+review/text: Space saver is the best part of this design. The price and quality are exceptional. Everyone with K-cups would like this.
+
+product/productId: B005F0JM7W
+review/userId: AFLRX00RLCZDH
+review/profileName: mraer12
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327536000
+review/summary: Ingenious!
+review/text: This product is simply ingenious. It's important to me that my kitchen is uncluttered - and with limited space to start, I have to get creative. After days of searching the available products on the market, I discovered this and HAD TO HAVE IT. Unfortunately, due to its popularity, it was unavailable. When it finally became available, I pounced. And I'm so glad I waited.<br /><br />This product is well made and exactly as described. It mounts under the cabinet with or without screws (I am using the mounting tape only). It holds 20 K cups out of sight - readily available and beautifully presented. It's something that I'm excited to show off when guests want a drink. It's simple and elegant. I couldn't be more pleased.
+
+product/productId: B005F0JM7W
+review/userId: A58XLZK1PS4PS
+review/profileName: JPearce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326412800
+review/summary: The Best Solution for K-cup Storage
+review/text: This is a fantastic idea and the ONLY solution for storage of K-cups without taking up valuable counter or drawer space. An excellent good quality product that works as advertised - thank you for creating it!! P.S. I used the 4 screws for added security and they installed without the use of a drill!
+
+product/productId: B005F0JM7W
+review/userId: A232M46ZFCTNE6
+review/profileName: Lucky Dog "Lucky Dog"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326153600
+review/summary: Love This Item
+review/text: First saw this item at my sons house and knew I had to have one.  I didn't need another thing on my counter and loved the quality.  The holder was out of stock at the time.  When I contacted CoffeeKeepers they advised that the item would be back in stock within a week and then notified me again when it became available.  Their customer service exceeded my expectations and the holder is great.  Can't wait to show everyone.
+
+product/productId: B005F0JM7W
+review/userId: A1O78AOKOQLGFP
+review/profileName: hockey68stl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325721600
+review/summary: A+ dealer
+review/text: A+ no problems and arrived in timely manner, would deal again.<br />That iis all I have to say about this item.
+
+product/productId: B005F0JM7W
+review/userId: AIHZW8D0S3TVH
+review/profileName: Matthew T. Erdner "Matt Erdner"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325289600
+review/summary: K-cup under cabinet holder
+review/text: The product meets its description and functions well.  The adhesive strips did not hold the unit underneath my cabinet, so we screwed it in.  The storage tray is a bit hard to move and will easily stay at any angle you pull it down to (even crooked). Each arm moves independently.  It's a great product just use common sense when you choose where to mount it.
+
+product/productId: B005F0JM7W
+review/userId: A17EAA2Z0HNRM0
+review/profileName: Holly's Review
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1332288000
+review/summary: The BEST way to keep kcups available!
+review/text: I'm very pleased with item, and highly recommend it. It's the perfect way to store your K cups without taking up countertop space. Mounting was easy, altho USE THE SCREWS. I started with the tape, followed the instructions about not using it for 24 hours but one side fell down anyway.  (The reason for 4 stars not 5.. I wish it fit under outside corner cabinets)
+
+product/productId: B005F0JM7W
+review/userId: A1W7179622A8EE
+review/profileName: hnbsmommy
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1330300800
+review/summary: Love This!
+review/text: I love this item and how it's hidden away under my cabinets and not taking up extra counter space. My only complaint would be that it seems a little bit flimsy but so far it's working great! Would reccomend this to anyone that is wanting to organize their K-cups and not wanting to lose counter space!
+
+product/productId: B0000TU98E
+review/userId: A3DFEHESMJBCPC
+review/profileName: TheaterPopcorn
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1158278400
+review/summary: BEST THERE IS. . .hands down!
+review/text: Do you remember that old commercial from the 1970's that was later spoofed in the movie "Airplane?" A couple has just finished dinner when their host offers the visiting husband a second cup of coffee. When he happily accepts, his wife gets a concerned look on her face and thinks, "Jim never has a second cup at home," suggesting that the coffee she makes in her own kitchen must taste like swamp water.<br /><br />Well, Jim and I had that in common. I NEVER had a second cup of coffee. Don't get me wrong - I LOVE coffee, but unless I was cramming for a mid-term at 3:00am in college, I'd never found a cup that was good enough to warrant more. But that all changed when I discovered Douwe Egberts.<br /><br />I'm probably the only person here who isn't Dutch and hasn't had this coffee in the Netherlands. In fact, my first experience with Douwe Egberts was in Las Vegas - I just didn't know what it was called.<br /><br />I LOVE Las Vegas and make the trek 3-4 times a year. For the past few years I've stayed at the Paris Hotel and had breakfast/lunch in their buffet (Lunch is served at 11, so if you get there at 10:30, you can have their amazing breakfast AND lunch for the price of breakfast!) The coffee was the best I'd ever had - no kidding. I'd have cup after cup and couldn't get enough! I'd be more hyped-up and jittery than a washer on spin-cyle, but I didn't care - the coffee was THAT good! After several trips and regardless of the hotel, it got to be that I'd HAVE to make it over to the Paris - JUST FOR THEIR COFFEE. But every time I'd ask the server what kind it was, they'd never tell me. Then one trip I found a server who was from my home town. After schmoozing her for a while, I finally got her to give it up. She went in the back and returned with the name scrawled out on a meal ticket. Yes, it was this nectar from the gods, Douwe Egberts! Perfectly blended and roasted, I promise you won't find a better cup of coffee - even in Seattle. It is a bit pricey (I get this same package at a local Dutch store for $6.20), but if you think about what you pay for a "gourmet" cup of coffee at the corner Starbucks, this is a bargain.<br /><br />Take my word for it. Splurge a little and see if you don't agree with me. Or if you want to just try a single cup before you blow the whole $8 on a half pound, you can always fly to Vegas and get some from the Paris buffet which I also highly recommend, but we'll save that for another review.
+
+product/productId: B0000TU98E
+review/userId: A10DAMI04QFCBP
+review/profileName: peter thijssen
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1074384000
+review/summary: The Best there is
+review/text: As a resident of the Netherlands, it was funny to find 'our' national drink on an american site. How wonderful for you people that you have been given the oppertunity to tast Hollands Best Coffee. It let you see that there is more to Holland than Cheeses, wooden shoes, tullips and windmills. Yes, there is also coffee. Try dunkin'a bisquit in it preferably a 'speculaasje'
+
+product/productId: B0000TU98E
+review/userId: ANZTN7BD7K6KW
+review/profileName: Wayne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286409600
+review/summary: Love this brand.
+review/text: All their coffee is good.  So good there's no other coffee I'm interested in anymore.
+
+product/productId: B0000TU98E
+review/userId: AOTJ0OFL2S4X0
+review/profileName: M. Clarke "Marlene Clarke"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1242864000
+review/summary: Douwe Egberts coffee available at BK
+review/text: My husband and I enjoy an occasional Croisandwich at Burger King.  Recently, we noticed that their coffee was outstanding.  On our way out of the restaurant, I examined the coffee area for a clue as to the brand used.  It was DE, a brand that I had not heard of before.  Now we stop at BK to get some senior coffees and we often skip the Croisandwich.  The price is right and the blend is always perfect.
+

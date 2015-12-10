@@ -1,0 +1,1143 @@
+product/productId: B001HTP04E
+review/userId: A3W510G6YBY4OL
+review/profileName: Happy Shopping
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1162598400
+review/summary: All Gone
+review/text: Everyone loved these pretzels. Very flavorful, not too salty. I plan on buying more from Amazon, best price I've found on this brand.
+
+product/productId: B001HTP04E
+review/userId: A298FUUG49ODJN
+review/profileName: A. Force "A.F."
+review/helpfulness: 2/4
+review/score: 2.0
+review/time: 1273708800
+review/summary: DOUBLED IN PRICE WITHIN A COUPLE OF WEEKS
+review/text: The pretzels are tasty and convenient, but I can't give them a higher rating due to the extreme jump in price (nearly double the price it was a couple of weeks ago when I made the purchase-around $17). Due to this, I assume the previous great reviews are based on the former price. Now I can pick these up at my local Grocery for close to the same price per bag, which defeats the purchase of buying in bulk online.
+
+product/productId: B001HTP04E
+review/userId: A2E59DXJJX83WT
+review/profileName: dave love
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1288656000
+review/summary: newman's pretzels
+review/text: We did not receive our order.  We were informed that it was shipped and then (ONLY)a couple of days later we were informed that it could not be delivered by the shipper.
+
+product/productId: B001HTP04E
+review/userId: A30ARMF3JEKEJY
+review/profileName: T-Bone "T-Bone"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1292889600
+review/summary: Newman knew his stuff
+review/text: These were "stale" dated when I got them but I must admit that they taste pretty good, WAY better than any overly salted Snyders or especially-slated Rold Gold (or Rold Salt).  Very well done, Paul, we will miss you in all aspects.
+
+product/productId: B000EM010I
+review/userId: A222AGYJ4N33F7
+review/profileName: Greg Keats
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1318204800
+review/summary: Good but......
+review/text: Good thick Balsamic, but a little 'contrived' tasting.  This one is more acidic than I was expecting from something like this.  I also has a somewhat 'cooked' character.  It's not bad and we are enjoying it but for the same price get the Villa Manodori Balsamic Vinegar.
+
+product/productId: B000EM010I
+review/userId: A397LVR5OEFAV2
+review/profileName: Rogerio Drummond "rdru"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1256083200
+review/summary: Maletti 6yr super tasty
+review/text: Its a dense/thick aceto with a sweet taste.<br />It is very good, I recommend.
+
+product/productId: B000EM010I
+review/userId: A2LW6S0RMOEG03
+review/profileName: Nancy Foster "Nancy in Naples"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1228521600
+review/summary: This Balsamic Vinegar is so delicious!!
+review/text: It's worth every penny and so delicious even on just tomatoes and great for dieting also to make food taste so fabulous!
+
+product/productId: B000EM010I
+review/userId: A3QFPTDBMQH8S3
+review/profileName: Anne Foster Angelou
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: Ritrovo Balsamic Vinegar - Delicious
+review/text: This is a delicious, thick, sweet balsamic vinegar.  I have been using it exclusively for a couple years.  I first found it in a local gourmet shop for $32 and later found it at Whole Foods for $26 and then by chance, a manager's special at Metropolitan Market for $17.99.  I was about to order it from Amazon but see there isn't that much of a price savings.  I will keep looking because I love it; it's so delicious.  Sorry, Amazon, you usually beat prices elsewhere but not on this item.  To be fair, it's probably a dollar or two cheaper.
+
+product/productId: B000EM010I
+review/userId: A1BH3C371SA5EG
+review/profileName: art educator
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1337904000
+review/summary: Not exactly the item pictured.
+review/text: The bottle in the picture shows the 12 year aged balsamic (notice the 12 Roman numerals around the neck label of the bottle). The one being sold here is the 6 year aged balsamic, as the text states.
+
+product/productId: B000EM010I
+review/userId: A2EOODT4RNRPZW
+review/profileName: bic
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: best balsamic
+review/text: sweet, syrupy, tart -- this vinegar can be used on everything from veggies to ice cream; it sits on my table with the himalayan salt and the lavender pepper.  well worth every penny (or dollar).  Amazon shipped it immediately and it arrived within a few days of ordering  (and I only paid for regular shipping).  Awesome!
+
+product/productId: B000EM010I
+review/userId: A1SDKIU8VPW1K8
+review/profileName: D. Barnard
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1331596800
+review/summary: Expected better.
+review/text: This is a pleasant balsamic, but only that. It has a pronounced flavor profile that begins enjoyably enough, but becomes reminiscent of molasses or burnt caramel. I wonder at the methods used to create it's silkiness and body, especially given its youthful age. As another reviewer mentioned, it tastes cooked. It's a decent balsamic, there are simply better choices available for the price.
+
+product/productId: B000EM010I
+review/userId: A2OJXJ1UOURCSK
+review/profileName: Earl R. Brown
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283904000
+review/summary: Great bargain
+review/text: The Ritrovo balsamic (same vinegar, new name) is a thick, viscuous vinegar that finds a way to accomplish what no 6 year old vinegar should have any business doing- being on the same level as a fine 15-20 year aged balsamic. No shortcuts are taken, like adding figs for sweetness and thickening Don't be thrown off by the price at first glance; for the quality here, you're getting a tremendous bargain. It's miles beyond the supermarket fodder and good enough to hold its own against all but the finest old balsamics.
+
+product/productId: B000EM010I
+review/userId: AR55TZCZMS8SI
+review/profileName: C. Dougherty "Decaf addict"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264291200
+review/summary: Incredible value
+review/text: Provided you aren't a staunch traditionalist, this vinegar is astonishingly good, especially for the price. Maletti has figured out how to produce a 6 year-old vinegar with the density and concentration of much older, far more expensive fully traditional balsamics without resorting to obvious cheats like adding sweeteners and thickening agents. It's pure and unadulterated; wonderful over bruschette caprese (our favorite), salads, beef, whatever. It's affordable enough to experiment!
+
+product/productId: B000EM010I
+review/userId: A2WOB6TD0DHM23
+review/profileName: British TV fan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1258243200
+review/summary: Best vinegar I've ever tasted
+review/text: This is a thick, utterly delicious balsamic vinegar with no caramel coloring or other artificial additives. I love it and find it positively addictive. It is by far the best vinegar I've tasted, and I've tried many different brands of balsamic. It is indeed worth every penny, as another reviewer noted. However, I've seen significantly better prices for this vinegar in at least two different brick-and-mortar stores.
+
+product/productId: B000EM010I
+review/userId: A28KPKDMM14YS1
+review/profileName: Life Enthusiast
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1323993600
+review/summary: Bought for a gift
+review/text: I bought this as a gift to my Uncle and Aunt who are amazing cooks.  They were very happy to received it.
+
+product/productId: B001ECQBVA
+review/userId: A12UKLWZ1K2A00
+review/profileName: Geranium Girl
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1288742400
+review/summary: The gift that got noticed
+review/text: These nuts were purchased for an elderly uncle who is hard to please. Most of my gifts have bearly gotten a grunt out of him, including the deluxe mixed nuts from another company that I selected last year. I guess it pays to buy Planters. I won't say he raved about the nuts (raving is just not his style) but the cannister of nuts that he polished off in less than two weeks was a pretty good indication that he liked them. He is already well into the second cannister and is making hints that he'd like the same thing for Christmas. Whew, I won't have to wrack my brain for another gift idea. Nice, too, to pick a gift that has good nutritional value.
+
+product/productId: B001ECQBVA
+review/userId: A2XGOJZMTX5ZH7
+review/profileName: Bigwallys
+review/helpfulness: 8/9
+review/score: 3.0
+review/time: 1217203200
+review/summary: If you love almonds?
+review/text: i like these nuts. they're fresh and in a nice container. but there are too many almonds and not enough of everything else. but if you love almonds, buy it!!
+
+product/productId: B001ECQBVA
+review/userId: A61WKV8DJPWSX
+review/profileName: David J. Beers "djbeers2"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1312675200
+review/summary: Almonds should be listed first on the label, not cashews
+review/text: The label says it contains 'cashews, almonds, brazil nuts, hazelnuts, and pecans'.  True enough but at least half of the mix is almonds which get old in a hurry.  The quality if fine but not the blend of the mix.
+
+product/productId: B001ECQBVA
+review/userId: A9ZD2YVOXBOPQ
+review/profileName: jolee
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1300579200
+review/summary: Fresh / Good Mix of nuts
+review/text: My husband and I ordered the twin pack,this is the 2nd week and we're 1/2 way through the 2nd container.
+
+product/productId: B001ECQBVA
+review/userId: A2LKZ7VK33MVE1
+review/profileName: Brian R. Valenti "UberTech07"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265328000
+review/summary: Nutty
+review/text: These are some very tasty salty nuts. The Brazil nuts were a bit too big for me, so i just licked the saltiness off.
+
+product/productId: B001ECQBVA
+review/userId: AIM3W70UHY4H
+review/profileName: Edith F. Hurwitz "bookette"
+review/helpfulness: 6/8
+review/score: 3.0
+review/time: 1209254400
+review/summary: delicious nuts
+review/text: nice assortmet of nuts.fine quality.goodd sizebut i prefer ligtly salted; these had a dry flavor that made me thirsty
+
+product/productId: B001ECQBVA
+review/userId: A2EP4R02RCY21K
+review/profileName: A. Smith
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1323388800
+review/summary: Great Healthy Snack
+review/text: It's a tub of mixed nuts, I'll spare you a long-winded review on them. I've tried the mixed nuts they sell locally, which have a lot of peanuts mixed in, and the difference in quality is pretty noticeable. These are much firmer, fresher, and just taste overall better. It seems the filler nut they used here were almonds, which is fine, and certainly better then peanuts, but it's unfortunate that pecans are scarce. Brazil nuts are pretty generously packed in as well, with moderate amounts of hazelnut (Filbert) and cashew. You get a lot of salt near the bottom, naturally, but otherwise there's just enough mixed in to assure that they stay flavorful from the moment you open them.<br /><br />I would recommend these to anyone looking for a mixed nut snack. Much better than the rest I've tried so far.
+
+product/productId: B001ECQBVA
+review/userId: A1HWGKTLQP8FPJ
+review/profileName: Cheyenne Briddell
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313366400
+review/summary: BEST MIX WITH NO PEANUTS IN IT!!!
+review/text: I received these nuts in the mail with a SUBSCRIBE AND SAVE subscription and they arrived FAST even though I am overseas; approximately 6 DAYS. The NUTS are HUMONGOUS, if you want a MIX with no peanuts then this is the one to order and the SIZE will have you munching for at least a couple of weeks depending on how much you eat and I am constantly snacking on these daily. I bought some cranberries through AMAZON as well and the mix is PERFECTO. It includes almonds, HUGE cashews(MY FAVORITE), pecans, brazil nuts and hazelnuts. I dont really care for the other so called MIXED NUTS because they usually have like 50 - 70% peanuts but this has absolutely ZERO and I love it. I would recommend these because they are delicious and the quality of these nuts are worth every penny.
+
+product/productId: B001ECQBVA
+review/userId: AFDA6WY9A6JEG
+review/profileName: Vetterun
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1312934400
+review/summary: No Miss with Planters Mixed
+review/text: The Planters Deluxe Mixed Nuts made with Pure Sea Salt are a quality snack and help explain what has made me a loyal Planters consumer for many years.  The two-day shipping with Amazon Prime and  Amazon subscriber pricing make for an even greater value.
+
+product/productId: B001ECQBVA
+review/userId: A92ESCGITXS2H
+review/profileName: Robert
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1303344000
+review/summary: sams club
+review/text: Cheaper at Sams Club now even with S&S. Like the ease but the prices are not that competitive anymore. Will wait to renew at a later date..or not.
+
+product/productId: B001ECQBVA
+review/userId: A2D1LPEUCTNT8X
+review/profileName: Ali Julia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302220800
+review/summary: Love the taste!  Stats on the content percentages within
+review/text: I love the taste of the nuts. I like them out of the box as well as mixed in with cooking just about anything.<br />The only down side is that I have to taper my love due to calories: 1 ounce of nuts has 170 calories (130 from fat).<br /><br />In a recent Consumer report I found an interesting statistic on content of Planters Nuts.  The following percentages are averages from analysing three containers of Planters nuts.<br />48% of all nuts are peanuts<br />24% of all nuts are almonds<br />15% of all nuts were cashews<br />6% of all nuts were brazil nuts<br />4% of all nuts were hazelnuts<br />3% of all nuts were pecans<br /><br />I noticed that the price on the on this product fluctuates. There is a nice online tool that I use to help catch a good price on Amazon, this tool is called  "Online Price Alert".  This tool will send you an email when the Amazon item price reaches the target price range that you specify. If you search on "online price alert" in Google it will be come up at the top.  I find this tool to be very helpful.
+
+product/productId: B001ECQBVA
+review/userId: A2QAH6UNUXCSP1
+review/profileName: J. A Cunningham
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1273363200
+review/summary: addicting jar of mixed nuts
+review/text: I had been purchasing mixed nuts at Safeway, but it had 49% peanuts, so that got old even though I like peanuts, because the price of the 2lb jar kept getting higher.<br />Then I found the 40oz jar of Planters Deluxe mixed nuts at Sam's Club for under $12 and bought two jars.<br />It is difficult to put the jar away.  I think I overdosed on nuts the first week.<br />It does have a lot of almonds, which I'm not as big a fan of as cashews/pecans, but not to the point that they'll get old on me, like peanuts.<br /><br />Ingredients: Cashews, almonds, pecans, brazil nuts, hazelnuts (filberts), peanut and/or cottonseed oil, sea salt.<br /><br />Great snack if you're not trying to lose weight, otherwise I would avoid them as any nut will be high calories and these would be difficult to ration.<br />1/4 cup ~= 1oz<br />Calories<br />170<br />Calories from Fat<br />135<br />Total Fat<br />15.0g<br />Saturated Fat<br />2.0g<br />Sodium<br />105mg<br />Total Carbohydrates<br />6.0g<br />Dietary Fiber<br />2.0g<br />Sugars<br />1.0g<br />Protein<br />5.0g
+
+product/productId: B001ECQBVA
+review/userId: A1ECI62Y0WV4A2
+review/profileName: M. Doyle "madman"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1235260800
+review/summary: Nuts to all
+review/text: Planters Deluxe Mixed Nuts are delicious. The only slight negative is they are extremely addictive. I find I can't hide them without searching them out an hour later. They are reasonably priced and also are a great treat for guests.
+
+product/productId: B001ECQBVA
+review/userId: A2C5T49XF08QR0
+review/profileName: Ruth M. Boyer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1212364800
+review/summary: No Peanuts!
+review/text: Great product. The freshness of these nuts really is worth the cost. And, not having to go to the grocery store to purchase them is a another plus. Shopping with Amazon is very convenient because of our work schedules.
+
+product/productId: B001ECQBVA
+review/userId: A1N655X9X7C6QY
+review/profileName: C. Cook "LIVE..........LOVE........AND..........
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1259366400
+review/summary: My DH and I Love these !!
+review/text: I have been trying to find nuts to suit my husbands taste ...that I also could enjoy. He only eats certain nuts and I love the ones that he won't eat. I have tried several different brands and styles.<br /><br />Well, I ordered these PLANTERS DELUXE MIXED NUTS. I liked the size  2lb+......I could see the cashews that I love and the Brazil nuts that Mr. loves. PERFECT !!<br /><br />This worked out so well. My husband was overjoyed about the nuts. The container was excellent --because it allowed you to pour some out and be able to close the lid to airtight again. The nuts stayed fresh all the time that we were eating them.<br /><br />The selection  and characteristics of these  nuts were excellent.  I believe because they are listed as DELUXE ...the nuts were of a very good size. No tiny pieces of walnuts or other nuts here. All good size delectible pieces.<br /><br />I am also happy about the change to sea salt that Planters made a while ago. I think it enhances the flavor of the nuts.<br /><br />The flavor of Planters Nuts is very good ! My husband prefers this sort of preparations as opposed to some of the other dry roasting methods---he feels the other  dry roasting leaves the nuts too dry.He will not touch the straight dried more natural methods with no salt or oil added to them--- as he feels the finish of them is just  too hard and dry and tasteless. So if you want the flavorful---great tasting--smooth biting--nuts---- GET THESE !!!!!<br /><br />We are only two people eating these nuts unless we have company over---so I can suggest that these  nuts would be great for small familys or large familys....or even singles....because of their  airtight packaging...and easily removed airtight lids.
+
+product/productId: B001ECQBVA
+review/userId: A17PO10G8N6TJH
+review/profileName: Spencer Krause
+review/helpfulness: 5/7
+review/score: 1.0
+review/time: 1312329600
+review/summary: stale
+review/text: I found this a few days ago when I was looking for a good snack to have around the house for not a whole lot of money.  The package came today.  I opened it up and had a few nuts.  they were chewy and smelled a bit off- both signs of staleness.  I checked the expiration date: 6/17/2012... It didn't make sense.  so I had a few more and wondered how I could make them palatable.  Eventually I came across some forums that said that staleness in nuts was the result of the oil turning rancid and hence is non-reversible.  Not to be defeated by something i bought to save money I did some more digging and found a forum that said that if you heat nuts at 350 for 10 minutes you can bring some life back into them.  I tried it and they came out burnt.  Tried again for 5 minutes instead of 10 and it worked.  They weren't perfect but they were crunchy and palatable which was a step up.  I give these 2 stars instead of 1 since they can be partially salvaged.  Too bad Amazon doesn't take returns on food.<br /><br />edit:<br />I just threw up.  I'm throwing these out and changing the review to one star.  Don't buy these if you value your GI tract.
+
+product/productId: B001ECQBVA
+review/userId: AYGT4MAFIUGUF
+review/profileName: No Use For A Name
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1218067200
+review/summary: Almonds and Brazil nuts...
+review/text: If you like handfuls of almonds this might be the perfect mix. I love almonds and don't mind getting more than a few in every handful. The spoiler is the Brazil nuts, I can't stand them. They are too greasy and so large that they can easy take up a quarter of your 32.5 ounce container.<br />The packaging is good and they are perfectly salted. Not too shabby.
+
+product/productId: B001ECQBVA
+review/userId: A19123D9G66E0O
+review/profileName: Tim
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1325203200
+review/summary: Love these nuts. Price is too steep now!
+review/text: Maybe it because almonds are my favorite nut, but I didn't notice an abundance of them as other have noted. I guess if you don't like almonds though you probably want to stay away from mixed nuts. The nuts are great tasting, but now they have come off of subscribe and save and are no longer a great deal. Would have given the product five stars, but now it gets 2 because it is cheaper to get at the grocery store now.
+
+product/productId: B001ECQBVA
+review/userId: A16RLVQKEEFWUU
+review/profileName: tech guy "tech guy"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319673600
+review/summary: Good but a little salty
+review/text: I liked the nuts and will probably re-order, but the nuts were more salty than I was expecting.  They taste good, so I am planning to reorder when I run out.
+
+product/productId: B001ECQBVA
+review/userId: A1PSS3Q67OU0P0
+review/profileName: Christine Holleyman
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313452800
+review/summary: Very good buy!
+review/text: I love these deluxe nuts, and the price is not bad at all if you order it in the Subscribe & Save program. I do wish it had more pecans though.
+
+product/productId: B001ECQBVA
+review/userId: A3INH7OXN8TIAR
+review/profileName: absolutely nutty
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310515200
+review/summary: great product - great value
+review/text: I ordered  these nuts just to try them once --- they were so good that I opted to keep getting them once a month via subscribe and save!  The nuts are delicious for snacking, and are delicious when added to a homemade Chex mix!  There are a lot of almonds in the mix, which my family loves.  Excellent purchase!
+
+product/productId: B001ECQBVA
+review/userId: A2A8KWCE8RKB9T
+review/profileName: David Glazer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1233878400
+review/summary: Good stuff
+review/text: When you get Planters..you know exactly what you are getting..good stuff at a good price here at Amazon. Go for it~
+
+product/productId: B001ECQBVA
+review/userId: A3CIPDXYI2VS31
+review/profileName: L. S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1230336000
+review/summary: Excellent portion blend.
+review/text: Brazil and filberts are my favorite nuts. This product has the most of them all. Now if Amazon would only keep them in stock.
+
+product/productId: B001ECQBVA
+review/userId: ANJJAEWQICEMD
+review/profileName: P. Kulseth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213833600
+review/summary: Great Buy
+review/text: These mixed nuts are a great. I have not found any better for the price. I have these on subscription and will be receiving them every 2 to 3 weeks. The only thing that I would suggest is that I wish there were more pecans in the mix ... but I can always add them myself.
+
+product/productId: B001ECQBVA
+review/userId: A2STV18SGGDFLE
+review/profileName: Scott Styles
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1201478400
+review/summary: An Excellent Variety
+review/text: This mixture provide a well balanced assortment of fancy nuts. The screw top lid keeps the product fresh and easy to eat. I use these to stave off hunger during long sessions at the computer.
+
+product/productId: B001ECQBVA
+review/userId: A1LP1PGQLL9B5F
+review/profileName: Andy L.
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1297900800
+review/summary: mixed nuts! no peanuts!
+review/text: This large tub of planters nuts is delicious and nutritious. Nuts are a great source of protein and healthy oils. The only downside to this mix is that there's no peanuts =( Buy this mix and another thing of peanuts, mix the two together and you will get the ultimate mix.<br /><br />This is also great for making your own trail mix.
+
+product/productId: B001ECQBVA
+review/userId: A9T1YMUL87GCQ
+review/profileName: jpandjf
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1240012800
+review/summary: Not a real mix
+review/text: This mix is good quality but is very heavy on cashews, very light on pecans, and probably has too many Brazil nuts (which are high in selenium) to be safe for some people, especially if they're taking selenium supplements.
+
+product/productId: B001ECQBVA
+review/userId: A3I2O4CF7OR937
+review/profileName: William J. Hardy
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1305676800
+review/summary: Planters - Best Nuts on the Market
+review/text: Well worth the price, which can fluctuate from time to time.  Contains a small ratio of peanuts to the real goodies.  If you want some mixed nuts that are not predominanty peanuts, this is a good buy.
+
+product/productId: B001ECQBVA
+review/userId: A3A2L02EKK9P3Y
+review/profileName: Willis "JadeThe Husky"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1298246400
+review/summary: Too many almonds
+review/text: There are too many almonds in both containers.  I'm not a big fan of almonds, but if you like almonds, you will definitely like these.<br /><br />Overall, the nuts tasted pretty fresh, but personally I thought it was too salty.
+
+product/productId: B0017OX2D0
+review/userId: A2GM3FMXVR5NF9
+review/profileName: Matthew Smith
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323907200
+review/summary: Hard to find on the west coast.
+review/text: Back East you can find these at ANY boardwalk. A few hours of skeeball and you are walking home on a summer night with these dark chocolate things reminding you of when you were a kid.
+
+product/productId: B004BLQ6NO
+review/userId: A2H2FXW6IIJ1AW
+review/profileName: Elizabeth R. Hall
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: Great coffee
+review/text: Great value and quality.  Prompt delivery.  This is the only brand and blend of coffee that my husband wants to use in his Keurig.  It is often difficult to purchase locally.  Amazon makes it so easy to keep in stock in our home.
+
+product/productId: B007KZJM20
+review/userId: A1XVQ3KHS22E3F
+review/profileName: expresslaine
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1343347200
+review/summary: Durkee French's Pan Rich Brown Gravy
+review/text: Durkee is a brand that I trust and have never had a problem with.  This however I purchased because the picture shows what looks like a tall slender plastic bottle that I thought would have a flip top plastic lift area to pour from.,, so I could use small amounts from the pantry as needed.  Instead, the product came in one paper type package that does not reseal itself.  of course I will use a sealed plastic container to store....but I will not take another chance of ordering related to the product pictured as opposed to what was delivered.
+
+product/productId: B007KZJM20
+review/userId: A3MDETK0D5UAIN
+review/profileName: xoxo "woodfairy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348185600
+review/summary: Enough gravy for the whole family gathering.
+review/text: Actually this package makes more than enough. You mix a half gallon of water to whole package. I am sure if you are kitchen enough you can break it down into smaller portions. But considering Thanksgiving and Christmas dinners coming, this is just what you need for ease and affordable. You can not go wrong, under 3 bucks and enough gravy for everyone.
+
+product/productId: B001KUUOH8
+review/userId: A1GYEGLX3P2Y7P
+review/profileName: Shala Kerrigan
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1280880000
+review/summary: My favorite baking flour
+review/text: I love to cook and bake, and I experiment with a lot of kinds of flours. This is my standard though whenever I'm working on a new recipe.<br />It's very finely ground and works gorgeously in everything I've tried it with so far. In yeast breads it creates a nice fine textured bread. In baking powder/baking soda recipes like biscuits or cakes it's perfect. It's so light that it rises very well.<br />Last time I made dumplings using this flour, they got so light and fluffy they nearly came out of my pot. I use a combination of baking powder and baking soda in my dumplings with just a touch of vinegar in the wet ingredients for the baking powder and baking soda to work with, that technique combined with this light flour made them rise very well.<br />The flavor is nice if you like whole wheat.
+
+product/productId: B001KUUOH8
+review/userId: A11CWV66S1OASJ
+review/profileName: Fisher "fisher"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1264032000
+review/summary: Best whole grain for pastry
+review/text: For pastry type baking, pie crust, fluffy pancakes, brownies, etc. this is a really nice flour.  It works well with any recipe calling for baking powder and/or soda since it is very light. No need to mix whole wheat and white, just use this 100% stone ground flour. The yogurt pancakes on the bag are terrific.
+
+product/productId: B000IMLLLC
+review/userId: A2XVASWEQGEY7V
+review/profileName: GK "LaDiva"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1176336000
+review/summary: Good Product, but don't forget...
+review/text: I bought this basket as a gift. The receivers loved the presentation, the products, the idea behind the Project, and especially the personal touches, as the names and stories of the women who had contributed to it. I had omitted a card to go with it, and so my friends didn't know who had sent it. My fault. They called the company, but they were not able to find who the sender was, even with the order number. Maybe Amazon keeps the name of the customer? Or they don't have a good data base? Eventually, I asked these friends if they had gotten the present, and we had a good laugh over my absent mind! So, order the products, but don't forget to include a card if it's for a gift!
+
+product/productId: B005OPQ320
+review/userId: A1Z8ENYSB5AU74
+review/profileName: Christianne
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344643200
+review/summary: Have never seen a cat who wouldn't gobble this up!
+review/text: Fancy Feast Appetizers are always a hit and the Chicken and Beef flavor seems to be the favorite. The price is the same as I pay at the grocery store (and LESS than Petco) and it is delivered to my door. I get it on Subscribe and Save to save even more. I like the fact that there are only a very few ingredients - not full of fillers or too many weird things you can't pronounce. My elderly cat has Chronic Renal Failure and this is great for her. Low protein (12%) and high water content (85%) and not a lot of extra ingredients for her kidneys to process. The vet only gave her 1 year when she was first diagnosed and that was a year and a half ago and her bloodwork has remained the same and has not gotten worse and she has been given another year or hopefully longer. She said whatever I am doing is working and I truly believe that feeding her the limited ingredient Fancy Feast Beef and Chicken Appetizers (no fish flavors though) has a lot to do with it. If you have a picky eater you can not go wrong with this stuff, cats LOVE it!!
+
+product/productId: B005OPQ320
+review/userId: A228XUGCJ9VYM1
+review/profileName: memgrace
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333065600
+review/summary: Fantastic Product
+review/text: All the Fancy Feast Appetizers are top quality and cats love them. They are a little pricey but because my cats enjoy them so much, I purchase them on a regular basis.
+
+product/productId: B005OPQ320
+review/userId: AXH61O9Y4YKBE
+review/profileName: Edith MacIntyre "Edith"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328832000
+review/summary: Wonderful, moist & soft food for cats--my cat loves this!
+review/text: This is my kitten's absolute favorite flavor of any Fancy Feast product. Though it says it's only 12% protein on the package, that is a higher protein content than most of the regular canned Fancy Feast products.  This also contains a lot of water, which is important, since most cats don't drink enough water. I do think this is much better nutritionally than any canned F.F. products, and my kitten eats this flavor up very fast. Definitely worth the money!
+
+product/productId: B00060QQMA
+review/userId: AJUE139Y80Z8F
+review/profileName: piccle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: For those tabasco users......T R Y  this steak sause...WOW
+review/text: Husband loves tabasco products....the more We try the more he  L O V E S....Look at their web site..they have  A L O T  of  cool stuff.............
+
+product/productId: B001A3EE1W
+review/userId: A4TWRMSJJFBTT
+review/profileName: J. A. R. Ncp
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318204800
+review/summary: Mesquite seasoning
+review/text: Ideally I wanted to reproduce mesquite shavings that were in a steak seasoning that I had purchased from Costco - of course it was a great product and as always Costco stops stocking those items.  I searched for four months to find mesquite in other than a powder form but was unable.  In the end the powder works well for seasoning and in some ways it is better than the shavings.<br /><br />This powder is very strong flavored, so a small amount gives a powerful mesquite taste - which is good since the jar will last a long time.
+
+product/productId: B001D07LQC
+review/userId: A27CTW0GPEE0AZ
+review/profileName: Firefly
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1259798400
+review/summary: Not too bad!
+review/text: Tastes faintly like powered milk when mixed with 2%. Kids could'nt tell ! Dad & I don't really drink it!! If kids like it thats what counts! Don't think I'm saving any money though mixing it & that was my aim.
+
+product/productId: B004VLVMOM
+review/userId: A1TMHR37LTIUQQ
+review/profileName: JB
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1327104000
+review/summary: Great
+review/text: This corn flour is excellent for just about anything, but I used it for making corn bread. No GMO's in case anyone wants a non Genetically Modified product.  An overall excellent product.
+
+product/productId: B004VLVMOM
+review/userId: A3Q8EG8F181J2P
+review/profileName: Robin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Good corn flour!
+review/text: I developed a few sweet bread recipes which include corn flour. During the past, corn flour from the supermarket has been a hit and miss. Some of them are the masa, starch, or corn meal type. Bob's Red Mill corn flour is like a fine flour, exactly what I needed for baking my sweet breads.
+
+product/productId: B004VLVMOM
+review/userId: A3DBJQLY1MPM73
+review/profileName: quiet bells "quiet bells"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: I have finally found the real thing.
+review/text: This is real corn flour. It is as powder like as all purpose flour.<br />It is the secret to good fried food, especially fish.<br />It IS NOT masa, which is used to make tortillas. It IS NOT<br />fine corn meal, and it IS NOT corn starch.<br />This also makes excellent cornbread or corn muffins when you use corn<br />flour in the place of the wheat flour, not the corn meal.<br />The 4 packages of 24 oz each come in a sturdy box.
+
+product/productId: B001BKNAYG
+review/userId: A3EYP65V7ADYH6
+review/profileName: Lynn
+review/helpfulness: 2/8
+review/score: 1.0
+review/time: 1248739200
+review/summary: Great Food - But Don't Order it From Amazon
+review/text: This case of food was bad.  Every time I fed it to my dog he got sick.  This is a brand and flavor that my dog eats regularly, which we purchase from PetCo and have purchased in the past from Amazon.  He has never had any problem with it until this case.  Some of the cans were dented and I believe it must have been exposed to high heat or something.  I've thrown out can after can that has caused him to be ill.  I have waited several days before trying another can, and again, the same thing.  He has been throwing up all day.  I will never purchased canned food from Amazon again.
+
+product/productId: B0019977RK
+review/userId: A2B3LDRMJPOH1L
+review/profileName: Eric Deitchman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267142400
+review/summary: tasty and consistent
+review/text: This is a solid coffee, enjoyable, not bitter.  It will not disappoint.  Fairly smooth and not too strong, so if you like a stronger taste this may not suit you.
+
+product/productId: B001EO7MY8
+review/userId: AAWHW1NQVW8O6
+review/profileName: Dr. Mom "Dr. Mom"
+review/helpfulness: 1/5
+review/score: 4.0
+review/time: 1285372800
+review/summary: They're peppercorns
+review/text: Well, they're peppercorns, they look like 'em, smell like 'em, taste like 'em. I don't really expect a lot from them otherwise...
+
+product/productId: B004H0W08O
+review/userId: A2F0SXJJGH8P2A
+review/profileName: R.S.T
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: wow, I'm impressed
+review/text: May not so creamy as ghiradelli nor milka, but texture and taste is so sublime. Very impressive quality at all.<br /><br />It's moderate sweet and not oily(which is so lovely), and you can notice some hint of subtle nutty flavour<br /><br />contain no palm oil nor some other 'bad' ingrediences.
+
+product/productId: B005ZU7H2Y
+review/userId: A31GLRUVRI6GID
+review/profileName: Lovinthedarkside
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350604800
+review/summary: I'm addicted!
+review/text: Def a cool product. It really tastes like water! I can taste a slight mineral taste if I drive it at room temperature but if its cold it really refreshing and doesn't have a taste at all. My kids love it too!
+
+product/productId: B001TZRZJE
+review/userId: A256TOND6Q50QE
+review/profileName: M. Grazi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265414400
+review/summary: Great Cheese and fast delivery
+review/text: I ordered Societe Roquefort cheese.  The shop was out and called me to see if I would want a different brand.  The other brand did not meet the expectation so I was called again to see if I wanted to wait for the societe brand.  This shop spend the time to inform me about the out of stock cheese and the substitute.  I respect that they kept me informed and I received the cheese I wanted.  It was excellent.
+
+product/productId: B000V1U83W
+review/userId: A29DTYJA0N0QG
+review/profileName: Shearliff
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1293408000
+review/summary: Different bag; different food
+review/text: I have been buying Friskies dry cat food, mainly their seafood flavor but sometimes others, for 4+ years. My cats liked the taste and for the cheap price compared to others I was satisfied.<br />Until they changed the bag design, that is. I say bag because that is what the label said. "different bag, same great taste" or something like that.  When I picked the bag up from Target, I had expected to see the same food I had always bought.  When I opened it, I quickly realized this was not the same food.  The shapes were the same, but the colors were noticeably brighter and more vibrant.  It was eye-appealing, but apparently not taste-appealing.<br /><br />My cats barely touched it, one of them didn't eat it at all.  And when they munched it down reluctantly, they threw up and got diarrhea. ALL of them. We had to throw the junk out and buy a bag of something else.<br /><br />Unfortunately, my lack of money has forced be to purchase Friskies on and off frequently over the past year, though I no longer buy that flavor, OR the flavor of the bright orange bag. The other flavors seem a bit milder, and the cats only throw up every once in awhile, though they still get cases of diarrhea too often. If I had enough money I'd check them out at the vet (along with getting the cat-food tested).  Recently though I found another bag of dried cat-food that was a bit cheaper than Friskies and there's been a definite improvement in their stools since they tried it. No one has thrown-up. I may just stick with this one.<br /><br />I've looked up information about Friskies, and while I never expected them to be top-quality for the cheap price, I was more or less disturbed by the constant complaints customers had.  Almost every site I looked at concerning Friskies had people saying their cats died or were throwing up/getting diarrhea. Calling the company does little good, as their standard reply seems to be: "orly? This is first we've ever heard about it!"
+
+product/productId: B0055ICPFK
+review/userId: A2JNI4JWQHGXG9
+review/profileName: YsView
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1309046400
+review/summary: Dad's Said "TRUE LOUISIANA FLAVOR"
+review/text: My dad was born and raised in Louisiana and has once again returned home for his retirement.  He now seems to spend his time testing BBQ and hot sauces from all over and sends me a bottle when he comes across a special find.  He sent a bottle of this Louisiana Gourmet Hot pepper sauce with a quick note saying "TRUE LOUISIANA FLAVOR".  It's now one of my favorites and I'm glad to see I can get it online when I run out.
+
+product/productId: B0055ICPFK
+review/userId: AL9734ZYJTRVD
+review/profileName: E's View
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1312502400
+review/summary: THE BEST FLAVOR
+review/text: This is my top favorite hot sauce.  I use this on my breakfast...eggs, potatoes and bacon. I use it on my sandwiches and steaks, chicken, pork.  It's even great on mashed potatoes or on pasta salad...It has the BEST FLAVOR and I find myself trying it on more and more dishes and loving it! It can make just about anything taste great!
+
+product/productId: B0055ICPFK
+review/userId: A24YRVX2N3O8H6
+review/profileName: Southerngal
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1308787200
+review/summary: Fake Louisiana Product
+review/text: So, you're from Louisiana? I am....and this Pepper Sauce does not remind me in any size, shape or form (or taste) of anything from Louisiana. It's nasty. Granted, there are products out there that remind me of Louisiana...this is not one of them. People, before you buy, check the label, please? Buy authentic Louisiana products, or at least purchase those that have received high marks for good taste....not silly knock-offs that use the Louisiana name to trick consumers into purchasing.
+
+product/productId: B0071QZSYO
+review/userId: A3BTMUM39HWY7F
+review/profileName: Sterling_123
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Instant Classic.
+review/text: This is a classic product to me. The flavor is like a Mary Jane candy, only it's low sugar, less chewy, and has a touch of ginger bite. I love ginger and peanut together in asian food, and it works very well here. They should just call it peanut ginger, as it has bits of peanut in it, no PB texture. They're too pure and healthy to be considered candy. I pop them to soothe my stomach, to help digest a big meal, or to curb hunger-- as it's all real food. It's a talented little product. If they get warm in your pocket they get delectably soft and nearly melt in your mouth. This is candy for grown-ups. I think they should be a staple in all stores, right next to the life savers. Maybe if they get more known, they'll get cheaper!
+
+product/productId: B003EMSEZY
+review/userId: A3F8019PWBPCAF
+review/profileName: Pola Dugan
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1312761600
+review/summary: Goetze's caramel creams
+review/text: Royal Candy Company - cheapest caramel creams on the internet for 10 pounds.  I keep the company candy jar filled with them daily.  also, fast delivery.  no problems with this company.
+
+product/productId: B003EMSEZY
+review/userId: A2HGLCUDJ0QZHM
+review/profileName: Andy L. "Andy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344297600
+review/summary: Fantastic!
+review/text: This is one of my all-time favorite candies.  Lays used to have a slogan, "Bet you can't eat just one!" and there's no doubt, for me, that's the case with these.  My biggest 'problem' with these is I can't leave them alone and my waistline is suggesting I SHOULD!
+
+product/productId: B003EMSEZY
+review/userId: AOXVI3CR8EFCQ
+review/profileName: Adelena Santillan "addie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347408000
+review/summary: bullseyes
+review/text: they were great, fresh and didn't last long! I thought that if I bought them in bulk I would have them for a while, but I guess I was wrong.
+
+product/productId: B001TZRZJO
+review/userId: A2RYA6TFXO7L6M
+review/profileName: A. Phillips "Kentwood Guy"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1274918400
+review/summary: Great deal
+review/text: You get a huge jar of capers, of larger size than those crummy little jars in stores ( 3.5 oz. for 5 bucks ), and are of superior quality. 32 ounces for ten bucks? You bet! Packed very well and sent fast also.--Excelsior!
+
+product/productId: B001TZRZJO
+review/userId: AP98Z2IOIEX63
+review/profileName: S. Pelz
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1285459200
+review/summary: Great Capers!
+review/text: The capers are terrific!  Way below what you would spend in the grocery store.  Company was fast and true to description.
+
+product/productId: B001TZRZJO
+review/userId: A2KW8LVOO360VY
+review/profileName: A. J. Deats
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1270598400
+review/summary: Big fat capers
+review/text: These are excellent capers in flavor. They are, however, about twice as large as the ones I've always used. The flavor is the same.
+
+product/productId: B004WBBEFI
+review/userId: ADQ0WKI9ELX26
+review/profileName: Finally happy
+review/helpfulness: 8/9
+review/score: 1.0
+review/time: 1317686400
+review/summary: expensive
+review/text: While my daughter loves these Ella kitchen meals, I thought I was getting a pack of six for the price.  But no- just one.  Can buy these for $1. 25 locally.
+
+product/productId: B004WBBEFI
+review/userId: A27YHR4JC14K94
+review/profileName: henrysmom
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1335571200
+review/summary: OVER PRICED!
+review/text: $8.98 for 1 pack?!?  That should be the price for a 6 pack.  Be careful and dont order only one for that price!
+
+product/productId: B0060BAUJ4
+review/userId: A21CR9Y4WQPK7W
+review/profileName: tiirob
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1323216000
+review/summary: Best honey ever!
+review/text: Pelindaba Lavender and honey is the perfect combination. It's so heavenly tasty, that all other honeys are just not worth it anymore.
+
+product/productId: B0060BAUJ4
+review/userId: A3BZHI48MZWE7D
+review/profileName: Elizabeth Bennett "Eliza"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344297600
+review/summary: Fantastic delicious natural product delivered quickly
+review/text: I have actually visited the Pelindaba lavender fields a few years ago on a visit to the San Juan Islands so was thrilled to see this product available.  I was reminded of the warm smell of lavender growing in the July sun with bees swarming around the plants.  One of my best travel memories.  Love this honey- it has a more lavender flavor than some honies but is really wonderful.  Great value for the money.  Adds a wonderful something extra to Greek yogurt or to a bowl of fresh blueberries.  Fresh blueberries take very well to a little dollop of lavender honey. Try it!
+
+product/productId: B002BKNBJ4
+review/userId: A17LUEB12DRYV3
+review/profileName: sint
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342569600
+review/summary: Like it.
+review/text: Like this tea. Good taste. Really very effective. I will order more. It works as suppose to work. Totally satisfacted.
+
+product/productId: B0007SNZ34
+review/userId: A1C4PZDQ84I9MA
+review/profileName: My Uncle Stu
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1157932800
+review/summary: but it's just a malted milk ball
+review/text: Boy are these things good.  The innards melt down into pure sweetness, not unlike a mouthful of cotton candy, an irregular but constant reward for any consumer with the patience to allow it break down at it's own rate.<br /><br />Here's what I do.  I bite off the top quarter or so, munch it, then let the remaining milk ball rest flat side down on my tongue, to dissolve from the inside out, leaving the last lingering tastes of maltose to be quickly chased by the collapsing chocolate outside.  If you get really good, you can stick these in the freezer before hand and then really test how patiently you can eat these.  With practice you can enjoy a single whopper for 30 minutes.<br /><br />I just saw a recipe on the internet:  Crush up about 8 oz. of malted milk balls, mix it with 8 oz. of cool whip and a pint of vanilla ice cream, poor it on a graham cracker crust.  Sounds like something my grandmother would do, but I bet it's good.<br /><br />Buy Hershey's Whoppers.  They got it right.  Just the right mix.  Not too heavy on the chocolate.  You can find fancier, more expensive gourmet malted milk balls, but they don't improve on the basic Hershey's Whopper.  Thank you for listening.<br /><br />Kids: always brush your teeth after eating candy and visit your dentist regularly.
+
+product/productId: B001KW8UIG
+review/userId: A3SSO1NZCEUEE1
+review/profileName: R. Rose
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1317772800
+review/summary: Bugs In The Bag
+review/text: I purchased two large bags of nuts from this seller. I contacted them, more than once, to inform them that there was a bug in one of the bags of nuts. I told them that I did not want a refund, just thought they should know. I threw the bag in the garbage. I sent a photo of that bug. They flat out replied that they do not believe that the bug was in the bag or came with the bage of nuts. The New York Health Department and the Food and Drug Administration should visit this seller. Beware buyers! You may purchasing nuts with bugs!
+
+product/productId: B001KW8UIG
+review/userId: AR9JVVLDADZFF
+review/profileName: T. Fruge
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1310428800
+review/summary: Good, but not great
+review/text: Described as "roasted" as well as "salted", they are in fact roasted, but not well salted and taste more like a "low salt" product.
+
+product/productId: B001KW8UIG
+review/userId: A2MCMS7ID16TPS
+review/profileName: Sharon Boyles "cruise lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318809600
+review/summary: great pistachios
+review/text: These pistachios arrived very quickly and tasted great.  Other pistachios I have tried were much too salty.  These are lightly salted, easy to open, and tasted very fresh.  I would recommend these pistachios to anyone looking for a better deal than the local grocery stores have.
+
+product/productId: B000LQOIP6
+review/userId: A181XRGXAO6COB
+review/profileName: Lola Brown
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1291075200
+review/summary: Very nice for a sugar-free product!
+review/text: My husband found this sugar-free chocolate with hazelnuts at a German deli here in town. It's made in Croatia, of all places. I'm a chocolate fiend and consider myself somewhat of a connoisseur. Since going low-carb, no sugar, I have sampled all kinds of sugar-free chocolate. This one is pretty good. The hazelnuts are chopped and add a lot to the flavor. The chocolate flavor is light and not real chocolate-y (which I would like) but it is still tasty. I like that the sweetness is not overpowering. I've noticed that many sugar-free products from Europe are not as sweet as here in the US and they are much better, they don't knock you over with maltitol. The price is reasonable and fair. There are some truly crummy and awful sugar-free chocolate items for sale out there but this is NOT one of them. It's not a product to swoon over but it's a pretty good substitute when you want a chocolate treat at a good price. I hope you try it and like it.
+
+product/productId: B001Q2NQ7A
+review/userId: A2K5SUKQWJ0U3H
+review/profileName: Naomi M. Simmons "prairiedogwoman"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1295568000
+review/summary: 5 Cats and they all love it!
+review/text: I live with 5 felines and they just can't get enough of Addiction - Salmon!  I don't feed it to them everyday being the cost is up there, but they know where it is and they ask for it every opportunity they get!  I am very pleased that this is a quality food that we can depend on.  Just wish it was sold in larger quantities and a little more resonable price.
+
+product/productId: B001Q2NQ7A
+review/userId: A1M9CUORIHWGLO
+review/profileName: J King
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343779200
+review/summary: Little Family Members cancelled order with no explanation
+review/text: I ordered this product 4 days ago. I received various "order update" emails telling me that it would arrive by tomorrow. I just got an email out of nowhere with a cancellation message and no other explanation other than that I could reorder it.
+
+product/productId: B0005ZUG86
+review/userId: A110ZEDSNASVCO
+review/profileName: Brother MOLOCH 969 "MolochSorcery.com"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1226880000
+review/summary: Phenomenal Sauce for Cooking & Seasoning! Spice it Up!
+review/text: Unlike most bottles of 'hot sauce' Tiger Sauce tends to be flavorful without melting inside skin of your mouth away. Rare? Indeed. I first experimented with this cooking sauce when I discovered the Asian art of wok cooking and making home made stir fry.<br /><br />Like your food with a tinge of heat and LOTS of flavor? Then THIS is the cooking sauce you'll grab again and again for all of your cooking needs. It's good to add into stir fry, fried rice, soups, stews, chili or for when you wish to sautee some meat such as chicken, pork or shrimp. (While it's ok for beef, I find that beef tends to soak this sauce up more so than chicken, shrimp or pork does).<br /><br />How much to use? Let your conscious be your guide! But to start with I'd use no more than a tablespoon of it with some cut up chicken chunks in the pan. Figure you're going to use 2 T of peanut or sesame oil to coat your wok/pan with to cook your meat and then when the meat begins to brown on the outside, just pour in the Tiger Sauce and let that sizzle in and flavor the meat.<br /><br />This sauce is also good as a marinade that you can use for any meat as well.<br /><br />Give it a shot. I think you'll be as happy as I am with it!
+
+product/productId: B0005ZUG86
+review/userId: A223AV3X351A2S
+review/profileName: LeMarie
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1281571200
+review/summary: the BEST sauce ever created
+review/text: I been hooked on this sauce for about 12 years now, ever since my dad randomly bought it from Shop Rite. I've got to say, its not so much hot as it is flavorful. It has a kick to it, but it is also savery. I put it on corn, potatoes, meat, chicken, fish, and in PASTA dishes. My mom thinks it is really gross even after all this time that we still drench everything in it. My taste buds are still intact as well! This is my secret sauce that I wont even tell my fiancee because it is too good to be true. It is very hard to find in stores, but the original Shop Rite he bought it from still has it to this day (Maybe because we buy every single bottle) it cost about 2.50-3.00 for a single bottle. Tobasco Sauce eat your heart out. Tiger Sauce all the way!
+
+product/productId: B0005ZUG86
+review/userId: A2FRDK98KQFLH3
+review/profileName: Nikkiwood
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265587200
+review/summary: add flavor not heat
+review/text: The other reviews sound like they were written by an advertising copywriter.<br /><br />But they're accurate.<br /><br />As the others have said, if you're looking for a sauce that adds great flavor with just a touch of the heat that comes from a conventional hot sauce, this is worth a try.<br /><br />I came here to see if I bought in quantity, the price would be better than my local grocery store. It is.
+
+product/productId: B0005ZUG86
+review/userId: A2R99V3KY0MC1Q
+review/profileName: Dwayne
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265068800
+review/summary: My Favorite Condiment
+review/text: As someone who puts Haba&ntilde;ero Tabasco� sauce on his eggs for breakfast, I don't find Tiger Sauce to be *hot* at all.  But it is a very flavorful sauce with a soup�on of kick that works for a number of meals.<br /><br />I can't think of anything I haven't used it in.  Beans.  Chicken.  Beef.  Pork.  Eggs.  Tuna.  Salmon.  I haven't tried drinking it from the bottle.  Yet.  But trust me, this is THE one sauce to add to your kitchen.
+
+product/productId: B0005ZUG86
+review/userId: A2UECZKL2SCSNC
+review/profileName: Jonathan C. Charles
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1166918400
+review/summary: This sauce is awesome!
+review/text: If you like a good spicy sauce, then this is just right for you!  Not too hot, kind of sweet, just right for anything that needs an extra kick without the heat!  Yum!
+
+product/productId: B0005ZUG86
+review/userId: A2OA13D0DDE89V
+review/profileName: ChristinaCarothers
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334880000
+review/summary: Best Sauce Ever! No Lie...
+review/text: It was about 2 months ago when I was in the aisle with the hot sauces. I came across this bottle that said Try Me - Tiger Sauce. I grabbed it, contemplating whether I was going to buy it or not. Well, it ended up in the cart by mistake and made it my way home. I first tried it with my home-made chilli and it was AMAZING! This sauce is not like others and it full of flavour. Ever since than I've consumed 4 bottles of it. As I type I have added some onto my spaghetti. It's a must have for every dish!
+
+product/productId: B0005ZUG86
+review/userId: AHO3GZPAGYD5N
+review/profileName: Kathryn A. Barth
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318896000
+review/summary: Great price, but not on Amazon
+review/text: I have bought this sauce for years. My husband LOVES it. The Luzianne site charges a lot less per 5 oz. then $9.25 try $3.34 if you buy a dozen or $4.00 a bottle for a single purchase. Excellent product.
+
+product/productId: B0005ZUG86
+review/userId: A1Y5POLUC4ZLOT
+review/profileName: Derek Anhorn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304640000
+review/summary: Tiger Sauce Addict
+review/text: HELP!!<br />HEEELLP!!<br />I'm addicted!<br />I'm a Tiger-holic! I've been drinking 3 bottles a day!<br />Just kidding..<br />Seriously though... I agree with the guy that said this is the best sauce ever created. No hesitation and no doubt about it. It's completely true, if you doubt that, then you've never tried it. For those that worry about it being hot, it's not very hot. But the flavor is AMAZING!!! Tobasco sucks compared to this stuff. Infact I think if the world would just give it a try all of the Tobasco bottles you see on resturant tables everywhere would be replaced by Tiger Sauce. My on complaint is that it's hard to find. You can't get it at Walmart or Target. On rare occasion you can find it at Cub but I have the best luck finding it at certain Rainbow Foods stores and a couple of other more high end stores. Usually when I see it I buy every bottle the store has. (This is not a joke or exaggeration.)
+
+product/productId: B0005ZUG86
+review/userId: A3JEEPYPEM9V81
+review/profileName: Tim
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1351123200
+review/summary: Worcestershire-centric
+review/text: ...and that's a good thing.<br /><br />Worcestershire is the key ingredient here and it's also my secret ingredient for pea soup and clam chowdah... oops, secret's out. IMHO, a bit pricey at $3.99, which is what I paid locally. Here it's $6.90 - I mean "$1.95" plus shipping - which is madness.<br /><br />Good flavor, but it has limitations for me, as does Worcestershire.
+
+product/productId: B0005ZUG86
+review/userId: A1LS8AULHK659B
+review/profileName: lindens mommy "faith"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: My favorite snack
+review/text: I love Tiger Sauce! I eat it with cream cheese and round buttery crackers....YUM! My favorite snack for sure. I haven't tried it on meat, but I bet it's awesome!
+
+product/productId: B0005ZUG86
+review/userId: A8PUAO3BNHNIH
+review/profileName: Magmore
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340236800
+review/summary: YES YES YES
+review/text: I 100% agree with all of these reviews. This stuff is amazing. The complexity of the flavors is pure bliss. turns a 50 cent frozen burrito into a gourmet burrito... really... No need to write more as the other reviews cover it.
+
+product/productId: B0005ZUG86
+review/userId: A19KZTF7MK04JF
+review/profileName: John Readle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333324800
+review/summary: Nothing like it.
+review/text: I stumbled onto this product years ago. I cant buy it here locally anymore at the grocery. It is delicious. Don't let the name fool you, it is not firey hot but just right with a hint of sweetness. Take a chance and buy a bottle, you will not be dissapointed.
+
+product/productId: B0005ZUG86
+review/userId: A96K1ZGW56S2I
+review/profileName: tvtv3 "tvtv3"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330041600
+review/summary: The Roar of a Jungle Cat and the Purr of a Kitten
+review/text: I first tried TIGER SAUCE during Lent. On Fridays, I only eat fish and I usually use tartar sauce with my fish. While I was at the grocery store picking up some pollock, I saw a 5 oz. bottle of TIGER SAUCE and decided to give it a try instead. I love this stuff! It's got an almost perfect blend between hot and sweet. It won't burn your mouth, but there is a bit of a kick. At the same time, there is a sweety flavor that lingers in one's mouth after the hot sauce kick is gone. It has the roar of a jungle cat, mixed with the purr of a kitten. I'm going to start using TIGER SAUCE on all sorts of other foods from now on. Use it as a marinade for grilled chicken or pour it into a pot of chili. It's all good. Try it and you shouldn't be disappointed.
+
+product/productId: B0005ZUG86
+review/userId: A36YVP4TN0YLRA
+review/profileName: A. Downing "Ashley0411"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323734400
+review/summary: Delicious!
+review/text: Put it on a Philly Cheesesteak....I promise you, you won't be disappointed.  I'm ordering this sauce specifically for this meal.
+
+product/productId: B0005ZUG86
+review/userId: A19ZFWKTJ2D360
+review/profileName: JustinL
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323216000
+review/summary: Delicious!
+review/text: I absolutely love this sauce. The flavor goes well with pretty much ANY dish (pizza, meat, potatoes, seafood, chicken, stir fries, rice, ramen.. you name it!) The local grocery store no longer carries it, so I'm looking online to restock. The $9.25 listed price as i write this review is WAY too high, (2-3 bucks for the 5 oz bottle is about fair), so I'll look elsewhere to purchase it.<br />The color of the sauce is very appetizing. The heat is pretty mild (half the heat of Sriracha, maybe?!), but a completely different (and arguably better) flavor profile. Some reviewers have noted a sweet/sour profile, and I would definitely vouch for that. It provides a ton of flavor in the foods to which it is added, but it doesn't overpower.<br />I have a much higher tolerance for heat than any of my friends, but never have i hesitated to suggest they try this. I've recommended this sauce to a number of friends and they're all addicted (when the grocery store had a closeout sale of the remaining bottles, one buddy bought 8!).<br />I can't wait to get some more of this stuff!
+
+product/productId: B0005ZUG86
+review/userId: A11BV9DZ5IU3P
+review/profileName: Rock Star "Quartz"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307318400
+review/summary: Delicious Sauce
+review/text: Let me qualify this by saying up front my family is Cajun and we like spicy food.  Tabasco is required on Cajun tables but Tiger Sauce is the go to sauce at my house.  Everybody likes it.  It has a kick but it's not too hot.  I use it on many things but probably my favorite is on sandwiches.  Tiger sauce on pastrami and swiss or a fried shrimp poyboy is delicious.  My family loves Tiger Wings.  Mix equal parts melted butter and Tiger Sauce together and baste wings on the grill.  They are delicious without being too spicy.  We also use it as a dipping sauce for many things. Try it, You'll like it.
+
+product/productId: B0005ZUG86
+review/userId: A3LD1LU53RFINR
+review/profileName: Mississippidrea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297900800
+review/summary: LOVE
+review/text: I couldn't find this at any grocery store so I had to order it online. It's my favorite condiment it's beautiful on everything!
+
+product/productId: B0005ZUG86
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1297123200
+review/summary: Nice try Tabasco!
+review/text: I got to believe this is what they were trying to replicate with their Sweet and Spicy Sauce. They missed.<br /><br />Everybody needs a bottle of Tiger Sauce in the pantry. This stuff is great on chicken, fish, and pork or as a finishing glaze on the grill. A very complex blend of flavors that just works! In fact, the entire line of TryMe products is top notch but this is their flagship seller.
+
+product/productId: B000LRFWRS
+review/userId: AA4GC72H2UZQ4
+review/profileName: Big Momma "Big Momma's House"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1247356800
+review/summary: Refreshing and tasty!
+review/text: I usually buy this at my neighborhood grocery story - where it costs over $4. Whole Foods stocks it in the dairy case and their price is better. The price here is even better than that!<br />  This is like a tart smooth yogurt. Tart, not milky. Greek style yogurt has become very popular lately because it is tart and thick, not milky and thickened with gelatin, etc.<br />  By those standards, everyone should be drinking kefir because if you like that taste, and I do, you'll love this.<br />  I usually can't keep the bottle in the fridge. I just drink at least half of it as soon as I get it. It's as refreshing and cooling as buttermilk in the summer. It has lots of healthy probiotics (helpful bacillus) that are good for your health but I'd drink it just for the taste and nothing else!
+
+product/productId: B000LRFWRS
+review/userId: A1E29194QNFHFG
+review/profileName: Emmly
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1209772800
+review/summary: Awesome...
+review/text: Chances are, if you're not European, you will not like this. It is a very thick, sour milk (lapte batut in Romanian). :o)<br /><br />Growing up on it, I was very happy to find it here in the states.<br />You can usually find it at Whole Foods, Wild Oats or in the gourmet section at Safeway/Vons.<br /><br />The regular tastes much better than the low fat, but it's still very thick and sour. They also make it in Vanilla and berries, Blueberry I think.<br /><br />My husband, who is American, says it tastes like milk that's gone bad. I happen to disagree. :o)
+
+product/productId: B000LRFWRS
+review/userId: A3V8XDM9WFKDR
+review/profileName: Mom "2"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319760000
+review/summary: Tastes good and good for you!
+review/text: -Provides Calcium,<br />-Provides Vitamin D<br />-If you can find one that still has inulin you will get fiber and can count on the the inulin feeding the probiotic and count on it being more viable.<br />-Provides probiotics<br />-Provides protein (It is almost like a meal replacement smoothie!)
+
+product/productId: B004G5DW5A
+review/userId: A2Z3DIB8P7J8M0
+review/profileName: christo
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1320883200
+review/summary: what an unpleasant suprise
+review/text: I expected much more from this coffee after reading so many raving reviews.  Im not a novice when it comes to grinding and brewing.. my equipmnet is high end and always clean....but this coffee leaves a very bitter aftertaste.<br />i adjusted the grind and extraction several times..even cleaned and backflushed the machine...but the result is always the same.<br /><br />the coffees aroma and crema are fantastic but the bitter aftertaste kills it.  im sticking to blackcat.<br /><br />i will give them the benefit of the doubt here and speculate that my 2.2 pounds was sitting in jersey city too long.  one could only hope after all the gourmet hype.
+
+product/productId: B000JV3C82
+review/userId: A1VT804QG340FV
+review/profileName: Laurie Fletcher "Laurie Fletcher"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1216944000
+review/summary: Excellent beauty product
+review/text: This is one of the best skin moisturizers you can buy.  Just be careful when you buy that you don't buy a toasted almond oil.  This is much better.
+
+product/productId: B001HXNIPS
+review/userId: A15S8OFFXMRS1G
+review/profileName: ulla isotalo
+review/helpfulness: 18/20
+review/score: 1.0
+review/time: 1293148800
+review/summary: 3x Siljans Crispbread, 14-Ounce Package (Pack of 2)
+review/text: Great almost expired bread,<br /><br />if only it would arrive with a little longer expiration date.<br /><br />SUGGESTION FOR YOU ALL: ONLY BUY ONE PACKAGE!<br /><br />The trouble is, I like to order several packages, and for some reason Amazon is sending out the bread with only very litte time till it expires.<br /><br />This style bread is supposed to hold for years, and is good to keep in stock for emergencies like hurricanes here in FL, or would be, if it would arrive from Amazon even half fresh!<br /><br />This time I got the bread with expiration date 01/2011 and 02/2011 I ordered in December 2010<br /><br />The expiration date, when it leaves from factory, and arrives to wholesale, surely is more than 2 weeks, probably has 1-2 years if not 5 years on it!<br /><br />I am getting the feeling you are buying some old expired wholesale bread cheap!<br /><br />I am hoping to order this bread in the future with at least 3, rather 6 months stamped expiring date on the package!<br /><br />this is SECOND TIME AMAZON is sending me OLD bread = bread that expires in 1-2 weeks<br />NOT HAPPY! It is only so much crisp bread a person can eat in a week or two<br /><br />!!!!!!!!!!!!!!!!!!!!!!!!<br /><br />Bad Bad deal!
+
+product/productId: B001HXNIPS
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 16/18
+review/score: 5.0
+review/time: 1237852800
+review/summary: Vegan Natural Choice
+review/text: Vegan. Natural. Traditional Swedish round kn&auml;ckebr&ouml;d rye crispbreads. Four large (~11"/28cm) round pieces per package. Each piece is approx. 312 calories and weighs 3.5oz/100g. Snap off any size piece as you like. Great with soups or with jams and marmalades.  Two rounds broken in half (4 half pieces) fit in a gallon size ziplock or you can store the whole ones in a large flat tupperware. Made with whole grain rye flour, yeast, water, and salt. My paternal grandfather was born in Sweden. [My mother's family is of French descent.] Siljans has been a tradition in my family for generations. Very happy to find that it is now available on Amazon. Highly recommended. Product of Sweden. This review is out there for those for whom this makes a difference. See all of my reviews and the vegancompassion Profile for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" & all the other helpful "Vegan Grocery" Listmania. Your input counts and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B001HXNIPS
+review/userId: A3B2R3R51WC29T
+review/profileName: Pamela Whitish
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1267488000
+review/summary: Relief
+review/text: I have found great relief (constipation) as I eat this everyday.<br />I've shared this with friends in the same situation and they have also<br />found 'relief'.  Who would have thought something this simple could help.<br />We have worked with this 'problem' for a long time so we know the in's<br />and out's.  My husband says to me 'O your eating cardboard for breakfast?' Ha Ha..<br />Make it like a sandwhich, breaking off the portion you want. Honey and Peanut<br />butter or almond butter, sprinkle with cinnamon. delish.  Or humas with sliced<br />tomatoes or sliced cucumber.  I love it....no fats, no sugar, lots of fiber!<br />Pam
+
+product/productId: B001HXNIPS
+review/userId: A3OMSKBS10TBEK
+review/profileName: TheraP "TheraP"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1238544000
+review/summary: Our favorite crackers for 25 years!
+review/text: We've been eating these crackers for 25 years!  We've found them in two states we've lived in.  Sometimes they're hard to find or our local store runs out.  But NOW!!!!  I can order them from Amazon for less than we pay locally - and free shipping!<br /><br />We use these rather than bread.  We always have them on hand. We've taken them camping - all the way to New Foundland and Labrador as well as to British Columbia, CA and everywhere in the USA.  We eat cheese and crackers every day.  Healthy.  And there's never any bread going stale.  The crackers are always on hand.<br /><br />Thank you, Amazon!
+
+product/productId: B001HXNIPS
+review/userId: A11BMF08AANDVA
+review/profileName: Rasee Bill Starkey "eyeonu"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1306108800
+review/summary: eat bread
+review/text: i am addicted to wonderful artisan Italian and french bread...had to quit due to diabetic flush...300-400 blood glucose...this crisp bread has only 10g carbs...if you are a type 2 diabetic, consider this as a good low carb addition to your meals
+
+product/productId: B001HXNIPS
+review/userId: A3SCR3PL8ZSYZ6
+review/profileName: Pamela Erickson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1303430400
+review/summary: Yum and nostalgia
+review/text: I love this stuff. Maybe it's an acquired taste, but I grew up with Siljans as the child of first generation mother. It is also quite a healthy alternative to high fat/salt crackers. It is great with herring, cheese, salmon, chopped liver, avacado, smoked oysters - just about anything. I prefer this to Leksand's, the more commonly found crisp bread.
+
+product/productId: B001HXNIPS
+review/userId: A2C793GY3LA3AL
+review/profileName: Hilding M. Olson "Hilding"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331424000
+review/summary: Siljan's Crispbread-
+review/text: The Siljans Crisp Bread was just as I remembered from my boyhood when my parents bought it at a Swedish store in Chicago.  I enjoy eating it with pieces of herring pickled in wine.  But it wasn't clear to me what "Pack of 2" meant.  It means pack of 2 packages each of which contains several large wheels of crisp bread, not pack of 2 wheels of flat bread.
+
+product/productId: B001HXNIPS
+review/userId: A3HHMW9D6BXEC8
+review/profileName: E. McDermott
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305158400
+review/summary: Still the Best
+review/text: Since moving to Ohio from Boston (where I was able to purchase this in a Cambridge gourmet grocery) I have been searching for Siljans hardtack. Given the demands on my time, ordering it from Amazon was a real bargain. Siljans is by far and away the best crispbread with full rye taste and without the slightly bitter aftertaste some of the other brands have. Try it with cold cuts, a slice of cheese and a slice of tomato on top (my favorite is Boar's Head lower sodium ham, Boar's head havarti and a slice of Campari tomato)--heaven! Or just some soft butter! This is far and away the best kn&auml;ckebr&ouml;d out there. You won't be disappointed. I was VERY sad when Ikea switched brands, but in my current midwest location, there are few Ikea stores within easy driving distance, and with gas prices lately, the shipping and time saved make this a bargain.
+
+product/productId: B001HXNIPS
+review/userId: AZHP0CI63LD83
+review/profileName: Crisp lover!
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1298592000
+review/summary: Siljans Crispbread.
+review/text: We have this bread for breakfast every day and love it.<br />However, our first shipment was not so good, as all breads in each package were broken, many in small pieces.<br />I guess this was the last time we buy this bread from Amason.<br />To bad!
+
+product/productId: B001HXNIPS
+review/userId: A2AARBOG70YWZ4
+review/profileName: Thomas K Methven
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1292889600
+review/summary: It is not Christmas in our house without Knackebrod!
+review/text: For over 50 years I have enjoyed Knackebrod especially around the holidays. I order packs for my son's as stocking stuffers. 75% of my consumption is with peanut butter, the rest with cream cheese or chedder. As a youth we had a local market owned by a Swede and he always stocked a brand called Majornas? It had a picture of a girl in traditional garb holding a shock of rye. This brand was great but I have not seen it for 25 years, I now believe Siljans is even better. Other rye crisps do NOT compare. Our nearest Ikea is 50+ miles so buying on Amazon from this seller is really great. The product arrives fast and fresh. And yes, it really helps with irregularity. My wife suffers with it, but since our shipment arrived she has been very much "relieved". I did not inherit the cravings for Spaga Sill and other tortured fish concoctions as toppings but I have to have my Siljans Knackebrod (Connec-eh-bro). Amazon's subscription offers make buying often easy and inexpensive.
+
+product/productId: B001HXNIPS
+review/userId: A3ASBRFTMYRJ9S
+review/profileName: Riya
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286668800
+review/summary: Pleasantly surprised...
+review/text: They're huge!  You definetely get what you pay for.  Love the taste...not gritty at all.  Make sure you have storage containers available -- you will need to break it up into pieces.  The packaging they come in is not resealable.
+
+product/productId: B001HXNIPS
+review/userId: A10BFJDFZ69H40
+review/profileName: Judy Lynn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1281744000
+review/summary: Crisp bread
+review/text: This is excellent crisp bread.  It's so healthy with so much fiber. It keeps forever. The price is better than the grocery store.
+
+product/productId: B001HXNIPS
+review/userId: A3Q2R3Y0RURL1O
+review/profileName: G. Koskenmaki
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261526400
+review/summary: Good stuff!
+review/text: I grew up eating this as a kid.  My mom always had a package in the cupboard set aside as a treat, but when she would go looking for it I'd have already eaten it.  I hadn't seen it for many years but found it in a local grocery store when looking for a low carb and high fiber alternative to regular bread after being diagnosed with diabetes.<br /><br />Nice to see it here on Amazon at about 60% of the local store price.
+
+product/productId: B001HXNIPS
+review/userId: ACA2RDT6XI6DR
+review/profileName: Hal Y
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1257033600
+review/summary: Great carb substitute
+review/text: Siljans knackebrod has been my complex carbohydrate mainstay for over 6 years.  Recently, the only food store in our area that carried it closed down.  When I found it on Amazon I was elated and ordered 5 2-packs.  They shipped it immediately.  The product helped me lose 65 lbs and keep it off.<br /><br />Hal Youngren
+
+product/productId: B001HXNIPS
+review/userId: AUTYRZTZTY0ME
+review/profileName: Robert D. Miller "bob"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1245888000
+review/summary: my personal favorite crisp bread
+review/text: I enjoy the many varieties of crisp bread, but always come back to Siljans for the taste and texture. If you like crisp bread but never tried Siljans, you are missing out.  Admittedly, the package size is a bit awkward to stash somewhere, but that is part of the unique charm of this brand.
+

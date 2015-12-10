@@ -1,0 +1,1143 @@
+product/productId: B007OSBEV0
+review/userId: A1FRX7BX762L3I
+review/profileName: susan
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1350345600
+review/summary: Yummie coffee fix
+review/text: I was thrilled to see that Amazon carried Martinson coffee, a fixture in my household growing up. Now that I live in Florida, I was taking an empty suitcase with me when I went to New Jersey to visit my daughter and filling it with Martinson coffee to import to Florida.  I'm sure TSA is worried.  I know my daughter is. Thank you Amazon and Martinson for helping me with my coffee hoarding.  Now would you mind offering the cans?  Thank you so much.
+
+product/productId: B007OSBEV0
+review/userId: A1XAWDOIJGYXPH
+review/profileName: David S. Wilner
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1350172800
+review/summary: OK but not  my taste
+review/text: I hate Starbucks. I really like Caribou. I bought Martinson because of the lower price. It's OK coffee but not up to my taste. I want to experience a morning cup of coffee not just down it.
+
+product/productId: B007OSBEV0
+review/userId: ATGL1M09Q7Q5B
+review/profileName: Ervin Prince
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1350172800
+review/summary: Good Taste. I might buy it again.
+review/text: First time customer. Smooth taste, with no bitterness or aftertaste. A pleasant surprise. I normally buy only Green Mountain Breakfast Blend, but now I can buy whichever one is offered at the best price.
+
+product/productId: B007OSBEV0
+review/userId: A1S6VL0TUQ8GPU
+review/profileName: Love My Coffee
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1350086400
+review/summary: Mediocre
+review/text: I usually love dark roast coffee but Martinson's just doesn't have it for me.  Left a bad taste in my mouth.
+
+product/productId: B007OSBEV0
+review/userId: #oc-RTHI84TEHN2AA
+review/profileName: Meg
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1350000000
+review/summary: A little like instant
+review/text: I have been drinking Coffee Shop and Carribou but the price keeps going up so of course I am looking for alternatives.  This coffee was ok but tasted like instant. Sorry would not purchase again but glad I tried it.
+
+product/productId: B007OSBEV0
+review/userId: A3M4WD4UT3JS2G
+review/profileName: ellen
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1349827200
+review/summary: love it
+review/text: If you like a rich full bodied flavor this is the one for you. I will buy it again for sure.
+
+product/productId: B007OSBEV0
+review/userId: A20S5IKT9PCZ6S
+review/profileName: Cookie j
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1349827200
+review/summary: Martinson coffee pods
+review/text: Great coffee nice strong rich flavor. I will keep it comming as long as you keep selling it for sure.......
+
+product/productId: B007OSBEV0
+review/userId: A3IOAMUJLADATO
+review/profileName: muriel coyle
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1349740800
+review/summary: ONE OF THE BEST
+review/text: THE MARTISON COFFEE K-PODS ARE ONE OF THE BEST COFFEE DRINKS I HAVE PURCHASED, JUST ORDERED ANOTHER 48 PACK. THANKS MARTISONS
+
+product/productId: B007OSBEV0
+review/userId: A26WHHBCYTFMEQ
+review/profileName: Theresa
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1349568000
+review/summary: great coffee
+review/text: if you like strong flavorful coffee, try this. It is so yummy. Vey good. In fact about the best coffee I have used in my Keurig
+
+product/productId: B007OSBEV0
+review/userId: AMNXUQE04NZCL
+review/profileName: Dawn Swart
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1349481600
+review/summary: A great cup of coffee
+review/text: Martinson makes a delicious cup of coffee.  It is smooth and dark with no bitter aftertaste.  I would recommend this blend to any coffee lover.
+
+product/productId: B007OSBEV0
+review/userId: AS7RBXW90EGRQ
+review/profileName: Lippy
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1349481600
+review/summary: martinson dark roast
+review/text: I love this coffee! When brewing it smells great. The flavor is full bodied and has become my favorite! The price is very good too.
+
+product/productId: B007OSBEV0
+review/userId: A1UPWA0CCKG7SK
+review/profileName: hollywood five
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1348617600
+review/summary: Martinson donut shop blend coffee
+review/text: Good coffee and a good price. Love the simplicity of making this coffee and the smell of it brewing is wonderful.
+
+product/productId: B007OSBEV0
+review/userId: A2MR9000EOM2YK
+review/profileName: Flatsbandit1
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1347667200
+review/summary: Taste more like brewed coffee!
+review/text: Wow, my title sums it up.  I have loved the convenience of my k cup machine but have missed the flavor of my Bunn machine.  This product gives me both.  Now I feel like I'm not compromising the flavor of brewed coffee for convenience.  Kudos Mr. Martinson!
+
+product/productId: B007OSBEV0
+review/userId: A21W3TXH1FP3TP
+review/profileName: Richard B
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1347408000
+review/summary: Good cup of coffee for the Keurig
+review/text: Nice cup of coffee, could be a little stronger for a dark roast but definitely enjoyable.  I have noticed a little sediment in my cup but not too much.
+
+product/productId: B007OSBEV0
+review/userId: A3TRW8T8NIHJAD
+review/profileName: rhondale
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1350777600
+review/summary: Looking for a better alternative?
+review/text: I think all of us Keurig owner's are looking for a better, make that cheaper:), alternative to the original k-cup. So far I have tried San Francisco Bay (ech), Broklyn's (not crazy about it) and now this one - Martinson Variety Pack (the best one yet). Tried all the different blends except the Hazelnut (not looking for a flavored coffee), and I would buy any of them on their own. Much better to me than the others:)<br />Really looking forward to trying the Brown Gold variety pack by this same company - if Amazon ever does get any in stock that is!
+
+product/productId: B007OSBEV0
+review/userId: A2R2I3C0AMVSK5
+review/profileName: Barbara M. Bannard
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1349740800
+review/summary: Favorable
+review/text: Was satisfied with this product. Maybe a few more flavors would be nice.But overall satisfied. It is hard to find large assortments of single serve most stores seem to carry smaller qtys.
+
+product/productId: B007OSBEV0
+review/userId: A30MHQ1284BYU6
+review/profileName: STANLEY
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1349740800
+review/summary: YUMMY!
+review/text: This coffee was yummy!  In the beginning was the word and the word was (you know who)...Anyway, this is good stuff!
+
+product/productId: B007OSBEV0
+review/userId: #oc-R2YKMI6BFV0RA7
+review/profileName: Marjorie Crews "MJC"
+review/helpfulness: 3/6
+review/score: 2.0
+review/time: 1347148800
+review/summary: Misrepresented?
+review/text: This was okay. We feel this was a little misrepresented.  This is not a high grade coffee that would be other Donut Shop coffees. This is more of a Maxwell House line.  For those who prefer the gas station coffees you will like it.
+
+product/productId: B007OSBEV0
+review/userId: A2X1BSTOWB8ML
+review/profileName: Loree Yonally "Loree"
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1350345600
+review/summary: medium blend
+review/text: I like a strong coffee Wake-up was a favorite and I like a good french roast! Still trying to find a replacement for wake-up. This is not it ,probably won't order again.
+
+product/productId: B007OSBEV0
+review/userId: #oc-R2H9Q62BAPDLIG
+review/profileName: Robert Jarvis
+review/helpfulness: 2/5
+review/score: 1.0
+review/time: 1347148800
+review/summary: Undrinkable
+review/text: Ordered this product hoping I would get a true bold coffee out of my Keurig, this tasted like freeze dried coffee. My search continues!!
+
+product/productId: B007OSBEV0
+review/userId: #oc-RNMDR27B0MP1I
+review/profileName: MO
+review/helpfulness: 2/5
+review/score: 1.0
+review/time: 1346544000
+review/summary: Lots of Sludge on the bottom
+review/text: Tried the new coffee by Martinsons because I needed something new. Every cup I tried seems to have a lot of coffee dust and sludge on the bottom the cup. I know that some of these k-cups do that but it seemed much more than usual. I think the filter is not filtering the coffee properly and allowing the finer grounds to get through.
+
+product/productId: B003M60630
+review/userId: A22EH35MU8KSCQ
+review/profileName: Jim
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1314057600
+review/summary: Perfect Iced Tea?? YES, YES IT IS !!!
+review/text: This Tea is fantastic, do not understand the reviews that say otherwise guess you better try it yourself. Can get two large glasses out of one k-cup use the middle setting and both glasses are GREAT far better than any you can buy at the store and way easier than brewing sun tea or stove top tea. Get a small box and try it, The stuff is the BEST,think that the name "PERFECT TEA" is perfect can not get any better.
+
+product/productId: B003M60630
+review/userId: A3PU5ECUMTNV9P
+review/profileName: Holly Mardis
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1295049600
+review/summary: It's a Matter of Taste
+review/text: OK, so some people like it, some people don't. I'm one of those who was excited about the prospect of getting iced tea from my Keurig, but was sorely disappointed by the taste from this tea.  It had a very artificial flavor, much like instant tea, and was no comparison to actual brewed iced tea.  I can only recommend getting the smallest box you can to see if it suits you.  Like the other reviewer, I can't bring myself to use what's left, and will probably end up throwing it out at some point.  My husband agreed, and he's a big iced tea drinker...and not all that picky about the taste.  He won't drink it, I won't drink it, and the cat won't drink it, so out it goes.  I do want to add that I use the hot teas and have liked them very much (especially the green tea).  There's just something about the iced flavors that don't work.
+
+product/productId: B003M60630
+review/userId: A1DPAA6Y169RAW
+review/profileName: Chelscutie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324598400
+review/summary: Great Iced Tea
+review/text: This tea works wonderfully for brewing iced tea.  I add some lemon & Splenda & out the door I go!!
+
+product/productId: B003M60630
+review/userId: A37DS9ZGOIFADQ
+review/profileName: Alina
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1302825600
+review/summary: A little strong but still good
+review/text: I had to put more splenda when using these than I normally do so they are a bit strong.  I used the middle setting and even put extra ice and it was still a little strong.  But still very good and it is nice that there isn't any sugar in them so you can use a low calorie sweetener.
+
+product/productId: B003M60630
+review/userId: A3881ZV2EKVUKV
+review/profileName: K. Wakefield "vraptorz"
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1310083200
+review/summary: Tastes like Nestea instant powder
+review/text: I really wanted to like this tea. I drink a lot of ice tea in the summer, but hate taking up a lot of shelf space in the refrigerator. I always drink unsweetened tea, fairly strong. I was pleased that this tea came out strong enough that I could add more ice and even some water, but I was disappointed in the flavor. To me it tastes exactly like Nestea instant tea powder. Yuck!<br />I am thinking about trying some of the "sweet tea" options, but if they are just sweet flavors over the same yucky base, I don't think it would be an improvement.<br />Stick to putting a tea bag in a glass and boiling some water through your Keurig.
+
+product/productId: B003M60630
+review/userId: A2CPQ8SBHSD1DQ
+review/profileName: Kristen Forsberg
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1309996800
+review/summary: BEWARE!!!! It tastes like lemon!
+review/text: I thought I was getting a pure unsweetened nothing added black tea.  For those of you like me who HATE lemon in their tea beware - this tea does contain hibiscs and citric acid, probably as a preservative, but it gives it a bit of that canned lemoney nestea flavor.  Yuck.  I should have read the ingredients more closely ...
+
+product/productId: B003M60630
+review/userId: ALQXJKN7XAHC4
+review/profileName: Nicol Pomeroy
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1310601600
+review/summary: Yuk
+review/text: Wish I would have listened to the reviews but I really wanted it to be good. It wasn't. Terrible. I drink 4-5 iced teas a day and am always looking for the perfect tea. Not it.
+
+product/productId: B003M60630
+review/userId: A18WIITG68G0NE
+review/profileName: Sherry L. Grainger "sherryg_ok"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1301875200
+review/summary: Delicious Iced Tea
+review/text: Makes great iced tea.  Be sure to follow the instructions to brew over ice.  My sister was visiting and she made the tea without brewing over ice. It makes it so bitter that subsequent attempts to dilute it don't help.
+
+product/productId: B003M60630
+review/userId: A3967DP5SIJWVC
+review/profileName: angel hoffman
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1280188800
+review/summary: Awesome!!!!
+review/text: I totally disagree with the 1 star review. This stuff is awesome. I like my teas strong. I hate drinking tea that taste like water...(just drink water!) This stuff was great! It had a wonderful tea flavor. And it was strong enouph to set the dial to 8oz and fill up with ice, making a nice big cup of tea. I love coffee, but have a hard time drinking it in the summer. This is a great alternative.
+
+product/productId: B003M60630
+review/userId: AJVDF84AZB2OU
+review/profileName: Faith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Celestial Iced Black Tea
+review/text: This is my favorite brand of black iced tea. I have tried others and they don't compare to the flavor of Celestial Seasons.
+
+product/productId: B003M60630
+review/userId: A1I4ME22L5P3D2
+review/profileName: B. McNally
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346716800
+review/summary: Great Simple Black Iced Tea
+review/text: This is great if you want to brew your iced tea by the glass and add any extras in your own portions. I like being able to control the amount of sweetner and add my own lemon to my tea. Brewing this on the 6oz setting works great as long as you stir it up really good in a glass full of ice. Otherwise it comes out a little strong.
+
+product/productId: B003M60630
+review/userId: A1EVW13BQQMRRO
+review/profileName: R. McElroy
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1344556800
+review/summary: Not so perfect tea
+review/text: Everything about this product is perfect, price, ease of use, portion size.  Everything except the taste.  Not as strong as other brands, which is fine, but the acidic/lemony aftertaste is too much to bear.  Very disappointed.
+
+product/productId: B003M60630
+review/userId: A21S8ZDJ8RFEZA
+review/profileName: LeeBee
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1343001600
+review/summary: LEMONY tea!
+review/text: I love iced tea. It's my favorite drink hands down and living in Florida we love our Sweet Tea. I am NOT a fan of lemon and these do have a fake lemony taste. The tea is so strong that even with multiple packets of sugar it's not sweet at all, I even tried adding more water. I don't recommend these at all and I had high hopes for this but unfortunately I don't like them.
+
+product/productId: B003M60630
+review/userId: A28FVF2DHD08D7
+review/profileName: Tammy Arthurs
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342656000
+review/summary: I love this tea!
+review/text: I fill a 4 cup measuring cup full of ice then brew on the largest setting. I add more ice to my 12 oz. cup and its perfect iced tea! I'm confused my the bad reviews. It doesn't taste fake at all, but rather delicious! I love it! I prefer it over Lipton!
+
+product/productId: B003M60630
+review/userId: ALG1VP8W3RNGJ
+review/profileName: mmc2612
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339286400
+review/summary: Black Tea
+review/text: The tea tastes pretty good in my opinion, and to me is the best K-cup tea I have tried.  It is just what it says, plain black iced tea, and if I want lemon or sugar I can add as much as I want for my taste.  This tea provides a great base to add whatever flavoring you personally desire.
+
+product/productId: B003M60630
+review/userId: A1Z59EH6C6VIJI
+review/profileName: Kelly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334016000
+review/summary: black unsweetened iced tea
+review/text: Quick and easy to make iced tea. Tastes great! I would recommend this product and I plan of buying again.
+
+product/productId: B003M60630
+review/userId: A197BMCD2FVM4H
+review/profileName: M. Law
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333756800
+review/summary: Perfect iced tea
+review/text: This is a perfect iced tea - just what we were looking for.  Yes, it is strong, but it will make two servings out of one K-cup.  We brew it hot, add our flavorings if we desire, and then after mixing it up a little, we pour over ice.  We don't like tea that is too sweet and the pre-sweetened K-cups are just too sweet - so this is perfect.
+
+product/productId: B003M60630
+review/userId: A3JUSMDG84GCYI
+review/profileName: Concho "Sci-Fi buff"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1332115200
+review/summary: Good but...
+review/text: Works great, but unfortunately I don't really care for the all black tea. Just a little too bitter for me. I prefer orange pekoe & black tea mix.
+
+product/productId: B003M60630
+review/userId: A35JIU1U84VTHO
+review/profileName: Johnco1961
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: Perfect Tea
+review/text: The K cup coffees are very good, but this unsweetened tea is delicious.  It tastes like the iced tea you can only get from a fine restaurant.  I make it in a 32 ounce cup full of ice and then water it down with another 32 ounces of water.  I highly recommend this tea.
+
+product/productId: B003M60630
+review/userId: AWOBBSEOX40W
+review/profileName: John McGuire
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326931200
+review/summary: Not what i was expecting
+review/text: I love ice tea and was looking for a basic black tea that i could add sweetener too when i saw this.  The tea is like any other black tea i have ever tried.  I thought maybe i wasn't putting enough sweetener in this, but my wife said the same thing.  We ended up throwing this box away.
+
+product/productId: B003M60630
+review/userId: A27KMWZC5MX8DH
+review/profileName: C. Morrison
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1326672000
+review/summary: NOT Traditional Black Tea
+review/text: I was hoping to buy a basic black tea to make fresh iced tea. This does not fit the bill. There is a strong artificial and citrus flavor. I wondered if it was just me, but when we made it for a family luncheon the other day, three other people told me it tasted funny, so that was my que to throw the rest out. It might be a flavor some would like, but if you're looking for straight black tea, this is not it. I will not be ordering again.
+
+product/productId: B003M60630
+review/userId: AFS3CAFWPX8IU
+review/profileName: RxHerdFan
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1318723200
+review/summary: Terrible flavor
+review/text: I am a huge fan of fresh-brewed iced tea, and I have to say, this is a total miss.  The flavor tastes like a very strong instant tea along with a little citrus.  I'm very disappointed because I'm going to have to waste these K-cups since I don't even think I can force down any more of this tea.  If you like delicious tasting fresh-brewed iced tea like me, such as Luzianne or Tetley, skip this product.
+
+product/productId: B003M60630
+review/userId: A2FCL1CKPWR3FP
+review/profileName: Mirinda R. Estep
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1313107200
+review/summary: Not what I expected
+review/text: I love sweet tea but don't want the extra calories so I opt for unsweetened with Splenda. I was looking for a K-cup tea for iced tea and thought I'd give this one a shot since it claims Perfect Iced Tea. I am sorry I did. It is bitter and has a strong floral taste. I've tried different settings on my brewer and even extra ice and water in it and I still can't make it taste right. I like my iced tea stronger than my family but this one is even too strong for me. It's also "cloudy" and looks like "swamp water".  I think I'll go back to making iced tea with Celestial English Breakfast Blend. It won't make as big a glass but it's not as over powering.
+
+product/productId: B003M60630
+review/userId: A3DLT7LHWMZMWU
+review/profileName: Megan
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1311897600
+review/summary: Southerners beware
+review/text: If you are looking to enjoy a nice glass of iced tea, stay away from this bitter mix of tea and hibiscus.  Not at all what I was expecting.  I had to add major sugar just to stomach this mess.  It was waaaaay too dark for a good glass of iced tea.  Maybe if you add extra water and ice to this tea, you might enjoy it.  Don't waste your money and happy iced tea memories on this mess.
+
+product/productId: B003M60630
+review/userId: A14PQBJB1CIZ2X
+review/profileName: Debbie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311379200
+review/summary: Celestial Seasonings Black Tea
+review/text: I was so happy to find this available. This has a good taste and is unsweet. I am a big iced tea drinker and this hits the spot.
+
+product/productId: B003M60630
+review/userId: AEBK6CTXMBCFY
+review/profileName: Sherry A. Merriman Budge "SamB"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1311033600
+review/summary: Black Tea K-Cups
+review/text: One of our dear friends does not prefer sweetened tea, while we prefer sweetened tea.  So, we keep a box of these onhand for her and we are all happy!
+
+product/productId: B003M60630
+review/userId: A9AGFKGEQH5DE
+review/profileName: Skunk Tabby
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1310947200
+review/summary: Acidic taste
+review/text: I drink my iced tea straight-up: strong, unsweetened, no lemon, so I don't mind a hint of bitterness. But this has a strong acidic taste, probably because they add citric acid. If you like a vaguely artificial-lemon taste to your tea, you may not mind this. I, however, mind. I wish they made it clearer that they added a flavoring, as I really wanted a plain black iced tea. I'm going to pass the remainder of my box on to someone who likes fake lemon flavors.
+
+product/productId: B003M60630
+review/userId: A1H703P9ALYVM6
+review/profileName: Lisa97225
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1309219200
+review/summary: I'm addicted!
+review/text: I love sweet tea, but my waistline does not.  So I buy this tea, brew it over ice, and add simple syrup that I make with Splenda.  Not as good as sugar, but after a while, you almost forget what the "real stuff" tastes like.  I do love these little k-cups.  They brew a stron enough tea that as it melts the ice you brew it over, it still tastes like tea when it's done - not watered down.  They'd be "perfect" if they were less expensive, and if Keurig came up with a way to make them compostable (like making them from corn products, maybe?).  I hate that I'm throwing away this little piece of plastic every day.
+
+product/productId: B003M60630
+review/userId: A1IJEKEM7UBQLZ
+review/profileName: Jan A
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1307145600
+review/summary: Great tea
+review/text: It took me a long time to find some non-sweetened black tea and this produce is great. I don't understand why all tea makers think tea needs to be sweetened.
+
+product/productId: B003M60630
+review/userId: A2PCOXILAH1UOQ
+review/profileName: Hi Bear Nate
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304294400
+review/summary: Fresh brewed refreshment
+review/text: I am not a big fan of the super sweet iced teas. This Celestial iced tea is great. Easy to brew. I most often use 6 oz setting over ice. This gives a flavorful, but not overwhelmingly strong brew.
+
+product/productId: B003M60630
+review/userId: A3NT7RAITJZXXT
+review/profileName: Linda "cooking enthusiast"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301270400
+review/summary: Fast and easy iced tea
+review/text: Now that Spring is here I find I'm craving iced tea again.  Since I make tea for one this is an easy way to do it and still produce great tasting tea.  I brew mine on the largest Keurig water setting (it makes about 1/� cups of brewed tea) and sweeten it with a half teaspoon of simple syrup which I keep in container in the fridge.  With ice, this mixture makes about 1 and a half tall glasses of tea - adding a healthy squeeze of lemon, of course.<br />I'd actually stored my Keurig away a couple years ago because I prefer brewing my own coffee, I find it far superior to the coffee produced by the K-cups (maybe I just haven't found the right blend yet).  Now I have a renewed use for my Keurig!<br />Edited to add:  It's fascinating to read the reviews for this product in the two-pack version; amazingly, it gets super high reviews while this SAME PRODUCT in the single box gets ratings that are poor.  Huh?
+
+product/productId: B003M60630
+review/userId: A1CKZNCSNWRTJS
+review/profileName: D. Meier "Music Lover"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1299974400
+review/summary: Good enough to reorder
+review/text: I like the tea. It is a little too earthy for me and I definitely have had better iced tea but is pretty good (I add lemon to take away bit of the off flavor). It is good enough to reorder until I find something better.
+
+product/productId: B003M60630
+review/userId: A2TMJTSI0JSPKE
+review/profileName: Red Devine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297209600
+review/summary: tea k-cup
+review/text: This makes the best ice tea. I know there is a specific ice tea k-cup but this it great and easier to get. The ice tea seems to be out of stock quite often.
+
+product/productId: B003M60630
+review/userId: ARSAI7WDHY6RL
+review/profileName: F. Hahn "ILoveSnowshoeCats"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296604800
+review/summary: Good For Iced Tea
+review/text: I use this to make iced tea for each meal, even breakfast!  The tea quality is above average and has no "Nestea" taste--I hate instant tea and can tell it in a heartbeat.  This single person quantity of iced tea works great and I don't have a half pitcher of normally brewed tea go "off" before I can finish it.  The iced tea is fresh for each meal.  I just brew it on the largest setting for the Keurig without ice using a 4 cup measuring cup.  After brewing, I add about a cup of ice to the measuring cup and use it as my table pitcher.  It is fairly strong right out of the machine so a little water in the glass before pouring in the tea makes it just the right consistency.
+
+product/productId: B003M60630
+review/userId: APKD2Q3M2PW16
+review/profileName: MAGNUM PU
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291766400
+review/summary: AWESOME I AGREE
+review/text: We have a pitcher appx 46oz, fill it half way up with ice, brew the 11oz serving size into it and fill the rest up with H2o, makes the best brewed tea just the way we like it.
+
+product/productId: B003M60630
+review/userId: A28DMVM1R0A3LM
+review/profileName: S. Baker "touchdown maker"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1278460800
+review/summary: Very disappointing!
+review/text: I was very excited to try these to save money, rather than stopping for an iced tea on my way into the office. I've tried various ways of brewing: 8 oz setting into ice, combining two 6 oz settings over ice...nothing helps. These are bitter, and don't really even taste like tea. I can't force myself to use them, and I'm generally not picky about tea as long as I can sweeten the heck out of it. Nothing helps these!
+
+product/productId: B000F3SDME
+review/userId: A1Y09QLADQYQJG
+review/profileName: The&#34;older than dirt&#34;Time Traveller "&...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1345593600
+review/summary: Almost THREE pounds of Bubble Gum!
+review/text: Oh boy!<br />DUBBLE<br />BUBBLE<br />bubble gum in the giant industrial size!<br />I've been chewin' this stuff since it was a penny-<br />a-pop, then it was a nickel for five wrapped pieces.<br />Good old days when it DIDN'T come in a box...<br />or a tub... for THAT matter... yum yum chew 'em up!<br />I can even use the empty tub to hide my'stash.<br />Yes, you heard me, I wear a fake 'stash...<br />when the little wife wants more than just a little<br />bubble gum from me.<br /><br />Great stuff!<br /><br />The bubble gum I mean.
+
+product/productId: B000F3SDME
+review/userId: A1ZFSAOORS3UE4
+review/profileName: JAMES NICHOLS
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1178409600
+review/summary: Finally, a reliable supply
+review/text: I tired of running around to various stores to find sacks of Double Bubble bubble gum, my and my wife's favorite.  The tub ensures we have a supply handy, and the quality of the gum stays fresh and traditionally good.  Just what I was looking for.
+
+product/productId: B000G1EO64
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 21/24
+review/score: 5.0
+review/time: 1188604800
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Kosher. Hearty lentil soup with some added veggies. Less sodium allows the natural flavors to come through. Heart healthy. Can be used as a quick 'n easy "dal" (lentil curry) over rice. Great with organic crackers. Not spicy. Smooth & delightful taste. Six star company. Another vegan wonder from Amy's kitchen! This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B000G1EO64
+review/userId: A2ZSC81MXLBELX
+review/profileName: L. Shirley "Laurie's Boomer Views"
+review/helpfulness: 7/8
+review/score: 4.0
+review/time: 1280361600
+review/summary: Amy's Light in Sodium Lentil Soup vs. Amy's Low Salt Lentil Soup - 2 Different Soups
+review/text: I loved<a href="http://www.amazon.com/gp/product/B000G176CI">Amy's Organic Lentil Vegetable Low Salt Soup, 14.5-Ounce Cans (Pack of 12)</a>so much that I ordered a second case. When I recieved it, I found that I'd ordered something different. It was not exactly the same as the soup I'd been enjoying so much. Turned out what I ordered was this one- Amy's LIGHT IN SODIUM Organic Lentil Soup, The LIGHT was very good, but the LOW SALT was even better and the one I prefered in taste,texture and ingredients. And it wasn't just the small difference in the sodium levels per serving - LOW SALT at 340mg, the LIGHT at 290mg - you could always add a tiny bit more or doctor it up if you want with pepper, or Mrs. Dash no salt seasonings - this one just did not seem as thick and hearty(LOW SALT seemed more like a stew and had ingredients the LIGHT did not have). LOW  has tomatoes and spinach which really adds something extra.And really I found that it needed no doctoring up at all.<br /><br />I liked the Light in Sodium and would recommend it as well to anyone looking to reduce their sodium intake. All Amy's soups are great and made with all organic ingredients. The Lentil soups are also a good source of protien and dietary fiber. They are also a good source of Vit A,and Iron. O Cholesterol, low fat and low sugar as well.<br /><br />You can check the nutritional info(click on link on detail page) and also see all the ingredients and decide for yourself which you want to try, but I wanted to let everyone considering know that there are 2 different lower sodium lentil soups. I prefered the LOW SALT.It just had that little something extra - I rated that one with 5 stars.<br /><br />Also - I found that buying them here by the case saves quite a bit as compared to the individual cans at my local market. You may though, want to try one can of each from your market before deciding on an entire case.<br /><br />Remember to breathe, eat healthy and enjoy.....Laurie
+
+product/productId: B000G1EO64
+review/userId: A2TPH171QFO6ZH
+review/profileName: Jane
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1325980800
+review/summary: Fantastic Vegetarian Soup Option
+review/text: Oh goodness.  I love lentils, I eat them all the time.  I love red lentils, green lentils, those fancy french lentils with the shiny exterior.  I eat them in soups, in curries, as dips.<br /><br />This -soup- is my favorite application of the lentil to date.  I just love the way it tastes.  It's not spicy, but it's so flavorful.  The lentils are just the right texture, not mushy, just perfect.  I like to eat this poured straight into the bowl, and I like to eat it over rice.  I love it as a protein packed lunch item, and I love it as a side dish for my dinners.<br /><br />It's not too salty like most canned soups are- and it's not terribly thick like most canned lentil soups are (yes, I'm looking at you progresso!).  Plus, it's Amy's which means you can thank them for being organic, for never including Genetically Modified Anything in them.  This is not my favorite price point for Amy's soups.  I can usually find them locally for about 2$ a can, without a sale.<br /><br />Personally, and I may be lentil biased- I think this is the best Amy's soup. :)
+
+product/productId: B000G1EO64
+review/userId: A252NTXOGEBRF9
+review/profileName: RSH "RH"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1276905600
+review/summary: Best Amy's soup
+review/text: I've purchased several Amy's soups. This is by far my favorite. Only complaint would be that they should take out maybe half of the sodium (from sea salt, or salt by any other name).<br />I might try experimenting with adding some bulk lentils to reduce the sodium. Still gets 5 stars in my book because the taste is excellent.
+
+product/productId: B000G1EO64
+review/userId: A2R0K0KP7D2DK9
+review/profileName: J. Tessier
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1274400000
+review/summary: Great Tasting and Hardy
+review/text: Amy's has great products and this soup is especially one of them. It is robust and tasty and very satisfying. Ya don't need much more than that. It's a true winner.
+
+product/productId: B000G1EO64
+review/userId: A350QGC1FG0QAE
+review/profileName: Joy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1243296000
+review/summary: Amy's Organic Lentil low salt soup
+review/text: Amy's products are the best and If you buy from Amazon you can subscribe and ship and it is a great price it is much more in stores love it
+
+product/productId: B000G1EO64
+review/userId: A1GCDRY6WGELXR
+review/profileName: Don C. Michel "donmichel"
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1296432000
+review/summary: 9 of 12 soup cans badly dented
+review/text: This is delicious and nutritious soup which we ordered after ordering and being pleased with the Tomato soup.  BUT 9 of the 12 cans arrived badly dented!  I submitted a review on packaging with a photo of the 9 cans, thinking I would hear back promptly from someone at Amazon or at Amy's company, but so far nothing.  I was not able to find another way to communicate, so perhaps this will get a reply.  The outer carton was perfect and the shipment included a book which was also undamaged.  The 12 cans had been shrink-wrapped on a tray and were o.k. to look at until you unwrapped them.  I don't know how 9 of the 12 could be so badly dented without anyone being aware.  I will be happy to e-mail a photo if someone will give me instructions.  Thanks!
+
+product/productId: B000G1EO64
+review/userId: A3TZ3T9UMJG254
+review/profileName: Heidi
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1233964800
+review/summary: A High-Protein Staple
+review/text: This soup tastes very good and is also satisfying; high in protein and it helps keep your blood sugar on an even keel.  For those of us who don't have enough protein in our diet, this is a great addition.
+
+product/productId: B000G1EO64
+review/userId: A3R28T092KQP94
+review/profileName: Jim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: Best tasting lentil soup
+review/text: Other lentil soups tend to be watery or too salty. Amy's lentil soup manages to be very hearty and satisfying while not being high in fat. And the low sodium version is a plus for those of us watching our sodium intake. It's my favorite lentil soup by far!
+
+product/productId: B000G1EO64
+review/userId: A32EOHLFZYXJEP
+review/profileName: Jaylia3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322784000
+review/summary: Tasty, healthful, and convenient
+review/text: I don't miss the salt in this satisfying lentil soup that packs 16 grams of protein and 12 grams of fiber per can in only 360 calories (that's 2 servings, but I almost always have the whole can).  It's great as it is, but when I have the time I jazz it up with brown rice or fresh steamed veggies, like carrots or cauliflower. As a vegetarian this soup is one of my staples.
+
+product/productId: B000G1EO64
+review/userId: A1VJNFDSXTVLRZ
+review/profileName: Rich
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316131200
+review/summary: Amy's Organic Lentil Soup
+review/text: Thanks for the prompt service and delivery!  This is one of the best organic soups for the money available.  Try the low sodium variety of Amy's Lentil Soup - then you can add the amount of salt needed, but not too much.  Sign up for Subscribe and Save to benefit even more!
+
+product/productId: B000G1EO64
+review/userId: A1HPBI19R3FM7S
+review/profileName: Justin
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1300406400
+review/summary: Delicious and Filling
+review/text: I really liked this soup. With a little pepper and spice you got yourself a fantastic meal.<br /><br />Heads up to an 4HBers out there. This soup does contain potatoes. I wish I knew how much of the cards came from potatoes, but since I wasn't able to tell I stopped eating eat while on my 4HB diet. It's a good off-day snack though! :)
+
+product/productId: B004SC56MS
+review/userId: A3JO84K8GQ90RE
+review/profileName: Bully Sticks required
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1330732800
+review/summary: Finally, a seller who actually sends what it advertised!!!
+review/text: You'd think it'd be fairly simple, you order 6" bully sticks, you get 6" bully sticks...that seems to be the exception though and luckily Shadow River is that exception.  They are honest about what they are advertising and send you exactly what you bought, 6" bully sticks.  So many other bully stick sellers on Amazon advertise 6" and send you 4" instead, others advertise "thick" and just take hollowed out ones that make them look thick and send to you when there's actually less to it than a regular bully stick.  I'm glad to have finally found a company who is reliable, honest and fair.  I will be buying my bully sticks from you every time now.  Thank you Shadow River for being the exception!!!
+
+product/productId: B004SC56MS
+review/userId: A212SRA4Z8BNJY
+review/profileName: Janet B Miller
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1351123200
+review/summary: Very pleased
+review/text: Good size for my papillon and pomeranian-mix.  These are dense, not airy- so they last longer and from the USA.
+
+product/productId: B0029XITD6
+review/userId: A12SBS5XUBWEV0
+review/profileName: katie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335312000
+review/summary: Castello makes the best blue cheese ever!
+review/text: Castello's blue cheese is the best i've ever tried, and i've tried lots of different blue cheeses. I like to make my own blue cheese dressing with this. I also use it on crackers and fused in with my homemade biscuits. Everyone that has tried food that I make with this cheese has asked me what brand of cheese i was using because it is so good. I get it from my grocery store, so i don't have anything to say about the online dealer. But at my grocery store this cheese is always very fresh. It holds up very good in my fridge for sometimes weeks at a time. I would recommend this blue cheese to everyone who likes or doesn't like blue cheese because it is so good.
+
+product/productId: B000G1CPUG
+review/userId: A1ZSJNSRZCNCS1
+review/profileName: CJ "C"
+review/helpfulness: 10/10
+review/score: 4.0
+review/time: 1199404800
+review/summary: Good, but...
+review/text: This soup isn't your traditional pea soup.  I expected this to be a thick, rich, pea flavored soup.  It is not.  It is rather thin and the onion taste is stronger than the split pea taste.  As a soup, it is very tasty, nice texture and very healthy.  Do not buy this soup expecting a thick pea soup, just expect a tasty soup, which is what it is.  Amy's doesn't make anything that is "bad".  Good soup, not pea though.
+
+product/productId: B000G1CPUG
+review/userId: A10IO6DW3048BU
+review/profileName: Randall G. Rogers "biblist"
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1211932800
+review/summary: not what I had in mind
+review/text: This wasn't bad, it just wasn't what I expected. It had more onion than pea flavor.
+
+product/productId: B000G1CPUG
+review/userId: A4BB25OI6DSRC
+review/profileName: J. Rysdam "Mother of 4"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1237161600
+review/summary: Great!  The kids LOVE it!
+review/text: This is a great soup that my kids just love!  We add a bunch of crackers, as we do with all of their soups so they can eat them easier, and they ate it up and asked for more.<br />I also love it :o)
+
+product/productId: B000G1CPUG
+review/userId: A29KCMFZIAKSWT
+review/profileName: Brittany
+review/helpfulness: 4/5
+review/score: 2.0
+review/time: 1195516800
+review/summary: Horrible
+review/text: This is the worst split pea soup I have ever tasted. There are way too many onions... I usually like a lot of onions in soup, but this was ridiculous. There were more onions than peas! It tasted more like I was eating onion soup with "split pea" flavor. On top of that, the onions did not even taste fresh, they were bitter. Amy's usually makes great products, but they desperately need to change this soup. I give it 2 stars only because it is healthy, and there might be a small chance of someone liking this if they like tons of onions.<br /><br />Walnut Acres' Split Pea soup used to be perfect, but they changed their recipe recently after I reviewed it. It is still ok and still tastes better than Amy's Split Pea.<br /><br /><a href="http://www.amazon.com/gp/product/B000LKZLJY">Walnut Acres Organic Soups, Split Pea, Fat Free, 15-Ounce Cans (Pack of 12)</a>
+
+product/productId: B000G1CPUG
+review/userId: A6M8XZUK0VAWN
+review/profileName: Elaina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325894400
+review/summary: My fav
+review/text: I buy this soup all the time. Sometimes I grade mozzarella cheese in it if I'm feeling I need more. However,  this is the only canned soup that doesn't make me feel like crap after I eat it! It's delicious!
+
+product/productId: B000G1CPUG
+review/userId: A2KF9SJ7S2FSL2
+review/profileName: Emjay20
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1284508800
+review/summary: Mediocre
+review/text: I agree with the previous review, whereas the onion overpowers the taste of peas. The soup itself isn't quite thick, and I found myself adding a multitude of saltines and some additional cracked pepper to thicken it up. Honey ham really helped add that extra something, but not everyone has that option as this is a vegan soup.
+
+product/productId: B000G1CPUG
+review/userId: A9SAV6AQ8QEXU
+review/profileName: fam4girl2RN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283472000
+review/summary: Best Pea Soup Ever!
+review/text: My girls love this soup!  Packed full of vitamins too.  It is great.
+
+product/productId: B000G1CPUG
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1207699200
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Low Fat. Kosher Pareve. Medium thickness. High quality organic goodness. Onion and black pepper are the most prominent secondary flavor notes. Can be served over rice or used like 'dal' in Indian cuisine. Approx. 200 Kcal, 0g fat, and 14g of protein per can. Also available in a lowered sodium recipe, <a href="http://www.amazon.com/gp/product/B000G1EO6E">Amy's Light in Sodium Organic Split Pea Soup, 14.1-Ounce Can (Pack of 12)</a>. This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others.
+
+product/productId: B000G1CPUG
+review/userId: A2K2MZB931HBZH
+review/profileName: Boogie
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1196640000
+review/summary: Great for vegan and gluten-free consumers
+review/text: My family has eaten this soup for years.  We're vegans and as far as split pea goes, this brand is one of our few options.  Recently we learned we are gluten sensitive and are pleased this soup is gluten-free.  Amy's may be the only organic split pea available that fits all our needs.  You can always add crackers and additional spices if you really think you need to.  We do fine with this product and don't have any complaints.
+
+product/productId: B000MMOPMK
+review/userId: A1UQBFCERIP7VJ
+review/profileName: Margaret Picky
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1313193600
+review/summary: Okay but not the best of the MTR soups
+review/text: The MTR line of soups in the handy and easy-to-store shelf-stable retort pouches is generally of good quality.  The Mixed Vegetable Italian Style soup is a mild tomato and vegetable broth with a few pieces of overcooked pasta and some small chunks of potato and pieces of cabbage, beans, and peas.  Overall, nothing to get excited about.<br /><br />It's very easy to make-- just boil 500ml (0.5 liter or about 2 cups) of water in a pot, add the contents of the pouch, and stir a little with a wooden spoon.  I used it as a base and added leftover peas, carrots, and corn and pasta but I do think the <a href="http://www.amazon.com/gp/product/B001UURF5W">MTR Hot & Sour Clear Soup</a> is better for this purpose.<br /><br />Ingredients:  tomato, edible starch, potato, carrot, cabbage, khol khol, beans, peas, sugar, salt, onion, macaroni, refined sunflower oil, garlic, and pepper.<br /><br />Khol khol is more universally referred to as kholrabi, a vegetable in the cabbage family that looks much like a turnip.<br /><br />This soup is vegetarian and appears to be vegan but is not labelled as such.  The nutrition information is per serving at five to a packet but two or three servings would be much more realistic as it makes less than three cups of soup and a little over half a cup per serving is not realistic unless you serve it in a teacup.<br /><br />Calories 35<br />Calories from fat 5<br />Total fat 0.5g<br />Saturated fat 0g<br />Trans fat 0g<br />Cholesterol 0mg<br />Sodium 600mg<br />Total carbohydrate 6g<br />Dietary Fiber 0g<br />Sugars 1g<br />Protein less than 0g<br />Vitamin A 4%<br />Vitamin C 6%<br />Calcium 0%<br />Iron 0%<br /><br />The primary nutritional criticism is the high sodium content--each package contains about 3.0g of sodium.  It even tastes a bit salty.
+
+product/productId: B0012AQNCQ
+review/userId: A1NECUZI01IU79
+review/profileName: Amazon shopper
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331856000
+review/summary: Healthy for you, but aweful tasting!
+review/text: I bought this thinking it would be similar to the Arame sea vegetable, but not at  all! The product is very good but requires a particular palate. It is very slimy in texture and the smell is distinctly fishy. I tried hard to eat in my miso soup but just could not finish it. I am sure if someone is brought up eating this it might be easier to stand but not for me at my age. I do like the Arame sea vegetable and will stick with it exclusively.
+
+product/productId: B002GWHB3O
+review/userId: AAOQKVW92O9N5
+review/profileName: Tom Campagnolo "TJ Phoenix"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1254960000
+review/summary: decent  half decaf green (raw) coffee
+review/text: If you like to roast your own half decaf coffee, these beans are the way to go.
+
+product/productId: B001ABQ6AG
+review/userId: A342EHO42V2G38
+review/profileName: Terran "Terran"
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1233619200
+review/summary: Versatile
+review/text: This one is extremely versatile as for flavor differences, the liquid you add can be either water, tea, or milk.  But the flavor is really mild no matter which blend you use, which is why the middle-grade for the product itself.  If you want a real snap to the mango you'd get a better one at a certain fast food chain that advertises mango-strawberry.
+
+product/productId: B001QV3CMA
+review/userId: A5LYMUAISD5M8
+review/profileName: Lori
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291075200
+review/summary: Delicious!
+review/text: I was in an Italian restaurant in Atlantic City and this was the olive oil they had on the tables.  Of course, I couldn't find it in my local grocery store so I found it online here and bought it.  It's such a great tasting olive oil...so rich and flavorful...I absolutely love it.  When I compared it to the normal store bought brand, there was no comparison...the taste was so much better.  I save it for special recipes when I'm cooking and always use it when dipping bread.
+
+product/productId: B00473PVE6
+review/userId: A2TLX29S6PWL8F
+review/profileName: G. Granger
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1330128000
+review/summary: Don't buy this brand. Not DST
+review/text: Dolores tuna does not comply with the International Marine Mammal Project of the Earth Island Institute. It is not dolphin safe tuna.  Check out [...]
+
+product/productId: B001EHEDMY
+review/userId: A2RWLTTN2VQMU5
+review/profileName: Bill D. "Billy D."
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1264809600
+review/summary: good but
+review/text: the salmon was good but the huge box was misleading.  the box is nice but oversized for holding the salmon
+
+product/productId: B001EHEDMY
+review/userId: AMB2S37LGVIPZ
+review/profileName: jude
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287705600
+review/summary: alaska smokehouse salmon
+review/text: I love smoked salmon and I found this product very good but a little expensive and I didn't need the gift box.
+
+product/productId: B002N64PUU
+review/userId: A1612Z4QGKMF5C
+review/profileName: stephen hawk
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327881600
+review/summary: Justin Time
+review/text: After a balanced growing season and unchallenging harvest, Justin's `09 cabernet was matured for 16 months in French and American oak, 33% of it new.<br /> In the glass, this wine is a not-quite opaque ruby red. It features aromas of black fruits, with a vanilla note from the oak. Surprisingly, there were almost no legs.<br /> It's taste offers up red and black cherries and red currents, although the fruit is somewhat recessive, and is reflective of Justin's preference for an old-world style, rather than what one might usually expect from the Central Coast. The wine is nicely tannic, with a medium finish.<br /> This food-friendly wine would work well with Yankee Pot Roast, Creole Pork Chops, or Chicken Cacciatore.
+
+product/productId: B0005XNXB0
+review/userId: A36AUU1UNRS48G
+review/profileName: seal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Hands down, the best cajun seasoning.  Ever.
+review/text: I was a Tony Chachere's fan for a long time, so I wasn't about to be swayed by someone's claim that Konriko was better. The nerve! But one day, the grocery store was out of TC's. I had to have something, so I bought Konriko's. And I've never gone back.  I now have to order it online at unheard of prices because the grocery store no longer carries it, but I do so because it really is the best. It's the perfect blend of salt, spiciness, and FLAVOR. I've tried other cajun and creole seasonings that were saltier or hotter (or both--I'm talking to you, Tony Chachere's More Spice!), but none were tastier. Makes the best blackened chicken.
+
+product/productId: B006HRRUR6
+review/userId: A2EH36IIHS2WNI
+review/profileName: Sujai
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: I Love it
+review/text: Awesome tea, flavorful, not strong, thanks to this poabs tea, a 30 year old habit (Coffee) was replaced by this very, very, good tea. I highly recommend to tea drinkers, and most of all coffe drinkers, it is so good, it will make you quit coffee.<br />Sujai<br />Mount Prospect, Illinois.
+
+product/productId: B00380943I
+review/userId: A2L4S5Q8BVNMW7
+review/profileName: Denise Dileo
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1282176000
+review/summary: Outrageous! I hope it's a typo....
+review/text: Unreal to think that they are trying to make these look appealing by saying they are .71/ounce....A SIX PACK FOR 20$$$...PLUS 6$ SHIPPING?? You can get these at BabiesRus for $1.29...
+
+product/productId: B000UVEZVO
+review/userId: A1DYQU3SKN4YA2
+review/profileName: Sonia C. Stewart
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1333152000
+review/summary: way too much chocolate
+review/text: Die-hard chocolate lovers will appreciate it.  I found them to be too gummy like a brownie.  I expected the texture to be more like a cake.  Children will like them.
+
+product/productId: B001L1EINC
+review/userId: A2OOQ59V7YWYL1
+review/profileName: Gloria M.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302825600
+review/summary: Not disappointed
+review/text: Received it right away.  A little pricey but since I can't get to the market I'm not complaining.  Liked it well enough that I purchased it again.
+
+product/productId: B004PX51AM
+review/userId: A3I5UW0HK81OPH
+review/profileName: Meghan Burke
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329177600
+review/summary: Super tasty!!!
+review/text: I never thought I would of traded my regular potato chips for beet chips, but I just can't get enough of these!!!  They're a little salty and a little sweet and always hit the spot, I'm hooked!
+
+product/productId: B001SB1Y28
+review/userId: ASQCMXG2MYAX8
+review/profileName: DC_traveler_gal "DC_traveler_gal"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1334188800
+review/summary: You get what you pay for
+review/text: I was hopeful about these. They taste ok, and certainly are acceptable in most dishes flavor-wise. However i found these to be unusually gritty. Mind you, i use dried mushrooms quite a bit, and there is always something to clean out, but this particular package has the most grit i've seen in a while.<br /><br />I will not be ordering them again unless i have no other option.
+
+product/productId: B001SB1Y28
+review/userId: A2AWY28ZTEVLS7
+review/profileName: Michael Read "Calm"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1330819200
+review/summary: They are from China, not from Italy
+review/text: The description is misleading. Mushrooms are from China, not from Italy. That is why they are much cheaper that all others available.<br />I wouldn't order them if I knew they are from China.<br />Mushrooms has 10 times or more pollutants than in their environment.<br />And China is well known for its pollution and loose purity control.<br />Regarding quality, some pieces are damaged by worms and some<br />are from specimens that are two old and overgrown.<br />The taste, though, is good and proper.
+
+product/productId: B001SB1Y28
+review/userId: A9W7PIB3E3OSI
+review/profileName: Valerie A. Case "Animal lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302307200
+review/summary: Gourmet Porcini's
+review/text: Being Italian I am very picky about my porcini's for pasta sauce.  I have used many brands but the mushrooms get lighter and lighter in color and the porcini taste is weak.  Alissi's porcini's are perfect in every sense of the word.  Great Porcini taste, consistency and a great price.  My gravy (pasta sauce, my mother always called it gravy not sauce) tastes like my mother's again.  Thank you Alissi
+
+product/productId: B002O58YH0
+review/userId: A3OEPPOUC7PCHO
+review/profileName: Moodies forever
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1338249600
+review/summary: Is it still the same.?
+review/text: The coffee still tastes good, but the bags now contain lots of underoasted, broken beans, and empty shells of beans. Ever since the Tata Corp in India bought the brand a few years back, quality control keeps slipping IMO
+
+product/productId: B002O58YH0
+review/userId: AEZNMQJ5T1HFG
+review/profileName: Rodney W. Horner
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1335657600
+review/summary: Good Stuff!
+review/text: This is very good coffee at a good price... It is an old product that has been on the market since I was quite young.
+
+product/productId: B002O58YH0
+review/userId: A1K03828DS65GU
+review/profileName: carpenter83
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334016000
+review/summary: I Like It
+review/text: My husband commented on how good the coffee was the first morning I used this brand.  We had just finished off a bag of starbucks coffee beans and he never comments on the coffee.  Neither of us considers ourselves to be experts but we are well pleased with the price and taste of this coffee.  We will definitely purchase it again.
+
+product/productId: B002O58YH0
+review/userId: AOLZZ1CQH42N0
+review/profileName: Betty N. Hodson "Boop1137"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331856000
+review/summary: coffee
+review/text: I am a coffee freak and this is good stuff.  I use a pod machine and have to make up the pods but the little time and effort this takes is worth a good cup of Joe.  I reccommend this product if you like a good coffee flavor without the bitterness.
+
+product/productId: B002O58YH0
+review/userId: A1WBSIP3V436DE
+review/profileName: William D. Stinson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: Eight O' Clock Coffee
+review/text: Love this coffee.  Great price when you get a subscription.  Our household has been grinding our own for several years and this fits the need perfectly.  Faithful customers of Eight O' Clock
+
+product/productId: B002O58YH0
+review/userId: A2GFWV0WWWVUMP
+review/profileName: Chigirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347321600
+review/summary: Delicious and not bitter
+review/text: I've purchased this coffee from my local grocery store before. I love the smooth, bold flavor. I purchased this coffee to experiment with Ekobrew. There is more than enough beans to experiment with! I imagine that this giant bag would be used in restaurants. The coffee arrived fresh and fragrant. Each cup I made was delicious and not bitter.
+
+product/productId: B002O58YH0
+review/userId: A1923OTNDYR87R
+review/profileName: Andrew L. Stallings
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346198400
+review/summary: Not fresh
+review/text: This coffee is not as fresh as the coffee I buy in my local grocery store. Beans are very dry and the flavor is just okay. Won't buy again.
+
+product/productId: B002O58YH0
+review/userId: A22Z554ZQ8NFPC
+review/profileName: AF "Whigs"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: Very good for what it is
+review/text: I give this coffee 5 stars based on the price/quality ratio.  This is not to say that this is the best coffee you're ever going to have, but it's very good, and I'd dare say it's excellent for the price.<br /><br />With any coffee, but especially with cheaper coffee, I find it always pays to grind your own - it just has much better flavor than pre-ground. So I only buy whole bean with 8 O'Clock.<br /><br />Anyway, this is a good medium roast, not too bitter, with good flavor.  When I'm low on coffee and funds, 8 O'Clock is my go-to brand (either original or the equally-awesome Bokar Blend).  I've tried plenty of other brands but I'm always pleased with 8 O'Clock's consistency and quality and I keep coming back.
+
+product/productId: B002O58YH0
+review/userId: AM86MLL3L424C
+review/profileName: Jim Smiley "JimnDot"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345161600
+review/summary: You get what you pay for.
+review/text: I bought this coffee based on price. It being the least expensive Amazon offered. Maybe it's my taste buds, but right out of the bag it tasted overly nutty and kind of stale. I generally use Costa Rican beans, but like Starbucks house blend as well. I will definitely pony up the extra cash for either of these in the future.
+
+product/productId: B002O58YH0
+review/userId: A3L47Q1GBSICOP
+review/profileName: ar3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340236800
+review/summary: Great value, very good flavor.
+review/text: We've been subscribing to this item for about a year now after trying a 12 oz bag locally.  It's got great bold flavor, very smooth without the bitterness.  Best  of all is the price.  We used to hop around and try different brands and roasts, but this happens to be the best combo of cost and flavor for our tastebuds.  I definitely recommend giving this coffee a try.
+
+product/productId: B002O58YH0
+review/userId: A2C73DCNNENM92
+review/profileName: Steve Liepe
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340150400
+review/summary: nice everyday coffee
+review/text: good coffee  for everyday use. good price. you will buy this coffee again and again. i have been using it for over 30 years. its like starting the day with a friend,
+
+product/productId: B0009K71DK
+review/userId: AUG4RUP4OYP7Q
+review/profileName: Vince Del Mese
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334966400
+review/summary: My  Favorite Gum
+review/text: This is the only gum I chew. The flavor lasts a long time.The Gum arrives fresh  and on time. Thanks
+
+product/productId: B0049YMC0Y
+review/userId: A2DHG1HP5MCGMI
+review/profileName: Jennie Kirkpatrick
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1296172800
+review/summary: Pleased with the flour....
+review/text: I just discovered Great River Organic Flours  before the holidays and am really thrilled with the way they handle. I use the graham flour in combination with organic all purpose to boost fiber in my cookies,muffins and pancakes and also use it for pie making. Very pleased with the quality of this company's flours.They are fresh and make a great finished product.
+
+product/productId: B0049YMC0Y
+review/userId: A2OMVK1LEUNWOR
+review/profileName: Putzen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Great River Mill graham flour
+review/text: It was and is very good  I only wish it would not have been as finely ground Would have liked to have seen more bulk to the consistancy.. Taste is wonderful I use it too make homemade graham crackers a reciepe of my Grandmothers that is over 100 years old
+
+product/productId: B0049YMC0Y
+review/userId: A159078TTHX926
+review/profileName: Bev
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: Quality and fast service
+review/text: The graham flour arrived very quickly and is very high quality and very reasonably priced.  I consider this a great find.
+
+product/productId: B0049YMC0Y
+review/userId: AEZNMOQG0ZF9K
+review/profileName: E. K. Fryer "physics goddess"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Huge bag 'o flour delivered to my door.
+review/text: I've made a few recipes with this flour and they have all tasted great.  The flour shipped quickly, was reasonably priced, and it is exactly what I was looking for.
+
+product/productId: B005GCM8KW
+review/userId: A2Q2VZ917F2US9
+review/profileName: Evelyn Black Wilson "Mrs. Wilson"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347062400
+review/summary: Less than impressive
+review/text: Very too greasy and quantity too little for the  amount for the cost.  Had expected more. Was spicey but not overwhelming. Don't think we will purchase again.
+
+product/productId: B000M8O0NS
+review/userId: AJRKUJ3GX3XUA
+review/profileName: Gavin W. Fulmer
+review/helpfulness: 7/7
+review/score: 3.0
+review/time: 1203465600
+review/summary: Great flavor, tiny jar
+review/text: You'll love this stuff, it is delicious. But I was pretty surprised when I pulled it out of the box: the jar is tiny! By tiny, I mean it's about the size of one yogurt cup. Just giving you a heads up.
+
+product/productId: B000U9V58M
+review/userId: A2AXHGGXK5SZ8
+review/profileName: blueberrylolli
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1298851200
+review/summary: Bad Quality
+review/text: I bought the product and several flavor extracts from their actual website.  I don't want anyone else to have to go through the same frustrations for lack of information.  The extracts I received are so far off from the intended flavors that I doubt the solution's even edible.  The site claims natural flavors.  These were destroying all my senses.  Let's start with the vanilla, probably the most common extract people use.  Their excuse was every company has different flavors.  I've shopped for vanilla extracts from so many<br />different companies, natural, imitation, etc.  The faerie finest one I got was WORSE than the WORST POSSIBLE IMITATION vanilla.  I<br />called them to explain and ask for a refund.  I can understand where shipping cannot be reimbursed for those who mis-<br />ordered.  Unfortunately the INFLATED shipping costs cannot be reimbursed even if you're extremely unsatisfied with the<br />products, even though I was willing to ship it back to them out of my own pocket.  So the products I got will be going<br />into the garbage.  This has destroyed my confidence in shopping with them.  BE VERY WARY!! I don't want someone else to<br />have to go through the same frustrations I did.  I know it's cheap and very tempting, but for me, it was still a WASTE OF MONEY because the products I received are COMPLETELY UNUSABLE.
+
+product/productId: B000U9V58M
+review/userId: A3AJDID6Q2M7HZ
+review/profileName: B R
+review/helpfulness: 7/9
+review/score: 2.0
+review/time: 1250035200
+review/summary: Bad tasting
+review/text: When I first opened the bottle it smelled medicinal. I added it to some iced tea and it tasted just like it smelled, very medicinal and only a trace of fruit flaver. I ordered 2 other flavors and they're the same. I gave it an extra star because service is good, but I can't recommend the extract.
+
+product/productId: B000U9V58M
+review/userId: A3C7SC5FRTGH9Q
+review/profileName: MarvelousMarvin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: great product!
+review/text: I own a candy and fudge shop at a tourist location. We make our own homemade fudge and we use these extracts and flavorings.  Our customers absolutely LOVE our fudge, and come from all over the country to get it. Locals drive over an hour just to come get our fudge.  I wouldn't use any other extracts - these work perfect for what we make.  We consistently use the raspberry and strawberry flavors, and they are great.
+
+product/productId: B000G1EO6O
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1190332800
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Kosher. High quality. Great side or with rice or on crackers or with chips, or "on toast" as our friends across the pond love 'em. Nice tomato sauce with hint of onion. The touch of sweetness is also just right. Another vegan wonder from Amy's kitchen! 420 kcal and 21g protein per can. Ingredients label explicitly states "(Vegan)" even though product name only states "Vegetarian." This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B000G1EO6O
+review/userId: A2FRHIANA8FZQJ
+review/profileName: Eco-Friendly Feng Shui Designer
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1221696000
+review/summary: Terrifc!
+review/text: I don't eat tons of baked beans, but when I do want them, I reach for Amy's Organic. I do this because I can't be bothered to make my own from scratch--and the "conventional" ones are horrible!Not too sweet and a vegan product. No preservatives and all that other good stuff.
+
+product/productId: B000G1EO6O
+review/userId: AZDCCMYLOEU3X
+review/profileName: Mark
+review/helpfulness: 6/8
+review/score: 3.0
+review/time: 1215907200
+review/summary: OK but Bush's vegetarian baked beans are better
+review/text: These baked beans are OK. The sauce they're in is NOT memorable. Normally at our house, baked beans are licked clean from the plate and the pan is scraped for remnants. But these are just so-so. We got them because they're organic and vegan. But Bush's non-organic vegetarian baked beans (which are vegan) are far superior. We're going to go back to them until we can find an organic, vegan baked bean that tastes at least as good.
+
+product/productId: B000G1EO6O
+review/userId: A3KRNGT1HKORJW
+review/profileName: J. W. Burdon "DrJezIP"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1214870400
+review/summary: Amy's Beans
+review/text: Amy's Baked beans are far superior to any other baked bean product on the market.  If you enjoy food and insist on only the best, Amy's is the only choice.
+
+product/productId: B007QH41OG
+review/userId: A1HLXZAJVAWLQ1
+review/profileName: Carol E. Miller "christmas carol"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: Lipton To Go Stix Decaf Iced Green Tea Mix
+review/text: Love this product!  Being a tea lover, I found this to be an easy and quick way to enjoy iced tea.  Am looking forward to trying the other varities in this line of tea mixes.
+

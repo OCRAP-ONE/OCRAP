@@ -1,0 +1,1143 @@
+product/productId: B001VNFHLC
+review/userId: A3JZQV04N387HE
+review/profileName: J. Graham
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1274572800
+review/summary: Good stuff
+review/text: Definitely some of the best cocoa I've used.  The only down side is that it cost more than twice what the standard store bought stuff does.
+
+product/productId: B001VNFHLC
+review/userId: AA5E0K3EOUDUA
+review/profileName: GreenMomof2
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1261872000
+review/summary: Excellent Cocoa, and Excellent Price
+review/text: We love this organic cocoa, and cannot believe how inexpensive it is. You really do get a good product for your money here.
+
+product/productId: B001VNFHLC
+review/userId: A28EIG0MKAHY05
+review/profileName: The Master Debator
+review/helpfulness: 3/9
+review/score: 1.0
+review/time: 1338249600
+review/summary: Don't buy this product!
+review/text: This product used to be sold for 11.24 about three months ago, ever since then the price has been going up more and more. The price went up 3 dollars in two weeks!!! We need to stop all these greedy people from making more money off of products that used to have decent prices. The fact that some one can keep raising prices is BS, You lost me as a customer forever.
+
+product/productId: B001VNFHLC
+review/userId: A2FJQ0WUKDZ4GS
+review/profileName: LD
+review/helpfulness: 5/15
+review/score: 1.0
+review/time: 1327363200
+review/summary: Raw, unprocessed cocoa is better
+review/text: this is very misleading-"Dutched" means that the cocoa has been chemically modified from its natural state to make it less acidic and more bland tasting. Get another brand without the chemical "Dutching" process.
+
+product/productId: B004QXKMKA
+review/userId: A3GCX6KOR9U1H1
+review/profileName: romeo
+review/helpfulness: 8/9
+review/score: 1.0
+review/time: 1316649600
+review/summary: DOES NOT DELIVER....
+review/text: I received yesterday my order of one 8oz bottle of that "pur Maple extract". Opened the bottle right away, i knew then it was a VERY weak extract.<br />Put it to the test already, my recipe calls for 1 teasp. extract for the batter, I used 2 TABLESpoons, to no avail, as the cake, now cooled has no maple flavor in its batter TO JUSTIFY THE TITLE OF MAPLE WALNUT CAKE...THOUGH THE WALNUTS i TOASTED GIVE IT A GOOD FLAVOR.<br />The glaze recipe called for one teaspoon extract also, I used a full TABLESPOON, and the glaze is delicious.<br />THIS PRODUCT DELIVERS A VERY FAINT MAPLE FLAVOR, not what you would expect for an extract at that price.<br />Will never purchase this item again, I am going to investigate other brands. SERIOUS BAKERS : skip this brand, UNLESS ALL YOU ARE LOOKING FOR IS A WEAK, FAINT MAPLE FLAVOR.
+
+product/productId: B004QXKMKA
+review/userId: A2C8RV3TU1YK5A
+review/profileName: MacDaddi "Jim"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344038400
+review/summary: Pure Vanilla
+review/text: I bought this for a friend that owns a bakery. She liked it real well.  I gave her the information to buy it direct.
+
+product/productId: B000084E66
+review/userId: AUO474QI7VLBY
+review/profileName: Ms. Patricia Dodd
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1232928000
+review/summary: Kitty-Kap can covers
+review/text: At first I had a hard time removing these lids from small cans such as Fancy Feast.  The solution is to just add hot water to a bowl and set the can in the bowl.  This takes the chill off the cat food and also makes the lid easier to remove.  (The cats don't like cold food and they don't like the microwave method!!)
+
+product/productId: B000084E66
+review/userId: AMV7OG22EEXBI
+review/profileName: Diane M Whitney
+review/helpfulness: 7/7
+review/score: 1.0
+review/time: 1299196800
+review/summary: Good idea, bad execution
+review/text: I have been looking all over for a lid that will fit both sizes of 3 oz. cat food cans -- some brands such as Before Grain and Blue Buffalo Wilderness have slightly oversized 3 oz. cans compared to Fancy Feast or Wellness.  Lids that I have seen at the pet store and elsewhere fit the smaller cans, but not the slightly larger ones.  Anyway, these Petmate lids did fit both size 3 oz. cans, along with two sizes of larger cans. HOWEVER, the plastic is so stiff and hard that they are next to impossible to snap on and off.  They were basically unusable and I threw them away.<br /><br />I also ordered another brand of lids (OurPets) for small cans and they are a dream.  They fit both sizes of small cans and are soft and easy to put on and take off.  Would recommend them over the Petmate Kitty-Kaps for sure.
+
+product/productId: B000084E66
+review/userId: AJRLSY295MDW3
+review/profileName: Granny Smith "traveler"
+review/helpfulness: 9/10
+review/score: 1.0
+review/time: 1190764800
+review/summary: Worthless product
+review/text: I paid an outrageous price ($1.49) for this product at a pet store.  It is made far too rigidly to work on the smallest size cans.  Once it is on the can, it is impossible for me to remove.  I enlisted my husband's help and even he has trouble getting it off.  I was given a FREE can cover at another pet store.  It is a softer plastic and works much better.  If you use the smallest size cans, forget about this one!
+
+product/productId: B000084E66
+review/userId: AD04QVOVOFHYZ
+review/profileName: Mark Lanan
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1332547200
+review/summary: Buyer be careful with quantity....
+review/text: The lid is good, it works very nicely on two different can sizes. BUT, I thought I was purchasing two lids. The photograph shows two lids, but only one arrives. Read the fine print - there is only one in the description. $5.99 for a cat food lid!
+
+product/productId: B000084E66
+review/userId: A3GPWLE6S35FYJ
+review/profileName: Kizzle
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1292198400
+review/summary: Does the job...
+review/text: I was disappointed when the product arrived and only one can cover was inside. I assumed by the image I was getting two covers - one orange and one yellow - but I only got the orange one. Had I known or realized this, I would have purchased from another vendor. So basically, I paid $6 for one lid. Boo. I was also frustrated that the lid was covered in stickers with glue that DOES NOT WANT TO COME OFF! I've tried to removed the sticky goop, but now I have to go buy goo-gone to get all the crap off. I don't feel like this lid fits as good as the lid I had previously. It works and gets the job done, but I don't think it's keep the food super fresh. Oh well, lesson learned.
+
+product/productId: B000084E66
+review/userId: A2C0HKO7TPFIO5
+review/profileName: S. Summers
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1168992000
+review/summary: Great product for small or large cans
+review/text: Easy to use and accommodates multiple sizes.  Sturdy construction.
+
+product/productId: B000084E66
+review/userId: AJYOWCSVIGWYR
+review/profileName: CJS
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351036800
+review/summary: Picture misrepresents what you get
+review/text: I thought I'd be getting two lids but only received one.  They work fine for various size of cans but product is overpriced for just one of them.
+
+product/productId: B000084E66
+review/userId: A2HWENPFN42IPH
+review/profileName: Katie Sigman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: Tops for every can!
+review/text: These are the best canned cat food tops I've ever owned... They are sturdy and actually fit on pretty much all size cans.  Very useful.
+
+product/productId: B000084E66
+review/userId: A158M54UZXY20E
+review/profileName: chicitysue "chicitysue"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346112000
+review/summary: Seem pricey. I like them for 5.5  oz or large dog food cans I buy
+review/text: I don't use small cans like Fancy Feast, so I cannot comment on those. However, I like these because they LAST. I bought them at a pet food store which no longer carries them, probably because they are so expensive.<br /><br />Except for a lid I bought at least 15 years ago labelled Sargeant's, these are the sturdiest. The more flimsy ones always end up getting a crack in them and are not always tight.<br /><br />For me, the 4 stars, not 5, is because they seem expensive. However, on Amazon, it seems that most of the can covers are more expensive than you would want to pay. It's the S & H that is outrageous.
+
+product/productId: B000084E66
+review/userId: A196TT3ZIX4ELB
+review/profileName: Hair
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332115200
+review/summary: Caps fit Friskies cans
+review/text: The good- fits the small friskies cans as well as the bigger cans to keep the food fresh. Fits on the cans with ease. Airtight.<br />The bad- Hard to pull off the can since it is snug. Pricey for a piece of hard plastic.
+
+product/productId: B000084E66
+review/userId: A35R32TA60XD57
+review/profileName: M. Torma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331251200
+review/summary: Does what it is suppose to do...cover cans.
+review/text: I have used these for almost 2 years on all the sizes of food cans that my cats and dog eat and haven't had any problems at all.  They are a stiffer plastic than the single size lids, but they still work well.  I have found that you do have to push down more on the smallest size cans to get the seal though. Anyway, I have a couple sets because it is so easy to have a lid that works on them all.
+
+product/productId: B000084E66
+review/userId: A3CA5M9D3CSK1Q
+review/profileName: Emma's Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301184000
+review/summary: Terrific cat food can cover
+review/text: This is absolutely the best cat food can cover I have ever run across.  It fits all of the common can sizes, including the smaller cans.  They seal well and last a long time.  Another review said they were difficult to get on, and that is true for the first couple of uses, but they will give a little as you use them and become easier to snap on.  Great product!!
+
+product/productId: B000084E66
+review/userId: A1G951H0QRN5EK
+review/profileName: thatlo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1192233600
+review/summary: Works great
+review/text: I use three different sizes of cat food cans (kitty loves variety), and these lids fit them all. Also, if you care about that sort of thing, it's a very cute design. The ears are helpful for pulling it off the can. :) I just wish I could find these closer to where I live so I wouldn't have to pay 4-5 dollars shipping every time I lost one.
+
+product/productId: B000084E66
+review/userId: A51FBEGJHP9YE
+review/profileName: Heather M. Neal "Heather"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1170288000
+review/summary: Kitty Kap is the best lid available!
+review/text: This really is the best cat (and dog) food can cover you can buy, and it's very inexpensive as well!  It has a good, tight fit for all can sizes.  Just get a couple of them because they're hard to find in pet stores.
+
+product/productId: B001BDB2HK
+review/userId: A18SUMK4D1VNJ2
+review/profileName: Bob Schultz "Bob 4g"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1301270400
+review/summary: Good mini Bites
+review/text: If you like Chef Boyardee then you'll like this canned product. Fair price, quick delivery and stock my pantry. Works for me
+
+product/productId: B001BDB2HK
+review/userId: A1CMNO23TUOD47
+review/profileName: harleysellnow
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1324080000
+review/summary: Danger from severely dented cans. Inspect each can for botulism.
+review/text: Cans were severely dented because someone obviously dropped them hard.  We are inspecting each can for botulism so we don't kill our children.  Product itself is great otherwise.
+
+product/productId: B000MITDDK
+review/userId: AEUWNGBYZEZA
+review/profileName: Jay Evans "budget foodie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1274659200
+review/summary: Stretch your budget
+review/text: This little known product has such great versatility . it will flavor and season rice , or try it with a little coconut milk to make a sauce for your rice or noodles .
+
+product/productId: B000MITDDK
+review/userId: A1TP6JSN50255H
+review/profileName: G. Chuang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213660800
+review/summary: Great way to spice up rice
+review/text: This product works as well as the powder form of Puliogare paste.  Honestly I prefer the powder, since it store better after opening.  The paste form here has oil that oxidizes if not used quickly enough.  Really isn't a problem using up a pouch quickly enough if one likes puliogare rice.  I recommend this product for anyone who wants to make spicy Indian food at home.
+
+product/productId: B001TZPXDE
+review/userId: A3JUVC9U2CU3LL
+review/profileName: Anthony L. Bellotte
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297209600
+review/summary: Kame Sesame Rice Crackers
+review/text: I really enjoy these crackers.  They can be used for dipping, i.e., hummus, vegetable dips or just plain.  They are very good for dieters who want the crunch without the calories.  I highly recommend them!
+
+product/productId: B0052Y3TT8
+review/userId: A3NOS22H78I2O3
+review/profileName: Mieu
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328140800
+review/summary: WOAHNELLY
+review/text: Sour.  Goodness, the sour.  My boyfriend & I are connoisseurs of sour; we don't consider it sour until we've lost control of the facial twitching.  These do the trick.  Not really a great idea for small children... (under 12's should be brave souls)<br /><br />The three flavors are all good; the red (watermelon) is the sourest by FAR.  The green apple is mildest, and the blue raspberry is nicely in-between.  One frustrating aspect is that the sour lasts for about a minute or two, then the flavor lasts another 3 minutes (we literally timed it) and then you're chewing caulk.  No detectable purpose to this gum after the first 5 minutes.  Think of it more as a chewy candy-style experience.  Don't expect a bubble gum.  Despite this, I gave it a 4 because I really like the idea of sour gum - even if short-lived.<br /><br />The price is reasonable for the bulk amount, as well.  Good to pass around at parties and see who withstands it!  Also, does in fact blow decent bubbles.
+
+product/productId: B002LMPDNY
+review/userId: AMSWLWKFMC0X3
+review/profileName: Richard J. Varty "Jay"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340668800
+review/summary: Tastes Great.
+review/text: This natural sweetener product tastes better than other liquid stevia I have tried, it tastes sweet without any chemical aftertaste.  This sweetener works very well instead of sugar in most applications (beverages), though with black coffee it is clear the product is not sugar.  Its probably the acidity level in the coffee that creates a different result than that with Iced Tea, which tastes very good with stevia.<br /><br />Other Stevia products have tasted more like a chemical to me when tried.
+
+product/productId: B001H3O6UO
+review/userId: A2XX9Z30XX6524
+review/profileName: Michael Dinowitz
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1287878400
+review/summary: Blues Hog BBQ Sauce
+review/text: Sweet and tangy with just the right amount of kick.  That comes from someone that can't take too much heat.
+
+product/productId: B001H3O6UO
+review/userId: A1L4K3PUXT3MA4
+review/profileName: J Schulz "J Schulz"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1228262400
+review/summary: the best
+review/text: this sauce is sweet, tangy, thick and is a great addition to pork, chicken, steaks or whatever you want it on. If you looking for something new and great tasting, give this and Tennessee red sauce a try. the Tennessee red is more vinegar base and more spicy but ends in a sweet note that can't be beat.
+
+product/productId: B001H3O6UO
+review/userId: A2IROER7Y616DU
+review/profileName: VERNON POOLE JR
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330819200
+review/summary: Very good
+review/text: Goes great on ribs or brisket.Only thing I would like is just a little more spicey. Just cooked a great case of ribs and everyone loved them
+
+product/productId: B001H3O6UO
+review/userId: A29TXX48Z1N80L
+review/profileName: John Shepardson "Programmer non gratis"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1308528000
+review/summary: Good All purpose BBQ Sauce
+review/text: Much better than anything you'll find in your local grocery store. It is a thick & sweet gritty peppered sauce with a little heat. It really mixes well with Blues Hog Tennessee Red sauce which adds vinegar and fruit character (also thins it).
+
+product/productId: B001H3O6UO
+review/userId: A2M6Q0M563E6V6
+review/profileName: sbissell3
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1244332800
+review/summary: A Good All Around Sauce
+review/text: This is a sweet BarBQ sauce what is good for most anything. I haven't tried it on fish yet, but it works with everything else. A good price as well and it comes in a goodly quantity. Try it, you'll probably like it.
+
+product/productId: B001H3O6UO
+review/userId: A2IMP2ZY0EKHUR
+review/profileName: Danny C
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: Great BBQ Sauce
+review/text: This is my new favorite sauce just ordered it in the gallon. Sweet the a little kick! But not hot<br />Danny
+
+product/productId: B001H3O6UO
+review/userId: A25TMWFMVX5Y1K
+review/profileName: Gerald S. Pearson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: The secret is out
+review/text: The secret is out...Blues Hog has been one of the most popular sauces on the Competition BBQ circuit for the past couple of years.  All the cool kids are using it.  By far the most popular application is a blend of 50% Tennessee Red and 50% of the "Regular" Blues Hog.  Their Smokey Mountain variation (sometimes hard to find) is a stand alone rock star...a perfect compliment to a rack of ribs or a mountain of pulled pork. I would give this sauce 6 stars if I could.
+
+product/productId: B001H3O6UO
+review/userId: A1MT48W7OG4VQT
+review/profileName: arod
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Amazingly Delicious!
+review/text: Amazing sweet BBQ sauce with great flavor and subtle kick! It is absolutely delicious on ribs and other meats. When refrigerated it comes out thick but when left out in room temperature it comes out runny. One of my favorite. Highly recommended.
+
+product/productId: B001H3O6UO
+review/userId: A2QF9787F26LB8
+review/profileName: Jysand
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325635200
+review/summary: Best BBQ Sauce I Have Ever Had
+review/text: Sometimes (not all the time) the beer/whiskey becomes more important that the food prep and seasoning.  This sauce fixes that every time.  Good on wings, shrimp, shoulder, burgers, ice cream,  EVERYTHING!  You name it this will taste good on it.
+
+product/productId: B000E1BM7K
+review/userId: A24XYGMIMHPPIY
+review/profileName: SuperSaver
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1222732800
+review/summary: yum
+review/text: I bought the 10 pack 6 months ago and just finished it.  Kraft was offering a special so I bought this and a few other items that are still around.  I found the kits to be the same as the store, but cheaper, and the fact that I haven't had to buy a taco kit in 6 months is great!
+
+product/productId: B000E1BM7K
+review/userId: A37FGLI99EBHTM
+review/profileName: Jan in the hills
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1293148800
+review/summary: Good Meal!
+review/text: The tacos are great.  We love them and can't fing this dinner at our local stores.  Plan on buying extra taco shells though because about 1/2 will be broken on arrival.
+
+product/productId: B000E1BM7K
+review/userId: AWVXVXUAGBNO7
+review/profileName: A. Fennell "TACO EATER"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1269734400
+review/summary: THE BEST TACOS I'VE EVER HAD!!!
+review/text: I LOVE THESE TACOS. WE HAVE THEM ONCE OR TWICE A WEEK. THERE AWESOME. MY HUSBAND AND I LOVE THEM AND CAN'T LIVE WITHOUT THEM :)
+
+product/productId: B000E1BM7K
+review/userId: A2HTVX0RWQEEID
+review/profileName: P. Brundage "sammiesmammie"
+review/helpfulness: 0/9
+review/score: 2.0
+review/time: 1217548800
+review/summary: What ever Happened to the Little Dog......
+review/text: OMG...Please save yourself...these are Terrible!!!! BEWARE...Step AWAY from the CHEESE SAUCE..WOW!  My Kids talked me into buying these, since we have no Taco Bell within sight (thank you, thank you) I suppose if you are literally STARVING they "might" be good...but otherwise, look for the box they come in for a wholesome meal!  I have never had a problem with Amazon or their shipping practices...but Taco Shells do not fair well..I don't care how many air pillows they put in there..It's just not gonna happen!  I did not give it 1 star for the fact that I did prepare the meal, and we all ate..so at least it gave us SOME kind of feeling of moving our jaws up and down while swallowing harshly. And back to the topic...I think these were the reason for the poor dogs demise.......
+
+product/productId: B003TUIB5Y
+review/userId: A3FLLF3UUIP2V7
+review/profileName: Marika Tarver "marikaseuropeantouch"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Hustelinchen by Villosa
+review/text: I went home to Germany this sommer and was so happy to see they still make my favorite candy 'Hustelinchen'.<br />Was I glad to see that MyGermanCandy was selling it on Amazon!!! :-)<br />I just hope they will never stop selling it and may be get the No sugar version too.<br />Thumbs up for MyGermanCandy !!!
+
+product/productId: B001EO7K9A
+review/userId: A1O6RADMX8IOLA
+review/profileName: Travelin'
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1227571200
+review/summary: Just like home
+review/text: I grew up in New Orleans so I'm always hesitant to buy anything that says "New Orleans" on it since I am sure to be disappointed by the lack of authenticity. This cornbread however is delicious, moist and tasty. What convinced me to buy it was the ease with which you make it--just add water--and the fact that it has 0 cholesterol (something my husband has to watch). It gives you a homemade taste without all the fuss.
+
+product/productId: B001FA1KJO
+review/userId: A2BC5324ZFVGQ9
+review/profileName: S. Courtnay "everything net"
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1214265600
+review/summary: Folgers Coffee Singles
+review/text: I've been using Folger's Coffee Singles for 3 years or so.  Since I am the only coffee drinker in the house, they are so simple to use and taste as good as brewed coffee...but no leftovers!  I also try to control my caffeine intake and what is more simple than a single serving of real brewed coffee made in your cup.  I take them traveling, better than the hotel coffee anyday.  The decaf is also great.  The answer to camping, work and play.
+
+product/productId: B001FA1KJO
+review/userId: A95O3GG9L3S05
+review/profileName: Pat G "Grey Mom"
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1206316800
+review/summary: Good Coffee
+review/text: These coffee bags are so convenient and taste really good.Plus they are available in both regular and decaffeinated.
+
+product/productId: B001FA1KJO
+review/userId: A1L12GGW8UQYPU
+review/profileName: Robert W. Marshall
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1213401600
+review/summary: Love these
+review/text: I love these things, use them at work every day, so much easier than messing with a coffee maker for the office. Also use them when we travel, hotels never give you enough coffee bags in the rooms.
+
+product/productId: B001FA1KJO
+review/userId: A3MO699KPZP0LM
+review/profileName: Cajun J "LouisianaBistineau"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1313452800
+review/summary: Break the cycle of overpriced coffee pods once and for all!!
+review/text: Just because these come in a tea bag type of pouch does not mean they can not be brewed in a single cup ($20) coffee pot. I tried this method of brewing single cups of coffee out of disgust with the price of the all-mighty K cups pods. With K cups, I found myself spiraling toward financial ruin simply to enjoy coffee in a single serving cup.<br /><br />So, for A FRACTION of the cost here is what I recommend. Purchase a $20 single serve coffee maker, doesn't matter the brand but this is the exact one I use with the metal permanent filter removed <a href="http://www.amazon.com/gp/product/B0041GNZSS">Single Serve Coffee Maker</a> ...get the cheapest one you can find. All it is doing is heating water - keep that in mind. Put one of these tea bag style pouches in the filter compartment. Push it down really good in the filter holder and make sure the water won't flow around it as it hits the bag. Sit back and wait, soon you will have a perfect cup of Folgers coffee.<br /><br />I have not brewed a pot of coffee any other way since going to these. I have purchased hundreds of packets and have never been disappointed. I just hope Folgers doesn't realize what they have here and jack up the price.<br /><br />So...cut yourself loose from the K cup cycle and with the cash you save treat yourself by purchasing one of the out-of-service space shuttles, or send an entire class of graduates at your local school to Harvard.<br />So...cut yourself loose from the K cup cycle and with the cash you save treat yourself by purchasing one of the out-of-service space shuttles, or send an entire class of graduates at your local school to Harvard.
+
+product/productId: B001FA1KJO
+review/userId: A1AMCR6ISCN2Z6
+review/profileName: William C. Diemer "wcd53"
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1179273600
+review/summary: Good Deal
+review/text: I use at least two (2) of these coffee singles each morning.  Easy, fast and delicious.  Excellent product...
+
+product/productId: B001FA1KJO
+review/userId: A6GMEO3VRY51S
+review/profileName: microjoe
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1271635200
+review/summary: Tastes better than instant, less work than a coffee pot
+review/text: These single packs are nice and convenient. Other brands make them, like Maxwell House also sold at Amazon, but I prefer the Folgers for now.  They work just like a teabag, you place them in hot water in your mug and let them steep. The amount of time to steep or dunk is relative to your what you like in flavor, simply let it sit longer for stronger coffee. For some reason, both this brand and others have chose to place 19 in a box, weird that they do not round off to 20. The bags are cordoned off in separate containers to stay fresh longer. While I will still use my regular pot for camping as it is part of the experience, I can see where this would be great for lighter weight backpacking, the flavor is better than instant for sure and not as messy.
+
+product/productId: B001FA1KJO
+review/userId: A1CQKL5XW6AKO2
+review/profileName: conic-ellipse "conic-ellipse"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1246924800
+review/summary: The Best There Is - IMHO
+review/text: I really enjoy this coffee. I use it at home and work.<br /><br />At work, I use it in my office. With some filtered water and my Black & Decker Cup-at-a-Time coffee maker, I make a cup of hot (just right) water. I put the Folgers coffee bag in the coffee mug first and let the hot water drip onto it while it's making. When the coffee maker (or in my case, hot water maker) is finished, i dunk my coffee bag for about 10 seconds. I then let it sit for about 30 seconds. Voila' ! A wonderful cup of coffee. Another definite plus is the aroma experienced while brewing! It smells so good! Also, I don't have to walk from the 3rd floor to the 1st floor where there may or may not be fresh coffee made.<br /><br />At home, I sometimes like a cup of coffee on the weekend. I use the microwave. These bags have no metal on them, so you can put the bag in the cold water in your mug and then microwave. I microwave for about 1 minute and 45 seconds. (With my microwave, this just brings the water to a boil when the microwave cuts off.) I let the bag sit or a minute or two and I have a great cup of coffee. Others like to heat the water by itself and pour it over the bag in the mug.<br /><br />This coffee taste great, is very smooth and very convenient. The price is very reasonable for what you get. It's also one of the very few coffees I have found that doesn't give me heartburn! I hope you enjoy it as much as I do!
+
+product/productId: B001FA1KJO
+review/userId: A1IJLW27SKD1DF
+review/profileName: Helen
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1239580800
+review/summary: A Good Cup of Coffee
+review/text: My husband is the coffee drinker in the family.  And, after years of selecting and grinding the beans, steeping the coffee, he decided to try the coffee bags.  He decided he liked the taste and it was so quick and easy.  I let the coffee bag steep much longer than is recommended(5 minutes) and also dunk the bag for about 1 minute.
+
+product/productId: B001FA1KJO
+review/userId: A1TVJ65VX56OT9
+review/profileName: Marco A. Dominguez Milanez "Shopping, shoppin...
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1229817600
+review/summary: GREAT BUY - VERY CONVENIENT
+review/text: I LOVE THE FOLGERS COFFEE SINGLES, CONVENIENT IN THE OFFICE AND ON THE GO. GREAT TASTE. FULLY RECCOMEND FOR PEOPLE WHO ARE ALWAYS BUSY!
+
+product/productId: B001FA1KJO
+review/userId: A3HPCRD9RX351S
+review/profileName: Spudman
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1341619200
+review/summary: It's My Bag
+review/text: The taste and satisfaction of a cup of coffee made with a Folgers coffee bag lies somewhere between that made with ground coffee and that made with instant. And in that limbo territory it's closer to ground than instant.<br /><br />For those who want more flavor it's important to let the bag seep for at least five minutes or even longer if you don't mind reheating in the microwave. I like the taste of coffee made with these singles and use them when I just want one cup or when making a pot of "real" coffee is inconvenient or impossible. These singles are great for taking on vacation or for using at work.<br /><br />I still prefer my coffee from the pot, but these Folgers Classic Singles are a viable, convenient alternative in some situations. In fact, as I finish typing this review, I'm also finishing up a satisfying cup of coffee made with a Folgers coffee bag.
+
+product/productId: B001FA1KJO
+review/userId: A19MMYMZO363KM
+review/profileName: Lincoln County MT "Focused on pinecones"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1308873600
+review/summary: Not Great but GOOD!
+review/text: Ok this is a tea bag coffee. Really you expect Great move right along. But good these were surprisingly better than expected. We'll freeze the extra bags we don't use now to keep fresh over time. Backpack, camping and yes on the train in motel rooms etc. Used one of those little nify metal rods that heat coffee in the cup with a travel mug that's silcone coated outside and stainless inside and the heater fits just right. No trouble bumping around in train car either. Boils water in 3 minutes about and added the coffee bag to the boiling water before removal of the rod. Then unplug rod and cooled it under water faucet and repack it and capped the travel mug with it's lid after removal of the bag. Worked so slick....we did just love it...New thing for us anyway.
+
+product/productId: B001FA1KJO
+review/userId: AK7SZ61MMFEHX
+review/profileName: Stephen Yogya
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1298851200
+review/summary: Fresh & tasty coffee when I need it!
+review/text: I really like these in the office instead of brewing a full pot of coffee (sometimes I'm the only one who's drinking it).  It's surprisingly good.  You do have to let it steep for a while, otherwise it's too weak.
+
+product/productId: B001FA1KJO
+review/userId: A2WVFC85OS315S
+review/profileName: C. Poh
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1264896000
+review/summary: Love Folgers/Love Amazon
+review/text: I am a huge fan of Folgers Coffee Singles. They're convenient, and the coffee tastes great. Ordering them through Amazon is a better deal than buying them at the grocery store because the price is significantly cheaper and they come to your door in a timely manner with no delivery charge if you buy in bulk. I'm on an auto delivery plan, and I couldn't be happier with it. Saved me even more money, and I don't have to remember to keep myself stocked.
+
+product/productId: B001FA1KJO
+review/userId: A680RUE1FDO8B
+review/profileName: Jerry Saperstein
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1245542400
+review/summary: Great, convenient way to brew a cup of tasty coffee
+review/text: I stopped drinking coffee years ago, but recently decided that a dose of caffeine wouldn't be a bad idea.<br /><br />  Since I only want a cup or two a day, I looked for a simple way to get it done.<br /><br />  The Folger's single servings are great.<br /><br />  Each bag brews an excellent cup of aromatic, flavorful coffee. Just microwave a cup of water, dunk the bag for however long you like and you've got your cup of coffee. I find that 30 - 45 seconds of dunking gives me what I want.<br /><br />  I tried a generic brand from the local store - and it was pretty bad. Weak, little taste and lots of oil on the surface. The Folgers is real coffee in a convenient to use package. I'm sold on them.<br /><br />Jerry
+
+product/productId: B001FA1KJO
+review/userId: AIRPOKZ4206EG
+review/profileName: beej
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1349222400
+review/summary: Perfect for me!
+review/text: Although Folger's Coffee Singles probably wouldn't receive a very high rating from a true coffee aficionado, they are perfect for a simple 'wake up with coffee' drinker like myself.  Since I only drink 1-2 cups of coffee a day they serve me well for daily use at home.  I have also taken them with me when traveling abroad and camping.  Easy to pack, easy to use.  I must say that I've tried other brands but like Folger's the best.
+
+product/productId: B001FA1KJO
+review/userId: A3KZLIEGCSSM5L
+review/profileName: 1104 "Sublime Siren"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340323200
+review/summary: BETTER THAN MAXWELLHOUSE SINGLES & INSTANT!
+review/text: I LOVE THESE. Started using post labor.  GREAT cup of coffee, just DON'T follow directions. Make sure water is a ROLLING BOIL, not just hot, then leave the bag in for 5 full minutes. Perfect every time. I don't suggest longer than that unless you want it bitter. 5 minutes delivers a decently strong cup without bitterness (when lightly sweetened & a touch of cream). I use a large 16-20oz mug and two bags.
+
+product/productId: B001FA1KJO
+review/userId: AC57A1QMUXK10
+review/profileName: Pam Smith "Pam"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326844800
+review/summary: Save money on K cups, use these bags instead
+review/text: I use these when I just want a cup of coffee. I make tea the same way. Just put the bag in my cup. Set it under the spout just as if I had put a K cup in the machine. Make sure to operate the handle after the blue light comes on. Then push the blue button you want for the size of the cup and the hot water flows into the cup, over the bag and in a copule if minutes I have a nice hot cup of coffee! I use the K cups for desert coffees. It saves money and is much faster and less wasteful than old types of coffee makers.
+
+product/productId: B001FA1KJO
+review/userId: A1GXIYA3396DIL
+review/profileName: James R. McMahon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322784000
+review/summary: Great with Keurig
+review/text: As the little blurb mentions, if you stuff the pouch into the Keurig dispenser, and use the 6oz size setting, you get a really great tasting cup of coffee; tried the 8oz setting, but it turned out to be a little too weak for my taste.  Try it, you'll like it....JimMc
+
+product/productId: B001FA1KJO
+review/userId: A1JSRQJN5VA2GO
+review/profileName: Patrick
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314748800
+review/summary: Excellent Coffee and Price
+review/text: This way of making coffee is an excellent idea for those of us who have an office and need to make one or two cups at a time.<br /><br />I will continue to purchase and drink this excellent coffee.  By the way, it tates much better than the ground coffee, in my opinion, but you know opinions, so make your own choices.  Try one box before you buy the six pack.<br /><br />Thanks
+
+product/productId: B001FA1KJO
+review/userId: AZEYC27CEA8RE
+review/profileName: John
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1298160000
+review/summary: Convenient, but comes with trade-offs
+review/text: There's no denying that coffee singles are convenient for people who don't drink coffee every day or don't want to deal with the hassle of cleaning out the coffee maker (like myself).  However, the coffee from these singles is rather bland, with not much taste and no body.  Personally, I'm not convinced that theses singles are that much better than instant coffee.  Use them for the caffeine, not the taste.
+
+product/productId: B001FA1KJO
+review/userId: A1H983M2V0OIV2
+review/profileName: Christine Hackett "Good Cook in Tennessee"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Great Coffee
+review/text: Excellent Product, Great Price, On time Delivery, Highly Recommend this product to anyone that goes through a lot of coffee like my husband.
+
+product/productId: B001FA1KJO
+review/userId: AEE45URR0AW8S
+review/profileName: iloveamazon
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348617600
+review/summary: Buyer Beware...Not K Cups
+review/text: I did a search for Folgers K Cups and this product showed up.  I thought I was getting K Cups and I ordered both regular and decaf.  MY FAULT for not reading closely and reading reviews before ordering.  AMAZON'S fault for placing these products in with the K Cup. And of course they cannot be returned.  I will donate them to something or someone and be much smarter before ordering again!
+
+product/productId: B001FA1KJO
+review/userId: A2CTGTYAS8697L
+review/profileName: T J
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Great coffee
+review/text: A friend told me about this new singles bag Folgers coffee.  Started shopping and found the best deal here on Amazon.  Send my order, came quickly.  Very handy and great tasting coffee.
+
+product/productId: B001FA1KJO
+review/userId: A13FJO5NMI8P38
+review/profileName: Carla
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348272000
+review/summary: Delicious coffee - much better than instant
+review/text: I go camping in a cabin that has no electric, but a wood cook stove.  Boiling water is not a problem, but a coffee pot is.  I hate instant coffee, but that is all that is available there.  Then I found these.  These are a great alternative to instant.  I think the coffee is smooth and delicious - just as good as my fresh brewed at home.  They're easier to brew than tea - just one minute in boiling water.  Now these are one of my essential items when I go camping.
+
+product/productId: B001FA1KJO
+review/userId: A2GPL4CTA3UXIA
+review/profileName: R. Dunlap "RobbRocket68"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346803200
+review/summary: Worst Coffee Ever
+review/text: This is the worst tasting coffee I've ever had. I have drunk many cups of Folgers coffee in my life; I've never been a big fan of their product but it was good enough for consumption at work. This is the first time I purchased their single serving coffee bags. I was excited about the product because it "scratched an itch" I had. Little did I know that this coffee was not at all drinkable. I've tried it twice and both cups had this awful, skunky flavor. I will not be purchasing this product again. Caveat - both bags that I used for brewing were from the same box. It's possible that I got a bad box but I'm not going to throw good money after bad to find out.
+
+product/productId: B001FA1KJO
+review/userId: A1X5UMS4JHL1N5
+review/profileName: Michael T. Bosnyak "MTBSTEELER"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346284800
+review/summary: TOO MANY BAGS LEAKED  DON'T WASTE YOUR MONEY
+review/text: MANY OF THESE COFFEE BAGS LEAKED SINGLE GRINDS AND COULDN'T BE USED,SO I HAD TO THROW A LOT AWAY.DESPITE THE GOOD PRICE IT WASN'T WORTH IT-TOO MUCH WAS WASTED.IF I DIDN'T KNOW BETTER I'D SAY THEY WERE REJECTS FOM TH FACTORY.I HAVE BEEN BUYING THES FROM THE STORE AND NEVER HAD ANYTHING SO AWFUL
+
+product/productId: B001FA1KJO
+review/userId: A34ATC8G5DSYVA
+review/profileName: Gigi, RN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: Perfected to Your Taste
+review/text: I love the taste, and I'm able to "brew" each cup just as light or strong as I like it!  Exceptionately good taste in such a small bag!  Very satisfying.  Perfect for those enjoying just one cup at a time vs. several or the pot!  Especially convenient for travel.  I use them when traveling by air or at a relative's home who may prefer their coffee strong enough to slice!  Cheers!
+
+product/productId: B001FA1KJO
+review/userId: A2PTVMWP5GEOYN
+review/profileName: Steve
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343779200
+review/summary: Good Coffee You Can Take Anywhere
+review/text: I love the convenience of these small little tea-like packets. I used to use the coffee maker at work but the machine seems to never be as clean as I'd prefer and buying coffee on the road can get pricey. So, I found these as a worthy alternative to the traditional drip systems. They're convenient and the price is right. They travel well and I highly recommend them to anyone that is often on the go and needs quick and easy coffee without the mess for that pick-me-up.<br /><br />One helpful tip: I get best results when I brew with hot hot hot water from my electric tea kettle. This is definitely the way to get the best flavors. After allowing the coffee to brew in my mug a few minutes I drop a couple ice cubes in and it's the perfect temperature for hitting the road.
+
+product/productId: B001FA1KJO
+review/userId: A1Q8J4F3WPV5PH
+review/profileName: Patricia A. Amann
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341619200
+review/summary: Great coffee bags
+review/text: I don't drink coffee so this is a great product to keep on hand for my coffee drinking friends & family.  Plus they say it tastes great.
+
+product/productId: B001FA1KJO
+review/userId: A3GDP6VJYFHJBT
+review/profileName: Janice399 "JM"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: Great like a tea bag with good coffee inside
+review/text: This is so handy for work.  Microwave a cup of water and dip a coffee bag in it.<br />The coffee maker at work is a big mess.  This is a very clean way to have a morning cup of coffee.
+
+product/productId: B001FA1KJO
+review/userId: AYIBT61B66F46
+review/profileName: Boogie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332028800
+review/summary: Folgers Coffee bags
+review/text: I am the only one here who drinks coffee in the morning.  It is a waste to make a pot for one person, so the bags are terrific and really taste great.  I have been using them for years and will continue to use them.
+
+product/productId: B001FA1KJO
+review/userId: A1TIBBU41YT3J
+review/profileName: noto300
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331510400
+review/summary: Folgers Coffee Singles purchased on Amazon
+review/text: Although it's not as good as Folgers fresh brewed it is good enough for a quick cup at the end of the day. I would recommend this product.
+
+product/productId: B001FA1KJO
+review/userId: A2J57VGDETZKF6
+review/profileName: 4 Kids 2 Exhausted
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: A different way of making a cup of coffee
+review/text: You should try these singles if you drink just one cup of coffee in the morning. They taste the same as normally brewed coffee, but it could take some time to get the brew process just right for you.<br /><br />Pros versus a coffee pot brewer: Less waste, less mess, less time to brew<br /><br />Cons: Doesn't work well for multiple cups of coffee, prone to error<br /><br />Because the brew process has to be manually performed by a person, it is easy for someone to make a watery cup of coffee using these. It wasn't until I got the process down that my cups started tasting like real coffee. Ultimately this is the same stuff you put in a pot brewer, so it tastes the exact same if done right.<br /><br />When you read the instructions, its important to follow all of the steps. There are three important parts: HOT water, steep time, and dunk time.<br /><br />HOT water: I have an electric tea kettle which can boil a cup of water in about 1 minute. I like it because it automatically turns off after the water is boiling, and its less mess than microwaving a pyrex container or a pot on the stove. Mine is a white plastic one that cost about $12. I highly recommend this method because it will get the water the right temperature every time.<br /><br />Steep time: After pouring the hot water into a mug with the coffee single bag, the instructions tell you to wait a minute. My experience is you can vary this time depending on preference. More time equals stronger coffee. I generally let it sit for 1-2 minutes.<br /><br />Dunk time: The part of the instructions I skipped over my first time was the dunking process. The instructions say to dunk the bag into the cup for 15 seconds. I find this process is where a large portion of the coffee flavor comes from. Once again this can be varied to suit taste. I generally dunk for 10-20 seconds.<br /><br />After performing the steps as the box says, it ends up tasting just like normal coffee. If you're used to strong coffee, all you have to do is let it steep longer, dunk longer, or put multiple bags in at the same time.<br /><br />I like this product and use it exclusively now. It ends up cost me less than how much I was spending making small pots of coffee. Its also more convenient for me. Highly recommend giving this a try
+
+product/productId: B001FA1KJO
+review/userId: A2WOOD2QYLRQXP
+review/profileName: James C. Kauer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1320019200
+review/summary: Folgers Coffee Singles
+review/text: Folgers Coffee Singles have been a favorite with us for several years for their convenience for making quickly a satisfactory cup of coffee or a quick iced coffee.
+
+product/productId: B001FA1KJO
+review/userId: AYNJEWSG7W9RP
+review/profileName: LadyM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285632000
+review/summary: Better Than Brewed
+review/text: I'm not a big coffee drinker and it's hard for me to brew a perfect cup each time, but with Folgers Singles EVERY cup is perfect. It tastes better than brewed and is easy and convenient to use.
+
+product/productId: B001FA1KJO
+review/userId: A18GP7OEHAQT37
+review/profileName: Michael Santomauro "What sort of Truth is it ...
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1261180800
+review/summary: BETTER THAN SEX...
+review/text: It has the most rich and pleasing taste of hundreds of the different coffees I have ever tried.<br /><br />I only want to sleep 4 hours a day and this coffee keeps me awake--I LOVE THE TASTE OF FOLGERS--in tea bag only.<br /><br />I use my Keurig machine for my hot water.
+
+product/productId: B001FA1KJO
+review/userId: A38FWXBFJX210N
+review/profileName: Terri
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1240704000
+review/summary: The best coffee!
+review/text: I wake up with Folgers everyday for the last few years now. I love the aroma and taste, and I like that this comes in pack of 6, it stocks me up for quite a while. thank you for the quick shipping too. I would definitely purchase from this seller in the future.
+
+product/productId: B001FA1KJO
+review/userId: A49QM0SQBNK18
+review/profileName: Ruben Misrahi
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1336003200
+review/summary: Great idea, badly implemented
+review/text: I like the test and convenience of these Folgers bags, but about half of them are defective. Yes, the bags are not keeping the coffee in because they are not well sealed. This completely gives away the "convenience." Great idea bad implemented. I regret I bought 6 boxes of this product.
+
+product/productId: B001FA1KJO
+review/userId: A2XHJAEVQIV8LP
+review/profileName: R. K. Pearson "bikermailman"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1328400000
+review/summary: Convenient sure, but...
+review/text: Was camping in the Northern Rockies last fall.  We ran out of coffee, decided to try these for ease.  We'd been using an old fashioned percolator on the campfire.  One bag was weak, and even two were so so.  I can live with a few grounds I decided!  And the dog loves the grounds too... :D
+
+product/productId: B001FA1KJO
+review/userId: A1PW5TR0N8JXJ0
+review/profileName: Stone Hill
+review/helpfulness: 2/5
+review/score: 2.0
+review/time: 1310860800
+review/summary: old school
+review/text: If you think this coffee is good you should compare it to something that was not made in an old school percolator. This coffee takes me back to the coffee that was the standard in the early 70's. We have so much more choice today. With coffee that really tastes good. One thing this coffee is good for is if you are cold and tired and you need something fast to get you going this stuff will work.
+
+product/productId: B001FA1KJO
+review/userId: A311HRHU7HBEFT
+review/profileName: Alan Ganger "AL"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1344729600
+review/summary: Mmmm.. brown water.
+review/text: Took these camping. While convenient to lug around, I ended up using 4 packets in a cup and there was still no strength (both in flavor and caffeine). Next time will just throw some dirt in the cup and swish around with water.
+
+product/productId: B001FA1KJO
+review/userId: A15CMKGYZFH5IW
+review/profileName: pink_puff
+review/helpfulness: 4/13
+review/score: 1.0
+review/time: 1231372800
+review/summary: Brown Water
+review/text: Without a doubt, the worst cup of coffee I've ever had in my entire life.  Has no body, no taste.  Awful.
+
+product/productId: B001FA1KJO
+review/userId: A10U4WQQX0PR3D
+review/profileName: mo
+review/helpfulness: 0/7
+review/score: 1.0
+review/time: 1337472000
+review/summary: coffee
+review/text: I thought I had ordered the coffee K-Cups as that is what I had brought up on the screen.  When they arrived and a saw that it was not the correct product I went back to Amazon only to discover that they were not returnable.  I will NEVER order these type of products from Amazon again!~I donated the package to the local food bank.
+
+product/productId: B001FA1KJO
+review/userId: A2E050T0CQGR0Y
+review/profileName: JD
+review/helpfulness: 0/9
+review/score: 1.0
+review/time: 1331337600
+review/summary: Wrong Product-not K cups
+review/text: I searched k cups and these came up. I ordered 30 dollars worth and now I cannot return them so I am stuck with a product I do not want.
+
+product/productId: B002HQAYLA
+review/userId: A12KXT7Y15CFZU
+review/profileName: Tea Lover
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1339027200
+review/summary: Shipping Each PKG Separately
+review/text: Lipton Tea to Go is great I love it.  The price is about what I paid in the store but this seller is charging shipping on each individual box of tea.  I was going to purchase all in stock which was 11 boxes at $2.00 a box should have been $22.00 + shipping it was like $66.00 for the order. THE PRICING IS DECEIVING.
+
+product/productId: B002HQAYLA
+review/userId: A3RNP5X8ZGZIEI
+review/profileName: Stephanie DePue
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1336953600
+review/summary: Almost as Delicious as a Mango Margarita, Just a Bit More Tart
+review/text: Lipton Green Tea to Go, Mandarin and Mango offers a fresh-tasting delicate sweet tea that delivers zero calories and ten mg of caffeine per eight ounce fluid serving.  The Unilever product comes in a small box, packed in ten handy flutes.  It is, the manufacturer states, made from real tea leaves and contains 80 mg tea flavenoids per eight fluid ounce servings.  It is also sweetened with real fruit flavors.  It is, as well, easy to prepare.  You can add a packet to one bottle (16.9 fl. oz. of water), or half a packet to a glass of water: just stir and enjoy.  The tea does take a little bit longer to dissolve than some other mixing powders, so you do have to shake, or stir well.  It's obviously a handy thing to keep on hand for the office, the gym, the backpack, or anywhere you are on the go.  I've found it's a good pick-me-up when I'm hot and tired in the afternoon.<br /><br />I found the taste quite sweet and delicious.  What can I say, I just love mango Margaritas, figure somebody snuck that recipe out of paradise.  The mandarin orange taste here does add a bit of tartness, too.  However, in the list of ingredients I find Aspartame (Sweetener), Corn Syrup Solids, Modified Corn Starch,  Maltodextrin, and  Acesulfame Potassium as sweeteners: these ingredients concern me.  (Of course, I've no idea what might be in the mango margarita mix that bars use, so.)  I'm not a dietitian, just do my best to eat healthy stuff; this drink might, still, be more healthy than diet soda, I just don't know.
+
+product/productId: B002HQAYLA
+review/userId: AQ08W30YRZERD
+review/profileName: JanetB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Lipton Mango Manderian Tea o Go
+review/text: Very disappointed I can no longer buy Lipton Mango Manderian Tea To Go.  It was my favorite summer drink. Lipton, please bring this great tea back.
+
+product/productId: B002HQAYLA
+review/userId: AVD8CN1YH6U31
+review/profileName: Irene
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343692800
+review/summary: Disappointed!!!
+review/text: I was very disappointed when I found out that Lipton had discontinued its "Mango Mandarin" flavored green tea!  I used to buy five boxes at a time when I would go grocery shopping.  I'd keep some at home and bring some to work.  A few months ago, maybe even a year ago, that I went grocery shopping I thought they had just ran out but I was told that they had discontinued it!  I hate that.  I hope they realize that many people like it and want it back on the shelves!
+
+product/productId: B002HQAYLA
+review/userId: A1X0MK3WNF9GHQ
+review/profileName: Mary
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Disappointed in Lipton
+review/text: I am very disappointed in Lipton for discontinuing this product. Like another reviewer I agree that their new products made with honey are way to sweet and their combinations of flavors don't compare to the Mandarin/Mango flavor. I called their customer service line to voice my opinion and my disappointment.  Their customer service representative was very nice and stated that she would make note of my disappointment and then offered to send me some samples and coupons for some of their new teas, which was  a very nice gesture.  I did recieve the product and coupons but have not found anything that tastes as good as the Mandarin/Mango ice tea mix.  I hope that if enough of their customers let them know how disappointed we are, they'll bring the product back to the market (just the way it was with no changes).  I live in MA and traveled to CT to purchase all the product one store had in stock . . . And now my stock is almost gone.  I refuse to pay what the online retailers are charging for the product, paying the s/h per box is ridiculous.  :o(
+
+product/productId: B002HQAYLA
+review/userId: A310M9892B7SH
+review/profileName: KenNJ
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1340582400
+review/summary: Not Deceiving its called Discontinued!!
+review/text: It is a shame that lipton has discontinued this product.  One of the best.  Now they have that Junk with Honey.  Awful.  Re think Lipton. I paid the price from this " Discontinued Vendor":  Who ever it is they are very smart. Pay if you love the product.  I was glad to get it.
+
+product/productId: B002HQAYLA
+review/userId: A2KZWVTPXZ4U73
+review/profileName: Marcia G. Morrione
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1341792000
+review/summary: Lipton Tea Mandarin & Mango
+review/text: This is a really good product.  I like the flavor and I am really sorry to see it off the grocery store shelves.  I have tried many different flavors of Lipton Tea to Go and find the Mandarin & Mango to be my favorite flavor.
+
+product/productId: B000E1BM7A
+review/userId: A1IIFVHSEGCL8H
+review/profileName: Peri Winkle
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1154131200
+review/summary: best trail mix on the market
+review/text: None of that super-sugared [candied] dried fruit or flat tasting candy [e.g., chocolate] chips to mess up a yummy, but healthy snack. Don't get me wrong, I LOVE chocolate--the darker the better--but what they put in trail mixes is worse than nothing. If I want candy, I'll buy the good stuff.<br /><br />Thanks, Amazon. My local market no longer carries it.
+
+product/productId: B000E1BM7A
+review/userId: A3TFBHVF12XYFL
+review/profileName: Savvy "Smart Consumer"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1170633600
+review/summary: Satisfied customer
+review/text: I loved this product and I can't find it in my local stores.  I had to be careful not to eat too much :).
+
+product/productId: B000E1BM7A
+review/userId: A1API30F27SE96
+review/profileName: carlin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286323200
+review/summary: The perfect drink to go with .
+review/text: This is the best mix I've ever had and I tried them all,however I can't find them in any of the markets I frequent. The best drink to go with them is ice cold fat free milk, filling too.
+
+product/productId: B000E1BM7A
+review/userId: A35DSAZ6TD3J3W
+review/profileName: Marc Albert
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1216598400
+review/summary: Heart Healthy Snack
+review/text: Excellent tasting product containing heart healthy nuts and seeds without much of the heart unhealthy salt found in many other trail mix products.  Salt is the last item on the ingredient list.  It is also not very oily and I particularly like the generous amount of cashews in each package. The downside of being so enjoyable is that there are 800 calories per package (160 cal/serving) and it is very hard to eat just one small serving.<br />Enjoy!
+
+product/productId: B000E1BM7A
+review/userId: A2ZSBA1SYV7S52
+review/profileName: A. Sanders
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1199750400
+review/summary: too many peanuts
+review/text: Pretty good snack mix, but definately was too heavy on peanuts. Bags seem to not be evenly mixed.
+
+product/productId: B000E1BM7A
+review/userId: A3IYZPU36069UD
+review/profileName: KBK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347062400
+review/summary: Wonderful
+review/text: It is so nice to find this. We used to buy it at walgreens but they quit carrying it. They carry only their store brand now which is way to salty. Excellent to have our favorite Planters Trail mix! Thank you so much Amazon!! Nice healthy snack!
+
+product/productId: B000E1BM7A
+review/userId: AT0TWVT8XJRFV
+review/profileName: Patricia A. Malone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308182400
+review/summary: trail mix
+review/text: love the way the trail mix tasted with out all the salt it was great it was fresh and has a good taste to it.
+
+product/productId: B000E1BM7A
+review/userId: A3JV0DZ2TMAF5N
+review/profileName: H. N. RASTOGI "HNR"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297728000
+review/summary: Trail Mix - Planters
+review/text: Thank you Amazon, I ordered the "Nuts, Seeds and Resins" as it was not available in the stores. I am very happy, the product is fresh and as I expected.
+
+product/productId: B000E1BM7A
+review/userId: AJRMO7BUQZRFO
+review/profileName: H. Schmidt "Chimneygod"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1208908800
+review/summary: Top Tier
+review/text: Most excellent trail mix and in just right size for portability and having enough product. Shipped lightning fast. Even with the free shipping option, it came in 3 days.
+
+product/productId: B000E1BM7A
+review/userId: AVKPJJ58G1QKZ
+review/profileName: Brandon W. Davis
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1183075200
+review/summary: healthy, Good, Seedy
+review/text: I like healthy granolas and cashews so i naturally like this. My only complaint is they went a bit overboard on the small seeds. I ended up eating most of it and all I had left was the small seeds on the bottom. I like seeds but that was a bit much. I will try the other flavors though as I do like the trail mix. I was almost surprised at the amount of fat though: 12g per serving, 5 servings a bag.
+
+product/productId: B0058M8RP0
+review/userId: A19HJ8LAJH3YOI
+review/profileName: Blood King
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321747200
+review/summary: Clean & Light
+review/text: This is a more refreshing coffee.  Tastes clean, rather than a dirty/overwhelming experience.  Light, with touches of milk and sweetness on the palate.<br />I just woke up.  These are the words that came to me.
+
+product/productId: B000JMDHCC
+review/userId: A3FUM70XYPYRKR
+review/profileName: S. Good
+review/helpfulness: 11/13
+review/score: 3.0
+review/time: 1329177600
+review/summary: Contains Sodium Bisulfite
+review/text: I bought this after reading Opinunated's review of Sambal Oelek.  In their review they listed ingredients from label but failed to list all ingredients.  I thought I had finally found a chili paste that didn't have a bunch of preservatives.  Unfortunately Sambal Oelek has a couple.  Here is the entire ingredient list:  "Chili, Salt, Distilled Vinegar, Potassium Sorbate and Sodium Bisulite as preservatives and Xanthan Gum.  CONTAINS SULPHITE (Sodium bisulfite)".
+
+product/productId: B000JMDHCC
+review/userId: A1DAU0BURAWSSP
+review/profileName: Erica C. Chan
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1291420800
+review/summary: I LOVE this sauce!
+review/text: This sauce is AMAZING stuff. I don't like extraordinarily spicy food, and this is perfect. It gives a nice kick of fire without being overbearing. What I especially love about this sauce is the sweetness. Purely from a flavor standpoint, this sauce is delicious. I love to ladle good-size spoonfuls of this stuff onto my rice and stir-fry dishes. It's addictive!
+
+product/productId: B000JMDHCC
+review/userId: A30Z8TKWVDUBOJ
+review/profileName: Soup Chef
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1282953600
+review/summary: Perfect heat
+review/text: Nice heat, good flavor, plays well with other ingredients.  Mix w/ mayo and agave, pour over cubed chicken or shrimp for appetizer....add to pasta, rice or lettuce--yum!
+
+product/productId: B000JMDHCC
+review/userId: AYTJGEQQDD7TU
+review/profileName: hlew "4 timer"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1188950400
+review/summary: great condiment
+review/text: IF you are someone who likes hot sauce this is a nice change.  I find it especially good on eggs, but can be used on just about anything you would put hot sauce on.
+
+product/productId: B000JMDHCC
+review/userId: A33SB6HQC2JW0I
+review/profileName: bargain shopper
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1222819200
+review/summary: The freshest chili paste
+review/text: This chilli is so fresh, you can't believe it came from a bottle. I use this to marinade fish, as part of the dipping sauce for dumplings, and add it to just about everything! It adds a kick and freshness to the dish.
+
+product/productId: B000JMDHCC
+review/userId: A12NM11F1CCN2O
+review/profileName: Linda Steinbauer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1199491200
+review/summary: Great Sauce!
+review/text: I LOVE this sauce.  It is great on just about everything - I'm a hot sauce freak and cannot use sauces with garlic.  This sauce fits the bill - hot and great taste!  If you like hot, this is the sauce for you.
+
+product/productId: B000JMDHCC
+review/userId: A1TJT6GXDGNN8Q
+review/profileName: Opinunated
+review/helpfulness: 3/5
+review/score: 2.0
+review/time: 1325289600
+review/summary: Not this company's best
+review/text: The overall taste of this sauce was a disappointment to me. I love many of this company's products so I was a bit surprised that this chili paste didn't taste any better. There are bitter notes to this sauce which I attribute to chile seeds, vinegar and an excessive amount of salt.  Buy some dry red pepper flakes and you'll eliminate the bitterness of this sauce but otherwise replicate it almost perfectly.<br /><br />I much prefer the Huy Fong's Sriracha Hot Chili Sauce. It is not only hotter but it has a wonderful sweetness to it combined with some pleasant garlic notes.<br /><br />This is a good company but not every one of its products hits the mark. This chili paste misses the mark by a wide margin in my view.<br /><br />The product label lists (in this order) chiles (with seeds), salt and then vinegar. The vinegar and salt add a lot of bitterness. As I said - I like this company's products but not this particular one. Salt and vinegar do NOT complement chiles that well in my view.
+
+product/productId: B000JMDHCC
+review/userId: AKPBTCTILW0ST
+review/profileName: Chef Myriam
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1313712000
+review/summary: Si ves esta salsa comprala inmediatamente
+review/text: Esta salsa no es facil de conseguir, a menos que tengas mercados asiaticos cerca de tu casa, tiene un balance perfecto de acidez y picante con unos toques dulces que apenas se pueden percatar.<br />La puedes usar para cocinar, aderezar, sazonar y es muy versatil.<br />que bueno que Amazon tiene este producto, algunos se pueden parecer, pero yo recomiendo exactamente esta salsa.
+
+product/productId: B000JMDHCC
+review/userId: A5A7FYB8ZK2WH
+review/profileName: Lillie Langtry "Art Lover"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1312502400
+review/summary: Thank you.
+review/text: Appreciate the fast service for this very useful item for cooking.  I only found it in a store in Florida, and could not find it in New York.
+
+product/productId: B004K4XN5G
+review/userId: A3D9S6SW9LBUU3
+review/profileName: Allie Schulz
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319155200
+review/summary: Tasty!!!
+review/text: Very tasty, not heavy just a light plain salt taste with a hint of herbal flavor to it. Just love it!
+
+product/productId: B000H1AWSC
+review/userId: A1WVEJNC0UXWZV
+review/profileName: Cristafer Jesse "Christ is King!!!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254096000
+review/summary: goes on everything, not too spicy!
+review/text: This sauce goes with everything.  It's not too spicy once you get the first couple pours out of the bottle.  Mae Ploy's is the best I've had, although any brand will probably be good.
+
+product/productId: B000H1AWSC
+review/userId: A2XFBQ9PWE3QA1
+review/profileName: Lemontree
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1204070400
+review/summary: Sweet but HOT...
+review/text: This is great mixed with mayo, sour cream etc.,...but use a tiny amount...this is hot!
+
+product/productId: B001HTG2GO
+review/userId: A3EBHHCZO6V2A4
+review/profileName: Amaranth "music fan"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1228867200
+review/summary: All's fair in love and chocolate
+review/text: Equal Exchange Hot Cocoa is... okay. It's good if you want something to warm you up on a cold winter evening. The directions say "add hot water"... resulting in a blend that's somewhat bland,with a strange aftertaste. This is odd,considering that Equal Exchange's chocolate bars are excellent,along with their coffee. Perhaps it would taste better in hot milk. It's good for flavoring coffee. One can make a good cup of joe with it! I think I'll get their chili-flavored cocoa some time soon. THAT looks like it has a kick,unlike this.
+
+product/productId: B001IPMRDE
+review/userId: A2WS1MCMAVEYDY
+review/profileName: MMDeshon
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1296604800
+review/summary: Efficient service and excellent product
+review/text: The cilantro seeds I ordered from GROWaLOT through Amazon not only arrived before the expected delivery date, they also came with free plant markers and a thank you !  The instructions in the seed packet were easy to follow and within a few weeks the cilantro began growing.  Excellent product and excellent service.
+
+product/productId: B0018CJMSK
+review/userId: A2VC8GVTTU60YO
+review/profileName: TZ2DSR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1210464000
+review/summary: Worth the price
+review/text: Our very picky BOM (beagle/pomeranian) AbiGirl, will not eat just "anything".. in fact, she won't eat most anything unless it is human grade food. When we found Nature's Variety canned foods, I was so relieved to see her wholeheartedly gobble her portion and LICK THE BOWL!<br />Now we are relieved to know that she is getting good quality food with all the supplements she needs to stay healthy. Just read the ingredients and take a sniff- and you'll be ready to put some of this on a plate for yourself! This Prairie style Beef and Barley is her absolute favorite. She likes the Instinct Chicken and Turkey as an alternative. We believe it's worth the price  - great quality, wonderful aroma and first rate nutrition.
+
+product/productId: B002WDCCU4
+review/userId: A29OT1BBF4ZQQX
+review/profileName: Mark Maining
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1292630400
+review/summary: Great Tasting Coffee
+review/text: Those who label this as weak and  tasteless must be used to drinking straight espresso because this is very good tasting coffee and not weak at all. Although sometimes I question amazon reviews generally...<br /><br />This is a delicious cup of coffee not to strong not too weak (I tend to lean towards strong coffee personally). I do have 1 complaint though, It did not seem to brew a larger cup than that of my other t discs, I really doubt if that is 12 ounces.<br /><br />That being said I prefer this to my Starbucks blend t discs. Starbucks is a slight bitter in comparison, this is richer and a perfect middle ground between dark and light brew with terrific flavor!
+
+product/productId: B002WDCCU4
+review/userId: A34XANC58DN5E1
+review/profileName: 12 Basketfuls
+review/helpfulness: 7/8
+review/score: 4.0
+review/time: 1262822400
+review/summary: Nice mild brew
+review/text: This is a nice mild brew no where near as strong as the Starbucks brand of discs. It fills a travel mug nicely without having to add any extra water at the end of the cycle.
+
+product/productId: B002WDCCU4
+review/userId: A2N8WKJ2FKHP4T
+review/profileName: Emily S. Lakdawalla
+review/helpfulness: 9/11
+review/score: 1.0
+review/time: 1269129600
+review/summary: Awful, very weak
+review/text: Clearly this is a subjective matter since I'm in disagreement with previous reviewers.  But while I have at least enjoyed, even loved other coffee varieties in the Tassimo machine, I hated the Gevalia Morning Roast so much I threw the rest away after making several attempts to tolerate it.  It was terribly weak, almost chemical-tasting; it tastes like what comes out of a traditional drip coffee maker if you forget to replace the used grounds with fresh ones.  (For the record, my favorites are the Starbucks House Blend and Colombian; Seattle's Best Henry's Blend is milder, less flavorful than those but still a decent cup of coffee, and cheaper than the Starbucks; Starbucks Verona is too strong for my taste.)
+
+product/productId: B002WDCCU4
+review/userId: A2YHOZKLNJ6X2E
+review/profileName: Paula E. Oneal
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1321228800
+review/summary: This is MILD not MEDIUM roast
+review/text: While the product description on Amazon is "Medium Roast", this is actually "Mild" - clearly seen on the lower left of the package in the photo.  I didn't know this until I received my shipment today.  (I wish I had paid more attention to the photo.)<br /><br />I haven't tried the coffee because I'm generally a fan of stronger coffee.  I just wanted to warn that the description was incorrect.
+
+product/productId: B002WDCCU4
+review/userId: A1J1EXUBVZJRUY
+review/profileName: JGrits
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1328832000
+review/summary: Overpriced Underperformer
+review/text: This stuff is absolutely horrible tasting, and not just one batch from one seller.  Over the past 14 months, I have had Gevalia's 12-oz. "Morning Roast" for Tassimo several times, and purchased it from Wal-Mart, the local grocery, Kohl's and even once through Tassimo Direct.  Not only was it metallic-tasting weak coffee every single time, but about 30% of the T-discs end up clogging about halfway through the brew cycle, and when they finally let loose, almost all of the grounds come squirting out into my coffee cup, ruining it anyway.  This is not a brewer problem (have cleaned and de-scaled both of my brewers), nor a water problem, as I use bottled water for coffee.  The worst part is that when you try to get any satisfaction from Tassimo, or even try to report that there's a problem with these particular discs, their idiot customer service people just want to refer you to the espresso disc recall!  I will not buy any more Gevalia branded coffee.
+
+product/productId: B002WDCCU4
+review/userId: A3DXNYF5P0H8A6
+review/profileName: Douglas George
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1320192000
+review/summary: Coffee shop patrons, this isn't for you
+review/text: For fellow coffee drinkers used to premium coffee shop-style java, along the lines of Peets, Starbucks, et cetera, this is not the same thing. Chances are you'll hate this Gevalia stuff. Doesn't even measure up to McDonalds coffee. Weak, bland, little flavor other than a slightly chemical, synthetic taste. I tried collecting just the first half of the brew, hoping for a little richness or something even approaching a medium roast, and no luck.
+
+product/productId: B002WDCCU4
+review/userId: A3P79IAC7XPR4S
+review/profileName: D. McGovern
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301011200
+review/summary: Not too weak Not to Strong - good cup of coffee
+review/text: This coffee saved the Tassimo machine from being returned.  I had a Keurig for years and to the most part it worked pretty well but there were two issues.  With all the flavors available I ended up using just one, Donut Shop Coffee by Coffee People which I liked.  However, the Keurig machine I have only has one brew size and I would end up using 2-3 K-cups a day to get a nice big cup of coffee in the morning.  The other issue was it just did not brew really hot coffee.<br /><br />Enter the Tassimo - I was really nervous about the limited selection of coffee available but I figured if I could find one I like it would be a good solutions especially since I  like the fact that on occasion I can make a cappuccino or other fancy drink.  The Starbucks coffee is just too strong so I tried the Maxwell House which was just OK.  I then tried the Gevalia Large Morning Roast and I hit the jackpot.  It as a good large serving so I was only using one t-disc.  It was HOT and it had a nice strong (by my taste) non-bitter flavor.  It reminds me of what I got in Italy when I asked for american brewed coffee.
+
+product/productId: B002WDCCU4
+review/userId: A2EVBWLP978HRE
+review/profileName: PSC85
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1297296000
+review/summary: Big Serving, Little Taste
+review/text: While it is true it does gave a big hearty serving of coffee.  It is most certainly lacking in the taste department.  For me the coffee was very weak and almost watery.  While I am sure for people who tend to enjoy much milder coffee then I prefer it might be great, it is not great for me!  I am going to stick with my Starbucks Columbian t-discs.
+

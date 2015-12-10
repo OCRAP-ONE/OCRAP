@@ -1,0 +1,1143 @@
+product/productId: B001H0FHZA
+review/userId: A1O33X2QG506H1
+review/profileName: me
+review/helpfulness: 3/12
+review/score: 1.0
+review/time: 1293667200
+review/summary: duped
+review/text: It is the wrong size for my machine.  I want a refund.  I bought it with a new machine.
+
+product/productId: B001H0FHZA
+review/userId: AYSJ6LTZA6RRN
+review/profileName: Tim Cherny
+review/helpfulness: 4/14
+review/score: 1.0
+review/time: 1294012800
+review/summary: Incompatible with Nesspresso machines.
+review/text: Amazon website automatically suggest these pods with Nesspresso machines.  These pods are huge and INCOMPATIBLE with Nesspresso machines.  Please beware of that.  The coffee maybe good, but it's advertized with the wrong products.  As far as I can see the Amazon is not selling Nesspresso pods at all.
+
+product/productId: B001H0FHZA
+review/userId: A1VKL3UPS7I672
+review/profileName: Patty "kindlefan"
+review/helpfulness: 1/15
+review/score: 1.0
+review/time: 1295481600
+review/summary: Played
+review/text: I to, thought mistakenly that these pods would fit into the new nespresso machine I had just ordered through Amazon! I spent $75 on these pods and immediately I tried to return them, to buy the pods that do fit, Amazon wouldnt allow it because of their foodstuff laws. What really got me to thinking they were compatible, was the fact AMAZON advertised these coffee pods on the same page as the nespresso machine. I've now learned my lesson, Amazon will put whatever on a page, not necessarily what is conducive to the product you are purchasing. I also had an issue with lens kit, also on the page of the Canon camera I purchased. The lens' didn't fit the Canon Rebel t2i I had purchased. Word to the wise, check before your purchase. Also, I admit I have no way to telling if this is a good product or not. Love the nespresso machine we bought.
+
+product/productId: B001SB68J2
+review/userId: AE5A0AOJOAZJO
+review/profileName: Alexander J. Semritc "Alexander"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286323200
+review/summary: Better than homemade
+review/text: I bought this on the advice of a friend and I believe it is better than my family makes. It's also ready on the shelf for when I have the taste for Polenta- which is often, now!
+
+product/productId: B0013WG5MQ
+review/userId: A1G34183ACCKZ
+review/profileName: J. Lewis "Foodie"
+review/helpfulness: 7/8
+review/score: 3.0
+review/time: 1274313600
+review/summary: OK for a cheap mochi fix
+review/text: This mochi is just ok.  Price is very high.  It can be found in any Asian market for about $1.50.
+
+product/productId: B0013WG5MQ
+review/userId: A3BQU963NNZOEW
+review/profileName: S.Calvin
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1273968000
+review/summary: Different than I thought...
+review/text: The outside of the rice cake was thicker and a little harder than other rice cakes I have tried.
+
+product/productId: B0013WG5MQ
+review/userId: AU0FGTFMG45QY
+review/profileName: Tori "Tori"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1317600000
+review/summary: Meh.
+review/text: They tasted kinda off.  The filling was ok, would've appreciated it being a little less... lumpy.  I'm sure there are better products out there, IMHO.
+
+product/productId: B000H25X30
+review/userId: A24DILCLG09VMH
+review/profileName: J. Peters
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Delicious Treats!
+review/text: I was kind of suprised, but for a canned cracker mix; these are excellent! They have a fresh and flavorable taste in almost every handful!
+
+product/productId: B000H25X30
+review/userId: A2HJI2EDYPOJJC
+review/profileName: Jay M. Brown "The Brown Hound"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342828800
+review/summary: i absolutely love this as a snack
+review/text: I found the small cans of this at the local Kroger, and they are like 3.65 for a small can.  This was a much better deal, and a very tasty snack.
+
+product/productId: B000H25X30
+review/userId: A2OI4AYNJRUA0E
+review/profileName: Jasmeet kalra
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339804800
+review/summary: fantastic taste
+review/text: we love this snack!! its very tasty and also the quality is really good. go get your can of this yummy snack.
+
+product/productId: B000H25X30
+review/userId: A2OEUROGZDTXUJ
+review/profileName: J. Graves
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328140800
+review/summary: Mmm, tasty!
+review/text: Most Asian rice cracker mixes are basically the same.  This one is different: it has a greater variety of crackers.  They are also quite a bit larger than I am used to; one is about the size of a big gumball!  Perhaps this is the reason for the can, instead of packaging them in a bag?  These crackers are simply bursting with flavor.  I'm scared I will eat the whole can in a single sitting.
+
+product/productId: B000H25X30
+review/userId: A6ZDB1T5N0VUS
+review/profileName: Vandygal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300752000
+review/summary: Tasty snack!
+review/text: A friend had brought this treat into work and we loved it.  I couldn't find it anywhere and decided to look on the internet for them.  I was excited to find that Amazon had them with Super Saver Shipping on top of it.  If you enjoy asian snacks with seaweed wrapper, you will love this!
+
+product/productId: B000F3OA80
+review/userId: A1Y39T2CT36YL0
+review/profileName: Resips
+review/helpfulness: 10/13
+review/score: 2.0
+review/time: 1197849600
+review/summary: Short on pesto, long on onion.
+review/text: I thought this would be an interesting take on pesto sauce which is a favorite in our house. There were some green bits in the sauce but so few that I'm not sure why it is called pesto sauce. It is hard to taste the basil for the overwhelming flavor of onion. Pesto should contain  basil, fresh garlic, olive oil, pine nuts or walnuts, and parmesan cheese. This list of ingredients appears on the label along with tomatoes and cream to make the sauce pink. And then the onions, lots of onions, big chunks of onions. They take over the sauce. The pesto should shine through but it hardly makes an appearance. The folks at Scarpetta need to go back to the kitchen with this sauce and try again.
+
+product/productId: B000F3OA80
+review/userId: A1KSDKIZ4XN3GG
+review/profileName: Leslie Fitzgerald
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1206230400
+review/summary: Not as good as the others
+review/text: Compared to Scarpetta's Puttanesca sauce, and even compared to ordinary supermarket brands, this Pink Pesto is sadly lacking in flavor.  Just because it contains cream is no reason to expect it to be bland.  There is absolutely no hint of the basil flavor which should be front-and-center in a product labeled "pesto".<br />After voting it merely edible the first time, we were able to enjoy it a second time by adding in wine and additional chopped tomatoes.  That turned out delicious.  But hardly acceptable paying a premium price for this sauce, and then having to doctor it up - too bad.
+
+product/productId: B000F3OA80
+review/userId: A33214UDJS3HMO
+review/profileName: P. Costolanski
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1207008000
+review/summary: Pink Pesto
+review/text: Quite simply: delicious - difficult to resist eating it with a spoon straight out of the jar.
+
+product/productId: B000F3OA80
+review/userId: A1JI4EPX1ZNZIB
+review/profileName: soofine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206576000
+review/summary: Why eat out?
+review/text: This sauce is incredible!!  I even had a question and the company returned my call within 24 hours. I am almost the most pickiest person that I know. Enjoy!!
+
+product/productId: B000F3OA80
+review/userId: AS316IEGDOJWA
+review/profileName: Kim Lutz "super cook"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1204588800
+review/summary: Scarpetta Pink Pesto Sauce
+review/text: This sauce is delicious. It is one of the best pasta sauces I have ever bought!!! My family agrees.
+
+product/productId: B000F3OA80
+review/userId: A2RQOO8VYAEZZG
+review/profileName: Cupcake
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1203984000
+review/summary: Yummy
+review/text: No idea why the other reviewer was expecting classic basil pesto with something called "pink pesto" and sauce that's clearly pink in the picture.<br /><br />Sauce was rich and yummy, good enough to eat as-is. It's creamy and kind of tangy, a little unusual but very tasty. With the half-off special, it's 3 bucks a jar, a ridiculously good deal. 3 bucks would normally buy you a gross, watery cheap sauce, so that's delightful. I would probably buy it at the regular price, but wouldn't be as excited. I love a bargain.<br /><br />I  had no packaging issues people have reported with the scarpetta, but I use Amazon prime, so the faster shipping probably eliminates the rough handling.
+
+product/productId: B0012KIBCQ
+review/userId: A3BCR90WBKKTFY
+review/profileName: NYShopaholic
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1237334400
+review/summary: Cat loves the food, but all of my Fancy Feast subscriptions have been unreliable.
+review/text: My cat loves Fancy Feast catfood.  However, all five of the Fancy Feast subscriptions I signed up for have been unreliable.  Im October, I signed up for delivery every two months and received shipments only in October and December (it's now March 18, but I canceled all of my subscriptions yesterday).  What was supposed to be 48-can cases Amazon turned into 24-can cases, with one flavor being canceled entirely.  I was notified by Amazon that shipments would be sent in mi-February, but they never arrived.
+
+product/productId: B0012KIBCQ
+review/userId: AZ8C1QH6OQ7T5
+review/profileName: S. Tristan "Lil country girl in the BIG city"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1315699200
+review/summary: My cat is 18yrs old and finicky as ever LOVES THIS !!!
+review/text: I have a 18yr old cat getting very picky bout what she will eat and losing weight(wouldn't eat friskies or nine live anymore)..I started to feed her fancy feast and she is eating pretty good again and not losing anymore weight and is more active. This seems to be one of her favorites. Lot better price than in stores and shipped to my door every month. Thanx AMAZON!!
+
+product/productId: B0012KIBCQ
+review/userId: A1FDSZISWIXH1A
+review/profileName: Terry "TCinSATX"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1306195200
+review/summary: Tasty, low-carb food for diabetic cats
+review/text: We recently switched my daughter's diabetic cat to low carb, wet cat food and Fancy Feast Savory Salmon Feast is by far her favorite! We had no problems at all switching her from her dry, prescription cat food to Fancy Feast low-carb varieties.<br /><br />I am not a vet, but my daughter's cat had been on insulin for about 7 years and was beginning to have other problems associated with her diabetes. After doing a lot of research, I came upon information about home blood glucose testing and feeding only wet, low-carb cat food. After following careful directions, we made the switch and amazingly, the cat is now in remission! No insulin at all! And her vet, who wasn't a proponent of home testing before, is as surprised and delighted as we are. (Don't attempt this switch on an insulin dependent cat without a lot of research and information and guidance. diabeticcatcare dot com is a great place to start.)<br /><br />I now have switched all of my cats to the low-carb varieties of Fancy Feast after learning about the dry food/diabetes connection, and my cats all prefer this Savory Salmon Feast, too. They will eat the other varieties in a pinch, but they are always enthusiastic about the salmon. I use the Subscribe and Save option since I have a lot of cats and it is less expensive and I am never running out to the store late at night in search of cat food.
+
+product/productId: B0012KIBCQ
+review/userId: A325RWA8LHK2QJ
+review/profileName: Nettie Scott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342224000
+review/summary: Our cats line up for it!
+review/text: We have a male cat with a urinary problem and we've tried a lot of high quality pet food with little success in dealing with his urination in the house.  Our vet recently suggested that we cut down on dry food, even though we buy a very expensive, organic grain free dry food.  She said that Fancy Feast is palatable to most cats and reasonably priced, unlike some of the more expensive canned foods that cats may refuse to eat.  (We have tried them all!).  And, most importantly, canned cat food contains the moisture which might help address the male cat's problem.  I am pleased to say that it works for him and for our other two cats, all of whom have lived out most of their lives on dry kibble.  This is the first "wet" food that they have eaten with a bit of enthusiasm.  Salmon seems to be their favorite.  I'm sold on Fancy Feast, whatever it is made of, as a moist complement to top quality dry kibble.  Our cats are healthy and happy.  And, of course, subscribe and save helps cost-wise.
+
+product/productId: B0012KIBCQ
+review/userId: A2NYWAJ4TGUQVG
+review/profileName: Noos
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287273600
+review/summary: Happy cat, happy cat person
+review/text: My very selective cat has eaten Facncy Feast Savory Salmon Feast Classic since she went off the nipple.  I live in West Marin in northern California and I have to drive 48 miles round trip to keep a stock for her.  I resented that, but now our cat and I are reconciled because I have establshed a standing order with Amazon.Com and both of us are as content as puppies.  Noos
+
+product/productId: B0012KIBCQ
+review/userId: A22WHWYS18FOSV
+review/profileName: J. L. Miller
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254700800
+review/summary: This is the cat's favorite.
+review/text: I am pleased that we can get this by the pack at a good price.  Retail stores in my area only have mixed packs - this doesn't help us as this Savory Salmon Feast is the only one my Mom's cat will eat!  He approves of this purchase as well but he wishes that he could have more than a can-a-day.
+
+product/productId: B0012KIBCQ
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1249171200
+review/summary: Not the favorite, but passable
+review/text: Of all the gormet Fancy Feast varieties, this one seems to be the least favorite.  Not sure why - they won't eat salmon fresh from the market either.  Must not be on the regular cat's palate for some reason.  The smell is quite nice though - smells like people food really.  You can't really go wrong with these Fancy Feast varieties - they're the hit in this house!
+
+product/productId: B0012KIBCQ
+review/userId: A2I5QH4F5FDKK5
+review/profileName: *rose*
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1246233600
+review/summary: Kitty LOVES it
+review/text: Our Kitty just loves this stuff.  He goes wild for it; it must taste great!<br /><br />For me, I like it because Kitty eats the whole thing and it doesn't smell strongly of cat food.  I buy this again and again because he loves it so much.<br /><br />He also loves the Fancy Feast Gourmet Cat Food 3-Flavor Variety Pack.
+
+product/productId: B0012KIBCQ
+review/userId: A1HRYC60VTMYC0
+review/profileName: Ace
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1239926400
+review/summary: Food color?
+review/text: Princess loved this, and she'd get it as a treat -- then later on in her life when she was dying and was very fussy about eating, she would eat this, or at least some of it, and would refuse any other kinds of cat food.<br /><br />I was able to mix Cee Cee's powdered cat antibiotics in Fancy Feast when she was recovering from a burst abscess, and she'd eat all the food, with the antibiotics.<br /><br />But I always wondered about the color of this food -- it seemed pretty bright for the combinations of meats and fish that were in it -- is there alot of food color in this food???
+
+product/productId: B0012KIBCQ
+review/userId: A2BEX7X9GRVRAJ
+review/profileName: Berdena Sohm
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236729600
+review/summary: How to make my cat happy
+review/text: If my cat could write, she would tell you how much she loves Fancy Feast Savory Salmon Flavor Cat Food.  This is a perfect size for one cat.  I tried many other flavors and brands and Fancy Feast Salmon is the only one that she will eat.  What a relief when I found this!  The "single serve" size (3 ounch can) ensures that each meal is fresh.
+
+product/productId: B0012KIBCQ
+review/userId: A2W0YOKDB0JEGE
+review/profileName: Malibu Artist "1 click shopper"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1290816000
+review/summary: WHY WASN'T DELIVERY MADE??????
+review/text: GREAT CAT FOOD IF I GET IT!!!!!  I LIVE IN A GATED LOCKED SECURITY COMMUNITY & DELIVERY OF THIS MONTHLY HEAVY ORDER HAS BEEN LEFT AT MY DOOR.  NOT LEAVING IT AT THE DOOR IS UNACCEPTABLE!!!!  WHEN WILL DELIVERY BE MADE TO MY HOME????  I HAVE REQUESTED THIS CORRECTION BEFORE....DO YOU WANT ME TO DROP THIS MONTHLY DELIVERY SERVICE?
+
+product/productId: B0046IEITG
+review/userId: A323FTYFV1BHWP
+review/profileName: Kenneth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: It's sooo good, I can drink it!
+review/text: This is one of the best hot sauces I have tasted. It's so good, I can't help but drink it (it's really not that hot compared to the conventional hot sauces that you find at Mexican restaurants etc). I'd have preferred it to be a bit hotter (in which case I would promptly stop drinking it and use it as intended :o)). I mean look at the ingredient list - all good stuff that's healthy for you! Not to mention it's all organic. I am a big fan of organic foods - did you know that Apple cider vinegar is one of the best remedies for acid reflux? I am Indian and from where I came from, we almost always use garlic and ginger, coriander and cumin in our cooking quite frequently....<br /><br />I think I am going to order a case or two of these! I originally found this stuff at Whole Foods. Kudo's to the company that makes this product!
+
+product/productId: B0046IEITG
+review/userId: A8Q298HTG72S4
+review/profileName: totallygrateful
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: Better than Taco Bell hot sauce
+review/text: This is a good tasting mild sauce, if you don't want too much burn.  Slightly sweet from the apples and other sweet ingredients, but with a nice flavor that goes nicely with mexican foods.  We love making burritos & tacos at home, and this is a nice sauce to put on them for it's flavor, and a little kick.  If you want major burn factor, this sauce isn't for you, but if you want a nice flavor or that "Taco Bell" flavor then it's nice.
+
+product/productId: B003J9UKEU
+review/userId: A2LX2QMJH8TXDN
+review/profileName: Audra Riccitelli
+review/helpfulness: 12/13
+review/score: 5.0
+review/time: 1294444800
+review/summary: Fabulous Chocolate covered gummy bears!!!!
+review/text: I've been a gummy fanatic since gummy's hit the specialty stores in the 80's & then branched out in drugstores, grocery stores, movie theaters, etc. and I can tell you about every gummy brand company, flavor, shape, style, etc. because they are my passion. It was love at first taste when they came out in the 80's and I was a young girl. That being said, I'm also a gummy snob. I like my gummy's to have that perfect gummy taste and texture. I don't want my gummy to have a Swedish fish consistency or an over chewy, overly additive tasted and artificially flavored that lasts on your tongue and leaves your hands sticky! (that being said Swedish fish are delicious but have their place in a different candy catogory) That's a big NO! If you're a gummy expert and you love gummy's like I do, then you will understand exactly what I'm talking about. I have bought many Chocolate covered Gummy Bears over the years, both white and milk chocolate which I like equally depending on my mood. I have bought chocolate gummy bears both from upscale candy stores and from the one that comes packaged in a box typically sold in drugstores. I have had every gummy both regular and chocolate over the years and I love them both and enjoy them equally. I eat the regular ones more often because they won't put a dent in my diet and I save the chocolate ones for special occasions. I also don't eat the chocolate ones as often because they are hard to purchase for me geographically. In fact, I have to resort to purchasing them off of the internet if I want my chocolate covered gummy fix! These gummy's both white and milk chocolate are the best I've ever tasted! The chocolate stays on even after being shipped to me, which chocolate often comes off if it's not a quality chocolate, but these chocolate gummy bears are pan flashed which means they are covered thoroughly and drenched in the chocolate and not made in mass quantities. The gummy's are put through the process in small amounts so that no gummy is missed and the panning effect is only used with the finest chocolate companies. These gummy's are the best gummy's I've ever tasted and I've tasted many gummy bears over the years. You will not be disappointed! I try to keep my ordering of these fabulous gummy's to only special occasions or holidays, but they're so good that I'm finding myself making excuses to celebrate so I can buy these sinful but so delicious little bears of chocolate goodness more often! The chocolate tastes fresh and you can tell that the recipe is of the finest chocolate quality. There is nothing I despise more in the chocolate world than cheap chocolate! These gummy's are on the opposite spectrum of cheap & generic tasting! These gummy's are the best! You will never need to buy chocolate covered gummy bears anywhere else! I'm sold and I will always be a loyal fan.
+
+product/productId: B003J9UKEU
+review/userId: A3IOC62BX3H8DF
+review/profileName: Beck Rojas
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1280102400
+review/summary: Excellent Quality
+review/text: I ordered several products from Superior Nut Company including these Milk Chocolate Covered gummy bears. I was skeptical ordering something like chocolate over the mail but they arrived unscathed and very fresh. I do alot of baking and I will definitely be buying from this seller again. Fair prices, excellent product.
+
+product/productId: B003J9UKEU
+review/userId: A34AKL4YF8E5Q2
+review/profileName: Tyrone W. Jr
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324857600
+review/summary: Best quality alway fresh
+review/text: these are very very addicting , if you have never had them you will get addicted , these are probably my favorite treat that i order about twice a year from them , i have tried other chocolate covered bears and they would have a stale taste to them but i have never had a bad batch from these guys , just love them!!!!
+
+product/productId: B003J9UKEU
+review/userId: A7CFLL5AADEXG
+review/profileName: Deni Silbert "Deni"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344556800
+review/summary: Very disappointed
+review/text: I was so looking forward to finally having chocolate covered gummies in the house, as they stopped selling them at our local candy store. When they arrived they were slightly melted to one another but not badly.There was an ICE PAC in the packaging, but it had long lost its coolness. However the gummy bears still held their shape and came apart from each other easily. The sad part was when I ate some.  I found myself chewing endlessly on a gummy that had no desire to break down in my mouth. It was like chewing chocolate covered rubber bands. And the chocolate was not the best I've ever tasted either. So now I have Two lbs of gummy bears I have no interest in consuming. Really sad. :-(<br />The ones I would buy at my local kosher bulk candy shop were amazing and had a wonderful soft texture. Oh well, I guess my search continues. If you like gummy bears that are rubbery to chew, then these are for you, if you like gummy bears that are tender and easy to chew, then look elsewhere!<br /><br />DTS
+
+product/productId: B003J9UKEU
+review/userId: A1E6Y3CE0V4D0D
+review/profileName: Arya
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340668800
+review/summary: Comme-Ci-Comme-Ca (Like this, like that)
+review/text: Bonjour mes amies! J'adore la chocolate. I am French and live in America. The chocolate is delicieux! But, I find the combination of la chocolate and gummy bears a little strange.  As Americans say, "To each his own!" I suppose. Personally I think the chocolate in Paris is beyond compare...Who is in agreement?
+
+product/productId: B003J9UKEU
+review/userId: A3U8RVR5799AUF
+review/profileName: missunderstood
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335744000
+review/summary: Yummy Bears
+review/text: These are very yummy bears, the only complaint I have is that the chocolate is milk chocolaty enough for me, but the bears themselves have a lot of flavor, and they are different colors, so different flavors. The bears are well coated and its definitely a treat.
+
+product/productId: B003J9UKEU
+review/userId: A18B5D4CIFLGT1
+review/profileName: AmzySynyster
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323561600
+review/summary: Yummy Treat for Christmas!
+review/text: I Bought these & they came in Saturday, I put a small bowl out for a get together & everyone was asking where i got them, they're delicious! I'd definitely recommend people to buy these!
+
+product/productId: B003J9UKEU
+review/userId: A2K52IRAMMNHG1
+review/profileName: Sarah M. Hobbs
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319587200
+review/summary: choco gummy bears
+review/text: I received the pack of gummy bears through usps with an ice pack to keep it cool.  I was impressed by the ice pack since we have a little heat wave that week.  The bears were delicious, just how I remembered, and just as addictive.  Would definately order more from this company!
+
+product/productId: B003J9UKEU
+review/userId: A1UHSFBMAVBYWH
+review/profileName: brett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313539200
+review/summary: gummy bears milk chocolate
+review/text: its the best gummy bears in the world,when you stick one of them in your mouth it feels like a million dollars
+
+product/productId: B003J9UKEU
+review/userId: A2WMSLVOB4J8QK
+review/profileName: Siobhan G.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313280000
+review/summary: Great gummy bears
+review/text: I had some chocolate covered gummy bears while on a road trip in southern California and had been craving more.  I couldn't find them locally, so I ordered a variety through Amazon and a few other online sites.  These were definitely the best of the bunch.  Great quality chocolate.  I don't know how to describe the gummies, really, but these were how I like them -- not too chewy but not too gelatinous either.  I will definitely order these again the next time a craving hits.
+
+product/productId: B003J9UKEU
+review/userId: A3T9CT8GLAC610
+review/profileName: Dan
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1323907200
+review/summary: underwhelmed
+review/text: Not that it is an earth-shattering mistake, but instead of receiving what I ordered (chocolate gummy bears) I received a bag of chocolate coffee beans. Not really worth my time to go through the return process and mistakes do happen. lesson learned.
+
+product/productId: B0000GGQ9S
+review/userId: A3AUIBGC4GBJRN
+review/profileName: Marvin Gardens
+review/helpfulness: 15/15
+review/score: 5.0
+review/time: 1162857600
+review/summary: Herdez chipotles beat all others
+review/text: Canned chipotles are smoked, pickled jalapeno chiles.  Different brands taste slightly different because each company uses its own pickling mixture.<br /><br />Herdez chipotles taste distinctly better than the more commonly found Embasa or La Costena brands.  The Herdez brand is worth seeking out- their salsas are good too.<br /><br />The easiest way to use canned chipotles is to puree the entire can and transfer the puree to a jar.  You can then add smaller quantities of the puree to your recipes- soups, dips, sauces, spice rubs for grilling, etc.<br /><br />Drizzle a thin layer of oil on top of remaining puree, and keep the jar in your refridgerator.  It should keep for a few weeks.
+
+product/productId: B0000GGQ9S
+review/userId: A3VIBTRZQKNG6I
+review/profileName: KM
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1322179200
+review/summary: not as natural as I'd hoped
+review/text: I had ordered this product in search of a brand that didn't use wheat or corn syrup in the product.  Couldn't tell from the website but this product does contain one or both - can't remember now - but couldn't use unfortunately.  If you don't care about the processing I am sure this is a fine product.
+
+product/productId: B0000GGQ9S
+review/userId: A2E2OWLVV88H5G
+review/profileName: V. Plant
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1250294400
+review/summary: Can't go wrong
+review/text: I had trouble finding Chipotle peppers in my grocery store so I ordered these.  They are very good and I would recommend them.
+
+product/productId: B002GWH8J6
+review/userId: A3ODGAW5Z2EJ1M
+review/profileName: Kevin Currie-Knight "Education Grad Student"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1307836800
+review/summary: Alright Tea, but Only Relative to the Price
+review/text: Out of all black teas, Yunnan tea is my favorite. It has a very earthy flavor (sort of like what I'd imagine tree bark would be like) and a slight spice to it. I've had many Yunnans from many different tea sellers, and I must say that this Yunnan is a bit thin. A good Yunnan is pretty full flavored and has a good complexity to it; this Yunnan had the same earthy flavor I expect, but is missing the depth that more expensive Yunnans provide.<br /><br />So, my assessment is that this tea is passable for those who want to pay a bit less. IF you don't mind paying about $10 to $15 more, though, and really like a more rich and complex black tea, there are Yunnan teas that are better han this one.
+
+product/productId: B002GWH8J6
+review/userId: A8OIHGMGHZ975
+review/profileName: Ganjed
+review/helpfulness: 0/8
+review/score: 1.0
+review/time: 1294531200
+review/summary: Really
+review/text: You didn't post my review, I know it was negative, but the tea sucks and you will not allow me to return it.  This is leaving me as an unsatisfied customer, I will look elsewhere for my purchases before going through Amazon. Then you go and post this remark.  Amazon is ridiculous.  Looking to find an alternate palce to shop now.
+
+product/productId: B0032GCH7S
+review/userId: A3CHAZIIXO3Q3B
+review/profileName: Frances L. Matsko "wishful thinking"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: Yumm refreshing
+review/text: What a wonderful tea. And to be able to find it available online. It's very hard to find a trust worthly buyer who offers this tea.
+
+product/productId: B000NMHTFO
+review/userId: A6T1RHMQ9NSE4
+review/profileName: Amy E. Santos "High-Maintenance"
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1208649600
+review/summary: Your Chocolate's in MY Peanut Butter!
+review/text: How HEAVENLY are these?  I can honestly say that Reese's Peanut Butter Cups are my VERY favorite candy!  I've loved them since I was a child and they always bring back fond memories.  I love them in their regular size so you can imagine that I just about FLIPPED LIKE A GYMNAST when I saw these! They're HUGE!  In my mind, candy wise, NOTHING could be better than your very favorite just bigger (and MORE of it)!<br /><br />They are HUGE, FRESH and ABSOLUTELY YUMMY!  They really do make a great snack.  Besides, who doesn't love a Reese's?  They make so many Delicious candies!<br /><br />These will remain at the top of my list for that "anytime snack". And for an extra special treat, I either freeze them or I break them up over vanilla or choclate ice cream! SO GOOD!<br /><br />This Seller is spectacular. They always send their items quickly.  They are pleasant and professional.  So, if you are thinking of ordering these, or any other candy from this company, do not hesitate.  I would uses them again and again.  I wish more sellers on Amazon were this reliable.<br /><br />Enjoy!
+
+product/productId: B000NMHTFO
+review/userId: A1AXJIUZ7PWV3J
+review/profileName: F. E. Halaburt "Music Lover"
+review/helpfulness: 8/10
+review/score: 1.0
+review/time: 1213920000
+review/summary: HUGE DISAPPOINTMENT
+review/text: I absolutely love Reeses Peanut Butter Cups. Because I could not find the Big Cups locally, I searched Amazon and ended up ordering two boxes from the Online Candy Shop. Given that selling chocolate via mail-order is their business, I figured it was safe to do so, in spite of the gross shipping charge ($12.00).The only thing "good" I can say about the end result is that the candy arrived quickly - end of "good" remarks. The outer carton they arrived in was crushed at both ends. Even the inner carton showed signs of the crushing. And apparently the chocolate had gotten so hot it caused the chocolate to stick to its paper covering, making it impossible to remove the candy whole.  Well, I learned my lesson. Never again will I order ANYTHING from the Online Candy Shop. You have been warned!!!
+
+product/productId: B000TRHKGG
+review/userId: A3F52XJJJWAC8
+review/profileName: Lisa Marie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1246752000
+review/summary: Gooy treats from Japan
+review/text: I found this product at Epcot in Japan(duh) and bought b/c it looked funky. It looked and felt (through the packageing) like uncooked cookie dough.So i bought only one packqage. We didn't eat any till we left the park(stupid I know) Well i LOVED IT!!!! (so does my mum) I was soooo happy I was able to find them online. I have tried the melon and oragne flavors also. Orange not very orange taseting but i love the strawberry and melon.  I keep buying more when I run out.
+
+product/productId: B000TRHKGG
+review/userId: A13V8Z7UJIRAG5
+review/profileName: M. VanVickle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297123200
+review/summary: Yummy!
+review/text: These were really great, the first time you take a bite it may seem a bit strange, but you quickly get used to the texture. Its kind of like a marshmallow with a jelly filling. I liked the Melon better and I really like sweet anko, but sometimes the anko can be bitter. Strawberry or Ichigo as the Japanese call it, is a really good mild introduction to Daifuku and Japanese treats.
+
+product/productId: B000TRHKGG
+review/userId: A28OPRKCSG93EB
+review/profileName: Tracy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280880000
+review/summary: My favorite Japanese Sweet
+review/text: I used to spend a lot of time in Japan and was thrilled to find these daifuku on Amazon. Now my children are addicted so I guess I will be buying often.
+
+product/productId: B000TRHKGG
+review/userId: A2C2XTIZ0DW5J8
+review/profileName: YamaMayaNyaa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266278400
+review/summary: :3
+review/text: It certainly has a unique texture, I love how squishy they are. I thought the dough would be firmer like bread dough but it's more gummy and soft. The taste is delicious, I prefer strawberry over melon. I haven't tried traditional anko yet but I definitely will and can't wait.
+
+product/productId: B000TRHKGG
+review/userId: A1Z8F2E66DFLVN
+review/profileName: Lorrie B. Benner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1195084800
+review/summary: fantastic
+review/text: Fast delivery, and a great product. I will be ordering from this dealer again soon.
+
+product/productId: B000TRHKGG
+review/userId: A2M9LN1R5SI36E
+review/profileName: Maddie
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1329868800
+review/summary: NOT VEGETARIAN!!!!!!!!!!!!!!!!!!
+review/text: SO upset... and it is not the traditional semisweet mochi. It has gross filling!!!! You could just get some chocolate marshmallow santa and that tastes about the same as these. The ingr. listed above are not correct!!!
+
+product/productId: B000TRHKGG
+review/userId: A292RVRP14YXRP
+review/profileName: Kate
+review/helpfulness: 2/12
+review/score: 2.0
+review/time: 1204243200
+review/summary: WARNING: BUGS!!
+review/text: These contain insect extract. It is not listed on the sellers page, but it is listed on the package.
+
+product/productId: B000ER3E52
+review/userId: AKK49Y5DWSEND
+review/profileName: ZombieLuv
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1247788800
+review/summary: Baby says "Yum"
+review/text: I usually don't care about organic etc...but these are priced competitively with non-organic baby foods, so I picked them up.  Compared to other brands, these bananas are ever so slightly pinkish, I think it's the fact that they're all natural.  Regardless, my 4 month old son loves them mixed with a little baby cereal.
+
+product/productId: B000ER3E52
+review/userId: A1JWGWCWSME1EP
+review/profileName: Fanny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311552000
+review/summary: Great food
+review/text: We have been giving our daughter organic from the beginning and I can see how healthy and well she is growing.  We always get a great report from the doctor about how great she is growing and how she looks.  It makes me happy to know that we made a good choice in going organic.
+
+product/productId: B000ER3E52
+review/userId: A19JWM837Y41MG
+review/profileName: Tami Head
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1307836800
+review/summary: will not get this brand again - Beechnut is better for bananas
+review/text: Beechnut is better than Earth's Best due to the added ingredients E.B. has in it.  I like NATURAL AND NON-added ingredients.
+
+product/productId: B000ER3E52
+review/userId: A2GLD72HQYHG0P
+review/profileName: Toni "Toni"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287964800
+review/summary: Good product, affordable option
+review/text: What's not to love about this product?  From their website, the ingredients are :Organic bananas, water, citric acid, ascorbic acid (vitamin C).  The ease of purchasing on line, together with free shipping and a discounted price through Subscribe and Save, makes this a wonderful option.  No more spilling tiny jars of baby food all over the place from a grocery cart to home.  And I saved money over the single jar price.
+
+product/productId: B005N3L8TG
+review/userId: AY2CYUPFR59DW
+review/profileName: Working mom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317772800
+review/summary: Value and convenience
+review/text: <a href="http://www.amazon.com/gp/product/B005N3L8TG">Barcelona's Red Sauce (Universal Cooking Sauce) 16 Oz. Jar</a>As a working mom, it is so often a struggle to prepare something healthy and delicious in a matter of minutes for a hungry family.  That's where Barcelona Sauces comes in.  Using this sauce and a few on-hand ingredients, I can have a home cooked meal in no time that I feel good about feeding my family.  Also, it helps me stretch my food dollars by turning a few leftovers into a brand new, tasty meal.  With somewhat picky eaters, I am thrilled to say that both my kids love the enchiladas and the chili that I have made with this sauce. The company also offers many simple and delicious recipes on their web site.
+
+product/productId: B009450M4Q
+review/userId: A1MDEH2WMPIRA3
+review/profileName: kim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: very good
+review/text: I like this nori. Nori from other brands are too salty, but this one, not very salty at all. I enjoy this nori as a snack or make a sushi with this nori.
+
+product/productId: B009450M4Q
+review/userId: AILC5HFOS7O71
+review/profileName: Keishuku Nishinaga
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: Very Tasty
+review/text: Loved this Seaweed!! Tasty! not like some seaweed that you get that is very bland.<br />Not too salty like some of the the seaweed you get from the Korean supermarkets.
+
+product/productId: B004EN9XYS
+review/userId: A1ZHPVXWAD8VNL
+review/profileName: Kristy Madden "junebugtyme"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325548800
+review/summary: Good Candy at a Low Price
+review/text: Very fast shipping, well-packaged. I've had better allsorts, but these were okay for the price. They weren't very fresh and had less variety than I like (most were chocolate). Still, you can't beat the price.
+
+product/productId: B000NUYTEK
+review/userId: A2FWN2BVM0O835
+review/profileName: Debra G. Blecha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329091200
+review/summary: If you can't make it yourself!
+review/text: This tastes like old time home brewed root beer. It is the best and I have tested many brands. Drink it plain or OMF with a scoop of vanilla ice cream.
+
+product/productId: B000NUYTEK
+review/userId: A1TU8GBSUO9F7T
+review/profileName: C. Loyd Fox
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1193097600
+review/summary: Unleash the taste!
+review/text: This is the best root beer I have ever had.  I would recommend buying a 12-pack right now!  It has a good root beer taste with a hint of honey and real vanilla.  Good stuff!
+
+product/productId: B000NUYTEK
+review/userId: A3FPK6T38Z2F5J
+review/profileName: Laurie B. Lanham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1182988800
+review/summary: WONDERFUL!!!
+review/text: This root beer is the BEST!!!  There is no "bite", it is smooth and rich and I can't say enough about this product.  It is worth every penny!!
+
+product/productId: B0040PWFYK
+review/userId: A6YGVX4HDXDOJ
+review/profileName: caperberry "narak_mali"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313539200
+review/summary: love them, except for the packaging
+review/text: When I was younger I loved sourpatch kids, and now I can get my fix naturally and vegan. These are really tasty! I only wish that they came with less packaging --I don't need 12 little bags inside another bag inside a box, but I can't find larger packages anywhere.
+
+product/productId: B003N6J072
+review/userId: A2FBGU5Z9QDRLS
+review/profileName: MSG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Great Snack or Topping
+review/text: I really enjoy these covered pretzels. I use them to snack on occasionally or will break them up and put them on top of some vanilla ice cream with some additional peanut butter. They are really good.
+
+product/productId: B003N6J072
+review/userId: A33K20V4DNLVRF
+review/profileName: S. Weiss "shwony"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328486400
+review/summary: Where's the Peanut Butter?
+review/text: These pretzels are much less sweet than Funky Chunky's caramel pretzels.  They are supposed to have lots of peanut butter flavor but it's mighty scarce in the cannisters I received.  Light on the chopped peanuts too.  For chocolate-covered pretzels they taste good and were fresh and crispy, but if you had your taste buds set on peanut butter you'll be disappointed.<br /><br />Update:  I e-mailed Funky-Chunky about these pretzels and promptly (same day!) got a call from them.  They sent out 2 replacement cannisters -- arrived via UPS in 3 days.  I must have gotten a bad batch the first time 'cause these are just great.  Plenty of caramel, peanut butter and chopped peanuts.  Very enjoyable product and Funky Chunky is certainly responsive to their customers' comments.
+
+product/productId: B007JL47BG
+review/userId: A1HQV09XG1Z0YW
+review/profileName: Joy2talk2U
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342828800
+review/summary: Love this Product
+review/text: Out of all the sweet chili sauces out there, we like this one the best.  It has the right amount of "bite", yet is not too hot for those of us who prefer a milder sauce.  I highly recommend it.
+
+product/productId: B0012271U2
+review/userId: A1D3N99ZH7S42W
+review/profileName: C. Massey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: delicious
+review/text: Have used this product since I was a child - put it in gravy, vegetables, mashed potatoes,stew,spaghetti sauce. Boosts the flavor of everything.  ALso makes great broth. Very versatile.
+
+product/productId: B0012271U2
+review/userId: A1VVZ8FTG4PM0A
+review/profileName: diane fleming
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: good seasoning
+review/text: this is a really good seasoning for anything you are cooking it gives plenty of flavor would recommend you to try it.
+
+product/productId: B0012271U2
+review/userId: A1EBUTINA82APC
+review/profileName: anonymous
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330819200
+review/summary: best seasoning anywhere
+review/text: Ok, so this is mostly msg and some seasoning spices.  But, if you can eat msg and salt, this is the best seasoning ever!  I use it to make soup bases, in shepherd's pie, to make gravy, and even as a soup by itself.  It is the secret ingredient used by chefs to enhance food tastes.  It is totally an amazing seasoning that makes everything taste better.  I am allergic to milk, so I even use it mixed with water instead of milk and butter in mashed potatoes.  If you can eat msg and salt, try it.  You won't be disappointed.
+
+product/productId: B0012271U2
+review/userId: A3SX0PLOQMCV9P
+review/profileName: Farrah Jackson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330300800
+review/summary: Amazing seasoning!
+review/text: This has been a family staple for generations!<br />We use it mixed with sour cream for an amazing dip and always get compliments on how it pairs so well with chips and veggies.  Also sprinkle it on chicken or potatoes before roasting to deepen the flavor.
+
+product/productId: B0012271U2
+review/userId: A1UGPJQVSOLX2U
+review/profileName: Jack L
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317772800
+review/summary: Seasoning for the ages
+review/text: G. W. Broth has been a mainstay in my family for years. As a matter of fact, I made lemon chicken soup today which my Grandkids love. As usual, one of the ingredients used was G. W. Broth. My wife orders it by the case and we share boxes with the rest of the family. Good stuff!!
+
+product/productId: B0012271U2
+review/userId: A2YDENIOOBVX4B
+review/profileName: Ted Gross
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300147200
+review/summary: George Washington Golden Seasoning and Broth
+review/text: I needed this item and couldn't get it locally.  It was a great price and came quite quickly.  Thanks.
+
+product/productId: B004AJIHFM
+review/userId: A168P9MZY9P79F
+review/profileName: G. Lynde
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Krusteaz always delivers!
+review/text: This mix makes the perfect cones.  They're slightly sweet.  The batter is easy to work with and doesn't seem to have issues with changing humidity levels.  It's fairly forgiving of water and can be used for both small and larger batches.
+
+product/productId: B000HQLBL4
+review/userId: A25FK67YVTPS4
+review/profileName: De Ivory L Richardson "Dee"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1267056000
+review/summary: I'm Very Impressed!
+review/text: I don't know what type beans are used in this vanilla. Frankly, I don't care.  This vanilla is KSA certified.  I have tried many brands of vanilla. Morton and Bassett is the most flavorful I have ever tried. The price is reasonable for such clean flavor. Pure vanilla is expensive but there are other brands that are pricier and doesn't taste as superb as M&B. I am convinced this is the best pure vanilla you can find in the US.  I do wish I knew what bean is used but maybe that's a trade secret.  It's Kosher certified and that's good enough for me. I have searched for the perfect taste in a vanilla for many years.  Thank you Morton and Bassett, my search is over!  Now I can enjoy a vanilla taste that is pure and smooth. I am very happy to have found this vanilla extract.
+
+product/productId: B000HQLBL4
+review/userId: AXO4PQU0XG3TG
+review/profileName: Dwight
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1172275200
+review/summary: pricey and disagreeably packaged
+review/text: Three bottles are shrinkwrapped together so they may not arrive intact.  I ordered this most expensive option ($29.64) because it gave the clearest ingredient list.  Other brands included water and sugar.  However, there is no advisement regarding whether this is Madagascar, Tahitian or Mexican in origin.  Vanilla is more expensive than gasoline!<br /><br />$2.47/oz = $316.16/gallon<br /><br />Amazon's customer service continues to be accommodating when I complained but the replacement vanilla was even LEAKIER.  They offered a discount so I'm happy but what a waste of precious vanilla.<br /><br />A bottle cap in the second shipment was crushed.<br /><br />This compares favorably to my second experience with bad supermarket pricing of McCormick's brand spices.  Their vanilla is on sale for $7 for 2 ounces.
+
+product/productId: B000HQLBL4
+review/userId: A1FSOA0CHXV3MM
+review/profileName: roy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318204800
+review/summary: Wonderful Vanilla
+review/text: At least according to me the taste of this vanilla is much better than the imitation vanilla that you can get at your local grocer. I'll be ordering more once my 3 bottles run out.
+
+product/productId: B001HTPACQ
+review/userId: A13PSDHYHDANHJ
+review/profileName: Buy no more Brother
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1312675200
+review/summary: Always shipped with Outdated product
+review/text: Every time I ordered this, half of the quantities they shipped are outdated. Every time they intentionally wiped out the expiration date. Most of the time they tasted bad or not as good. The other half with long expiration date taste good.<br /><br />Amazon should stop doing this. If Amazon does not know this, it should make sure it won't happen again.
+
+product/productId: B001HTPACQ
+review/userId: A57YRL88DNHFG
+review/profileName: ricefan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1286841600
+review/summary: Great Rice
+review/text: This is the best rice I've had. It is sticky, but not too sticky. And it is as plump and flavorful as rice can be.
+
+product/productId: B001HTPACQ
+review/userId: A3JNYF84TQVTL1
+review/profileName: A "A"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285718400
+review/summary: made me "cheat" on basmati rice
+review/text: It has a very pleasant non grainy taste, almost a bit of sweetness to it. If I rinse it enough and let it stand in really hot water for 10 minutes it turns out fluffy and less starchy- like the basmati rice. I put less water then suggested though. I did not compare taste or texture to the non organic... that is up to you.
+
+product/productId: B0012BSB8O
+review/userId: A35LSYDY4XPME7
+review/profileName: book worm
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344902400
+review/summary: not good
+review/text: We only have hawthorn pits in our bag. Can't taste anything with hot water. And it does not contain leaves or pulp.
+
+product/productId: B001EPQNE2
+review/userId: A98Z2RP1M8LGD
+review/profileName: Bobbie LVNKNDL "Livin in Paradise"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1277424000
+review/summary: French Market Fantastic!
+review/text: We got hooked on this coffee when vacationing in New Orleans and have been buying it ever since. It is a strong, bold but smooth coffee so Starbucks and Pete's coffee fans will love it.
+
+product/productId: B001EPQNE2
+review/userId: A1IJLIQN1UC4H1
+review/profileName: Old Actor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344988800
+review/summary: Time Travel by French Roast
+review/text: If you've never yet had coffee at the French Market in New Orleans you have been going without one of the world's supreme gourmet experiences. But a this French Roast--with its savor at once exquisite and robust-- ill do everything put history back  on your side.
+
+product/productId: B001EPQNE2
+review/userId: A241PVKCR4JHAU
+review/profileName: lukeallen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: GREAT COFFEE
+review/text: I have used this coffee for many years and I can not find another<br />coffee that has the body without being too bitter.  This is<br />great.
+
+product/productId: B001EPQNE2
+review/userId: A3QQAMN7E51EX6
+review/profileName: Charles Bell "cnb"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327449600
+review/summary: Top Taste in Coffee
+review/text: Great coffee. Always good and not bitter. We have been drinking it ever since Katrina. It is easy to obtain at Amazon but strangely Brookshires doesn't carry it any longer.
+
+product/productId: B001EPQNE2
+review/userId: A3A8EGNQVX30LF
+review/profileName: C. Homan "Mothert"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327104000
+review/summary: Grrrrrrreat Coffee!
+review/text: This coffee is by far the best for our French press.  We have tried many other brands only to be disappointed so since we couldn't find it in any local stores, we use Amazon to order it!  Couldn't be easier!!!
+
+product/productId: B001L4EU6Y
+review/userId: A1XRASMT4PB1HU
+review/profileName: Mary
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331164800
+review/summary: anna linguine
+review/text: our order also looked like it had been drop kicked all the way from italy but we had no ripped bags or exposed pasta.  would get it again.  great price for linguine.
+
+product/productId: B001L4EU6Y
+review/userId: AQU9CN3I8Q2X2
+review/profileName: NicK C.
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1312761600
+review/summary: Respect the Linguini
+review/text: Anna Linguini #7 is an excellent pasta product made and packaged in Italy. It is not carried by any of our supermarkets and as a result I placed an order for 20 one pound packages via Amazon to restock our pantry. The order arrived in a timely fashion but it looked like the original cardboard shipping container was drop kicked all the way from Italy. The box was ripped in a number of locations and the food product was exposed. Three of the the one pound bags were torn and had to be disposed of. Email to Amazon with a complaint must have been lost in transmission because I received no response. Next time I'll travel up to New York to buy my Anna Linguini. New Yorkers treat linguini with a lot more respect than Amazon does.
+
+product/productId: B0040WG1G6
+review/userId: A1MU235UTCDM31
+review/profileName: A. PAINTER
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1332288000
+review/summary: Four Star Flavor, Five Star Value
+review/text: So I've been looking for a quality looseleaf green tea, but all the dragonwell teas are getting outrageously expensive, what with the ridiculous health craze about green tea.  I used to get top grade Rishi organic dragonwell teas for less than $30/lb, but those days are long past.<br /><br />Anyway, so I decided to take a chance with this green tea from Elmwood Inn.  As it turns out, this sencha is very good.  It's grassy and lightly sweet with very little bitterness.  It brews to a very sencha-like, distinctive green cup.  It's no lungjing, but it's very good.  I would say my only minor complaint is that the bag does contain a fair amount of stems with no leaves attached, but for this price, it's acceptable.<br /><br />This is a solid value, and the quality is very good.  I recommend this if anyone is in the market.  It certainly blows bagged sencha such as <a href="http://www.amazon.com/gp/product/B000WB1YSE">Kirkland Signature Ito En Matcha Blend (Green Tea)</a> (which is really MOSTLY sencha with a little matcha powder thrown in) out of the water!
+
+product/productId: B0040WG1G6
+review/userId: AF60WIGLLJE3L
+review/profileName: Actionwatcher "academgorodok"
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1341446400
+review/summary: Not Sencha
+review/text: I used to be a specialityteas customer. It is not sencha I used to get from Specialityteas. The grade is dramatically lower. I would not recommend it if you are looking for sencha but it is ok green tea. If you don't know what kind of tea you want you likely to satisfied with it. If you have been drinking green tea for long time that is not the tea you will truly enjoy.
+
+product/productId: B000PWYJGO
+review/userId: A42M5X4WYU5QR
+review/profileName: C. R. Ashton
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1276905600
+review/summary: Love 'em!
+review/text: I didn't want this person's strange review to affect this product's good reputation. This is the most convenient form of chocolate there is! Very tasty too. If you ever find yourself in the Army and are lucky enough to get M&Ms in your MRE they are quite valuable for trade; and if you can bring yourself to part with them you're guaranteed have the upper hand while bartering. I can never part with them though. They're the best chocolate fix there is, hands down, especially if you don't like licking chocolate off of the inside of wrappers.
+
+product/productId: B000PWYJGO
+review/userId: ATEET3C8XDI07
+review/profileName: Robert J. Heston "Bob Heston"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1288656000
+review/summary: Eauction
+review/text: I'm in Afghanistan and using Amazon to find a good deal on M&Ms to share with my troops.  After finding the "good deal" at Eauction my bill arrived in a separate email indicating that the mailing costs were more than the two bags of M&Ms.<br /><br />This is totally ridiculous when the cost to ship to an APO address is minimal these days through USPS.  This has got to be nothing less than a company screwing it's potential customers.<br /><br />I would not recommend this seller to anyone purchasing from a military account.
+
+product/productId: B000PWYJGO
+review/userId: ARU2H2PYTNCAX
+review/profileName: e_j_buster
+review/helpfulness: 1/20
+review/score: 1.0
+review/time: 1246060800
+review/summary: plain awful
+review/text: When it comes to junk food, I usually stick with Ding Dongs, Ho Hos, and other Hostess products.  But recently my friend (Walter) recommended M&Ms.  I'd never tried M&Ms before, so I bought a bag to see if they are any good.  I didn't like them at all.  In fact, I flushed most of the bag down the toilet (hopefully this didn't harm any alligators).<br /><br />Maybe I've been spoiled by Hostess products, but when I buy a snack item, I expect a creamy filling.  M&Ms do not have a creamy filling, and they taste awful.  Avoid.
+
+product/productId: B000FFPXC0
+review/userId: A3I4ZYMOB0E0HW
+review/profileName: Cameron R "Cam"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1167955200
+review/summary: Tasty but small packets
+review/text: I bought these for my two year old son who eats plain oatmeal every morning for breakfast and he loves it!  They are fast and convenient to serve him.  But I usually end up making two packets for him each morning because each packet doesn't contain much oatmeal.
+
+product/productId: B000FFPXC0
+review/userId: A204906HLJ443E
+review/profileName: Chanteuse
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309219200
+review/summary: I absolutely LOVE it!
+review/text: Instant oatmeal is the ideal healthy fast fuel.  I choose original flavor so that I can add whatever I want with it (3-in-1 coffee mix, instant noodle soup base packet, honey packet, powder milk, hot chocolate packet, any savory spices/paste/solids, last night's left over food, etc.).  When eating it without additive, it tastes just as good!  It doesn't have the artificial taste that Trader Joe's and Quaker Oats' instant oatmeal packet has.  After cooking it in hot water, it thickens and becomes creamy.  If you only add boiling water and cover the bowl to let it sit, it softens but will not become creamy.<br /><br />My only gripe is that each packet doesn't have too much oatmeal in comparison to Quaker Oats and Trader Joe's.  There were times I had to use 2 packets to get enough calories to get through the first 2 hours of activity (240 cal + whatever else you put in it).
+
+product/productId: B000FFPXC0
+review/userId: A3PKVPKGQ100L6
+review/profileName: L. Miller
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325808000
+review/summary: McDougall's Instant Orig. Organic Oatmeal. Simple, Basic, Love it.
+review/text: Basic, organic, low sodium, plain old instant oatmeal.  There's NO sugar (which I like a lot) and all I have to do to make it satisfying is put a big spoonful of cinnamon on it and I'm a happy girl.  It's organic oatmeal. I highly recommend it. Enough said. Peace and all good things, L.
+
+product/productId: B000FFPXC0
+review/userId: A2DRHS19CQAAUO
+review/profileName: Jacquelyn Block "gadgetgirl"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303257600
+review/summary: I have this nearly every day for breakfast.
+review/text: This is a great quality oatmeal that has a great flavor and texture. It tastes just like when I make oatmeal in a pan, but ithout the extra mess of a pan. It never is soggy or slimy, and best of all it is organic. I highly recommend this oatmeal.
+
+product/productId: B000FFPXC0
+review/userId: A1WR1HZCBA0NCG
+review/profileName: J. Wayne "Nosa Fishing"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300924800
+review/summary: Family Loves It!
+review/text: This is a really solid product.  My wife and kids have tried almost every flavor, and love them all.<br /><br />Don't know what else you could ask for from organic/all-natural oatmeal.
+
+product/productId: B000FFPXC0
+review/userId: A70KYUVR0XC6S
+review/profileName: Diane Tabachnick
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1316044800
+review/summary: tastes like topsoil!!!
+review/text: I was all kinds of excited to find sugarless, all-natural, INSTANT oatmeal cheap, in bulk.  Now I am stuck with 6+ boxes of oatmeal that tastes very much like loamy topsoil.<br /><br />Caveat emptor!
+
+product/productId: B000FFPXC0
+review/userId: AZBPMWHJ358DC
+review/profileName: nomdekitty
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1304294400
+review/summary: reminds me of life before celiac disease
+review/text: Great oatmeal, easy to take with you to work or travel.  It tastes great and works well in baked recipes!
+
+product/productId: B0011MU2G8
+review/userId: A1108V3NFRZHQK
+review/profileName: Don H "Don H"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323475200
+review/summary: IT WORKS!
+review/text: The EVO 95 has been the one thing that has stopped my cat from bleeding when he uses his litterbox...in other words, it stopped his colitis/internal allergies and he's been a healthy, active, loving cat since.  I couldn't get over the difference simply changing from a diet of hard/soft mix...which I was first on Royal Canin for him and then tried SD z/d...then went to this.  It worked...period.  To those bashing the company, quit the hysteria!  IT WORKS...and now both my cats are on it and doing well.  I lost two cats last year, and mine are doing well on this diet...and I'm thankful to have it!
+
+product/productId: B0054S438I
+review/userId: A8RIZ1TNK7ZE4
+review/profileName: agrv8td
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331424000
+review/summary: Mi-Del ginger snaps
+review/text: These are absolutely the very best gluten free ginger snaps I have found. They are crunchy, not too sweet, and provide a great ginger burst
+
+product/productId: B000HY5A3Q
+review/userId: A29OBHWJWWYDRZ
+review/profileName: Robert J. Demarest
+review/helpfulness: 8/8
+review/score: 1.0
+review/time: 1343260800
+review/summary: total ripoff
+review/text: i usually buy these at my local ocean state job lot for a dollar a pack,or 6 bucks a case but they were all out so i thought i would buy them here! what a ripoff at 6 bucks a pack, and they are stale too! ocean states cookies tastes like fresh baked, these taste like they were in the tardis for 2 regenerations! i'm not very happy!
+
+product/productId: B000HY5A3Q
+review/userId: A1OODB19W41KKV
+review/profileName: Teresa Burns
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1305331200
+review/summary: &lt;3
+review/text: I love Jammie Dodgers :) I love the black currant ones but they usually are harder to find so i have to have my fiancees nana mail them from england :)  I love these with a good cup of tea :)
+
+product/productId: B000HY5A3Q
+review/userId: A3G7HH7DU27DKN
+review/profileName: mlm
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1260230400
+review/summary: Wonderful "biscuits"...
+review/text: After listening to Eddie Izzard's Glorious (in which he makes a reference to Jammie Dodgers) I decided to give them a try. These are great cookies (or more correctly biscuits). They are round wheels of shortbread held together by sticky raspberry flavored plum jam. They are rather expensive in the United States because they must be imported, but perhaps that is a good thing--it would be very easy to polish off the entire package in short order!
+
+product/productId: B000HY5A3Q
+review/userId: A1REOUY3QM8FZP
+review/profileName: Athena Fitch
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1318636800
+review/summary: Yummy
+review/text: Must have for any Doctor Who fan. Tasty treats to put in your Tardis cookie jar. Yummy plum jam flavor!
+
+product/productId: B000HY5A3Q
+review/userId: A22UH02B61LAL5
+review/profileName: S. Rohde
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299888000
+review/summary: My new addiction
+review/text: Wow, I never thought I'd love shortbread cookies and jam so much! These cookies are amazingly good, and even better - I'm usually satisfied after just one, so no worries about sitting and eating a whole package at once. Great to go with a hot beverage, or as a small dessert. MMMMmmm...
+
+product/productId: B000HY5A3Q
+review/userId: A9BPG0H8U9ZO5
+review/profileName: Ronstoppable
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1325116800
+review/summary: Dr. Who's Favorite Cookie
+review/text: The cookies arrived fresh and well packed. Paid a lot for shipping as it's a product not readily available in our area. Given to a Doctor Who fanatic. Cookies were good but nothing special.
+
+product/productId: B000HY5A3Q
+review/userId: A18GKCC69KPR51
+review/profileName: Norman Girard
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349308800
+review/summary: WELL
+review/text: NOTHING WRONG WITH COOKIES AS THEY WERE MARVELOUS.BUT SO EXPENSIVE, FOR JUST A FEW COOKIES,YIKES I AM NOT DONALD TRUMP.
+
+product/productId: B000HY5A3Q
+review/userId: A2AWESDNO10I3P
+review/profileName: suedoo
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346284800
+review/summary: terrible value
+review/text: These cookies were crushed almost to dust when they arrived.  The filling was hard and stale. Overall this product was totally ruined upon arrival and had a stale sour smell when opened.
+
+product/productId: B000HY5A3Q
+review/userId: A2ZE4ITB8LX1S1
+review/profileName: S. Hachey
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1327536000
+review/summary: Rancid
+review/text: I ordered 3 boxes of Jammie Dodgers (over$24) as Christmas gifts on Dec. 2, 11. They were not opened until Xmas and a week or two later. They were spoiled. They smelled off and tasted awful. The best by dates were covered up. They seemed like they were over a year old. I will never order anything from them again!
+
+product/productId: B000HY5A3Q
+review/userId: A2ERALXCMKTSTL
+review/profileName: loracm
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1321315200
+review/summary: big disappointment
+review/text: We were looking forward to our Jammie Dodgers, but from the first bite it was a big disappointment. I couldn't believe that these were the same cookies I remembered so fondly from our trips to visit our daughter in England. When I looked at the box, I found that they were 2 years past their sell by date! Don't waste your money on these bisquits! I thought Amazon would have more quality control.
+
+product/productId: B0002Z21DW
+review/userId: A2JUIPZVWPO1M6
+review/profileName: Jason A. Stein
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314921600
+review/summary: Wow!
+review/text: Incredibly tasty! A friend of a friend brought some along to a picnic and I was instantly hooked. I'm actually not a very big mustard fan, but this stuff is delicious! It's a sweet mustard with incredible flavor. For those who don't typically like mustard, the sharpness is dulled some what by the sweetness of the honey. Tastes great on beer brats!
+
+product/productId: B002ESXS50
+review/userId: ALFIXLXG8GQQO
+review/profileName: kelly dudley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288915200
+review/summary: camerons breakfast blend
+review/text: I find this coffee to be very much to my liking and taste. The price is reasonable and the shipping time is good also. I have tried several other camerons coffees but like I stated I find this one to be the best to my taste and liking. I also liked the woods and water coffee beans and I find that grinding your own beans the coffee tastes fresher and also seems to go further as you dont use as much to brew a pot of coffee
+
+product/productId: B000E1HUH6
+review/userId: AKE49JFUZP6DD
+review/profileName: G. Kinsey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314489600
+review/summary: Awesome
+review/text: This is my favorite flavor of pasta salad.  I have bought this for years until they stopped carrying it in my local grocery stores.  Thank you Amazon for continuing to stock this item.
+
+product/productId: B000E1HUH6
+review/userId: A2O421DTA8J0RW
+review/profileName: Dogs & Horses "Spanish Norman Horses"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1182988800
+review/summary: Yuck - tastes wrong
+review/text: Not sure what is going on here, but the Cesaer Salad flavor is seriously off.
+
+product/productId: B000E1HUH6
+review/userId: A2CSRNNL41DJGE
+review/profileName: J. Church
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1174348800
+review/summary: Add a can of Tuna and whalla
+review/text: Excellent product. Throw in a can of tuna and it is a meal!
+
+product/productId: B002YR7APA
+review/userId: A343YCB7DXVUKC
+review/profileName: Doodleboy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325894400
+review/summary: Extremely happy!
+review/text: One of the things I missed from my trip to India was the Tulsi tea I used to have there. Over there, fresh Tulsi leaves are plucked from a plant and boiled with the tea and milk (also called "chai"). I couldn't find a Tulsi plant in US and was desperately hoping to find something close enough. And Teatulia was more than close enough.<br /><br />The taste is very similar, and as Tulsi is, extremely calming and soothing for the throat, esp. when I have cold, sore throat, and runny nose.<br /><br />I picked up my box from Whole Foods. At 8 bucks per box, it seemed a little expensive. Although calculations based on the label make this come to approximately 50c per tea bag, or 25c per cup, it is actually much cheaper. I put one tea bag in the tea pot. I also mix in other "normal tea", to infuse the brown color and I end up getting about 5-6 cups of the Tusli chai with the single tea bag. So yes, I only use it to get the Tulsi flavor, and get the Tea/Chai flavor from my regular, loose Tea leaves.<br /><br />Your preference may be to use the tea bag directly in the cup. If yes, I think it is strong enough to give at least 3 full cups of tulsi tea.<br /><br />Summary: If you like Tulsi, you wont be disappointed with this. If you make tea in tea pot, even better. If you want tea bags to use directly in the cup, this works too, but might be a bit strong for a single cup.
+
+product/productId: B0025UOJ2I
+review/userId: AFDO6A6ZMWRIF
+review/profileName: ChadN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: Awesome stuff
+review/text: Texas Pete makes great stuff and this is no diff. If you like honey mustard give this a try. Everyone in my house thinks its great.
+
+product/productId: B0000VMASE
+review/userId: A2965VC6571DPY
+review/profileName: Danny337
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Works great!
+review/text: Red residue everywhere? Well of course you're supposed to decorate on top of wax paper or newspaper! I love all these color mists. They're so easy to use and give off a very nice look. For darker colors spray close, for lighter colors spray farther way. Be smart and decorate on top of your kitchen table using newspapers underneath :]
+
+product/productId: B0000VMASE
+review/userId: A1Z75OV0S4Y6SH
+review/profileName: Suzanne Hopkins
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1320969600
+review/summary: Red Everywhere!
+review/text: I love the concept of the color mist.  I purchased 3 bottles of the red mist to decorate 75 cupcakes.  The mist went on very easy, but because I wanted a darker red I had to keep applying it.  To say the least, I am not a big fan right now ... since my kitchen now has a red residue all over the counter tops!  :-(
+
+product/productId: B0036ZQSM0
+review/userId: A1R49WC47L8TQX
+review/profileName: TeaConnossieur
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1299110400
+review/summary: Very delicate overtones
+review/text: I love this tea pack. I bought these in Scotland and I wish I had bought more! I cannot find these in regular supermarkets in the UK, so I will have to order more from the company's website. I was surprised that I would be able to buy them from Amazon in the states (yay for Amazon!). Living in the UK has turned me into a tea addict, and these teas are very good if you add about a teaspoon of sugar and some milk to them. I'm not a fan of the regular English breakfast tea, but I love every one of these. I particularly like the whiskey one. They do NOT taste the same. All of them brew strong black teas with a distinctive overtone to them. The flavors are delicate, but they are brought out if you add sugar and milk to your tea. I tried them without adding anything and it doesn't taste good. Sugar and milk is the way to go if you want to enjoy these teas!
+

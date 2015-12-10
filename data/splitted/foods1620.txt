@@ -1,0 +1,1143 @@
+product/productId: B001EO67IK
+review/userId: A36REKE0FYUU04
+review/profileName: Benjamin Long
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292284800
+review/summary: Excellent Coffee
+review/text: I make this in a french press, and it is yummy. Finely ground, excellent color, and great flavor - I feel like I'm drinking real, fresh coffee.
+
+product/productId: B001EO67IK
+review/userId: A32T7E3H1ULA11
+review/profileName: E. Morris
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1295913600
+review/summary: Excellent coffee!
+review/text: I use a moka pot every day, and this coffee is perfect for it.  Strong, with chocolate notes, it definitely starts my day well.  I drink it half milk/half coffee at breakfast. I wouldn't use it in a drip coffeemaker, it's best in a Bialetti moka.  Price has definitely gone up, though, but the subscribe and save will lower it a bit.  The Lavazza Tierra is the only Lavazza I like, otherwise I'd get the Segafreddo red. Love it!
+
+product/productId: B001EO67IK
+review/userId: A24Z1Q23IAYV6C
+review/profileName: Desert Sky "Desert Sky"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1292803200
+review/summary: Disappointing coffee
+review/text: Definitely disappointed in this coffee from Lavazza. I've had a couple of their other coffees including the Gran Filtro that is very good. However, this one leaves a lot to be desired.<br /><br />The coffee is a light brown and very fine grind; almost a color and consistency of a can of ground chocolate.  In my opinion, the brew is weak and exceptionally bitter in comparison to most other ground coffees I have purchased and certainly the other Lavazza varieties that I have tried.<br /><br />This is definitely not a product that I will be re-purchasing.
+
+product/productId: B001EO67IK
+review/userId: AQHECLLG6JDIT
+review/profileName: A. Davis
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1288742400
+review/summary: Great flavor!
+review/text: This is my favorite coffee in the world for just regular coffee made in a Mr. Coffee pot.  Nuff said?
+
+product/productId: B001EO67IK
+review/userId: A2JB8BD32VF7O5
+review/profileName: Xu Xie
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1297036800
+review/summary: too sour in my opinion
+review/text: It is kind of too sour to me. And besides this overwhelming taste, there is not much other flavor. I would rather just stay with Qualita Rossa.<br />BTW, I used a commercial espresso maker in my company's lounge.
+
+product/productId: B001EO67IK
+review/userId: A2KY8DJCP11F66
+review/profileName: M. Walker
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1296691200
+review/summary: It is absolutely.... average
+review/text: Nothing special. It's coffee, very average coffee. It will totally meet very moderate-to-low expectations. I got this on a good special and feel like I got my money's worth just barely. At regular price, you are better off just getting something from your local grocery store. Try Peet's, that's usually what I drink and have usually gotten a good brew.
+
+product/productId: B001EO67IK
+review/userId: ANFXRHQ3IM9KR
+review/profileName: William D. Boehmer
+review/helpfulness: 2/5
+review/score: 1.0
+review/time: 1294272000
+review/summary: Disappointing coffee
+review/text: I don't know what "100% Sustainable Ground Coffee" is (and don't care); all I expect from any coffee is decent flavor & aroma & Lavazza Tierra! was a BIG DISAPPOINTMENT. Maybe the problem is the unusual fine (almost fluffy) grind, but when I opened the sealed can & didn't get the usual great aroma of fresh coffee, I knew there was trouble.<br />I hate to throw it away, so I guess I'll use the rest up by mixing it in small proportion with my regular coffee.<br />Stay away!
+
+product/productId: B001EO67IK
+review/userId: ADJKCDSHPWCNT
+review/profileName: Sokr_mom
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1295568000
+review/summary: Grind too fine
+review/text: The flavor was OK, not great but the problem was the espresso-like grind.  It clogged my coffeemaker and grounds, water, and weak coffee overflowed everywhere.  What a mess.  Will not purchase again.
+
+product/productId: B001EO67IK
+review/userId: A32PLVEDNXDLEU
+review/profileName: josesueyras "jose"
+review/helpfulness: 2/7
+review/score: 5.0
+review/time: 1251504000
+review/summary: fabuloso
+review/text: nuevo comentario,,lo volvi a comprar yl vuelvo a probar ,es maravilloso distinto que todos ,perdon yo tenia el sabor de la porquereia de Starbucks,en el paladar.el dia que lo compre...s te gusta Starbuck no pruebes esto
+
+product/productId: B001EO67IK
+review/userId: A2LZVD1O44Q24P
+review/profileName: corpusguy
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1293148800
+review/summary: Extremely Acidic And Bitter
+review/text: This coffee is extremely acidic and bitter.. I am a heavy coffee drinker... I have drank lots of different varieties, but this is extremely acidic. I only drink black coffee, so the acid is not naturalized by any dairy products, if you do not like acidic coffee do not buy this.
+
+product/productId: B001EO67IK
+review/userId: A3CD1XK7XKYH0
+review/profileName: L. Waugh
+review/helpfulness: 2/10
+review/score: 5.0
+review/time: 1284681600
+review/summary: Lavazza Tierra Coffee!
+review/text: Terrible, awful, don't buy it only means availability of this coffee for me.  Need I say more?  Please, please don't buy it!
+
+product/productId: B004CGTT6Y
+review/userId: A3GMUDRMQ5KWE
+review/profileName: David Andresen
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1308182400
+review/summary: Good but, not nice
+review/text: Hi starlite mints;<br /><br />These are great mint products, I love them, I purchased them for a worker who just will not have any other  choice.<br /><br />He mentioned,,, "they are quite nice n tasty but the external apperance is not good.<br /><br />I responded,,,"Do you have eye's in your mouth?"<br /><br />Dave A.
+
+product/productId: B001GCU72W
+review/userId: A3UJQCCAYPPYLG
+review/profileName: M. Prats
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1227571200
+review/summary: Delicious and unique taste
+review/text: This tea does not taste like a traditional chai, perhaps because of the addition of licorice root, but this tea is delicious and unique. It smells like a dessert, and it is great for satisfying sweet cravings. I steep it for five minutes and then add a splash of milk.
+
+product/productId: B000GB0V6Q
+review/userId: A1D0U9DX04SMPE
+review/profileName: laurence2
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333497600
+review/summary: cranberry tea
+review/text: Describing this material as "cranberry tea" seems unfortunate.  It is merely bitter black tea with a few shreds of something not definable. Perhaps I should have realized from the picture that it would have no cranberry flavor or scent and ordered the cranberry-apple instead.  I will return it to the company and they can compost it, because that is its only value. Laurence
+
+product/productId: B0029JZLWW
+review/userId: AMRMK86X3PKXD
+review/profileName: R. Thomasson
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1285113600
+review/summary: As Good as Imported
+review/text: Now here's the thing, I'm a huge fan of imported Italian hard salami. As a sandwich meat, a pizza topping or appetizer, there's not much better as far as I'm concerned. Now domestic brands are a different story. My experience with them had been uniformly bad, until now. This Bridgford Hard Salami is excellent. Not just OK, but stands up well compared to any of the imported Italian meats I've tried. If you like salami, this stuff is the real thing.
+
+product/productId: B0029JZLWW
+review/userId: A31N6KB160O508
+review/profileName: Fran W.
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1295308800
+review/summary: Excellent tasting
+review/text: Very high quality and terrific tasting salami to eat and have on hand. Family loves it. Glad I found this at such a great price on Amazon.
+
+product/productId: B0029JZLWW
+review/userId: A1PB7BE6G5B8JK
+review/profileName: Meech
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1266710400
+review/summary: Bridgford Hard Salami the BEST!
+review/text: There are all kinds of Hard Salami but I happen to like this brand the best and live in a smaller city where it is hard to find.  Was very pleased to find it at Amazon! Taste great with Gouda Cheese and apples or pears.
+
+product/productId: B0029JZLWW
+review/userId: A3094EPI56GKZ6
+review/profileName: Kristen E. Bogren "Kristen Bogren"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1291248000
+review/summary: Great Salami for the price
+review/text: This is a great deal for 6 packages of salami. This has a great taste, a little oily but what packaged Salami isn't?  A great buy to have for potlucks and last minute sandwiches. Considering I pay $4.99 for one package, getting six for under $20 via Amazon is a awesome deal!
+
+product/productId: B0029JZLWW
+review/userId: A1ZNKMH8ODI46E
+review/profileName: Susan Smith
+review/helpfulness: 10/12
+review/score: 5.0
+review/time: 1266537600
+review/summary: Hard Salami Lover
+review/text: Use to pick up at the market but couldn't fin.  Ordered on line , had quick delivery and the Salami is the same great product.  Great on crackers with a slice of pepper cheese and dill pickle.  YUM!
+
+product/productId: B0029JZLWW
+review/userId: A1YP5WLIHGG136
+review/profileName: Techthusiast "n00b"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1315612800
+review/summary: Yummy!
+review/text: I love these little logs of MEAT!<br /><br />I've almost demolished the first one.<br /><br />Usually I go the sharp cheddar, salami, and crackers route<br />but I've been slicing these babies onto whole wheat, mustard, miracle whip for a tangy treat.<br /><br />Today I added a little horseradish ,,,, hot $#%@ that was delish.<br /><br />Craving salami? Add to cart! Nuff said.
+
+product/productId: B0029JZLWW
+review/userId: A3H9EUYJ2ZHTOR
+review/profileName: D. Gomez
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1310774400
+review/summary: Best Salami
+review/text: This is the best salami made but I can't find it locally.  Amazon saved the day.  Can get anytime now delivered right to my door!  Can't beat it!
+
+product/productId: B0029JZLWW
+review/userId: A3BWFS7AAM2D16
+review/profileName: Texas
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297209600
+review/summary: Great Italian Salami
+review/text: The salami was excellent.<br />I came from California and this salami is the closest to what I grew up with in California.<br />We have been looking for years to find a good salami, and finally now we have.<br />We are almost done with the last roll, and so I will order again.<br />We Love It.
+
+product/productId: B0029JZLWW
+review/userId: A3N1Z1M23QVRO6
+review/profileName: M. Lundy "Yoda's mom"
+review/helpfulness: 8/10
+review/score: 5.0
+review/time: 1263772800
+review/summary: Very Good
+review/text: The salami came in a quick time.<br />It was very fresh and it was very good.<br />I would not hesitate to buy this item again or<br />buy from these people again.
+
+product/productId: B0029JZLWW
+review/userId: A3NTAQ473SV08U
+review/profileName: modbantam
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1316736000
+review/summary: Very Hearty Not too Greasy
+review/text: This is a great salami. I don't dig Genoa or any wimpy greasy stuff.<br /><br />This stuff is hard, hearty, and really well spiced up.<br /><br />Cooked or cold, it kicks ass.<br /><br />I would bring this on a boat, camping, or to the workplace.<br /><br />Sliced nice, it would really compliment cheese, crackers, and vino too.<br /><br />No doubt, one serious real deal of value.
+
+product/productId: B0029JZLWW
+review/userId: A2O9F5EZ8SXVOX
+review/profileName: annick
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1329609600
+review/summary: Italian Salami.
+review/text: I really didn't care for this product to much. The salami was way to hard to chew. I have had Italian Salami before (other brands ) that were a lot better.
+
+product/productId: B0029JZLWW
+review/userId: A3CE0YNGQQDY57
+review/profileName: K. Vest
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1349136000
+review/summary: Meh.
+review/text: Given the positive reviews posted, I thought I ought to give this sausage a try, particularly given the higher cost of salami I had purchased from other companies (Columbus Salame Company and Fortuna). The Bridgford salami was kind of a disappointment-fibrous and greasy with a somehow duller taste. Kind of like a Slim Jim with less heat and more sawdust (I'm not implying there is really sawdust in it-it just has a different texture that what I'm used to). My wife took a bite out of her slice, then put it aside and didn't nibble on it further... that is actually not a common outcome in encounters between my wife and bits of food. I did bake it with some cheese in some soon to expire canned pizza dough and it was pretty decent-my son really liked it. All in all, I'd say go a little upmarket if you are going to use the salami to snack on with fresh fruit, olives and whatnot but this product is probably fine for cooking.
+
+product/productId: B0029JZLWW
+review/userId: AC3ZJQ2PB6NP0
+review/profileName: michaelm
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343347200
+review/summary: top taste+value
+review/text: stumped by a hard to chew review, maybe with no teeth, as this is easy to cut and chew, not like nearly rock hard cured italian meats; taste is slightly spicy- about halfway between sweet and hot sausage for comparison; and a very good deal; ordered a top-rated pepperoni, one stick, was $13 and over $9 for ship+handle (won't do that again); this is 4 chubs, probably 6+ times the weight and size, but only $23 and $6 ship+handle; can't say it very often but a good product that's underpriced
+
+product/productId: B0029JZLWW
+review/userId: AYU2Y5JOG5918
+review/profileName: Riverrat
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339113600
+review/summary: best salami
+review/text: My family loves the Bridgford Italian Salami chubs. You can cut it, slice it, chunk it any way you want. It's very tasty,not too salty or fatty like some other products. Once you taste it, you are hooked. Since it is cured and doesn't need to be refrigerated, it's perfectly safe to order by mail.We had to mailorder, since the supermarkets in this area don't carry it anymore.
+
+product/productId: B0029JZLWW
+review/userId: A2S0VQ8CJX4A61
+review/profileName: Richard Dougherty Jr.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325721600
+review/summary: Bridgford Salami & other
+review/text: Bridgford simply makes the BEST Salami (the HARD variety- we didn't care much for the Italian style) and also their Peperoni sticks are EXCELLENT on Pizza!<br /><br />These 12-ounce salami "chubs" are the perfect size... use a meat slicer or very sharp knife and go THIN. I gave it a FULL FIVE STARS and am a repeat purchaser.
+
+product/productId: B0029JZLWW
+review/userId: A2343GMNH7PPLL
+review/profileName: Larry
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1333238400
+review/summary: Very good salami
+review/text: I enjoy the bridgford salami.  I eat a sharp cheddar cheese with french bread or wheat crackers with a slice of salami on top.  I have tried other brands but always return to this selection.<br /><br />The only reason for 4 stars rather than 5 stars is that there maybe another brand I haven't sampled yet.
+
+product/productId: B0029JZLWW
+review/userId: AOA98DNOIPBZG
+review/profileName: J. Reese "shawply"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341532800
+review/summary: Excellent - Hard Salami
+review/text: When they say "hard" salami they really mean it.  Has great texture as a result.  I like to cut mine paper thin and eat it with cheeses and crackers.  I get a workout even with a very sharp knife.  Loads of garlic - a good thing.  Have eaten 2 of the four sticks.  Will definitely buy again. Cheers.
+
+product/productId: B0029JZLWW
+review/userId: A3UY282RVUOKSK
+review/profileName: D. Bradford
+review/helpfulness: 5/8
+review/score: 2.0
+review/time: 1303171200
+review/summary: So-so quality, bland taste
+review/text: Well, what can I say?  I regret this purchase of Bridgeford Italian salami (I didn't buy the hard salami).  The quality of the salami is just so-so, not terrible but not comparable in quality to slightly more-expensive salamis available at my local grocers.  The taste?  Not bad but not great either, a walk on the mild side (in other words, bland and a bit rubbery-tasting).<br /><br />Stick with Hillshire Farm, Genoa, Gallo, etc...Bridgeford makes good pepperoni but their salami is sub-par and not worth the money.
+
+product/productId: B0029JZLWW
+review/userId: A23ZKYYPAFSGNT
+review/profileName: Texas Guitars
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1344643200
+review/summary: Delicious Murder
+review/text: I just tried Bridgford Hard Salami for the first time. I'm no salami expert, but I have been eating food my whole life, and this tastes really good in my opinion. The texture isn't grainy like some of the more gourmet brands I've wasted my hard earned dollar on. Surprisingly it isn't very greasy, no gristle bits, no bitter aftertaste, and it smells good for a salami. Their use of salt and spices are well balanced. You could eat this with a sweet beverage and there is no conflicting flavors. Overall I rate this 5 stars and will be ordering this from Amazon again.
+
+product/productId: B0029JZLWW
+review/userId: AHYRTWABDAG1H
+review/profileName: E. Thomsen "arvig"
+review/helpfulness: 4/7
+review/score: 4.0
+review/time: 1339545600
+review/summary: Other then greasy, an excellent salami
+review/text: To be fair, I didn't purchase this product.  But I found it outside of someone's home as I was wandering the streets.  What I found to be exact was 3/4ths of one of the salami, in some sort of pet food dish as if left for a pet or some wildlife.  Well, since it was left outside, I decided that the owner might not care if I went ahead and ate it.  So I did, and it was wonderful!  I am only giving this product four stars since like "Mntijo" here with his review it was a bit greasy, and I also had stomach distress after eating it.  But this product is still delicious!  I do hope the owner of the home that placed this salami outside orders more, I'd love to get more free food of this caliber.
+
+product/productId: B0029JZLWW
+review/userId: A3IQLUGR31XMKI
+review/profileName: MJT
+review/helpfulness: 3/6
+review/score: 3.0
+review/time: 1301529600
+review/summary: Good Salami if you don't compare it to Italian Salami
+review/text: Good salami compared to other hard salamis you usually get in stores. But nothing close in taste to real italian salami. Bland taste.
+
+product/productId: B0029JZLWW
+review/userId: A1O0U03P2LVCY0
+review/profileName: Mntijo
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1339200000
+review/summary: Greasy
+review/text: This salami was so greasy when opened it, it literary poured out grease. I tried eating on two separate occasions and gave me the runs and cramps so bad, I couldn't even go to sleep. I threw 5 and 3/4 of the salami away. The 3/4 portion I left out for the animals which roam around the neighborhood, they wouldn't even eat it. Save your money don't buy this salami.
+
+product/productId: B0029JZLWW
+review/userId: A1R9SKERZWSO2T
+review/profileName: Lyn Robie
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1330819200
+review/summary: Yuck
+review/text: Tastes like a rancid dishrag pickled in brine.  No sign of spoilage - just bad tasting.  I bought based on the rave reviews of others here so I thought I'd chime in with my opinion.  I'm comparing this with the Fresh and Easy house brand - scarcely the premium - that costs less and is scrumptious.
+
+product/productId: B003G2JMNU
+review/userId: A1QR496NHIMBVM
+review/profileName: real user of tools "tooltypeguy"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297814400
+review/summary: Libby is quality product, and this was the best way to order
+review/text: we ordered 2 cases because they were on sale, cheaper than local stores have been (Pumpkin shortage raised prices big-time). we did get a couple of dented cans, but I don't see how that can be avoided. we just made sure to use those first. Libby is my wife's preferred brand of pumpkin, as she bakes lots of pumpkin muffins and cakes. All in all, it was a great purchase
+
+product/productId: B003G2JMNU
+review/userId: A2ONZ8TKE26MF2
+review/profileName: Andrea
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1293667200
+review/summary: Yep It's Libbys Pumpkin
+review/text: We love pumpkin and cannot find it year round where we live.  When I found this deal, I jumped at it.  It is exactly what I have always purchased from the store.  The product itself is excellent.  Always consistent and easy to cook with.  Delivery from Amazon was perfect, the flat of cans came wrapped in plastic, padded by bubble wrap, and in a box.  I did not receive one dented can.<br /><br />I'll be buying this again!
+
+product/productId: B003G2JMNU
+review/userId: ANA20IAWH0DVJ
+review/profileName: lisa olmos
+review/helpfulness: 6/9
+review/score: 1.0
+review/time: 1294704000
+review/summary: Dented cans
+review/text: Purchased 1 case and it only came with 1 dented can.  I ordered 3 more cases and half of them were dented.  They were very poorly packaged.  They were shrink wrapped in packs of 12 and packed in a box with some brown paper around it.  The boxes were much bigger that the shrink wrapped cans and they obviously shifted and moved around during transport.  have not purchased again and wont.
+
+product/productId: B003G2JMNU
+review/userId: AFLKKMIC3V05T
+review/profileName: Buckwheat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328486400
+review/summary: Pet Pumpkin
+review/text: My dogs love it and it aids in their digestion.  Adds natural fiber to their diet which makes cleanup much easier - with a shovel instead of a hose.
+
+product/productId: B003G2JMNU
+review/userId: AGOF8B6H2A8NH
+review/profileName: J. A. Moser Miller
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325808000
+review/summary: Great deal, but some dents.
+review/text: While the timeliness of the item's arrival was great and the cans where well packaged I was disappointed in the handling of the shipment by shipment personnel. As I unpacked the cans I noticed there was a dent on 90% of them and I mean a massive dent per can which seemed like a result of an intentional kick. But I commend the seller for having the cans still in the plastic and all grouped together prior to being packaged by the shipper. Great deal (price/product) too!
+
+product/productId: B003G2JMNU
+review/userId: A8Z9LP0EX7LI
+review/profileName: E. Suni
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322524800
+review/summary: Pumpkin goodness
+review/text: I loved getting cans and cans of pumpkin goodness in the mail.<br /><br />Others have noted that their cans were dented from shipping. I noticed that about half the cans had small dents, but no broken seals. If the top of the can was dented, I just used my can opener on the bottom, so I had no issues extracting and eating lots of pumpkin puree.
+
+product/productId: B003G2JMNU
+review/userId: A16UTEVJENYEXE
+review/profileName: Pam
+review/helpfulness: 3/5
+review/score: 1.0
+review/time: 1297987200
+review/summary: Dented cans
+review/text: I received these items and found that ALL except one can was dented.  I started to wonder if the price was so cheap because they were being sold as damaged, but the description didn't mention it.  Two cans are badly dented, others are minor.
+
+product/productId: B003G2JMNU
+review/userId: A1624JNRX8OWAY
+review/profileName: P. Huynh
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1293235200
+review/summary: Mr.
+review/text: I buy a dozen of this "Pure Pumpkin" and I have 3 can that badly damage.  I think they can pack a little insulation to prevent<br /><br />damage.  I am reluctantly to buy this product again.
+
+product/productId: B003G2JMNU
+review/userId: A2RSPMVFVKL75X
+review/profileName: Lynette Findlay "Goldenlover"
+review/helpfulness: 2/5
+review/score: 5.0
+review/time: 1293321600
+review/summary: Amazing great for dogs
+review/text: <a href="http://www.amazon.com/gp/product/B003G2JMNU">Libbys Libbys 100% Pure Pumpkin, 29-Ounce Cans (Pack of 12)</a><br /><br />This is great for cooking and even better if your dog has the runs. I had a dog with kidney failure and the vet hade me give Angus this with his food.  Now I give it to all my dogs when they get any type of loose stool or even to give them pills.  They love it.<br /><br />Used it for a pie this year it was great.  Nothing harmful in it
+
+product/productId: B000GB2754
+review/userId: A1GNUN4HFQGU25
+review/profileName: M. Burns
+review/helpfulness: 10/12
+review/score: 5.0
+review/time: 1170460800
+review/summary: Something Unique
+review/text: Lapsang Souchong - 'Russian Caravan' as it is commonly known - is a truly exceptional Chinese tea, and it is done proper justice by the ladies at Culinary Teas. A generous teaspoon of Lapsang Souchong steeped for about three and a half minutes in roughly 190-200 degree water will yield a strong, flavorful cup of the Fujian Province's most notable tea. What is so respectable about Culinary Teas' Lapsang is that it manages to contain immense flavor with very little of the aftertaste common to lower-grade Lapsang Souchong.<br /><br />But how does it TASTE? The answer is both mysteriously complex and blindingly simple. A quick sniff of the pine-needle-roasted leaves brings forth the aroma of a campfire; this flavor carries well into the brewed tea, creating a strong, smokey aroma and flavor that does not fade as the tea cools. Culinary Teas' evenly fired, full-leaf Lapsang Souchong ought to be placed at the top of any tea enthusiast's shelf as the strongest, most impression-making tea in Culinary's collection. One does not forget the first experience with Lapsang. Do it right by using this brand.
+
+product/productId: B000GB2754
+review/userId: A3E7L1965PP2F7
+review/profileName: Matthew Hisrich
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1194307200
+review/summary: A fine cup of smoky tea
+review/text: This Lapsang Souchong from Culinary Teas has a rich, complex flavor that surpasses quite a few other brands at a price that is comparable to or better than most.  A pound of loose tea can take a while to get through, though, so this may not be the best choice for someone looking to try smoked tea for the first time.  If you are already a fan of Lapsang Souchong and are looking for a satisfying cup, this is a great find.
+
+product/productId: B000GB2754
+review/userId: APJB4OFJWPW3V
+review/profileName: D. Deep
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1276473600
+review/summary: Less smoky flavor than some other Lapsang Souchongs
+review/text: What first attracted me to the Lapsang Souchong variety of tea leaf is the distinct Latakia-like smoky flavor. This particular variety strikes me as unusually light on the smokiness. Granted my experience has so far been limited to the Twinings variety that comes in tea bags and the variety sold by Le Pain Quotidien bakeries. I thought that perhaps letting this tea steep a bit longer might help, but I've found that by the 5 minute point, the tea becomes disappointingly bitter and sour. I guess if you're looking for a more subtle, mild version of Lapsang Souchong this might be perfect.
+
+product/productId: B0049USYXW
+review/userId: A3RZJ72FGY2CLD
+review/profileName: nmgcrews
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332979200
+review/summary: Kelapo is the only brand for me
+review/text: I have tried several brands of coconut oil and always come back to Kelapo. The taste is not at all "coconut-y" and I can use it too cook with in just about any dish. Other brands I have tried either had too strong of a taste and/or did not sit well with me after digesting. Kelapo is now the only brand I use.
+
+product/productId: B0049USYXW
+review/userId: AB72I6TG895IJ
+review/profileName: eyes
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332892800
+review/summary: LOVE this oil
+review/text: I have become a devout coconut oil user thanks to Alison and the crew at Kelapo. I use it in my cooking as an oil or butter substitute and sometimes eat it strait from the jar. It is a great skin oil and I apply it daily and add it to my baths and my skin looks and feels fantastic. I can't get enough of this stuff!!
+
+product/productId: B0049USYXW
+review/userId: AKHI8ZC5ZI0FT
+review/profileName: Rory Adams
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317859200
+review/summary: Delicious!
+review/text: This is one of the best coconut oils on the market. It is excellent for cooking, and baking. When I used it on my skin it left it soft and supple. It also makes a great hair conditioner too!
+
+product/productId: B003VS77LS
+review/userId: A3T9DCY4RGTJYQ
+review/profileName: H. Ford
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1316649600
+review/summary: Crumbs
+review/text: Yes, it does taste like the same thing from the freezer. The process makes all freeze-dried food crack into a few pieces (eat outside for minimal mess, NOT the desk at work!). Good value, great product. Four stars for messing eating.
+
+product/productId: B003DNL9ZQ
+review/userId: AM2F7TR14AJY4
+review/profileName: J. Price ""
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1321920000
+review/summary: Delicious, Inexpensive Hydration with Minimal Calories
+review/text: Crystal Light is a great way to cut calories from your diet, while saving a remarkable amount of money.<br /><br />Pros:<br />  CUT CALORIES:<br />  - Overall, males consume an average of 178 kcal from sugar drinks on any given day, while females  consume 103 kcal, as reported by the CDC study(Center for Disease Control). You can drink your fill of Crystal Light every day and consume less than one tenth of the calories you would drinking either juice or soda, making it probably the most effective way ever to cut calories. If you drank about 2 liters of Crystal Light every day, according to the nutrition information, you would consume 5 calories for every serving of 8 fl. oz. Since there are about 33.814 fl oz./liter, 2 liters would net you 42 calories (the way I mix it with extra flavor would probably be about 55 or 60 calories a day), which is still great when you consider that the average man just cut more than 100 calories a day from his diet. Sugar drinks represent at least 6% of the average Americans caloric intake. To put it in perspective, the average 2 liter bottle of soda is between 800 and 1000 calories (kcal). Cutting that alone will result in noticeable weight loss over the long-term.<br /><br />  SAVE MONEY:<br />  - Volume wise, you will save an exorbitant amount of money switching to Crystal Light from either soda  or juice. Just replacing soda at anywhere between $.49 and $1.00/liter (if you're buying in bulk, not including purchases from vending machines, restaurants, etc...) with Crystal Light at a max of $.30/liter (depends how you mix the beverage; i like a lot of flavor) will save the average person in the U.S. (consumed 219 liters of soft drinks/yr (2002)) from $41.61 and $218.70. That isn't even including the money that would be saved by also removing other sugar-based beverages from the diet, like juice or other fruit drinks. Don't even get me started on beer, wine, wine coolers, etc... and the cost difference.<br /><br />  TASTES DELICIOUS:<br />  - Ok, I'm not going to lie. Some of the flavors are delicious, some are NOT:<br />  - Fruit Punch [*delicious] <a href="http://www.amazon.com/gp/product/B003DNL9ZQ">Crystal Light Fruit Punch Drink Mix (12-Quart), 2.04-  Ounce Packages (Pack of 4)</a><br />  - Cranberry Apple [*delicious] <a href="http://www.amazon.com/gp/product/B003DNL9YM">Crystal Light Natural Cranberry Apple Drink Mix (12-Quart) 2.3-Ounce Canisters (Pack of 4)</a><br />  - Strawberry Kiwi [*extra delicious] <a href="http://www.amazon.com/gp/product/B003DNL9W4">Crystal Light  Strawberry Kiwi Drink Mix (12-Quart), 2.3-Ounce Canisters (Pack of 4)</a><br />  - Pink Lemonade [*alright but kinda watery] <a href="http://www.amazon.com/gp/product/B001OCBSS6">Crystal Light On The Go Pink Lemonade,  10-Count Boxes (Pack of 6)</a><br />  - Orange Sunrise [*downright, horrifyingly disgusting] <a href="http://www.amazon.com/gp/product/B003DNL9SI">Crystal Light Sunrise Classic  Orange Drink Mix (10-Quart), 2.5-Ounce Packages (Pack of 4)</a><br /><br />  - !!!Try Mixing the flavors together; I have had great success with my experiments!!! ;)<br /><br />  NEW PACKAGING:<br />  - The new method of delivery is as easy as it is awesome. It is great to be able to slowly pour the plastic tubes of powder, rather than the tubs, which exploded in a cloud of pink powder all over my face every time I tried to add them. They also easier to open, especially for those of use who don't have fingernails to peal those pesky, foil wrappings off.<br /><br />Cons:<br />  ARTIFICIAL SWEETENERS:<br />  - You definitely take a risk consuming non-sugar beverages that still taste sweet and delicious. No one really knows how these type of drinks will affect human physiology in the long term. Obviously the healthiest alternative to drinking sugar-engorged beverages like cola and strawberry daiquiris would be to just drink water, but we all know that NO ONE REALLY WANTS TO DO THAT. DUH!<br /><br />  STAINS:<br />  - The red, colored drinks stain everything. They will stain the hell out of your hands bright red, and every passerby will ask you why it looks like you just fought the battle of Persepolis. Don't get it on your clothes. It is even hard to get the stain off counter-tops and tables. Don't be a KLUTZ!
+
+product/productId: B003DNL9ZQ
+review/userId: A1NCGNKA5EB0T5
+review/profileName: John Fleming
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1283990400
+review/summary: Love The New Design
+review/text: I love the new design of the container, it makes it so much easier to store several of them.  I also like the packets better than the old tubs, it makes it much easier to pour into containers.
+
+product/productId: B003DNL9ZQ
+review/userId: A1X1CEGHTHMBL1
+review/profileName: jjceo
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328054400
+review/summary: Tastes great and reduces your calories consumed!
+review/text: Like everyone else I need to watch my calories, maybe even closer than I do!  I also don't like to always drink low calories soft drinks because of the carbonation.  Crystal Light is a mix that helps me to achieve that goal.  I love the flavor of the Fruit Punch mix and it has virtually no calories or caffeine.<br /><br />This is great with lunch or dinner and it adds a zest to your water to make it more enjoyable.  Crystal Light is relatively inexpensive and taste great.  It certainly costs less than canned sodas and is easier on my stomach.<br /><br />Just be careful with spilling this flavor as it stains everything!
+
+product/productId: B003DNL9ZQ
+review/userId: A3DH80BYN36I0R
+review/profileName: Tom Brearton
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1280880000
+review/summary: Beware No More!
+review/text: If you're willing to order FOUR 12-quart packages of this product, presumably you're already familiar with it and don't need a review to validate your purchase decision. My primary purpose in posting this review, therefore, is simply to rebut the previously posted, unfair one-star review which addressed a customer service issue rather than the product itself. Although it's certainly valid to raise such issues, I don't think it should impact the PRODUCT ranking, so I've given this item the five-star rating I believe it rightfully deserves.<br /><br />That said, I will make a few additional comments.<br /><br />I ordered this item via "Subscribe & Save" and received it in three days. The FOUR canisters come in a pre-packaged (and sealed) plastic bag marked "Ready for shipping," which would seem to ensure that you'll always get the right amount.<br /><br />The price was recently reduced, making the per unit cost comparable to what you'll probably find in your local grocery store (assuming you can find this flavor).<br /><br />If you're a long-time Crystal Light consumer, you'll really appreciate the new, more "user friendly" packaging; the canisters are easier to store, and both the canister and individual tubes/packets (not tubs) are easier to open.
+
+product/productId: B003DNL9ZQ
+review/userId: A2L42QEWR77PKZ
+review/profileName: Pony
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343088000
+review/summary: Nice and fruity flavor
+review/text: A rather pleasant taste. Dissolves well with no clumps.<br />A great tasting drink, low calories, and thats all.<br />No bitter aftertaste.
+
+product/productId: B003DNL9ZQ
+review/userId: AHPQ16I8JWH6L
+review/profileName: The one with all the toys
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1326326400
+review/summary: Don't really care for the taste
+review/text: I love Crystal Light's Pure products that are sweetened with natural sweeteners (stevia). This one is sweetened with aspartame and I don't care for how that tastes - I'm not a fan of diet sodas, either. I really like fruit punch, but this just has a very artificial taste to it and does not feel refreshing to me when I drink it, although adding extra water and a lot of ice did help. They also used way too much red dye in it. It easily stains plastic containers and counter tops - I would dread getting it on clothing or carpet.<br />I do like Crystal Light products but will stick to the Pure from now on.
+
+product/productId: B003DNL9ZQ
+review/userId: A2T135XHAH82S4
+review/profileName: Melfi
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1275264000
+review/summary: great product and price
+review/text: great product and price for this fruit punch mix...would love to get it via 'subscribe and save'
+
+product/productId: B003DNL9ZQ
+review/userId: A188LM8DXC5D09
+review/profileName: PuppyLove
+review/helpfulness: 1/3
+review/score: 4.0
+review/time: 1300406400
+review/summary: Great taste, not too sweet - but stains everything!
+review/text: We are huge CL drinkers and love how this tastes but it stains EVERYTHING - fingers, pitchers, counters. If you can be very careful and/or don't mind red everywhere definitely try this out - its great and fruity without being too sweet or to 'fake' tasting. For us though, the staining was just too annoying so we're sticking with the other flavors (Lemonade, Mango Peach etc)
+
+product/productId: B003DNL9ZQ
+review/userId: AKOP7ZY1BXWO1
+review/profileName: Tzvi
+review/helpfulness: 0/8
+review/score: 1.0
+review/time: 1279152000
+review/summary: Not a Pack of Four - Beware!
+review/text: I received only 1, not 4.  I think they have a mistake in their system.
+
+product/productId: B00005C2M2
+review/userId: A1P7XZ9Z0NZZF4
+review/profileName: Jayson Falkner
+review/helpfulness: 43/47
+review/score: 4.0
+review/time: 1200096000
+review/summary: Is as described. Freeze-dried ice-cream
+review/text: If you've ever had freeze dried ice cream before, this is the stuff. The size of each treat isn't very large, but definitely enough to enjoy. Each bar is individually wrapped. It is also lots of fun to give to anyone who hasn't had it before.<br /><br />If you don't know what freeze dried ice cream is, it is pretty straight forward. All of the water is removed from normal ice cream in a special way. First the ice cream is kept frozen while a vacuum is applied to it. The vacuum causes water to slowly sublimate and vaporize. The vaporized water is eventually all sucked out and you are left with a chunk of ice cream that has everything in it but water. Note, it doesn't melt. The process brings water straight from the solid to gas. This technique is used for lots of foods because it makes the food last forever -- without water most bacteria and molds simply can't grow. If you are a hippie, feel safe. The process doesn't use any crazy chemical science that'll kill your mojo.
+
+product/productId: B00005C2M2
+review/userId: A3FG7MOQN007DY
+review/profileName: L. Mansfield
+review/helpfulness: 19/22
+review/score: 5.0
+review/time: 1161561600
+review/summary: Melts in your mouth
+review/text: I don't know how many people have had "Astronaut Ice Cream" but it is sooo good.  Seriously, it is something you have to try.  I've had it since I was a little girl because I grew up in TX where NASA was close by.  It is really convenient to feed to kids in particular because there is no mess to clean up afterwards.  The best thing about the ice cream is that it really packs more flavor than you would expect and when it melts in your mouth you'll be glad you tried it.
+
+product/productId: B00005C2M2
+review/userId: A1HD6R8D0XD80K
+review/profileName: N. Wong
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1244851200
+review/summary: Better than I expected
+review/text: I bought this out of curiosity, after hearing the buzz about it on the internet. I took my chances and bought 10 packages of these.<br />They are fantastic! It came in a box, with 10 individual wrapped packages.<br />These freeze dried ice creams are broken into pieces (Stop blaming packaging!) for a reason, so they are more easier to bite into, and because they crumble after being freeze dried at -40 degrees!<br />I love these, and I am definitely planning to buy more, just in different flavors (this flavor is great, I just don't like vanilla. Strawberry is very enjoyable). Very light and compact, and you can bring it with you in a bag or a purse when you're craving ice cream but it's raining, or whatever.<br />Highly recommended! Cheers, Amazon.
+
+product/productId: B00005C2M2
+review/userId: A27CCJ0L5SVD5I
+review/profileName: 5 Bugs Mom
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1268870400
+review/summary: Freeze dried ice cream, plain and simple
+review/text: My son loved sharing this with his class for show and tell. Two bags was enough for his entire class of 20 to sample. They all thought it was great! Ice cream that isn't cold is a hit in the winter months up north. As an adult, I would suggest sucking on it, do not chew. It gets stuck in your teeth and kind of reminds me of the caramelized remnants on the ice cream lid. Not recommended for culinary connoisseurs. Made my children feel closer to the astronauts though!
+
+product/productId: B00005C2M2
+review/userId: A17MBPCMERZAA8
+review/profileName: Military Wife "Sarah"
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1235347200
+review/summary: Fun Gift for Soldiers
+review/text: I got this for my husband who is proudly serving our country in the United States Army.  He LOVED it (and so did some of his unit.)  It was just something fun to send him to break the often tense world of a soldier.  I can't personally account for the taste but he and the guys said it tasted just like the real deal.  I will probably send him more at a later date.
+
+product/productId: B00005C2M2
+review/userId: A3ECE51AG6ZK4B
+review/profileName: Seadreamer "Seadreamer"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1315699200
+review/summary: great
+review/text: my niece teaches underprivileged kids in florida --- she had a science lesson and i sent her 3 boxes of this stuff --- most of the kids would never in their lives have had a chance to taste this stuff --- so for the price it was a good deal to share something that these kids would never have had...
+
+product/productId: B00005C2M2
+review/userId: A1CUTTK2OXJPT7
+review/profileName: K. Vicari
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1264982400
+review/summary: Great Deal
+review/text: I have just seen the same astronaut ice cream at a gift shop for almost 3 times as much.
+
+product/productId: B00005C2M2
+review/userId: A2JQZD8HFGK99I
+review/profileName: Tcoker "Tcoker"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1241136000
+review/summary: Exactly what I expected
+review/text: This product was exactly what I was looking for: Freeze-dried Ice cream. I reminded me of grade school and getting it a science centers. I gave some to my nephews who love it and my sister-in-law used some for a teaching aid for her fourth grade students.
+
+product/productId: B00005C2M2
+review/userId: A2USLDODMO9F9V
+review/profileName: Dan Shaffer
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1217030400
+review/summary: Melts in your mouth
+review/text: Yummy. We gobbled it right up. Only issue is the unit price. The portions are so small, yet it's so expensive. Is this stuff really that expensive to make? That it's like $12 a lb.
+
+product/productId: B00005C2M2
+review/userId: A3IVNUHADVJKFA
+review/profileName: Krystalyn A Kirschner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Perfect Gift
+review/text: I got these to give out in a goodie bag for the holidays, with a couple extras of course.  They arrived quickly, the price was right, and they were delicious!  I can't wait to give them to all my friends!
+
+product/productId: B00005C2M2
+review/userId: A1IJPF1OYCT8ST
+review/profileName: crabface
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Love it!
+review/text: I love this stuff. I have a hard time not eating one right after the other! They're different, but I really enjoy them!!! :)
+
+product/productId: B00005C2M2
+review/userId: AE4O6T838P1P4
+review/profileName: LadyJane
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350777600
+review/summary: The BEST EVER
+review/text: ASTRONAUT ICE CREAM...WOW!  Who could not love this stuff...what a great stocking stuffer, basket filler, hostess gift selection (paired, perhaps, with a bottle of wine!)  Keep a few in your pocketbook for road trips (to be removed when the crankiness begins). An out of the norm, NOT run of the mill, DELIGHTFUL old time FAVORITE (plus, I love that it is not found on every supermarket shelf...keeps it all the more special!)
+
+product/productId: B00005C2M2
+review/userId: A9DVHLGFHOTEG
+review/profileName: Crystal L. Laws "FloridaCracker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350604800
+review/summary: Excellent service
+review/text: Packing was efficient, and the product arrived promptly and in great shape. This product makes a great birthday party favors~! Kid's also love getting this as a gift. Very novel!
+
+product/productId: B00005C2M2
+review/userId: AS49OK4MP42D0
+review/profileName: Jose Concepcion
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: BEST CANDY EVER!!!
+review/text: It maybe pricey, but damn it's good. It was worth the money I spent on it. I had my first taste of it back when I was 7 or 8 at an elementary school. The teacher was always giving this out as a snack for the students. For years I tried to remember what this candy was, until I came across a pic of it on facebook. By then I knew exactly what it was and I decided to buy it here. I don't regret doing so. Enjoy!!!
+
+product/productId: B00005C2M2
+review/userId: A13LTFL8UASYVX
+review/profileName: Bunny Mommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Yummy and came in great condition!
+review/text: The astronaut ice cream was broken up into not-too-small bite size chunks, melts in your mouth, and was fresh and delicious!  The expiration date was about 2 yrs ahead.  At 120 calories and 6g of fat, this treat is pretty good for the calorie-conscious too (?) Another reviewer commented that there were slits in the inner paper packaging and threw out the product - the slits are to facilitate the freeze drying process as mentioned on the wrapper...  Bulk purchase keeps the price lower than at the museum.  Plan to buy more when I eat this batch up!
+
+product/productId: B00005C2M2
+review/userId: A13RKDHENC3CKF
+review/profileName: Baka Ryu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: Long time favorite
+review/text: Its a great snack for icecream lovers who have teeth sensitve to cold.<br />All the flavor u want and no mater how much or fast u eat no brain frezze.<br />I found it best when its cold out side i can still have my icecream and not fell like im frezzing.<br />Its a great value price /per product. And has a long shelf life making it a good survival snack.
+
+product/productId: B00005C2M2
+review/userId: A14Z6D3IRJ23F7
+review/profileName: Chris F "root"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346112000
+review/summary: Awesome light weigh snack!
+review/text: I bought these for a lightweight backpacking snack. From what I remembered as a kid they are very tasty, and I was not disappointed! I've read other reviews complain about they come broken apart - but that's normal/acceptable - it in no way effects the quality of this product. The packaging of this is bulky - almost 0.4oz per! Luckily this product stays fresh in just a ziplock bag for at least a week. I put most of these in a gallon ziplock and saved several ounces in weight over ditching the stock packaging material. Gave some to my son and he loved them as well - they make a great/unique gift to kids.
+
+product/productId: B00005C2M2
+review/userId: A13S1TB8B43UOS
+review/profileName: MATT
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345766400
+review/summary: Very good price and great value
+review/text: Sells for double or triple at museums.  Great product and good if you have kids over for a party to try something different.
+
+product/productId: B00005C2M2
+review/userId: A3M55R486M5RUF
+review/profileName: Kevin Johnson "Kevin the nurse"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340236800
+review/summary: Kids love em!
+review/text: Sent a case to my nephew as a "get well" present when he had his tonsils removed. They said he loved em! I've also taken a few of these camping. 99% of the time they are broken, either due to shipping or being lugged around in my backpack...Doesn't really matter though, you eat it like chips, not a candy bar anyway. Great treat when camping. Also nice to store for emergencies.
+
+product/productId: B00005C2M2
+review/userId: A1UCUVJNLUS8ES
+review/profileName: Jaeydee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: Great!
+review/text: Fast shipping and a good price. My husband loves this stuff from his childhood so I bought it for him as a gift.
+
+product/productId: B00005C2M2
+review/userId: A7NBDA93UUFHT
+review/profileName: maroongolfer07
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: Astronaut Ice Cream
+review/text: Astronaut Ice Cream. Need I say more? If you remember the packages from our youth these will certainly bring back fond memories of freeze dried happiness.
+
+product/productId: B00005C2M2
+review/userId: A1MTD7WBQSEO1B
+review/profileName: K. Rowland
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327881600
+review/summary: I'm an Astronaut Ice Cream Addict
+review/text: I have been hooked on this ice cream since I first tasted it at the a Science Museum. It is delicious!  It's a great novelty-type gift for anyone who loves ice cream or candy.  It has an interesting texture, it melts in your mouth and it's very tasty.  It's not very filling, so don't worry about that.  You might as well buy it by the lot and/or case b/c it's THAT good.  It also makes a great stocking stuffer for adults and kids alike! :)
+
+product/productId: B00005C2M2
+review/userId: A2T1CN7WSDSSF3
+review/profileName: Mr. Seahorse
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327622400
+review/summary: yummy
+review/text: Received the product as specified.  well within expiration dates and tastes great!  I've eaten 2 of my 10 packages already :)  Packages are just like the ones i get at my local science museum.
+
+product/productId: B00005C2M2
+review/userId: ANPSK4OB8E8KY
+review/profileName: d'Von Archer "Islandbwoy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: We all love em!!
+review/text: All the kids and myself Love these! Taste just like Ice Cream we eat normally! Worth the price and i am happy with the product and the purchasing/shipping! No complaints!
+
+product/productId: B00005C2M2
+review/userId: A1EI08B687R4TV
+review/profileName: sara
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321056000
+review/summary: Delicious
+review/text: I first had astronaut ice cream in the 5th grade on a field trip to the science center. I absolutely love the stuff. And, just as warned by the seller, the ice cream comes broken up. But who cares? It's all the same when it's in your stomach.
+
+product/productId: B00005C2M2
+review/userId: A3OFJES10PZGEH
+review/profileName: SN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312848000
+review/summary: Great Taste! Convenient! Sweet!
+review/text: It's cracked to pieces on purpose so it's easier to eat.  It's a bit sweeter than regular ice cream because there's no water.  Convenient to take with you anywhere!  This brand contains NO High Fructose Corn Syrup so it's healthier. Great deal! $19.95 ordered on 8/3/2011. Hooray! It was $27, now it's back down to $22! (as of 8/25/11). Hurry and buy today!
+
+product/productId: B00005C2M2
+review/userId: A2RXS8AX7ZX8ZS
+review/profileName: dyanacek
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312329600
+review/summary: OMNOMNOMNOMNOMNOM
+review/text: This stuff really takes me back to elementary school when I was obsessed with wanting to go to Space Camp.  This stuff is SO GOOD!
+
+product/productId: B00005C2M2
+review/userId: A1BTWA9M0V4PK4
+review/profileName: jj
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301011200
+review/summary: 10 pack freeze dried goodness!
+review/text: I love this astronaut neopolitan ice cream 10 pack.I first discovered it at the science museum i R.O.P.ed at in the 90's.I fell in love with it love at first bite!! The chocolate is my fave but there's also strawberry and vanilla to love. If it's the desert of the astronauts,then sign me up to go into space!!J.K. L.O.L It's smooth texture,as long as it's not stale,melts in your mouth,with yummy goodness!They now have new flavors too,like mint,choc chip,etc.Check it out,you might like it!!!I did!<a href="http://www.amazon.com/gp/product/B00005C2M2">Astronaut Ice Cream Neapolitan (Pack of 10)</a>
+
+product/productId: B00005C2M2
+review/userId: A3VQ2PDA60KI4W
+review/profileName: SunSunSunshine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300838400
+review/summary: DELICIOUS
+review/text: If you've never had astronaut ice cream, it might be hard to get used to. The texture is crunchy but kind of gritty while it melts to be super creamy because all the moisture is gone. Some people don't like it, which just means more for me! I personally just like how dense and how flavorful it is. Plus there is always the upside of it being neapolitan, three flavors!<br />It's fun to eat as a midday snack and we like to pretend that we are on our way to Jupiter's big red spot! Great gift for children (or adults who still pretend they're astronauts...) and always a little bit different.
+
+product/productId: B00005C2M2
+review/userId: A38FOERNQ607GD
+review/profileName: R Scott Botten
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300579200
+review/summary: great birthday treat!
+review/text: This is a fun, unique birthday treat that my five year old daughter shared with her class.  Everyone loved it!
+
+product/productId: B00005C2M2
+review/userId: A2KALCHT9JZCT8
+review/profileName: Neo Lee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296086400
+review/summary: Gift Recipient Loved It
+review/text: Gifted a box of these to an online friend. She loved it!<br /><br />Buyers should note that the ice-cream bars will arrive in several pieces, which is entirely normal for dry-frozen foods. Dry freeze is a process that removes water, and when water is not present, there is nothing to hold the stuff together.
+
+product/productId: B00005C2M2
+review/userId: AD75NF7C2EKPD
+review/profileName: lil mermaid
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294185600
+review/summary: Astronaut Ice Cream
+review/text: I bought this as a present for some friends and family members for a Christmas present. They loved it! It is fun for someone who has never tried it and a treat to those who have. It was very well packed and came very quickly. There is not very much in a pack, but still the same amount as anywhere else it is sold and better priced than the other places you can buy it at, such as the science center.
+
+product/productId: B00005C2M2
+review/userId: A2KRUBYG0PS6EJ
+review/profileName: DGJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291680000
+review/summary: space ice cream
+review/text: the ice cream was actually a good addition to my son's goodie bags. Even though it was expensive, I believe it was worth it. It was a different item kids would never get at a party. The ice cream itself came well wrapped and sealed. I thought it would be crumbled but it was in good conditions. I personally don't think this tastes good but the kids love it.
+
+product/productId: B00005C2M2
+review/userId: A208DLFTMC4W0L
+review/profileName: Jeffery
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286496000
+review/summary: An out of this world treat.
+review/text: I saw this item and it brought back memories of my childhood visits to the science and industry museum, so I decided to order a pack of it. It arrived before the expected arrival time and was just as delicious as I remembered it. A definite recommended buy.
+
+product/productId: B00005C2M2
+review/userId: A2GVR49ZMN4S03
+review/profileName: ryanATF
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283644800
+review/summary: SO GOOD i need to order more
+review/text: Well if you have had this product before you know it is amazing.  I am not going to describe the taste but i will tell you the product was shipped neatly and fresh.  Everything tasted great and the expiration date was much further into the future than this would have ever lasted.  Top notch.
+
+product/productId: B00005C2M2
+review/userId: A3CUD4I1OJIDTB
+review/profileName: Jefhart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1283644800
+review/summary: Tastes like it always did...
+review/text: Tastes just like it did when I was a kid.  The stuff crubmles easily, but was in decent shape.  Not that you can't eat it when it's in little pieces.
+
+product/productId: B00005C2M2
+review/userId: A3DL5DU9VEUXN8
+review/profileName: Patricia M. Lange
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231459200
+review/summary: Astranaut Icecream Scores
+review/text: Gave to my nephews (who have everything doubled) for Christmas and the Astranaut Icecream was a big success.
+
+product/productId: B00005C2M2
+review/userId: A2DJKP07FBS1MO
+review/profileName: mtap1989 "Marina"
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1173312000
+review/summary: Great Job
+review/text: The ice cream came just a few days after I ordered it, and in great packaging. Great job.
+
+product/productId: B00005C2M2
+review/userId: A1IM9PXV0F2APK
+review/profileName: Brooke
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1327968000
+review/summary: Tasty but way too pricey
+review/text: The individual packages contain a 0.7 oz. block of ice cream, making it $3.14 per oz.  The stuff is fun and tasty, but definitely a once-only treat!
+
+product/productId: B00005C2M2
+review/userId: AFZSAT3ZP98T6
+review/profileName: J. Larrimore
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1274054400
+review/summary: yummy and fun!
+review/text: The astronaut ice cream was so yummy!  It did arrive broken, but that's okay, it was sooo cool!
+
+product/productId: B00005C2M2
+review/userId: A3T06C7KM2S089
+review/profileName: Sassy
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1231545600
+review/summary: Astronaut Ice Cream
+review/text: I bought this 10 pk for my daughter who loves it!!<br />The actual size is a little smaller than what I expected, so<br />I'm glad I bought the 10 pk instead of a single package.<br />Other than that, the product is alot of fun to eat.
+
+product/productId: B00005C2M2
+review/userId: A3DBBM3KRJN7K1
+review/profileName: PORTLY PICKLE
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1342483200
+review/summary: cost high for crushed product
+review/text: only 1 out of ten ice cream "bars" were'nt broken bits.Only the top one packaged was not injured, the box was fine so it wasnt shipper. must have been broke prior
+
+product/productId: B00005C2M2
+review/userId: A2N7NPQ0HUFFNZ
+review/profileName: Jason Wang
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1331510400
+review/summary: good quality
+review/text: brought back my memory...<br />can't believe they still sell this item nowadays. does people still buy this kind of stuff?
+
+product/productId: B00005C2M2
+review/userId: AWN7N2626M06
+review/profileName: Nirissa Holder "TEARS FOR THE EARTH"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1205884800
+review/summary: MY GUILTY PLEASURE
+review/text: SINCE I WAS A LITTLE GIRL I HAVE ALWAYS LOVE THIS STUFF. I EVEN SNUCK INTO THE BISHOP MUSEUM IN HAWAII JUST TO BY THIS 1 PACK OF THIS STUFF. I WORKED AT MARBLE SLAB ICE CREAMERY FOR NEARLY A YEAR AND NEVER TOUCHED THE ICE CREAM BUT GIVE ME A PACK OF ASTRONAUT ICE CREAM AND ITS GONE WITH A SNAP. IT IS A SMALL AMOUNT FOR THE PRICE OF A PINT OF ICE CREAM BUT FOR ME ITS WORTH IT. PLUS, IT TAKES THAT GUILTY FEELING OF GAINING WEIGHT AWAY.
+
+product/productId: B00005C2M2
+review/userId: A2KNNDPEOGWYL4
+review/profileName: JenW
+review/helpfulness: 1/4
+review/score: 3.0
+review/time: 1295222400
+review/summary: Item good, Service NOT good.
+review/text: Would have been a perfect review except that I ordered 2 boxes of 10 for a birthday party and was shorted one package.  I mean, how hard is it to count to 20?  Good thing one child didn't show up or they would have been very disappointed.  Just like I am...
+
+product/productId: B00005C2M2
+review/userId: A3BN6JJDXWKEFG
+review/profileName: Ian Cohen
+review/helpfulness: 1/5
+review/score: 2.0
+review/time: 1277337600
+review/summary: Arrived smashed to pieces
+review/text: It tastes great, but I gotta wonder if the Amazon.com distributors took a sledgehammer to it before putting it in the boxes to ship it (or maybe they don't know how to ship stuff).  It's a shame, given how hard this is to get in stores.
+
+product/productId: B00005C2M2
+review/userId: AQKU1BR6ZCNFW
+review/profileName: Tiffany Record
+review/helpfulness: 1/6
+review/score: 3.0
+review/time: 1286236800
+review/summary: Mine arrived all crushed!
+review/text: The ice cream was an amusing part of my daughter's space themed birthday party treats, but almost every package was full of crumbled, crushed powdery mess.  I was disappointed, but not by the quality of the product - just its fragility.
+
+product/productId: B00005C2M2
+review/userId: AMDUFZH4FXUMI
+review/profileName: Amanda
+review/helpfulness: 1/7
+review/score: 1.0
+review/time: 1329436800
+review/summary: not a happy customer
+review/text: I ordered the ten pack to share with my pre schoolers for our space theme. I was so excited whe i got the email saying it had been delivered. However, when i opened the package i only got one pack. I am so upset over this. We called amazon and they said there is nothing they can do about it. My account was credited but they couldnt send me the remaining 9 packs. It should be interesting trying to split a single pack between 16 five year olds.
+
+product/productId: B00005C2M2
+review/userId: A35WUCX3GMGQTW
+review/profileName: SpazRobot
+review/helpfulness: 12/29
+review/score: 3.0
+review/time: 1166572800
+review/summary: Novelty food is not always novel food
+review/text: This kind of tastes like ice cream.  Unfortunately the similarities end there.<br /><br />The creamy texture that makes REAL ice cream feel good in your mouth must have been sucked out of the package along with the moisture back at the factory.<br /><br />Biting down on this stuff is like biting into a hardened piece of neopolitan-flavored insulating foam.  I found it to be a pretty gross sensation and had a hard time finishing the bar.<br /><br />Still, it's worth trying once!
+
+product/productId: B00005C2M2
+review/userId: A1VAXQG3O9VCCK
+review/profileName: MTebo
+review/helpfulness: 2/18
+review/score: 1.0
+review/time: 1283385600
+review/summary: Shattered Hopes
+review/text: I was really looking forward to giving the kids at my son's birthday party this ice cream.  The packages arrived quickly, but I could tell the ice cream "bars" were in bits.  I opened one package to take a look and the ice cream was in fact shattered into little pieces.  And the inner packaging was sliced open in two places, possibly by a machine or razor.  It just didn't look right and I didn't feel comfortable serving them to the kids.<br /><br />Now, this is probably not a problem with the seller, but perhaps they want to evaluate their vendor for these products.  I just didn't want anyone else to have this same experience.  Thankfully, Amazon makes returns easy...
+
+product/productId: B000KCWBI2
+review/userId: A2O4761HMXPX00
+review/profileName: Kimberly A. Spratt
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1295136000
+review/summary: Hated them
+review/text: This was horrible.....ruined my whole dinner......smelled so bad even my son had to take them right out to trash outside.....
+
+product/productId: B000GZU9XC
+review/userId: A1VIH7QQUMUEW5
+review/profileName: C Dog
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1190592000
+review/summary: Disgusting
+review/text: I don't think anyone expects couscous in a box to be spectacular, but this stuff smelled and tasted awful.  All of the other flavors we've tried from this brand (chicken, mushroom, Mediterranean curry) were actually pretty decent, so it was a surprise just how awful this one was.  Avoid at all cost!
+
+product/productId: B000GZU9XC
+review/userId: AFGBAAAEUJ74Z
+review/profileName: Ali
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1300752000
+review/summary: disgusting
+review/text: I love the Near East pine nut flavor couscous, but this one is absolutely disgusting. I made it today, took one bite, and wondered if I could possibly eat another. It was too salty and tasted fake. I will not purchase this flavor ever again.
+
+product/productId: B000GZU9XC
+review/userId: AYCLRXW5VOIOQ
+review/profileName: penny pincher "two cents"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1254268800
+review/summary: side dish options
+review/text: It's always wonderful when you find a delicious new side dish to accompany your usual evening meals.  I've had other flavors of couscous before, but I really enjoyed this broccoli and cheese flavor.  Couscous by itself doesn't have much flavor so the additional spices in this flavor package really made a difference.  If you've never had couscous before it's basically a very small piece of pasta that's very bland on its own.  If you cook it up using beef or chicken broth, it can really perk up the taste and it makes an excellent side dish to accompany your vegetables.  Of course if you just buy seasoned couscous like this broccoli and cheese box, you won't have to do anything special...just add hot water and the enclosed spices and you're in business right away!  It only takes about one minute to cook up couscous so this stuff is really awesome!
+
+product/productId: B0055V3YKW
+review/userId: A2DY8CJML0UFAD
+review/profileName: M. Hackworth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313798400
+review/summary: Old fashioned Lik M aid
+review/text: Received this product with speed,accuracy and as always dealing with Amazon it was exactly what I ordered.I bought this product for my great grandson and he loves it as occassional treat.
+
+product/productId: B00338BV68
+review/userId: A1PI8VBCXXSGC7
+review/profileName: Lynn
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1281312000
+review/summary: A family favorite!
+review/text: I picked these up on a whim at the grocery store a couple years ago & was so glad I did! I'm becoming a fan of Barilla products. Their Tortellini with Cheese and Spinach is a family favorite. I haven't been able to find it on the store shelves in my area for quite a few months. I'm happy to see I can purchase it online. We like to serve these with spaghetti sauce. My daughter & I have enjoyed them cold in a chef salad, & I've even eaten leftovers cold right out of the refrigerator.<br /><br />Serving Size - 2/3 cup dry pasta<br />Calories 240<br />Total Fat 8g; Saturated Fat 2.5g; Trans Fat 0g<br />Cholesterol 35mg<br />Sodium 310 13%<br />Total Carbohydrates 32g<br />Dietary Fiber 3g<br />Sugars 1g<br />Protein 8g<br />Vitamin A 2%; Calcium 8%; Iron 4%<br /><br />Ingredients: Semolina, ricotta cheese, egg, sunflower oil, bread crumbs, emmentaler cheese, natural flavor, cheese powder, spinach, oat fiber, whey protein concentrate, salt, potato flakes, contains wheat, egg, & milk ingredients
+
+product/productId: B001PYZY7Y
+review/userId: A1ADVP8R3K8XZS
+review/profileName: A. Holman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1229126400
+review/summary: perfect
+review/text: these are amazing. they taste better that jolly ranchers and i love jolly ranchers. These are also a great gift. I used them as stocking stuffers for Christmas. You got to try them.
+
+product/productId: B0043Z9ZHW
+review/userId: AS0SPE5TEM74Z
+review/profileName: Elizabeth Kingsley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327968000
+review/summary: Nice light pastry.
+review/text: These are wonderfully light pastries.  They have an excellent taste and stayed crisp after filling and baking. I've used them with beef and chicken, also with fruit and cream for desert. They were well packed and none of them were broken (although several did seperate between layers when removing from the box). They are quite overpriced at the regular price of $62.00, but if you can catch them on sale, as I did through Warehouse Deals, they are well worth it. 5 stars is for the quality of the product, not the price.
+
+product/productId: B004LUV414
+review/userId: AT9JUL4VVVS2Z
+review/profileName: Top Weasel
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1315094400
+review/summary: Very good, but in moderation.
+review/text: I'm not diabetic and I don't have any issues with processing sugar. I do love gummi bears (especially Haribo). These are soft, not too sweet, less calories (about 1/3 less than sugar sweetened), and flavorful. They are sweetened with sugar alcohol (malitol), so moderation is key. A small handful is all you want to eat at once in order to avoid gas and gastrointestinal distress. These are a great alternative to sugar sweetened candy if you can't eat sugar, are dieting, or are looking to protect your teeth from decay. The sugar alcohol consequences are a good way to limit yourself! Also, if you aren't sure if you are sensitive to sugar alcohols, it's a good idea to try a small bag like this before buying the 5 lb bag!
+
+product/productId: B004LUV414
+review/userId: A1M929ZYWSZTH7
+review/profileName: Arkayar "Arkayar"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1347580800
+review/summary: Sugar free, but LOTS of calories!
+review/text: Serving size - 2 Pieces (20g)<br />Calories per serving - 50<br /><br />...Who eats only 2 gummy bears? They taste good, but I was surprised to find the Nutrition facts. 25 calories each was a big surprise, especially after calorieking.com said Gummy Bears are only 9 calories ea. (http://bit.ly/qJq1TP)
+
+product/productId: B004LUV414
+review/userId: AJ7UDC5AKRVA6
+review/profileName: T.Cuccio
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341792000
+review/summary: AMAZING!!
+review/text: Best Gummi Bears ever made on earth!!! Im a diabetic and have to take action in watching my sugar and these make me feel normal again!
+
+product/productId: B004LUV414
+review/userId: A2KKK0FWPDU7BP
+review/profileName: Synkhara-JW "synkhara"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336694400
+review/summary: Delicious
+review/text: These were just delicious. The people at work couldn't tell them from regular bears. Just wish they weren't so expensive, the shipping costs as much as the item. Otherwise I would order more.
+
+product/productId: B004LUV414
+review/userId: A13YVCM71P3MN5
+review/profileName: J-LO
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334188800
+review/summary: sugar gree gummy
+review/text: enjoyed the item,no issues, well packaged and tastes ok...kinda bland compared to some of the other options out there, but still good for sugar free....
+
+product/productId: B004LUV414
+review/userId: AFIOLLVBSPN3V
+review/profileName: Jessica Boesel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329004800
+review/summary: yummy gummies
+review/text: These are the most flavorful gummy bears I have ever eaten.  They had a great texture too.  I wish I could find these for less, or could get free shipping on them, because I would buy a lot more if the price was right.  I didn't have any gas issue like some people have mentioned with other gummies.  I had read those reviews though, and ate these in cautious moderation.
+
+product/productId: B004LUV414
+review/userId: A1YQ2V1RH3ODXF
+review/profileName: Aaron B. Binkley "SF Style Guy"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1327536000
+review/summary: Very disappointing product
+review/text: When I tasted these, I quickly double checked to make sure they were for human consumption because they tasted like they were made from rubber laced with strange chemicals.  My kids tried them and insisted on spitting them out versus trying to swallow them.  The description is incredibly misleading when it says that they are fruity and delicious.  I just had to throw them out and pretend I hadn't wasted the money.
+

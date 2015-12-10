@@ -1,0 +1,1143 @@
+product/productId: B007JFMH8M
+review/userId: A2KV6EYQPKJRR5
+review/profileName: Kelley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: Quaker Soft Baked Cookies
+review/text: This is a great tasting cookie. It is very soft and the texture is very smooth. I usually do not like oatmeal cookies because the texture is very gritty and tough. This cookie does not have that problem. It tastes like your Mom just made it.
+
+product/productId: B007JFMH8M
+review/userId: A3O7REI0OSV89M
+review/profileName: Esme
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343433600
+review/summary: Delicious!
+review/text: These are great for a quick snack! They are satisfying even if you have a sweet tooth. I love that they are whole grain and have fiber! Delicious, just wish there weren't raisins in them!
+
+product/productId: B007JFMH8M
+review/userId: A9JS5GQQ6GIQT
+review/profileName: Syne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: yummy
+review/text: I love the Quaker soft baked cookies.  The really are soft and taste great.  I tried the oatmeal raisin, and cant wait to try the other flavors.  They all look really good.
+
+product/productId: B007JFMH8M
+review/userId: AMAVEZAGCH52H
+review/profileName: Tangela
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: Quaker Soft Baked Cookie
+review/text: This cookie is really good and works really well for my family.  In the morning it fits in to my morning routine.  I take the cookie put it in the microwave and out the door we go with my tea.  Something I can eat at my desk or on the run.  It holds me over till lunch and is not too heavy.
+
+product/productId: B0046IGSGW
+review/userId: A1OAMRTVP8FC5V
+review/profileName: Jon
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1329177600
+review/summary: Incredible!
+review/text: I've been eating Muir Glen salsa for years and its freakin' awesome!  I know it sounds ridiculous to be this enthusiastic about salsa, but as a fitness buff, this salsa is a great way to spice up otherwise bland, boring, health food.  My mainstay is brown rice and chicken, and this salsa packs the MOST flavor into the LEAST amount of calories out of any other i've tried over the years.  Plus, Muir Glen is a small company on the west coast that focuses on organic, sustainable agriculture, which is just the icing on the cake!
+
+product/productId: B004K6D4NA
+review/userId: A2VN1FFB5P5UVM
+review/profileName: Jacki G. Billings
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: Excellent
+review/text: Very reasonably priced and a good product.  I use it for making Smoothies and it blends well and has a very good taste. No complaints.
+
+product/productId: B004J28YI0
+review/userId: A213B67VPYW3E2
+review/profileName: J. Richard
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335398400
+review/summary: Wonderful soup mix
+review/text: Recently while visiting the Carolinas I became hooked on She Crab soup, so I picked up this mix on Market Street.  Not only was it as good as what I had there, for the most part it was even better.  When I checked on Amazon and found the same brand I was thrilled.  Ordered three packages.  Service was great, and now I know I can have it whenever I get the craving for She Crab soup!
+
+product/productId: B004J28YI0
+review/userId: A3GY6GEC8T0T77
+review/profileName: Tatia Tudbaugh "Tea Fancier"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347580800
+review/summary: Gullah Gourmet Great!
+review/text: I have loved She-Crab Soup since first eating it on vacation in Charleston, SC.  Gullah Gourmet She-Crab Soup Mix is easy to use and tastes exactly like what I enjoyed so much in Charleston!  Great experience and great soup!
+
+product/productId: B0029JICN2
+review/userId: A1OFRP9FLPG2ZN
+review/profileName: Bonnie Cawley
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1288828800
+review/summary: Substitute for Baking Size
+review/text: I'm not sure why M&M/Mars discontinued their baking-bit size M&Ms, but this is the next best thing.
+
+product/productId: B0029JICN2
+review/userId: A3CN2GFIBP5JCR
+review/profileName: carole
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1297296000
+review/summary: M&M'S MINIS
+review/text: Tried unsuccessfully to find this product in grocery stores.  I use them to make M&M Jumble cookies.  Was very happy to know they are still available.
+
+product/productId: B0029JICN2
+review/userId: A2RWWPB16KWAXC
+review/profileName: gonesewin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322956800
+review/summary: Thank you for listing these!!!
+review/text: Too bad M & M is not making these anymore.  These are fresh candies and I was able to make my Christmas treats!  Thank you
+
+product/productId: B0029JICN2
+review/userId: A33KNCPI5M3XWR
+review/profileName: Irene Dansby "value shopper"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: great price
+review/text: My daughter teaches kindergarten and I help her and the other 6 kindergarten 120 kids do gingerbread houses at Xmas.  Every year we have to buy the small tubes since M&m do does not sell the bags locally.  These 6 bags are much cheaper and we will have left overs for other projects.
+
+product/productId: B0029JICN2
+review/userId: A15YJY0U7S25CB
+review/profileName: K. Willis "4 kids"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305417600
+review/summary: Great in cookies!
+review/text: These didn't last long as we used them in everything and the kids ate them by the handful, but it was a great deal and I hope amazon does it again.  They don't melt or mash a easily as regular size m&m's so they are great for baking.
+
+product/productId: B0029JICN2
+review/userId: A9H4S8JO82RI1
+review/profileName: Big Bob
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: Mini M&Ms Go Well on Ice Cream
+review/text: It is very convenient to be able to go on-line and buy things that I can't easily find in the store (maybe I don't know where to look).  I think that M&Ms go well  on ice cream.  I would like to get my hands on semi-sweet M&Ms.
+
+product/productId: B0029JICN2
+review/userId: A19NZQGJY7RY6J
+review/profileName: dh
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335225600
+review/summary: yummy
+review/text: i was craving some of these, now that i got...i cant finish it lol...but i probably will...came in 6 cute blue bags
+
+product/productId: B0029JICN2
+review/userId: A23GLGGRV1PTWS
+review/profileName: Karen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331856000
+review/summary: YUM!
+review/text: I love mini M&Ms and my local grocery store stopped selling them. I keep a bunch in a little container to eat if my blood sugar gets too low. They melt in your mouth fast and don't have the distasteful side effects of glucose tablets.
+
+product/productId: B0029JICN2
+review/userId: AZTF7EHUO6GDK
+review/profileName: T. Lowry
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331769600
+review/summary: Mini's
+review/text: These are great for a candy dispenser I have at work.  Some of the other versions of M&M's are too large to process through the machine without breaking them into pieces.  On the flip side, current pricing on Amazon seem to be almost double what you can get them for in the store.  Walmart sells these for $2.98 a bag...you do the math.
+
+product/productId: B0029JICN2
+review/userId: A1QIXPV1XB7GL4
+review/profileName: Saltchuck
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312070400
+review/summary: Perfect size for baking
+review/text: I picked up an order of these from Amazon recently for a cookie-baking project.  These mini sized M&Ms were the perfect size for mixing generously into cookies and Rice Krispy treats.  I see that the price has gone up a lot since I bought them from a third-party seller -- I won't be buying any more unless the price comes back down to a reasonable level through Amazon with free prime shipping, though.
+
+product/productId: B0029JICN2
+review/userId: A32WP8MGRNKX0V
+review/profileName: Dreamer
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1287705600
+review/summary: to die for
+review/text: I've always loved M&Ms and the minis were the best.  But this is just too many minis.  The smaller bags or tubes would be better.  Eat a handful and forget about it.  But can't really eat a handful of these, then close up the bag, and put it away.  So, these actually stayed in my cabinets much longer then they normally would have simply because of the bag size.<br /><br />If you like minis and have the will power to eat a handful and put the bag away they are worth every penny.
+
+product/productId: B002C54UK2
+review/userId: A2B0FNJY6BWRYL
+review/profileName: Carl W Wilcox
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1336780800
+review/summary: GREAT COFFEE
+review/text: We have been drinking this coffee for several months now and love it. We like the whole bean so we can grind as needed.
+
+product/productId: B002C54UK2
+review/userId: AILCWT1IIP7ZT
+review/profileName: Charles Chen "Keyboard Jockey"
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1311724800
+review/summary: Tasteless, Weak, Brown Water
+review/text: If that's what you're going for, then this is the coffee for you!<br /><br />To preface, I'm no coffee snob, but I've had my fair share of good and bad beans.  I took a chance on this brand because of an Amazon promotion, but I don't think I'll be buying any more.<br /><br />Like another reviewer, I knew I was in trouble when I opened the bag.  Characteristic of the beans that I've enjoyed the most is a rich, oily sheen left on the beans from the roasting process.  These aromatic oils are filled with flavor and provide a richness to your brew.  This bag?  The beans looked dry and oil-free.  I confirmed this when I put it through my grinder.  The grinds didn't stick to the grinder and the lid because there were no oils to bind it.  A disappointment!<br /><br />I thought to myself though, that the proof is in the taste.  So I brewed a pot and confirmed my suspicion; the coffee lacked depth and really tasted like coffee flavored water.  Now in case you think that my wife and I like our brews dark and strong, that's not the case.  We're both in preference to roasts on the light-medium end of the scale.  But this is an entirely different animal -- the flavor is just....off.<br /><br />If you're purchasing from Amazon, consider <a href="http://www.amazon.com/gp/product/B001SJHO4M">Kicking Horse Coffee Z-Wrangler Medium, Whole Bean Coffee, 12.3-Ounce Tins (Pack of 2)</a> instead.  When you open those tins, the aroma...it's just out of this world.  The beans are characteristically oily with a beautiful, chocolate sheen. <a href="http://www.amazon.com/gp/product/B002Z613JO">Magnum Kona Blend Coffee, Whole Bean, 1 Lb Bag</a> is another that I can heartily recommend (though I prefer the Kicking Horse just a tad bit more).<br /><br />Yes, it's more costly, but really, it's a small luxury in this frugal era of "staycations" and still cheaper than buying Starbucks or DD every day.  It's safe to say that I will not be buying any more coffee of this brand.
+
+product/productId: B002C54UK2
+review/userId: A2F7LHH7MIBTC4
+review/profileName: Andre A.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348876800
+review/summary: pretty good for the price
+review/text: In a past life, I was a bit of a coffee snob. For the foreseeable future, however, I'm on a tight budget that makes keeping stocked up with expensive coffees for daily drinking just not tenable.<br /><br />The roast of this breakfast blend is on the lighter side of medium, but that's just what I want first thing in the morning. It has a smooth taste, very little bitterness (practically none), and the aroma is pleasant both before and after brewing.<br /><br />Is this coffee the greatest ever? Not by a long shot, no. But if you're looking for a decent, whole bean coffee that's a cut above the crap that comes preground in a can, and costs considerably less than $10/lb, you could do a lot worse than this stuff. I guess the best endorsement I could give this coffee is that I've been drinking it for the past month and I'll be ordering more as soon as I finish writing this review. Give it a shot!
+
+product/productId: B002C54UK2
+review/userId: A2YSA4SLTQ3SX0
+review/profileName: speedy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347840000
+review/summary: Bad Coffee
+review/text: Like another reviewer said, upon opening the bag I noticed that the beans did not smell or have any oil. The taste is not good to say the least.  I have to mix other blends to drink this coffee, because I bought three bags!  Thanks Amazon.  I will not buy coffee from here again.
+
+product/productId: B002C54UK2
+review/userId: A3S8EU7697RP0Y
+review/profileName: diana1117
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: great body
+review/text: I love this coffee, the only thing is I wish I has a different kind of grinder for my pot, other than that it is wonderful tasting coffee.
+
+product/productId: B002C54UK2
+review/userId: A2IWP9ZKOEJXTT
+review/profileName: Jason Drury "dru145"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331251200
+review/summary: Our Favorite Coffee
+review/text: We live in Louisiana and we try to buy local when possible which is the reason we tried this coffee a few years ago. We drink a lot of coffee and have tried many different brands, but this one is our favorite. We purchase the whole beans and use this grinder: http://www.amazon.com/Mr-Coffee-BVMC-BMH23-Automatic-Grinder/dp/B004T6EJS0 You can tell the difference between the coffee already ground and one you grind yourself. Not sure why anyone would not like this coffee but I find people's coffee palette, much like their wine, varies greatly. Also the Amazon subscribe and save is a great deal with the price of coffee skyrocketing lately. Even in Louisiana the cheapest you can find this coffee is close to $6 a bag. We are really happy Amazon sells it.
+
+product/productId: B002C54UK2
+review/userId: APZOIM77D7EGL
+review/profileName: c.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320969600
+review/summary: Great coffee.
+review/text: This coffee is probably my favorite coffee so far- and I've pretty much tried them all. This coffee is a smooth, bright roast which will not upset the stomach or trigger heartburn (at least in my case). It is delicious as well, and I look forward to drinking it each morning. Next I will try other community coffees!
+
+product/productId: B002C54UK2
+review/userId: AS5ZEQ8LQ8NU4
+review/profileName: Tex Luther
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320105600
+review/summary: Great coffee
+review/text: I've gotten the 3 pack a couple times now, going on my 3rd.  It's pretty good coffee.  Each bag so far has been very fresh and they smell like pure bliss as almost chocolatey aromas hit your nose when you open the bags.  Each bag is very consistent too which is hard to find with coffee sometimes.
+
+product/productId: B002C54UK2
+review/userId: A1CC63KLU8NO4Z
+review/profileName: Mario Staiano
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316995200
+review/summary: Community Coffee Whole Bean Review
+review/text: Great coffee from a old favorite. The Breakfast Blend makes a perfect cup that is not too strong. Great deal from Amazon and will buy it again.
+
+product/productId: B002C54UK2
+review/userId: A1TIJWLWCIH4YD
+review/profileName: Crown Contracting, LLC -Tennessee-
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315008000
+review/summary: Whole Bean Community Coffee -Breakfast Blend
+review/text: We have tried MANY whole bean coffees. We've spent a LOT of money trying different brands and local roasters. While this isn't the absolute best we've had, it is pleasent and delightful. No bitterness. Good aroma. GREAT price. FRESH! Amazon often has coupon codes to get 3 bags for about $10... What a deal! It stays fresher becuase you don't have one large bag that must be opened often... even if you're just refilling your canister you lose freshness & aroma. We're REALLY picky though. We think that the Dark Roast is too dark (it's more like Starbucks).
+
+product/productId: B002C54UK2
+review/userId: A323DBR7MR5H2Z
+review/profileName: shop girl breanna
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1305763200
+review/summary: Good value, the coffee is alright
+review/text: I got a great price on this 3 pack of coffee, and at the rate I go through coffee, that alone made it a 4 star purchase! The quality of the coffee is fine, nothing awesome. I'm guessing if I was a coffee purist and didn't add cream and sweetener, I'd be more unhappy about it. As it stands, it serves it's caffeinated purpose, and i'm content with that.
+
+product/productId: B002C54UK2
+review/userId: A24DEECTAH2NGZ
+review/profileName: Seymoreholes
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1299196800
+review/summary: Too mild for me
+review/text: The coffee isn't bad but the blend is very mild. I brewed a cup of espresso with it and wasn't too impressed. If you are looking for mild this is for you.
+
+product/productId: B002C54UK2
+review/userId: A3L5GGLR6BLRO
+review/profileName: jonesy11
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299196800
+review/summary: Now this is my favorite!
+review/text: Although I drink a few different varities from Community, this is my every day one. This is a lighter roasted and smooth coffee with a great aroma. If you are lucky you will occassionally catch it on sale and get a great price. The best kept secret is that they also sell it in 2 pound bags and often it is cheaper on their website.
+
+product/productId: B002C54UK2
+review/userId: A1A4XFEN2S2WLQ
+review/profileName: BBonvi2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299196800
+review/summary: Great mellow coffee!
+review/text: While some folks like a dark roast, I rather a light roast coffee. It has more caffine that way! This coffee is flavorful and smells wonderful when you pour it out of the bag. Brings me to my happy place! I MUST have my Community Coffee in the morning or I am not a happy camper!
+
+product/productId: B002C54UK2
+review/userId: A9MTN0D260WAD
+review/profileName: ELAINE
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1296691200
+review/summary: Bland
+review/text: I realize that this coffee might taste great to someone else, but this was nearly tastless. I like to chew on a bean while I grind them, and the bean didn't have any taste. Even doubling the amount of ground coffee really didn't help. I don't like the very strong, bitter coffees, either. I would think my tastes ran pretty much down the middle. The beans were fresh according to the sell by date, and it had a pleasant smell, though.
+
+product/productId: B002C54UK2
+review/userId: A6ENFIT6W616A
+review/profileName: B.S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287187200
+review/summary: great coffee, great price
+review/text: I got this a few times when on sale between $7 and $9 for the 3-pack of whole bean.  Bought this breakfast blend both times.  I REALLY like this coffee. I usually only drink coffee in the morning but have found myself wanting a cup of this in the late afternoon early evening, so on occasion I brew twice a day.  I have had no problems with freshness or date as others have mentioned.  My most recent order was stamped "brew by 03/02/2011" on the bags, they'll be long gone by then!  Even still coffee doesn't actually EXPIRE.  It smells great after I grind it!  Nice and fresh and bright smelling.
+
+product/productId: B002C54UK2
+review/userId: A1XELWEYRX3EGV
+review/profileName: Seth Morris
+review/helpfulness: 5/8
+review/score: 1.0
+review/time: 1282262400
+review/summary: I Opened The Bag & It Smelled Like A Dirty Ashtray
+review/text: You know when you open a bag of coffee how you stick your nose in there and I knew I was in trouble when it just smelled bad - a little bit like a dirty ashtray.  Despite the smell, I made a pot of coffee and the taste was just as bad as the smell.  I'm donating the unopened bags to a homeless shelter but I feel a little guilty subjecting anyone to this coffee.<br /><br />When I bought this coffee, I knew it wasn't going to be Kona or Blue Mountain but I didn't expect it to be this bad.
+
+product/productId: B002C54UK2
+review/userId: A382SNCCVUDVMS
+review/profileName: jkp "jkp"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1289865600
+review/summary: Good coffee
+review/text: The coffee is as good or a bit better than any you would buy at your local store.<br />The ordering and delivery process thorugh Amazon was great as usual..!
+
+product/productId: B002C54UK2
+review/userId: AZQTO8TA4R7NN
+review/profileName: C. Hazzard
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1282176000
+review/summary: great flavor
+review/text: Great flavor, great coffee, great price.. we signed up for auto ship to get it delivered every month.
+
+product/productId: B002C54UK2
+review/userId: A2DCNM6Y2EPU0K
+review/profileName: merrittfd
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1281312000
+review/summary: Best roaster
+review/text: Community Coffee uses the best beans, and is the best roaster. I prefer the whole bean that way it is always fresh. You want a good cup of coffee, use Community Coffee whole bean.
+
+product/productId: B002C54UK2
+review/userId: AST8R5KHUJRI9
+review/profileName: James Abner "Chase Abner"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1278115200
+review/summary: Pretty good coffee, excellent price
+review/text: I got this as a Gold Box deal.  It was certainly worth the price.  It's not my favorite coffee, but again, the price was right.
+
+product/productId: B002C54UK2
+review/userId: A23BMCIBA7SAVY
+review/profileName: SuzEQ
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1282953600
+review/summary: It's an ok coffee
+review/text: I guess it's an ok coffee, but I won't be reordering.  Everyone likes something different.  My husband is a big coffee lover and he said it is "ok." His favorite coffee is at Costco, Roasterie, and it is cheaper.  He also likes one at Sam's, Parisi.  I believe it is cheaper too and a bigger bag.  I know this was three bags, but they come in one big bag.
+
+product/productId: B002C54UK2
+review/userId: AFWK9Q6EQDC78
+review/profileName: Barkid "Barkid"
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1286236800
+review/summary: Nasy!
+review/text: This is probably the worst coffee I have ever had.  Product was weeks from expiring when I received it.  I love coffes, but would never buy this kind again!
+
+product/productId: B002C54UK2
+review/userId: A1OTTDNCRTFAWE
+review/profileName: Valerie
+review/helpfulness: 5/19
+review/score: 5.0
+review/time: 1275177600
+review/summary: Community Coffee Medium Roast Whole Bean
+review/text: I think this is the best coffee you can buy.  We have tried the more expensive brands and always come back to Community!
+
+product/productId: B0055N4U80
+review/userId: AJNW2SVETWAW1
+review/profileName: kacunnin
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1320105600
+review/summary: SO disappointed -- not at all what I was expecting
+review/text: The television commercials for Pepperidge Farm's MILANO MELTS cookies really worked -- I couldn't wait to buy a bag!  I'm a big fan of the original Milano cookies -- the cookies themselves are light, crispy, and perfectly paired with rich dark chocolate.  So what could go wrong with Milano cookies filled with dark, sumptuous chocolate creme?<br /><br />Well, MILANO MELTS are disappointing.  First, the cookie itself:  It's sort of a "double-thick" Milano cookie, which means it lacks the lightness and the delicate crispness of the original Milanos.  It's very hard around the edges, and the texture seems dense and unappetizing.  Then, there's the "dark chocolate creme":  It just lacks the flavor of the chocolate on the original Milanos.  Additionally, there's nowhere as much creme as you see in the TV commercials (or pictured on the package).  The creme is mostly located in one half of the cookie -- I took my first bite and wondered, "where is the creme?"  All I saw was a thin line of chocolate, which was tasteless buried inside that thick cookie.  There was more creme on the other side of the cookie, but it was nothing like what I was expecting.<br /><br />These are simply not as good as the original Milano cookies (which are wonderful).  This is an interesting-sounding idea that just didn't pan out.  Stick to the original Milanos -- they will not disappoint.
+
+product/productId: B0055N4U80
+review/userId: A1XSFRI2B3N43F
+review/profileName: Danielle
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319673600
+review/summary: Simply Amazing
+review/text: I have no idea what the previous reviewer is complaining about but these cookies are simply amazing. I LOVE dark chocolate, and these cookies are just great. I have to limit myself or I'd easily eat the whole package in one sitting.
+
+product/productId: B0055N4U80
+review/userId: A25SWP33AHPTN2
+review/profileName: S. Correll "PickyPants"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1327363200
+review/summary: Disappointing.
+review/text: I don't buy a lot of treats but I love the original Milano cookies so I was excited to try these.  What a waste of money!<br /><br />First of all, the cookie texture sucks.  Not the melt-in-your-mouth texture of the original cookies at all.  Second, there was hardly any chocolate in there and what was in there was tasteless.  I was expecting a thicker chocolate - real chocolate just "melty" like the inside of a fererro rocher or lindor chocolates - but these are more like chocolate pudding or something.  Cheap tasting - not what I would expect from a Milano cookie at all.
+
+product/productId: B0055N4U80
+review/userId: A1USS28M9WC8C0
+review/profileName: Phylllis851
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Dark chocolate Milano MELTS
+review/text: These cookies are off the hook GREAT!!  I agree with the other poster, I too, have<br />to limit myself or I would devour the entire bag! As a matter of fact, I have DEVOURED<br />the entire bag in one sitting!!<br />PepperRidge Farms - keep em coming!!  Anyone that I have given these cookies to try<br />become immediately hooked as well.  I love them!!<br /><br /> #1 fan!! : )
+
+product/productId: B0055N4U80
+review/userId: A375ZA7IJH2ZGQ
+review/profileName: Jihan S.
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1309737600
+review/summary: Tasteless. Do not waste your money.
+review/text: I hate when company knowingly put out a products that tastes bad. I don't think I'll ever by a Pepperidge Farm product again. The cookie and the chocolate are both tasteless. Nothing more to say. Only diabetics could enjoy this... maybe not even them.
+
+product/productId: B000A1FB30
+review/userId: A34YVU4LUAXF8W
+review/profileName: SP
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1284940800
+review/summary: Pass-O-Guava
+review/text: Product arrived in a timely manner with a receipt and a friendly hand-written note from the shipper. It's hard to find Passion Orange Guava ("POG") juice in the continental US, especially the midwest, so it was great to be able to order this online and get exactly what I was looking for.
+
+product/productId: B000A1FB30
+review/userId: A2OMQAGSSOUUSY
+review/profileName: Rod Klinger
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1155600000
+review/summary: POG!
+review/text: My order arrived amazingly fast, and in perfect condition. Normally, it is very difficult to get this taste of Hawaii anywhere but on the Islands.
+
+product/productId: B000A1FB30
+review/userId: A7FGB1C0CRNI0
+review/profileName: 18Eagle
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1311120000
+review/summary: Great POG
+review/text: We had POG in FL over a vacation but could not find it to buy after that...this product arrived in a timely manner and tasted great!
+
+product/productId: B000A1FB30
+review/userId: A1I0K3MKI8K2E0
+review/profileName: S. Gorman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306886400
+review/summary: Just Like POG!
+review/text: We have been trying to purchase the POG beverage we had in Maui last Summer and with this product we finally found it!  It tastes like POG and it was nice that it was reasonably priced for both the product and the shipping.  Product was shipped quickly and packaged with lots of bubble wrap.  We will be buying more!!
+
+product/productId: B000A1FB30
+review/userId: A3CEEF17YFZLLD
+review/profileName: Major Bhaukaal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313971200
+review/summary: Fell in love with P-O-G juice in Hawaii. Glad it's on Amazon.
+review/text: My wife and I absolutely love the passion-fruit/orange/guava juice when we went to hawaii. We tried othr places but couldn't find it, so very glad that its availale through Amazon. This is the real thing. Enjoy!
+
+product/productId: B008DQI3X4
+review/userId: AVMJMZGWAYZGH
+review/profileName: Liz kuhlken
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348185600
+review/summary: top notch service!
+review/text: Excellent service, excellent food. When a jar broke in shipment through no fault of theirs, they replaced it free of charge plus added another jar! Great communication and I highly recommend this company.
+
+product/productId: B0028MGOIU
+review/userId: A2FR9RZB6OQS1Y
+review/profileName: L. Bennett
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1257206400
+review/summary: What I expected
+review/text: I've had a hard time finding Olive Juice on store shelves for dirty martini's.<br />Took a chance and ordered Saucy Mama Dirty Martini Olive Juice  I was not disappointed.  Makes for a great dirty martini.
+
+product/productId: B0028MGOIU
+review/userId: A45TREGHVMVOB
+review/profileName: A. E. Dituri
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1276214400
+review/summary: Martini's best friend
+review/text: This product is perfect to create a delicious dirty martini.  It is cocentrated so a little goes a long way.  Highly recommend it.  I no longer have jars and jars of olives minus the juice in my frig.
+
+product/productId: B0028MGOIU
+review/userId: A7OT4XVUDOAH3
+review/profileName: Brian W. Martineau
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1263427200
+review/summary: dirty martini olive mix
+review/text: product is exactly as described - ordered a case & all twelve bottles came in tact - it was one of the better values for this specific product - i have no hesitation in recommending saucy mamma dirty martini olive juice
+
+product/productId: B0028MGOIU
+review/userId: A3N9NOX0EJWSAW
+review/profileName: Slayra
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1286236800
+review/summary: A steal for any dirty martini lover!
+review/text: Dirty Martinis are my favorite drink. I used to just add the juice from a bottle of olives into my martini but I would go through the juice faster than the olives and my fridge was holding multiple "juiceless" bottles of olives. When I found this product I thought it was too good to be true - pure olive juice with no olives?? Then I saw the price so I had to jump on the deal.  Saucy Mama's olive juice is delicious and potent! I use about half of the amount of juice I normally would use from a bottle of olives, making the product last a long time. I have given a few bottles away to dirty martini lovers and have gone through quite a few at home and even almost a year after my purchase I still have a few bottles left to use. This item is definitely worth the price and is a quality product - why pay more??
+
+product/productId: B0028MGOIU
+review/userId: A3CYA3XG9S1T72
+review/profileName: Thomas S. Lilly "The Decaf Man"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1258329600
+review/summary: Tasty
+review/text: The first 12 were great the second 12 was spoiled But amazon contacted the supplier and shipped another batch so far they are ok.
+
+product/productId: B0028MGOIU
+review/userId: A2PZID9MW7I684
+review/profileName: L. Wolf "pharmgirl"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323129600
+review/summary: Don't worry that it's cloudy -- it's great for dirty martinis!
+review/text: Someone said that "cloudy" was a problem -- I just bought an expensive clear one that I thought lacked flavor. This one is rich and has that perfect saltiness we've all come to expect. I'm satisfied, thank goodness because I bought all 12 bottles!
+
+product/productId: B0028MGOIU
+review/userId: AACVRRENDFTK5
+review/profileName: Cindy S.
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1302998400
+review/summary: Pleased
+review/text: This is very concentrated, so it takes some tweaking and getting used to so you can find the right flavor for yourself... All in all it is a great product, and I am no longer buying olives and using all the juice, then having multiple cans opened in my fridge.
+
+product/productId: B0028MGOIU
+review/userId: A3PDWQGMFABWKW
+review/profileName: Mixmaster
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349913600
+review/summary: Just Vile
+review/text: I've never written a review before, perhaps because I've never been so spectacularly disappointed in a product. Yes, this is inexpensive, and for a reason! First, every bottle has some strange white residue floating in it, which you can't strain out. The juice itself gives the martini an nasty, metallic taste. I bought a case, used two bottles, and threw the rest out. If you want a good, reasonably-priced dirty martini mix, try Boscoli.
+
+product/productId: B0028MGOIU
+review/userId: AB3N9VP9H2NRW
+review/profileName: clinton williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Interesesting, limited use.
+review/text: Greetings<br /><br />I concur that this fluid, which I have ordered and taken with premium vodka, is interesting.  Yet no one alive demands a higher sodium diet.  What this and other "dirty" cocktail mix makers want is the good sense to develop no sodium mixes.  Until then, reduce this and other salty cocktail mixes with 50% spring water.  Same buzz when blended, much lower salt.<br />Clint Williams
+
+product/productId: B0028MGOIU
+review/userId: A2UG7VW3Y5GBMR
+review/profileName: Jmart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328745600
+review/summary: Very good.
+review/text: Like a lot of other reviewers, I was tired of having a fridge full of olives without juice. This product makes a very tasty dirty martini.I will be buying again.
+
+product/productId: B0028MGOIU
+review/userId: A2LEAX4DPTBZBJ
+review/profileName: stfoster
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314144000
+review/summary: great stuff
+review/text: title says it all! great for martinis and I really like to put in in the bloody marys that I make,
+
+product/productId: B0028MGOIU
+review/userId: A17RXBP8MCQWXI
+review/profileName: John R. Moroz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272153600
+review/summary: Great mixer 1/2 the price!!
+review/text: I ordered a case of Saucy Mama dirty martini mix. I have found it to be excellent tasting. I am very happy with it and will order again.
+
+product/productId: B0028MGOIU
+review/userId: A29WTWII13FR24
+review/profileName: Windy City Guy
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1284940800
+review/summary: Dirty Is Definitely A Good Way To Describe It
+review/text: I found this product to be horrible.  The juice was extremely cloudy and there was also a thick white colored residue at the bottom of the bottle.  It cleared somewhat when shaken in the bottle however it never went away.  I felt the juice tasted somewhat bitter and I didn't care for the taste it added in my martini.  I stored several bottles sideways on a shelf in my liquor cabinet and noticed within about two months they were leaking from around the cap with a rusty slimy residue dripping out.
+
+product/productId: B0028MGOIU
+review/userId: A2KDIADJ2NGKYU
+review/profileName: Jean M. Wilson
+review/helpfulness: 0/9
+review/score: 1.0
+review/time: 1288137600
+review/summary: Pkg. was UNDELIVERABLE, but I never got notified.  And I want this item!
+review/text: I want this UNDELIVERABLE product.  This is what the tranking record states, but I was never notified of it.  What is going on???
+
+product/productId: B003WEFY7K
+review/userId: A3EKCRTUPP4I5K
+review/profileName: Susan I. Richmond "wvgirl"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1337040000
+review/summary: 20 years old!
+review/text: I got these today, and they are hard as a rock!!  There is no way I can use these at camp.  I'm sure they would break someones teeth!!  Very disapointed!!
+
+product/productId: B003WEFY7K
+review/userId: AUC2B7PB2OGZ5
+review/profileName: N. Laski "Pickleandtwins"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315958400
+review/summary: THE BEST EVER!!!!!
+review/text: When I saw these online I was so excited as I remember having them as a treat as a kid.  They tasted even better than I remembered too.
+
+product/productId: B001XSMANI
+review/userId: A3DPQLR4M6INKH
+review/profileName: Gone to Ebay
+review/helpfulness: 73/83
+review/score: 4.0
+review/time: 1290124800
+review/summary: Great Value
+review/text: I got this at Cotsco for 15 bucks, they're authentic jelly belly jelly beans, I can't believe some people are doubting that. The Kirkland signature is owned by Cotsco, they would never do that, as they are a very respected brand. Any who, I agree that there are some "spit-em-out-quick" , like someone said before, but also I agree that they are many tasty flavors as well, and it's for a great value. Here are the list of the flavors, and the ones I consider to be "spit-em-out-quick"  flavors. I also gave them a grade of A through F. I'm testing every flavor while I write the review.<br /><br />**** Keep in mind that everyone has different preference and taste. If you flavors that you really like and I really like it too then the grades will help a lot since it will probable mean we have slightly same taste, if vice-versa, then there's nothing to see, other than which flavors you're going to get.****<br /><br />Berry Blue A (my favorite)<br />Cappuccino B(it's a hate it or love it flavor, I like it, it tastes like the coffee mints)<br />Cotton Candy -A<br />Green Apple -A<br />Lemon Drop -A<br />Margarita -A<br />Pina Colada -A<br />Red Apple +C<br />Strawberry Daiquiri +D<br />Blueberry -C<br />Caramel corn "spit-em-out-quick" F<br />A&W Cream Soda +C<br />Island Punch B+ (taste like tutti-frutti)<br />Lemon Lime A<br />Mixed Berry smoothie -A<br />Sunkist Pink Grapefruit A<br />A&W root beer -C (it's not as bad as it seems)<br />Strawberry Jam -A<br />Tutti-Frutti B<br />Bubble Gum A (I'm not a big fan of this flavor but it really tastes like bubble gun)<br />Chocolate Pudding -A<br />Crushed Pineapple +A<br />Juicy Pear A+ ( It really tastes like pear)<br />Licore "spit-em-out-quick" -F (not a surprise..)<br />Sunkist Orange A<br />Plum +B<br />Sizzling Cinnamon -A ( it has a spicy hint to it)<br />Sunkist Tangerine -A<br />Very Cherry A<br />Buttered Popcorn "spit-em-out-quick" -F (it really taste like popcorn, I'm a popcorn lover, but who wants that taste in a jelly bean? )<br />Cinnamon A (the same as Sizzling Cinnamon but stronger)<br />Dr Pepper +D<br />Kiwi -A<br />Sunkist Lime -A<br />Orange Sherbet B<br />Pomegranate B<br />Sour Cherry -B<br />Toasted Marshmallow "spit-em-out-quick" F<br />Cantaloupe A<br />Coconut A (it tastes just like coconut)<br />French Vanilla +D<br />Sunkist Lemon -A<br />Mango A<br />Peach A<br />Raspberry A<br />Strawberry Cheesecake B<br />Top Banana A<br />Wild Blackberry -B ( Be careful! You can easily confuse it with licore)
+
+product/productId: B001XSMANI
+review/userId: A1UABWCHY6M9H3
+review/profileName: Graham Taylor
+review/helpfulness: 17/18
+review/score: 5.0
+review/time: 1268611200
+review/summary: as good as standard jelly belly
+review/text: Fan of Jelly Belly and took a chance on these, not sure if they were the real thing or not.  They are.  A good deal.  A bit more expensive than generic jelly beans but certainly a better bargain than the standard label Jelly Belly.  Same flavors, etc.  If you like high-end jelly beans, these are as good as any.
+
+product/productId: B001XSMANI
+review/userId: A3RW2BD226EP6V
+review/profileName: Trevor Curtis "~Trevor~"
+review/helpfulness: 14/16
+review/score: 4.0
+review/time: 1257984000
+review/summary: ok
+review/text: It was shipped fast, the only problem is I was missing quite a lot.. I measured it and I had about 3 pounds... :/ I wish I could at least get that last pound, but otherwise very tasty and fast shipping. Hope if I buy again, I won't be missing 1lb of them...
+
+product/productId: B001XSMANI
+review/userId: A8KI48JHI4KCF
+review/profileName: Brian D
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1253577600
+review/summary: Solid product for the price.
+review/text: Solid product at a very reasonable price.  Pound for pound cheaper here then other places and overall a good product.  Only downside of my experience was I ordered during the summer when it was 100+ degrees which is my own fault Jelly Belly's don't hold up in the heat very well.  I'll definitely be ordering again when it's a little cooler out.
+
+product/productId: B001XSMANI
+review/userId: A13JK0SJSVFLF
+review/profileName: Avid Reader
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1307318400
+review/summary: Good deal when...
+review/text: A number of reviewers have complained about the price of this product-- stating that it's higher than the price at Costco. While that statement is true-- this product is a good deal when 1) you're sending it to someone as a gift 2) you have an Amazon prime membership, and 3) the person you are sending the gift to does not live near a Costco-- or have a Costco membership. When those conditions are met, this is a great price performer, and a welcome gift. I was going to buy the product from Costco, and send it to a friend, until I realized that shipping would cost more than the difference in price-- along with my time, the cost of the box, packing material, etc. I've sent this item to friends regularly, they always enjoy it and appreciate the gift. I appreciate the quality of the Jelly Belly product, and saving on shipping- compared to sending it myself.
+
+product/productId: B001XSMANI
+review/userId: A2CSJUP3KRQ3C3
+review/profileName: L. Garrison "Ferox"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1274572800
+review/summary: Mmmm, addictive. :)
+review/text: Same product can be bought at Costco for 13-14 bucks. But totally worth it even at $[...]; very, very yummy and addictive. Don't keep them near your computer. :P
+
+product/productId: B001XSMANI
+review/userId: AY12DBB0U420B
+review/profileName: Gary Peterson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1269475200
+review/summary: Much Too Tasty!
+review/text: I've always liked jelly beans and my wife has also. I never thought much about the different brands until I heard many years ago that President Ronald Reagan's favorite brand was Jelly Belly. Out of curiosity, I tried them. They were excellent! They were  smaller, quite brightly flavored and more expensive. In any case, I quite enjoyed them but we try to keep our consumption low. We try to eat (or serve) very little candy and when we serve it or eat it, the candy has to be first rate.<br /><br />Well, my wife and I were wandering the isles of our local warehouse store and there was a big display of Kirkland Signature Jelly Belly jelly beans. They came in four-pound jars and were much less expensive than the small packets we usually bought. How could we resist? They were excellent, just as we expected. The variety of flavors is incredible. Some people like to pick out types of all one kind and others just dip in and chew a mouthful to see what happens. I happen to be one of the latter. We keep the jar of jelly beans around mainly for guests and special events such as Halloween and birthdays, but now and then the temptation is just too much and we modestly indulge. They're really much too tasty!<br /><br />Gary Peterson
+
+product/productId: B001XSMANI
+review/userId: A331MVAMZ2WBH8
+review/profileName: buttonskay
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330992000
+review/summary: I love these, and I don't even normally like jelly beans...
+review/text: I have never been a big fan of jelly beans...I am more of a giant chewy sweet tart person. At my last quilting group meeting, one of the ladies brought a bag of what I thought was jelly beans. She offered me one, I respectfully declined saying thanks but I really don't like jelly beans. She replied, along with a few of the other gals that "These aren't jelly beans, they're jelly belly beans!". So, I decided to try them. Now here I am on Amazon after purchasing this 4 lb. package of jelly belly beans, I priced them in several places, this is definitely the best price. I did wonder when I saw Kirkland Signature before the Jelly Belly Beans that they would not be the same ones; I needn't have worried as these taste exactly the same as the others I have had.
+
+product/productId: B001XSMANI
+review/userId: A2EK2WOBG7JAAT
+review/profileName: Cinemaniac
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330300800
+review/summary: Such a bargain!
+review/text: My former boss of blessed memory loved to put candy out in the office.  On a trip to Hershey, Pa she discovered Jelly Bellies which came in a nice platic canister.  I think it was about 2lbs.  The kids in the office would go nuts over them.  I haven't had them in years but when I came across this 4 lb wonder I had to order them.  I love the crazy flavors.  In fact, I think popcorn is my favorite.  Don't know if I could eat a handful of just that flavor but one at a time is just terrific.  As for the price, I don't belong to Costco and to save $3.50* wouldn't be worth a trip there because in the end I would probably spend a couple of hundred dollars there (like I do when I got to Target).  With Amazon I get my $25. worth to get free shipping and then I'm outa here.  *And no sales tax makes up for some of the price difference because you'd pay it at Costco.  Also, in the long run, I save because I've gotten some absurdly cheap prices here.
+
+product/productId: B001XSMANI
+review/userId: A3PZ4AXTY9J1DZ
+review/profileName: Jason Ralsky
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1322179200
+review/summary: Just as Good as Jelly Belly...
+review/text: These Kirkland Signature Jelly Belly...Jelly Beans are basically Jelly Belly Jelly Beans.  Not only are they the same 49 flavors you get when you purchase a 49 flavor pack from Jelly Belly, but these also have the Jelly Belly logo.  They taste identical to a standard purchase of Jelly Belly Jelly Beans as well but cost much less per pound it seems.  To be honest my original review of Jelly Belly brand jelly Beans sums up Kirkland Signature Jelly Belly's perfectly.<br /><br />- As Seen on the Jelly Belly 2-pound Pouch review -<br /><br />"The jelly belly's I got were excellent quality as I am used to with the Jelly Belly brand. There is no comparison between a Jelly Belly bean and a generic jelly bean you find in the supermarket. Jelly Belly beans are richly flavored, with each flavored bean having a distinct flavor to it. This isn't just some sugary bean you pop into your mouth and enjoy a sweet treat. Each tiny bean is packed with flavor, and by having 49 distinct flavors (plus mix n' match combos) the variety makes each portion of jelly beans a flavorful adventure."<br /><br />*<br />The only real difference here is that Kirkland Signature comes out much cheaper per pound.  Amazon seems to typical be charging around $7.80 to $8.99  per pound for Jelly Belly...  Kirkland Signature comes in at around $6.50 per pound (as of 11/25/2011).  Still that is a steep price to pay for delicious jelly beans, but it is worth it.  I usually won't pay more than around $7.99/lb for Jelly Belly so these Kirkland Signature's come in at a good price range.<br /><br />This product I would of given 5 stars (just like the Jelly belly 2-pound pouch) but what holds it back is that Jelly Belly's make for a rather expensive treat; But a treat worth indulging in!  As for the price, yes you can easily get this product at Costco for cheaper (you can get 3-pound tubs of Jelly Belly at BJ's Warehouse also), but for an online purchase the price is quite fair.<br /><br />NOTE: I've included a list of all 49 flavors contained in this 4-pound tub in the comment section of the review
+
+product/productId: B001XSMANI
+review/userId: A1BUXRDRK8MXTA
+review/profileName: Juba Kazoo "&#34;Judy&#34;"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1298505600
+review/summary: MMMGOOD!
+review/text: These are sure great tasting things, many different flavors at a good price.<br />When you're done eatin them, you can put something like grapes in the jar!
+
+product/productId: B001XSMANI
+review/userId: A9LFRUY9Q3KTL
+review/profileName: Mary Ahearne
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1247443200
+review/summary: Jelly Belly lovers
+review/text: Large amount, good price, surprisingly good assortment.  Only one I don't care for is the mottled green color. Really recommend this Jelly Belly for lovers!
+
+product/productId: B001XSMANI
+review/userId: A2QY7506XMXEKH
+review/profileName: Eric Scott "ericsf"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1340236800
+review/summary: Real Jelly Belly with 3 differences
+review/text: There seems to be a question as to the authenticity of these jelly beans. As a long time Jelly Belly connoisseur, I would attest that these are indeed real Jelly Belly jellybeans, but there are 3 differences I have found between this jar and the smaller bags that you can purchase at your local supermarket:<br /><br />1. These beans do not have the little "Jelly Belly" white logo stamped on the beans.<br /><br />2. These beans come in 49 flavors as opposed to the regular 30 or 39 flavors that the assorted store bags come in. This might attest to the "What was that flavor? These taste different than the supermarket beans" claims of some reviewers. (Officially, the Jelly Belly website lists 50 official flavors. Anyone know which flavor was left out of this jar? :)<br /><br />3. Most importantly, I've noticed that the distribution of the assorted flavors seems less uniform in these big jars. I'm about 1/2 way through a jar and have yet to find a peach, Dr. Pepper, caramel corn or cappuccino and have only had a few buttered popcorn, juicy pear and top banana, but there seems to be a lot more of lemon, lime, orange and cherry. Understandably, it makes sense that the more exotic and probably more expensive to produce flavors are included less frequently in such a large, economy priced jar.<br /><br />Otherwise, these are as real as I can tell and there is still a pretty good assortment of flavors, just don't expect a lot of buttered popcorn...
+
+product/productId: B001XSMANI
+review/userId: AG21NYW4MWCS6
+review/profileName: Cher
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1340150400
+review/summary: Last two orders were sticky, maybe moisture inside????
+review/text: I ordered one of these, then I order two more.  The two in the second order were sticky and stuck together. I believe there was some moisture inside when they were sealed, but I am not sure.  They tasted fine but it was disapointing, since I bought them as gifts and I didn't feel comfortable in giving them as gifts because they were so stuck together, and sticking to the sides of the container. I decided to open and check it and I discovered that they were indeed sticky.  So I didn't want to give the second as a gift because I knew it was the same way by the looks.  When I finely open it, it too was the same way.
+
+product/productId: B001XSMANI
+review/userId: A24H6XABY1QB09
+review/profileName: Rafman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338595200
+review/summary: Best little jellies anywhere
+review/text: Dont look further. They are the best and this is THE DEAL for them.  4 lbs of pure sugar heaven.
+
+product/productId: B001XSMANI
+review/userId: A35BALA39O1NYU
+review/profileName: Thomas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327622400
+review/summary: Not 1 single flavor jelly bean I did not like
+review/text: After some folks saying a few of the flavors are spit-em-out bad I was hesitant to buy these but I must say I have not come across a single one which I did not like. Most are great and maybe 5 or 6 are OK but definitely not "spit-em-out" bad and none of which I look to avoid.<br /><br />cons: I can't stop eating them
+
+product/productId: B001XSMANI
+review/userId: A146QH8GQ91779
+review/profileName: K. Martin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309305600
+review/summary: Yummy choice!
+review/text: I enjoy a handful of Jelly Belly's from this jar everyday. It is a small and relatively low calorie snack. 33 Jelly Beans is more than enough and is only about 120 calories. Great product.
+
+product/productId: B001XSMANI
+review/userId: A30G6Q3WKQ2ONS
+review/profileName: MeMoi27
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306108800
+review/summary: For the love of Jelly Bellys
+review/text: These are 100% the real thing.<br /><br />I bought out my local Walmart of jelly belly's for a party favor jars I am making. When they didn't have enough of the product I went on amazon ( which I should of done first would of saved a lot of money ). They shipped fast, the jar was full of goodness. When I got them I compared flavors with the jelly belly's I hard already purchased. They are the same product. The brand this is sub packaged by ( Kirkland Signature ) is actually the same brand at Costco. If Wikipedia is right about the brand Costco does own it ( I say if because it isn't always dead on ) but they do carry it in there stores.<br /><br />Will be purchasing again for my own greedy stash of Jelly Belly's!
+
+product/productId: B001XSMANI
+review/userId: A145QW0HKL8SD0
+review/profileName: bonneylassy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300320000
+review/summary: excellent quality and price
+review/text: oh this is the second time I am ordering these 4 lb. plastic jugs of Jelly Belly 49 flavor variety pack,,,,,the first time I ordered just one of them,,,as I had seen some bad reviews on them,,<br /><br />They are the all time best,,,this time I ordered two of the 4 pounders,,,next I'll be getting the cute little Jelly Belly candy dispenser,,,<br /><br />As always I have never been let down by Amazon.com ,,,,quick ship,,very nicely packaged...<br /><br />I am on a diet for sodiam and Cholesterol,,,these are my treat at night,,,,for being good all day long,,,I have done very well on my diet ,,I keep losing and these at night haven't hindered my progress at all,,,in fact they help me stay of my diet :)<br /><br />Love Amazon ,,they stand behind their products :)
+
+product/productId: B001XSMANI
+review/userId: A1MMFSW19AM019
+review/profileName: B. Wueste
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288828800
+review/summary: Authentic jelly belly beans at a great price
+review/text: I discovered these at my local Costco and they've become a permanent staple on my kitchen counter. They're actually the perfect snack to leave out all the time because you only have to eat one or two to get that really sweet flavor kick that satisfies after a meal or between meals. These are authentic jelly belly beans with all of the great flavors and some of the nasty ones like buttered popcorn and licorice. This is a great deal for this many jelly beans if you factor in that you'll do what my wife does and only eat the brightly colored ones avoiding all dark colors like licorice and coffee.
+
+product/productId: B001XSMANI
+review/userId: A2GYD1STH4STV5
+review/profileName: l.h.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285372800
+review/summary: fresh and tasty
+review/text: Jelly Belly's have always been my secret vice. Now that I live out of the country I got this mammoth jar and it will last me more than a year. It came fresh and well sealed and right on time. Love the variety of flavors..yum.
+
+product/productId: B001XSMANI
+review/userId: A1YJHWKVTABQ37
+review/profileName: Wesley "WES-MAN"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1275696000
+review/summary: WOW! Taste like the real thing.
+review/text: These jelly beans are small but have a big taste. I found myself laughing because these taste so much like the real thing. Some flavors that totally shocked me were cappuccino, juicy pear, cantaloupe, peach and margarita...taste just like the real thing. They are very fresh and soft. They also come with the Jelly Belly chart on the back of the container which shows pictures of all the jelly beans and their description. A wonderful deal on sale for $24. I will buy another.
+
+product/productId: B001XSMANI
+review/userId: A2QUJQOBJV3SOI
+review/profileName: Beth A. Ryan
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1275091200
+review/summary: Kirkland Signature Jelly Beans 49 Flavors
+review/text: If you like all flavors of jelly beans and then some, these are for you.  Great by the handful!
+
+product/productId: B001XSMANI
+review/userId: A14BKPT8F0Q8IK
+review/profileName: OK WHY NOT
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1273449600
+review/summary: Wow what a great idea::
+review/text: Great flavors: Great fun in guessing the different ones: Kids all had a great tme:
+
+product/productId: B001XSMANI
+review/userId: A3OXHLG6DIBRW8
+review/profileName: C. F. Hill "CFH"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1279411200
+review/summary: Great Tasting and a Great Value - Highly Recommended
+review/text: Kirkland Jelly Beans are a great value and all 49 flavors are very good tasting. These are very sweet and, now being a Type 2 diabetic, I can't have them anymore but still occasionally pick them up for my kids. They love that the individual flavors can be mixed to create interesting combinations and each one unique enough where it is possible to identify the flavors with some degree of certainty.<br /><br />Four pounds is a lot of jelly beans to eat casually, but they do keep for a long time.<br /><br />Highly Recommended!<br /><br />CFH
+
+product/productId: B001XSMANI
+review/userId: A23HLM6ZDO2IF3
+review/profileName: J. Olivo
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1308787200
+review/summary: not for the faint hearted
+review/text: If you're looking for a delicious candy treat to haphazardly pop in your mouth and enjoy, beware.  This isn't a simple mix of run-of-the-mill flavors.  If you're looking for a mix of orange, cherry, lime, grape, etc. - stay away.  Great for those who are adventurous with their candy flavors, willing to be surprised by unexpected flavors.  As for me, I found myself digging through the container for safe, solid colored beans.  As in nature, colored specs are to be considered a warning.  Overall, a good buy.  Good flavors and texture.  But finding 49 different flavors of delicious jelly beans proves to be a stretch.
+
+product/productId: B001XSMANI
+review/userId: A2DCAQX8SRQSCW
+review/profileName: Denise Kirchoff
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1304467200
+review/summary: Great Price for the Amount of Jellybeans
+review/text: If you love Jelly Beans these are the ones to get !!  Great variety in flavors, my kids cannot keep out of them.
+
+product/productId: B001XSMANI
+review/userId: A2862MIILFPLMO
+review/profileName: Retired Tire Engineer "Drew"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336867200
+review/summary: Lots of Jelly Bellies
+review/text: You might gain some weight if you order this item.  This is a big jar with lots of Jelly Belly beans in it.  All very good, of course.
+
+product/productId: B001XSMANI
+review/userId: ADKCH4SGJZGF8
+review/profileName: Cody
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335830400
+review/summary: Pretty good to me...
+review/text: I bought these for my girlfriend who loves Jelly Bellys. (I'm more of a chocolate guy). I had a handful or two of them and can say that neither of us had any complaints. I'm not quite sure why some of the other reviewers are saying these are bad or seem to think they aren't actual Jelly Belly brand. I can assure you that they are and that this is a great value.
+
+product/productId: B001XSMANI
+review/userId: A2HZUAWOFBUZJ8
+review/profileName: Mrs. B "Math Teacher"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1335657600
+review/summary: Have Allergies? Read this
+review/text: These fresh, delicious Jelly Belly jelly beans  are not packaged by Jelly Belly and the container states: "packaged on equipment that also packages products that contain peanuts, tree nuts, wheat, soybeans, eggs, and milk".  Jelly Belly explains on their site: "on occasion other companies repackage our products...Please check with the packaging company regarding possible peanut and tree nut exposure."  If you buy from Jelly Belly you will pay more and wait longer for shipping but the jelly beans are only manufactured in a plant that processes nuts, but not on the same equipment.  I work in a school with a strict allergen policy and they wouldn't accept anything made on the same equipment as nuts, although they would accept jelly beans made in the same plant that processes nuts.  At least my husband and his colleagues enjoyed them!  If you don't have to worry about allergies, these are a great buy and contain a variety  of delicious flavors.  If you want to know what you are eating, the label contains pictures of the jelly beans with their flavors listed underneath.  These jelly beans are even kosher(under the O_U) and pareve.  If you do have allergies, it's best to be informed before you buy.
+
+product/productId: B001XSMANI
+review/userId: AYB7A432HYBLB
+review/profileName: Liz B.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334880000
+review/summary: Perfect
+review/text: Just exactly what I needed to complete the props for the Easter Egg Hunt. Great assortment and delicious.<br />Perfect size jar for "Guess How Many Jelly Beans Are In This Jar???"
+
+product/productId: B001XSMANI
+review/userId: A1046ICIMHENBN
+review/profileName: tom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334016000
+review/summary: jelly beans kirkland
+review/text: the jelly beans arrived on time they taste great they fit perfectly into my new gum ball candy machine i orded  from amazon i always wanted one in my home and they beans are a perfect match  i will definelty order them again<br /><br />happys beans<br />T :)
+
+product/productId: B001XSMANI
+review/userId: A228INT3C496VT
+review/profileName: S. Dungan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323561600
+review/summary: Great Product
+review/text: I love these jelly beans. If you have a Costco in your area they are only $16 at the store.
+
+product/productId: B001XSMANI
+review/userId: A1MJ9WGV5OZCPV
+review/profileName: AndyD
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318291200
+review/summary: Jelly Belly's Rule
+review/text: They are the most delicious Jelly Beans around. Hands down. I wish they sold a 50-lb container. If they did, i would likely purchase it.
+
+product/productId: B001XSMANI
+review/userId: A2RB1UZSJJMVBQ
+review/profileName: Class 64 "C172"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315699200
+review/summary: Good Deal
+review/text: Received product as advertised and in a very timely manner.  Would consider order again. If you like Jelly Bellies this is the way to order.
+
+product/productId: B001XSMANI
+review/userId: A2K7JWATROGEV3
+review/profileName: R. Merritt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314921600
+review/summary: Gift for hubby, very pleased
+review/text: Wanted a gift for my husband that was something he would really want, wouldn't buy for himself, but wasn't outrageously expensive. We also try to only buy things that take up space that are practical :) Once these are gone-no space needed. It was a BIG hit for his birthday. He loved them. I know many complain that Costco is cheaper--but we don't have one. This is way cheaper than anywhere around here!! Very pleased!!
+
+product/productId: B001XSMANI
+review/userId: A25MXLTFUCN9OU
+review/profileName: J. Vachon "noob"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272326400
+review/summary: Good Stuff
+review/text: All the flavors are great. Such a great assortment.<br /><br />The container can be used for other things (daughter moved all her loose change into one of them) when empty....very stout seal-able container.<br /><br />Leave them out for family and friends and they are gone in no time.<br /><br />Careful, you may need to put these Jelly Belly's on a subscription!
+
+product/productId: B001XSMANI
+review/userId: A336FCPK8ZVMYT
+review/profileName: Gerald Williams "booklistener"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268265600
+review/summary: Kirkland Signature Jelly Belly Jelly Beans
+review/text: I bought four of these for gifts; all the recipiants were pleased with them and complimented the quality.  Shipping was very fast and they all arrived in perfect condition.  They are pricy for personal use; I think I could do better at the grocery store with a generic brand but for Jelly Belly the price isn't that bad.  I used Amazon prime shipping.
+
+product/productId: B001XSMANI
+review/userId: A37BN2S9395O7N
+review/profileName: Ricky D. Gordon "Attorney at Law"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265500800
+review/summary: Delicious Variety of Flavors
+review/text: Great price for a huge container of the most flavorful Jelly Belly Jelly Beans.  Mmmmm!  Excellent seller, great price and fast delivery.
+
+product/productId: B001XSMANI
+review/userId: A1WCNFIQHKVCFR
+review/profileName: Lee Greene
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1262822400
+review/summary: Jelly Belly
+review/text: When I received my order it was exactly what I wanted.  I would definitly order from them again
+
+product/productId: B001XSMANI
+review/userId: AHIJR9QVBQFFV
+review/profileName: jeff
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1342051200
+review/summary: Way overpriced now
+review/text: I have been ordering about one of these a month for the past year. All of a sudden the prices gone from about $20 to 28! These jellybeans are good but they're not worth almost $30 sorry.
+
+product/productId: B001XSMANI
+review/userId: A1CL2XJTN8QA2T
+review/profileName: L. Balog "Honest Cowgirl"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1337644800
+review/summary: Not EXACTLY like Jelly Belly's But....
+review/text: It's funny.. ask a kid what flavor they want and the answer will be "red" or "blue".. Aside from the Cinnamon, Blue and red are icky.. to me...I don't care much for the white or pink either. I guess my favorite would be the buttered popcorn(.. Least Fav  Licorice or black(cofee/brown..yuck)<br />  What I have found missing that is another fav is the red wrapped green that is watermelon.. I live by a "Deals" store and I usually buy up the 1.00 bags of 8 ounces each of the "Belly Flops". These are the mistakes.. The ones that didn't conform to the mold or were stuck together. It works out to about 2.00 a pound for real Jelly Belly's but if they don't have them a neck and neck contender is the Kirkland/Costco 4 pounder.. As a Jelly Belly eater since the 80's (Good old Ronnie Reagan) I find them to be just as good.. In fact, most of them are indistinguishable from Jelly Belly's... Considering the deal I get on the bags of "Belly Flops" this is still the second best deal. If you are a prime member, you pay no shipping.. Or tax , for that matter...<br />  Even a Jelly Belly snob wouldn't be able to tell these apart... blind folded of course beause most Jelly Belly's have a stamp..lol
+
+product/productId: B001XSMANI
+review/userId: AZW0YIREDLXS
+review/profileName: Reader Gram "booksgalore"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1325116800
+review/summary: Jelly Belly Beans
+review/text: Always love these. They are the best confectionary around. Grandson loves them so of course I purchased for Christmas and arrived on time and in good shape. We are all happy with the purchase.
+
+product/productId: B001XSMANI
+review/userId: A29VIRWO4MJ03W
+review/profileName: Michael
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1323216000
+review/summary: Jelly Bellies
+review/text: My wife is a jelly belly adict.  When one of our local stores ceased stocking them, I turned to Amazon to help me out.  It's really a hoot to get them in bulk like this.  Thank you
+
+product/productId: B001XSMANI
+review/userId: A2B0OC5MGBP2P4
+review/profileName: Stephen A. Nesbitt "Steve"
+review/helpfulness: 8/13
+review/score: 2.0
+review/time: 1258502400
+review/summary: Bizarre flavors
+review/text: On the plus side, this is a big, heavy plastic jar full of colorful jelly beans. On the negative side, so many of the flavors are  "spit-em-out-quick" nasty. My wife and I thought only about a third were actually pleasant. A better idea would be to get a big jar full of just a few "normal" flavors.
+
+product/productId: B001XSMANI
+review/userId: A3JPPYWMREM7DL
+review/profileName: T. Mai
+review/helpfulness: 4/7
+review/score: 2.0
+review/time: 1333756800
+review/summary: Same jar at Costco but 16 bucks instead of 22
+review/text: I bought this online thinking that it will be cheaper but went to Costco the same day I received it and found the same jar and same Kirkland brand but less than 16 bucks. I paid 22. We bought a lot of candies for Sunday Easter. Maybe returning the most expensive ones and buying at Costco or Walmart, we'll still save money.
+
+product/productId: B001XSMANI
+review/userId: A3H7BCZGBKMW2S
+review/profileName: Dr. Leslie M. Green MD "Dr. Leslie"
+review/helpfulness: 4/7
+review/score: 3.0
+review/time: 1289865600
+review/summary: Jelly Beans
+review/text: The price here was $10 more than at Costco. I wish I had known this before I bought them here. :('
+
+product/productId: B001XSMANI
+review/userId: A834RFYCL652H
+review/profileName: B. Solomon "Stealth Tutor"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1348876800
+review/summary: Not for me
+review/text: I am a Jelly Belly nut. Stopped at the factory outside of Sacramento - which is a great tour, if you are ever up that way.<br /><br />I have been duped by knock-offs, but these Kirkland ones are real JBs. I will not buy them, however; they are about 70% the good flavors and 30% not-so-good. I give them to my students, and we always have about 3" of yellows - way too many yellows - left over. The kids don't like them, I don't either.<br /><br />And whoever said that licorice and buttered popcorn are not good is WRONG. They are the best.<br /><br />JellyBelly factor sells them at this same price and you get to choose the flavors.
+
+product/productId: B001XSMANI
+review/userId: A1UJTGUIXRWUGK
+review/profileName: Doris Glaspy
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1271635200
+review/summary: Jelly Belly Jelly Beans
+review/text: Kirkland Signature Jelly Belly Jelly Beans are the best bang for your buck.<br />Good quality at the best price.
+
+product/productId: B001XSMANI
+review/userId: A3NU6L3O07Y4I4
+review/profileName: William J. Weber
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1297555200
+review/summary: very good
+review/text: This item was a gift and they sent the invoice paid to them.  Gifts should NOT get this information.
+
+product/productId: B001XSMANI
+review/userId: A1Y7TIDOJ90CCW
+review/profileName: Lady At The Lake
+review/helpfulness: 4/9
+review/score: 1.0
+review/time: 1312675200
+review/summary: Just Awful Tasting
+review/text: We just purchased these because it seemed like a good deal and we love Jelly Belly candies. Both DH and I couldn't stand these. For whatever reason, they taste nothing like regular Jelly Belly brand candies. I'm wondering if there is some cheap imitation thrown in with the regular ones to create a product for Kirkland. Has an off-taste and chemical after-taste we just can't deal with. Regardless, we are turning this back into the store for a full refund.
+
+product/productId: B001XSMANI
+review/userId: A1DUBVSD5GQ7CP
+review/profileName: LloydST
+review/helpfulness: 0/3
+review/score: 2.0
+review/time: 1309824000
+review/summary: Too expensive!!!!
+review/text: Delcious jelly beans.  Jelly Belly is the best.  There are other brands almost as good for much cheaper.  Gotta save where you can!
+
+product/productId: B001XSMANI
+review/userId: A39A9HNVRERXFL
+review/profileName: cazidog "cazidog"
+review/helpfulness: 1/6
+review/score: 2.0
+review/time: 1280880000
+review/summary: They're alright!! I don't think they taste just like the real thing though.
+review/text: I didn't like these as much as the real thing by any stretch. Some of the flavors were just off to me, and some weren't in there that are my favorites. My favorite Jelly Belly brand jelly beans are the red apple flavor, but these weren't in there. The licorice flavored ones were really overpowering to me, but the real Jelly Belly's I like the licorice flavored ones. Not in this container though, I found myself skipping these ones. They are still a great deal, and they are great tasting beans. I am a real Jelly Belly fan, and for that reason alone I don't think I would purchase these again. I think the real Jelly Belly's have more taste to them. I am curious to know though, how they are able to use the Jelly Belly logo on these.
+
+product/productId: B001XSMANI
+review/userId: A2Q3KFKMOKXXCU
+review/profileName: Amsterdam00
+review/helpfulness: 5/14
+review/score: 1.0
+review/time: 1272153600
+review/summary: Plastic canister doesnt hold up
+review/text: I was not happy at all with this. Not only did it take very long to arrive at my doorstep, the canister was already popped on the bottom with jelly beans spilled out in the box. It took many angry emails to find out this product was on backorder, to send a replacement. Since I was already waiting six weeks I chose to take the partial money back they offered. I will never order with them again!
+
+product/productId: B001XSMANI
+review/userId: A2D9HQ6P8SW9S
+review/profileName: Dr. Mary Ann Joyce-walter "annie giblin"
+review/helpfulness: 2/9
+review/score: 1.0
+review/time: 1310256000
+review/summary: too expensive
+review/text: Got this item for 15.00 at my local New York Costco.<br />Like the candy, but this price is outrageous.
+
+product/productId: B001XSMANI
+review/userId: A3SAIGBIMD86XS
+review/profileName: JohnD
+review/helpfulness: 7/23
+review/score: 1.0
+review/time: 1321660800
+review/summary: Ridiculous Rip Off
+review/text: I have been buying from Amazon for about a year and for the most part I have been very pleased with their prices and service. I have, however, learned that it is a good practice to check prices before having the luxury of having items sent to my door at no cost. For the most part Amazon's prices are in line and are competitive, but sometimes they run too far into left field and run head first into the wall. It is worth $10.00 to me to make a trip to Costco to buy a bucket of jelly beans. I bought this exact product today for $15.89 at Costco.  JohnD
+
+product/productId: B0014EOVI8
+review/userId: A1WX42M589VAMQ
+review/profileName: Mir
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1235606400
+review/summary: The best of the Healthy Request Soups! Flavorful!
+review/text: Of all the light or healthy versions of canned soups by Campbell's (and others, too), this is my favorite. True, I happen to like most things that are Mexican in flavor, so that's a factor. But after sampling some "diet-friendly" soups that were bland or boring or heavy on the celery flavor (hate that), this was a lovely change.<br /><br />I've made sure to keep it stocked in my pantry for over a year now.<br /><br />It's tomatoey brothy, it's got black beans and chicken and rice, but it's not stew-like. It still has plenty of broth, so it's adaptable. I tend to sprinkle some low-fat cheddar on top to add to the flavor and texture. Some days, I'll open a can of black beans and add it for more fiber. When I want to splurge, I add more beans, corn, low fat cheese and a tiny dollop of lite sour cream.<br /><br />If you have leftover veggies and rice, you can thicken it into a stew. I've done it, and it works.<br /><br />Some info: One cup has 130 calories. It has 480 mg of sodium per serving, and 2 g of fat--one of those saturated--plus 2 grams of fiber and 8 grams of protein.<br /><br />This is just a fun soup and tasty and a winner from Campbell's. I hope it stays in their line permanently.<br /><br />A note: The convenient microwavable can version of this doesn't taste as good. It probably has to do with it being cooked IN the can in the nuker, maybe, not sure. But I did notice it tasted "tinny" in that other packaging. I'd recommend THIS can and cooking in a non-reactive pot (ie, stainless steel), because this broth is very tomatoey.<br /><br />Enjoy.<br />Mir
+

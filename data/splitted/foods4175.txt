@@ -1,0 +1,1143 @@
+product/productId: B003750AIC
+review/userId: A19D88GOI59J3S
+review/profileName: AL
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323648000
+review/summary: Pik-Nik Original Shoestring Potatoes - 12 Pack
+review/text: I live in Europe and wanted a little taste of home, and this reminded me of just that. Well packaged, arrived with NO Damage.
+
+product/productId: B001I1A7KI
+review/userId: AUWD1HY2RT8PT
+review/profileName: unc girl
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1254960000
+review/summary: Great coffee!
+review/text: I had this coffee in a restaurant and loved it so much that I order it through Amazon.  The dark roast is also quite good.  For the first two bags, the shipping was almost as much as the coffee, but if you order more the shipping costs don't increase, so it's best to order multiple packs.
+
+product/productId: B001I1A7KI
+review/userId: A25CXS01B26E7H
+review/profileName: Book reader
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1255910400
+review/summary: Douwe Egbert coffee
+review/text: Excellent coffee.  My husband had it at a restaurant in Arkansas and we had to order it as soon as we got home.  Other people in the restaurant were talking about how good it was.
+
+product/productId: B001I1A7KI
+review/userId: A1UA2D8Y8KERPF
+review/profileName: Scuz
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323820800
+review/summary: Damn good coffee
+review/text: I ordered this after having my first experience with Douwe Egberts at a local restaurant.<br />Although this isnt exactly the same (the restaurants use a concentrate that the machine measures precisely) it was damn good none the less.<br /><br />I'm not much of a coffee drinker because I hate the bitterness in most coffee's but this had no bitterness at all and was very smooth.<br /><br />I'll be ordering this again.
+
+product/productId: B001I1A7KI
+review/userId: ARVRKV7G4EUKD
+review/profileName: Dr. J
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1283731200
+review/summary: Too expensive for the size
+review/text: Big price, small package, and doesn't taste quite as good as it does at the Embassy Suites, where I first tasted it.
+
+product/productId: B004N5KIV4
+review/userId: A2MF0C4E7GYCI
+review/profileName: VW "VW"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317686400
+review/summary: My son loves them
+review/text: My son loves these puffs and they are organic and a good price.  That's all I care about.  This is also a weird thing:  I love the packaging.  It's more slender than other puffs that I've purchased, so they don't take up as much room.  Weird, I know but these reviews have to be at least 20 words.  :)
+
+product/productId: B004N5KIV4
+review/userId: A1W258ZNSF4R5O
+review/profileName: A. Kundart "Simon's Mom"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328227200
+review/summary: Puff-a-rific!
+review/text: Organic, low-calorie, melt-in-your-mouth snacks that taste great....what more can you ask for?  My 1-year-old loves these.  Unfortunately, none of the local stores seem to carry them, so I have them auto-shipped directly to my house.  Love that!  Don't tell, but the husband and I also eat a few of these from time to time.  They really are yummy!
+
+product/productId: B004N5KIV4
+review/userId: A1ZO50XHPV0QPQ
+review/profileName: Heather "AB1761"
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1310428800
+review/summary: Just "ok"
+review/text: First, I LOVE Plum Organics products!  This is not a review against the company, just this particular flavor. Its not really a banana flavor to me. Very mild. The blueberry/purple sweet potato and strawberry/beet have the most flavor with apple/spinach being the third.  I'd say this is the 4th and the least flavorful is the mango/sweet potato.  My son still ate them but not as well as others.
+
+product/productId: B004N5KIV4
+review/userId: A2V3IV40TYYKY4
+review/profileName: CK in PA
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339372800
+review/summary: Delicious and nutritious!
+review/text: What's to say? Baby and 3.5 year old love them! They're good too...I tried them. Yum! We will definitely order again! Bulk<br />is the way to go with these.
+
+product/productId: B004N5KIV4
+review/userId: AMWN4UGD6BQPA
+review/profileName: Y. Y. Chang "CSUF"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1334275200
+review/summary: no taste at all
+review/text: Bought diff flavors while the local store had them on sale. This is the first time I tried Plum's brand. I only opened the yellow one and the purple one. The yellow one is supposed to be banana and peach... Tastes like nothing but just rice waffle in star shapes. No banana or peach flavor or smell. I understand it is supposed to be organic but ORGANIC doesn't have to be tasteless. The purple one which is supposed to be purple potato and blueberry, which tastes like cough syrup. I drank water and still had the weird taste in my mouth. So disappointed. Will return the unopened one back to the store and try other brands instead.
+
+product/productId: B004N5KIV4
+review/userId: A5I3YP4FT09SK
+review/profileName: Juan M. Carrillo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Baby loves it!!
+review/text: Baby loves them!! I personally dont think they taste much like anything, but hey!! Im not the one eating them! If you want to feed your child a healthy treat, this is a good option.
+
+product/productId: B004N5KIV4
+review/userId: A2GSZE3TK1BOM5
+review/profileName: Casey Matthews "kase082"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311897600
+review/summary: Great Product
+review/text: My daughter LOVES these puffs.  They are a smaller package then the other organic puffs, but they taste 3 times better.  Great product and I would recommend to others.
+
+product/productId: B004N5KIV4
+review/userId: A397YONET317GX
+review/profileName: r defriend
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1331164800
+review/summary: Power Puff for Digestive Health Leads the Pack!
+review/text: Searching for a low-sugar wheat-free puff to offer my baby girls, I discovered Plum Organics with much joy. Clearly superior to all other major brands of baby puffs for digestive health, who's better than Plum for my family? I've successfully battled to contain a serious digestive disorder called Ulcerative Colitis for over a decade in part by special attention to diet. In that time I've learned even moderate amounts of wheat causes problems by creating an overgrowth of Candida yeast in my system. Some know this as a sensitivity to gluten or sugars, others suffer without realizing as so many foods contain wheat or high amounts of sugar. For me it's cumulative folks, a little in nearly everything really piles up. I notice my body getting too much as soon as I begin to heavily crave breads or sugars.  Before you know it, that gummy gluten renders me 90% incapable of absorbing nutrition altogether.<br /><br />Back to the Puffs... wheat is high in gluten, but the oat and rice based Puff offered by Plum Organics stands out with ingredients more gentle on digestive function. This is in addition to providing all the stuff HappyBaby remains conscious of, like sugar and vitamin content. Rice is gluten-free and minimally processed oat may be too, but many still leave it off the list of gluten-free foods due to typical cross-contamination issues with lots of wheat growing and processed alongside oats. Small amounts are ok with me anyway -- I'm looking for regulation rather than elimination here. So I'm happy to introduce all these foods to my daughters at healthy levels.<br /><br />How about the sugar content? Super low, and only natural organic fruit, vegetable or cane juice is used (not corn-syrup as another reviewer erroneously reported -- [...]). And can we really get upset about a little blueberry or sweet potato juice temporarily staining a cloth when you account for their health properties? Regulate, read the labels for yourself and take joy in offering your kids a simple, low sugar, high vitamin, low gluten snack.<br /><br />Oh and must say, I love that they're mainly just puffed air with a fantastic balance of nutrients. 1/2 cup or about 75 pieces per serving keeps my little dears engaged in motor development and feeding skills for a while without concern for dietary imbalance.<br /><br />Bunch of facts, all packed up to help someone out there enjoy a little extra peace next time they offer Plum Puffs to their kids.  Live well!
+
+product/productId: B004I1H230
+review/userId: A1QF4EJ7V83919
+review/profileName: Maureen K.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331251200
+review/summary: quality grade saffron
+review/text: We were surprised of the low cost for really good saffron. We will be purchasing more in the future. I highly recommend this product. My husband is a chef and was very pleased with this saffron.
+
+product/productId: B003DKY5QE
+review/userId: A2DPQ82V9HI4TJ
+review/profileName: Jane Krisch "Jane Krisch"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: A++ Service
+review/text: This is the best drink to have over ice on a hot day..Really any of the Ice Tea's have a great taste to them. You make them as sweet as you want or add no sugar at all. My husband seems to be drinking more than me in the Ice Tea world which I find hard to belive.. Time to play catch-up :)<br />Its also a great drink to offer company instead of coffee, beer, wine, ect...
+
+product/productId: B003DKY5QE
+review/userId: AWP0M8AOGHUHL
+review/profileName: The1Bug
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310947200
+review/summary: Very good
+review/text: The raspberry flavor and the sweetness are very subtle. So much that I add a spoonful of sugar or two which really brings out the raspberry flavor (as is a trend with Celestial Seasonings).  Very refreshing and very delicious.
+
+product/productId: B003DKY5QE
+review/userId: A2NWIBURBR217A
+review/profileName: Mister0704
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304812800
+review/summary: Perfect drink on a warm day!
+review/text: I was very skeptical about buying this as I have never been a fan of any tea. I decided to give this a shot as I was looking for some new k-cups for my maker and for a new drink as I was getting tired for my packets of flavor added to water. After reading several review I made the purchase. I am very glad that I did! I make this over ice but have learned by trial and error to find the perfect combination of a 16 oz double walled cut filled to the brim with ice. From there I make it on the middle setting. Some people say you can use the pod twice for tea but I only like to use it once and I like the full flavor.  This is a great drink with a good amount of flavor and taste even if you ate not a tea drinker, it is not too sweet either which I like as well.
+
+product/productId: B000H23YZE
+review/userId: AB4FAGATZMW5U
+review/profileName: Ken Waldrop
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1313884800
+review/summary: Good mix that everyone enjoyed
+review/text: We tried this on vacation and everyone in the family ate it - even our picky daughter.  It made a great all in one dinner after we added browned sausage and steamed green beans.  The big seller was that it had no MSG listed in the ingredients.  Some of the ingredients contain components of MSG, but no MSG explicitly stated as an ingredient.  All the other mixes we looked at had MSG.  We also noticed that the Tony Chachere's yellow rice mix had no MSG.  We'll be trying that one next.
+
+product/productId: B000H23YZE
+review/userId: AEC90GPFKLAAW
+review/profileName: Lisa Kearns
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1304726400
+review/summary: A little too salty, but spiced just right
+review/text: We love dirty rice and eat it often.  I got Tony Chachere's Dirty Rice Mix to try it, and was pleased with the Cajun seasonings.  I did find it too salty the first time (800+ mg sodium per small serving!), but the second time I added the water to the mix in a separate bowl, mixed to dissolve and then poured a little of the salty water off.  I added fresh water to make up what I poured off, then added it to the browned hamburger.<br /><br />I would have given this 5 stars if it hadn't been so salty.  As a comparison, Zatarain's Dirty rice has 600 mg sodium per serving, and Luzianne Dirty Rice has 680 mg per serving.
+
+product/productId: B000H23YZE
+review/userId: A35LBSHP9EEQKW
+review/profileName: Hunter J. Camper "Hunter Camper"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350691200
+review/summary: Not my favorite Dirty Rice Mix
+review/text: Being born near the TX-LA border, I know dirty rice. Even though Chachere's Dirty Rice Mix is a Louisiana brand, there is something rather strange about the taste of this mix. Believe it or not, a better tasting dirty rice mix, to me,  is the Great Value Dirty Mix that can sometimes be found at Walmart. I've noticed lately that it is difficult to find at Walmart stores.
+
+product/productId: B000H23YZE
+review/userId: A11L90R7RWJA8H
+review/profileName: Phil (San Diego, CA)
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Spicy and delicious
+review/text: I usually try to glance at the ingredients list before posting about food products but I'm relieved to see that someone else has already verified that this contains no overt MSG (though the purveyors of chemical additives have a million euphemisms for it in an attempt to continue selling MSG).<br /><br />This cooks up in about half an hour, total time. Preparation is simple. Although the ingredients to be added list ground beef, I find that sausage works better. Still, I tried it with ground beef and if anything can make that boring staple edible, it's in this box.<br /><br />As you might expect, it's spicy, so I didn't even bother giving it to the kids. Their taste in food is limited, bland and boring. I am just done with having to settle for mac-n-bleah or rice-a-bleah anywhere on the plate so I cooked this for my wife and myself last night. I will be picking up more of this Tony Chachere's Dirty Rice even if I have to cook a batch and eat the leftovers for breakfast, lunch and dinner the next day. Matter of fact, I think I'll heat up some of last night's leftovers right now! Mmmmmmm!
+
+product/productId: B0000CNU4J
+review/userId: A2EUW2ZRWS8RNV
+review/profileName: Timothy Reed
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1178928000
+review/summary: Very good hot sauce.
+review/text: I first tasted this product at a local Mexican restaurant, and I was hooked.  Right after I left the restaurant, I went to my local grocery store and looked for this hot sauce, but to no avail.  I then though, maybe Amazon.com has it, I was right.  So I ordered two big bottles of it.  Everytime I went to a takeout Mexican restaurant I would use my Bufalo Chipotle Hot Sauce in stead of the restaurant's hot sauce.  Needless to say I love this hot sauce, and I would recomend any hot sauce lover to try this sauce at least, you owe it to yourself.
+
+product/productId: B0000CNU4K
+review/userId: A1TJT6GXDGNN8Q
+review/profileName: Opinunated
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1327881600
+review/summary: A very HOT sauce lacking any other redeeming quality.  A vague hint of tomato with a bitter aftertaste.  Impossible to recommend
+review/text: The Harbinger is one of the hottest chiles know to man.<br /><br />So it comes as no surprise that this Harbinger based sauce is quite hot - a few drops will go a long way. Yet, despite its considerable heat, it offers no other flavors beyond a vague hint of tomatoes combined with a very nasty and bitter aftertaste.<br /><br />Ingredients - as copied from the label: Water, Harbinger pepper, tomato, salt, spices ... etc<br /><br />Conclusion: there is a LOT of heat in this sauce but little else --- except a vague hint of tomato and a very noticeable and bitter aftertaste!<br /><br />If you want even more heat (for some bizarre reason) there are other Habanero sauces where the Habanero chile is the major ingredient rather than water. There are also pepper extracts where gloves and eye protection are recommended if pure heat is what you are after.  I frankly don't understand the logic that hotter is always better but tastes vary.<br /><br />Conclusion:  High heat, a bitter aftertaste and a vague hint of tomato. NOT recommended.<br /><br />Watch out for high shipping costs from some sellers.
+
+product/productId: B0000CNU4K
+review/userId: A24OUN84ME3CQO
+review/profileName: William Shepherd
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1282176000
+review/summary: Just right
+review/text: Nice heat without being over the top, at least for me anyway. Most hot sauces have an over dominant vinegar taste or are too watery. The consistency and flavor of this product is just right for me, so I keep a good stock of it on hand.
+
+product/productId: B005CUM4UC
+review/userId: A2QR7SZO1BNDT0
+review/profileName: april beecher
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318636800
+review/summary: Excellent bargain
+review/text: I purchase Hersheys chocolate all the time, and have been looking for a good deal here on Amazon, as this is also where I purchase my coffee. I was sooo pleased to find it here. This will be where I purchase my chocolate from now on, the product arrived 1 day early, bonus!,This will truly save me some money. I would highly recommend this to anyone. I use the chocolate to make my morning mochas  hence the coffee  And so I go through ALOT of coffee and chocolate. This is perfect!!!!!!
+
+product/productId: B003NRLKBK
+review/userId: A2DPYMNI2HCIOI
+review/profileName: Angela Evans
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349654400
+review/summary: if you need a quick lunch or some food that has a longer expiration date
+review/text: While on the road, I needed some food that could be prepared in a microwave.  I like Indian food and I am a vegetarian so I decided to try this microwave-and-go dish.  It is not the most fabulous thing in the world.  The rice is highly clumpy and you don't want to eat it without mixing it with the lentils.  The lentils and curry are not savory or memorable.  There is some spice in the dish but not enough to make this meal escape the adjective of "bland".  It was filling enough with half a piece of naan but it didn't leave me with a happy sense of satisfaction since the flavoring was boring.<br /><br />This dish is vegetarian but not vegan.<br /><br />Ingredients<br />Water, Parboiled Enriched Long Grain Rice (Rice, Niacin, Thiamine Mononitrate, Ferric Orthophosphate, Folic Acid), Lentils, Tomato Paste, Heavy Cream (Milk), Rice Starch, Canola Oil, Garlic, Spices, Sea Salt, Ginger, Sugar, Natural Flavor.<br /><br />Warnings<br />Allergy Advice: Contains milk.<br /><br />Nutrition Facts<br />Serving Size: 1 package<br />Amount per Serving<br />Calories 320<br />Total Fat 6g<br />Saturated Fat 1.5g<br />Cholesterol 10mg<br />Sodium 390mg<br />Total Carbohydrate 57g<br />Dietary Fiber 5g<br />Sugars 3g<br />Protein 11g
+
+product/productId: B003NRLKBK
+review/userId: A23FWREY8C6A9K
+review/profileName: Philly fan
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345680000
+review/summary: Good meal (not vegan though)
+review/text: Its a decent vegetarian meal. I gave it one star only because it has dairy and I am looking for vegan foods. It tasted okay.
+
+product/productId: B003YHCN74
+review/userId: A2IHF3DP4BTUV
+review/profileName: L. Andreini
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309910400
+review/summary: Par Excellence Yellow Rice
+review/text: Arroz Amarillo with Saffron, Par Excellence Yellow Rice.<br />Sometimes I add cooked pork chops, or cooked chicken, while the rice is cooking.  I double the recipe, and put in freezer bags for whenever I want some yellow rice, which is quite often. This is my favorite rice, Amazon is my favorite place to shop,<br />so having both is a bonus.  The container is handy, and the rice stays fresh.
+
+product/productId: B003YHCN74
+review/userId: A16ZZXKX3U1WTQ
+review/profileName: lilsanta
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1351123200
+review/summary: not alot of taste
+review/text: Put a cup in my rice cooker. Couldn't taste much spice -- was fairly bland. Container is small. I attached pictures. To note, Saffron is the last ingredient in the ingredients list so there's really hardly any.
+
+product/productId: B003YHCN74
+review/userId: A1WFEDD9LZXWJ7
+review/profileName: SpringFlowers
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344556800
+review/summary: Do not recommend!
+review/text: I don't recommend purchasing this product because it's bland, tasteless, and overpriced. ********** I don't recommend purchasing this product because it's bland, tasteless, and overpriced.
+
+product/productId: B003YHCN74
+review/userId: AC6RX552XPN1C
+review/profileName: Sb kotzebue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336608000
+review/summary: Sb kotzebue
+review/text: This rice is excellent. Very flavorful; seasoned perfectfully. The only thing is it is expensive. 19.00 is a lot of money.
+
+product/productId: B003FXVRP6
+review/userId: A2582KMXLK2P06
+review/profileName: B. E Jackson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: lick 'em up
+review/text: These Jungle Animal Zoo Lollipops are absolutely amazing.  They taste really fantastic and the lollipop itself lasts a while when sucking on it (maybe even up to 20 minutes assuming you don't take any intervals and choose to suck nonstop, which is a really long time).  How can this be?  Because the shape of the animal heads (the actual candy part) are really enormous and VERY sweet.  I highly recommend these for everybody who has a desire for lollipop goodness.
+
+product/productId: B003FXVRP6
+review/userId: A298Z52O0H14SA
+review/profileName: D. Blair
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342051200
+review/summary: Jungle Lollipops
+review/text: Was so excited to find these for my daughter's baby shower.  She had a jungle themed shower and these were perfect on the Candy Buffet.  Great quality and very fun.  Everyone loved them.
+
+product/productId: B003FXVRP6
+review/userId: A3EJNNF04UKD0S
+review/profileName: lboogie30
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335225600
+review/summary: Animal Fun Baby Shower
+review/text: These were super cute. I was worried because there are better looking animal lollipops with not so good reviews online. But after getting them in the mail last night I was happy I'd placed my order. Very cute and none were broken. Can't comment on how they taste until after the Shower.
+
+product/productId: B003FXVRP6
+review/userId: A1EC6X3WFGXSQ0
+review/profileName: 3Gr8Kdz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335052800
+review/summary: Great lollipops!
+review/text: Wonderful product, very cute. I included these lollipops in the gift bags for my son's 3rd bday. They were very securely packaged and in perfect condition. The kids loved them!!
+
+product/productId: B003FXVRP6
+review/userId: A3DWZ1KKUWF2E4
+review/profileName: sdonnal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319673600
+review/summary: adoreable
+review/text: Both the teenagers and younger loved them.  The lollipops arrived without any broken pieces and tasted delicious.  We used them as part of a homecoming that had a safari theme and they were a huge hit.
+
+product/productId: B003FXVRP6
+review/userId: A24L0A5XRY9R36
+review/profileName: Amazon customer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313884800
+review/summary: Great give-away
+review/text: these were so adorable!  I used them as a give-away for my daughter's 5th birthday party - animal themed, of course.  They were packaged correctly and not one was chipped or broken.  Cute!
+
+product/productId: B003FXVRP6
+review/userId: A24T28RXN4XPSZ
+review/profileName: COmotherof2boys
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297987200
+review/summary: Cute and the little ones liked them
+review/text: These are bigger and cuter than they appear in the picture. Used them as favors for a safari-themed birthday party for a 4-year-old, and they were a hit! I did not personally eat one, so cannot speak to how they taste, but the kids seemed to enjoy them. For the price, I thought they made a good party favor for this age group (although we had a few older kids, in the 8-10 y.o. range, and they gobbled them down, too).
+
+product/productId: B0029JZ2LW
+review/userId: AGRAQA16PA8XR
+review/profileName: Pam Vee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336089600
+review/summary: Lite Fruit Pectin-great taste, low sugar!
+review/text: I love this product! The directions were easy to follow, and my jam came out great! Best of all, I could make very fresh-tasting, fruity jam with very little sugar. Regular pectins need more sugar than fruit, which is bad for those of us with insulin resistance. My whole family loved the results with Mrs. Wages Lite.
+
+product/productId: B001KUQJ0Y
+review/userId: AE5VXD4USU2O9
+review/profileName: PikkaBird
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337472000
+review/summary: Awesome!
+review/text: I drink a lot of lemon water. Using actual lemons gets expensive (especially if I want to go for organic) and the stuff in the plastic bottle is not so good. This is delicious! I can really taste the difference between this and the 'from concentrate' brands.
+
+product/productId: B001KUQJ0Y
+review/userId: AOP67DRZKBT71
+review/profileName: FREGON
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1284854400
+review/summary: Dynamite!
+review/text: This stuff really punches up our recipes. It's in glass and tastes much better than the stuff in little plastic squeeze bottles. We got ours at our local Ross store and we're running out and the store's out, so we're hoping Amazon will carry it soon. We want to give bottles to friends and family as Christmas gifts.
+
+product/productId: B001KUQJ0Y
+review/userId: A21XEAKX1A235Z
+review/profileName: Williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345939200
+review/summary: Good stuff
+review/text: Bought this at Costco - good stuff - tastes almost as good as the juice off of my lemon bushes in the backyard.  Read the ingredient list- no mention of grapefruit (or anything but 100 percent lemon juice) as a previous reviewer indicated.  If you like fresh squeezed lemon juice for your drinks or baking, this is a good way to go.
+
+product/productId: B001KUQJ0Y
+review/userId: A27HLTDITCL1O8
+review/profileName: L. Wick
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1305763200
+review/summary: Appears to be adulterated with grapefruit juice...
+review/text: ...as this brand causes the same drug interactions as grapefruit juice, and Sicilian lemon juice is known to be adulterated in this manner to increase yields. Be very careful if you are using any drugs that bear grapefruit warnings - this product will be dangerous to you.
+
+product/productId: B0001DMT3C
+review/userId: A3O4IAGTFAX8Y
+review/profileName: J.Wong
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1293580800
+review/summary: Botan Calrose: Brown Rice
+review/text: I received my order very quickly from the vendor, which was great. The brown rice itself is also of great quality, because coming from a family that only consumes brown rice, it tasted like the delicious brown rice back home. I would definitely order this product again once I am finished with my first order.
+
+product/productId: B001I63MPU
+review/userId: A12FF2CBRSH2E6
+review/profileName: J. Ko
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Love the Flavor of this tea!
+review/text: I bought this tea and both my best friend and I love the taste of it.<br />Best Tulsi flavor tea that I have had. The honey and chamomile are very complimentary towards each other
+
+product/productId: B001I63MPU
+review/userId: A2TPH171QFO6ZH
+review/profileName: Jane
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1326585600
+review/summary: So that's why they call it Holy Basil!
+review/text: I've been adding Tulsi Tea to my diet.  I love the peppermint flavor and drink it daily along with my other great teas.<br /><br />I didn't really care for the flavor of this honey chamomile tea.  I don't think it was the honey flavor that was bothersome- actually the Tulsi just seemed at odds with the chamomile.  It actually tastes a bit like basil, which I hadn't experienced with the peppermint, I guess because the tastes meshed so well together.  In this cup, I actually felt like I was drinking Basil-Chamomile tea.<br /><br />I can say I've never tasted the anise flavor that people find prevalent in Tulsi teas.
+
+product/productId: B001I63MPU
+review/userId: A34B2WMJEJ87EI
+review/profileName: ovbr
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1295395200
+review/summary: odd flavor
+review/text: I really did not like this tea. i general love chamomile tea and drink a lot of different brands  but this one has a strong honey flavor that totally overpowers chamomile.
+
+product/productId: B001I63MPU
+review/userId: AMAECPWS18SGS
+review/profileName: Coraline36
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292112000
+review/summary: Great service
+review/text: I received the tea very fast.  It is a delightful tea and I sleep so well after having it near bedtime.  Thank you for being so helpful.
+
+product/productId: B004CSS0NA
+review/userId: A16TCTP46YJH7H
+review/profileName: Lauren L
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1292544000
+review/summary: Awesome flavor, feeling, etc LOVE IT!!!
+review/text: I went and bought one and it was so good and went and bought the rest that the store had. Great flavor, so relaxing and good mood and vibes. Well worth it! Great price for the relaxation. Haven't slept so good either. Love it!!!
+
+product/productId: B004CSS0NA
+review/userId: A1NJLUI81M6HD4
+review/profileName: kreemo
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1339200000
+review/summary: Great tasting drink!
+review/text: Loved the berry flavor of this drink. Haven't tried the other flavors yet though. I actually felt my body relaxing after the first can. It was funny because I was aware of what was happening (like going to sleep at the dentist). Drank it before heading to bed. Wish I could get this locally :(.
+
+product/productId: B004CSS0NA
+review/userId: A1F0QSX6SX53FS
+review/profileName: Meddy14
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1307404800
+review/summary: One Love...
+review/text: Best drink ever if your looking to just relax.<br /><br />Stores carry it for about $1.89.  If your local store doesn't, tell them to start carrying it because this drink is going to be the new craze.
+
+product/productId: B004CSS0NA
+review/userId: AJCW20H3DPFXO
+review/profileName: Jacqueline Monroe
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1294963200
+review/summary: Mellow Indeeed
+review/text: This product works well. It did relax me and I loved the flavor I ordered which was berry. This will be one of my staples, who needs wine? The only issue is that it is not readily available and had to wait almost two weeks to receive order. The company responded well to my inquiry, so I had to order through Amazon.
+
+product/productId: B004CSS0NA
+review/userId: A2YKARPTLUQ5W3
+review/profileName: Miles Berkland
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: ive been perscribed ambien.....
+review/text: and this puts you out lightyears more effectively than those pills<br /><br />bob marleys positivity is everflowing from the grave<br /><br />good karma
+
+product/productId: B004CSS0NA
+review/userId: AMR1VFLWPLPG4
+review/profileName: Alexis Gipson "Pixie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331856000
+review/summary: Great help for insomniacs
+review/text: I purchased this to help my son relax in the evening to unwind from a busy school/activity day.  It works well and help him get back into a sleep cycle when necessary.
+
+product/productId: B004CSS0NA
+review/userId: A1FMICWRC0N9Q8
+review/profileName: Jr
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326499200
+review/summary: Good Stuff Best Flavor
+review/text: Local stores carry it at $1.80 a can. So for the price you're best bet is to see if you can get locally first. But still worth $2.50+ from Amazon.
+
+product/productId: B004CSS0NA
+review/userId: A1R4W1KJSP9S39
+review/profileName: ner49
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324080000
+review/summary: 1LOVE4SURE
+review/text: the best tasting product in a very long time (BERRY). sad it's not  easily available.WOW i don't need to take sleeping medications anymore! drink half and next night drink the rest and it's like you just opened it - that's a WOW WOW ;)
+
+product/productId: B004CSS0NA
+review/userId: A3L0JJP08NHPU5
+review/profileName: Dawn Gable
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313020800
+review/summary: FINALLY!
+review/text: This stuff is great! Totally stoney. But beware... it's potent. I mix the berry flavor half-n-half with carbonated water... 1 can = 2 servings if you ask me.<br /><br />I first bought it in South Beach Fl. at a party store... cost 2.50 a can. So, considering there is no shipping fee here... the Amazon price is fair.
+
+product/productId: B001RMMS00
+review/userId: A4CJHCARWD5HM
+review/profileName: Frenchie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331596800
+review/summary: Best vegan chocolate EVER!
+review/text: I ordered this as a gift for my wife for Valentine's Day, and it was a huge hit! I must say that I was a little disappointed in the small size of the box when it arrived, but once we tried the chocolate, it was fantastic. Rich, melt in your mouth flavor that can't be described adequately with words. We will definitely get some more.
+
+product/productId: B003WNVECU
+review/userId: A35L2GW1R0PUJ9
+review/profileName: Lindsay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329350400
+review/summary: Best Apple Juice ever!
+review/text: Can't find on local shelves and wish I could. Best apple juice I have ever drank.  My 1 year old agrees.
+
+product/productId: B001NCGXPA
+review/userId: AITCND1WAR7MA
+review/profileName: Louise
+review/helpfulness: 2/10
+review/score: 1.0
+review/time: 1268352000
+review/summary: Salmon Trout
+review/text: What is 'Salmon Trout' ? Salmon and trout are two different fish. Is this a mistake or a new species I'm unaware of.
+
+product/productId: B007B3UG94
+review/userId: A3UPL3D5JBJYTP
+review/profileName: J. Michael Polich
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: It's the stuff
+review/text: Used it for several months now. Primarily to make back bacon and kielbasa. Adds that piquant flavor. Be sure to follow curing instructions in your recipe.
+
+product/productId: B005JTMMRQ
+review/userId: A7LRGS80JWSK2
+review/profileName: Candice Davis "Mermaid"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318636800
+review/summary: Schwan's Ice Cream Is The Best!!!
+review/text: I remember getting these ice cream bars as a kid, both the chocolate and the orange ice cream bar. You can't really imitate it. The ones at the store are okay, but they don't come close to the ones that Schwan's delivers and I am not even big on sweets, so that's saying something.
+
+product/productId: B002WXTMDE
+review/userId: A286YO5OCIB9ZQ
+review/profileName: George A Schmid
+review/helpfulness: 12/13
+review/score: 5.0
+review/time: 1292025600
+review/summary: Excellent Quality - Best Fruit Club Available
+review/text: Over the years we have tried fruit clubs from several different vendors.  Golden State is the best value for the money, hands down.  Fruit is ALWAYS of outstanding quality - superior to what can be purchased in the grocery store or even at the farmer's market.  Just bursting with juice and flavor.  Delivery has ALWAYS arrived timely and in excellent condition.  Fruit arrives either ripe and ready for immediate eating or just days away from being so.  Along with the fruit the company provides some information about the fruit and suggested recipes, as well as tips on how to keep the fruit in its prime condition so it can be enjoyed over several days' time.  Take it from someone who has tried three or four other vendors - Golden State is the best overall product, especially for the price!
+
+product/productId: B003UKQ9AW
+review/userId: A35LTAIL66FIE5
+review/profileName: June M. Suttkus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288915200
+review/summary: My Dog Loves these Snacks
+review/text: This is the first time my dog does not walk away from her "Good Girls" snacks, she loves these things.<br />Glad I got something she loves.Thank you very much
+
+product/productId: B001E8ICZ2
+review/userId: AOKRKGSET09P1
+review/profileName: Mercedes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314316800
+review/summary: Real Root Beer Taste
+review/text: I love to snack on this candy, it is very good. This is the second time I have ordered this product and I would order again and again.
+
+product/productId: B001SB3XMW
+review/userId: A2BJKB56UFXERR
+review/profileName: Arwen Evenstar "bibliophile"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Great Flavor for Commercial Cheese Straws
+review/text: I bought these as I was looking for something different than Cheetos, actually.  They are a nice alternative to traditional snacks, for me.  I also tried the regular cheddar flavor and those have a tiny cayenne bite that I enjoyed.  These would be great accompaniments to salads and soups.
+
+product/productId: B001SB3XMW
+review/userId: A3QLS4UG11LJ0P
+review/profileName: dottie12
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327622400
+review/summary: love, love, love geraldine's cheese straws
+review/text: I discovered these when I lived on the Gulf coast but haven't found them since<br />I moved to north Alaama.  A friend included some in a Christmas basket for me<br />and I was estatic.  I commented that I had been unable to buy them since<br />moving and he asked "have you tried Amazon?"  I had not but went immediately<br />to your site and ordered two 6-packs - one Cheddar and one Tuscan.  If you<br />love great cheese straws and haven't tried these, please do - they are the<br />BEST!
+
+product/productId: B000FIZVYW
+review/userId: AR7TAEEUDHMUB
+review/profileName: Kathryn S. Leon
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1300406400
+review/summary: White Meat Lovers, This Is For You
+review/text: This is great stuff.  Unlike the previous commenter, I have actually had this, and it's good.  Now that it's on sale, I've ordered two cases to go into my earthquake supply closet for emergencies.  If you find it a bit salty, or are on a salt restricted diet like I am, just rinse it a bit.  I was please to find it on sale today.
+
+product/productId: B000FIZVYW
+review/userId: A2SS44O400KIZ7
+review/profileName: carol
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1312070400
+review/summary: Hormel Chunk White Turkey
+review/text: These cans of Turkey are great for turkey salad sandwiches, or add them to a salad or casserole, or a soup. Very nice chunks, packed full and great taste.  Good to have around to snack on and not have to be so concerned about putting on extra weight. Tasty and an easy fix for a hungry friend or neighbor who stops by---or for yourself.
+
+product/productId: B000FIZVYW
+review/userId: AB094YABX21WQ
+review/profileName: J. Gregg
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1312502400
+review/summary: turkey
+review/text: good stuff taste great in turkey hot dish,salad,the list goes on. well worth the money shipped & rec on time will be buying more.
+
+product/productId: B000FIZVYW
+review/userId: A2RJVP11OY4ESA
+review/profileName: robertmarkt
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1337644800
+review/summary: Damaged Cans
+review/text: 2 out of 12 cans were unusable due to damage. No return or credit option.Won't buy it again. <a href="http://www.amazon.com/gp/product/B000FIXYCS">Hormel Premium Chicken Breast in Water with Rib Meat, 97% Fat Free, 5-Ounce Cans (Pack of 12)</a>
+
+product/productId: B000FIZVYW
+review/userId: A2C4VJ158Y0JFB
+review/profileName: bd
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310256000
+review/summary: Hormel CHunk White Turkey in water  5 oz.
+review/text: The chunk white turkey was purchased for my college daughter. It is great for students to add to pasta or make a spread for a sandwich. Great quality product and  very  convienient .
+
+product/productId: B000FIZVYW
+review/userId: A2A1XYSB692L6J
+review/profileName: Patricia "A Reader"
+review/helpfulness: 2/10
+review/score: 3.0
+review/time: 1299974400
+review/summary: D A R K.....M E A T.....A L S O......P_L_E_A_S_E....!!!!
+review/text: HORMEL CHUNCK WHITE TURKEY IN WATER, 5-OUNCE, PACK OF 12, looks to be a tasty type of turkey.....for those who like white meat turkey.  I have nothing against them -- "chaque un a son gout", (or "each to his (or her) own taste") as the French say.  However, the DARK MEAT TURKEY, (and also the DARK MEAT CHICKEN), lovers in this country, (and probably in other countries too), have definitely been given short-shrift by the food industry today!  DARK MEAT TASTES BETTER....at least to me.  Yes, Dark Meat DOES have a few more calorie -- but what of it?  Calories can be cut in many, many ways -- and to me, giving up DARK meat turkey, (or chicken), should NOT HAVE TO BE ONE OF THEM!  Please, food industry execs -- give us DARK MEAT lovers a chance, and make more products with DARK MEAT!  (At the supermarket, I buy DOZENS of Honeysuckle White GROUND DARK MEAT turkey -- but will NOT TOUCH the light ground meat, as to me, flavour is just NOT IN white meat!)<br /><br />Thanks for reading this!  Hope it helps the legions of DARK MEAT turkey and chicken lovers out there, (and also raises profits for food companies, who hopefully will now cater to this "forgotten clientele" -- of which I am one!)
+
+product/productId: B004XTCI68
+review/userId: A1MDCVBON7KRAQ
+review/profileName: roslyn satterthwaite
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332720000
+review/summary: Tandoori better than dry rub
+review/text: Very good but it was not the same as I had oversea.....but it was still better in taste to a dry rub I had in the past
+
+product/productId: B001G7AC2M
+review/userId: A2OS1U3LCSW71E
+review/profileName: Smiley 3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295568000
+review/summary: Delicious!
+review/text: The company I work for gives these as housewarming gifts to employees when they move.  Everyone loves them!  They're apparently the best brownies they've ever tasted.  :)
+
+product/productId: B0040PYZAW
+review/userId: A1N5121RR13ZCZ
+review/profileName: Texas Jack "T J"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1297900800
+review/summary: Green beans & pinto bean mix is great
+review/text: Seems like such a simple idea, mixing green beans with pintos.  The combination is great!  The kids even like them!  Most grocery stores do not carry these and I don't know why.  One try and you will be pleased, plus they are delivered right to the front door!  Can't beat that combination.  The price is the same plus you save the tax and the hassle of carrying all those cans home.
+
+product/productId: B0040PYZAW
+review/userId: ABRH3JJP4NN3R
+review/profileName: Country Kitchen Betz
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1293062400
+review/summary: Traditional Meal
+review/text: For over forty years Libby's Shelly Beans have been an important part of our family special dinners, i.e., Birthdays, Thanksgiving, Christmas, etc.  A few years ago our local stores quit carring the beans in their stock.  We searched long and hard to find them.  I even tried to blend beans myself.  (Not quite the same.)  We were about to give up but my son checked Amazon to see if they were available anywhere.  Great news!!! He found them.  We immediately ordered a case of them.  I'm happy and my family is happy.  Our tradition continues once again.  Thank you!!!!!
+
+product/productId: B002PO1VV6
+review/userId: A5ZNZAE3PXUTV
+review/profileName: MommyMendoza12
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Awesome!
+review/text: I bought the red, blue & yellow colors of the Fondarific buttercream fondant.. It tastes better than other fondant & the 2 lbs seems to go alot further than other fondants.. Would totally buy this again!
+
+product/productId: B002PO1VV6
+review/userId: A38QXG26T3U31O
+review/profileName: Ryansmama1607
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1326240000
+review/summary: Good Product
+review/text: I work with fondant a lot and I use to buy just white then color it, but that takes a lot of time, is messy, and the colors always turn out different. I discovered Fondarific and I love it!! They have tons of different colors and different flavors. This is a perfect yellow color and tastes good. The only problem I have is that unlike the other colors this one is a little harder, so it is a lot harder to knead and work with. But overall it makes my life easier.
+
+product/productId: B001SAUG3W
+review/userId: A2QWTDQ8MFGZVO
+review/profileName: Michael Hurt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323734400
+review/summary: Amazing taste. Perfect texture.
+review/text: These crackers are nearly perfect. I generally don't like multi-grain or whole-grain foods, but even though these are marked as such, they taste great! The texture is also perfect, not too dry, not too soft. They don't fall apart when you try and spread cheese or other toppings on them like some crackers.<br /><br />My only con is that the crackers are quite huge--about two and a half inches in diameter--bigger than any toppings I could think of putting on them. When I ate these crackers with summer sausage and cheese, I had to break them in half (they are not designed to be broken in half) to have the proper meat-to-cheese-to-cracker ratio.<br /><br />Give them a try; I can't imagine anyone being disappointed.
+
+product/productId: B0043GVFEM
+review/userId: A2J0LCP14SECY9
+review/profileName: Specklebang
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1334102400
+review/summary: Same here - wrong product
+review/text: This is lame. The ones pictured are no longer in stores so you buy them here and they just ship you something else.
+
+product/productId: B0043GVFEM
+review/userId: A1B6343FR441H5
+review/profileName: Taeakm
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1334016000
+review/summary: Wrong product sent
+review/text: They have the picture of the sour berry so I bought a pack of 8 because they are my favorite and then they sent me the strawberry ones.  I will never purchase these again through amazon.com because what I order and what they sent me were completely different.  So I wasted $23.00 on the sours I don't like!!
+
+product/productId: B002PXG8LA
+review/userId: A3864TU1Y9FK60
+review/profileName: J. Morris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305244800
+review/summary: Melt in your mouth delicious
+review/text: I had these at a birthday tea party. They tasted so good I didn't want to share.  They were perfect with a cup of strong black tea.
+
+product/productId: B002ANFNPC
+review/userId: AT63684DAS545
+review/profileName: Jeffrey M Boyer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1299542400
+review/summary: Cat Loves 'em, so what can I say
+review/text: The picture is deceiving since they have '6' mice and you only get '3'.  I wish they would change that, but my kitten loves them.  They are great for a small cat and seem durable.  Well except for the ears.  One fell off soon after we started using it.  However the actual body of the mice is put together well.  I'd recommend these to other small cat owners.
+
+product/productId: B004W8LITI
+review/userId: A4STHK85XIR2B
+review/profileName: Eleanor Shumaker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318723200
+review/summary: How to Train Your Dog
+review/text: Our dogs will do anything for one of these treats. Only 16 weeks old, they already "Come!" and "Sit!" I will never be without these treats!
+
+product/productId: B002MTY1PM
+review/userId: A3PB88ISIGJ2AW
+review/profileName: Robert B. Calva "Tea guy"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1271289600
+review/summary: Okay for the price but not the best.
+review/text: I have tried many different brands of gunpowder green tea and this brand is average.  Not the worst but definitely not the best.  For the price it is pretty good but I was a bit disappointed.  I had really hoped it would be better.  It's not as strong tasting as some gunpowder green teas I've tried ; some people may like that.  I would not get this item again but instead will keep looking for something better.
+
+product/productId: B007HP6B9K
+review/userId: A3AMNY44OP8AOU
+review/profileName: Jennifer Lee
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335225600
+review/summary: Excellent Matcha for Beginners!
+review/text: There are so many good things to say about this matcha as well as this company.  Let's start with how awesome Red Leaf Tea is.<br /><br />The customer service is prompt and friendly.  They listen to your suggestions and opinions and take action to please their customers.  It's a sad world when decent customer service is a novelty, but Red Leaf Tea brings some joy back into a bleak world with their courtesy.  Thank you, Red Leaf Tea!<br /><br />Now, this matcha...it's great for beginners!  The price is perfect and you get a good amount of tea so you can experiment with  how you like to drink it.  The basic flavors here are sweet, green and minerally.  THe texture is pretty smooth with only a hint of a powdery texture.  It's a pleasing beverage hot, prepared in the traditional way.  Yes, the quality isn't the best, but it is definitely a good introduction.  It is not bitter at all and completely inoffensive.  I used to be scared of preparing my own matcha because the one time I did it before Red Leaf, it was with a horrible matcha that was extremely bitter.  Now I make myself matcha drinks all the time!<br /><br />After trying this tea the traditional way to fully appreciate the flavors you're working with, you can use the powder to add flavor and healthiness to pretty much anything!  Like the Starbucks green tea latte?  Now you can make your own at a fraction of the cost!  Breakfast smoothie need a healthy caffeine kick?  BAM! Starter Matcha to the rescue!  Want some green tea cookies to go with your green tea latte?  You know where I'm going with this.  :)<br /><br />My favorite way to have this matcha right now is to add it to my Almond milk, banana smoothie.  It was also awesome in my amaretti cookies.  :)<br /><br />Conclusion?  Highly recommended!
+
+product/productId: B004342X7C
+review/userId: A142UM6L81KGKY
+review/profileName: Susan Baxter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341187200
+review/summary: FAST!!!
+review/text: This is the coffee I wanted, as I can't always find flavored decaf.  It was here before I knew it, well packed and ready to go.  Thanks for the good service.
+
+product/productId: B004342X7C
+review/userId: A179642LY5N4VI
+review/profileName: Judy Hudgens "Voracious Reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318896000
+review/summary: A Must for Keurig
+review/text: I can't imagine life without my Keurig or my Hazelnut decaf!  Green Mountain makes an excellent coffee, and I buy it wherever I can find it.  Pricing is key, so always be aware of who has the best price.  Thanks!
+
+product/productId: B000EVLWQQ
+review/userId: A284Y0Q6QYCD5W
+review/profileName: DesertRex
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1155600000
+review/summary: JUST WONDERFUL!
+review/text: Everyone in my family tasted these with a bit of fear in their eyes - but everyone ended up loving them and we ate 2 bags the first evening!  They are small bags, but worth every penny.  Healthy and tasty, a cross between a wheat cracker and a tortilla chip with the added sweetness of the carrots, but with salt - sounds strange, but it REALLY is good!
+
+product/productId: B000EVLWQQ
+review/userId: A31PQ8T11P7IP
+review/profileName: P. Bye-Erts "pbye-erts"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1203552000
+review/summary: Fabulous!
+review/text: These are soooo good!  All the saltiness and crunch of a potato chip, but 100% healthier.  They have no cholesterol, low carbs and 2 grams of protein.  I highly recommend these to everyone!
+
+product/productId: B000EVLWQQ
+review/userId: AFX029KWVZK0W
+review/profileName: Joe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283040000
+review/summary: Taste Great!!!
+review/text: These were fantastic.  Didn't taste quite like a corn chip, I wouldn't describe the flavor as carrot either.  It has a pretty unique flavor which I really enjoyed.  Highly recommend these!
+
+product/productId: B000EVLWQQ
+review/userId: AE2FJJ3UM4VS7
+review/profileName: J. L. White "fiction addict"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338595200
+review/summary: Unique and delicious!
+review/text: These chips used to be carried at our local health food store. I sampled some before buying because products like this are expensive. I loved them from the first bite, but I understand that for some this flavor would not appeal. I'm now ordering them from amazon and I have no trouble with the large quantity. If it's a new treat for you, I'd say start with a small amount to see if you like them. If you have expectations for how they will taste, you may be surprised. I can't liken them to any other chip. Truly a unique flavor.
+
+product/productId: B002U2CDE2
+review/userId: AVAL1T27UJ5HD
+review/profileName: Michael Beloved
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335398400
+review/summary: nice stuff
+review/text: It is difficult to get value spice products these days. Garam is on top of it, even though I feel they should branch out to organic products. This is nice flavor.
+
+product/productId: B000CDN08O
+review/userId: A1YS7C1GQXE23G
+review/profileName: Jack Scariano
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328227200
+review/summary: great item
+review/text: If you like pineapple flavor in smoothies. snow cones, mixed drinks, this is the stuff you are looking for. Great natural taste. Not quite yellow color.  Brownish yellow color,like real pineapple.  Pour out some in a glass, add a little water and yellow food dye and you have perfect yellow pinapple smoothie.  This stuff is concentrated and  potent.  A liitle amount is all that you will need for the flavor.Very sweet and high calories.
+
+product/productId: B002RTK5L6
+review/userId: A2LQX9ZMIMZ6KB
+review/profileName: Tammie
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1302998400
+review/summary: New favorite!!
+review/text: I came across this coffee recently on amazon after shopping for Cafe du Monde coffee with chicory and some Keurig K cups. Somehow or another this coffee popped up on the bottom of the page and I clicked and read the reviews. Decided I would give it a try before purchasing another can of Cafe du Monde or any of those weak tasting k cups. I have always noticed the coffee in Kroger and was alsways hesitant on getting it. When Cafe du Monde was no longer available locally and I live too far to go to the local Asian market, I started getting it here. Well, let's just say I am very glad Chock full o'Nuts was introduced to me!!! Oh my, I was hooked after the first cup. You can clearly see the major difference when you pour it! So dark and rich, nothing can compare to it! I purchased a small can that day just to try, I mean let's be honest who wants to spend $12 on a can of coffee that you may hate. After that morning cup, I went back to Kroger and picked up 4 of those large cans and have been brewing away ever since. I have a Keurig brewer and will be brewing this coffee instead of all the other weak coffees I have ordered.
+
+product/productId: B002RTK5L6
+review/userId: A2R1VH2FAKWIA5
+review/profileName: Nickolas L. Scott
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1307750400
+review/summary: By far the best mass produced coffee
+review/text: I've tried nearly every single mass produced preground coffee from terrible cups like maxwell house and folgers swill to nicer espresso roasts and I've found that this is by far the best mass produced blend on the shelf. I only buy the small cans so it stays fresher, there is no question that grinding the beans yourself is the best way, but sometimes we don't have time for that and this is where this coffee really shines.  The cans are made of metal and vaccuum sealed with a metal piece of foil to lock in that freshness--Sara Lee always makes a quality product.<br /><br />I make my coffee with just under boiling filtered water poured into a coffee press, stir to bring up the froth, and steep for 4 minutes before pressing.  I drink it black or with a bit of real heavy cream for a different flavor.  The New York Roast is amazing and my favorite, it's a dark and smokey flavor with not a hint of bitterness--Starbucks doesn't have anything that's even close to as good as this coffee.  This coffee is also good in drip machines, but the real secret to good coffee is throwing the drip machines out and making either a 12 hour cold brew or pressed coffee--it can take a mediocre cup to a good cup and a good cup to an amazing cup.<br /><br />Bottom line:  If you aren't interested in spending big bucks on coffee, you owe it to yourself to try this coffee.
+
+product/productId: B002RTK5L6
+review/userId: A8VBOLRH2U7D2
+review/profileName: Wendy Bloomenrader "catwomansd"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1289260800
+review/summary: New York's Coffee
+review/text: This is by far the best manufactured coffee. It's been New York's coffee for decades.  It's rich and robust. It's also much cheaper than the premium labels. And no, it DOES NOT contain any nuts! The name comes from the fact that the creator owned a nut shop prior to coming up with the coffee! The only thing I miss is the plastic scoop that used to come in every can. I have a couple that are decades old I'm sure.
+
+product/productId: B002RTK5L6
+review/userId: A6LQAI0912ZUH
+review/profileName: Linda Lanese "LuLu"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335052800
+review/summary: Best coffee in thw world
+review/text: If you have PRIME the price is good. Stores never have it and it costs more when I find it.
+
+product/productId: B002RTK5L6
+review/userId: AW1DHD0SHJCTJ
+review/profileName: Mike L. Starrett
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324512000
+review/summary: Chock Full  O Nuts Coffee
+review/text: We are very pleased with the coffee. We have trouble getting it in our area and then only in the small cans.. Very pleased
+
+product/productId: B002RTK5L6
+review/userId: AQIWR3YLN0G0O
+review/profileName: Craigd89
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306627200
+review/summary: Nice dark strong coffee
+review/text: I drink my coffee black...the darker the better is what I say.. This coffee has a nice strong taste to it. I love it.
+
+product/productId: B002RTK5L6
+review/userId: AU56G0QZDVRNZ
+review/profileName: Razorback
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300406400
+review/summary: Newly discovered coffee for me
+review/text: I had this coffee at a friend's house.  She had been to New York City and discovered this coffee.  She found some locally and I was able to try it for myself.  I was so glad to discover this coffee that I purchased 2 large cans so I could give her one to thank her for something she had done for me but mostly for introducing me to this coffee.  I have a Keurig machine but I have the insert so I can still use this coffee.  Wish they would put it in K-cups.  You will not be disappointed.
+
+product/productId: B002RTK5L6
+review/userId: A7Z0UMVK1U81J
+review/profileName: D. Last
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1327795200
+review/summary: Best Medium Blend Coffee On The Market
+review/text: My family has been drinking Chock full o' Nuts for years now and it is certainly the best mild/medium coffee on the market. Good flavor, NO BITTER AFTERTASTE, and the you can find it fairly cheaply in most grocery stores. The Original and City Blends are good for those who prefer a more mild coffee, while the the Columbian variety has a deeper, richer flavor for those who like their coffee a bit stronger. I'm not normally much of a coffee drinker but I can drink this stuff black thanks to its mild but pleasant taste. We always serve this to guests and always get asked what kind of coffee we use. Sure to please any coffee lover.
+
+product/productId: B002RTK5L6
+review/userId: A38IY0DPZ324P3
+review/profileName: Tina Kanaris
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1296691200
+review/summary: Great coffee but cost is too high
+review/text: This coffee is great but the online price is inflated. I bought a 34 oz can at public for 12.00.
+
+product/productId: B002RTK5L6
+review/userId: A2AJ4Z3LAWW1IZ
+review/profileName: David Griffin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: Truly the heavenly coffee
+review/text: This coffee is the only coffee my husband and I will drink.We moved to the west coast and we can only get it at a store called Molly Stones. Would rather get at Amazon. Good service and a little cheaper. Wonderful and smooth coffee. The Griffins
+
+product/productId: B002RTK5L6
+review/userId: A3BYFRMZ0ZQDI2
+review/profileName: W. Roos
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Always the Best!
+review/text: When I was a kid the Chock Full O' Nuts jingle described it as heavenly, and it's still true.Way better than just about any other coffee, and cheaper than most also.
+
+product/productId: B002RTK5L6
+review/userId: ALS5SVPGWX1S6
+review/profileName: Matthew Miller
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349913600
+review/summary: better than Folgers
+review/text: I was looking for something to supply the office with that was different than Folgers..<br />This looked interesting, and it seemed to have a long NY history.<br /><br />After consuming the full can over the last 45 days, I can say that I prefer it to FOlgers.<br /><br />Mellow and easy to drink.<br /><br />Give it a shot!
+
+product/productId: B002RTK5L6
+review/userId: AJOCZ24PLIF7R
+review/profileName: Norma K. Fitzcharles
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347753600
+review/summary: superb - chock full of nuts are chock full of taste
+review/text: Best coffee on the market-Chock full of Nuts.  My husband was instantly converted.  He had never heard of this brand until I insisted we order it.
+
+product/productId: B002RTK5L6
+review/userId: A2EZH3CGRIHWTW
+review/profileName: Bruce Lauton "selective buyer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342483200
+review/summary: What a Bargin!
+review/text: Chuk Full of Nuts is my favorite coffe and to get it in such a large amount is perfect. Less trips to the local store. It is that "Heavenly Coffee"
+
+product/productId: B002RTK5L6
+review/userId: AJ7JN78J53QDK
+review/profileName: KB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Great Coffee, Great Price
+review/text: If you haven't tried Chock Full O'Nuts, you should. This coffee is inexpensive, but tastes much better than other coffees in the same price range. This is all we use at our house.
+
+product/productId: B002RTK5L6
+review/userId: A10BI85AM7ELMU
+review/profileName: Eva M. Wilson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323648000
+review/summary: My Favorite Coffee
+review/text: I was introduced to this coffee a couple of years ago at a friend's house and I've been buying it ever since.  Sometimes I buy 8-o'clock coffee at the grocer's and grind it in the store, but I much prefer Chock Ful O Nuts Original Blend. The house smells heavenly while it's brewing and I am very pleased with all aspects of taste, strength, and smell - I don't care for weak tasting or bitter coffee.  I once bought a 33.9 oz can of this coffee from Walmart and the taste was "off" - not as great as usual.  I called Chock Ful O nuts in New York and spoke to customer service and they sent me two coupons in the mail for the 33.9 oz or small bags and I replaced it with two of the 33.0 oz cans.  Love it love it love it!!<br /><br />To those who complain about the price, it's not unreasonable on Amazon to pay a higher price that includes shipping.  Locally I buy it at Target and look for sales at my local grocery store.
+
+product/productId: B002RTK5L6
+review/userId: A2NOBJ7QN91W26
+review/profileName: Bob "Mr. Bob"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314576000
+review/summary: great coffee
+review/text: We love this coffee! It's easy to find in the Northeast USA, but no there in Texas. So, we buy the large can, put some in a small container, then freeze the rest to keep it safe. Always good to come home from vacation and have our favorite coffee again.
+
+product/productId: B002RTK5L6
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1289260800
+review/summary: The best coffee in the consumer market.
+review/text: Meaning that you can walk down to the store and pick this up by the lb.<br /><br />Chock Full O'Nuts is the KING! There's not even a close second, maybe JFG<br />Special but even JFG takes a big backseat to this magic stuff. Full bodied,<br />magnificent flavor, an almost sweet aftertaste, and very consistent from one<br />can to the next. If you hassle with grinding your own beans and paying for<br />exotic and expensive coffee, you may want to try this on a day when you're<br />rushed and don't have time for all that.<br /><br />I've been drinking this stuff for over 20 years, and still miss the "Gourmet"<br />that was pulled from the market in 92'. Bring it back is all I can say, but<br />until then I'll keep drinking what I can find locally. BTW, "smart shoppers"<br />can find this in their back yard for under $10.
+
+product/productId: B002RTK5L6
+review/userId: A2YE8TQQWDJ3TS
+review/profileName: Willow
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323734400
+review/summary: Fantastic coffee...
+review/text: My order came in record time, well packaged...You can't go wrong with this deal, I love this coffee...and the shipper is excellent...
+
+product/productId: B002RTK5L6
+review/userId: A15PW2YRNHQSTB
+review/profileName: MarieandFrank
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1311897600
+review/summary: JAVA fan
+review/text: Chock full o'nuts is a very good coffee.  However, I bought the original, but think the New York roast would be even better - more robust and richer - more to our taste.
+
+product/productId: B002RTK5L6
+review/userId: A1C2AC979IYSK5
+review/profileName: Amy
+review/helpfulness: 5/14
+review/score: 1.0
+review/time: 1296259200
+review/summary: Not a good price!
+review/text: You can buy this same coffee at your local Kroger Grocery store for $12 dollars. I cant believe they are selling it so high online
+
+product/productId: B002RTK5L6
+review/userId: A2PW6A43MSDCR1
+review/profileName: Lance W. Hokanson
+review/helpfulness: 2/21
+review/score: 1.0
+review/time: 1275868800
+review/summary: yummiest coffee ever.NOT
+review/text: After scanning the shelves of grocerie stores for the last 10 yrs I finally decided to order a can online. Better than starbucks. Howard Schultz is a scum bag for selling our basketball team. Better coffee and dont have to give my money to a scumbag. Thats a WIN WIN situation.---------------------Backstabber!<br /><br />I should have recieved and tested it first. This coffee was terrible. Must have been a different roast than what I had years ago. oops sorry. I guess starbucks will remain a guilty pleasure.
+
+product/productId: B004DBY9UY
+review/userId: A232QASTCP1TVO
+review/profileName: Walter Pickering
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317686400
+review/summary: EXCELLENT
+review/text: I have tried many different coffees, but found Nescaff Freeze Dried Decaf to be the best. I was well pleased with the purchase price and service at Amazon. I give them a five star rating.
+
+product/productId: B0017SZS8I
+review/userId: A31BD4RXCON7QO
+review/profileName: Michael A. Duvernois
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1254787200
+review/summary: Excellent mole
+review/text: I found this once in the store, bought it, and found it to be an excellent mole sauce. It's not especially salty, and the fruit notes really shine through in this. Works well as a late addition or even condiment for roasted meats. The opened jar kept in the fridge for a couple of weeks. I haven't found it in the store again, and have been reluctant to order online due to the price, but it is tasty stuff.
+
+product/productId: B0017SZS8I
+review/userId: A2M6Q0M563E6V6
+review/profileName: sbissell3
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1307491200
+review/summary: There Is No One 'Mole.'
+review/text: 'Mole' is a generic term for a very wide variety of sauces found throughout Mexico. They can be very spicy and very mild. They can contain a few or a great many ingredients. Most people think that Mole has to contain chocolate, but that really isn't so. Some Moles are very complex with up to 50 different ingredients including such things as banana, pumpkin seeds, etc.<br /><br />This fairly simple Mole is made with figs and a cocoa and is not overly spicy, but quite mild to my taste, but I like spicy food. I've used it on fish and the sweet and smokey taste works very well.<br /><br />I've traveled all over Mexico and eaten all sorts of Moles. Some I do not really care for; for example most of the Mole on the Yucatan is too 'complex' for my taste. This one is excellent for a bottled Mole and I recommend it.
+
+product/productId: B00181UQGS
+review/userId: A1Y7TIDOJ90CCW
+review/profileName: Lady At The Lake
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348531200
+review/summary: Mellow and a fantastic price as well
+review/text: I'm no coffee expert, but I do like to have two cups a day and enjoy it. I don't like bitter coffee at all. We either find our coffee at Costco or Sam's.  Took a chance on the Pear's Gourmet -Breakfast Blend (whole bean), which we found at Sam's for a great price.<br /><br />I ground the beans in our Blendtec, which worked well. I filled beans to half-capacity, then used the ice crush setting. I think you could also try the smoothie setting, just watch it closer.<br /><br />Verdict:  freshly ground coffee, no bitter flavor and very mellow. This will be a regular purchase and at a very forgiving price.
+
+product/productId: B00181UQGS
+review/userId: A3HA2DJTUSS3O9
+review/profileName: Marlene C. Kremer "book nut"
+review/helpfulness: 1/4
+review/score: 5.0
+review/time: 1253232000
+review/summary: Best coffee I've ever tasted
+review/text: This coffee was recomened to me by a very close friend.  It is not too strong, but strong enough.  I compare it to Dunkin Donuts coffee, just a little bit better.  I ordered the Breakfast Blend, because my friend said that would be the blend that I liked.  The coffee came when it was suppossed to, no promlems at all.  I will order it again.  I will give it as a gift.
+
+product/productId: B004X8W29M
+review/userId: A1WB16T9C54TJW
+review/profileName: Lord Jaxom
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1336867200
+review/summary: Didn't find the Catcher
+review/text: First off when i meassured the weight when i recieved the Rye I was pleased to see 52 pounds without the bag,  Ive ground some and made Rye Bread and it was delicious.  Im in the process of germinating some for wheatgrass and so far id have to say at least 90% germination maybe more,  I am very pleased and am going to order more next month.
+
+product/productId: B004X8W29M
+review/userId: A1GDIXOETE0EGM
+review/profileName: Jesse Edds
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: Great product, fast shipping!
+review/text: These whole rye berries are perfect for anyone interested in growing edible mushrooms. They are organic and the is very little dirt or debris in the bag.  Grain was in great condition and the package arrived intact and undamaged.  I would recommend this to any person interested in mycology and the growth of edible mushrooms.
+
+product/productId: B004SET0ZA
+review/userId: A28ICSVZPL51WV
+review/profileName: Jewelry Jenny
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1311638400
+review/summary: Crunching with a Smile!
+review/text: Enjoy Life Foods sent us four boxes of their new crunchy cookies to taste test. Dr. J now recognizes their label! He wanted to taste test the Double Chocolate first, and of course this chocoholic mommy did not protest!<br /><br />Remember, Enjoy Life Foods products are free of the top 8 food allergens. Could that kind of product make a double chocolate cookie that tastes "real"?<br /><br />Um, YES! My mouth waited for the rice aftertaste, but it couldn't find one. Enjoy Life Foods created a chocolate taste on par with homemade, and the crunch satisfied! The boys loved them, as you can see, but I was elated! I confess I hid the rest of the box and saved them for me, though guilt did kick in later and I shared one more with them, ha!<br /><br />Now, it would have been very easy to gorge ourselves and eat all four boxes at once, but I needed to test these cookies on a non gluten- and dairy-free eater...Daddy! The next night we had another taste test, this time trying two cookies: Chocolate Chip and Vanilla Honey Graham. Again the boys loved them! And Daddy? My pickiest taste tester of all things allergy-friendly? What was his verdict?<br /><br />Good! He preferred the chocolate chip, but said the Vanilla Honey Graham was decent. There's an ever-so-slight after taste to the graham cookies, but Meatball didn't seem to mind!<br /><br />If you've been counting, there is one more flavor left--Sugar Crisp. Now, I grew up with a Type 1 diabetic mom. The sugar cookies she made were reduced sugar, and I loved them. Most other sugar cookies were always too sweet for me. I figured this would be the case as well, and Daddy and Meatball would get the bulk of the sugar cookies.<br /><br />Wrong! When I bit into my first Sugar Crisp, I was amazed. There was a buttery flavor to it. I grabbed the box--was there some mistake? Was dairy hidden there and somehow Enjoy Life Foods missed it, marketed it wrong? What were the ingredients? How did they get that flavor?<br /><br />I don't know! But there's still no dairy in there! The Sugar Crisp had just the right sweetness, and of course the same satisfying crunch. I ate a lot of them. At first Dr. J didn't want them because they looked a whole lot like another sugar cookie he had tried and not liked. I asked him to please try a bite, and of course he didn't like them. However, after two days of watching Mommy and Meatball eat them, he finally gave them another taste, and was quite happy to consume some himself!<br /><br />I think we can happily say Enjoy Life Foods Crunchy Cookies will definitely be a back up plan for when Mommy forgot to make cookies and we need to take a treat somewhere. My flavor preferences in order were: Double Chocolate, Chocolate Chip and Sugar Crisp tied (seriously, who would have thought!), and finally the Vanilla Honey Graham. Some of you will be able to find them in your local allergy-friendly grocery stores now, and some of you will need to be watching (and ASKING) for them as Enjoy Life Foods continues to get them into the market. You all have my permission to eat two Double Chocolate cookies when you get them--one for you, and one for me!<br /><br />Enjoy Life Foods sent us their Crunchy Cookies for taste testing and honest review. All opinions, and cookie crumbs in the keyboard, are my own. You can learn more about these cookies and their other new products here at their website. I also want to thank them for donating crunchy cookies to our Southeast Michigan Spectrum Moms family picnic in May.
+
+product/productId: B004SET0ZA
+review/userId: AGRVNPPZYW87
+review/profileName: C. Phillips
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: YUM!!!
+review/text: I can't say enough good things about Enjoy Life and these cookies!  They are fabulous and a true treat for allergen free kids and adults!  They are delicious and you would never know they were gluten, casein, soy, etc free!!
+
+product/productId: B004SET0ZA
+review/userId: A39SCU7KSK7330
+review/profileName: FOREVER student of Life:D "Always learning co...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325030400
+review/summary: Wonderfully Chunchy!!
+review/text: I'm use to have Nanas<a href="http://www.amazon.com/gp/product/B001CTPQWU">Nana's No Gluten Ginger Spice Cookie Bites, 5-Ounce Boxes (Pack of 12)</a>  &lt;&lt; these are my favorite! So nice to have More cookies that are safe for me :}  I just NEED to watch the Caffeine and Sugar!!<br />Safe to enjoy! Now I have to watch how much :}
+

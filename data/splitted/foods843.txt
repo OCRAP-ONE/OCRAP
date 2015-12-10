@@ -1,0 +1,1143 @@
+product/productId: B000E1FZJQ
+review/userId: A1L89MO026KTDQ
+review/profileName: Martha R. Ulfelder "personal chef and busy mom"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1293667200
+review/summary: We love this sauce!
+review/text: I've looked in every local grocery store for this sauce. We had a bottle once and I haven't been able to find it since. The kids keep asking me to buy more; they love it on ground turkey tacos. I just decided to check here. I'm ordering a case ASAP.
+
+product/productId: B000E1FZJQ
+review/userId: AVPFJMLE5VJ3H
+review/profileName: Racks
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1316131200
+review/summary: Found this product at local store
+review/text: I just ordered this product was happy to find it was still available, however yesterday, I found the Taco Bell Restaurant Hot Sauce at Wal-mart in Wichita, KS for $1.32 a bottle. If you are wanting to purchase this product you might want to check your local Walmart Store first.
+
+product/productId: B000E1FZJQ
+review/userId: AIC2TIPBH1XG4
+review/profileName: Van Hammer
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1338163200
+review/summary: Taco Bell Sauce
+review/text: The stuff is good, but don't think it's the best.  The taste is a little bland compared to other sauces and doesn't really pack any heat to it at all.  You would think "hot" meant hot, but this is more like mild to me.  Try again taco bell.
+
+product/productId: B000E1FZJQ
+review/userId: A2DVFHG099GUGE
+review/profileName: sauerkraut
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1345680000
+review/summary: A dissatisfying product
+review/text: Taco Bell Home Originals Hot Restaurant Sauce shows promise but does not deliver.  The flavor is distinctive yet bland--it is in the background and needs to be brought forward.  It is not that hot, either, and this should not be the case.  This sauce is not bad, but it could have been better.  Actually, I rate this product 2.5 stars.
+
+product/productId: B004T3AWRA
+review/userId: A2Y8YFXEZWW34Y
+review/profileName: Gluten-free Mom
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1312070400
+review/summary: Addictive
+review/text: Bought a box of these to try this summer.  Made s'mores in the microwave and they were very good, but then the rest of the cookies 'disappeared' before we got a chance to make more...  These are very similar to the graham crackers I remember, but maybe a little thicker. Still taste very much like them though.  I wish they'd make a cinnamon version...  The price isn't too bad.  I paid over $4.50 for the ones I bought, and these will come to $4.43/box.  Kinnikinnick gf foods are usually good but expensive.
+
+product/productId: B004T3AWRA
+review/userId: A17AKX5L6MH62R
+review/profileName: Ashley N. Matics "Crazy for music and books"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1338249600
+review/summary: Bought these for my gluten-sensitive mom
+review/text: I was really suprised by these. They don't taste exactly like graham crackers, but they're pretty darn good. My mom remarked that she liked them better than regular graham crackers. I would definitely recommend these to someone who can't have gluten!
+
+product/productId: B004T3AWRA
+review/userId: AY0J333WSGCVD
+review/profileName: Mom of 3 sons
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1336176000
+review/summary: Tastes like regular graham crackers!
+review/text: I have missed graham crackers!  The texture is a bit different but the flavor is there!  I love these and am looking forward to making graham cracker crusts again and especially using them for making my homemade cheesecakes! Yum!
+
+product/productId: B004T3AWRA
+review/userId: A3AUSKRTH4QC50
+review/profileName: S. Graham "Graham Mommy"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1322611200
+review/summary: Love these!
+review/text: Our family absolutely loves these graham style crackers! Thanks Kinnikinnick!  Sure, they aren't exactly like the traditional graham cracker with gluten in them, but the more you eat these, the more you like them!  One of my kids eats these daily with peanut butter on them. I only wish they were easier to find and I didn't have to order them online.  Thanks amazon for the free shipping though, it does help!
+
+product/productId: B004T3AWRA
+review/userId: A3OJ7B1MVD73YR
+review/profileName: Sarah Fischer
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1341273600
+review/summary: Good product, but misleading description
+review/text: Be aware - this listing is for only ONE box of crackers.  The description states "Save On Kinnikinnick 6X 8 Oz S'Moreable Graham Cracker They'Re Back And Ready For S'Mores!", which makes it sound like you are getting SIX boxes.  When you add in shipping they are pretty pricey for just one box, but they are delicious.  My 1.5 year old son has multiple food allergies and a very limited diet, and loves these.  Just wish we could find a good deal on buying them in bulk.
+
+product/productId: B004T3AWRA
+review/userId: A2X3VDMGK6ZV4W
+review/profileName: dfm24
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1336608000
+review/summary: Yum!
+review/text: For gluten-free, these are the best. I used them for s'mores and also crumbled up for gluten free pie crusts. They are very good.
+
+product/productId: B004T3AWRA
+review/userId: A3PVYYHNE6G2JC
+review/profileName: kweaver
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1335744000
+review/summary: Excellent Substitute
+review/text: These graham-style crackers are a little more narrow and a little thicker than regular graham crackers, however, they taste exactly the same and make terrific s'mores.  My child who is having a tough time adjusting to a gluten-free diet just loved them.
+
+product/productId: B004T3AWRA
+review/userId: A12MSDBWEURBYO
+review/profileName: Christine
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332806400
+review/summary: Yummy!
+review/text: These taste just like real graham crackers, which is amazing when you haven't had a real graham cracker in years!  They are small and rectangular, so they are hard to use for smores, but I always figure something out.<br /><br />On the negative side - there must be somewhere else to get these.  Amazon is charging $8.99 for ONE little box of crackers.  I ordered them thinking that I was getting multiple boxes.  This is a ridiculous price.  I'll ask the health food store to order them for me next time.
+
+product/productId: B004T3AWRA
+review/userId: A3H8288VHL1607
+review/profileName: Nicole Brown
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1332288000
+review/summary: Kinnikinnick S'moreables are great!
+review/text: Kinnikinnick has always been one of my preferred brands of gluten free products and their S'moreables are one more to add to my list of great gluten free products. The crackers are crunchy and just a touch sweet, used as graham cracker crust and for use with s'mores, its pretty hard to tell they are gluten free. They do break a little to easily and dry out really fast, so if you don't use them all, be sure to keep them tightly sealed. Overall I'm very happy with these gluten free graham crackers.
+
+product/productId: B004T3AWRA
+review/userId: A24EM7JG05ATN1
+review/profileName: Ally Graham "FanGirl"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328572800
+review/summary: Delicioso!
+review/text: I decided to look for Gluten Free graham crackers one day, and happened upon these. They're the only gf grahams out, so I ordered a box. (Living in the sticks really has its downfalls for food variety in physical stores... I'd never seen gf grahams anywhere!) Boy, was I SO not disappointed! My mom and I are both gf, and we enjoyed them thoroughly! (W/ chocolate and marshmallows, o'course!) These are fantastic. I'm ordering more now, after I'm done with this review! Kinnikinnick definitely knows their stuff. Thanks, you guys!! :3
+
+product/productId: B004T3AWRA
+review/userId: A1BDRB9AFZMHMS
+review/profileName: Mikelena "Mikelena"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1326067200
+review/summary: delicious. Not cheap, but delicious usually isn't
+review/text: We bought some boxes of these for my son's b-day party. We decided to have a camping theme with s'mores  -instead of a cake - and the all the kids enjoyed them.
+
+product/productId: B004T3AWRA
+review/userId: A1TZ5V3J0R8N3E
+review/profileName: lunchpackinmama
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1321920000
+review/summary: Pretty good
+review/text: These are pretty decent and don't taste like cardboard. They make good S'mores too. My only complaint is that they don't seem to get hard even when made into S'mores using the oven.
+
+product/productId: B004T3AWRA
+review/userId: A2632KQE8MPDZZ
+review/profileName: Emily
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348617600
+review/summary: delicious!
+review/text: like many gluten free cookies/crackers the texture was a bit grainy..but overall was a delicious treat!! brought them on a family camping trip to surprise my sister and we all got to have s'mores! some of the folks who were not GF even really liked the product.<br /><br />two thumbs up!!
+
+product/productId: B004T3AWRA
+review/userId: A1VBYQ43MXCM7J
+review/profileName: smay
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346112000
+review/summary: GF Grahams
+review/text: We made a graham cracker crust and smores with these.  Great graham crackers!  I would never have guessed (without previously knowing), that the graham cracker crust was gf.  Definately will be buying again.
+
+product/productId: B004T3AWRA
+review/userId: A2PLOMP1K1EYI8
+review/profileName: runruby
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344816000
+review/summary: Great GF alternative
+review/text: My daughter was delighted to be able to have s'mores again with the family.  These are very similar to normal grahams, but thicker and break easy.  It is however the best and ONLY replacement I have found!  The box looks big, but as with all GF products there aren't many in the box.  It is worth the money for kids to feel "normal" though!
+
+product/productId: B0057TWYH6
+review/userId: AJMKMTV1D2TFM
+review/profileName: Joanne Stewart
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1310947200
+review/summary: Puppy's tummy didn't like them
+review/text: My 13 week old Shepherd/Lab mix has a bit of a sensitive tummy and unfortunately these didn't agree with her. The first time I gave her one, it gave her loose stools, the second one she threw up.
+
+product/productId: B0000D17NY
+review/userId: A2ZJPART4M00DI
+review/profileName: D. Ann Jurgensen "EmTom69"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1215216000
+review/summary: definately worth a try for anyone!
+review/text: i just went into my local grocery store because they USED to carry this stuff-only to see they no longer do.  Im going to let a whole bunch of Fourth of July people down because word quickly spread that I was to make my chicken Khorma and I was getting excited calls...I can no longer find the star ingredient of this simple, delicious and different dish, but Ive found it here on Amazon and I will be buying it for when I get a hankerin'.  It might interest you to know that my toughest critics-two teenaged boys-really love it served over jasmine rice.  And if they like it, then you know it's not too spicey or too different for your family.
+
+product/productId: B0000D17NY
+review/userId: A149T36Q23FM8O
+review/profileName: Nick Ripostella
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1246665600
+review/summary: Something missing.
+review/text: If you have nothing else this is acceptable, but it definitely lacks that special something my two local restaurants seem to have in the korma. I was disappointed. Possibly it was too mild. I could tell from the aroma it was different from what I had on my recent Lamb Korma dishes while dining out.
+
+product/productId: B0019RL7Z0
+review/userId: ARNKJQJ74PVXZ
+review/profileName: M. M. Joyce "MMJ"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1297209600
+review/summary: Naturally Great Cat Food!
+review/text: My big kitty loves mackrel and sardines, but they are hard to find.  I got a can of this to try because he loved salmon, as well--and he got one sniff of it and started howling for it! I could hardly get it from the can onto his plate fast enough!  These are very large cans and too much for one cat or one meal, but I just use a couple tablespoons at a time, and then slip the unused portion into a ziplock baggie and pop it in the fridge.  I take it out about one hour before serving again--still get the same response--the big guy LOVES it!  I always leave extra on his plate so that he can go back to it if he likes, and so far, he has not eaten more of it than his other varieties, just seems to enjoy it the most.  It is healthy and low calorie due to its purer contents, and so I am hoping it will help him to lose a pound or two.  He still eats just a bit at a time, but with so much more gusto--and from the amount of washing up after his meal of this, I can tell that he thoroughly enjoyed it.  Happy cat, happy human!  I am now buying it by the case!
+
+product/productId: B000H2259K
+review/userId: AD4549T0A2KX6
+review/profileName: K. Gross
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1179964800
+review/summary: best country gravy mix i've tried
+review/text: We got a couple packs of this gravy in a gift basket one christmas and made it over biscuits for breakfast one day. it was DELICIOUS!!! I looked for it in stores and couldn't find it. That's when i turned to the internet and ordered a case. It is so simple to make and tastes delicious--even better than the canned gravies. Brown some ground sausage and mix it in or leave it plain-either way a real treat.
+
+product/productId: B000H2259K
+review/userId: AWZAWKBRY2I4S
+review/profileName: Harry Miller
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1223769600
+review/summary: This Gravy is a Great Savings
+review/text: The Southeastern Mills Country Gravy Mix has the down home country gravy flavor that I use over fresh baked biscuits that we love having for Sunday morning breakfasts.<br /><br />It is a great buy in the 24 count carton. I've priced both chicken gravy and country gravy  mix in the store and it costs over a dollar a packet. The thing is, the store bought packet makes one cup of gravy. However, Southeastern Mills Country Gravy mixes up three full cups of gravy. That's plenty for a domestic partnered couple not to run short while pouring gravy over biscuits. It tastes great, too. I've mixed a store bought package of the Chicken Gravy mix with this, too. this makes undeniably the best gravy I've ever, ever tasted! Buy this product!
+
+product/productId: B000H2259K
+review/userId: A2R2QMYHBMZMSI
+review/profileName: Bryan Lynch
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1323907200
+review/summary: DELICIOUS!!!!!
+review/text: This gravy is DELICIOUS!!!!!!!!!!!  It comes out so thick and flavorful I can hardly believe it's from a mix.<br /><br />I wish I hadn't bought this huge case though.<br /><br />It's going to take me a while to suck down this much gravy!!
+
+product/productId: B000H2259K
+review/userId: A3J26SOBB0Q1YD
+review/profileName: Tara Shuler "Author"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1277337600
+review/summary: Best... gravy... ever!
+review/text: I have always wanted country gravy like they have in restaurants like Mrs. Winner's, Sonic and Dairy Queen, but I could never make it taste right when I made it from scratch. This stuff is the REAL DEAL. It takes just like their gravy, and it's so easy to make! I comes out PERFECTLY. How easy is it to mix powder and water?<br /><br />I will NEVER buy another country gravy mix as long as this stuff is available. Wild horses couldn't drag me away from it!<br /><br />My kids love it, too. (And they are extremely picky eaters!)<br /><br />Try this on hamburger steak, toast, and on french fries, too!
+
+product/productId: B000H2259K
+review/userId: A2AR2UWWNKWY8M
+review/profileName: GrannyBooks
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1272326400
+review/summary: Not a single lump and great flavor!
+review/text: Southeastern Mills Gravy Mix -- whichever flavor you use -- is great gravy! Unlike most packets you get at the grocery that make one cup of gravy, this makes 3 1/2 cups. (So do their brown and peppered gravies.) What family only uses one cup of gravy? Not any family with southern or midwestern roots, I can tell you that. With Southeastern Mills, there is enough for the whole family and maybe a little left over for the cat or dog. (Maybe not.) Follow the directions on the packet and you will have smooth and tasty gravy every time. This is good gravy for chicken fried steak or breaded, boneless chicken breasts or, if you toss some browned and crumbled country sausage and a little pepper in it and cook the whole thing in the skillet you browned the sausage in, it is lip smackin' good on biscuits fresh out of the oven.
+
+product/productId: B000H2259K
+review/userId: A9CBIYEOIRAXZ
+review/profileName: M. Bowen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1270080000
+review/summary: Great Gravy at a GREAT Price!
+review/text: Went back to order this again and realized that it has been almost a year ago that I placed my last order. I love the 24 pack and you can't beat the price! We eat country fried chicken/steak a couple of times a month. We had been looking for another white gravy since being a southern girl living up north that is the only way to eat it. Unfortunatley it is harder than heck to find white gravy in the stores here. We gave this product a try after seeing the others reviews and have to say we all were happy with it! That is quite an accomplishment with 3 picky kids. We usually use a couple of packs each time when our whole family of 5 is eating. I joke with my kids when they "drown" their food in this stuff that they might as well take the whole bowl and eat it with a spoon! ;) Anyway we love this stuff and hope that amazon keeps selling it!
+
+product/productId: B000H2259K
+review/userId: A2EDWI5EGP4V9N
+review/profileName: sharkychick
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1278547200
+review/summary: Wow!  Exceeded my expectations
+review/text: The reviews helped convince me to try this product, as I was looking for a really good quality packaged country gravy.  I like country gravy from time to time, but seldom want to go through the trouble of making it myself.  This is definitely the best one I have tried by a large margin.  I don't think I could make it better and I cook very well.<br /><br />The flavor is very rich.  The consistency is smooth and velvety.  I didn't even add one spot of salt...that was amazing in itself as I was sure that I would need to add salt!  What I did, that was ever so slightly different from the instructions, was to go ahead and get the 2c of water boiling.  Meanwhile, I have one of those Tupperware shakey things and put the other cup of water & the mix in that and shook it up.  It blended up super well.  Then, when the water boiled, I got a whisk and slowly poured the mix into the boiling water while whisking.  It only took a minute to return to a boil and come up to the proper consistency.<br /><br />The thought of buying 24 of these super-sized packages was a bit daunting, but I put them in airtight containers in the freezer and I think that should keep them even past the expiration date on the packages.<br /><br />What I do, since each package makes so much and I am usually just making a little something for me only, is to freeze the remainder of it in single portion sizes then I can vacuum seal each one separately with my Foodsaver and take out one portion at a time.  That works best for me, as I have found that if I just put country gravy in the refrigerator to use over a several day period it gets kind of gross and separatey, even in airtight containers.  It freezes and reconstitutes VERY well if stored properly.
+
+product/productId: B000H2259K
+review/userId: A1UMUXEAEXIEBU
+review/profileName: Mary Kellogg "mlk"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313107200
+review/summary: The Best Gravy
+review/text: This is by far the best gravy mix I've ever used.  I'm from the south, stuck here in Seattle, and good gravy is not found anywhere but my own kitchen.<br /><br />I have seen this mix in speciality stores here, but at twice the price as it is offered here.<br /><br />Good deal, great gravy.<br /><br />Yum!
+
+product/productId: B000H2259K
+review/userId: A1K33F5H4026X9
+review/profileName: jlbloom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296259200
+review/summary: good as home made
+review/text: I have been eating home made gravy and biscuits for more years than I want to admit.  This gravy mix is easier by far, and tastes as good as home made...
+
+product/productId: B000H2259K
+review/userId: A73OFBDIBB0W0
+review/profileName: D. Wells
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1292457600
+review/summary: Best gravy mix ever.
+review/text: I use this gravy mix for everything. I don't even bother to make gravy from scratch any more. I add sausage bits and some sausage seasoning for biscuits and sausage gravy. Drop 2 or 3 chicken bouillon cubes in the water for chicken gravy. This can be used so many ways. I hope they never stop making this. And the price is so cheap compared to the gravy mixes you buy at the store that only make one cup of gravy. Can't go wrong with this.
+
+product/productId: B000H2259K
+review/userId: AWDV7BAVH390R
+review/profileName: Sasquatch
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1269734400
+review/summary: Yumm.  Biscuits and gravy
+review/text: This gravy is full of flavor and very easy to make- what more could you want!
+
+product/productId: B000H2259K
+review/userId: A91010DCXHF9A
+review/profileName: Quincy "avid consumer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1264550400
+review/summary: Best Gravy you will ever make.
+review/text: This is the best gravy you will ever make - it's easy to make and it makes a lot, if it gets too thick - just add a little water.  If you have leftover gravy - it lasts a long time in the refrigerator.
+
+product/productId: B000H2259K
+review/userId: A29UJUT3VQIQHX
+review/profileName: C. Gomez
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261612800
+review/summary: I LOVE THIS STUFF
+review/text: I will never eat anything else other than this gravy , The first time i tried this stuff i was hooked , I eat it every opportunity i get , (Well, until my doctor says my arteries are clogged up )  anyway this stuff is sooooo good !  I buy them by the case ...
+
+product/productId: B000H2259K
+review/userId: A2DY2ODHK5WU9M
+review/profileName: J. Yates "GR Fan"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1237593600
+review/summary: Best mix there is...
+review/text: Okay, I make GREAT gravy but this mix is so easy and so good I don't bother anymore. Add a little pepper and some sausage pieces and you're good to go... or don't, it's excellent as is.
+
+product/productId: B000H2259K
+review/userId: AKHC7GSF15I14
+review/profileName: Cat Lover
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289433600
+review/summary: Perfect Gravy Every Time
+review/text: I love this product. I can't make gravy no matter how hard I try. It's either soupy or looks like spit-balls. This is one tasty gravy. Soooo easy to make, just add water. Each envelope is a generous portion. If you like pepper you will enjoy this gravy.
+
+product/productId: B0001K5KZO
+review/userId: A35UIM5STMLK4H
+review/profileName: C. Morfeld
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1165968000
+review/summary: Not that great
+review/text: This product does not dissolve well in water.  Even after vigorous stirring, there are still powder chunks.  The flavors are OK, but do not have a rich chocolatey taste like I expected.
+
+product/productId: B0001K5KZO
+review/userId: A1ERD893AWOD5B
+review/profileName: Ryan Wilson "Ryan Wilson"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1198886400
+review/summary: Nice Variety
+review/text: There was enough different types of hot chocolate mixes that she felt like she wanted to try them all. They were pretty good too!
+
+product/productId: B0001K5KZO
+review/userId: AI3FRC5GYR1GT
+review/profileName: shoefan18
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291075200
+review/summary: delicious
+review/text: To my taste, the best cocoas out there.  Especially like the creme brulee and the caramel flavors.  The only downside is the price, a little high.
+
+product/productId: B004ZWJZ6E
+review/userId: AI86QRF3SZLSS
+review/profileName: MARYANN "Maryann"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349740800
+review/summary: Overwhelming
+review/text: I like GEORGE'S BAKERY parmesan flavored pita chips. The parmesan taste is very subtle. The plain pita chips are good too. I like garlic, but the garlic flavored chips are way too garlicky. I felt like I ate raw garlic cloves afterwards. My tongue was actually burning. I gave a three star rating because the texture of the chips is the best I've ever had outside of a restaurant and they taste very fresh. Much better than Stacey's pita chips, which were my former favorites.
+
+product/productId: B0000SXEJG
+review/userId: A1MQ6CLYMYSYQA
+review/profileName: Bette Sinclair
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1159315200
+review/summary: sweet 'n low chocolate frosting mix
+review/text: This is delicious frosting. Tastes just like real sugar frosting. Wonderful, rich chocolate taste. So easy to mix up - even without a mixer. Makes a wonderful cake along with the sweet 'n low yellow cake mix. YUMMY!! My only problem is trying to find it in stores. So now I just get it off the internet.
+
+product/productId: B0000SXEJG
+review/userId: A2LYXJ05TASKUW
+review/profileName: mommylarry
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1277856000
+review/summary: Sweet 'N Low Chocolate Frosting Mix
+review/text: Yummy my boyfriend is a diabetic and since he was diagnosed 5 years ago I have been searching for frosting to make a cake and this was perfect. He loved it and low and behold I did also. Our son did to he is 9 and couldn't tell the difference. He had no clue it wasn't real cake icing.
+
+product/productId: B0000SXEJG
+review/userId: A7VZ6LSA6MHJ2
+review/profileName: J. Church "wizard sister"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1271203200
+review/summary: sugar free icing
+review/text: Love this stuff!  I use this on the sugar free cakes I make and it tastes like the "real thing".  It will also keep in the fridge for a good while, and is very convenient  - just add water.  I'll definitely buy it again.
+
+product/productId: B0000SXEJG
+review/userId: A2L38QK6JRPYS2
+review/profileName: D. Kirsch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Great for Diabetics Who Love Chocolate
+review/text: My wife had seen this at Walgreens but a week later they'd apparently dropped the product line.  After searching at all the usual suspects we were unable to locate it anywhere.  Then we found it here and grabbed a couple of boxes to try out on a birthday cake.  It really does taste great and my wife and young daughter both loved it.  It was quick and easy to make, and just as easy to frost a sugar free birthday cake.
+
+product/productId: B0000SXEJG
+review/userId: A3UXE8BK3X3Z7S
+review/profileName: Melahhx3
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327881600
+review/summary: 4 Well Deserved Stars
+review/text: I think this product deserves 4 well deserved stars for several reasons. I bought this and the chocolate cake mix, which you should read my review to, and I believe that this was pretty good quality. For sugar free products, it's very hard to find something that's tasty and to my liking. I am very picky. This product was for my father who is a diabetic, but I wouldn't give my father anything that I wouldn't eat myself.<br /><br />The frosting was very easy to make, just add some water and swirl in a circle and BOOM you have frosting. What I loved about this product was, just like the cake mix it was a bit of a surprise. When I opened the package, the box was very light and both the cake mix and this frosting were very powdery almost too powdery to my liking. They were both "Just Add Water" products, and with both of them I found myself very hesitant to add water to them because I thought I might dissolve this powder, however after just a half of cup of water and a few swirls, I got some good tasting frosting!<br /><br />Now, To be 100% honest, the frosting has a little funny taste, but it's not a terrible taste. But being that the product is a sugar free product, you do have to take into consideration the fact that that's what's going to be expected from the product. However, the after taste wasn't so bad that it over powered the frosting, it was like a light minty feeling to a chocolatey frosting. It's not completely to my liking, not something that I would eat regularly I prefer the real chocolate frosting over this one, however, when you eat it with the chocolate cake, it's almost like you're not missing anything. My suggestion to you, is if you MUST get the icing then YOU MUST get the sugar free chocolate cake with it as well because it's soo much of a treat. I think it was worth it. Fast shipping, I made the frosting in under 5 minutes, the cake baked in about 15. You can have a sugar free cake in 20 minutes! I would buy again.
+
+product/productId: B0002QEHT2
+review/userId: A18NPUB5CNXZOE
+review/profileName: John Boland "John  Boland"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1190073600
+review/summary: Good Stuff!!!
+review/text: If you like the taste of raspberries you'll like this.  Use it as a sauce on chicken or duck. Also, as a "tasty" desert just put some on a slice of bread flat on a dinner plate and eat it with a fork.  I love it!  boland7214@aol
+
+product/productId: B0002QEHT2
+review/userId: A3SG68IM0PZOMI
+review/profileName: michael chirco
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: Roland melba sauce
+review/text: Great tasting sauce just like in peach melba.My wife's favorite desert,The best I ever tasted but watch the calories it's addictive Try it on ice cream or make a melba shake
+
+product/productId: B0002QEHT2
+review/userId: A2SFU45EQKAP6U
+review/profileName: Squeak "jr214"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1255564800
+review/summary: Disappointing
+review/text: We tried this sauce because we love the raspberry sauce served on so many desserts in restaurants these days. We had used another brand before but could no longer find it, so we searched the Internet and found this one. Unfortunately, it was more of an excessively sweet jam/jelly than a smooth sauce. One taste and no one would eat it. I tried using it in smoothies and it made the whole thing too sweet, even though I didn't add any other sweetener.<br /><br />If anyone knows a good raspberry sauce, please let me know!
+
+product/productId: B0002QEHT2
+review/userId: A3LHTXFH6I59LU
+review/profileName: Lidia Porada "Lidiana"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254614400
+review/summary: Great buy !
+review/text: I couldn't find this product anywhere. I use it as topping for ice cream, cream of wheat and other desserts. My kids love it too.
+
+product/productId: B004DDCKGM
+review/userId: A2TN9C5E4A0I3F
+review/profileName: Jimmy
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1302566400
+review/summary: Taste like chocolates but why labeled as Weight Watchers???
+review/text: I bought these thinking they would actually be less fat being labeled after a big-name weight reduction group.  13 grams of fat a serving?  Really?  Is that what is considered "weight watching"?  It was a bag of Whitman's chocolates pre-packaged under the WW brand and sold as something much more expensive but basically about the same fat content as just buying Whitman's chocolates and eating 3. (3 is a serving)  Sure they tasted good but so do regular chocolates.  Silly.  Not worth the money.  Just go buy a box of Whitman's and eat 3. lol
+
+product/productId: B004DDCKGM
+review/userId: A1RP2IFYSM7JQ8
+review/profileName: Lillsoph
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1326412800
+review/summary: Not as advertised
+review/text: I bought these thinking "how great chocolate for one point!"  Well that is not actually the case.  If you scan the bar code or put the nutritional content into the calculator they are two points each.  And instead of a serving (three chocolates) being 4 points, its 5 points.  I know this may seem like a small issue but a point means alot when your dieting.  I emailed the company as well, but I have had no response.
+
+product/productId: B001EHGIXQ
+review/userId: A1QJL8I6WW9GWN
+review/profileName: CarKrazy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1306886400
+review/summary: Goldbaum's Pastas
+review/text: With having limited pasta choices due to corn, egg and gluten intolerances, I have found Goldbaums pasta to be a very easy to work with rice pasta that maintains texture well. As with all gluten free pastas, I find that they are more easily overcooked, but by using resting methods (8 minutes on boil, resting in the hot water off the burner to texture) and using a hot water rinse, people are unable to tell the difference.
+
+product/productId: B002N2T0H2
+review/userId: A1J7EO5K0SN6ZH
+review/profileName: M. J. Kreps
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1285286400
+review/summary: Decent Alternative to Fancy Feast Appetizers (chicken and tuna)
+review/text: I have one cat that absolutely adores Fancy Feast's Appetizers -- the chicken and tuna combination. The only problem is that Appetizers are small portions (2 ounces instead of 3.3 ounces), expensive (retailing at $1.49 per portion), and not a complete source of nutrition. Fancy Feast says the Appetizers should supplement regular cat food rather than replace it. But it's the one meal that gets my cat to clean his bowl.<br /><br />So when I discovered Soulistic cat foods being offered at Petco, I gave the Sweet Salutations Chicken and Tuna Dinner a try. More standard 3-oz can priced at 89 cents apiece, with complete feline nutrition. My incredibly picky cat will eat 90% of this. So it's a decent alternative to the Fancy Feast Appetizers that he craves.<br /><br />This particular canned meal has a lot of gravy, which pleases my cat but may not satisfy others who prefer more meat.<br /><br />Given Petco's shipping charges, I probably will continue to buy this at my local Petco rather than ship via Amazon.<br /><br />NOTE: The price shown here is for a tray of 12 cans.
+
+product/productId: B002N2T0H2
+review/userId: A1RDHASSNJE6XE
+review/profileName: m
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1295740800
+review/summary: Not as good as the Soulistic in Gelee
+review/text: Having purchased the Soulistic "Gelee" and BFF (made by the same company) I wanted to try the "Gravy" flavors to add some more variety.  Although the food looks appetizing and all the cats seem to like the food, I was dismayed to see that there seemed to be as much gravy as food in the cans.  I do not want to be paying the same price for cans that contain this much liquid and less food.  I will purchase the "Gelee" foods and BFF again, but it isn't likely that I will purchase the "Gravy" flavors.
+
+product/productId: B002N2T0H2
+review/userId: A8VALXZONWDRD
+review/profileName: Dolphin
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1292198400
+review/summary: Toxic ingredient
+review/text: Menadione Sodium Bisulfite Complex (Source of Vitamin K) is a severely toxic synthetic form of vitamin K. It can cause severe liver damage in cats. I would never feed my cat that food.
+
+product/productId: B002N2T0H2
+review/userId: A28NBHIWL3TDBD
+review/profileName: J. Kelly
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1284768000
+review/summary: Quantity?
+review/text: How many cans, and what size are the cans?  Poor description. (My cat loves the food, but what is being offered here?)
+
+product/productId: B0019L8H6I
+review/userId: ARXPO183YOL5
+review/profileName: Dolores Coward
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268179200
+review/summary: Brown Basmati Organic Rice
+review/text: <a href="http://www.amazon.com/gp/product/B0019L8H6I">SBR Brown Basmati Rice - Certified Organic Gluten-Free Kosher Certified- 2LB</a><br />The SBR Brown Basmati Rice we purchased was of excellent quality.<br />Cooked up perfectly, and met our standards for a superior rice.  We would definately purchase it again and again.
+
+product/productId: B0057638KQ
+review/userId: A2AI6HX8Y5TZBN
+review/profileName: Jonny
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1326844800
+review/summary: Worst buying experience on Amazon
+review/text: For starters, they didn't even ship the package until the last possible day they could have. To make it even better, the package, which I planned on having in time for Christmas, showed up three days AFTER the last day it should've arrived. And the best part? They didn't send 3x20 bags, they sent 2 boxes. That's one less box than the 3 I ordered and paid for. I'll never buy from them again.
+
+product/productId: B003ZI74KS
+review/userId: A1XVQ3KHS22E3F
+review/profileName: expresslaine
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342396800
+review/summary: La Crema Coffee chocolate hazelnut
+review/text: easy to open packages premeasured for the pot.  great taste. great for desert or mid afternoon uplift. would continue to purchase if the price is right.
+
+product/productId: B0019HXMIK
+review/userId: A3C3EKWUY9E6QW
+review/profileName: R. J. Koolkin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1223942400
+review/summary: I'm a believer
+review/text: I was doubtful at first, having tried other energy drinks which were either ineffective, horrible tasting, or high carb/caffeine.  I almost always felt a crash later on too.  With this stuff I am now a believer, there is no crash, I am not jittery, and I really do feel the effect.  It starts strong, then fades gradually after about 4-5 hours.  It tastes OK too (way better than cough syrup), and I just drink the whole bottle in 1 big gulp. Sometimes I do feel flushed/warm for about 30 minutes, but it isn't uncomfortable, just noticeable.
+
+product/productId: B0019HXMIK
+review/userId: A1PFDHQY3JAC5D
+review/profileName: JackMyster
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316390400
+review/summary: Not sweet like other flavors
+review/text: For habitual coffee drinkers who like that pickup that coffee gives you... you might not see the effects of this.  If you stop drinking your coffee and use this, I'm sure you will start to see the benefits.<br /><br />I feel a difference, not in like a rush that a cup a coffee would give me (I'm not a habitual coffee drinker so I feel the rush from a cup of coffee,) but when you feel blah and drink one of these, you start to feel the blah go away.<br /><br />I like Lemon/Lime because all the other flavors are too sweet.
+
+product/productId: B0019HXMIK
+review/userId: A29VHOKJDAJKLD
+review/profileName: penfifteen
+review/helpfulness: 3/6
+review/score: 2.0
+review/time: 1337385600
+review/summary: Moderation
+review/text: WHATEVER YOU DO, DO NOT FILL UP A "SUPER BIG GULP" CUP WITH 5 HOUR ENERGY AND CHUG THE WHOLE THING.  MY HEART HAS EITHER STOPPED COMPLETELY OR IS BEATING SO FAST THAT I CAN'T FEEL MY OWN PULSE.<br /><br />CONS:<br />I HAVEN'T SLEPT IN 72 HOURS.<br />I CANT FEEL MY FACE.<br />I PEED THIS MORNING AND I'M PRETTY SURE IT WAS 99% BLOOD.<br /><br />PROS:<br />I'VE DEEP CLEANED MY ENTIRE APARTMENT.<br />I CAN READ MINDS.<br /><br />SUPER BIG GULP=44OZ, 5 HOUR ENERGY=2OZ.  THAT MEANS I DRANK 22 5 HOUR ENERGYS IN LESS THAN 2 MINUTES.  22X5=110 HOURS OF ENERGY.<br /><br />GOD HELP ME.
+
+product/productId: B004TIRUS4
+review/userId: A24ODHD9E5CL24
+review/profileName: K. Koons
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329091200
+review/summary: Incredible
+review/text: This is the best applebutter I've had ever since I was a kid and my grandma would take me on a trip to the Amish market in Pennsylvania. So much flavor, its perfect.
+
+product/productId: B000IRJB3M
+review/userId: A1JF5F9402BKBV
+review/profileName: Neema Kharva
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267833600
+review/summary: Best PMS remedy when combined with the great tasting Detox!!
+review/text: If you're looking for help with the PMS - do give the PMS tea try. It works wonders.<br /><br />For the first month, I had only the detox tea. One bag, several times a day. I had also ramped up to running 2-3 miles three times a week (from 1.5 to 2/ 2 times a week). When my cycle came and went with heavily reduced symptoms, I was in disbelief!! Next month, I switched to the PMS tea after day 20. The month after I had the PMS tea for the whole month. There is no looking back for me.<br /><br />Here are all the areas where I saw a SIGNIFICANT difference: Oily skin/hair, energy levels, I-AM-GOING-TO-CHEW-MY-NAILS-OFF cramps, bloating, body aches and the MOOD!<br /><br />Relevant asides:<br /><br />The PMS tea: doubled amount of Dandelion root (500mg compared to the Detox).  Caffeine free with 89% certified organic ingredients. Taste - meh...but tolerable<br /><br />The Detox tea: 250 mg of Dandelion extract. Apparently they revamped this product owing to concerns of sustainable access to ingredients. That is pretty commendable I think! Plus whatever they did, rocks! Taste gets a 10/10. Has a small amount of Kukicha caffeine. And again, the formula is 85% organic.<br /><br />Both products contraindicated for pregnant (detox only of course) or breastfeeding sisters.<br /><br />If you do review the product, please add tags, to help resolve some of the confusion here :)<br /><br />Last but not least the six pack price is a steal. But get one at a local dealer first and read the fine print!!<br /><br />Good luck!
+
+product/productId: B000KOQJ1A
+review/userId: A22MANL4US4RMY
+review/profileName: Book Carpenter
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1198540800
+review/summary: Excellent Product
+review/text: In just 90 seconds, you have delicious rice.  What else do you have to know?  Of course it is more expensive than plain white rice, but is is so much faster and better-tasting.
+
+product/productId: B000KOQJ1A
+review/userId: A1PM3ZL9ZT5PMG
+review/profileName: JKS in Boston
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303689600
+review/summary: Great for work lunches
+review/text: Tasty, convenient, low in fat and sodium, and no clean-up.  Great for taking to work as part of lunch.
+
+product/productId: B000KOQJ1A
+review/userId: A37PV5GMP2ILJC
+review/profileName: Amanda Richards
+review/helpfulness: 6/10
+review/score: 4.0
+review/time: 1234569600
+review/summary: 90 seconds
+review/text: Rice for one<br />Swiftly done<br />Squeeze, tear<br />Zap.<br />There!<br /><br />Skillet, pot<br />Worry not<br />Ready rice<br />Quick<br />Nice!<br /><br />Plump grains<br />Time gains<br />Kinda pasty<br />But<br />Tasty<br /><br />All alone?<br />Don't phone<br />The takeout<br />Just<br />Break out<br /><br />Say this rhyme<br />In the time<br />It'll take<br />To<br />Make<br /><br />Amanda Richards, February 14, 2009
+
+product/productId: B00585IFK4
+review/userId: AFPIN358WRDZV
+review/profileName: Adam StJames
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330300800
+review/summary: Excellent nuts.
+review/text: Macadamia nuts are my favorite nuts, and they're expensive.  These are not cheap, but they're much less expensive than what I used to buy.  These nuts came in a large, sealed bag.  They taste fresh and delicious.  I keep them in the freezer and so far, the freshness has not disappeared.  They taste great.
+
+product/productId: B005DFL4PM
+review/userId: APJUOLME891QY
+review/profileName: Janet Kraus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Fantastic!
+review/text: I just found PB2 and PB2 with chocolate and I am thrilled.  I love sugary goodies but I'm not a fan of calories and I don't like chocolate.  I thought I'd try PB2 with chocolate anyway and I'm so glad I did!  Eating a serving or two of PB2 with chocolate satisfies my sweet craving without breaking my calorie bank!  Sometimes, when I want to splurge, I spread some PB2 with chocolate on a graham cracker, spread some marshmallow fluff on another and sandwich them together! YUM!
+
+product/productId: B005DFL4PM
+review/userId: A2M4DL8SM9SSFU
+review/profileName: Mandy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347926400
+review/summary: Not what I expected.
+review/text: In trying to cut calories from my daily routine, I examined what foods I ate most often. Peanut butter was at the very top of the list.  While I can't just scoop out a spoonful and eat it like regular peanut butter, this still tastes awesome mixed with some almond milk and oatmeal for a delicious and satisfying breakfast or afternoon snack.
+
+product/productId: B005DFL4PM
+review/userId: AQ55YB5ND4N9T
+review/profileName: Stacey S
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347926400
+review/summary: great product!
+review/text: This came in quickly.  It was just what I was wanting and I have almost eaten it all already!!  I had tried this product before and bought it at HEB but either they don't carry it or everyone else is onto the secret.  It is better than regular peanut butter and MUCH healthier.  You gotta try it and the price on Amazon is wonderful.  Thank you!
+
+product/productId: B005DFL4PM
+review/userId: A6JN2NJWK7JHX
+review/profileName: gfrommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347408000
+review/summary: Good stuff!
+review/text: It took me a few times to figure out the consistency I like but after that it was all golden. I will keep buying this product. I highly recommend this product and the non-chocolate version too.
+
+product/productId: B005DFL4PM
+review/userId: A2LM7ARN4MMNK5
+review/profileName: Mary P. Manogue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: Best ever!
+review/text: This stuff is really good/great as peanut bitter or in a smoothie!  Especially if you want it low cal and low carb.
+
+product/productId: B005DFL4PM
+review/userId: A1XR4M3NLBPLD
+review/profileName: A. Jeffries
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347148800
+review/summary: Great product!!!
+review/text: Delicious and well packaged! It came right when it was supposed to. I love using this for baking and snacks!
+
+product/productId: B005DFL4PM
+review/userId: AAUFQVN6GTRYB
+review/profileName: Stephanie Kuepper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347062400
+review/summary: Amazing
+review/text: great PB flavor with out the calories or fat. I use it in my Shakeology for extra flavor. love love. great product
+
+product/productId: B005DFL4PM
+review/userId: A3OTDZL80FBKMG
+review/profileName: John M. Krumenacker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: Completely and Totally Addicted!!
+review/text: This product is awesome. Tastes amazing. Great to mix up, or if you want to add a little something interesting to smoothies and milkshakes!!
+
+product/productId: B005DFL4PM
+review/userId: A1R3CO2XPML10H
+review/profileName: Threelittlebirds "TLB"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: Yum!
+review/text: I tried someone's recipe with the frozen banana, no dairy milk (eek used dairy!), and pb2. First of all, major froth - I assume because of the actual milk. Second of all, NOT enough PB2! Anyway, long story short, if you use this in recipes, it's awesome and low in calories. I like mixing it with a tiny bit of water and applying to animal crackers.. To the people who say this doesn't taste like peanut butter, I DISAGREE! It tastes exactly like crushed peanuts, the only different thing is the texture.
+
+product/productId: B005DFL4PM
+review/userId: A1923OTNDYR87R
+review/profileName: Andrew L. Stallings
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: Great stuff
+review/text: This stuff is great for making Visalus protein shakes. Gives it the peanut butter taste with 60% less calories.<br />Will but more.
+
+product/productId: B005DFL4PM
+review/userId: A2HRNALH3SXVVX
+review/profileName: BookGirl1115
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344038400
+review/summary: This makes enjoying peanut butter while on WW so much easier!
+review/text: I was hesitant to buy powdered peanut butter, but this product is absolutely delicious! It helps curb the cravings for full fat peanut butter while sneaking in some much appreciated chocolate. I've eaten it on banana slices, apple slices, toast, bagels, and right out of the bowl in which it was mixed, and IT'S SO GOOD!!!
+
+product/productId: B005DFL4PM
+review/userId: A363C53T0YCN1Q
+review/profileName: prettyface
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343865600
+review/summary: It's good
+review/text: I like it. I bought both original and Chocolate. I like original better, but my co-worker likes chocolate better. For some reason the chocolate version was cheaper, not sure why - maybe a different seller. Anyway the chocolate price of around $4 is better than the original at $6. The jar doesn't last as regular peanut butter.
+
+product/productId: B005DFL4PM
+review/userId: A2Y33PMFKII0VR
+review/profileName: Grandma in NH
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343779200
+review/summary: DELICIOUS!!!!
+review/text: WE USE THUS DAILY IN OUR PROTEIN SHAKES IT IS ABSOLUTELY FANTASTIC. FOR THOSE WHO LIVE PEANUTS BUTTER AND CHOCOLATE FOR THAT IT'S SO GOOD. WILL BE BACK FOR MORE. THANKS
+
+product/productId: B005DFL4PM
+review/userId: AACT7UPZ3BBP2
+review/profileName: J. Christensen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: great for traveling
+review/text: We just moved out of the country and we were looking for an easy way to transport peanut butter with us.  This is a much healthier alternative to add to my morning protein shake. The flavor is great and it traveled well.  We just ordered more to take back with us!
+
+product/productId: B005DFL4PM
+review/userId: A3U7JMA33P90H4
+review/profileName: M. Walsh
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: great product
+review/text: I bought this to put into smoothies.  I do weight watchers and the serving size is 1-2 points. You can taste the PB but not have to worry about the extra fat and calories. I really like this product.
+
+product/productId: B005DFL4PM
+review/userId: A2CTA9LOIK9U2R
+review/profileName: Sherrie Bradford
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342569600
+review/summary: I can eat it with a spoon
+review/text: This is fantastic. If it's really 85% less calorie and fat, I will eat it with a spoon with no reservations. Being constantly on some type of diet, it is a real find. It tastes a lot like peanut butter with chocolate mixed together. I used it first with Yonanas mixer and it worked out rather well with bananas and berries (very little berries, or otherwise the taste clashes)I've bought Peanut butter powder too so I can't figure out which one I like better, they are kind of similar, but both yummy. One little critics I have is the packaging. I had trouble opening it, so in the end I had to cut it. Now it sits open and I would rather have it tight closed. Any ideas? (except zip lock bag)? Next time I think I will buy it in a jar. And I will buy it again.
+
+product/productId: B005DFL4PM
+review/userId: A1PCEV3IH9PXWK
+review/profileName: Mary N
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339200000
+review/summary: Great flavor
+review/text: Love PB2 in my smoothies. Great peanut butter flavor without the calories! I use unsweetened almond milk, one scoop of protein powder, a frozen banana and 2T of pb2 and it makes a great low cal shake!
+
+product/productId: B005DFL4PM
+review/userId: A23AVGPB08AHRY
+review/profileName: M. Stricker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339113600
+review/summary: BUY IT!!!
+review/text: If youre on a low cal diet (or any diet!) and you crave chocolate, GET THIS!! You mix 2 tbsp of the powder with 1 tbsp of water.. You can add a little more water if you want a drizzle like consistency for drizzling on desserts or waffles. But otherwise, its super creamy and absolutely delicious! If it isn't sweet enough for you, try to add one packet of splenda or sweet n low! Will buy again and again! Absolutely LOVED it!
+
+product/productId: B005DFL4PM
+review/userId: AID8DJFJ3Q1OD
+review/profileName: Kathy McFarland
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339113600
+review/summary: Addictive and low fat!
+review/text: PB2 is a wonderful product that I frequently add to protein shakes without fear of adding extra fat. Great taste and satisfying. Highly recommend!!!
+
+product/productId: B005DFL4PM
+review/userId: ABLHL0DAPUD2G
+review/profileName: Charles Rockhill "the Wife"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338768000
+review/summary: PB2 with chocolate
+review/text: this is great!  cant tell the difference from original peanut better.  I have it with my fruit or on toast. Compared to the origanal calories of 45 vs 190 per serving..can't beat it.  Love this and will keep buying it.
+
+product/productId: B005DFL4PM
+review/userId: AD5VX7KF817TJ
+review/profileName: Kelly
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338768000
+review/summary: Reasonably Delicious
+review/text: This is a pretty solid alternative to peanut butter. If the instructions on the label are followed, the peanut butter ends up a little more liquid-y than one might expect, but that is easily remedied by adjusting the amount of water. This works well for sandwiches, and is an awful lot less messy than trying to add proper peanut butter to a smoothie. I've not yet tried using it in baking, but it seems like it would be satisfactory, so long as the amount of water is reduced when making the paste.
+
+product/productId: B005DFL4PM
+review/userId: A3B08W1LCY2QEK
+review/profileName: Frank McGuire
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338768000
+review/summary: PB2 makes you forget about PB1
+review/text: This product has changed the way I view peanut butter.  Once afraid to use it and only sparingly, I now get the beautiful flavor of peanut butter in my morning protein shakes, With none of the guilt.  I recommend to anyone who loves peanut utter but doesn't like the fat.
+
+product/productId: B005DFL4PM
+review/userId: A2YYUOXGL9JGZT
+review/profileName: cerealmom49
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338681600
+review/summary: Fantastic!
+review/text: The chocolate PB2 is just as amazing as the regular PB2 - plus a healthy indulgence. I love to use it as a dip for animal crackers! Also great on apple wedges.
+
+product/productId: B005DFL4PM
+review/userId: AYHF0RWIOY5DR
+review/profileName: Sam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338508800
+review/summary: Love this stuff
+review/text: I make smoothies, Lots of smoothies. Both this, and PB2 straight-up ... are my favorite additions.  Chocolate shakes with chocolate PB2 are like eating a very chocolaty peanut butter cup ...through a straw ... with the fat removed  ...  Sinful without the guilt!!!  Add a few extra ice cubes and it turns thick as soft ice cream. OMG!  If you're on a diet (or not), this my friend, is your new guilty pleasure. I know it's mine! Try it.  You will be hooked.
+
+product/productId: B005DFL4PM
+review/userId: A26G51B22FLE0G
+review/profileName: KarenE
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: Great product!
+review/text: This product is a dream come true!  Peanut butter flavor without all the fat and calories.  Both kinds, regular and with chocolate are delicious.  Great added to shakes, or I even eat it right from a spoon as a snack.  I mix up the chocolate and dip fresh strawberries in it!  Great product and it is helping me lose weight.
+
+product/productId: B005DFL4PM
+review/userId: A1IWKSGL6YNANK
+review/profileName: Nancy Drew
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338249600
+review/summary: Excellent product!
+review/text: Love this low fat alternative product!  I use it in savory and sweet recipies!  It is a bit salty so I reduce any additional salt required.<br />The only drawback is the shipping cost.  Because of the high cost of shipping this product remains a luxury purchase for me.
+
+product/productId: B005DFL4PM
+review/userId: A2RHG8BIFVQL4N
+review/profileName: Lady Bug "Lady Bug"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Great with Almond Milk!
+review/text: I did not experience any of the negatives but perhaps because I used Almond Milk Great both with unsweetned vanilla And dark chocolate milk add a banana whey powder and you are good to go!
+
+product/productId: B005DFL4PM
+review/userId: A2XCGF7UOYER0L
+review/profileName: Julia Rotondo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337990400
+review/summary: This is great
+review/text: Love PB2 Chocolate Powdered peanut butter. Tastes great, not a lot of calories, easy to store, and combined chocolate and peanut butter! What's not to love? Well worth the price.
+
+product/productId: B005DFL4PM
+review/userId: A3V1A3C9DTLPME
+review/profileName: Peter Faden
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337472000
+review/summary: A tasty alternative.
+review/text: I really love peanut butter, but one sandwich worth of peanut butter uses up most of your daily intake of saturated fats generally. This powdered stuff doesnt come close. It is as easy to use as simply stirring with a spoon and comes out just fine by my estimation. There isnt really a noticeable drop off for me personally, but i dont really eat really sugary peanut butter anyway (i would normally buy Justin's or somesuch). The chocolate is just right in this as well. Although i wanted to be able to eat PB&J's without taking up all of my fat intake, i also wanted to have something for my daily smoothies. I play around with variations, but my go to drink is kale, banana, apple, mango, and mint with flaxseed meal. This makes a great addition to that blend.<br />Anyway, i have seen mention of cheaper prices elsewhere, but for me, with Prime membership and a $5.50 price point currently, i feel the price is more than adequate, especially when factoring in no shipping and two day delivery.<br />I recommend trying this product. No transfats, high fructose corn syrup, or any added carp. Just a good, simple product.<br />Enjoy!
+
+product/productId: B005DFL4PM
+review/userId: AN1M29CUG0MG5
+review/profileName: Joshu W. Klug "Guru of goofy"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337299200
+review/summary: Very good
+review/text: This stuff is good, and once you wrap your mind around the possible ways to use it,  you will need to be buying more!  The powder is very fine, much like Nesquick. Baking with it is easy, as well most things.  The flavor is spot on, though eating it plain is not recommended. I love this mixed in with my cereal or breakfast shakes.
+
+product/productId: B005DFL4PM
+review/userId: A2YKSC9C6MF067
+review/profileName: Adam N. Brooke
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337299200
+review/summary: Tastes Great!
+review/text: This product tastes great. I use it in my protien shakes to help mask the tastes of some of the flavors I have tried and do not like. With the PB2 I now like the taste of the shakes and use this every day. I prefer the PB2 with coco powder but both products taste great.
+
+product/productId: B005DFL4PM
+review/userId: A3V90KXECQSJCQ
+review/profileName: BellaLeah
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: YUM!
+review/text: I'm about to place my third order of the Chocolate PB2.  YUM.  I use this product in my Medifast Soft Bake Chocolate Chip Cookie.  I mix in about 2 Tbsp into the dry cookie mix, add enough water to get to the right consistency and then microwave for about 5 seconds less than directed.  The end product is a warm, chewy, moist peanutbuttery chocolate chip cookie!
+
+product/productId: B005DFL4PM
+review/userId: A25DWXWPJWDCN5
+review/profileName: Steven J. Weinberg "LUV TO SHOP"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336176000
+review/summary: WOW LOSING POUNDS DREAM !! TASTES GREAT !!
+review/text: When I have a peanut butter/chocolate need this is great about 75% less calories & fat.<br /><br />Easy to make 2tbs powder to 1tbs water. I like the taste better then jar peanut butter + so<br /><br />much healthier. Weight watchers + Nutrition action healthletter RAVE !! about this & they<br /><br />should. Enjoy.
+
+product/productId: B005DFL4PM
+review/userId: A1CYO8IJNAOEX
+review/profileName: B. Kelley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335744000
+review/summary: YUMMY "diet" food!
+review/text: I just received my order of this and the regular PB2 today.  I've lost 53 pounds on my current weight loss and exercise program, but have been wandering off down the road to fat land again, with peanut butter and chocolate chips.  I had this for dinner tonight on a multigrain bread, with a banana sliced in.  Can't even imagine the calories I saved and I have no desire to dig into the regular peanut butter jar.<br /><br />The taste isn't quite like real peanut butter, more like roasted peanuts to me, with just a hint of chocolate flavor.  Doesn't matter whether it has the exact taste or not as long as the fat is gone and the taste is good.  This passes the test with flying colors.<br /><br />The texture is not quite like the creamy fat of real peanut butter either, but I'm not bothered by it at all.<br /><br />I will buy this again and hope that my review helps others to at least give it a try.  It might just be my new BFF for the next 40 lbs.<br /><br />Glad I heard about this and decided to take it for a test drive.
+
+product/productId: B005DFL4PM
+review/userId: A1VCEOLY1KT71H
+review/profileName: michael rodney
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: PB2
+review/text: I use this product everyday, I add it to my shakes, oatmeal anything I can.  It is so delicious and the taste is so good.
+
+product/productId: B005DFL4PM
+review/userId: AW9TR0Z1SMVDC
+review/profileName: Mucklane
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335052800
+review/summary: Brilliant Idea!
+review/text: This is a great source of protein! In addtion it works on both peanut butter and chocolate cravings. Great for rolling a banana or apple slice in, mixing with yogurt, or making a smoothie. All the pleasure of peanut butter without the guilt. Yum!
+
+product/productId: B005DFL4PM
+review/userId: A2UHDIBXT9SKH1
+review/profileName: Grandma Griz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334793600
+review/summary: Love this stuff!
+review/text: I love PB2!!! The lack in flavor over traditional peanut butter is so worth if for the calorie savings, as I no longer would eat full fat peanut butter anyway! I actually prefer this as it does not stick to my mouth when I eat it and I get NO heartburn which I have gotten from regular PB in times past. One of the greatest products I have come across in years.
+
+product/productId: B005DFL4PM
+review/userId: A15FTMRAXABEXZ
+review/profileName: kat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: very happy!
+review/text: After reading some mixed reviews, I decided not to get my hopes up too high for the chocolate pb2, so I didn't go into trying it expecting nutella or anything.  The consistency was a lot smoother than I expected, not as grainy as regular peanut butter, which I didn't mind.  It was nice and creamy and though it may not be as sweet as regular peanut butter, it was sweet enough for me to be happy to eat it alone with a spoon! haha.  I thought it was actually really good and can see myself keeping with this stuff for a long time.
+
+product/productId: B005DFL4PM
+review/userId: A5P87P3WPDRV0
+review/profileName: marie jones
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: Awesome PB
+review/text: I love this product!!! It really is great. I tastes amazing in my protein smoothies I make after my workouts..... Thanks
+
+product/productId: B005DFL4PM
+review/userId: A385AH1021KGEJ
+review/profileName: leeanna
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: OMG!!! Weight Watchers friendly!!
+review/text: I buy both the chocolate and the regular PB2. This stuff is great and very versatile. I have cooked with it, made banana sandwiches with it, and mixed it with yogurt. Not only is it low calorie, but it tastes great!<br />I started Weight Watchers in February and needed a peanut butter alternative. This is it! 2 tablespoons equals out to 1 point in the points plus calculator.<br />I would definitely recommend this to anyone.
+
+product/productId: B005DFL4PM
+review/userId: A3P3B5ANPV0452
+review/profileName: NataliiaUKR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: amazing!!!!
+review/text: I have been in love with this product for about a year now. I love PB chocolate. It is SO delicious. I feed my cravings with little calories, great nutrition, and amazing taste. I wish they would have a 5 lbs. pack, because 1pound package does not last long in my house (my husband also love it).
+
+product/productId: B005DFL4PM
+review/userId: A1F1TB7RT422YW
+review/profileName: TBO
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334016000
+review/summary: A MUST BUY!!
+review/text: I love this product!  All the flavor and protein and no oil and less cholesterol.  What's not to love?  It mixes well in shakes and (obviously) tastes just like real peanut butter!<br /><br />I'll be buying this ASAP.
+
+product/productId: B005DFL4PM
+review/userId: A2TQP6PK02XXZ3
+review/profileName: karly81
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333756800
+review/summary: love this product
+review/text: this is my second shipment of PB2 and i love this product. the best way to enjoy it is in a smoothie. I am a big peanut butter lover and this stuff is amazing. 2 tbsp and its only 45 cal compared to regular peanut butter which is 200 cal for 2 tbsp.  with summer coming up, i will be ordering more, every smoothie i have, i have to put PB2 in it.  Thank you to the company who  makes it and amazon
+
+product/productId: B005DFL4PM
+review/userId: A96NG3W1LUQDL
+review/profileName: Peanut Butter "Meau"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333497600
+review/summary: a great product
+review/text: I follow a low cal food plan. Chocolate peanut butter has not been an option...but NOW I can have it! This is easy to mix and has a pretty good taste.  I give it 5 stars.
+
+product/productId: B005DFL4PM
+review/userId: A3OHT2J7HORHBU
+review/profileName: Beto
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: incredible
+review/text: I have always enjoyed peanut butter but always stayed away because of all the fat.  Since I began using this product I look forward to having more each time.  Tastes great, I decide the consistency and the amount I want to make.  This product is incredible and since I also like chocolate, this is the best of both  worlds.
+
+product/productId: B005DFL4PM
+review/userId: A2CHZ4CL75L9Z3
+review/profileName: Danielle2842
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331596800
+review/summary: Good swap for peanut butter
+review/text: I have only tried the Chocolate PB2, and after reading all the rave reviews, I was hoping it would be a little better.  I won't say I was disappointed, because it's still fine to use instead of peanut butter, but it wasn't as good as I expected it to be.  You can't go into it thinking that the texture and taste will be too similar to real peanut butter.  I'm giving it 4 stars instead of 3 because it's only 45 calories for 2 TBSP! The outstanding nutritional stats make up for it!
+
+product/productId: B005DFL4PM
+review/userId: A2G7KFNPUAG4NP
+review/profileName: sir
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: I Love it! Chocolate and Peanut butter Powder
+review/text: This is great and low-cal. I took the cho/peanut butter to work and everyone that tried it, loved it. I would buy it again.
+
+product/productId: B005DFL4PM
+review/userId: AHV1Q9BMLPF5E
+review/profileName: G. Lemus
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1330387200
+review/summary: Taste great but pricey
+review/text: I wish I could find this in store, I REALLY love this but it's nothing too spectacular that you cant live without but if I got an endless supply for free I'd take it ;) Its definitely delish but it is kinda pricey so I buy it now and then. I love both the original and chocolate PB
+
+product/productId: B005DFL4PM
+review/userId: A2PK2IEH1H93NN
+review/profileName: Kei-chan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330214400
+review/summary: Peanut butter minus the guilt!
+review/text: I LOVE peanut butter.  I am the kind of person who will eat it out of the jar with a spoon, all by itself!  I like it that much.  Needless to say, this love affair is dangerous for the waistline.  Enter PB2, with 45 calories per 2-tbsp serving--an absolute godsend!  I tried and liked the plain version but this chocolate one is even BETTER!  It's not just chocolate flavored, there are actually tiny little granules of chocolate goodness in it, like micro-mini chocolate chips.  Yum!  Sure, it takes a bit of mixing and experimentation to get the consistency just right, but in the end it's great as a peanut butter stand in, either in recipes, as a dessert topping, or yes, even all on its own.  I love this and love that I can indulge my inner peanut butter fiend without too much fear of having to buy new pants.
+
+product/productId: B005DFL4PM
+review/userId: A1ALE4QZ9F8OGR
+review/profileName: lucylu
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329782400
+review/summary: Great product but pricey
+review/text: This is a GREAT substitute for peanutbutter!  I've just started weight watchers, and am so happy to find this product.  It is worth 1 points plus value per serving, which is fantastic! It's just a little grainy, but that's to be expected when mixing a powder.  I like dipping fruits and veggies in it!  It's definitely satisfying, I'm just going to look at other buying options, b/c the price here is pretty astronomical for such a small amount. Only giving 4 stars for this reason, but it's a 5 star product!
+
+product/productId: B005DFL4PM
+review/userId: A3C4JL8MD6JE4L
+review/profileName: Love to Cook "Nancy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Great Taste
+review/text: I order this because of the other reviews.  It is really good.  Went to their website to get more receipes.
+
+product/productId: B005DFL4PM
+review/userId: A2ASW6L6IEKU5L
+review/profileName: john m
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328659200
+review/summary: Low calorie alternative
+review/text: Finally got my shipment today and was very anxious to try PB2 due to all the rave reviews.I found it to be pretty tasty but found it to be lacking the true pb and chocolate taste.Don't get me wrong,it tastes good to someone who has been on a 500 calorie diet {HGC DIET} since January 2,2012.I am cheating eating this product but pb has always been my downfall.I will continue to use this product as a treat unless i stop losing weight.
+
+product/productId: B005DFL4PM
+review/userId: AOTUPV596EAHL
+review/profileName: Callie14
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328572800
+review/summary: OMG... like Reeses
+review/text: I bought this mostly for putting into my protein shakes without all of the calories.  BUT... let me tell you, this stuff is amazing.  I bought the chocolate PB2 and i can eat it dry, with water, in shakes, on toast... it is SO good. I haven't really been putting it in shakes, I've been using it more for dessert.  I would recommend it, even for the price.
+
+product/productId: B005DFL4PM
+review/userId: A209PPY5Q25UWZ
+review/profileName: Glinskit
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327881600
+review/summary: Yummo!!
+review/text: Great for the person who is on a diet.  Easy to mix, and the flavor is wonderful.  Can also be used in recipes.  Each serving is 45 calories, compared to 190 with real peanut butter.
+
+product/productId: B005DFL4PM
+review/userId: A1C6756X4K6UU1
+review/profileName: Jenny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327536000
+review/summary: Awesome!
+review/text: PB2 Chocolate Powdered Peanut Butter is tasty and lower in calories than regular peanut butter. I use it every morning to make a breakfast 'butterfinger' smoothie. Try it--it's awesome! Just blend 1 to 1-1/2 Tablespoons PB2 (I prefer the chocolate PB2), 2 Tablespoons of sugarfree butterscotch dry pudding, 8 oz milk (chocolate or white), your favorite protein powder, and 5-6 ice cubes to make a low calorie/high protein smoothie!
+
+product/productId: B005DFL4PM
+review/userId: A2V0YT2P2Z3I6L
+review/profileName: Catherine Elizabeth I
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326326400
+review/summary: Pb2 is good for you, tastes good 2
+review/text: I would recommend this product to anyone wanting to enhance  all their blender protein drinks & shakes.  I was amazed how good it tastes.  The price  is affordable and as usual amazon got it here quickly.
+
+product/productId: B005DFL4PM
+review/userId: AUGXZ6WTKYEKO
+review/profileName: Smooth 6.75
+review/helpfulness: 15/23
+review/score: 1.0
+review/time: 1298419200
+review/summary: Rip Off...price is over the top!
+review/text: Product is great...price is absolutely a rip off.  Another poster mention going to Bell Plantation direct...much better and normal pricing or netrition.com.  One jar at netrition is 3.99
+

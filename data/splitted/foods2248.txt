@@ -1,0 +1,1143 @@
+product/productId: B001EO5XBM
+review/userId: ALYVOAFQU4TGG
+review/profileName: A. Cox
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1309996800
+review/summary: Good price, great coffee!
+review/text: Fantastic organic coffee, cheaper than I can get in the store locally. I like to drink organic coffee to reduce pesticide exposure, but the cost stops me from buying it. With subscribe and save, I end up paying the same amount for this organic as I do for conventional in the store! I wish I could tell you why this coffee tasters so delicious, but I don't know how. Try it!
+
+product/productId: B001EO5XBM
+review/userId: A192PP1LRSLA8V
+review/profileName: Singer
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1307145600
+review/summary: Love this coffee .....
+review/text: This is a very good tasting coffee, very smooth and full bodied with no bitterness.  The only drawback is that I have to use an extra scoop for each pot to get the best flavor.
+
+product/productId: B001EO5XBM
+review/userId: A1C2KMTHZ0ROJY
+review/profileName: AmusingistheDawn
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1311292800
+review/summary: REALLY GOOD COFFEE
+review/text: We keep buying this as it goes on sale.  For the price, you can't beat it.  Organic and tasty.  It's not very bold, so add a scoop to the pot when brewing if you like that bold taste.
+
+product/productId: B001EO5XBM
+review/userId: A31RRPJ0FN5151
+review/profileName: E. A. "esnow"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319328000
+review/summary: Organic Ground Coffee
+review/text: It is a great high quality product. Nice flavor. I ordered it for a great price and will order it again.
+
+product/productId: B001EO5XBM
+review/userId: A1DUSXBCNJY421
+review/profileName: Missy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310083200
+review/summary: Excellent organic coffe at a great price!
+review/text: Well balanced flavor, low acidity.  Great price for organic coffee!  I would highly recommend this product.  The subscribe and save is an awesome feature as I never wake up to find that there is no coffee in the house!!!!
+
+product/productId: B001EO5XBM
+review/userId: A3TBTAX85OYRKP
+review/profileName: Happy Crafter
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306972800
+review/summary: Good coffee
+review/text: We love this coffee by Coffe Bean & Tea Leaf. Very fresh and good taste. Try their different roasts, we like them all, all that we have tried.
+
+product/productId: B000N9VPDO
+review/userId: AGEQMBA9SZ256
+review/profileName: whitefox
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346371200
+review/summary: Canadian steak seasoning no salt
+review/text: I originally searched for TONE'S or WEBER Canadian steak seasoning.<br />I used these brands for years as a table seasoning in lieu of salt as I<br />am a heart patient and am limited in salt intake.  These filled the bill!<br />When these items could not be found or were discontinued, this product was<br />most similar in their advertising, however the taste of this product<br />is horrible by comparison to the above mentioned superior brands.  I will<br />NOT buy again or recommend!
+
+product/productId: B000N9VPDO
+review/userId: A1H2EKCP7UKRMB
+review/profileName: ROBERT DON MEEK
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1280188800
+review/summary: Decent stuff
+review/text: I knew it said "steak" in the title but I bought it for generic use as a alternative to Mrs Dash.<br /><br />Would I reorder it? Probably. Can't say it was my favorite, but it had it's usage, it's places.
+
+product/productId: B000N9VPDO
+review/userId: A295RSG8K1619H
+review/profileName: Keith Sharp "Keith"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1258934400
+review/summary: Great on baked potatoes!
+review/text: The quantity is huge.  The quality is great!  Works on anything you'd put salt on.<br /><br />It's become as basic to our dining room table as salt and pepper and gets more use.
+
+product/productId: B003TIWQQQ
+review/userId: A26S0R5B6D0BP9
+review/profileName: Jeffrey Gillman
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1282262400
+review/summary: great snack bar, especially when warmed up
+review/text: All of the Corazonas Oatmeal Squares are good, but this one is my favorite. It's not overly sweet like most regular brownies, and the oatmeal and nuts provide just the right texture. If you microwave it for 10-15 seconds (after you take it out of the wrapper) it's much improved, like it just came out of the oven.
+
+product/productId: B003TIWQQQ
+review/userId: A3E6WHHQKBD1J8
+review/profileName: pasteve "Steve"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1294099200
+review/summary: Chewy & Delicious
+review/text: Having tried 3 of the 5 flavors offered by Corazonas it's hard to tell the difference in consistency & flavor. All 3 are worth having but the Chocolate Brownie & Chocolate Chip taste so similar you can't go wrong. The Cranberry is my favorite but I still rate the others 5 stars! All 3 provide a good tasting & filling snack no matter what part of the day you eat them.
+
+product/productId: B003TIWQQQ
+review/userId: A1W0F3F6EXIAKP
+review/profileName: vieprivee "vieprivee"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1294358400
+review/summary: Delicious!
+review/text: I was hesitant to try these 'healthy' treats but I am surely glad that I did. They are really tasty and supposedly good for you and I LOVE the wonderfully rich chocolate flavor. GO for it if you are a chocoholic like me!
+
+product/productId: B003TIWQQQ
+review/userId: AY889QQ9SMKMB
+review/profileName: Rosie P. "truth seeker"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305504000
+review/summary: Healthy and yummy!
+review/text: These are moist, chewy, chocolately, and not too sweet, with little semi-sweet chunks of chocolate. Perfect when you are on the go, or if you are a chocoholic and need a chocolate fix! It's hard to believe they are actually good for you. They don't taste like cardboard the way many other healthy snacks do. I have low blood sugar so when I need to eat, I NEED to eat. I keep one in my purse if I get hungry or blood sugar is low, and it totally satisfies me for at a least a few hours without dipping my blood sugar later and making me tired the way a candy bar does. I can't recommend these enough! I got these when they were on sale at Costco. They are little cheaper there per box but you have to buy 6 boxes at a time.
+
+product/productId: B003TIWQQQ
+review/userId: A22EHUI744H8Z7
+review/profileName: nana
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1299110400
+review/summary: I like choc. chip better!
+review/text: I tried this product to see how it compared to their chocolate chip one, but I like the taste and texture of the chocolate chip better.  Otherwise, it is good.
+
+product/productId: B003TIWQQQ
+review/userId: A3DG486Q4ZHJQ8
+review/profileName: Katoot
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Corazonas squares via Amazon
+review/text: Corazonas rock!  Great for morning break/breakfast, or afternoon slump @ work.  No sugar spike, good fiber, good taste.  Glad i found them.
+
+product/productId: B003TIWQQQ
+review/userId: A31HAPN6YPWMJ5
+review/profileName: jds
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1342310400
+review/summary: Chocolate chip much better
+review/text: Chocolate Chip is more moist and tasty. My kids won't even eat them. What a bummer. I am ordering more of the other flavors, which we love.
+
+product/productId: B003TIWQQQ
+review/userId: A1GG07GAHMX4UL
+review/profileName: S. A. Drinkard
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339718400
+review/summary: Great Tasting
+review/text: I originally bought these to help get my husband's cholesterol down.  This is another method to get in oatmeal without having to make a hot cereal.  I even pack them as a quick breakfast on the go.  The Chocolate Brownie and Cranberry are our favorite varieties.
+
+product/productId: B003TIWQQQ
+review/userId: A21RXOT3L0O4RX
+review/profileName: S. Torney
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1313366400
+review/summary: Ok, but wouldn't buy again
+review/text: They taste ok, but definitely taste like a "diet" bar.  My family wouldn't eat them, even my daughter who eats almost ANYTHING chocolate handed it back to me after one bite and said she didn't like it.  I finished off the box slowly, just to not waste them, but there are definitely better bars on the market.
+
+product/productId: B003TIWQQQ
+review/userId: AA8H9XI7G8BO6
+review/profileName: flojoreeno
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313193600
+review/summary: Healthy Treat and Delicious!
+review/text: After discovering this health bar, I was hooked.  After the store that I bought from quit selling the product, I turned to Amazon.  There I found a variety of flavors.  I find the bars particularly appealing for breakfast.  It is substantial and is filling.  The bar gives textural satisfaction in that it has crunch from the almonds and the chocolate makes it seem like a brownie.
+
+product/productId: B003TIWQQQ
+review/userId: AWNVYSZC1IHBO
+review/profileName: Ravi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312156800
+review/summary: Excellent
+review/text: This is an excellent snack to keep at your desk in office, if you have 8 - 5 work routine. Just feels about right its is delicious and healthy. I have tried several bars but this seemed to be most fulfilling.
+
+product/productId: B003TIWQQQ
+review/userId: A1S2O6DBAFHE9K
+review/profileName: KathyT
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308441600
+review/summary: Like having a dessert bar for breakfast
+review/text: I have tried Corazonas oatmeal squares in the brownie and almond, chocolate chip and cranberry versions. They are all wonderful, and taste especially good when microwaved for about 20 seconds. I have one each day for breakfast with a small bowl of fruit along with my coffee. I was in the habit of eating oatmeal each day to help reduce my LDL cholesterol but these oatmeal squares offer the same nutrients plus the plant sterols that are said to help lower LDL. It's a nice change from oatmeal. We shall see....I'm trying them for another month before having my blood work done again.<br /><br />I'm surprised at one or two reviews I read which stated that the squares were crunchy. In my experience they are all very chewy, like having a soft oatmeal or chocolate chip cookie. I don't have a favorite. They're all good. I keep all three on hand and just vary them.<br /><br />I have also tried Corazonas potato chips and tortilla chips and they are also very good tasting although I do try to stay away from eating snack foods in general. The oatmeal squares I can justify because of the importance of having something nutritious for breakfast.
+
+product/productId: B003TIWQQQ
+review/userId: A26KK60D89NY3J
+review/profileName: MaryD
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1306108800
+review/summary: Corazonas Oatmeal Squares Chocolate Brownie & Almond
+review/text: I eat one of these cookies for breakfast, they are very good. They have helped me with my weight loss.
+
+product/productId: B003TIWQQQ
+review/userId: A2YMCPP3KW9IXU
+review/profileName: USMC85
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1300492800
+review/summary: Good but expensive
+review/text: Ok, these taste very good, and they come with some health claims about lowering cholesterol. I have re-ordered these several times for my wife, who has a sweet tooth and likes to snack on these between classes. But I'm not sure I can justify paying $1 per bar, even with subscribe & save. It seems a bit too much, and these are not huge bars.
+
+product/productId: B003TIWQQQ
+review/userId: A30E02ZHGZSOWL
+review/profileName: Lex
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1311897600
+review/summary: HORRIBLE AWFUL MIGRAINES, BEWARE.
+review/text: I ate one of these seemingly innocent little brownies and have had the worst two-day migraine and stomach cramps EVER. I have some sort of food allergy so I keep a diary of everything new that I eat, so I know this is what did it to me AND the ingredient list on these are long and unnecessary plus they smell weird. I now have eleven paperweights that I am chucking in the trash ASAP. I wouldn't even GIVE these away to starving children in third world countries. They are evil, evil brownies. I read on another review the person had also gotten migraines and two of his/her family members as well! I am not imagining it, believe me!
+
+product/productId: B007FJDZ4C
+review/userId: AIIBD0NIYCK5K
+review/profileName: R. A. MYERS "R A Myers"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: My wife loves tea
+review/text: My wife is very happy with this tea.  When my wife is happy, I'm happy.  Will I buy it again?  Need you ask?
+
+product/productId: B000KNDF7M
+review/userId: A6TR38N93U6GR
+review/profileName: Natty
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1294099200
+review/summary: I love this tea!
+review/text: First and foremost make sure you DO NOT let this tea steep too long. If you let it steep for the recommended two minutes, you shouldn't have to run to the bathroom like your pants are on fire! If you let it steep for the 2 minutes, it's a decent trip to the bathroom...not explosive diarrhea.<br /><br />With the way we eat (mostly women) we need to clean out our plumbing every once in a while and this is a fabulous way to do it. It's not recommended for everyday use!
+
+product/productId: B000KNDF7M
+review/userId: AWT5UP95WGJIQ
+review/profileName: Lawanda Candelario
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1239408000
+review/summary: This product is Great
+review/text: This product is great it really works. I have lost a total of 15 pounds in two months wihout exercising. I reconmend this product to everyone.
+
+product/productId: B000KNDF7M
+review/userId: A1TB6EJFXJDW12
+review/profileName: shaygfx
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1336003200
+review/summary: Cinnamon Spice
+review/text: I did not buy this tea through amazon.. But from my grandmothers cabinet(haha). I have been dieting for the past 3 months now, and i was completely oblivious to special teas for cleansing although i know of drinks/pills that cleanse, I wanted to steer clear of any type of pill and again oblivious to benefits of cleansing(even when not dieting). Now I tried this tea two months ago & only because of the words "Super Dieters" I thought ohh special tea so i drank it(in the evening) it did for me do its job and loosen things up which i found odd at first then i read the package, and then I got it. So for me it did help being that I usually dont um go as much as I should and this has helped that. Not only that but since I have been using it along with my eatting habits, and exercise my diet has been showing better results nothing drastic but still better results and that is always great! This tea (Cinnamon Spice) I think tastes devine, I do add not even a teaspoon of sugar but I think this tea doesn't even need sugar at all(i just like it sweeter). But all in all I do and have recommended this tea to a few family members and friends(who do and dont diet) because i love the taste and the results I'm having with it.
+
+product/productId: B000KNDF7M
+review/userId: A2CPAJT5GV9C7Y
+review/profileName: S. Rohde "ParkerRvrGirl"
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1235692800
+review/summary: Keeps me on track
+review/text: I love this product, it helps keep things moving!  I use it twice a day afternoon and evening while dieting.  A great product for helping maintain your weight.
+
+product/productId: B000KNDF7M
+review/userId: A4Z9418AL55FR
+review/profileName: meohmy
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1319673600
+review/summary: good stuff!
+review/text: This product works very well. It taste great. Its a nice touch to the end of a day. PLEASE USE AS DIRECTED! PLEASE!!!!!
+
+product/productId: B000KNDF7M
+review/userId: A1DY7J2N9CEKMC
+review/profileName: EIOI MOM "Loving Jesus"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1244678400
+review/summary: You really go when taken as directed.
+review/text: Works great for me and also help me with my weight.  I don't like the drink as much but I drink it as needed.
+
+product/productId: B000KNDF7M
+review/userId: AVD4CW13F9JF5
+review/profileName: Betty Boop
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1215993600
+review/summary: Good Product
+review/text: I have used this product in the past and was highly satisfied. It works very well. I would just caution first time users not to make the tea too strong or your results may be "too good".
+
+product/productId: B000KNDF7M
+review/userId: A1W8IGU2BRLUB5
+review/profileName: L. Daniels
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1189382400
+review/summary: pretty good
+review/text: I like this product, but I wouldn't use it daily. I learned this the hard way. It is stronger then you think!!!!!
+
+product/productId: B000KNDF7M
+review/userId: A3BZGLRF3SLIC1
+review/profileName: MISSTI "BIG REDD"
+review/helpfulness: 7/9
+review/score: 4.0
+review/time: 1299801600
+review/summary: Got Me Running
+review/text: This tea product got me running alright, to the crapper. But it did help loose about 10 lbs, mostly compacted fecal matter. I also feel more energized and feeling alot better. Before taking this product my best friend was a couple of cups of black coffee but since taking this for the last month my craving for coffee and sweets has subsided, however i now have to bulk up on toilet paper. Great product great buy!
+
+product/productId: B000KNDF7M
+review/userId: A3EU15A30PLO1A
+review/profileName: Koco Jo
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1314230400
+review/summary: This was great!!
+review/text: I love this tea the taste is really good and it smells good as well my husband and I are year around tea drinkers and also we dont even have to add any sugar ( well I use honey on some teas) but this one you don't need anything extra and I will say it really does work drink plenty of water threw out the day .... And usually in the am you will be cleaning  it out lol ... I didn't have any stomach pains or anything but I eat well also!! I recommend this to any and everyone!!
+
+product/productId: B000KNDF7M
+review/userId: A8M0L2AL8J4SQ
+review/profileName: LadyKill
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1300060800
+review/summary: Basically a laxative...
+review/text: I never drink this tea alone. I always steep it with another tea, such as Oolong or Jasmine because the taste isn't the best. I use honey and sugar to sweeten and down the hatch it goes! Expect some, um, gastrointestinal responses the next day. Sometimes I feel a bit of cramping and sometimes I don't. Sometimes it will take most of the next day for it to 'work'...and sometimes it won't!!
+
+product/productId: B000KNDF7M
+review/userId: A3FPHAAO2MLQ8H
+review/profileName: ljhall
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1297209600
+review/summary: Works for me ! ! !
+review/text: I have been using this tea for a few years now, and I drink the full 2 cups every night before I go to bed.  It begins to take effect the next morning.  I gave a bag to a friend to try & she loved it as well, she now orders it online.
+
+product/productId: B000KNDF7M
+review/userId: AQFALN8XEZHTY
+review/profileName: Martin T. Galindo "Marty"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346803200
+review/summary: Tea that works to clear all digestive stoppage.
+review/text: This tea works on my fiance's digestive track as she has an issue with colitis and this product along with essential enzymes helps her to absorb and digest foods that otherwise would give her pains while in her digestive track, Thank you for making this product we plan to continue using it as long as we can.
+
+product/productId: B000KNDF7M
+review/userId: A2EIYWSFD8UAWB
+review/profileName: Shane Ratliff
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342569600
+review/summary: Can't live without it!
+review/text: I have been using Laci Le Beau Super Dieters Tea for years.  There is no subsitute.  Many women in my family use it as well.  This keeps me moving better than anything else and I suffer from Chronic Constipation.  I would recommend this to anyone who could use a gentle, natural laxitive.  I've never felt like I've taking a harsh stimulant, it just makes you feel & go like normal :)  I hate poop talk but this is worth sharing!  LOL
+
+product/productId: B000KNDF7M
+review/userId: ASWVI5LWR8DO8
+review/profileName: N. Welch "Momgyver"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342310400
+review/summary: tastes good, works great
+review/text: One must know that this dieter's tea helps mostly by moving your bowels along.  Be careful at first, or it will be unpleasant!
+
+product/productId: B000KNDF7M
+review/userId: A1BB15JYFKMJBY
+review/profileName: Francina G. Still
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1240272000
+review/summary: Good Product.  Extremely effective!
+review/text: I don't use this tea for dieting but more so for a natural cleanse to keep the body free of harmful toxins.  It is very effective have used it for years!  First time users may experiece cramping but, after awhile they cease.  Great Effective Product!
+
+product/productId: B000KNDF7M
+review/userId: A1TBCAEI9RFDVX
+review/profileName: Avi
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350864000
+review/summary: didn't get what i asked for
+review/text: the one i got says "cleanse" on the box, I don't know what it means, but I know that I picked the one that doesn't say "cleanse" on the box. i'm all the more angry because that one costs way cheaper. and all the more am i angry because i'm not going to bother to go through the refund process. plus it took it ages to arrive
+
+product/productId: B000KNDF7M
+review/userId: A1I5VIER157TQU
+review/profileName: Art Ray
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341964800
+review/summary: very good taste
+review/text: A lot of tea for the price... ...no sweetener needed... The product works better than I expected it to. I also didn't realize how much I was ordering. I am enjoying this product. Has very good taste.
+
+product/productId: B000KNDF7M
+review/userId: A3A53A50YEIR2A
+review/profileName: Diet Diva
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Cinnamon Sensation
+review/text: This tea has a superb taste.  I actually look forward to drinking this tea with my dinner.  Now that it is summer I drink is as an iced tea, but this is also a very delicious hot drink too!  I use splenda and fresh mint when I brew it.  Fabulous!
+
+product/productId: B000KNDF7M
+review/userId: A3052CVMM9XI8K
+review/profileName: Susan Fleischman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: Stay regular!!!
+review/text: Reality strikes.  I have been drinking this tea every night for 10 years !  It is the best thing to keep me on the straight n narrow!
+
+product/productId: B000KNDF7M
+review/userId: A1NYKD19R5JQWD
+review/profileName: Rayne
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333584000
+review/summary: really disappointed
+review/text: though i did not purchase this through amazon, i did get this recently from thw grocery store, and have to admit im really disappointed.  i followed the instructions the first evening EXACTLY as instructed with the included paper, and no results.  the second day, i brewed just a little longer, still no luck, (basing this off some other comments from other users here on amazon) then today i only did 6oz, not 12 as the paper instructs, and even brewed this for 6 minutes.  still nothing.<br /><br />i really wanted this to work for me like it has for others, i had heard good things and was so excited, but still no luck.  i guess im one of those people this doesnt affect. ill keep trying it daily till i run out, but looks like ill have to try something else.<br /><br />as for taste, its not bad. just tastes like tea leaves, not deliciously fantastic, but not nose-pinchingly undrinkable. good luck to anyone else. hope you have more success with this than i did
+
+product/productId: B000KNDF7M
+review/userId: A2QYX0JG5H9AN0
+review/profileName: NESSLEEKRUNCH
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1329696000
+review/summary: its ok
+review/text: i got this tea hoping it would be better than my dieters delight china slim tea but it isnt. it does make you use the bathroom but not enough for you to feel cleansed for that particular day...i have no choice but to finish thus package but i will be going back to my regular tea afterwards
+
+product/productId: B000KNDF7M
+review/userId: A27LH97C9Q09BN
+review/profileName: Kimmer
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1329177600
+review/summary: Not the original
+review/text: This tea is ok but it's not nearly as potent as the original product that was available 5-10? Years ago.
+
+product/productId: B000KNDF7M
+review/userId: A38AKD7TL2WWCR
+review/profileName: megan welsh
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1338508800
+review/summary: Did Nothing
+review/text: I have no idea what all these reviews for this brand of dieters tea are talking about. I followed the directions nothing happened. Brewed a stronger cup-still nothing.Even measured out the water to 6oz and let the tea bag seep for five minutes-nothing just stronger tasting tea. On the box it tells you not to drink more than 1 cup in a 24 hour period- I drank three the other day not even thinking about it and nothing happened! Just tasted like cranberry tea and nothing else. Strange.
+
+product/productId: B000KNDF7M
+review/userId: A1KJ1T6UQW2TFE
+review/profileName: green_eyed_scorpio
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1323561600
+review/summary: Tastes like sweaty gym socks
+review/text: I bought this product based off reviews saying it tastes great and I was extremely disappointed. As soon as I started steeping it this smell filled my kitchen (my daughter even asked what the horrible smell was). Sadly, it was this tea. I tried it and it tastes like sweaty socks also. It is so gross. I have tried adding honey, drinking it cold, drinking it hot, etc and they all taste horrible. As far as a diet aid, I don't think so. I guess if you had a lot of excrement in you, possibly. I even doubled the suggested amount and I still did not anything happen (and no, I was not on the toilet a lot either). All in all, this product was a big thumbs down to me.
+
+product/productId: B000KNDF7M
+review/userId: A17MURLSVTLNKN
+review/profileName: M. Bhatia
+review/helpfulness: 0/4
+review/score: 5.0
+review/time: 1238630400
+review/summary: On time and as described!!
+review/text: I was very happy with my order.  It arrived on time and as described.  Thank you!!
+
+product/productId: B0000DG727
+review/userId: A330HCCXCMIDH4
+review/profileName: C. Brown
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1277424000
+review/summary: Best Mustard Hands Down!!!!
+review/text: My family and I eat this mustard like it's going out of style! Don't be fooled by the name "Martha's Hot Mustard". To be honest, I think they could spend some money to hire some marketers and get rid of the cat label and the word "Hot" in the title. It's more of a tangy kind of mustard that works great with EVERYTHING. I put it on burgers, chicken, kebabs, etc. After using this I can't go back to the standard yellow mustard in stores. Trust me on this one...try it!
+
+product/productId: B000LRH97Y
+review/userId: A1UKXCCR7284V3
+review/profileName: Dan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326499200
+review/summary: Just what I needed
+review/text: I was able to order from this source the item I was not able to purchase locally. I was thus able to give Christmas gifts I would not have been able to give otherwise. Delivery was prompt and the products was precisely as advertised.
+
+product/productId: B000KOQFB4
+review/userId: A11ED8O95W2103
+review/profileName: lighten_up_already2 "lighten_up_already2"
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1264636800
+review/summary: Good for those who have a reason to avoid oil.
+review/text: I just had to try these to see what the little sardines packed in nothing but water would be like.  And, I get a chance to find out what an oil-less sardine tastes like.<br /><br />Well, they taste like sardines without the oil, and if you are a sardine fan like me you might want to try this once to see what they're like.  They actually taste rather fresh, and the water is way easier than oil to get off your hands and the kitchen counter if you happen to spill some.<br /><br />Once I had the can open, I put them in a bowl and covered them in honey mustard and sea salt and warmed them up.  Then I ate them on crispbread (those big flat bread crackers).  Not a bad snack at all, but I'm going back to the ones packed in olive oil.
+
+product/productId: B000KOQFB4
+review/userId: A2RQIJ74Y3ZXA
+review/profileName: Snel
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347235200
+review/summary: If you like Sardines or are new to them, these are a good brand to try
+review/text: If you are new to Sardines I would recommend this King Oscar brand over other ones at markets. In water or in oil, both are good.<br />This particular version of the King Oscar is in water and not oil. Also, it says no salt is added. So this version is even better for people who eat Sardines on a more frequent basis.<br /><br />As someone else mentioned you can buy these at your local Safeway or Vons if you are in the US. I found it to be around $3.50 but price varies I suppose...But generally once you taste King Oscar brand sardines you understand why the cost is a little higher than the other brands.<br /><br />These Sardines do not have the overwhelming fishy smell/taste that other Sardine brands have and the Sardines themselves are of better quality and texture.<br />With these you don't feel like you have to force yourself to eat them, you actually enjoy them. They are also a nice smaller size, they are around the  size of a finger and are packed nicely.<br />Also, these sardines are caught in the Norwegian area and packed in Poland. Hard to find packaged sardines from that region in US Markets. Most sardines I found sold at the US markets are from China, Canada, or Morocco.<br /><br />Overall, If you like Sardines these are a good brand.
+
+product/productId: B000KOQFB4
+review/userId: A6B9IVGREKNLZ
+review/profileName: Blue Cat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308096000
+review/summary: Delicious
+review/text: Really good! These are more expensive than other brands, $4 per can at Safeway, but the difference is obvious once you open and taste the fish.
+
+product/productId: B0013T72BC
+review/userId: A2RYNX1ZYQL7QA
+review/profileName: Madeline R. "Maddie"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1279756800
+review/summary: Decaf with some kick
+review/text: This espresso roast didn't knock my socks off with super smoky deep-roasted flavor, but it's the richest I've found so far in the large-bag decaf category. At least it's from Seattle, though it's not what I drink when I go back home. The beans seemed very fresh, with a nice liquor aroma when I first opened the foil bag. A good sign! After making sure I liked it, I signed up for regular delivery at three month intervals. A good value! I am down to the end of my first bag. The five pounds blended with 40% regular French Roast beans from another company lasts two of us about three months. (I think we might be drinking too much coffee!) I see that Caffe D'arte also wood-roasts some blends and I'd love to see these offered here.
+
+product/productId: B002VH57I0
+review/userId: AE5RM6DIRT4MZ
+review/profileName: James D. Hubbard
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304553600
+review/summary: Excellent deal
+review/text: just got tired of buying the small bags at the dollar store. even the big name thrift store didn't have a 1lb. size. bought 2 of these, will last for 3-4 months.
+
+product/productId: B002VH57I0
+review/userId: A27TBP9FF2JDEA
+review/profileName: AlvinTheNerd
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344902400
+review/summary: Good, but not as good as other brands
+review/text: Plenty of worms for the price, but the flavors are different from the trolli/Black Forest worms I can get locally, and that wasn't a welcome change.
+
+product/productId: B00513J42G
+review/userId: A1X3JBFQ5H2RBH
+review/profileName: JennR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: Not a well know brand BUT a GREAT grain free food @ a very GOOD price!!
+review/text: I found this Brand of food while at my local specialty pet food store (not petco etc!) .looking over the ingredients I was pleasantly surprised! @.90 cents a 3ozcan it was a great buy compared to the grain &gluten free food I was already purchasing  & my cats would eat it sometimes � others, so I wasted a lot of $ often.i took a chance on THIS &WOW, my 4 Siamese & 1 domestic house cat( lol) LOVED IT!!!! There are many favors, though most are FISH based, which all my cats love but I know some cats don't.there are a few all chicken favors as well though. After that I was in &out of that store 2-3x's a WEEK getting more of this food! Now I get it CHEAPER on AMAZON & delivered to my DOOR! Plus w/ subsc &save it's even cheaper still & I receive  it on a reg basis! No more wasted gas & trips to the pet store! Yay! I am a research nut & having lost my 10 yr old cat to a sudden diabetic coma due directly to her food, I now read EVERY lable &all ingredients.all cat/dog food is NOT created equal & could be really bad for your pet.if u do the research as I did, u will be discusted at what some companies actually put in our pets food!  This brand is a great choice @ a good price! My cats are very picky eaters, as are MOST cats, lol-but they ALL love this food! They now will  not eat anything else! Sometimes an occasional can of Merrick brand grain-free food, which is another Exellent product, just for variety. Hope this helps someone else choose a good food for thier cats... :)
+
+product/productId: B00513J42G
+review/userId: A2VZ9F4P2EIVC
+review/profileName: KacyC
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325462400
+review/summary: They Should Call It Happy Cat!
+review/text: We've been trying out premium wet cat foods for more than a year but our fussy cats turn up their noses at each new product.  Fussie Cat is different.  They ate every morsel of our 4 sample cans.  We've been through 6 cases now - 6 different flavors - and they are STILL happy with it.  The food contains lots of whole meat tuna and other fish for variety.<br />I was thrilled to see that it's available from Amazon Subscribe & Save!
+
+product/productId: B00513J42G
+review/userId: A15IABJGWI33MV
+review/profileName: S. Edwards
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325030400
+review/summary: Cats snort while eating this
+review/text: I bought two cans to try out on my three cats at a local pet store. They all loved it, even the picky eater. The can is stuffed with tuna and not like the cans us adults have to buy with mostly water in them. There are nice size anchovy fish in them, one cat tried to steal another's fish. One can is enough to treat all three of my cats with a good sized spoonful. They lick the bowl clean.
+
+product/productId: B001EO5XBW
+review/userId: A31PK8GRU941BY
+review/profileName: New Englander
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1281916800
+review/summary: EXCELLENT--if you know what to expect.
+review/text: This is really the only non-sulfured, organic, no-sugar-added pineapple I've been able to find. And, lucky for me, I love it. My husband and I eat it straight from the bag as a snack, and we also mix it into our trail mix. It has good flavor, and it's tender and easy to eat.<br /><br />However, this is nothing at all like the dried pineapple you can find in most grocery stores. The stuff in the grocery has sulfur to keep the color light and bright, and it has a bunch of sugar to keep the fruit plump and juicy (and oddly sticky). This stuff doesn't have any of that. It will be darker and tougher (and less sticky). This is very natural, as in full-on, granola-eating hippie kind of natural. And if you're OK with that...it's delicious.<br /><br />We've eaten our way through about 30 bags of this now. Some bags have better pieces than others. Some have good individual bites. Some have clumped up pineapple bits. But they all taste good, and we've never gotten anything that was the least bit questionable. We've tried many of the other Made in Nature dried fruits, as well, and we've been equally pleased with all of them.
+
+product/productId: B001EO5XBW
+review/userId: A14S6JL8EPOM8R
+review/profileName: M. BROWN
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1185840000
+review/summary: GREAT PRODUCT !!!  The Best  Dried Pineapple ever
+review/text: This is "The Best  Dried Pineapple ever". All natural and no extra sugar or chemicals.. Ranks way above all others in flavor and health contents.
+
+product/productId: B001EO5XBW
+review/userId: A101RJF7PUMQEI
+review/profileName: Kristofer Masson
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1185321600
+review/summary: Excellent
+review/text: These are very tasty, i would recommend them to mothers who are smart enough to realize that processed sugar is bad for you.
+
+product/productId: B001EO5XBW
+review/userId: A2J19UTYODZC9Y
+review/profileName: B. Cook
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1242000000
+review/summary: Tasty, good-for-you treat!
+review/text: I have purchased dried pineapple for years, but it is sometimes very chewy. This pineapple is softer but still has no sulphur or sugar in it. It is a good snack for all of us but especially for my 2 1/2 year old grandson who has severe food allergies.
+
+product/productId: B001EO5XBW
+review/userId: A2O8Y260FIXKU8
+review/profileName: Ravichandran Raja
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1275436800
+review/summary: Yummy Yummy
+review/text: I thoroughly enjoyed the dried pineapple. In fact I devoured them over a single weekend as it was very addictive and you can keep popping these in your mouth like candy. These are actually very sweet but not of a saturating nature.<br /><br />Happy with the purchase. Only wish the packets had more than 3 ounces per bag.
+
+product/productId: B001EO5XBW
+review/userId: A2I9ZBJAGGO548
+review/profileName: llamalady
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1273449600
+review/summary: not so good
+review/text: Fruit is NOT sweet, juicy, delicious and bursting with flavor as stated on the package.  Yuk.  Fruit is tough, dry and tastes rotten. I ordered this product to qualify my total purchase for free shipping.  My order was placed on April 30 and I received it by usps on May 10.
+
+product/productId: B001EO5XBW
+review/userId: A1VL62M12N2K82
+review/profileName: Mark Twain
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341446400
+review/summary: I really like these
+review/text: I like these pineapple pieces very much.  As has been said before they do not taste like fresh pineapple or pineapple from a can.  The best way to describe the flavor is a condensed and pungent version of pineapple.  They are also quite chewy.  I really like the fact that these can sit on the shelve for ages, and you can grab a bag and go.
+
+product/productId: B001EO5XBW
+review/userId: A218MVVO4H3C3D
+review/profileName: Qaan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317340800
+review/summary: Moist, chewy, and delicious
+review/text: Other reviews have described the contents of the pineapple packs but not as well as this...<br /><br />The pineapple chunks are mostly wedge-shaped and they stick together because of the sugar content. The color of the pieces range from faded yellow to beige to caramel brown. They are flatter than fresh pineapple chunks. But they are absolutely delicious. It's not the kind of food where you eat one chunk at a time as they are clumped together, so it's almost like putting a wad of it in your mouth and chewing on it. And it's awesome.<br /><br />If you are active outdoors these are an excellent source for quick energy and the packs I bought have an expiration date of over a year from now. I guarantee you'll be happy with this product.<br /><br />Warning: DO NOT buy the freeze-dried pineapple product you may see as an alternate item on Amazon. They are terrible!!!
+
+product/productId: B001EO5XBW
+review/userId: AYN6FNCK29VP8
+review/profileName: R. Barrington "Rachel"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1280966400
+review/summary: Limp Fruit
+review/text: I was a bit disappointed in this pineapple.  It was dark colored, and rather tough and limp.  I liked that it did not have any suphur or sugar in it.  But still, I found the fruit difficult to eat because it looked so dark and unappetizing.
+
+product/productId: B00285ZXCA
+review/userId: A2089NDPV80PXI
+review/profileName: Bob
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346889600
+review/summary: I Like Pedigree, I don't like Amazon
+review/text: I have been feeding my dogs Pedigree Plus Healthy Digestion Premium ground Entr&eacute;e with chicken & brown rice.  I buy it at Walmart in 13.2oz cans for 97 cents a can.<br />It upsets my dogs stomachs to change dog foods so I keep a good supply.  For some reason Walmart was out of the Healthy Digestion for over a week, so I decided to turn to Amazon. (BAD MOVE).  They divided my order between two warehouses.  One (TheNewMall) sent me 16 cans and charged me $53.58 ($3.34875 per can includes shipping).  The other (Ozbo) sent me 12 cans and charged me $44.58 (3.715 per can includes shipping). I thought I was getting 48 cans for $98.16 (2.045 per can includes shipping).  I understand how Amazon became a wealthy company almost overnight.<br /><br />I will try to change my dogs to a food that is not so hard to get. Pedigree company employee I talked to on the phone could not care less if I was having trouble finding an outlet for their "Healthy Digestion", He told me to use the link "find a store near you". (None of them even carry "Healthy Digestion").  The only thing I could get out of the person I talked to with Pedigree is they would not sell directly to me and they were not discontinuing the product.
+
+product/productId: B000E39T8M
+review/userId: A2CNYLIWV10IHU
+review/profileName: Libby Ann Arnesen
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1338249600
+review/summary: Hard to find organic corn starch!
+review/text: I'm happy that I was able to find this because none of the health food stores seem to carry it.  My husband and I try to never buy corn products that aren't organic because of the big bad Monsanto!
+
+product/productId: B000E39T8M
+review/userId: AW5RCM8C4A4HA
+review/profileName: mom
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1306368000
+review/summary: glad to have
+review/text: some dishes need a slurry of cornstarch to thicken a sauce. at least now i know i'm not putting harmful gmos in my family when  i use this lil cooking cheat :)
+
+product/productId: B000GZY98S
+review/userId: A1NIK921O9K55E
+review/profileName: Jon S Castor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336780800
+review/summary: Tastes Great - Easy to Prepare
+review/text: We especially like the Wild Mushroom and Herb Rice Pilaf.  Tastes great.  Very easy to prepare, especially if you take the microwave approach.  Mix with water, add butter (or an alternative), 16 to 20 minutes on high, and you're done.  The only drawback to this product:  it's hard to find in stores.  Thankfully, there are online purchasing options, including through Amazon and direct from Near East.
+
+product/productId: B000LKVSVO
+review/userId: A2V2YJFE9KAN6Q
+review/profileName: Coleen E. Sams
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1237248000
+review/summary: Surprisingly pleasant taste
+review/text: After tasting several other  "diet" teas I braced myself for the nasty medicinal flavor of the others. What a pleasant surprise to actually enjoy the taste! I don't know how effective it will be for the "slimming" label as I've only used it for two days. The flavor, however, is easy to recommend.
+
+product/productId: B000LKVSVO
+review/userId: A1WMAECTGR6FMK
+review/profileName: AngelFace
+review/helpfulness: 6/7
+review/score: 2.0
+review/time: 1292803200
+review/summary: HOLY CRAP
+review/text: well i used this for the first time last night after dinner around 7pm. as the directions stated, i didn't brew it for long. i added hot water to the cup with the teabag but the water wasn't hot enough so i microwaved it for 30 seconds let it sit another 30 seconds and removed the teabag. i added a sweet and low and it tasted good, not like medicine at all. i was fine, laying in bed watching tv for the next 2 - 3 hours, then the cramping started. i got progressively worsening cramps from the upper part of my abdomen all the way down to the bottom of my belly, it was very painful. i started feeling very bloated like i needed to belch or... well... yea. i noticed that the cramping was at its worst when i was laying down, standing up i felt better. i got nauseous and thought i would throw up. then i had to run to the bathroom because the extreme laxative effect was kickin in. this lasted until about 2:30am and i need to get up for work in the morning. i was really miserable. in the morning i felt ok until i ate breakfast (a bowl of crispix cereal) then i felt like i needed to use the bathroom again.  doubt i will use this again but if i do i will only drink a quarter of a cup.
+
+product/productId: B000LKVSVO
+review/userId: A2KMIV3LX5MLO5
+review/profileName: De_tourvel
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1329350400
+review/summary: OMG!!!!!
+review/text: This tea made me use the bathroom like crazy! Once you start feeling that cramp. OMG! It's over! Just run to the toilet and just sit there! My butt was going crazy with the toilet, but aftewards I don't feel so bloated anymore. It's removing all this toxins I guess. Do not,and I'm serious! Do not use this during the morning! You're going to be spending more time in the bathroom than working! Next thing you know your boss will be like "Are you ok?" Back in your head you know you are not ok! Embarassing morning of my LIFE!!!! lol
+
+product/productId: B000LKVSVO
+review/userId: A1YMXGQQT7YWMN
+review/profileName: B. Grandon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344211200
+review/summary: helps de bloat you
+review/text: I got this tea on impulse, having never tried it nor read these reviews. I'm prone to water retention if I consume too much sodium or get dehydrated, and it shows in my face right away. I didn't get this product for the poo results, but it definitely has some diuretic effect, because I shortly noticed I was urinating more often too, and within two days my facial bloat went down.<br /><br />As other reviewers have said, it can make you cramp a little if you make it too strong or have too much, and you will be using the restroom more. But for short term bloating issues, it really worked for me.
+
+product/productId: B000LKVSVO
+review/userId: A3J5FXO6NKJBHA
+review/profileName: Robyn Mcpherson
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1305936000
+review/summary: The Super Slimming Tea will DEFINITELY get "it" moving!
+review/text: I like the Super Slimming tea because if you are constipated, the herbs incorporated will most definitely get your digestive system moving very quickly.  I would definitely not go too crazy with the number of bags you use per drink and I wouldn't even drink it every day (unless you haven't had a bowel movement in a month!) as the Super Slimming tea can definitely bring on diarrhea if you're too aggressive with drinking it (i.e. I drink one cup at night...by the 3rd night, my bowel movements are REEEEAALLY soft).  It would be a great addition to any detox diet/efforts as it really speeds up elimination, but just be careful by maybe drinking for a couple days then laying off one or some other alternating schedule.
+
+product/productId: B000LKVSVO
+review/userId: A3Q0FP8V85YE74
+review/profileName: Pamela
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1303776000
+review/summary: Nice Tea
+review/text: I have been drinking this tea for a few months.  I haven't lost any weight, but the tea does keep me regular...
+
+product/productId: B000LKVSVO
+review/userId: A7UU58I2SCRCA
+review/profileName: C. Muns
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1283904000
+review/summary: not a bad...
+review/text: I'm not really a fan of the taste of this tea.  I usually load it up with sugar and mix in come cranberry juice. However it does work, in the sense that its a laxative like most "slimming teas" are. In that regard it serves its purpose, just don't drink more than the recommended 8 oz or you'll be sorry.
+
+product/productId: B000LKVSVO
+review/userId: A12HR1HDS9R8EV
+review/profileName: GRRR
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1286064000
+review/summary: Holy ...
+review/text: So the first time I drank the tea... had some laxative effects. I made the mistake of drinking a second cup last night. I had very painful stomach cramps AND threw up in the middle of the night. I haven't made the connection yet how laxative helps me lose weight. I think I'll stick to exercising and water :-)
+
+product/productId: B000LKVSVO
+review/userId: ALHF3A0K1UU62
+review/profileName: nyree
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342051200
+review/summary: Great for streaming down your waist!
+review/text: This is an excellent tea!  I've used it for a couple of years, and in comparison to others, this is by far the best.  I suggest when you first start, you follow the directions thoroughly and make a weaker brew, by not steeping it as long as you regularly would.<br /><br />The taste is rather nice, when I first began, I added a bit of honey, but now I just drink it straight.  It's great at cleaning out your insides, especially if you've been eating unhealthy and are backed up.<br /><br />If this is too strong for you, I do recommend the Ultra Slimming, it comes in a green box.  It's just as effective, but slower results...perfect for those of you that aren't used to regular cleansings of this sort.<br /><br />I generally follow the tea routine for 5-7 days straight once or twice a month.  As a matter of fact, I'll be drinking some tonight!
+
+product/productId: B000LKVSVO
+review/userId: A2OZ02T76ZJXHF
+review/profileName: vikingfamily
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: Love this tea.
+review/text: Seriously what s great tea.<br />It didnt work as fast as other people described but on the third day my husband and I visited the bathroom as never before. Not kidding! I used to go only 1 time a day...4 to 5 times now.! I which i could drink this tea everyday but the maximun is only seven days. Buy it and get ready to feel lighter and fresh. Awesome tea!
+
+product/productId: B000LKVSVO
+review/userId: A3UMK4VM4G8SRX
+review/profileName: Cheryl Gillette
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340323200
+review/summary: Great way to buy
+review/text: I drink a cup of this tea daily. The taste is OK. I use no sweetener. It helps to flush out what ever you have eaten the day before. No cramping. Helps to keep my weight in check. Very good product at a great price.
+
+product/productId: B000LKVSVO
+review/userId: A1X9GE40LY0O9T
+review/profileName: St. A Boiler
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322870400
+review/summary: Does the job and the price is right
+review/text: We have tried a few different "slimming" teas both from Triple Leaf and other makers as well.  Triple Leaf makes a blue box version which accomplishes the same result but the taste is not as good and tkaes about four times longer to steep.  I know that many people warn about steeping too long.  I have not found that to be an issue.  Unless you are new to "slimming" products, oversteeping should not be a problem, but you may want to try half a cup the first evening.  We add fresh honey and the taste is actually pretty good, though without the honey it is not the best.<br /><br />No doubt Amazon has the best prices on this and other Triple Leaf teas.  Locally, our grocery store stocks these at about $5.90 per box.  In the the case of six and with Prime you are getting it for half price.  If you want really save you can subscribe, but we switch between teas so often we don't subscribe to many.  Make no mistake though, this is intended to and it does do the trick.
+
+product/productId: B000LKVSVO
+review/userId: A27CCU7040YUNE
+review/profileName: May S
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307577600
+review/summary: Great tea to take at night to flush your system the next day
+review/text: I bought this for my mother who has bowl troubles. She likes it at night and it really is very easy on the system. Nothing harsh about it, just one cup will do. Senna works miracles for making you flush out your system. I would recommend this at night and in the morning take a glass of fiber for a week up to a month.. it is a great colon cleanser
+
+product/productId: B000LKVSVO
+review/userId: A1MP4UDO8FA5XJ
+review/profileName: Elena Banciu "Elena"
+review/helpfulness: 0/6
+review/score: 5.0
+review/time: 1192233600
+review/summary: Triple Leaf Tea purchase
+review/text: Thank you for your business. I have receipt the package in time, in perfect conditions.
+
+product/productId: B001IMNO7K
+review/userId: A3IGPE0PMNIHIL
+review/profileName: Ana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Kimbo Coffee
+review/text: Very good tasting coffee.  I recommend it for the people who like to drink best coffee!!<br />With milk, express coffee, american coffee, whichever you like.
+
+product/productId: B001IMNO7K
+review/userId: AUWD1HY2RT8PT
+review/profileName: unc girl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1261526400
+review/summary: Great coffee
+review/text: This is great coffee.  I generally like weaker coffee but this can also be made quite strong without being bitter.  The grind is very fine, but it still works well in a drip coffee maker.  I think it might actually be meant for an espresso maker though.  The taste is comparable to Jacobs Kroenung or Douwe Egberts coffee.
+
+product/productId: B00016WVSM
+review/userId: A37QQNSDTVN5L2
+review/profileName: Carolyn Repka
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1274918400
+review/summary: A Real Treat
+review/text: Tastes great. A little sweet and lower in protein than Think Bars, but this bar is good!
+
+product/productId: B0088OIAKW
+review/userId: AYLCZ8OQCEZCS
+review/profileName: zip
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1332028800
+review/summary: Kitty love
+review/text: My crazy picky calicos just love this stuff.  I'm so surprised because they only want dry food.  I will continue to buy this very high quality product!
+
+product/productId: B0088OIAKW
+review/userId: A3O57BH0H4GIZR
+review/profileName: Christine Barnett
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1331856000
+review/summary: crazy for tiki cat
+review/text: i almost regret buying this fancy cat food as a treat for my kitty bc she is crazed for it! it's a little expensive but the quality is outstanding and the happiness my kitty expresses makes it all worth it. i usually give her one can of this per day and one can of another type of wet food to keep the cost down.<br />i HIGHLY recommend this food. has vitamins, minerals, and is only barely processed - it looks like an almowt whole food product.
+
+product/productId: B0088OIAKW
+review/userId: A2JNPUBGF021JA
+review/profileName: Panda Enthusiast
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1340582400
+review/summary: Picky cat loved this!
+review/text: I've spent years trying to figure out what my cat likes.  I thought I had narrowed it down to chicken, but he eventually got sick of that too.  Based on previous purchases I was sure he hated all seafood except for tuna water.  Being that Tiki has a lot of tuna mixes, I thought I'd give it a try.<br /><br />Amazingly, he loved it!  I was really surprised since the brand of chicken he likes also makes quite a few seafood varieties that he did not like.  For whatever reason, he seems to enjoy every seafood variety in this pack (but not so much the chicken, as it's a lot drier in comparison to his usual chicken in gravy). He's still insanely picky and doesn't like the same food several days in a row, but I can combine even a little bit of this with his other foods and he'll eat it.  Very happy with this find!!
+
+product/productId: B0088OIAKW
+review/userId: A2SZKF1I43T65U
+review/profileName: crabtree
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1330905600
+review/summary: Cat despised this food
+review/text: After reading recent article in the New York Times, I was excited to get this food for my finicky kitty.  Purchased the variety pack since I wanted to test out his preference.  He pretty much hated them all; some, he just sniffed, looked at, meowed at me and wouldn't go near.  A few smelled pretty awful as well.
+
+product/productId: B0088OIAKW
+review/userId: A27718CHXPI8CI
+review/profileName: missc1115
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: My sick cat loved this stuff
+review/text: I had an elderly cat with kidney disease and stomach tumors.  I think this cat food extended his life by a couple months.  It looks and smells like real human food.
+
+product/productId: B0088OIAKW
+review/userId: A1IU7S4HCK1XK0
+review/profileName: Joanna Daneman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Cat's health immediately improved
+review/text: I have a cat who has to have a calorie-restricted diet and was not doing well on the Rx food from the vet. Much heaving and discomfort. I switched brands, this, that, the other and no food seemed to help. This is the only brand that keeps him in good trim, with no dry heaves. It's basically fish or chicken, fish oil and that's about it. There are a few varieties with a bit of rice.<br /><br />The food looks like tuna or chicken salad and the cat LOVES it. I am sure I gave him extra years of life by putting him on this food.
+
+product/productId: B0088OIAKW
+review/userId: A2KYSYAT9RF6LF
+review/profileName: Yini-Rowenna Dubois
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: My cats love some of the variety pack flavors.
+review/text: They like the product and it's healthy (according to the company).  Two of my cats love the sardine and<br />all except one love the tuna flavors.
+
+product/productId: B0088OIAKW
+review/userId: A3C552SEMXZ2PS
+review/profileName: Christian S. Tice
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339286400
+review/summary: My Cat loves this stuff...
+review/text: My 13-year old male cat has been a non-fish eater his whole life. I decided to upgrade the quality of his food and bought a sample pack of Tiki Cat. He went wild. There is quite a variety and he favored some much more than others. But the best way to find out is get a sample pack and see what he/she likes.<br />Theres a variety of tuna combinations, calimari, sardines, mackeral, lobster and crab. The fish is very fresh and apparently fished in low mercury oceans so you can relax about the amount you feed your kitty.<br />Our cat now demands fish nearly every day. We still feed him other high-quality cat foods, but most of the time...it's Tiki.
+
+product/productId: B0088OIAKW
+review/userId: A1PU9GCX6AB40D
+review/profileName: Lynnster
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1338336000
+review/summary: Too much fish for a variety pack, but....
+review/text: I bought this variety pack so my cats could try the chicken flavors without fish, but they hated it. However, they did like a couple of flavors...so I will order those (if I can remember which ones! argh)<br /><br />My BIG questions/concern: the fine print on the bottom of each can says "feed one can for every 3 lbs of bodyweight daily"...<br /><br />One of our cats weights 16 lbs (Maine Coon) and the other, 12 lbs, so I will need to feed a total of 9 cans/day. (who can afford that?) This MUST be wrong info?<br /><br />What cat would eat that much food in one day?<br /><br />Makes me question the company. (they also included one flavor that had menadione sodium bisulfate - a known carcinigen - listed on the can, but when I called I was assured they eliminated that from all flavors last year, and that they just haven't "caught up" with new labels yet.  hmmmmm.<br /><br />If you are feeding this food, do YOU feed according to the label instructions?<br /><br />I've been feeding/offering 1-2 cans of Fancy Feast Classic/day to my 2 cats, but they never finish it.<br /><br />Why do I need to almost triple that amount of Tiki Cat?  (I do put out high quality (40% protein) kibble 24/7.  A good quality, high protein kibble fills up cats in all the right ways, so one expects them to eat less. My cats only eat 1/2 cup of kibble/day (that's total for both, not each cat!)  Seems way too little, but they maintain their weight just fine on it and the FF. So, I have to wonder about how TikiCat came up with the huge amount needed to feed?<br /><br />I'd love to hear what others do. If cats "need" that many cans of TIKI CAT, then each can must be very low on nutrients, as I assume to get the proper nutrients, they need all those cans as per the label?  I hope someone can make sense out of this.  I emailed the company just now as I totally missed that last line until placing an order for Hookena Luau, Hana Luau & Napili Luau. (some of their cans have better (safer) ingredients than others; and those are the more expensive ones & of course those are the ones I will feed IF I find out I don't need to follow the feeding guidelines.....)
+
+product/productId: B000IDC8S6
+review/userId: A2K5PU6MR9XUCX
+review/profileName: Helen M. Calmes "Mrdoubles"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1183161600
+review/summary: Love the taste and ease of making
+review/text: Love the taste and ease of making - the coffee that you normally go to shop for is now available at home; good taste; had to read the packages before realized that the two went together-instructions need to be more clear
+
+product/productId: B000IDC8S6
+review/userId: A3LNE10O933M1I
+review/profileName: Kathleen Margolis "ronnies girl"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1239408000
+review/summary: As great as any barrista can make right in your own home!
+review/text: We love the Gevalia Cappuccino T-disc for our Tassimo....<br />for dinner parties, or simply a friend over...it is a lovely, authentic treat.
+
+product/productId: B000IDC8S6
+review/userId: A3IFC4RN6YP94S
+review/profileName: MC Sombra
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1226188800
+review/summary: Just a great system
+review/text: I love the Tassimo system and have bought 2 (one office and one home) plus gifts for friends and families.  You'll have to try all the different coffees/teas for your own personal preference, but all work as advertised.  Great system, easy to use, and a fresh cup of coffee every time.
+
+product/productId: B000IDC8S6
+review/userId: A214ZINX7T983J
+review/profileName: Coffee dude
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345852800
+review/summary: Honest review
+review/text: Good stuff! Reasonably priced and great flavor. The real deal with lots of foam. You will be surprised how fast you go through them (Yummy). Buy 2 or more!
+
+product/productId: B000IDC8S6
+review/userId: AXT63RZF1D5KT
+review/profileName: Blaze
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343260800
+review/summary: Relaxation in a cup!
+review/text: The Cappuccino is delicious and it is perfect for the start<br />or the end of my day! It has a good rich taste.
+
+product/productId: B000IDC8S6
+review/userId: A19IKK3O09Q6FW
+review/profileName: HPD
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1339372800
+review/summary: Italy at Home
+review/text: Great Taste, great foam, easy preparation. Compares favorably with the cafes in Rome. The taste of Italy without TSA. What's not to love?
+
+product/productId: B000IDC8S6
+review/userId: A3JLECMNWC4LDY
+review/profileName: Lorinzo
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1327449600
+review/summary: Might make your plants happy if you gave it to them. Or it might kill them. Not sure...
+review/text: Wow, if this is the only thing you can get in Europe, I feel sorry for them. After trying this for myself, I suspected that those high ratings were only illusions. My husband told me that company's consider these reviews as just another form of advertising and pay people to lie about a product's quality. I really can't imagine anyone thinking this product is drinkable, let alone, pleasurable. If you want a couple recommendations on decent tasting t-discs for your Tassimo machine, the Jacobs Latte Macchiato isn't bad if you add sugar. This morning though, I drank it after I tried the Voluptuoso and my mouth has a metallic taste to it. Not sure which one is responsible. Another thing, the milk in the disc tastes sour, but when you add sugar, there is a decent flavor there. For the 2nd decent beverage, you can take the Kenco Crema with some Coffee Mate's Spiced Pumpkin and Vanilla Spiced Chai (a liberal amount) creamers, with enough sugar, and have a nice smooth cappaccino. I've tried about nine flavors now, and the coffee, cremas, most lattes and cappaccinos, have the same inferior quality in looks and taste, as a cheap instant coffee, as well as, having your mouth taste like you just drank the contents of an ashtray. Kenco Crema is the only one that did not taste like nicotene. These are the coffees I've tried: Gevailia Cappaccino, Maxwell House - House Blend, Hag Crema Decaf, Jacobs Kronung, Carte Noire Voluptuoso Classic, Kenco Crema and Jacob's Macchiato. After finding one inferior brew after another, I've given up looking for a good cup of black coffee and/or cappaccino, for the Tassimo. Don't do what I did, which was believe all the positive reviews and downplay the critical reviews. My curiousity has been appeased after spending $34 in Tassimo beverages. Thankfully, 2 packages were free. Now I can either spend more money in S&H to return them, or drink all 56 cigarettes...coffee I mean.
+
+product/productId: B000084EOF
+review/userId: AJ4U3OWW1W0IL
+review/profileName: Poppet
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1124841600
+review/summary: Wonderful for a sensitive stomach
+review/text: My 8 yr old Siamese, Random, has always had stomach issues. He has trouble with hairballs and he tends to eat too quickly, which results in the food coming right back out. He's been on prednisolone since he was young to control his vomitting.  Since I switched him to Royal Canin Special 33, I've been able to reduce the dosage of the prednisolone and he vomits less often!  He doesn't vomit right after eating anymore either.  He's perkier than he has been in years and he looks fantastic.  His coat is good, his eyes are bright.  Our other cat Nimitz, a 2 yr old Norwegian Forest cat, shares this food and he looks fantastic too.  It's not the cheapest food I've ever bought, but it's worth every penny to me!
+
+product/productId: B005OCWYY4
+review/userId: ASDHJXRQBTHSG
+review/profileName: Jess AT "Jess"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325030400
+review/summary: Love it
+review/text: I love the taste of it. It's a spanish christmas candy (just like peanut brittle in the US) made with almonds. For those who may have issue chewing, if is to hard for you, get a right portion bite size and leave it in the mouth to soften & more flavor. I have had this since I was a child and now that im in the US is dificult to find this but now that I can get it here, I'm able to share my traditions with friends. As well this brand has a better taste than others I have tried. I recommend it to anyone.
+
+product/productId: B005OCWYY4
+review/userId: A3BI2A4T3NDLN7
+review/profileName: Ricardo J. Ruiz Porras
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Sanchis Mira is the best!
+review/text: Don't waste your time with inferior products, go straight to the traditional taste of hard nougat candy and get the Sanchis Mira brand, it's the best there is.<a href="http://www.amazon.com/gp/product/B005OCWYY4">Sanchis Mira Turron de Alicante 200 grs. (7oz.)</a>
+
+product/productId: B000V4VES2
+review/userId: A2JPY4OVUER8MB
+review/profileName: Amazon Addict
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1323648000
+review/summary: love these mints
+review/text: I love these hard to find mints.  The cost was reasonable and the delivered product was fresh.  I let the last two bags sit too long and the mints got hard.  I'll remember next time to use less will power.
+
+product/productId: B000V4VES2
+review/userId: A6EJQU78ARK83
+review/profileName: DallasCatWoman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1209513600
+review/summary: At Long Last!
+review/text: These are great candies and hard to find in today's market.  I was thrilled to find them available here, and when they arrived they were perfect!  I have had several friends who remember these from childhood 'steal' one of the bags for themselves!  Thanks for making them available again!
+
+product/productId: B000V4VES2
+review/userId: A1WQD6F5XI199G
+review/profileName: Dub
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346284800
+review/summary: Hard as a rock and over a year old
+review/text: These mints are hard to find and I was excited to see that they offered them on Amazon but they were hard as a rock. I particularly like these mints from Necco because they are usually pretty soft but now I have 11 unopened packages of non returnable crappy mints and a 12th opened bag that took out one of my teeth
+
+product/productId: B000V4VES2
+review/userId: A2AWAYE3KQEWH9
+review/profileName: Lizzy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343001600
+review/summary: Disappointed
+review/text: This is the 2nd time i have ordered and the mints are very hard this time.  My grandkids love them but all of them have pointed out, how unusually hard they are.  They call them "pinks" and they still eat them. They still like the flavor. maybe these were a little old???
+
+product/productId: B000V4VES2
+review/userId: A208B9JQOJSJX0
+review/profileName: sc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327881600
+review/summary: Incomparably Delicious
+review/text: When I was very young, this was a candy which I could find in my grandmother's crystal candy dish, regardless of the time of year. Their smell and taste is an amazing memory trigger, taking me back to days of fresh cinnamon toast and a stereo phonograph player in a five foot by two by two foot console. These are perfection. You'll find imitations all over the place--AVOID AVOID AVOID. Spend a little more (not a lot more) and stick to the original Necco deliciousness.<br /><br />One recommendation: If you're not a 9 year old child with a sweet tooth, you probably won't go through 84 ounces of sugary goodness before the candy's natural hydrophilic quality will have overpowered the original packaging, turning some of the candies into jawbreakers. Fear Not! Open the original packaging and store in a vacuum-popped tupperware container (or vacuum-sealed bag, if you've one of those contraptions) and all will be perfect.
+
+product/productId: B000V4VES2
+review/userId: A20383Y2AJ1TJ8
+review/profileName: S. Howard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229212800
+review/summary: Delicious candy from childhood!
+review/text: I've loved these mints since I was a kid, and it's just about impossible to find them in stores.  I couldn't believe it when I saw them on Amazon.  I brought a bag to my brother's house, and he said, "Hey, I love those candies! I remember those from when I was a kid!"  So I got some for him too.  Both cases arrived very quickly and the candy was perfectly fresh, not stale at all.  I hope Amazon keeps these in stock indefinitely!
+
+product/productId: B0029TAVV8
+review/userId: A2M9D9BDHONV3Y
+review/profileName: A. Bennett
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1272585600
+review/summary: It's OK but that's all....just OK!
+review/text: I won't be buying this soup again any time soon.  It was all potatoes and had very little clam flavor.  And besides the price being outrageous, it was just not worth the calories.  Give it a try and see what you think?
+
+product/productId: B0029TAVV8
+review/userId: A33YZNZIRA3H97
+review/profileName: l2
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1268352000
+review/summary: somewhat bland
+review/text: This soup is somewhat thin and bland for a New England clam chowder.  I like the non-organic Wolfgang Puck New England clam chowder a lot better (red label cans).  Even the cheap Progresso clam chowder at Costco is tastier than this.
+
+product/productId: B0029TAVV8
+review/userId: AJLGSI79NYX7A
+review/profileName: NataliaLaLoca "NataliaLaLoca"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1292198400
+review/summary: These other reviews are too kind.
+review/text: Let me preface this by saying that I rarely have enough of an opinion about a canned soup, one way or the other, to take the time to post a review about it.  But with Puck's smug mug on the can and the galling discrepancy between the pretentious language on the label and the swill inside, I couldn't resist.  Let's see: "Vibrant, innovative approach."  "Robust flavors."  "Trademark passion and uncompromising quality."  "The most delicious tastes to savor."<br /><br />This is by far and away the worst clam chowder I've ever tasted.  I've had better New England clam chowder at crap roadside diners in Michigan.  I've gotten better clam chowder out of Campbell's Soup cans, at a fraction of the price.  This is a thin, flavorless gruel with a few denatured potato cubes swimming forlornly among a couple of minuscule pieces of clam.  It doesn't even taste salty (and with 25% of the US RDA of sodium per serving, you'd think it might have at least THAT going for it).<br /><br />The fact that they pass this monstrous garbage off as "organic" and "natural" vividly demonstrates this company's contempt for the American consumer.<br /><br />Wonder if Puck has ever tasted this fine product that bears his name.
+
+product/productId: B0029TAVV8
+review/userId: A36PP6PQCKA6PM
+review/profileName: C. Bercaru
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1268006400
+review/summary: W. Puck...
+review/text: If you want to spend your money on water and salt, go ahead, buy it...
+
+product/productId: B0029TAVV8
+review/userId: A3O08KU1QEEXJG
+review/profileName: ZigZagJoe
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1320192000
+review/summary: Was given a few cans for free...
+review/text: ... now, having tried it, I see why: this is, roughly speaking, canned pig swill. Salt and water is also a solid description.<br /><br />Do not buy, at any price, and if you have any given to you, improvise a warhammer with a stick and/or throw it at the person who gave it to you, kill it with fire, give it to some poor hobo, etc etc. If you get a case of this crap, make a boat anchor. Do not attempt consumption.<br /><br />Now that I look closely, there's another section on the label...<br /><br />KEEP OUT OF REACH OF CHILDREN<br /><br />DANGER: CORROSIVE. HARMFUL IF SWALLOWED. Causes eye and skin damage.<br />DO NOT get in eyes, on skin or on clothing. DO NOT ingest. DO NOT breath vapor or mist. Use only outdoors or in a well-ventilated area. Avoid release to the environment. If swallowed, immediately contact a poison control center.
+
+product/productId: B0029TAVV8
+review/userId: A3KB7FXN92YG4G
+review/profileName: Arianna
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1296259200
+review/summary: Bad...just bad.
+review/text: Just had this soup tonight for dinner and it was pretty awful.  Oddly too much broth and not enough cream or something?  Hey Wolf, can't you add more cream to a soup that's supposed to be cream based?  I love the person who said that it's just "water and salt".... too true!  Sorry, this just isn't a winner for me.  Won't be repurchasing again unless they reformulate the recipe.
+
+product/productId: B0029TAVV8
+review/userId: A3D9BIU4MPA4KK
+review/profileName: stalphos
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1340668800
+review/summary: Worst Clam Chowder I have ever had!!
+review/text: Taste like peppery chicken stock with celery and potatoes. Hardly any clam flavor. Terrible product. I did like his organic tomato basil.
+
+product/productId: B000JFBYQA
+review/userId: A184K5PFSEL337
+review/profileName: J. Yu
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1336435200
+review/summary: Fresh and delicious
+review/text: I was nervous about buying a whole case of these circus peanuts, and I groaned when I opened the box and discovered all the peanuts in each bag were clumped together. But luckily, the peanuts separated easily, and they taste fresh and delicious, with that wonderful spongy give and banana flavoring.<br /><br />I bought these to use as balloon weights for a carnival-themed party. I filled small tin pails with circus peanuts and tied balloons to the handles, and I left some unopened bags as decoration on the tables. While everyone thought they were cute, I only saw two people (out of sixty guests) actually eat any. I guess most adults don't like them. But if you do, I think you'll be happy with this brand.
+
+product/productId: B000JFBYQA
+review/userId: AJ4ZDT75JOUGD
+review/profileName: Raymond Sharpe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341014400
+review/summary: Cheaper to buy individual bags than one large bag!
+review/text: My husband loves Circus Peanuts (yes, he's probably the only adult I know who likes them!), so I purchased this as a fun part of his birthday present. This product is not one large bag, but 12 snack sized bags. My husband preferred them this way because he could take them to work or wherever and they are already portioned for him. I also compared prices, and at the time I purchased these, it was actually cheaper to get the indvidual bags than to buy one large bag.
+
+product/productId: B000JFBYQA
+review/userId: A1TFGYAXTYZOVM
+review/profileName: Another Choosy Shopper
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1303948800
+review/summary: Circus peanuts
+review/text: I purchased them to give as a gift since they are not the candy that I crave what-so-ever. My brother loves 'em, I hate them.
+

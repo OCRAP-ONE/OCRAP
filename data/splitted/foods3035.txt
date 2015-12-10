@@ -1,0 +1,1143 @@
+product/productId: B001EQ5KI6
+review/userId: A74EG0O76KC78
+review/profileName: Michael Nomad
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1212364800
+review/summary: They finally have this!
+review/text: Unfortunately, it's just as expensive as it is in the grocery stores :(<br />I've been checking here every so often, and Amazon usually doesn't have it, suddenly I saw it and was ever so happy, but at over $4 a box, I guess I'll have to wait for it to be on sale.<br /><br />Darn.
+
+product/productId: B001EQ5KI6
+review/userId: A2R3A8PG9I6KKS
+review/profileName: S
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1257638400
+review/summary: Good Cereal
+review/text: The product itself is very good. It's lightly sweet and very tasty with the cinnamon. It's a little high in calories (1 cup=230 calories) but it keeps you full for many hours. The only problem I had was with Amazon not the product. If you live in an apartment complex and aren't home all the time, the delivery will not always be left for you if you don't have a mail service in the complex itself. This is delivered by USPS, and not having a car, it makes redelivery take longer to get the product to you on a day that you are home all day to wait for the package. Just a little disclaimer about the shipping!
+
+product/productId: B001EQ5KI6
+review/userId: A3TKE38IBHX6G0
+review/profileName: Wanda L. Kistler "Wanda;Kistler"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305331200
+review/summary: Crazy about Quaker
+review/text: Quajer Oats Squares (especially thr onr with a hint of cinnamon).  I just won't buy another kind of cereal now. Sometimes I eat it for breakfast and dinner, and it's a good source of fiher.  With this cereal you don't lose the crunch before the serving is gono.
+
+product/productId: B001EQ5KI6
+review/userId: A37T71PF1HMG5
+review/profileName: Rachel
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1297814400
+review/summary: Prefer the original
+review/text: I'm a big fan of cinnamon, but I don't like how the cinnamon drowns out the "oatmealy" flavor that is synonymous with the original <a href="http://www.amazon.com/gp/product/B001EQ5KHC">Quaker Oatmeal Squares, Crunchy Oatmeal Cereal with a Hint of Brown Sugar, 16-Ounce Boxes (Pack of 6)</a>. (Or maybe it's the brown sugar flavoring I crave?)<br /><br />Anyway, I tried mixing the two, which gave good results. I just don't like these plain.
+
+product/productId: B000RC4188
+review/userId: AMIPRQWY4IMC5
+review/profileName: Jay & A. "J&A"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1258588800
+review/summary: Our favorite tea
+review/text: I first tried this tea at Einstein Bros. Bagels, and it is the only tea the we drink now. It has the greatest flavor, and is the finest tea that I have ever tasted. I have offered it to many friends that do not like tea and they have tried it and loved it. We all like it without cream or sugar, the flavors are so rich and vibrant that it easily stands on its own.<br />Harney & Sons even somehow got my boyfriend off of soda, he bought a bunch of different flavors and has them with his meals instead now. They compliment meals very well, and are a wonderful way to start your day and unwind in the evenings.
+
+product/productId: B000RC4188
+review/userId: A3TVML3TQ3GB2Y
+review/profileName: DR. H
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345507200
+review/summary: Great tasting!
+review/text: I usually don't write reviews, but this is such a great tasting tea I felt compelled to post. It is by far the best tasting green tea I've ever had. It has a very refreshing citrus flavor.
+
+product/productId: B000RC4188
+review/userId: A37NODCIL8PP75
+review/profileName: Jeannette Belliveau "Author, Writer, Editor, ...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Spectacular favor, giving it to all my friends, but a bit pricey
+review/text: The flavor here is a winner, with appealing notes of citrus that provide a refreshing and exhilarating flavor. I'm not a tea connoisseur by any stretch -- I'm fine with Lipton even if it's on sale -- but even I can tell this is really special. As good as it is hot, it also makes a delicious sun tea, with three bags in a repurposed jug from<a href="http://www.amazon.com/gp/product/B00556L9SQ">Arizona Sun Brewed Style Iced Tea with Lemon Flavor 128 oz</a>. Chill and enjoy.<br /><br />I'm sharing little clusters of one to three bags with family and friends because I think it's that good.<br /><br />Hope Amazon.com considers lowering the price especially if it's double what other reviewers have noted at grocery stores.
+
+product/productId: B000RC4188
+review/userId: A3P9R0VIA1NDDC
+review/profileName: bshope
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Pleasant Flavor
+review/text: This tea has a nice delicate flavor, like a citrus green tea,but even better than the Harney and Sons organic citrus green.  Ginkgo is also supposed to be good for brain health - so that is an added benefit.<br /><br />It has plenty of caffeine, so expect to get a buzz if you drink a few cups.  Overall, a great tea.
+
+product/productId: B000RC4188
+review/userId: A2NCCN1AKS0UJX
+review/profileName: Andrew J. Peterson "ap30"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: Like it
+review/text: I mix this in with my coffee in the morning. Gives it that extra kick I need to stay focused at work. The flavor is strong for a green tea. The citrus taste is more of a teaser than a flavor with as strong as the green tea is.
+
+product/productId: B000RC4188
+review/userId: A2TB4NPMPGBV3X
+review/profileName: James G. Yule "J Murph"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313107200
+review/summary: Special Organic Green Tea
+review/text: First had this tea served to me at the Royal Sonesta Hotel in Cambridge, MA and later at the Hudson Hotel, in NYC.  Hard to find but found it on Amazon.  Would highly recommend.
+
+product/productId: B000RC4188
+review/userId: ABJO289K8VT46
+review/profileName: Marlene Darroch "Vegie Grannie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265932800
+review/summary: Best site available for this procuct. Amazon reliability!
+review/text: Excellent tea, been enjoying it for some time. Love this site, was the most efficient with the fastest delivery...offered many product choices and pricing to get the product for the least cost.
+
+product/productId: B000RC4188
+review/userId: A22WJHA8MMN5T9
+review/profileName: TeaDrinkah
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1326240000
+review/summary: Great Tea/Bad Price
+review/text: Love this tea but found it at my local Fairway in NYC for $6.99. Half this price. What gives?<br />;
+
+product/productId: B002JV05VW
+review/userId: A3SZGLTR89SFHT
+review/profileName: Kimberly Mueller
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1286496000
+review/summary: Sure beats anything you can get in the grocery store!
+review/text: We make caramel macchiatos at home and have been searching for a long time for a better alternative to the sundae syrup you can buy at the grocery store.  The syrup is very tasty & has a good consistency ... tastes a lot more like real caramel than others we've tried.  It would probably be great on ice cream sundaes too!
+
+product/productId: B002JV05VW
+review/userId: A2X4NKYNK4ZKY7
+review/profileName: Valpacky
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1296518400
+review/summary: YUMMMMMMM
+review/text: What can I say...it's Ghirardelli!!  I use this for my Lattes. Also used it in my own creation of the "blast", a frozen coffee drink. I will reorder when I run out. I save money making my specialty coffee at home, worth every penny!
+
+product/productId: B002JV05VW
+review/userId: A3HPIYSNZ77T9X
+review/profileName: busy mom "teddyrobinson"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328745600
+review/summary: Have my macchiato just like the BIG store now!
+review/text: That big chain store that makes venti caramel macchiatos? Well, they make less for me now because of this!<br />Saves me big bucks! Its creamy and delish. Will sneak it on some ice cream soon as well! Remember to order pump separately!
+
+product/productId: B002JV05VW
+review/userId: A2CTZIKXZZCZFX
+review/profileName: Simbeck11
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1349136000
+review/summary: Pump Not Included
+review/text: Its great how they show a picture of this product with the pump attached leading buyers to believe the pump is included. Its even better how in little font it says pump not included. I just realized this after receiving the product without a pump. The little bullet that says pump not included is very easy to miss.<br /><br />Why would you put a picture of the pump with this product if it is not included?<br /><br />It should be made clear to everybody that purchases this product that the pump is indeed not included and this is false advertisement. Everybody beware that pump is sold separately!
+
+product/productId: B001E5E1IW
+review/userId: AGHBXZXILYZOB
+review/profileName: Mary Anne Barth
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1290729600
+review/summary: Citric Acid
+review/text: I thought I had found citric acid powder when I ordered this. It is small crystals. I hope it works for the (rennet) recipes for which it is needed.
+
+product/productId: B000SSS86W
+review/userId: A27ZN1MWKH9W1O
+review/profileName: Y. Olagoke
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1212796800
+review/summary: You wont be Sorry!
+review/text: Im so addicted to these chips.....yes i said these, they also come in different flavors; Barbecue, spicy and cheddar. They are so good and so healthy and not to mention tasty, you will definitely get your money's worth for these chips.........!!!
+
+product/productId: B000WFKTBS
+review/userId: A17O9AHKHK66AI
+review/profileName: L. Gildart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328140800
+review/summary: Good formula for finicky CRF cats
+review/text: You might want to use phosphorus binders if your cat has CRF.  My cat won't touch any food that has any of that stuff mixed in, and once she's eaten something and it's made her sick, she refuses to touch it again for weeks until she forgets that she's thrown it up, so I'm flailing around alternating among canned foods that she can tolerate, whether they are prescription renal diets or various other foods that she likes and can tolerate.  This food seems to thrill her, and, so far, she's been able to keep it down (but I don't feed her more than one of these cans in a day).  It's expensive to buy online, but you can find decent sales if you check the ads for pet food stores.
+
+product/productId: B000QSOP48
+review/userId: AQQVMGNT6P48N
+review/profileName: Jenny
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350864000
+review/summary: Only Food My Dog Can Eat
+review/text: My dog (a Pomeranian) has a very, very sensitive stomach and used to get sick every time she ate. We tried giving her different treats, no treats, changing foods, etc; only this food seemed to agree with her. Her coat is also very shiny and soft since she began eating AvoDerm. Hard to find in our local pet superstores though; they always seem to be sold out at one and the other stopped carrying this flavor! Shipping was quick here.
+
+product/productId: B000QSOP48
+review/userId: A7C7QG6O3ZHXD
+review/profileName: A. C. Smith "A.C.Smith"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310342400
+review/summary: AvoDerm is a great food!
+review/text: I really like AvoDerm company and wanted my Shihtzu to like their food. She loves the AvoDerm Chicken and Rice canned so I tried mixing it, but she just didn't take to the kibble. This is such a great food, with healthy and safe ingredients!
+
+product/productId: B00355EH92
+review/userId: A3HOZFJE69MOVA
+review/profileName: Terri Pollhein "farmlife4014"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1339200000
+review/summary: sweet without sugar
+review/text: This cinnamon is naturally sweet. Extra nice to put in  your morning coffee or sprinkle on your ice cream for dessert. Delicous in all types of baking and cooking.
+
+product/productId: B003SBPPS0
+review/userId: A366S786BAGBWE
+review/profileName: Jacqui Cherry "Jacqui Cherry"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1329264000
+review/summary: Red Peach Lemonade--Yuck!
+review/text: This red peach lemonade was very disappointing. It did not taste like peaches, nor lemonade, but like a cheap imitation of a peach. I couldn't drink it. Amazon, however gave me great service.
+
+product/productId: B006FFCM6Y
+review/userId: A1HRWGPY5Z3GR
+review/profileName: Arthur Galla
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331424000
+review/summary: Great steak rub
+review/text: Could not find this product in local stores.  It is a great meat dry rub and really enhances the flavor of the meat, especially steak.
+
+product/productId: B007MEW5N2
+review/userId: AC1YP0DETBR7F
+review/profileName: kh516
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Spicy!
+review/text: I absolutely love this stuff. I put it on shrimp and then grill them, and they are absolutely delicious. It is pretty spicy, but that's what makes it so great!
+
+product/productId: B000329QNC
+review/userId: AU7AY2NOFQ7SO
+review/profileName: Frederik Green "FG"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1259193600
+review/summary: Chiver's Ginger Preserve
+review/text: This is simply the best ginger preserve in the world. Actually, I think it is one of the finest marmalades of anything, anywhere. It's too bad that only very few stores in the US carry it, and it's great that it is available here at a reasonable price. The texture is wonderful - pieces of ginger in a pretty solid preserve. It's sweet, but not overly sweet, and not really bitter, but it somehow manages to keep the distinct ginger taste. I love this on a toasted multigrain bread over a thin layer of sour creme. I agree with the previous reviewer - a good cup of black tea (but with a drop of milk, I dare to disagree in that detail) makes the perfect companion. Alas, it takes so little to have a perfect breakfast....
+
+product/productId: B000329QNC
+review/userId: A11L4SBY7NCSZU
+review/profileName: Jennifer A. Wickes "Food Writer"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1110844800
+review/summary: Wow!
+review/text: This is wonderful on scones!  Serve with a hot cup of black tea!  Spicy and smooth!
+
+product/productId: B000329QNC
+review/userId: A29WSP9TN9GWMJ
+review/profileName: Kathy R "cat lover"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1272153600
+review/summary: Very Good!
+review/text: I was unable to find this item anywhere until I located it on the internet.  Used it to make a wonderful dessert.
+
+product/productId: B000329QNC
+review/userId: A2RIJ4R7UX8JPS
+review/profileName: Violet "sweetviolet79"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316304000
+review/summary: used it to instead of grape jelly for a PB&J sandwich
+review/text: I bought this preserve at the local grocery store. I got tired of the usual grape, stawberry & apricot jams when I bought this preserve to try in their place. I always felt that, in general, peanut butter overwhelmed the traditional use of grape jellies... I've known many people to heap on the grape stuff in an attempt to compensate for this. I suspected that ginger, being a stonger flavor, would be better suited for this purpose and in my opinion, I was right. the ginger complimented the peanut butter very nicely and required less product to be used.<br />if you're hesitant to purchase this product because your not sure how or when you would use it... buy it and get creative. I liked this stuff so much, I plan to make it a staple in my home.
+
+product/productId: B0046HFO54
+review/userId: ACOVG0ZH724Q1
+review/profileName: Margaret R Lerner
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1314403200
+review/summary: Spectrum Canola Maryonnaise
+review/text: Because i am gluten- and lactose-intolerant and also have severe problems digesting any corn products (including cornstarch, high fructose corn syrup, etc.), i have gone more than 5 years only eating home-made mayo (which doesn't always work).  my husband found this at the local organic store ... it tastes absolutely fabulous and does not upset my gastro-intestinal system.  i am thrilled to have it ... i use it for tuna, chicken, and turkey salads, as well home-made cole slaw (organic napa cabbage and grape tomatoes).  i also add it to my home-made olive oil & white balsamic vinegar salad dressing which results in an incredible creamy italian dressing ... everyone who has tasted it raves about it.<br /><br />thank-you spectrum for this fabulous product!
+
+product/productId: B001EQ5CIO
+review/userId: A3R6PI47EF3F83
+review/profileName: Richard Cumming "RC"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1163721600
+review/summary: it never fails
+review/text: I'm in the coffee business. I order various whole bean coffees through Amazon Grocery to check out the competition. Lately, I've noticed something odd. Perhaps it's a coincidence but the last couple of coffee orders that I have placed have been most satisfying. I go to Amazon to leave feedback and I find that the coffee is suddenly unavailable? Bizarre. Here's another one. I just got the coffee that I ordered. It's a lovely, dark organic. I have been quite delighted with every type of coffee that I have puchased from this roaster. They are putting out some high quality beans. I'm quite particular about French roast. It's my favorite roast and it has to be done just right. This variety was exquisitely roasted. The resulting brew was earthy, fragrant, and not too heavy on the palate. Sadly, as I write this review I see that this coffee is "currently unavailable." I just ordered it! Am I some kind of a jinx? Keep checking back. It's worth it!
+
+product/productId: B001EQ5CIO
+review/userId: AYWUHB7N8XGZQ
+review/profileName: Evelyn A. Getchell "Evie"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1280966400
+review/summary: Very good
+review/text: I am still searching for the best organic (preferably Free-Trade) French Roast whole bean coffee I can find and for the most reasonable price.<br /><br />I like <a href="http://www.amazon.com/gp/product/B001EQ5CHK">Jeremiah's Pick Coffee Organic French Dark Roast Ground Coffee, 10-Ounce Bags (Pack of 3)</a> very much but I have enjoyed others better. Jeremiah's doesn't quite have the depth of flavor I prefer.  That's not to say Jeremiah's French Roast is not satisfying. It is. It's just not the best I've sampled so far.<br /><br />I didn't notice that these are 10-ounce bags until I received my order.  I wasn't paying close attention when I placed my Amazon order.  I went through this pack of 3 quite quickly so it's not the best value for my money either.  I'm not complaining though.  I am having fun on my search for my favorite French Roast.  Jeremiah's is still very good and probably more worth a 4 and a half star rating.
+
+product/productId: B001EQ5CIO
+review/userId: AWVBVK8Y6T0VH
+review/profileName: Chelsea "nostalgia gal"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1166832000
+review/summary: The Best
+review/text: This is the Best French Organic Coffee!  Big Bold and oh so smooth!  I am so bummed, wanted to reorder and they are out of stock.
+
+product/productId: B001EQ5CIO
+review/userId: A11X1SWCQPYRV5
+review/profileName: Leona Daffinsky "dawn"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1271808000
+review/summary: As a die-hard Starbuck's fan......
+review/text: I am always hesitant when purchasing a coffee other than Starbuck's.  Well--hello Jeremiah! Welcome to my home.  The French Roast was smooth, dark and just darn tasty. The packaging allowed even the open bag to retain the natural oil better than most other coffees.  Way to pick Jeremiah.
+
+product/productId: B001EQ5CIO
+review/userId: A3WOFZ0N16XJZ
+review/profileName: K. WRIGHT "jlw617"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: Yummmmmmmo
+review/text: This was a very tasty coffee, nice and bold yet smooth-it go's great with the aeropress which i also purchased from amazon, my husband loves it as well!
+
+product/productId: B001EQ5CIO
+review/userId: A2DRCRUTY2JY6S
+review/profileName: imsureitsfine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298419200
+review/summary: Favorite Organic Coffee
+review/text: Some very delicious french roast in these here green bags. In combination with my Aeropress I couldn't be happier. Every shipment I have received of these beans has been fresh, aromatic, and oily. Nothing but praise for this consistently delicious bean. If you are hunting around for a nice organic roast, you could do a lot worse than diving into a bag of Jeremiah's Pick French Roast.
+
+product/productId: B001EQ5CIO
+review/userId: A3LDG4RXNOW0IR
+review/profileName: ashleymarie
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1293062400
+review/summary: Tastes Like Diner Coffee
+review/text: This is not a dark roast. The packaging may be pretty but the coffee is terrible. I brewed it several times now (adding more coffee) and it always comes out weak, flat, and watered down. This is worse than Folgers.
+
+product/productId: B001EQ5CIO
+review/userId: AKE71MUXMB2T5
+review/profileName: K. Stone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290124800
+review/summary: Organic, and water processed!
+review/text: This was a great find...it is a healthy way to enjoy decaf.  I try to avoid chemically processed decaf and I buy organic when possible---this is a great combination of both healthier choices.  I actually grind regular and decaf together for a great tasting half-caff morning coffee.
+
+product/productId: B001EQ5CIO
+review/userId: AMAH32V7HSMUL
+review/profileName: Julie "picky reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1276992000
+review/summary: yum
+review/text: We've been drinking organic coffee for a few years now and tend to have the same type day after day once we find a brand that isn't overpriced and is bold enough for our tastes. This is a refreshing change and a good deal on auto-delivery. smoooothhh and tasty :)...highly recommend!
+
+product/productId: B000LWCR26
+review/userId: A3JE7V2CRQWCXS
+review/profileName: dnorth66
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1321574400
+review/summary: Delicious!
+review/text: I LOVE cappuccino but know that I should not have that much sugar every day.  I tasted Tazo chai and loved it.  Bought another brand of chai and it had a strong anise(licorice) taste, which I don't like.  Saw a review that Numi was better than Tazo, so had to try.  Bought the Golden chai and this Rooibos chai.  Both are great, not a strong anise flavor in the Golden Chai.  This Rooibos chai tastes like Christmas.  No anise at all.  If you like cloves, you will like this tea and it is caffeine free.  It is not presweetened so I add stevia and it is a perfect cup of tea!
+
+product/productId: B000LWCR26
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1173052800
+review/summary: Delectable Herbal Caffeine-Free Chai
+review/text: *****<br /><br />Numi Tea's Ruby Chai Spiced Rooibos Herbal Teasan is a premium Numi tea, both certified organic and kosher. The ingredients are fair trade certified organic rooibos, organic cloves, organic allspice, organic ginger, organic cardamom, organic nutmeg, and organic cinnamon. There is nothing artificial in this or in any Numi tea.<br /><br />On the box, the manufacturer writes: "Earthy, vanilla organic Rooibos and a sultry blend of spices come together from around the world in Numi's caffeine-free chai. Warmed by the South African sun, Rooibos is lauded for its high anti-oxidant properties. It is full-bodied like black tea, yet soothing any time of day. We've sourced the highest quality cloves, nutmeg, and cinnamon, mingling them with sweet Indian allspice and vivacious Chinese ginger. A kiss of cardamom unites this fabulous caffeine-free alternative to Numi's Golden Chai. Share in the savory warmth of Ruby Chai."<br /><br />If you are used to black tea or coffee and are wanting to get accustomed to herbal caffeine-free teas, this is a great way to start, since the flavors are stronger and thus less subtle than most herbal teas. Although this is a "chai", note that it contains no sweeteners...I prefer this, but commercial chais often have sugar added, so be prepared for a wonderful no-calorie indulgence that is beautifully flavored but not "sweet" in the same way that sugar is.<br /><br />If you like Numi teas, get it---you won't be sorry. If you are new to Numi but love chai, this will probably be the best you've ever had.<br /><br />*****
+
+product/productId: B002C1CWLA
+review/userId: A14RZ8055OH7UY
+review/profileName: Gluten-free dad
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1275436800
+review/summary: The best tasting gf crust I've had
+review/text: I love this crust.  This is the only precooked crust that I've tried that gets crispy in the oven.  I think one of the reasons for that is it's not frozen.  With most of the frozen crusts, I think there's some extra moisture that causes it to not crisp.<br /><br />If you're like me, you tend to find a brand that you like and buy other products from them.  I've done that with Schar.  I've tried the bread, shortbread cookies, pasta, vanilla wafers, and choc. hazelnut bars.  My least favorite is the hazelnut bars.  My absolute favorite is the vanilla wafers.  The texture and consistency of them is great.
+
+product/productId: B002C1CWLA
+review/userId: A3P8WZ8E14G8SZ
+review/profileName: Bunkster Brown
+review/helpfulness: 9/12
+review/score: 4.0
+review/time: 1278892800
+review/summary: Almost perfect... but...
+review/text: Ok, well first I should say that I have very little experience with GF products, because I was just recently diagnosed with gluten sensitivity.  And I have zero experience making pizza.  That said, I have both positive and negative feedback about this product.<br /><br />Just today I made my first-ever pizza, with this GF crust.  As it was nearly 100 degrees today, I didn't want to heat my oven to 425, so I decided to make it on the grill outdoors instead.  I sprayed oil on the down-facing side, just to keep it from sticking to the grill grate.  On the stoptove, I sauteed ground sirloin (93% lean), red and yellow bell peppers, some Vidalia onion, and sliced Baby Bella mushrooms in some olive oil and chopped garlic.  When finished cooking that, I drained it on paper towels to remove the excess oil.  Then I piled them onto a pizza crust and topped it all with grated cheddar cheese.  These were all just odds and ends that I had leftover from other meals I cooked this past weekend.<br /><br />Then I put it on the grill on medium heat, and watched it carefully.  I checked it in five or so minutes, and it had started to brown a little.  I lowered the heat to low and cooked it for a few more minutes, then checked it again.  It was brown and had nice grill marks on it, so I took it off and sliced off a piece to taste it.  It seemed like it was cooked just fine... soft and doughy on the inside, nice and brown and crispy on the outside.  I determined that it was ready to eat, so I took it off and polished it off... yummy and soooo filling.  That will definitely be my only meal today.  It was delicious, and the crust tasted fine.  I think that my hubby would even like it.<br /><br />Now the negatives.  But these are more a matter of personal taste than anything specifically wrong with the crusts themselves.  First, I should've checked the label before eating it, because I am also lactose intolerant.  I can handle a small amount of lactose (the cheese I used contained almost none), but I didn't realize until I'd eaten it that the crust contained milk.  Whoops.  So here comes the bloating...  maybe a better warning on the front of the box "not lactose free" would be good.  I don't know why I assumed it was, I shouldn't have assumed that.  I notice that even I write this review, one of the suggested tags for it is "casein free."  It says right in the ingredients that it contains "milk protein," so people allergic or sensitive to casein shouldn't eat it.<br /><br />Second, if you are counting carbs to lose weight, it is not a great idea to eat an entire crust by yourself.  These look like single-serving pizzas... they are small and I treated it as if it were a "personal pizza."  However, the label says that 1/3 of the crust contains 30g of carbs.  Yikes.  So I just consumed 90g of carbs in one sitting.  That's not good for me or probably for anyone.  These crusts are fairly thick too, and I normally like a thin, crispy pizza crust.  I would love these much better if they were 1/2 the thickness and 1/2 the carbs.<br /><br />Finally, these come with holes pricked on one side but not the other.  Being new to making my own pizza, I wasn't quite sure which side went down and which went up.  Some instructions on the box to this effect would benefit pizza-making novices like myself.  In the end, I put the hole-side down, but in retrospect I think maybe that was wrong.  Maybe the holes are meant to allow steam to escape upwards, so the crust gets crispy.  Anyone who can give me some insight on this will be appreciated! (At any rate, my crust did come out perfect so maybe I got it right.) I've cooked pretty much everything in my lifetime, but somehow never got into pizza.  Now that I am gluten intolerant, I hope to be making my own and eventually get real good at it.  My goal is to make a gluten-free pizza that even my hubby will find irresistible...and maybe even preferable to the pizza shop kind.  However, even though this crust was good, I can't see myself eating it regularly because of the carbs.  Most likely, I will learn to make my own GF crust so that I can make it as thin, crispy, lactose-free, casein-free, and gluten-free as I like.
+
+product/productId: B002C1CWLA
+review/userId: A555O9NTRQV8A
+review/profileName: Kelsey
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1325635200
+review/summary: Great option for pizza
+review/text: I've tried a billion pizza crusts on the market and these things are really good for pizza as long as you follow a few important steps when making them.<br /><br />They are best cooked on a very high heat in your oven and don't really respond well to sitting on a low bake setting for a half hour. You want to flash cook these suckers on one of the lower trays inside the oven. If you cook them too slowly they can dry out.<br /><br />In addition, these things taste about a thousand times better if you cover the surface in olive oil. Doesn't have to be expensive stuff. Just your basic olive oil. This makes them brown really nicely and also adds a good flavor to the finished crust.<br /><br />Most of the pizza crust mixes that you have to add ingredients to are rather cardboard tasting. These things aren't and they're even ready-made.<br /><br />I'd say the only drawback to these yummy things is that they cost a fortune.
+
+product/productId: B002C1CWLA
+review/userId: A1K7RO3JK2NF6R
+review/profileName: Pulkit Shah
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1324252800
+review/summary: My 8 year old daughter loves it
+review/text: Finding gluten free food for 8 years old pure vegetarian, and that too without eggs has always been great challenge. We have tried many frozen pizzas but my daughter for the first time used the words, "This is like what I used to eat before I got the gluten allergy".
+
+product/productId: B002C1CWLA
+review/userId: AZ4I83HMY8AK8
+review/profileName: writerkay
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1316908800
+review/summary: Schar pizza crust good stuff
+review/text: This gluten freee pizza crust is almost as good as a wheat crust. Easy to use for any topping. It is also the right size for two servings or more, depending on when it is eaten.
+
+product/productId: B002C1CWLA
+review/userId: A3AUC1I7VG307N
+review/profileName: artk
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340582400
+review/summary: Best GF pizza almost as good as a normal pizza crust
+review/text: My son has gluten allergy and egg allergy, so we couldn't really try many of the other options out there. And some that were there were not good and didn't really taste like pizza. We had given up hope of my son ever eating a good pizza when we came across this. If you follow their directions exactly, the pizza comes out really well and tastes almost as good as any other pizza out there with the right toppings (cheese, green bell peppers, tomato and onions for us). it was so yummy, me and my hubby ate it too!  My son ate a whole pizza and now its a regular thing for him at birthday parties etc. We bought it from Whole Foods though where it is a lot cheaper!
+
+product/productId: B002C1CWLA
+review/userId: AS5XNGVQ5GASN
+review/profileName: AliciaN
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314316800
+review/summary: Delish
+review/text: I have tried a few different GF pizza crusts, and so far these are the best. Easy to make and only 15minutes later I have a great tasting pizza. Great for a treat or quick meal, I would imagine also great for GF kids!
+
+product/productId: B002C1CWLA
+review/userId: AOK57RN8TE13K
+review/profileName: justamom35
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308614400
+review/summary: My daughter loves these
+review/text: These are so fast and easy and they taste good. My VERY picky daughter loves them. We keep them on hand for when the rest of the family is having pizza. It works great.
+
+product/productId: B002C1CWLA
+review/userId: A1YCF9HVJ561CH
+review/profileName: Julie M. Baker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341187200
+review/summary: Yum!
+review/text: These yummy pizza crusts make it possible for me to fully, and happily participate in my family's make-your-own pizza nights! I am gluten and dairy-free and, with these tasty crusts, I can add olive oil, garlic, diced tomatoes or tomato sauce, shrimp, veggies, whatever. My kids use the (more affordable) regular pizza crusts that, but these ones are all mine!
+
+product/productId: B002C1CWLA
+review/userId: A38A9MCP9LF0VD
+review/profileName: Blair
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1337644800
+review/summary: Not all that bad
+review/text: I'm sad to say that this may be as good a product as you can find in the GF pizza category.  It does crisp up nicely, but it's really not all that different from a communion wafer in taste and texture. That said, I think if I had used better quality ingredients over the top of it, this might have been a pretty good pizza. Mea culpa.
+
+product/productId: B002C1CWLA
+review/userId: A18EI9RGOSFVQC
+review/profileName: Abe the "Amazon Guy"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335225600
+review/summary: PRETTY GOOD, BUT NOT LIKE PIZZA CRUST
+review/text: BOTTOM LINE<br />If you are expecting a rising pizza crust, such as what you might get from standard pizza dough, then you'll need to look elsewhere.  That being said, these are pretty good in their own right.<br /><br />TASTE<br />I rather like the way these pizza crusts taste after being toasted up.  They soak in flavor from sauce or cheese well, without becoming soggy or wilted.  They have a good bread flavor on their own, also, and make a good base for a BBQ chicken or BBQ pulled pork pizza.<br /><br />TEXTURE<br />I think the texture is the only thing I can complain about with these - the Schar Crusts are a little more dense than I would like.  However, this is a usual complaint about all gluten-free items.<br /><br />SIZE<br />These are definitely personal pizza sized.  With sauce, cheese, and toppings on this crust, I can usually eat about 1/2 to 3/4 of a pizza on my own.<br /><br />USES/ VERSATILITY<br />If you can expand your mind beyond making just pizza with red sauce and mozzarella, then these crusts are quite useful.  I personally love them with some BBQ sauce and chicken.  They make a nice bread/ carb base for anything I might otherwise eat on flatbread.  As a gluten-free option, these crusts are a wonderful thing to have at your disposal.
+
+product/productId: B002C1CWLA
+review/userId: A2HBYQFZMB3L54
+review/profileName: ABBY
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1324512000
+review/summary: it is fast pezza but not that good taste
+review/text: it is ready for topping<br /><br />no need to put in fridge<br /><br />but it is not that good taste<br /><br />a little chewy<br /><br />it needs improvement
+
+product/productId: B004UA53DU
+review/userId: A3N652JFUS0GGJ
+review/profileName: Frances E. Giles "Frances"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332720000
+review/summary: Tasty Topper
+review/text: I got this at a true bargain price and am pretty surprised at the quality. It's tasty alone on pasta, but one can easily add ingredients to it and pump up the flavor. I'm happy with the quality.
+
+product/productId: B004UA53DU
+review/userId: AHLKR9EPPZJXY
+review/profileName: maandrs4
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1339113600
+review/summary: Deceptive advertising
+review/text: This ad leads you to believe that you are getting a total of 8 jars of sauce (4 two-packs)when compared to the single jar price.  Beware as you will only receive 4 jars (2 two-packs).  You are better off purchasing the single jars as the cost per jar is much less.
+
+product/productId: B000Q3Q9D8
+review/userId: AV6L99W0Y9LLP
+review/profileName: Proberta Gerber "wine snob"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1210377600
+review/summary: Just enough crunch!
+review/text: Unlike one uphappy reviewer, I was pleased to open my jar of Branston Original and discover that it was just as crunchy and just as flavorful as the last time I'd had a Ploughman's in a pub in the UK.  I'd never had anything like it here in the US and was delighted with it on first acquaintance.  It's a pungent explosion for the tastebuds and a nice crunch for the choppers, too.  I will admit there is a bit more of the sauce-y stuff, in proportion to the crunch, than I like -- hence the four stars instead of five -- but on all other points, this pickle in a jar compares very favorably to what I recall having fresh.  I've also ordered the Heinz Ploughman's pickle through Amazon --  not so much crunchy stuff, way too much "sauce," and not as good a flavor (blander) IMO.  This Crosse and Blackwell comes in a good sized jar for the price and is well worth ordering.
+
+product/productId: B000Q3Q9D8
+review/userId: A1ZZBAHWGTNMAD
+review/profileName: C. Thomas "Straight to the Point In Colorado"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1186876800
+review/summary: A little bit of England in a jar
+review/text: My husband came over from the UK about ten years ago. When he first arrived here in the states there were very few companies importing at least from a retail product standpoint many of the things he missed. If you have never had "pickle" with very nice cheese and artisan bread you can not even begin to image what you are missing.
+
+product/productId: B000Q3Q9D8
+review/userId: A2XH1FGIBW2KXJ
+review/profileName: Isaac VanDuyn
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1209945600
+review/summary: Not crunchy = Not Branston
+review/text: If you've ever had good, fresh Branston pickle in England, you know that the vegetables within are crisp and crunchy. Unfortunately the jars of Branston pickle that I was shipped contain disgustingly mushy vegetables. I am completely disappointed, and frustrated that I spent so much money getting three jars of this shipped, and also ruined a perfectly good cheese sandwich.
+
+product/productId: B001EO6ATQ
+review/userId: A2M9GOZK92BX1L
+review/profileName: M. Morgado
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1230336000
+review/summary: Excellent coffee
+review/text: Great tasting coffee. Very strong and earthy flavor to it. Even though it comes already ground it manages to conserve a rich and bold smell. Highly recommend it.
+
+product/productId: B001EO6ATQ
+review/userId: A1VJ9DHS4GTNDE
+review/profileName: Sharyn Wingate
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1282348800
+review/summary: The Best Coffee Yet!
+review/text: This Certified Organic Camano Island Coffee Roasters Sumatra coffee is the best pre-ground coffee I've ever tasted. It's so good as a matter of fact that I'm only going to be drinking it from now on. I've been grinding my own Sumatra organic coffee at Fresh Market or French Roast at Whole Foods. However, this coffee is every bit as good. It has a deep, rich flavor that is incomparable! I'm a true connoisseur of great coffee, and this fits the bill entirely. I haven't tried Camano Islands Coffee Roasters' other coffees, but I am certain they are superior, too. Other things that make their coffee special besides being organic (which means no sprays or preservatives of any kind!) are that they're shade grown, fairly traded, and support 39 villages worldwide through [...] If you haven't tried Camano Island Coffee yet, try some today. You'll be delighted you did!
+
+product/productId: B001EO6ATQ
+review/userId: A14BIDI4VCLF69
+review/profileName: I. or R. Mohr
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1273622400
+review/summary: Sumatra Dark Roast Coffee
+review/text: The coffee was shipped on time, has a good taste, but could have been roasted more since it is classified as a dark roast.
+
+product/productId: B001EO6ATQ
+review/userId: A6TA59SP2W4DC
+review/profileName: lowelaw
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1317859200
+review/summary: Terrible Coffee
+review/text: I love Sumatra and this had all the earmarks of being a premier brand with certified green cred.<br />Only problem is it tastes terrible.<br />Starbucks offers a much beter coffee at a lower price.<br /> Still searching for that perfect cup of Sumatra.<br />Don't buy this one, but tell me what you would recommend.<br />LL
+
+product/productId: B001EO6ATQ
+review/userId: A15SA1HFUOHNAE
+review/profileName: Just A Guy, Trying To Teach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: This coffee newbie loves it!
+review/text: I just wanted to add my opinion as a non-coffee connoisseur.  I picked this product as my first bag of coffee because I wanted to buy something relatively environmentally friendly and pre-ground.  And I must say, that it produces delicious coffee.  I drink it black, prepared in a standard drip coffee maker. It comes on a bit bitter at first, although not unpleasantly so, but after the first couple of sips, it's all smoothness.  If you're a coffee beginner like me, it's a pretty good way to go!
+
+product/productId: B001EO6ATQ
+review/userId: A3KETMOEOYNNI3
+review/profileName: Post-Amerika
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: My second blend from Camano Island Coffee Roasters
+review/text: This was my second experience with Camano Island Coffee Roasters, and I will say that it was definitely as fulfilling as the first.<br /><br />I have always been a dark roast drinker as I love the full body and the complex flavors typically offered by the darker roasts. This coffee is no exception, really. The flavor of this coffee is incredible, with its initial sweet tones and lasting earthy tones. When I say earthy, I don't mean it has the taste of dirt or sand. Its flavor isn't too intrusive to the palate as a less quality blend usually is, but it never leaves you wanting more body due to the roast itself being weak.<br /><br />Keep in mind that I use this blend in my coffee press and have never used it in a drip machine (due to the lack of access to one). All that I have made coffee for agree that this is the best blend I've had.<br /><br />I highly recommend this blend.
+
+product/productId: B001EO6ATQ
+review/userId: A31FFZ0FIHV0Q
+review/profileName: Steve S
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1301616000
+review/summary: Received wrong product
+review/text: This is good coffee, and I have ordered it several times. On my most recent shipment I ordered ground coffee but received whole bean coffee. ;-(
+
+product/productId: B001EO60DC
+review/userId: AU4REBXDVRTDV
+review/profileName: Kelly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322438400
+review/summary: My favorite
+review/text: This is my favorite hot cocoa!!  I am lactose sensitive (not intolerant) so I cannot make hot cocoa "with" milk.  (I can handle it having some milk as an ingredient.)  I was looking for one that tastes very good that can be made with water.<br />I do use three very large heaping Tbsp for about 10 oz of water.  The cost was irrelevant to me, I expect to pay for a good hot cocoa--I was not looking for Swiss Miss or Nesquik.<br />I am very picky but I should disclose that for the record I do NOT like the bitter cocoa.  (if you do, this is not the drink for you)  This was not too sweet to me because I expect "some" sweetness" in a cocoa.  But if you like bitter cocoa, look elsewhere.  I did not like the chocolate raspberry cocoa Pacific Dessert Co. makes (Black Forest I think) because I did think it was a little bit too sweet.  Nevertheless, this white chocolate almond flavor is fabulous!!  It mixes quite well with a shot of Frangelico on a cold evening too. :-)
+
+product/productId: B001EO60DC
+review/userId: A2MUGFV2TDQ47K
+review/profileName: Lynrie "Oh HELL no"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1321315200
+review/summary: Directions and Nutritional Facts Incorrect
+review/text: The Directions indicate "Heat 6oz of water or milk" "Stir in 3.5 Tbsp. of cocoa mix"...<br /><br />It is entirely too sweet and difficult to dissolve those amounts. It probably should be 3.5 Tsp (teaspoons) THEN each package could reasonably yield 8 servings. I've played around with the amounts to suit my liking BUT this is an expensive experiment not likely to be repeated.
+
+product/productId: B004FF71HQ
+review/userId: A15LU5JO3N2PLF
+review/profileName: mslynn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291680000
+review/summary: Make an EXCELLENT Margarita!
+review/text: I've tried products such as Baja Bobs which has icky aspartame, with a bad after taste.  Go Cocktails has taken it to a new level sweetening their products with what is essentially Splenda.
+
+product/productId: B004FF71HQ
+review/userId: A19J27JD7HVEOR
+review/profileName: fcr1
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298419200
+review/summary: Great Taste AND Sugar Free!
+review/text: I am not too sure how these guys do it. I am from south florida and have definitely had my share of margaritas. These taste just as good or better than anything I have had in the past. They are so smooth. Not only that but they are sugar free.
+
+product/productId: B007FRCNCE
+review/userId: AE9BR33LYEO39
+review/profileName: B. A. McDonald
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1253145600
+review/summary: Great night time pain reliever
+review/text: I was taking prescription medications to relieve my night time pain and allow me to sleep.  They didn't work half as well as Teavana Tranquil Dream.  I'm no longer taking the medications, only the tea.
+
+product/productId: B007FRCNCE
+review/userId: A2RKL3Y3YV0D50
+review/profileName: Susan Kornblut "marathon woman"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1266364800
+review/summary: Great Herbal Tea Teavana Tranquil Dream
+review/text: I got this tea Monday and I made some right before I went to sleep.I usually drink sleepytime extra but this tea actually helped me sleep better more soundly and I do have sleep problems but I rested peacefully after drinking this.I love teavana teas they are great!<a href="http://www.amazon.com/gp/product/B001LUYN7Y">Teavana Tranquil Dream Herbal Tea, 2oz</a>
+
+product/productId: B007FRCNCE
+review/userId: A2EG7IWLQIXQMX
+review/profileName: Zachariah Green "Zachariah Green"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1300320000
+review/summary: Great Tea!
+review/text: This is one of my favorites... Most relaxing teas have a very floral and light flavor, this tea is blended with citrus and gives it a great zing.
+
+product/productId: B007FRCNCE
+review/userId: A6RYFVQWM9ZY1
+review/profileName: Donna Brenneis
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348531200
+review/summary: Excellent tea as usual from Teavana.
+review/text: Teavana sells wonderful teas and Tranquil Dream is no exception.  This combo tea actually works better than plain camomille.  If you need to take a nap during the day, or get to sleep at night try this tea.  Highly recommend.
+
+product/productId: B007FRCNCE
+review/userId: AA74FU94J8EKY
+review/profileName: H. Saunders
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306886400
+review/summary: Absolutely Delicious and Relaxing
+review/text: I love Teavana teas and am glad I found this one.  So delicious and it relaxes you before bed...or whenever you want to relax.  I add a little liquid lemon stevia and it is amazing!  Try this one you will not be disappointed!
+
+product/productId: B007HP5FLK
+review/userId: A24I385SD9BV06
+review/profileName: Dragonflower
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335225600
+review/summary: Red Matcha tea made from Rooibos
+review/text: I think there is a wrong description of this tea listed at the moment, this tea is made from the rooibos plant.<br /><br />I bought the tea since I do love the Japanese green matcha tea, but that is so energizing I don't want do drink it at night. Plus I wanted to try something new.<br /><br />I found that there are only about 3 companies who do sell red matcha. I tried this one from Red Leaf Tea since I saw that they had many different types of matcha available, even black and white matcha. So they appear to be matcha specialists! I sometimes cannot wait for my shipment of green tea to arrive from Japan, it takes so long. I was happy to find Red Tea and they are an American company, the shipping was fast!<br /><br />I love the red matcha, it has its own sweet flavor, I liked it without sugar or cream. It is very thirst quenching. I haven't tried it iced, but I read that it is wonderful as an iced tea or iced latte. I only bought the small size so I am conserving. I am using the rest to make just plain, I just add hot water and whisk or stir. It is absolutely delicious without anything added. It foams up pretty nicely also! I should have bought the bigger size from Red Tea. I was trying it for the first time.  Now I have another tea I like as much as green tea matcha!<br /><br />This red matcha is very healthy and FULL of anti-oxidants, even more so than green tea! It is a good tea to drink at bedtime since it is relaxing, but it also makes a good daytime tea.  I think this tea will be revitalizing if you need and relaxing if you want, it is unique.<br /><br />Try this: add some red tea matcha to warm milk or soymilk (any kind of milk) with your favorite sweetener. YUMM!<br /><br />I put some of the matcha in lowfat 1% milk with some vanilla agave syrup (I didn't have plain agave) and then used my espresso machine's steamer to foam the milk and create a delicious dessert.  I was a little embarrassed to try to get every little bit of foam out of my mug, so I made a second serving!  I still got every bit out of the mug at the end, that is how good it is!
+
+product/productId: B004O26ZRW
+review/userId: A7ODG8XCKHF2V
+review/profileName: Maria A. Witkowski
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1328745600
+review/summary: Great!
+review/text: I actually just tried this today BUT I bought it from Big Lots in Carrollton, TX. a box of 20 teabags for $2.00!!  I'll have to go back and buy more. Big Lots gets different items in all of the time and they don't necessarily last. The exp date on this is 2014 so it will last.
+
+product/productId: B004O26ZRW
+review/userId: AFU4E0FKGUQ7A
+review/profileName: W Everett
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326326400
+review/summary: Doesn't get better...Really...
+review/text: This is a fantastic tea. A wonderful black tea with the fruity taste of currants. Strong yet not overwhelming. Among the finest teas made. This is a great delight to drink and should be in every household. You can have your Latte cappucino frappe 40 bar pulled espresso with creme. As for me this tea outshines the coffee crowd by a mile.
+
+product/productId: B004O26ZRW
+review/userId: A32OF69DCWJPQR
+review/profileName: Jeff Brodsky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Best Tea In The World! Hot or Cold!
+review/text: I was a 5-cup aday extra bold coffee drinker. On a trip to India last year, I got a bad cough and while there, I decided to just drink tea. The hotel I was at served Dilmah Blackcurrant. The flavor was wonderful. I bought some while in India and have been drinking it ever since. I have not had a cup of coffee now for over 7 months. My wife is ecstatic. In 37 years of marriage she never had a cup of coffee and only drank Lipton Tea. I asked her to try this tea and she is hooked too! So is my 13 year old grandson (he makes iced tea with it). This tea is not only great tasting - it's one of the best thirst quenchers you can have. I always carry their tea packets with me (as does my wife). When in a restaurant, instead of paying up to $2.50 for a cup of tea, I ask for a cup of hot water (free)! Servers have even commented how smart that is. I've since tried many different Blackcurrant teas from vatious companies. None of them have the Dilmah flavor. I hope you enjoy it as much as I do! Cheers!
+
+product/productId: B005FO3558
+review/userId: A1G55W5EVKEPHG
+review/profileName: Mom of 2
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1330560000
+review/summary: A little disappointed
+review/text: These noodles are called buckwheat noodles but the first ingredient is  wheat flour, then buckwheat flour and then yam flour.
+
+product/productId: B000GAS33U
+review/userId: A2M9D9BDHONV3Y
+review/profileName: A. Bennett
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1282089600
+review/summary: Delicious!
+review/text: I like using lime or lemon in my tea that I drink everyday and this lime is absolutely delicious.  It adds a nice tart flavor but does not overwhelm the taste of the tea.  I will be buying this product again and highly recommend it.
+
+product/productId: B0045H0C8O
+review/userId: A24NDDVA4YIQ33
+review/profileName: Timothy R. Cherepko
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1321488000
+review/summary: Best Brown Mustard Ever
+review/text: When I was little, my grandfather always made me braunschweiger sandwiches with this mustard.  When I tried to make braunschweiger sandwiches myself, they were never as good.  I just revisited Heinz Spicy Brown mustard and it's exactly what all my sandwiches have been missing!  I thought brown mustard was losing its appeal to me over the years, and I'd leave it off kielbasa and other sandwiches, but trying this one again made me realize the other mustards just aren't as good.  Pap-pap spoiled me :D.
+
+product/productId: B0045H0C8O
+review/userId: A1TGOEF05EEB64
+review/profileName: Shoshona Perelman "Daughter of Zion"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1307491200
+review/summary: Best Brown Mustard... Ever!
+review/text: I never cared much for any of the brown mustard brands out there. Then I tried Heinz. My taste buds woke up, my eyebrow arched & a smile crept across my lips (while licking them to get every last drop)... YUM!!! This IS the brown mustard that made me LOVE brown mustard! It has a delightful, sweet spiciness that truly enhances the flavor of foods without overwhelming/smothering the flavor of your food. Now I want nothing else on my Kosher hot dogs & sandwiches with everything from salami to turkey: anything else is second rate & I would feel like I'm wasting perfectly good food by settling for anything else! Try it, you'll like it! Try Heinz & enjoy!
+
+product/productId: B0045H0C8O
+review/userId: A2J4OXAPAR2ZT6
+review/profileName: frex
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324166400
+review/summary: Yum Yum
+review/text: Several years ago I was no longer able to find this product at any food stores in my area.<br />This was also the case of my two sisters who live in separate states and loved this product just as much as I.<br />Fortunately, I found that Amazon sold it and I have been getting deliveries to share with my family for several years.<br />This has made for a great Christmas gift and brings back good memories to those who receive it through the mail.<br />I use it daily with my ring bologna sandwiches; a tradition that I started fifty years ago.
+
+product/productId: B0045H0C8O
+review/userId: A3AUVR6PBLW95W
+review/profileName: Ron
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1303776000
+review/summary: Gulden's for the rest of us
+review/text: This mustard has a flavor that I equate with the mustard I used to have on hot dogs on the streets of New York.  Since I've lived in Los Angeles for the last 42 years, this Brown mustard and Hebrew National Wieners do a nice job of giving me great taste with a side of nostalgia.
+
+product/productId: B000EPR1KI
+review/userId: AQ6AGWKWMTY8H
+review/profileName: Pam Tee "mom,wife,fur-mom,book-blogger"
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1193529600
+review/summary: Mmm Good - a review of Mi-Del's Ginger Snaps
+review/text: I am the sort of mom who likes to bake my own cookies because 1) it's fun, and 2) I like to know what goes into them.  However, when that is not practical I buy these ginger snap cookies.<br /><br />I don't mind giving them to my family because they are mostly organic (70%) and they don't contain hydrogenated oils nor corn syrup.  In addition, they contain iron - from the molasses - which is  something you don't often find in a snack.<br /><br />Four Stars.  A superior product in my opinion.  The whole family loves them.  Even my extremely picky son.  The flavor is zingy with a definite bite and each cookie is only 26 calories.  One of the few store-bought treats that I have no problem handing out to the children.<br /><br />Pam T~
+
+product/productId: B000EPR1KI
+review/userId: A3W4DS7A60S011
+review/profileName: Jim
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1167696000
+review/summary: What a great cookie!
+review/text: My wife and I prefer them just a bit stale - leave them open for a day or so to get just the right amount of chew.  If you don't, they're very, very crisp (but still very good).  Snappy, even.  :)<br /><br />I'll also agree with the comment that they can be inconsistent from one bag to the next, but even when they're off, they're pretty good.<br /><br />As far as flavor goes, one person's spicy is another person's bland.  For my family, they're just the right amount of hot after a few cookies.
+
+product/productId: B000EPR1KI
+review/userId: A20HJEA1HZGJ39
+review/profileName: bookmage
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1158624000
+review/summary: yummy
+review/text: these cookies are a favorite of mine.  crisp, with just the right amount of ginger.  I don't know what the other comment is talkin about not havin enough ginger, my mouth gets very tingly when I eat them, and I think I like a lot of spice.
+
+product/productId: B000EPR1KI
+review/userId: ASVSP995Q24PM
+review/profileName: E. Paul Austin
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1275091200
+review/summary: All Natural Ginger Snaps
+review/text: When Whole Foods stopped stocking my favorite ginger snaps, I decided to get a 12-pack from Amazon instead of settling for the "365" brand, which had sugar as an ingredient, giving it a sandy texture in my mouth.  Mi-Del is the real deal and are great with coffee.<br /><br />Ingredients:  Organic unbleached wheat flour, organic dehydrated cane juice, canola oil, unsulphured molasses, ginger, baking soda, sea salt, soy lecithin (used as an emulsifier).  Product of Canada.<br /><br />Update:  I placed my order about 6-months ago and finally worked my way through the 12-pack.  They are not as fresh tasting now, of course but they still go great with my coffee and I consider them a healthy snack.  My sister thought they were too spicy but I love that ginger spice and just placed another order.
+
+product/productId: B000EPR1KI
+review/userId: AKMEY1BSHSDG7
+review/profileName: J. Arena
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1223942400
+review/summary: Good cookies!
+review/text: These cookies have a clean, crispy chocolate taste -- without the chemical-laced aftertaste of other commercially produced cookies. They are all-natural and made with canola oil, as opposed to the oils that can add to cholesterol problems. The ingredients are mostly organic and they are sweetened with dehydrated can juice, as opposed to the less-healthy commercial alternatives.<br /><br />Now, for the problem: I have never found these cookies in a market near me, and we have only purchased them through Amazon. Because these wonderful cookies are not pumped-up with weird chemical preservatives, the necessity of purchasing them in such big lots means that you are going to be eating a lot of cookies in a short period of time, or going in with a friend on sharing the case! However, given the high quality of this product, you should have no problem splitting up the order.<br /><br />Yummy and highly recommended!
+
+product/productId: B000EPR1KI
+review/userId: A3TMMA4FHNXZK5
+review/profileName: Joel A. Davidson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1158019200
+review/summary: have eaten these for years
+review/text: these are a great alternative to normal sugared ginger snaps. the taste varies depending on manufacturing date. you get fiber and get to eat cookies too! i like em better after the bag has been opened for a couple days - they get softer!
+
+product/productId: B000EPR1KI
+review/userId: A1TUD1CLIB3M9C
+review/profileName: Lillian F. Devin "nonnielfd"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1287792000
+review/summary: cookies, please!
+review/text: My husband loves these cookies; he is a man who watches everything he puts into his mouth and he enjoys these very much.  I must say, through Amazon these cookies are about 1/2 price of the grocery stores' prices.
+
+product/productId: B000EPR1KI
+review/userId: A3ERRMCUGMXDBZ
+review/profileName: Retail Rookies "Retail Rookies"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1197590400
+review/summary: Much too good to eat
+review/text: These ginger snaps are some of the best I've ever had. They may be a little hard for some people, but I find the crunch satisfying. Great flavor without being too gingery.  Too easy to eat a whole bag - I have to exercise control!
+
+product/productId: B000EPR1KI
+review/userId: ALPISIY10VCSY
+review/profileName: Jylle L.
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1308873600
+review/summary: Whoa! That's quite a price increase!!!
+review/text: These are delicious cookies but I just cancelled my subscription. I hope the price comes back down so I can buy them again. They are the best ginger snaps I have found so far but the price is just too much :-(
+
+product/productId: B000EPR1KI
+review/userId: A39E5LG4KEJ1FA
+review/profileName: A. Blodgett
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291852800
+review/summary: Love these!
+review/text: These are my favorite ginger snaps & I was so pleased to be able to order these in bulk from Amazon.  I even got my first order from Amazon Warehouse so they were deeply discounted.  These are great with peanut butter.  Yum.  I also like to crush them up a little in my mortar & pestle & mix them into my granola.  They also make good cookie crumb pie crusts.  There are so many great uses for these including of course just eating them out of the bag.
+
+product/productId: B000EPR1KI
+review/userId: A37CENQP0ZNKVE
+review/profileName: sailor "sailor hill"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1280361600
+review/summary: Crunchy Little Cookie - Delicious
+review/text: My order for Mi-Del Ginger Snaps arrived a few hours ago and I tried my first one ... okay, I'm on my 10th cookie now.  My first bite of one I noticed it had a hard crunch.  I like crunchy cookies, others may not.  I read here that you can leave the top opened on the bag overnight to soften them.  The cookie is about 3-4 bites worth.  On my first bite I could feel a little tongue tingle.  Each subsequent bite produced the same warm tingle and THAT is what puts this ginger snap in a class of its own, never losing that 'bite'.  It's not too overdone or underdone on the spice, it's a perfect little cookie.  Not to mention they are 26 calories each, and ingredient that are pronounceable, this makes for an excellent little treat with coffee, tea, or vanilla ice cream.  Excellent product that I will purchase again.<br /><br />Note: Expiration date on the bags are December 17th, 2010 but I don't think they will last that long.<br /><br />--Sailor Hill, CA
+
+product/productId: B000EPR1KI
+review/userId: A79U8J58IYIPA
+review/profileName: richinname
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1261440000
+review/summary: Well worth the money
+review/text: I originally bought the Mi-Del cookies at a local odd-lots store over a year ago. I felt a sense of loss after the store stopped carrying them, since no other local grocer stocked them. So I was glad to see that they were available, albeit in bulk quantities only, via Amazon. I love these cookies, and best of all, they're about as healthy as you can find anywhere. I have to watch my intake of saturated fats, and per 5-cookie serving, the Mi-Del snaps have zero grams of sat-fat. They're delicious, with a nice, somewhat subdued chocolate flavor and a crunchy snap. I keep them in the fridge and they maintain their freshness for MONTHS. Twelve packages may seem like a lot, but I look forward to devouring every one of them. I've also tried the vanilla and lemon snaps, and they're equally outstanding.
+
+product/productId: B000EPR1KI
+review/userId: A11UYXBOCF6RA2
+review/profileName: A. wooten "Tea Drinker"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1249862400
+review/summary: Pleasantly Surprised
+review/text: I've seen these for sometime in my local grocery store, but was reluctant to buy them. From the packaging they look hard and tasteless. It turns out that they are the perfect amount of softness to dip into English tea and still hold up. And they taste wonderful. Love them.
+
+product/productId: B000EPR1KI
+review/userId: A583F1SRHI178
+review/profileName: Michelle Timothy "Michelle"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1232150400
+review/summary: My Favorite Cookie of All Time
+review/text: This is the cookie that is the bain of my existence. I absolutely love it.<br /><br />They taste best when they are really fresh so if you buy this 12 pack dont wait 6 months to eat them all ... they dont have a long shelf life ... they get hard and loose flavor even if you never open the bag. This is probably because they are made with natural ingredients and dont have the preservatives found in other cookies.<br /><br />But honestly i love these cookies they are sweet, crisp and very gingery ... even my sister and brother in law who don't eat anything "healthy" or "organic" because they think it wont taste good, where impressed with the taste of these cookies.<br /><br />Now they are hooked too and buy them all the time.
+
+product/productId: B000EPR1KI
+review/userId: A2U74CFOYPDAUX
+review/profileName: Curious Cat
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1225497600
+review/summary: A Great Dunking Cookie
+review/text: This cookie stands up very well to dunking in milk (about three dunked bites per cookie), and with mostly organic ingredients is about as guilt-free as possible in a cookie. We like a crisp ginger snap, and while the bag isn't self-sealing it seals well if you have a clip. We find the ginger level to be just right -- not overpowering, but definitely there.<br /><br />One correction to the ingredient list posted on this site -- there's no grape juice concentrate in the cookie, according to the bag I'm looking at right now and the Mi-Del website.<br /><br />Per serving size of 5 cookies: Calories 140; Total Fat 4g; Carbs 22g; Fiber 1g; Sugars 11g.
+
+product/productId: B000EPR1KI
+review/userId: A33FFN7LHG1F9U
+review/profileName: Shop-til-you-drop DIANE "I want it ALL-I want...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1207526400
+review/summary: So good people are taking them from me!
+review/text: These cookies seemed to be a pretty good deal when I saw that there was a special offer on them. I LOVE cookies (who doesnt??) but am kinda picky about texture. I dislike soft mushy cookies although if desperate...but I know that "snap" cookies are usually not soft so I took a chance and ordered a case!  I live alone so a case of cookies was, at once, both frightening and decadent---but I think I am going to have to order another case!  Everyone who tasted these asked me "so where did you find these?"  Of course, since I am the online shopper from hell, everyone figured I found some obscure website and paid a fortune. "Natural" and "Organic" are buzz words for "gonna cost ya more" but the price was great per bag. After I told my friends and family who tasted them that I ordered a case---the bags started disappearing pretty fast! I got hit with guilt---What are YOU going to do with 12 bags of cookies? (duh--eat them!) and everyone was very happy to lighten up my stash by taking a bag so I dont overeat! Dont I have the BEST friends and family??? LOL  Seriously--I was happy to hand them over! I enjoy turning people on to new finds. I gave a bag to my Parcel Post guy and my UPS guy (after all--they lug all the boxes to my apartment!) and they were happy! And there is a method to my giving-away madness (especially to the carriers)! Less dropping and throwing around of MY boxes!<br /><br />Ok--they are nice and lemoney (?) but they could even be a bit more lemon-like for me! They are made with more healthful ingredients (no trans-fat) so even though I am pigging out on cookies--I dont feel nearly as guilty! And at less than $2 a bag--I think they are a greal deal! Plus it never hurts to have extra cookies in the house because a cookie emergency can happen at any given moment!  So--order them!  I think you will be pleased!
+
+product/productId: B000EPR1KI
+review/userId: AKMEY1BSHSDG7
+review/profileName: J. Arena
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1200355200
+review/summary: Peace, Love and Ginger Snaps!
+review/text: Crispy, chewy and intensely flavorful -- WOW, they are just great. I've loved ginger snaps since... forever. So, I've tasted lots of brands both good and bad. Some of them have no ginger taste at all -- We like to call them "flour snaps!"<br /><br />Mi-Del Old-Fashion, Swedish Style Ginger Snaps have great taste, healthful ingredients, and I highly recommend dunking in some hot coffee or tea for even more of that comfort food feel!<br /><br />If you don't like them... Well, I can only quote The Lovin' Spoonful:<br />"It's like tryin' to tell a stranger 'bout rock and roll!"
+
+product/productId: B000EPR1KI
+review/userId: AKMEY1BSHSDG7
+review/profileName: J. Arena
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1200268800
+review/summary: GREAT taste!
+review/text: Mi-Del Old-Fashion "Swedish Style" Lemon Snaps are a crispy, chewy, lemony delight! If you are always in search of healthy snacks that aren't short on flavor, these are the cookies for you.<br /><br />These Lemon Snaps are made with organic unbleached wheat flour, canola oil and natural lemon flavor -- there's no artificial "lolly-pop" lemon taste here. You can just imagine squeezing the lemon into the mix, yourself.<br /><br />Five cookies have 140 calories, so it's not too much for a little something to get you through your day, or after dinner as a light dessert without the guilt.<br /><br />Highly recommended. Yum!
+
+product/productId: B000EPR1KI
+review/userId: A1I34N9LFOSCX7
+review/profileName: Smeggy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1193184000
+review/summary: fantastic!
+review/text: i have to agree that these are delicious tasty cookies.  i'm not a vegan & i don't have a problem eating gluten. i just like yummy cookies & these cookies are yummy!
+
+product/productId: B000EPR1KI
+review/userId: A3K35M7ZHDNWUB
+review/profileName: cookiemonsterr "cookiemonster"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1191628800
+review/summary: the best
+review/text: ya cant stop eatin them,they are so good,my friends are addicted to them,,were all gonna explode
+
+product/productId: B000EPR1KI
+review/userId: A36WGHR8TO5DKT
+review/profileName: Goldwave "shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344297600
+review/summary: Classic Great Cookies
+review/text: These are healthful, smallish (about the size of vanilla wafers), tasty and flavorful snappy cookies.  They are sweet but not overly so and have a bit of that molasses taste that ginger snaps are known for.  They have a really nice ginger bite too.  They are great to have with some tea, milk or even coffee.
+
+product/productId: B000EPR1KI
+review/userId: A2XPT88W2XGTU2
+review/profileName: KBY
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344297600
+review/summary: Best ginger snaps
+review/text: Look, I love ginger. Ginger ale/beer, pickled ginger at sushi restaurants, ginger salad dressings... and I love ginger cookies. I have tried who knows how many other brands of ginger snaps and _none_ are as good as these. Mi-Del ginger snaps are the MOST gingery. Spicy. I love how snappy they are.<br />If you are really a fan of ginger, real spicy ginger, then these cookies are for you.
+
+product/productId: B000EPR1KI
+review/userId: A2Z82NQ5XVGZC0
+review/profileName: Susa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336953600
+review/summary: Lots of Ginger Snaps
+review/text: Mi-Del Swedish style ginger snaps are delicious and nutritious!  They are made with organic flour and ginger, and are great with any meal- especially with coffee or tea.  It is not easy to find these treats in a market- and ordering from Amazon is quick, easy, and cost effective.  They arrived promptly, without one broken ginger snap. Thanks, Amazon!
+
+product/productId: B000EPR1KI
+review/userId: A1LYZQDDYM3VKW
+review/profileName: kristina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: ginger snaps
+review/text: I eat these snaps by the pound, everyday, all day.  Anything ginger tastes good to me.  I'm signing up for the auto-ship, otherwise I'd make umpteen trips to the store.  Finding a cookie with unsulphured molasses is difficult & a requirement for me - I'm anaphylactic to sulphur.<br />My husband is now munching them too, so I'll have to double my order!<br />Thanks Mi-Del!  :)<br />Kristina
+
+product/productId: B000EPR1KI
+review/userId: A2MH45450030H0
+review/profileName: Shana Banana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324598400
+review/summary: Awesomely good
+review/text: These are great. You can't tell they are gluten free, they are just great ginger snaps. No after taste.  Super crispy.  May have to try some of the other flavors.
+
+product/productId: B000EPR1KI
+review/userId: A461VTLW9G9YB
+review/profileName: Dance Dance Dance
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323216000
+review/summary: past
+review/text: About five or six years ago I used to buy mi del cookies weekly hoping that the cookies wouldn't add inches to my waist line. From what I rememeber , it was really yummy but had to stop buying them because it's expensive.
+
+product/productId: B000EPR1KI
+review/userId: A2NQWPJ8EBWM3L
+review/profileName: rural girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: great cookie
+review/text: I've been eating these cookies for years and years and they are so good - perfect texture, perfect taste - this is a great price - you can't go wrong with these healty ingredients.
+
+product/productId: B000EPR1KI
+review/userId: A3ABSJBA8EHW34
+review/profileName: Ellen P. Lafleche-christian
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306368000
+review/summary: Excellent homemade taste!
+review/text: I love to bake but I don't always have time.  When I'm really busy, I buy MI-DEL cookies because they taste as good as homemade. My favorite are the ginger snaps. They're crunchy with a real authentic ginger snap taste. I love knowing that they're all natural and the kids LOVE them.
+
+product/productId: B000EPR1KI
+review/userId: A2WQI10P2UZ8VB
+review/profileName: Sunrise
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301443200
+review/summary: Best cookie ever!!!
+review/text: Yes, they're hard and really spicy, but I like it!  And what other cookie can you eat 5 of for only 140 calories and 11 grams of sugar?  And ginger is an anti-inflammatory spice that is good for headaches, arthritis, high blood pressure, you name it!  And they're made with whole wheat and no refined sugar... Wow, this is the world's most perfect cookie!
+
+product/productId: B000EPR1KI
+review/userId: AJG3A1ZWNB36F
+review/profileName: Tea lover
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252800000
+review/summary: Cookie Monster
+review/text: Love them, very "gingery".  Great with your favorite tea or coffee.  Love that they are using natural ingredients.
+
+product/productId: B000EPR1KI
+review/userId: A2442VURCNE01O
+review/profileName: djanes1
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243555200
+review/summary: The Greatest Snap I Have Ever Snapped
+review/text: I dip these in my coffee -- alone they are probably a bit too crisp.  However, these have excellent flavor and a great ginger burn after you've had 5-10 of them.  Highly recommended.
+
+product/productId: B000EPR1KI
+review/userId: A3BSTFFIKK5YTW
+review/profileName: BOATS99 "BOATS99"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1211846400
+review/summary: JUST OKAY
+review/text: Cookies are a little to hard for for me they taste okay but would not buy again sorry that's my review !
+
+product/productId: B000EPR1KI
+review/userId: A1WX42M589VAMQ
+review/profileName: Mir
+review/helpfulness: 2/4
+review/score: 2.0
+review/time: 1165363200
+review/summary: Not Very Chocolately, A disappointing texture and flavor
+review/text: I bought these cause I'm a chocolate snap lover, and I had been craving some. The lack of trans fats and description drew me in.<br /><br />Let's just say this: I took these over to a family party, and none of the kids liked it. NOT ONE. And most of the adults, the best they could say was, 'Eh.' I think two folks had more than one.<br /><br />I'd have to say skip these cookies. They don't make your mouth sing with chocolatey snappy joy.
+
+product/productId: B000EPR1KI
+review/userId: AQMHIYKHRGVK4
+review/profileName: Bevie
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1216598400
+review/summary: So So
+review/text: I received the Lemon Snaps faster than expected, but one of the bags was missing from the order. The cookies are ok, but not much lemon flavor. I give them a 5 out of a 10 rating.
+
+product/productId: B000EPR1KI
+review/userId: A3ERRMCUGMXDBZ
+review/profileName: Retail Rookies "Retail Rookies"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1207353600
+review/summary: Not My Idea of Vanilla Snaps
+review/text: I absolutely love the Mi-Del ginger snaps, so I thought I'd try these in vanilla, thinking they'd be just as tasty.  Unfortunately, they didn't have the vanilla flavor I'd hoped for, and I wasn't crazy about their consistency.  They almost seemed stale, although I'm sure that's not the case.  As I actually prefer the name brand vanilla snaps, I gave these away to my local food pantry.
+
+product/productId: B000EPR1KI
+review/userId: A2RVITCCMBYAP9
+review/profileName: B. A. Cooper "world traveler"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1206403200
+review/summary: Healthy snaps that taste good, too
+review/text: I ordered both the vanilla and the ginger snaps, and like both kinds. The high quality organic ingredients provide a "guilt-free" eating experience. I'm not sure if kids would go for them, but will try them out on my nephews next time I get a chance. I ordered two 12-packs so will have cookies for quite a while. Mine expire 6/20/08 so don't buy TOO many in advance.
+
+product/productId: B000EPR1KI
+review/userId: AUFO5GFCYNRD5
+review/profileName: Kevin Harper
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1203465600
+review/summary: disappointing taste
+review/text: I like the fact that the Mi-Del cookies are low-fat and use some organic ingredients.  I love the Mi-Del lemon and vanilla flavors, and their ginger snaps are ok -- BUT these chocolate snaps are no good.  I'm a chocolate lover, so this is rather disappointing.  The taste is similar to the ginger snap, but it's off quite a bit - slightly bitter.  It's as if they didn't put enough sugar in these snaps to counter the bitterness of cocoa powder. It also has a poor aftertaste that's slightly bitter (the lemon snap aftertaste is awesome keeps me wanting more).<br /><br />Gotta give it 1 star - yeah, I ate 10 of these to give them a chance, but I threw away the rest of the bag. The crunch and texture is the same as the other Mi-Del Snaps, but the flavor is off.  Not Recommended.
+
+product/productId: B000EPR1KI
+review/userId: A18L1CVUIQRE9L
+review/profileName: Mary McKinney "PRINCESS MERI"
+review/helpfulness: 1/7
+review/score: 1.0
+review/time: 1194998400
+review/summary: OK
+review/text: These cookies are hard & somewhat<br />lacking in taste. We threw out half the bag.<br />Mostly because my children did not like<br />ginger snaps & my husband and I did not care for these.
+
+product/productId: B000EPR1KI
+review/userId: A2APBHKZCMD6DO
+review/profileName: X
+review/helpfulness: 1/9
+review/score: 1.0
+review/time: 1157587200
+review/summary: Blah
+review/text: Good aroma, good mouth feel, but the taste...flavorless.  Like a crunchy lump of flour.  Might help if they put some ginger in it.
+
+product/productId: B0001590BY
+review/userId: A28PHO540GK9US
+review/profileName: Becky St Andre "Becky"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: bought for honeycomb
+review/text: i needed this for a honey comb recipe i made and it was amazing. the taste is way different from honey so im so glad i did not substitute.
+
+product/productId: B0001590BY
+review/userId: A2K8YMC7J1WBMS
+review/profileName: Allen D. Shiley "Shinygamy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: There is no substitute
+review/text: This what you need to cook many English, Australian and other foods. There is no substitute for the flavor of golden syrup.
+
+product/productId: B0001590BY
+review/userId: A1QXD1630CL6XQ
+review/profileName: jbsilverspring "aerheart"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317600000
+review/summary: Great Service and Product
+review/text: Received in good time and the only reason I gave it 4 stars is that the tin was a lot smaller than I had expected for the price.  I guess we live in a time where everything is just getting more and more expensive and you get less and less for your money.  However the seller performed with great service and I love the product.
+
+product/productId: B0001590BY
+review/userId: A1L4RDILGM7D9E
+review/profileName: Paula
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314230400
+review/summary: Delicious
+review/text: This product is delicious. It has a very unique taste and is great by itself or in other things like baked goods. It has a beautiful orange-gold color. I also use it in some beer recipes that I brew. The can is also lovely, but once I open it, I store the syrup in a glass jar.
+

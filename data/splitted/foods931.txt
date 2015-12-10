@@ -1,0 +1,1143 @@
+product/productId: B007RTR89S
+review/userId: A18RO1TUN7N8HG
+review/profileName: Sarah
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338508800
+review/summary: This is a great shampoo
+review/text: I have color-treated (all-over blonde highlights) and very fine hair... but a lot of it! I originally tried the volumizing shampoo and condition by Clear but I needed more moisture. This one is great!<br /><br />Even with the first washing my hair was more manageable, styled better, and was so shiney and bright! One of the guys I work with said it looked blonder and asked if I just got it done!<br /><br />I know it has sulfate but my hair looks great anyway!
+
+product/productId: B007RTR89S
+review/userId: ATR2C537XOMQ0
+review/profileName: Midnight_Rain
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: shampoo
+review/text: I love this shampoo!!<br />my hair is silky and smells wonderful and the dirt<br />is gone! just one washing did it.<br />i color my hair and the color was brighter not dull and there<br />was no color rinsed out while washing.<br /><br />2 definate thumbs up!!
+
+product/productId: B00016LA9S
+review/userId: A1FNVXNEPWBZRR
+review/profileName: Vinya
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1298592000
+review/summary: Excellent Bouillon for Vegetable Dishes
+review/text: I haven't been a vegetarian for over a decade, but I still make a lot of vegetarian meals.  Better Than Bouillon (BTB) is one of my go-to ingredients for adding flavor to vegetable soup and stock, and also less expected dishes like pasta, or braised veggies and even stir-fry sauces.  Though shelf-stable when you buy it, the BTB needs to be refrigerated once open.  I keep mine in the door of the fridge for easy access, and can fit three or four varieties of BTB in the shelf where eggs are meant to be stored.  Though it takes up space in the fridge, it gives me lots more room in my pantry and freezer, since I'm no longer storing boxes, cans or jars of broth.<br /><br />I also like the flexibility to use the amount I need for a specific recipe.  I wouldn't always open a huge box of broth if I only wanted a splash of it to loosen a stew, for example, but I can easily use a 1/2 tsp of BTB in water and dilute my gravies without diluting their flavor as well.  You'd be surprised how many places you can ramp up flavor with this product.  I often use it in place of salt as well, particularly in saucy dishes where it blends easily.  The sodium content is comparable to other bouillon I've seen, but the flavor seems richer, so less is required overall.<br /><br />I'm not a nutritionist but I feel like I should comment on the reviews which blast BTB for adding MSG; as far as I can tell from my research, they don't add MSG.  Now, not *adding* MSG is not the same as not *having* any MSG, which is I think what confuses and frustrates some people.  MSG is a naturally occurring compound in some foods, but can also be isolated and added into foods where it doesn't naturally occur.  BTB *does* contain ingredients that have natural MSG in them, therefore it has some natural MSG as well, but is stating the truth when they say they don't use MSG as an additive.<br /><br />For what it's worth, completely avoiding MSG in a typical American diet can be quite a challenge.  I've gotten really horrid migraines for a long time and spent years cutting out all kinds of different foods, including MSG, to try to decrease the frequency of my headaches.  For me, MSG can make pain worse, but doesn't cause it to occur altogether.  My husband, being a thoughtful man, has made soups for me using BTB when I've been knocked out due to a migraine, and with the quantities we use in our cooking, I haven't had any problems.  Of course, your experience may differ.<br /><br />Overall, I highly recommend Better Than Bouillon's Vegetable Base.  It's an excellent way to add flavor to dishes, easy to use and undeniably better for you than most traditional bouillon cubes.
+
+product/productId: B00016LA9S
+review/userId: A23S5CE1321M5N
+review/profileName: Borderbumble
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1317081600
+review/summary: For those of you that are hyper about MSG...
+review/text: For those of you who are acting so hyper about MSG, consider this.  All cheese, meat products, soy sauce (including the naturally brewed shoyu without added MSG), oysters, clams, mollusks in general, and tomatoes are LOADED with MSG.  This is a naturally occurring substance in many fermented or aged products.  If you can eat cheese, enjoy your tomatoes, and tolerate naturally fermented soy sauce, think again about MSG reactions.  This info is coming from a biochemist and a physician who does a lot of nutritional therapy.  There are a lot of myths that are still being perpetuated, and this is no exception.  Even the tongue contains taste buds that are specific for detecting MSG.  So it's in your genes!<br /><br />As for this soup base, it's fabulous!!<br /><br />If you still have issues about the thought of consuming ANY MSG, then be prepared to stop eating all deli products, any mollusk, anything with soy sauce or other fermented bean product (including black beans, other soy bean products like miso, etc.), any aged milk curd, and anything containing a tomato, including pizza.  If you truly believe in the MSG ban, then put your money where your mouth is!
+
+product/productId: B00016LA9S
+review/userId: A1OS7KJRST7LJS
+review/profileName: Deborah Burnett
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1203206400
+review/summary: The REAL deal!!!
+review/text: I have used this product now for a number of years.  If you do alot of cooking and always need vegetable or chicken stock, this is all natural, no MSG(like alot of broths on the shelves), and is fantastic!!!!!  You only need 1 tsp. for 8oz. water,so its a great deal! Think about switching, you'll be glad you did,I promise!
+
+product/productId: B00016LA9S
+review/userId: AYMNMAQNGVQQU
+review/profileName: Husker Du "Pondering"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1219708800
+review/summary: Makes everything better.
+review/text: I love all their bases: chicken, veg, mushroom and beef.  Use sparingly, they are salty but so concentrated you don't need much.  Keeps great in the frig.
+
+product/productId: B00016LA9S
+review/userId: A2HKG8XR12YILG
+review/profileName: J. Bonello
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1233878400
+review/summary: Makes Tasty Red Beans & Rice
+review/text: For my fellow southerners who like to make a homemade pot of Red Beans & Rice, flavor your water with this vegetable base.  It's delicious!  Everyone always comments on how good my Red Beans are.  I buy the Camelia brand red beans, follow the directions on the label, but also add this flavoring to the water.  You'll love it!
+
+product/productId: B00016LA9S
+review/userId: AHB69RYYRF8N3
+review/profileName: Jeremy Gabbard
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1305849600
+review/summary: Give it up with the MSG
+review/text: First, the actual product: Love this stuff. Tastier than bouillon cubes, easier to deal with, and the price is comparable given the large number of servings. We live in a vegan household and wouldn't ever be caught without it. Having said that, it's usually about half this price at the grocery store, not quite sure why Amazon's costs so much.<br /><br />Second, to the MSG haters: there is going to be no such thing as an MSG-free broth unless you make it yourself. Make sure you leave out all naturally-occuring sources of it as well. Furthermore, a cursory search for medical journal articles doesn't turn up any reputable sources concluding that MSG consumed in the quantities found in this kind of product possess any adverse health effects. If you'd like to share some citations, I'll be listening. In the meantime, I'm going to continue to use this product in every soup/gravy/ice cream topping I eat.
+
+product/productId: B00016LA9S
+review/userId: AODNTUYXZGE5P
+review/profileName: A. B. Jackson "andreabjackson"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1144800000
+review/summary: tasty broth
+review/text: Although I usually use bouillon, I was fortunate in getting an opportunity to use the "Better Than Bouillon" which the family had begun using in recipes...Its only negatives are that it is in a glass container which must be recycled and it must be refrigerated once opened..its price is similar to that of Bouillon. 4/12/06  abj
+
+product/productId: B00016LA9S
+review/userId: A12HK54DZ8B2GX
+review/profileName: Emily
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336953600
+review/summary: Great Product!  Very Expensive!
+review/text: I have been using this product for years.  So easy to use.  Am not sure why it's so expensive on Amazon.  I get this same product/size at my grocers and pay $4.99 and I'm buying the Organic brand.  I didn't know how to rate this, so I rated it on the product itself.  It's such a convenience, but I'd never buy it here.
+
+product/productId: B00016LA9S
+review/userId: A24ETOT0M7WQF3
+review/profileName: Zoe P.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326067200
+review/summary: Great flavor;  Perfect for a quick soup.
+review/text: I love making quick veggie soups on the fly.  At less than $6.00 a bottle this is a great bargain.  Makes 38 quarts.  Considering that 1 qt of veggie broth costs $3.00 in the market.  I use this for chicken soups as well.  I like to creat quick soups by throwing whatever veggies (sometimes meat) I have in the fridge.  My favorite is throwing in mushrooms, napa, and baby bok choy and perhaps some rice noodles.  What is great about this product is you can use just a little to create one or two servings or you can use more to create a large pot of soup.  It will stay fresh about a year in the fridge once opened.  I use it often so this smaller bottle lasts me about 3 months.  Costco sells the larger bottles of beef and chicken but not the veggie.  If you are looking for an all-natural, all-organic broth then just make your own.  This base is perfect when you want soup fast.
+
+product/productId: B00016LA9S
+review/userId: A1WX1LDR9KM09L
+review/profileName: Carole F.
+review/helpfulness: 3/5
+review/score: 2.0
+review/time: 1327276800
+review/summary: Has MSG substitute and too much salt
+review/text: Buyer beware. Although there's no MSG, this contains hydrolyzed vegetable protein. Because of high levels of glutamate, people sensitive to MSG should avoid hydrolyzed vegetable protein (ref. Health Canada, 2009).
+
+product/productId: B00016LA9S
+review/userId: A3LAS30OO1SG63
+review/profileName: Paulette Salisbury
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1329868800
+review/summary: Delicious for coming off a cleanse, too
+review/text: We just came off a 7 day cleanse and in order to ease back into "normal foods", we drank a light broth made of the tasty No- Chicken Chicken broth. Very satisfying and delicious. I have been cooking with it for years and originally bought it at Whole Foods, but now even they don't carry it...just the chicken and beef flavors. We are planning an off-shore cruise and this will definately be in the larder!!!<br />Wish it came in larger containers. (By the way, my last shipment had 2 leaky jars from off-set lids...the seal wasn't even broken, but some of the product leaked out anyway. Better packing would probably help keep the jars and the product safe.)
+
+product/productId: B00016LA9S
+review/userId: A3E0J8MIGFSHXB
+review/profileName: Tom Plum "TC"
+review/helpfulness: 2/6
+review/score: 3.0
+review/time: 1223078400
+review/summary: Just like their beef variety, careful of the saltiness!
+review/text: Unable to get to a health products store, I got Better than Bullion vegetable base and the beef base. Both are way too salty if you are watching your daily recommended sodium intake it is listed at 21 percent for the beef variety (reduced sodium) and 30 percent for the vegetable base. It makes me wonder if there other products are this way too.<br /><br />It is something to consider and I've found powdered vegetable broths to be much more friendly in terms of low sodium.
+
+product/productId: B00016LA9S
+review/userId: AKI877NCQJH6T
+review/profileName: Emily
+review/helpfulness: 7/20
+review/score: 1.0
+review/time: 1267228800
+review/summary: hydrolyzed soy protein
+review/text: hydrolyzed soy protein = a form of MSG<br />Do a quick google search on it. There has been controversy involving the FDA about companies advertising "no MSG" or "no added MSG" when really the MSG is just given a different name under the ingredient listings.
+
+product/productId: B00016LA9S
+review/userId: A2O9WMB2EUTNME
+review/profileName: Karen Hill
+review/helpfulness: 13/32
+review/score: 1.0
+review/time: 1229904000
+review/summary: NO MSG?
+review/text: Even I was fooled into buying this organic vegetable paste (made from seasoned, concentrated vegetables with no MSG!).  Autolyzed yeast paste (the third ingredient) IS MSG.  Also soy sauce (the fifth ingredient) contains MSG, also autolyzed yeast extract (the ninth ingredient) is MSG, and the seventh ingredient, natural flavor, can include MSG.  Basically you think you are buying a healthy organic product with no MSG when in fact you are buying MSG (with a few healthy vegetables mixed in). It is criminal to be able to market this product as having no MSG.  When is health going to take precedence over profit?  Shame on us.
+
+product/productId: B00016LA9S
+review/userId: AKCTNU38AUJFI
+review/profileName: J. Coll
+review/helpfulness: 5/20
+review/score: 1.0
+review/time: 1235347200
+review/summary: Superior Touch, Please advise if there is ANY MSG in your product
+review/text: I have been using the Better Than Bouillon Vegetable Base for years.  I was in the process of ordering additional jars, when I read Ms Hill's comment, from December, 2008.  I reviewed the Ingredients listed on the jar and researched yeast extract and maltodextrin. There are very good articles on line, that explain how MSG can be "hidden", in the list of ingredients.  The articles indicate there are over 40 food ingredients besides "monosodium glutamate" that contain processed free glutamic acid (MSG). It appears that autolyzed yeast extract and maltodextrin are two of those food ingredients.  In addition, "NO MSG ADDED" does not mean that there is NO MSG in the product. If MSG is "processed into" a product as opposed to being "poured into" a product (just a matter of a different processing method), then a company can declare "NO MSG ADDED"  or "NO ADDED MSG", even though the product contains MSG.<br />Therefore, before I make an additional purchase,  I am asking Superior Touch --- Please advise if your Better Than Bouillon products actually contain any MSG.
+
+product/productId: B00016LA9S
+review/userId: A3HX5R3JUYRJTM
+review/profileName: Forouz
+review/helpfulness: 5/23
+review/score: 1.0
+review/time: 1293580800
+review/summary: ABSOLUTE FRAUD PRODUCT
+review/text: I used this product for a few years because i thought it was organic and did not have the junk common to other broths.  How false that was.  This product is chuck full of MSG, a neurotoxin known for its adverse excitatory effects on the brain.  The word Spices means MSG in food industry, so as other crap in it, including hydorlyzed vegetable protein.  This product is total fraud and health hazard.  Shame on you for your greed.
+
+product/productId: B00016LA9S
+review/userId: A2KG0IF89G7GOH
+review/profileName: Susan Oliver
+review/helpfulness: 0/19
+review/score: 2.0
+review/time: 1231286400
+review/summary: vegetable base
+review/text: <a href="http://www.amazon.com/gp/product/B00016LA9S">Vegetable Base</a>when i first bought this product at heb or randalls ,it wasn't a sauce ,so i bought this product,then i get it and its sauce,don't like it as well, but i used it anyway, it is good but not the same,taste did change,if i had to buy it again,i would.
+
+product/productId: B0001ZZGDU
+review/userId: A33N4U1V3EOX68
+review/profileName: marilyn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340755200
+review/summary: Yummie!
+review/text: This bar is very good. The carbohydrates and protein are more balanced than an Adkins bar. My husband is diabetic and hates nutrition bars. He loves this one.
+
+product/productId: B0001GU7SI
+review/userId: A23KZBVCFKW1XS
+review/profileName: IdaYooper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: 'Tiptree' Orange Marmalade (medium cut): Slightly Bitter, But Good!
+review/text: This is the fourth item from "Tiptree" that I've tried.  (Their "Little Scarlett Strawberry" is out of this world!  The regular "Strawberry" and "Damson" (plum) were also very good.)  Truth be told, I found myself a bit surprised at first taste; being it's somewhat bitter.<br />Aside from random U.S. marmalade's; I have tried one of "Mrs. Bridges"- a Scottish (orange) marmalade, of which, there was no bitterness.<br /><br />The previous reviewer said this one from "Tiptree" is made from "Seville" oranges; which neither the website nor my jar indicates.<br />However, I just read some info on "Seville" oranges, and they are supposed to be bitter (they come from the Mediterranean).  One page stated that no "pectin" is required.  Since this particular one does not contain "pectin" (as some other marmalade's of "Tiptree" do), this could very well be made from Seville's.<br />FYI, The label also states: "45 grams of fruit per 100 grams".<br /><br />With that said, after a few times of eating it now, I'm quite used it's unique flavor, and find it delicious on toast!<br />  For those who aren't keen on a slightly bitter spread, perhaps you should steer clear of at least this particular blend/flavor from "Tiptree".  (P.S. I just read a review on their "Tawny" (orange; thick cut), which said it's also bitter.)<br /><br />In conclusion, I hope to try another of their marmalade's in the near future!
+
+product/productId: B0001GU7SI
+review/userId: A2ZXBJHAZD3WOM
+review/profileName: juffie "juffie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325980800
+review/summary: a taste of old England
+review/text: Despite all the fancy names and types of marmalade out there, if you want the true taste of true English marmalade made with the correct Seville oranges, this is it!
+
+product/productId: B0045GSL24
+review/userId: A1XG1EDXDEHEDP
+review/profileName: Annie J
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: One of my "Must-Haves"
+review/text: College Inn is my preferred broth for cooking. I was thrilled when they came out with the Lower Sodium Fat Free options. Then the markets in my area stopped carrying the beef LSFFvariety, or only having it for the winter holidays. It reduces to a rich aromatic sauce for brisket or daube and makes excellent soups and stews - same flavor as the regular. Winner.
+
+product/productId: B0045GSL24
+review/userId: A1R2Y46NN84R0Q
+review/profileName: C. Wei "apple_big_fan"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1347062400
+review/summary: ok product
+review/text: I ordered the beef broth when it was on sale.  I think the broth is just ok.  It does not have much beef flavor.
+
+product/productId: B003IB2O7K
+review/userId: ABAHKMFEHT8K1
+review/profileName: Gerald Balmes "Jerry B"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1321660800
+review/summary: Works for me
+review/text: I have added green tea to my weight loss regiment which also includes RK-500 which blocks or dissolves fat and Liponexol which does the same for carbs<br /><br />I don't exercise and being a single male a eat mostly prepared food (but I take vitamins too) my only exercise is walking my dogs twice a day and I have noticed I walk more briskly now.<br /><br />This is how I prepare the tea; I use two bags in a large mug drink that then later, on my second cup I add 1 more tea bag to the two I already used and drink that.<br /><br />One other item I have to make a plug for is I love my Nuwave tabletop oven it uses less power than a conventional over and it lets the grease and fat drip away from the food you are cooking whick is way more healthy plus you don't have to thaw out the meat prior to cooking.<br /><br />All of this is helping me lose weight. Below is some info on green tea I found on the web. And btw my comment to the reviewer who gave a one star review and complained about the taste; I don't find it repulsive at all<br /><br />What makes tea increase weight loss? According to scientific studies, it is the catechins, caffeine and theanine that makes green tea an effective weight loss tool.<br /><br />In particular, scientists have found that EGCG (the most active and abundant of catechins) and caffeine are especially important. They fight obesity in at least 7 ways.<br /><br />Method #1:<br />Boosts Metabolism<br /><br />There are 3 kinds of fat. They can be found beneath the skin, in the body organs and in the muscles.<br /><br />Brown adipose tissue is a layer of fat beneath the skin that has the ability to generate heat. Scientists found that green tea stimulates the heat burning process (called thermogenesis) much more than caffeine alone would.<br /><br />Green Tea Metabolism - How Many More Calories?<br /><br />Method #2:<br />Burns Fat<br /><br />Fat is an excellent source of energy in humans. Beta-oxidation is a process during which fat is broken down to provide energy. Scientists found that green tea burns fat by stimulating the beta-oxidation process.<br /><br />Green Tea Burn Fat<br /><br />Method #3:<br />Prevents Fat Storage<br /><br />An adipocyte cell is a fat cell or connective tissue that is involved in the synthesis and storage of fat. Scientists found that green tea prevents fat cells from multiplying and enlarging.<br /><br />In an animal study, scientists found that green tea increases weight loss by blocking the actions of enzymes involved in the synthesis and storage of fat.<br /><br />A 2006 study conducted by Donald Danforth Plant Science Center discovered that green tea may help reduce fat storage by moderating your body's production of hormone insulin. The scientists discovered that green tea does this by blocking the production of glutamate dehydrogenase (GDH).<br /><br />This is important because insulin plays a key part in converting glucose (blood sugar) into fat.<br /><br />Method #4:<br />Reduces Food Craving<br /><br />When you eat sugary food, your blood sugar level spikes up. This triggers a large release of insulin to move the glucose out of blood into cells for storage.<br /><br />Because your body can overreact by producing too much insulin, this can cause a sharp dip in glucose level afterwards. Low sugar levels increase your cravings, hunger, and mood swings, and reduces energy level. End result? You crave more sugary food, causing the vicious cycle to repeat itself.<br /><br />Green tea, by regulating your blood sugar levels, helps to reduce food cravings and hunger pangs.<br /><br />Green Tea and Blood Sugar<br /><br />Method #5:<br />Blocks Dietary Fat Absorption<br /><br />Another green tea weight loss secret...<br /><br />Digestive enzymes act on the foods we eat so that the body can absorb them. According to a 2006 peer review study by Wolfram, green tea reduces carbohydrate and fat absorption by blocking the actions of these enzymes.<br /><br />Method #6:<br />Regulates Glucose Uptake<br /><br />A study conducted by Ashida found that drinking green tea increases the glucose uptake by skeletal muscles and reduces the glucose uptake by fat tissue.<br /><br />End result? You are able to exercise longer, which will help you burn more calories and fat. By exercising more, you develop more muscles, which will help you maintain an active lifestyle.<br /><br />Green Tea Diet and Exercise<br /><br />Method #7:<br />Synergism with Caffeine<br /><br />Ready for the final green tea weight loss magic? Now consider this: When is 1+1=3?<br /><br />Studies conducted by scientists Dulloo and Rumpler found that caffeine and catechins benefit from one another's presence. Together, they burn more calories than each compound is on its own.<br /><br />Green tea, including caffeine, greatly increases and prolongs the heat burning effect. It helps you burn more calories even when you are sleeping!<br /><br />Diet suggestion #1<br /><br />Avoid diet drinks ans sugar substitutes. That right avoid them as much as possible. Though they help prevent you from gaining weight,they also PREVENT YOU FROM LOSING WEIGHT.<br /><br />Diet suggestion #2<br /><br />Eat protein and only proteins for breakfast. This sets up your metabolism to burn fat the rest of the day. Avoid "breakfast" drinks as they contain sugar and any carbs too.<br /><br />Diet suggestion #3<br /><br />This will be the most difficult; keep the room temperature as low as you can tolerate. Your body will burn fat to maintain it's metabolism and body temp. I prefer 64 degrees.
+
+product/productId: B003IB2O7K
+review/userId: ARL8GO8KSCDQQ
+review/profileName: JUSTIN M TIERNEY
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310515200
+review/summary: Great Authentic Japanese Matcha (Green Tea)
+review/text: I have had high-end Matcha in Japan and this tea ranks right up there with the best.<br /><br />In response to the above reviewer who said the tea "looks neon green" -- that is its natural color.<br /><br />My Japanese friends also love this tea and are suprised at how inexpensive it is.<br /><br />Matcha is incredibly healthy with loads of vitamin C and other nutrients.<br /><br />It's very refreshing especially on cold rainy days.<br /><br />I recommend it.
+
+product/productId: B003IB2O7K
+review/userId: A28KB2XBGDM6VF
+review/profileName: S. Miller
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322784000
+review/summary: Great green tea
+review/text: This is a good quality great tasting green tea. Nice price too.  No one believes it actually came from Costco.
+
+product/productId: B003IB2O7K
+review/userId: A15DNO4V931NDT
+review/profileName: RC
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1322265600
+review/summary: Made me Sick
+review/text: One cup and the worst migraine in years was the result. No problem with my usual Lipton green tea so I am glad of the kind return policy.
+
+product/productId: B003IB2O7K
+review/userId: A3O23YRC7646YR
+review/profileName: Maggie Sommer
+review/helpfulness: 0/10
+review/score: 1.0
+review/time: 1306108800
+review/summary: Absolutely disgusting!
+review/text: The worst tea I have ever tried in my life. I made 1 bag and plan to return it for a refund. The tea is actually as neon green as the picture portrays it - I expected something with a green tint, but it looks like the ooooze from ninja turtles and tastes so bitter and fake that it's not worth the savings.
+
+product/productId: B000Q1H1ZU
+review/userId: AQR7N9AT83E5O
+review/profileName: E. Parshall "walloon257"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324771200
+review/summary: yummy
+review/text: very tasty treat,i am just sorry that i ordered it in july ( i live in arizona) but it was still a very tasty lump..... lol
+
+product/productId: B000CSEFO2
+review/userId: A398GJE5FBPHM3
+review/profileName: B. J. Jones "BJ Jones"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285632000
+review/summary: Delicious and surprisingly filling
+review/text: I really liked my purchase, and I eat a bowl everyday. I bought two cases and I LOVE THEM.<br /><br />I am dieting and they have been good to curb my hunger.<br /><br />Since they have a little sugar, always brush your teeth after you eat them.<br /><br />This is a great purchase!
+
+product/productId: B000CSEFO2
+review/userId: A2R6RA8FRBS608
+review/profileName: Matthew G. Sherwin
+review/helpfulness: 2/5
+review/score: 4.0
+review/time: 1188172800
+review/summary: all right by me--with a minor cautionary note or two
+review/text: Kellogg's Corn Pops breakfast cereal in these 1.5 ounce cups boasts a delicious and flavorful taste. It contains no cholesterol, no fat and it is low in calories. The delicious taste and the nutritional value that it does have make this better for you or your kids than skipping breakfast. It is low in carbohydrates, too. It stays crunchy in milk; and I enjoy the strong corn taste. Milk enhances the excellent flavor of the cereal. It is also certified kosher if that's important to you.<br /><br />Unfortunately, some disappointments exist. The cereal is only average in terms of vitamin content, reaching at the very best 30% of your recommended daily intake of niacin, vitamins B6 and B12, riboflavin, thiamin and folic acid. It delivers somewhat less than average value in the vitamin department. Corn Pops in these 1.5 ounce cups cannot be considered a substitute for a morning vitamin if you need one. Therefore I will take off one star to make this a four star review.<br /><br />Kellogg's Corn Pops cereal does contain partially hydrogenated vegetable oil and this can convert in your body to trans fat. Be careful!<br /><br />One more caveat: this product contains traces of soybeans and it is made with wheat. Ask your doctor before eating this cereal if you are unsure if your body can tolerate these ingredients. In addition, consult your doctor about your diet from time to time.<br /><br />Overall, these 1.5 ounce cups of Kellogg's Corn Pops truly are very useful for people on the go or kids who want an after school snack that's not too bad for them. The cereal does have some basic nutritional value. Nevertheless, Kellogg's Corn Pops cereal cannot be a substitute for a daily vitamin.
+
+product/productId: B004564DM6
+review/userId: A2LIY5X4NEPG03
+review/profileName: thedr
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1296259200
+review/summary: Tastes like wallpaper paste
+review/text: This is absolutely the WORST condensed soup I have ever tasted!  I used it to make another recipe, and as soon as I opened the box, I was disgusted by the smell.  I thought perhaps the "sell by" date had passed, but it had not.  I should have just thrown it away and tried to salvage my recipe some other way, but with GF ingredients, these are expensive "experiements"!  My recipe tasted awful, my whole kitchen smelled like this soup, and I can't get the taste out of my mouth.<br /><br />This product is horrible.  I can't believe it actually made it past their quality assurance dept. and onto the store shelves.<br /><br />If it was possible to give it negative stars, I would!!!!
+
+product/productId: B000KU1F2W
+review/userId: AQ6AGWKWMTY8H
+review/profileName: Pam Tee "mom,wife,fur-mom,book-blogger"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1329004800
+review/summary: Good News and Bad
+review/text: The GOOD news is that this Comstock Apple pie filling has 60% fewer calories than Comstock's regular apple filling and it's really tasty.  1/3 of a cup has only 35 calories so that this would make a good pie for the holidays for people on a diet.  Sweetened with Sucralose (i.e. Splenda) it's made with one of the healthier artificial sweetners.<br /><br />The Bad news -- at least for moms like me -- is that there aren't any vitamins in this pie mixture.  0% Vitamins A and C.  Zero percent% Calcium and iron.<br /><br />Now, glancing over some health sites on the internet I find that what you can expect from a 'freshly' made apple pie is something like 2-to-4% of daily requirements of Vitamin A per slice, and 4-to-6% Vitamin C; and 4-to-10% of daily Iron.  So something is lost in the processing of this product.  Something that I was hoping to fill my family with... good nutrition.<br /><br />This is important for me because I have one of those kids who disparages fruits and veggies, but who will eat pie.  It's for him and his sister that I bake pies.  If there's no vitamins there doesn't seem to be a point in making them.  I could easily buy cookies which don't require preparation.<br /><br />SUMMARY::<br />I won't be buying this mix again.  At least not until the kids go off to college.  At that point I might make it for my husband and myself on the rare occasion, as the lower calorie count and lack of sugar makes this pie filling very attractive for us.
+
+product/productId: B0047431QK
+review/userId: A1E8GT6NT8R1Y4
+review/profileName: thriftykittycat
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299369600
+review/summary: Reminds me of Home
+review/text: I grew up in hawaii and really miss the foods & drinks from there. Guava juice has always been a favorite of mine. I ordered this-amazon said to allow several extra days but it came within 3 days-superfast from Hawaii no less.Drinking it made me feel like i was back in Hawaii-really ono delicious! Price was kinda high $27 but i cannot find this brand where i live now. The stores here do carry guava juice and its about $18 a case-it tastes good too so unfortunately i won't be ordering this aloha maid anymore because of the price but if ever there is a sale on it then i will be back!
+
+product/productId: B0047431QK
+review/userId: A2EMJ1Z9W4VQ6R
+review/profileName: Oleo
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336608000
+review/summary: Tasty, Unique Drink
+review/text: Aloha Maid Guava soda is just as it tasted in Hawaii.  It arrived on-time and without damage. Made a great gift for my teenage daughter's birthday from her younger sister. Downside was shipping was a big part of the cost.
+
+product/productId: B006LJ8YMA
+review/userId: A29NHL8C7LGQKP
+review/profileName: Whole Foods Mama
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347926400
+review/summary: Watch out for the ingredients!!
+review/text: Crunchy carrots contain - organic carrot, organic maltodextrin and lecithin.<br />Hearty Sweet Potatoes contain - organic sweet potatoes, organic maltodextrin, organic corn starch, sunflower lecithin.<br />Plump peas and crunchy apples contain - 100% peas and 100% apples.<br /><br />The peas and the apples were the first products I tried from this company.  The baby loved them and I loved the ingredients.  I thought I would try the other products so I ordered the carrots and sweet potatoes.  To my surprise and disappoinment, when they arrived, I saw that they contained ingredients that I was not pleased with.  I wrote Nurturme and asked why they put maltodextrin in their products unnecessarily and they responded, The organic maltodexrin in our products is derived form organic corn.  Maltodextrins are manufactured form starch and are extensively used as an emulsifier in foods.<br />They are included in our foods because they are binding agents that are used when our foods are dried.  Like starch, most maltodextrins are easily digested and used for energy in the body." So, while the carrots and sweet potatoes are probably fine, they did not contain ingredients that I wanted to feed my baby.  The biggest issue being that this information was not included in the product description on amazon.
+
+product/productId: B002FYJW8U
+review/userId: AGX82PX1RBTGZ
+review/profileName: T. Lang
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1262736000
+review/summary: Finally! Soy Milk that is capable of steaming and suitable for lattes!
+review/text: Great Product! We started experimenting with soy milk due to allergy concerns/sinus congestion with regular organic milk.  We wanted to see if we were less congested with soy milk.  The consensus is that it does seem to help a bit, so we wanted to stay with it.  BUT---> it destroyed our morning lattes, UNTIL we found soy blenders.  It's a staple in our home,now.<br /><br />We use a Superautomatic Espresso machine for daily coffee/lattes (Saeco Talea Touch) and anyone who's ever tried steaming soy milk knows it doesn't steam correctly for lattes.  Traditional soy milk is too runny to whip up and produce a lovely microfoam.  These soy blenders were designed to steam and produce microfoam for your latte!<br /><br />Do know though, that it *seems* like traditional soy milk until you steam it, that's when the magic happens.  I do find that occassionally it produces too thick a microfoam, but I simply remove that from the top of my steaming pitcher and use the lovely silky foam that's underneath the surface of the denser bubbles!<br /><br />Overall, if you're making lattes, there is NO other alternative if you use soy milk!  Trouble is, it goes out of stock on Amazon too quickly, I'd like to see them stock it more reliably.  When it's in, I stock up, and since you can store it on the shelf in the pantry without refrigeration, (another plus!) it's no problem to stockpile some so you don't need to order too frequently!<br /><br />Highly recommended!!
+
+product/productId: B002FYJW8U
+review/userId: AMZ6GGXWARAET
+review/profileName: Erin Barista
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1308528000
+review/summary: Leaking containers
+review/text: While I love this product, this is the second time we have received a leaking box of soy milk in the case of 12 boxes.  So 1 of the 12 containers was no good from the beginning.  In addition, the leaking containers caused other containers to get soft on the bottom and pour everywhere.  It was a mess and all that soy milk was ruined.
+
+product/productId: B002FYJW8U
+review/userId: A1VSAH8A7DDVER
+review/profileName: Captain Latte
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1306886400
+review/summary: Beware of possible damaged goods
+review/text: Well, this is frustrating as I really love this product for making decent quality lattes on my home machine. However, this is the second time in a row where the product has arrived damaged with cartons opened/punctured with leaky milk. It is hard to know what caused the damaged cartons as the original box is packed in a larger box with paper around it. I am thinking that because I am an Amazon Preferred customer, the orders are shipped via 2-day air. Maybe the air pressure in flight is causing packaging to fail. Fortunately, Amazon has been very good about dealing with the situation, but as I said it is frustrating not having good soy to make decent foam.
+
+product/productId: B002FYJW8U
+review/userId: AT45PCE323984
+review/profileName: Kaia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303862400
+review/summary: Tastiest capaccino you can make
+review/text: Saw that my favorite coffee house (Pete's) uses this for thier soy caps & latte's. Couldn't find it in any stores so ordered it from Amazon with monthly shipment. Works amazingly well and cost effective. Highest recommendation.<br /><br />What is good about this brand of soy milk is that it is not too sweet but sweet enough - incredibly tastey. The Barister version is supposed to be a little lighter than normal soy milk to froth better. I guess I didn't really notice the difference there - regular soy milk froths fine for me.
+
+product/productId: B002FYJW8U
+review/userId: AUJ5SM7ZNJTV0
+review/profileName: A. Suttles
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1289779200
+review/summary: Helps me survive a break from dairy
+review/text: Thank goodness for this product. I've had to remove dairy from my diet due to a sensitivity in my breastfed baby. As hard as it was to give up cheese, I think it would've been harder to give up my daily latte. Enter Soy Blenders! This stuff tastes great, froths up wonderfully, and has made this break so much more bearable. I've tried a variety of other soy products during this break, and I haven't found anything that comes close to Soy Blenders. I also love the vanilla for when I want my latte a little sweeter. Good stuff!
+
+product/productId: B002FYJW8U
+review/userId: A2YRLTHUWHBMUM
+review/profileName: LJDixon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: Best for cappuccino
+review/text: This product has the best consistency and flavor of any alternative milk. I am a coffee snob and have resisted giving up milk for my morning cappuccino until trying this. It froths perfectly and has no bitter taste or cardboard smell like many other alternatives. I think it is the closest you can get to the real thing. Since it must be bouhgt by the case, I also use it for cooking and cereal and have never been disappointed.
+
+product/productId: B002FYJW8U
+review/userId: A1K75JYNWOUBR3
+review/profileName: SusanD
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332633600
+review/summary: Excellent soy for coffee.
+review/text: This is used by Baristas in NYC but is not available in stores.  Glad that you made it available. Thank you!
+
+product/productId: B002FYJW8U
+review/userId: A1QMF93CCQ8295
+review/profileName: marcosxvx
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325894400
+review/summary: Best non-dairy milk for steaming!
+review/text: All the big coffee shops in NYC use this as their dairy alternative and it works wonderful. This milk gives the best microfoam out of all other soy milks I have tried.
+
+product/productId: B002FYJW8U
+review/userId: A23LUSBQDGMOC1
+review/profileName: Jennifer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294617600
+review/summary: Best soy product out there for lattes
+review/text: I've just recently developed a sensitivity to dairy and have to opt for soy milk for my daily latte in the morning.  I tried a Vanilla Soy Latte at the Whole Foods Barista and it was great.  I looked around and couldn't find it for sale anywhere so I just order it by the case from Amazon.  I honestly cannot tell the difference with this product!  I've tried others but none compare.  I have been using the plain and just add my favorite hazelnut flavoring to it.  I know the vanilla is good because I had it at Whole Foods.
+
+product/productId: B0043OX51U
+review/userId: A3GY8NYC3K6JF3
+review/profileName: rita
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322006400
+review/summary: Yummy and Good Value
+review/text: Milk Bones have been around forever it seems. My dog doesn't know this, of course, but she still loves them. 8 pounds for this price is a good deal. She'll be crunching for awhile.
+
+product/productId: B0043OX51U
+review/userId: A1Z1O3R2S6VNXG
+review/profileName: Jay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: Good Price
+review/text: I have to say this is the best deal for milk bones on amazon, and of course, my dog go crazy just looking at the unboxed milk-bone.
+
+product/productId: B0043OX51U
+review/userId: AKMEY1BSHSDG7
+review/profileName: J. Arena
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1295308800
+review/summary: Great surprise for Bandit!
+review/text: Bandit is a new resident in our friend's new house in Tennessee. Although Bandit is certainly a Southern Gentleman of the Highest Order, he likes to chew on sticks and other assorted unhealthy objects that his parents feel he should avoid.<br /><br />While strolling up and down the aisles of Amazon.com (that's how I get all my exercise lately) I came upon this splendid offer of not one but TWO four-pound boxes of Milk Bones Large Buscuits! Let Joy Reign Unconfined!
+
+product/productId: B0055FZUV4
+review/userId: A11G0VETMPDBT2
+review/profileName: P. Maertens
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349827200
+review/summary: Simply The Best...
+review/text: This is  hands down the best whole wheat pasta you can buy.  Costco no longer carries the whole wheat style and it is expensive here.  I now buy "bionature" here at Amazon and it is very good also.  Healthy and delicious.  Hope Amazon lists it in their subscribe and save program soon.
+
+product/productId: B0055FZUV4
+review/userId: A17PO7SGGLNO3R
+review/profileName: buzzmom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Spaghetti
+review/text: Really great product.  Can't get it here so ordered it online.  As a bulk item it will last a long time unless you eat pasta everyday (which isn't a bad idea, I guess).
+
+product/productId: B0081PH9P0
+review/userId: A1PWY8N9NYAK2H
+review/profileName: KSue
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337558400
+review/summary: MY DOGS LOVE THESE!
+review/text: I have 2 little dogs that go every where with me! So its perfect to keep in my purse or in my car for when I'm on the go.  I'll admit I'm kind of anal about what I feed my dogs. I read all ingredients, make sure I know where its made (kind of sad that I don't really even do that for myself) The ingredients certainly aren't compromised, it's certified organic! I tried it myself and its not bad, just a little bland because there's no sugar. AND.. the best part of all is they help feed doggies in shelters!  :)  Love it!
+
+product/productId: B0081PH9P0
+review/userId: A3VED4B5V2QORI
+review/profileName: janie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Dogsbar
+review/text: For every Dogsbar sold one is donated to a dog in need! What a wonderful company. I take these with us when we go hiking and keep some in my purse. They are organic and made in the USA. Also check out the Dogsbutter by the same company.
+
+product/productId: B001EO7IWO
+review/userId: A1JXLM6TYINCBA
+review/profileName: D. Doyle
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1251936000
+review/summary: I love this stuff!
+review/text: Salsify is the taproot of a weed (kindof like a carrot or dandelion) called Goatsbeard.  They're okay to eat plain.  But I use them as an easy, lightly flavorful addition to just about any crock pot recipe, or mashed potatoes - I like saute'ed leeks and turnips in them too.  People describe them as having a faint oyster flavor - I wouldn't call it that except for having heard them described that way.  Given this, I want to try them in a Thanksgiving stuffing.<br /><br />Note:  the Roland can is well-made - lined, as I think you'd need for this product.
+
+product/productId: B001EO7IWO
+review/userId: A1V9DJ0BHZFJ0C
+review/profileName: Lydia S.M. "Cat Lover"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1251676800
+review/summary: Best Salsifis
+review/text: I missed eating salsifis since I came to the States in 1973 and was delighted to find that Roland carry it and at my favorite market, AMAZON. Will order again and again
+
+product/productId: B001EO7IWO
+review/userId: ABIZHMD19T1NK
+review/profileName: pmbar
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296000000
+review/summary: Salsify more than a potato alternative
+review/text: I love this product, it is more than an alternative to the potato.... it's delicious!  I just sauteed them with butter, and am currently thinking of other ways to enjoy them.
+
+product/productId: B001EO7IWO
+review/userId: A2E90SDT4U5PQB
+review/profileName: Loving to Read
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1289952000
+review/summary: Great Product
+review/text: I had a difficult time finding salsify in the U.S. I tried to grow it one year but these cans are so much easier. The salsify are delicious and the stalks are great out of the can or heated with browned butter and bread crumbs. The subscription option is convenient.
+
+product/productId: B001EO7IWO
+review/userId: A13EZ89PI8PZA2
+review/profileName: Karol A. Hudson
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1257033600
+review/summary: A different vegetable.
+review/text: Edgar Cayce recommends this to eat, product is bland but adds bulk to a salad, try it at least once in your life?????
+
+product/productId: B001EO7IWO
+review/userId: A1X4MMS50JSD0Z
+review/profileName: Emily T
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Roland brand canned Salsify
+review/text: This product is often called "Oyster Plant" and does indeed have a pleasant, cooked mild oyster flavor.  Roland has packaged the salsify quite nicely in a mild liquid that does not detract or overpower the product.  I've prepared the salsify both scalloped and in a garlic butter sauce and was very pleased with the end results.  This vegetable was very popular in KY and TN in the early 1900's and was grown in country gardens.  My 94 year old mother remembered it well but had not eaten any since she was a child.  Amazon was the only place I could find it until I recently visited an "international grocery store" in a large city.  This was the first time I'd ever heard of it or tasted it.  I bought 12 cans from Amazon and 5 from the grocery store (all they had in stock...).<br /><br />Very pricey through Amazon, but if you're looking for an exotic gourmet side...this is certainly one that will fill the bill.  Use mild ingredients so as to not overpower the delicate flavor of the salsify.<br /><br />One can will serve 2 people nicely as a side, perhaps 3 if a mild cheese and bread crumbs are added.
+
+product/productId: B001EO7IWO
+review/userId: A27QWSAXIABQUP
+review/profileName: Michele Whiteaker "Minoutte"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319068800
+review/summary: Good vegetables
+review/text: These salsifis are the best ever, i am so happy to have found at Amazon.com that they actually stock this kind of vegetables that my mother would cook for us when i was living in my country, in Europe, cook them in a pan remove the liquid of the can pour a little bit of butter, and at the end pour some cream and lemon juice and serve immediately with some nutmeg on top,<br />bon Appetit as we say in the french parts of Europe !
+
+product/productId: B001EO7IWO
+review/userId: A314X4KOYPYMX7
+review/profileName: Gerry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288656000
+review/summary: Great
+review/text: Since we moved from the NYC area I can not get this product.  I was so happy to see that I could get it from Amazon.
+
+product/productId: B005MSBD4C
+review/userId: A30O5FIQOQKL95
+review/profileName: Aana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334966400
+review/summary: Very tasty and easy to use!!
+review/text: This spice blend is amazing!!!!!!  Sauteed some chicken breasts the other night and sprinkled a generous amount of Dukkah spice towards the end then added in a handful of craisins and it was so yummy!!!!
+
+product/productId: B003VDB79Q
+review/userId: A2BY5XJE6LTGO4
+review/profileName: 9patch
+review/helpfulness: 7/8
+review/score: 1.0
+review/time: 1332460800
+review/summary: Product looked like it was 1 year old
+review/text: I recieved this yesterday and was very disappointed...  the milk chohcolate was all white spider-web looking and hard as a rock.  It looked as though they were very old although there was no expiration date on the package.
+
+product/productId: B003VDB79Q
+review/userId: A1BN8KL88ZOPOO
+review/profileName: Jevon
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1318550400
+review/summary: Sorry for breaking the perfect record
+review/text: I was gonna give it a three, but I ate 2 more of them before I wrote my review and the second changed my mind. The image shown on the box is very misleading I must say. The actual chocolate looks dry and has a chalky texture. The taste is pretty good, but after reading the exuberant reviews it got, I was really disappointed. It's chocolate with nuts - fine, but it just didn't met my expectations. I bought some hersheys chocolates at the same time that was much cheaper and had much more content and honestly I enjoyed the hersheys much more. That is only emphasized by the fact that the hersheys are all gone and I haven't even completed half this box. Good chocolate, but nothing that special.
+
+product/productId: B003VDB79Q
+review/userId: AJ468LBSBSJ22
+review/profileName: T. R. Torbleau
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1339372800
+review/summary: Misleading Quality
+review/text: Purchased Mauna Loa products for years and never encountered a product like this. The chocolate was a lighter color and did not seem as creamy as previous Mauna Loa products. The color indicated some sort of problem with vendor storage. Wrote email to company but no reply. Will never purchased from this company again. Best quality found direct from factory.
+
+product/productId: B003VDB79Q
+review/userId: APRVK28AQUCAL
+review/profileName: Mary S. Flowers "Scoobydootoo"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323475200
+review/summary: Great for Gifts- if you can give them up
+review/text: These are very addicting and yummy. The chocolate is fantastic and the Macadamia's taste even better wrapped in the chocolate. It would make great Chrismas Gifts- just be sure to have them shipped directly or you might eat them yourself.
+
+product/productId: B003VDB79Q
+review/userId: A2I3HFGMA0X35L
+review/profileName: peter
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346025600
+review/summary: Better to buy in Hawaii
+review/text: The chocolates taste great but you are better off coming to Hawaii and getting them fresh in the store.  They are sold in almost every shop in Hawaii (Walmart, CVS, tourist shops) and they are much cheaper in Hawaii.  They are at least half the price in Hawaii and you can enjoy it in Paradise nice and fresh.
+
+product/productId: B003VDB79Q
+review/userId: A3D00ZXWWE9NRV
+review/profileName: green_hatch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344556800
+review/summary: Yummy!
+review/text: One of the best chocolate covered nuts i have ever eaten..it just sucks that you can not find these at every grocery stores around my place..i think they should lower the price a little
+
+product/productId: B003VDB79Q
+review/userId: A2P5356D1S5UAQ
+review/profileName: Raphael
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328572800
+review/summary: Bought it for someone as a gift
+review/text: ... and they asked for another box! I have not tried this myself, but I have no doubt that this would make a great gift.<br /><br />I'm only upset that they raised the price.
+
+product/productId: B003VDB79Q
+review/userId: AFUQDOOIFIOZK
+review/profileName: Kathrynne Spangler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: Really Good
+review/text: I love these! The chocolate is in my opinion a lot better tasting than some of the other companies. The second these little guys get to my house they are gone very quickly. Really good to eat!
+
+product/productId: B003VDB79Q
+review/userId: A131N91288PHQT
+review/profileName: Dee Tyson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320019200
+review/summary: Delicious Hawaiian Host
+review/text: I first tried this product when a neighbor gave it to me as a gift and I had to have some. This product came very promptly and the product was fresh and very delicious.
+
+product/productId: B003VDB79Q
+review/userId: A1BPCAYEK3T1V7
+review/profileName: shannon fox
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318464000
+review/summary: Mom loved them
+review/text: I bought these as a birthday gift for my mother, and she loved them. She said they were delicious, and her only dilemma was how not to eat them all at one time.
+
+product/productId: B003VDB79Q
+review/userId: A8A78MC2JVUSP
+review/profileName: Susie Derkins
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1291334400
+review/summary: Fresh From the Factory
+review/text: Had a bad day?  Your boss is a jerk?  IRS got you down?<br /><br />Buy this!  Fresh from Hawaii.  If you buy the other one from Texas (yuck), it's probably three weeks old and sat in some hot trailer.<br /><br />Mmmmmm..... so good.
+
+product/productId: B003VDB79Q
+review/userId: A2CR1L1TV3SZZS
+review/profileName: Alex Hamilton "Silver Surfer"
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1290124800
+review/summary: Absolutely the best milk chocolate covered macadamia I've had.
+review/text: Looking for a chocolate nutty taste? This is for you! Reminds me of Hazelnuts but with the distinct crunch you get from macadamia nuts. Always a good decision.
+
+product/productId: B003VDB79Q
+review/userId: A2ICN6ET6YAXRJ
+review/profileName: Otis Patton "jumper82"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1350172800
+review/summary: Store Bought, Hawaiian Host Macadamia Nuts.
+review/text: I just purchased two boxes from a Chinese store in Plano Texas. I could not find a " Do not sell date " unless it is the date on the inside cover of the lid. The date is 7/2010. The chocolate has a white coating and has a old tasting Flavor. I will not purchase this product again. I called the company and the voice said I was next in line, However,five minutes went by and no one activated the line, I hung up and give this a 1.
+
+product/productId: B003VDB79Q
+review/userId: A6B2CJA7ARZT7
+review/profileName: Hey It's Joel
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1321142400
+review/summary: Just like a dream
+review/text: Picture a warm summer day and you're lying in a comfortable, handwoven hammock tied between two towering coconut trees as the welcoming sun beats down on your glistening face.  Sunglasses drawn, you sip your cool, pineapple-laced mai tai enjoying every gulp as it refreshes your dry, parched mouth.  A cool breeze brushes past as if nature's hand itself wanted to rock you gently as you would a baby in its cradle.  The soft crashes of ocean waves against the white sandy beach beckons you for a short dip in the cool, clear waters of Hanauma Bay.  Ahhhh, paradise....<br /><br />Eyes closed, you feel a presence come up next to you as they cast a shadow across your body.  You open your eyes to find a beautiful island girl dressed in her native garb of Hawaiian grass skirt, coconut shell top and aromatic lei around her neck and forehead.  She greets you with her pearly white smile that shines in contrast against her perfectly tanned, soft skin.  Surely, no mortal deserve such perfection.  She reaches over for a chocolate covered macadamia nut and motions toward you to place one of these little pieces of heaven in your salivating mouth.  Just when the tip of your tongue senses the sweetness of milk chocolate ---<br /><br />SLAP!!!!<br /><br />Inexplicably, your horrible boss appears before you with his arms belligerently crossed against his chest yelling at the top of his lungs, demanding to know where his TPS reports are as he is already 5 minutes late with his appointment with the "Bobs" in the meeting room.  He storms out of your cubicle while contentiously muttering the words, "We'll talk about this later, mmmmkay?"<br /><br />Suddenly, the reality surrounds you like a cheap wet suit as a co-worker passes by insisting you have a bad case of the "Mun-days."  Dejected, you sit back down in your office-appointed chair and reach out for a macadamia nut chocolate and realize this candy is the closest you'll ever get to Hawaii.<br /><br />Sigh...
+
+product/productId: B003VDB79Q
+review/userId: A1C6WUZ8C9BW8B
+review/profileName: Miss R
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1306972800
+review/summary: Miss R
+review/text: About two years ago, a relative bought me back a box of these Hawaiian Host Macadamia nuts.  I loved them so much that I decided to purchase some for myself.  You will not be disappointed with this purchase.
+
+product/productId: B003VDB79Q
+review/userId: A506HOOCVL8GW
+review/profileName: J. Kurz "J. Q. Public"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1294444800
+review/summary: Delicious, as always!
+review/text: You can never go wrong with a box of Hawaiian Host Chocolate Covered Macadamia Nuts.  My wife was in Hawaii a few months ago and fell in love with these chocolates.<br /><br />Good candy.
+
+product/productId: B003VDB79Q
+review/userId: A26XBPRLVUA5FY
+review/profileName: James B. Cookinham "Mallorca"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1293667200
+review/summary: A great gift!
+review/text: I have loved these since I lived in Hawaii.  They are just like the ones you can get at Longs Drug in Honolulu.
+
+product/productId: B001SB1UJA
+review/userId: A3U1YUKS4ROTT0
+review/profileName: Lady
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1329696000
+review/summary: Not what pictured
+review/text: I ordered this because my local grocery store use to carry it and I loved it.  But when I got it it was not the same thing.  The box is a greenish box and it does not taste the same.
+
+product/productId: B001SB1UJA
+review/userId: A3JTNYMZLGJODW
+review/profileName: E. Jakovleva "EJ"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306022400
+review/summary: My favorite belgain waffle mix so far
+review/text: Love this mix. I would pick this one over Williams Sonoma Belgian Waffle and Stonewall Kitchen Pancake and Waffle mix. Waffles come out very light (remember to use sparkling water), and are a great 'base' for various fruit additions: orange zest and chopped strawberries, chopped mango and nuts, etc. I use very basic full-size Belgian waffle maker and one recipe makes 2 waffles. I just wish more stores carried it.
+
+product/productId: B001SB1UJA
+review/userId: AS5BGOYQXIMYW
+review/profileName: Jan Worley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1252540800
+review/summary: Best Belgian waffle mix I have found
+review/text: I love Belgian waffles.  However, I have searched for and tried every Belgian waffle mix in the grocery stores in St. Louis.  I even ordered waffle and pancake cook books to whip my own.  Nothing I tried gave me the taste and outside crispiness of what I wanted.  Then I found Maple Grove Farms Belgian Waffle Mix at Schnuck's market (a midwest local grocery chain; we don't have any national grocery chains in St. Louis).  Since I tried everything else, I bought it and tried it.  It was best of any I tried, and I tried quite a few.  Now Schnuck's market doesn't carry it anymore.  Great product, and this is a good price, especially for six boxes.  Use a good Belgian waffle maker for best results, and enjoy.
+
+product/productId: B001SB1UJA
+review/userId: A2WWS1RTBVDUV1
+review/profileName: baw
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Love These Waffles
+review/text: For years, Sunday breakfast in our house has been waffles or pancakes.  We have had these particular waffles every week since I discovered the Maple Grove Farms Belgian Waffle Mix two months ago.  The malt flavor is a tasty alternative to other mixes and scratch recipes.  The waffles are crispy outside and soft in the middle.  I'm sure we'll return to pancakes for a bit when the blueberries are ripe, but for now, we're happily stuck on these waffles.
+
+product/productId: B001SB1UJA
+review/userId: ARNT9PN1N29GQ
+review/profileName: C. Tate
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334102400
+review/summary: Yummy
+review/text: This is the yummiest box-mix waffle mix I have found.  Mixing in an egg and some butter yields traditional waffles that are good, and pleasantly  slightly sweet.  I actually never use this in a Belgian Waffle iron, only in a regular waffle iron, where it works great.  Don't know whether a Belgian waffle iron would be better or worse.
+
+product/productId: B001SB1UJA
+review/userId: A1VH0JFUJ6O525
+review/profileName: M. Applegate
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323302400
+review/summary: Perfect waffles
+review/text: Delivered on time. Very tasty.  Made waffles for breakfast and my family loved them.<br />Also made waffles for dessert with ice cream and chocolate sauce...wonderful!
+
+product/productId: B001SB1UJA
+review/userId: A2S9LBHMP9IU63
+review/profileName: Timothy D. Dailey "Infinitelow"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1257465600
+review/summary: Quality Results and Classic Taste
+review/text: Been buying this for several years and never been disappointed. Next best thing to your favorite waffle house!
+
+product/productId: B001SB1UJA
+review/userId: A18QNMVRG08DU5
+review/profileName: a reader
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1283731200
+review/summary: heavy and tasteless waffles
+review/text: This made the worst waffles I have ever tasted and I followed the directions on the package exactly.  It was my first try at Belgian Waffles and I will try again but not with this mix.
+
+product/productId: B001EO77DO
+review/userId: A2M2QPKSPH8DDR
+review/profileName: Texas Red
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1300579200
+review/summary: Best ever and low cal and organic!
+review/text: I love this all organic Hot Cocoa.  I first heard of it in reading Prevention Mag. when they recommended it for dark chocolate lovers.  They were right.  My pantry is never without it and when I want something chocolaty I have a cup of this. The trick is to be certain that you don't use more water than it calls for on the label.  I don't have 6oz. mugs but do have a lot of 8 oz. ones so I put in three tbsp. of the cocoa per 8 oz. of water - that's still only 110 calories. There is already organic milk powder in this product so no milk is needed.  Of all the hot cocoa products I have used this is far and away my favorite.
+
+product/productId: B001EO77DO
+review/userId: A8HL1SNCKZN54
+review/profileName: mlkri
+review/helpfulness: 5/6
+review/score: 2.0
+review/time: 1298419200
+review/summary: Will not buy again
+review/text: This has a distinctive taste, so I am not saying that it is not chocolate tasting or has no taste, but it IS extremely thin. Quite watery for something you are just supposed to add water to. My family does not like it and I only drink it when made with 1/2 water, 1/2 milk. The taste is not the same as other hot chocolates, this is not to say bad but certainly different. It is simply not to our liking and due to that and the thin, watery consistency we won't be buying again. Amazon's part in purchase and shipping was fine per usual.
+
+product/productId: B001EO77DO
+review/userId: A139CRTSXTBIU6
+review/profileName: Grace Salzer "British Import"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1308182400
+review/summary: Delicious & Low Sugar Hot Chocolate
+review/text: I really love this Hot Chocolate. First found it in Whole Foods and bought it as it was organic, fair trade AND low sugar! So many organic hot chocolates are very high in the sugar department which bothers me. This one is not. I think only 11gs of sugar?! When compared to 25gs and up, it's rather good. With the low sugar content it does remind of a more european type hot chocolate which is more creamy than sugary. So maybe bare that in mind?<br />All in all, lovely stuff!
+
+product/productId: B001EO77DO
+review/userId: AE8UZQ2P6N3FI
+review/profileName: Annie Hall
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1230336000
+review/summary: Simply Delicious!
+review/text: This is a great all-natural hot treat.  I drink it all the time, though I add a small squeeze of maple syrup to my cup of hot brew.
+
+product/productId: B001EO77DO
+review/userId: A9DGYCBJQHTUF
+review/profileName: Sinchoy "Makaua"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1230249600
+review/summary: Chocolate Lovers the best!
+review/text: If you love hot cocoa this cannot be beat!<br />Order it once and you will be back. Just add hot water. Delighted to see it on Amazon. It truly is a great gift item.<br /><a href="http://www.amazon.com/gp/product/B001EO77DO">Equal Exchange Organic Hot Cocoa Mix, 12-Ounces (Pack of 3)</a>
+
+product/productId: B001EO77DO
+review/userId: A2VFQR6Y4VEKSQ
+review/profileName: Moonslice "(the world's fish tank)"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322611200
+review/summary: Yum
+review/text: I don't understand the negative reviews. I love this hot cocoa. I'm shopping for some hot cocoa that you just add water to as a gift for my super picky sister who doesn't want hot cocoa mix that requires milk. I don't understand that since this stuff and all hot cocoa has milk in powdered form.<br /><br />Anyhow, maybe the negative reviewers are super picky like my sister. Will this be as super rich as Godiva made with milk? Nope. I think it has a great taste though, even better if you add some whipped cream on top. I love that it has less sugar and is organic and fairly traded.
+
+product/productId: B001EO77DO
+review/userId: A33NA08NRM2NUD
+review/profileName: Stephany Ray "Goddess"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1272672000
+review/summary: So delicious - a great chocolate flavor
+review/text: I will never buy swiss miss again. This Equal Exchange Organic Hot Cocoa Mix is delicious- a wonderful chocolate flavor with no junk included.
+
+product/productId: B001EO77DO
+review/userId: A3MSQ79PUJMLNL
+review/profileName: Gary Nabors "cn4276"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1248912000
+review/summary: Yummy, though not as pictured
+review/text: This is my favorite hot cocoa drink. I really enjoy putting a scoop of it in my coffee; what a nice treat!<br />I hope you'll look into the story behind Equal Exchange - That makes this sweet treat even sweeter. what a nice way to get a warm feeling -TWICE!<br />(The only downside, and it's no biggy, the outside packaging looks nothing like the picture in the information. Not sure why. That did cause me some alarm at first till I tasted the product and it seems just like what I was hoping for.)<br />ENJOY IT!
+
+product/productId: B001EO77DO
+review/userId: A3ER06YALG890Q
+review/profileName: Helen Jo
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1297382400
+review/summary: Very disappointing
+review/text: This tastes just like brown water. It is lacking flavor and leaves a bland feeling in my mouth after I drink it. Being organic doesn't really make a difference in taste. It tastes worst than the conventional hot chocolate. If I were you I would not buy it.
+
+product/productId: B001EO77DO
+review/userId: A1IDCIERNHUCV3
+review/profileName: J. Kramer
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1297382400
+review/summary: So glad to find an organic hot cocoa mix
+review/text: I just love this organic cocoa mix. I had been looking for a mix with natural ingredients, less sugar, and more cocoa flavor- this is it! If you like your hot cocoa really sweet, you won't like this mix. If you like it extra creamy, add to hot milk. YUM! And I like the idea of using organic products. Much healthier and more natural. I bought it directly from the company's web site last time, but will order from Amazon when I need more. So glad they are carrying products from this company.
+
+product/productId: B001EO77DO
+review/userId: AGVXJXQ9IF6FO
+review/profileName: R.Stanford
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336780800
+review/summary: What REAL hot cocoa tastes like, an emotional experience!
+review/text: <a href="http://www.amazon.com/gp/product/B001EO77DO">Equal Exchange Organic Hot Cocoa Mix, 12-Ounce Tins (Pack of 3)</a>This is what hot cocoa in Europe tastes like, with less sugar and milk than we have in the U.S.  I add one teaspoon of sugar and one tablespoon of milk to mine to suit my American taste buds.  The result is a very rich chocolate taste, unspoiled by all those additives in the other products. It is a powerful emotional experience every time!
+
+product/productId: B001EO77DO
+review/userId: A1VYNRQFK08D1U
+review/profileName: lakelady
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328227200
+review/summary: Delicious Gourmet Cocoa
+review/text: The Equal Exchange Organic Hot Cocoa is excellent. It is smooth and full of chocolate flavor. A bit of side news is that the purveyor was a supplier to Trader Joe's. The quality and consistency is better via Equal Exchange. The brand with the chili is delicious as well. Highly recommend this cocoa. Very nice for the cold nights and brisk mornings of winter. Gourmet stuff!!!!!!
+
+product/productId: B001EO77DO
+review/userId: A24Z4Y2KW4QR77
+review/profileName: Gloria Marrone "glomarrone"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325635200
+review/summary: Equal Exchange Organic Hot Cocoa Mix
+review/text: After finishing my can of Rapunzel Organic Cocoa Powder, I couldn't find it again online or in stores.  So, I purchased Equal Exchange.  It has nonfat milk already in the mix which the powder did not.  This is easier when traveling. It also contains organic sugar cane juice so you don't need to add sugar, either. I enjoy the taste of it. It has 70 calories per serving size. You have to order it in a pack of 3 but that wasn't an issue for me.
+
+product/productId: B002RYY2G0
+review/userId: A3D32BTYA74FKG
+review/profileName: Tim Z
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Excellent summer wine
+review/text: Always a favorite in the summer months. I've made four of these kits and they never seem to last very long. The kit itself has corks, shrink tops and labels. I'm a red wine drinker but my wife and her friends love this wine.
+
+product/productId: B0009F3PJ4
+review/userId: A1EY1F49B3Q3HM
+review/profileName: feeniks�
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1206403200
+review/summary: The BEST peppermint tea I have ever had....
+review/text: I was raised on tea, by a tea-loving mother and English grandmother, however, I do not consider myself an expert. I know you can go further down the tea-fanatic trail than I have gone. Despite my attempts, my own children refused tea, and I was resigned to the fact that passing on love of tea ended with me.<br /><br />I picked up the Traditional Medicinals Organic Peppermint at the now-gone Henry's chain looking to add variety - as a kid my mother plucked mint plants from the field to dry and turn into tea (I was also raised on chamomile tea procured in the same manner), and have never found a peppermint tea with the same flavor... until now. The tea tastes fresh, it is not too sweet or too strong, nor too weak as some brands I have tried resemble spearmint instead of peppermint. It is perfect on it's own, or with a bit of honey and cream to appease a strong sweet tooth. Best of all, I cannot keep my kids from drinking it, and they have begun branching out, and sampling other teas and even chai as well. It IS expensive, however, so buying in bulk from Amazon is the best money-saving option, as it is eligible for Super Saving Shipping and (for now) tax free to my state. I recommend trying one box to see if it is to your liking - I have found the tea at Sprouts, Trader Joe's and Wild Oats, so similar stores should have it as well.
+
+product/productId: B0009F3PJ4
+review/userId: A3PZF5FFJX3U6
+review/profileName: Book dallier
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1328572800
+review/summary: Utterly refreshing
+review/text: This is the mintiest, freshest, most perfect-tasting mint tea ever. The peppermint in here is clearly high-quality and very intensely tasty. Opening a tea bag from this box, you are immediately overwhelmed by the pungent and exhilarating mint scent. Steeped in a cup, it doesn't disappoint, and is super-delicious to the last drop.<br /><br />The minty taste is not just cool; it's COLD. Perfect when combined with piping-hot water. Not at all excessive, but a lovely and balanced bold clear taste.<br /><br />This is always a godsend when I am feeling too-full, sick to my stomach, nauseous etc. I'll never buy another brand again.
+
+product/productId: B0009F3PJ4
+review/userId: A32TMIFGKZNCJ1
+review/profileName: iRock
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1324771200
+review/summary: The best organic tea for stomach gas
+review/text: I have tried various natural medicines for my long lasting stomach gas problem. Every time after each meals, I have serious burps, farting, and feeling of heavy filled stomach and then soon I start to get headaches. The only way to solve my problem was to do treadmill  for 20 min  and take an Advil. I tried gax-x type of medicines but no long term relief.<br />Since I started drinking peppermint tea, it has helped me to releases any trapped gas from stomach and intestines like jet blast. I love it, its natural and no side effects at-least I know.<br />But always remember, gas, farting, belching is due to indigestion so although peppermint tea will fix your gas problem but you need to fix the underlying problem of indigestion. simple way to solving is to drink lemon juice & yogurt etc right before the meals.
+
+product/productId: B0009F3PJ4
+review/userId: A3360XA44BCKP1
+review/profileName: Little Jay
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334880000
+review/summary: Great Benefits For Your Digestive System
+review/text: I have a sensitive stomach so I have to be careful what I eat or else I have terrible stomach aches. I came across this tea at Target. It has a pleasant taste, it leaves a great refreshing after taste. I drink this about an hour before bed and I feel great after I drinking 1 cup. I also feel great in the morning; I don't feel sick anymore.<br /><br />Warning* this tea makes me really sleepy. Which is great when I can't fall asleep :)
+
+product/productId: B0009F3PJ4
+review/userId: A3NLEWJ1A8CF3P
+review/profileName: Tony B.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329264000
+review/summary: Best mint tea
+review/text: If you like mint tea or if you just want to drink it for an upset stomach this is the best choice. It's medicinal grade so you know this is as pure as it can get. The flavor is much stronger than any mint tea I've bought before. You can buy it in your local grocery but really the subscribe & save deal on amazon is the best!
+
+product/productId: B0009F3PJ4
+review/userId: A1LQ01XCMF2ZD0
+review/profileName: P. Foster
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327708800
+review/summary: Best Peppermint tea out there!
+review/text: I was drinking Twinnings peppermint tea and others, but nothing compares to this one! It is very strong, has a nice aroma and works great for relieving a headache, sore throat, upset stomach, and IBS. It is naturally sweet in taste so no need to add any sweeteners. It also seems to wake me up which is huge plus.
+
+product/productId: B0009F3PJ4
+review/userId: A3L4K9QFTPEZBA
+review/profileName: Von
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325030400
+review/summary: Too good to be Medicinal
+review/text: This has become my new favorite tea.  The full minty flavor in this tea hangs around long after the cup of tea is finished.  It's very refreshing and a perfect partner for a cold winter evening.
+
+product/productId: B0009F3PJ4
+review/userId: AW13P6RIMX5LJ
+review/profileName: socchia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296345600
+review/summary: favorite tea ever
+review/text: I never review anything, but I love this company so much that I want to spread the word. Out of the many different brands of mint tea I tried, this one is by FAR the most intense, satisfying and flavorful. I can definitely vouch for the peppermint tea (and I just bought the Eater's Digest and love it too), I haven't tried the other kinds yet, but if you're contemplating which brand to choose, start with Traditional Medicinals before you waste your money anywhere else!
+
+product/productId: B0009F3PJ4
+review/userId: A3E7BELU6XAFE7
+review/profileName: melinda  nachman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Wonderfully refreshing
+review/text: Wonderful mint flavor that does not get bitter or too strong no matter how long you steep it. Great price with subscribe and save.
+
+product/productId: B0009F3PJ4
+review/userId: A3F9G2OBBIPCVT
+review/profileName: Zaneta
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347148800
+review/summary: True taste of peppermint
+review/text: This truly is the best tasting peppermint tea I have ever tasted. I use the bags twice that is saying a lot for tea. I gave my Mom a box and her words were almost identical to mine. A plus is that it helps those with digestive issues. Try it!
+
+product/productId: B0009F3PJ4
+review/userId: A243Z1G9XVQKK1
+review/profileName: Amber Pacey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Best mint tea
+review/text: Have been buying this repeatedly for about 2 yrs. I've tried several other brands and always return to this one. Perfect mint flavor and strength.
+
+product/productId: B0009F3PJ4
+review/userId: A1UP4XKL7SRNNA
+review/profileName: Jomae54 "Jomae54"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326153600
+review/summary: BEST PEPPERMINT TEA I'VE FOUND
+review/text: Yes......this is by far the best tasting Peppermint tea I've tried.  And I think I've tried just about all of them.  I have acid reflux and microscopic colitus so it really helps my stomach and digestive system calm down.  Plus this one tastes wonderful. I drink it every morning before breakfast and sometimes during the day.  But I find it starts my day out in a very calming relaxing way.  I was really excited to find it at Amazon and at such a great price.  I have literally ran around from store to store just to find this Organic Peppermint Traditional Medicinals brand.  So often they are sold out of it and for good reason.  Others must love it as much as I do!!  Try it you'll love it :)
+
+product/productId: B0009F3PJ4
+review/userId: A2R8FSST5DMNUS
+review/profileName: Sharon "Business Lady"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324944000
+review/summary: Great afternoon pickup without caffeine
+review/text: Pure peppermint herbal tea - all you need to perk up that afternoon sluggishness.  I love mint tea - but kept searching for a peppermint tea without other flavors to mask the pure energy.  This one is the best I have found, intense flavor with no additives.
+
+product/productId: B0009F3PJ4
+review/userId: A2NCCN1AKS0UJX
+review/profileName: Andrew J. Peterson "ap30"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324857600
+review/summary: tastes good
+review/text: Seems to get rid of stomach acid coming up my throat. forgot what that's called. May just be the placebo effect.<br /><br />I put a tea bag in a 20 oz container with reverse osmosis water before I go to bed. I then drink it in the morning with my breakfast.
+
+product/productId: B0009F3PJ4
+review/userId: A3NWDL41IO54IG
+review/profileName: Peachy!
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296259200
+review/summary: Love It!!!
+review/text: I love this tea, it tells you on the package on how to prepare it. It helps when I have an upset stomach or  a headache. I will buying this tea again and again.
+
+product/productId: B0009F3PJ4
+review/userId: A1BWNDBIP3S2J4
+review/profileName: Toni Griskivich "Island Hopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294012800
+review/summary: Soothing
+review/text: My favorite tea is Organic Ginger.  However, recently I had a tummy that needed something more soothing.  This Organic Peppermint tea has a wonderful aroma and flavor and helped soothe my body and mind.  I recommend this tea for when you are stressed or when your tummy needs soothing.
+
+product/productId: B0009F3PJ4
+review/userId: A19IKYEIXSNUQX
+review/profileName: Karen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288051200
+review/summary: Tea Drinker
+review/text: I brought this tea because mint tea is great for cramps.  Well the aroma and flavor is what hooked me.  I drink it, if I just want a cup of tea.  It's not often you get a tea that's medicinal and has great taste.  I've shared this product with a couple co-worker and they even enjoy it (they're not real tea drinkers)
+
+product/productId: B0009F3PJ4
+review/userId: A37IMA6O3CJW98
+review/profileName: Nonnas Niche
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1278288000
+review/summary: Very flavorful
+review/text: The organic peppermint tea has an intense flavor. This tea has a number of uses for me. I use it in an Iced Spice tea blend that I make; as a single cup of hot tea at night to calm my coughs; as a digestive aid when I eaten food that is a little spicy and to flavor a simple syrup for plain iced tea.
+
+product/productId: B0009F3PJ4
+review/userId: AVMY3G61UEG9P
+review/profileName: Ken McCormick "kmccormick12"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265414400
+review/summary: EXCELLENT Peppermint Tea
+review/text: As another reviewer said, this is the best peppermint tea I have ever had.  It really is a cut above other ones I've tried.  I love this tea.
+
+product/productId: B0009F3PJ4
+review/userId: A250AXLRBVYKB4
+review/profileName: Nathan Beauchamp "ConsumerAdvocate"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1238544000
+review/summary: Organic Peppermint Tea
+review/text: Traditional Medicinals makes some really nice tea, and their organic peppermint is one of the best. It is strong; none of that weak fare you get at your local grocery store. You can really taste the peppermint oil on your tongue, almost as if it were brewed from fresh peppermint. It is not sweet; add some honey or raw sugar if you like it that way. Excellent for your digestive track and memory, peppermint tea is a wonderful study aid and will help you stay focused without getting the jitters of caffeine.<br /><br />A first class tea, and easy to recommend to anyone who enjoys herbals.
+
+product/productId: B0009F3PJ4
+review/userId: A3H4FFQ4AYZORO
+review/profileName: Kevin A. Dixon "Mark"
+review/helpfulness: 0/3
+review/score: 4.0
+review/time: 1260835200
+review/summary: Tasty!
+review/text: I love this tea, It has flavor, and zaz.<br /><br />you should try it.
+
+product/productId: B001E5DWYG
+review/userId: A26M5O53PHZTKN
+review/profileName: Debs "peanut"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285804800
+review/summary: Great taste
+review/text: I grew up on this juice in England. The lemon flavor was the original. Look for the orange and black currant......mmmmmm It is great. In the USA you don't tend to find what we call 'cordials' so much. It is a economical way of getting a great tasting juice. It is so concentrated, it goes a long way. I have a soda stream (again something I grew up with in the UK) and I make a lot of club soda with it. I then add a small amount of Barley water and it is so refreshing.<br />I love it !!!
+
+product/productId: B001E5DWYG
+review/userId: A2Y8CPU9XI0BPK
+review/profileName: Vera Miles
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1322438400
+review/summary: Really liked it until I read the ingredients: saccharin!
+review/text: Since the 2nd listed ingredient in this beverage is sugar (behind water), why bother to put saccharin in it as well?  It's the last ingredient listed, so presumably a small amount, but why add it at all?  My child is allergic to sulfa drugs, and people who have allergies to sulpha drugs should stay away from saccharin.
+
+product/productId: B001E5DWYG
+review/userId: A1MEKS65L1N4NL
+review/profileName: G. L. Munn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280448000
+review/summary: This is a great product
+review/text: I was introduced to Robinson's Lemon Barley Water by a friend that grew up in the U.K. I cannot attest to any latent "health" benefits of the product, but I agree with the other reviewers that this is absolutely delicious and refreshing when spritzed up with seltzer water in keeping with the directions on the label.
+
+product/productId: B001E5DWYG
+review/userId: ANPUIF8TV0YPH
+review/profileName: Audrey C. Warren
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1260403200
+review/summary: Wonderful Barley Water
+review/text: Lemon Barley water is delicious with club soda or seltzer water.  It gives it just that right amount of fizz!  I grew up with Lemon Barley water and am thrilled I can get it stateside.  I have ordered it from here before with great results.  Three bottles last quite awhile.
+
+product/productId: B001E5DWYG
+review/userId: A3GK31LK9MQFI5
+review/profileName: R. M. Jackson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1241481600
+review/summary: refreshing lemon drink
+review/text: Lemon and Barley water is a refreshing drink that you dilute to your preference of strength not too sweet and perfect for all year use.
+

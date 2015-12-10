@@ -1,0 +1,1143 @@
+product/productId: B009HA1KA8
+review/userId: A30HHGQ1P5OXTZ
+review/profileName: Stephanie Adams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Best coconut water we've tried
+review/text: This stuff is delicious, sweet and fresh-tasting - no strange aftertastes like some brands (*cough* Vitacoco *cough*)- and the only ingredient is coconut water!  No preservatives, stabilizers, thickeners, or sweeteners. I'm hooked.
+
+product/productId: B007F1L73Q
+review/userId: A5TH2RA0WJNB7
+review/profileName: Afro Goddess
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347926400
+review/summary: This seasoning used to be so good but now its trash!
+review/text: I grew up using Old El Paso taco seasoning but within the past year the company changed their recipe and now the seasoning is horrible.  If you go to the Betty Crocker website for this product you'll see upwards of 50 negative comments asking that the seasoning to be changed back to what it used to be.  If it says "original" beware because its just deceptive packaging.<br /><br />It's a shame because they had a customer for life in me but now I'm in search of a new seasoning.<br /><br />If anyone has a similar alternative to this seasoning please let me know.  Don't suggest your favorite seasoning, just one that is similar to the old OEP mix. Thanks!
+
+product/productId: B002HFN9SQ
+review/userId: A3AYFI2ZE5N3T7
+review/profileName: FairSher
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313625600
+review/summary: Excellent flavor!
+review/text: I am very particular and have tried many green teas.  This tea is my favorite, so far!  It is smooth and flavorful; not bitter, as some green and white teas can be.  I also like the built-in dispenser!
+
+product/productId: B001G7PK4M
+review/userId: A3PUF3OI3DNX66
+review/profileName: Green Witch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296000000
+review/summary: Wonderful Stuff!
+review/text: I have been using Giovanni Body Wash (White Tea scent) for several years now. I have extremely sensitive skin, prone to acne, rashes and irritations when using most other soaps. I have wasted tons of money trying soap after soap hoping to find something that wouldn't irritate my skin, lathering well, while leaving me feeling clean. This soap has a really nice, soft scent, washes skin clean of dirt and oil and leaves no soap scum after rinsed off. This is the only soap I have found that does not cause break-outs/irritations and lathers well. I truely wish I could find a more econonmcal product that does the same job as this body wash but still haven't found one. So I try to find really good deals when buying this body wash to help off set the cost.<br /><br />Please note: this soap is a little drying.. so if you already have a dry skin conidtion this may not be the soap for you. I lived in a very warm humid climate when I started using this soap and did not notice the drying effect until I moved to a much cooler and dryer area. With that being said Giovanni also sells one of the best moisturizers I have ever used, it's their body butter (comes in the same scents as the body washes). This body butter works fantasticly! I am in the health care field and have to wash my hands many, many times a day. If I put some of the body butter on at night right before I go to sleep, my hands are moisturized all the next day without reapplying! I have tried many moisturizers that seems to work great until you wash your hands, then its like you never had any on in the first place... the body butter is not like this.
+
+product/productId: B001G7PK4M
+review/userId: A2O88AM53QRNOW
+review/profileName: starsweet
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1262390400
+review/summary: Where's the moisture?
+review/text: Ok, so I absolutely love the packaging and the nifty description on the back of the bottle, but when I'm paying .64/oz, I expect it to moisturize. Giovanni claims that their washes include "essential oil complex to soothe, smooth and regenerate skin's lost moisture" but the ingredients' list contains no such ingredient, unless they are referring to the "Essential Oil Fragrance" in which case they are blatantly lying because essential oils provide scent, not moisture. Even the dollar bottles of cheapo wash at Walmart contain some type of moisturizer, albeit petroleum. Sometimes I use St. Ives Whipped Silk body wash and it's definitely more moisturizing than Giovanni due to the sunflower oil. I've noticed even JASON's washes contain Sodium PCA to moisturize (although their stuff also has harsh sulfates, so I've never tried them). Or maybe Giovanni deliberately left out any moisturizers out so that we buy their lotions/body butters. Ha!<br /><br />While I sound like I hate the product, I really don't; I just wish it provided some moisture. The good: it looks and feels like a spa product, washes well and rinses cleanly, and smells good and not artificial perfumey like Herbal Essences and all that other junk. Also, it actually works well as a shampoo when in a pinch. In fact, I've taken to using it as shampoo as well since Giovanni keeps changing their shampoo formulas (and for the worse, it seems, judging from the new ingredients) and body washes tend to be more gentle than shampoos. I've tried Raspberry Winter, Lavender Vanilla Snow, Cassifluer White Tea, and D:tox (bar soap form) and they all smell awesome. True aromatherapy in a bottle.
+
+product/productId: B00445R6TA
+review/userId: A2KQRUKXGEIPJ8
+review/profileName: Spencer Little
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: My favorite bubble gum
+review/text: Of all the bubble gum I have ever chewed this is my favorite brand. It has the longest lasting flavor and soft texture. It cannot be chewed all day but it is the longest lasting one I have ever used. I buy only this brand of bubble gum.
+
+product/productId: B003TQOOUY
+review/userId: A3TM8S6STEVCMF
+review/profileName: jaci
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1291420800
+review/summary: pure vanilla
+review/text: this is the best vanilla I have ever used in any of my recipes!!! I plan to buy more soon.
+
+product/productId: B003TQOOUY
+review/userId: A12QPZYKV4RROT
+review/profileName: Mkr3
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332547200
+review/summary: Best Vanilla!
+review/text: "Best vanilla out there! Makes a huge difference in all my baking. I got some of this a couple years ago when a coworker went to Mexico. I loved it but had a hard time finding it so I am so glad they are on Amazon now. I bake all the time and it just makes such a difference. They also are extremely fast every time I order I have it within two days. I definitely recommend them and this product and their clear vanilla!"
+
+product/productId: B003TQOOUY
+review/userId: ARORIAJ3DZLBC
+review/profileName: Scrappy "bargain shopper"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1324944000
+review/summary: Amazing taste!
+review/text: This was my first time ordering Mexican vanilla online. I wasn't disappointed when I used it in my fudge, brownies, and other recipes. Mexican vanilla really enhances other flavors. Yummy! :)
+
+product/productId: B003TQOOUY
+review/userId: A28X0JUWR1UWIC
+review/profileName: Mitchell Jordan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341187200
+review/summary: Love Mexican Vanilla!
+review/text: This vanilla has a little bit different taste, and it is what sets my recipes apart!  People want to know the difference..real vanilla from Mexico!
+
+product/productId: B003TQOOUY
+review/userId: A2LCZ202KQZYLP
+review/profileName: Hellagood
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340236800
+review/summary: High Quality product
+review/text: Used it several times so far with perfect results.  :-)  I don't really know what else to say about it.  lol
+
+product/productId: B003WSY3AA
+review/userId: A2H4HZDH2FZPKC
+review/profileName: Kimberly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329782400
+review/summary: Fun!
+review/text: The fam loves to make all the different flavors and its so easy to operate! If you don't know what your favorite flavor is yet, this sampler pack is perfect.
+
+product/productId: B000LRKQMY
+review/userId: A2SO5YK94CS2Y0
+review/profileName: Audrey R.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337299200
+review/summary: Love this taste
+review/text: I bought this product out of curiosity. A small recipe book came with it. Since I had no idea how to use this mix, I used a recipe from the book which was chicken and sauerkraut goulash. It tasted so good!! I pretty mush use the mix for only this recipe since then.  It may not taste like typical goulash with this product, but I really love this!
+
+product/productId: B001VNHX8W
+review/userId: A1VPCMJ38MDT1O
+review/profileName: Christine
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336953600
+review/summary: Good flavor, nice price on a tasty herb.
+review/text: These are not always easy to find in typical grocery stores especially outside the city.  Very good on a variety of foods and these are a great combination and the price I paid on Amazon for 3 bottles is about what 1 bottle would cost me at my local store.  Very good way to try these without spending a fortune.  I also like the shaker top that is built in.
+
+product/productId: B001VNHX8W
+review/userId: A36CCLPMU6YDYL
+review/profileName: E. Heppert "Beth"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331769600
+review/summary: Good mix of seasonings
+review/text: These make for adding seasonings easier since they are already mixed together. They appear fresh and are great in my homemade salad dressings!
+
+product/productId: B000HZEZSG
+review/userId: A7VNP2A3H72JD
+review/profileName: Glenda Steffee "GH Steffee"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1175904000
+review/summary: Sweet 'n Hot
+review/text: I've used this on chicken and pork and cooked indoors and outdoors - it's terrific!  Everyone is surprised that there is a spicy kick to it after tasting the papaya flavor.
+
+product/productId: B000HZEZSG
+review/userId: A2IWVZP1AC1JLS
+review/profileName: Robin Dornbaum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: Made a hit at by BBQ
+review/text: Lawry's caribbean jerk marinade made my bbq chicken just delicious!! It is not too spicy; it gives chicken a great taste, blending spices and fruit juice.  Everyone who came to my bbq wanted to know what kind of marinade I used and they are going to buy this product, too.
+
+product/productId: B000HZEZSG
+review/userId: A307YFSORUAXSQ
+review/profileName: NYCPickyMom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316476800
+review/summary: Not Spicy, just perfect
+review/text: This is the best bottled jerk marinade I have found. It isn't very spicy which is great when cooking for my family. I love this on chicken, pork and burgers. It takes about an hour to marinate but I've had the best results marinating overnight. When I want more authentic jerk taste I add some Walkerswood Jerk to the marinade and that kick up the spice an incredible amount. My kids cant do the Walkerswood. I recently made chicken with this at a BBQ and I had to send one guest home with a bottle of this sauce.....thats how good the chicken was. I hate that i cant find this in my local market anymore but Amazon has me covered, so no worries.
+
+product/productId: B000HZEZSG
+review/userId: AQLL2R1PPR46X
+review/profileName: grumpyrainbow
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271289600
+review/summary: Great
+review/text: This is very tasty as a marinade or to cook with.  I've used it on chicke and pork and both turned out wonderful.  It's not overly hot or sweet, but a perfect combination of both.  Some in my family don't like sweet food and enjoyed this.  A good way to use it is in the crock pot over a pork butt.  Make a fruit salsa and you have the makings of a delicious taco.
+
+product/productId: B000LKXAEW
+review/userId: A28FR4H0QLOEL4
+review/profileName: M. Y. Price
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1220745600
+review/summary: PINTS not quarts. Too expensive but tastes great.
+review/text: I love this product but I misread the size of the boxes.  They are pints, not quarts.  You can get these cheaper elsewhere.  (Taste is quite nice for 'canned' broth.)
+
+product/productId: B000LKXAEW
+review/userId: AXQIHSF9KK7CO
+review/profileName: Dody
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1213142400
+review/summary: Vegetarian Staple
+review/text: A great pantry staple for vegetarians.  This is wonderful used to cook dried beans.  Add some onions, seasonings, hot sauce, and liquid smoke.
+
+product/productId: B000LKXAEW
+review/userId: AYWUHB7N8XGZQ
+review/profileName: Evelyn A. Getchell "Evie"
+review/helpfulness: 5/6
+review/score: 2.0
+review/time: 1224806400
+review/summary: Way too expensive
+review/text: This product is actually great.  I love it and always keep several containers on hand but I overlooked the size here.  I thought I was ordering the larger 1 qt size. My own fault but still I was upset with myself for not catching this error sooner.  When the case arrived today and I discovered I had purchased 1 pint containers for almost $32 instead, I cried.  I recommend the product but don't buy it from Amazon...any place else will probably be cheaper.
+
+product/productId: B000LKXAEW
+review/userId: A1WV25LU9QKGDZ
+review/profileName: Al Chartreux
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1229126400
+review/summary: Good Product But Overpriced
+review/text: This is quality vegetable broth; the only problem is that it is very much overpriced. You get twelve 16-ounce boxes for $31.68. Please take note that at 16 ounces, each box is one-half the size of the normal, 32-ounce (one quart) stock boxes that you see in the supermarket. So, you're basically paying for six quarts of stock. $31.68 divided by six equals $5.28 per quart, way overpriced. Even in expensive Manhattan markets, a one quart box of stock sells for $2.99. Caveat emptor and happy cooking.
+
+product/productId: B000LKXAEW
+review/userId: A3ORYGSPNUSH82
+review/profileName: Il Park
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1232323200
+review/summary: Good substitution for water, enhances both taste and nuturition
+review/text: The product is pretty neutral in taste, although the taste of carrot is somewhat present. I use it for soups, jambalaya, chili/stew, curry, and so on. It can almost always substitute water. If it is too strong I dilute it with water.
+
+product/productId: B000LKXAEW
+review/userId: ALLEGIPRTLPLY
+review/profileName: J. Herzing "realbella1"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1295568000
+review/summary: Packaging a bit deceptive
+review/text: This is a great product.  However, it is a much smaller size than the ones sold in stores.  I bought the product thinking it was a really good deal.  It turns out that I could have bought the larger containers in the stores and spent less money.
+
+product/productId: B001ECOZWC
+review/userId: A362U3IW1184QG
+review/profileName: esther kamhi
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1279238400
+review/summary: whiskey truffles
+review/text: The whiskey truffles are a delicious treat, a wonderful reminder of my recent trip to Ireland. They arrived promptly and well packaged. Thank You!
+
+product/productId: B001ECOZWC
+review/userId: A34N6KPUFOVYSJ
+review/profileName: Realtalk-4-ur-ABS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343952000
+review/summary: This is wonderful
+review/text: Not only is the chocolate great, you can actually taste the whiskey. I feel it enough to have a burn going down my throat. The chocolate with is is a great combination. The customer service is wonderful and the way that they package my product was so the customer knows that they really care how we receive the chocolate. A must buy for anyone one anytime.
+
+product/productId: B001ECOZWC
+review/userId: A21VGNU5959O85
+review/profileName: Laura Terese Henri
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1329436800
+review/summary: Dessert for real men.
+review/text: Valentines day is all about flowers and chocolates and getting some action once a year. At least that's what the commercials tell us. In our house we don't play by the rules, therefore chocolates aren't gonna be heart shaped and taste like waxy butt.<br /><br />One of my Fiance's drinks of choice is Jameson's Whiskey and Cranberry Juice. We call it a "Slutty Laura" named after me of course. Looking for a sweet treat for V Day I came across these. Butlers Jamesons Irish Whiskey Truffles. PERFECT!<br /><br />Most liquor/chocolate combos are made of seriously crappy chocolate surrounding a splash of liquor, mostly concoctions such as Kahlua, or Baileys Irish Creme, or Orange something or other. I had never seen a straight up Whiskey truffle. They come 10 to a box, BUT they are very rich and potent and delicious.<br /><br />Just the right amount of Whiskey aftertaste, creamy on the inside, great quality Butlers chocolate. A smooth dream of a candy, just like my Fiance.
+
+product/productId: B001ECOZWC
+review/userId: A1P8ZVG6MJX9O1
+review/profileName: Mark Emdee
+review/helpfulness: 3/5
+review/score: 2.0
+review/time: 1326672000
+review/summary: Comes out to about $60 a Pound
+review/text: Watch out what you get for the price ($9.99 + $6.50 shipping), which is almost $60 a pound with this weight of 125 grams.
+
+product/productId: B001ECOZWC
+review/userId: A1ATKHRV8ZIP3Z
+review/profileName: Barbi "Barbi"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1338422400
+review/summary: MOST OUTSTANDING CUSTOMER SERVICE I HAVE HAD FROM AMAZON
+review/text: WOW! Where to start.<br />I ordered these chocolates for a friend that is a big fan of this liquor; of course we all sampled them. Now these were not my favorites that I have had in liquor chocolates so I gave them a good rating for the transaction being smooth but not perfect because it was not my favorite. Now was this fair of me when to each his own and it was not my favorite? Well I don't know but I have to take back my not so perfect score and revise.<br />THIS ISTHE BEST SELLER I HAVE CAME ACROSS THIS FAR on Amazon AND I LOVE AMAZON. I was on vacation when they called me back about my rating, when we finally got to speak the two people I spoke with were the most pleasant and accommodating people ever, they wanted me to give their product a chance and were very dissatisfied that I was not completely happy. WHAT YOU SAY? NOT THESE DAYS. YOU ARE CORRECT, I WORK FOR A REAL ESTATE LAW FIRM AND I STRIVE TO PLEASE my clients MYSELF, WELL IT IS A DYING QUALITY. I could go on but I will say this. They sent me something different and had me chose and this time it was HEAVEN IN MY MOUTH. After being told by someone on here once that they did not want me to buy from them anymore because of a less than perfect rating, I WILL BE ALWAYS BUYING FROM THIS SELLER ANYTIME I'M IN THE MARKET FOR THIS KIND OF CANDY, NEXT TIME I WILL JUST CALL AND TALK TO THEM AND LET THEM SUGGEST FOR ME WHAT TO GET BECAUSE THE COCOLATE FILLED WITH BRANDY WAS/IS ABSOLULTEY AMAZING! Thank you for being this way and it is very much appreciated and I will refer anyone I know and share my candy with where and who to get it from I can promise you that much. BARBIE HADAWAY
+
+product/productId: B001ECOZWC
+review/userId: A3EQVS994A0MVD
+review/profileName: Barukh94
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1345334400
+review/summary: Great gift for a girl!
+review/text: So I'm from New York, but am working at an internship in Florida. And one of my closest friends is an awesome girl who still lives in New York. She was feeling a bit down about something, so I figured I'd try to send her some chocolates. These were pretty inexpensive, I must say. And she doesn't normally drink that much. But because these tasted pretty good to her, she ate a few of them, and was pretty tipsy! And then she texted me ;) anyways thank you for allowing me to get a girl tipsy from 1000 miles away!!!
+
+product/productId: B001ECOZWC
+review/userId: AG89YXJSTWGEE
+review/profileName: Classic Collecter
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1344816000
+review/summary: Jameson Irish Whiskey Truffles
+review/text: This is an experience to be savored<br />with guests. Never to be forgotten.<br />A wondefull tribute to Ireland with<br />a product known for it's quality.
+
+product/productId: B001ECOZWC
+review/userId: A3DRMRU1AEHU1A
+review/profileName: June81
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1341014400
+review/summary: Really good and well packaged
+review/text: First of all I was impressed when I opened the package.  The seller put a lot of effort into making sure the chocolates didn't melt.  They were packed with cold packs and insulated.  When I got through the packaging they were perfect!  Not even a tiny bit melted. I really enjoyed the flavor.  There was a hint of whiskey but it wasn't overpowering. The smooth chocolate and whiskey combo was delightful.  I thought these were great and they'll be on my Christmas list this year.
+
+product/productId: B001ECOZWC
+review/userId: A39BB7FX5O2QXR
+review/profileName: John F. Moore "JohnMoore"
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1325203200
+review/summary: For the Irish In Ye!
+review/text: What's not to like?  The top Irish chocolatier and the top Irish whiskey together in truffles!  Yum! My wife and I toured Ireland last year, and I wanted to give her some Christmas gifts that would remind her of this very pleasant experience.  FWIW, if you're planning to go over, be sure to visit Derry and Belfast as well as the Republic.  The Irish-American Folk Museum in Ulster shouldn't be missed!
+
+product/productId: B001ECOZWC
+review/userId: A14F5P4SMXAZIY
+review/profileName: gabriele
+review/helpfulness: 2/5
+review/score: 5.0
+review/time: 1312329600
+review/summary: better then godiva
+review/text: it is exelent quality the schoko is so smoth and melts of the tung like creme it is better then any godiva truffel i payd an fortune for
+
+product/productId: B003CMJTHS
+review/userId: A2NL8MDY1N7LZY
+review/profileName: B. Teti "So Many Books, Not Nearly Enough Time"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325030400
+review/summary: Mushroom Salt
+review/text: My son was delighted to receive this as a gift for Christmas.  Awhile back we were given a gift pack of various salts and this flavor was his favorite.  It quickly was consumed and he commented about how much he missed this item.  Now he has a replenished supply.  We paired it with a bamboo salt box for a really unusual gift.
+
+product/productId: B000NABQXM
+review/userId: A27PFOZAKVK484
+review/profileName: Luna Moth Wilkins
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1217030400
+review/summary: YUM! but not craveable
+review/text: These were tasty...you don't get a BREAD taste per se...it seems more as if there are bits of salt in the chocolate.  Which was good.  But not cravable enough to order again and pay the high price plus ridiculous shipping cost.  If they showed up at a local store I might buy a couple, but I would not seek them out.  Would rather have homemade bread with Nutella on top.
+
+product/productId: B000NABQXM
+review/userId: A1V7RYRYMYKPT
+review/profileName: J. Bratton
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1224288000
+review/summary: Loved this
+review/text: I had this in the factory in Seattle.  It was excellent.  I agree with the other review that it can get expensive, but there's nothing else like this so you might want to try it out.
+
+product/productId: B001EO5SQC
+review/userId: A1HUGAJMCPXDVD
+review/profileName: A. Parr
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1268265600
+review/summary: Gia Russa tastes almost homemade
+review/text: This is one of the better pasta products on the market.  Holds up well under many types of sauces.  Also love their papardelle.
+
+product/productId: B0014OBALO
+review/userId: AKOU2PT33V3P6
+review/profileName: Robyn Browne
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317600000
+review/summary: Crazy pepper
+review/text: This is the best pepper and not available at my local stores.  I am very glad to find it on Amazon.
+
+product/productId: B003404JF0
+review/userId: AWVEX33OEHPBX
+review/profileName: Olive Oyl "Mama to Many"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1274227200
+review/summary: Sinful!
+review/text: I have had both of these flavors and they are out of this world!  I especially like the hazelnut one.  I wish these were a little more affordable, as you eat one at one sitting unless you can resist and save half for later.  I have gotten them at my health food store for 4.69, so Amazon has a large mark up on them.  Enjoy!!
+
+product/productId: B003404JF0
+review/userId: A3E3AQXRJQYSH8
+review/profileName: J. Gallagher "Chrystals"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: Treats for the holidays!
+review/text: These mini cheesecakes are scrumptious and a great addition for your guests who require a gluten free dessert - with the mini sampler size you can offer multiple flavor choices and they are all so tasty!
+
+product/productId: B003404JF0
+review/userId: A39DLJ9FUCEI58
+review/profileName: S. Kester "shortlycute"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1285545600
+review/summary: better than cheesecake factory!
+review/text: I got these because I love cheesecake and have gluten sensitivity.  I was blown away at how good they were!  It's also nice that they are single serving size, so I just kept them in the freezer and took one out a few hours before eating it.  The only downside is that the crusts are a bit thick for my taste, but that is easily remedied by just eating the yumminess of the cheesecake :)
+
+product/productId: B0076Z1Z6U
+review/userId: APGZG16B07X0Z
+review/profileName: Dianne Davis "glitterik"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347753600
+review/summary: Not an Italian Sauce
+review/text: I used to buy this sauce every time I saw it in the store, sometimes 5 or 6 cans at a time, because it wasn't so easy to find. I find the Hunts pasta sauces taste fresher than jarred sauces and are more flavorful too. But over a year ago, they changed the ingredients for the spicy style sauce. It used to be slightly peppery and spicy, but now it tastes like it might make a good base for chili or chili pasta or even a Mexican dish. Not bad, but definitely not an Italian flavored sauce.
+
+product/productId: B001EPPXRK
+review/userId: A1L1T27A33DDP6
+review/profileName: Quietwolf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Colorado Spice Orange Peel, Fine Cut
+review/text: It was more then I needed but I'm glad I bought in bulk. This product is as described and saves me the time of removing the pith and cutting the peel myself. I like the flavor the orange adds to my cooking and so do my wife and kids. Thank you for this great time and money saving product.
+
+product/productId: B007NIZM14
+review/userId: A2XC2IA76AU2NL
+review/profileName: Avid Rose "viddie"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344643200
+review/summary: Amazon subscription saves money and cats ecstatic with taste
+review/text: My cats think this product is the greatest thing since sliced bread.  Luckily they are not gluten free and having to toast the bread.  To me it does not smell as good as Alpo did decades ago, but it doesn't have that strong smell that you get if your cat does not finish its food.  Its portable and does not require a can opener.  I know we are all use to those flip open cat food, but they do not open 100% without the use of a can opener.  This product NEVER requires a can opener.  Its even easy to bring if you are on the go.  In short, its portable and cats love it.  So my pampered felines are really eating it all up which makes every living creature (including me) in my house happy.
+
+product/productId: B007NIZM14
+review/userId: A1Z8ENYSB5AU74
+review/profileName: Christianne
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346889600
+review/summary: My cats really like this!
+review/text: All 3 of my kitties really seem to like this! I had a kitty visitor and she liked it, too. A friend feeds it to her cats and they love it so I decided to give it a try and we are on our second box. Meow Mix may not be one of the better brands but sometimes when kitties are picky and will not eat the premium food you have no choice. It is better for them to eat junk than not eat at all and my kitties really seem to enjoy this food. Fast shipping as always with Amazon!
+
+product/productId: B0006IYHU0
+review/userId: A1XQ9PL0VD7MHW
+review/profileName: Aunt Laurie
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1200614400
+review/summary: Astronaut Food
+review/text: Any of us who grew up during the U.S. space age should use items like this as a way to introduce today's kids to the excitement of the late '60s/early '70s. This is an inexpensive and fun gift (buy several -- they won't go stale! -- including some of this ice cream for yourself to feel young again.)  Last Christmas my 9-year-old niece made a face over the freeze-dried strawberries (they were indeed a bit sour) and seemed to turn her nose up at the chicken-and-rice meal.  I thought my cool idea had been a bust.  This year, however, she reminded me of the astronaut food and requested more.  Score!
+
+product/productId: B0006IYHU0
+review/userId: A3JELI1UH620FO
+review/profileName: Stacey
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1311379200
+review/summary: Delicious, but you're paying for packaging
+review/text: I was doing a space unit during camp this year, and thought this would be a fun addition. The kids loved it! However, we had snack afterwards and one of the students had freeze dried apples that were nearly identical only packaged as a regular old snack... his were easier to obtain and cheaper as well.
+
+product/productId: B0001JXDQS
+review/userId: A8WKNCN7FUZ3U
+review/profileName: H. Vardhan "vardhans001"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1256083200
+review/summary: Excellent product
+review/text: If you are even a semi-regular baker with recipes that call for candied fruit peel (or you happen to throw candied fruit peels into everything including your morning coffee and thai curry just because they taste good), you have also realized that the baking section in most grocery stores now consists of atrocious "mixes" where you "just add water and bake" or poisonous looking icing tubes. Even if you have the good luck to find a store which actually sells real candied fruit, the prices are more in line with those of Italian truffles. The candied diced lemon peel from Barry Farms is excellent quality, delicious and priced reasonably. I am coming back for more the moment I am done baking with the current box.
+
+product/productId: B0001JXDQS
+review/userId: A1MMZXMNFEY97S
+review/profileName: Chocolatier
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1322179200
+review/summary: Very Disappointed
+review/text: I ordered two of these and will basically have to throw them away.  I make chocolate truffles with all natural ingredients, and I normally make my own candied lemon peel.  The process is lengthy, however, and I was looking for a small way to save time by ordering this item online.  The problem I found is that the ingredients are far from all natural, and I cannot in good conscience use these on my truffles.  Not to mention the fact that the preservatives in them would taste bad.  I immediately called Barry Farm and asked to return them and they refused to help me in any way -- no returns, no credits for other items, and no compensation whatsoever.  If you are concerned at all that the ingredients are natural, I suppose you have to zoom in on the label (which is illegible otherwise).  This is a lesson learned for me, and I won't be ordering from Barry Farm in the future.  The two 8 oz. containers are still new and sealed tightly together with shrink wrap.  Anyone care to purchase them from me for a bargain???  If you comment on this, I should receive an email.
+
+product/productId: B0001JXDQS
+review/userId: A14J8EYFYYIIIE
+review/profileName: Nopeas
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1293926400
+review/summary: Wasn't what I thought it was
+review/text: I thought I was ordering candied lemon peels that can be eaten on their own. These are horrible for that purpose. I just read another review that said you can bake it into things and put them in coffee. That sounds like a bad idea, but I could be wrong. FYI - it is sweetened with corn syrup. Shipping is expensive because they send it priority, which to me seems like a waste and you have to sign for your package. So, if you miss the mail man, you have to visit the post office.
+
+product/productId: B002UUS89S
+review/userId: AQJJK92P9304P
+review/profileName: Kimberly K. Troutman
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1265587200
+review/summary: Excellent Indian Food at Home
+review/text: This is amazing Indian food that you can make at home without having to go out, the tandoori is awesome and I also suggest the butter chicken.
+
+product/productId: B002UUS89S
+review/userId: A2ERSPACR032RU
+review/profileName: no name
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1293148800
+review/summary: Outstanding!
+review/text: This was excellent and exactly spicy enough for us.  The rice was great.  I recommend this to everyone who likes Indian food.  And this is a product of Canada.
+
+product/productId: B002UUS89S
+review/userId: A1E1JOM949TQYQ
+review/profileName: D. Frampton
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1271203200
+review/summary: Love the stuff
+review/text: I tried this after buying the variety box and my family liked the tandoori so much I'm buying a case of it.
+
+product/productId: B000E7OYVA
+review/userId: A3N9KS0F1F06G9
+review/profileName: D. Newman
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1181174400
+review/summary: Exellent Organic Wheat Grass Seed
+review/text: The seed is worth every penny.  Though not advertised as organic, it comes organic!  The seed grows great.  I will buy it again in the future if the need arises.
+
+product/productId: B000E7OYVA
+review/userId: AOPGDH5M54SWN
+review/profileName: Dr Adam Weiss
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1260489600
+review/summary: Great
+review/text: Just toss the seeds in and lightly covered and they started growing right away- will see in the spring if we get any flour out of the amount for a 15 by 15 area of use. If not can always turn over and use before spring planting.
+
+product/productId: B000E7OYVA
+review/userId: A175JHBXEIKIHP
+review/profileName: sail
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1321920000
+review/summary: great seed
+review/text: this hard red wheat seed (chemical free) germinated very quickly and evenly in our garden; has been growing very rapidly without very much rain
+
+product/productId: B000E7OYVA
+review/userId: A2EB6W975PNJNG
+review/profileName: greenhousegirl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343088000
+review/summary: Good Service
+review/text: This product came in a timely manner.  It came with a nice label in sturdy bag, which seems basic, but I buy a lot of seeds and if they ship in shoddy packaging you get seeds everywhere.  The only complaint I have is that they do not give you the cultivar, but I knew this when I bought it.
+
+product/productId: B000E7OYVA
+review/userId: A3VK5B9TZRTZ90
+review/profileName: kat84
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340496000
+review/summary: Good seed
+review/text: Good price for a large quantity and I get a good crop of wheat grass each time that my cats can enjoy.
+
+product/productId: B000E7OYVA
+review/userId: A145V7P7BLM01K
+review/profileName: Norsehorse "Norsehorse"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331596800
+review/summary: No Crud Wheat
+review/text: I purchased this seed to add to my own stock of hard red wheat which was organically grown. Had hail damage to our crop last year and barely got a little harvested for seed, but none to grind for flour. Realized I wanted to plant more so I've ordered this seed. I haven't gotten any of it planted yet but looks to be a strong type seed. The kernels are uniformly shaped and appear to be of good quality.Looking forward to spring to get it planted.
+
+product/productId: B003EMU72W
+review/userId: A3P70OSL4E3YUM
+review/profileName: Sherry T. Eckel
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1342915200
+review/summary: Great deal!
+review/text: These red hots are great.  I bought them to feed the hummingbirds.  Two cups water, one cup sugar and four red hots keeps these hummers very happy.
+
+product/productId: B002AQLOAM
+review/userId: A5KEW7V8S05G3
+review/profileName: Karen E. Shaw "love to shop"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1272153600
+review/summary: Berry Liquid Stevia
+review/text: I love the berry flavor.  I used to buy bottled water in berry flavors, now I just add to water and it is just as good.  It doesn't have some of the stuff that bottled water has.
+
+product/productId: B002AQLOAM
+review/userId: AGBFM62009OCX
+review/profileName: E
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1323388800
+review/summary: Good stuff
+review/text: Just add drops to water and you have flavored water. The nice thing is there is no added color to the liquid.
+
+product/productId: B002AQLOAM
+review/userId: A3JKJZ9A10MVW9
+review/profileName: Lori
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1338854400
+review/summary: works well with water
+review/text: This product can sweeten water or club soda and you get to decide how much to put in or how sweet you want it!  I don't like it as much as Mio but it's all natural so I'm using it anyway.
+
+product/productId: B002AQLOAM
+review/userId: A2IBIEEEVZ4LY5
+review/profileName: Ladytech "Ladytech"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: Great way to get more water!
+review/text: I have been using this for almost a year. Water gets boring and hard to drink, this is a great way to help you drink more. I really like this berry flavor. Keep in mind, small amount goes a long way, I use 1/2 a dropper full to flavor 32 oz of water. I also have the toffee for coffee.
+
+product/productId: B002AQLOAM
+review/userId: A39PI8Z2HWM2NC
+review/profileName: K. Horne
+review/helpfulness: 0/6
+review/score: 1.0
+review/time: 1311897600
+review/summary: Believe the negative reviews
+review/text: These Sweetleaf "flavored" products are only for people who want something really sweet with just the very barest whiff of some flavor (you probably won't even be able to tell which one it is). If you're looking for a product that's about half sweetness and half flavor, THIS ISN'T IT. I urge you to save your money and look for another solution.
+
+product/productId: B002AQLOAM
+review/userId: AMUP4R4OB5N1P
+review/profileName: ADS2006 "walking in covenant"
+review/helpfulness: 0/7
+review/score: 2.0
+review/time: 1288915200
+review/summary: rating SweetLeaf Stevias
+review/text: I ordered many of the flavored stevias, sweetleaf and other brand, as I heard a friend say she really liked them in her coffee. They are "ok", but I find them to be more "sweet" than on "flavor"...in order to get the flavor I want, I would have to exceed the drops recommended, which, of course, you can't do.<br /><br />Oh, and by the way, stevia does have an aftertasteat--by no means as bad as other sweetners, nevertheless, it is there. Would I recommend the flavored stevias? Only if you're not looking for much flavor.
+
+product/productId: B000FBKGAS
+review/userId: A3U72U0WGPB2RG
+review/profileName: V. G. Carrington "VGC"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309392000
+review/summary: I began buying this product in Dubai.
+review/text: For several years, I religiously carted bags home in my suitcase purchased at the French grocery store Carrefour in Dubai. Then this particular mix disappeared from the shelves.<br />AT first I thought I had introduced too many colleagues to the "Best Cereal Ever". I only eat this particular cereal and mix it with organic yogurt and fresh fruit. Especially tasty with fresh peaches.<br />After emailing Familia to inquire about the problem, I was pleasantly surprised to receive notification that they had a vendor in the US and I turned to Amazon.<br />I am much happier now that Amazon delivers my cereal to my back door... just in case I am in Dubai when it arrives. Ahhh, the life of an International Flight Attendant!
+
+product/productId: B000FBKGAS
+review/userId: A1DXYK41JVEUKG
+review/profileName: Evangeline June Grim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293840000
+review/summary: "Good Stuff"
+review/text: I first obtained this product in a gourmet chocolate shop in Punta Gorda, Florida.  I enjoyed it very much, but after returning home to Maryland I had no idea where I could purchase more.  I went to Amazon and there it was.  Thank you, Amazon.
+
+product/productId: B000FBKGAS
+review/userId: A28UZAVQFZFJME
+review/profileName: Don S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287187200
+review/summary: Great Museli.
+review/text: One of my local grocery stores carries some Familia products. Their Muselis are very good in general, but this Swiss Crunch with seeds is one of my favorites. It is very satisfying (I eat it cold with some Silk Light Vanilla soy milk) and the seeds add an interesting variation to the fruit bits in most of the Muselis I've tried. Amazon's price is great too.
+
+product/productId: B000FBKGAS
+review/userId: A2WLVKAJF262SM
+review/profileName: J. Mullin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285545600
+review/summary: Tasty morning crunch.
+review/text: I am partial to the Familia Swiss brand for my museli, but this is my favorite crunchy style. I prefer to have the nuts in the mix and add my own fruit as seasonally available. Freeze dried fruit is just never as good.
+
+product/productId: B000FBKGAS
+review/userId: A3TW7G4Y2AD76D
+review/profileName: Sajid Yerunkar "Samy293"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229040000
+review/summary: Great Product
+review/text: I tried the rest of Familia Muesli Products but this one I liked the most. Amazingly tasty and very crunchy.
+
+product/productId: B000FBKGAS
+review/userId: ARAKTT5M3DDYA
+review/profileName: JustMe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1228953600
+review/summary: Great!
+review/text: I like em a lot, wife thinks they're the best cereal she's ever had, teen daughter thinks they taste just a bit better than hamster food, the others here like them enough.  Bags are pretty small but still a good enough deal that I'll buy again, just too good (and a unique flavor...really like the pumpkin seeds in them) not to.
+
+product/productId: B000FBKGAS
+review/userId: A1AHG76Y8S89BJ
+review/profileName: David De Sousa "The Automation and Control Guy"
+review/helpfulness: 2/6
+review/score: 5.0
+review/time: 1157155200
+review/summary: An Excellent and Healthy Choice for Anyone's Diet
+review/text: A quality product from Bio-familia, a Swedish company that developed "Bircherm&uuml;esli" a product so popular and successful that made the name Muesli famous all over the world.<br /><br />If you need a high fiber and protein snack option for your diet, this is absolutely a very good product. You can't go wrong and the best of all: excellent taste and quality, and for a pack of five this comes at a good value.<br /><br />Sometimes your diet will require you eat frequently and consciously, and in those cases you need to have a snack at hand when you get hungry, in order to keep your metabolism high all day long. In such cases finding a good and balance option could be hard. I love this 5-pack and I always have one at home an another pack at the office. I try to eat five or more times a day, so in my case having a healthy snack at hand wherever I am when I get hungry is a priority.<br /><br />Since you are checking this product I have to guess that you are probably a person that cares about what you eat, either because you are interested in losing weight, getting in better shape or just be healthier and keep in good shape, so I will share my own experience in the weight loss game and staying in shape game<br /><br />My own successful personal experience in weight loss is based on strategies to boost metabolism. Don't stress yourself, eat frequently, eat just what you need each time, and choose wisely what you are going to eat, supplement your diet. Yet simple and it works. I loss more than 200 lbs and shrink my waist (from 44 to 32), and I have been able to keep in good shape since then. Every single aspect of my life has improved since then.<br /><br />Keep in mind that a good diet is just part of the equation, you also need a plan that helps you keep on track and monitor your condition. Based on my own personal experience I can recommend some tools that you may want to consider, to establish your own strategies for boosting your metabolism, loosing weight, and even more important keeping that weight off. They are:<br /><br />- "Ultrametabolism: The Simple Plan for Automatic Weight Loss" by Mark Hyman. A practical an realistic plan for weigh loss.<br /><br />- "The ABS Diet", which is another very practical, readable, insightful, and inspirational book, that also includes an exercise plan.<br /><br />- A Body Fat Monitor or Scale. This will help you monitor your progress, to assure that the weight you are loosing is fat (fat lost = increased metabolism) and not muscle, water or bone mass (decreased metabolism).<br /><br />- A Heart Rate Monitor Wrist Watch. This is an excellent tool that will help you monitor and control your Heart Rate in order to keep yourself in a burning fat state (increased metabolism).<br /><br />- "Heart Monitor Training for the Complete Idiot", a primer on the use of Heart Rate Monitors for health improvement or weight control.<br /><br />If you want to star focusing only on your diet, the first two may be worth considering. If you exercise, or want to start doing it right, the last threee are for you. If you do both, all the recommended options can improve your results.<br /><br />I am 39 years old, With the help of the tools I just mentioned not only I went fro size 44 to size 32 pants, but also obtained substantial benefits that included weight control, cardiovascular improvements, lowered blood pressure, and improved muscular-skeletal strength and flexibility, but also the myriad of mental and psychological benefits derived from being in the best shape of my life.
+
+product/productId: B0001DQLWM
+review/userId: A2UMANHANCEIXK
+review/profileName: Randy E. Heick "tastebud"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327190400
+review/summary: I love my Smarties.
+review/text: This is one huge bag of smarties.  It is nice to have some when ever you need them.  Make sure you hide them of they won't be around long.
+
+product/productId: B0001DQLWM
+review/userId: A39GQM701CF2CT
+review/profileName: Dennis Malkowski
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1279497600
+review/summary: good thing to send troops
+review/text: i bought these to send to my buddy that was in iraq. They are a great choice because they don't melt and they keep forever and who doesn't like smarties in the first place
+
+product/productId: B0001DQLWM
+review/userId: AINFDTBFEM3IZ
+review/profileName: Mapleshade "Mapleshade"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326153600
+review/summary: Back to my childhood
+review/text: I remembered getting Smarties at the little variety store across the street from my school when I was in the fifth grade. When I saw these, I had to get a box and set them out for my friends when they come to visit. They have been a hit as almost everyone remembers getting them years ago. They are great, just a small sweet yummy treat that brings back memories. I didn't think they were still made. I am very pleased to be able to get them again.
+
+product/productId: B0001DQLWM
+review/userId: A27BFAKBB83AZP
+review/profileName: Randy Burrell "burrell84601"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315353600
+review/summary: Great Value on Fresh Smarties
+review/text: This candy was received very fresh. The price per pound with the shipped price was comparable to the grocery store if not cheaper. If you are a smarties addict like me, this is the only way to go.
+
+product/productId: B004P2ZVF8
+review/userId: A3C6AEQRCIWOJK
+review/profileName: FBS
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344297600
+review/summary: Lam's Yuca Chips
+review/text: The product shipped immediately and the items were all in good shape.  I enjoyed the Lam's Yuca Chips - great taste, texture and most of all the health - great fiber addition to any diet.  I recommend to all that love a bag of chips with a sandwich without all the added fat and calories.  Plan to order another case soon!
+
+product/productId: B005IOF99K
+review/userId: A37TSB31TA7GCG
+review/profileName: G. Munden
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1340928000
+review/summary: Ooops! Never Again!
+review/text: My review has nothing to do with the company shipping since that was ok. I have never tried chestnuts and these roasted and peeled (as advertised) nuts appealed to me. I thought these would be crunchy since it said roasted. These were like boiled peanuts ... mushy. The title should say boiled and peeled. I personally do not like boiled peanuts but if you do then this might be a good purchase. I will stick with the almonds, walnuts and pecans.
+
+product/productId: B005IOF99K
+review/userId: AHVDJKJVGASJI
+review/profileName: Cheryle Peloni
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323993600
+review/summary: As good as the more expensive chestnuts
+review/text: We usually buy the more expensive French chestnuts. I found these on sale at Target and love them. I ended up buying 9 packs from Amazon.
+
+product/productId: B000F3NQ12
+review/userId: A7MEWFQ26N7VZ
+review/profileName: tweak
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1268265600
+review/summary: Great for Boba Tea, but they cook up clear
+review/text: I bought these to make Boba Thai Iced Tea at home.  They are good, but I didn't realize that when they cook they turn clear.  It takes quite a while to cook them.  The first time I thought they had broken apart because while cooking they turn clear from the outside in, so I saw tiny white dots in the boiling water, but once I spooned them out I realized they were there, just invisible.<br /><br />They taste great, but their turning clear surprised me, I guess I am used to the black ones from the drink stands here.  They are fun, and I will try cooking them in colored water to see if I can tint them, that might be kind of interesting.
+
+product/productId: B000F3NQ12
+review/userId: ANECEU4E971I3
+review/profileName: Charge-send "charge-send"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1318118400
+review/summary: Great product
+review/text: By first soaking tapioca in 4 times as much room temperature water as tapioca (overnight for the large pearls and a couple hours for the small ones), then draining off the water and proceeding with your recipe you get tender tapioca in a reasonable amount of cooking time.  Using a lower temperature will eliminate or minimize the problem of the pearls breaking apart.  The white peals are supposed to turn translucent when fully cooked.<br /><br />If you want to end up with black tapioca then you have to start by buying and cooking black tapioca, it's a different product.
+
+product/productId: B000F3NQ12
+review/userId: A3F2CCF3OYD094
+review/profileName: Mike
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1304985600
+review/summary: Stay Away
+review/text: Complete waste of money. Product dissolved into powder when placed in water. I was trying to make bubble tea, as I have many many times with other varieties of tapioca pearls which did not dissolve on me. Stay away.
+
+product/productId: B000F3NQ12
+review/userId: A4I77X2K2VWUO
+review/profileName: mhayton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: Great Product
+review/text: These large tapioca pearls are great. I would suggest soaking over night before cooking. This will reduce the cooking time and assure that they are cooked all the way through.
+
+product/productId: B000F3NQ12
+review/userId: A2Z6D4XC4I4V0Y
+review/profileName: Liem
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343865600
+review/summary: Waste of money
+review/text: Completely dissolved in minutes when placed in water to soak overnight. This was a complete waste of money, do not buy!!
+
+product/productId: B000F3NQ12
+review/userId: AXU9ABKBHYX2F
+review/profileName: devon
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1308873600
+review/summary: not quite what i was hoping for
+review/text: it took two+ hours to boil and even then some of the tapioca ball were still not cooked all the way through. and if your expecting the black pearls dont get your hopes up, they come out clear. if you have the time and the effort than this will work for you, i just cant see myself spending two plus hours making boba every time i happen get a craving for it.
+
+product/productId: B000F3NQ12
+review/userId: AS1GR7GQUZR8C
+review/profileName: amazonshopper
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1320278400
+review/summary: Breaks apart, dissolved in water! Poor quality
+review/text: Bought this from one of the sellers here and was fulfilled by Amazon. When soaked, all of the tapioca pearls dissolved into water in mere 10 minutes! When cooked without soaking, they again dissolved and got mixed in with water! The package looks DIFFERENT from the one pictured here. It doesn't have any logos on it but states: Product of Thailand. No expiration date is printed anywhere. Dunno if the quality had anything to do with its use-by date. Can't recommend this to anyone.
+
+product/productId: B003WF102M
+review/userId: A15HS7JLLJ67ZQ
+review/profileName: Elizabeth Kiley
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1301875200
+review/summary: Great bedtime snack for diabetics
+review/text: Got hooked on these during recent hospital stay. Now eat them before bedtime almost every night. Also put them in my grandson's lunch bag and great to have around for his s'mores snack after school. Always fresh tasting.
+
+product/productId: B003WF102M
+review/userId: AWR7TSMMTSCTF
+review/profileName: Milehikrs
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1325980800
+review/summary: Great snack for kids
+review/text: I needed something to provide for my kid's snack at school (the parents take turns)... I like these because they are packaged two crackers to a pack, so there's not much waste (as long as you recycle the wrappers).  If you give a kid a stack of crackers, they may not eat them all, but here, they will eat the two, and ask for more if they want.  And the price turned out to be equal to buying a big box of crackers that were NOT individually wrapped.  Nice buy.
+
+product/productId: B0000CNU0B
+review/userId: A27ZW7Y1XVK473
+review/profileName: alcetus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Great stuff
+review/text: I use this to make a broth for noodles and soup. it reminds me of the days I spent in Japan. easy to use.
+
+product/productId: B000K8R320
+review/userId: APYR8X25KSWMO
+review/profileName: Greenie "Greenie"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1183334400
+review/summary: Better than the simply naked ones
+review/text: I didn't even see these when I wrote the review for Simply naked chips. These really are fantastic for everything - a real treat for company, appetizers, taking to someone's home or picnics. The kids even like them in lunchboxes. Great texture, flavor and shaped for dipping. Better than fried chips of any kind, any day.
+
+product/productId: B000K8R320
+review/userId: A1WROEPDTK2V0M
+review/profileName: G. Giordano "Snacking G"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1313798400
+review/summary: What happened Stacys???
+review/text: Can't buy this anymore on Amazon, the prices in the stores are outrageous!!! Oh well, see ya Stacy's!!!! And the plain ones that Costco sells are as hard a dog biscuits!!! Stacy's tried to tell me that is the way Costco wants them. What a load of crap!!! They are just the rejects from Stacy's!!!!
+
+product/productId: B000K8R320
+review/userId: AN9JE0GK8RYFV
+review/profileName: C. M. Vale
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1273881600
+review/summary: My favorite
+review/text: These are my favorite snack item, crunchy but not too hard, and fairly healthy (though I wish the whole grain content was higher). They go very well with olive tapenade, soups or for lunch with a green salad or fish cakes. Getting them from amazon was extremely convenient, I hope they'll be back in stock soon.
+
+product/productId: B000K8R320
+review/userId: A736R3FOXG5DA
+review/profileName: M Madison
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1254787200
+review/summary: Even better than Stacy's Simply Naked
+review/text: They're great, with just about anything from white cheddar cheese & fruit, to dips, to hummus.  The Simply Naked variety has always been a hit at parties - these are as good if not better, what more can I say?
+
+product/productId: B000K8R320
+review/userId: A2F6F51VI9QE4I
+review/profileName: Jeanne E. Fruit "JFruit"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1245542400
+review/summary: Best Pita chips I have ever had!
+review/text: I was not into eating Pita chips until I tasted Stacy's.  I love them all!  And they are good for you, nutritionally speaking. Everyone else must love them too because they are flying off the shelves and are hard to get.<a href="http://www.amazon.com/gp/product/B000KGW2BY">Stacy's Pita Chips, Simply Naked, 1.5-Ounce Bag (Pack of 24)</a>
+
+product/productId: B000K8R320
+review/userId: A3RMZHRVQN4PF8
+review/profileName: L. Wolf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231200000
+review/summary: Multigrain Pitas are great
+review/text: I love the Stacy's Multigrain Pita Chips. They go great with sandwiches and dips. Sometimes I just crave them all by themselves. It is so easy to order them through Amazon and at a great price too.
+
+product/productId: B000K8R320
+review/userId: A2QE3XA2525HLU
+review/profileName: R. Cary
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1228262400
+review/summary: Just awesome.... totally happy...and convenient to get!
+review/text: These are one of the best multi-grain or whole wheat pita chip snacks I've tried.  They are very hearty... hold up well to hummus... and would probably taste just as good with some peanut butter, good old onion dip, chili or other heavy dips.  What I like most, however... is that these are so easy to get on Amazon!!<br /><br />We live in an area that is not known for thinking outside of the bag o chips, so to speak... so when we travel and go into grocery stores, I always look for a brand of whole wheat or grain pita chips to try... and then if they are good, I will see if I can get them on line. These, I found at Publix in FL...I'd researched getting these directly from the company... and after shipping, they were more expensive (though  this might have changed since I looked last).  This qualifies for FREE shipping with Amazon!<br /><br />From Amazon, they arrived when expected... and the box was in perfect shape... no mushed up bags inside!!  The expiration on the bag is in MARCH 09 and at this rate,  I will be ordering by the end of Dec... and I got these mid Nov, I think...so no fear in these getting stale.  My family loves them, too!<br /><br />Will definitely order these wonderful tasting chips again and definitely from Amazon!!
+
+product/productId: B000K8R320
+review/userId: A59XRKRVBDJNQ
+review/profileName: A. L. Ernst
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1228176000
+review/summary: Love these chips!!
+review/text: These chips are AWESOME!  They are super tasty and not bad for you.  My kids love them too.
+
+product/productId: B000K8R320
+review/userId: A2SY2DOHNBDPQZ
+review/profileName: Green Fanatic
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223424000
+review/summary: Great, guiltless taste!
+review/text: I love these pita chips!  It's not greasy, too salty, or stale, which makes a great snack.  I'm going to try the other flavors and bagel chips as well.
+
+product/productId: B000K8R320
+review/userId: AN2XNEVDWGXL3
+review/profileName: Diane S. Fordyce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214956800
+review/summary: BEST PITA CHIP ON THE MARKET
+review/text: I LOVE PITA CHIPS AND HAVE TRIED THEM ALL- BUT THIS ONE UNDOUBTEDLY IS ABSOLUTELY THE BEST.  GREAT FLAVOR AND NICE AND THIN FOR A TRULY CRUNCHY, HEALTHY SNACK CHOICE.  SO NICE TO FIND THEM AVAILABLE ON AMAZON.  I WILL PURCHASE TWELVE AND BE BACK FOR MORE.  THANKS FOR CARRYING THIS GREAT PRODUCT!
+
+product/productId: B000K8R320
+review/userId: A2USKCPLW3FFHQ
+review/profileName: M.B.Cook "Snorkle Finatics"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1210118400
+review/summary: My new favorite food!
+review/text: These are the BEST chips ever!  Really - EVER!  Its like eating a thick potatoe chip but its multi-grain and low in fat...what a great combination!  My new favorite food!  They are very expensive buying them individually at the supermarket.  Sometimes Amazon runs coupon specials and it reduces the price per package greatly.
+
+product/productId: B000K8R320
+review/userId: A3L0IKM1WIR2EL
+review/profileName: C. V. Edlin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1200873600
+review/summary: Tasty and Cheap
+review/text: What can you say?  Stacys products are awesome.  'Round here, we call the stuff "crack" because you crave it and always need more.  Yeah, I'll steal to get my hands on another fix.  Great for dipping.
+
+product/productId: B000K8R320
+review/userId: A1ZPY91VE3IDN1
+review/profileName: J. Offenbach
+review/helpfulness: 5/8
+review/score: 5.0
+review/time: 1190851200
+review/summary: Crisp, Crunchy and Delectable
+review/text: I bought two boxes of these and have been waiting, waiting, and waiting until the first box finally arrived about thirty minutes ago.  I'd been thinking that I should cancel the delayed second box because I figured they'd be crushed and crumby after traveling for over a week on UPS trucks, as this box had been.  I opened this box, thinking I'd see bags floating around inside, but I was wrong.  I found a perfect Stacy's red box, sealed tight.  When I finally found the expiration date on the product to be 12/07 and today's almost 10/07, I assumed these would be already going stale.  I again thought I'd be better off by calling to cancel the second box.  I opened the box and found inside a dozen perfect bags of chips.  Before calling Amazon, I decided to have some cheese, Byzantine Country Olives and Stacy's Multigrain Pita Chips.  I sliced some cheese onto a plate.  I put some olives next to the cheese.  I cut open a bag of chips, ready to find little bits of chips.  I was wrong.  I placed some nicely shaped chips next to the olives and cheese.  These are absolutely fresh and delicious and I'll be so disappointed if the second box is unable to be delivered.  As much as these chips were just enjoyed, I can't wait to try them with something soft and mushy like hummus, baba ganoush, egg salad or guacamole.  They will be perfect dipped into cottage cheese.  I could pit and chop some of the pounds of olives I have and serve tapenade with these chips.  In other words, these are versatile and healthier than most snack chips on the market.  I hope they return to Amazon stock because these need to be a staple in my household!
+
+product/productId: B000K8R320
+review/userId: A3MHAISKX2M6OA
+review/profileName: J. Williams
+review/helpfulness: 3/9
+review/score: 1.0
+review/time: 1205366400
+review/summary: no nutrition info on website
+review/text: I don't appreciate that there is absolutely NO nutritian information about this product on the Amazon website.  Lots of flowery language but no facts.
+
+product/productId: B0078DWFM8
+review/userId: A3V7K1WXA6CCJW
+review/profileName: D. Bogdahn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341964800
+review/summary: Yummy Cheese Crackers
+review/text: I got a sample of these crackers in the mail and from first taste I was hooked. My husband loves these crackers too. I can not find them in my local stores so I order them from Amazon. They are more expensive than similar crackers but I like them more so it evens out. These taste like goldfish crackers only better and they are all natural.
+
+product/productId: B000LY5B40
+review/userId: ANBXWI4O3OG8R
+review/profileName: KevinL "KevinL"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: Great stuff
+review/text: Best tasting peppermint bark by far!<br />Quickly shipped and fresh<br />There are a lot of competitors out there, but King Leo has been doing this a long time,<br />and it shows, much superior in taste.
+
+product/productId: B008WFJMFO
+review/userId: A3MJDXR6M8GP5P
+review/profileName: Gabby
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: First Impressions was they are small, then YUMMY!
+review/text: Looking online at the pics you would think they would be as big OR LIKE cheetos but they are quite small & thin. AND very crunchy & delicious, YUMMY! I like that when I took scissors & snipped across the top of the bag off. All those crunchy bites overflow, they are VERY good & satisfying...definitely a winner!
+
+product/productId: B005GIF7YU
+review/userId: A2OEWNEA2I9G8J
+review/profileName: Marilyn Barry "retired mama"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335225600
+review/summary: Just as advertised.
+review/text: The dried mushrooms, once rehydrated, are delicious in a variety of recipes. Now that I've tried this product, I will keep it in my pantry.
+
+product/productId: B005GIF7YU
+review/userId: A30EU0ZQF0B83A
+review/profileName: KBArch "BedtimeReader"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1331683200
+review/summary: Awful, No Flavor
+review/text: I wish I had read some reviews before I ordered this product. These are tasteless mushrooms imported from China. I also ordered a large container of the Porcini mushrooms from the same supplier. They are marginally better...cost 2X as much as the shittakes. Never again.
+
+product/productId: B0061H89JU
+review/userId: A1N0AP4EGLGS74
+review/profileName: Commenter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346803200
+review/summary: Great Sauce
+review/text: Great sauce! Goes on everything!<br /><br />I put some of it over cream cheese and it was an awesome dip for a party. Couldn't be happier.
+
+product/productId: B003RE0BFU
+review/userId: ARD791Y39HII
+review/profileName: Daniel
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1299715200
+review/summary: Huge Rip Off!
+review/text: Wow! I've been buying dog treats for over 40 years and this one takes the cake! Pay no attention to the photo in the advertisement for this product. What you get is two (2) small chews in each of three (3) shrink wrapped over cardboard packages. That's a total of six (6) small chews for $30.00 not including shipping! I couldn't return my order quick enough.
+
+product/productId: B003RE0BFU
+review/userId: A20OQMLRFNZADL
+review/profileName: Jazzer
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1297728000
+review/summary: Sweet Leather for your dog
+review/text: I was not impressed about this product (Made in China). Cheaply made and not very good quality. Outside was coated with redish brown sweet something which stained the carpet.  My dog first tried to lick the coating and then bit the "bone".  It was like hard leather, more than bone, and left a mess of shreds about as well.
+
+product/productId: B003RE0BFU
+review/userId: A3DAH78KLMMEMD
+review/profileName: Jan M. Goshorn "iwantoknowyou"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339027200
+review/summary: Only rawhide my dog will chew
+review/text: Okay, my chihuaha is finicky...i have wasted lots of money on other rawhide chews and finally found one! Thank you beefeaters.
+
+product/productId: B003RE0BFU
+review/userId: A1PZHQOMEO6M1N
+review/profileName: Smith115
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292284800
+review/summary: Yorkie LOVES these
+review/text: My little yourkie absolutely loves these treats. He chews all the chicken off first, which I think helps keep his teeth clean, and then goes to work on the rawhide.<br /><br />GREAT product, but the packaging wasn't too great. The bones were falling out when I got them... a little concerning.
+
+product/productId: B003RE0BFU
+review/userId: A94014HP8EPVY
+review/profileName: dog mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290729600
+review/summary: Bedtime treat
+review/text: Each evening before going to bed my dog gets a chick n top.  It relaxes her with a treat that she really enjoys.
+
+product/productId: B003RE0BFU
+review/userId: A2KZTED1RKELZX
+review/profileName: Luci Zahray
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281657600
+review/summary: excellnt
+review/text: My hound is surprisingly picky about treats.  But these are his all time favorites.  He, Wimsey, likes all the chicken top/treated Beefeater products
+
+product/productId: B003RE0BFU
+review/userId: A67B9RCZALEG2
+review/profileName: Adrianne L. Villarreal
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1291939200
+review/summary: BEEFEATER PACK OF 12
+review/text: THIS IS NOT A PACK OF 12 BUT OF 3. I AM VERY UNHAPPY. PRODUCT IS NOT AS DESCRIBED  DO NOT ORDER IF YOU EXPECT 12 BONES. RIP OFF.  AMAZON SHOULD BE ASHAMED.
+
+product/productId: B003RE0BFU
+review/userId: A1TS2XUVMM9AUO
+review/profileName: Paul J "Bit Pusher"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1307750400
+review/summary: wonderful treat but doesn't last as long as other rawhide
+review/text: My 30 pound puppy goes crazy for these, he really loves them.  He's just in heaven when he's chewing on one of these, but they only last about 20 minutes.  If you're looking for something that lasts much longer than a biscuit but doesn't need to last for hours like other rawhide treats then this is perfect.
+
+product/productId: B00746LRSC
+review/userId: A3IM9ZE7J5OI87
+review/profileName: juboyles
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: Crowd pleaser...
+review/text: I first tried these chips when I was deployed to Iraq, and they are still the same great chips. Grippo's never disappoints. The amount of chips you get is great for parties and bar-b-ques.
+
+product/productId: B0040KGO4C
+review/userId: A2ZSMUHNLR2XMA
+review/profileName: butzer5
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291507200
+review/summary: Best Gluten Free pasta, and we have tried them all!
+review/text: Best gf pasta we have found to date.  Diagnosed with Celiac in 2000 so we have tried them all.  This combination of corn and rice based pasta is acceptable, as well as delicious, for the entire family!!!!
+
+product/productId: B005JDWU06
+review/userId: A31IMVK6YAEGS1
+review/profileName: Clara R.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336780800
+review/summary: Reviewing my previous statement
+review/text: The product I received is completely different from the one I ordered, the quality is extremely poor for its price.  I do not recommend this product.<br /><br />That was my previous statement due to the fact that for mother's day the provider that Flowers.com used had sent an extremely poor bouquet that seemed was thrown together at the last minute.<br /><br />I did take a picture and sent it through Amazon and was delivered 2 days later an adequate bouquet just like the picture. I was very happy with the second vase full of flowers and for this I would recommend it but my husband was very unhappy with the fact that on Mother's Day he had to hand me the previous mess that was sent. Try to not take on more orders than you can correctly deliver because that is when the name and quality of your company gets damaged.<br /><br />All in all the final vase that arrived was beautiful and hopefully they will keep true to the picture portrayed.
+
+product/productId: B004EDZ83S
+review/userId: A1QIXPV1XB7GL4
+review/profileName: Saltchuck
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1312070400
+review/summary: Good dark, rich coffee for breakfast time
+review/text: After trying lots of different blends in K-Cups over the past couple of years, I've settled on a mix of Tully's French Roast and Newman's Extra Bold as my go-to choices for morning wake up coffees.  Both have a strong, deep flavor that pairs well with weekend waffles and other "sweet" goodies.  It's a shame that the price has gone up so much, but it's not the fault of the coffee.  I'll keep drinking this one -- it's one of my simple pleasures and still much more affordable than picking up a cup at the local espresso stand.
+
+product/productId: B004EDZ83S
+review/userId: A1CHIC782V0N8J
+review/profileName: B. Murrell "Shopping Mom"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297814400
+review/summary: Good coffee
+review/text: This is a rich, full flavored coffee  If you like a full bodied taste but not too strong this is the one.
+
+product/productId: B004EDZ83S
+review/userId: A2BGJ0ROH8FQ76
+review/profileName: Norm
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297728000
+review/summary: Tully's French Roast
+review/text: It seems like I am always sampling new coffee for my K-cup brewer, but for consistent good taste this is one of the best. It makes a quality cup of coffee with real coffee taste.
+
+product/productId: B004EDZ83S
+review/userId: A1NK0Q5XRUOFWR
+review/profileName: Library Lady - CA
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1347580800
+review/summary: Not what expected
+review/text: Tully's French Roast is my favorite morning coffee. This supply is unusually bitter.  Since I have been buying locally in smaller quantities, I feel I have been dumped upon with old product in this purchase - and will likely toss it. Advice:  buy nearer home and check "use by" dates.  This box comes with loose K-cups inside and no date whatsoever.
+

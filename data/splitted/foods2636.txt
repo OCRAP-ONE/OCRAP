@@ -1,0 +1,1143 @@
+product/productId: B001RPK5K2
+review/userId: A11IM2S214PAVR
+review/profileName: Rigatoni
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346457600
+review/summary: The best cookies around!!!
+review/text: I've been eating these all my life ever since I was a little kid growing up in Italy. If you haven't tried them yet you should! Great for dunking in milk!
+
+product/productId: B001EO61RC
+review/userId: A24EMGY9DC4Z72
+review/profileName: John S. Socha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331337600
+review/summary: Good All Around Product
+review/text: I purchase this in both bean form and pre-ground for espresso (great when I am too busy in the morning to grind beans) and find rich flavor, good crema and a very good value.
+
+product/productId: B004JR6BNK
+review/userId: A2DTANWSXAZ50R
+review/profileName: BU Bag Lady "bubaglady"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1331251200
+review/summary: Haltex Sugar Free Cola
+review/text: This flavor of Haltex candies has lemon in it and I find that any of the ones that have Lemon burn my tongue.
+
+product/productId: B003WO0I6C
+review/userId: A3DHMT9WESV635
+review/profileName: monzanet
+review/helpfulness: 23/24
+review/score: 5.0
+review/time: 1298073600
+review/summary: 100% Stevia Extract
+review/text: Unlike all of the newer products that have recently hit the market with Stevia, Stevia, Stevia! all over their packaging, this one is and always has been 100% Stevia extract.  Don't be fooled by all of those other "natural" brands that only use some stevia and then put in all the other stuff that isn't good for us.
+
+product/productId: B003WO0I6C
+review/userId: A34LILWGBUXLIJ
+review/profileName: Steven Grimm
+review/helpfulness: 25/27
+review/score: 2.0
+review/time: 1311897600
+review/summary: Decent sweetness, lingering aftertaste
+review/text: I'm using this to sweeten coffee; previously I used Truvia but decided to give SweetLeaf a shot.<br /><br />While I'm drinking, this tastes fine. It adds the requisite amount of sweetness and the coffee goes down nicely. But within a few seconds of finishing my cup of coffee, I'm left with an unpleasant strong bitter aftertaste that lingers for 10-15 minutes unless I rinse out my mouth with water. Truvia had a slight aftertaste but nowhere near as strong as this and nowhere near as lasting. I'll be switching back once I finish the SweetLeaf I already paid for.<br /><br />One thing that's worth noting: Ability to taste certain kinds of bitterness varies from person to person due to genetic factors. For example, some people find grapefruit intolerably bitter while to others it is pleasant; the former have receptors on their tongues that are sensitive to a specific chemical in the fruit, while the latter don't. It is entirely possible that the people giving this product positive reviews truly don't experience the aftertaste I'm talking about. So while this is definitely not the product for me, it may be worth giving it a try to test your own reaction.
+
+product/productId: B003WO0I6C
+review/userId: A33K45IE4XIWH6
+review/profileName: Camperkat "Camperkat"
+review/helpfulness: 11/11
+review/score: 4.0
+review/time: 1320969600
+review/summary: Very Good Stevia Product
+review/text: I've tried the fake stevias...Truvia, PureVia, Sun Crystals...the latter is now discontinued and the former two are chemical-tasting and bitter.<br /><br />I've tried NOW (the one with silica) which is OK, but still has a semi-chemical taste.<br /><br />I've tried Whole Food's 365 liquid stevia, which has alcohol in it and therefore doesn't mix well in my coffee or tea, but which works great mixed into plain yogurt to make it sweet without too much of a weird taste.<br /><br />SweetLeaf is an excellent product, containing only inulin and stevia...but it does take 2 packets to equal the sweetness of 4 teaspoons of sugar in my 12 oz of black English tea. So yeah, you do have to use more of this product--but it has an excellent flavor without too much chemical aftertaste.<br /><br />Simply Stevia, the one and only product that has JUST stevia and nothing else--is super-sweet and super-condensed... but in the packet form, it's hard to mess up and use too much. The flavor is very good, very little aftertaste--but you have to find the right amount for each beverage--it takes more to sweeten coffee and less to sweeten my tea, for example. But it is very good overall, and I'd say you can't go wrong with Simply Stevia or SweetLeaf.<br /><br />Finally...visit SweetLeaf's website to find out about the history of the company and how they produce SweetLeaf...they use a water extraction process and are environmentally concerned, which is always nice to know.
+
+product/productId: B003WO0I6C
+review/userId: A3S71WW0FEU9DR
+review/profileName: Jonathan M. Davis
+review/helpfulness: 16/19
+review/score: 5.0
+review/time: 1299974400
+review/summary: The stevia product I had been waiting years for!
+review/text: I've tried a number of stevia products, and all of them had a nasty aftertaste. Not SweetLeaf, though. So far I've only used it to sweeten my coffee, but the result is absolutely pure sweetness. I couldn't ask for a better taste. Now, granted sugar sets a standard, but sugar has a taste that comes additive to sweetness; SweetLeaf has a bit of an additive taste to it, too, and it ain't sugar, but neither is it something horribly bitter like some of the other stevia products.<br /><br />I particularly love the fact that SweetLeaf is the real deal. Unlike, say, Truvia, which is a proprietary blend and a misnomer, SweetLeaf is pure stevia.
+
+product/productId: B003WO0I6C
+review/userId: A22BEEO3UM6CCS
+review/profileName: By The Grace of God Go I
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1345161600
+review/summary: Tastes ok, does not dissolve well, contains inulin, which is FIBER
+review/text: I like the fact that this Stevia had no additives such as maltodextrin; however, it does have inulin, which is fiber. The fiber STRONGLY disagreed with my body and caused me severe abdominal cramping that lasted for days before I finally figured out the cause. Once I stopped using this stevia, the cramping subsided.  They REALLY need to cut back on the inulin or completely remove it all together and just give us stevia, which is what we want and pay for anyway. Now I'm stuck with two full boxes and part of a 3rd because it's made me soooooooo sick. I'm really saddened about this because I do have chemical sensitivities and have to be careful with all types of products, but I never dreamed that this would make me so sick.<br />I'm sure that I'm the 000.1% in the world that this has ever happened to, so don't be afraid of it. I would like to add, though, as well that this stevia did not dissolve for me, not in hot and not in cold. I had just little round balls of stevia (or maybe it was the inulin/fiber, who knows??) but I will definitely not buy it again.<br />I just want STEVIA. Why can't I find Stevia WITHOUT something added to it?? Especially when it's so expensive. I give up on the grocery and Amazon type markets and I'm going the whole food / organic supplement route this time.
+
+product/productId: B003WO0I6C
+review/userId: A2RTFWCTHVN3H5
+review/profileName: Gillian G
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1332288000
+review/summary: Best non-sugar sweetener
+review/text: Stevia is a safe alternative to aspartame (NutraSweet) and sucralose (Splenda). SweetLeaf is one of the only 100% stevia products available--no fillers. Truvia, according to The Guardian newspaper, requires "... a 42-step procedure to derive Rebiana from the stevia leaves, using such country chemicals as acetone, methanol, acetonitrile, isopropanol, tert-butanol ..." (Wikipedia).<br /><br />I do not find SweetLeaf stevia bitter even if I use 2-3 packets. It mixes well with liquids and yogurt. The price is fabulous. There are also flavored liquid stevia by SweetLeaf that are delicious. I will definitely be buying more.
+
+product/productId: B003WO0I6C
+review/userId: A149FAXNG23CIM
+review/profileName: R. Valdez "Live to Read"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1327881600
+review/summary: The only Real Stevia
+review/text: To anyone looking for an artificial sweetener that isn't artificial, this is the go-to product.  All other products claiming to be made of stevia extract are actually as chemical laden as your average packet of Sweet&Low, plus, they raise your glucose level.  What I really like about Sweet Leaf is the 1 gram of soluble fiber per packet.  I can have my 'sweet' and lower my cholesterol at the same time!  Very highly recommend.
+
+product/productId: B003WO0I6C
+review/userId: A3NWIU9CLDF4Z4
+review/profileName: RCD
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1304899200
+review/summary: SweetLeaf Sweetner
+review/text: I have been very satisfied with the SweetLeaf Sweetner and will order it again through Amazon. I highly recommend this product to anyone wanting an all natural sweetner with zero calories.
+
+product/productId: B003WO0I6C
+review/userId: A1GNHV6L0QRZ9O
+review/profileName: Peterson
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1336694400
+review/summary: Does not dissolve in drinks
+review/text: I had great hopes for this product.  Unfortunately, the inulin soluble fiber that is used as "filler" does not dissolve in drinks, such as iced tea.  You can try shaking and shaking, but the stuff just won't dissolve.  It reminds me of those snow globes that used to be popular, with the little flecks of white floating down like snow on a pastoral scene.  Letting the drink sit for 2 hours still does not do the trick.  This stuff still can be found at the bottom of your drink.<br /><br />What's worse is that the manufacturer did not care. I called them to complain, and they simply replied, "OK, we'll report this to blah blah blah."  They never bothered to send me a refund, or to offer me coupons for some other product, or ask that I send them samples of the product, like most companies do when you report a complaint with their products.
+
+product/productId: B003WO0I6C
+review/userId: A3TGLGQVE7A0D2
+review/profileName: Present Moment
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331510400
+review/summary: Best Stevia Product, Best Price
+review/text: Pure inulin and stevia - no silica or artificial sweetener as in some other (non-Sweetleaf) brands. Costs less $$ on Amazon than in stores. I use it daily for a smoothie and to take the sharpness off plain yogurt. Great for iced herbal tea. Just right with unsweetened pure cranberry juice. I love this product.
+
+product/productId: B003WO0I6C
+review/userId: A2MGKR210ZMHQU
+review/profileName: savvy shopper "ss"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1323302400
+review/summary: Great taste, doesn't dissolve in iced drinks
+review/text: I've been using sweetleaf for 5 years now.  I love this product, especially the zero glycemic index which all stevia does not have.  The only complaint I would ever have is that the powder form doesn't dissolve well in cold drinks.  You should use the liquid form for this.
+
+product/productId: B003WO0I6C
+review/userId: A15ZXFZA5CLHZS
+review/profileName: KATRINA
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1320624000
+review/summary: STEVIA SWEETNESS
+review/text: I SHOPPED AROUND AND FOUND THIS TO BE ONE OF THE BEST DEALS OUT THERE. I HAVE TRIED DIFFERENT STEVIA PRODUCTS AND FOUND THIS ONE TO HAVE THE BEST TASTE.
+
+product/productId: B003WO0I6C
+review/userId: A3UV40R5JWCTCL
+review/profileName: sri0108
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317427200
+review/summary: Love this sweetner!
+review/text: It is more sweet than any of the artificial crap out there! Best stevia product that I have used! Also, I think amazon offers a decent price for these.
+
+product/productId: B003WO0I6C
+review/userId: A14X57R41FBHV0
+review/profileName: E. Roman
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1324598400
+review/summary: Yes.  It taste different.
+review/text: I have been using Equal and more recently Splenda, as my sweeteners of choice for many years.  We use it in coffee, tea and on cereals primarily.  My doctor suggested getting away from those artificial sweetners and suggested we try Stevia instead.  We did, and as others have suggested.....it does taste different!  Not sure I would call it an after taste, but different none the less.  It is not a bad taste necessarily, but just differnt.  The effect differs based on what you use it for.  My suggestion would to be to try a small order first to see how you like it, and whether you can live with the change in taste.<br /><br />Addendum Januray 2012:  I am no longer using the Stevia for my coffee or tea.  However, I find that I do not notice the after taste when used on solid foods like my oatmeal or breakfast cereal.  FYI, I find that I need to use three packets of Stevia to obtain the same sweetness of two packets of Splenda.  Also, because this is a fine powder rather than granules, it is more difficult to use.  The packets are made of a sturdy paper product and it is difficult to open it without losing some of the powdery sweetener on your hand, the countertop or in the air.
+
+product/productId: B003WO0I6C
+review/userId: A2B3CKPQDHQLXG
+review/profileName: Sam I. Am "Happy Go Lucky"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1330646400
+review/summary: To describe it's taste...
+review/text: This product DOES do what it says (sweeten) but it doesn't sweeten in the way sugar would. It's like a weird chalky salty-sweet taste which definitely does leave an aftertaste. If you are very particular about how your tea tastes, not sure if this CAN be a good substitute to sugar. For me it was definitely noticeable. Is it tolerable? Perhaps if you want to want to live a healthier lifestyle by avoiding sugar. If I didn't care I'd definitely pick some raw sugar over this ANY day. It's not too bad. It's a bit expensive though. It takes me two packs to get a decent amount of sweetness in, so if you drink a lot of tea or even coffee through out the day, everyday, a box of 70 will definitely not be lasting.
+
+product/productId: B003WO0I6C
+review/userId: A3FZZKU6JU68SD
+review/profileName: Joyce
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320624000
+review/summary: SweetLeaf Stevia
+review/text: In the year 2000 my sister was stationed in Germany & had asked me to find "Stevia" & ship it to her.  I thought "hummmm"  what is this?  So I took a few packets & tried it.  Fell in love with it.  Natural fiber & great sugar replacement.  Being a diabetic I didn't want to spend the rest of my life using chemicals that call themselves sugar.  Stevia came just in time & I have been using it ever since.  It is expensive but found it on Amazon cheaper.  I am a "happy" camper now, don't go anywhere without it.  I even buy extra boxes & keep them in my car & at my kids homes.  I also use the liquid stevia~great in ice teas, anything cold.
+
+product/productId: B003WO0I6C
+review/userId: A3RBM7CTJ7I0DE
+review/profileName: shea
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318896000
+review/summary: happy with sweet leaf
+review/text: I thought all stevia packets were the same, pure stevia. I was wrong. A lot of the packets out there are natural stevia but also have added chemicals. But i've have been using sweet leaf for a while now and I am very happy. It is pure stevia. No added anything. Very happy with their product.
+
+product/productId: B003WO0I6C
+review/userId: A204QN2VRUQA9B
+review/profileName: Fred T. Belcher Jr.
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1305417600
+review/summary: Really NIce Sweetener
+review/text: I have tried any number of substitute sweeteners (most of which are loaded with fillers and artificial stuff), especially stevia and xylitol. This is by far the best I have come across.<br /><br />It is quality produced in that there are no fillers and only pure water is used in the extraction process. It is NOT GMO grown (like Truvia is).  It is VERY sweet! When it says a small packet of the fine powder is equal to 2 teaspoons of sugar....you better believe it! I use about one half a packet to 8 oz of coffee.<br /><br />There is no after taste and the sweetness does taste "natural", to me anyway.<br /><br />This is my sweetener from now on.......I was using NOW xylitol, which is good, but I can't get used to eating something made from corn husks.
+
+product/productId: B003WO0I6C
+review/userId: A3VIBTRZQKNG6I
+review/profileName: KM
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1304467200
+review/summary: Pretty good for Stevia
+review/text: We were using SunCrystals without complaint however they became unavailable on the Subscribe & Save program.  Amazon suggested Sweetleaf as an alternative to continue on the subscription plan and we were hesitant because we had tried other Stevia brands (Truvia) and didn't care for them.  The Sweetleaf is actually pretty good with no after taste we can detect.  My husband ran taste trials (we use it mostly in coffee) and asked if I could tell if it was Sweetleaf or SunCrystals when he made coffee and I typically was not able to tell the difference.
+
+product/productId: B003WO0I6C
+review/userId: A3VFLOI4QE2WRZ
+review/profileName: A. Auvray
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1299628800
+review/summary: SweetLeaf Stevia
+review/text: I have been using this sweetner for a few years now. Carry it in my purse so I can use it at most restaurants that don't carry it. The only disadvantage is it doesn't dissolve well in iced tea. It works better with hot liquids.
+
+product/productId: B003WO0I6C
+review/userId: A69NJNZZZTWY6
+review/profileName: D. Alandrobish
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: SWEET IS AS SWEET DOES!
+review/text: This is one of my subscription products that I use faithfully everyday. Excellent quality, handy packets, easy to use and healthful as a sugar replacement. It has helped me cut down on my sugar intake which has made me more healthy and alert. This is not a sugar substitute. This is a natural product and I recommend this highly to anyone who loves sweetness without the negative side effects. I feel safe in using SweetLeaf Sweetener because it is absent of those dangerous chemicals that other products designed as sugar substitutes contain. I find that for my one or two cups of coffee a day that the 3-Pack last about three months or thereabouts. I use one packet for each cup. I kept track of my use from the first order so that I'm not stocking up on unnecessary items then having to change my subscription order... however, Amazon is so great! You can change your shipment dates at any time without any fuss and they verify each change and order so that you know exactly what you're receiving and when. THANKS AMAZON!!!
+
+product/productId: B003WO0I6C
+review/userId: A1DM23WSAG2R1L
+review/profileName: Purfecbyte
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Love this product, but...
+review/text: ...it would not dissolve fully.  Product from local grocery dissolved fine, but what I bought from Amazon left chunks of product in the iced tea.  Very strange.  But do buy this product somewhere!  No glycemic index, no carbs, no calories.  Splenda and even other stevia products can't match those stats!  Cheers!
+
+product/productId: B003WO0I6C
+review/userId: AXEF1HIGFYUNL
+review/profileName: UneBelleFemme
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348790400
+review/summary: Best tasting stevia brand :-)
+review/text: Excellent taste. Great for smoothies, baking, sprinkling on berries, yogurt and cereal. But... NOT in coffee.  Any stevia is just nasty in coffee.
+
+product/productId: B003WO0I6C
+review/userId: A19U5F5ZBUJ0R0
+review/profileName: Publius-1776
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348185600
+review/summary: Clumps:  Does not Dissolve in Liquids
+review/text: Had high hopes for this product, but am very disappointed.  The relative dietary pros and cons of the inulin fiber are a separate issue, but this product does not dissolve in liquids, as others have noted.<br /><br />But I need to add that it is not just in cold drinks, but ANY drink, including hot coffee and tea.  I'll post pictures, but with coffee, you'll get huge solid clumps at the bottom of your cup, no matter how hot the water and no matter how aggressively you stir.  With cold drinks, like ice tea and lemonade, I can see the clumps swishing around in my Naglene bottle -- just like a snow globe as someone else wrote -- and all the vigorous shaking in the world does nothing to break them up. This causes you to use more of the product than you should and you're in for an awful, unpleasant surprise if you accidentally drink one of the clumps.<br /><br />This product may be ok to use on oatmeal or cereal, but not liquids.  I am very happy with the SweetLeaf tabs, however, which seem to dissolve well -- probably due to the lack of inulin fiber.
+
+product/productId: B003WO0I6C
+review/userId: ACQ4AAIWNN6OV
+review/profileName: Ellie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347321600
+review/summary: Stevia in bulk
+review/text: The Sweetleaf packets are convenient to take anywhere, this bulk sale of the item saves a lot of money over time!
+
+product/productId: B003WO0I6C
+review/userId: A2GC3Z52AFSVNC
+review/profileName: Doc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347148800
+review/summary: Best sweetner I have found
+review/text: This is the best sweetner I have found so far  also has fiber which is a plus. Great for diabetics. Better than other brands that add fillers
+
+product/productId: B003WO0I6C
+review/userId: A3PV8FEFVFCGHO
+review/profileName: kim "kim"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: LOVE Sweetleaf!
+review/text: Pure stevia without the fluff added to other stevia products. We make smoothies daily so having stevia packs on hand are a must in our kitchen.  Amazon makes it easy to subscribe and save by buying in bulk (pack of 3/70 count per box).  I do find stevia powder harder to disolve in a glass of tea, for example, but we use it mostly in our blender as we make drinks.  Highly recommended!
+
+product/productId: B003WO0I6C
+review/userId: A2L3C7GBPMBNRZ
+review/profileName: C. Dickson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340755200
+review/summary: I'm off the sugar
+review/text: I waited a little while to write a review on this product. I got it because I love coffee and I knew I was consuming WAY too much sugar from my coffee alone. The first time I tried it I was disappointed. I longed for my sugar. However I stuck with it and after a couple of days I got used to it and I now I even enjoy it.<br /><br />For me I found that if you use too much, it leaves a horrible after taste (sort of similar to the after taste you would find in a "fake sugar" like equal or splenda). I only use one packet for a 20 oz cup of coffee.<br /><br />Overall, I'm satisfied with this product and plan on repurchasing.
+
+product/productId: B003WO0I6C
+review/userId: A20UG1KXAF6FOL
+review/profileName: M. Filtz "mellypoo"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337212800
+review/summary: Best sweetener I've found yet!
+review/text: SweetLeaf stevia is the best tasting 0 glycemic index, sugar free, carb free sweetener I've yet tasted.  I am definitely impressed!  One packet is sweet enough for my coffee or iced tea, which is usually all I sweeten aside from the occasional greek yogurt or bowl of oatmeal.  The SweetLeaf leaves NO aftertaste, which I think is amazing.  I also don't need to use packets and packets in order for it to be sweet enough, one packet does just fine!  My husband, who is NOT a fan of any sweeteners other than regular sugar even likes it, and that's saying a lot!  I'd for sure recommend SweetLeaf to anyone I know.
+
+product/productId: B003WO0I6C
+review/userId: A1INHO1BEJ0F2W
+review/profileName: juliana
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336694400
+review/summary: Great product
+review/text: It is a bit expensive, but I think is worth it. If you need a good, high quality sugar substitute, then this is a good option.
+
+product/productId: B003WO0I6C
+review/userId: A32WDZEG67VDU2
+review/profileName: Bargain Shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320192000
+review/summary: Sweetner
+review/text: I thought this would taste like splenda, sweet & low, equal, etc., but it rather tasted more like sugar to me.  I love the fact it is made from a plant and seems to be more healthy than man-made saccarine products.  I re-ordered more packets plus 2 shakers....love this stuff!
+
+product/productId: B003WO0I6C
+review/userId: A36Y4K8XBYEY7L
+review/profileName: Violet I. Frye "VIF"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319846400
+review/summary: My favorite Stevia
+review/text: I have used the sweetleaf Stevia for years and I've tried others but the Sweetlead is my very favorite. Purchasing from Amazon.com is very easy and cost sufficient. Thank you Amazon for offering this product...<br />Irene
+
+product/productId: B003WO0I6C
+review/userId: A16LRBEMTPMRRA
+review/profileName: Linda L. Hoy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: SweetLeaf Brand the Best
+review/text: I use this brand of Stevia all the time. Not interested in brands that say they are made from the Stevia plant, then you read the ingredients to find they have added these unpronouncable toxic chemicals to the process, only man can mess up a good thing.<br /><br />Products like Truvia have been messed with and is not pure Stevia. It's products like this that can give a pure, natural product like SweetLeaf Stevia a bad name if people don't do research of their own. With most of our foods containing toxic chemicals that are a health risk, why go to something like that when we can omit it with this one product.
+
+product/productId: B003WO0I6C
+review/userId: AXNJY4DYO99RA
+review/profileName: Star Bocsi "Star"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313798400
+review/summary: SweetLeaf Sweetener (70-Count Packets), 2.5-Ounce Boxes (Pack of 3)
+review/text: The taste is okay. The only thing that bugs me is that it doesn't melt into your drink as easily as other "stevia" sweeteners.  It stays in clumps for quite some time and it's no fun chewing on a clump when you are trying to get a sip of your iced tea!  But at least it doesn't have that funky taste some stevia sweeteners have.  I guess you can just stir a while longer to get rid of the clumps.  That's what I'll be doing.  But I may switch to Pure Via next time - it melts easier and doesn't make your drink taste funny.  I tried this product because my priorites were:  1. The least amount of calories and "junk" ingredients; 2. Taste good; 3. Melts easy.  Now, I'll rearrange my priorities to: 1. Must taste good; 2. Must melt easy; 3. Less calories than sugar - who cares about the junk ingredients. I don't use THAT much of it, anyway.
+
+product/productId: B003WO0I6C
+review/userId: A12SO47JRQGUPR
+review/profileName: Thomas Smith "tjaye"
+review/helpfulness: 5/8
+review/score: 1.0
+review/time: 1320019200
+review/summary: Bad aftertaste
+review/text: Overly sweet with a sickly after taste. Notable clumping in coffee and tea. Do yourself a favor and avoid this product.
+
+product/productId: B003WO0I6C
+review/userId: A3JZ9CBZZWVT1
+review/profileName: Tina Roll
+review/helpfulness: 2/4
+review/score: 2.0
+review/time: 1316304000
+review/summary: Messy!!!
+review/text: The cost of this item was great(I thought). The problem I had though, was when I opened the shipping box I had Powered Stevia ALL OVER. I thought that maybe it was just a couple packs leaked. NO!!! So far, 2 out of 3 boxes had at least 15 of the packs miss cut, therefor they were not sealed. It's like they were misfits! Had to wipe each packet, and so now the cost REALLY WASN"T THAT GREAT!!! I would have sent them back, but I really needed them.
+
+product/productId: B003WO0I6C
+review/userId: A3JSG0UC7UYDG7
+review/profileName: arsrio
+review/helpfulness: 5/9
+review/score: 1.0
+review/time: 1306368000
+review/summary: Worst Aftertaste Ever
+review/text: I use Truvia, the best tasting sweetener I've ever tried.<br />Reading the reviews (suspicious), I decided to try SweetLeaf.<br />What a disappointment! The after taste is worse than Equal or Sweet&Low.<br />Bad, bad, bad!<br /><br />Thanks to the great customer service from amazon.com, I was able to get a refund.
+
+product/productId: B003WO0I6C
+review/userId: A92JJZ71TKRSJ
+review/profileName: Leeza
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1340582400
+review/summary: Good Stuff
+review/text: I ordered this on a subscription basis from Amazon -- they send me a couple of boxes every two months. I originally purchased it because I'm trying to get away from the sucralose, etc. chemical products. This fits the bill, more natural than the alternatives.<br /><br />I have a nagging question on price though. This product comes in a smaller package than Splenda and the rest of the sugar substitutes. Plus, it's a more powdery formulation so I have to use more packets than I do when using the other sugar substitutes.<br /><br />Since I'm an avid price-comparer these two facts make SweetLeaf's price difficult to compare. I have a feeling I'm paying a lot more than I should be for it, so I'm cancelling my subscription and purchasing liquid Stevia at Whole Foods.<br /><br />If price doesn't matter, there is certainly nothing wrong with this product.
+
+product/productId: B003WO0I6C
+review/userId: A1OKDM24KGUPIR
+review/profileName: Amy M. Lipson "Amlmisc"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1322524800
+review/summary: Changing Habits
+review/text: Switching from processed sweeteners, etc...have read a lot about stevia being natural and as an extract from the stevia plant. It is quite strong, and takes a little getting used to...it does the trick for those trying to be more health conscious..
+
+product/productId: B003WO0I6C
+review/userId: A1UROIYSXC2B7O
+review/profileName: Bonnie Jeffcoat
+review/helpfulness: 1/8
+review/score: 3.0
+review/time: 1314144000
+review/summary: HORRIBLE TO DRINK
+review/text: I did not drink more then the first 2 oz because I could not get past the texture, there is way too much of a chalky texture to this tea.
+
+product/productId: B006OPV108
+review/userId: A2Z9X06PCY3U85
+review/profileName: Sunshine "Cookbook maven"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348099200
+review/summary: Peanut Butter of a different kind
+review/text: This is not your typical peanut butter, but if you are<br />watching your calories, you can have the same amount you<br />usually eat at half the calories.  All the water is taken<br />out of the peanut butter and you just add the water back<br />and stir until smooth.  If you are traveling it is wonderful<br />to pack in your case.  When you arrive in a country and can't<br />get to eat too quickly, this over slices of apple hits the mark.
+
+product/productId: B006OPV108
+review/userId: A34WFVZ0LEPF3N
+review/profileName: J. Wolf
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346716800
+review/summary: Healthy mom vs. junk food lover mom
+review/text: There are two ways to look at this peanut butter:  Taste vs. health food value.  Let's be real, we all know that most of us want to be healthy on the inside, but that we struggle with it because things that are healthy don't hit those fat cells the way the smoothy and crunchy do.  So, I reluctantly grabbed some of this PB2, because I will not be without peanut butter.  It's not going to happen.<br /><br />The lazy person in me balked at having to mix my peanut butter.  I know, it's a stretch for most of us to do more steps than to just take the spoon and put it into the peanut butter and slather it onto something heavenly, but I took 2 scoops of this and 1 scoop of water (I think it's tablespoons but double check the back and use a fork to whip it into peanut butter.  I'll be honest that the 2:1 ratio didn't work for me.  I like my peanut butter a little smoother so I added a dab (that's the scientific term) of extra water and had mine a little smoother.<br /><br />A couple of things I noticed:  The taste was wonderful and you sometimes get little dry spots if you don't mix well.  For 85% less fat and calories, it is a good trade off for me.  I did try it in oatmeal and I like that as well.
+
+product/productId: B006OPV108
+review/userId: A34XCOI0JYKY7X
+review/profileName: Playadelandrea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343088000
+review/summary: Mmmm peanut butter
+review/text: If you love peanut butter like I do, you will love this product. You can add to your favorite protein shake or smoothy or sprinkle on oatmeal .
+
+product/productId: B006OPV108
+review/userId: A1BTZNNSXI0VJG
+review/profileName: Julia A. Risch
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337212800
+review/summary: PB2 Peanut Butter
+review/text: PB2 has a good flavor for being powdered.I like it because it has less fat and calories and yet it has a good flavor. It is easy to use and is quite versatile.
+
+product/productId: B003R2RT34
+review/userId: AFDTKXT1I8C0K
+review/profileName: Darcie Wige
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337126400
+review/summary: Great Cerial!
+review/text: If you like Grape Nuts, you'll like this too. I mix it with Rice Milk, or Almond Milk. Maybe some sliced almonds, cacao nibs, and this is a great late snack for me.
+
+product/productId: B003D4MW38
+review/userId: A1TZ9GI39VH2DS
+review/profileName: woodman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331683200
+review/summary: Great Tea
+review/text: A well flavored Tea for after dinner or to use when you have trouble sleeping. I have purchaced this enjoyable tea twice from amazon. I highly recommend this Tea.
+
+product/productId: B003D4MW38
+review/userId: ATO742M6F1ROI
+review/profileName: Nicole C. Vreeland
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331596800
+review/summary: Holy yum, Batman!
+review/text: This is the first time I've tried this brand, this flavor and this type of tea.  It is so good!  With a little bit of stevia, it's almost dessert good...almost (let's not get crazy).  The tea is sweet and the flavors are neither too strong nor too mild.  A very good buy.
+
+product/productId: B003D4MW38
+review/userId: AR8P6F0C6H00Q
+review/profileName: Cindy C
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331510400
+review/summary: Really love this tea
+review/text: This tea is so refreshing, and I just love the taste.  Not a heavy chocolate taste, but really gets the endorphins going.  Great as a hot or cold tea.  I just never thought of chocolate tea before, but this is really wonderful and fresh tasting.
+
+product/productId: B003D4MW38
+review/userId: A18WGMHBMVNBSN
+review/profileName: Luebla
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331510400
+review/summary: Delish!
+review/text: This is delicious hot or cold! There is enough that I could share w/family & friends. The flavor is strong & doesn't need that much of a sweetener.
+
+product/productId: B003D4MW38
+review/userId: A1HDMHW848VSSX
+review/profileName: Jeanne N. Fantina "Book Junkie"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331337600
+review/summary: Dessert Tea!
+review/text: This is a terrific dessert alternative.  Without all the calories, I get my chocolate fix & my sweet ending.  Love this tea!!!
+
+product/productId: B003D4MW38
+review/userId: A1DWXFYHXJLBMX
+review/profileName: Christi
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330732800
+review/summary: YUMMY!!!
+review/text: Stash teas are the best in my opinion. This flavor is amazingly tasty. Six bags brew a strong flavorful gallon. I like the fact that I save lots of money versus buying the smaller boxes in the market.
+
+product/productId: B003D4MW38
+review/userId: A25GPGEQ4XRDKJ
+review/profileName: lane
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329955200
+review/summary: Yummy!
+review/text: One of my favorite teas. It is only a seasonal item in the store. So after the holidays I order a box to keep my mornings happy. :)
+
+product/productId: B003D4MW38
+review/userId: ADVAA9RFJC5R2
+review/profileName: Darren Gaylor
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1329177600
+review/summary: Horrible
+review/text: I normally love Stash Tea but this flavor is bad. It has a very weird chemical type taste. At first I thought it might just be me so I made my wife a cup and she yelled out to me from the other room that this is the worst tea that I have made for her. Too bad I bought the 100 count! I guess I will have to look for another flavor.
+
+product/productId: B003D4MW38
+review/userId: A29O8VUGTNXMLD
+review/profileName: KeiroD
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1327881600
+review/summary: Packaging leaves much to be desired.
+review/text: This order reached me quickly.<br /><br />I opened up the box to see two packages of the box in the same package. In hindsight, knowing that the seller had the same facility in my state, I shouldn't have bothered to get it delivered overnight.<br /><br />Onto the tea... they were simply thrown into the box as mentioned by someone else. I should've taken this as a warning not to purchase it, as it was not well packaged much like other teabags delivered to me. After I tried the tea, I found the taste to be weak, and the contents of the teabag often coming out of the teabags themselves even though they were not torn either way.<br /><br />Leads me to think that the QA on this isn't very good. Again, in hindsight, I shouldn't have gotten a 100-count box. Ah well. I don't think I'll purchase this particular product again, and I'll more than likely give the second tea box away to someone else.
+
+product/productId: B003D4MW38
+review/userId: A6JSLV8GMBBBE
+review/profileName: John L. Thomas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326672000
+review/summary: Not To Worry
+review/text: This was a very good purchase.  Practical, economical, fast delivery, sparse packaging but the product is the most important item
+
+product/productId: B003D4MW38
+review/userId: A1ED3ABQD627TY
+review/profileName: Linda Makofski "Linda A. Makofski"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1326672000
+review/summary: Disappointed with STASH PREMIUM TEA
+review/text: STASH PREMIUM TEA has little to no taste, depending on the flavor used. The Lemon Ginger has the most flavor of all the flavors I've tried. If you don't mind a Lemon Ginger tea with a flowery taste you might want to try it.  I purchased a 100 - count box. I will never buy it again.
+
+product/productId: B003D4MW38
+review/userId: A1TCSC0YWT82Q0
+review/profileName: GinSing
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1324684800
+review/summary: I anxiously awaited it..and then it was just not quite 'it'..
+review/text: I had this tea in my cart for awhile and then it became unavailable, so I waited for it to come back in stock as this sounded like a nice tea.<br /><br />I have been enjoyed the Celestial Seasonings White Tea with Pear that I got on Amazon and so I anxioulsy anticipated this new tea.<br /><br />However, in drinking it, I'm not all that crazy about it. To me, it tastes like a black tea; I hardly taste the ginger at all, and it's not as pepperminty as I thought it would be.<br /><br />I realize tastes are just so personal, but that's how I view it anyway.<br /><br />Oh, you should know that it comes in a regular box (as pictured) and not in a tea box at all. So, you will want a cannister, tea tin, or something to put it in.<br /><br />In the meantime, I do like the White Tea with Pear..
+
+product/productId: B003D4MW38
+review/userId: APGZY4T8TGALD
+review/profileName: robin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324598400
+review/summary: love it can't wait for the next cup!
+review/text: Best tasting tea... love everything about it!  The smell, the taste... great pick me up if you are having a down day... great for those cold days when you can't get warm!
+
+product/productId: B003D4MW38
+review/userId: A1T85U87XWJC1S
+review/profileName: JJ
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322784000
+review/summary: Great tea.
+review/text: This herbal blueberry tea tastes great to me with or without honey. I purchased it for my daughter to drink with honey when she has a cold. She loves to drink it warm with honey in it. I would buy it again and recommend it.
+
+product/productId: B003D4MW38
+review/userId: ACKAZVADOU8EG
+review/profileName: K. Cirignano
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: Great Bulk Product
+review/text: This tea is a great price, and is very good. I drink it almost every night before bed and have no complaints. Overall, great purchase.
+
+product/productId: B003D4MW38
+review/userId: A13HCWFZE8KXH1
+review/profileName: anonymous "anonymous"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322265600
+review/summary: delicious
+review/text: I am so glad this is available online, none of local stores carry this tea!!! I bought a box last year and love the decadent, delicious flavors - almost as satisfying as chocolate. I mix a bag of this tea with some pu'erh and it is delicious.
+
+product/productId: B003D4MW38
+review/userId: A3RUOERNLO9ZFU
+review/profileName: Jennifer Carbon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1321920000
+review/summary: Best tasting peppermint tea!
+review/text: First introduced to this delicious tea when served @ a gourmet breakfast place in Blowing Rock, NC.<br /><br />Took a bag home w/ me so I could look for it online.  Pleased to find it on Amazon for a steal & w/ free shipping!<br /><br />I've been drinking Peppermint tea for years & this one has the very best flavor I've experienced.  I usually enjoy my tea sweetened w/ a little honey but took some to my skinny sis who lives without honey & was suprised @ how delicious this was even without any sweetener:)<br /><br />The first time I ordered this I ordered it packaged in (6), 20 count boxes which was great b/c when running out to someone's house for dinner or a visit I could grab a box to give as a modest hostess gift.<br /><br />This time ordered the box of 100 b/c of the significant value!<br /><br />Hope you enjoy this as much as I do.
+
+product/productId: B003D4MW38
+review/userId: AWQCQB37DMZB0
+review/profileName: Catharine O
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1321315200
+review/summary: My favorite tea
+review/text: I haven't purchased this item from Amazon, but I came here to find it since I haven't been able to get it locally recently. I started drinking tea because of the health benefits, but I didn't really care for it. Then I found Stash's Green Chai, which I started to really enjoy. Then I found the White Chai, which is even better, and apparently has even more antioxidants and health benefits than the green. A cup every morning starts my workday off right. I am excited to find this good deal on the large package.
+
+product/productId: B003D4MW38
+review/userId: AONSH11IMRQL7
+review/profileName: M. Zeigler "Code Zero"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1320796800
+review/summary: Great Tea, misleading description
+review/text: Ok, the tea is great. But the description says "Foodservice packaging, dispenser opening" but that's not the case at all. You get a box, full of single serve metal pouch tea. That's it, no dispenser opening, no foodservice packaging.<br /><br />Just be sure to understand that you are getting a box full tea bags and that's all.
+
+product/productId: B003D4MW38
+review/userId: AONSH11IMRQL7
+review/profileName: M. Zeigler "Code Zero"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1320796800
+review/summary: Love Stash Tea, but the product is mis-represented
+review/text: Ok, the tea is great.  But the description says "Foodservice packaging, dispenser opening" but that's not the case at all.  You get a box, full of single serve metal pouch tea.  That's it, no dispenser opening, no foodservice packaging.<br /><br />Just be sure to understand that you are getting a box full tea bags and that's all.
+
+product/productId: B003D4MW38
+review/userId: A2AVAZ1ASRUJR
+review/profileName: Judy Minkoff
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1318204800
+review/summary: A mild and pleasant flavor.
+review/text: I had expected this tea to have a stronger fragrance and flavor however, it is more like a hint of cinnamon and a hint of vanilla.  The subtle flavor makes it a tea I can drink more frequently than I actually was expecting.<br /><br />As with all Stash teas the individual bags are easy to transport and the tea stays fresh.<br /><br />On the whole, it is a great product, even if it's not what I expected.
+
+product/productId: B003D4MW38
+review/userId: ATFKGETVWWCJA
+review/profileName: J. Grenader
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317513600
+review/summary: Best tea, great way to reduce packaging waste!
+review/text: My husband loves green tea and will only drink Stash. I got really annoyed by all the packaging, so I was extremely happy when I saw this 100-count box.<br /><br />That's ALL you get: one small box filled with 100 individually wrapped tea bags. The box doesn't come in a box, how awesome is that?! Also, no more fighting with the plastic wrap and filling your recycling bin with hundreds of flimsy little Stash boxes.<br /><br />The tea itself is delicious. Very earthy, clean and slightly grassy. It reminds me of the green tea you get in real Japanese restaurants, but a bit less grassy (which I like).<br /><br />Decaf is perfect if you want hot tea during the evening.
+
+product/productId: B003D4MW38
+review/userId: AXBC52UXVOIO0
+review/profileName: Aleisha Fritzen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1316563200
+review/summary: Love Stash decaf chai
+review/text: I love stash decaf chai it is very good. I love the taste for being decaf. Stash has a great selection for their decaf teas. I can not do caffeine much so it is really nice to find tea that tastes good and is decaf. It is a nice chai taste not too strong. Great with honey and a bit of milk or half and half.
+
+product/productId: B003D4MW38
+review/userId: A1260GRZDL3KKT
+review/profileName: sjusto
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315872000
+review/summary: I love this tea
+review/text: I have tried many different moroccan mist green teas and this is one of my favorites. I drink it without sugar and love the taste. highly recommended.
+
+product/productId: B003D4MW38
+review/userId: A3UUTDX2WNVUS3
+review/profileName: S. Whitworth "Hannah's Mommy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315699200
+review/summary: Tea Greatness
+review/text: This is some very tasty tea and I rank it as one of my top ten that I have tried from Stash.  I drink it every day.  It is very blue berry and I feel good about drinking it.
+
+product/productId: B003D4MW38
+review/userId: AJQ0ZLD45OB7
+review/profileName: Shella Poo "shellapoo"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313539200
+review/summary: A Sweet Reminder of Fall...
+review/text: I am absolutely thrilled with this tea.  I love Autumn and the scent and flavor of this tea reminds me so much of everything I love about Autumn.  The spices are perfect to give an excellent aroma and flavor...In my opinion, this is the perfect beverage to have as you curl up with a good book on a cool afternoon, or to enjoy as a delicious dinnertime tea.  I like to drink it with raw, unprocesed cane sugar.  I feel the cane sugar gives this tea even more the taste of a special chilly-weather treat.  I plan to drink this tea as my after dinner drink each evening, and will definitely be purchasing it again and again.  Kudos to you, Stash...and kudos to Amazon for having such a great price.
+
+product/productId: B003D4MW38
+review/userId: A2I8UYFVJ5TLHT
+review/profileName: greenie227
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309737600
+review/summary: Excellent tea, and fast shipping
+review/text: This is terrific tea. I bought it to make iced tea, and it's got a smooth, lovely flavor to it.
+
+product/productId: B003D4MW38
+review/userId: A3TGLGQVE7A0D2
+review/profileName: Present Moment
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309564800
+review/summary: Yummy hot or cold
+review/text: Stash has blended a delicious green tea with other herbs and flavoring. Just delicious, needing no sweetening (or very little).
+
+product/productId: B003D4MW38
+review/userId: A1EDVFPVD873ON
+review/profileName: Hilary Sheaves
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309132800
+review/summary: Best ever
+review/text: this is the most flavor I have ever tasted in an Orange flavored tea. Stash really knows what they are doing. I look forward to this tea every day. It is hard to drink anything else!
+
+product/productId: B003D4MW38
+review/userId: A9NSVO86GVTPR
+review/profileName: G. Von Herzen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307577600
+review/summary: Very smooth tea
+review/text: This is a very smooth, easy drinking tea. My usual favorite is Bigelow's Green Tea with Peach, but this is just as good and a little more smooth. The oolong doesn't crack me out as much as the green tea either. It's more calming I think. It tastes great!
+
+product/productId: B003D4MW38
+review/userId: A1I6K8945YS0OD
+review/profileName: joatmon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307318400
+review/summary: Love this one
+review/text: This has been a favorite for years I can only drink decaf and its hard to find flavors. I like that I can get it in bulk
+
+product/productId: B003D4MW38
+review/userId: A3N7WAMZD5UYWO
+review/profileName: G's mom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307145600
+review/summary: Satisfies chocolate craving
+review/text: I'd never had chocolate tea before but on a hunch I searched Amazon and found Stash tea. It's wonderful. Chocolate hazelnut flavor is readily apparent from the first smell. Satisfies that craving without the extra sugar of hot chocolate.
+
+product/productId: B003D4MW38
+review/userId: A1D7SKBDFLSKFX
+review/profileName: N. Albanese-levin "Healthy Girl"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1306886400
+review/summary: Great go-to relaxing tea
+review/text: I have been looking for tulsi in blends like this, so it's a nice change from when I have a stinger tulsi flavor.  Hints of chamomile, mint and a little citrusy surprise. Very nice any time of the day
+
+product/productId: B003D4MW38
+review/userId: AV2RAHM508SND
+review/profileName: ldh
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306022400
+review/summary: ldh
+review/text: Purchased the tea bags for bridal shower favors.  I stuck on a customized sticker on the tea bags, and everyone loved it.  Great tasting tea and was delivered in a timely manner.  True to other reviews that they were all just kind of stuffed in the box in an unorganized way, but that doesn't effect the tea at all.  Would buy more in the future, if I need to make more favors.
+
+product/productId: B003D4MW38
+review/userId: A2LHB79D7GDEOL
+review/profileName: HEART
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304553600
+review/summary: GREAT tasting tea!!
+review/text: I LOVE Stash tea! My favorite is the fusion green and white tea though. I bought the box of tea cause it was a GREAT price for such a large quantity. I'm very happy with the purchase, and recommend trying Stash tea to anyone. I also LOVE doing business with Amazon cause they always have great low prices. I recommend Amazon.com to all as well.
+
+product/productId: B003D4MW38
+review/userId: A1MG68OU7C223N
+review/profileName: Jeffrey Morton
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303430400
+review/summary: Favorite bagged tea
+review/text: This is my favorite bagged tea, with a little half and half and a couple sugars this tea makes a strong, authentic Indian spiced chai.  I use this as an alternative when I can't have my own homemade chai mix.
+
+product/productId: B003D4MW38
+review/userId: A13HRSMJ5TOWEZ
+review/profileName: IrishFire
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302220800
+review/summary: Delicious!
+review/text: This tea is one of my favorites.  It has a clean, subtle, delicious flavor very similar to the Stash White Decaf Lemon, but unlike the lemon it's lemongrass free, which can be important for people with grass allergies.<br /><br />Three warnings for this tea:<br /><br />1.  If you like strong tea, you're in the wrong place.  This is a subtle white.  I find it delicious, but many of my friends want a stronger flavor.  I think this is comparable to flavored water in the intensity of the flavor, though it would be unfair to compare this to the fake chemical flavor of a propel water bottle!<br /><br />2.  It's a white tea.  It steeps FAST.  If you'd like more flavor, choose another tea or put in 2-3 teabags.  This tea will not always forgive a long steep and can become very bitter if left too long.<br /><br />3.  It's not a very good iced tea.  It tastes like it would be lovely, but the flavor oil leaves a film on the top that I find unappetizing.<br /><br />Enjoy your tea!
+
+product/productId: B003D4MW38
+review/userId: A30DK18BD9IRGM
+review/profileName: RJ
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1302134400
+review/summary: Great tea, just a touch too light
+review/text: I purchased this because I wanted a decaf white tea that had some flavor to it.  I normally don't enjoy fruit flavored teas.  This one is a great flavor, but I have noticed it needs to steep longer to get enough flavor out of it.  The raspberry is a little too subtle.<br /><br />The outer package is the pictured cardboard box, but the tea bags are individually wrapped in air tight packets (the small white packet shown with the box) which are pretty enough for display or gift baskets. If you aren't sure about buying 100 at a time, look for a sample package on Amazon or elsewhere (though the Amazon prices are impressive compared to other ones I've seen).<br /><br />If you are interested in a full-flavor tea, I highly recommend Stash's White Christmas Tea.
+
+product/productId: B003D4MW38
+review/userId: AX5PQRTR6MCA
+review/profileName: S.McKnight
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301270400
+review/summary: great tea
+review/text: My second most favorite tea of all,  love it.  I enjoy the stronger spice flavors in this great tea.
+
+product/productId: B003D4MW38
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299369600
+review/summary: Incredible Chocolate tea!  Hershey's anyone?
+review/text: I tell everyone I know to buy this tea.  It's the ONLY chocolate tea I've found that actually tastes like chocolate!  It's not overwhelming and although I'm not normally a fan of hazelnut, it really only serves to act as a flavor enhancer to the chocolate.  It's just awesome, hands down, not weak either, although it is decaf.  The price here is a bit high - you can get this in the store that begins and ends with a t here in the States for about two dollars and a quarter for the 18 bag size.  Great, incredible stuff, I'm almost out again!  Highly, highly recommend!
+
+product/productId: B003D4MW38
+review/userId: A1QH32DMOUONBF
+review/profileName: P. Dick
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295913600
+review/summary: Yummy!
+review/text: I love this green chai tea.  It is spicy and flavorful.  I look forward to it every morning.  It doesn't give me the jitters the way black tea can.  Just make sure you like the spices--cinnamon, clove, nutmeg, allspice or you won't enjoy it.
+
+product/productId: B003D4MW38
+review/userId: A14L9HK0DK3SAI
+review/profileName: Wendy Schoelier "cakesbywen"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295136000
+review/summary: best tea on planet earth
+review/text: I have been drinking the spiced chai since the very first bag i tried 7 years ago.  It is the best tea on earth.
+
+product/productId: B003D4MW38
+review/userId: A1YGG6T4YJZWC1
+review/profileName: bethany "birds and more birds"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294704000
+review/summary: everyone loves this tea
+review/text: i purchased this tea at first for a present for a friend..i was a little unhappy that the packaging was  not nicer  & that they just came as a bulk amount of foil bags that were crammed into a box...the product was  not damaged in any way and i have to say that everyone at work loves this tea..i did create a nicer package that included some of this tea as well but kept the rest of the box at work and everyone raves about it...the price was fantastic and the product is very good.
+
+product/productId: B003D4MW38
+review/userId: AETNFWB04DVZR
+review/profileName: Lu
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294012800
+review/summary: Stash Vanilla DECAFE Tea - The best!!
+review/text: I LOVE THIS TEA!!  Cannot find it on Supermarket Shelves anymore.  Used to be in my safeway!!  I share with my daughter in California!!
+
+product/productId: B003D4MW38
+review/userId: A16AGU3X92D66T
+review/profileName: Abell
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1292976000
+review/summary: Raspberry Herbal
+review/text: My husband and I use the tea as a cold and hot drink,  When lightly sweeten and used as a cold drink for family and friends, it is love at first taste.<br /><br />Our 14 year old granddaughter loves the tea cold  and drinks it with many of her meals and snacks.
+
+product/productId: B003D4MW38
+review/userId: A2KQT4D0OZR569
+review/profileName: L. Staley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291852800
+review/summary: Great gentle spice tea
+review/text: I love, love, love this tea.  Generally, I don't like chai teas; they are too harsh of a taste for me.  To me, the taste is similar to Good Earth's original blend, a gentle spiced tea with tastes like cinnamon and nutmeg.  I have drunk this one for quite awhile since I discovered Stash teas after going on vacation in Oregon (where they are based).  So, I was thrilled to find it on Amazon and even be able to automatically order it. Keep carrying it, Amazon!
+
+product/productId: B003D4MW38
+review/userId: A30TLK1NXX6P67
+review/profileName: slickshopper "slickshopper"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291334400
+review/summary: slick shopper
+review/text: I found that my grocery store stopped carrying this item when i went back for more. this was an easy and less expensive way to replenish my stock. this tea is flavorful and uplifting.
+
+product/productId: B003D4MW38
+review/userId: AIBZ1U7VJVK72
+review/profileName: Jessie-messie-bo-bessie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1287878400
+review/summary: My favorite herbal tea
+review/text: I'm so glad this is available year-round now. It is a peppermint spice tea, just the right amount of cinnamon and spice to make the peppermint more interesting. I never get tired of this tea.
+
+product/productId: B003D4MW38
+review/userId: ALSIWOUWN1F72
+review/profileName: Cindy Lou
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1318291200
+review/summary: Best  Tea ever
+review/text: I can't buy locally so amazon is my go to place.<br />This is my favorite tea ever, if you like licorice<br />flavored anything, you will really enjoy this tea.<br />No sweetener needed!
+
+product/productId: B003D4MW38
+review/userId: A2DS33Y9476NE4
+review/profileName: Thomas Bodian
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1305158400
+review/summary: Same price as stores, lesser product
+review/text: I am a fan of the double bergamot stash earl grey from stores in packs of 18.  This bulk box does not contain the same quality product.  I don't know if it just sits around too long, or my order contained an off-season batch, but when you can go to target and get the same 100 bags for about $1 more than the subscribe and save price for a better product, why buy in bulk?
+
+product/productId: B003D4MW38
+review/userId: A3RFNCMOL3FSE8
+review/profileName: MRo
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1278892800
+review/summary: Great Taste!
+review/text: I first tried this tea when my local grocery store had it at Christmas time. I went back and bought a ton of it because it immediately became my favorite tea. I love the peppermint & ginger and I love the fresh new bud taste of white tea, over green tea leaves (Same plant, different part). This tea has it all. Mildly spicy, and smooth yet refreshing. I practically live on herbal teas and have tried lots of different ones. This is my number one all time favorite!
+
+product/productId: B003D4MW38
+review/userId: AUYG6HXXGZOG0
+review/profileName: Edward
+review/helpfulness: 6/9
+review/score: 1.0
+review/time: 1289520000
+review/summary: TOTALLY MISLEADING
+review/text: Totally misleading; where do i begin.<br /><br />It is not GOJI BERRY like the heading implies; rather, it is goji flavor. Furthermore; it has lots of other ingredients although the title leads you to believe otherwise.<br /><br />It has raspberry leaf, hibiscus, strawberry FLAVOR, licorice powder... a very complex blend in my opinion; considering they lead you to believe it is: GOJI BERRY, MATCHA and GREEN TEA.<br /><br />Goji berries are full of nutrients and antioxidants. WHAT THE HECK IS "GOJI FLAVOR" and why does the heading on the front of the teabag state it is goji berry when it is not?<br /><br />WAY TOO SWEET in addition. A true mislead and disappointment. Shame on them.<br /><br />How can they have the audacity to call the teabag 100% Natural Ingredients? What is goji flavor and strawberry flavor? Tastes terrible.
+
+product/productId: B003D4MW38
+review/userId: A2WI8CJDJRZ8ID
+review/profileName: Tracy B Gagliardi
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1323302400
+review/summary: Not as Peachy as the Black Tea
+review/text: If you like peach teas, this is not the one for you.  The peach flavor is lost and it tastes more like an Oolong tea.  I would recommend the Peach Black Tea by Stash instead.
+
+product/productId: B003D4MW38
+review/userId: A1W0B640VBLMX3
+review/profileName: Kelly H
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1319068800
+review/summary: Love the blend
+review/text: I tend to like the Christmas tea's in genera and I'm very fond of this blend. It's very affordable in the giant box, plus you don't have a whole ton of the little boxes sitting around your house.
+
+product/productId: B003D4MW38
+review/userId: AWZZUM4YPP3H9
+review/profileName: snoopy's sister
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: I couldn't love the double bergamot more
+review/text: I'm absolutely addicted to this tea. it's the best tea I've ever had. when Starbucks changed their black iced tea I had to find a replacement. this stuff is better than anything ever. I'm very passionate about tea. I've never had it hot but I'm sure it's delicious that way as well.
+
+product/productId: B003D4MW38
+review/userId: A27LV9QC6RBP1Z
+review/profileName: Felicia Peters
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: This Chocolate Hazelnut Tea is Excellent!!
+review/text: I had tried Stash Chocolate Hazelnut Decaf tea and then couldn't find it locally, so I was very happy to be able to buy it online from Amazon. It is delicious hot or over ice and now I am sharing it with my chocolate loving friends!
+
+product/productId: B003D4MW38
+review/userId: A2QQ7FN3AQP15O
+review/profileName: Carmina
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350432000
+review/summary: Good value
+review/text: Stash chai tea is tasty and the large box was perfect for ordering tea for my wedding favors.  It doesn't hurt that the dark red bags go well with my colors either :)  I ordered this along with a box of 100 Bigelow English Breakfast tea bags with the free super saver shipping and they arrived together within a week, so I'm pretty satisfied.
+
+product/productId: B003D4MW38
+review/userId: AVMJ6CLHA4TUE
+review/profileName: djstaple
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: Very Tasty
+review/text: Good herbal tea. Seemingly air tight individual packages lock in freshness. You can really taste the peppermint oil but not in an overbearing way. I am happy.
+
+product/productId: B003D4MW38
+review/userId: APUA1WVKWE48U
+review/profileName: Oyhane Go
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: stash peppermint tea
+review/text: The tea bags are all individually sealed and stays fresh.  This peppermint herbal tea is very good quality.  If you have trouble sleeping, just drink a cup of peppermint tea before going to bed.  You will be very sleepy.
+
+product/productId: B003D4MW38
+review/userId: AO0RRT3L04SGK
+review/profileName: Josh
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: Best Earl Grey out there
+review/text: I've been drinking Earl Grey tea for years now and I've yet to find a better brand than Stash.  Many have tried...all have failed.  The only thing better than Earl Grey however is Double Bergamot Earl Grey!<br /><br />100 count box at such a reasonable price.  A must buy.
+
+product/productId: B003D4MW38
+review/userId: A145RWKGIM8XOA
+review/profileName: Leamei
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Nice mild chamomile
+review/text: Very nice tea. Not too flowery, I usually get two cups from one tea bag. Easy to drink and very relaxing. Excellent value for 100 tea bags. I have reordered this several times
+
+product/productId: B003D4MW38
+review/userId: ALXP00ASZFH1I
+review/profileName: Deborah A. Moorman "Reader Lady"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Absolutely the best tea
+review/text: This tea is wonderful.  The smell is incredible and the flavor is perfectly peach.  I drink a cup of this tea every morning and it is like eating a fresh peach but better.
+
+product/productId: B003D4MW38
+review/userId: A36P0FSZ1HBZD7
+review/profileName: Mutpowr
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: Such a great save
+review/text: This is my favorite flavor by stash tea.  Adding a little almond milk makes this perfect.  Also you save way more than double at this price.  Im only getting my stash tea from amazon now.
+
+product/productId: B003D4MW38
+review/userId: APE9OSO71ZGMO
+review/profileName: Marilyn Bartlett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: delicious tea
+review/text: I love to enjoy a cup of this delicious tea every night.  The taste is smooth and fruity.  I will continue to buy this tea.
+
+product/productId: B003D4MW38
+review/userId: A3JZU9HMOHSI00
+review/profileName: Monk Fan "Monk Fan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: Very tasty and calming
+review/text: I love having a cup of Jasmine Blossom Gream tea at night. It is very tasty and calming. It does not have the bitterness of the Japanese green tea and the flavor is floral.
+
+product/productId: B003D4MW38
+review/userId: A3E2E3FIFHQSA5
+review/profileName: Texas mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: Texas Mom
+review/text: I love this product. I have a hot cuppa with a tablespoon of Honey every morning. It taste great and the cinnamon and honey seem to help with my seasonal allergies.
+
+product/productId: B003D4MW38
+review/userId: A37QKAU2616OI9
+review/profileName: Suzan Von Hor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349568000
+review/summary: Stash Acai tea bags
+review/text: Had a problem getting these in stores. Bulk bought online for my daughter. This caffiene free tea tastes really good with the juice of a freshly squeezed lemon. Drink hot or cold. Excellent product!
+
+product/productId: B003D4MW38
+review/userId: A244ZOEIN2H8A7
+review/profileName: David Calder
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349568000
+review/summary: Pleasant
+review/text: This is a pleasant tea that is perfect for a relaxing cup during the day.  Some Earl greys come on strong, but this is mellow and just what I was looking for.
+
+product/productId: B003D4MW38
+review/userId: A1TJVLQGQV77NL
+review/profileName: K. Debenham "emma's mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Tasty in bulk
+review/text: I have bought this Stash Ginger Peach Green Tea in bulk several times now and really enjoy the taste each time ( slowly converted myself from black Earl Grey to flavored green teas (don't like the green Earl Grey) and herbal drinks. This  tea is my tasty morning treat.
+
+product/productId: B003D4MW38
+review/userId: A3R8PT5MBUO06E
+review/profileName: Ed Diamond "ediamondjr"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Very good for daily chai
+review/text: This tea is very good, not bitter or watery with a balanced blend of spices and tea flavors. It is now my Chai of choice replacing my Teavana tea. I also like Macha in my steamed milk that I use to make my Chai (I make it both without milk and as a Latte) see my review on Macha's.
+
+product/productId: B003D4MW38
+review/userId: A2XNDJLR9X8ZEX
+review/profileName: Jack
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: White Peach Oolong Yum!
+review/text: I am a bit of a Tea Crazy (I counted last week and found I have over 40 boxes at home, because I drink a TON of green and chamomile tea and have some others, too. I started drinking Oolong tea about two years ago and really enjoyed it - this one is no exception. You could add honey to it but it tastes very flavourful and sweet without. There's no bitterness to it like there is with some herbal teas without honey. It's a really nice lunchtime/afternoon relaxing tea to have!
+
+product/productId: B003D4MW38
+review/userId: A3VB0EVBS05I3H
+review/profileName: Abhishek Murarka
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: Excellent
+review/text: Tea has a very smooth and refreshing taste to it. One of the best teas I have had so far.
+
+product/productId: B003D4MW38
+review/userId: A2R6TOK7PDRCDR
+review/profileName: Katvons
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: STRONG good tea for a good price
+review/text: I buy my father a box of 100 bags every 2 months. He loves STRONG black tea and boy is this it. He even uses two tea bags and I swear its as strong as expresso. It comes nicely securely packaged and free super saver shipping so I cant complain!
+
+product/productId: B003D4MW38
+review/userId: A1G8BLXMS9C0U
+review/profileName: K. Paulus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: best tea bags
+review/text: the stash peach black tea bags have the freshest most robust flavor than any other tea bags i have tasted, i think the fact that the bags are individually wrapped in foil keeps the flavor and freshness in
+
+product/productId: B003D4MW38
+review/userId: A1FS4RP15089NU
+review/profileName: Mikele
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: Wonderul tea!
+review/text: I originally bought a small box of this at the grocery store to see if it could replace my nightly cup (sometimes 3) of hot chocolate during our cold Maine falls and winters! I LOVED it! I guess if you like your tea with a splash of milk or cream it'll taste even more like mint hot chocolate but I only drink tea plain but that's what friends of mine have done when they come over.  This box is also an AMAZING price considering the local stores (that IF they carry this flavor, which 99% don't,) sell it for at least $3.50 a box. Great deal for a great tea! On ward to health and warmth! ;)
+
+product/productId: B003D4MW38
+review/userId: A1G3L0774JOJDY
+review/profileName: danl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348531200
+review/summary: Stash tea
+review/text: The tea was shipped in a timely manner, it was fresh and the taste was really good. I was expecting indiviual boxes instead of one large cardboard box, other than that no complaints.
+
+product/productId: B003D4MW38
+review/userId: A23HELXV1CWOL
+review/profileName: Sandy W
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Awesome herbal tea
+review/text: I found this herbal tea when visiting in Western Michigan. After I made my first pitcher of iced tea with it I was totally hooked. So worth having on hand. Love it!
+
+product/productId: B003D4MW38
+review/userId: A2XYDLEO2QPXIF
+review/profileName: Karen Chandler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Yummy!
+review/text: There is something about this tea that I never get tired of. It is naturally sweet with a licorice taste. It is a nice compliment to a relaxing evening.
+
+product/productId: B003D4MW38
+review/userId: A1OLSLU6CQCWV2
+review/profileName: 10 Percent Tax
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Love the tea, Wish I'd received all of it.
+review/text: Counted the # of tea bags on a whim to see if there really were 100. Nope....Only 90. I counted two more times just to be sure. It must be the VAT (Value Added Tax) kicking in on them because they are Irish. :)
+

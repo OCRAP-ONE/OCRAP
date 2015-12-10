@@ -1,0 +1,1143 @@
+product/productId: B001D0KG3W
+review/userId: A11RFN4694RMA0
+review/profileName: Joseph Luca "JL"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1233878400
+review/summary: Not for Dark Blend Coffee Drinkers
+review/text: I am a fan of other Timothy K Cups, but not this one. I tried it based on the reviews, but unfortunately it is not that strong. Of course it's a matter of taste. I prefer the darker blends, but if you are someone who prefers a "not so strong" coffee than I guess you would enjoy it. Don't get me wrong, it does not taste bad, just too weak for my preference.
+
+product/productId: B001D0KG3W
+review/userId: A29V69W1QMY9AK
+review/profileName: Duncan
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1245369600
+review/summary: Excellent medium roast
+review/text: Realizing that these reviews are very subjective and it is hard to judge taste... these are my favorite K-cups so far and I have tried many. They are not too dark and not too weak, but with a great sweet and nutty flavor and are very consistent. If typical breakfast blends and the like are just too weak for you and the super-double dark ones are too bitter, give these a try, I don't think you'll be disappointed.<br /><br />For a "taste preference" reference point, I am also a big fan of Kona and Kona blends.
+
+product/productId: B001D0KG3W
+review/userId: A1EPAEMY4QG0ZB
+review/profileName: Nightengale "Florence"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1236384000
+review/summary: K-cups coffee..
+review/text: Timothy's Italian roast is a mild not bold coffee...It has a nice taste however much weaker than other coffee's I have had...<br />I would surely classify this coffee as a weaker blend of Italian Roast...
+
+product/productId: B001D0KG3W
+review/userId: A1J723C0QAAVIK
+review/profileName: BILL LETO
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1323388800
+review/summary: weak was stronger the first time I bought it
+review/text: Don't if they changed it,but it did not taste like the first time I ordered it,don't know what they did to it?
+
+product/productId: B001D0KG3W
+review/userId: A26TJ4OL2LOMAJ
+review/profileName: Steve Walter
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1301184000
+review/summary: Good For Those Who Like Their Coffee Less Bold
+review/text: Certainly flavorful, but less body than I usually prefer. I think of Italian blend as a bolder, darker coffee. If you're put off by the stronger taste (think Starbucks)of the coffee house blends, this is the brew for you.
+
+product/productId: B001D0KG3W
+review/userId: API7MZD5YPJ2E
+review/profileName: Anne Mantello
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1267920000
+review/summary: weak taste
+review/text: this is a blend of coffee, and has a weak flavor, the Italian roast is much better
+
+product/productId: B001D0KG3W
+review/userId: ARKC127GA8QDU
+review/profileName: Student2
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1253059200
+review/summary: Great Anytime coffee
+review/text: This italian blend is a very pleasent coffee to drink anytime. I do not find it harsh, bitter or too strong. I have a few cups a day and can drink this well into the afternoon. I cannot recommend Timothys Italian Blend coffee enough... And AMAZON you "rock my world" on the delivery, always here within 2 days of placing my order !!!!! Couldn't be a happier customer !
+
+product/productId: B001D0KG3W
+review/userId: A3570294OPSGY5
+review/profileName: JCPewter
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1247356800
+review/summary: Timothys World Coffee, Italian blend
+review/text: Have used many boxes of this coffee in my Keurig.  It is full-bodied and very good, but not too strong/bitter.  Highly recommend.
+
+product/productId: B007ZH701S
+review/userId: A3QU3K2K6WAG8H
+review/profileName: Colorado Reviewer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: Excellent Mix
+review/text: This herb/spice mixture is a wonderfully pungent addition to tomatoes, salads, olive oil for french bread, etc.  No one flavor dominates, so it's not too garlicky, oniony, peppery, or anything else.  We love it but can't find in our local Safeway now, so glad Amazon offers.
+
+product/productId: B000EMAZK4
+review/userId: A1HRNOOMTO6ESB
+review/profileName: truthasiseeit
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1294099200
+review/summary: hot tea drinker
+review/text: The best tasting hot tea on the market! 1/3 the caffeine of coffee (which I gave up in 1999). My local favorites like Kroger and Walmart don't consistently carry this product. And the really good news is that by ordering from Amazon, usually with no mailing costs, per box the tea is at least a few cents less than at the local stores. Now go figure that! Thank you Lipton and Amazon.
+
+product/productId: B000EMAZK4
+review/userId: ARHPK4E5N1FQW
+review/profileName: Lylith
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1168214400
+review/summary: Yum!
+review/text: I'm not usually a fan of Lipton teas, but this is the best French Vanilla Black tea I have tried - and I've tried a lot of them.
+
+product/productId: B000EMAZK4
+review/userId: A1ADGF5AYRN13O
+review/profileName: PopPop
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1299024000
+review/summary: Great Taste
+review/text: I could not find this tea locally anymore, so I'm glad I found it at Amazon.  I've been drinking this tea for a number of years now, and probably wouldn't go back to regular tea.
+
+product/productId: B000EMAZK4
+review/userId: A9I7A2U93R4F9
+review/profileName: Joyce K. Suihkonen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1298160000
+review/summary: Lipton French Vanilla Tea
+review/text: If you like tea, you will LOVE the french vanilla tea.  Can't find it in stores.  My shipment arrived promptly and was perfect.  I love Amazon.
+
+product/productId: B000EMAZK4
+review/userId: A35F0XY409ZTSA
+review/profileName: Jen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290729600
+review/summary: Best tasting vanilla tea!
+review/text: I've been enjoying this tea for a few years now, ever since it first came out. I've always purchased it at my local grocery store but both stores that I could buy it from stopped selling it!!! I found it here on Amazon and couldn't be happier. Now I order in bulk and enjoy it everyday! It is the best tasting vanilla tea that I have found and I have tried many!!!
+
+product/productId: B000EMAZK4
+review/userId: A12WYM8N85GEU4
+review/profileName: Elizabeth Whitehead
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343001600
+review/summary: Best tea for the price
+review/text: I couldn't tell you the difference between a bargain wine and an expensive one, but I can usually tell with tea. This is one of the only "supermarket" teas I like, but unfortunately it is not carried in my area. I'm so glad I can get it via the Internet!!
+
+product/productId: B000EMAZK4
+review/userId: A2Z4F8HECUK466
+review/profileName: chickeeshanks
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324598400
+review/summary: The Best
+review/text: This is the best French Vanilla flavored black tea that I can find.  It isn't sold in stores anymore around my hometown; so Amazon is where I get my stock supply.
+
+product/productId: B000EMAZK4
+review/userId: AGGEQ36N90B0P
+review/profileName: Jennifer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317772800
+review/summary: Flavorful!
+review/text: I wasn't a huge tea drinker before I tried <a href="http://www.amazon.com/gp/product/B000EMAZK4">Lipton Flavored Black Tea, French Vanilla, Tea Bags, 20-Count Boxes (Pack of 6)</a>.  It has a great flavor that can be enjoyed hot or cold.  I actually started drinking it iced to help cut back on my daily pop intake.  Since it has such a great flavor I didn't feel like I was missing out on anything!  The best part is this tea tastes great without adding sugar to it!
+
+product/productId: B000EMAZK4
+review/userId: A34Y34VENDTAHO
+review/profileName: teacherlisa
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313107200
+review/summary: love this tea
+review/text: Unfortunately for me, I am no longer able to buy this in my local store. I was so happy to find it here.
+
+product/productId: B000EMAZK4
+review/userId: A2QPWA4E1CZ3HD
+review/profileName: HTexas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308960000
+review/summary: Fantastic
+review/text: Lipton French Vanilla is hands down one of the most delicious black teas available - I am thankful I can continue to purchase it through Amazon since it is no longer available in stores.
+
+product/productId: B000EMAZK4
+review/userId: A2ORWB1C5YS0EX
+review/profileName: Penny Pincher
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304467200
+review/summary: Lipton French Vanilla Tea
+review/text: This is, in my opinion, the best tea that Lipton produces.  It has a marvelous flavor and aroma! It's terrific as a hot tea, cold tea, and sun tea!  You won't be disappointed!
+
+product/productId: B000EMAZK4
+review/userId: A3JMA4C5EYIM99
+review/profileName: Bargain Hunter
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1304035200
+review/summary: seam open
+review/text: The flavor is pretty good. I am pretty bummed because my tea bags aren't sealed all the way. At the top seam, there is a centimeter gap causing loose tea to invade my mouth! Hate that. I guess I will have to invest in a tea ball. That ticks me off to be truthful. The reason I chose tea bags to begin with is because they are supposed to be convenient!
+
+product/productId: B000EMAZK4
+review/userId: ADBXVFE78XYVR
+review/profileName: Theresa "Ebook Addict Reviews"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302048000
+review/summary: Great Taste
+review/text: this is my favorite lipton tea sadly all the stores in my town have stopped selling it so I have resorted to buying it at Amazon lets pray they don't stop offering it.
+
+product/productId: B000EMAZK4
+review/userId: A1KJKGJ9LTFV9Y
+review/profileName: jana
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1299888000
+review/summary: french vanilla tea
+review/text: this is the best tea I have ever had.  myself and many family members have this product on auto shipment.  Yes it's that good.  My family uses 3 cases a month.
+
+product/productId: B000EMAZK4
+review/userId: A2SM7GYCHMSEEW
+review/profileName: michigan girl
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1289520000
+review/summary: better than Lipton's Vanilla Caramel Truffle!!!
+review/text: Much better than their caramel vanilla truffle!!! This is almost as good as Bigelows french vanilla (REg or decaf) and their Caramel Vanilla (that is awesome!!! My coworkers love it and beg to 'Borrow' a bag). I think this is good too but I keep it at home. It doesn't travel as well as the bigelow tea bags that are individually wrapped. But still good!
+
+product/productId: B000EMAZK4
+review/userId: A20EP2NK50EGAI
+review/profileName: swim
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288310400
+review/summary: Wonderful
+review/text: I have tried many other french vanilla teas but none come close to this one.
+
+product/productId: B000EMAZK4
+review/userId: A46U02M3QK02
+review/profileName: Cynthia &#34;Bellasmom&#34;
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: FAVORITE tea...
+review/text: Lipton makes the BEST French Vanilla tea...I have tried others and this is my favorite.  Just the right balance in the vanilla flavoring.  I buy it by the case as it is hard to find in stores - thankful Amazon is carrying.  LOVE this tea!
+
+product/productId: B000EMAZK4
+review/userId: A20DY4XPIV6YKR
+review/profileName: Traci Weaver
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: SO GOOD!!!
+review/text: I love this French Vanilla tea and it's not available in stores any longer so I was THRILLED to find it on Amazon. Now that the weather has turned cool, it's time for tea!!
+
+product/productId: B000EMAZK4
+review/userId: AZKUTR3EU95PZ
+review/profileName: Barb Heffner
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1348185600
+review/summary: Lipton French Vanilla Tea Bags
+review/text: The expiration date on all the boxes was 2009. Maybe Lipton discontinued making this flavor in 09. It doesn't have the flavor that it should.
+
+product/productId: B000EMAZK4
+review/userId: A2OICPLYFWZJJU
+review/profileName: Pink Rose "J.P."
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1324771200
+review/summary: Lipton French Vanilla Tea
+review/text: Rate this one o.k. to taste & cost is good.  The "French" notes of vanilla give it almost a tropical spin when iced, which I liked.  So far not sold on the taste when hot. Still, iced it might be nice for a party or something! Did notice hints of artifical notes of flavor.  *A great one to try is, Harney&Sons fine teas bit more expensive (Amazon sells) Vanilla flavor; soft/smooth/yum hot w/ touch milk and honey, look forward to trying it iced!  Another good tea is Stash brand (priced great), Vanilla nut Creme.  Hot, its smooth, tasting a nice vanilla and a creamy smoothness, I don't taste nut just vanilla and creamy notes.
+
+product/productId: B000EMAZK4
+review/userId: A33OEE2SOU6Q4E
+review/profileName: Sammie
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1296172800
+review/summary: DELICIOUS!
+review/text: This tea has been my absolute favorite for years, and I was really upset when I noticed they stopped selling it at Walmart, Target, & my local food stores. I'm so thrilled to have found it on Amazon at an incredible price! The first time I tried this tea, the aroma reminded me of vanilla cupcakes. It is delicious, especially with a little bit of coconut milk.
+
+product/productId: B000EMAZK4
+review/userId: A3UGS2BPSJ4PSA
+review/profileName: automagicaly
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1300838400
+review/summary: Weak Flavor
+review/text: Maybe i'm just not used to "flavored" teas, but this was just dissapointing. You can barely taste anything at all, although it does definitely smell good. The bags only last for 1 seeping, and the vanilla is almost undetectable, unless you add sugar / cream.
+
+product/productId: B000I4Q20K
+review/userId: A1J0RUYWMBY9XI
+review/profileName: Benjamin C. Kirkup
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: Delicious
+review/text: I have not met a Wilkin and Sons product which was not absolutely best in class.  The jams and preserves from Tiptree are excellent.  Black Cherry is no exception.  Lovely with butter on biscuits.
+
+product/productId: B006RLCFCM
+review/userId: ASRFYEXN8GWX9
+review/profileName: gina romantica "gina"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1329264000
+review/summary: One of the weakest tasting olive oils I've ever had
+review/text: After reading one product review about this being the best product, I was immediatley intrigued.  I love a good quality extra virgin olive oil and am always searching for good bottles of imported oil.  I want to have the flavor come through especially in a salad or on warm bread.  If that is what you want, this product will disappoint.  Not all oils are strong, but I found my bottle to have no flavor what-so-ever.  I could discern no flavor that said this is extra virgin olive oil.<br />I have had great olives oils and a friend even brought back some from Greece which was rich, thick, and green.  It was amazing.  This did not even come close.<br />I now see four other reviewers who have rated this as the best.  I don't know how that could be.  I am wondering what happened with my oil???
+
+product/productId: B006RLCFCM
+review/userId: A22NKBJ2FNQNUZ
+review/profileName: JBfullyalive
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328659200
+review/summary: Yum!
+review/text: I picked this up at my local farmers' market and it's wonderful! I got some dipping spices from the same vendor. I brushed the olive oil on a gluten free pizza crust, added the spices and some fresh garlic and black pepper. I cover that with sliced tomatoes and mozzarella cheese. SO good!! I'll definitely be purchasing more!
+
+product/productId: B006RLCFCM
+review/userId: A2X2NRAFWL10IE
+review/profileName: Alexandros
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325548800
+review/summary: Best Greek olive oil I have tasted in US
+review/text: Being from Greece I can say with certainty that this is an original Cretan olive oil. Its pure and full taste makes it ideal for cooking, salads and dressings. We were thrilled to find here in USA an original product deriving from our country and my wife likes to use it every time she cooks, resulting in tasty and full flavored foods. I would strongly recommend this basic component of the Mediterranean diet to anyone who want to improve his nutritional habits.
+
+product/productId: B0074YT37Q
+review/userId: A5DNC76NSLVR0
+review/profileName: John Greaud
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1344297600
+review/summary: Reliable-Faster-Uses Less
+review/text: We have used SAF Instant Yeast (the one with the Red Band at bottom of the package), in a restaurant for more than twenty years.  This Instant Gold works much faster than the one with the Red Band and less yeast is required. In recipes that called for 1 Tbs of yeast we now use 1 1/2 tsp.  Although the Instant Gold costs about 20% more than than the other; it uses half as much so in the end it costs less.  We also have more success with this yeast when making a gluten free bread.
+
+product/productId: B0074YT37Q
+review/userId: A162C3UVWQFLXA
+review/profileName: Annie Oakley "Annie"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1338595200
+review/summary: Really Impressed
+review/text: I bake a lot and have tried all the grocery store brands over the years, and the saf products out perform them all.  The doughs rise faster and outlast all others i.e., waffle batter.  I'm using the GOLD for waffles and sweet rolls-the waffle batter lasts all week in the fridge.  The sweet dough is smooth & silky and handles beautifully, bakes up with an impressive crumb.  Give saf brand yeast a try and you won't go back to the grocery store brands.
+
+product/productId: B0074YT37Q
+review/userId: AKAC8NPPN39TT
+review/profileName: Why?
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350691200
+review/summary: Good yeast
+review/text: I use saf-instant yeast for all my general baking needs, usually the red instead of the gold. This is the first time I have used the gold hoping it might improve my rye bread results. I could not discern a differance between the red and gold for whole wheat or rye bread. It works about the same as the red yeast does. I tried it for sweet rolls and I couldn't tell any difference between the two yeasts. The red and gold are excellent for my baking needs.
+
+product/productId: B0074YT37Q
+review/userId: A11CK9ML98WDDD
+review/profileName: A. A Sossan "Speaker Crazy !!"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350432000
+review/summary: Its OK.  Just yeast.
+review/text: Its just baking yeast as advertised, not anything fancy or super select. It was delivered on time with no hassels. It beats going to the store and looking through their very limited selections. I would recommend this for large baking needs. I am not a baker but still trying to get the baking store consistency.
+
+product/productId: B0074YT37Q
+review/userId: ALTX24B4FYBJI
+review/profileName: Max
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: SAF Gold Yeast
+review/text: Great product for high rise of sweet bakery products.  Perfect for cinnamon rolls, sticky buns, morning buns and kouign amman.
+
+product/productId: B0064KO8AI
+review/userId: A1M1RQACGBTEDG
+review/profileName: Ann P. "Ann P."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: The BIG Ones
+review/text: These are the real deal from when I was a kid and I plan to give them to special neighborhood kids for Halloween. They shipped super fast and were well packaged.
+
+product/productId: B004H6MV28
+review/userId: A1AYOJEV1NV48W
+review/profileName: Ta2edmom
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1332892800
+review/summary: Delicious!
+review/text: One of the best K cup varieties around! Every drop is delicious, tastes better than a Tazo Chai from Starbucks and easier on the pocket book!
+
+product/productId: B004H6MV28
+review/userId: A17QJ8GWNJX621
+review/profileName: JMW
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1325980800
+review/summary: A cup of perfect
+review/text: I look forward to this cup of Chai tea every evening.  It's PERFECT.  I actually like it better than what I previously paid 4 dollars for at THE coffeehouse.  It is creamy, sweet, and tasty.  I do recommend using a smaller keurig setting with it so it doesn't taste watered-down, but otherwise, it's seriously perfect.
+
+product/productId: B004H6MV28
+review/userId: A38EFSJMJBHXPZ
+review/profileName: pumpkin27mom
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1327881600
+review/summary: LOVE!
+review/text: The Cafe Escapes Chai Latte is AMAZING!! I've ordered a few times now and will continue to use this brand only for my chai. HIGHLY recommend!!!!
+
+product/productId: B004H6MV28
+review/userId: A15SCIHLW004UA
+review/profileName: M. Lightner "bluemtnmarc"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1335484800
+review/summary: good taste and great price
+review/text: the flavor is very good, the price is in the ballpark, this is a good buy, don't hesitate on this one
+
+product/productId: B004H6MV28
+review/userId: A2MFJAICHH8JYL
+review/profileName: Lisa
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1349568000
+review/summary: CAUTION: Contains Sucralose w/Artificial Sweetener Aftertaste!
+review/text: As another reviewer stated already, this is not labeled 'low calorie' or 'low sugar' so I didn't expect it to contain artificial sweetener. I guess that's my fault for assuming, as this does contain sucralose and has a terrible, artificial sweetener aftertaste. I understand that this taste apparently doesn't bother a lot of people, but I absolutely can't stand it and will be returning this product. I feel that this should be disclosed on the package a bit more prominently than just listed on the ingredients (I bought at Meijer, not at Amazon, where I was able to look at the package before purchasing). I know, I know, I should've checked the ingredients. I wish I would've. I'm only writing this review as a warning to anyone else who may be considering the purchase, but like me, hates that fake sugar flavor (not to mention putting whatever chemicals they use for that stuff into their body).
+
+product/productId: B004H6MV28
+review/userId: A34QTDXH7ERI5T
+review/profileName: MaryJo
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334966400
+review/summary: Good!
+review/text: This Chai Tea is just the right amount of sweetness and great evening drink. I love my keurig and the chai tea is one of my top choices for a hot drink.
+
+product/productId: B004H6MV28
+review/userId: A23ZOCG7ICG2SQ
+review/profileName: Quincynator
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334534400
+review/summary: I am addicted to this stuff!
+review/text: I ordered this when I bought a Keurig-K-cup<a href="http://www.amazon.com/gp/product/B000AQSMPO">Keurig B60 Special Edition Brewing System</a> just to have something for friends who don't drink coffee. Wow, after trying one cup I became totally addicted to it. I am now drinking more of this than coffee. Who knew?
+
+product/productId: B004H6MV28
+review/userId: A3W0IQMZLOG7TV
+review/profileName: marie
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332374400
+review/summary: my chai
+review/text: my daughter told me about this product; once i tried it; i have to have it every day. the flavor is fantastic, and it's very aromatic.<br />it doesn't have any real caffeine; i'am caffeine sensitive; i can have a cup every morning and do not have any symptoms what so ever of caffeine problems. i highly recommend this product if you like cinnamon, and like teas, and coffee lovers will find this refreshing also.
+
+product/productId: B004H6MV28
+review/userId: A1HIVMINZII09E
+review/profileName: bocaj
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331164800
+review/summary: Delicious
+review/text: This is the first Chai k-cup that I have tried and SCORE...it's amazing.  I'm actually drinking my first cup as I type this.  It's so good that I couldn't wait to review it.  It's sweet and tasty and simply deliciuos.  I used the small cup setting on my Keurig for this cup. I enjoy both my coffee & tea very sweet, but I actually don't need as much sugar for this chai tea.  I put in the same amount I normally do for tea, and it's extra sweet (but still great) so next time I know not to use as much sugar.<br /><br />I will definitely continue buying this one.
+
+product/productId: B004H6MV28
+review/userId: A3LXOMANBRFQJG
+review/profileName: suaimhneas15
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329350400
+review/summary: Delicious!
+review/text: I was a little worried about trying a tea - my hot chocolate and cider attempts with my Keurig hadn't gone so well. I combined 2 6 oz. servings - absolutely delicious! Nice and spicy, not at all watery.
+
+product/productId: B004H6MV28
+review/userId: A1BRC9U7WFSA3V
+review/profileName: SHEA
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335398400
+review/summary: CHAI
+review/text: I LOVE THIS BRAND AND CHAI TEA IS BETTER THAN COFFEE, IT IS SO MUCH EASIER AND CHEAPER THAN GOING TO STARBUCKS, TASTES ALMOST THE SAME AND ITS QUICK IN THE MORNING
+
+product/productId: B004H6MV28
+review/userId: A21NBMOERHFKNH
+review/profileName: M. Brown "mikeybigb"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334534400
+review/summary: Delicious
+review/text: These are awesome Chai Lattes! And this was the best price I could find searching all over the net. I will definitely be ordering more very soon.
+
+product/productId: B004H6MV28
+review/userId: A2LP9A8HM75PLX
+review/profileName: sad1969
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333584000
+review/summary: Great Tea
+review/text: This is the best. used to buy chai latte at very expense shops. so glad that I can order the K-cups for home.
+
+product/productId: B004H6MV28
+review/userId: A2M8MNA6GXGZMY
+review/profileName: Ms Kelly
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330819200
+review/summary: Great deal
+review/text: I'm not a coffee person this tea is great and the price is even better I recommened this to all tea drinkers
+
+product/productId: B004H6MV28
+review/userId: A2PEKT2DLJTD4A
+review/profileName: Leisa
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330646400
+review/summary: So delicious.
+review/text: These Chai Latte K-cups are so delicious. I want to drink them all(the whole box)at once, but try to control myself. I wish they were calorie free, but no such luck!
+
+product/productId: B004H6MV28
+review/userId: A39INFTZG1GTBM
+review/profileName: Terri L. Jeroue "cooksalot"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330560000
+review/summary: so good!
+review/text: I sure love chai tea and I was not dissapointed!!! It was just perfect! I brewed it on the 8oz setting like they recomended and I loved every drop! This I will buy always! I plan on brewing it,cooling it and putting it over ice in the summer!
+
+product/productId: B004H6MV28
+review/userId: A11OJJ3SJK5P5C
+review/profileName: Nancy M. Clement Caron
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1329782400
+review/summary: Nan
+review/text: I love this as a nice afternoon drink rather than coffee all day in my Keurig , I just wish there was a little more in the cups since it has to be on a 6 oz cup size or it will taste watery
+
+product/productId: B004H6MV28
+review/userId: A3RDQS449HC370
+review/profileName: Debbers97058 "Native Oregonian since 1951"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325808000
+review/summary: The ONLY Chai latte I love!
+review/text: This is the BEST!  We have a Keurig--99.9 % for hubby and his coffee---but, I found this Cafe Escape Chai Latte...and O'yum! Winner! I always take a few portions w/me when we go away for a few days, and just empty in a cup and ask the waitress for Hot Water!  LOVE this!
+
+product/productId: B004H6MV28
+review/userId: A267GKVDWFQY18
+review/profileName: bitrob2000
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325635200
+review/summary: The whole family loves it !!!!
+review/text: Was buying different K-CUPs to try and taste, but once I purchased this one,...oh my GOD !!!<br />The whole family loves it, I cannot keep in my house, its gone within a few days, kids and wife<br />drink for breakfast, lunch and dinner ...................
+
+product/productId: B004H6MV28
+review/userId: A17SI29DNSK3HQ
+review/profileName: Audra in WI
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1330300800
+review/summary: A decent Chai latte....
+review/text: This is a decent Chai latte.. not the best I've ever had, but certainly the best I've found for the Keurig.  It seems a bit watered down and doesn't have the impact of the spice that I like in Chai.  Just aroma and spice-wise, I actually prefer the Celestial Seasonings India Spice Chai k-cups with a bit of milk added after it's done (http://www.amazon.com/gp/product/B004779XHI/ref=oh_o01_s01_i01_details).
+
+product/productId: B004H6MV28
+review/userId: A1D69K7DZKOVL2
+review/profileName: chriscz "chriscz"
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1325894400
+review/summary: very artificial tasting
+review/text: I love Tazo Chai concentrate (just heat with milk) and this nothing close.  It has a very strong artificial taste.  It Smells good, but tastes strongly of powdered non-dairy creamer and way too much sweet and low (those pink packets of sweetener).  Too bad, because it is a great idea and I really wanted to like this.
+
+product/productId: B004H6MV28
+review/userId: AFF6F08FRSYWG
+review/profileName: Kentucky Woman "Emily"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Love chai - love Keurig - love these K-cups!
+review/text: I'm addicted to these chai k-cups.  It tastes sooo good and much cheaper than fixing my chai cravings at Starbucks.  Highly recommend!!
+
+product/productId: B004H6MV28
+review/userId: ANM000BVVUSCT
+review/profileName: Debbie DeNeese
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Exactly what I was looking for: Fast, fantastic Chai!
+review/text: I was skeptical as to how good an all-in-one Chai Tea for Keurig could be, but my doubts were erased at my first sip!  The spice blend is great, as is the sweetening and the dairy component.  This is the kind of thing I was hoping I could get from my single-serve coffeemaker!<br /><br />Order some, you will thank yourself every time you brew a cup.
+
+product/productId: B004H6MV28
+review/userId: A19SQLKMY7PEEI
+review/profileName: Michael Daniels
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350604800
+review/summary: WAY too SWEET for me!
+review/text: As someone who really enjoys a Chai Tea Latte from time to time, I was really excited when I saw this product and read some of the rave reviews! When I brewed the first one I was impressed right away by the presentation and aroma. However, when I took the first sip it was almost too sweet to drink. It tastes like liquid caramel with a hint of spice. Personally I prefer my Chai with more spice and not much sweet, so this was not what I was looking for. If you do like sweet drinks, though, everything else about this was 5 star. So, I guess it depends on preference. Wish I had ordered this in a sampler because I don't think I'll be able to finish them all.
+
+product/productId: B004H6MV28
+review/userId: A10O4LYO967IZ
+review/profileName: Linda R. Wagoner
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350604800
+review/summary: Great change from coffee
+review/text: Got this as a present for my son for our Keurig. His only comment was that it tasted alittle sweeter than when he made regular Chai lattes for himself at home. At first I couldn't find it locally, that is why I ordered it from Amazon, but have found it now and a good bit cheaper  FYI.
+
+product/productId: B004H6MV28
+review/userId: A1PATZ96CQ5X7K
+review/profileName: Stanley Chang
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350259200
+review/summary: Not a bad chai latte but expensive
+review/text: If I could I'd give it 3.5 stars.<br /><br />The flavor isn't terrible. Not as good as a real chai latte of course but it has decent chai flavor and is relatively creamy. I do wish it was a bit spicier though (could probably mix this with real chai tea). Not bad calorie wise compared to other brands of chai latte powders because it uses artificial sweetener over real sugar. I don't mind but I know some people aren't fans of artificial sweetener.<br /><br />The only major hit this gets is that the price is really expensive. Each cup costs quite a bit more than regular k-cups but of course k-cups were never really for price conscious individuals. Definitely would not buy a keurig just for these since there's readily available chai latte powders that are just as quick to make at a much cheaper price.
+
+product/productId: B004H6MV28
+review/userId: ALEABNMSVO1JI
+review/profileName: gibble
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: Comfort in a cup
+review/text: This Chai Latte is a "go to" when you want a little something sweet or just to relax and enjoy the moment.  Great product that is always on the mark.
+
+product/productId: B004H6MV28
+review/userId: A25L6BAHYZH652
+review/profileName: Amber
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350000000
+review/summary: Not a fan
+review/text: I'm particular when it comes to chai tea but I drink it often. This kind, not so good. I'm going to have to try and sell it on craigslist or something
+
+product/productId: B004H6MV28
+review/userId: AKEN2LJN6UHFY
+review/profileName: Dr. Marilyn M Parker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: Really good on a grey day!
+review/text: Thoroughly enjoyed each and every cup of Cafe Escapes Chai Latte in my previous order . . . so I'm reordering to enjoy as the days get shorter and cooler.  Don't have a Keurig Brewer, so I just empty the single cup pack in a mug, stir in boiling water, wait a minute, and then sit and enjoy!  <a href="http://www.amazon.com/gp/product/B000GCS018">Cafe Escapes Chai Latte K-cups for Keurig Brewers, 16 K-cup Box</a>
+
+product/productId: B004H6MV28
+review/userId: A1DRADY6RXUQGZ
+review/profileName: bluejourney
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350000000
+review/summary: contains Sucralose
+review/text: I think this product would be good, but I am sensitive to sucralose and cannot use it. It was very disappointing. The product will go unused.
+
+product/productId: B004H6MV28
+review/userId: A14VQBJIDBCZ30
+review/profileName: Steven M. Wall "Videofile"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Heaven.
+review/text: I hate coffee but love a nice hot cup of chai.  I have tried several options for home use and all of them have come up short.  Until the Chai Latte K-Cups.  OMG.  It's just like what I get from the coffee shop.  Having these available to me have pretty much guaranteed I will never order another one ever again.  And only takes 2-3 minutes to brew.
+
+product/productId: B004H6MV28
+review/userId: A36CNNHN9O717F
+review/profileName: Angie Newhouse
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Chai Tea Latte Lover
+review/text: Awesomely easy cup of tea. For an extra dose of self satisfaction, add a squirt of whipped cream!<br /><br />Chai tea is also good for you so drink up.
+
+product/productId: B004H6MV28
+review/userId: A1JWH9D6RV7M3S
+review/profileName: Tamara Halliburton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: This is SO GOOD!
+review/text: My goodness, I love this stuff!!!  It is sweet, while not being too sweet.  I have turned all my friends onto it.
+
+product/productId: B004H6MV28
+review/userId: A3B8PEI0W9DV1N
+review/profileName: omawally
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346371200
+review/summary: Love my K Cups
+review/text: Cafe' Escapes Chai Latte K Cups-it taste so smooth and it's a quick treat for the middle of the Day just sweet enough.
+
+product/productId: B004H6MV28
+review/userId: A7IUS9T18ETHU
+review/profileName: Yvonne I. Bamberger "Asian Junkie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: Great value for this kcup!!!!
+review/text: This is the best price around for the quantity of kculs per box....stock up!!!!<a href="http://www.amazon.com/gp/product/B004QDA8WC">Caf&eacute; Escapes Chai Latte, K-Cup Portion Pack for Keurig Brewers, 24-Count</a>
+
+product/productId: B004H6MV28
+review/userId: AU9XK1TN3QE5C
+review/profileName: Duane Neas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344988800
+review/summary: Chai Latte, K-Cups
+review/text: This is the best tea latte I have ever had.  Drink it daily and really enjoy the flavor.  I've found it in the warehouse section of Amazon.com and it's really a bargain price!  Cafe Escapes has other products and all the ones I've tried have been great.  Do not hesitate to order this!
+
+product/productId: B004H6MV28
+review/userId: A13FEHNGZ69RP6
+review/profileName: L. W. Wright
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Chai Latte Cheapest in Town!
+review/text: I searched everywhere. Even discount stores. And buying in bulk (I purchased 3, which got me free shipping) meant that I paid even less than the sales prices with coupons at TJ Maxx or some other similar discount store for exactly the same brand. They taste great. I will definitely order again. They came on time when promised. You cannot do better that that anywhere, ever!
+
+product/productId: B004H6MV28
+review/userId: AXCQG48FZWAQ
+review/profileName: Niu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Amazing
+review/text: This chai tea is absolutely delicious. Very creamy and full of flavor. I mix it with the Starbucks Sumatra coffee for a tasty drink.  Buy it - you won't regret it!!
+
+product/productId: B004H6MV28
+review/userId: A16OX6U12GNZIT
+review/profileName: islandboy08876
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343952000
+review/summary: it's delicious!
+review/text: i'm a huge fan of chai tea's i find it very relaxing and mind clearing! usually before i start drinking a freshly brewed cup of chai tea, i will stick my nose in the cup and take a few deep breath, the aroma just clears my mind and relaxes me, then i sip slowly until its all gone, its great hot or over ice!<br /><br />I enjoy a slice of marble pound cake with my chai tea!
+
+product/productId: B004H6MV28
+review/userId: A340P2G1MO0MYH
+review/profileName: Elna G.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342569600
+review/summary: AMAZING TASTE!!
+review/text: I have to say this is the most amazing taste I have ever had.  I searched everywhere for this.  The few stores in our town that carries these are always out of stock of this flavor.  It normally sells out the first day they get the shipment it.... Most I have to resort to buying my supply online here.  This stuff has everything in it and no need to add more the flavor is just perfect.
+
+product/productId: B004H6MV28
+review/userId: A2OIGRR7GILMNV
+review/profileName: Amy Kerns "Aims"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342051200
+review/summary: My Favorite!
+review/text: This is my favorite flavor.  I'm not sure it has the same amount of caffiene as regular coffee, but it's too good not to drink every morning.
+
+product/productId: B004H6MV28
+review/userId: A170WPF1CUA9ZH
+review/profileName: Dani
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341619200
+review/summary: Really Good Chai Latte
+review/text: If you like Chai Latte tea and don't want to fuss with making it the 'old Fashion" way, this is a good alternative.  Of course, you have to own a K-Cup coffee machine.  I've bought a few of these boxes of 24 k-cups.  The last time I ordered them they came in a package of 2 boxes (48 total) for about $32.  Now it looks like amazon is selling them as 1 box (24 k-cups) for about $18.  To me the key to buying this (or almost any item) on amazon is to do a search first.  There are many different sellers here and they all seem to have different prices and a different number of k-cups in their boxes.  Some add shipping and some have free shipping.<br /><br />As far as the tea goes, I really like it and would highly recommend it!
+
+product/productId: B004H6MV28
+review/userId: A10WGPFBBTM6UH
+review/profileName: Janet A Vansant
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341014400
+review/summary: Chai Latte K-Cups
+review/text: This tea is delicious, the hint of cinnamon helps to relax and soothe.  A great drink for when you want to kick back and relax.
+
+product/productId: B004H6MV28
+review/userId: A1CHJ4KO1YZAVT
+review/profileName: Lee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340928000
+review/summary: This is a Must Have in My House
+review/text: If you are a Chai Latte fan, you must try this product!  I 'spoil' myself with a cup whenever I'm off a day from work.
+
+product/productId: B004H6MV28
+review/userId: A2WU9DFYE1Z58Q
+review/profileName: Baxter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Great!!
+review/text: Love the flavor!  Not too strong, but not weak - just right.  My favorite morning drink!  I do not have to add any sugar, cream , or milk.  It is perfect the way it comes.
+
+product/productId: B004H6MV28
+review/userId: A4NSQAUDHMEP6
+review/profileName: tigersmama
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339977600
+review/summary: My FAVORITE
+review/text: This is my favorite flavor to use with my Kuerig coffee maker.  It is the perfect way for me to start and/or finish any day.
+
+product/productId: B004H6MV28
+review/userId: A3PFT5J2ITB27I
+review/profileName: Heath2631
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339891200
+review/summary: Cant Beat the Flavor.Better than any Coffee Shop
+review/text: I love this tea. It is so good and also wonderful if you add a little milk or half/half after it is brewed. Its also has less caffiene than what you would get at any local coffee shop. Can only hope they come out with a Vanilla chai tea.
+
+product/productId: B004H6MV28
+review/userId: A3RNH24C2FFWAW
+review/profileName: NWMicrobrew
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338163200
+review/summary: Cafe Escapes Chai Latte - Kcups
+review/text: Bought this for my wife she says it isn't Starbucks but it is the best Chai Tea to come out of a machine.
+
+product/productId: B004H6MV28
+review/userId: A1ZB8AP7A4TY25
+review/profileName: Amazon_Customer_X
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: Amazing
+review/text: These are really tasty.  If you enjoy the Chai Latte from the popular coffee shops, you will love this.  Highly recommended.
+
+product/productId: B004H6MV28
+review/userId: AG2WLXDREGE41
+review/profileName: Snaith Goole
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: Great Tasting Tea
+review/text: This is the best tasting tea I have ever had.It reminds me of the Holidays,especially Christmas Holidays.It has a taste I cannot describe but is rich in flavor.Although I cannot find it easily in town,it seems this tea is carried most during Holiday Seasons so I looked on the net and found the price out of range till I looked on Amazon.Thanks Amazon.
+
+product/productId: B004H6MV28
+review/userId: A3EPJS6MCCT4JF
+review/profileName: Graham Sutherlin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336089600
+review/summary: Buy the larger box - You'll thank me later!
+review/text: If you like Chai, this will be your new favorite!  So yummy!  Our only problem was that we kept running out!
+
+product/productId: B004H6MV28
+review/userId: A2M4RJHD12445L
+review/profileName: JEvans
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325462400
+review/summary: Even A Non-Coffee Drinker Loves It
+review/text: We've had the Keurig a whole week and the only flavor/box that's gone completely is this one. It's a household favorite. My husband who detests coffee drinks and most hot drinks, loves this tea as do I. We have ordered another three boxes of it because it is fabulous. Very reminiscent of the chai latte you can buy hot from one of the big coffee stores. Highly recommended.
+
+product/productId: B004H6MV28
+review/userId: A16D4QM60L8OLE
+review/profileName: Harmon H. Johnson "Butch Johnson"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325116800
+review/summary: Excellent Chai Latte
+review/text: Good Chai- cheaper than coffee houses. Convenient in the Keurig machine. Got it through Amazon, which was less expensive than other options.
+
+product/productId: B004H6MV28
+review/userId: A1ZJDOSGHV6UYF
+review/profileName: Pixiedee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324512000
+review/summary: Great flavor
+review/text: This is my favorite keurig drink variety so far.  I found the chai tea latte flavor smooth and delicious, and with no strange aftertaste.  I almost purchased this item last week, but was hesitant because of some of the reviews.  Then, I received a free sample.  Wow!  So glad, otherwise I might have missed out on a great product.  Will definitely be buying more in the future!
+
+product/productId: B004H6MV28
+review/userId: AVOFW4IP3ZVC9
+review/profileName: Nancy "mamabear"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323388800
+review/summary: yummy
+review/text: If you like hot tea with milk and sugar, you will love this chai latte.  It has a slight cinnamom flavor, but otherwise, not nearly as exotic as it sounds.  I have also become hooked on this, my new favorite flavor of K-cups.
+
+product/productId: B004H6MV28
+review/userId: A2F483BAH7UCI3
+review/profileName: Sade
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322956800
+review/summary: Cafe Escapes Chai Latte
+review/text: These taste great, but you can only make small cups. The K cup actually empties out, so if you have a large traveling mug, you might want to make 2-3 small cups (using different K Cups) to get the full flavor. But, I love it!
+
+product/productId: B004H6MV28
+review/userId: A3C26HADK8V9RF
+review/profileName: Marilyn Meredith "Marilyn, author and avid re...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319846400
+review/summary: My absolutely favorite way to start the day!
+review/text: This Chai latte is far better than any designer drink you can get in a coffee shop.  I'm absolutely hooked on it. Anyone who is a friend of mine on Facebook knows that I always have a cup of Chai latte as I begin my writing day.<a href="http://www.amazon.com/gp/product/1606592645">Bears With Us</a>
+
+product/productId: B004H6MV28
+review/userId: A1V13XAWO98C1J
+review/profileName: Stan "Stan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316649600
+review/summary: Nice Tea, but a little pricey
+review/text: This is a powdered mix, just like you could but in a larger tin, for less money.  However, it is convenient because you don't have to boil the water first.  I keep it mostly for when everyone else is having coffee, but one person wants chai tea.  Otherwise, I may as well use the mix from the store and make several cups.
+
+product/productId: B004H6MV28
+review/userId: A2G7OI6MDX5YPP
+review/profileName: Rhea
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1337904000
+review/summary: Awful!
+review/text: These just taste awful! Not at all like an authentic chai tea. They are very chemical tasting almost like faux sweetener. I despise aspartame sweetener and this tastes exactly like that except I don't know what is actually in the k cups as I don't recall there being ingredients on the box? If you like fake sweeteners, you'll love these.
+
+product/productId: B004H6MV28
+review/userId: A27BSAAUX6VWZF
+review/profileName: James R Kuterbach
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1331596800
+review/summary: Not Starbucks - But Very Good
+review/text: The product is as good as any product for the Keurig K Cup Brewers.  I drink about 3 of these a day and the price is well below the super market price.  I will continue to buy this product for as long as it is offered.  It is not Starbucks but i dont like starbucks anyway
+
+product/productId: B004H6MV28
+review/userId: A6X4Q12FDIJVW
+review/profileName: Sablejack
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1334793600
+review/summary: So So
+review/text: I am a fan of chi but this is only okay.  I made this using the 8oz setting.  I found it to be too sweet.  I added two little half&half cups which helped a bit, but it still had the chemical sweet taste.
+
+product/productId: B004H6MV28
+review/userId: A1VOL35BEIPS2S
+review/profileName: cubmommy
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1308528000
+review/summary: Too sweet
+review/text: This is too sweet for my preference. I love chai, but to me it tastes like milk with sugar and few spices. If you prefer chai where you taste more of the tea and spices and less sweetness, I would not recommend this k-cup selection.
+
+product/productId: B004H6MV28
+review/userId: A1FXDA3HU2GW2M
+review/profileName: R. W. B. Firearms
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1322611200
+review/summary: Worst aftertaste ever.. even more then diet drinks
+review/text: I love coffee. I love chai lattes. I love my Keurig. But this combination was disgusting. The taste when first prepared was STRONG. OK, I get that and could even even like it... if the aftertaste didn't kick in. I have never tasted so much artificial sweetener in any product. This is not listed as lo-cal or diet.. so it was not at all what I was expecting. I would rather have an aspirin dissolve in my mouth. I am returning this to the store. Absolutely terrible.
+
+product/productId: B004H6MV28
+review/userId: A2QE1QQ5T4GBMQ
+review/profileName: N. Bethke
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1335657600
+review/summary: Yuck! Don't fall for the high ratings!!!!
+review/text: I did not like the taste of this at all.  It was awful.  I think the Tazo Chai Tea concentrate heated up with milk makes a much better chai latte.  I did want to try this one based on the high reviews and the fact that it would be easy in the keurig to make this drink.  It was NOT good.  I'm going to try my best to give these away.
+
+product/productId: B004H6MV28
+review/userId: A2FJBCW3QSZ7S3
+review/profileName: Stacey
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1334102400
+review/summary: no good
+review/text: I am a chai tea lover and was excited to see this. After making and trying it with my family, I just don't like it. Very artificial tasting, I'm just not a fan.
+
+product/productId: B004H6MV28
+review/userId: A8Z8PT2SZXJRO
+review/profileName: Jennifer J. Cunningham "Christian's Mom"
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1328400000
+review/summary: Disappointing Chai
+review/text: Loved the thought of making a Chai Latte at home in our new Keurig machine.  Read the reviews and despite some that were negative, bought the Chai Escapes.  That was a mistake.  The chemical aftertaste is very pronounced and distasteful.  The bad taste can be muted a little with the addition of milk or half & Half, but do not recommend these for a Chai Latte Fix.
+
+product/productId: B004H6MV28
+review/userId: ALY3EI8Q8GJ4D
+review/profileName: KTF "KTF"
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1334880000
+review/summary: Don't Just Add Water!! Add milk!!
+review/text: I bought these chai latte cups because I love Starbucks and Dunkin' Donuts versions, but BE WARNED just adding water seems to intensify the artifical taste. While this seems redundant ADD MILK! It say latte, but there is something off with the ingredients so I do half water and the other half vanilla soy milk! It tastes great!! I can't digest lactose so I haven't tried cow milk, but Soy Milk does wonders! Don't throw your kcups away just yet. Also, you don't even need a keurig for these cups, alll the powder dissolves in hot water so no straining of grinds is necessary, so I mastered the half hot water half soy milk combo by just opening the foil pouring it all in then filling the cup (probably about 12-16 oz cup) half with hot water then half with soy milk.
+
+product/productId: B004H6MV28
+review/userId: AKVMU70GO442P
+review/profileName: Pinky
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1330128000
+review/summary: Too Sweet
+review/text: I love Chai tea and was hoping to find one to use with my Keurig machine. This is way too sweet and lacking the spices that make Chai so delicious. I was disappointed with this one and won't buy it again.
+
+product/productId: B004H6MV28
+review/userId: A3C093KN6OJPVO
+review/profileName: Jenne
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1298937600
+review/summary: Great experience with Amazon...
+review/text: this is my first time ordering from Amazon, and my package arrived on time and in tact. Will defintely order again and will also check out other products sold here now that I know they have great service for online shopping...this was a great first experience with Amazon.com =o)
+
+product/productId: B004H6MV28
+review/userId: AP7ITX2UTEYMT
+review/profileName: Megan
+review/helpfulness: 0/3
+review/score: 2.0
+review/time: 1337126400
+review/summary: Never got it
+review/text: I was upset because I was looking forward to trying it but it never came in the mail. I still have not recieved anything...
+
+product/productId: B0077T5S5O
+review/userId: AOQ2IB802NXAQ
+review/profileName: Irishlawlass
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: The best cocoa EVER
+review/text: This stuff is amazing. The grocery store had a sale on it for $3 something a box and the salted caramel was totally cleaned out. It's just that good. I'm pregnant and this is a major craving for me! I recommend using 2% or whole milk -- fat free just doesn't work as well in this. Measure your milk too and be sure it's a cup. Don't forget the Reddi Wip!
+
+product/productId: B0077T5S5O
+review/userId: A13VY0ZQM7QBAJ
+review/profileName: H. Chen "haochen3d.com"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348876800
+review/summary: Fine Hot Chocolate
+review/text: It tastes fine, but there is always some Palm kernel and undissolved cocoa left at the end of drinking though.
+
+product/productId: B0077T5S5O
+review/userId: A3LN78LJHJEYYG
+review/profileName: Ch and L.
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1333670400
+review/summary: Starbucks double Chocolate Hot Cocoa
+review/text: The product arrived on time. Everything as specified in the list of items was correct. We love to order through Amazon. It's reliable and, up to now, true to the product.
+
+product/productId: B0000GHNSQ
+review/userId: A6NOJVBR5WMVH
+review/profileName: S. Cox
+review/helpfulness: 13/14
+review/score: 5.0
+review/time: 1186358400
+review/summary: Tasty Stuff
+review/text: Anyone can do hot, but this sauce also tastes great! Most hot sauces taste like vinegar, but this one tastes like fresh peppers. It's got great kick, so a little goes a long way. My grocery stopped selling it, so I've had to venture online to find it.
+
+product/productId: B0000GHNSQ
+review/userId: A1BBBH3B4O6N8T
+review/profileName: W. Puckhaber
+review/helpfulness: 9/10
+review/score: 4.0
+review/time: 1259539200
+review/summary: Great Hot Sauce
+review/text: Great hot sauce but terribly overpriced here . With shipping the 4oz bottle will cost you more than $10. . The local grocery store has it for $1.79 everyday .
+
+product/productId: B0000GHNSQ
+review/userId: A1M69I31H2O1FG
+review/profileName: warchildnyc
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1172534400
+review/summary: My favorite habanero sauce, period.
+review/text: Get some of this sauce.  Great on any mexican or spanish food.  Not recommended if you don't like spicy food!
+
+product/productId: B0000GHNSQ
+review/userId: A3DQ4FF1IW84EC
+review/profileName: Don Jr
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330387200
+review/summary: Tasty Hot Sauce
+review/text: I love this El Yucateco Green Chile sauce. It's got a little heat and a lot of flavor. This and Valentina are my two favorite Mexican sauces. They're big on flavor. I love this sauce on tacos. The prices here are ridiculous. This sauce should come in at under $2 for the 4 oz bottle.
+
+product/productId: B0000GHNSQ
+review/userId: A1YNSQQPS3CMM2
+review/profileName: Mr. Julian Beall III
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324771200
+review/summary: TJB3
+review/text: El Yucateco Green Habanero is my favorite hot sauce. It is not vinegary, so, while it does have a subtle flavor, it is an excellent choice if you only want to make foods spicy without noticeably changing their already pleasing flavor. For instance, this sauce is fabulous on a good grilled hamburger, barbecue and spaghetti. Let me warn you, though. I only put 3 to 4 drops of it on a burger. You go splashing it all over supper and you'd better have a plan B. The good news is that a bottle of it lasts a long time.
+
+product/productId: B0000GHNSQ
+review/userId: A48WSDBAOTJPL
+review/profileName: Suzanna Zsofka
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304208000
+review/summary: Yum!  Lots of heat with no vinegar taste!
+review/text: Had this hot sauce at a little Mexican restaurant about a month ago - I couldn't get enough!  I love all of the heat without the strong vinegar taste of Red Hot or even pickled jalapenos.  I searched around for the sauce in stores but could never find it - thanks to amazon, I can induldge in my cravings for this hot sauce.
+
+product/productId: B0000GHNSQ
+review/userId: AX2S189Q8EY3B
+review/profileName: Bob King "graphictruth"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1215302400
+review/summary: A staple!
+review/text: Adds a great, easily controlled heat and enhances all other flavors. Not a replacement for chili or tabasco sauces - those are startlingly different, and a good chili might require all three!
+
+product/productId: B0000GHNSQ
+review/userId: A2Q7LY8J4MJ5VI
+review/profileName: Margaret Bednarek
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345593600
+review/summary: Hot in a good way
+review/text: I love the taste, it's hot in a pleasant way and doesn't have the vinegary aftertaste. This company makes several variants and all are great tasting.
+
+product/productId: B0000GHNSQ
+review/userId: A3HQAPXAJV7PRX
+review/profileName: Diane Kistner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Hands-down the most flavorful hot sauce ever
+review/text: I tried this first at an authentic Mexican restaurant we used to frequent. Just a few drops here and there on a dish would make the flavor really pop. Now we keep it on hand at home and use it on all kinds of things. I put it in chili, mix it into mayo for a zesty sandwich spread, use it liberally when I'm in the mood to have my eyeballs fall out, etc. Now that I've had this sauce, nothing else will do!
+
+product/productId: B0000GHNSQ
+review/userId: A2S3MUP7B22XIC
+review/profileName: Liz "Liz"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342051200
+review/summary: Addictive
+review/text: I first had this at a local Mexican restaurant and went crazy for it, even though I thought I might die of the heat.  I am a huge, yet disciminating, fan of hot suaces in general but this is by far my favorite right now.  I can handle a lot of heat as a regular hot sauce eater but this stuff is on a different scale than what you can get at the grocery store.  My husband won't come near this stuff.  It is so good I want to pour it on whatever I'm eating but it is sooooo hot I have to find that threshold of barely tolerable heat before it's so much I can't take it.  Of course, with continued dosage I can do more over time.  Our Publix and Kroger doesn't carry it so I have to go to the mercado/taqueria and can only get the 4 oz. version so this time I actually bought three 8 oz. bottles here on Amazon (fiendish, I know).<br /><br />The flavor is excellent, uncomplicated and straight forward like fresh green habaneros blended with a bit of salt and a bit of vinegar.  It isn't thin or overly vinegary or too salty though like a lot of hot sauces. I think this is because there is more actual habaneros in there because it's a little thicker consistency with a bit of fine texture to it.  Also, the color is fabulous.  I don't know if they add food dye or not but it is this vibrant, almost neon grass green.  Love it.<br /><br />My favorite way to eat it is on simple things like carne asada with flour tortillas, avocado and shredded lettuce, on 'over medium' fried eggs, and it's perfect on fish tacos with cool slaw, raw white onion and ranch.  The Mexican restaurant where I first had this doesn't have it on the tables anymore (probably because it's too hot for most) but they take it and puree it fine with avocado for this outrageously hot guacamole/habanero sauce thing that is just awesome.<br /><br />So obviously I love it and highly recommend it for experienced hot sauce people.
+
+product/productId: B0000GHNSQ
+review/userId: A1X1CEGHTHMBL1
+review/profileName: jjceo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340323200
+review/summary: Ouch!
+review/text: I love to spice up my food whether it is chili, soup, Mexican food,  or some type of meat or barbeque.  This El Yucateco Green Chile Habanero Sauce is wonderful if you like HOT SPICY SAUCE!  This is one of the great hot sauces that doesn't  taste like vinegar.<br /><br />This is a great sauce to use as an additive in other sauces or barbeque sauces to add zest to them.  You can control the dose to get the right flavor.  Sometimes a mixture of two or three sauces comes up with the right combination for a perfect barbeque basting sauce.<br /><br />I included a photo of the nutrition label for your information.  This is a great hot sauce and one of my favorites. If you like spicy food then you will love this one!  Easy does it or you will be saying ouch!
+
+product/productId: B0000GHNSQ
+review/userId: ADD3IQMLUOVWZ
+review/profileName: ratchet
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Good and Hotttttt
+review/text: Tried a small bottle and used it up in no time. So bought 4 large bottles. Use it in just about everything, tacos, burritos love to put it in Turkey burgers. Great flavor and just the right heat.
+
+product/productId: B0000GHNSQ
+review/userId: A1F5L6NPU5SWP1
+review/profileName: Ben Mccameron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339027200
+review/summary: Delicious
+review/text: This is a staple in the fridge of any hot sauce lover.  El Yucateco is great in chili and with Mexican cuisine.  It does have some heat to it but the flavor of this sauce is really nice as well.  It is quite thick and when used at the rate of a tablespoon in a bowl of chili, you may notice a slight sweat forming on your brow.  That is what I am looking for when I eat spicy foods... I am not looking for chemical burns in my mouth but I do like to sweat a little.
+

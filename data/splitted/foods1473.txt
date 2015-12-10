@@ -1,0 +1,1143 @@
+product/productId: B002DZI3HW
+review/userId: A3WVP4NUTGACD
+review/profileName: key west "westkey"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1220832000
+review/summary: Detroit loves 'em
+review/text: my daughters dog, Detroit, loves 'em.  otherwise, I wouldn't keep ordering 'em.  what more can i say
+
+product/productId: B002DZI3HW
+review/userId: A135XHGMBR0OWF
+review/profileName: Frances R. Dickman "Duchess of Westbury"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1176163200
+review/summary: Great Price
+review/text: My very finicky Shih Tzu very happy with these and keeps coming back for more.
+
+product/productId: B002DZI3HW
+review/userId: A2YXHBZX1H11WV
+review/profileName: Mitzu the Shih Tzu
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1172188800
+review/summary: My Shih Tzu loves it!
+review/text: My Shih Tzu is very finicky b/c he is so spoiled. I have to search high and low for treats he will accept. This is one of those few. Thank you!
+
+product/productId: B002DZI3HW
+review/userId: A3RBTVM70JK4UM
+review/profileName: audrey
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347840000
+review/summary: Made in china
+review/text: Don''t buy it. My dog loves the treat. HOWEVER, after I found out it was made in china, I decide to throw away the remaining portion. I don't want to take any chances. I see that someone left a review saying their dog got sick after eating the treat. Luckily my dog is doing fine still. But I won't buy this again.
+
+product/productId: B002DZI3HW
+review/userId: A38K0PDTAQNT8
+review/profileName: darkmatter1414
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346803200
+review/summary: Treats Made my Puppy Sick
+review/text: I ordered this product because my puppy had a similar treat before and really liked it. I ordered these and gave him one treat. His stomach got really upset and he threw up and had bad potties. If your puppy has a sensitive stomach I might try something different.
+
+product/productId: B002DZI3HW
+review/userId: A2YXHBZX1H11WV
+review/profileName: Mitzu the Shih Tzu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1186444800
+review/summary: Great treat!
+review/text: My precious Shih Tzu loves these treats. I like them b/c it keeps him occupied for a little while b/c he has to chew the chicken off the skewers. He comes running when he hears me open the bag.
+
+product/productId: B007A2LHQM
+review/userId: A3TRW8T8NIHJAD
+review/profileName: rhondale
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346630400
+review/summary: Marvolous!!
+review/text: Bought these chocolate cherries some time back and they were delicious! Unfortunately the shipping cost puts them out of my range; must have got a deal before. If you can afford'em you should try them:)
+
+product/productId: B0045TNYNC
+review/userId: A1RH05TKDS39VU
+review/profileName: Chester E. Kruger Jr.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322438400
+review/summary: Very smooth
+review/text: This peanut butter to me is one of the best out there. I don't think you can do much better, but that depends on your taste.
+
+product/productId: B0045TNYNC
+review/userId: A2W66BRQPHRF81
+review/profileName: Jax
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1319068800
+review/summary: Good But Not For TWICE the Price of Every Other Brand
+review/text: I enjoy Jif Natural, however, in my opinion paying over $30 for Jif while every other brand including Skippy Natural and Smuckers Natural are under $15.  I understand prices fluctuate, but at this price, you're much better off purchasing in your local store or purchasing one of the other brands.  The taste difference is minimal, and many individuals actual prefer the other brands.
+
+product/productId: B0045TNYNC
+review/userId: AUNXMJ9SSNJGB
+review/profileName: A. Harhager
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310428800
+review/summary: Great taste with nothing extra
+review/text: I like to buy in bulk and find it difficult to find natural or salt free products at my local Sams or BJs.  My kids like this as opposed to the one you have to stir.  It turns out to be slightly cheaper than at my grocery store per jar also.  It is a standard order for me.
+
+product/productId: B0045TNYNC
+review/userId: AH2YIHQN1LVSC
+review/profileName: Joel S Loftin
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1303516800
+review/summary: Cant get it cheaper localy
+review/text: HEB doesn't offer it in this Size. Target does but it cost more. This is priced right and taste great.It wont separate, is slightly better for you and stores well.
+
+product/productId: B0022N6OBM
+review/userId: A30L2QXK1L5M2Y
+review/profileName: J. Layton "No exaggeration-Honest reviews"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1288569600
+review/summary: All-natural flavor
+review/text: I wanted a natural flavoring for use in home-made seltzer. This powder works well and has a nice flavor. It will cause a slight haze in the seltzer. This is probably due to the hard water I use to make the seltzer. If you used distilled water I believe the water will remain clear. The haze is tolerable in my experience. The flavor is great and that is what I wanted.
+
+product/productId: B001AVE7E8
+review/userId: A22PUBSSNP54L
+review/profileName: G. Little "value seeker"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1236297600
+review/summary: Good flavored whole bean coffee.
+review/text: Good flavor and a good price too.  I like stronger coffees, and this is a nice bold cup without any bitterness.
+
+product/productId: B000W5AQ98
+review/userId: A2HJYTWACOBZ2F
+review/profileName: Raine Daye
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1251158400
+review/summary: A decent seafood noodle
+review/text: This product has a pretty decent seafood flavor and is better than the flat packaged ramen. The bowl is handy if you are taking the product to work, and to be honest I washed it out and reused it for noodle products that don't come in their own cooking/eating container.
+
+product/productId: B000W5AQ98
+review/userId: A3UV38ZCFCNI3W
+review/profileName: Bradford A. Harkness "Deadweezyl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333670400
+review/summary: Tasty stuff
+review/text: Admittedly, I didnt get this for myself.  It is pretty good, sour and spicy and actually pretty filling for a ramen type meal.  It comes with a little fork too, and I like that so I dont have to wash anything.  We used to have to drive  quite a way to a specialty thai food store in garden grove area for this but now we can get it delivered!
+
+product/productId: B000W5AQ98
+review/userId: A3DF0G69Y8XBK0
+review/profileName: Lui "Lui"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319068800
+review/summary: This instant noodle? Grand delicious taste!
+review/text: I read the reviews about this brand's instant noodle and they all praised FF. So I bought 2 bowls for trying the taste to see if it's also my type of gourmet. WOW, what a huge surprise! This instant noodle really deserve to be sold in bowls coz it is exactly different from most of the instant noodle taste. I love the shrimp flavour, the yummy soup and the firm black bowl. I washed both bowls and keep than for my other noodle. They are really good look bowls and miscrowaveable! What a practical unit! You taste the gourmet instant food and get a firm soup bowl that is reusable!<br />  I love FF instant noodle. After my first 2 units FF, I made an order of 16 bowls white square bowl FF today and I can't wait till receive it. Hope this flavour taste even better than the black one.<br />  You should also try FF noodle coz you will lovin't! And you can see how the FF tastes much more delicious than any other instant noodle you've tried!
+
+product/productId: B000W5AQ98
+review/userId: A331TXDQ3NFCHG
+review/profileName: David J. Sussman "Dark Sky"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264032000
+review/summary: great
+review/text: FF comes with it all including a fork. I prefer using my own chop sticks. It's more fun. Tastes pretty efing good. Not expensive and the bowl is perfect for gettin down and munching. I'm buyin some more..
+
+product/productId: B000W5AQ98
+review/userId: A3TW6BPGHW5E0
+review/profileName: Matthew T
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1289779200
+review/summary: Really the best intsant noodle soup!
+review/text: It was something my friend about a year ago had in his cabinet and gave me some. I could not believe the taste and what the bowl included for a while I could not remember what the the products name was so for a while I did not know how to get this or where to get this. One day I went on amazon and I remember the FF on the bowl typed in FF noodle bowl and bam right in my face there it is. So I bought like 15 units I got them and Once again the best noodles ever In my life I have had, considering this is instant noodle this tastes pretty gourmet and now that the temps are dropping here in the midwest this will be the best thing to have after shoveling the snow. Seriously everybody should try these they are really good.
+
+product/productId: B004Y0O9N6
+review/userId: AWVHLIMWT5257
+review/profileName: Jeanne Crowell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349136000
+review/summary: The tastist pickles ever
+review/text: I have never had a pickle that tasted so dog gone good. They are the crunchiest, most delicious I ever had.
+
+product/productId: B00374Y6OC
+review/userId: A3EBHHCZO6V2A4
+review/profileName: Amaranth "music fan"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1293753600
+review/summary: One Morning in Massachusetts
+review/text: New England Coffee is to the Northeast what Starbucks/Seattle's Best is to the Northwest. With a painting on the front of the New England countryside that looks like it's from Thomas Hart Benton (again, an artist associated with the WEST Coast), and its hazelnut flavor, it's an uncanny blend of Massachusetts tradition and Pacific Northwest laidbackness. (Is it any surprise that <a href="http://www.amazon.com/gp/product/6303336841">Forbidden Choices [VHS</a>] was filmed in the Evergreen State, despite being set in Maine?) One wants to hit downtown Boston clad in flannel; it's that sort of nirvana.<br /><br />It's a kicky, addictive coffee. The hazelnut flavor is slightly sickly sweet, but it's a bit more homegrown than Dunkin' Donuts Coffee Ground Original, 12-Ounce Packages (Pack of 2) Northeasterners are as much experts at coffee as their neighbors on the Pacific coast. East is East, West is West, and the twain shall meet in a coffee shop listening to acoustic guitar not far from Walden Pond, the Mother Church, and Fenway Park.
+
+product/productId: B00374Y6OC
+review/userId: A1GQAKL9CGQLP1
+review/profileName: L. M. Keefer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294444800
+review/summary: Tasty hazelnut flavored New England Coffee!
+review/text: This is my favorite coffee.  We make it every morning, and I make an iced coffee with it.  Hazelnut coffee, ice, milk and a little cream and sugar or stevia makes a fantastic drink--almost like a coffee milkshake but only 100 calories.  My other family members drink it hot. We love the New England Coffee brand, after trying many.  I get the caffeinated and decaf version of this and sometimes mix them.  I think this is my favorite flavor New England Coffee makes that I've tried, but we also drink the French Vanilla and Chocolate Cappuccino flavors they offer. This coffee is a great start to the day here in Connecticut.
+
+product/productId: B0000DCX1H
+review/userId: APCETY79R14O6
+review/profileName: S. Hunter
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1265932800
+review/summary: Great product
+review/text: I am a very active person and have to keep moving. That's not always possible, though - especially when I'm at work and stuck behind a desk. As a kid, I would buy licorice root at the fair and chew it. I haven't seen it in years, though. I thought I would be able to find some on the Internet and I did! It works like a charm. I just break a stick and chew on it until the end becomes fuzzy. Then I clip off the fuzz and go back to chewing. It is naturally sweet, with just a light licorice flavor and it certainly helps by keeping my mouth busy! I can also dunk a stick in hot water and make a tea.
+
+product/productId: B0016C51RS
+review/userId: A1OS7WOSLCS7J5
+review/profileName: Phenixred "Phenixred"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331337600
+review/summary: AWSOME!
+review/text: THis stuff is awsome. but DO NOT PAY THIS $15.00 price. You can get it at the Le Gourmet Chef store for 7.99. THESE people should be ashamed of them selfs for jacking up the price so high.
+
+product/productId: B004S036FO
+review/userId: A3FKRI95UOQ9MU
+review/profileName: Jordan
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1324944000
+review/summary: Fast Delivery Good Chili
+review/text: The chili by its self would only earn about 3 1/2 stars but the fact that they shipped it all the way to the middle of no where for me at no cost makes this a champ.<br /><br />Now if i could only find a bowl in this darn place i wouldn't have to cook it on top the generator's headers lol.
+
+product/productId: B004S036FO
+review/userId: AG81NT4KP4IL7
+review/profileName: Tonto
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1315958400
+review/summary: Hormel Chili No Beans 25ounce (Pack of 6)
+review/text: You cannot get this size at store.  So instead of buying two cans you have it all in one.  It doesn't have easy open top, but that is what can openers are for.  Takes up less space in cabinet and more convient
+
+product/productId: B004S036FO
+review/userId: A370Z6I5GBWU44
+review/profileName: M "CultOfStrawberry"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351209600
+review/summary: Not what it used to be
+review/text: Hormel's Chili used to be an awesome pro0duct. When I was a kid, this chili was downright tasty and meaty, and you could add a can of beans to stretch it out, just let the chili and beans simmer for a while and you had the perfect recipe. However, that recipe has changed. There is considerably less meat in here, and what has it been replaced with? Oatmeal. This even says so on the side. I am sorry, but I am disappointed. If I want oatmeal, I'll buy Quaker. This chili is also thinner, and does not taste as good as it has before. If Hormel would go back to the old recipe, this chili would be as good as ever.
+
+product/productId: B001AVE7EI
+review/userId: AWGI42X6COP3Y
+review/profileName: G. Clark
+review/helpfulness: 4/5
+review/score: 2.0
+review/time: 1249344000
+review/summary: Flavored surprise
+review/text: No where in the description did it say this coffee was flavored, it was a huge surprise, not a pleasant one.  I finally found some folks to give it to.  I won't be buying any more of this brand.
+
+product/productId: B001AVE7EI
+review/userId: A3218W9YDY2TY4
+review/profileName: Maggie K
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1279497600
+review/summary: Fast Delivery!
+review/text: I've tried several different brands of Jazzy Java and this one from Cafe Excellence is the best.  I also love getting the coffee in a couple of days.  Also, you can't beat the price and the convenience of the 2 lb. bag!!!  I will order from them forever!!
+
+product/productId: B000JVGJ1Y
+review/userId: A2JPERAV0416C3
+review/profileName: Avid Rita
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1325030400
+review/summary: Vet recommended, dog content
+review/text: For previous reviewer, please note that the product details are for a 12 can case of  13 ounce cans.  This product was recommended by my fabulous trusted vet of 30 years for my 15 year old cocker-poo, Buster.  Buster chows down happily, prefers the chicken to beef, whatever -- he's a trim and active dog even at this late stage of his life, and I am sure the 'mature dog' formula helps.  People are surprised to hear that he is 15 years old, and comment that he looks very fit for an older dog.  If I could change anything about the product I'd have them substitute the corn for brown rice, I do have this resentment to corn filler in so many products, but don't let me get going on my environmental/agribusiness rant.  It's good stuff, very reasonably priced, and I don't have to lug the cases up from my car since it is delivered to my door!
+
+product/productId: B000JVGJ1Y
+review/userId: A3A1P4QXZWTFFH
+review/profileName: Iva Jeane Driggeers
+review/helpfulness: 0/12
+review/score: 1.0
+review/time: 1287964800
+review/summary: I cannot rate as I have not purchased.
+review/text: For over $18.00, you do not give the quantity of cans one will purchase.  I'm sure one can does not cost that much.  Thank you, Iva Jeane Driggers
+
+product/productId: B001FA1LUC
+review/userId: AM2Y4YCBCC1QM
+review/profileName: jeanc
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331683200
+review/summary: not enough weight.
+review/text: not packages as advertised.  Each package has only 10 ounce in them, even says on sticker on each package that is part of 12 ounce package 3 pack, but each package clearly marked 10 oz.  Otherwise I love the coffee, so creamy and the aroma when brewed fills the house with a lofty smell.  Would like the other 6 ounces though.
+
+product/productId: B001FA1LUC
+review/userId: A2P45NR0PI0UID
+review/profileName: katiesgotthegoods
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1275782400
+review/summary: Excellent coffee
+review/text: I haven't been to Starbucks in awhile because of this coffee. I love it....amazingly smooth with great flavor. I only wish Amazon would get another flavor in a 3/pk 12oz bag. The price is right and with free shipping I continue to make more purchases of this coffee.
+
+product/productId: B000EMU1LW
+review/userId: A22QSM8WST4MC4
+review/profileName: Rhonda Wright
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1193097600
+review/summary: the best
+review/text: This is my favorite...it started dissapearing from stores until I just couldn't find it anymore.  I actually crave the taste.  So glad I found it again!
+
+product/productId: B000EMU1LW
+review/userId: A39BSAT8MKZBHN
+review/profileName: R. F. Tauriello "robiblio"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1193184000
+review/summary: Nestle Needs Marketing Assistance
+review/text: I echo the words of the previous two reviewers. I have an additional thought by way of a marketing tip for Nestle. Simply, if a product you make sells very well to the point of being out of stock and unobtainable in every store you distribute to, there's a good chance that folks are buying it because they really like it. Great product, great taste, awful marketing...
+
+product/productId: B000EMU1LW
+review/userId: A2BTXQ4PQ7NPSI
+review/profileName: Penny
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1286928000
+review/summary: Yummy
+review/text: I first tried this product when visiting a hospital. I tried to buy it in the stores but couldn't find it until I went online. I really like the flavor cinnamon vanilla.  It is like drinking a cup of coffee and eating a cinnamon roll at the same time. I am very happy with it.
+
+product/productId: B000EMU1LW
+review/userId: A2CH7D7568YXJF
+review/profileName: Sally
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1310947200
+review/summary: You really have to ensure you add the right amount for the best taste
+review/text: It's really hard to review flavors, seeing as we all have our own taste. Some of us love the flavor of chocolate, while others hate it. Some love cinnamon, while others hate it, etc. You get my point. The point is you have to try this for yourself to see if your own taste buds like it.<br /><br />As for myself, it's good but only when you add the right amount. I normally get the vanilla flavored powdered cream, so when I got the vanilla/cinnamon flavor powder I added the same amount into my coffee that I normally used with the vanilla. Turns out that was a mistake because it made my coffee taste far too sweet, like a cinnamon bun. Perhaps some people like their coffee sweet, but I thought it was far too much.<br /><br />So the next morning I measured it and added only 2 teaspoons this time, which gave it a far less sweet taste, but it was rather chalky tasting at the same time.<br /><br />So by the third morning I finally got it right! I decided to MIX it with coffee mates original flavor. I didn't measure, but I added mostly the original flavor and then added a little of the vanilla/cinnamon and FINALLY it tasted just perfect, at least for my taste buds that is. Like I said, we all have our own taste. The point of my review is mainly just to let everyone know that it may take a few attempts before you get the perfect taste using this cream. If you enjoy having it taste like a cinnamon bun, add a lot. If you like your coffee to taste chalky, add 2 teaspoons or less. And if you like just a dash of cinnamon/vanilla flavor than mix it with a less intense cream to balance it out.<br /><br />Overall, try it for yourself first.
+
+product/productId: B000EMU1LW
+review/userId: A2PT65TX6HNG8K
+review/profileName: Lake Lady "Iluvabook"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1242777600
+review/summary: Best flavored creamer!
+review/text: This Nestle Cinnamon Vanilla dry flavored creamer is the best!  (I prefer the dry creamer, not the liquid.)  Our local stores in NW Iowa carry many other flavors but do not carry this one.  After requesting that they order this one for their shelves and not getting anywhere with it, I decided i would order from Amazon.  The order came within a week and I am totally enjoying the product.  I'll order this again.
+
+product/productId: B000EMU1LW
+review/userId: AS96O4LS4ZC83
+review/profileName: Joshua Kenitzer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347321600
+review/summary: Yummy
+review/text: This flavor is almost impossible to find in the stores and it has quickly become my all time favorite. I ordered it from Amazon and got it the next day without having to pay any special NextDay air charges. The price I paid on here was also cumulatively lower than had I purchased it at a store (though they do not stock it). Win all around. If you haven't tried this flavor, I highly suggest you do, it's like a cinnamon roll with vanilla frosting in your cup. Combine that with a nice dark roast coffee and you get pure bliss in the morning.
+
+product/productId: B000EMU1LW
+review/userId: A2A98RQA651TZV
+review/profileName: Robert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: My Favorite Coffeemate
+review/text: I have tried quite a number of different coffeemates of various brands, both powdered and liquid, and I have found this one to be my favorite.
+
+product/productId: B000EMU1LW
+review/userId: A2HT4BG5PR16TG
+review/profileName: J9 "odd won"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307923200
+review/summary: Love this coffee creamer
+review/text: This is my all time favorite coffee creamer.  I LOVE cinnamon and there's just enough in this to make it delicious.  I just wish they'd make more flavors mixed with cinnamon. (You guys listening?)
+
+product/productId: B000EMU1LW
+review/userId: A1C19WLTO01L95
+review/profileName: R. Klein
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293926400
+review/summary: Great Addition to Coffee - Hard to Find Flavor
+review/text: I have used this product for years and was able to find it in our local grocery stores. . . . until recently.  How pleased I was to find this on Amazon and the fact that I can order it by the case lowers the price as well.  Great Product.
+
+product/productId: B000EMU1LW
+review/userId: A1EQ44XDGTWE4Y
+review/profileName: Linda Bailey "catsforkids"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1226275200
+review/summary: My favorite creamer
+review/text: I hope Nestle does not stop this flavor. It is by far my favorite. Thank goodness Amazon stocks it!
+
+product/productId: B000EMU1LW
+review/userId: A3H95XT6JOUPPE
+review/profileName: John L. Meither "john boy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1215388800
+review/summary: Coffee Mate Cin/Vanilla
+review/text: This creamer substitute is a good thing to prevent boredom from the same old taste all the time.
+
+product/productId: B000EMU1LW
+review/userId: A34LT11CN4IDSG
+review/profileName: BJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1190073600
+review/summary: BJ Port Orchard WA
+review/text: I enjoy the taste of this coffee mate and Amazon is the only place I can find it to buy.
+
+product/productId: B000EMU1LW
+review/userId: A2OR94VN7XQCUO
+review/profileName: Edward Scott "ewscott"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1212192000
+review/summary: 4 teaspoons?
+review/text: At the recommended four teaspoons per serving I think this would be pretty overwhelming.  I use about two and get a chalky aftertaste, but not all that bad.  I actually prefer International Delight Cinnamon Hazelnut, but that is a refrigerated item and obviously can't be shipped easily.  You're buying a lot of creamer here and this deal may be better for an office than a single person home... but it will keep and will add variety to my coffee drinking.
+
+product/productId: B000EMU1LW
+review/userId: A3JLECMNWC4LDY
+review/profileName: Lorinzo
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1330473600
+review/summary: Good BUT...
+review/text: I was happy with the product until I learned that Nestle was one of the companies who contracted with Senomyx to use an aborted fetus, for their taste enhancing experiements. I've been boycotting all Kraft Foods, Cadbury, Nestle, Frito-Lay, Tostitos, other Pepsi products and any other products made by companies who purchased this research using the exploitation of this aborted human being.
+
+product/productId: B001F0R71Y
+review/userId: AV7OCGXNRLH6Y
+review/profileName: BERNIE "BERNIE"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252713600
+review/summary: guar gum
+review/text: I use this product often, the price was very good and would recommend to anybody especially someone with celiac.
+
+product/productId: B003SEE5GA
+review/userId: AFHJC3KL2FPUZ
+review/profileName: Shafique Kassam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: I'm sad I didn't buy more
+review/text: To start off, I'm a true fan of gummi candies, and I hold the original Haribo Gummi Bears in my all-time favorites. I came back from Germany a few weeks back and stocked up on various Haribo products at a gas station to rid myself of Euro coins I had in my pockets. Mega-Roulettes, Saft Goldbaren, Happy Cola, Weinland, Fruchtgummi M&ouml;pse (Extra Sauer). Out of all these Haribo products, the Saft Goldbaren were the best. Just like the original goldbaren, these have the perfect consistency. the package claims "with 22% fruit juice" and i totally believe it. Very flavorful: blackcurrant, pear, apple, peach, lime, and raspberry.<br /><br />I just wish I came back to the US with more bags, now I have to pay shipping costs that are more than the candy itself!
+
+product/productId: B003STAO8S
+review/userId: A1A99RZRDB9DUN
+review/profileName: H. Landman "HLL"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1309737600
+review/summary: best sugar free chocolate syrup out there
+review/text: As a diabetic, I am always looking for sugar free products that don't taste like garbage.  As an ex-New Yorker, And one who was raised on chocolate egg creams, the lack of a good chocolate syrup has been a long search.  This isn't perfect, but it is the very best out there.
+
+product/productId: B003STAO8S
+review/userId: A5RXY4SVRTG4N
+review/profileName: countryside
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347062400
+review/summary: OK for a Sugar Free product
+review/text: My husband does not like this syrup, but I think it's better than my home-concocted sugar-free chocolate syrup.  I've been avoiding sugar for so long that anything somewhat sweet and without a bitter or strange taste is OK with me.  I appreciated manufacturers trying to make sugar free products.
+
+product/productId: B003STAO8S
+review/userId: A3E3R3F7276VA5
+review/profileName: Anthony Merc
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1323820800
+review/summary: Not that good
+review/text: After taste is rough. Its barely okay at best. I wouldn't buy it again. Search for other sugar free syrups.
+
+product/productId: B003STAO8S
+review/userId: A36S41QZNMM4YN
+review/profileName: TrueRed
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317340800
+review/summary: The real deal
+review/text: Living in the west but from the east, I am thrilled to find egg cream fixins on the net. And sugar free syrup! Wow. This is excellent.
+
+product/productId: B0029JHJV8
+review/userId: A3NSX46VYD9J49
+review/profileName: Michelle "craft girl"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334188800
+review/summary: Yummy!
+review/text: Twix are my favorit candy bar. They very fresh and yummy, just as I expected.  Arrived on time as described.
+
+product/productId: B0029JHJV8
+review/userId: A1IUL785XKEAD
+review/profileName: Mary Newell
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1304035200
+review/summary: Crowd Pleaser
+review/text: I was tired of getting bags of assorted chocolate candy that always had a variety no one would eat.  I love that amazon was selling this product and it came in "bulk".  I won't run out of the office candy again!  I went ahead and bought all of the favorite brands so I can keep everyone happy.
+
+product/productId: B0029JHJV8
+review/userId: A24SNRT3P4Q71L
+review/profileName: Greg DeCarlo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: Packed in cooler & delivered quickly
+review/text: I LOVE TWIX MINIS because they are the perfect size. I have bought, and LOVE ALL 3 of the different size "TWIX MINIS" packages that are either sold by Amazon, or "Fulfilled" by Amazon (compared to the other merchants), because they always come in a small white 6 pack size Styrofoam cooler with ice packs. I can't remember if they always came like that, or if it's just in the summer that they use the cooler, but they have always been packaged well. I have Amazon Prime so whenever they have them on sale, and they are "Prime 2 day Free shipping" eligible, I get them in 2 or 3 days , or it takes 4-5 days at other times.
+
+product/productId: B0029JHJV8
+review/userId: AEUS46V4AUDZE
+review/profileName: JCSeminoles
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1337904000
+review/summary: Reasonable, Prompt and Safe
+review/text: Candy is candy especially if you are buying a main stream candy bar such as a Twix Bar.  So my rating has a lot to do with price, how fast the shipping is and if the packaging of the items are safe and sound.  The Twix Bars were for a reasonable price.  The vendor shipped them in a prompt manner and the product arrived safe an undamaged.  Good work.
+
+product/productId: B0029JHJV8
+review/userId: A25QB563L8QFYF
+review/profileName: Bifficus
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1332028800
+review/summary: TWIX-Tastic!
+review/text: Twix. Yummy.<br />Not cheap. Costs more now.<br />Came quick but I had Prime.<br />I may have to buy more they were tasty and it's been awhile.
+
+product/productId: B0029JHJV8
+review/userId: A25HMVL101P0RT
+review/profileName: Cookie Munchkin
+review/helpfulness: 1/4
+review/score: 4.0
+review/time: 1311206400
+review/summary: Chewy candy bar
+review/text: This is definitely chewy! But also tasty. It has caramel chocolate and crunch all in one. Like, the best candy bar.
+
+product/productId: B008ADQYKY
+review/userId: A38RWVWOQPYJSA
+review/profileName: LiberTEAS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346976000
+review/summary: Plum Matcha is Plum Good!
+review/text: This plum Matcha is so deliciously good.  It evokes fond memories of my gramma's delicious plum jelly that she'd make every fall.  It's a little sweeter than a fresh plum, but, still so very true to the fruit.<br /><br />But what I like even more is how well the Plum flavor showcases the flavor of the Matcha here.  The Matcha shines through as a bittersweet, vegetative flavor.  Creamy and smooth.  No chalky taste whatsoever, and no chalky aftertaste either.<br /><br />The matcha also has interesting spice notes that appear with the flavor of the Plum... not super spicy or anything, but just enough to everything lively and delicious.  I love the way the matcha tastes with the plum flavor, it seems like combining the two profiles have brought out the very best flavors in both!<br /><br />Really good!
+
+product/productId: B008ADQYKY
+review/userId: A29P51TN9KKMU9
+review/profileName: Azzrian
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345852800
+review/summary: Plum Awesome!
+review/text: Oh Matcha my Matcha. I salute you.<br />This for me has been the easiest to drink straight!<br />Its so smooth.<br />Is it "natural" flavored? Well although I know Red Leaf Tea does use all natural flavoring in its matcha I can't really say if this tastes natural or not. I honestly have not had that many plum flavored things but its really very immensely good! Its not even that it tastes unnatural and it does not taste the least bit chemical but its just such a strong awesome flavor that it is so hard for me to imagine how they got all that into the little tiny flavor granuals! The aroma of this one was INTENSE when I opened the bag! It has a punch like flavor to it but yet there is this almost nutty after taste - probably the mixture of the wonderful base tea mixed with this particular fruit. Its really quite different! I enjoy seeing how different flavors play off the matcha base! I think this is one of the more complex matcha I have tried. Its not exactly what you might think it would be with the nutty flavor coming out at the end but it is most definitively plum in the beginning. I like how the nutty sneaks up on me!
+
+product/productId: B001EHEE00
+review/userId: A2T9NE1Y5OX73K
+review/profileName: Qual Highety
+review/helpfulness: 25/27
+review/score: 1.0
+review/time: 1265500800
+review/summary: Less appetizing than the salmon eggs I buy at the bait store
+review/text: This item arrived in an inedible condition.  I chilled it, and open opening the jar I found the top layer had dried and congealed to the point where it was like a sort of low viscosity gummy candy substance.  I couldn't dig anything out with a spoon.  It was horrible.  Both jars were like this.<br /><br />Amazon provided a refund with no return immediately, so you're protected if you want to give it a shot.  Maybe it was a bad batch for me.
+
+product/productId: B001EHEE00
+review/userId: ATKN6A1DDOIUK
+review/profileName: Frances D. Dillon
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1330128000
+review/summary: Not a good quality salmon roe!
+review/text: This product came on time and in good shape. I can't complain about the Amazon service. The product itself is not good. It is almost inedible. I normally love salmon roe. The only use I have found for this procuct was to use it in small amounts to decorate a canape or deviled egg. I will not order again!
+
+product/productId: B001EHEE00
+review/userId: A3LM7R1KHRTDNC
+review/profileName: Disappointed
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1336953600
+review/summary: Disappointed
+review/text: I was hoping to at least maybe get something of quality but instead I got over salted caviar that had no taste to it.  Don't recommend and will not buy anything from again!
+
+product/productId: B001EHEE00
+review/userId: A33G344FN8WMF4
+review/profileName: Olga
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350345600
+review/summary: I've got a spoiled product
+review/text: I've got two jars of Alaska Smokehouse Wild Salmon Caviar and when opened one of them looked absolutely dead (very dark pink color caviar) and smelled horrible. The other jar looked OK. I have a photo showing a very visible difference between two jars, unfortunately it does not attach to the review. When packed it was impossible not to see through glass the difference in caviar between two jars, so I do not believe it was done by omission.<br /><br />Besides there is no mark on the validity dates on the jars, so we are not sure if it is safe at all to eat the other one looking like caviar. We have no choice but to throw both jars away. And we are very disappointed with this experience, will never purchase grocery from Alaska Smokehouse or Amazon.
+
+product/productId: B001EHEE00
+review/userId: A20KP7KHE6MCQL
+review/profileName: Robert Lee Hodgson "Bobby Lee"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349654400
+review/summary: TERRIBLE
+review/text: I have never had any salmon roe so disgusting or over salted. i almost puked the first time i popped one of these in my mouth. i almost always love caviar/roe and this is just plain disgusting.
+
+product/productId: B001EHEE00
+review/userId: A24271DSWJ5BT
+review/profileName: Kaveh Ghahremany "Kaveh"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1340496000
+review/summary: I liked it !
+review/text: awesome !<br />I really like caviar and honestly I did not think I could found that on Amazon. But I did and I really liked it !
+
+product/productId: B001EHEE00
+review/userId: A2UE4JYRSV11QX
+review/profileName: Joyce Lafevers "columbo fan"
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1333324800
+review/summary: Different
+review/text: My family enjoyed, I prefer the black caviar, this had a more potent taste, I will order again for them.
+
+product/productId: B001EHEE00
+review/userId: A2C9XE9I8RSKNX
+review/profileName: J. Johnson
+review/helpfulness: 2/5
+review/score: 5.0
+review/time: 1314316800
+review/summary: HTF salmon roe-  GREAT !!
+review/text: I've been looking for this for ages, and found it here !  It's a great tasting product, and reasonably priced.  I'll order again in the future.
+
+product/productId: B001EHEE00
+review/userId: A26FS5Z1HA9JH6
+review/profileName: Sher
+review/helpfulness: 3/8
+review/score: 5.0
+review/time: 1315267200
+review/summary: caviar anyone?  Amazon.com to the rescue
+review/text: This is a delightful little treat and I look forward to it's delivery.  It's a nice everyday caviar that seems to be enjoyed by all ages.  I love to serve it on rye toast in the morning for breakfast with just a kiss of butter.
+
+product/productId: B000E1HUEY
+review/userId: A77AF7J1MC9NW
+review/profileName: Natalie Rodriguez
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1176163200
+review/summary: I don't have drive around anymore
+review/text: I just love Kraft Jello-0 no-bake DOUBLE CHOCOLATE flavored dessert. I could eat the whole pie myself in one day. There are other types of products that are similar to this, but they just can't get the, taste of the smooth filling and the right flavor and crunch of the bottom crust. Nothing and I mean Nothing can beat this pie! For some reason, this product is hard to find in stores, they have other good pies, like cheese cake and peanut butter type pie. So one day I spent 2 hours driving, in this new city I live in, just going store to store and not finding it. after $20 in gas and two hours later, I still came home empty handend. Then I said to myself, "just try Amazon.com, they have everything." I sat down and log in and in five minutes, I had a case order and sent to me. Few days later, I had 12 boxes. I should have check Amazon first and will do so next time.
+
+product/productId: B000E1HUEY
+review/userId: A1CHEPGR0LZ9KT
+review/profileName: D. Allen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1197417600
+review/summary: yum
+review/text: I just sprinkle half the crust below and half on top - saves a lot of fat and calories, and overnight the "crust" moistens and is very good.  or, if you're impatient you can just stir the crumbs in, not that I've ever done that . . . a nice chocolate hit.
+
+product/productId: B000E1HUEY
+review/userId: A12VJX9LI63G0Y
+review/profileName: Jello
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331596800
+review/summary: Great Service
+review/text: The service and price of this product was great. Product was recieved on time and in good condition. I will recomend and use this again.
+
+product/productId: B000E1HUEY
+review/userId: A1JA38JIIRTLOR
+review/profileName: tippy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292630400
+review/summary: jello no bake
+review/text: this is the best choclate pie ever my daughter makes the regular pudding pies they fight for mine and they won't touch hers she even hides it in the fridge from her family. it's quick to make i personally think it taste better than a bakery can make the can't touch the texture or taste.hope you always keep this in stock cause i will be back for more
+
+product/productId: B000E1HUEY
+review/userId: A1BN8134NN8IAC
+review/profileName: Jorge A. Zuniga "CerealLOVER"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1264982400
+review/summary: Taste like Jell-o Pudding with an Oreo Crust.
+review/text: I don't know what i was expecting these pies to taste like. I guess i imagined a really good chocolate cream pie,something similar to those hershey's pies that you can get from Burger King.<br />Well..these pies aren't really like that.<br /><br />The taste of this pie is very simple. It taste like jello pudding ontop of an oreo crust....well that's because it is.<br /><br />Each box comes with 2 packets :<br />Filling mix ,and a crust mix that is made from oreo cookies pounded into dust.<br /><br />This pie is easy to prepare. You just need milk for the filling and butter for the crust....<br /><br />The filling tastes just like pudding..only it's a little thicker and a bit smoother than regular pudding. and the crust is straight out oreo cookies that have been pounded into dust. You just add melted butter to the cookie dust,and stir until everything is moist. then you simply press them onto the bottom of a pie pan. that's basically your pie. jello pudding ontop of oreo cookies with butter.<br /><br />These pies aren't bad. But they aren't really worth the cash. Or the time trying to find them in stores. You can get the same taste in many other products. Overall rating 3/5
+
+product/productId: B001O2HB5U
+review/userId: A3QDULE3W1A97M
+review/profileName: Conscientious Mom
+review/helpfulness: 13/14
+review/score: 3.0
+review/time: 1292976000
+review/summary: Ingredients not listed on product description
+review/text: Earth's Best and in particular, the sweet potato cinnamon and pumpkin apple varieties of this Seasonal Harvest line (which we have purchased elsewhere before), are brilliant and have really appealed to my picky eater but ... a note of concern and the reason I am writing a review for the first time, and only giving 3 stars, is because the apple turkey cranberry dinner contains WHEAT, which is disclosed on the jar once you purchase, receive and open the package, and the green bean casserole contains ONION, again only listed on the jar and not something every baby can tolerate.  Unfortunately that means we can only eat half of this pack, which doesn't make it very cost effective.  Otherwise, really good food.
+
+product/productId: B001O2HB5U
+review/userId: A1IDEZY8MRFWMU
+review/profileName: G in H-Town "Restless, Dexterous, Primed"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1250294400
+review/summary: Baby Likes It
+review/text: My infant son loves most of this food.  It is easy to get cases shipped and not fumble with individual jars in the store.  Quick shipping, good packaging.  I've had no issues.
+
+product/productId: B001O2HB5U
+review/userId: AAH6I7S7QTK4A
+review/profileName: I. Olivo
+review/helpfulness: 10/13
+review/score: 1.0
+review/time: 1289952000
+review/summary: Terrible packaging!
+review/text: Not only did several jars break, but they were apparently broken for so long that the food that had spilled all over the other jars grew mold. Mold everywhere! Really disgusting and smelled terrible. I won't trust Amazon to ship these baby food items.<br /><br />Update: Apparently this is a huge issue with EB via Amazon. If you look at other reviews for other EB here you'll see that the USDA has been alerted about the spoiled and moldy EB baby food on Amazon.
+
+product/productId: B001O2HB5U
+review/userId: A1GE8OLH7GLPQW
+review/profileName: S. Shaw
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319414400
+review/summary: Awesome Fall Treat
+review/text: We just LOVE this variety pack by Earth's best!  Our favorite one!  It has veggies, meat, and fruit.  All of the flavors sound great and our baby loves them.  We've purchased this variety pack more than any other...since they are our go-to favorites.  Now that it's fall...they are especially great!!  :)<br /><br />No problems with them breaking. They are always packaged great with bubble wrap covering them and padding in the boxes.  I've ordered several different varieties of Earth's Best jars several times and have never had a problem with any breaking.
+
+product/productId: B001O2HB5U
+review/userId: A2KIVODZRTGY4U
+review/profileName: Gwendolyn Dawson "Literary License"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1311292800
+review/summary: Great for introducing new flavors
+review/text: We like to introduce our baby to a variety of flavors, but she won't eat anything that's not 100% smooth in texture.  That means we're pretty much stuck with jarred baby food, but we don't want our baby to become a picky eater.  I love this seasonal harvest variety pack because it contains some really unique flavors that are not usually available in baby food, like cranberry and pumpkin.  Also, the seasonings are more robust that other flavors of baby food.  The Green Bean Casserole definitely has an oniony flavor, for example, and the cinnamon flavor is fairly strong in the Sweet Potato Cinnamon.  I love that my baby is getting to try new and unusual flavors even though she's not yet ready for more textures.
+
+product/productId: B001O2HB5U
+review/userId: A1SJ1NPAWMHPTE
+review/profileName: M. Starr
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1289433600
+review/summary: Great product!
+review/text: I love Earth's Best products. That's the only product I use for my baby! My baby loves all their different flavors but the pack of 12 makes it much more convenient!
+
+product/productId: B001O2HB5U
+review/userId: AH5IM985JGMJU
+review/profileName: Edward H. Watts "Whole Ed"
+review/helpfulness: 50/73
+review/score: 5.0
+review/time: 1233878400
+review/summary: Recommended
+review/text: I haven't tried this but I'm told it is a great product line.  FYI the Seasonal Harvest Variety pack contains: three jars each of Pumpkin Apple, Apple Turkey Cranberry, Green Bean Casserole and Sweet Potato Cinnamon.
+
+product/productId: B001O2HB5U
+review/userId: A1EW6AOGWTON20
+review/profileName: K. Harp
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1325030400
+review/summary: Love the flavors that I can't find in stores!
+review/text: My baby is not a picky eater. He loves all of the Earths Best baby foods we've tried. I bought this pack becuase it had flavors that I cant find in any of my local stores! The pumpkin apple and sweet potato cinnamon are new favorites of his and I will continue to purchase this prodcut. You cant beat the subscribe and save price in the stores and even if you could I believe it would be hard to find these flavors.
+
+product/productId: B001O2HB5U
+review/userId: A2ACWWBA3EW4XM
+review/profileName: Sara Lamberto
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324080000
+review/summary: Great variety
+review/text: It is very important to me to have organic food for my kids. This is great for my infant and provides a variety of unusual combinations- Turkey and Cranberry, Pumpkin Apple, Green Bean Casserole and Sweet Potato Cinnamon. My 10 month old loves these!
+
+product/productId: B001O2HB5U
+review/userId: A39Z4VDAUE6GWS
+review/profileName: hannfam
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1323993600
+review/summary: our picky eater liked this
+review/text: I got this around thanksgiving and our son that doesnt like veggies or meats really liked these. It was also fun to feel like he was involved in thanksgiving even though he couldnt eat the full feast this year.
+
+product/productId: B001O2HB5U
+review/userId: A25A2P9UZ7RUJZ
+review/profileName: K. Sterling
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1302393600
+review/summary: My kid just didn't care for it
+review/text: I believe the product is good altogether BUT unfortunately my daughter, just like my son, doesn't care for jar foods, so we ate some, and we gave some away, since she prefers fresh fruits.
+
+product/productId: B001O2HB5U
+review/userId: A3GV9TN2V4N9FP
+review/profileName: K. Jennings "KJ"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285372800
+review/summary: Delicious and healthy.....perfect!!!
+review/text: My daughter's loves this food, and I feel confident knowing the is getting the foods she needs, without any toxic ingredients!!
+
+product/productId: B001O2HB5U
+review/userId: A3A41Z1Y18DF3W
+review/profileName: N. Kelsey "dragon mommy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1277683200
+review/summary: Actually delicious
+review/text: I don't feed my baby anything I wouldn't eat myself and these taste great. :) He loves all the flavors, and the turkey apple cranberry is the only meat baby food he'll eat. And please, buy this through Amazon Subscribe and Save. It is easy, cheap, and so very convenient. Per ounce its cheaper than grocery store food and organic too! Great deal.
+
+product/productId: B001O2HB5U
+review/userId: A298EGEB1PX9EH
+review/profileName: S. Smith
+review/helpfulness: 5/7
+review/score: 1.0
+review/time: 1276646400
+review/summary: poorly packaged
+review/text: Several broke during transit which then caused mold to grow over all the other jars. Compared price to Walmart and there jars are 10 cents cheaper. Not a good buy!!
+
+product/productId: B001O2HB5U
+review/userId: A2Y7HC2WTHSJ7F
+review/profileName: cc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348272000
+review/summary: baby food
+review/text: This product was very good, baby loves it. The favorite seems to be the pumpkin apple. The apple turkey cranberry is also a big hit.
+
+product/productId: B001O2HB5U
+review/userId: A3RA2LSGCDK9GQ
+review/profileName: kiki
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337212800
+review/summary: good!
+review/text: Packing is very good, although I`m far away from there.<br />But it taste a little slant acerbity , baby still can not accept, slowly adapted to it.
+
+product/productId: B001O2HB5U
+review/userId: A3JX37OEQSJJI4
+review/profileName: S. Allen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328832000
+review/summary: Awesome!!
+review/text: I ordered this item along with other items from Amazon.  They arrived in a short amount of time.  They were sealed and boxed in wonderful damage preventable packaging.  However, one bottle in the center of the package was broken, dried, turned to dust and still in it's place in the package.  An odd occurance I am sure.  My guess is it came from the manufacturer with a broken seal and had gone unnoticed for a long time.  Amazon was so wonderful at listening to me about the damaged item.  I even offered to send them a picture. They not only offered to replace the order but also did it in an expediant way.  The baby also loves the food so cheers to Earth's best as well!! I still have this item on my subscribe and save and will continue to do so.
+
+product/productId: B001O2HB5U
+review/userId: A1I3WSFYYIR54T
+review/profileName: Amy Johnson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326758400
+review/summary: Great Variety
+review/text: My daughter loved all of them except the green beans, but she doesn't like green beans at all.  They do have onion in them as well.  My husband is a real fan of the Apple Turkey cranberry and it is one of our daughter's favs too.  The Pumpkin Apple is on the thinner side and can be messy, but it's really good!
+
+product/productId: B001O2HB5U
+review/userId: A141XBYWBW40UC
+review/profileName: Amanda Herman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309219200
+review/summary: A great variety pack
+review/text: My 8/9 mo old really likes this variety pack. It was fun for him to get to try some of our favorite seasonal flavors. I am happy with Amazon's "grocery" business. It is great to have the convenience to order these on-line and have home delivery. I can't imagine going the store and having to get a whole case and go through check out. I try to make him some meals, but I trust Earth's Best and love the flavor combo's and they are so convenient.
+
+product/productId: B001O2HB5U
+review/userId: A3TZ062D3W95NF
+review/profileName: M. Cisneros
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283904000
+review/summary: Amazing baby food.
+review/text: I have a 5 1/2 month old new eater.  She has not taken to solids very well at all. I have spent a month and a half of trying several different foods and the sweet potato cinnamon was the first one she would open her mouth for and not grimmace when she tasted it. Needless to say I was so happy and over the moon at the fact that she was eating solids and that it was something as good as Earth's Best.
+
+product/productId: B001O2HB5U
+review/userId: AJ2UZH9UYDA14
+review/profileName: A. Nucera "Amazonian"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1277596800
+review/summary: Great Product
+review/text: My daughter loves Earth's Best foods, and being able to get it from Amazon is a great convenience vs. fumbling with the individual jars at the grocery store. I also love that Earth's Best has these great combos of complimentary foods and doesn't force you to buy 12 of one flavor. The combination's are closer to how the adults in our home eat, so the transition to solids and table foods will be easier. Healthy selections and a great variety of fruits and vegetables, the Seasonal Variety Pack is a favorite choice.<br /><br />The flavors are:<br />Pumpkin Apple, Apple Turkey Cranberry, Green Bean Casserole and Sweet Potato Cinnamon
+
+product/productId: B001O2HB5U
+review/userId: ATIHDHZYNQ0EI
+review/profileName: Kristen O'donnell "twinsmom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270425600
+review/summary: Organic and Delicious
+review/text: I'd continue to buy but I'm moving over to more home made finger foods and away from glass jars...shattered too many.
+
+product/productId: B001O2HB5U
+review/userId: A2R12TJAI6S9HD
+review/profileName: Mom of two boys
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265846400
+review/summary: Love it, love it, love it.
+review/text: Great quality and the Turkey, Apple Cranberry flavor is a hit with my 10 month old.  It actually tastes good. Most baby foods containing meat don't even smell good let alone taste good.  This one breaks the mold.  The Green Bean Casserole is better than just plain green beans too.  Kudos Earth's Best!
+
+product/productId: B001O2HB5U
+review/userId: A1UDPNJUG66WSG
+review/profileName: Glam-mom-rous
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1278633600
+review/summary: Interesting but appetizing?
+review/text: I was completely skeptical about buying these online, because let's face it, they sound disgusting.  After reading the reviews, I decided to try them out on my daughter and not let my biases influence her developing taste.  She liked them.  I was amazed and impressed.  They are a great way to introduce foods that you don't make that often for your little one. (i.e. tomatoe, apricot)
+
+product/productId: B001O2HB5U
+review/userId: A3E38IJN9ORECS
+review/profileName: Jennifer
+review/helpfulness: 1/4
+review/score: 1.0
+review/time: 1295913600
+review/summary: Bait and switch????
+review/text: The product is fine ... Careful which store Amazon sells it through.  I just got my order and 911Drugstore charged me $39.99, not the $13.99 that's listed.
+
+product/productId: B0031YJ3E6
+review/userId: A3DE2KSM3LHB71
+review/profileName: Ann Marie Lupacckino
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1274832000
+review/summary: Unique, great tasting granola
+review/text: I absolutely love granola!  And this stuff is great.  I'm a runner and I love the fact that this granola not only taste great, but has the added protein, which you don't normally find in granola.  I can't find it locally so I always buy it from Amazon and in fact subscribe to have it delivered on a regular basis.  On a side note, my 3 year old daughter loves it as well!  Enjoy!!
+
+product/productId: B0031YJ3E6
+review/userId: AL4E5GMJ5F45Z
+review/profileName: Angela Stave
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1300665600
+review/summary: Erin BAker's Ultra Protein Granola Power Crunch
+review/text: This product is wonderful. Very tasty! Good price. Hard to find anywhere in the stores and when I did, it was almost $2 more a bag, than I paid on Amazon.com.
+
+product/productId: B0031YJ3E6
+review/userId: A1BUN6HZQ1AGFR
+review/profileName: Renee Dickens
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1276732800
+review/summary: Good Stuff and Healthy Too!
+review/text: I recently began a weight loss program and found this in a TJMaxx (of all places).  I wanted something that would make yogurt taste better.  This more than met my requirement.  It's fantastic!!!  Now my morning yogurt tastes like I am having dessert for breakfast.  I was really happy to find it through a google search at Amazon and I just placed my first subscribe and save order.  Now I can keep it everywhere!
+
+product/productId: B0031YJ3E6
+review/userId: A13HT420WCQU8E
+review/profileName: Todd M. Konieczka "TMK"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349568000
+review/summary: Had been great ... until recently
+review/text: I have really loved this granola after coming across it on Amazon a few months ago.  It was the healiest flavor of granola that Erin Bakers has to offer.  It tastes great and is very crunchy; and it's always shipped on time.<br /><br />However, after recently receiving a new shipment of Erin Bakers power crunch peanut butter & honey granola, I was shocked to find the nutritional values of the product have changed considerably (based on the same serving sizes):<br /><br />Calories have gone from 190 to 250 (an increase of 60!)<br />Fat has increased from 8g to 11g (5% more of your daily value)<br />Sodium has spiked from 75mg to 130mg<br />The kicker is that the number of servings per bag has dropped from 8 to 6 (and yet you're paying the same amount of money)!!!<br /><br />The only good news is that protein has marginally increased from 7g to 8g<br /><br />Given these unexpected and unfortunate changes, I have cancelled my subscription to this product and will look for another brand's alternative. I've never written a product review before, but felt compelled to in this situation....
+
+product/productId: B0031YJ3E6
+review/userId: A1D1LDK20EBXG3
+review/profileName: R. Cullum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342137600
+review/summary: I love this stuff!
+review/text: This granola is delicious! I love the flavor combination and the size and texture of the clusters. There is no added sugar or artificial sweeteners (it is sweetened with honey) or unnatural ingredients at all. Furthermore, there is no wheat and there is added protein!
+
+product/productId: B0031YJ3E6
+review/userId: A1PNN75PC9CRHP
+review/profileName: David Stewart "Loveyourneighbor"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340755200
+review/summary: Nothing great
+review/text: First let me tell you that I have tried all the flavors of granola Erin Baker offers, and this is my least favorite. I am not a fan of the crisp rice in the granola, that really ruined it for me. I love the fact that there's 8 grams of protein per serving; and the sugar is low as well. Overall though, I don't think I will be purchasing this flavor again. I am glad that I got around to trying it, but it did not do it for me.
+
+product/productId: B0031YJ3E6
+review/userId: ARA5WEC7Y6G7N
+review/profileName: Sue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337126400
+review/summary: Best Granola Ever!
+review/text: This is one of the healthiest yet best tasting granola I've ever had.  I love the big chunks as well as the fact that it is higher in protein.  I bought the 6 pack because the only place I can buy it is a bit of a drive and so I wanted to have extra on hand.  I would highly recommend it.  Great plain, in yogurt, on frozen yogurt, & in my steel cut oatmeal!
+
+product/productId: B0031YJ3E6
+review/userId: A45Y0IYI16DX9
+review/profileName: LEF "Mom of 3"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324598400
+review/summary: So delicious!
+review/text: I am addicted to this granola! I've gone through 4 bags at home so far and couldn't find it in stores and am elated that Amazon has it. Please, Erin Baker's, don't stop making this!
+
+product/productId: B0031YJ3E6
+review/userId: A95VQVOUF0N7S
+review/profileName: lakva
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320192000
+review/summary: great and Tasty Granola
+review/text: great breakfast Granola,taste like peanut-butter with lots of protein best price with amazon.com can't find anywere elsa<a href="http://www.amazon.com/gp/product/B000K8PO26">Erin Baker's Homestyle Granola, Peanut Butter, 12-Ounce Bags (Pack of 6)</a>
+
+product/productId: B0031YJ3E6
+review/userId: A3ZFKUTVROGMS
+review/profileName: Sarah Simoncini
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313971200
+review/summary: Mmmm breakfast is better!
+review/text: I am incredibly happy with this granola.  I first bought a bag at home goods for $4 and the taste and crunch has me hooked. I tried a ton of granolas from the grocery and it seems the taste lacks and the texture is always to hard or off putting. I put a handful or two on my Greek yogurt every morning and it makes a perfect healthy start to the day and cuts the sourness of the Yogurt.  Definitely the best granola I've tasted and I don't mind the price considering the quality of ingredients.  If you like peanut butter cookies, you better buy a couple bags because one won't last long. ;)
+
+product/productId: B0031YJ3E6
+review/userId: A8L5U16SS1IUW
+review/profileName: J. C. Graboff "Tech freak"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313280000
+review/summary: Love these in so many ways
+review/text: These are awesome, they are delicious and give me plenty of energy.  For me these are the best pre and post workout snack.  It is loaded with protein and it really tastes great.  Rather than reaching for the junk, grab a couple of handfuls of Ultra protein granola.  A word to the wise, if you are not being physically active, then it is probably not a good idea to eat this much protein.
+
+product/productId: B0031YJ3E6
+review/userId: A2UT6JLXD942H9
+review/profileName: Joycedevivre
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313107200
+review/summary: Very Satisfying Granola
+review/text: The Ultra-Protein Granola Power Crunch has a definitely peanut butter flavour so consider that when purchasing. I actually prefer this peanut butter flavour to their Homestyle Peanut Buttter Granola as I find that one a little flat tasting and the granola isn't as crunchy. The Ultra-Protein one is very crunchy and has quite a few big chunks that are good for snacking and then the crumbles are good as cereal. I don't know if it's the extra protein but definitely feel satisfied with a serving of this with a half cup of yogurt.<br />I've never considered granola cheap or low calorie so in case you're interested each bag has 8 servings and each 1/2 cup serving is 190 cal (70 from fat) and runs around $4.50 a bag. If Subscribe and Save is available I highly recommend doing that since you can save a few bucks and cancel any time.
+
+product/productId: B0031YJ3E6
+review/userId: A21Z0377YERLCH
+review/profileName: O.P.T. "O.P.T."
+review/helpfulness: 2/4
+review/score: 3.0
+review/time: 1302739200
+review/summary: OM NOM NOM
+review/text: This stuff is SO GOOD!  It tastes exactly like those peanut butter cookies with the fork imprints in them.  I eat a bag a day...trying to cut down.  My only gripe is that there aren't enough big chunks in it...it's mostly all broken up.  EDIT 7/25/11: Just logged on to order more and am shocked to find that Amazon has just hiked the price up to $29!?!?!?  LOL!!!  I don't THINK so.  I'm taking my rating down to three stars and not ordering another box until the price comes back down to earth.
+
+product/productId: B0012IT082
+review/userId: A2VIQLU57RMFGG
+review/profileName: Bryan C "Alibryan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347667200
+review/summary: GREAT COFFEE
+review/text: Very good and would buy again. Got them as a subscribe and save item so even better. Would I recommend this? Yes.
+
+product/productId: B0012IT082
+review/userId: A3PL09S8YTZNZU
+review/profileName: Laura O. Biering
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1274400000
+review/summary: Love this stuff!
+review/text: I love this stuff, and love that it is pre-measured.  I am grateful that they are making it available in packages of 12 so that it is less expensive than buying it individually.  This makes it less expensive, and without a trip to the grocery store!
+
+product/productId: B002CZHYD2
+review/userId: A1HAXS3AULOPY2
+review/profileName: marmstro
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344211200
+review/summary: Not so sure
+review/text: I haven't seen my dogs drop any weight since starting this over two weeks ago but they are all experiencing diarrhea which is ridiculous.  I'm bathing them every day and cleaning blankets even more often.  Not sure if I should keep trying this food or give up at this point.  I'm also using the dry weight control formula.
+
+product/productId: B002CZHYD2
+review/userId: A1MGZGESA6PYK8
+review/profileName: quackstar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Great food, healthy dog
+review/text: My vet recommended Avoderm for my dog several years ago due to the fact that he has a nail condition and could benefit from the formula this company uses for healthy skin and nails.  He is a picky eater with a sensitive stomach and we've never had any problems with this food.  I give him a mix of the vegetarian kind and the weight control chicken and rice (easier on his stomach)  both canned and dry, two meals per day.  He loves the food and at 10 1/2 years old (a large purebreed) he's healthier than he's ever been.  We've been thrilled and will never switch.
+
+product/productId: B001T7HHC2
+review/userId: A3CKPNSGA7JOLK
+review/profileName: Bachelier "&#34;1004&#34;"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1293062400
+review/summary: Cloying
+review/text: Well executed but cloying and saccharine.<br /><br />"The Cross" was an instrument of torture, and at the end the deposition it was coated with blood and excrement.<br /><br />Hard for me to swallow it as a cookie, but then again some folks "Christianity" begins and ends in sentiment.
+
+product/productId: B000V96C66
+review/userId: AD1MS7BS3ZNZH
+review/profileName: P. Kuhn
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1231891200
+review/summary: fantastic snack
+review/text: Emerald's honey roasted peanuts are probably the best I've ever had. They have a very substantial coating which is absolutely delicious. Its hard to stop eating these things, so the 12 pack is a great purchase! And they of course, keep Robert Goulet from messing with your stuff. Honestly though, fantastic honey roasted nuts - I'll never go back to those 'other' brands for honey roasted.
+
+product/productId: B000V96C66
+review/userId: A10DW5052H40CM
+review/profileName: CanuckGiver
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1299715200
+review/summary: They have changed, but not for the better!
+review/text: What made Emerald Honey Roast Nuts stand apart from the others was its sweet crunch, and "I need some more" finish.  Both seem to be greatly diminished in the latest shipment I tried.  Perhaps to be more like some competitors, they are now "drier" in taste and finish, and emphasize salt as much as sweet, unlike in the past.  I worry that Emerald has tried and succeeded in removing the "Old Fashioned" character of these peanuts, and left us with a generic snack too much like others.
+
+product/productId: B000V96C66
+review/userId: AFYDFX0FMEVY
+review/profileName: Wesleyan Hendrix
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: Best Honey Roasted Peanuts.
+review/text: I am one to say I have never liked Honey Roasted Peanuts before because they are always and I mean ALWAYS to sweet.  If I wanted to eat something sweet I would just get some chocolate.  But, fortunately for me my wife got a mixed bag of Honey Roasted Emerald's nuts and I decided to try them and hated it all except for the actual peanuts which where not only caramelly sweet but salty something I love greatly.  So out of maybe the 13 different brands I have tried which most were sickenly to sweet, this is by far the best.  It makes you simply want to continue eating them more and more, which is what a great snake food should do.  On the other hand I have read other reviews complaining about the plastic container and the fact you can not reuse them because of some reason or other or they will not be accepted at the recycle place.  I do not know about where these people live but not once has the guys who pick up recycle material ever stopped, got out of their vehicle, looked into my recycle containers and been like hey, hey, hey wait a minute now something is fishy here is this somekind of #7 plastic or something.  Get over yourself.  Coming from an actual user and purchaser of this product; you can not go wrong in my opinion.
+
+product/productId: B000V96C66
+review/userId: A1O7VZJUYSGGVP
+review/profileName: Todd Azinger
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345507200
+review/summary: Best Honey Roasted Peanuts
+review/text: If you have ever wished that your honey roasted peanuts would be consistent with a sweet taste, look no further, Emerald has mastered the process.  Don't bother with the rest all they have is a weak substitute.  Don't be fooled these carry the extra calories for a reason, they are coated with honey on every piece from the start to the finish.
+
+product/productId: B000V96C66
+review/userId: A7OQ6OQUXJHKM
+review/profileName: hibbsgang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344297600
+review/summary: Nuts over Nuts
+review/text: The Emerald Peanuts are so good. Very Crunchy, fresh, perfect for the shower we had.I bought a case so I have the rest too use at the wedding.
+
+product/productId: B000V96C66
+review/userId: A3GUX9OSWFJHOO
+review/profileName: Michael R Burke
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1305331200
+review/summary: Tasty
+review/text: When I was young, I remember flying and getting a small packet of these on each flight, which I loved. I came across these and thought I would buy a few canisters. Big mistake, I have probably gained 3 to 5 pounds in peanut fat. They are very good and more than a little addicting. I open a can and say to myself, "okay self, we will just eat a few and put them away". Next thing I know I've eaten the whole jar. Other than causing the tendency to eat to the point of self-loathing, they are fantastic. They are in no way healthy and are covered with a honey shell, but they taste of heaven. My only legitimate complaint is that there are some rock-like globs of the honey coating mixed into the nuts and I have bitten down on them painfully more than once. I will not buy them again because I don't want to become obese, but I would recommend them to others.
+
+product/productId: B000V96C66
+review/userId: A27D3E8LB6UZWL
+review/profileName: Lady Di
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290297600
+review/summary: Great Snack
+review/text: This is one of the best tasting snacks ever.  Once you start eating it, you will always want more.  Amazon was so efficient in sending the order to me.
+
+product/productId: B000V96C66
+review/userId: A312Q1F88O4YM
+review/profileName: Jordan Landford
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1247184000
+review/summary: OK but was expecting more.
+review/text: I am a big fan of honey roasted peanuts and tried different brands from Platters to Fred Myers to Albertson's brand peanuts. The moment I tried Emeralds I was hooked and it's hard to go back to the other brands. The local Albertsons offered 1 LB bag versions for $2.50 but no longer carry them. I was extremely disappointed and didn't want to settle with the other brands but thought I had found hope when I discovered Amazon sells them online. I figured I would have no regrets ordering these and did so. I couldn't wait till they arrived. This afternoon they came and the first thing I did was try some and sadly they do not live up to the ones that come in the bag form. It is my hope that it's just the first canister that taste OK and the others taste better. Don't get me wrong I believe they still taste good but they do NOT compare to the ones that come in the bag. What gives?
+
+product/productId: B000V96C66
+review/userId: A22BGI38W7Q9X9
+review/profileName: PracticalWaysToSaveMoney
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1329004800
+review/summary: Quality has diminished over the years, plastic used is toxic
+review/text: Many years ago (at least 10 years, maybe more) I remember eating Emerald Honey Roasted nuts on an airplane and I was thrilled and actually excited about the taste. It came in a little plastic bag. I raved to all my family and friends how great they tasted - just the right amount of salty and sweet.<br /><br />I'm eating some right now, not thrilled. Could just as easily be some generic brand, hardly any sweet at all. I bought this canister at a local supermarket.<br /><br />If you're into reusing or recycling plastic containers there's good and bad here. If you want to reuse the container you can remove the entire label and you have a tall dark green plastic containers with a screw on lid - the only marking is an impression on the top of the lid that says Emerald.<br /><br />Problem is, the top is number 5 plastic and the bottom is number 7. Number 7 is the most unhealthy and hardest to recycle plastic there is so you don't want to reuse this for food and your local area might not accept it for recycling. You can use it for nuts & bolts maybe in the garage? But in my opinion it shouldn't be used for these nuts, or any food. Number 7 shouldn't be used at all, ever, should be illegal. Gases leach off of it and into the food and into the air.....<br /><br />I think I'm going to throw these out now. I got them on sale so it's not too much of a waste. I just realized they use #7 plastic as I was writing this. Had I realized before, I would not have bought them. I'm going to pay more attention in the future when buying things in plastic jars.<br /><br />~<br /><br />Plastic #1: This is polyethylene terephtalate, also known as PETE or PET.  Most disposable soda and water bottles are made of #1 plastic, and it's usually clear. This plastic is considered generally safe. However, it is known to have a porous surface that allows bacteria and flavor to accumulate, so it is best not to keep reusing these bottles as makeshift containers. This plastic is picked up by most curbside recycling programs.<br /><br />Plastic #2: This is high density polyethylene, or HDPE.  Most milk jugs, detergent bottles, juice bottles, butter tubs, and toiletries bottles are made of this.  It is usually opaque. This plastic is considered safe and has low risk of leaching. It is also picked up by most recycling programs.<br /><br />Plastic #3: This is polyvinyl chloride, or PVC. It is used to make food wrap, bottles for cooking oil, and plumbing pipes. PVC is a tough plastic but it is not considered safe to cook food near it. There are phthalates in this material-softening chemicals that interfere with hormonal development. You should minimize use of #3 plastic around food as much as possible. Never cook using food wrap, especially in a microwave oven. If the wrap is listed as microwave-safe then I would still not let it touch the food while using it in the microwave. #3 plastic is rarely accepted by recycling programs.<br /><br />Plastic #4: This is low density polyethylene (LDPE). It is used to make grocery bags, some food wraps, squeezable bottles, and bread bags. This plastic is considered safe, but is unfortunately not often accepted by curbside recycling programs.<br /><br />Plastic #5: this is polypropylene. Yogurt cups and similar wide-necked containers are often made from it, as well as water bottles with a cloudy finish. You'll also find it in medicine bottles, ketchup and syrup bottles, and straws. This plastic is also considered safe, and is increasingly being accepted by curbside recycling programs.<br /><br />Plastic #6: this is polystyrene, or Styrofoam, from which disposable containers and packaging are made. You'll also find it in disposable plates and cups. Evidence is increasingly suggesting that this type of plastic leaches potentially toxic chemicals, especially when heated. I suggest avoiding the use of #6 plastic as much as possible. It is difficult to recycle and most recycling programs won't accept it.<br /><br />Plastic #7: This number basically means "everything else." It's a mixed bag, composed of plastics which were invented after 1987.  Polycarbonate falls into this category, including the dreaded BPA. So do modern plastics used in anything from iPods to computer cases. It also includes some baby bottles and food storage containers which resist staining. Use of #7 plastic is at your own risk, since you don't know what could be in it. You should dispose of any food or drink related product, especially for children, that is known to contain BPA. I personally also view any other food or drink container made from #7 plastic with a good deal of suspicion. It is difficult to recycle #7 plastic and most curbside recycling programs won't accept it.<br /><br />To summarize, plastics #2, #4 and #5 are generally considered safe. Plastic #1 is safe too but should not be re-used due to the risk of growing bacteria. Any other plastic should be used with extreme caution, especially around food or drink. The risk is even greater when heating food. For microwaving in particular, remember that microwave safe containers aren't necessarily healthy. They just won't melt. In general, it's better to avoid microwaving plastic entirely and stick to glass.
+
+product/productId: B006O3ASKE
+review/userId: AP2R98HA7MYR5
+review/profileName: edward "E.L"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326672000
+review/summary: really works
+review/text: i have been drinking redbull for along time i drink the 20 oz its much better for me i can get a 4hr of energy from it and it boost me up for my work i do im a shelf stocker/warehouse worker for  fort lee store in Virginia and i work hard and i use this everyday for work.
+

@@ -1,0 +1,1143 @@
+product/productId: B004391I3C
+review/userId: A32DV6IF316BC0
+review/profileName: Movie-Maven
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302134400
+review/summary: Wonderful flavor!
+review/text: I've tried several different varieties of Dolce Gusto coffee capsules and so far this is my favorite. It's the most versitile too. It makes a great expresso if you use a demitasse cup, cappuchinno if you add your own milk, or a 14 oz mug of American-style coffee. I'm so hooked I drink two big mugs a day - one truly delicious vice.<br /><br />This coffee is strong and dark but not harsh or bitter. Other strong or "full-bodied" coffees often have a burned taste - as if burning the beans is the only way to add flavor to an inferior bean.<br /><br />Nescafe, the largest selling brand of coffee in Europe, has developed a fantastic coffee. I also love the convenience of individual servings.
+
+product/productId: B004391I3C
+review/userId: AEFX0TKFV8XD7
+review/profileName: hollowx
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300752000
+review/summary: good flavor
+review/text: If I just want a good cup of coffee, not anything fancy, dark Roast is the one I go for.
+
+product/productId: B004391I3C
+review/userId: A2162M7B2MX7CH
+review/profileName: alicia
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347062400
+review/summary: dolce gusto at amazon.com
+review/text: Good wake up in the morning.  The coffee is excellent and has a good aroma.  The price through amazon is below what I can get for the coffee elsewhere.  I like the coffee and plan to purchase more of it and some in other flavors.  I would like to see a mixed pack of three instead of having to order three of each.
+
+product/productId: B004391I3C
+review/userId: AEWYUPCNDV7HY
+review/profileName: Modern Blue Argonaut
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346544000
+review/summary: Target dot com has better price
+review/text: I love how the price on these has come down! Although this can make 8 oz. I recommend not brewing more than 5-6 oz to preserve the quality of the flavor. This is such a convenient way to make espresso and I can easily train house guests on how to make their own coffee beverages now rather than using my complicated grinder and espresso machine. When I'm in a rush these definitely come to the rescue!
+
+product/productId: B004391I3C
+review/userId: A2UTRMH27TTRQJ
+review/profileName: Funnyboy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Addiction
+review/text: I first bought the dolce gusto circle maker for the one cup action so I don't have to brew a pot. I bought the American house blend and I could not get a good flavor for myself with the cream and sugar so I was kind of disappointed. I then tried the dark roast and after the third cup I had the right amount of cream and sugar and now I love it more than any coffee place. I go through a box per week which is probably not a good thing for my body but what are ya gonna do. Enjoy.
+
+product/productId: B004391I3C
+review/userId: A18S6PP4VUR99O
+review/profileName: A. P. LeBoutillier "Biker Boots"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334966400
+review/summary: "Intenso" aptly named
+review/text: Caffe' Grande Intenso is aptly named, if you like strong dark roast coffee this is it!  A full size American cup with the kick of Expresso, I love it, my wife, not so much. Price and delivery direct from Amazon can't be beat!
+
+product/productId: B004391I3C
+review/userId: A260QLS8Z33KCQ
+review/profileName: Bun
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1334275200
+review/summary: A little bitter
+review/text: Must be honest to say that I enjoy the Dolce Gusto "milky" coffees so much, that I'm a little bias towards the plain ones.  However, as a regular coffee, this is a pretty good blend.
+
+product/productId: B004391I3C
+review/userId: A44Z9LU2KPLXO
+review/profileName: Pat E "8 Mile"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: delicious easy coffee
+review/text: Cafe Grande Intenso is our personal favorite dark roast blend for the Nescafe Dolce Gusto Piccolo, fast and simple way to enjoy great coffee, no loose coffee grounds mess with these capsules
+
+product/productId: B004391I3C
+review/userId: A2BARFPH0SFE6P
+review/profileName: luvsfashion
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316217600
+review/summary: Try it this way
+review/text: If you make this one on the creativa with the normal grande intenso option use a second capsule on esspresso and it's really strong yet not bitter.
+
+product/productId: B004391I3C
+review/userId: A2YFLCS9HQL6OF
+review/profileName: steve
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1327795200
+review/summary: coffee pods
+review/text: The coffee pods are convenient but the quality of the coffee is not good (you will find this especially if you are used to using a grinder, fresh beans etc). I'm not sure if this is due to the pod itself or the machine in terms of temperature, pressure. I suspect the problem lies with the pod technology and the coffee within. I'm going back to a grinder, fresh beans and a traditional machine.
+
+product/productId: B001EPQRIE
+review/userId: A27Y60RD0OSSZ9
+review/profileName: coffee lover
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1202860800
+review/summary: wonderful taste!
+review/text: This coffee tastes great, a strong flavor without the bitterness found in other dark roasts!
+
+product/productId: B001EPQRIE
+review/userId: A33PMQU5NZ85WC
+review/profileName: J. Vasquez "Birdy"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1194739200
+review/summary: Love Coffee
+review/text: What a great buy. Compared to the price in the store, this coffee was a steal and tastes great.  I drink it every morning. My parrot, who shouldn't be drinking coffee, screams for a sip. I am stocked up for a while. One thing in life, don't run out of coffee.
+
+product/productId: B001EPQRIE
+review/userId: A1QTVEJG86860W
+review/profileName: BS Filter "BS Filter"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1292112000
+review/summary: Perfect Coffee, great price
+review/text: This is a perfect dark blend of coffee for anyone who loves a good straight up dark roast with out the bitterness and blandness found in other coffees. Not to mention the Folgers select are always a few bucks less then the other premium coffees. For some reason the selection at my local stores has dwindled and they don't have this blend. They only have the funky flavored blends. Don't know if this is from Folgers' end or Walmart's continuing limitation of product selection. Love this coffee, hope is stays around.
+
+product/productId: B001EPQRIE
+review/userId: A2OY1LJKDRNBEO
+review/profileName: Bill
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317600000
+review/summary: Bold Java  Dark Roast Coffee
+review/text: If you live in LA you like strong and bold coffee like I do.  I drink it with a spoonfull of raw sugar which makes it more wonderful.  Stores in Baton Rouge no longer sell the Bold Java and I thought I would look at Amazon and was surprised to find it on their list so I have a standing order for it to mailed to my home!  No hassel and it is cheaper.  You will enjou the bold taste of this coffee
+
+product/productId: B001EPQRIE
+review/userId: A118ILTAH03TW8
+review/profileName: S. Jamali "scholar"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1328227200
+review/summary: OK but not great
+review/text: I purchased this coffee as a replacement for Yuban dark roast - which is not available on Amazon, any more - and it is OK but not on par in quality with Yuban.
+
+product/productId: B001EPQRIE
+review/userId: AJJRE9K743P0V
+review/profileName: Cheryl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: Great coffee
+review/text: I just made my first mocha, and this is the the most amazing coffee! I can really taste the espresso along with the chocolate. This is going to make a wonderful brew in the mornings. A definite improvement over what I was drinking, and I was drinking some pretty good stuff, and certainly a lot cheaper than Starbucks! I would put this on par with the Starbucks, and they have just raised their prices again. This is where I will be buying my coffee from now on.
+
+product/productId: B001EPQRIE
+review/userId: A22G6SX84TEZSI
+review/profileName: Tom Wellbaum "Chophopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316995200
+review/summary: Great tasting cofffee
+review/text: I was a bit hesitant on buying Folgers coffee since I associate the name with the cheap Folgers coffee that my parents drink. I was surprised how good this coffee tastes and is comparable to Starbucks. I purchases this once a month on Amazon's subscribe and save and no longer buy the gourmet coffee at the store. I gave it a 5 star based on taste and value.
+
+product/productId: B000PIQF8S
+review/userId: A1EE4BTPTHCZZH
+review/profileName: W. Critchley
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1207526400
+review/summary: best cheezies ever made!
+review/text: My whole family loves these cheezies.  There is no replacement for this brand when you want a crispy, excellent tasting cheezie!
+
+product/productId: B000PIQF8S
+review/userId: A359CT5T3OB8LG
+review/profileName: Bob Em
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1285977600
+review/summary: The best you can buy
+review/text: Hawkins Cheezies are far and away the best cheezie you can get.  I like Cheetos once in a while too, but don't let the Cheetos fan boys fool you. Cheetos can't hold a candle to Hawkins.
+
+product/productId: B000PIQF8S
+review/userId: AZ02TUECK6AJK
+review/profileName: Saskswan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1284768000
+review/summary: One of the Best Canadian Snacks!
+review/text: One of the many things I miss about Canada - Cheezies!  I'm so happy I can buy them from Amazon.  They are so good!  Much better than Cheeto's or cheezy puffs.
+
+product/productId: B000PIQF8S
+review/userId: A3OAZY55U5V4IL
+review/profileName: sherry
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1282867200
+review/summary: Yummy
+review/text: These things are great, I love them. I have not found a cheese snack in the US that compares.
+
+product/productId: B000PIQF8S
+review/userId: A2V39MALUEV6LV
+review/profileName: Arthur Wickson "Art Wickson"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1228694400
+review/summary: Snack Nirvana
+review/text: By far the best snack food ever.  If you ever are in Canada you must load up on these and bring them home.  Price here at Amazon is a little rich.  Beware these can be very, very addictive.
+
+product/productId: B000PIQF8S
+review/userId: A1NZ9YAQP6GN9V
+review/profileName: D. Armenta
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1211328000
+review/summary: Hawkin's Cheesies...bliss in a bag
+review/text: My best friend (from Canada) turned me on to these; addictive isn't a strong enough word. REAL cheese, not sprayed-on dehydrated cheese flavored chemicals! When you first open the bag, the powerful cheese aroma hits you right where you live.<br /><br />One word of warning: bookmark this store, because once you have Hawkin's Cheesies you will never want to sully your tastebuds with any other cheese snack. Ever.
+
+product/productId: B000PIQF8S
+review/userId: A2SB7QP43RNWC9
+review/profileName: S Davis
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303430400
+review/summary: LOVE LOVE them
+review/text: I load up whenever I go visit Canada.  And when I am not going I have my family send them to me.<br />Cheetos can never compare, they have no flavor at all compared to Cheezies.<br />Cheezies are the best, even my husband who is a die hard Cheetos fan is now converted once he tasted Cheezies.
+
+product/productId: B000PIQF8S
+review/userId: A2GYDF0EBRHRXK
+review/profileName: M. T. Paterson "tp"
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1254960000
+review/summary: Canadian who loves Cheezies, but shocked at the high price!
+review/text: I absolutely adore Cheezies and make it a point to pick up a few large bags every time I go back to Canada. I was so excited when Amazon started selling them. I bought 2 bags thinking I would get a decent size for the price. Sadly the bag is only 210g or 1/2 lb (smaller than a regular bag of chips). The bags I received would have cost about $3 in Canada. Not worth it for the $7 price offered on Amazon. This is the first time I have been disappointed with Amazon and their prices. This is not worth the investment.
+
+product/productId: B000PIQF8S
+review/userId: A2DWS4LZLP57TL
+review/profileName: buddy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: Best cheezies ever
+review/text: Hawkins are unbelievable.  They are the best I have ever tasted.  The taste makes Cheetos look like amateurs.  I wish Amazon would offer them at a respectable price.
+
+product/productId: B000PIQF8S
+review/userId: AA4S2Q3YYB09O
+review/profileName: Janet R
+review/helpfulness: 0/4
+review/score: 3.0
+review/time: 1245196800
+review/summary: Cheezies
+review/text: Was dissapointed with them.  Being a Cheetos fan, I thought these would be a treat.  First couple tasted pretty good but all-in-all, I'll stay with good ole Cheetos.
+
+product/productId: B000PIQF8S
+review/userId: AQX963U9P9YF6
+review/profileName: M. Bass "green tekky"
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1251590400
+review/summary: Worst Cheese Puffs I've Ever Tasted
+review/text: This are hard and taste horrible - almost stale fresh out of the package.  They should be ashamed to compare these to Cheetos.  I ate 2 of these and throw the rest of the bag away!
+
+product/productId: B000PIQF8S
+review/userId: AMJONAHW0HQNT
+review/profileName: Conley Porter "portconley"
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1243382400
+review/summary: Where's the Cheese?
+review/text: I don't taste cheese - I taste an unidentifiable chemical and a LOT of salt!  Normally I LOVE salty snacks, and especially cheesy ones, but the salt is overwhelming. YUCK! Do NOT believe the "better than Cheetos" hype.  My favorite snack is Cheetos, and I'm definitely going back.
+
+product/productId: B0039K6YJO
+review/userId: A33QL1URUU820O
+review/profileName: lilicg
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1306800000
+review/summary: nutrition information
+review/text: Where is the nutrition information for this product? what may be low sugar to one's purpose may not be low enough for another...
+
+product/productId: B0029K0QHG
+review/userId: A14BTJRH9VNLJJ
+review/profileName: Kurt A. Johnson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348272000
+review/summary: Very tasty and surprisingly satisfying
+review/text: Kudos have been around for a long time, but the recent reformulation to make them 100 calorie bars was brilliant! Now, I am back to enjoying Kudos just about any time that I want them.<br /><br />This is the variety pack that has Snickers bars, M&M bars, and chocolate chip flavored bars - all of which are great! They're made of soft and sweet granola, with the flavor pieces mixed in, chocolate on the bottom, and chocolate drizzled on top. They're very tasty, and surprisingly satisfying for 100 calorie snacks. I am always on the lookout for good 100 calorie snacks, and these babies definitely fill the bill!
+
+product/productId: B0029K0QHG
+review/userId: A1EDYEQEIXZ0QA
+review/profileName: Amanda
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1295568000
+review/summary: Nice little snack
+review/text: We purchased these to have on hand for our 7 yr old son and he loves them. As an adult I really like them when I am craving some sort of candy. If I grab one of these... I know it is only 100 calories... and it does have chocolate and candy :) so it is good for those kinds of fixes. I wouldn't say these are healthy by any means, but in moderation, they are better than other things.
+
+product/productId: B0029K0QHG
+review/userId: A3GGQC9BRC6ABK
+review/profileName: Brandi L. Booth "b"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271203200
+review/summary: Gift- but I had some, YUM!
+review/text: These were great. my bf talked about these a few times and so when I saw them on Amazon for such a great price for a ton, I got them! He loved them, but got sick on them after a while. Snickers is the best, then M&M's, then the rest (at least that's what we both thought). Delicious, but if you eat them everyday you will be sick of them by the end. Great deal!
+
+product/productId: B000EMOCTE
+review/userId: A2NOZB6VZCTOI4
+review/profileName: Robert I. Hedges
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1147478400
+review/summary: Dog-Shaped Gelatinous Fruit Chews!
+review/text: I don't make a habit of eating gelatinous fruit snacks, particularly in the shape of brain-dead cartoon characters, but despite the traces of beeswax, these chews are actually quite tasty. I am pleased that they offer the US FDA recommended daily allowance of vitamin C, which I suspect would make parents favor these over other snacks containing a higher number of "empty calories."<br /><br />I honestly didn't expect to like these very much, as I thought they would taste far too artificial. General Mills did an excellent job getting the flavors right. The orange flavor in the shape of Velma and the blueberry flavored Scooby are the most realistic flavors, though all are quite good. I wouldn't exactly call this health food, but these chews are great tasting and have essentially no fat, making them a good choice for a quick, light snack.
+
+product/productId: B000EMOCTE
+review/userId: A3CW9IXMHJ4HRH
+review/profileName: Gordong11
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1181433600
+review/summary: Scooby Dooobie DOO! The best ever.
+review/text: Yes, I am 37 years old and addicted to scooby doo fruit snacks! I have always liked fruit snacks and buy them from time to time.....but this is the firsat time I have ever bought a case. They are that good, and no other fruit snacks, even by betty crocker, can compare. try it, get hooked, brush teeth!
+
+product/productId: B000EMOCTE
+review/userId: A3NJIIDIXLQFIN
+review/profileName: Siffert
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1283904000
+review/summary: Scooby Doo Fruit, How I Love You!
+review/text: Yum, Yum, I cannot keep away from this stuff!<br />I can down a whole box in one sitting!<br />Thankfully, Amazon sells this stuff in boxes of 10!<br />I'll be customer of Scooby Doo's for a long time to come!<br /><br />Note: it would have rated 5 stars had it less sodium and was not man-made processed snack food.
+
+product/productId: B000EMOCTE
+review/userId: A30ASLXJSA1KJQ
+review/profileName: C. Donley "Xandara"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1247443200
+review/summary: Tasty goodness!
+review/text: My boyfriend and I started buying these at the local grocery store, and finally realized that it's way cheaper to buy them here on Amazon with the Subscribe & Save program after buying numerous boxes on every grocery trip! A shipment of 10 boxes typically lasts a month between the two of us. While 10 boxes seems like a lot, each box has 10 packets, and each packet has maybe 8 gummy snacks in it, so it really isn't an overwhelming amount. These make for a quick snack when you're craving something sweet and fruity, but don't have time to deal with a real piece of fruit. I actually saw these at the local Dollar Store and they were more expensive than Amazon's price per bag! If you already enjoy these Scooby snacks, I encourage you to give the subscription thing a try - combine the convenience of having them shipped to your doorstep with the most inexpensive price around, and you're getting a real deal!
+
+product/productId: B000EMOCTE
+review/userId: A1CVN6FWUCZOMD
+review/profileName: his_billyness
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1169596800
+review/summary: best fruit snacks out there
+review/text: scooby snacks and fruit gushers are my favorite two fruit snacks. the greens and blues are so awesome, my roomate and i go through these a box at a time. the vitamin c will help your immune system, and they contain no fat. sugar content could be a concern for some but not me. these also contain a minor amount of pectin, a common ingredient in throat lozenges; somewhat helpful combined with the vitamin c if you've got a cold/sore throat.
+
+product/productId: B000EMOCTE
+review/userId: A35O2XCFI12J2O
+review/profileName: J. Kvistberg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1163030400
+review/summary: My son is really in to scooby doo.
+review/text: He likes to see which character is on his fruit snack. Betty Crocker Fruit snacks are among the best.
+
+product/productId: B000EMOCTE
+review/userId: AIL7KO1U5Y5HZ
+review/profileName: JTA
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1201392000
+review/summary: Don't be fooled by the Sams Club "fruit" snacks
+review/text: OK so I bought the Sam's Club Fruit Snacks thinking I could save some money.  Come on they are 5 and 2 they'll eat anything with sugar, right?  WRONG.  They LOVE the Scooby-Doo fruit snacks.  Now I just have to find poor kids that can eat the Sam's Club Fruit Snacks.
+
+product/productId: B003KT9L0S
+review/userId: A1OA8DQ4ZGWP9K
+review/profileName: Highly Opinionated Man
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1315008000
+review/summary: Tasty
+review/text: I tasted this last week and thought it was excellent. The fact it has fiber is goodness. That said, I'll be going with the peach flavor because it also packs a bit of protein.
+
+product/productId: B003KT9L0S
+review/userId: ALWUTVVA4LISG
+review/profileName: Jshah
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349308800
+review/summary: OK
+review/text: My son had a constipation problem when he was around 13 months.  He tried this at a family member's house and loved it.  It also helped with the constipation.  So I ordered a pack and he really did not seem interested.  Mango juice works great for constipation if your kids like the taste.
+
+product/productId: B003KT9L0S
+review/userId: A3E5ELO6IMBHGZ
+review/profileName: Jeremiah
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: Worth it
+review/text: My little one loves froose! It's expensive at our grocery store, $4 for a 4 pack. We use it sparingly. If our little one wakes up too early and has already nursed, he'll have a froose and go back to sleep. When he was sick, it was the only liquid other than nursing that I could get in him. I buy the pear flavor because it has less sugar than the others by froose. I like that it is more nourishing and substantial than other juices. It is thicker and "syrupy", but that's not a problem unless you have a box squeezer. That could be solved by placing the juice box in a small cup. Someone taught me this trick. :)<br />Love pear froose!
+
+product/productId: B003KT9L0S
+review/userId: A1MMFSW19AM019
+review/profileName: B. Wueste
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1288742400
+review/summary: Nutritious and sweet, but very thick and syrupy
+review/text: I really like the Froose brand and am a huge fan of the gummy snacks, but the juice just leaves a little to be desired. I find it to be very thick and syrupy, which is probably due to the use of rice sugar and other wholesome organic ingredients. Perhaps younger children wouldn't mind this texture and they would be able to suck it down and reap the benefits of the fiber and nutrients without knowing any better. Overall I'm going to stick with the gummies, but I look forward to more products coming out from Froose as healthy alternatives to some really bad options in the supermarket.
+
+product/productId: B000F2VESU
+review/userId: A2RBC8IRQAZLWV
+review/profileName: Jan "California Foodie"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1165017600
+review/summary: Excellent Thai food and spices source
+review/text: After eating Thai sticky rice at our local Thai restaurant, I wanted to be able to enjoy this tasty dish at home.  I purchased the steamer, basket, cheese cloth and rice kit.  It arrived quickly and carefully packaged.  Complete instructions were included, which enabled me to make great sticky rice on my first try.  Import Foods also offers a full list of Thai receipes, along with a list of the ingredients needed, and the ability to simply click and order the needed items.  They offer an easy to use web buying experience and excellent quality products. I will definitely order from them again.
+
+product/productId: B000F2VESU
+review/userId: A1IUBPJ89AELJ8
+review/profileName: Ray Ramirez
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1283558400
+review/summary: Great sticky rice
+review/text: I love this rice, and store.  I ordered this rice and it came on time and was packaged well.  I had no problem with it sticking to everything, if it clumps up and sticks to everything then it probably wasn't cooked properly, and shipping to Alaska is always expensive, which is why everything is expensive there.<br /><br />I lived in Thailand for 2 years and this taste just like the rice my mother-in-law would make all the time.  I like it very much, it reminds me of my time in Thailand. Cook the rice properly, you can watch a video at the venders site ([...])and you will enjoy the sticky rice just like I do. There are also many other Thai recipe videos at this site also.
+
+product/productId: B000F2VESU
+review/userId: A1UOP3I8BE70JJ
+review/profileName: R. Smith
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1317686400
+review/summary: Yumm. Easy, quick . Cooks like a pro!
+review/text: I'm having some of this for lunch & wow. I'm not a great cook but this makes me look like a chef!. This rice, first batch, is fluffy & light, The aroma & taste are light & fresh like rice from the Asian market. The whole kitchen smells delicious. This rice doesn't seem even distantly related to the usual grocery store rice.<br />The product is very clean in a beautifully prepared/sealed bag.<br />Will order this again!
+
+product/productId: B000F2VESU
+review/userId: A1DQS9P12Z7AM6
+review/profileName: ACO
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1309996800
+review/summary: YUM!!
+review/text: I live out in the sticks so it's great that I could get sticky ric at all.  Excellent product, let it soak overnight for best results.
+
+product/productId: B000F2VESU
+review/userId: A34I8RKOBZ58OG
+review/profileName: C. Gilbert
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1294358400
+review/summary: Good quality rice.
+review/text: I have no problems with this rice whatsoever, the only reason this review isn't 5 stars is because it took almost two weeks to get to me.  very tasty though!
+
+product/productId: B000F2VESU
+review/userId: A2PKQRT61HDVQI
+review/profileName: S. Nye
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1185321600
+review/summary: Awesome Thai sticky rice
+review/text: I loved it and will continue buying it forever. It is one of my favorite foods. Love it, love it, love it!!!!
+
+product/productId: B000F2VESU
+review/userId: A2DZN9RBFVVY7L
+review/profileName: dcnightingale
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342742400
+review/summary: Perfect Sticky Rice
+review/text: My mother is Thai, so I grew up eating a lot of sticky rice. The last time I went to visit her (she lives 4 hours away), she forced me to take home the pot and basket to make it, and she also provided me some rice. Once that ran out, I looked up where the closest Thai market was from me, and found one 30 minutes away. Due to feeling a little lazy, I opted to order this instead. I just made some tonight and it's PERFECT! It turned out just like my mom's sticky rice. When it runs out, I might venture out to the Thai market to see if I can get it for cheaper. But I didn't mind paying more for the convenience.
+
+product/productId: B000F2VESU
+review/userId: A2DHX1IHW0X654
+review/profileName: K. Johnson
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1342224000
+review/summary: Good but pricey
+review/text: Product is good and came in a timely matter. The price was way higher than at the Asian store. I found it for a 1/3rd of the price. So I can buy 3 5lb bags at the store compared to this price for the same amount.
+
+product/productId: B000F2VESU
+review/userId: A241DAVFAPULDC
+review/profileName: iHeartDogs
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338595200
+review/summary: Yum!
+review/text: This is my first experience making sticky rice so I have nothing to compare to.  But I'm happy with the quality and taste.  I found a recipe online on how to make sticky rice with mango (I always crave this dessert when we go to Thai restaurants) and it was easy peasy with this rice.  Just put a cup of rice in a bowl, add enough water to go 10% above the rice line, cover with a dish, stick in microwave for 3 minutes, remove & mix, microwave again for 3 minutes, remove & mix, continue to microwave for 3 minutes until the rice becomes translucent.  Voila!  Perfect sticky rice.  To make the coconut sauce, just boil coconut milk and add some sugar to taste (I use honey).  Pour over sticky rice and add mango.  I will never order sticky rice with mango at a restaurant again!
+
+product/productId: B000F2VESU
+review/userId: A11D9JUFQI045
+review/profileName: Mrs. Michelle M. Ballou "Shoppin Chic"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1231545600
+review/summary: Yum!!
+review/text: Love the rice and it is very sticky! Steams nicely and tastes very good. Will buy again.
+
+product/productId: B000F2VESU
+review/userId: A24DRFNMGXN4FS
+review/profileName: SmilingRN
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350777600
+review/summary: Love this Sticky Rice
+review/text: I've never made sticky rice before and was worried about not preparing it right.  I used my rice cooker and Voila...no problems.  It was absolutely delicious. Love the light sweetness taste.
+
+product/productId: B000F2VESU
+review/userId: A28621TSIR5EOG
+review/profileName: sharon "Osprey"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Thai Sticky Sweet RIce
+review/text: I like fluffy rice but my boyfriend loves sticky rice. Could find stick rice in the local market, so ordered this rice. Sticky rice takes more time because you have to soak it. Came out great and now my boyfriend can stick his rice to his vegetables in big balls and is very happy.
+
+product/productId: B000F2VESU
+review/userId: A1QEBPBXZDW1GT
+review/profileName: Gary D "The Garbuncle"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343865600
+review/summary: Nommy Nom Nom!
+review/text: I would have to say this is one of my all time favorite foods.  My personal favorite way to eat it is to roll it into balls then place the balls into a shallow dish of freshly brewed green tea ('pi lo chun' in case you wondered).  Sometimes I use a flavored green tea as well and I also use other teas, black, herbals and even a couple of rooibos taste good this way.  That is about Thai Sticky Rice in general though, now let's talk this particular bag of the stuff.<br /><br />I got this with free two day shipping through my Prime membership so no worries there, the price per pound winds up quite reasonable at $2.34/lb. so that's great too.  It cooked up easily and nicely and I was able to roll it up as well as any I have had, that makes four good things and now the taste... I really liked this one a lot.  It is a nice and tasty rice and it sticks together well and soaks up the tea nicely without having the balled up rice disintegrate into a handful of soggy rice in my hand (yes, I do in fact use my hand to eat this, rather my fingers. 8-)<br /><br />I think I will lay in a supply of this one for sure... I'd hate to run out.
+
+product/productId: B000F2VESU
+review/userId: AYJ9UC3A6JZYJ
+review/profileName: invisible hand
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Good sticky rice
+review/text: This is good sticky rice which is indeed very sticky, in fact it congeals together even to make nice sticky mush.  I have cooked it with just water in my Zojirushi rice cooker and it turns out all right.  It tastes even better with some artifical sweetener.  I'm sure sugar would taste better still but I'm trying to trim down.<br /><br />This with coconut milk and sugar or artifical sugar in a rice cooker should turn out very tasty sticky rice.  I recommend this item even thought it is a tad costly at this price point, but not so bad with free shipping by Amazon Prime.
+
+product/productId: B000F2VESU
+review/userId: AEFDQ7PXDIVIU
+review/profileName: K. Milani
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: Delicious!
+review/text: Thai sticky rice is one of our favorite desserts with coconut and mangoes.  Mmmm.  I soak the rice overnight, and steam it using a steamer pot and basket lined with cheesecloth or other lint-free cloth (flour sack towel-type), with a lid over the top.
+
+product/productId: B000F2VESU
+review/userId: A10MMFJOKG5V78
+review/profileName: Marissa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310256000
+review/summary: Thai Sticky Rice
+review/text: I have purchased Thai Sticky Rice (Sweet rice)from amazon a couple of times already, and I am always impressed on how fast and reliable they are in terms of shipment. I am happy with the service, and the recipient of the product has always been happy as well because he said that the sticky rice is very good.<br /><br />I will always purchase this product from amazon because as a customer, I am indeed very satisfied with the service.<br /><br />Thank you.
+
+product/productId: B000F2VESU
+review/userId: A1F3CU1YYV2VY8
+review/profileName: Marcus
+review/helpfulness: 2/5
+review/score: 4.0
+review/time: 1164153600
+review/summary: Great Product
+review/text: It's good to be able to find a quality product on-line when you do not have immediate source locally.
+
+product/productId: B000F2VESU
+review/userId: A1DXCMSP6DUU5K
+review/profileName: Booty Bob
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1341705600
+review/summary: ????
+review/text: Dont know how to rate this. It shipped 2 days later than it said it would. Said I was suppose to get it by July 3. And I still havent gotten it. Im sure it will be good once I finally ever get it.
+
+product/productId: B000F2VESU
+review/userId: A1G1U1AUASRHJQ
+review/profileName: Lorraine Gatehouse
+review/helpfulness: 3/9
+review/score: 3.0
+review/time: 1266105600
+review/summary: Sweet Rice
+review/text: I like sticky rice and couldn't find it in local stores. This rice is nothing like the sticky rice in the restaurants. It's very small rice that is so sticky it clumps together in blobs.  It literally bonds to the utensils and dinnerware and is difficult to wash off.  Big Disappointment, will not buy it again.
+
+product/productId: B000F2VESU
+review/userId: A1MSYROOG2DJL7
+review/profileName: Stillhere05
+review/helpfulness: 0/4
+review/score: 3.0
+review/time: 1327795200
+review/summary: I still prefer my jasmine rice
+review/text: I still like my jasmine rice that I can get out in town. We use rice all the time so I figured we would buy in bulk. Bad idea to buy online. Sooo much cheaper at your local grocery. Right after I purchased this item, my local store came out with bulk bags of my favorite jasmine rice, which is cheaper and much better quality than buying online. I have not yet been satisfied with a food purchase on amazon yet.
+
+product/productId: B000F2VESU
+review/userId: A2LRTX6NJ26P74
+review/profileName: P. Andersen "problem reader"
+review/helpfulness: 1/17
+review/score: 1.0
+review/time: 1256256000
+review/summary: shipping over kill
+review/text: the shipping was great... packaging great and the product, wonderful.  the shipping cost was out of line.  If my order was sent in a USPS flat rate boxes, you can get a much cheaper shipping cost and it is just as fast as UPS.  Especially to Nome, Alaska.  Shippers like UPS because of the ease of them picking up the items to ship but if they did their home work, they would see that the USPS does the same and it is so much cheaper...and to Nome Alaska...faster!<br />Thank you for letting me vent!<br />Patty Andersen<br />A<br />laska resident for 32 years
+
+product/productId: B003CH4Q5I
+review/userId: A30POH7POLQ78U
+review/profileName: C. G. Maupin "cgmaupin"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1278979200
+review/summary: A Successful Experiment
+review/text: When I ordered this product, I wasn't quite sure what to expect.  I kind of had in mind a "curry ketchup" (literally just ketchup with a curry aftertaste), but the description made me think that wasn't quite on the mark.  But since I've been happy with Maya Kaimal's other products, and as a lover of both Indian food and ketchup, I had to give it a try.<br /><br />My suspicion that this wouldn't just be "ketchup plus some curry flavor" was borne out.  Honestly, it's a little difficult to describe.  It's as though someone scrapped the idea of ketchup and decided to start over and build a new ketchup out of some new ingredients and some old ones.  That's a weird description, I know, so I'll go into a little more detail.  It's just that nearly every ketchup you buy is basically slight variations on a theme.  This is different, but still identifiably ketchup.<br /><br />The spicy ketchup isn't smooth like most ketchups; it has a definite texture to it.  It's very slightly thicker than most ketchups, but not so much that you use it any differently.  It's not as tart as ketchup tends to be, nor as sweet as some (particularly ones that use sugar instead of HFCS).  It has a pleasant tomato flavor with a hint of smokiness and a definite Indian flair.  But all of the flavors are very, very integrated.  Like I said before, this isn't "ketchup plus."  It has a very unified, if complex, flavor.  And for those who are worried about the "spicy" part of the name, this ketchup has a little bit of bite to it, about as much heat as a one-star curry.<br /><br />I've tried it on a variety of different foods that I normally eat with ketchup and I admit my success has been mixed.  I tried it first with some fast food french fries, which was decidedly underwhelming.  It wasn't bad; it's just that it was more novel than good.  I tried it later with tater tots, which was much better.  I've had it on an ordinary cheeseburger, which was good but it didn't wow me like it wowed one of my friends.  But the two biggest successes I've had with it have been the most surprising.<br /><br />One, this ketchup is excellent on a hot dog.  Yes, I know you aren't "supposed" to put ketchup on hot dogs, but I don't like mustard or relish and I don't always want a chili dog.  And for what it's worth, I think the spicy Indian ketchup actually "goes with" hot dogs better than ordinary ketchup (which isn't to say I like it more, per se, just that the flavors seem more complementary).<br /><br />And two, I just tried this ketchup tonight on some black pepper and bleu cheese hamburgers I picked up at the store.  Again, I didn't expect much but tried it on a whim.  Amazing.  The black pepper really brought out the spiciness of the ketchup.  And the pockets of bleu cheese in the burgers... I really did not expect bleu cheese to go well with Indian-themed ketchup, but the combination was just incredible.  A stronger bleu cheese might not work as well, but this was fairly mild.<br /><br />I've tried a few different variant ketchups in the past (did I mention I really like ketchup?), but I rarely find anything that's worth getting again.  Not only am I glad I bought this bottle of spicy Indian ketchup, but when it's gone I plan on buying another.  I still use my Heinz, mind you.  The two ketchups are not interchangeable.  But they do seem to be good on largely the same things, and the spicy Indian ketchup is great for adding just a bit of flair to your food.  Highly recommend.
+
+product/productId: B003CH4Q5I
+review/userId: A1ZHBSIII966YC
+review/profileName: LadyLawyer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283299200
+review/summary: Not your ordinary ketchup
+review/text: I was looking for a ketchup that had very low sugar content and thought a little spice would be an added bonus. So this product fit the bill perfectly. I agree with the very accurate description of the ketchup by the previous reviewer. Just that little bit of kick and the thicker texture make it amazingly versatile. I don't eat much beef, but I have tried it on a burger and it was great. But my absolute favorite use is on fish--particularly the meatier types of fish, like tuna, that can get a bit dry if grilled.It has also replaced barbecue sauce for me on pork chops. I love this stuff. What a find!
+
+product/productId: B0056A1XO6
+review/userId: AK9XS8AI8GIJW
+review/profileName: Sheliayk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333238400
+review/summary: Great
+review/text: Great taste Like it better than the regular.  We use this product in the office break room.  Will order this creamer again.
+
+product/productId: B000NJMV14
+review/userId: A383XURHVF8ON6
+review/profileName: Mrs. Kilo Delta
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1280016000
+review/summary: Excellent grain-free treats!
+review/text: These treats are the bee's knees. I've bought them in EVERY flavor they offer. Lamb liver is a great flavor, but my pups love all the flavors equally, it seems. Each treat is about 1" wide and 1" to 1-1/2" in length. Good sized treat for a bigger dog, and if you have smaller dogs like my shelties, these jerky treats tear apart easily into smaller bites with no crumbs, no mess. They smell like the jerky I buy for myself, and have quality ingredients. The shelties love them! I gave a bag to my sister for her giant dogs and they love them too, they work hard for these treats to get them out of puzzle toys.  My parents' little pom-terrier mix has a special place in her heart for anything liver, so these were well received (*snarf snarf snarf*) by that pup too.<br /><br />My younger sheltie can't handle grain or gluten... he has epilepsy that is possibly triggered by gluten, so I feed both furkids grain-free everything. Even if he didn't have epilepsy, I'd probably still feed grain-free, including these treats, because my shelties have *fantastic* silky soft coats from feeding them this way. I don't buy these treats here, I get them elsewhere, but they are a fantastic deal for 12 ounces of treats, it's a LOT of little torn-up bite-sized treats for my shelties during training. Each bag lasts me about a month, I think.
+
+product/productId: B000NJMV14
+review/userId: A3FJFCAEF7Q1W4
+review/profileName: Cmonkey "Scuba Diving Photographing Dog Spoil...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: Perfection in a dog treat
+review/text: Everything about this treat is Great for my Dane: quality healthy ingredients, size & ease of tearing into smaller pieces for training, texture is moist but not greasy or crumbly, smell is excellent to me and my Dane, they are not a heavy treat so you get a lot in the bag without crumbs in the bottom. Will buy more!
+
+product/productId: B000NJMV14
+review/userId: A15O453AD1RFU3
+review/profileName: S. Walton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325894400
+review/summary: Good training reward
+review/text: Not too dry, not too moist. Easily broken into smaller size without crumbling. Perfect for use as treat when training. Dog likes them just fine.  They will dry out some if left unsealed. We use old short pill bottle that holds maybe 10 at a time. Bag has built in ziplock.
+
+product/productId: B000NJMV14
+review/userId: A1YY3M98PYO22G
+review/profileName: MadManMoon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281830400
+review/summary: Great treats for a picky dog
+review/text: These jerky treats are my dog's favorite treats.  Recently my vet stopped selling them and I panicked for a few seconds.  I had the realization: "I can check Amazon!".  Truthfully,  this is the closest you can get to giving your dog jerky.  My vet is a holistic vet and I consequently don't give my dog just any treat.  Still, my tiny toy poodle is VERY particular, even to the point of knowing which flavor he wants when I hold up the bags!  I bought the lamb liver, chicken and venison and venison but he loves all of the flavors, even the fish.  I like the fact that they are all natural and I'd recommend them in a heartbeat.
+
+product/productId: B000A3Y2ME
+review/userId: A1AAIHSJGYSLRW
+review/profileName: Vegas Mystery
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213833600
+review/summary: Best food for my dog
+review/text: After reading the book "The food pets die for" and finding out that Science Diet & Iams actually use road kill and cancerous animals in their dog food, which turns around and adds the risk of your dog getting cancer or other horrible diseases I started him on an all organic diet, including his treats. After a lot of research this is the food I decided to feed my 10 lb toy poodle and he loves it!!
+
+product/productId: B000A3Y2ME
+review/userId: AN1B5XNL63D2V
+review/profileName: cainbot
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1204588800
+review/summary: The Dog Food That Smells Good Enough for Humans
+review/text: My 9-week-old standard poodle gets very excited at meal time. She gets 1/2 cup of this Natural Balance kibble mixed with a tablespoon of canned food, but when I feed her, you'd think I had just given her prime rib. I've never had a dog who got so excited about her kibble!
+
+product/productId: B001E95KQK
+review/userId: A22Y8AE5D7140C
+review/profileName: James D. Howell
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344556800
+review/summary: OK but not the greatest
+review/text: Organic coffee is actually good for you.  In moderation.  However, this one didn't set well with my finicky taste buds.  Ok for a trial.  Try Yuban Organic if you can find it.  It's probably just my strange tastes.
+
+product/productId: B001E95KQK
+review/userId: A3QXRE9LXMWUA9
+review/profileName: R. Stoufis "WV Mama"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1276992000
+review/summary: Better Than Starbucks
+review/text: This coffee is wonderful!  I have tried many coffees and this is one of the best.
+
+product/productId: B001E95KQK
+review/userId: A11T0V94J1YJTO
+review/profileName: C. Mills "mom of 3"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1276387200
+review/summary: Great organic coffee at an affordable price
+review/text: As a stay-at-home mom of 3, two under the age of 4, I love coffee.  And as much as I drink, I prefer the organic coffee.  I was skeptical about this brand, hadn't seen it in stores, but I love it.  I do the subscribe and save option so it is even more of a great deal.  The price is what drew me in at first and I have not been disappointed.  Great coffee
+
+product/productId: B001E95KQK
+review/userId: A2CLDRW7GVDOZ1
+review/profileName: D. Meyer "Fun Mom"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1231286400
+review/summary: This French roast is deee-lish!
+review/text: I was a little bit concerned because some of the reviews for the other Cafe Altura Organic coffees are not very good, but I decided to try this one anyhow.  Glad I did.  This is a really great French roast - one of my favorites.  We will be buying this one again!
+
+product/productId: B001E95KQK
+review/userId: A2PZH39VQVH4T8
+review/profileName: Stephen L
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1228176000
+review/summary: Excellent Coffee for the Soul
+review/text: I've been drinking this coffee for the past month or so and it has been some of the best I've ever tasted in my life. This isn't acidic at all and on top of that, it's organic!
+
+product/productId: B001E95KQK
+review/userId: A281UIP1UBATLX
+review/profileName: Bittersweet Soap Co
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1293148800
+review/summary: Coffee Lovers
+review/text: I try to purchase organic as much as possible.<br />It makes perfect sence to consume organic coffee.<br />This coffee rates no. 1 on my list of coffee.<br />I have tried many and this one tops the list.<br />Prompt service and shipping.
+
+product/productId: B001E95KQK
+review/userId: A1AUBUT82PLMZX
+review/profileName: Sara L. Johnson
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1233014400
+review/summary: Just blah....
+review/text: Blah... that's all I can even come up with. There's better organic out there I'm sure.
+
+product/productId: B007O27ORE
+review/userId: AMKT3H67FQ696
+review/profileName: debi
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339200000
+review/summary: Not bad
+review/text: Wanted to find a product that would satisfy my sweet tooth.  Not bad considering that it's a healthy form treat that is sugar free and gluten free.  Different flavors  and assorted types.  Wish it wasn't so expensive and a better deal at shipping.
+
+product/productId: B003TDM8M8
+review/userId: ANFD82GSNW48
+review/profileName: Stephanie Harper
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1288051200
+review/summary: Fruity Peach and Oolong?  Two of my favorite things!
+review/text: I could not wait to get my tea in the mail!  My favorite type of tea is Oolong for it's fruity, sweet flavor.  And then add peach to this?!  AWESOME!  What a great blend!  I think the peach may be a little too over powering of the Oolong, but I still love this tea.  Not to mention, it's fresh.  You can always tell if tea is too old.  This tea was really really fresh.<br /><br />Loose leaf tea is usually pricey, and Oolong is even pricer.  I usually can only afford 2 or 4 oz at a time.  But this tea is a HUGE bargain!  I feel like I got a huge deal.  I opened the sealed bag (also comes with a resealable ziplock just inside) and was so surprised by how much tea is in here.  This is going to last me a long time - yay!  It says it's 8 ounces, but looking at it, it seems like it's more like 12 ounces.  Maybe it's my imagination?<br /><br />This is my first time buying Boston Tea, but I don't think it will be my last.  I'm excited to try more teas by them.
+
+product/productId: B003TDM8M8
+review/userId: A3K4NLZQFWWOBZ
+review/profileName: Chef Huber
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328054400
+review/summary: An Office Favorite
+review/text: Boston Tea provides some of the best tasting tea I have found.  I have several flavors on hand (Berry Medley, Strawberry Fields, etc) for the office tea drinkers.  I started out being the only one drinking it and now I have been making 3-4 12 cup pots a day.  So far the Peach Passion is the favorite and the kitchen smells of peaches when I make this one.  It is so good I'm signing up for auto delivery.<br /><br />If you like peaches and tea, this is the blend for you.<br /><br />As a side note I add about a 1 tablespoon of quality black tea to the 8 tablespoons of Peach Passion.  Also, I can brew this twice and still get full flavor (24 cups total).
+
+product/productId: B0018CE5L4
+review/userId: AFNCXMCX7VZWH
+review/profileName: Jared Jongeling
+review/helpfulness: 16/16
+review/score: 3.0
+review/time: 1288569600
+review/summary: Good food, but marginal quality
+review/text: If you are a farmer with lots of farm cats, this is the perfect food - and because it is primarily sold at most farm and fleet stores I think that it is meant for farm cats. The ingredient list is marginal quality though, which can be expected. Most of it is corn and grain products, with a few meat by-products here and there. Better than Iams but not by much.<br /><br />I've been feeding my cat on Diamond Maintenance for 2 years without a problem but I will be switching to something with more substance soon. If you're looking for a cheap option for lots of cats, this is a good product to buy in bulk; but if you have a domestic cat you wish to keep around for awhile, I'd suggest something else.<br /><br />And hey, if you're looking for a good alternative, get Chicken Soup For The Adult Cat formula. Great stuff, doesn't cost a lot, and is much better than the regular Diamond food.
+
+product/productId: B0018CE5L4
+review/userId: A22IE6H9EIFVA1
+review/profileName: Donna G. Gardner "Professional Mom"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1323302400
+review/summary: Thankful for finding this cat food!
+review/text: We switched over to this cat food a couple of months ago and my cats are very happy and healthy.  We have 2 indoor cats, 1 indoor/outdoor cat and feed 2 outdoor neighborhood cats, and they are all getting this cat food.  We were spending twice this amount on our indoor cats and feeding the outdoor neighborhood cats meow mix (we also have racoons dipping into the supply) but at this price we can eliminate storing 2 separate large bags of cat food and feed them all the same.<br /><br />The indoor cats love this food, plus they have stopped vomiting on the floor.  The cat box does not have a foul smell, either.  Our cats range from 8 lbs. to 25 lbs., and they all seem to be thriving.  Our extra small, elderly female has no problem with the kibble size and neither does our 25 lb extra large, slightly handicapped male (he had trauma to his head as a kitten - causing him to loose an eye, partial sinus and has had some mouth repair.  We do not know what happened to him, he had been operated on prior to our adopting him from our local animal rescue.)<br /><br />So, in my opinion, this food covers the entire scope of kitties' and their needs.  We are very thankful for finding this food :)
+
+product/productId: B0018CE5L4
+review/userId: A1124UI45H6SFC
+review/profileName: russianbluecat
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1289088000
+review/summary: Good food, but...
+review/text: I thought this is a pretty good food, and a great value for the money. As the previous review stated, it contains a bit too much grains and byproducts.<br />I was really surprised by the kibble size. It's too big! I thought first I received dog food by mistake; re-read the label - no, that's cat food. Wow, way too large for my cats' little mouths. They seem to have fun with it, though - crunching on the pieces (good teeth cleaner at the same time?).<br /><br />However, as two of my cats can be considered seniors, I will have to switch to a different food, something with smaller bits, to make it easier for them.
+
+product/productId: B0018CE5L4
+review/userId: A2YOUUP81OIG6U
+review/profileName: Amy Wunsh
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1323475200
+review/summary: Great buy!
+review/text: This is the best cat food for my feral cats! The 40 lb size is a great buy, and the cat food is good for them! you really can't beat the price for decent food for feeding a lot of cats!
+
+product/productId: B0018CE5L4
+review/userId: A1OXZQV8KLZRYQ
+review/profileName: truckerdan
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1307836800
+review/summary: disappointing
+review/text: There's an old saying that a bargain is not a bargain if there is no use for the item. While the price of this made it seem a very attractive; it goes to waste since the cats do not eat it.
+
+product/productId: B0018CE5L4
+review/userId: A3XAQ8QCOOYDY
+review/profileName: Snowbell
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1290902400
+review/summary: Cat's Unhappy
+review/text: I bought this cat food at Tractor Supply. My cats hate this food. They won't eat it.<br />It is so hard my cat's have a hard time trying to eat it. My cats are very unhappy with this food. I would not buy again.
+
+product/productId: B0018CE5L4
+review/userId: A239IN9RW930IA
+review/profileName: kristixs
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1332806400
+review/summary: Mid-Grade Cat Food Product for a Great Price
+review/text: This product has better grade materials used to create it than other "general feed" brands such as Fri$kies, Me0w M!x, Pur1na, etc because they are essentially just a bunch of fillers, this has at least some chicken meal as the main ingredient setting it far above them in quality. At a price of 30 for 40LB its less than a dollar pound, and the cheapest food prices i have seen are around 60 - 75 cents per lb so its a great price considering its quality. You can use this as a filler mixed in with better brands if your cats dont get snobby and refuse to eat the cheaper stuff when better food is in the bowl with it. Diamond makes another version, <a href="http://www.amazon.com/gp/product/B000OH73FO">Diamond Naturals Dry Food for Adult Cats, Active Cat Chicken and Rice Formula, 18 Pound Bag</a>  which is a premium type and much healthier. This mixes well 60/40 with it so i dont spend a fortune and they get very healthy meals. My cats like this just as much as the premium. I have a public wish list of other brands of healthy premium food here on amazon at good prices (around 1.50 - 2.00 lb)if anyone is interested. Hope this helps all your kitties!
+
+product/productId: B0018CE5L4
+review/userId: A1I3GV9U0YYSNO
+review/profileName: Noah Roads
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1320796800
+review/summary: Excellent
+review/text: I have 4 cats and was spending an amazing amount of money shopping for them at Petsmarts and Petcos locally. I wish I would have discovered this food earlier. This 40lb bag lasts us nearly 2 months! If you order it new from Amazon you don't even have to worry about the shipping, it's free (and for something that weighs 40lbs that's a good thing!)<br /><br />The ingredients aren't that great but at least it's not Corn or grains as the first ingredient..so it's passable. I mix the dry food with higher quality canned food to give them that extra boost of protein and flavor since my cats tend to get bored of the same food over and over. I find if I mix it with different flavors of canned food they NEVER get tired of it (it can even be a small can, nothing fancy if you can't afford the high quality stuff).<br /><br />The kibble is large in size but I actually prefer it that way..when the cats come in from a long day outside they are ravenous and the large size of the kibble helps them slow down and actually break it apart..I have never seen them throw up a hairball from this food like they used to from other dry foods and that is saying A LOT! I got so used to wet messes on the floor and now there are none! Add in the the wet food from time and time (not daily) and the kibble becomes easier to eat for them. It keeps their teeth very clean in it's pure form though.<br /><br />All in all I have ordered this bag 3 times now this year since I discovered it and it's saved me a lot of money and a lot of time and my cats are not overweight or lacking in any way. No allergies, shiny coats and full of energy..I simply can't find a reason to complain.
+
+product/productId: B0018CE5L4
+review/userId: A2VUNJQ13I4YR2
+review/profileName: Katie Bee "Katie Bee"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1307404800
+review/summary: Mediocre
+review/text: This cat food is adequate and nothing more. It will feed your cat. My cat does not like it and I am stuck with a big bag. This is a bargain brand, and gets the job done.
+
+product/productId: B0018CE5L4
+review/userId: A1NE6UH14FP26A
+review/profileName: N. Perez
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1239840000
+review/summary: Good cat food and very inexpensive!!
+review/text: This is good cat food, and it came out even less expensive than Iams with the shipping included.
+
+product/productId: B0018CE5L4
+review/userId: A22J92A80WI059
+review/profileName: curl girl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343865600
+review/summary: Basic Stuff
+review/text: My cats have eaten this for the last year without incident.  Their most recent visit to the vet reaffirmed that my 2-year olds are doing fine on this.
+
+product/productId: B0018CE5L4
+review/userId: A3INCTNTF66OLV
+review/profileName: chris
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335744000
+review/summary: Good cat food for a good price
+review/text: This cat food isn't the highest quality, but it is definitely not the worst. It's far better than any of the Purina cat chows available, all of which are offered at a similar price per pound. For the price, this is the best cat food on the market, and you can't beat free shipping!
+
+product/productId: B0018CE5L4
+review/userId: A32GVQ5IDGDUOX
+review/profileName: Morgeanna "M"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: Happy cats
+review/text: My 3 cats like the small kibble size and must enjoy the flavor as they pick aroun their old food mixed in to get to this one. I've noticed their fur seems shinier and softer.
+
+product/productId: B0018CE5L4
+review/userId: A1XPEERXNUFOFM
+review/profileName: Karen Russell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329004800
+review/summary: Great Value!
+review/text: I had been using this cat food for several months.  I had rescued a cat looking awfully skinny and dehydrated and as she began to fatten a little she quickly showed signs of pregnancy.  She gave birth a few weeks late to 6 kittens and I still have them all.  They have been fed nothing but Diamond once weaned and have beautiful coats and are very healthy and bouncy.  So thankful for Diamond.
+
+product/productId: B0018CE5L4
+review/userId: AJHMWZKXEVVMC
+review/profileName: P. Keosheyan "Live to Read"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327622400
+review/summary: Good Product for Special Diet Cats
+review/text: With a cat that had to have a special diet housed with 3 other cats that did not, this product worked out perfectly. They all like it so I could keep feeding free choice as I had done before. All showed improvement as well but especially the cat that required it. Excellent size for my feeding demands. I am getting ready to order again.
+
+product/productId: B0018CE5L4
+review/userId: A8INT3NMHRUS4
+review/profileName: Kimberly J. Karas "a New England mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311120000
+review/summary: Upgraded from the smaller sized bag
+review/text: I tried this out with I believe the six pound bag (or close to that size) and my cats loved it.  Upgraded to the 20lb bag and still very satisfied.  Gave my kitties meow mix in between purchases and they snubbed it.  Better keep stocked up on this!
+
+product/productId: B0018CE5L4
+review/userId: A3BHSK3S3FS88D
+review/profileName: Karen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299888000
+review/summary: cat food
+review/text: great bargain, cats love it, ad do well on it  and normally I have problems with them upchucking after eating,  they have not with this, yet.  the kibble is a bit large but I soak it in water anyhow, so it is just fine.  K Campbell
+
+product/productId: B000V1UW1A
+review/userId: A3456HMWDNEP1A
+review/profileName: Ritchie Moffett
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1207353600
+review/summary: GREAT Olive Oil
+review/text: I got turned on to this product watching the Barefoot Contesa with Ina Garten on the Food Network.  Despite it's high price, this olive oil is flavorful and of the best quality I've seen in olive oil products.  I highly recommend this product by Olio Santo's out of California.
+
+product/productId: B000V1UW1A
+review/userId: A39LF67R8A1DTH
+review/profileName: Mickie K
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308873600
+review/summary: Excellent olive oil
+review/text: The title says it all.  I'm very pleased with this olive oil.  I used to get the Fini brand when I could find it, but this is a more-than-adequate substitute.
+
+product/productId: B002QTD5AA
+review/userId: A1W7F8UCTE5KYO
+review/profileName: Pete White
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1335484800
+review/summary: NO 6-pack
+review/text: Dunno where the alleged 6 Pack went. I received ONE 2lb box of biscuits.  Don't be misguided by false advertising.  On another IAMS order from another supplier received what I had ordered.
+
+product/productId: B0078DU28C
+review/userId: A1G3ZHC1SU2U82
+review/profileName: Dianaru
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346457600
+review/summary: Einkorn is the Best you can buy
+review/text: This pasta is everything a pasta should be. Its healthy, whole, has great flavor unlike the wall paper paste we usually call pasta. It has body, holds up to the flavors of sauces and is worth every penny. It is real food.<br />It doesn't have the off flavors some whole wheat pastas have and I had no problems with digestion. Some whole wheat products bother my stomach.<br />You do have to cook it a bit longer. Not a big deal its delicious. Try it!
+
+product/productId: B00522O282
+review/userId: A2IHR3UD2XTNJG
+review/profileName: Braveheart76
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339113600
+review/summary: Wunderbar!
+review/text: This candy is so delicious! The combination of chewy licorice and creamy fruit/coconut is perfect. It is addictive, though, so pass' auf!
+
+product/productId: B000UWRO3E
+review/userId: A2KNCTR50KE1G3
+review/profileName: iggyluv
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294099200
+review/summary: Italy in a can
+review/text: Yummmm. Sat at Cafe's along Lago D'Como eating vanilla ice cream with this syrup on top in '01. I fell in love with the cherries and strong taste of cherry syrup....it's a taste sensation...watch out you could get addicted
+
+product/productId: B000P77GPK
+review/userId: A2DN7M7ULZLEIF
+review/profileName: Taylor S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: Addicting
+review/text: Very tasty and great to give to people. My family knows nothing aboout Japanese candy, and even they got excited when I ordered some. For some reason, some people hate green apple, but it is my favorite flavor!
+
+product/productId: B000P77GPK
+review/userId: A3PCLABHE42307
+review/profileName: Ms. Hatchaway
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Delicious!
+review/text: This delicious candy really tastes like green apple.  Full of flavor and the texture is almost like bubble gum.  A yummy treat.
+
+product/productId: B000P77GPK
+review/userId: A1CHUW7P32KTJZ
+review/profileName: Denise
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315526400
+review/summary: Great Candy!
+review/text: Hi-Chew is a favorite in our family.  You can buy directly from Japan if you have to have the wrapper in Japanese; otherwise this is the same great, chewy candy.
+
+product/productId: B008FSIHNG
+review/userId: AM09NLXT5WQ9O
+review/profileName: sly311 "sly311"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Yum!!
+review/text: These fabulous little red pearls are even better than Craisins!  Plump, juicy and perfect in banana bread.  The semi-tart cherry flavor has body and a definitive taste.  Will buy these again and again. Great surprise.
+
+product/productId: B00025DW8A
+review/userId: A1B6IREV0HPXQG
+review/profileName: Amy Squires
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1167782400
+review/summary: this dressing is SO good
+review/text: this is a yummy, kind of tart dressing - great on salads.
+
+product/productId: B000HQN9QO
+review/userId: A3MY39S7YIOIZK
+review/profileName: country girl
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1231804800
+review/summary: be wary of size description
+review/text: Be careful of size description here - listed as .1 oz. jars when clearly the jar itself says .01 ounce. That is a HUGE difference. Shop around - you can find saffron from several retailers for $85-$95 per ounce, thus making this .03 total ounces valued at $2.70. I know this is an awesome spice at a ridiculous price (no matter where you order it from), but a diligent consumer will save alot. It will also be beneficial to learn what to look for in high quality saffron vs. low quality. Happy surfing!
+
+product/productId: B000HQN9QO
+review/userId: A16UAMOHZTWH51
+review/profileName: Doctor Who "learning is life"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1189382400
+review/summary: Good stuff
+review/text: Was what we were buying locally.  Always very good.  And now at better price
+
+product/productId: B003H4N2OM
+review/userId: A1V9H3KALKOT2C
+review/profileName: Mr. Stephen W. Sheer
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1339804800
+review/summary: Great Grain for a Healty Lifestyle
+review/text: I was interested in this product for health reasons and was surprised at what a great flavor addition it was to my menu. This is a top shelf producer with a great history in Italy. Top quality product, my only wish was for instructions as to water to grain ratio and timing until done. I was able to get instructions from search engine so not a big deal just another step to cooking process. I can't say enough about the quality and flavor of this product and the reputation of this producer.
+
+product/productId: B003H4N2OM
+review/userId: AU9JP0DSY8H4V
+review/profileName: Lydia Moore
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: Farro grains...a lovely surprise.
+review/text: Our first use of Farro and it was delicious. Like a sweet nutty barley. The quality was excellent! We had read about this grain in several vintage Italian cookbooks.
+
+product/productId: B001NCBYY0
+review/userId: A2A27Q6J62APZ6
+review/profileName: George L. Buzzard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312502400
+review/summary: hot dog lover
+review/text: Using French's Mustard during the summer time on barbecue hot dogs will make your summer more tasty with your food.
+
+product/productId: B000LQLNAO
+review/userId: A1HOXKR7OKJ1X1
+review/profileName: L. R. Dana-kirby "Leslie Dana Kirby"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340150400
+review/summary: A little bite of heaven!
+review/text: I fell in love with these delightful candies when a friend brought them back from a trip to Germany. A perfect combination of chocolate, cream, and crispy wafer.  About three perfect bites!
+
+product/productId: B00164X75E
+review/userId: A1XRVN6HQHU242
+review/profileName: Mary R. Forman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: CAFE, BRAVA Maxwellhouse, Way to go
+review/text: I love coffee, good coffee, and this Maxwellhouse Ultra in the measured pouch is very good,and it is very handy in this pre measured pouchess. I live alone but I brew coffee for myself everyday, but it also comes in handy for when I have guests over, the flavor is rich without bening too rich, I would recomend this to my family and friends in a heart beat . Do not hold back in getting this product just because it says office supply, I got it for my home.  I am very happy with this product. Brava Maxwellhouse. Mary Forman.
+
+product/productId: B0001VWDNU
+review/userId: A35GBC9DGU1NRO
+review/profileName: C. B. Reyes Avila "cbra"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1179273600
+review/summary: Smells!
+review/text: It is very strong and pure! you just need a little bit to get a great flavor. Helps with digestion but the smell is strong!!
+
+product/productId: B000LRGXLC
+review/userId: A23OXHBNNEXIK4
+review/profileName: D. Lofland "loflandd"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1249344000
+review/summary: Great taste
+review/text: I was a biscuit and gravy person before I found out that I was gluten intolerant.  This is the best biscuit mix I have found so far.
+
+product/productId: B000LRGXLC
+review/userId: A13HOP8991UOLC
+review/profileName: Iamthatiam
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1240012800
+review/summary: SUGAR IS NUMBER 3 INGREDIENT, might as well call it sugar mix
+review/text: It is a shame WHEN YOU ADD SUGAR AS A PRIMARY INGREDIENT IN THE FIRST 5 ITEMS! Being allergic to gluten, doesn't mean a person is NOT ADDICTED TO SUGAR! Sugar is the number one substance that manufacturers LOAD UP ON and place in the top ingredients when they omit so-called allergies, like gluten. I AM SICK AND TIRED OF NOT BEING ABLE TO HAVE WHEAT FREE GOODS and being forced to take in sugar. I AM ADDICTED TO SUGAR, AS WELL ARE MILLIONS OF US! stop replacing what could be valuable gluten free foods with sugar------ AND SUGAR IS KNOWN BY OTHER NAMES and is the same:; maltodextrin, sucrose, sucralose, dextrose, dextrin, ORGANIC SUGAR (that's a joke, sugar is sugar!)
+
+product/productId: B00408F3XC
+review/userId: A1RWB3QBIPL85Y
+review/profileName: S. Largent "Digital XTC"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329264000
+review/summary: happy valentines day
+review/text: delivered on time for v day, packaged very well with instructions.  very fresh and beautiful roses. great color and size.
+
+product/productId: B003VZM964
+review/userId: A11ET0ZSSC8V3H
+review/profileName: persnickety
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337385600
+review/summary: yum yum
+review/text: My dog loves these!  She eats them like Tic-Tacs. Don't know if they actually make her hips feel better but her attitude is great.
+
+product/productId: B00073MFRQ
+review/userId: A3TN7BKUDCKX5N
+review/profileName: A. L. Santospirito
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1168905600
+review/summary: Cappaccino Vanilla
+review/text: I cannot locate this product anywhere locally.  Tried the local coffee houses.  The product they use for cappaccino has a lot of sugar in it.<br /><br />The product I purchased from Amazon which I have been using for a number of years has minimal sugar in it and a strong vanilla flavor which I like.  So glad you can provide it for me.<br /><br />Thank you.
+
+product/productId: B001NJJOCW
+review/userId: A1IATV65IYNK96
+review/profileName: FU
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1331510400
+review/summary: Delicious!
+review/text: This is a great meal choice when you simply do not have the time to cook. Microwaveable bowls saves time on having to do the dirty dishes. The only drawback I see are the bowls are a bit too small. Would like to see Chef Boyardee make bigger bowls.
+
+product/productId: B001NJJOCW
+review/userId: A9X30JBBEMUUD
+review/profileName: lazyboyshopper
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1299024000
+review/summary: Good Ole "Stuff"
+review/text: I'm pretty sure a lot of us have tried the "Chef's" spaghetti, ravioli, etc.  These little microwaveable bowls make it so easy to have lunch, a snack, or dinner.  It's not only great for kids but it's good for adults, too.<br /><br />It's nice to have a variety on hand when someone gets the "munchies" and doesn't have a lot of time to cook.  It's not gourmet by any means but definitely satisfies the appetite for a little Italian food......quick and easy.
+

@@ -1,0 +1,1143 @@
+product/productId: B00017L1TG
+review/userId: A2CA0UQ1QSE2JI
+review/profileName: Jon "EBooker"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1202515200
+review/summary: Theater Popcorn
+review/text: Some of the best I have ever had the pleasure of making and enjoying at home.
+
+product/productId: B00017L1TG
+review/userId: A230BNWSMDOP5H
+review/profileName: Tracy Newman "TV writer/producer and singer/s...
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1175731200
+review/summary: the real deal
+review/text: I love this popcorn.  I buy loads of it so I never run out.  I don't know why this isn't the most popular popcorn out there.  I don't think people know about it, or maybe they don't want to have to cook it.  But it's so easy and good.
+
+product/productId: B00017L1TG
+review/userId: A1JMOB308K6Q1H
+review/profileName: S. Mackey
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1181174400
+review/summary: Real Theater Popcorn
+review/text: Love my Popcorn and this is as close as it gets to real theater Popcorn as you can get in the home.
+
+product/productId: B00017L1TG
+review/userId: AVZZQ5V0VM59F
+review/profileName: E. Adams
+review/helpfulness: 3/6
+review/score: 2.0
+review/time: 1203811200
+review/summary: Waxy taste
+review/text: I was not fully satisfied with this product, the popcorn (once popped) was a little rubbery and waxy, not crunchy as you would expect.
+
+product/productId: B00017L1TG
+review/userId: A1NNYZIVGRIBR4
+review/profileName: gapeach1980
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1227744000
+review/summary: No "movie theater taste " here!
+review/text: While I agree with the other reviews in the respect that it taste better than microwave, it doesn't begin to come close to actually theater popcorn.  It still lacked that buttery, sweet/salty taste found in theater popcorn.  If a duplicate of theater corn is what your are seeking, KEEP SEARCHING. YOU WON'T FIND IT IN THIS BRAND!
+
+product/productId: B00017L1TG
+review/userId: A1MUSIJUW8QOS4
+review/profileName: Do More, Make a Diff
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1276473600
+review/summary: Disappointing...
+review/text: Tried this product because Great Northern Popcorn was temporarily out of stock and unavailable. While the flavor is good, this Wabash Valley Farm brand doesn't generate nearly as much finished popcorn and its biggest disappointment is that it isn't very crisp...it almost tastes stale. I would recommend Great Northern's product over this.
+
+product/productId: B007FRCCKC
+review/userId: A5UI0R6NJB4E5
+review/profileName: Whyskey
+review/helpfulness: 18/18
+review/score: 5.0
+review/time: 1271980800
+review/summary: Love this stuff - great diet aid
+review/text: Just adding this to my normal diet routine has caused a big difference in my weight loss.  I'm not hungry and have plenty of energy - a huge change from before I started drinking it.  I was actually a little concerned at first due to the sudden drop in weight.  I thought I was losing water weight but I was wrong.  I use about a teaspoon/teaspoon and a half per day and brew it 4 times - about 8 cups - per day.  As a bonus, it tastes pretty good too.
+
+product/productId: B007FRCCKC
+review/userId: A2KKPBAND2G18H
+review/profileName: Robin Everist
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334793600
+review/summary: This tea is wonderful!
+review/text: Smells strong, but the brew is a nice calming flavor that isn't too overpowering. I enjoy it both iced and hot. Not sure of the "weight" promises as I don't think it has had any effect for me. But a yummy tea no less!
+
+product/productId: B007FRCCKC
+review/userId: AHCA4CQDHI9F7
+review/profileName: Helen M. Williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349136000
+review/summary: Teavana Weight to Go Pu-erh Weight-Loss Tea
+review/text: This is a delicious tea, but I don't know if it did anything to reduce weight. It also contains Oolong tea which has research behind it to support a slight rise in metabolism. The taste is good enough that I don't care if it works for weight loss.
+
+product/productId: B007FRCCKC
+review/userId: ABV7VL9T70DQ0
+review/profileName: mighty j
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344816000
+review/summary: Delicious tea
+review/text: This tea is so good and it smells yummy.  I highly recommend it.  I really like the Teavana brand and will try more flavors in the future.
+
+product/productId: B007FRCCKC
+review/userId: A21NQ9AGLYXZPL
+review/profileName: jacqueline
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334188800
+review/summary: Nice hot treat
+review/text: The product has a special taste I found to be a treat. This tea and a good book will take you away . The shipment was very slow so it will take a lot of patience, However well worth the wait.
+
+product/productId: B003VYDE00
+review/userId: AZB73IVI1IM1J
+review/profileName: Tim Rapp
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324944000
+review/summary: makes great Pad Thai!
+review/text: At my grocery store each box costs $4!  This is a much better deal, and same quality, plus the product is just as fresh (19 months until the best by date).
+
+product/productId: B003VYDE00
+review/userId: AI066ESWAN83K
+review/profileName: podushka
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Great for gluten-free option
+review/text: I got these mainly to replace my regular pasta for a gluten-free option. They're easy to make and work just fine with regular pasta sauce.
+
+product/productId: B003VYDE00
+review/userId: A1S4EHAB4RUEUB
+review/profileName: R. Healey "Rashea"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: good product, good price
+review/text: Having this product at home by the case saves me from making a special trip to the oriental grocery store. I was, and am, absolutely delighted with these noodles. They cook well, though they take a light hand.
+
+product/productId: B003VYDE00
+review/userId: A1XU7YSGP1VUQJ
+review/profileName: Dr. Barbara Feinberg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Allergic to Flour? GREAT NOODLES!
+review/text: I am allergic to wheat and corn, so these noodles are a must.  They are the only noodles that do not get mushy when you cook them, and they don't taste like paste!  In fact, they are versatile, and I use them in stirfries or even melt soy cheese over them.  Yum!  I strongly recommend them.
+
+product/productId: B003VYDE00
+review/userId: A2QYDIW3SLAN6O
+review/profileName: sbd
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Yum
+review/text: This was a treat to get... I live abroad and the only thing available similar to this would rice sticks-which make for super sticky padthai,  so I'm pretty stocked to be able to get this via amazon. Not so much about breaking my diet though!
+
+product/productId: B003VYDE00
+review/userId: AG21NYW4MWCS6
+review/profileName: Cher
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339545600
+review/summary: These noodles are really good. Boiled and fried or boiled and not fried.
+review/text: These noodles are easy to prepare.  I like them best drained and tossed with coconut oil, I then spread them out on a pizza pan and bake for 20 min to slightly brown. (It kind of gives them that stirfried flavor.)  I then serve them with a small amount of butter or Thai Peanut sauce. I can make 3 meals out of a 14 oz package.
+
+product/productId: B000YG7Y9U
+review/userId: AN5ZUX8LQHT5Y
+review/profileName: B. Lindberg
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1248220800
+review/summary: overpriced
+review/text: Torino Almond Bisccotti fill up half of the space in the bag they are in and perhaps even less of the box.  Then most of them are broken anyway.  The almonds in them were good, but I won't buy them again.[
+
+product/productId: B000YG7Y9U
+review/userId: A601IGAG8FWGW
+review/profileName: C. Clark
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1241913600
+review/summary: Too sweet for me....
+review/text: I love chocolate biscotti with nuts but found this variety on the sweet side.  The cookies are a pale, milk chocolate color and they have a malted milk flavor.  I was looking for a darker chocolate/not so sweet taste. Otherwise, they were packaged well - little if any breakage and they were fresh.  The cookies themselves are about an inch or two in size.
+
+product/productId: B003DOPI6Q
+review/userId: AQNITGJ6VDVD6
+review/profileName: JulesVern "DaneCrazy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301443200
+review/summary: Love The Tea
+review/text: This tea is full of flavor! We make it without so much sugar and the blackcurrant flavor is great. A favorite restaurant serves this and we have been hooked on it for years.  Try Try!
+
+product/productId: B003DOPI6Q
+review/userId: A32VAV70R6CM48
+review/profileName: Doc Alamo
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1292284800
+review/summary: Dissapointed
+review/text: I was looking for a tea with a hint of black currant flavor complementing a black iced tea blend.  This tea brews up looking like red fruit punch.  The black currant flavor is tangy bordering on bitter.  I didn't see that there was any black tea contribution to the final brew.  I didn't care for it at all.
+
+product/productId: B003DOPI6Q
+review/userId: AR7TAEEUDHMUB
+review/profileName: Kathryn S. Leon
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1288224000
+review/summary: Where's the blueberry?
+review/text: I brewed this tea as directed.  It has no blueberry flavor at all.  Though the flavor is nice, it is not appealing to me.  Guess I was expecting to have a blueberry taste...I wonder why!  Oh, yes, it is a blueberry flavored tea!  If you are looking for blueberry, pass by this product and try another brand.  Though I love Stash teas, especially the mint ones, this one is disappointing.
+
+product/productId: B003DOPI6Q
+review/userId: A14WCFWE5G0GY9
+review/profileName: andy
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1351036800
+review/summary: NOT Traditional Blackcurrant Tea
+review/text: This tea doesn't taste at all like traditional blackcurrant tea I have had in the past.  It is very fruity tasting and red in color. Disappointing.
+
+product/productId: B003DOPI6Q
+review/userId: A3H8E09SU1R606
+review/profileName: Terri C
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346976000
+review/summary: Wrong Item Shipped
+review/text: I ordered Lemon Blossom tea, but I received Stash MEYER Lemon Blossom tea. This is a very different product and I do not like it as much as the Lemon Blossom.
+
+product/productId: B003DOPI6Q
+review/userId: A170ILMC50NXM0
+review/profileName: cg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: the best iced tea ever!
+review/text: I brewed this tea as hot tea, letting it steep for 5 -7 minutes.  I did it two 1/2 gallons - one at a time with the same tea bag.  Then I refrigerated it overnight. There was no cloudiness and the tea is nice and strong with no bitter after taste.  Everyone who tries it, loves it.
+
+product/productId: B003DOPI6Q
+review/userId: A1STKUA9KBGBC2
+review/profileName: Joseph P. Kubala "Joe Kubala P.E."
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343088000
+review/summary: Very Rasberry flavor
+review/text: The tea bags make a very nice raspberry flavored tea, however there is a lingering flavor that reminds me of a slightly fermented older tea.  While nice red color and raspberry flavor, do not make stronger than recommendation of 1 tea bag per gallon.  Will not buy again do to the fermented taste.
+
+product/productId: B003DOPI6Q
+review/userId: A9PFDNR8HVEYB
+review/profileName: BT
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340582400
+review/summary: Strong and bitter
+review/text: This tea is much more bitter than other Stash black teas. I brew using the "moon brew" method, leaving the bag in the pitcher in the fridge overnight. I use a 4 quart pitcher so it is not an issue of too little water. I recommend brewing for less than 5 hours to ensure less bitterness.
+
+product/productId: B003DOPI6Q
+review/userId: ALYY5MTGERC0B
+review/profileName: R. Hawkins
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1329436800
+review/summary: You should not go... with this mango.
+review/text: I bought this for someone who loves both mangos and cold brew Iced T.  After trying this out, neither one of us really cared for the taste, as it was pretty bland.  Turned out we just ended up throwing it out and getting what she usually drinks which is Lipton Cold Brew.  I would not reccomend it.
+
+product/productId: B003DOPI6Q
+review/userId: AZNQ385HRWE17
+review/profileName: Happy Grandparents!
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308700800
+review/summary: Great Iced Tea!
+review/text: I originally tasted this as iced tea in a fine restaurant several years ago. I asked for the brand and flavor and have been ordering it ever since! When I serve it to friends they always want to know just what I had asked!<br />My son-in-law, who does not drink coffee, visited us and I gave him some as iced tea. He loved it, took some bags home with him and has been drinking it both hot and cold ever since. He now has his father drinking it!
+
+product/productId: B003DOPI6Q
+review/userId: ALOR97KTZTK1P
+review/profileName: knitty pants
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1320192000
+review/summary: Makes cloudy iced tea
+review/text: This tea is just OK. It doesn't taste bad, but it doesn't taste any better than Luzianne or Lipton. And, unlike Luzianne, it's cloudy which I really don't like to see in a clear pitcher and glass. I would be embarrassed to serve this to guests. I've made it according to the enclosed "moon brewing" directions and also in my iced tea maker. It's cloudy both ways. Also, these tea bags make a gallon of tea each so unless you like really strong tea, they're too big for a 3-quart iced tea maker unless you dilute it after you brew. I'm disappointed and won't order this flavor or this brand again.
+
+product/productId: B00523DZQ6
+review/userId: A3V1JNEO001L3L
+review/profileName: EJ Bowden
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326844800
+review/summary: Perfect Bon-Bon Assortment
+review/text: Just received these in the mail, they're delicious. Standard bon-bon size, good flavor mix (apple, strawberry*, orange, grape*, and pineapple.) * My personal favorites. 5 Lbs will certainly last a long time.
+
+product/productId: B001EO65S2
+review/userId: AOCRNEIPDVIDA
+review/profileName: Healthy Lady
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266105600
+review/summary: Great Tea!
+review/text: You can taste the difference with this tea (and others from Ambassador Organics.)  It is sustainably produced, chemical free, fair traded and delicious.
+
+product/productId: B0007SVCRK
+review/userId: A2X55O6WBP9XG8
+review/profileName: ZebsRgr8 "whenry"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325721600
+review/summary: Love this bubble gum
+review/text: I could not find this bubble gum at any store anymore in large quantity so ordered this.  Well worth it!
+
+product/productId: B001SAZQQY
+review/userId: A1EVRI6N95CLTZ
+review/profileName: Kymberlie Haren
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316217600
+review/summary: Amazing Maple Goodness
+review/text: Whoever named then Maple Nut Goodies was a Genius! If you like maple and nuts you'll love these. They have the same flavor as a maple donut with peanuts on top, and I mean exactly the same. They're so awesome I'm now buying in bulk :-( and when I eat em its a handful at a time. No such thing as moderation with these. I just bought my 4th bag in as many months so I hope they keep selling them.<br />Thanks!
+
+product/productId: B001SAZQQY
+review/userId: A3D37R3YVDLYCS
+review/profileName: Gilgamesh010
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315526400
+review/summary: Brach's Maple Nut Goodies are amazing!
+review/text: Brach's Maple Nut Goodies are incredibly delicious, and my local grocery stores can't seem to keep them in stock.  This 7-pound package provides a wonderful long-term solution to my candy cravings at an amazingly affordable price!
+
+product/productId: B001SAZQQY
+review/userId: A2B8YROSGH5XR
+review/profileName: Glendora Pierce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311379200
+review/summary: Maple Nut Goodies---Wonderful!!
+review/text: Have loved these Brach's Maple Nut Goodies since I was a child.  This is a great deal.  They pieces of candy are very fresh and full of that maple nut flavor we all enjoy.  Will buy them again when we run out.
+
+product/productId: B000J3GDMC
+review/userId: A2PCFU49QSLV1C
+review/profileName: Mary Linda Endlich
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280966400
+review/summary: Spices & herbs
+review/text: This spice is wonderful on grilled meats.  I am so glad to be able to find it.
+
+product/productId: B003LTM0RI
+review/userId: A1Q3VZH3TP8DFN
+review/profileName: Janice G. Brown
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1282089600
+review/summary: vanilla decaf
+review/text: I liked the coffee but wish it had a little more vanilla flavor to it. I have found all decaf flavored k-cups seem not to have as much flavor as the none decaf.If you like a light vanilla flavor you will like this.
+
+product/productId: B003LTM0RI
+review/userId: AZJ1OKWWT1NNL
+review/profileName: Thel
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1292630400
+review/summary: Green Mountail Fr.Van.Decaf
+review/text: This is so far the best decaf I have had.  It is not too weak like so many others
+
+product/productId: B003LTM0RI
+review/userId: A2ZUPPUAG99J1O
+review/profileName: Pug Luva
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290816000
+review/summary: My fav decaf k-cup
+review/text: This is my favorite decaf k-cup. I like to mix one caffeinated k-cup with one decaf k-cup so I'm getting half the caffeine. This french vanilla decaf has good flavor and doesn't detract from whatever other flavor you might pair it with. Also, this one doesn't have the chemical or burnt flavor some decafs have. For example, I don't care for the Timothy's Decaffeinated Columbian as much as I like this one.
+
+product/productId: B003LTM0RI
+review/userId: A3FX2QT17Y0QAG
+review/profileName: Stephanie Alexander "good hair again"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1316044800
+review/summary: Don't miss the caffiene
+review/text: I had to give up caffeine and I love my vanilla coffee in the morning.  The Green Mountain Decaff French Vanilla is rich and has a wonderful vanilla flavor.  I don't miss the full caffeine coffee at all.  I will order the Decaff Hazelnut next.
+
+product/productId: B003LTM0RI
+review/userId: A2FSNEZEW3DDSW
+review/profileName: Melanie J. Warren
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313712000
+review/summary: Green Mt. Coffee
+review/text: Coffee was delicious.  I will purchase again in the future from here.  It came very fast and I was able to enjoy it sooner!
+
+product/productId: B003LTM0RI
+review/userId: A2LW71J8HBC2HE
+review/profileName: Russell
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310256000
+review/summary: Great Coffee
+review/text: I was looking for a decaf coffee that wasn't bitter, smooth and flavored. This one met all three criteria. Very nice blend. Just wish these cups cost less.
+
+product/productId: B003LTM0RI
+review/userId: A1ZNAWUWKPC5Z4
+review/profileName: Vera Balaban
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1309305600
+review/summary: Tasty coffee
+review/text: An excellent addition to my flavoured Keurig selection for late night when I want a cup before going to bed. The vanilla flavour is subtle (other flavours I have are stronger) but it works for a late-night treat.
+
+product/productId: B003LTM0RI
+review/userId: AS700YWE2G9Y8
+review/profileName: Cheryl J. Thomas
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1306368000
+review/summary: Good Vanilla flavor, low acidity.
+review/text: My husband has recently switched to drinking predominantly decaf and this was a good choice for him.  He's a rare man, one who enjoys flavored coffee.  He likes the vanilla flavor and the low acidity is easy on his stomach.  I enjoy it as well.
+
+product/productId: B003LTM0RI
+review/userId: A3QFLROQA43PD7
+review/profileName: M. Wright "noodle"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340323200
+review/summary: Decaf coffee review
+review/text: It's hard to find good decaf Kcups, this is a good company to deal with.  Wish they had more flavors.
+
+product/productId: B003LTM0RI
+review/userId: A1GQU2665AQXQE
+review/profileName: Tammy Mickey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337558400
+review/summary: great flavored decaf coffee
+review/text: i purchased this online it's so hard to find decaf in the stores and i love flavored coffee's. i have also found it in a double pack with French Vanilla and Hazelnut which is want i ordered the last time. thanks for making it in decaf they are a great tasting coffee, not to light and not to dark.
+
+product/productId: B003LTM0RI
+review/userId: A1WS3X5626WWG
+review/profileName: Evan S. Shikora
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327968000
+review/summary: Excellent Keurig decaf
+review/text: Light, aromatic coffee taste. Love the hazelnut flavor. A definite go to in the morning... or at night sans the caffeine buzz!
+
+product/productId: B003LTM0RI
+review/userId: A1AHATMEZWOUW8
+review/profileName: Ginny
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323216000
+review/summary: good flavor
+review/text: It's not easy to find a good flavored decaf coffee in the stores in my area.  This one is reasonabley priced and ships quickly.
+
+product/productId: B003LTM0RI
+review/userId: A2A1B07OGF9Y4T
+review/profileName: sissie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318377600
+review/summary: Excellent service
+review/text: Service was everything that one would want.  Prompt, well packaged, executed well, in addition to loving the product.  Recommend without any resrvations.
+
+product/productId: B0057OOOFG
+review/userId: AC567LXSKDNC1
+review/profileName: Teeebooo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: Great flavor!
+review/text: This is a great marinade and has a perfect Italian blend of flavors. Excellent with other Italian dishes & pastas.  This is my 2nd favorite out of the Grill Mates series. We've used it on the grill and in the oven, both come out great and is well-liked by my whole family...even my picky kids!
+
+product/productId: B000HQR12W
+review/userId: A22XR6UP77C3QW
+review/profileName: Richard H. Troxell "rht"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252627200
+review/summary: Bookbinder's Clam Chowder
+review/text: I reaaly enjoy being able to get this clamm chowder as I live in Georgetown, TEXAS; where they don't carry any Manhattan Style Clam Chowder at the local H.E.B. Grocery Stores.<br />The chowder is very GOOD!  Now just get me some Trenton Oyster Crackers (OTC)!!
+
+product/productId: B000HQR12W
+review/userId: A2RLAECZP50SUV
+review/profileName: Robert
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1225584000
+review/summary: Clam Chowder
+review/text: The soup was OK but not worth the price. I added a can of chopped clams to a can of soup but that just gave more body but not better taste.
+
+product/productId: B000HQR12W
+review/userId: A271G0MYK5A16K
+review/profileName: aj's ratings
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1276300800
+review/summary: Worse Clam Chowder ever
+review/text: I am from the East Coast and have had many delicious chowders.  This is not one of them.  The tomato base had a strange taste. The clams were chewy.  But, the worse was that the soup was so salty in taste (1600mg per can) that I only ate two spoonfuls before I threw it out.  I also bought the seafood bisque, but I doubt I'll even try it. I can't imagine that this is the same soup they serve in their restaurants.  Something bad must happen from cooking to canning.
+
+product/productId: B000HQR12W
+review/userId: AITCND1WAR7MA
+review/profileName: Louise
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1269302400
+review/summary: Clam chowder and rubber
+review/text: The flavor of this soup was fine but the many bits of clams were tough as rubber. I had to spit out the many pieces rather than swallow them but the liquid  part was good.
+
+product/productId: B002DNX4GO
+review/userId: AFCCYXEOYMJIX
+review/profileName: Murray W. Frank
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329436800
+review/summary: health
+review/text: I like this product which was introduced to me in the hospital.  Now I drink it often.  I can take it instead of lunch.
+
+product/productId: B000ILMQL2
+review/userId: A3OGMMJMUBKL7J
+review/profileName: M. Cutright "Susan"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1324944000
+review/summary: Good Product
+review/text: I was so glad to have found this product on Amazon!! Walmart quit carrying this flavor and I was not sure how I was going to get it!! Thanks for the great product and the great savings!!
+
+product/productId: B000ILMQL2
+review/userId: A34ZPXD4175LT9
+review/profileName: Mr. R
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1308355200
+review/summary: Light Version of Sour Cream & Onion
+review/text: I really like Kernel Season's products but this is not so good.  It has just a light flavor of sour cream and onion; so light that it passes unnoticed.  The little flavor it produces is great, but just way too light.  I will drop the subscription to this one until they improve the product.
+
+product/productId: B000ILMQL2
+review/userId: A3QJ6RVXSR8PLY
+review/profileName: George
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329782400
+review/summary: Great on baked potatoes too!
+review/text: On my Presto Powerpop corn this is one of my favorites.  I dump into a large bowl, spray a little oil, season, and then a second light spray of oil to lock in place.  Remove the top half or so of popcorn to a second bowl and repeat the seasoning process.  With a Misto or small perfume type sprayer, I can get down to as little as one teaspoon of oil and 1/2 teaspoon of seasoning per 2 quart batch of popcorn.<br /><br />It also works great on baked potatoes.  My rankings:<br /><br />1. Parmesan/garlic<br />2. Tie for sour cream and onion with ranch<br />4. Tie for nacho cheese and white cheddar<br />6. Butter<br />7. Barbeque - still good, but grind is coarser, lack of salt requires double the amount of seasoning.
+
+product/productId: B000ILMQL2
+review/userId: A1TTQNL279S9MA
+review/profileName: P. S. Prasert
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1177977600
+review/summary: Meh
+review/text: It isn't anything special... plus it is so powdery and light that it doesn't stick to the popcorn... and I felt like I inhaled more than I actually ate of the stuff, not pleasant to say the least.
+
+product/productId: B007R16PFO
+review/userId: A27A54T46HKA6J
+review/profileName: Angie
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1311120000
+review/summary: Cheaper in stores
+review/text: This product sells around $1.69 in Pets stores.  It is still expensive to buy this treat in bulk online
+
+product/productId: B007R16PFO
+review/userId: A1QC3KO4N3WNLG
+review/profileName: Robert R. Jones Jr. "robert jones"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: my friend my cat
+review/text: I am very pleased with this product ..my cat loves the stuff and I love my cat...will buy more. The shipping to my home in quantity is the selling point for me..the stores run out and the cat is "needy".
+
+product/productId: B000FJPKWO
+review/userId: A38E96DFJWTZIG
+review/profileName: Christina
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1336176000
+review/summary: Satin Ice Gumpaste
+review/text: I have used Satin Ice Gum paste in the past. I much prefer it over the other brands I have tried. it does not have the strong unpleasant smell like Wilton. It also has a better texture. This particular batch was slightly dry but after working it in my hands for awhile it was okay, but not perfect. It lost a star for being a bit dry.
+
+product/productId: B000FJPKWO
+review/userId: A38EP0D2GKB7DD
+review/profileName: Thomas W. Dugas
+review/helpfulness: 8/12
+review/score: 5.0
+review/time: 1259712000
+review/summary: asome stuff dont hhear any body els say bad stuff its an asome thing to use
+review/text: omg its the best  its way better than fondant  ..!(gumpaste)  works great taste's really good like vanilla its really easy  to use  and color
+
+product/productId: B000FJPKWO
+review/userId: A1JUPR7LPMYG1X
+review/profileName: K. Washington "So Cool!"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344038400
+review/summary: Takes a little work
+review/text: this gum paste is a good product- like my fondant, I had to warm it to really work with it, but it got hard too fast and I couldn't work with it as well. but I'll keep trying. it does taste good however. when u warm it-it should only be about a hand full for about 2-3 seconds
+
+product/productId: B000FJPKWO
+review/userId: A1IRDT9LS0W8X6
+review/profileName: Lillian Cruz
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1337040000
+review/summary: .GUM PASTE
+review/text: GREAT PRODUCT, LOVE TO WORK WITH GUM PASTE TO MAKE FLOWERS AND DESIGNS<br />IT IS ALSO EASY TO  ADD COLOR WHICH MAKE FOR PRETTIER DETAILED DESIGNS.
+
+product/productId: B000FJPKWO
+review/userId: A29DFARQU2EKNG
+review/profileName: dk
+review/helpfulness: 1/12
+review/score: 1.0
+review/time: 1315180800
+review/summary: Satin gum paste
+review/text: Have never liked gum paste or fondant but decided to try this for a special project.  It rolled okay but the smell and taste were overbearingly strong with vanilla.  Won't order it or any other gum paste product or fondant product again.
+
+product/productId: B000FJPKWO
+review/userId: A2L6L9WMG8RBBC
+review/profileName: Camille B
+review/helpfulness: 0/10
+review/score: 5.0
+review/time: 1340755200
+review/summary: good night abandon where house  where the raccoons aren't afraid to be themselves
+review/text: can you just imagine a small infant getting to a gas station clerk to shove his foot in to this stuff and then realizing that Albertons has small parts for sell and getting in on that look at those anus's  from the tv like me and ill give my cat leather pants.
+
+product/productId: B000FM2YU2
+review/userId: A2PTX32OTTTEF
+review/profileName: L. PARKER "KETA"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1243900800
+review/summary: OK
+review/text: it was flavored. it had banana, grape, others in bag. not what i expected, wasn't really bad either
+
+product/productId: B001EO65SM
+review/userId: A1PO24RPVBV09N
+review/profileName: Puppluv
+review/helpfulness: 6/8
+review/score: 3.0
+review/time: 1245456000
+review/summary: A Mixed bag, so to speak
+review/text: A longer review than I would usually write for food but since there's 4 different items, I address the set as a whole and each of the different snacks/cookies.<br /><br />Warning for allergy eaters: This is on the back of the box in small print "Contains Milk, Wheat, Soy, processed in a facility that uses eggs, peanuts, and tree nuts".<br /><br />PROS:<br /><br />*I am thrilled to have had the opportunity to get a variety pack since I had never tried her packaged snacks and small enough that if you don't like them or get allergic to something, you don't have a whole lot to give away and feel you wasted alot of money.<br /><br />*CHEESE STRAWS are the second biggest pro but I would like to buy them on their own in a larger package in the future.<br /><br />* CHEESE STRAWS stay crunchy, taste great, no aftertaste<br /><br />CONS:<br /><br />Okay, this may seem like a contradiction because I love that I can get a small variety pack in order to try something out - if I got a full box, it would be plenty but once you open the box and then open the little bag stuffed in the bottom, you barely get anything in each package.  No offense but what a waste of a beautiful package/box for less than two servings of a snack.  If you eat a couple here and a couple there (of cheese straws) you could make the package last two days.  If there's two people having two here and two there, and they have complete self control and are very conscious of limiting your portion sizes (people who have the ability to eat 4 potato chips and not go back until tomorrow) I'd give it an hour, or less. For me, the cheese straws lasted an hour - I put them away three times. There's certainly not enough to put in a little nut size bowl and set it out on the coffee table if you are having a couple people over.  This is literally a sample packet put into a box that's made to look like you are getting a full box of treats.<br /><br />One open box is 7" tall and 3 1/2" wide.  Inside the box is a gold bag that is about 5"x4 1/2".  But the contents of the bag is 4 1/2" wide and only 2" tall.  For the cookies, because they are so sweet/strong you can make them last a few days, and they are tiny (size of a quarter for the pineapple cookies), so just a few will do for the chocolate cookies and pineapple cookies. But still, nowhere near putting them in a nut-size small bowl unless you combine them all.<br /><br /> *All snacks except for the cheese straws, change texture in less than 5 minutes of being open.  Immediately transfer to a tightly closed ziploc or tight lidded "tupperware" type container.  They all are crunchy when opened but after a couple of minutes, the pineapple and the shortbread go from firm , crunchy pecan sandies to falling apart crumbly and can't hold the cookie as a solid piece, the Chocolate marsh go from solid crunchy to a stale chewy texture.  The texture changed before I put them away the very first time and each time I only had a couple cookies and decided to put them away but the texture already changed dramatically.<br /><br />FLAVOR:<br /><br />CHEESE STRAWS -<br />If you've had Paula Deen's Macaroni and Cheese - which I was able to find online - and you like it, the Cheese Straws taste very much like the Macaroni and Cheese.  It has a strong Cheddar flavor but not quite "Sharp cheddar" or "mild cheddar", more like a medium with a stronger taste than medium.  It also seems like it is a multi cheese, but I don't know what other cheese is in it. I ate them and tossed the box the night I got them.  They look like crinkle fries, fatter than my pinky,crunchy when opened and they stay that way-while I had them out and each time I went back for more,still crunchy and very good.  No funky after taste (like two others).<br /><br />PINEAPPLE DROP COOKIES - Quarter size, very very strong pineapple taste, with a very very sweet powdered sugar on top that tastes like it has pineapple (or something?) flavoring too.  Bitter after taste, way too strong, crunchy in a "pecan sandies" like texture, unless they are out for a couple minutes, then they crumble.  I had two cookies with a few minutes in between because it was so very strong I didn't know if I really wanted another one.  When I reached in the tiny bag for the second cookie, they were already crumbly.  I couldn't have a 3rd and instead gave them away - they were just terrible, although I usually love pineapple, love sandies type cookies, and love powdered sugar.  But there was nothing good about these.<br /><br />COCONUT PECAN BARS - about 2" long rounded top rectangle, they were mostly broken but that was okay.  These too are like a "pecan sandies" texture to start with, good crunch, but does turn soft and crumbly very quickly. The initial flavor is very good, like a powdered sugar covered pecan sandy with a hint of coconut flavor and obvious pieces of coconut once you chew the cookie, and pecan flavor, but very little in the way of tiny pecan pieces.  The main problem is the awful after taste that lasted way too long-not bitter like the pineapple but just as funky. Worse than that is that the after taste isn't recognizable. It isn't coconut, isn't pecan, it's what I usually call "chemically" because it's not a food flavor. Even strong coffee didn't get rid of it. But I did have four of them before tossing the other 6-8 cookies in the trash.  First 2 were the original texture and the last two fell apart in my hand, like a handful of sand with some coconut.  Literally, not 3 minutes after the first two I ate, the last two were like a totally different cookie, could not hold itself together and the sandies crunch was gone replaced by crumbled ingredients that made the shredded coconut much more obvious (not bad if you like coconut, which I do)but no longer a cookie, more a pile of crumbs. But the after taste is a product killer, I just couldn't have any more.<br /><br />CHOCOLATE MARSH MUD COOKIES-  The best sweet in the assortment.  Round quarter size, sweet enough that you only need a few but not so sweet that you don't want more.  Not mild like milk chocolate, more like bitter-sweet chocolate chips type flavor or cocoa powder.  Except for the bizarre texture change, they were good and I ate them all over a few days.  There's not that many, they are small like the pineapple cookies but chocolatey enough that I couldn't just eat the little bag in one or two sittings.  Unfortunately, I did not enjoy them quite as much two hours later when I went to have another two cookies because they had a chewy/stale texture-not chewy out of the oven, but chewy/stale/rubbery and even though they were folded over twice with the sides tucked in, clamped closed with a mini binder clip, and back in the closed box, the texture still morphed - that's just weird to me.  Next day out of a ziploc, still chewy but didn't get worse.  They were still an actual cookie and held together to be eaten like a cookie (well, it's bite-size so it's not like you're going to take a bite anyway, it's too small for that but it's not a pile of crumbs like the other two, but if they were a normal size cookie, they could be bitten into without losing the entire cookie.  Anyway, although it was totally weird, like nothing I've ever seen before, this morphing texture thing that is almost immediate, I still ate the rest of the Chocolate Mud Cookies.  But, I wouldn't buy them again.  They weren't good enough to ignore the texture thing and $5 a box for less than a nut bowl's worth of cookies (they are sold here-- 4 boxes, 3 oz each, same as this set for $19current price-$24 regular price)that's just a ridiculous price for the amount of product, especially considering the quality as a whole.  Sorry Paula Deen, the cookies in this set are just not quality products and 3 oz is much less than you could ever think.  Sadly, the one and only decent product that I would buy again from this sample is the Cheese Straws and it is THE ONLY PRODUCT IN THIS SET THAT IS NOT AVAILABLE ON ITS OWN.  That's a shame because I would buy them today.
+
+product/productId: B001EO65SM
+review/userId: A38EDYJ6OFY99N
+review/profileName: Big Mac Real Investments LLC "Real Estate Mom"
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1254355200
+review/summary: Paulas Flop
+review/text: I wish I had never bought these OVERPRICED not very good-I used to love Paula Deen now-she's gone down a few notches
+
+product/productId: B001EO65SM
+review/userId: AQ6I0U9K8PVSD
+review/profileName: Michael
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1315958400
+review/summary: terrible
+review/text: These cookies are terrible don't buy these. A famous amous cookies is about 5 times as good as these. I will not buy again.
+
+product/productId: B001EO65SM
+review/userId: A2XBPPT8KB15PM
+review/profileName: C. DePaula "sagira"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1292976000
+review/summary: Yummy Coconut Pecan Bars by Paula Deen!
+review/text: I think these bars are absolutely delicious. Somebody spoke of an aftertaste, but I don't get why that's a problem when you love the taste and don't want it to leave! To me, it leaved too quickly, and off I am to another one :) Its coconut flavor stays with you for just a little while, and I can't get enough. I like the texture as well, which is crumbly and remind me of some fancy cookies I had in France once. I want more! I bought these for $4.99 and I will be buying more.
+
+product/productId: B001M1VA32
+review/userId: A8O6O7J62FOVQ
+review/profileName: Pamela Lynn Palmer "Heart of Fire"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1255046400
+review/summary: Too spicy hot!
+review/text: And the garlic flavor outwieghs any cheese flavor they may contain.  There is nothing in this description or on the product label except the name "New Orleans" evoking Cajun cooking to warn the buyer that these grits are spicy hot. I'm using them up by mixing them into Mexican and other box dinners where I would expect pepper flavor.
+
+product/productId: B004AQMSV4
+review/userId: A277GHEX9U6378
+review/profileName: Chef Buddy
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1302652800
+review/summary: Good Quality!
+review/text: The product was packaged very well and arrived quickly. Being that I live in an area where there aren't any local stores that carry preserved lemons, I was happy to find these on Amazon. The quality was really good, but not the best I've ever seen, and being a chef, I've seen several different preserved lemon products. Overall I was happy with the purchase and I would buy these again.
+
+product/productId: B004AQMSV4
+review/userId: A25MHGYLWSCEW7
+review/profileName: anita defilippis
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1345248000
+review/summary: Really awful
+review/text: Previously bought another brand and loved the bright flavor and somewhat firm texture.  Really added a lot to my dish.  I bought this brand as the other was unavailable, and will never do so again.  Better to do without.  It was bitter, extremely salty, and had the texture of soggy bread.  Ruined my dinner.  Seemed decomposed.  Opened the second jar I bought and it was the same. Threw them both in the garbage. Never again.
+
+product/productId: B004AQMSV4
+review/userId: A3KWHCNMMNFSQE
+review/profileName: hurricanelena
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1295049600
+review/summary: Lemony Goodness
+review/text: I had never heard of preserved lemons before when I decided to try what I later found out was a Moroccan recipes called Chicken with Lemon and Olives. I think I now have a new addiction as I almost finished all of them. The lemon flavor is mellower than a fresh lemon (and I like fresh lemons) but in combination with the salt still gives it a nice lip puckering sour taste that is good with chicken, couscous, and just as a very salty snack.
+
+product/productId: B004AQMSV4
+review/userId: A132JOK0R5OLGY
+review/profileName: Michael Wilson "zouavecollector"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1306800000
+review/summary: Nice Product
+review/text: These Lemons are excellent for Tagines and any North African cuisine. Also very good sliced in a Martini! For the price I decided to make my own. Takes a month for the Lemons to be preserved. I can wait. Otherwise very good!
+
+product/productId: B004AQMSV4
+review/userId: A2LDZA98Y1KRQU
+review/profileName: S. Thao
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1328140800
+review/summary: blech...
+review/text: I just got this order in.. this particular brand or batch or whatever did not taste very good. It was much too bitter and less "bright" tasting than other preserved lemons I have had. Kind of disappointed, not sure what to do with a whole jar of preserved lemons now.
+
+product/productId: B004AQMSV4
+review/userId: A2XL2K73DA2CQR
+review/profileName: Richard K. Gray
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296864000
+review/summary: Preserved lemons
+review/text: These are great as I use them in chicken Tajine. One bottle leaked all over the inside of the shipping box. I guess the lid shook loose. They were packed in bubble wrap, individually, so I'm not sure why it leaked.
+
+product/productId: B004AQMSV4
+review/userId: A1YY0B9BBYSGI7
+review/profileName: Vicki G. Ralls "VR"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348272000
+review/summary: Truly awful!!! I threw most of them away. Don't buy!!!
+review/text: First the jar came and part of the liquid had leaked into the packaging. This seems to be common with the product. But it seemed ok so I use it. What an awful fake lemon flavor reminded me of country time lemonade. Just nasty. Let me be clear I don't think that the leaky liquid issue had anything to do with the horrible taste of the product otherwise I would have just sent it back. I saw all the positive reviews, but I note that they are old older, so I guess the quality has gone way down.
+
+product/productId: B004AQMSV4
+review/userId: A57JN30PITMHD
+review/profileName: BandJ
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348185600
+review/summary: My recipe was ruined!!
+review/text: When my jar of preserved lemons arrived I wasn't sure what to do.  The lid on the jar was unscrewed and most of the liquid had spilled into the packaging.  How could that happen?  We thought the lemons looked mushy and smelled pungent (like cleaning fluid) but we tried them anyway.  Big Mistake! Our Moroccan chicken was ruined.  We threw the whole thing away, including the preserved lemons that remained in the jar.  I worried that someone had tampered with the contents and was relieved when I read some of the previous reviews expressing the same thing I had experienced.
+
+product/productId: B004AQMSV4
+review/userId: AGL3K1JYW460Z
+review/profileName: Halaimia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326585600
+review/summary: Zamouri preserved lemons
+review/text: I ordered these lemons,having made them in the past ,I was anxious to receive them.The package unfortunatly was not well sealed and all the liquid was almost gone.<br />But be as it may ,I replaced it with hot water and salt and they were good as new.Their flavor was exquisite as I prepared a dish from Algeria  it enhanced my dish ,the same way we had at "home".<br />Beside the package,the test is absolutely fantastic.<br />Thank you.
+
+product/productId: B004AQMSV4
+review/userId: A268Q71WRA9DCS
+review/profileName: A. ouassini "Morocco"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313366400
+review/summary: Great Product
+review/text: well packed shipped fast and quality Preserved Moroccan lemons. not as quite as good as the original stuff from Morocco but the closest thing u can get in the us.
+
+product/productId: B004AQMSV4
+review/userId: AAPW8PWBG10E1
+review/profileName: Regal Beagle
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1295740800
+review/summary: Good product
+review/text: The lemons were great tasting, but were a bit larger in size, and thicker skinned than I had hoped for. The jar was well packaged.
+
+product/productId: B004AQMSV4
+review/userId: A34TTVA6B5XY7K
+review/profileName: JO'C "Julie O."
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1325980800
+review/summary: These are wonderful!!!
+review/text: Authentic preserved lemons are very difficult for me to locate.  When I found these, I was thrilled.  When they arrived, I was thrilled all over again!  The arrived quickly, and are exactly what was needed to round out my pantry.  Thanks!!!
+
+product/productId: B00426AUR6
+review/userId: A1P2XYD265YE21
+review/profileName: Andrea "Readaholic"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1297036800
+review/summary: Peanut Butter Chocolate Chip
+review/text: This tastes just like peanut butter chocolate chip.  I don't know how they do it, but they make the Larabars taste exactly like whatever it is.<br /><br />I don't remember if I read it on their website, or if a customer service rep told me, but they said, concerning the chocolate chip cookie dough Larabar, the the peanut butter chocolate chip Larabar, and the chocolate chip brownie Larabar, that they are vegan, but they aren't allowed to print 'vegan' on these three just in case some cross-mixing from milk or other non-vegan products got on these, or something like that.  Anyway, I had never tried these three (until now) because I was under the impression that they were not vegan, but after I was explained how and why they do not print 'vegan' on these, then I decided to try these three.  I decided they were vegan enough for me.  I guess it depends on the vegan to make that decision whether or not they want to try these three, depending on the possible mix-up or cross-up of certain ingredients.  Anyway, I tried these three flavors, and they were really good.<br /><br />Other than that, these Larabars are like the other flavors of Larabars, in the sense that they are healthy, convenient, soy-free, etc.  I love Larabars.  Highly recommended if you like these type of bars.
+
+product/productId: B00426AUR6
+review/userId: A1JZRR2KBWB0NP
+review/profileName: noway
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1313971200
+review/summary: yuk
+review/text: Not good.  Old, nearly out of date when I got it from ABC Wholesale.  Even my son who eats everything would not eat this.  Avoid ABC Wholesale, too.  Details in ad said I was supposed to get 96 bars, but they only gave me 16 bars.  Complained, but they held fast.  Amazon was no help.  Avoid ABC Wholesale, too.
+
+product/productId: B009858H6M
+review/userId: A1HOXKR7OKJ1X1
+review/profileName: L. R. Dana-kirby "Leslie Dana Kirby"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Delicious!
+review/text: I like many flavors of Tic Tacs, but these are especially good.  There are two colors in the pack, both with a different type of strawberry flavor.  The darker pink is more of a true strawberry while the light pink has a subtle mint flavor at first, followed by a subtle strawberry.  I loved them both!
+
+product/productId: B000WLSK54
+review/userId: A211W9FR935VUV
+review/profileName: David Michael
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332547200
+review/summary: Fun
+review/text: I am a serious pez collector. This was just the thing for my collection. It glows very well and looks very cool. I am more then happy with this purchase.
+
+product/productId: B0038A5O50
+review/userId: AAZ084UMH8VZ2
+review/profileName: D. L. Brown "A Knower Of Good Things"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328313600
+review/summary: I am in love with this rice
+review/text: I was so pleasantly surprised when I ordered this rice and when it arrived at my home, this is one great rice idea. The night the rice arrived at my home, I opened it, smelled it and could not wait to cook it. This is where the surprise came in,this rice blend is awesome. I just have one suggestion use about a 1/4 cup less of water and cook for a shorter time, if you like your rice firm. I liked the blend and the flavor is good alone or with a light gravy as it can hold its own. This rice blend  would be good for all rice lovers alike and your picky eaters. This is a definte staple for my kitchen and a keeper.
+
+product/productId: B00527Q2U8
+review/userId: A6BNJBC1ZBCIL
+review/profileName: Jill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347321600
+review/summary: Delicious honey.
+review/text: I bought these honey sticks as part of a party favor to accompany some tea. The honey is very tasty with a unique flavor. My husband enjoys eating them plain. Someone mentioned on one of the Floral Honestix products that these are not regular-sized honey sticks, but as far as I can tell, they're completely standard - just about the size of a drinking straw, and perfect for sweetening a cup of tea.
+
+product/productId: B00527Q2U8
+review/userId: A1SRASMDMTZCI6
+review/profileName: Michelle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338681600
+review/summary: Delicious
+review/text: If you haven't tried meadowfoam honey before, you should.  This stuff is delicious.  Toasted marshmallows and vanilla flavors.  These come in a handy, easy to carry pack.  I usually have a few in my purse and when someone is down I hand them one.  Guaranteed to brighten their day!
+
+product/productId: B000N65SPS
+review/userId: A2WL2NWPF2SHP6
+review/profileName: Robin A
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1272758400
+review/summary: Tea
+review/text: I had requested green tea and was sent Orange Pekoe Tea instead; an easy error, as the packaging are very similar. Unfortunately I did not notice this until I opened on of the containers. BUT, fortunaltely, I do like Orange Pekoe Tea. I will still have to order a box of green tea. In the future, I will bemore carel to check the label.
+
+product/productId: B005HWJS72
+review/userId: A2GL3WLEN1USDG
+review/profileName: seakayaker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: Tea for ones Allergies..................
+review/text: I like the tea...  I am not positive that it helps my allergies but I like it and I like the rather bitter, tangy taste.
+
+product/productId: B00141QHXI
+review/userId: A1CJ0HWJ5ZIRBU
+review/profileName: pinkdawg
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330387200
+review/summary: REAL nutrition label.  I posted this because Amazon typically does not have the accurate label info
+review/text: REFER to the website for labels to ALL dogswell products!!<br /><br />[...]<br /><br />VITALITY(tm) Chicken & Sweet Potato Stew Recipe<br /><br />Ingredients: Chicken, Chicken Broth, Water Sufficient for Processing, Chicken Liver, Dried Egg Product, Salmon, Peas, Potato Starch, Sweet Potatoes, Carrots, Red Peppers, Guar Gum, Natural Flavor, Sodium Phosphate, Cranberries, Blueberries, Spinach, Zucchini, Tricalcium Phosphate, Canola Oil (Preserved with Mixed Tocopherols - a Source of Vitamin E), Garlic Powder, Flaxseed Oil, Squash, Potassium Chloride, Taurine, Iron Amino Acid Chelate, Vitamin E Supplement, Zinc Amino Acid Chelate, Choline Chloride, Cobalt Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Riboflavin Supplement, Sodium Selenite, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B-12 Supplement, Potassium Iodide, Biotin, Vitamin D-3 Supplement.<br /><br />o  Crude Protein  8.0% (min)<br /><br />o  Crude Fat  4.0% (min)<br /><br />o  Crude Fiber  1.0% (max)<br /><br />o  Moisture  82.0% (max)<br /><br />o  Linoleic Acid an Omega 6  0.31% (min)<br /><br />o  Linolenic Acid an Omega 3* 0.08% (min)<br /><br />* Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles.
+
+product/productId: B00141QHXI
+review/userId: A1H4J4CC85RVU0
+review/profileName: L. Baraszu
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1273104000
+review/summary: picture is wrong
+review/text: This is a great Brand of dogfood, however, the picture is of Happy Hips but Amazon will actually send you the Vitality version as per the title.  Not their fault, as the title says Vitality.  I needed Happy Hips for my senior dog and now I have many cases for his younger siblings!  All in all, will order with better observation and I love Amazon.com - they save my family $$ via - no trips to the store which = extra spending potentially.
+
+product/productId: B00141QHXI
+review/userId: ASMAHIDNZUGSP
+review/profileName: P. MILLER "Mr.Owl"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1250899200
+review/summary: Have 3 dogs.  They LOVE this food.
+review/text: Just switched from another expensive national brand of natural dog food.  Was not unhappy with the old product, but this Ship & Save thing from Amazon is great.  Anyway, the dogs like this stuff about 300% more than the old dog food.  It looks real, and obviously must taste great.  Higher quality "Returns" from the back end of the puppies too!
+
+product/productId: B00141QHXI
+review/userId: A3DE0SNPHU1RZG
+review/profileName: Ella Kwint "Always wordy, rarely wrong? ;)"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1326326400
+review/summary: Great food, suffers from a few minor flaws
+review/text: First, Amazon's image shows the Happy Hips formula when this is Vitalty. No biggie if you're paying attention but I'm sure I'm not the only one who has alerted Amazon...yet they do nothing to fix it. There IS a slight difference in the two formulas so do beware of that. I've been feeding Dogswell canned food for 3 yrs now to my Boston Terriers. Happy Hips has more Glucosamine and fewer calories.<br /><br />The GOOD:<br />My dogs had been fed homemade food before I finally grew exhausted and tried this. There was zero transitional gas which any dog owner knows is a relief. That's a good sign of quality food. (I tried a Dogswell lamb version and it was too rich so I stick to chicken). Three years in and gas is still not a problem.<br /><br />This brand, to the best of my knowledge has never been involved in a recall. I trust them as much as I trust any dogfood in this day and age.<br /><br />My picky eaters actually eat it! What good does a quality food do if Fido says um NO way!?<br /><br />Quality, human grade ingredients. Prolly higher quality than we get from some taco drive-thrus. You can see the pieces, actually identify the carrots, etc.<br /><br />Amazon prices this cheaper than anywhere on the Web or at brick and mortar. Especially if you get the subscription.<br /><br />Read the nutrition....it's as good as just about any food out there, sans maybe doing it at home yourself. My Bostons' coats are lovely, energy level good, they don't drink massive quantities of water after eating it, and it's not full of fillers. Oh and their bowel movements are as ideal as I could hope for. Sorry, but you can tell a lot by a BM; this stuff is good.<br /><br />What it doesn't have: NO soy, corn, rice, gluten, wheat (even if you stop there, that's fantastic), BHA/BHT, rendered poultry, added hormones, artificial colors, flavors or preservatives. CHICKEN IS THE FIRST INGREDIENT and there's a lot of it in each can.<br /><br />The BAD:<br />Well, it may not actually be a terrible thing if every can is slightly different due to truly using human grade ingredients, but some cans are mushy and seem 80% gravy. Others are chunky and dry. Does make you scratch your head. In fairness, all these years this inconsistency has remained consistent.  So the batches varying doesn't really concern me as much as it maybe should.<br /><br />The price. Amazon cannot be beat but in a multi dog household, I'm still shelling out the big bucks.<br /><br />The cans...occasionally arrive dented. Usually  just 2 or 3, never enough to send back, but c'mon, Amazon., too pricey to not receive pristine quality.<br /><br />The amount needed- if you read the can, you need quite a bit to achieve ideal nutrition IF you're not augmenting with dry food. I try to avoid feeding dry so I go through a lot of this.<br /><br />Here's the recommended feeding levels if feeding ONLY wet: 1/2 can for every 10 lbs of body weight. If you've got a 100 lb dog, yikes!<br /><br />So...this is great stuff that all my dogs happily eat. They have remained as healthy and happy on this stuff as anything I have ever tried...and back when they were younger I think I tried literally every high end food, got frustrated and fed them homemade, then discovered this stuff and my worries were over.<br /><br />INFO ON THE BACK:<br />939 Kcal/kg  347 Kcal/can ME<br />Crude protein 8.0, crude fat 4.0, crude fiber 1.0, moisture 82.0, Glucosamine 380 mg/kg, Chondroitin 220 mg/kg
+
+product/productId: B00141QHXI
+review/userId: A1EZMWLQDCF3D6
+review/profileName: J. K. Peterson
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1282521600
+review/summary: Stew Is Now Mush
+review/text: This Dogswell food is one heck of a good buy for my pups, and they like it just fine. Trouble is, what used to look like "stew" (chunks of meaty things andt recognizable vegetables) now looks like barf. It must taste the same to the dogs, though, so no complaints have been registered. This is good, since I recently received a 4 case order. It seems to be the same high quality product that Dogswell has been producing before. Just looks different, that's all. Must have been a corporate decision...I'll keep on buying it, though I wish they would go back to the old formula.
+
+product/productId: B003IMEV0M
+review/userId: A3U1AX7ZK3YA6D
+review/profileName: Tammy L. Harris "dippindoodle"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1309478400
+review/summary: Not worth the wait pistachios.
+review/text: Took for ever to get order and they were not salted at all. I wanted to mix salted with my already had un-salted. But there was not need to mix anything all was un-salted. will not purchase again.
+
+product/productId: B000NLHXCO
+review/userId: AMIPRQWY4IMC5
+review/profileName: Jay & A. "J&A"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1258588800
+review/summary: Our favorite tea
+review/text: I first tried this tea at Einstein Bros. Bagels, and it is the only tea the we drink now. It has the greatest flavor, and is the finest tea that I have ever tasted. I have offered it to many friends that do not like tea and they have tried it and loved it. We all like it without cream or sugar, the flavors are so rich and vibrant that it easily stands on its own.<br />Harney & Sons even somehow got my boyfriend off of soda, he bought a bunch of different flavors and has them with his meals instead now. They compliment meals very well, and are a wonderful way to start your day and unwind in the evenings.
+
+product/productId: B000NLHXCO
+review/userId: A3LBXY7C6YMVNH
+review/profileName: A. Abril "A.A.A."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333065600
+review/summary: love
+review/text: These teas come in their own awesome tins. Each baggie looks like it is hand sewn out of this fine mesh cloth. Really high quality gift.
+
+product/productId: B0051HCX20
+review/userId: A1L1LCUCWX40PR
+review/profileName: S.Levin
+review/helpfulness: 9/12
+review/score: 5.0
+review/time: 1308355200
+review/summary: Convenient and Effective
+review/text: I just finished my first year of college. And I must have gotten sick 5 times. Vitamin pills always have an unappealing smell and vitamin gummies are pretty expensive. I just bought Vplenish but I'm already addicted. There is no weird-vitamin taste and I actually feel like I'm preventing sickness. I'm bringing all my leftover packets with me to college in the fall. It'll be really easy to mix them into my canteen of water or cranberry juice before classes.
+
+product/productId: B0051HCX20
+review/userId: A3PIJU51UPGWBJ
+review/profileName: pianoman1189
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1322697600
+review/summary: No Taste
+review/text: As my box arrived earlier today, I cannot attest to it's health benefits (I'm not sure if I would be able to anyway)... but I can absolutely confirm that there is no taste.
+
+product/productId: B0051HCX20
+review/userId: AQAEHQIWOLIDV
+review/profileName: DianaW.
+review/helpfulness: 7/11
+review/score: 5.0
+review/time: 1308355200
+review/summary: Vplenish vitamin boost
+review/text: I love Vplenish!!  I always seem to forget to take my vitamins.  But now I leave a bowl of the packets on the counter and I just sprinkle it into my coffee every morning.  My kids 7 & 9 help themselves to a packet with their juice every morning.  I plan on leaving a bowl of Vplenish out all the time!
+
+product/productId: B0051HCX20
+review/userId: A1MHXOWPT0QVOC
+review/profileName: luvmykids
+review/helpfulness: 7/11
+review/score: 5.0
+review/time: 1307923200
+review/summary: Love it!
+review/text: What a great idea! I never liked the taste of vitamins, now I use a packet in my coffee every morning. My kids even put it in their juice. Will definitely be reordering. Great product!
+
+product/productId: B0051HCX20
+review/userId: A2RM2LMUWHVL0D
+review/profileName: VitaMom "Snowflake711"
+review/helpfulness: 5/8
+review/score: 5.0
+review/time: 1308441600
+review/summary: Really like Vplenish
+review/text: I carry the Vplenish packets in my purse so I can sprinkle some extra vitamins in my drinks and foods when I'm out and about. I love it because the vitamins are coated and totally taste-free, so it doesn't change the flavor of anything I add it to. I used to use Emergen-C packets, but noticed they have over 6 grams of various forms of sugars and 20 calories, while Vplenish has less than a 1/2 gram of sugar and is calorie-free. The best thing is not having to swallow a big pill, and not getting the upset stomach vitamin pills can cause. Great idea. <a href="http://www.amazon.com/gp/product/B0051HCX20">Vplenish Taste-free Vitamin Boost Powder Packets (Case of 2,000 Individual Packets)</a>
+
+product/productId: B0051HCX20
+review/userId: AKJHHGHGL5WLT
+review/profileName: VR "Violet R"
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1315094400
+review/summary: NO TASTE!
+review/text: Generally when something claims to be taste free, it means its good taste free, bad taste plenty. This however, is not only high in vitamins, but it really doesnt have any flavor. That is a HUGE plus!
+
+product/productId: B0051HCX20
+review/userId: AM0YWT0I9PX6S
+review/profileName: WJK
+review/helpfulness: 7/12
+review/score: 5.0
+review/time: 1308873600
+review/summary: Great product!
+review/text: I actually tried Vplenish in a Subway when I was on vacation in Washington.  I was so impressed.  I was excited that Subway was really promoting a healthy lifestyle.  My kids and wife took the vitamins no problem and having no taste, they wanted more.  It was great!  I had buy a box to keep at home.
+
+product/productId: B0051HCX20
+review/userId: A2NQO2AREX6LRI
+review/profileName: Rebecca Davis
+review/helpfulness: 6/17
+review/score: 3.0
+review/time: 1325721600
+review/summary: Overkill on the description
+review/text: I checked out the FAQ on Vplenish's website. I had to view the source code page in order to even read the A in the FAQ because the links didn't work.<br /><br />This product won't replace a daily vitamin, it doesn't have enough vitamins or minerals to do so. And if you take this with a daily vitamin, you could be looking at taking in too much of certain vitamins.<br /><br />I don't think it would be worth the money to buy it. I've asked for a free sample packet on their website. We'll see if I get it. I'm pretty skeptical, however, and I seriously doubt its as great as they say it is. Much rather crush a daily vitamin and blend it into a smoothie.
+
+product/productId: B000LRIHP2
+review/userId: A1QKXR8YIOZHX1
+review/profileName: Elizabeth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342137600
+review/summary: Taste was good.
+review/text: I so love this. When I was overseas Fanta was all I wanted to drink. I think if shipping wasn't so much I would buy it more.. But it's the best thing ever/
+
+product/productId: B001E96JZG
+review/userId: A32T2H8150OJLU
+review/profileName: Alan Holyoak
+review/helpfulness: 13/15
+review/score: 4.0
+review/time: 1224720000
+review/summary: Convenient, tangy and mildly spicy, but not too "green"
+review/text: Some engineer somewhere had fun with this one!<br /><br />Here's how you can be eating your meal inside 5 mins - at least how it worked for me:<br /><br />1) Pull the plastic film off of the top of the container<br />2) Peel away the plastic wrapping that holds the strainer lid in place<br />3) Remove the inner plastic bowl that contains the meat sauce, and set the meat sauce aside for the moment<br />4) Add just enough water to the uncooked pasta so that the water level reaches the fill line (the fill line is a little tough to see at first)<br />5) Shake the pasta so that it's all submerged in the water<br />6) Replace the strainer top and then cook the pasta in a microwave on high for 3 mins 30 secs<br />7) While the pasta is cooking, open a corner of the meat sauce<br />8) When the pasta is done, remove it from the microwave and let it sit while you warm up the meat sauce for 30 secs on high.<br />9) While the meat sauce is warming up, drain any remaining water from the pasta and remove the strainer lid.<br />10) As soon as the sauce is done open the meat sauce covering the rest of the way, pour it over the pasta, stir, and eat!<br /><br />Wow!  That was pretty convenient, and it actually worked as advertised!  It wasn't even too hot to carry!<br /><br />OK, what about the food?<br /><br />To start with I'm just a regular guy who usually makes my lunches of the previous night's family dinner left-overs...i.e., not a gourmet, but not taste-dead either...<br /><br />I was pleased to find that the pasta cooked well, but be advised that if you don't shake the pasta down before you cook it you might find a piece here and there that still has hard spots in it.  There was plenty of sauce...no skimping on sauce volume, and the portion size was great for lunchtime.  I wasn't stuffed when I was done, but I wasn't still hungry either.<br /><br />The meat sauce was tangy and mildly spicy.  The meat sauce contained small chunks of beef (i.e., looked like hamburger), and you could tell what it was if you looked closely.  The pasta and sauce consistency was good, and I enjoyed the entire meal.  Be advised that the sauce contains onion and garlic.  If you know you have an important meeting or date later on, you will probably want to pack some mints.  Say, that would be a great addition...an after-meal mint included with each meal that you can use to fight post-meal garlic breath.<br /><br />If you like the combination of convenience and pasta, this may well an excellent choice for you.<br /><br />If you are also environmentally conscious, though, you should probably think twice about this unit.  Once you are done with your meal there's really not much you can do with the packaging...just recycle it.  If, however, the packaging included a solid lid rather than just the strainer lid, the main container could be washed and then reused as a food storage container...alas, that is not the case.<br /><br />Anyway, I thought the food was flavorful, the portion was adequate, and the convenience excellent.  Environmental challenges drop the rating by a star though.<br /><br />Lastly, you'll have to determine whether the per unit cost makes this a good deal for you.<br /><br />4 stars
+
+product/productId: B001E96JZG
+review/userId: A10Y0CLCJ1L4LA
+review/profileName: Ryan Hennessy
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1224720000
+review/summary: Convenient and tasty
+review/text: I was not expecting much from this, a disposable package of self-boiling pasta with a bag of meat sauce. There should be no way it can work. But it does! You fill cover the slightly oily pasta with water, leave on the drainer top, microwave it for 3 minutes, drain it, heat the sauce, and mix it all up. And amazingly, it tasted good! Normally I can't stand this zero-effort lazy style of cooking microwaved meals, but this was actually really tasty. I would not make this a part of my regular routine because of the price, but I can imagine people who would.<br /><br />I have to take issue with the packaging, though. I am giving this four stars because each serving is individually packaged, and none of it is recycleable. The bulk of what you are buying is packaging, and it all gets thrown away.
+
+product/productId: B001E96JZG
+review/userId: A2W0XCWOK3MW6F
+review/profileName: Karen Woodworth Roman "Happy Librarian"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1224720000
+review/summary: Yummy "Emergency" Food
+review/text: Healthy Choice Fresh Mixers, Ziti & Meat Sauce is a very convenient food to keep on hand. It would be great to keep in your desk at work, dorm room, or take on a trip. The packaging is well designed and even has a lift tab to make it easier to get the sauce package out. The plastic pieces are Number 5, which is recyclable in my town. The instructions are easy to follow and simple. Put water in to the line with the noodles and cook in the microwave for 3.5 mins and drain noodle. Next heat the sauce for 30 seconds and pour over the noodles. Mix and eat. The taste is very fresh and certainly better than leftovers. There are 340 calories per single serving package. The ingredient list is not too long and almost entirely recognizable. The sauce is pleasantly spicy. I would not make this at home, but it is a great convenience food for places that lack refrigeration or cooking facilities.
+
+product/productId: B001E96JZG
+review/userId: A1BA72K4VK1UN1
+review/profileName: Patrick W. Crabtree "The Old Grottomaster"
+review/helpfulness: 14/19
+review/score: 2.0
+review/time: 1224720000
+review/summary: Probably destined for Big Lots (all the details here)
+review/text: I don't want to be over-negative here -- this product will definitely meet the specific needs of some folks such as those who have little time or, college students who live by microwave cooking. But for the average consumer, this product has some clear drawbacks. There are five facets to my evaluation: ease of preparation, flavor, health aspects/portion size, environmental concerns, and storage, (I'm not including price, which people can weigh for themselves) so I'll enumerate my observations here:<br /><br />1. Preparing the dish is a bit of a pain, compared to the Healthy Choice frozen dinners. It's essentially a five-step process, although I did find it necessary to additionally microwave the "finished" dish for an extra 30 seconds. I found it difficult to read the instructions on the side and on the top due to the tiny font size, but young people will probably not experience this problem. Microwaving the sauce can generate a tiny mess because you pull back a corner of the packet to allow steam to escape and mine bubbled out slightly. So, I did have to go back and wipe out the microwave with a damp rag. The water fill line is lightly stamped into the clear plastic and is near impossible to see initially -- you really have to look for it (on each end). The manufacturer would have benefited the consumer by putting larger font instructions on a removable card on the top so that one could just stick it under a refrigerator magnet to see what to do at each step; however, once you've prepared this dish the first time, it would be easy to do a second time without instructions.<br /><br />2. My wife and I both tried the product and we came to essentially the same conclusion... it's not nearly as tasty as the Healthy Choice frozen dinners, which we like very much. The pasta comes out remarkably well, au dente, very tasty. Of course, "taste" is very subjective and we are pretty discriminating so I'll just say this: if you think that McDonald's hamburgers taste pretty good, you'll probably be okay with the taste of this dish. With the sauce, the dish has a fennel-Italian sausage ambiance and it's not at all bland. I'm not a vegetarian but, honestly, I think they'd have been better off to go with a meatless marinara sauce for broader appeal and better flavor.<br /><br />3. The product (entire dish) has 340 calories, 6 grams of fat, and 2 grams of saturated fat. The dry weight is 6.95 ounces. In terms of portion size, I weigh 280 pounds and I'm a big eater -- the portion size was plenty large enough for me and the meal was hearty to the degree that I was not hungry again an hour later.<br /><br />4. Environmentally, this baby is a bit of a nightmare. While the plastics are mostly of the recyclable type, most people who typically recycle plastic beverage bottles are probably not going to recycle this -- I didn't bother (even though I recycle a LOT of plastics, glass, and paper) because it takes more hot water to wash/rinse out the two plastic bowls and the lid than the plastic is worth -- in other words, in terms of energy use, this packaging is a loser. Unfortunately, I can see no other way to set it up -- the manufacturer has already reduced the necessary components to the least number possible.<br /><br />5. The best aspect of this product is that it's very convenient to store, no refrigeration required, and the bowls stack nicely. The manufacturer's "use by" date extends for about a year, although I suspect that it would keep even longer than that under ideal dry storage conditions.<br /><br />To summarize, you could slightly improve the flavor of this dish (which would also boost the calories and the fat content) by sprinkling some freshly grated Parmesan cheese over the top of it. But the bottom line is this... even though it would take longer, I would much prefer boiling a little of my own pasta and using some canned spaghetti sauce, warmed in the microwave, OR, I would recommend buying the Healthy Choice frozen dinners which are much more convenient to prepare and tastes remarkably superior to this product.
+
+product/productId: B001E96JZG
+review/userId: AJBF0L0KVJG8J
+review/profileName: shirlan "Shirley Diederich"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1224633600
+review/summary: Fast and tasty meal.
+review/text: Healthy Choice has a winner in this new idea of a fast food meal. I tried the Healthy Choice Fresh Mixers in the Ziti and meat sauce flavor. This is really a neat product. It can be stored in the pantry, no refrigeration needed. When ready to eat at home or office, you just open the package, which contains the ziti in a microwavable bowl with strainer,  sauce in separate package. Could not be easier to prepare. Just add water to fill line over Ziti, cook 3 and 1/2 minutes in mcrowave, strain and add meat sauce. The directions say to heat 30 seconds after adding sauce but I did not need to do this because the room temperature sauce on hot ziti made it just the temperature I like for eating.The sauce is meaty and flavorful and the ziti just the texture I like.I think this product will be a winner in the Healthy Choice food line.I use a lot of Healthy Choice products but this is my favorite so far.
+
+product/productId: B001E96JZG
+review/userId: A3C0380R9NMLHD
+review/profileName: Andrew W. Johns "ResQgeek"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1224633600
+review/summary: Perfect for lunch at the office
+review/text: These single serving size packages are the perfect office lunch.  No refrigeration is required, and preparation only requires a microwave oven.  The top becomes a strainer to drain the pasta after cooking, and the separate container of sauce heats quickly.  The food is ready in less than five minutes, with no clean-up required.<br /><br />The portion size was just right for a light lunch, satisfying without being overfilling.  The sauce was reasonably tasty and proportioned to the amount of pasta, so it coated the pasta well, without a lot of extra.<br /><br />However, all that convenience creates one significant negative.  The specialized packaging is all disposable (I suppose you *could* use the pasta dish and strainer top again, but how many do you really need?), which means that this product produces a relatively large volume of trash, unless your local recycling operation can process these containers (mine doesn't).
+
+product/productId: B001E96JZG
+review/userId: A26KHZE0HTS057
+review/profileName: Burgmicester
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1224547200
+review/summary: Easy, Tasty, & Convenient Choice for Lunch
+review/text: I am not a pre-packaged food kind of person but this product was very good.  The packaging was a little tricky using it for the first time, but the second time was a piece of cake.  I had some difficulty with the tamper proof wrap around the package as it is very tight and there isn't anywhere to grab it.  But using a fork solved that problem.  The directions were simple and straight forward, although I think something should have been said about removing the top covering material from the built in strainer before microwaving.  I will give credit that there is a pull tab that states this on the top of the container, however, since it's not in the directions, someone might not do this the first time.  The packaging is beautifully done with a convenient pull tab to take out the sauce bin and the built in strainer is nearly perfect (maybe add a couple of holes in the lip to aid draining, as water will collect there).<br /><br />Add water to the fill line, place into microwave, and out comes perfect pasta - not too soft and not too hard.  Then put the sauce into the microwave - this you need to be careful with.  The sauce will splatter a little in the microwave and the time (30 seconds) was not enough for me; I needed another 20 seconds.  Take it out and take off the plastic cover - a little tricky as you can splash yourself with the hot sauce in this step.<br /><br />The amount of sauce is perfect.  The taste is a little spicy (hot), and some might think it's too spicy, but I thought it was quite good.  There is enough meat in the sauce to let you know that it is a meat sauce.  I tasted it with and without added cheese and liked it both ways.  The volume of food is perfect for lunch.  There are 340 calories in the serving with only 6 grams of fat (2 saturated), and 8 grams of fiber.  The pasta was the perfect size and shape to eat.<br /><br />This was a very well thought out product and I am interested in the other meals within this product group.  I highly recommend this product.
+
+product/productId: B001E96JZG
+review/userId: A1OZA52DFY3SHD
+review/profileName: Gaz Rendar
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1224547200
+review/summary: Great texture, but the taste is a little off
+review/text: The Healthy Choice Fresh Mixer bowl is a new, and rather unique lunch item that offers "fresh" pasta but sauce that tastes overly processed.<br /><br />The bowl itself is pretty neat.  Open it up, pour water up to the fill line, and put the lid back on.  After you microwave it for a couple of minutes you dump out the water through the straining holes in the lid.  The meat sauce is in a separate container, and after you vent the cover for that you can microwave it for a few seconds and then mix it in with your pasta.  It takes about 4-5 minutes total and the people at work watching me prepare my lunch were definitely captivated.<br /><br />As for the overall taste, it comes up a little short.  The pasta is great, I love the fresh-like texture of it.  The sauce, however, is a different story.  It's ok, but has an overly spicy/tangy flavor that I can't quite describe.  I feel like Healthy Choice gave it this extra spicy background flavor to cover up the fact that it's processed sauce sealed in a plastic container.<br /><br />Still, the Fresh Mixer Bowl is a nice change of pace from a cold sandwich, and it's better than a microwaved bowl of Chef Boyardee stuff.  I'd buy it and eat it again, just not every week. I think I'd still rate a good microwaveable bowl of soup over it if I'm looking for a packable hot lunch at work.  I only tried the Ziti & Meat Sauce though, so other flavors might taste better.
+
+product/productId: B001E96JZG
+review/userId: A3D9NUCR4RXDPY
+review/profileName: Kathleen San Martino
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1224547200
+review/summary: Great Snack but packaging not healthy for environment
+review/text: Since I am a hearty eater, I would consider this meal creation a snack or side dish to an already prepared dinner because the serving size is very small.  According to the label it has 340 calories (50 of which are fat calories) and the package advertises that you get 30% of your daily grains, 20% of your daily vegetables, and 15% of your daily meat in this one dish.<br /><br />The PROS:<br /><br />- Good as snack or side dish<br /><br />- Tastey with a little spiciness or "kick" to it<br /><br />- Easy to prepare (microwave 3-1/2 minutes for the pasta and 1/2 minute for the sauce)<br /><br />- Unit comes with built in strainer to drain pasta<br /><br />The CONS:<br /><br />- Portion really too small for a meal.<br /><br />- The center tab on the sauce tray is only to be used for lifting the sauce tray out of the package.  It is not for also pulling back the plastic covering on the sauce tray. I would have preferred if it had this dual purpose as it is a little difficult to peel back the plastic on that tray.<br /><br />- There is entirely too much packaging and plastic.  The top acts as a strainer, the base acts as a pot and the sauce tray acts like a double boiler.  All these items are made of really nice hard plastic that stands up wonderfully in the microwave.  For such a small portion, you have to ask yourself is it worth it to clutter our environment with all this throw-away plastic.<br /><br />Because of the amount of pasta in comparison to all the plastic you need to package it in, I rate this item four stars.
+
+product/productId: B001E96JZG
+review/userId: AN9J46667D80O
+review/profileName: Chris Swanson "I'm just this guy, you know?"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1224720000
+review/summary: Tasty and filling!
+review/text: Healthy Choice used to be a byword for mediocre diet food. During the last few years, however, they've gotten better and better, producing tasty grub at reasonable prices and with some real health advantages over things like, say, Banquet TV dinners.<br /><br />This latest product, a tasty Ziti with meat sauce, is a little different from some of their others. First, it doesn't need freezing. Second, you cook the pasta by dumping in water, nuking it and then straining it through the nifty little strainer lid! This makes it ideal for a compact lunch you can take to work. All you need is some water and a microwave and happiness will ensue!<br /><br />As far as the taste goes? I was surprised! The pasta came out nice and tender and there was a good mix of flavors in the meat suace as well as some chunks of what I really hope were actually meat. Even better, someone who likes to eat large, I'll tell you this actually left me nice and full and not feeling like I needed to eat anything else right away.<br /><br />Very good product. Highly recommended!
+
+product/productId: B001E96JZG
+review/userId: A2FRQL9C1AI1DQ
+review/profileName: sugarfoot
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299456000
+review/summary: Great tasting AND the container is reusuable - here's how!
+review/text: I really like the rotini and zesty marinara sauce and have eaten it many times; however I was recently put on a sodium restricted diet that made the 600 mg of soduim in this too much for me.  So, I experimented with making pasta in my small microwave (commercial microwave pasta makers all too big for my little microwave). So, this product comes with 2 ounces of pasta which is the equivalent of a loosely packed 1/2 cup of rotini (I used whole wheat) which will double to a little over a cup of cooked pasta - so, put the dry pasta in the healthy choice dish, fill with water to the fill line, cover with the strainer cover and I microwaved for 3 minutes and checked it and then cooked a little longer as I don't care for  al dente I like it a little softer. Then I nooked about 1/2 cup marinara sauce I had on hand (which is the same amount of sauce they use) and it was great with A LOT less sodium which I was able to control myself.  That little container worked great!~
+
+product/productId: B001E96JZG
+review/userId: A380H0RPMMOG3E
+review/profileName: E. Von Ray "adventurer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1251936000
+review/summary: Suprisingly good
+review/text: I have tried many of the various Healthy Choice meals, some good, some not so good. Suffice to say I have never been a regular consumer of their products. That has changed with this product. Unlike many of the microwaved pasta meals, this one actually does work very well at making the pasta ready, the sauce tastes very good and it is a decent sized serving. It takes about 4 minutes in total to make. It could not be much easier and it has 15g of protein and is low in saturated fats.<br />I'm impressed with this product and will be buying it regularly.
+
+product/productId: B001E96JZG
+review/userId: A1ZCSSCAGBCD49
+review/profileName: J. SPIEGEL "Joe"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1225324800
+review/summary: Easy to make delicious pasta meal
+review/text: The Healthy Choice Fresh Mixers, Ziti & Meat Sauce is a very respectable easy prep meal. Overall I liked it. It was tasty with a little bit of a kick in the seasoning. Not too kicked up though to dissuade or intimidate people from trying it. Personally I like adding a bit of parmesan cheese on top and a few shakes of crushed red pepper (pizza pepper).  The meat sauce was thick and chunky. The pasta held up well to the microwave and had a nice al dente feel. They use a whole grain pasta which is nice and healthier than white pasta. Lots of fiber here, to be sure.<br />The preparation was easy enough. My only two thoughts were the "fill line" could be a little easier to see and I'd like the underside of the top pull away cover to have another copy of the instructions so I can read them as it cooks if I need a follow-up.  Over all an easy to make meal.<br />The portion is a good size, it felt hearty. Accompanied by a nice salad this makes quite a pleasant meal.
+
+product/productId: B001E96JZG
+review/userId: A2XXTGHE0YVZSZ
+review/profileName: Niya
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1224720000
+review/summary: Convenient and does not taste bad to me
+review/text: Honestly, I didn't have high expectations. However, this product seemed to me fun and easy to cook. I found it innovative and creative. All you do is add water and microwave it (and then strain the noodles with the built-in lid, followed by mixing the sauce with the noodles, of course). I found the meat sauce meaty and tasty (I'm not the pickiest eater). The extra convenient aspect of this product is that it requires no refrigeration, which means that you can store it with your cans of soup in the pantry until hunger emergency strikes!
+
+product/productId: B001E96JZG
+review/userId: A34W7QA4J5UTOR
+review/profileName: K. Hill
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1224720000
+review/summary: Ziti & Meat Sauce
+review/text: These are extremely easy to make and it takes so little time. In literally five minutes, you're done. Just add water to the ziti and microwave it for 3 minutes and 30 seconds. Drain the water. (The lid is conveniently perforated with holes so that it can be used as a strainer.) Heat the sauce for 30 seconds (Or not at all. According to the instructions that is an option. I heated mine.). Done! Perhaps one of the easiest microwave meals I've ever had.<br /><br />Taste opinions on this will differ. I thought the sauce was decently meaty, but the first time I ate this, I thought it was a bit too hot and spicy for my taste. The second time, I loved it. Guess it depends on what type of food you're in the mood to have. Enjoy!
+

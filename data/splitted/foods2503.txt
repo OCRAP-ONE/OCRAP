@@ -1,0 +1,1143 @@
+product/productId: B00395564I
+review/userId: A2LU14QEQ57SCI
+review/profileName: ChicagoBurbsGirl
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1298764800
+review/summary: Incorrectly advertised
+review/text: These K cups are advertised as "Vanilla Hazelnut", but I received only Hazelnut flavored.  Not sure if this is an issue with my order specifically or the advertised flavor, but I'm disappointed!
+
+product/productId: B00395564I
+review/userId: A1GYEGLX3P2Y7P
+review/profileName: Shala Kerrigan
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1296000000
+review/summary: Nice flavor
+review/text: One of the better K-cups I've tried. Generally I'm not a fan of flavored coffees and I'm picky about hazelnut flavors. This is a nice medium body roast with just enough hazelnut. Drinking coffee straight, it's a nice touch of nuttiness with very little bitterness. Adding cream and sugar really brings out the nutty flavor. For my family's tastes, we brew these cups with a tablespoon less water than usually to make it a little stronger.
+
+product/productId: B00395564I
+review/userId: A15QJKYR9TZZH5
+review/profileName: JK "coffee lover"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1284768000
+review/summary: terrible
+review/text: no coffee taste at all.  the worst k-cup I've ever had.  the hazelnut flavor is nice but like drinking flavored water.  If I could give it zero stars, I would.  Gloria jean hazelnut is not very strong either but at least it still tastes like coffee.
+
+product/productId: B0001AV5HG
+review/userId: A1WMJ91NM9V368
+review/profileName: Caroline Mccready
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1248998400
+review/summary: Delighted!
+review/text: I've searched high and low for Pommery Green Peppercorn Mustard locally, and was delighted to find it at the Frenchy Bee, through Amazon.  The service was exceptional...really outstanding, and I'll continue with future purchases very happily.  Highly recommended!
+
+product/productId: B0001AV5HG
+review/userId: A12I8ZN17MHD4K
+review/profileName: V. Ramirez
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1193529600
+review/summary: Gourmet mustard
+review/text: If you like mustard and spices then you will probably love this product.<br />A must have if you like cooking and/or eating!
+
+product/productId: B0001AV5HG
+review/userId: A24UDOGNGVL00E
+review/profileName: Culture Vulture
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345939200
+review/summary: As good as one can get in the US
+review/text: there is, to my taste, a far better Green Peppercorn Mustard -- but, alas, it is only available<br /> in Paris.
+
+product/productId: B0001AV5HG
+review/userId: A2CJ7SBBL1LA0I
+review/profileName: Ralph Thomas "Directionally challenged"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335139200
+review/summary: Mustard with a kick
+review/text: For those who love Pommery Mustard Meaux Moutarde , this is a very smooth version with a "kick" in the finish; goes quite well with coarse pates; cheeses; sausages; and, gourmet burgers.
+
+product/productId: B0001AV5HG
+review/userId: A3J3VLTBLW6ITP
+review/profileName: B. Adamski "bearman"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286841600
+review/summary: The Frenchy Bee has excellent customer service
+review/text: I received this jar of French mustard in a broken state. Within minutes of leaving feedback and sending an e-mail I was sent a response, an apology, and a new jar. I am very impressed with the Frenchy Bee's customer service skills and will order from them again.
+
+product/productId: B000Z01O78
+review/userId: A3D91K8VBMQIAF
+review/profileName: Anon
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1330387200
+review/summary: great product and seller
+review/text: I was slightly concerned about the split reviews, but I must say, I'm glad I decided to order this product. It arrived a couple days before the expected delivery date, and all of the pieces were in perfect condition. More importantly, they all tasted lovely. Out of the 16 pieces, If I remember correctly, there were only 5 repeat flavors. The doubles were some of the best flavors anyway, so I didn't mind. Some bottles seemed to have more alcohol content then others depending on the alcohol used, however, they all tasted sweet and delicious. These are a rare find in local liquor stores, usually showing up only around the holidays, so ordering them is definitely worth it.
+
+product/productId: B000Z01O78
+review/userId: A20OWBU3O09L5K
+review/profileName: amy c
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1292371200
+review/summary: great item and even superb seller (Kosher Konnection).  got the item 2 days before the expected delivery date!
+review/text: I can't say enough about the seller Kosher Konnection.  I was hesitant at first to get the item as it was the holiday season.  Was expecting the item to arrive after Christmas at the earliest.  Lo and behold, it came 2 days even before the earliest expected day estimate (even with a standard shipping option)!  Super!  Now, I've got another gift for my husband that I'm sure he'll love.  Not to mention, the packing is impeccable.  No dings, no damage.  Thanks!
+
+product/productId: B000Z01O78
+review/userId: A2Y0Z3B7OBF0NA
+review/profileName: Viji
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1295395200
+review/summary: Shipment Delayed
+review/text: The order was placed with standard delivery and then changed immediately to expedited delivery. It was also charged form the same but the product did not reach in the said time. In fact, it was delivered beyond the standard delivery time. I would think twice to place an order again.
+
+product/productId: B0018CJYTC
+review/userId: A2UMJE6SRSG14G
+review/profileName: Molly K
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297123200
+review/summary: Quality ingredients that my dogs love!
+review/text: My dog has a very sensitive stomach. I switched her from another "premium" dog food to this product with no problems at all. She really seems to enjoy the taste and hasn't had any stomach problems since the switch.  I would highly recommend this food.
+
+product/productId: B0018CJYTC
+review/userId: A7VG1MO0AAWDH
+review/profileName: mina_shop
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1348790400
+review/summary: Don't Buy This
+review/text: My dog did not like this at all, so I had to mix it with a brand she does like, Acana, so that it would not go to waste. After a few months after I purchased it, I got a notice for a recall.  I had to throw away all the food, which included an expensive bag of Acana since I keep the food in a big container and throw away the original bags. Amazon informed me that I had to deal with the seller on this issue even though I bought both products from Amazon.  So I informed Taste of the Wild of this in a letter with the refund request due to the recall and the cost of the Acana food, but they chose to ignore that.  I will not buy from them again.  Customer Service is not good.
+
+product/productId: B0018CJYTC
+review/userId: A35S5UXCBQGULR
+review/profileName: 224
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1299024000
+review/summary: worth it
+review/text: We have four small dogs that love this food, we've also used the fish formula. The kibble is small enough for them, they eat it right away, I dont see the scratching that we did when we fed some of other brands. It costs a little more but we'll continue to use it.
+
+product/productId: B0018CJYTC
+review/userId: A1KBNERQFKUEN8
+review/profileName: Na L. Sin "Lilz"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290124800
+review/summary: Quality Dog Food.
+review/text: I've had my dog for a year. She enjoys eating this food - she had no problems transitioning to food. Her poop is very hard now... which means easier cleanup for me. I'm assuming solid poop means she's digesting it well.
+
+product/productId: B0018CJYTC
+review/userId: A364EQ5BIH1LGL
+review/profileName: N. Mousseau
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336176000
+review/summary: The Best!
+review/text: I received a sample of this at a pet expo in So. Cal last year when we got our first rescue dog. Our Jack Russell's coat has improved as well as her digestive problems are gone. I can't say enough good stuff about this food! It is truly the best.
+
+product/productId: B0018CJYTC
+review/userId: A28REBNSBFKJ0
+review/profileName: Bo Peep
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324166400
+review/summary: only thing she'll eat
+review/text: I have a finicky Brussels Griffon. After spending $$$ on 30 pound bag on another brand, which she hated, I finally purchased samples of dog foods and put them in bowls to see which one she would eat. Well the house looked like a dog food commercial with my little girl sniffing at each one, as there were about 7 different kinds. This one was the clear winner. She loves it and she looks great. She has a beautiful coat,  and tons of stamina and energy.  Great stuff.
+
+product/productId: B0018CJYTC
+review/userId: A1PBGRP6N5RYPK
+review/profileName: MsWano
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1305504000
+review/summary: Convenient
+review/text: How great to have these heavy items (I also bought a bag of cat food and a 42 lb box of kitty litter) delivered to your door (no delivery fee) and they are considerably less expensive than purchasing them at my local pet supply store.
+
+product/productId: B0018CJYTC
+review/userId: A3AIQKXEGLY5DQ
+review/profileName: Terez
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1297641600
+review/summary: Didn't work for my dog
+review/text: I'm test-driving Healthy Kitchen dehydrated food and when I add Taste of the Wild for some kibble and variety, my dog's stools get soft.  I really like the ingredients in Taste of the Wild, but it doesn't work well with my dog's digestive system.  We went through two 5-lb bags before giving up on this brand.
+
+product/productId: B0018CJYTC
+review/userId: A1W5BAOQS9GH55
+review/profileName: C. Rickard
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350864000
+review/summary: Expensive, dogs didn't like it
+review/text: It was expensive even on sale.  We have 4 Pomeranians and no one liked it. They would only eat if really hungry.
+
+product/productId: B0018CJYTC
+review/userId: A10QRHT3U49611
+review/profileName: shootergrrl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348185600
+review/summary: Great food, not so great price
+review/text: I've had my dog on this food for several months, and he absolutely loves it. His sensitive digestive tract handles it very well, and he has no issues with allergies with this food since it is grain free.<br /><br />Unfortunately, I will no longer be purchasing this through Amazon since they increased the price by 4 dollars in one month! It is no longer cheaper than at my local retailer, so I will just make the drive and keep those extra dollars in my bank account. If the price goes back down, I would absolutely keep ordering it here.
+
+product/productId: B001D6E452
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1217030400
+review/summary: Fine Assortment, But Overall Tazo Disappoints
+review/text: ****<br />Tazo Assorted Black and Green Teas and Herbal Infusions includes one or two of each:<br />AWAKE:  plain ordinary black tea, a little bitter<br />CALM:  nice chamomile tea<br />CHAI BLACK TEA:  an okay chai black tea with caffeine<br />CHINA GREEN TIPS:  great green tea experience, Tazo's best, no "natural flavorings"<br />DECAFFEINATED CHAI: an okay chai black tea without caffeine<br />EARL GREY BLACK TEA:  a disappointing perfumy, intense, black tea experience<br />LOTUS:  decaf green tea with lotus flower, one of my favorite Tazo's<br />PASSION HERBAL INFUSION:  hibiscus-y, intense, caffeine-free, and luxurious<br />WILD SWEET ORANGE:  orange herbal tea, some complex overtones perhaps<br />ZEN:  mild, relaxed green tea<br /><br />Their ingredients include: black tea, green tea, hibiscus flowers, chamomile flowers, lemongrass, citric acid, natural flavors, spearmint leaves, blackberry leaves, cinnamon, rooibos, ginger root, rose hips, orange peel, rose petals, licorice root, safflower, black pepper, lemon verbena leaves, cardamom, cloves, peppermint leaves, chicory, sarsaparilla root, lemon balm leaf, star anise, and red poppy flowers.<br /><br />Tazo is an interesting company that makes only super premium teas. They are socially responsible, based in Portland, and have the motto, "The Reincarnation of Tea". Tazo is owned by Starbucks. Their web site is fun and quirky, with a Zen-type focus, definitely worth checking out. It is unclear, though, from their web site, how many of their ingredients are organic or kosher, and they do use some "natural flavors" in their teas--this wording seems a little vague for a super premium tea. In general I'm not a big fan of tea with flavorings added, preferring the subtleness and authentic taste of the real thing.<br /><br />Overall, the green teas seem good. The herbal infusions are fine. The black teas tend to turn bitter if you don't brew them very briefly...even then they have bitter overtones. Tazo's assortment, and Tazo teas in general, are fine---better than premium teas like Stash or Celestial Seasonings---but not anywhere near as good as Numi, or Aspen, or other super premium teas made with only "real" ingredients and minus all of the flavorings. I'm more used to these high quality teas, which Tazo attempts to be, but disappoints...so overall Tazo Assorted gets a 3.5 to a 4. For this review, I'm rounding up, since so many people seem to enjoy these teas, and I'm in the clear minority. If your tea experience so far is drinking commercial teas of a lower quality, no doubt Tazo's teas will appeal to you, as they are a great improvement. They have a lot of variety and many interesting tea experiences. If you don't enjoy Tazo's teas, though, know that there are many, many teas made with all real ingredients, teas that cost only a fraction more, that may be just the thing you were looking for.<br />****
+
+product/productId: B001KYWCOC
+review/userId: A2VT1EEO2GTAY2
+review/profileName: New York Bargain Hunter
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1318204800
+review/summary: It's a decent marinade but it doesn't taste like teriyaki
+review/text: Most Japanese teriyaki sauces are light, smooth, velvety, slight salt, undulating sweetness, and subtle flavors such as soy and/or wheat infused into "generic teriyaki".  Each company has the same base and has it's own "secret recipe" where they cure the "teriyaki sauce" in barrels. I like most teriyaki sauces since they come from similar bases.  This sauce however doesn't taste like a generic teriyaki based sauce.  It tastes more soy sauce based.  Soy sauce is more pungent, more salty and usually overpowers any flavors that attempt to infuse into it.  So the end product is a salty, pungent and sourish soy sauce.  I don't think that this sauce uses inferior ingredients, you can taste that it is made with good materials, but I can't categorize this sauce as a teriyaki.  It lacks the underlying sweetness of teriyaki, not sugar sweet but the barrel cured sweetness.  I could call this a crazed soy sauce but even then, one could not categorize this as a soy sauce either.  It's not a terrible sauce, I could use it in many new dishes but just don't ask me to work with/treat it like a teriyaki.  It's unique, it sort of reminds me of a filipino adobo in a good way.  If I were the company, I would re-brand this flavor as something unique, sort of like Maggie Seasoning sauce.  Maggie is well known by name all over Asia and Asian communities, it's not a soy sauce, it's not an anything sauce, it's "Maggie".  This would work since it really has a great unique powerful flavor.  Like I said before, it's not teriyaki but it's not a terrible sauce.  I used this sauce with butter, olive oil, garlic, salt, fresh ground pepper, and marsala wine to cook a great mushroom sauce, it was absolutely divine over rice.
+
+product/productId: B0002UMNDU
+review/userId: A18W5LM3R7K1L4
+review/profileName: D. Smith
+review/helpfulness: 13/14
+review/score: 3.0
+review/time: 1231804800
+review/summary: Why is it so expensive?
+review/text: At the current price of $42.99, this costs much more than any retail store that I've ever seen this in for about $3.58 per bottle.  The highest price I've seen this bottle for is $2.99 although I'm sure it may be available for more in a marked up retail store. (From my experience though, these stores usually sell only the smaller sizes.)  I regular shop for and purchase this bottle (separately and not in a case) at about $2.00 to $2.25 each on average.  What gives?
+
+product/productId: B0002UMNDU
+review/userId: A1HXT8JP66BS53
+review/profileName: Jonathan Brief "Jibbertuck Lovebucket"
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1294617600
+review/summary: Much, much too expensive
+review/text: As D. Smith says, the 1.5l bottles of Evian normally retail for about $2.20 a bottle. This box of 12 is ridiculously expensive.
+
+product/productId: B0002UMNDU
+review/userId: AEJGSUFNVNYCD
+review/profileName: Kevin J. "listener of house music"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315094400
+review/summary: Great water, But too expensive here!
+review/text: I rated this five stars because the rating is for the product, NOT FOR THE PRICE!!! Having lived in France for a long time, I can say that you cannot go wrong drinking Evian, as well as Volvic and Perrier. But the prices here are way too expensive! You can get these same quantities, or close to them on the Aqua Maestro website. I won't post a link since most places don't want you to do that, but you know what to do. Not to say they aren't expensive too, but with membership you are looking at prices close to half of what they are charging here.
+
+product/productId: B0046HI2XK
+review/userId: A3L9VCA591DGDQ
+review/profileName: B. Nassif
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343952000
+review/summary: Perfect Pecans..
+review/text: I love pecans , these are fresh and great tasting , nothing much to add , you get what you pay for , very good service..
+
+product/productId: B001EPQ0FY
+review/userId: A3OP3V82J17CBM
+review/profileName: C. Cassioppi "Seeker (& Finder)"
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1235692800
+review/summary: Not robust, but still tasty
+review/text: This is the second time I've ordered this decaf coffee. Its a fairly course grind, which I like. It's easy drinking and has enough flavor and fullness to help make the transition to decaf from regular.
+
+product/productId: B00348LCHA
+review/userId: A2BAUCPWOWHYN7
+review/profileName: dotea
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328227200
+review/summary: Great
+review/text: This product for dry skin is working.  Use it when you're damp out of the shower all over entire body
+
+product/productId: B001PHVO5W
+review/userId: A20RGALDT1UMYG
+review/profileName: Faye's honest opinion
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351209600
+review/summary: way too bitter
+review/text: I love coffee. I am used to strong coffee, I have lots of it. I drink espresso with no sugar or milk. But strong coffee doesn't have to be this bitter. My stomach hurts from drinking it.
+
+product/productId: B001PHVO5W
+review/userId: APR5AYZWAS13C
+review/profileName: T. E. B. "Meister Brew"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343779200
+review/summary: Very goood
+review/text: PEETS Coffee is one of my favorite coffees. I only buy the whole bean. It usually costs too much. All that being said I prefer the Major Dickinson Whole Bean to Sumatra...
+
+product/productId: B0009TQC90
+review/userId: A1Y46RF148NXX6
+review/profileName: S. Yeung
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1296432000
+review/summary: Not the best chrysanthemum tea I've had, but not bad
+review/text: I didn't buy this off of Amazon, I got it from a chinese grocery store for about $6.  I went for dim sum with my family and my mom ordered chrysanthemum tea and it was really good.  I bought this so that I would be able to enjoy the tea at home instead of having to go out to a restaurant just to enjoy the tea.  The tea I had at dim sum was pretty much all flowers and made a greenish yellow tea.  The Golden Dragon tea is >90% dried greenish/brownish leaves and &lt;10% of flowers making a dark brown tea.  This doesn't taste the same as the other tea.  It's not bad but if you're looking for a chrysanthemum tea, look for one that is all flowers.
+
+product/productId: B0009TQC90
+review/userId: A2FDU10TSDBGB2
+review/profileName: sally
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: awesome
+review/text: i just love tea which i ordered a couple of weeks ago. it tastes truly awesome. i drink in the morning and again at night before i go to bed. i will order this tea in the coming weeks. again thank you for making such a wonderful product.
+
+product/productId: B0009TQC90
+review/userId: A20QHLPOIG7ASB
+review/profileName: WSchultz
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325894400
+review/summary: Not exactly what I had hoped
+review/text: Being the cough adn cold season, I wanted/needed some chrysanthemum tea - a drink that I learned to love while in Penang Malaysia. The dried flower tisane available from my local Chinese herbalist helped to soothe coughing quite effectively, but a little pricey.<br /><br />Seeing this listing on Amazon for "finest quality" quality tea at a reasonable price, I ordered a can for home and at work. The listed product is (apparently) a dark, well-fermented tea that is slightly flavored with a few chrysanthemum blossoms. It has a not particularly great flavor, and is not the product that I was seeking.
+
+product/productId: B0009TQC90
+review/userId: A16ORAES7XX530
+review/profileName: Phillip Anderson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321401600
+review/summary: Great Tea
+review/text: Yes, this tea has a fishy (almost ocean-like) smell and flavor.  I drink a lot of diffrent loose leaf teas in Yixing, and this is a very fine tea with a great flavor.  I highly recommend for an avid/intermediate tea drinker.  This may taste a little strange for someone just exploring various teas--however, I love it.
+
+product/productId: B0009TQC90
+review/userId: A28BQHV1VDIFAF
+review/profileName: Skyline Girl
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1285372800
+review/summary: Great tea & medicine too!
+review/text: Great tea & medicine too!  It reduces Liver fire and is an awesome new part of my health regimen  Cudos!
+
+product/productId: B0009TQC90
+review/userId: A1D9AND8QD19UA
+review/profileName: James
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1293321600
+review/summary: not so sure
+review/text: when i opened this, it smelled like fish.  i thought it might be the tin, so i brewed a cup to check.  it reeked of fish even more, then.  had to return....gotta love amazon....
+
+product/productId: B004OLRXK6
+review/userId: A38BY6QMZABBN6
+review/profileName: Fluxblister
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343260800
+review/summary: Ok value
+review/text: This was a pretty good buy for the quantity, but it's not very fresh. I would probably not buy this product again.
+
+product/productId: B007MEQZWO
+review/userId: A3L9QVV9X2T1M
+review/profileName: Angela Crane
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Amazing colors, beautiful, very  fresh and long lasting
+review/text: Beautiful roses,  amazing hues, Very Fresh., they have opened  but still today are looking fresh and beautiful.  Great service. Best value I have seen.<br /><br />Came right on time. We were so happy with the quality.
+
+product/productId: B002NGDOR0
+review/userId: A1LNAUOBK9XSQV
+review/profileName: Slippin
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1320451200
+review/summary: Horrible Product and Customer Service
+review/text: Horrible experience snt wrong item in crushed package. What I recieved cost less than what I ordered but Drophys still charged me for the more expensive item I DID NOT get. I will never buy from this company again.
+
+product/productId: B0024NKMEU
+review/userId: A2JLS916G63TJA
+review/profileName: willow47
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1312934400
+review/summary: Our favorite
+review/text: This is our favorite jerky spice mix and use it so much it was more convenient and much more affordable to order in a large quanity. My only complaint was that it was short product quantity. Amazon couldn't have been better in sending out another order to take out what was missing and return the rest. The second order was also short. 18 cure packages instead of 24. So order with confidence but make sure you count it.
+
+product/productId: B0024NKMEU
+review/userId: A24ZN7KKFIT1CI
+review/profileName: CR
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1313193600
+review/summary: Great for a Starter Set!
+review/text: These flavors are very tasty, and every batch of Jerky I have made with theses flavors has received praise! The variety pack is a great starter set. I am giving this 4 stars instead of 5 because I would rather have a smaller cheaper set to start with until I find my favorite flavors. Or a set of the same size with more varieties (as there are more flavors that are not included with this set).
+
+product/productId: B0024NKMEU
+review/userId: A3JN96R8ZQ4X0P
+review/profileName: rwizard "rwizard"
+review/helpfulness: 25/33
+review/score: 3.0
+review/time: 1319155200
+review/summary: Celiac Alert/Wheat/Nitrates/Nitries/Food Safety
+review/text: I hope some of you will find something here useful, heretical views and all ;^) !<br /><br />The Nesco spices are typical of other pre-packaged jerky mixes.  While I don't share the concerns others have about the presence of nitrates/nitrites, and I am not personally impacted by MSG (although I sympathize with those who have adverse reactions to it), I do want to give a heads up to any Celiac sufferers out there that the Teriyaki flavor contains wheat.  This isn't really a big surprise as most Teriyaki sauce also contains wheat, but I thought it was worth pointing out.<br /><br />For those who are concerned about the nitrates/nitrites, and who disagree with my view (and that of the National Academy of Sciences, the American Cancer Society and the National Research Council) that they are benign, and even beneficial, I would like to point out that they are there to protect you against food poisoning.<br /><br />However, the spices and the cure are packaged separately, so it is possible to leave the nitrates/nitrites out entirely.  Of course, you are taking a (potentially fatal) risk when you do so.  It is true that you may be running your dehydrator above the 140 degree mark, but the temperature is not uniform throughout your dryer.  I do process whole cuts (not ground) without cure, but the meat has been carefully handled, and I use a torch to pre-treat the exterior of the meat before drying (or cooking at very low temperatures, as the case may be).<br /><br />All and all, this is a complex topic, and I would suggest a lot of reading about the issues of food safety before making a choice to leave out using a cure.<br /><br />Here is a reading list for those who are interested:<br /><br />The FDA "Bad Bug Book" available free on the web. Search for "Bad Bug Book: Introduction<br />Foodborne Pathogenic Microorganisms and Natural Toxins Handbook<br />The "Bad Bug Book""<br /><br /><a href="http://www.amazon.com/gp/product/0596805888">Cooking for Geeks: Real Science, Great Hacks, and Good Food</a><br /><br /><a href="http://www.amazon.com/gp/product/0393058298">Charcuterie: The Craft of Salting, Smoking, and Curing</a><br /><br />Worth searching for on the web:  "low temperature cooking", "nitrates (nitrites) vegetables", and "no nitrates (nitrites) added"<br /><br />As for the ingredients of the Nesco Seasoning, here is what the packaging lists:<br /><br />(Apologies in advance for typos and transcription errors:)<br /><br />ORIGINAL FLAVOR:<br />DEXTROSE, SUGAR, SALT, SPICES, NATURAL HICKORY SMOKE FLAVOR, MONOSODIUM GLUTAMATE, HYDROLYZED SOY PROTEIN,DEHYDRATED ONION, DEHYDRATED GARLIC, LESS THAN 2% OF CARAMEL COLOR, SILICON DIOXIDE, CALCIUM SILICATE<br /><br />TERIYAKI FLAVOR:<br />SUGAR, SOY SAUCE POWDER(SOYBEANS, SALT, WHEAT, MALTODEXTRIN), DEXTROSE, SALT, SPICES, MSG, 2% or LESS SESAME OIL, DEHYDRATED GARLIC, DEHYDRATED ONION, NATURAL FLAVOR, CITRIC ACID, SILICON DIOXIDE<br /><br />HOT-N-SPICY FLAVOR:<br />DEXTROSE, SALT, SPICE, SUGAR, NATURAL HICKORY SMOKE FLAVOR, DEHYDRATED ONION, DEHYDRATED GARLIC, MSG, HYDROLYZED SOY PROTEIN, LESS THAN 2% NATURAL FLAVOR, CARAMEL COLOR, SILICON DIOXIDE, CALCIUM SILICATE<br /><br />(Note that none of the above flavors contain nitrates/nitrites, they are all in the separate CURE packets, listed next.)<br /><br />CURE: SALT, SODIUM NITRITE(0.62%)<br /><br />If you do choose to leave the cure package out, you may want to add some table salt if you like a salty jerky flavor. Just be sure you understand the issues involved - nontyphoidal Salmonella, Clostridium Botulinum, and their various cronies are not your friends. And if anyone eating your jerky is immune compromised, then please do not leave out the cure.  After all, what is worse - your scientifically unfounded fear that one day they may get cancer from the preservatives, or the risk that they will drop dead in the here and now from a pathogen that flourished in a slightly too cool dehydrator?<br /><br />Anyway, these seasonings make jerky that tastes good, and while making your own seasonings from scratch is probably a better choice, the little packets are very convenient when you are tired or in a hurry.<br /><br />Bon App&eacute;tit and best wishes to all !
+
+product/productId: B0024NKMEU
+review/userId: A3ELE9OXWHV59C
+review/profileName: chuckie Steve
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1304380800
+review/summary: Asst jerky spice
+review/text: Great assortment. cracked pepper is good. Teriyaki is very good. Hot and spicy is almost a bit too spicy but good flavor. Original is still the best. Really good stuff!
+
+product/productId: B0024NKMEU
+review/userId: A2LNZZ6W7YNUWG
+review/profileName: Karacake
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1298160000
+review/summary: Easy, Excellent Jerky
+review/text: These 4 Jerky spices are super easy to prepare-mix with water add your fresh meat & marinate for 12-24 hours in the fridge.  All are excellent in flavor and make fantastic home made fresh Jerky.  The clear favorite with my family & friends is the Garlic & Cracked Pepper style, closely followed by all the other flavors.  I gave a less than perfect score because the Teriyaki flavor tastes almost the same as the Original flavor(both are delicious), I expected more of a soy sauce/tamari taste and it seemed a little lacking only in that perspective.  I bought the big box because I wanted lots of flavors, variety and the ability to make a bunch of jerky...I would buy this again, but I won't need to for a while!
+
+product/productId: B0024NKMEU
+review/userId: AO2RYC9T4LGV4
+review/profileName: puremp24
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1314662400
+review/summary: Great jerky mix
+review/text: This is great stuff and makes the best jerky. I use it all the time and the flavor is awesome.
+
+product/productId: B0024NKMEU
+review/userId: A17H0JX0IA6KJM
+review/profileName: CarolinaBlue
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1298592000
+review/summary: Good item, good value
+review/text: My husband loves to make jerky with his new dehydrator and these spice packets make it quick and easy to mix up and cure the meat. We did not really like the flavor or the smell of the Teriyaki but the other three flavors are great. To be fair, we usually do not like anything flavored with a teriyaki seasoning so it's not surprising that we did not care for it here either. The pricing on this item makes it a great value. This combined with buying meat on sale makes for a nice quantity of jerky at an affordable price that you just couldn't touch if buying prepared jerky in a store.I may not purchase this combination again since we do not like all the flavors but I will definetly purchase more of this brand of seasoning from Amazon.
+
+product/productId: B0024NKMEU
+review/userId: A3CJUAQMFRFM3W
+review/profileName: Don B
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1258502400
+review/summary: jerky mix
+review/text: A great value for a great product.I have purchased other jerky seasoning kits,and nothing comes close to this.My only disappointment (and it was minor) was that I didn't really care for the teriyaki,as it was a little bland.We have a NESCO dehydrator, and these two go hand in hand.
+
+product/productId: B0024NKMEU
+review/userId: A2M6SHHDB79KT7
+review/profileName: Guillaume Lesage
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323388800
+review/summary: Good spices!
+review/text: This is the best psices I've got until now.  It's easy to proceed with the pack of spice and the pack of Cure.  I love the original and cracked pepper and garlic are amazing flavors!
+
+product/productId: B0024NKMEU
+review/userId: A16YFJ1YNL0CPW
+review/profileName: HOWDY
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323216000
+review/summary: Jerky marinate.
+review/text: Nesco makes the best jerky marinate sold.  I have tried many of them but Nexco is the best.This can be used for beef, venison, turkey, or any number of ways.
+
+product/productId: B0024NKMEU
+review/userId: A1CB9B9KJZWFSE
+review/profileName: E. J. Marques "jerky guy :-)"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1271289600
+review/summary: these spices are HOT :-)
+review/text: this really makes things simple....you can add stuff to these packets to make it your own ! everyone who's tried my jerky has loved it.
+
+product/productId: B0024NKMEU
+review/userId: A1W1TQI2UZDY4R
+review/profileName: Charles Baker
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1269475200
+review/summary: Jerky spice
+review/text: This pack was exceptional for a "newbie" jerky maker like myself. I have to say all four flavors were good, but I preferred the original recipe. it tasted just like jerky you would buy for 5 times what it cost me to make it.<br />I do recommend adults with kids use the hot stuff. The kids ate all the other jerky but the spicy was too much for them so that's what I got to eat most of. All in all, this kit was excellent and the price was even better.
+
+product/productId: B0024NKMEU
+review/userId: A7DK8DOZODT9
+review/profileName: Kelly Adams
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1269129600
+review/summary: delicious
+review/text: I'm a fan of making homemade beef jerky and the Nesco products are great.  I really like the combination of flavors in this package.
+
+product/productId: B0024NKMEU
+review/userId: A3J8IEW80FPGXA
+review/profileName: Connie Abernathy-Land "catdagger54"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1268006400
+review/summary: Best Beef Jerkey Seasoning there is
+review/text: I ordered this to make beef jerkey for snacks, on the road trips and just to eat cause it's so darn good! The seasoning mix is great and easy to use, I use it on cut meats instead of ground meat. If you want the best tasting jerkey buy the Nesco Jerkey Spices.
+
+product/productId: B0024NKMEU
+review/userId: A16VHFP9MZQ4WJ
+review/profileName: Charles Greenly
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1274313600
+review/summary: Great product, allows you to try several flavors for a good price
+review/text: I really enjoyed this variety pack. It allowed me to quickly make several different types of jerky to choose my favorite (Cracked Pepper and Garlic is AMAZING). All of the flavors so far have tasted good. I've made the original, cracked pepper and garlic, and the Teriyaki flavors. The Hot & Spicy sounds good as well and I can't wait to try it. These spices work great with ground beef and the Nesco jerky gun, or mixed with water and used as a marinade for a sliced roast. The cure seems to work fine and the jerky has lasted several months in the freezer.
+
+product/productId: B0024NKMEU
+review/userId: AV3ZQUZ9MPLHE
+review/profileName: Stacy
+review/helpfulness: 18/27
+review/score: 3.0
+review/time: 1260316800
+review/summary: Good Flavor, not good ingredients
+review/text: The packets are extremely convenient and takes the guessing out of how much seasoning to use.  However, after eating the jerky, I developed a few sores in my mouth.  I emailed NESCO to get a list of the ingredients and there is MSG and sodium nitrate in the packets.  If you are someone that cares about your health, these are not items that you would want to ingest on a regular basis or at all.
+
+product/productId: B0024NKMEU
+review/userId: A2NIVKUBU9PL1K
+review/profileName: Wayne R. Stoltzfus
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1296172800
+review/summary: Best Jerky
+review/text: We have used Nesco Jerky spices for several years,and really like it. It was great to find the 24 pack on Amazon at a 50% discount.
+
+product/productId: B0024NKMEU
+review/userId: A3CJHPVAKIVN61
+review/profileName: Joshua Q. Tholen "TXBA"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: Great quality seasonings, at a great price
+review/text: Nesco jerky seasonings/spices have always made the jerky I make taste great.  This bulk package is no different.  Each flavor I have used has turned out some very tasty beef jerky, and the price for all of these is unbeatable.  I had read some previous reviews saying that some people had been shorted on certain seasonings, but this was not the case with my order.  All counts were correct, and it is exactly what I had ordered.  I highly recommend these Nesco seasonings to anyone who wants to make the seasoning/curing process as easy as can be.
+
+product/productId: B0024NKMEU
+review/userId: A3HHNJ4PFU6VU0
+review/profileName: KD Florida
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348185600
+review/summary: Good deal, good stuff !
+review/text: We purchased this before from Amazon and loved it, so we purchased it again!  Everyone loves the original flavor!  The Hot and Spicy is a little hot for us, so since we use ground turkey that comes in a 2.5 pound container, we use one Hot and Spicy and one Original.  That makes the people who like the hot & spicy happy, but isn't too hot for us !  The Teriyaki is a little bland, like many people pointed out.  So, I throw a little extra liquid Teriyaki in there to help it along.  The Garlic & cracked pepper is really good too !!  We have a Nesco dehydrator and put it on for 8 hours, using the round tip on the jerky gun.  It comes out like a Slim Jim, but so much better for you - less fat, etc... Yes, I know there are chemicals in this too... We also use the dehydrator for fruits and herbs...  When we run out of this 24 pack, we will be reordering from Amazon !
+
+product/productId: B0024NKMEU
+review/userId: A30T84IGII9JN2
+review/profileName: Amazon Buyer "AB"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338336000
+review/summary: Delicious & Easy
+review/text: We bought the variety kit so that we could try multiple flavors & we love them all.  They are easy to use & make great tasting jerky.  We definitely will be buying more.
+
+product/productId: B0024NKMEU
+review/userId: AN3SW7ZA7EB1H
+review/profileName: D. Hyatt "Doc"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336694400
+review/summary: food products
+review/text: This a pretty good jerky making product. I bought a dehydrator and have been making quite a bit of jerky. It is assorted flavors so just find which you like better. I mix them together. I don`t know how other people do it but I can`t see making a batch of jerky and tossing all that mix away after. I always drain and put in the dehydrator and freeze the left over liquid mix, and add more to it next time I make a batch. I always marinate in a couple of large glass bowls but I do think it might be better if I can find a large thick sturdy clear plastic bag for that. It certainly would take up less room in my fridge, and I think I could take it out often and shake it up more thoroughly with out any spilling in my fridge. Good stuff this. Making home made Jerky is not a cut and dried deal. It takes a lot of trial and error and, a lot of research. This is good stuff and seeems to be a very good blend of seasoning to cure ratio.
+
+product/productId: B0024NKMEU
+review/userId: A3EC71MZU0L6YN
+review/profileName: agenuine1
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335398400
+review/summary: Love these apices
+review/text: I have yet to try a flavor that we have not LOVED!  This is by far the best spices I have tried!
+
+product/productId: B0024NKMEU
+review/userId: A3D0HMC6RQT0N0
+review/profileName: J. Flood
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331596800
+review/summary: So far everyone is happy with the flavors.
+review/text: I use this to knock out some quick home made jerky that the kids plough through like candy. Everybody seems content with the taste and the pre-measured packs make it quick and easy. I got the variety pack to get the spicy one in the hopes it would last longer-to no avail. Although there was a breakin period they plough through the spicy stuff now too.
+
+product/productId: B0024NKMEU
+review/userId: AAHT52VAER253
+review/profileName: Robert
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322265600
+review/summary: Jerky Spices
+review/text: This is a great deal on Nesco Jerky Spices, The price would be alot higher at the store.  Great variety of Jerky Spices, already fixed several and taste good.  Would have been a 5 star, but the package was opened? Nothing missing just opened.
+
+product/productId: B0024NKMEU
+review/userId: A1AY474RE6G8KH
+review/profileName: Mark A. Mckinney
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296432000
+review/summary: Great Assortment, Poor Packaging
+review/text: Great assorment of flavors, but I expected them to come in some sort of Nesco box to hold all of the packets, not a bulk plastic bag with a thermal seal.
+
+product/productId: B0016HLAZA
+review/userId: A3RY71SGVRUWR4
+review/profileName: Annette C. Chamberlain
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1272240000
+review/summary: hot chocolate
+review/text: Got the product in a timely fashion and it is yummy. There used to be a store near me that sold it but it closed down so now the only way I can get it is through amazon...well worth it.
+
+product/productId: B0016HLAZA
+review/userId: A16A6H6DXBCZXD
+review/profileName: S. Hinckley "sahinck"
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1261526400
+review/summary: False description
+review/text: Item specifically says "NO HYDROGENATED OILS", but the ingredient list on the tin includes "partially hydrogenated canola oil". Very disappointing.
+
+product/productId: B003VDB8QS
+review/userId: A3K1AZRGMQ6IIU
+review/profileName: J. Valiulis
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1314835200
+review/summary: Very bitter, and too coarse ground for use in an espresso machine
+review/text: I bought this coffee when I ran out of my favorite espresso coffee, Goya. It was a few dollars more expensive but I love having coffee at Starbucks cafes, so I figured it might be worth it. First, it is ground so coarsely that I must grind it some more in order to use it in my home espresso machine. Second, it seems to be among the more bitter of any grocery store espresso coffees that I have ever bought. Even with milk and sugar, I could not mask the bitterness. I won't be buying it again.
+
+product/productId: B0058EGSB8
+review/userId: AXWNUIWXYZHZU
+review/profileName: Lorrinne
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350950400
+review/summary: Perfect biscuits everytime
+review/text: I've been using this for years and years, i's very hard to find so I now buy it from amazon to save time. Makes perfect biscuits everytime, no worries. Once you try it you'll never change just like me.
+
+product/productId: B0058EGSB8
+review/userId: A2UMA0H1TCRCQQ
+review/profileName: Ila "retired empress"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350259200
+review/summary: Best ever.
+review/text: I stumbled on this baking mix while searching for another brand, which I couldn't find.  This is the best "substitute" I have ever found.  Biscuits that look and taste exactly like Grandma used to make, dumplings to die for and it works wonderfully for dredging meat.  I wish I had found this product years ago.  There are many recipes on the box which I haven't had time to try, but I'll wager they are good.  Try it, you will love it.
+
+product/productId: B0058EGSB8
+review/userId: A1H3MAVUSP1P2S
+review/profileName: Shannon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350000000
+review/summary: 10 times better than Bisquik
+review/text: I love this baking mix. It makes the best pancakes, as good as if I made them from scratch. If you like the convenience of Bisquick, switch to this. I find it at my local King Sooper or Safeway.
+
+product/productId: B005DO5F6C
+review/userId: A18369UKVSN5M7
+review/profileName: L. Quintero "MrNoLove"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1324252800
+review/summary: Good Stuff
+review/text: Well, it isn't ULTRA HOT but it does have a kick - it mainly tastes smokey. Imagine a regular sweet and smokey BBQ sauce with a bite of a jalapeno. The Ghost Pepper is too far down the ingredients list which leads me to believe not enough is used in order to get that ULTRA HOTness I was looking for. Good product though.
+
+product/productId: B005DQD7CY
+review/userId: A2JF94G7O0EV2K
+review/profileName: N. Kline
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332547200
+review/summary: Best Price Anywhere. Well, it was.
+review/text: Title says it all. You can't find 20lb bags in the stores; the largest I've seen is the 14lb. Local stores have the 14lb at the same price as this 20lb, yet it also ships free.<br /><br />My cats love Iams and they rarely sick up with it.<br /><br />UPDATE 4/12/12: Amazon jacked the price by $7 to $35. Now it's not quite such a good deal...
+
+product/productId: B006E9PPCE
+review/userId: A3CCQ0PUQRLPFZ
+review/profileName: Becky
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1332288000
+review/summary: My favorite tea!
+review/text: This is my favorite flavor of tea. It has a smooth mint flavor.<br /><br />I had been purchasing Stash Moroccan Mint tea in local stores up until recently. I have not been able to find it anymore. I was so pleased to find I could purchase it online and buying the loose tea in bulk is cheaper than buying individual bags.
+
+product/productId: B006E9PPCE
+review/userId: A36F4SQV62GIG4
+review/profileName: City Girl
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1343260800
+review/summary: Great Morning Tea!
+review/text: Stash English loose tea is our breakfast favorite.  At a teabar we learned about tea washing as a first step for Oolong teas ... and once we applied this as a first step to brewing a pot of Stash English Breakfast tea ... our morning tea has been smooth and rich.  So try a quick splash of hot water over the tea filter and immediately pour that water out, next fill the pot and brew for 3:30-4:00 minutes, remove the filter from the pot, and enjoy a cup of great tea.
+
+product/productId: B006E9PPCE
+review/userId: A3CCQ0PUQRLPFZ
+review/profileName: Becky
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332288000
+review/summary: Great tea!
+review/text: I try to drink several cups of green tea every day, and I like a little variety in flavor. The Jasmine Blossom flavor is subtle and light. I used to be able to find this in stores, but I can't find any local stores that carry it now. This is really good tea, and buying in bulk makes it less expensive than purchasing the individual bags.
+
+product/productId: B006E9PPCE
+review/userId: A10O3BJOTLANAP
+review/profileName: pockydane
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350345600
+review/summary: not the best jasmine blend
+review/text: The tea tastes average and smells great... but I don't like the heavy flavor of the black tea.  The black tea overwhelms the jasmine.  This is a good breakfast tea alternative... will keep you awake for hours if you tend to drink your tea in the morning.
+
+product/productId: B006E9PPCE
+review/userId: APFY6A1OE5KBK
+review/profileName: tybro0103
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346803200
+review/summary: My Best Tea Purchase Ever
+review/text: I'm a big fan of both green and mint teas, so moroccan mint (a blend of mint and green) is a natural favorite of mine.<br /><br />I've tried moroccan mint from other places, and have not been impressed. The moroccan mint from teavana was just plain gross. This though, I can say is the best tea I've ever had.<br /><br />A great price too. Something like a dollar per ounce. Tea stores usually charge $8 for every 2 ounces.<br /><br />I steeped a spoonful with about 12oz in an IngenuiTEA. Very pleased. ;)
+
+product/productId: B006E9PPCE
+review/userId: A1H1940WZ4LSFH
+review/profileName: Scott Clines
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344038400
+review/summary: "The espresso of teas"
+review/text: Guess what. Stash really means it when they call this "the espresso of teas"! "Robust" in their description is code for "This sucker will rouse you after a night of throwing back pints of ale and carousing at the local pub." It is a dark, rich, and strong brew, but to say it has only one note is plain wrong. I am sitting here drinking a cup as I write (I buy mine on Amazon in the 3.5 oz pouches, so I might not show as a verified purchaser.), and I taste a range of flavors in the lower register. There are toasty warm notes, licorice, tars, and, yes, bitter notes, as befits its dark nature.<br /><br /> If a light-hearted tea is more to your palate, you must look elsewhere, but if you are seeking a strong, rich, flavorful, cup of tea, with a bit of an edge, this is it.
+
+product/productId: B006E9PPCE
+review/userId: A3DFQSLH6VZ8FZ
+review/profileName: Tiffany Ulrich "shopping mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338595200
+review/summary: Great tasting tea
+review/text: I love this tea.  It has great flavor.  It really beats all the tea bags I've been using.  Add some fruit while brewing for extra flavor.
+
+product/productId: B006E9PPCE
+review/userId: A2JZ9SYMWPZHHX
+review/profileName: Roger Albans
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1340755200
+review/summary: If you like the flavor of plastic...
+review/text: Just finished drinking some of this and the flavor of the thick industrial plastic bag is still in my mouth.  Very strong taste of chemicals and quite possibly the worst tea I have ever drunk.  I drink the Stash English Breakfast tea bags on a daily basis and enjoy those quite a lot so I had very high hopes for this product and was thoroughly disappointed.
+
+product/productId: B006E9PPCE
+review/userId: A1UACOLNQ69A1K
+review/profileName: the great she-bear
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1342828800
+review/summary: waste of money
+review/text: i gave up my wonderful cup of morning coffee because i like it with cream [i need neither the calories nor the estrogen] and switched to a pot of tea in the morning. with skim milk, its ok.  did you know they put powdered milk in skim milk? sorry. i digress.<br /><br />your basic standard big-name tea bags are all mediocre so being half-scot i decided to just go for the floor-sweepings in rite-aid's brand. on sale, they are 100 bags for $2.50! and no worse [or better] than the standard types like lipton - even fairly close to the twinings types.<br /><br />well, i have grown a little weary of vaguely-richer-bodied-than-hot-milk-in-the-morning taste so decided to GO FOR THE REAL THING . Leaf tea rather than dust tea. so. what to buy?<br /><br />i purchased some loose breakfast tea at my neighborhood co-op [GOOD! very GOOD!] -shoulda stopped right there, but decided on a private order as the co-op tea is in a common bulk jar, where you scoop and fill a little bag. thought to myself, if i buy some thru amazon my tea will be a lot fresher.<br /><br />so which brand? i've purchased 'stash' semi herbal tea bags in little boxes at the market in the past, so when i decided to go for GOOD tea, thought. yes, 'stash' will be a nice tea.<br /><br />wrong wrong wrong. its flavor lacks all subtlety. no, actually, it lacks all flavor. no, actually, its bitter. and not in a nice way. and costs a lot more than the co-op's.<br /><br />now, i happen to like a lot of bitter things. heck, i like to nibble on baking chocolate [it has NO sugar] and boy is that bitter. i suck lemons for fun. well, that's sour, not bitter, but you get the idea. so i am not being picky. its downright rough.<br /><br />my advise is to check out your local food co-ops and health food stores. if you don't have one in convenient distance from your home, i suggest moving.  ;-).<br /><br />leave the 'stash' people's bulk tea to those who don't read these opinions before buying something on-line.
+
+product/productId: B006NWGCYW
+review/userId: AVNKNL27KP7NT
+review/profileName: Noel Jee "N.J."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Great taste, slightly expensive
+review/text: Ssamjang is always good for Korean BBQ, and this brand seems to do it justice. The taste is just right. The price is 30-40% more than at your local Korean grocery store, but the convenience of Prime makes it worth ordering, especially for a guy like me who doesn't own a car and needs to Zipcar to the nearest Korean grocery store.
+
+product/productId: B001K360PK
+review/userId: ADCH8MW7R2INX
+review/profileName: Mom of twin boys
+review/helpfulness: 18/18
+review/score: 2.0
+review/time: 1282521600
+review/summary: Way too small
+review/text: There were no Measurements of this product.  They were way too small for what I wanted to use them for ( party favor containers).  The boxes were about 3" across the middle (it tapers down), 2" deep, and 4.5"  tall.  Don't get me wrong; they're cute if you want miniature popcorn boxes.  Check out Hobby Lobby.  Target has some tall hard plastic ones in the dollar section at the front of store.
+
+product/productId: B001K360PK
+review/userId: A1FNKFSYO6HN6X
+review/profileName: athom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333411200
+review/summary: Perfect for Kids Parties
+review/text: These boxes are the perfect size for kids parties and exactly what I was looking for.  If other people who commented had read the description, they would have clearly seen the dimensions to know that they are not the tall ones like you would get at a movie theater.  I will definitely buy these again for my kids parties.
+
+product/productId: B001K360PK
+review/userId: A10LHJP4ZPSDT3
+review/profileName: Nancy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1318464000
+review/summary: fine
+review/text: This works for what I wanted it to do. The quality if good for a popcorn box. What else can I say. I would buy them again.
+
+product/productId: B001K360PK
+review/userId: AMYPFDXD09FF8
+review/profileName: Catherine
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1312329600
+review/summary: Good, just shorter than I thought
+review/text: Pefectly serviceable boxes, they just seem very short compared to what I expected. It's hard to judge the scale in the picture. Since we'll be serving popcorn with slushies and after they've already had dinner and cake, they'll do for what we need.
+
+product/productId: B001K360PK
+review/userId: AWSC3P4D3P9M0
+review/profileName: Santiago
+review/helpfulness: 0/7
+review/score: 3.0
+review/time: 1264982400
+review/summary: great service
+review/text: There was a problem with the shipping.  I called the company, they fixed the problem and sent out a replacement using Express Delivery.  Great Service!
+
+product/productId: B000FFAK6Y
+review/userId: A3IOCPLIMYDBCD
+review/profileName: ~~Hummingbirder~~ "Call me hb"
+review/helpfulness: 12/13
+review/score: 5.0
+review/time: 1254355200
+review/summary: Luscious Lemon Luxury
+review/text: I had a craving for a lemon something sweet.  Not pie.  Not candy.  Cake?  Oh, a bit too much.  But the craving would not go away.  I thought about baking some lemon cookies, but dismissed that idea.  I'm a good baker, but I was not in the mood for it.<br /><br />So I went to the supermarket and checked at the bakery.  I got donut.  Well, I didn't buy donuts; I mean the bakery had no lemon cookies.  Then I checked the cookie aisle.  These were the only lemon cookies I could find.  I was shocked!  And they were on the top shelf at the end of the aisle, where the merchandisers like to place the pricey stuff.  Not that one could miss that green and yellow package, and why do they show a cockatiel?  I was skeptical, but the craving had evolved into an obsession, so I bought them, expecting to be completely disappointed.<br /><br />They are wonderful!  Best new cookie I've tried in many years.  These are sandwich cookies with more heft than Oreos.  The cookie is made short and not too sweet.  The cream is a perfect concoction of smooth, lemony and sweet.  The overall flavor and texture of this cookie is truly fine.  They are unquestionably lemon, but not overbearing.<br /><br />Best of all, these go wonderfully with tea.  There's nothing worse than an overly sweet cookie with tea!  A perfect match with black, green or oolong.  I wouldn't recommend them with a spiced tea.  I enjoyed them very much with <a href="http://www.amazon.com/gp/product/B002AR158W">Numi Organic Tea Magnolia Puerh, 16-Count Full Leaf Tea Bags (Pack of 2)</a><br /><br />Bonus points for those looking for cookies made in a nut-free factory.
+
+product/productId: B000FFAK6Y
+review/userId: A3FQ6KOA9KP9OJ
+review/profileName: Rosalie Sable
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1167868800
+review/summary: If you like lemon, you'll love these cookies
+review/text: These sandwich cookies have a shortbread-like exterior and plenty of sweet-tart lemon filling.  They've been my favorite commercially baked cookie for years.<br /><br />Dare is a Canadian company and also makes chocolate, cocoanut, maple and perhaps other flavors of sandwich cookies, and they're all excellent.
+
+product/productId: B000FFAK6Y
+review/userId: A1L2H35G8439N3
+review/profileName: Erica Young
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1247961600
+review/summary: Best lemon cookies out there!
+review/text: I miss the old Lemon Coolers that are no longer made and I am always on the lookout for lemon cookies to satisfy that craving.  I came across these the other day at the Fresh Market and they are delicious.<br />I was first attracted to the packaging and then when I realized they were lemon, I had to try them.  The filling on the inside is awesome!<br />I guarantee satisfaction.
+
+product/productId: B000FFAK6Y
+review/userId: A3GGT3WFH70I6H
+review/profileName: Anita White
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1189296000
+review/summary: dare lemon cookies
+review/text: I used to buy these cookies when we lived in California, but when we moved to New Mexico I couldn't find them anywhere.  So I decided to try and find them at Amazon and low and behold there they were.  My husband has 3 of these every morning with his coffee.  They have such a delicious lemon taste.  I would recommend them to anyone.
+
+product/productId: B000FFAK6Y
+review/userId: A13TB5JHNR6V8J
+review/profileName: Lyndi
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300233600
+review/summary: Dare Brand- Best Commericial Lemon Cookies
+review/text: I'm Canadian.  When I moved to Indiana to work, I was horrified that I could not find my favourite Dare Cookies. (Lemon Creme and Ultimate Maple).  Every time I fly home to Saskatchewan, I go on a shopping spree and fill a huge box with goodies from home.  Then I ship it south to Indiana.<br /><br />Today, I decided to check on line to see if Dare Cookies could now be purchased on line at a reasonable price.  I was delighted to find they were available through Amazon!  As an Amazon Prime member, I can even get them shipped for free.  That's a real bonus.<br /><br />Now if someone will just start selling EatMore Bars!!!
+
+product/productId: B000FFAK6Y
+review/userId: A28ICVT5YAK7KR
+review/profileName: Mrs. Hecht
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294012800
+review/summary: Mrs. Hecht
+review/text: How can you compare a cookie made of chocolate, marshmallow, and raspberry to a lemon cookie.  Dare makes both - Whippet and Lemon Creme.  They are both just as good, no great.  Best cookies ever!
+
+product/productId: B000FFAK6Y
+review/userId: A338JQW3Q8QA0P
+review/profileName: Sarah
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1289779200
+review/summary: Yum Yum!
+review/text: Very high quality cookies.  The lemon flavor is much more intense than some other cheaper brands.  These are great!
+
+product/productId: B000FFAK6Y
+review/userId: A8LS5YOVMFYT8
+review/profileName: Mastershake
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1305590400
+review/summary: Pass me an infant so that I may spike it
+review/text: If I were a suicide bomber I would request that Allah give me 72 boxes of these cookies and keep the virgins for himself. Never have I tasted a cookie with such elegance and grace as this lemon treat bestowed upon us by the fine folks at Dare Foods. And who else but America's hat could deliver us a cookie worthy of Zeus himself. If a representative from Dare foods approached me and propositioned me to kill his estranged ex wife because the alimony payments (Do they even have alimony in Canada?) were getting to be too much of a burden and he needed a hitman on a budget, I would take as payment 597 boxes of these cookies, plus any gas and tolls incurred.
+
+product/productId: B00474ALEU
+review/userId: A2BLFDCS2P3NTX
+review/profileName: D.J. "Amazon Fan"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1343606400
+review/summary: Buyer BEWARE !!!
+review/text: The item that Nutricity ships is not true product description on the Amazon web site.  This water is not from New Zealand but bottled somewhere from muilt-sources and has a bad smell and tastes bad.  Nutricity  refuses to honor my complaint that the item is not as described and will not refund my money.  BUYER BEWARE! The one star review is only becuase you have to put at leaset one to post a review, so my review should have no stars.
+
+product/productId: B00474ALEU
+review/userId: A191W0ZY4R3ONS
+review/profileName: C. E. Griffin
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1300492800
+review/summary: great water
+review/text: Really good water...<br />I love it  high alkaline<br />Just hard to find..and expensive but good l the same
+
+product/productId: B00474ALEU
+review/userId: A2STQ2OQ5NL4JG
+review/profileName: J. Dubose "J.D."
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1344211200
+review/summary: No Longer from New Zealand-----Horrible Water!
+review/text: DoNOT Buy this Water. This water used to be delicious but the have recently within the last 3 months started making changes to this water. Cheaper packaging and the water is no longer purchased from New Zealand it is actually now purchased in different parts of the US and they charge the same price at my local Whole Foods as if it was still from New Zealand. The water now tastes horrible....it tastes like it has sediment or contaminents in the water. I inquired about the change in the water and here is the email I rec'd: Although Eternal was previously sourced in New Zealand, there are many reasons for our decision to change to a US-based source. Your naturally alkaline spring source is nestled deep in the Great Smoky Mountains of Eastern Tennessee at the base of English Mountain.<br /><br />I am now searching for another water to drink. SMH!!!
+
+product/productId: B00474ALEU
+review/userId: A3AC3PDDVGG3U8
+review/profileName: Julie Ramsby "JR"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330992000
+review/summary: Best tasting water out there
+review/text: I drink a ton of water throughout the day while at work - and this is the only water that actually tastes good. I don't know what it is about Eternal, but it has this really pleasant clean velvety taste to it that I have yet to find in other bottled water. If you were to drink this water and then take a sip of Fiji water, the harshness of Fiji would knock your socks off. (I am not sure about the alkaline and how it effects clarity - as I'm tired on matter what during the day. I don't feel a difference from drinking this specific water. However, not even coffee helps!)
+
+product/productId: B00474ALEU
+review/userId: A3N69MFCDW6WDH
+review/profileName: Cari Wells
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318896000
+review/summary: Helps IBS
+review/text: Completely agree with the other reviews. May be placebo but I found it reduced my IBS symptoms thanks to the ph balancing.
+
+product/productId: B00474ALEU
+review/userId: A3HAL5098OSU6A
+review/profileName: spindymindy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318204800
+review/summary: If u are looking for amazing bottled water
+review/text: I love this water; placebo effect or truth to the Ph...sorry im a skeptic...this stuff makes me feel fantastic!! If Im going to drink a bottle of water I turn to this brand of alkaline water. :D
+
+product/productId: B001EO5Q8C
+review/userId: A313YFDIFTUZ4U
+review/profileName: Jerry
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313971200
+review/summary: Nice coffee
+review/text: For a decaf, this coffee tastes full bodied. I do not drink coffee much but it does have that real coffee taste. I would buy it again.
+
+product/productId: B001EO5Q8C
+review/userId: A27KG4R19SQ9H2
+review/profileName: J. C. Ricci
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1285372800
+review/summary: Great Coffee
+review/text: I love this coffee, I wouldn't buy any thing else.  I am so glad I can purchase it through Amazon
+
+product/productId: B00032E7Y0
+review/userId: AW8A70NABZS1U
+review/profileName: John W. Misiaszek
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340582400
+review/summary: The only one
+review/text: We love our Polish sausage and baked beans. The two together never taste as good until we use B&M Baked Beans, the Original Baked Beans. Try them, you'll like them.
+
+product/productId: B000I6O3UO
+review/userId: APXN2ZY2HEAQM
+review/profileName: Yankees Photog
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1297641600
+review/summary: Chocolate Mint Coffee
+review/text: Absolutely one of my favorite coffees! Ever! I can actually taste the mint AND the chocolate. It will definitely be a staple at my house!
+
+product/productId: B000I6O3UO
+review/userId: AH0MKF194QMRE
+review/profileName: Bird That Flew
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1276560000
+review/summary: Great aroma, nice taste
+review/text: As with all the Coffee Masters flavors I've tried, the aroma of this variety is absolutely amazing.  It smells like a York Peppermint Patty when you open up the bag...mmm.  The chocolate mint taste is not overpowering in flavor, but you can tell it's there.  I am weird - I was concerned, the first time I made a pot of this coffee, that the mint flavor/scent would permeate my coffeemaker, coffee pot and/or plastic travel mug.  I'm pleased to report that this did not happen!  This is a lovely coffee, not too strongly flavored but not too mild, either.  Definitely one of my favorite varieties of this brand.
+
+product/productId: B002E1SEDI
+review/userId: A13PGVA1GFY3GU
+review/profileName: Pam
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323820800
+review/summary: Really nice!!
+review/text: Packaging was nice. Arrived with no breakage. Perfect little dessert cups. Lots of complements on the dessert bar. I tried all three - white, milk and dark chocolate.
+
+product/productId: B003H78UBO
+review/userId: A2DYBRMPPDV7YD
+review/profileName: Lotus
+review/helpfulness: 7/8
+review/score: 1.0
+review/time: 1309392000
+review/summary: I actually love this product - but what a mistake I made - size!!!
+review/text: I truly love Bassett's JBs!!!!  If you buy them, and you love sweet jelly candy - you'll love these guys!  However, I bought the item thinking the package was the bag about 3 times this size - mistake.  This package is 215g which weighs 1/2 pound.  $20 for a pound of these is a complete rip!!!!  This item actually sells for about $3 in stores where you can find this English treat.  Be careful - unlike me.
+
+product/productId: B000XQATY8
+review/userId: A3MIQ5E3LWET4D
+review/profileName: shoppin4family
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1307836800
+review/summary: Only one our dog can eat
+review/text: We have a German Shepard/ Akita mix with food allergies to just about everything.  This is the only food she can eat without a reaction.  Natural Balance now has a very similar limited ingredient, duck and sweet potato product, but for some reason, that one makes the dog's stomach run.  The biggest cons with this product is price and availability.  We have to order it online because there are no local retailers that carry this product, and having such an expensive dog food shipped only makes the price harder to handle.  But the dog's gatta eat!
+
+product/productId: B000XQATY8
+review/userId: AQT9H7NK8W0S4
+review/profileName: Zetara "zaccone63"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329091200
+review/summary: Great choice for rash
+review/text: Our dog had a groin rash.  On the advice of our breeder we switched him to duck and potato.  He was previously on a grain based dog food.  His rash has gone away and his skin is healthy.  When we first got this, I tried mixing in the new dog food with the old, but he picked out and ate only the new dog food.  He actually enjoys eating this.  Highly recommended.
+
+product/productId: B000XQATY8
+review/userId: A3HPYWZNZV2NPL
+review/profileName: ahmabrooke
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1312070400
+review/summary: after years of trying everything
+review/text: this is the only food my dogs with sensitive stomachs could eat without spitting up.  I was so relieved to find it and from all that I read, it gets great reviews across the board. the only draw back is that its not stocked in many local pet stores but now that i can buy it on line, that problem is settled.
+
+product/productId: B000XQATY8
+review/userId: A2GVR3WEOBSFWO
+review/profileName: JohnnyB "JohnnyB"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Healthy, makes dogs feel good
+review/text: This is a high quality food. The dogs like it but don't overreat. Their coats are nice, and stools are firm and healthy-looking.
+
+product/productId: B000XQATY8
+review/userId: ANBV188V14IH9
+review/profileName: pigweeds mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344643200
+review/summary: great for dogs with allergies
+review/text: My pug has bad allergies. After trying alot of different food we finnally found Pinnacle duck and potato.  Both my dogs like eating it and it has help to significantly reduce his allergies.
+
+product/productId: B000XQATY8
+review/userId: A7WLAB8NXTR8O
+review/profileName: tonibag "tonibag"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341446400
+review/summary: Great Single Protein Food & Grainfree
+review/text: My dogs love the Pinnacle brand (but honestly, they ain't the pickiest doggies) and the price is very competitive, with the free ship.  If you're trying to keep your dog on a single protein for allergy reasons, this food fits the bill.<br /><br />The downside is that it takes Amazon FOREVER to ship the product.....please plan on 2-3 weeks to receive, even when Amazon shows it is in stock.  Even though I plan ahead, due to sloooooow shipping I have to run out to a local box store and pick up a bag because I've run out waiting to receive product from Amazon.....savings down the drain.  What up with the pokey shipping lately?
+
+product/productId: B000XQATY8
+review/userId: A20TZLGORUSGSF
+review/profileName: whatthe... "dogsandcats"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: Awome PRICING!
+review/text: The food seems to be very agreeable to my 2 Pugs (16 yrs old and 6) and my Boxer 11 months old.  he was the one I noticed who had food allergies.  He would have hives on his coat and my teacher mentioned Duck being a good meat and then I saw that this brand was the only one that had lots of real duck as it source and not whatever duck stuff.
+
+product/productId: B000XQATY8
+review/userId: A2T7Z1KMC82SJ1
+review/profileName: Mary
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339891200
+review/summary: Finally!
+review/text: It became obvious immediately that my Havanese had a sensitive stomach.  I had to keep changing dog foods to find one that worked.  For a while, I even combined two together.  After awhile, all failed.  I did extensive research on different foods, and decided to give Pinnacle a try after liking what I read.  It has been a success.  My dog loves the food, and he doesn't have any more stomach issues.  Clean-up is now a breeze.  I have a happy dog and a happy dog's mommy.  :)  Amazon's price is what keeps me coming back.  It's way more reasonable than the pet stores and delivery is always prompt.
+
+product/productId: B000XQATY8
+review/userId: A2MJDXTRL0XE6W
+review/profileName: P. Clarke
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327881600
+review/summary: great food for your dog
+review/text: I have 3 dogs and they all love this product.  I only buy premium dog foods, (omega oils and flax, etc) this is a fine example of quality ingredients. It reflects in skin, coat, health...worth the extra cost.
+
+product/productId: B004TMBOGO
+review/userId: A2GRYWD71DXC2X
+review/profileName: Roxanne Klein
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1319673600
+review/summary: yummy
+review/text: This products is great. I buy it at my local grocery store.  Tastes just like regular Starbucks's Frapuccino but it has less calories. I have tried both the vanilla and mocha and I enjoy them both.
+
+product/productId: B004TMBOGO
+review/userId: A2ACUB2881HW0X
+review/profileName: Hammer + Jazz "rock of jib altar"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339200000
+review/summary: Tastes nearly as good as the full calorie to me
+review/text: At just 100 calaries , these Splenda sweetend little starbucks coffees are just wonderful . I'm doing everything in my power to lose about twenty pounds . This product is fantastic in my eye .
+
+product/productId: B004TMBOGO
+review/userId: A1ZZH914RAEFS7
+review/profileName: KellieJamel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323302400
+review/summary: Love it!
+review/text: I love the Frapp lights.  I've been drinking these for the past few months they are lighter, not as thick as the original and fewer calories...plus, plus, plus.  Recently I purchased and tried to drink a regular Frapp but couldn't now that I've gotten accustomed to the taste of the light. There is a definite difference in taste and if you are not a fan of Splenda, I do not recommend this drink, nowever if you are...it's great!
+
+product/productId: B004TMBOGO
+review/userId: A3NOY5SS9K58ZJ
+review/profileName: Vanessa
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1318377600
+review/summary: Doesn't taste good
+review/text: It doesn't taste good at all.<br />The artificial sweeteners give this drink a bitter, horrible aftertaste.<br />The regular Mocha Frapuccino tastes waaay better.<br />If I were on a diet, I would prefer not drinking Frapuccino than drinking this one.
+
+product/productId: B000I1R0JU
+review/userId: AMOG8TZ3A4PJE
+review/profileName: V. Flynn
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1317513600
+review/summary: Absorbs, doesn't track but heavy and unpleasant perfume.
+review/text: In search for a non-tracking highly absorbent kitty litter, I found this Ever Clean product. The reviews sounded good so I ordered three boxes for the three litter pans in the house. The order came quickly with each box of litter in it's own Amazon cardboard box. The FedEx delivery man must have been annoyed at the weight because he left the boxes on the ground outside the deck box I have by the front door specifically put there and noted for package deliveries. It is a good thing it rained prior to the delivery!<br />Anyway back to the litter itself. I have a 16 year-old cat who was diagnosed with diabetes last spring. She is receiving insulin twice a day and is doing well but drinks and pees alot more then she used to. With other litters I have tried, the urine sunk right to the bottom of the pan becoming muddy and difficult to scoop. The Ever Clean litter absorbs and clumps well, but has a heavy coarse sand-like consistency. It also has a heavy (to me) perfume to it that I do not care for. After scooping the pans each night, I can smell the perfume throughout the house and on me. It is better than the odor of cat urine but is a very heavy floral, not a fresh smell at all. I have never liked litter that comes in a box because it seems like you lose a 1/2 cup or more of litter between the walls of the box. At the price of the Ever Clean, every bit counts.<br />I have since discovered Cat's Pride Fresh and Light which I have mixed with the Ever Clean. The Fresh and Light jug is much easier to handle weight-wise, absorbs well, doesn't track and has no odor to it. Eventually the Fresh and Light will be the sole litter I use.
+
+product/productId: B000I1R0JU
+review/userId: AIO2K1QS4HF05
+review/profileName: Vic
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304121600
+review/summary: Best cat liter I have tried
+review/text: I have 2 cats and this liter literally eliminated all odors from the liter box room. this liter clumps up very nicely making it easy to scoop and helping you conserve the liter which will save you money. Has a good but slightly strong and powdery smell to it. and I must say there is alot of dust when pouring in liter. I would keep your cats away when you are scooping/refilling so they don't inhale the dust. But the odor eliminating, fair price, and clumping make the dustiness well worth it. Buy this liter.
+
+product/productId: B001UL9O0U
+review/userId: A1CKAZZ3Z647NA
+review/profileName: Loyal Amazon User "Loyal Norton User"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311724800
+review/summary: Love this soup
+review/text: I absolutely love this soup.  Unfortunately the cans arrived dented.  But when I called Amazon to complain, they credited my credit card without any issues at all.  I wish they had had more of the soup so that I could have ordered more instead of the credit.
+
+product/productId: B000F742SY
+review/userId: A1U3SYIJ2RRBDG
+review/profileName: JM
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1249603200
+review/summary: One word: YUM!!!
+review/text: For any candy bar lovers, I STRONGLY recommend these. They ARE a nice light crisp snack, just sweet enough with wafer and cream layers, chocolate...so tasty! My husband and I first tried these when we were in Victoria BC for our honeymoon. Our tastebuds fell in love with Coffee Crisps. We've been known to playfully fight over them. Anyone we know who went to Canada, we asked them to pick some up for us. Now they're available on Amazon, and thanks to Amazon Prime, we can get them within two days! Super nice!
+
+product/productId: B000F742SY
+review/userId: A3FFLLXO4VSZ3I
+review/profileName: Big_Blue
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341878400
+review/summary: God's gift to candy
+review/text: These candy bars are wonderful. When I go to upstate New York I put up with 45 minute waits at the border (in each direction) just to buy this candy. It has a wonderful coffee flavor, and its very light. I wish they would market this candy bar again in the US
+

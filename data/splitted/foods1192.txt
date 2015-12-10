@@ -1,0 +1,1143 @@
+product/productId: B001EQ5O4G
+review/userId: AL9B33EK54H84
+review/profileName: Libby Tarian
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1299628800
+review/summary: Starbucks is better when you buy at the store
+review/text: I buy the best pre-ground on the spot coffee from my Starbucks, we have 3 locations in a town with 200,000 people.  The coffee that is on Amazon is SOOOOO expensive.  I pay around $11.00 for this coffee and have it ground in the store.  Why is this so expensive here on Amazon?
+
+product/productId: B001EQ5O4G
+review/userId: A270S3MZM5MOOI
+review/profileName: Rosemary T. Lewis
+review/helpfulness: 2/5
+review/score: 5.0
+review/time: 1285286400
+review/summary: Package Left in High Rise Public Entrance
+review/text: I love Starbucks coffee.  This coffee has great flavor and body.  It' great to wake up to the smell of freshly ground, freshly brewed Starbucks French Roast Extra Bold Coffee.  What a way to start my day!<br /><br />Unfortunately, I did not know that I would have to go to the public entrance and carry my package to my apartment.<br /><br />Ship Carrier:  Ensenda<br />Status:  Delivered<br />Location:  Front door<br />Signed for by:  Released by Delivery Agent<br /><br />My package was not left at my front door.  It was left in the PUBLIC ENTRANCE.  I live in a high rise building and I'm totally disabled.  The Delivery Agent stood in the public entrance, and rang my bell.  When I answered, he stated, "Your package is here."  Since all of our packages are delivered to our apartment doors, I pressed the unlock public entrance button and waited for my package to be delivered to my apartment.  After a few minutes, I went downstairs and luckily found my package still sitting in the public entrance.  Anyone could have picked up my package and left.  Since I was unable to carry my package to my apartment, my neighbor had to carry it to my apartment.  THIS IS NOT PACKAGE DELIVERY!  UPS has Ebou deliver our packages to our apartment doors.  Even USPS delivers our packages to our apartment doors.  I'm really disappointed that Amazon has chosen such a poor delivery service.  I've been ordering from Amazon for years and never had this problem.  Please fire Ensenda for not actually delivering the package to my front door and misrepresenting exactly where my package was left.
+
+product/productId: B001EQ5O4G
+review/userId: A1HA8XN2ES69C
+review/profileName: A. Crain "texas shopper"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1323043200
+review/summary: Stinky Beans
+review/text: When I opened the bag of beans, couldn't believe the smell!  Smells like dirty diapers.  Thought the beans must be contaminated, but ground and brewed a cup, taste was good, not the greatest brewed coffee aroma, but not disgusting like the beans and grounds.  Too cheap to throw out the bag of beans, so will hold my nose and continue using and hope for no health side effects.
+
+product/productId: B001EQ5O4G
+review/userId: A2C1BEO684IKRZ
+review/profileName: John Locke "JL"
+review/helpfulness: 1/5
+review/score: 2.0
+review/time: 1281657600
+review/summary: Overpriced
+review/text: I wouldn't mind paying the price if the coffee was any good. The beans smell like burnt coffee, unlike any other French Roast I have picked up. This leads to a very bitter and burnt taste throughout. There is simply nothing special about this expensive coffee.
+
+product/productId: B001EQ5O4G
+review/userId: ALBPT17SC99K0
+review/profileName: Gib
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1301529600
+review/summary: Great Coffee - Subscribe & Save Sucks
+review/text: I have been drinking Starbucks French roast for about 15 years now. The coffee would get five stars except Amazon Subscribe & Save service sucks. I never used this service before, but decided to take advantage of it for the first time, since I drink so much coffee. Signed up for a once a month shipment on this item and Amazon canceled after my first shipment, WTF! Very dissapointed Amazon.
+
+product/productId: B000H27O8C
+review/userId: A1U23J6H25OQE5
+review/profileName: D. Gee "PT-tech"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1200268800
+review/summary: Just hot water
+review/text: The caramel ones tastes great with just hot water!<br /><br />I haven't tried it yet...it may even be better with hot milk...
+
+product/productId: B000H27O8C
+review/userId: A2T03XQ09L85YX
+review/profileName: H. Wilmot
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1198886400
+review/summary: Ummmmmmmmmmmmm
+review/text: A cup of this with a dollop of whipped cream is heaven on a cold, damp or snowy, winter evening.  Heaven!
+
+product/productId: B000H27O8C
+review/userId: A2TM5TPIXIY5TB
+review/profileName: Venus Starlee "Mom of 1 and a bun"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1200182400
+review/summary: Mint Cocoa Heaven
+review/text: I've gotten the Land O Lakes mint hot chocolate in the variety packs before and this is my favorite flavor, so I thought why not just drink the one I like best.  Actually, I mentioned it to my best friend and she ordered me a case last year for Christmas and I LOVED it!!!
+
+product/productId: B000H27O8C
+review/userId: AVK8NCLIBYKXD
+review/profileName: Rik "Rik"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1169856000
+review/summary: Excellent Hot Cocoa!
+review/text: We've had the Land-O-Lakes Supreme, French Vanilla and Graham and all have been excellent.  With numerous others as comparison (Swiss Miss, Nestle, Ghiradelli etc) Land-O-Lakes is the best I've had to date.
+
+product/productId: B000H27O8C
+review/userId: A1VPK96SU7YFMP
+review/profileName: Sharon Lynn
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1166659200
+review/summary: Rich & creamy
+review/text: This is great hot cocoa!  The cinnamon is probably my favorite, but all the LOL hot cocoa flavors are good.  You can't beat the Amazon price either.  I can buy these at my local grocery store but they're .59 per packet.  Ouch.  A box of 72 lasts quite a while...unless you share, of course :)
+
+product/productId: B000H27O8C
+review/userId: A3N0KQSPPMAZF7
+review/profileName: Elenor
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1248825600
+review/summary: Tastes great, wish it were healthier!
+review/text: "Corn Syrup Solids, Partially Hydrogenated Soybean Oil, Polysorbate 60"<br /><br />It's really good cocoa, and I make it every morning for my husband (he won't drink coffee); we even bring it along on vacation so he can have it. I just wish that list of poisons above weren't included.  I've suggested to Land-o-Lakes that they make a ... "Sweet Nothings" version or whatever they want to call it:  a *totally* unsweetened version, so we can add whatever sweetener we wish to add.<br /><br />The corn syrup is unhealthy in the extreme; the 'partially hydrogenated' means trans fats (and soy is *not* healthy, contrary to the "common" "wisdom"), and the polysorbate has been shown in cosmetics to cause problems (and why is a cosmetics ingredient in a food item?!).<br /><br />That said (er... written), until someone comes up with a healthy product that tastes as good as this stuff does, he's gonna keep drinking these poisons every morning. {sigh}
+
+product/productId: B000H27O8C
+review/userId: A2HCE1UR9PSLWI
+review/profileName: CarolMC "Philippians 4:8"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1276732800
+review/summary: Supreme Chocolate Makes My Heart Sing!
+review/text: Instead of creamer and sugar, I add a packet of this to my eight ounces of freshly ground coffee each morning! For a mere 140 calories, I enter bliss! Comparable, both in yummy-ness and nutritionally, to a whole milk Starbucks Mocha Frappuccino�, this Supreme Chocolate mix comes in at 3 grams of saturated fat (30 calories, 14% DV, from hydrogenated soybean oil and coconut oil), 0 trans fat, and 24 grams of sugars (sugar and corn syrup solids). As for price, since I live three hours from the nearest Wal-Mart, the shipped price is actually a little better than I would pay locally, and it arrives practically overnight. The entire box of 72 packets is only 7"x7"x18", and consists of six smaller display type boxes of twelve packets each. These 6"x7"x3.5" display boxes will tuck neatly into the smallest kitchen upper cabinets, and will maintain the individually wrapped single serving packets in a neat upright position. All in all, this is a big luxury for a little price, which is something that makes my heart sing!
+
+product/productId: B000H27O8C
+review/userId: A2D4TVRFOURH77
+review/profileName: MSGH
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1261526400
+review/summary: Price!
+review/text: Walmart sells these at $0.47 each and these are priced at nearly $0.62 each. Enough said.
+
+product/productId: B000H27O8C
+review/userId: A38NODGP1UU4RY
+review/profileName: STEPHANIE D. MCGOWN "Steph"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233619200
+review/summary: This product really calls for 10 stars
+review/text: This the best hot chocolate I have ever had.  I love this flavor.  I introduced it my niece and she now loves it as well.
+
+product/productId: B000H27O8C
+review/userId: AMP9TPA49MAA4
+review/profileName: tom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1204502400
+review/summary: Yummy
+review/text: I love this flavor, It is the same price as Walmart, but this is easier, plus you get 72, hard to find 72 at walmart all one flavor
+
+product/productId: B000H27O8C
+review/userId: A1PF1FZIFERWDW
+review/profileName: CLM
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1198886400
+review/summary: An Excellent Cup of Hot Chocolate!!
+review/text: Being a hot cocoa lover as I am, it's hard to believe I've never tried Land O Lakes Supreme Hot Chocolate until I received it as part of a gift basket. I must say, it was one of the best cups of hot chocolate I've had in a long time.<br />I've tried soooo many different brands....from the most expensive to the least expensive. This ranks up in my top 3...which is a hard place to get to in my eyes (or taste buds?).<br />At approximately $0.40 a serving, this is a great deal.<br />You'll find this hot cocoa rich in taste and quite creamy as well...even though it's simply made with hot water.<br />Make sure you follow the instructions on the packet....6 oz. of water per packet.<br />Go ahead...try it...you won't be disappointed!
+
+product/productId: B000H27O8C
+review/userId: A2PLHV5F0GLVU9
+review/profileName: Martha R. Barclay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300752000
+review/summary: LAND O LAKES HOT CHOCOLATE
+review/text: On cold winter evening my husband and I enjoy drinking hot chocolate while sitting in front of the fire watching a good movie. This is the best hot cocoa mix we have tried yet ... it is delicious! Of course we also like to add a bit of Bailey's Irish Cream, which makes it even better. YUM!
+
+product/productId: B000H27O8C
+review/userId: A3JC00KMNT4OUD
+review/profileName: mcoper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1284940800
+review/summary: The best hot chocolate EVER
+review/text: This french vanilla delight is warm and soothing on a cold winter day, or even a not so cold day.  I first received a few packs as a Christmas gift and was delighted to see it available from Amazon.
+
+product/productId: B000H27O8C
+review/userId: AA1JL2IMV66JV
+review/profileName: bonnie dean
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1278979200
+review/summary: wrong flavor
+review/text: i ordered mint chocolate and got supreme. i am very unhappy, becouse you cant return it..
+
+product/productId: B000H27O8C
+review/userId: ALDRCF8DQ5AE9
+review/profileName: C. Downs "Chocolate Rocks"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1261526400
+review/summary: Best Instant Hot Cocoa Ever!
+review/text: This cocoa is rich and flavorful, nicely chocolately! I only wish I could get the flavors in individual boxes. I love most flavors offered, but would love to be able to get my favorites on their own! I like to give packets as Christmas gifts to people I work with done up with a cute package and winter poem. Everyone seems to love it!
+
+product/productId: B000H27O8C
+review/userId: A2GV7Q5MH8BIBX
+review/profileName: Toni E. Krogh "Icelady"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259539200
+review/summary: So good!
+review/text: I never get tired of mint chocolate cocoa! Can be pricey, try to catch when on sale or shop around Amazon's vendors for the lowest price. Quick turnaround when ordering, never been disappointed and I order ALOT!
+
+product/productId: B000H27O8C
+review/userId: A1EB3IQBNU3K0R
+review/profileName: Amberlinn Hartman "lil_rebell"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259452800
+review/summary: Best Hot Chocolate Ever
+review/text: I'm not a huge hot chocolate fan. They all seem to taste alike to me no matter the brand. I happened to get this kind in a mug as a gift. I tried it one night and I love it, love it, love it! It is ssooo good. I have never heard a bad thing about it!
+
+product/productId: B000H27O8C
+review/userId: A1LXG1RPE2MNM5
+review/profileName: DVL
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1239235200
+review/summary: Awesome
+review/text: This is the best hot chocolate I've ever had.  It's all my family drinks.  I give packets to people all the time to try and they always LOVE it.  BUT you have to mix it with milk to get the full deliciousness.  I'm never without a stash of this hot chocolate.  I buy it in volume because we drink so much.
+
+product/productId: B000H27O8C
+review/userId: A1II1XURWL6UYD
+review/profileName: L. Brechtelsbauer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1238371200
+review/summary: Hot Chocolate
+review/text: Love this hot chocolate and I feel it I got this product at a very good price.People should try it it is delicious and so great to have on a cold winter day or anytime is a good time.
+
+product/productId: B000H27O8C
+review/userId: AILXT3KX45OAR
+review/profileName: Amanda Tillotson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1220400000
+review/summary: yummo in my tummo
+review/text: This cocoa dissolves in a nice way without a lot of chocolate clumps at the bottom of the mug. The cinnamon flavor has a 'cozy' aroma/taste. There are several other delicious Land O Lakes cocoa flavors including French Vanilla, Supreme, and Caramel. It's yummo in my tummo ( I find myself saying this a lot when I'm drinking it!). Several months a year the elementary school fundraising company called Market Day features a large box of Land O Lakes cocoa (assortment of flavors) for a much lower cost than in most grocery stores.
+
+product/productId: B000H27O8C
+review/userId: A1MRBYII2KEF8U
+review/profileName: Coni Jo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206662400
+review/summary: Best hot chocolate!
+review/text: I was given these as a gift and immediately went to the net to find the other flavors available.  It's some of the best hot chocolate I've tried.
+
+product/productId: B000H27O8C
+review/userId: A2MZ59SJR6FIW8
+review/profileName: R. Hall
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1203811200
+review/summary: Time to buy hot chocolate again
+review/text: And you might as well buy this. It is creamy and chocolaty, kind of like what one reviewer said before, like drinking a chocolate bar.
+
+product/productId: B000H27O8C
+review/userId: A1JXBGA3YFS32K
+review/profileName: Immer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1188432000
+review/summary: Delicious and cheap....
+review/text: It may be a small packet, but it packs a powerful punch. I usually add a little extra water to make it not so strong.
+
+product/productId: B000H27O8C
+review/userId: A3J7K2N0JU0BO5
+review/profileName: AJ Musto
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1289433600
+review/summary: seriously? over a dollar a packet?
+review/text: I cannot believe how expensive these are!  Even at the local grocery store they are only $.69 per packet, full price.  When you add in shipping, you are paying over a dollar a packet. Outrageous!
+
+product/productId: B0026LJQHE
+review/userId: A3CPHAB8V6DN4X
+review/profileName: Oldbear
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1290211200
+review/summary: Stubb's Spicy Bar-B-Que Beef Brisket Strips
+review/text: I was looking for some beef jerky as a snack on a road trip to California. I found my first bag at a gas station in Nevada. I was very happy with the flavor and tenderness, and my bag was soon gone. Worse, I couldn't find it on the road back home or in my local stores. I did however find it on Amazon, much to my relief. They shipped it ASAP and it was as good as I remembered. I would advise anyone looking for some very tasty and softer jerky to try the Stubb's Spicy Bar-B-Que Beef Brisket Strips, it's way better than the hard jerky and very tasty.
+
+product/productId: B0026LJQHE
+review/userId: A2LDNELN2ITBML
+review/profileName: Chris O "Contrarian"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1313280000
+review/summary: Decent (not-spicy) snack
+review/text: Maybe it's because I've never had brisket strip "jerky" before, or maybe it was just the batch that I got, but these seemed much greasier than the usual products of this type.  I had to tear bits of fat from each strip before I ate and I could still feel my mouth coated with grease as I chewed.<br /><br />And again, this may have been related to my particular batch, but calling these "spicy" is laughable as I wasn't able to get a even a hint of a kick from any of the three bags I ordered.  If I'd known that these were about as spicy as ketchup, I would not have ordered tham and will likely not order them again because I prefer my jerky to have at least a little heat.<br /><br />Those complaints aside, this stuff is very tender and has a good and strong BBQ flavor (spicy or no).  I've never eaten Stubb's BBQ, but if this is a reasonable approximation of what goes on in his restaurants, then I wouldn't hesitate in stopping and eating there.  I'd just bring my own Tabasco.
+
+product/productId: B0026LJQHE
+review/userId: A2N57WD6TRXT0O
+review/profileName: M. Reinsalu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309392000
+review/summary: Stubbs is great!
+review/text: I purchase Stubb's products all the time. This snack is really very good. If you haven't had time to slow-cook some brisket or other meat in your smoker lately... this will get you a little bit of that flavor til you can get to it. I highly recommend Stubbs sauces and rubs too. Texas BBQ is the best. God bless.
+
+product/productId: B0026LJQHE
+review/userId: ATUE65UINXBXK
+review/profileName: P. mccash "book monster"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307232000
+review/summary: SNUBBS JERKY
+review/text: A SPICY JERKY THAT IS GOOD. I HIT A FEW HOT SPOTS BUT NOT SO HOT I COULDN'T EAT IT. LOVE THIS PRODUCT. A GOOD SNACK FOR WHEN YOU JUST WANT TO GNAW ON SOMETHING AND ITS NOT SO FATTENING AS A DISH OF ICE CREAM OR SOMETHING LIKE THAT. NOT TO SALTY. A GOOD BUY
+
+product/productId: B005E30WY2
+review/userId: A241PVKCR4JHAU
+review/profileName: lukeallen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348790400
+review/summary: Good rice
+review/text: The rice is as advertised and good for the dish that I purchased it<br />for.  The rice was shipped in a timely fashon.
+
+product/productId: B000MN4Z38
+review/userId: A7V1V26LYQCVS
+review/profileName: A. Read "avid reader"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1274054400
+review/summary: My favorite tea
+review/text: I first bought this tea from a local farm which sold UK goods on the side. When they stopped selling the UK goods, I almost panicked, but Amazon came to my rescue! I am now able to enjoy this mellow dark tea at any time for years to come. It tastes great with breakfast, but I like to drink it late at night, extra sweet.
+
+product/productId: B000MN4Z38
+review/userId: A2FF9N6R0BH62M
+review/profileName: Dan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1253836800
+review/summary: Perfect
+review/text: Yorkshire gold is the pinnacle of English tea.<br /><br />Rich, full-bodied, savory, aromatic, and relaxing. The perfect balance of flavors to suit even the most discerning tastes.<br /><br />Add a few teaspoons of sugar (I've found 2 to work perfectly), brew about 2-3 minutes, add a splash of skim milk and you have a proper cup of English tea.
+
+product/productId: B000MN4Z38
+review/userId: A2MO96N1MRK8U1
+review/profileName: LovinLife3
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295395200
+review/summary: SPLENDID ROBUST CUP OF TEA!
+review/text: I read an interesting fiction who-dun-it book and all they talked about was tea! I'm thinking, "What the heck, I never knew that there was so much to tea. Thus, I began my quest to learn about and discover different teas & even researching the history of tea. There's lots to learn :)<br /> My search began with black teas on AMAZON.com. My first purchase was four different teas by Taylor & Harrogate est 1886, I believe. I got the Yorshire Gold, Assam, Scottish Breakfast tea and Lapsang Souchong.<br />My favorite is the Yorkshire Gold. To me it's a perfect "cuppa"!
+
+product/productId: B000MN4Z38
+review/userId: A26EOAJFNNP1K8
+review/profileName: jamie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342656000
+review/summary: Yorkshire gold
+review/text: I appreciate how i can smell the freshness and strength of this tea just by taking the plastic off the box. The aroma is amazing and it taste like luxury...
+
+product/productId: B000EM6PVW
+review/userId: A42YG78Z1GBBD
+review/profileName: ivyviner "ivyviner"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265155200
+review/summary: A Family Favorite for Many Years!!!
+review/text: I've loved this soup since I was a kid, and now my daughters love it, too!  It's a "light" soup, great for upset stomachs that can't handle eating much; unlike canned soups it doesn't have that "greasy" component to it that can make canned soups too heavy for an upset tummy.  Plenty of flavor on it's own, but not an overpowering taste so it's great to pair with a sandwich or something else to make a great light meal or snack.  My daughters ask me to fix this for them all the time.  Only bad thing is that Amazon seems to be the only place to get it these days, so I have to time my purchases right to have this on hand.  But I've never had problems with getting it promptly from Amazon.  Getting ready to order another case of it!
+
+product/productId: B000EM6PVW
+review/userId: A3K0BUKDBI1TVR
+review/profileName: R. Santos "Mom of 7 yr and 4 yr old"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1231891200
+review/summary: My kids love them
+review/text: My daughter loves these - bought the store brand versions and she can tell them apart from just the smell.<br />Light soup and not heavy in which for certain days that is what I would like for lunch.
+
+product/productId: B000EM6PVW
+review/userId: A3XLYFYMKKIPW
+review/profileName: koooolkat "Country Girl at Heart"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1322438400
+review/summary: Wayyyy too salty! Blah!
+review/text: Wish I didn't purchase so much before trying it first. May be good for a sore throat in small amounts, I suppose, but I would rather have a progresso soup before this again.
+
+product/productId: B000EM6PVW
+review/userId: ADV8E3ID5QSTF
+review/profileName: Michelle Keys
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313366400
+review/summary: Great!
+review/text: Get alot out of each package so this last us forever and is great for a quick fix or a cold winter day.
+
+product/productId: B000EM6PVW
+review/userId: A11AFUTOQ9U3AI
+review/profileName: dancingirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305331200
+review/summary: Ring-O-Noodle
+review/text: This soup is my favorite. I love the tiny ring noodles and there is no other soup like it. My mom used to make it for me and it makes me think of her. When I am sick it is the only thing that makes me feel better. It is my comfort food and goes great with cream cheese and crackers, egg salad sandwich, etc. I make this for my kids and they love it as well. There is no equal. They stopped selling it in stores so now I order it online. I have to have it.
+
+product/productId: B000EM6PVW
+review/userId: A2Z4PQD8HVV5T5
+review/profileName: Kelli gal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294531200
+review/summary: Delicious!!!
+review/text: My kids love this soup.  We haven't been able to get this soup near where we live, so I was ecstatic when I found it on Amazon.com ~~ and, for a great price!
+
+product/productId: B000EM6PVW
+review/userId: A2H95UHQDY8MAE
+review/profileName: I Love To Shop!!!
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288224000
+review/summary: LOVE THIS SOUP!
+review/text: My whole family loves this soup.  I am sooo thankful that Amazon offers it because it is so hard to find.  My daughter has been eating it since she was 1 and is 11 now and still loves it.<br /><br />Please Amazon, don't ever stop carrying this.
+
+product/productId: B000EM6PVW
+review/userId: A3J8J5GXCE18V6
+review/profileName: Lori J. Pekas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272240000
+review/summary: "mmmmmm good!"
+review/text: Lipton Ringo Noodle soup is the best packaged soup on the market for children and grown-ups alike! My granddaughters ask for it whenever they visit me. It doesn't irritate their throats like some packaged chicken noodle soups do. I will continue to purchase it as long as it remains available.
+
+product/productId: B000EM6PVW
+review/userId: AMBNTA6S3SD2S
+review/profileName: MOMOF5RUNTS "deboltt"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1176076800
+review/summary: Not much flavor
+review/text: Save your money and buy Ramen noodles instead.  These have lots of noodles and broth but hardly any flavor.
+
+product/productId: B000G6RPOC
+review/userId: A2YWTPBAN7OP2P
+review/profileName: D. Kauper
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325203200
+review/summary: Very good, but not as hot as I expected.
+review/text: These are very good chips.  Not really corn chips (like Fritos)...they are tortilla chips.  Good quality chip - nice flavor & texture, fresh & crunchy, just the right thickness.  Very good flavor.  I could do without the vinegar solids added though.  Not extremely hot.
+
+product/productId: B0047LUXR8
+review/userId: A3MNAQZ8DQQTAD
+review/profileName: BARB
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1315267200
+review/summary: SO GROSS
+review/text: These walnuts were "SO GROSS", they tasted rancid. I threw them in the garbage, honest I really did.<br />They were not worth me paying the S&H to return.  What a waste of my hard earned money. "NEVER AGAIN"
+
+product/productId: B004XE0MCK
+review/userId: A2I60HCAVEF3RC
+review/profileName: Tiger
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323216000
+review/summary: Top of the Line K-Cup
+review/text: I really love this k-cup.  It is my second favorite regular coffee K-cup (at this time), second only to the <a href="http://www.amazon.com/gp/product/B004OLILAW">Barista Prima House Blend</a>.  I agree with their text that states a more complex flavor.  The claim is that this is a premium line for those who expect a premium coffee more like a coffee shop.  I tend to agree, except you just don't get as much per cup.  I love the colombian blend flavor as variety to mix in between the house blend, which I absolutely love most.  The house blend is a very blended flavor without one note overpowering the others.  For a change, I like the stronger note that the colombia blend offers.  Both match my preference for medium or medium-dark house blend roasts from coffee shops, but not the very dark roast of Starbucks.  I really feel this is a complex blend that has well more than one note, but a slightly stronger note associate with colombia blends.  Most importantly, it doesn't taste burnt like a dark french roast.<br /><br />I have tried so many K-cup flavors, most of which I liked at varied degrees with a few exceptions, but this one is currently my second favorite (second to the <a href="http://www.amazon.com/gp/product/B004OLILAW">Barista Prima House Blend</a> in the same variety).  What is nice about K-cups is you can easy switch blends per cup or over time without having to exhaust a whole bag of beans or grounds before moving on.  And preferences change as you have the same day in and day out.  So I can say that at present, I love it over previous favorites (of non-flavored) which in descending order of current preference are: <a href="http://www.amazon.com/gp/product/B003VXHGPK">Wolfgang Puck Chef's Reserve Colombian</a>, <a href="http://www.amazon.com/gp/product/B001CHFUDC">Coffee People Donut Shop Medium Roast</a>, <a href="http://www.amazon.com/gp/product/B004779XNW">Green Mountain Dark Magic</a>, <a href="http://www.amazon.com/gp/product/B0045IO37Y">Emeril's Big Easy Bold</a>, <a href="http://www.amazon.com/gp/product/B000X1GFN2">Caribou</a>, and a number of other decent ones.  I am just saying I prefer this over those right now.  But I will still have the others for variety.  Within this variety, I really like the house blend best.  But I prefer variety and usually have House Blend in the morning, and a Colombia blend in the afternoon.  On more rare occasions, I'll have the <a href="http://www.amazon.com/gp/product/B004OLKF6K">Barista Prima Italian Roast</a> when I feel like a dark french roast with very strong flavor.<br /><br />The Barista Prima tends to be more expensive, and depending on the sale price, can be only a little more expensive than other varieties.  For a little bit more, it is worth it to me.  For a lot more, maybe not.  Paying about 12% more yields about 30% more in value in flavor to me.  But paying 50% more is costly when there other flavors are plenty good too.
+
+product/productId: B000VYQI60
+review/userId: AL8BUM8IFYXYX
+review/profileName: Judie C. Rall "spiritjoy"
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1197158400
+review/summary: An effective Product
+review/text: I'm not sure what everyone else uses this product for, buy I have a problem with acidic ph, and this product helps with that problem. Specifically, if I have eaten or drank things that make me too acidic, then I tend to get loose stools or diarrhea, and after taking half a teaspoon of this in water, within about 30 minutes, the problem is resolved. I highly recommend it.
+
+product/productId: B000VYQI60
+review/userId: A25MD6OYSTNC8E
+review/profileName: EmilyS "EmilyS"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1339027200
+review/summary: great suppliment
+review/text: I react the to binders and fillers in supplements and have used this product for years as a calcium supplement.  It works great and I have been very happy with it.  It's great to get a supplement in a pure powder form.
+
+product/productId: B006GK496O
+review/userId: A3JAITM5A93M0U
+review/profileName: D. & V. Stanley "D. & V. Stanley"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1344988800
+review/summary: enjoyed the kheer
+review/text: While this kheer does not have a strong flavor, it was very good.  It comes with loose rice and 2 packets, one with sugar and one with spices and nuts.  The packet of sugar seemed quite large to me so I only used 1/2. I figured that I can always add more sugar if it needed it but it did not.  My family is trying to limit our sugar consumption.  In my view, 1/2 the sugar seems to allow the flavor of the spices and milk to come out more.  Bottom line, the flavor is good and you can adjust the sugar as it comes separate in a package.  I would buy again.  Directions say to add 4 cups milk and cook for 40 minutes.  Ingredients: rice, sugar, almonds, pistachios, raisins, spices
+
+product/productId: B004BRDZCI
+review/userId: A3D2ZN0YX62H21
+review/profileName: Glamma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341964800
+review/summary: Non-Dairy Creamers
+review/text: For those with a lactose intolerance it is impossible to find these in any restaurant.  I have to take them with me wherever I go for this very reason. They don't need refrigeration so that makes them easy to have in your handbag.<br />The only issue is that the expiration date should be much later than the ones I purchased.  Since they are for personal use I had to use them more quickly than I would have liked to.<br />The postage is much too high for the item but there isn't any other place to find the liquid singles that are NOT flavored.  Amazon Verified Purchase
+
+product/productId: B004BRDZCI
+review/userId: A1GQBQV1EY82IK
+review/profileName: K. M. Sandlin
+review/helpfulness: 2/4
+review/score: 4.0
+review/time: 1297296000
+review/summary: Great for the Office
+review/text: I tried these for my office and it worked out great. The price was okay, but I found a better deal right here on Amazon. I'm learning to keep looking and the deals are there.
+
+product/productId: B000FDBA9M
+review/userId: A2TH468ZMQEZX6
+review/profileName: Olivia Holland
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340409600
+review/summary: Great Cat Food!
+review/text: This product is getting hard to find and I was so happy that Amazon found it for me.  It is the only product that doesn't come right back up from my fussy felines.  I have been using it for the last three years and am so happy to have been able to locate it on Amazon.
+
+product/productId: B000HTFEVE
+review/userId: A275UZ2XNCKU35
+review/profileName: Amy E. Oconnell "Silly near Philly"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1175644800
+review/summary: Delicious! Similar texture to oat granola!
+review/text: I purchased this product in the last week from a local store and was so suprised at 1.) How good it tastes and 2.) How much the texture is like real oat granola.  I had seen the GF granola before but did not get it because I thought the flakes would make it more like flake cereal.  I was definitely mistaken.  Not only does it satisfy my texture cravings, it has some great ingredients like flax seeds and dried fruit.  It actually had a good ratio of fruit to nuts and other contents, rather than having one or 2 pieces of fruit in the whole bag like some other manufacturers like to do.  In all, I totally loved this product and now that I see buying in bulk from Amazon will save me $2/bag, I will be sure to buy it here next time!
+
+product/productId: B000HTFEVE
+review/userId: AKEMEFN371AUZ
+review/profileName: Cheryl Leland
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1199232000
+review/summary: gluten free foods
+review/text: This is the second flavor of this granola I have purchased. I loved the cranberry flavor so much I decided to try this one as well! I was not disappointed! This granola is as good, if not better,than regular granola. I would not have taken the chance to buy this, if not  for the great reviews it received.
+
+product/productId: B000HTFEVE
+review/userId: A1D6L1C2Z7L8EE
+review/profileName: GF Rhonda
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332806400
+review/summary: Delicious cereal
+review/text: It's a toss-up whether I prefer Bakery On Main's GF Apple Raisin Walnut or the Cranberry Maple. Both are delicious. Have good crunch factor and none of the aftertaste that some GF products have. The cereal is good with milk (I use almond milk) or by itself as a snack.
+
+product/productId: B000HTFEVE
+review/userId: ACW0VUA3CPI7D
+review/profileName: S. Stanley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1211673600
+review/summary: Pack One in Your Suitcase
+review/text: Great taste. I pack a bag when I travel so I can add it to yogurt for a quick meal.
+
+product/productId: B000HTFEVE
+review/userId: A34GQ4YKJVIFT9
+review/profileName: J. Moysey "Lia Gluten Free"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1179964800
+review/summary: Bakery on Main Granola
+review/text: This is the best gluten free granola on the market!  I have tried all five flavors and haven't found one I didn't like.  The portions are small but calories are high.  It is the only kind I buy.  To try it is to love it.
+
+product/productId: B000HTFEVE
+review/userId: APPII9XNQ1MXI
+review/profileName: K. Walker
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1178928000
+review/summary: delicous gluten free cereal
+review/text: For 2-1/2 years, since I was diagnosed with celiac disease, I searched for a good tasting and healthy gluten free cereal.  This is one that I really like.  Crunchy and tasty.  Try it, you'll like it.
+
+product/productId: B000HTFEVE
+review/userId: A3B6FOHAAOL7G3
+review/profileName: Silvia Bridger "Publisher of The Truth About ...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1178582400
+review/summary: Just Like Real Oat Granola
+review/text: The texture of this gluten-free granola is so similar to real oat granola, you won't be able to tell the difference.
+
+product/productId: B000HTFEVE
+review/userId: A2843500EKO5YB
+review/profileName: Megan Gorg
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1173312000
+review/summary: Delicious!
+review/text: Finally a GF/CF granola! This stuff is amazing!  I got it for my husband and daughter (2) who are GF/CF, but I love this stuff too!  And I am truly not a nuts and seed person, but I can't stop eating it!  I'm so happy to be able to give my daughter a snack that has such great protein in it and is so easy to eat! My husband is just going to keep a bag in his car to snack on.
+
+product/productId: B000HTFEVE
+review/userId: AEP0XAC6F8N2Y
+review/profileName: April Fear
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344988800
+review/summary: Yum Yum!
+review/text: I totally love this crunchy snack! I have to portion it out so I don't eat the whole bag at once. So much better than some other brands I've tried.
+
+product/productId: B000HTFEVE
+review/userId: AB91MKANXTVZ0
+review/profileName: wonglilin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: Tasty and delicious
+review/text: This was the second flavor I tried and was not disappointed. The Cinnamon kicks each super bite up a notch. Looking forward to trying the other products!
+
+product/productId: B000HTFEVE
+review/userId: A3LZWYQ2XP9N0M
+review/profileName: N. Moose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: Hmmmmmm
+review/text: This cereal is soooo good. I love the big pieces of walnuts. The grains are whole and intact. It is by far the best gluten free cereal I've tried.
+
+product/productId: B000HTFEVE
+review/userId: A2CPVO2XS7K0NX
+review/profileName: Janet Tsuei
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: Love it!
+review/text: I recently purchased this at Sprouts. This is so good and it tastes just like the real thing! I choose to eat gluten free products for health reasons but really, this flavor and this company is great! Plenty of raisins and goodies inside too!
+
+product/productId: B000HTFEVE
+review/userId: A59UMW5OZZZXN
+review/profileName: Maria
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: Must Buy if you love Granola
+review/text: This cereal is absolutely one of my favourites, It is one fo first gluten free granola cereals I tried and I was hooked. I love the flavour and the fruit and nuts are just delicious. I just cannot believe that is gluten free, a real treat for people who want a nice cereal or something to add to a yogurt.I like also to add some nuts to this cereal, but the ingredients are of the highest quality and the packaging is really good at keeeping the granola frsh, a must buy.
+
+product/productId: B000HTFEVE
+review/userId: ASFA6IW07QKLC
+review/profileName: Sweet Stina
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332806400
+review/summary: It's a good one
+review/text: This one is really good too! I don't really care for the little apple pieces. They are kind of weird. I love the cinnamon and the walnuts flavor combination. I never normally like raisins but in this mix it's very good. Enjoy it!
+
+product/productId: B000HTFEVE
+review/userId: AZONEREZ7Y09F
+review/profileName: gluten
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Great Fiber
+review/text: For those who can't do yogurt and other dairy, just add this product to other cereals on make your own granola bars.
+
+product/productId: B000HTFEVE
+review/userId: A2NPWGL0Z5R86B
+review/profileName: BigT
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332806400
+review/summary: Tasty gluten free
+review/text: This is very crunchy and delicious<br />The flavor and the ingredients make this very filling and it also makes a good snack for after games or during work breaks
+
+product/productId: B000HTFEVE
+review/userId: AE7QHD7D1IYND
+review/profileName: Sonny Knowles
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: The best granola
+review/text: This product is so delicious and although a little high on calories it is so worth it.  I mix mine with low fat popcorn.  It is a wonderful snack.
+
+product/productId: B000HTFEVE
+review/userId: A1BQEGGHCBCRRQ
+review/profileName: Elaine Okupski
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: My second-favorite gluten-free granola
+review/text: Bakery on Main's Extreme Fruit & Nut Granola holds first place on my favorite cereal list, but this one is a close second. The cereal is very crunchy and flavorful, with a great mix of textures. The pieces of walnut are big enough that when you get one in your spoonful, you get a burst of walnut flavor.<br /><br />One of my favorite ways to eat this is on top of a "sort-of-Waldorf salad" - I cut up some apple and grapes, stir them into vanilla yogurt, and sprinkle a handful of Bakery on Main Apple Raisin Walnut Granola on top... YUM!<br /><br />Setting up the auto-ship order of 6 bags at a time through Amazon brings the price down significantly lower than I can get this in my local grocery stores!<br /><br />Thank you, Bakery on Main, for bringing the crunch back to my gluten-free breakfasts!
+
+product/productId: B000HTFEVE
+review/userId: A1N4CZRLAPS1T6
+review/profileName: Proverb31girl "Pro31girl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Great GF Granola!!
+review/text: My husband has been eating this product consistently for years. He says it's the best gluten free granola out there!
+
+product/productId: B000HTFEVE
+review/userId: AWWQDGZIYDI1L
+review/profileName: Shelley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331337600
+review/summary: Yummy even if your not gluten free !
+review/text: My husband is gluten free and this is my favorite granola including no gluten free cereals.<br />Not super sweet, healthy & crunchy!
+
+product/productId: B000HTFEVE
+review/userId: A3NJU61693BQV0
+review/profileName: M. Lera
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316044800
+review/summary: I'm obsessed with this granola!!
+review/text: I like it so much I wake up happy every morning just thinking of my bowl... yum! I like pretty much all the flavors - except that some of them's fruits can be a little tough (especially the banana bites on the rainforest flavor - i usually take them away)
+
+product/productId: B000HTFEVE
+review/userId: A22EW0T7QV1R20
+review/profileName: Susan H
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303257600
+review/summary: Gluten Free Granola
+review/text: Being a gluten free girl I must share that this is my all time favorite gluten free cereal/granola and I've tried them ALL.  Great with milk, over greek yoghurt with fruit, sprinkled over ice cream, or a topping on a fruit crumble.  LOVE IT!
+
+product/productId: B000HTFEVE
+review/userId: A5CG559ETQAWN
+review/profileName: H. Davis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294272000
+review/summary: Best cereal out there- gluten-free or not!
+review/text: This is my all-time favorite cereal. I can't do without it, and so since Giant Food store has discontinued it, I'm switching my patronage to Wegman's even though I've been a customer of Giant's ever since I moved out on my own in 1971. That's how much I like this cereal. Giant substituted Udi's granola for this, and Udi's can't compare.
+
+product/productId: B000HTFEVE
+review/userId: A1HKBX2L0DV258
+review/profileName: Dena Leasure
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272153600
+review/summary: Great Gluten-Free Granola
+review/text: I love this granola!  So many great ingredients in it.  I usualy put this in yogurt or with milk.  If you can't have milk, try the Almond Milk at the grocery.  This adds great taste and fiber.  Will certainly buy again!
+
+product/productId: B000HTFEVE
+review/userId: A38PJLTIQXK1LX
+review/profileName: Tamara L. Monroe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1255392000
+review/summary: So delicious I forget it is Gluten Free!
+review/text: This cereal is delicious and crunchy.  I easily forget that it is Gluten Free and never feel deprived of regular granola when I can have this instead!  It is also good over vanilla ice cream!
+
+product/productId: B000HTFEVE
+review/userId: A25JROTU0YWU4O
+review/profileName: Gwen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251849600
+review/summary: Addictive!
+review/text: Seriously yummy, I eat a bag a week! It's so good and really goes great on top of some chobani greek yogurt! Definitely a great item!
+
+product/productId: B000HTFEVE
+review/userId: A3CORM17LRIRWA
+review/profileName: Deborah Snyder
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244160000
+review/summary: Can't decide......
+review/text: I spent over an hour trying to decide which of these GF Bakery On Main Granola mixes to order next.  I tried the Apple Raisin Walnut, and LOVED it.  I wish you could mix and match a case so I could have some of each!  In the end I have still not decided, but based on other reviews and how much I liked the Apple Raisin Walnut, I probably can't go wrong with ANY of the flavors!!!  Well, I guess I better get back to making a decision here.........
+
+product/productId: B000HTFEVE
+review/userId: A1ZUW8WQTK6DZY
+review/profileName: T. Gavello "Pet Sitter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1235520000
+review/summary: Absolutely Wonderful
+review/text: I had purchased Bakery on Main GF Granola from Whole Foods and was very impressed.  I was never a big granola fan, but since becoming GF, getting to add something different to my breakfast food list was worth a try.  And I loved it.  I usually have the granola with yogurt and some added fruit, like a banana or blueberries and mix it all together.  It's filling, but light -  Wonderful for breakfast or a quick snack.  Purchasing thru Amazon, in bulk, allows me to save too.  Purchasing separately, I would be spending approx. $1.50 or more, per bag.  Tho I get to mix and match at another market, the overall savings is worth it.  Gotta save every which way I can these days.
+
+product/productId: B000HTFEVE
+review/userId: A3E0OL442Z7ND1
+review/profileName: Love my food "coeliac"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1189641600
+review/summary: Great flavour and texture
+review/text: This product tastes fabulous. A little sweet for the morning, so I only have it every other day. It also helps get the bowels moving!!
+
+product/productId: B000HTFEVE
+review/userId: A2I1FCE78576GM
+review/profileName: Kathy A. Taylor "C.R.C., rehabilitation couns...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1181865600
+review/summary: So good, it's addictive
+review/text: You'll feel as though you have made a trip to the bakery when you munch on these. Good as a snack or as a cearal with milk. Crunchy, flavorful, and fresh.
+
+product/productId: B000XU3T64
+review/userId: A601XQ1ZBPW0L
+review/profileName: Netty
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1294704000
+review/summary: very good sugar free product
+review/text: I bought this by accident attempting to get the toroni sugar free chocolate. I am pleasantly surprised. There is nothing fake tasting about this sugar free product. I use it in coffee to make a sort of home made mocha. espresso from our areopress coffee maker with a little of this and some milk has eliminated my expensive coffee shop habit.
+
+product/productId: B000XU3T64
+review/userId: AIULVCUBD4ALA
+review/profileName: Maria Guerra "mdguerra"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1241049600
+review/summary: Yummy-licious!
+review/text: Maybe I'm getting used to sugar free stuff but this syrup is great.  I needed something to punch up the Mocafe sugar free frappe mix and this syrup did the trick.  The frappe was smoother, blended well with the ice and really improved the chocolate flavor.  I'm glad I bought three bottles - I love it!
+
+product/productId: B000XU3T64
+review/userId: A2V3060TTAY6RY
+review/profileName: E. Hurst
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1315526400
+review/summary: Great Taste for any Chocolate lover!
+review/text: I discovered the Monin Sugar Free Dark Chocolate sauce at a local frozen yogurt place.  I am currently on a weight loss diet and have a No Sugar Added / Non-Fat yogurt occasionally.  This Sugar Free syrup really makes the usual Vanilla Frozen yogurt a real gourmet treat.<br /><br />I purchased it and found that it works great in turning plain coffees into yummy mocha's. Add it to your milk and heat it slightly, then whip it to make a really tasty mocha latte.<br /><br />I gave it only 4 stars because it is sweetened with Maltitol, a "sugar alcohol" which can upset your stomach if you're sensitive, but I haven't had the problem, but I think if you use enough it can force frequent trips to the bathroom, if you know what I mean.  If it was sweetened with sucralose (Splenda) then it would get 5 stars from me.<br /><br />I look forward to trying their other flavors as this was a winner... I have since re-ordered in the "6-pack."  It is also available in a larger size bottle that you can use a hand pump to dispense.<br /><br />I recommend it for any chocolate lover who is looking to top ice cream, yogurt, even coffee drinks!
+
+product/productId: B000XU3T64
+review/userId: A31KGQ4J26U5ZC
+review/profileName: S. Wright "Nana"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1280880000
+review/summary: chocolate syrup
+review/text: This is the best tasting sugar free chocolate syrup I have ever tasted. You definitely can't go wrong adding it to anything that needs a touch of dark chocolate - ice cream - smoothies etc.
+
+product/productId: B000XU3T64
+review/userId: A1JBFDDE2SEGHK
+review/profileName: Shirley Hedglin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Love it
+review/text: Love this product works great for making mocha's as it is sugar free I like this better then<br />the sugar free syrups as they have a funny taste.
+
+product/productId: B005520KKS
+review/userId: ATDNY04N5ZBZQ
+review/profileName: frequent shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: great product, terrible price
+review/text: I absolutely love Matouk's West Indian hot sauce. It's got the spice AND the flavor, a great combination all around. I use it in everything I eat. However, amazon is tripping with the price! It went from $9 and change to $14 and change for a 26oz, and that is ridiculous! I'm going to have my local market order some with the guarantee that i'll purchase. If you like spice, get this!!!
+
+product/productId: B001EPQ1F8
+review/userId: A3MMDEO32T3G26
+review/profileName: Reuben A. Ware Jr.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Colorado Spice chili Powder
+review/text: I purchased this hoping it would be as good as the bulk chili powder I used to buy.  Wow!  It is and I really like it.  My wife, too, thinks that it is really good and we will not be searching any more for chili powder since this is better than the brand we used to buy.  I have won the neighborhood chili contest with it and will continue to use it.  Great flavor.
+
+product/productId: B0012ONFFU
+review/userId: A19SDJ2TSSL8HI
+review/profileName: K. McGee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1245283200
+review/summary: Great Taste, Easy to Use
+review/text: I like this seasoning even better than McCormick's Buffalo Wing seasoning. Now I'm not saying it even comes close to real, honest-to-goodness barbecue because it absolutely is NOTHING like that, however it does taste really good- kind of a spicy bbq taste - and it's easy to use. You just coat the chicken pieces with it and throw it in your preheated oven.<br /><br />I put the pieces on a foil covered cookie sheet, spray the foil with a non-stick spray and clean up is super easy as well. I've used this with boneless chicken tenders, wings and legs and always had good results. However, as with McCormick's Buffalo Wing mix, this also tends to brown/burn easily if you try to use your broiler or your outdoor grill.<br /><br />Bottom line: This tastes good and is a great mix to use when you're in a hurry or don't feel like taking alot of time in the kitchen. You can do it in the oven which I think takes about 25 minutes or so (less with boneless)so you aren't having to hover over the stove or grill.
+
+product/productId: B001WRHQRA
+review/userId: A2I60HCAVEF3RC
+review/profileName: Tiger
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1255824000
+review/summary: Great! One of my favorite flavored coffees!
+review/text: If you like other Green Mountain flavored coffees, especially if you like the other seasonal light-roast flavors, you will probably like this one.  I really liked the Green Mountain Blue-Berry and thought I would try this and am very pleased.  It seems like a great fit for the fall.  The flavor and aroma seem a bit stronger than in the blue-berry.  Like the blue-berry, this is a light roast.  At first I thought light would mean weak, but it seems like the perfect match for the flavor so that it is still coffee and nicely flavored without either over-powering the other.  It is nothing like a starbucks.  So if you want a strong coffee taste above all, then this isn't one for you, but if you want a nice flavored light coffee, I think it is great.<br /><br />Like other flavored coffees, you should only brew this on the normal default coffee cup size (6oz) on the Keurig brewer or you will water it down if you use the mug size or larger.
+
+product/productId: B001WRHQRA
+review/userId: AJ1P59G0KJN9Y
+review/profileName: Stephanie
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1288137600
+review/summary: I don't "do" flavored coffee...
+review/text: BUT, I'm on a very restrictive diet that doesn't allow for the usual autumny, spicy, baked goods - one of the many reasons fall is my favorite time of year.  I was highly skeptical of the quality of this, since most flavored coffees are irritatingly perfumy with no real increase in flavor.  To top that off, I don't even LIKE light coffees and have always been a bold girl.  This coffee was purchased purely on whim one night when I was craving something with pumpkin spice.  Much to my surprise, this coffee has turned out to be a hit.  It's not a five-star, knock my socks off coffee, but pretty darn close!  The pumpkin and spice with the coffee aroma and flavor are perfectly balanced.  Not perfumy at all and neither one is overpowering the other.  It also holds up decently well to my usual heavy cream.  Drinking this is just like having a piece of pumpkin spice cake with a good ol' cuppa joe.  I'm thoroughly impressed.
+
+product/productId: B001WRHQRA
+review/userId: A2ZOVHKYDH4UOJ
+review/profileName: ark76 "Annie K"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1293753600
+review/summary: Yum! Add some whipped cream and its like Starbucks!
+review/text: One squirt of whipped cream is absolutely like a Starbucks coffee.  If brewing too large a size like most of the flavored coffees you can make it too weak so be careful in adding milk or cream not to add too much until you taste test it.  Tastes like pumpkin pie.  The wonderful holiday aroma hits your nose as you lift your mug and the taste doesn't disappoint.
+
+product/productId: B001WRHQRA
+review/userId: A2OFAJ7H92TSA0
+review/profileName: John F. Gordon Jr.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295308800
+review/summary: Trust me, buy this brand and NOT the Timothy's brand.  You will be happy you purchased the Green Mountain Pumpking Spice brand.
+review/text: Best Pumpkin Spice coffee I have purchased for the Keurig coffee maker.  Just make it on the middle setting to not water your coffee down.<br /><br />This one blows away the watered down, lack of flavor Timothy's brand that I purchased on sale.<br /><br />Its worth the few extra bucks to get the Green Mountain brand.<br /><br />This comes from a Keurig Kcup veteran !!!<br /><br />Enjoy !!!<br /><br />John
+
+product/productId: B001WRHQRA
+review/userId: A1CPTS3SY2RZ3H
+review/profileName: britt
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347753600
+review/summary: enjoyed it for a change
+review/text: I ordered this based on my enjoyment of the starbucks pumpkin spice latte.  The flavor is very light, I made mine light, over ice, with some half and half and equal sweetener.  The pumpkin taste is lighter and the spices are not over powering. I really enjoyed the drink.  It is like the starbucks drink but without all of the heavy cream and overly sweetened taste. I wouldn't use this as my everyday coffee, but I am going to enjoy this seasonally. I would recommend this to a friend.
+
+product/productId: B001WRHQRA
+review/userId: A1UE15X3SNLJ57
+review/profileName: Linda "Linda"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1285545600
+review/summary: Pumpkin-y, spicy, no weird after taste, scrumptious!
+review/text: I live for the time of year when Starbucks brings back pumpkin spice lattes, thick and creamy and oh so pumpkin-y. I am not normally a huge fan of flavored coffees so it was with scepticism and a bit of desperation and fear for my waistline that I tried Green Mountain Pumpkin Spice. I needed to conquer my cravings for a daily pumpkin latte (or two). The Green Mountain Pumpkin Spice has the same flavor! Of course it doesn't have the creamy thick lusciousness of a latte , but it doesn't have the calories either. Pumpkin, like coconut flavor is hard to pin down but Green Mountain does a great job with this flavor and I heartily recommend it. I do still get my lattes on Sunday mornings but this gets me through the week.
+
+product/productId: B001WRHQRA
+review/userId: A2PVTXTDBMFQJO
+review/profileName: mm "262"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: my favorite...
+review/text: My favorite pumpkin spice cup hands down- great flavor, not overpowering. Green Mountain is the best in the cup buisness I think. Im stocking up for winter!
+
+product/productId: B001WRHQRA
+review/userId: ANF7RCFKKEBP6
+review/profileName: Miss Priss
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: Amazon Green Mountain Pumpking Spice Keurig K cups
+review/text: Soooo delicious it is hard to have just one cup ~~ the taste is superb and yes I would certainly recommend this to a friend
+
+product/productId: B001WRHQRA
+review/userId: A168OKAM4FMBPE
+review/profileName: Arreyn Grey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Fantastic!
+review/text: Generally, I love k-cups- so easy to make! I'm not usually a coffee drinker, so I don't even know how to work a regular coffee pot, and using the Keurig is even easy for me.<br />Specifically, I love the Green Mountain pumpkin K-cups! The flavor is rich, very pumpkin-y, and sweet enough that with some cream and sugar, I (again, not really a coffee person) drink it every day. Pumpkin coffee is definitely now one of my favorite things about fall.
+
+product/productId: B001WRHQRA
+review/userId: A3CI8ZGVSPHYDK
+review/profileName: Terri
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349568000
+review/summary: what a disappointment
+review/text: Purchased my brewer this past summer , was looking forward to the spiced pumpkin flavor coffee Now that it's here I am very disappointed, doesn't taste anything like spiced , very weak on flavor.<br />I recently had a cup of spiced coffee at a local facility, GM, but packaged differently. That one was quite flavorful. Green Mountain, what are you doing to us? I got first and last box of GM spiced coffee (and I'd planned to stock up!).  Now awaiting the arrival of Gloria Jean's SP!
+
+product/productId: B001WRHQRA
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: Absolutely OUTSTANDING! Number 1 Seller!
+review/text: I just tried this coffee in the Keurig edition while waiting for my car to be repaired and, being the pumpkin coffee junkie that I am, well, temptation just provided me with a new favorite!  This coffee has just the right amount of spice - not too heavy or too light, and just makes the perfect cup.  Don't try Millstone's - yuck!  Had SO much troule just choking that one down.  This one, hands down, is my favorite flavored coffee of all time now.  I just ordered 3 bags of the ground on Green Mountain's website since Amazon didn't have it.  If you call Green Mountain, you'll find out that this is their NUMBER 1 selling flavored coffee.  Highly, highly, highly recommend!
+
+product/productId: B001WRHQRA
+review/userId: A3P2E4QZS7OYSU
+review/profileName: Taylor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Hello Autumn
+review/text: Yum Yum Yum! These arrived really quickly and taste delicious. I'm actually pretty sure my roommate keeps stealing them because they are sooo good!
+
+product/productId: B001WRHQRA
+review/userId: A3ICGIE4541X41
+review/profileName: Robbin R. Thurston
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342742400
+review/summary: Coffee Drinkers
+review/text: I had bought this coffee for my husband a couple years ago from another retail store, and you could only purchase it through the Holiday time.<br />Pumpkin Spice cups are awesome, and as long as Amazon continues to carry this coffee, I will continue to purchase it from them. When you get this coffee it comes in several different amounts.. My husbands face lights up everytime I surprise him with it..Try it, you will like it and the price is good, if you buy a couple boxes at one time even shipping is free....
+
+product/productId: B001WRHQRA
+review/userId: A15GU5QRYM2SP6
+review/profileName: Candace Smith
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341705600
+review/summary: A treat anytime of the year!!
+review/text: [[ASIN:B007PA32L2 Green Mountain Coffee, Pumpkin Spice K-Cup packs for Keurig Brewers, 50 count] Great flavor.  Thought I would only drink tnis during cold winter months, wrong.  It's great anytime.
+
+product/productId: B001WRHQRA
+review/userId: A21CZIJ7LXR1A1
+review/profileName: Olinda "Steady Shopper"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334102400
+review/summary: Good
+review/text: Good seasonal and anytime coffee. In my opinion, the best of all the seasonals I've tried. Try it, if available, it's good. Remember, if you don't like it, as we all have different palettes, it can be returned.
+
+product/productId: B001WRHQRA
+review/userId: A1VWBF71TTPR1O
+review/profileName: mjaurigue
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325116800
+review/summary: Item as Described
+review/text: Item was delivered as described. Would purchase again, but only during the fall months as it is a seasonal item.
+
+product/productId: B001WRHQRA
+review/userId: A3DDHMM2CPPVJ7
+review/profileName: skrpetta
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: excellent product!!  delicious  thank you AMAZON!!!
+review/text: I ordered the pumpkins spice to check out the flavor and was so pleasantly surprised...it was delicious.  I actually wish I had ordered more while the special was on.  Believe me the box went way too fast.  Everyone wanted to try it and all loved it.  Smooth flavor and just perfect amount of pumpkin spice!!!  Green Mountain has never disappointed.  I always try many different flavors, but Green Mountain especially Pumpkin Spice is one of my favorites.<br /><br />Respectfully,<br /><br />Barbara Condrey<br /><br />Wish I had a cup NOW!!!  lol
+
+product/productId: B001WRHQRA
+review/userId: AWT2IWQV7AAFH
+review/profileName: phylgirl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1320105600
+review/summary: Great spicy taste
+review/text: The coffee was the perfect roast. It had that great pumpkin spice taste with just the perfect amount of cinnamon. I would order again.
+
+product/productId: B001WRHQRA
+review/userId: AF564PC06XZWY
+review/profileName: Barbara S "Barbara S"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319846400
+review/summary: Tastes like chemicals
+review/text: My husband and I have each tried drinking this coffee a few times and it tastes bad, a real chemical/artificial taste.  Do not recommend it.  We are throwing away the rest of it, which I don't like to do, but I wouldn't try to pass it off on a friend.
+
+product/productId: B001WRHQRA
+review/userId: A3UM0RO12WUSS5
+review/profileName: ghanson19
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319587200
+review/summary: Great Pumpkin Flavor!
+review/text: I loved the flavor of this coffee! I usually don't like flavored coffees, but this one is excellent. I could see myself serving this after Thanksgiving dinner.
+
+product/productId: B001WRHQRA
+review/userId: A2X9GDJYUJKAU6
+review/profileName: Lindy
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1317340800
+review/summary: All spice and no pumpkin :(
+review/text: I ordered this product with careful consideration of other reviews. I got the 18 pack, the smallest I could find with free shipping. I have to agree with other reviewers that this is all spice and no pumpkin flavor, which is a big disappointment for me since I have a pumpkin obsession. When I made the coffee, I could smell the pumpkin and I was excited, but that's where it stopped. I could not detect any pumpkin flavor in this coffee at all. For me, the spice was overly strong when I tried the coffee plain. However, when creamer was added, it was tamed down quite a bit and perfectly fine. I would not buy this again though. I'm hoping to find some pumpkin creamer to get through the 17 k-cups I have left.
+
+product/productId: B001WRHQRA
+review/userId: A258E23OZE22E7
+review/profileName: CnDG
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316908800
+review/summary: Pumpkin Spice
+review/text: When I bought this product I was hoping it would make it easier to create a pumpkin spice latte. I learned that this is not the case. The product is exactly what it says, "Pumpkin Spice Coffee". Adding milk does not make it taste like a latte. The pumpkin flavor is nice and the coffee flavour is strong. If this is what you are looking for than the product is perfect. The product itself is great it is just not was I was personally looking for.
+
+product/productId: B001WRHQRA
+review/userId: AD409I4M9HFSW
+review/profileName: A. Nelson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315353600
+review/summary: tastes great!
+review/text: I love this pumpkin coffee, it tastes and smells great.  Not too much flavor, and it doesn't taste too artificially flavored
+
+product/productId: B001WRHQRA
+review/userId: AQIB97Y7FJQVS
+review/profileName: Beverly
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1302307200
+review/summary: Pumpkin Spice.....much to be desired !!!
+review/text: Pumpkin Spice was too weak in the spice flavors for me.  I brewed a second cup and used less water and it wasn't much better.  Will not buy it again.
+
+product/productId: B001WRHQRA
+review/userId: A3CA1BGJJ8VKJN
+review/profileName: Anna Imgrund
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300147200
+review/summary: Green mountain pumpkin spice k-cups
+review/text: This is, hands down, my absolute favorite flavored coffee of all time, and the really weird thing is that I don't like the taste of pumpkin in anything else.  Still, coffee spiced with pumpkin is a major guilty pleasure!!!
+
+product/productId: B001WRHQRA
+review/userId: A2AWPV7WOEAI7J
+review/profileName: Suzanne Flanderka "suziesweetpea"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300060800
+review/summary: Green Mountain Pumpkin, k-cup coffee
+review/text: I get this coffee from my elderly aunt who has a Keurig Brewer, and loves the brewer. She like a variety of coffees and teas. She really loves this Pumpkin Spice coffee. She says it's yummy. She likes it at night or really anytime.
+
+product/productId: B001WRHQRA
+review/userId: A1ZJ3GH2N6P6PV
+review/profileName: Thomas Richardson "Nocdoc"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1299456000
+review/summary: Favorite flavor!
+review/text: This coffee has the nicest blend of flavor and spice without "bite". blends well with a shot of Bailey's also!
+
+product/productId: B001WRHQRA
+review/userId: A260RH17B50QUT
+review/profileName: BLawson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299456000
+review/summary: Pumpkin Spice - Year 'round v. Seasonal
+review/text: We were so sad when work discontinued everyone's favorite K-Cup flavor, Green Mountain Pumpkin Spice.  All the stores had stopped carrying it as well.  It is a seasonal favorite only.  I was determined to find someone who carried it, so I googled it and ordered it through Amazon.com.  Hurray!!  I am going to attempt to order it again in the hopes it has not been used up by other consumers.  It's too good to keep for the holidays only.  Thanks Amazon.
+
+product/productId: B001WRHQRA
+review/userId: AG6TX1ZJHLMO7
+review/profileName: W. Dietrich "WD"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1299024000
+review/summary: Gives Starbucks Pumpkin Spice Latte a run for their money
+review/text: I have had the tarrismo coffee maker but was frustrated about my limited options so I bought the Tarrismo.  The Green Mountain Pumpkin Spice Limited Edition Coffee was worth making the switch.  I really enjoy the Starbucks Pumpkin Spice Latte and would drink it year round if I could.  The Green Mountain Pumpkin Spice is not as good as the Starbucks version but it does give it a run for the money at half the price (I brew two cups as K-Cups really give you � of a cup of coffee).  I find you just need a hint of milk to get the best taste.  Best of all the smell of the coffee brewing fills the whole house with a smell that is simply delicious.  All in all if I were never to try any other flavors but the Pumpkin Spice I would still be happy with making the switch to Keurig.
+
+product/productId: B001WRHQRA
+review/userId: A35QCOYS5U4AKA
+review/profileName: Jordan M. Blahnik
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298592000
+review/summary: Blazing fast K Cup action!
+review/text: These K Cups are beyond the ordinary humdrum ones NORMALLY available; just look at all the features! They're overclocked to perform at previously unheard-of coffee levels! Precision mounted copper heatpipes rapidly dissipate heat for a more enjoyable coffee-drinking experience! The color is optimized for any event of your day, from the Standard days to Scenic, Nighttime, at the Game, even out at the Theater!<br /><br />How you haven't clicked the 'Buy Now' button is beyond normal human understanding!
+
+product/productId: B001WRHQRA
+review/userId: A2A2OWIGT1Q9Z2
+review/profileName: BR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297123200
+review/summary: Great Coffee
+review/text: I love this coffee. It has been hard to find since it is a Holiday coffee.  Pumpkin Spice.  Thanks for  having it in stock.  It was delivered fast and was a good price.
+
+product/productId: B001WRHQRA
+review/userId: A12BFUKCE8U4VA
+review/profileName: mappie1 "mappie1"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293580800
+review/summary: Green Mountain Pumpkin Spice K-Cups
+review/text: These K-cups are a wonderful taste of pumpkin spice!  Excellent coffee choice for the Fall and Winter months.  I've kept myself in stock with them throughout.  Sometimes k-cups don't really taste the way the flavor is to be but these really ring true.  Very worth a try.
+
+product/productId: B001WRHQRA
+review/userId: AILSKLHY5JJWP
+review/profileName: CornCrazy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293148800
+review/summary: Great Coffee
+review/text: This is a GREAT coffee!  It is light, refreshing, and very enjoyable!  I would recommend it to everyone!  I get mine at B.., B..., and B..... for about $10 for an 18 count.  Stock up for the winter!  You'll be glad you did!
+

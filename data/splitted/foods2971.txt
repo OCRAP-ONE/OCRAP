@@ -1,0 +1,1143 @@
+product/productId: B001G0MG28
+review/userId: A1D7HM0MMEAKUN
+review/profileName: Connie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329177600
+review/summary: My favorite chocolate for baking
+review/text: Ghirardelli chocolate is the best when compared to others on the market. I will always buy it as it does give a good taste of chocolate in cookies or cake.
+
+product/productId: B001AJQT1O
+review/userId: A1P2QJ23SZ3SVM
+review/profileName: mick
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326758400
+review/summary: Good price
+review/text: I order this coffee for work all the time through Amazon and it's the cheapest and best around. I will continue ordering.
+
+product/productId: B001NO4A8K
+review/userId: A2Q1V8EBYFMXSO
+review/profileName: Donald L. Buckle "Number 2 Amazon Fan"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1349481600
+review/summary: A very good albacore tuna.
+review/text: Crown Prince Natural Solid White Albacore Tuna In Spring Water<br /><br />This is an exceptionally good tuna.... good texture and taste. Up until buying this, I bought Walmart's store brand Solid White Albacore Tuna In Spring Water, which is also wild caught. The primary difference between the two brands is price.<br /><br />The Crown Prince Natural Solid White Albacore Tuna In Spring Water costs $0.42 per once without coupon or subscribe discount.... $0.35 per once with $10 per 24 can discount.<br /><br />Walmart's everyday price is $0.23 per once.<br /><br />Needless to say, when my stock of Crown Prince Natural Solid White Albacore Tuna In Spring Water runs out, I'll go back to the Walmart store brand.<br /><br />If the price difference wasn't so great, I would have given 5 stars instead of 3.
+
+product/productId: B001NO4A8K
+review/userId: AHF25OOYMOUZR
+review/profileName: Good stuff.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348099200
+review/summary: Good quality
+review/text: This purchased was well package, arrived undamaged and in a timely manner. The product was the best solid white albacore tuna I have ever had. It was much better than the name brands in my local markets. I have already placed a second order. I highly recommend this product.
+
+product/productId: B0048IACSK
+review/userId: A32B402Z0ZZ7VH
+review/profileName: Nakkun
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305244800
+review/summary: Not too sweet, right size for little ones
+review/text: Unlike some other brands (and some of Kinnikinnick's own cookies), these chocolate animal GF cookies are not overly sweet but tastes chocolate-y enough for my chocoholic son.  The animal shapes are easy to decipher.  Small enough for little hands to hold, and for mommies and daddies not to feel guilty for giving the kids 5 or 6 different shapes (or more!).  I have only bought them at retail stores, and invariably and perhaps inevitably some of the cookies are broken when I open the package, but that has happened with all animal cookies I have bought, GF or not.  The crumbs make a great cheese cake crust :-)
+
+product/productId: B004H1YIBU
+review/userId: A2WM68PPUL5SBY
+review/profileName: Fanceeist
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1298246400
+review/summary: Delish!
+review/text: I havent bought these from this seller, but I have had these crackers before. I have also tried the garlic and rosemary flavors. To me- this is by far the best. It has a delicious flavor, with great texture, and very fresh crunch. I gave some to my 5-year old niece and she liked them a lot. Tastes better than the other major brand (I wont say their name).  :)
+
+product/productId: B004H1YIBU
+review/userId: A2F87ON9UY5YHQ
+review/profileName: wellsboro girl
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1315180800
+review/summary: Crunchmaster crackers
+review/text: These are the best gluten-free crackers that you can buy. In fact, they are the best cracker on the market. Try them with cheese or eat them plain. They are delicious!
+
+product/productId: B004H1YIBU
+review/userId: A2UXXUJ4HWU7LX
+review/profileName: The Darters
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1315180800
+review/summary: Best crackers EVER.
+review/text: These crackers are gluten free but they are the best crackers...gluten or not.<br />THEY ARE TO DIE FOR !!!  Will keep ordering !!!
+
+product/productId: B004H1YIBU
+review/userId: A1YP5WLIHGG136
+review/profileName: Techthusiast "n00b"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336608000
+review/summary: We have a winner!
+review/text: Doc suggested reducing the gluten in my diet as another weapon against some mild psoriasis on my fingertips.<br /><br />I can't really speak to the efficacy of that but I was looking for an alternative to my normal cracker/crunch routine (Saltines, Ritz, Doritos). These Crunchmasters are great candidates!<br /><br />I've had them plain; with cheese/salami; with guacamole. But my favorite so far is as a crouton replacement! I crumble them up and once they get doused with some salad dressing, they work out perfectly for me.<br /><br />This all being said, I'm not really a salt guy (says the guy who eats Saltines) and they are a little salty for my tastes until I re-realized "duh, I ordered Sea Salt Flavor" so what did I expect. This 6-pack is a good amount of crackers for one crunch-lover but when I do get through them and onto ordering another batch, I'll try a different flavor.
+
+product/productId: B004H1YIBU
+review/userId: A282IG634BGUS6
+review/profileName: Lisa O'Leary
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334966400
+review/summary: great crackers!
+review/text: These crackers have a wonderful almost buttery flavor.  I would recommend them to anyone, not just those that must eat gluten free!
+
+product/productId: B004H1YIBU
+review/userId: A22LYX9C9LPCNA
+review/profileName: CaS
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334793600
+review/summary: Best Gluten Free Cracker!
+review/text: After being diagnosed with celiac disease, I was doubtful that I could find a cracker that I would like as much as my usual whole grain crackers.  My mom suggested these, and I was skeptical (what would I do with 6 bags if I didn't like them?)  They are fantastic!  They are crunchy, slightly salty, and a great gluten free cracker for any use.  Many gluten free crackers, and GF products in general, use mostly rice flour and are very low in whole grains and fiber, as well as being higher in calories than their whole wheat counterparts.  These crackers have 3 grams of fiber and 120 kcal per 16 cracker serving, which is great.  I would highly reccomend these crackers to anyone even if you do not need to follow a gluten free diet.
+
+product/productId: B004H1YIBU
+review/userId: ALN18UTFWZ2EM
+review/profileName: G. Herald
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325635200
+review/summary: Best Cracker Ever!
+review/text: This cracker is super awesome!  I have to eat gluten free and I always keep a bag of these crackers around the kitchen.  Whether you need to eat gluten free or just want a healthy option, this is the only cracker you need to keep in the house.  You can't even tell it is gluten free, it just seems like a normal cracker.
+
+product/productId: B004H1YIBU
+review/userId: A2ABJYC17LIYR0
+review/profileName: 6kats
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324684800
+review/summary: So good.
+review/text: I love these crackers.  I only have the Crunchmaster crisps available in my area.  So was happy to try another variety. These are great because they are big enough to add a topping if you want. But both are so addicting I want to eat the whole box. Thanks Amazon.
+
+product/productId: B004H1YIBU
+review/userId: A2DB4MX0AC4DEJ
+review/profileName: Shebear "Shebear"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323993600
+review/summary: This are awesome crackers gluten free or not!
+review/text: We were looking for a decent tasting gluten free cracker for our family members that have to deal with gluten issues. These are so good that now the whole family enjoys them and other Crunchmaster crackers which are just as delicious. You won't be sorry if you try these.
+
+product/productId: B004H1YIBU
+review/userId: A2WJSPKOKQRB78
+review/profileName: T. Fraser
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349913600
+review/summary: "All Natural"???...contains GMO corn, confirmed by a phone call to Crunchmaster
+review/text: Eating gluten-free or wheat-free is becoming far less challenging than it once was.  Unfortunately, eating GMO-free is still like navigating a labyrinth with a blindfold.<br /><br />We can thank food manufacturers like Crunchmaster for that difficulty.  With the following proudly printed across the front of the package: "Certified Gluten Free!", "All Natural", "0g Trans Fat", "Cholesterol Free", one might be tempted to think this is a fairly "clean" product.  Not so.  A call to the customer service number on the back of the bag (1-888-574-7737, in case you're interested) to ask whether this "all natural" product is also natural enough to be GMO-free, elicited the following comment from a customer service rep "it has corn in it, so it's not...".<br /><br />"Not GMO-free?" I queried to make sure I was understanding.  "Not GMO-free" came the reply.<br /><br />So there you have it.  With recent studies coming out even more strongly questioning the safety and long-term health effects of GMO foods, why would anyone want to eat this?  Do you?<br /><br />Pass on this product and support those gluten-free products that are also committed to providing GMO-free as well as gluten-free.  There are alternatives out there that do both.
+
+product/productId: B004H1YIBU
+review/userId: A34KLUG12K0KQW
+review/profileName: Jazzie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: Very tasty and crunchy.
+review/text: Other Glutten free crackers are hard and tasteless.  However, these multi grain crackers were not.  They had a crisp crunch and were also very tasty.  I put PB&J on them and also ate them alone.<br />I will be ordering again!
+
+product/productId: B004H1YIBU
+review/userId: A2S1ORSDZWRNTO
+review/profileName: adamsfam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: good gluten free
+review/text: the flavor and texture are excellent .my grand children are wheat sensitive so these are a nice addition to their limited selection of snacks. Not only that but the snack is healthy.
+
+product/productId: B004H1YIBU
+review/userId: A1GNGPG42CNV6D
+review/profileName: em
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346457600
+review/summary: Crunchmaster gluten-free crackers are exceptionally delicious
+review/text: Crunchmaster has perfected the art and science of baking crackers that are gluten-free so that the crackers taste and feel at least as delectable as those that are non-gluten-free.  People who do not need to eliminate gluten from their diet enjoy these crackers as much as people who must eat gluten-free.  Their high quality is exceptional in the gluten-free products industry; so many of those products are very expensive and not worth consuming.  Crunchmaster crackers are deliciously worth every cent.  The pack of 6 bags of crackers gives us an opportunity to bring a bag to share when we're invited to where they're serving a cheese plate as an appetizer.  Everyone comments on how good they are and asks about them.
+
+product/productId: B004H1YIBU
+review/userId: AK01UQVDE3KTO
+review/profileName: Jeannine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: The Best Crackers Ever
+review/text: These are great. They are always gone before I think of order another batch and we get 6 packages at a time.  Great as a substitue for Chips - Gluten Free - easy on the digestive system.
+
+product/productId: B004H1YIBU
+review/userId: A2A3DARCSMRLXO
+review/profileName: healthefoode
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Great, even if you don't need Gluten-free
+review/text: As a dietitian, I am always trying new, healthy foods to recommend to clients.  But these are so good, that I will also buy for myself.
+
+product/productId: B004H1YIBU
+review/userId: A1FKWW6VZQM7MY
+review/profileName: searchingforshoes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: Yummy!
+review/text: After trying many gluten-free products, with great disappointment, I was dubious about the glowing reviews for these crackers.  However, the gluten-free world is not a delicious place, so the reviews convinced me to try them.  I found only the white cheddar flavor at my local heath food store.  I must admit they are delicious. Without a doubt, the best gluten-free product I have had.  I agree with the other reviews, the crackers are crunchy and flavorful.  Since my local store only carries the one flavor, I look forward to ordering the others from Amazon.  I wish other gluten-free products could be this good.
+
+product/productId: B004H1YIBU
+review/userId: A2HHR26NR12S7S
+review/profileName: Martil
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1311465600
+review/summary: Crunchmaster Crackers with sea salt
+review/text: I received my shipment of Crunchmaster Crackers with Sea Salt. I love the flavor and the ingredients are healthy, for the most part. The only objection I have to them is they are too crispy and a little too brown. Otherwise, they are very good and I eat some every day. <a href="http://www.amazon.com/gp/product/B004H1YIBU">Crunchmaster Cracker - Sea Salt Flavor Gluten Free, 4.5000-Ounce (Pack of 6)</a>
+
+product/productId: B004H1YIBU
+review/userId: A1WX42M589VAMQ
+review/profileName: Mir
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1338681600
+review/summary: the texture is fabulous, finally, a gluten free cracker I can enjoy with my cheese!
+review/text: I ordered these due to good reviews and being gluten-free. While I've pretty much given up bread/bread products, sometimes, I totally crave crackers with cheese. So, got these to try.<br /><br />Very crispy. I loooooove the texture. A perfect KRUNCH.<br /><br />The flavor is reminiscent a bit of Cheetos sans cheese, or Corn and Rice Chex mixed and toasted. Salty, a bit of corn taste, enjoyable. Great with cheese, so hey, I got what I wanted. Would reorder in a heartbeat. :D
+
+product/productId: B000GZSI7G
+review/userId: A3729L5W7K3B4N
+review/profileName: Sean
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1276560000
+review/summary: No MSG
+review/text: I just wanted to note that there is in fact NO MSG in this product. Maltodextrin is not MSG, nor does it have the (alleged) harmful effects of MSG. That being said, this is one of the most delicious fast, easy and cheap food products I've found.
+
+product/productId: B000GZSI7G
+review/userId: A2V9I5Y9NN8KII
+review/profileName: Mom in TX
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320537600
+review/summary: Ramen for gluten free me
+review/text: I'm very gluten intolerant and am always looking for quick to fix foods that I can eat.  This is made with rice noodles. I love the flavor of the curry one.  I can't always find this in stores, haven't found them at all since I moved, so I'm glad Amazon carries them.
+
+product/productId: B000GZSI7G
+review/userId: A147FHC6L5CUR7
+review/profileName: Lilly Girl
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1264291200
+review/summary: Good soup
+review/text: Good, quick soup.  Nice alternative to Ramen noodles.  Not much curry flavor, but still tasty.  And it's made with Rice noodles, for those of us who can't eat wheat.
+
+product/productId: B000GZSI7G
+review/userId: AWEM0VJCIHTXU
+review/profileName: Primadonamama
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346889600
+review/summary: My favorite flavor of this brand is Bangkok Curry!
+review/text: Absolutely delicious, light, gluten-free, low calorie, inexpensive lunch! I am on a perpetual diet, and nothing has made me happier than this soup. I like ramen soup, but the problem with regular Maruchan ramen is that it has msg and wheat (gluten) and also twice the sodium per packet and its preserved with TBHQ. All of which is bad for me. Also ramen is fried, these rice noodles are steam cooked, not fried. And I like the fact that they put two flavor packets, one is the soup mix and the other is the spicy oil, so if your kids don't like hot spicy, they don't have to add the spicy oil packet. Great, right?<br /><br />The price works out best if you get the box of 72 from Amazon. This package of 12 actually works out to be a little more expensive than the supermarket, but still worth it if your supermarket doesn't carry it.
+
+product/productId: B000GZSI7G
+review/userId: A2T6HAHK9MABXN
+review/profileName: B. Ray "Mzphit"
+review/helpfulness: 2/8
+review/score: 3.0
+review/time: 1263686400
+review/summary: Gluten free, egg free, NOT MSG free
+review/text: I think a lot of folks see the word Curry and think, " oh noes, that's gonna be spicey!" This is not the case with the Bangkok Curry Instant Rice Noodle Soup. We were enjoying this as a  standard convenience food. It's quick, easy, and gluten free. That being said, it's not the best for you. It has Maltodextrin listed at least twice in the ingredients. This may not seem like a big deal to you, but I try to keep MSG out of my diet. If I had had a clear list of the ingredients prior to ordering this item I would not have purchased it.
+
+product/productId: B000NRXQH4
+review/userId: A36RDJYUVMIU69
+review/profileName: luvurpom "Tom"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293494400
+review/summary: My Dog Loves It
+review/text: This is a product your dog will love.  You can give it to him as a training reward or just for a snack.  It is made of all beef with no fillers.  Best part is that it is made in the U S A.  An excellent product.
+
+product/productId: B000NRXQH4
+review/userId: A30PRQ0JGM0ZQU
+review/profileName: Smitty
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1192492800
+review/summary: Crumple The Bag
+review/text: Your dog will listen.  These snacks are so good I've given them to my young children.  They now do all sorts of tricks and beg for these snacks....  come on folks, kidding.  But they are perfect for your dog!
+
+product/productId: B000NRXQH4
+review/userId: A3BAMQO2TEG296
+review/profileName: Dorothy "njsyd"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346544000
+review/summary: My dogs love this but....
+review/text: My dogs love these treats in many of the varieties and I usually get the 12 ounce packages for them...  This time I got two of the smaller packages - 4 ounces -  not realizing that the treats themselves are also miniature - too small for my dogs...  Will return to the 12 ounce packages ...
+
+product/productId: B000NRXQH4
+review/userId: ARFMBI0KF9ZT6
+review/profileName: Michelle D Tapnio
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290211200
+review/summary: Love it!
+review/text: This was highly recommended to me by a breeder so i tried it with my dog and he totally loves it!
+
+product/productId: B004L9QGIQ
+review/userId: A33NAORGZH1SA7
+review/profileName: Porky Pig
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319932800
+review/summary: Similar to Coach Oatmeal
+review/text: I like the chewy and "chunky" oatmeal.  So I'd prefer Steel Cut Oats compare to this.  This is similar to Coach Oatmeal.
+
+product/productId: B0002AQ7PU
+review/userId: A3W4ZXW47QH6H2
+review/profileName: Tachel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: My Pomeranians LOVE these!
+review/text: Fabulous product line!  No odors!  No stains!  I have two male 8 pound Pomeranians and they love these as a treat at night when my husband and I are watching a movie.  It is great to not worry about them staining the bedding or furniture.
+
+product/productId: B00299BT8C
+review/userId: AT86A405V3NDO
+review/profileName: DiscountDiva "Jill"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1272499200
+review/summary: Yummy!
+review/text: This was a gift for my daughter's Easter basket since she only eats healthy, organic food.  She loved the gummy bears!
+
+product/productId: B001VNGON2
+review/userId: A15849OCFAE87N
+review/profileName: Onree in Nebraska
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331683200
+review/summary: Nice bite to it...
+review/text: This cayenne was just what I wanted. Hot, but not too hot. I will buy again, but 16ozs will last me for a while.
+
+product/productId: B000H25TBG
+review/userId: A1FSZILKM1W3NN
+review/profileName: Chicago reviewer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280016000
+review/summary: Love These Crackers!
+review/text: Nice crunch and great tasting crackers.  Good for spreads or cheeses or just plain.
+
+product/productId: B001ELLB52
+review/userId: A1042VL00P3DOQ
+review/profileName: D. Adams "I'm Unique"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1186531200
+review/summary: Ohh, So Good.
+review/text: My family loves this as a substitute to the bitter orange juice from concentrate or can.  We drink it mixed like juice, or we add it to yogurt and fruit for an healthy smoothie snack.  If you freeze the fruit you are adding, there is no need to add ice for a heavy consistency. 1 small vanilla yogurt w/1 capful of concentrate and 1cup of frozen mixed fruit makes the best quantity for my family.  We may never go back to regular orange juice again.
+
+product/productId: B001ELLB52
+review/userId: A2MUGFV2TDQ47K
+review/profileName: Lynrie "Oh HELL no"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333584000
+review/summary: Yummy, I Like Beet Sugar Hope You Do Too!
+review/text: Beet sugar is this product's sweetener. My body handles beet sugar OR cane sugar better then High-Fructose-Corn-Syrup without brain fog and craving for more sweets. Even though a calorie is a calorie, how each body handles the calorie's source is equally important. Most artificial sweeteners trigger my headaches, so ZERO calorie products aren't my friend either. This product is a good alternative to diet or regular sodas for me. I'm not a purist or a foodie, just a person who's balancing good health and good taste day-by-day.<br /><br />The product reviews + good sale price convinced me to try these. I'm glad I did, they're my go-to guilty pleasure. Tasty, easy, flexible and a healthier choice than soda for me. I purchased both the Passion Orange Guava and Strawberry Sensation. I love them in my protein shakes, smoothies, or even a splash in a tall glass of crushed ice (homemade snow cone).<br /> o Passion Orange Guava - a yummy reminder of vacations I've taken and the tropical punches and umbrella drinks.<br /> o Strawberry Passion - my favorite, conjures up memories of summery homemade strawberry treats.
+
+product/productId: B001ELLB52
+review/userId: A1D7YK4GIJ2LYY
+review/profileName: Busymom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283558400
+review/summary: Tasty quick smoothie drink
+review/text: We've been using Big Train Fruit Tea Smoothie concentrate for a couple of years when making our fruit smoothies.  My 12 year old daughter makes them all the time and uses any flavor of the Big Train Fruit Tea smoothie concentrates as her base flavor... then she adds fruit, maybe yogurt, ice...and it's a great refreshing drink.
+
+product/productId: B002HQT6OG
+review/userId: ADKIVCRLC3XO2
+review/profileName: Bakersfield Ann
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337385600
+review/summary: Only Here!
+review/text: A great way to deliver cinnamon for coffee or desserts.  I could find it nowhere else.  Thanks for carrying it.
+
+product/productId: B0001392I2
+review/userId: ASM67YXLPXMC4
+review/profileName: Keldur G. Avcin "babybeeps"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1264809600
+review/summary: Chocolate Covered
+review/text: I have always loved<br />Gorants' products-these cherries are very good but it depends on how fresh they are at time of delivery. Of course, the fresher, the better. The chocolate melts in your mouth and the cherry cordial is ooooo sooooo goood!!
+
+product/productId: B000FAIR7I
+review/userId: A1VL2RQ4J7JUMR
+review/profileName: K. J. Scheffler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1154044800
+review/summary: lite balanced rosemary flavor
+review/text: I enjoy these bread sticks and appreciate a nice balance flavor.
+
+product/productId: B0029WXN2O
+review/userId: A2F3KU5WIHJWJ7
+review/profileName: teateatea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316649600
+review/summary: teateatea
+review/text: WOW!!!!!!!!<br />A sensational creation! Subtle, yet with an unmistakeable hint of bergamot. The biggest surprise is that at only 58% cocoa this chocolate tastes as if it contained about 72% of it.  How does Heinz Rimann do it?  A truly talented chocolatier. Can't wait to see (taste) what's next!
+
+product/productId: B0029WXN2O
+review/userId: A11JTHEOGP5XA7
+review/profileName: AC Slater
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315526400
+review/summary: Great Customer Service
+review/text: The Tea room customer service was friendly and extremely helpful! I would use them for any needs again and the product was delicious as well!!<br /><br />Thanks and I look forward to buying more items soon!
+
+product/productId: B00448V2WE
+review/userId: A1AS3W3T975MQ1
+review/profileName: HP flip top
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1328745600
+review/summary: Definitely bulk
+review/text: I was a little hessatent to order beef jerky from a web site, but I took a chance.  This jerky is true unseasoned beef jerky.  It appears to be hung jerky.  It tastes ok, but not as flavorful as some of the other brands.  This package comes with huge pieces, so it's a little difficult to eat in small portions.  Also, make sure you eat it fast.  It only had a shelf life of 5 days after I opened it beofre it started to mold.
+
+product/productId: B002JVUW2Y
+review/userId: AKNHGG8FEENCE
+review/profileName: Terry Brown
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Great on the go
+review/text: This is a good coffee mix. A friend brought some back from England and i have been hooked ever since. Very smooth blend mix. You cqn adjust the strength by added more or less water.
+
+product/productId: B002JVUW2Y
+review/userId: A1URPDQYG4G7V1
+review/profileName: Poland on my mind
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321920000
+review/summary: teacher
+review/text: WE discovered these on our trip to Eastern Europe this summer. I was thrilled to find I could order them off the internet in the USA! They are delicious, having the perfect mix of coffee, sweetener,( sugar I think) and some type of dried milk. Perfect for an  after dinner treat. I am hooked and will ask for some for Christmas!
+
+product/productId: B002CZHWYS
+review/userId: A3D3LF99C7HZAO
+review/profileName: Susan M. Laberge "Susan's animals"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314662400
+review/summary: For Jeremy
+review/text: I like this product, because it is grain free.  It is a bit softer than other canned dog foods probably because there are no fillers.  Jeremy loves it.  I have always mixed salt free green beans with his food as a filler so it does make the consistency a bit firmer.  Green beans are virtually fat free so my vet said to add them and cut down on the canned food as Jeremy tends to weigh a bit more than he should.  Jeremy is a Papillon and although fairly active he doesn't get long walks here in Florida in the summer so have to watch feeding amounts. Sometimes I mix a little bit of dry food with it to give it a firmer consistency.  He gets 1/2 can in the morning with greens beans and 1/2 in the evening the same way.  He is satisfied and content without over-feeding.Jeremy wolf's it down in either case.
+
+product/productId: B002CZHWYS
+review/userId: A1BS1CD66CFGZ2
+review/profileName: Shell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Love this!
+review/text: Not only does it smell good, but you can also see the bits of rice in the mixture. My pups gobble this up, and it's great that it doesn't upset their tummies as well. I am glad to have finally found something that not only won't mess with their stomachs, but that I know doesn't contain the ingredients that my pups are allergic to (chicken, egg, and corn.)
+
+product/productId: B002CZHWYS
+review/userId: A3CZXZMWHURZVF
+review/profileName: Sophie Oakes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331424000
+review/summary: Dogs love it
+review/text: If you are trying to feed your dogs food that is tasty and good for them, give this a try.  My dogs love it and so does their vet.
+
+product/productId: B002CZHWYS
+review/userId: A27WQA46WDPPCE
+review/profileName: A. Lopetrone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315526400
+review/summary: Great food
+review/text: Good reviews and my Maltese loves it!  We buy and switch up all the flavors.  I usually mix with their dry small bites (also very good).
+
+product/productId: B003OPJ2DY
+review/userId: A2SNXVUY3411HF
+review/profileName: Robert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316390400
+review/summary: Very good product
+review/text: I ordered these for my sister in law who found some in a liquidation store and fell in love with them.  Our online search brough us to amazon so she had me order 10 bags of these.  These are just like home made like back in the day.
+
+product/productId: B003V1E8QC
+review/userId: A2WT70BRZ9KH0Y
+review/profileName: Flower
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1281139200
+review/summary: Great fibrous snack
+review/text: I tried this product - it is not as sweet as the others that have been around for a long time, and I like the fact they taste fresh and are full of fibers. Order and try for yourself - I don't think you'd be disapoointed :)
+
+product/productId: B003V1E8QC
+review/userId: A3EWBI2TUG74HQ
+review/profileName: lsoon3
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1278547200
+review/summary: Great Product!
+review/text: I bought a Goldenvale Jumbo raisin medley at our local grocery store.<br />I normally don't get excited about raisins, but these were among the best I had ever tasted, both in their juiciness AND with the taste combination from the three different kinds of raisins. As I continued munching through half the bag, I couldn't help but think, "with this kind of taste, who needs to be eating candy! This is as good as most candy I have had!
+
+product/productId: B003OP8KZK
+review/userId: A34YTVH0XDHWIZ
+review/profileName: zonlyone
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349049600
+review/summary: Smoooth!
+review/text: We are coffee people, and I mean coffee people. I've tried many, many types and always go back to Italian (although German comes very close). This one however, is one of the best I've ever come across in organics.  It's extremely smooth. It's not overly nutty and has a sweet finish on the palate without hitting the back of the tongue with an overwhelming acidity=bitterness. My husband usually likes a more acidic coffee, but really enjoys this one.<br /><br />We also found that it's much easier on the stomach with a lower acid level, but not because of the chemical process. A naturally occurring lower acid level means it's a true dark roast. A good company that is truly organic should never use the chemical processes, and instead know how to actually roast the coffee properly. A slower roast allowing the oils (which contain the acid) to be roasted out of the coffee without over roasting, versus treating them chemically is the key in other words. You get the caffeine, just not the heart burn. And that is ideal for coffee drinkers like us.<br /><br />I think I've found the one. With all that said, it really does depend on your palate. I do believe however, that this has a nice overall compatibility with what most are wanting in a good coffee, especially first thing in the morning. A good deep flavor without knocking you back. Perfect for what we're wanting.<br /><br />It's also grown and roasted right here in the USA!!
+
+product/productId: B003OP8KZK
+review/userId: A1LUT1N6VS2CV6
+review/profileName: E. Hastings "bookworm123"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325548800
+review/summary: Great stuff!
+review/text: This coffee is wonderful.  I love dark, Italian Roast coffee, but it is difficult to find brands that are organic, affordable, and taste nice.  This is my new favorite.
+
+product/productId: B005PULDU6
+review/userId: A11UIB914GEKI0
+review/profileName: maureen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: Love Cadburys Selection boxes
+review/text: Was so thrilled to know you can buy cadburys online in the US,Born in the UK we got these every xmas,what i love most about them is they have all of your cadburys favourites.The shipping was fast,and i will be looking forward to buying more of my favourite British sweets from this seller.
+
+product/productId: B005PULDU6
+review/userId: AUBQLZIJDARTS
+review/profileName: N. George "nikki"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1321142400
+review/summary: British Candy Bars are fantastic!
+review/text: These are british candy bars in a lovely christmas box, i'm british so i know first hand how great these are, they are a perfect stocking stuffer gift (if you have big stockings on mantel lol) or just wrap, these not just for kids, trust me the adults will love them too. British Candy (aka British Sweets) are made slightly different to american chocolate candy - you'll see the difference, the chocolate is softer, sweeter, and melts in your mouth - so good, trust me these are a winner every year at christmas amoung my american friends ;o)
+
+product/productId: B0029TJTQG
+review/userId: A1HRYC60VTMYC0
+review/profileName: Ace
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1264896000
+review/summary: Chunky "Nectar and Ambrosia"
+review/text: I'm a meat and potatoes type of person (although I do eat lots of veggies because they make a difference in the way I feel).<br /><br />And I LOVE this Chunky Soup!!! I could OD on it.<br /><br />It has NICE meaty chewy chunks of tender beef, swimming in a thick gravy, surrounded by BIG chunks of taters and carrots and veggies, oh my! -- and frankly, it tastes JUST as good eaten out of the can as it does warmed up (for those adults who would like an even heartier taste, add a little -- 2 or 3 tablespoons of -- beer to it when heating up). I suppose you could also add some cooked s'ghettis to this soup-- but why..?? It's beautiful just as it is.<br /><br />I also LIKE VERY MUCH the Low Sodium version of this soup -- because I could NOT eat the "regular" (Higher Sodium) version of this Chunky Sirloin Burger soup, without getting sick (dizzy), and I don't have any medical issues that would be affected by a higher sodium intake.<br /><br />I buy this by the carton. I love it.
+
+product/productId: B0029TJTQG
+review/userId: AK970G8NHEU8G
+review/profileName: Sunny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318118400
+review/summary: A hefty quantity of great food for a good price!
+review/text: If you're looking for the larger soup cans and want them for a good price, this is it.<br /><br />It's delicious, meaty, and there's 12 of them for just about 20ish dollars. Nothing else to say about it, really.
+
+product/productId: B0029TJTQG
+review/userId: A1YLOZQKBX3J1S
+review/profileName: R. Lee Dailey "Lee_Dailey"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1292630400
+review/summary: would [pro'ly] be good if it had some flavor
+review/text: howdy y'all,<br /><br />i accidentally ordered this. i _meant_ to order the normal version here ...<br /><a href="http://www.amazon.com/gp/product/B0014EQHY4">Campbell's Chunky Sirloin Burger Easy Open, 18.8-Ounce Cans (Pack of 12)</a><br /><br />it's blah. very, very blah. it is the proverbial healthy food joke in a can. "if it tastes good, don't eat it!" the mini-burgers that look like skinless sausage slices _are_ cute, tho. [*grin*]<br /><br />did i mention the darned stuff is blah? i make jokes about the food i'm having to eat during treatments. i call the frozen meals-to-be-nuked "box-of-blah". this stuff qualifies as "can-of-blah".<br /><br />take care,<br />lee
+
+product/productId: B0058AFVBU
+review/userId: AZ7833Y7P06OK
+review/profileName: Speedy Ryan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331856000
+review/summary: Candy Blox
+review/text: Packaging was a little flimsy but it did not affect the integrity of the product.  I will not hesitate to purchase this product in the future.
+
+product/productId: B002P9D3GC
+review/userId: A4SOTMZRRFHKO
+review/profileName: R. Sherwood "Mama Bear"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1298332800
+review/summary: Love this tea
+review/text: I have loved this tea for a very long time. I have tried several Jasmine flavors and nothing compares to this one. It was easy to find in MD at pretty much any Asian market. I moved to NC and couldn't find it until recently. If you have an Asian market near you, try there first, it might be a little cheaper.
+
+product/productId: B002P9D3GC
+review/userId: A34CBM9DDYDXEL
+review/profileName: Kalman
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1326585600
+review/summary: Twinnings doesnt have anything on this
+review/text: This tea is amazing, it has such a great flavor but be warned it is highly addictive. When Im done this box they will be receiving another order from me. 5 stars
+
+product/productId: B00975HC9G
+review/userId: AL0IBZIGDVG8D
+review/profileName: Calvin Chu
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1305504000
+review/summary: My Daughter Loves The Mango
+review/text: I switched to Happy Baby after learning that Earth's Best and Gerber have bpa in their baby food lids.  These pouches are bpa free.  My daughter loves them.  I usually mix the mango in with oatmeal to sweeten the oatmeal naturally.  My daughter doesn't like to eat oatmeal plain.  I usually use one package over two or three days this way.  They are also great on the run.  I can throw a couple pouches in the diaper bag and take it out when needed.  She has eaten pouches on the subway, park benches, buses, etc.  She just sucks them up with no mess.
+
+product/productId: B00975HC9G
+review/userId: A3263SHQGTAS8A
+review/profileName: NewMomNicole
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1324166400
+review/summary: Delicious!!
+review/text: I agree with other posters -- I taste all of my baby's food and this is my favorite :)  More importantly, of course, my baby likes it.  We started giving it to him at 6months and plan to continue even though he's on to Stage 2 foods now.  I don't have a whole lot of time to make my own baby food, but using this helps me get him some more variety.  It's pretty thin, so I can use it to blend with either avocado or spinach+banana.  It's also really sweet so it makes a pretty yummy combination!
+
+product/productId: B00975HC9G
+review/userId: A2B4YW1Z07M4DZ
+review/profileName: bogo
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327881600
+review/summary: Baby loves it.
+review/text: My baby loves the mango baby food. I make most of his food, but I can't find organic mangoes around here, so I was happy to find it available to buy. I bought a ton of it when it was on sale, and even if he outgrows baby food, the adults of the family will use the mango baby food in smoothies!! Delish!
+
+product/productId: B00975HC9G
+review/userId: A3IDEHGPJL27CF
+review/profileName: rebailes
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326672000
+review/summary: Nutritious and Convenient
+review/text: My baby started eating this around 6 months. The screw top was so helpful when she was first starting to eat, because she would try a little and then I could put the top back on and stick it in the fridge. I also liked mixing a little with her HappyBellies oatmeal. She liked that a lot. She is 11 months now and continues to enjoy this flavor. I am happy to give her something nutritious, and it is also so convenient when we are out and about.
+
+product/productId: B00975HC9G
+review/userId: A3PR3ZEVR9YG3S
+review/profileName: Morgannin "Eco-friendly mom"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326326400
+review/summary: Awesome!
+review/text: This is an awesome product from an awesome company! My daughter loved this (as well as the Stage 1 mango). We only stopped buying it to switch her to the Happy Baby Stage 2 products. This product has a good consistency and mixes well with cereal (she didn't like it in yogurt).<br /><br />Some things you should know about Happy Baby:<br /><br />Organic ingredients<br />BPA-free packaging<br />Many Vegan choices<br />Gluten free snacks<br />Stage 1 and Stage 2 Pouches are Kosher<br />No GMO's<br />Allergy conscious (no soy, gluten, dairy, or added sugar, and processed in a nut free facility)
+
+product/productId: B00975HC9G
+review/userId: A2VFEY7LF1P0XC
+review/profileName: claire
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336003200
+review/summary: great taste, convenient and great customer service
+review/text: I contacted HAPPYBABY customer service and got a response back within the hour, now that's great customer service!!! I found out with delight that all HAPPYBABY products are packaged in facilities in the US and no raw materials are imported from China. Now as far as the organic mango pouch, my baby loves it and I love it also. I also tried other baby food and my baby loves them all so far. I'm thinking about switching to HAPPYBABY products including yogurt melts and puffs, which are gluten free btw, altogether from Plum Organics since I've contacted them 2 weeks ago and still no response! Thank you HAPPYBABY!!!
+
+product/productId: B00975HC9G
+review/userId: A1MU9SPT7RAQ45
+review/profileName: P. Elkins
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334707200
+review/summary: Kids love it!
+review/text: Our son begs for these mango "drinks" so it's a great way to get a little one to take in some healthy fruits!
+
+product/productId: B00975HC9G
+review/userId: ADJQQRJTHYCRN
+review/profileName: S. J. Hamilton
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333670400
+review/summary: Baby loves it!
+review/text: So glad this is on subscribe and save. My little girl loves this stuff. I make all of her baby food purees at home, but hate dealing with mangos and they're expensive.  Great price here.  I'm tempted to freeze a pack and eat like a sorbet...it is that good.
+
+product/productId: B00975HC9G
+review/userId: A3E3H0E7SSN6GQ
+review/profileName: EKK
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332979200
+review/summary: Son's favorite fruit
+review/text: I know why--these things taste GREAT!<br /><br />I love the screw top pouches--all I do is grab a spoon, and squeeze a mouthful size amount into the spoon and feed it to my son.  I don't need a bowl to keep the product clean from baby spit.<br /><br />If anything, when he's done eating (if he doesn't eat the whole thing) all we're left with is one spoonful of food that is wasted.
+
+product/productId: B00975HC9G
+review/userId: AIVD2B6Y8G5MA
+review/profileName: vojo
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1316131200
+review/summary: perfect for on the go
+review/text: I ude these when I'm on the go with my baby.  I can literally squeeze it into her mouth while shopping and it frees me up from being home at a specific time or finding a place to sit down and feed my baby.  Aloows for a bit of extra freedom from the timed schedules.
+
+product/productId: B00975HC9G
+review/userId: AS96SQKQTQP23
+review/profileName: midwestwrkgmom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306368000
+review/summary: A Favorite
+review/text: Our 6 month old has just begun eating purees and this is already a hit - and having tested all our LO foods I can attest to it being delicious.  I am very happy with the HAPPYBABY product line.
+
+product/productId: B00975HC9G
+review/userId: A2XWFSMXJ1RR0R
+review/profileName: Mel M.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304467200
+review/summary: Best price for organic pouched pears
+review/text: If you need the convenience of this kind of pouch packaging (lightweight, not breakable glass) for "on the go" situations, the Amazon price for these is the best anywhere.  Less than $1 per 3.5 oz pouch.  At the time I'm writing this review, the per ounce price is less than Plum Organics, Ella's Kitchen and Sprouts.  I also prefer this packaging over Sprouts because you don't need a spoon to feed baby, just squeeze directly in the mouth.<br /><br />However, if I'm feeding at home, the best bargain is with <a href="http://www.amazon.com/gp/product/B000ER1D5U">Earth's Best Organic 2nd Pears, (6 months & up), 4 Ounce Jars (Pack of 12)</a>.  Even if you don't do Subscribe and Save, it's a great deal, compared to the pouch style competitors.
+
+product/productId: B00975HC9G
+review/userId: A1I00Q2E36UBCQ
+review/profileName: R. Dasgupta "RD"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295827200
+review/summary: Love it!
+review/text: I usually don't write reviews but I had to for this one. Once you try this product you'll notice a clear difference in taste from the gerber products. The mango actually tastes and smells like mango. I recommend this and the other Happy Baby products.
+
+product/productId: B00975HC9G
+review/userId: AHZFM8I9L3UQT
+review/profileName: John D. Drumm
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351036800
+review/summary: Yucky Mango
+review/text: My daughter and I are gluten and dairy free.  We are always on the look out for easy snacks with no refridgeration needed.  These were terrible.  My daughter, her friend and I love mangos, but these tasted nothing like mango, and had a funny after taste.
+
+product/productId: B00975HC9G
+review/userId: A3AQ38QY2K9TPK
+review/profileName: S.E. "S.E."
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346198400
+review/summary: Good product - but not JUST pears.
+review/text: I am a big fan of Happy Baby products but was really disappointed to see that this one (and perhaps others as well) had lemon juice among the ingredients. I don't understand why that is even necessary. Our son has very sensitive skin and breaks out around his mouth and chest whenever certain foods come in contact with his skin - and I bet that the lemon juice could be the culprit here.<br /><br />I just wish it wasn't so hard to find a product that had only what it says it has on the front packaging. The Amazon description didn't even say it.<br /><br />Word of warning for parents of kids with citrus allergies/sensitivities.
+
+product/productId: B00975HC9G
+review/userId: A1USU2YD0M60V4
+review/profileName: Charlotte
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: Not just for babies! Great for skiing or hiking
+review/text: I started buying these to take skiing and hiking with me. I know its baby food but it tastes great and is a nice light package to carry in your jacket pocket or bag. Why not? Its just pureed mango (I always stick to the fruit only pouches).
+
+product/productId: B00975HC9G
+review/userId: AEY2I1GJKLZXQ
+review/profileName: Daniel Bedinger "SubaruDan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333324800
+review/summary: The Fresh Mango is both of my kids favorite food.
+review/text: Both of my kids go crazy for these pouches.  They would eat several in a row if we let them.  With the little one you have to be careful so that she does not squirt it all over herself and she has made a big mess in the car a few times, but by 18 months she seems pretty good at self feeding with them. Definitely recommend these if you want something your kids will love and is hopefully good for them.
+
+product/productId: B00975HC9G
+review/userId: AUD46AGPGEPT9
+review/profileName: careful shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332720000
+review/summary: not just baby food -great for quick use in kitchen
+review/text: Too expensive for us to purchase at full price but got a great deal so bought two cases. Intended to use as baby food but our child wont eat purees very much so preschooler likes these in the car.<br /><br />While fresh fruit is best, these make a great substitute and are great in kitchen. Make an organic sauce for chicken. Put orange juice in pan (strong, closer to concentrate is best), add cinnamon, nutmeg, and a pouch of this puree. Another option is finely diced apples and applejuice. Makes a great, simple chutney. Just don't tell the family or your guests you served then "baby food" until after they rave about the meal!
+
+product/productId: B00975HC9G
+review/userId: A1L7D3XVFK2JNB
+review/profileName: R. Edwards
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331164800
+review/summary: Yum!
+review/text: We've tried all the different baby food organic mangoes and think this brand tastes the best. Not only does our child eat them straight, but we also mix them into cereal and yogurt.
+
+product/productId: B00975HC9G
+review/userId: A2IYWY7BFZX50R
+review/profileName: T. McVay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327968000
+review/summary: Easy Organic Mango Puree
+review/text: I am the only one in the house who enjoys cutting up a fresh mango and getting messy. But sometimes I don't plan ahead and I run out of time to puree my mangos. I find this pouch a great solution. It is convenient to hold for my child and it gives her organic mango with no preservatives. If she can't finish it in one sitting (which is rare) I can screw the top back on and put it in the fridge for up to 2 days.
+
+product/productId: B00975HC9G
+review/userId: A367RKSM6DA1H2
+review/profileName: X. Avalos
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327881600
+review/summary: Best tasting Pear Puree Ever
+review/text: I was so excited when my son ate this entire pouch. Truth is I think Baby Food is gross, bland and mushy. But not THIS ONE! This one actually tasted of real, fresh pears. It was delicious. I love that it's organic and convenient to take wherever.<br />Definitely the best buy out there!
+
+product/productId: B00975HC9G
+review/userId: A1LYZF2VZCJR51
+review/profileName: benmcvay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327536000
+review/summary: Pear- Organic Baby Food in pouch
+review/text: This is the closest thing to fresh pears.  It does not have any added fillers, soy, gluten,etc...tastes just like fresh pear.  It is perfect when you are on the go and babies that are older can feed themselves!  Wonderful in the winter, when it is really hard to find ripe organic pears.  Great for cooking too, try it instead of oil! You can also add this to yogurt or smoothies for an added kick.
+
+product/productId: B00975HC9G
+review/userId: A3PR3ZEVR9YG3S
+review/profileName: Morgannin "Eco-friendly mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326326400
+review/summary: Awesome!
+review/text: This is an awesome product from an awesome company! My daughter loved this (as well as the Stage 1 pears). We only stopped buying it to switch her to the Happy Baby Stage 2 products. This product has a good consistency and mixes well with yogurt or cereal.<br /><br />Some things you should know about Happy Baby:<br /><br />Organic ingredients<br />BPA-free packaging<br />Many Vegan choices<br />Gluten free snacks<br />Stage 1 and Stage 2 Pouches are Kosher<br />No GMO's<br />Allergy conscious (no soy, gluten, dairy, or added sugar, and processed in a nut free facility)
+
+product/productId: B00975HC9G
+review/userId: A3KG2JE0QVJKOV
+review/profileName: Kristina "kmke"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325116800
+review/summary: Yummy pears
+review/text: One of my sons favorites! He loves the pears. He's 7 months now and been eating this for 1-2 months. Mixes great with infant cereal.
+
+product/productId: B00975HC9G
+review/userId: A20KO2IG36HXOU
+review/profileName: TBH1977
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320710400
+review/summary: My son's favorite!
+review/text: My son absolutely loves these Mango pouches. Definitely his favorite. I have been feeding these to him since he was 6 months old. He is almost a year now and still loves them. Organic, just a plus! Highly recommend this product, especially for travel.
+
+product/productId: B00975HC9G
+review/userId: A2D90KXASDF82D
+review/profileName: AOE "AOE"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320278400
+review/summary: Excellent!
+review/text: Our son has already grown out of the recommended age for these, but nevertheless still loves it and asks for it either to be added to his morning cereal, or as a snack later in the day. The package is mess free and takes much less space in storage than canned products, I highly recommend this to all parents!
+
+product/productId: B00975HC9G
+review/userId: A1F6DA0IOLRKBT
+review/profileName: Doodlemama3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318982400
+review/summary: wonderful product
+review/text: I recently found this baby food for my 3rd child.  I had never used this type of packaging before but I LOVE it!  We on the go more with her two older brothers, so this package is convenient and she is at an age where she can suck it out herself.  We also live in an area where mangos are not prevelant, so this is a great option.
+
+product/productId: B00975HC9G
+review/userId: A25LXMUA6IK2W9
+review/profileName: Sara Ledford
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318809600
+review/summary: Yummy
+review/text: This is excellent, especially to mix with baby cereal. I make most of my daughter's food, but supplement with a few store bought products and this is one of the best we have tried.
+
+product/productId: B00975HC9G
+review/userId: AWMZ9VHF1Q9PI
+review/profileName: K.D. "Practical Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316736000
+review/summary: Easy and great for older babies
+review/text: I love these because my babies can just hold them and eat them...sometimes they squeeze a little too hard and it makes a little mess, but over all we've had great success with these. My babies love them.
+
+product/productId: B00975HC9G
+review/userId: A220NC6XXFAZXF
+review/profileName: Lanaya
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315612800
+review/summary: Nice and healthy
+review/text: I love happy baby organic foods.  These squeezers are great to have stashed in the diaper bag for an emergency snack.  My son was able to hold and eat these himself from a very young age and they are so healthy.  The best is getting them on subscribe and save, so much cheaper than buying in the store.
+
+product/productId: B00975HC9G
+review/userId: A7XOZ0C38OPOZ
+review/profileName: Curtisbk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314662400
+review/summary: Love
+review/text: My baby started refusing baby food at 9 mos and my 2.5yr old is a picky eater. I started ordering all of the different flavors of the HappyBaby and HappyTot (which has the magic supergrain Salba in them)line through the automatic delivery service (which lowers the price/amazon mom's helps too) and I call them smoothies. My toddler gobbles these up and asks for more! Even the ones that are green bean, peas, pear, and salba. It's like a miracle! My baby eats them too, but not with quite as much enthusiasm. It makes me feel so nice that my kids are getting some good for them stuff and I don't need to break my neck trying to do it. Oh and they are wonderfully anti-messy. I shove a few in my purse when I know we will be out during hungry times.
+
+product/productId: B00975HC9G
+review/userId: A332JC3TCBPGY8
+review/profileName: Leah E Williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312070400
+review/summary: Excellent Product
+review/text: My baby has loved these since she was 6 months old.  I have eaten a few in a pinch and they are quite tasty.  My daughter is now 9 months old and can feed them to herself.  I pack them for one of her snacks at daycare.  The subscribe and save price is the cheapest around.  We've had a lot of luck with this brand.  I wish Amazon carried a wider variety at the subscribe and save price.<br /><br />Just a note that these are a little liquidy.  They work nicely to mix with oatmeal or cereal for breakfast.
+
+product/productId: B00975HC9G
+review/userId: A50YT0YIW7O9S
+review/profileName: Harpseal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311033600
+review/summary: Great!!!
+review/text: This is by far my son's favorite baby food so far he devours it.  It is very thin compared to other flavors so be prepared for a big mess.
+
+product/productId: B00975HC9G
+review/userId: A20P8VC55KPPCT
+review/profileName: FL Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310860800
+review/summary: Love all HappyBaby Tots!
+review/text: My kids (18 mo and 3 yrs) love the HappyBaby Tots.  We have tried every flavor and they eat all of them.  I love that they are getting good, organic nutrition, and that the ingredients are wholesome.  They are very convenient to throw in your diaper bag or purse on-the-go, or to stick in a lunch box for a snack.  We use a spoon and sometimes a bowl at home for self feeding with my little one, but you can also give the pouch to them to eat directly from the squeeze pouch.  Thank you, HappyBaby, for such great products!!
+
+product/productId: B00975HC9G
+review/userId: A20P8VC55KPPCT
+review/profileName: FL Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310860800
+review/summary: Love all HappyBaby Tots!
+review/text: My kids (18 mo and 3 yrs) love the HappyBaby Tots.  We have tried every flavor and they eat all of them.  I love that they are getting good, organic nutrition, and that the ingredients are wholesome.  They are very convenient to throw in your diaper bag or purse on-the-go, or to stick in a lunch box for a snack.  We use a spoon and sometimes a bowl at home for self feeding with my little one, but you can also give the pouch to them to eat directly from the squeeze pouch.  Thank you, HappyBaby, for such great products!!
+
+product/productId: B00975HC9G
+review/userId: A1QT865067KV5I
+review/profileName: Biverhousen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308873600
+review/summary: Simple and convenient
+review/text: My son 2, loved this flavor! It is so easy to pack and feed, very few spills! Love that he can have a serving of fruit anywhere. I pnlu wish that they could sell two varieties in one pack. Great product!
+
+product/productId: B00975HC9G
+review/userId: A4WGUF6LFAM4J
+review/profileName: NYCgal
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1313107200
+review/summary: Spoils quickly - much earlier than stated due date
+review/text: I bought the 16-pack in May 2011 and the date on the label says "best by" May 2012.  Baby & I spent some time away from home this summer and when we returned in August, I opened one of these packs and the smell was of over-ripe spoiled mangos (with that wine smell).  They were fine when I purchased in May and baby loved it, but now I have 10+ packs that I need to throw away and Amazon won't let me return these.  Seems unfair when the label clearly states they are ok until next year.
+
+product/productId: B00975HC9G
+review/userId: A2ZG4FCKBQKJ51
+review/profileName: Joy
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1327190400
+review/summary: Fresh?
+review/text: I bought a single pack of this first to try to see how this can possibly be called 'fresh mango' when it is sitting on a back shelf of a small corner grocery store in our area for i don't know how long. I opened it and tried it and unless we got a dud, real 'Fresh' mango when peeled cut into chunks and pureed will be a bright yellow or bright orange color, not a brownish color which is what this 'fresh' mango puree was. I am a real mango lover and personally feel this color and taste is what an over ripened mango that is going bad will look and taste like. After reading all the reviews i was disappointed, and my baby only had a teaspoon and didn't know any different since it was her first fruit. Also can you really classify something as 'fresh' when it can sit in it's packaging for a whole year? IMO the lure of this and similarly packaged products is basically the design of the packaging and the products easy accessability. As others say you can eat it on the go, while traveling and anywhere basically and the child can hold it, it doesn't create a mess, bpa free packaging easy all around. Other then that once opened it's only good for a day or 2 like a real fresh cut mango is anyway, only its not really 'fresh'..but since here on the northeast mangos only come around a few months out of the year and since most people don't have the time to puree their own fruits and veggies, these types of products are the only alternative, otherwise cubing and pureeing your own mango..now that's fresh mango! Hopefully i can find the time to start pureeing soon. Edit: tried another pouch and it wasn't brown it was more like a bright orange as a mango should be and it did taste good. Convenient to mix as it's texture is smooth but still will try and puree my own when mango season comes around.
+
+product/productId: B000199ZY2
+review/userId: A30U10P5ILT433
+review/profileName: S. Khasin
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1328486400
+review/summary: Deceptive item title
+review/text: The title says that this is raw cheese, yet the ingredients begin with pasteurized milk. Pasteurized is not raw. This is clearly an attempt to deceive consumers into purchasing a product that is not of the quality that is being claimed.
+
+product/productId: B000199ZY2
+review/userId: A26J5TWKVVF2Z1
+review/profileName: shawn "adventure"
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1100131200
+review/summary: for the mature educated palette
+review/text: This cheese is very different. It has a unique flavor all it's own. I loved from the moment I tasted it.<br /><br />I buy it for gifts of all occasions.<br /><br />Certainly, a must try.
+
+product/productId: B000199ZY2
+review/userId: AFIN9DNWO0VN4
+review/profileName: Sonja Corterier "yraile"
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1328572800
+review/summary: might be deliscious BUT CLEARLY misslabeled
+review/text: Pasteurized MIlk is not RAW milk. I have no opinion on the taste of this product, but I stay clear of companies who try to defraud me by mislabeling their products
+
+product/productId: B000199ZY2
+review/userId: A2N7G2TK1QD0CR
+review/profileName: SLW
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1286841600
+review/summary: sharp cheese
+review/text: Good sharp cheddar. Liked the fact that it can packaged as two separate pieces..easier to keep in the fridge for longer periods of time.
+
+product/productId: B000LKTBDQ
+review/userId: A3TBK4TUCZMGDS
+review/profileName: Natalie Klein
+review/helpfulness: 21/21
+review/score: 5.0
+review/time: 1225929600
+review/summary: an extremely pleasant surprise
+review/text: So, I started a gluten-free diet about two months ago. I have baked gluten-free bread, but other than that, haven't really tried to replace other wheat products. This was my first try of a gluten-free pasta. I've had quinoa before and really liked it so it seemed like a good bet.<br /><br />Even so, I wasn't expecting a miracle. Even as it cooked and I was tasting for doneness, I was noticing grainy textures that weren't that great. But I kept tasting, and right around the suggested cook time, it smoothed out. I drained immediately and dressed with a really light sauce. There is no noticeable "off" flavor to the pasta and it has a great "al dente" texture. I am confident I could serve this to someone who didn't know it was regular pasta and they'd never think anything of it.
+
+product/productId: B000LKTBDQ
+review/userId: A1AQ2W2R4SOVGN
+review/profileName: De Profundis
+review/helpfulness: 16/17
+review/score: 5.0
+review/time: 1195516800
+review/summary: Good alternative to brown rice pasta
+review/text: I agree with the last reviewer that quinoa pasta must be watched and doesn't store well. It loses structural integrity rather quickly, so add a splash of olive oil to boiling water before adding the pasta, and then stir frequently--the trick is not to let it stick together or it will form a big mass of glue. It's not great for soups and stews because if overcooked, it begins to dissolve. However, in light of all that, I really, really like all the Ancient Harvest quinoa pastas. They are far tastier and have a more pleasing texture than any rice-based pasta.
+
+product/productId: B000LKTBDQ
+review/userId: A34OJTZIV9B9LD
+review/profileName: Allergy Free "Allergy Free"
+review/helpfulness: 15/17
+review/score: 3.0
+review/time: 1179705600
+review/summary: Delicate
+review/text: It tastes pretty good with lots of sauce - but you have to keep an eye on it when cooking so it doesn't break apart, the elbows don't hold its shape. Also, if you stir in sauce too much, it will definitely break and it doesn't store well in the fridge because when you reheat it, it'll break some more. Otherwise, it's a good alternative to wheat/gluten.
+
+product/productId: B000LKTBDQ
+review/userId: AJYBJD5IX3IWG
+review/profileName: Douglas J Freyburger
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1300406400
+review/summary: Good flavor compared to other wheat-free gluten-free pastas
+review/text: When I first tried Quinoa based pasta I expected it to have little or nor flavor like rice pastas.  Not so.  Quinoa pasta has more flavor.  I like it better than the corn based ones as well.  Quinoa pasta has better flavor.  Since I first tried Quinoa based pastas they have become the standard in my house.
+
+product/productId: B000LKTBDQ
+review/userId: A2XL6TZM34HFV3
+review/profileName: Review Man "Review Man"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1300147200
+review/summary: Best GF pasta
+review/text: My son's celiac so we know a lot about gluten free products in my house.  We've tried many gf pastas and this one is BY FAR the best.  We go through a few cases of these a year.<br /><br />I really can't think of anything bad to say about them except that you need to be careful that you don't overcook them -- the window of acceptable "doneness" when boiling these is around two minutes long.  But when you cook it right it's great.  I've even made baked pasta dishes with these and they're excellent.  This is much better (and more nutritious) than any brown rice pastas out there.
+
+product/productId: B000LKTBDQ
+review/userId: A16E52U704OA5S
+review/profileName: JenZ
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1344816000
+review/summary: Excellent Pasta, please read before reading the negative reviews
+review/text: I've noticed a lot of people complaining that the product has corn in it and that they felt mislead when buying it because they thought it was all quinoa. Quinoa itself can't be made into a stong pasta. It's too bad people are giving this product a bad review just because they didn't take the time to read the description. It says its a blended pasta right on the box and the product description says "Now you can enjoy the rich, nutty flavor of Ancient Harvest Quinoa combined with a natural blend of corn flours in this delicious, highly nutritious pasta." This pasta is the best I have ever had though, way better than rice blends, which have a high glycemic index. The corn is organic and the combination of both quinoa and corn make it quite awesome. This is a step up from the all-corn pasta I have been getting from Walmart. For someone who can't have gluten, I greatly appreciate this product and would definitely recommend it.<br /><br />A few tips on cooking: Make sure to not overcook it, like any pasta it will lose its structure and fall apart a little when over cooked. Check it frequently and taste test it before draining it. The cooking time on the box is pretty accurate, but only if you have put the pasta into boiling water initially. Don't ever throw the pasta into water that hasn't started boiling yet and expect it to cook in the time stated on the box. Make sure to rinse the pasta for a few seconds after straining to stop the cooking process. This pasta holds it shape if cooked right and can even be reheated the next day with no issues. Most of you probably already know this, but the few negative nellys out their appear to have not learned these tips yet. It really is fantastic. I'm salivating just thinking about it right now. :)
+
+product/productId: B000LKTBDQ
+review/userId: A3U0H0CMG10PEP
+review/profileName: C. VARGAS "Chandler Vargas"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295568000
+review/summary: BEST GF PASTA I'VE EVER HAD
+review/text: This pasta is awesome. Good quality and very close to the real thing. I've made mac & cheese, tuna pasta, and pasta salad with it and all have come out great. I've never had a problem with it cooking before. The water gets cloudy but that's about it. I find it easier to add a lot of water and a splash of oil to when boiling, just like regular pasta.<br /><br />I never write reviews but I just had to on this one. Yum Yum :)
+
+product/productId: B000LKTBDQ
+review/userId: A1NFSGHFUATGD5
+review/profileName: Boris & Natasha
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1211414400
+review/summary: Great, once you get used to the texture....
+review/text: Quinoa pasta is great. It just takes a bit longer to cook. A word of caution, don't use in a slow-cooker or you'll have a thick soup with no noodles whatsoever!
+
+product/productId: B000LKTBDQ
+review/userId: A8T72JMU5CD0L
+review/profileName: janaki
+review/helpfulness: 4/5
+review/score: 2.0
+review/time: 1327190400
+review/summary: Is it Corn or Quinoa?
+review/text: Is corn the main ingredient or Quinoa? I see this to be good for the folks who need "gluten" free, but I want to eat it for the health benefits. Which one is the main ingredient? Isn't it a label violation if corn is the main ingredient (they list corn flour as the first ingredient)? I need to know! Until the manufacturer publishes that, I am not getting this product anymore! I am afraid to order any more of this brand!
+
+product/productId: B000LKTBDQ
+review/userId: A78Y69RMSAVYC
+review/profileName: P. Picard "scarletts_closet"
+review/helpfulness: 12/17
+review/score: 1.0
+review/time: 1307491200
+review/summary: CORN Product - Buyer Beware
+review/text: Be sure to read the ingredients carefully before selecting this product for its health benefits. This company touts the benefits of quinoa (super food) without mentioning that this product is also made with corn (not so super.) It also doesn't bother to share what percentage of the flour used is quinoa compared to corn, but since corn is the first ingredient and the pasta is bright yellow... well you get the picture.
+
+product/productId: B000LKTBDQ
+review/userId: A2SN8TWRRDSZ2S
+review/profileName: SE Jones-Ayers "Lady SE"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343952000
+review/summary: Best Gluten Free Pasta
+review/text: This product is by far the best gluten free pasta. It is easy to cook just follow the directions on the box. Unlike many rice pastas this one does not stick together. It makes great mac n cheese and no one could tell it wasn't wheat pasta. If you have celiac and have been graving some home cooking try this brand. Also the price is half that of my local store of $5.39 per box.
+
+product/productId: B000LKTBDQ
+review/userId: A1JL32HKE56CZ2
+review/profileName: Bruce Turner
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343520000
+review/summary: gluten free
+review/text: This product is gluten free, taste great, great value in 12 pack. Sells for over $5.00 per 8 oz. box at local supermarket. save 50% on line...........
+
+product/productId: B000LKTBDQ
+review/userId: A2OWR5G2OAQF7C
+review/profileName: Sincerely Yours
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322179200
+review/summary: Love this product
+review/text: We already use two other pasta under the same brand and we can't stop recommending it to everyone even if it is just for health reasons.  It cooks wonderfully well and a little overlooking in terms of the recommended time does not turn the pasta to mush like other rice pasta.  Highly recommend.  Love it.
+
+product/productId: B000LKTBDQ
+review/userId: A1B70ZEWQ6UH1A
+review/profileName: Just Me
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308960000
+review/summary: very good, but not my top pick
+review/text: These are great, so much better than your average pasta.  Depending on just what you desire in a food, also consider Barilla Plus pastas, such as <a href="http://www.amazon.com/gp/product/B0025UCHS6">Barilla Rotini Plus, 14.5 Ounce Boxes (Pack of 8)</a> ,because they are a bit higher in fiber and much higher in protein.  Note that Barilla Plus is not wheat free, in fact it contains wheat gluten as a ingredient.  So, if you are avoiding gluten, then Ancient Harvest is great.  Make sure to try Ancient Harvest's plain quinoa grain  -- wonderful as a side dish or cooked into a variety of recipes like Mexican foods, puddings, etc.
+
+product/productId: B000LKTBDQ
+review/userId: A24AX5N3ETKH3E
+review/profileName: Angela Ike
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1291420800
+review/summary: Quinoa Organic Pasta Beats Regular Durum Wheat!
+review/text: My daughter, who is allergic to wheat and picky about foods, loves this stuff a lot. I do too. It tastes much better than the regular pasta.
+
+product/productId: B000LKTBDQ
+review/userId: A1EQES77VU49CA
+review/profileName: Brady'sMommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Our go-to pasta
+review/text: Idk why people are freaking out about the corn content of this product. It is not a GMO. That is personally my only concern when buying something w/ corn in it.<br /><br />I have tried multiple brands of gluten free pasta and this brand is the only one I like. The corn and rice blends found at other stores (like Walmart) are not nearly as tasty as this brand (and they are GMOs). I like the grainy texture of this pasta and it always cooks well. It is the only brand I buy now. If a recipe asks for a shape of pasta Ancient Harvest doesn't carry, we will still use this brand despite not having the right one.
+
+product/productId: B000LKTBDQ
+review/userId: A1JAXTC0QRR08K
+review/profileName: L West "ski bum"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Love these!!
+review/text: I love these, there is no funny consistency, no strange taste.  They are a little delicate.  I usually use them for my pasta e faggiole or pasta fazool and when the noodles sit in the soup more than a couple hours, they kind of fall apart.  But I don't mind.  They taste terrific and I never feel like I've swallowed a big rock after I eat them (I have that problem with wheat pasta).  I also like brown rice pasta but these seem a little lighter than that.
+
+product/productId: B000LKTBDQ
+review/userId: A2GBIUB8CDSHKJ
+review/profileName: heirloomfoodie
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1339027200
+review/summary: Gritty, Grainy, CORN
+review/text: Their customer service dept at Ancient Harvest says it's 75% CORN, but after cooking it...the texture and taste was gritty/grainy, I couldn't finish it no matter how much sauce you try and hide it with. Don't be fooled by the name.
+
+product/productId: B000LKTBDQ
+review/userId: A1GDJR3HO93IU
+review/profileName: Stacey Patrick "Stacey Patrick"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337904000
+review/summary: Fantastic
+review/text: I had to go gluten free probably about 3 months ago when I found out I have a severe gluten sensitivity. Finding this product has been a God-send!! I love my spaghetti. I can have it without worrying about "is there gluten in it?" I am completely safe, and can enjoy a favorite dish without realizing I am on a restricted diet! I LOVE it! It tastes so good too..It can be a bit pricey if you do not shop around. Well worth the money though.
+
+product/productId: B000LKTBDQ
+review/userId: ASJDE7URATTTA
+review/profileName: reinh1
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: Best tasting GF noodles out there!!
+review/text: I have tried many different types of noodles that are gluten free. These are one of the few that cook up nicely and people cannot tell if they are gluten free or 'regular'. It is a pain having to purchase so many boxes at once, but the price is worth it. I would have to pay twice as much per box in the store. And to find something that tastes this good and still be gluten free, awesome!
+

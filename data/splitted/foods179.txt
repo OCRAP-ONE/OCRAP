@@ -1,0 +1,1143 @@
+product/productId: B000RZAJL8
+review/userId: A2S48474D60X7H
+review/profileName: Lee
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1332460800
+review/summary: Taste old...  not like store bought
+review/text: I love Ostrim Natural Flavor and used to buy it at local deli and/or GNC, decided to buy on amazon to save money.  But this one taste dry and old, like its past its expiration date or something.  I was looking for the expiration date on the box and found none
+
+product/productId: B000RZAJL8
+review/userId: A280C5158HJGZT
+review/profileName: Grant
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1330041600
+review/summary: Proto Foods - Ostrim Natural Flavor Snack, 10 packs
+review/text: Not good, product was old and nearly passed due, poor quality and taste when compared to a fresh product. The product seemed dry and the taste was inconsistent with previously purchased, fresher products.
+
+product/productId: B000RZAJL8
+review/userId: A1E20A8LFD7KFW
+review/profileName: C. Andia "csa"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1329609600
+review/summary: CAN'T COUNT
+review/text: I did order two of these items, but they only shipped one...bad business, why must fight for something that I did paid for in good faith
+
+product/productId: B000RZAJL8
+review/userId: A2II54B3VA45LN
+review/profileName: Professional shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312416000
+review/summary: Tasty source of protein
+review/text: I didn't order these snack sticks from Amazon, but decided to give my review anyway. I'm required to get 60 grams of protein per day, so I have to be resourceful. I thought I'd try these sticks based on the many positive reviews. At first I was reluctant to eat them because of them being made from ostrich, but I couldn't taste anything different in them. They are delicious! They remind me of Slim Jim's but a lot better. They're not greasy and they're thicker. They are a bit difficult to chew, so be careful about that. Also, they're very filling. I could only eat half a stick at a time. I highly recommend this low-cal, high protein snack.
+
+product/productId: B000RZAJL8
+review/userId: A294R62BHKARH5
+review/profileName: Chinedu P. Opara
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1288137600
+review/summary: Decent but VERY Salty
+review/text: It makes for a quick snack, but Jeebus, this thing is salty! I usually have to eat it will something else (protein shake, etc), to dull the salty tang.<br />Aside from that, it's quick, convenient, and gives me a quick dose of nutrition when I least have time to prepare a healthy home-cooked meal post-workout.
+
+product/productId: B000RZAJL8
+review/userId: AZS3CCZSTQV66
+review/profileName: John Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286409600
+review/summary: Great Taste & Healthy
+review/text: Great snack to curb your appetite or replace a meal with if your trying to lose weight.
+
+product/productId: B000RZAJL8
+review/userId: A1HZE7KFN4RBF8
+review/profileName: happychknlittle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1227398400
+review/summary: awesome snacks!
+review/text: THese are the best protein snacks and I can get them far cheaper in bulk than from the gym. thks
+
+product/productId: B000RZAJL8
+review/userId: AQ9HAVTJQV4FW
+review/profileName: E. Scairpon "red67falcon"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1250380800
+review/summary: Meat of Ostrich Rules!
+review/text: Tasty and Satisfying, these ostrich meat protien sticks are a perfect in between meal snack or addition to a protien diet.  The pepper flavor adds something that is missing from the regular flavor variety of these snacks.  Recommended.
+
+product/productId: B0012AL3VM
+review/userId: AMR7T2WFHHZJD
+review/profileName: T. Bates
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1250899200
+review/summary: Not too thrilled
+review/text: I had some quinoa pasta at a relative's house and loved it. I eat kamut-spelt bread because of allergies. So I thought this combo for pasta would be good, especially since most quinoa seems to come with corn. The pasta is twisted very tight, making it thick, so it takes much longer to boil. I tried it in an alfreda sauce dish and didn't like it. :^( I much prefer spelt noodles or even rice, which are lighter weight. These things are heavy. Maybe if they are used differently? I don't know what to do with them, since Amazon sells them in bulk.
+
+product/productId: B0012AL3VM
+review/userId: A28E25DRH9V5FG
+review/profileName: gittel
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1247356800
+review/summary: great stuff
+review/text: don't overcook -  absorbs sauce well -- we eat plain with butter and a little sea salt.  All of Eden's pastas are exceptional.
+
+product/productId: B0012AL3VM
+review/userId: AJ85BSU68RYXB
+review/profileName: Jaymovez
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1257120000
+review/summary: Hearty!
+review/text: Kamut and quinoa combo was very interesting. It isn't the best tasting, but it is very comforting. It can make some real good comfort pastas. Cooks fast and easily, and can make some very hearty meals.<br />Very nutritious and high in fibre. It's worth a try
+
+product/productId: B0012AL3VM
+review/userId: A9SRUB833PSF9
+review/profileName: D. Anderson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347235200
+review/summary: Great for ancient grain pasta
+review/text: This pasta is good... it has a nutty flavor, it seems to do well for me, being that<br />I don't tolerate processed wheat.  Nice alternative to rice or corn pastas, this one has a nice smooth texture.
+
+product/productId: B0012AL3VM
+review/userId: A1FUXZE0TL8DED
+review/profileName: Jane Doe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299628800
+review/summary: Fantastic Alternative to Wheat Pasta
+review/text: We were looking for whole wheat pasta alternative. This product exceeds our expectation in taste and texture. Sure, it is not as yummy as wheat but still pleasant. It has complete potein from quinoa and less gluten issue. It is also organic at a reasonable price. However, it does take longer to cook but it is not a problem to us.
+
+product/productId: B0000TLFFK
+review/userId: ABLOQZIL42W7I
+review/profileName: kone "kone"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304035200
+review/summary: Tasty Treat on Toast
+review/text: Saskatoon blueberries grow in profusion on saskatoon bushes, mainly in the northern regions of the US and southern Canada.  The berries taste like blueberries, but are not quite as sweet.  They make an excellent jelly, and this one is excellent.  One often cannot find saskatoon blueberry jam or jelly, so this is a rare taste treat for toast. This jelly is also good spread on waffles and pancakes.<br /><br />kone
+
+product/productId: B0044Z2W6M
+review/userId: A1FHQ257IDSIWL
+review/profileName: susie q
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1341100800
+review/summary: not the same
+review/text: I first purchased Paula Deens House seasoning at Big Lots and loved ,loved,loved this seasoning. When looked for more to purchas I looked everywhere and was thrilled to find the best price on Amazon. So I ordered 4 bottles. I couldn't be more disappointed to find the spices are not the same. The taste is not the same ....Why ??? If you make a produce that is good don't change it..
+
+product/productId: B0044Z2W6M
+review/userId: ABDL02EH1YBXU
+review/profileName: kelli k
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: goes on everything
+review/text: I absolutely love this seasoning.  We eat it on everything.  From grilled or oven roasted asparagus to chicken to potatoes.  It's simply the best, I have gone through five (5) bottles already and have a back up in the pantry.  Going to have to make another order soon.
+
+product/productId: B0044Z2W6M
+review/userId: A33WB984TSPPPG
+review/profileName: gatorgirl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340582400
+review/summary: Great seasoning!
+review/text: This product works well with most kinds of meat.  Gives a little extra zip to the flavor of the meat.
+
+product/productId: B001EO66NQ
+review/userId: A34EQDIZM94VSN
+review/profileName: J. Muench
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1119225600
+review/summary: Rave Reviews & Best Pancakes Ever!
+review/text: I had received this as a gift and had never heard of this brand before, but my friends have always had excellent taste, so we gave it a try.  We made most of the batch for a family breakfast on Father's Day.  Everyone raved how good the pancakes were!, where did we get the mix?, what's the name of it?, and so on.  The blueberries in the mix are small blueberries, but they really had a lot of flavor--they weren't little tiny blue flecks like in some mixes.  The flavor was fantastic all around, and everyone really enjoyed them!  I will definitely be getting everyone a few of these for Christmas!
+
+product/productId: B001EO66NQ
+review/userId: A2DRT7RZTMNJ88
+review/profileName: Edward Berube "Woody"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1198972800
+review/summary: Review of Stonewall Blueberry Waffle Mix
+review/text: This waffle mix is the best around. The amount of blueberries in the mix is pretty impressive as well.
+
+product/productId: B001EO66NQ
+review/userId: APE80D47XSZCX
+review/profileName: Gareth L. Beitzel
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1168387200
+review/summary: Blueberry Pancake Mix
+review/text: I was disappointed that the pancakes did not raise more. I followed the instructions exactly and the pancakes turned out very thin.  They did have a lot of blueberries and tasted good.
+
+product/productId: B001EO66NQ
+review/userId: A2CHCUOAR9SVUE
+review/profileName: Alicia Fournier "leashfour"
+review/helpfulness: 5/8
+review/score: 1.0
+review/time: 1265328000
+review/summary: bad taste, very disappointing
+review/text: We were very excited to order the Blueberry Pancake mixes since we've loved many other Stonewall products. Unfortunately, we didn't like the pancake mix at all. We actually ended up throwing the pancakes away. The batter itself tasted terrible. It had this strong, almost sour taste and almost seemed carbonated/fizzy? We thought it would be better after we cooked it, but it wasn't. Also the blueberries were like hard little rocks.<br /><br />Too bad we bought the 3-pack, because now we have a lot of this product and won't be able to use it.
+
+product/productId: B001EO66NQ
+review/userId: A1G0IOM4CKQ8DU
+review/profileName: Deborah E. Waldin
+review/helpfulness: 1/10
+review/score: 1.0
+review/time: 1229212800
+review/summary: Misrepresented product
+review/text: The ad plainly says 16oz can "pack of 3". I ordered "2", so that should have been 6 cans...... I only received two! I have thought about calling the Better Business Bureau and complaining. It's a matter of principle!  It is a good mix, but I won't be ordering from them again.
+
+product/productId: B000LCEX6O
+review/userId: A2WFQNVRCE3KTL
+review/profileName: Nobody
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231027200
+review/summary: Properly toxic
+review/text: Of all the horrific, nasty bottled sweet and sour sauces you're ever tried and tossed away after the first taste, only this brand I've found comes close to that sticky, orange, fatally sweet swill you find soaking into the breading of shrimp at Chinese restaurants.  In other words, it's great.  Check it out.
+
+product/productId: B001B3XOW6
+review/userId: A3L4FNWKN423Q5
+review/profileName: N. Howe
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1312761600
+review/summary: Great Product
+review/text: My cats love it!  I spray it on the floor and they will just go to that spot and start stretching and playing like they were kittens again, highly recommend!
+
+product/productId: B001B3XOW6
+review/userId: AW1IAG1D9SPYK
+review/profileName: Jeffrey A. Rycus
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1342310400
+review/summary: Didn't Work
+review/text: I bought the SmartyKat CatnipMist because it received a couple of decent reviews and it was one tenth the cost of "From the Field" Catnip  Essential Oil Rejuvenator, which I had tried before. Well, you know what they say, "If it's too good to be true, it is too good to be true."<br /><br />SmartyKat CatnipMist just didn't work with my two cats. They sniffed it and then just walked away. They weren't remotely interested.<br /><br />Like I say, I have tried and liked the effectiveness of "From the Field" Catnip  Essential Oil Rejuvenator. But, From the Field is costly. Well, you know what they also say..."You get what you pay for." I'll stick with "From the Field" Catnip  Essential Oil Rejuvenator.
+
+product/productId: B001B3XOW6
+review/userId: A26W868FTJU93X
+review/profileName: Kirasheba "kira"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1319846400
+review/summary: Fabulous!!!!
+review/text: This is the best!!!! My cat loves this mist, better than eating nip. I spray her tower and poof she's playing all over it. It's so easy to use.
+
+product/productId: B001B3XOW6
+review/userId: A2SKIUWJRJX9O6
+review/profileName: logophile "Avid Reader"
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1328659200
+review/summary: Doesn't spray
+review/text: This was included in an expensive shoe stretcher package. I finally realized the reason it doesn't spray is that there is no hole in the cap. I tried to make one but was unsuccessful. I have to pour the liquid into my hand and dump it into my shoe trying to hit the correct spot, or dump it on the outside of the shoe. Very annoying.
+
+product/productId: B000SARGKE
+review/userId: A224WIM7CBWGK0
+review/profileName: Joeb
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330041600
+review/summary: Davidson's Tea Bing Cherry with Almond
+review/text: Love the flavor of the tea.We had a hard time finding it in stores.I was glad Amazon had it. My wife loves the flavor and drinks no other flavors or brands.The product was delivered as promised.
+
+product/productId: B00063431S
+review/userId: A1TMTBPBL7ZS8G
+review/profileName: Jim R
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331596800
+review/summary: Cat Treats
+review/text: One of our Ragdoll Cats has an allergy to chicken and this is the only treat we could find that does not contain chicken.It is a quality all natural product.
+
+product/productId: B00063431S
+review/userId: A1WNRES8S7H2ZS
+review/profileName: Port City Girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302566400
+review/summary: These are Great!
+review/text: I am so happy to find these on Amazon. My cat LOVES these!! He is a very picky eater and refuses to eat other snacks. Theses things smell but are definitely worth it!
+
+product/productId: B00063431S
+review/userId: A2FV5YQV866PVF
+review/profileName: A. C. Chitwood
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1275955200
+review/summary: Kitty's favorite treats
+review/text: My cat can eat very few cat treats because he can't have grain. <a href="http://www.amazon.com/gp/product/B00063431S">Snack 21 Salmon Snacks for Cats</a> is one of the few treats he can eat, and he loves them. I've never had a problem with him being hurt by the treats. They are dried fish, and dryer than fish jerky is. I'd say the bags that I've gotten are crunchy, about as crunchy as dry food. Again though, I haven't had any problems with my cat hurting his mouth or tongue on them, he chews them right up and begs for more. I must say though that the herring steaks are his favorite.
+
+product/productId: B00063431S
+review/userId: A26F3YVN2N6QWD
+review/profileName: Joe Unhappy "Video Junkie"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1177891200
+review/summary: This stuff is Dangerous
+review/text: This product is so dry it can cut a Cat's mouth, cause bleeding and choking. The product I received from Petco was dry as a Bone. It could be compared to eating a Fish without debonning it first. You wouldn't feed your Family Fish Bones. My cats are my Family.<br /><br />Maybe te product I received was no the usual quality, but it was dry, dry dry. Both the Salmon and Whiting were equally dry.
+
+product/productId: B00063431S
+review/userId: A2AKQ7EDJAFTP7
+review/profileName: S. Scott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1155859200
+review/summary: I have a finicky cat...
+review/text: ...and all I have to say is "stinky salmon treats" and she comes running from wherever she is to get this jerky-like treat!
+
+product/productId: B004ZIER34
+review/userId: A3DP111SNFP3K4
+review/profileName: Jennifer Sikora "jennifersikora"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326931200
+review/summary: Very good Tasting Coffee
+review/text: I am an avid coffee drinker and I was very pleased with the taste of this coffee. It was not as strong as other coffees and just left behind a really great french roasted taste. It also did not leave an after taste
+
+product/productId: B004ZIER34
+review/userId: A1L20MX19ZMNW5
+review/profileName: paisleymonsoon
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1326844800
+review/summary: Just "Okay" Low Acid Coffee
+review/text: SMELL OF DRY GROUNDS: Very strange. Different than regular coffee. A little like sweet garbage. Made me worried that the coffee would be disgusting.<br /><br />SIZE OF BAG: Enough for about 5 generous scoops.<br /><br />TASTE OF BREWED COFFEE: Passable. Nothing great, but nothing bad. Had a slight wang and a little bit of an aftertaste like old or cheap coffee.<br /><br />ACID: A 3-ounce bag wasn't enough to really determine if it was easier to digest than regular coffee. Neither of us drinking the coffee seemed to experience any acid reflex afterward. Still, not enough to truly tell.
+
+product/productId: B004ZIER34
+review/userId: A3UOS7EC0NN88A
+review/profileName: Jonathan Strawn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324771200
+review/summary: Smooth and delicious
+review/text: This coffee brewed up beautifully in my percolator, with almost no bite no matter how strong I make it.  I prefer a very strong pot of coffee, and often this results in something that feels like it is eating my stomach lining for breakfast.  Not so with this coffee, which left me feeling wide awake without also feeling that my intestinal tract had been invaded by a swarm of piranhas.
+
+product/productId: B004ZIER34
+review/userId: A1NN8Q1DLAYPGH
+review/profileName: The Three Woods "mommy2lile"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324512000
+review/summary: Good Enough to Make Me Order More!
+review/text: Finally! A delicious coffee has been created that doesn't send my stomach for a ride on the acid roller coaster. I am able to enjoy several cups of this wonderfully aromatic coffee without any trouble - a first for me. It was such a hit with me that I ended up ordering the Mocha Java flavor. Not exactly the best Mocha Java ever, but definitely easy on the digestive tract. Add a bit of French Vanilla creamer and you are set! Price-wise, you are definitely paying for good quality coffee so it makes the slightly higher price tag worth it. My order of Whole Bean (2.5lbs) was just over $20.00. (Shipping is free with Prime). It will last you a good while - even if you are a heavy coffee drinker like I am. I wish I would have stayed with the smooth flavor french roast, but you live and learn. Please note - I drink my coffee straight black. I made the Puroast Low Acid Coffee with 1TBS of ground coffee per cup. Yep, I like it strong. My husband has severe acid reflux and was able to enjoy a cup of coffee without any trouble. He didn't try more than one regular cup (about 6ozs) for fear that he would have problems later. Generally coffee causes gas pain, burping, etc. with him so he avoids it.
+
+product/productId: B004ZIER34
+review/userId: A2VAD79S4A06DD
+review/profileName: Bookenator
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324425600
+review/summary: Good cup of Joe
+review/text: I guess I expected that there would be some compromise in flavor due to the low acid, but there is none. So for those who need low acid coffee, this is a good choice. I've read some of the other reviews and it seems some like the flavor, some don't. Personally, I like coffee a little on the bitter side. I'm not one of these mocha java with whipped cream type of guys. So keep that in mind. You pretty much need to do your own taste test, but to me it tasted like a good cup of coffee.
+
+product/productId: B004ZIER34
+review/userId: A69USHFWO2DLY
+review/profileName: LINDA SUNKLE-PIERUCKI "truckingal"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1324166400
+review/summary: I was really disappointed
+review/text: First, I have to confess-I LIKE coffee! However, there are times it simply doesn't like me. That's why I was excited to try the Puroast Low-Acid Coffee-French Roast. Finally, maybe I would find a less-acid-y coffee that tasted like coffee without the side effects. Unfortunately, this one wasnt it. When I set it to brew, I was waiting for that pungent aroma of coffee to waft through the kitchen. I waited. I waited. Finally, a small hint of coffee aroma. OK, so if I couldn't have coffee aroma, I'd settle for coffee flavor. Unfortunately, I was again disappointed. If this were put to the blindfold taste-test, one would be hard-pressed to identify it as coffee. It had an odd, almost chemical taste that wasn't exactly pleasant. I thought it might 'grow' on me-and even forced myself to drink a second cup. It didn't grow on me, sorry to say, although I didn't feel any acid after-effects like I often do with regular coffee. Puroast upheld the low-acid portion of the bargain admirably . . I just wish they'd have upheld the coffee part as well. I wont be buying this as a coffee substitute; I'll either deal with the acid-and have both the taste and smell of coffee-or do without.
+
+product/productId: B004ZIER34
+review/userId: AQAT7HWPDXACL
+review/profileName: S. Watkins "swatkins01"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323907200
+review/summary: No acid and no sacrifice to taste
+review/text: This coffee is designed for those who have a problem with heartburn or acid reflux from coffee. This coffee smells and tastes great. I am willing to be that most people would not know it was low-acid, as there is nothing in the taste to give away the fact that something is "missing." And even better - no acid after drinking!
+
+product/productId: B004ZIER34
+review/userId: ASY25YMTIC2A9
+review/profileName: Steve
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323734400
+review/summary: Low acid coffee, but needs to improve flavor
+review/text: My wife has occasional heartburn with drinking more then one cup of coffee, particularly with bolder blends. I got this for her since she likes dark roasts, but doesn't like the problems associated with them. After two cups, she found that the coffee wasn't bitter and was very smooth for a dark roast. No heartburn at all. The overall flavor wasn't bad, but it wasn't something that she would be drawn to in the future. Might try other flavors though.
+
+product/productId: B004ZIER34
+review/userId: A1UQNX8S78JU0G
+review/profileName: Jessica Teel
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1322611200
+review/summary: So-So taste to low acid coffee
+review/text: The taste of this brew is somewhere in between low end Folgers and a high end gourmet brew with great flavor.  It's not as bad as cheap, commercial coffee but still has a slight hint of that 7-11/gas station/Folgers like taste.  I noticed a difference in the acid level, it tastes almost lighter, or cleaner which is a big bonus, especially for people with stomach issues (and everyone eating a western diet tends to have high acidity).  But I would not purchase this product again due to the taste.  It wasn't "high end" tasting enough for me, however I am used to drinking organic gourmet coffee.  If you drink commercial, cheaper coffee I think you would be satisfied with this taste and pleased with the low acid element.
+
+product/productId: B004ZIER34
+review/userId: A17V6FKLAJVC7V
+review/profileName: Kenneth J. Kohutek "Kenneth J. Kohutek, Ph.D."
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321920000
+review/summary: A excellent cup of coffee without the after taste
+review/text: As soon as I received this product, I opened it and prepared myself for a relaxing, fine cup of coffee. I was not disappointed! I am a regular coffee drinker in spite of the occasional heartburn experienced. There were no such effects from this coffee. PLUS, I enjoyed the full flavor of the dark French Roast.<br /><br />Highly recommended for those who enjoy getting their caffeine from coffee. For those who discontinued drinking coffee because of the ill effects there may be, try this and you will probably be able to once again a relaxing cup of java.
+
+product/productId: B004ZIER34
+review/userId: AOVUG6TEO2MVO
+review/profileName: Laszlo "CD Explorer"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1321920000
+review/summary: Nothing special
+review/text: I don't have any reason not to believe that this coffee is good for those reflux or acid sufferers. If you really have a serious problem and can't drink the stuff, try it. (I am a "refluxer", but not of the serious kind.)<br />So, this coffee did not give me any heartburn or acid reflux. But in terms of quality (taste) it is no better nor worse than any Folgers or Taster's Choice. You should perhaps investigate whether the price justifies it.
+
+product/productId: B004ZIER34
+review/userId: AGLKL03QZOXIK
+review/profileName: J. Spielfogel "Shaster"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321920000
+review/summary: Can't review...
+review/text: Well, I would like to review this product, but it would be unfair, because I ordered on VINE but for some reason, it never got to me :-(
+
+product/productId: B004ZIER34
+review/userId: A2K89R0B20LYHB
+review/profileName: Christine
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321574400
+review/summary: Tastes like mild everyday coffee
+review/text: This coffee tastes pretty good. I find that coffee sometimes hurts my stomach, and this low acid version didn't give me that usual burning feeling after drinking it that I get from my usual brand. I think there is some flavor trade-off; it tastes a little weaker and lacks some character of some bigger name coffees. However I think if coffee bothers you though, this is a really good product.
+
+product/productId: B004ZIER34
+review/userId: A2G2DXPFZKG48W
+review/profileName: Audio Maven
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321488000
+review/summary: Seems to be less acid, not my favorite taste
+review/text: This was good for pre-ground coffee. Being French roast it did have that characteristic stronger flavor. I'm not the biggest fan of that roast to start with, so take that into consideration. If you like it, chances are you'll like this product. My biggest attraction was the low acid. I couldn't tell for sure as it only made a couple of cups but I didn't have any excess acid reaction to the coffee. Not that I usually do, but occasionally I can experience some symptoms. None in this case. Not really a scientific study, but it is what it is. Very conveniently packaged. Try it.
+
+product/productId: B004ZIER34
+review/userId: A31YSTICHFYN7O
+review/profileName: CPR "xfilebuffyfan"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1321488000
+review/summary: Low Acid, Low Taste
+review/text: I got this as a gift for my girlfriend's mother who had mentioned getting heart burn from coffee - even though she loves coffee.  I thought this might make a reasonable fix to the situation.  After trying though she seemed to be a little less worried with the heart burn and little more concerned with the taste.  She didn't have heartburn, but she also didn't drink very much either - due to taste.  She thought it tasted a little stale and bland.  Maybe it was just a bad batch, but seems the process to limit the acid also limits the flavor.  Too bad, I had hoped this was going to be a big winner.
+
+product/productId: B004ZIER34
+review/userId: A17A1KTVI3DG6U
+review/profileName: Nathan A. Edwards
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1321488000
+review/summary: It is definitely coffee
+review/text: I was concerned that the beneficial features of this particular brew were going to give it a distinctively different flavor. I was imagining something like a dark tea. This, however, was not the case. I found the flavor to be pleasant. Not as rich as the same flavor from other popular brands, but pleasant.<br /><br />If I were a more serious sufferer of acid reflux, I certainly believe that the small sacrifice in flavor would be worth it. For me, personally, I will probably stick with my regulars.
+
+product/productId: B004ZIER34
+review/userId: A1S27P7KJO9I96
+review/profileName: Eric A. Hofstetter
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321142400
+review/summary: Tasted like coffee. No noticeable taste difference...
+review/text: So, that is good.  I don't have a severe acid issue myself.  So I give it a four star, simply because it tasted just like coffee.  I'm a cream and sugar kind of guy too, so that might have masked any kind of taste.  Pretty happy overall.<br /><br />No complaints.  I'd recommend.
+
+product/productId: B004ZIER34
+review/userId: A3R33KMESG0XGQ
+review/profileName: romevi
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1320969600
+review/summary: Tastes the same as Starbucks.
+review/text: While I'm a big coffee drinker, I'm no fan of Starbucks in-home brews. That being said, I work at a firm where they order Starbucks' French and Breakfast blends, but I order in my own instant NesCafe Clasico. I ordered Puroast's this time, but it tastes the same as the bitter ones, seems a bit acidic for being "Low Acid," and leaves a bitter aftertaste.<br /><br />I actually had to mix it in with some creamers (Coffeemate's French and regular). To me, it's as though I were drinking Starbucks' versions, so I see no difference.
+
+product/productId: B004ZIER34
+review/userId: A1D6DFC3AGV3JZ
+review/profileName: Andrew Olivo Parodi
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1320537600
+review/summary: Puroast Low Acid Coffee Low Acid Coffee French Roast, 3-Ounce Bags (Pack of 10)
+review/text: This coffee has a strong and old fashioned flavor to it. It is strong, but doesn't leave an after-taste. I think it would be a good coffee for when you need a real jolt to get you going, or when you need some sort of pick-me-up. Good coffee. Recommended. But a little on the expensive side.
+
+product/productId: B004ZIER34
+review/userId: A2MSQNPTNAAGL1
+review/profileName: P. Cannon
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1320105600
+review/summary: Not Starbucks but not bad
+review/text: Sometimes coffee bothers me being too acidic, this one did seem to bother me less then most. I only had one small sample to try and it's difficult to give a solid opinion on just a 2 cup trial. Right off though It lacked the full body of Starbucks House Blend or Italian Roast that I love but it's still pretty darn good coffee and I liked it better the more I drank it. If you have acid issues this may be worth a try. It is high in caffeine apparently because I felt a bit more wired then usual after drinking it so don't mistake low acid for low octane this still packs a punch! I would like to try this again, it's pretty good stuff.
+
+product/productId: B004ZIER34
+review/userId: A3GSTWRM0DOU86
+review/profileName: Scott E. High
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1320019200
+review/summary: Low Acid-Weak Taste
+review/text: I ordered this coffee for my daughter to try. She's a second year med student and has had some Gerd and Lerp problems. Coffee was something that she's always liked but had to give up because of acid reflux. Although the Amazon Vine offer clearly said that they would send ten 3 ounce bags, only one bag was delivered. I emailed back and asked them to send the correct order.  Lo and behold, they once again sent one bag. I contacted them one more time to explain that there must be a coding problem in their system but this time I wasn't favored with a response. In the hundreds of orders that I've processed through Amazon over the years, this is the first time that Amazon has made a shipping mistake and not cleared it up.<br /><br />So both my daughter and I tried a cup. Neither one of us had any acid reaction -- but neither one of us would have ordered it again based on the taste. We both like a stronger and bolder cup of coffee and this one was weak with some sort of strange after-taste. Not exactly our cup of tea. Keep trying though, a lot of people with acid reflux are looking for a great cup of coffee.
+
+product/productId: B004ZIER34
+review/userId: A20VXYT5DL0ZC6
+review/profileName: N.L.E. "Writer/Businessman/Artist Agency"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320019200
+review/summary: Delicious!
+review/text: Puroast Low Acid Coffee has clear, bold flavor, no discernible acidity, quite delicious, and we really liked it. Highly recommended for people who need a low-acid coffee but want premium flavor.
+
+product/productId: B004ZIER34
+review/userId: A2WN1QF8GSVHYV
+review/profileName: Altmed
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1319760000
+review/summary: Tastes like Decaf
+review/text: I thought an acid-reduction was a great idea, yet  the taste just isn't there. Tasted & smelled bitter, flat & slightly weak.<br /><br />Doesn't taste like any French roast I've ever had. Needs more work in the taste area.<br /><br />Comes in a single-use foil pouch for coffee maker or French press.<br /><br />The science may be there & it didn't bother my stomach, but it didn't taste the best either.<br /><br />I'd rather get a great coffee & take an antacid with it to get the great taste. I'm not much of a coffee drinker, but like a nice cup of great coffee every once in a while.<br /><br />Might be OK for every-day coffee drinkers that buy regular, bulk coffee brands, but not for me.
+
+product/productId: B004ZIER34
+review/userId: A2PZM8DT1KGT10
+review/profileName: Edwina E. Cowgill "book lover"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319760000
+review/summary: Worst Cup of Coffee Ever
+review/text: This coffee may be low acid, but it leaves such an awful after-taste - like you're drinking burnt coffee grounds. This coffee was so bad that I poured it out and made a fresh pot of what we've been drinking. World of difference!
+
+product/productId: B004ZIER34
+review/userId: A2ZGPAIV64KOYU
+review/profileName: W. Maite "I love books"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319760000
+review/summary: Not bad if you need a low-acid coffee
+review/text: I think Puroast does a pretty good job with low-acid coffee. Low-acid coffee is a very small market and there are very few coffee roasters who are willing to make a low-acid coffee. In Los Angeles, Puroast and Trader Joe's Low Acid French Roast are the only brands I have ever come across in my travels.<br /><br />I gave Puroast four stars because it does not come in whole bean form. I personally prefer fresh-ground coffee and think the pre-ground versions so not stay fresh for as long. I think the flavor, which is pretty good, would be much improved with whole beans. But for those who need a low-acid coffee, and don't mind that it is pre-ground, Puroast is a good choice... especially considering how few choices there are.
+
+product/productId: B004ZIER34
+review/userId: A147FUNITGB21I
+review/profileName: Matthew Gardner "monster_jester"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319673600
+review/summary: Cuppa Joe for Hearburn Sufferers
+review/text: I'm more of a tea drinker, but enjoy an occasional cuppa joe. But the acid never bothered me. I won't say I missed it here, but the flavor didn't wow me, and lactose, alcohol, and smoking all seem to give me the "fiery urp," the acid in coffee not so much. It wasn't bad tasting, mind you, and if you love coffee but get heartburn from high acidity, it's probably worth a shot. Not my cup of tea though!
+
+product/productId: B004ZIER34
+review/userId: AX802DK9MMMYD
+review/profileName: E. Campisi "extrabooksalbany"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319673600
+review/summary: Lives up to its advertising
+review/text: I tried this coffee because I drink a lot of it, and sometimes it gives me a stomach ache. I was looking for coffee that had a robust flavor while being a little easier on my system. This one lives up to the advertising. It was good, flavorful, while being easier on the stomach.<br /><br />I will be ordering this again.
+
+product/productId: B004ZIER34
+review/userId: A7Y9MP7H8LYUE
+review/profileName: K. E. Steelman "mommarock"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319673600
+review/summary: Still Needs Work
+review/text: Okay, I'll admit it.... I am a coffee snob.  I have loved coffee since I was old enough to steal a sip from my parents' cup at the breakfast table... and that was too many years ago for me to tell you here.  That said, I will tell you that this coffee is weak and lacks flavor, no matter how strongly it is brewed.  I tried several pots and was not satisfied with even one of them.  I love a dark roasted, full flavored coffee and have tried many French Roasts, which this is 'supposed' to be.  It was dull and flatter than any generic decaf and truly unappealing to me.  I would rather have one cup of 'good' coffee than pots of mediocre brew.<br /><br />This is a coffee that left me feeling as if I had drank a coffee substitute and not even a good one at that.  If you are looking for low acid coffee, try a good Ethiopian or one of the many naturally less acidic coffees out there and pass this one by.  It left me totally lacking in coffee satisfaction.  The aroma was wonderful in the pot, but the taste was of the 'brown water' variety.  It needs work in my opinion.
+
+product/productId: B004ZIER34
+review/userId: A2FV16I7232DD7
+review/profileName: G70
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1319673600
+review/summary: Unimpressive
+review/text: While I certainly prefer a fresh-roasted whole-bean coffee, burr-ground, and seasoned before brewing, I am inclined to drink a cup of coffee no matter the source or preparation.  My general preference runs to darker roasts, taken black.  I prepared the Puroast in a Technivorm Moccamaster, though I did back down to a bit less than the full three ounces against 10 cups of filtered water.<br /><br />The result was disappointing.  The brew was strong enough, and certainly presented a low-acidity.  That said, the flavor is fairly flat, with almost a chemical or plastic undertone.  There is no complexity to the brew, where even a run-of-the-mill Folgers offers some flavor signature.<br /><br />For someone who cannot tolerate the acid in a typical cup, it is coffee.  For anyone else, there are better-tasting alternatives for less money.
+
+product/productId: B004ZIER34
+review/userId: A339F4I8GBN3H3
+review/profileName: LaughingLion "I am Lion, read me review!"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319587200
+review/summary: less is more, more or less
+review/text: The lower acid level was something i noticed in two ways, first that it didn't cause the stomachaches other coffees do. And secondly it left far less residue/stain in my coffee mug than usual.<br /><br />Flavorwise it was above average restaraunt coffee quality in flavor and aroma. Try it, you'll like it.
+
+product/productId: B004ZIER34
+review/userId: A16RI68PS6T5CA
+review/profileName: Gadget Geek
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319414400
+review/summary: Does the trick for me!
+review/text: I just tried this Puroast Low Acid Coffee and from first impressions the coffee is very nice and the low acid nature helps with the sour-y aftertaste that I generally experience when drinking black coffee.<br /><br />I tried the coffee several different ways; black , with cream & sugar, and even with condensed milk.  The coffee was made in a <a href="http://www.amazon.com/gp/product/B000GTR2F6">Keurig B-70 B70 Platinum Single-Cup Home Brewing System</a> with the my Solofill Cup, Refillable K-Cup For Keurig K-Cup Brewers, Red k-cup filter that allows me to use the coffee of my choice.  In all instances I filled the my k-cup to the brim of the filler pod and gently tapped but not tamping the grounds.  the water temperature is set to the max (which i believe is about 208� F) and made the largest serving available.  This is how I usually drink my coffee in the morning whether in a my k-cup or using the disposable kcups so its the best for me to judge the difference.<br /><br />Even in the largest serving, the coffee is still plenty bold and has great aroma and body.  I generally avoid drinking black coffee because of that acidic aftertaste that I don't particularly like.  That is the reason that I generally use both cream and sugar.  With this low acid blend, I can definitely drink this black if that's what I'm in the mood for.
+
+product/productId: B004ZIER34
+review/userId: A3C40PJ9YXREQ5
+review/profileName: PJ Coldren
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319414400
+review/summary: Good coffee
+review/text: I usually drink decaf, for health reasons.  I found this coffee to have a robust flavor without being bitter.  I prefer my coffee to taste as close to coffee ice cream as possible; this coffee came pretty close to my ideal once I added cream and (fake) sugar.  My friend, who drinks it black, also liked it very much.  No stomach issues at all, for either of us.
+
+product/productId: B004ZIER34
+review/userId: A1DH3QDZX8Z7GO
+review/profileName: Charlemange
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319241600
+review/summary: Nice Flavor!
+review/text: It had a nice flavor and as far as it goes compared to other coffee I could not tell the difference. Having less acid I could not tell. It tasted like regular coffee and did not have a bad after taste.
+
+product/productId: B004ZIER34
+review/userId: A32NEDX6UVV8DE
+review/profileName: John G. Svinos "Harleydude"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319068800
+review/summary: Smooth as silk and great acid free flavor
+review/text: As someone who occasionaly experiences acid reflux, I appreciate this acid free coffee. It tastes great and is noticeably acid free. I highly recommend it.
+
+product/productId: B004ZIER34
+review/userId: A3MJ1OH04JQNQF
+review/profileName: Js Banks
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319068800
+review/summary: Smooth
+review/text: No coffee gets 5 stars from me unless it was just roasted and ground within the last half hour. Additionally, I have no problems with acid reflux. Given that, I do like a light roast; not a fan of french roast or anything Starbucks.<br />Given that, this is the first french roast I have ever liked. I found it mild smooth and drinkable. I was surprised, especially given my low expectations. If the acid in some coffee bothers you, I think this is worth a try.
+
+product/productId: B004ZIER34
+review/userId: AZA595ZPIG240
+review/profileName: Parker M. Knight "Photo Geek"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319068800
+review/summary: So, I am trying out the coffee on the espresso machine
+review/text: I dont have a drip coffee machine so I am putting this into the espresso machine for 2 shots. Tastes about same. I guess it's good for stomach? But don't we use milk to sooth the stomach anyways? cream? and sugar. I guess this means we are going to let go of our sugar and creme that we are so used to from strong coffee taste? Less coffee is answer I suppose. This is great idea for low acid coffee but I just add water on half the amount of regular coffee and add normal amount of creme or sugar and milk and add water to the regular coffee's half portion to make it diluted. That helped so far. You are also supposed to drink this with coffee cake or something to help pass it. Not straight without anything in it unless you love that. I suppose you dont like to put any creme or milk in it then, it would make sense. This didn't make sense to me even while trying it. It just wasn't tasting right for me to drink it without any other sugar and creme I am used to drinking with. So I would say I wouldn't try it again without my condiments. But, I would definitely recommend to my mother who drinks straight black coffee. But she stopped drinking suggesting coffee is bad even weak coffee. She gets these ideas from her friends. She said it was good until last year and she's 60 years old. Now she says all coffee is evil. Dad still drinks black straight coffee from drip coffee machine (they are Koreans as I am). All their friends all drink straight black coffee without milk because they are all lactose intolerant. My younger brother is too. I guess this coffee is for those who has lactose intolerant condition and also loves to drink straight black coffee. Where coffee like this is served? Church. All dad's friends are also going to Roman Catholic Church. That's where it'd be best served. They brew like 5 gallons of these stuff every day. Straight black. Just wasn't for me but it's great idea for my parents who lives 1400 miles away so I couldnt just have them try it.
+
+product/productId: B004ZIER34
+review/userId: A1I7QGUDP043DG
+review/profileName: Chrissy K. McVay "Writer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319068800
+review/summary: Great flavor
+review/text: This is a really great coffee that doesn't upset my stomach, unlike many robust coffees. The aroma is fantastic and fills the house with that wonderful coffee smell all coffee addicts love first thing in the morning. The flavor is rich, but not over the top or so heavy you have to put a lot of milk to dilute it. My husband loves a really heavy coffee flavor, but I find it overwhelming if it's too thick, so it was nice to have a rich/robust bean that got along with my taste buds. I plan to look for the whole beans in this brand so I can have that lovely thick aroma permeate my kitchen! This particular rich aroma reminded me of my grandmother's house (a fond memory). This low acid coffee is definitely for the coffee drinker who loves a rich, heavy smell but needs something that's easy on the stomach. Perfect blend!
+
+product/productId: B004ZIER34
+review/userId: AONUCJBC85BL
+review/profileName: KindlePad
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319068800
+review/summary: No heartburn here, thank you!
+review/text: I will definitely keep some of this in stock. I tried a sample and - being a long time acid reflux sufferer - I was pleased to find this a rich but mild coffee. Rich in that it was very flavorful while mild enough to not irritate my stomach. Perfect if you have been told to cut back on the strong coffee.
+
+product/productId: B004ZIER34
+review/userId: AQ1F3NP2G15S5
+review/profileName: M. ORIAS "puccagirl73"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319068800
+review/summary: Smells stale, tastes weak, looks like tea more than coffee
+review/text: The moment I opened the bag I did not smell the wonderful smell of coffee, as I sniffed close to the opening I finally smelled the coffee and it smelled stale.  When I brewed my first cup, the odor still remained stale with the addition of smelling like the second brew from used grounds.  This really affected my reaction and taste to the coffee.  The smell of coffee is appetizing and enhances the taste, but since I already had an issue with the smell, the coffee ended up tasting weak and stale.  The process of removing most of the acid must affect the taste and smell as well as color because it took away the best parts of coffee, the appetizing smell, the rich slight bitter taste, and the dark, smoky caramel color.  I decided to use the rest of the grounds as an odor neutralizer, but even that was not as effective, it did not neutralize other smells like regular acidic coffee.  I guess I will stick to regular coffee, truthfully instant coffee smells and tastes better than this low acid coffee.
+
+product/productId: B004ZIER34
+review/userId: A1PQ76H0AFQ0CR
+review/profileName: Jason A. Greer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318982400
+review/summary: rich tasting and delivers on low acid promise
+review/text: I enjoy coffee, but frequently have to limit consumption due to acid reflux and other issues, that can be exasperated by coffee, particularly on an empty stomach.<br /><br />To test this product, I waited for a Saturday morning, brewed the coffee normally and chose not to eat, while then following up with some outdoor activity.<br /><br />In instances where I previously would have suffered acid burning in my throat, I felt none of that, after drinking two cups of coffee.<br /><br />The taste is not the strongest French roast I have ever had, but the trade off, particularly for someone who has to speak a lot in the morning, and hence avoid coffee when I speak, is well worth it.
+
+product/productId: B004ZIER34
+review/userId: A71W7G4TCTH3T
+review/profileName: BBMoreB "Heather Coulter"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1318982400
+review/summary: Coffee-Lover Not Impressed!
+review/text: I drink am a frequent coffee drinker - at least a couple of cups a day.  So I was glad to see this product available.  I often switch between light roast and dark roast coffee - depends on time of day, my mood, and availably.  I like to enjoy a good Dark French Roast at night.  I made a pot of this for my husband and me to try.  We were not impressed - it had a strong odor, and a very bitter after taste (neither of us finished our cup).  As far as the impact of the low acid - we couldn't judge since we didn't drink enough.
+
+product/productId: B004ZIER34
+review/userId: AOVI5Y45L6B0J
+review/profileName: Timothy Walker
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1318809600
+review/summary: Hollow
+review/text: As someone who suffers from stomach problems exacerbated (if not caused) by drinking far too much coffee, I had high hopes for this product. Unfortunately, during the two days in which Puroast replaced my usual brew, I noticed no significant changes to my physical or mental states nor any respite from my ailments.<br /><br />So it strikes out as a medicine, but how is it as a beverage? The answer is, at best, nothing special.<br /><br />While billed as a "dark French roast", the fine grind of the coffee was more suggestive of espresso, and for best results one should not make espresso in a standard automatic drip coffee pot. The coffee had an acrid aroma and initial taste, which quickly gave way to an empty and hollow flavor, such as one might get when drinking the melted ice from what was once an iced coffee or making instant coffee with cold water. In fairness, my wife liked it more, but she regularly dilutes the coffee that I make... why pay for gourmet when you could just add water?
+
+product/productId: B004ZIER34
+review/userId: A2M14CFAMF8J7I
+review/profileName: Joanna Terrero
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318809600
+review/summary: Strong tasty coffee.
+review/text: I got this coffee hoping to get one that would allow me to enjoy more cups a day, without the acid. I didn't notice any difference with my regular coffee. The taste reminds me of Hispanic coffee, is as strong and dark. Sadly, it didn't help to avoid heartburn either. I'm giving it four stars because of the taste, which is good and the aroma, which reminds me of my grandmother's kitchen.
+
+product/productId: B004ZIER34
+review/userId: A3G7BEJJCPD6DS
+review/profileName: LuxuryReading
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1318809600
+review/summary: Too Expensive, Somewhat Bitter
+review/text: My husband suffers from heart burn and takes antacids daily, so I had him give Puroast a try. His thoughts are:<br /><br />- the Puroast is tolerable if there is no other alternative, but it does not compare well in his mind to regular coffee. The taste was somewhat bitter<br /><br />- given the price - almost $18 for 10 packs - it's almost better just not to drink coffee at all<br /><br />- if you must absolutely have some sort of coffee and cannot at all have regular coffee, this might be an acceptable alternative.
+
+product/productId: B004ZIER34
+review/userId: A1SD1C8XK3Z3V1
+review/profileName: William V. Hayes "guitfiddleblue"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318723200
+review/summary: nice taste and low acidity
+review/text: If you have a sensitive tummy and like coffee, but have to take a prilosec every time you want to enjoy it, then this coffee is for you!!! It tastes great, similar to other store bought coffees, yet it doesn't cause your stomach to get mad at you. Give it a go.
+
+product/productId: B004ZIER34
+review/userId: A3H78NCT3DJMY2
+review/profileName: Barnaby Dorfman
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318723200
+review/summary: Really nice, delivers on low acid promise
+review/text: We got a single pot sample of this coffee and enjoyed it very much. I get heartburn quite frequently and often feel that coffee is one of the causes, so it's nice to have this as an option. The sample was pre0ground and we usually grind to brew, so I look forward trying a whole bean version in the future.
+
+product/productId: B004ZIER34
+review/userId: A27RVRXXT1JLO3
+review/profileName: KDiNobile "Style With Comfort"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318636800
+review/summary: Tasty Cup o' Joe
+review/text: I wasn't sure what to expect when I ordered this item - something that was low acid. I found it flavorful and satisfying. If I hadn't been told it was a low acid coffee, I never would have known. I normally drink Eight o' Clock coffee. I was just as happy with this brand. I would definitely drink it again. I tried having a second cup with breakfast. I also had a cup in the afternoon on another day. Normally I don't drink coffee after breakfast time because of stomach issues. It usually bothers my stomach later in the day. However, I was actually able to tolerate it quite well when I used this type of coffee. I wouldn't drink it daily in the afternoon, but it's nice to know that if I ever need a little burst of energy to get through the day, I can brew a cup of this coffee and not worry about getting an upset stomach. Therefore, I definitely recommend giving this coffee a try.
+
+product/productId: B004ZIER34
+review/userId: A3E7YWI8VV7VCV
+review/profileName: Hrafnkell Haraldsson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318636800
+review/summary: Delightfully Surprising & Smooth
+review/text: While I don't normally go for dark roasted coffees, the Puroast Low Acid French Roast coffee was astonishingly appealing. The lack of bitterness and bite actually enhanced the rich nutty flavor. I sampled this product both with cream and without cream and found both methods quite enjoyable. I generally get a stomach cramp within a few moments of drinking coffee, but it was conspicuously absent when drinking this brand. I can only conclude that the low acid is the reason for the change. Additionally the low acid nature of the beverage made it more smooth on the palate.<br /><br />The price of the coffee may deter many coffee drinkers, but for those with a sensitivity to acid and a refined taste for quality coffee the price is worth the added benefits. In comparison, Starbucks French Roast is offered in a 36 ounce package of ground coffee for slightly more than Puroast is offering their 40 ounce package of whole beans.<br /><br />Keep in mind that Puroast also offers a variety of other flavors including half caff and decaf flavors. Additionally Puroast offers a membership program that reduces the price when the consumer agrees to have the product placed on a regular shipping schedule. When drinking coffee is a regular part of your life, auto shipments seem like a good idea and low acid even more so.
+
+product/productId: B004ZIER34
+review/userId: A2VDZ27CMLJVVH
+review/profileName: A. FLYNN
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318550400
+review/summary: If I had to.... I would drink this for sure.....
+review/text: I received this product from the Amazon Vine Program.<br /><br />I love coffee, but I cannot drink too much and am sensitive to the amount of acid in coffee.  I decided to try Puroast to see what this brand is all about.  I have had low acid coffee in the past but they don't taste good AT ALL!<br /><br />Here is what I like:<br /><br />1) Taste? It doesn't suck.  Its not regular coffee, but if I had to drink it because of health reasons... I could.<br />2) Smell?  Smells just like regular coffee.  And isn't that why we drink coffee too?<br />3) Price.  About the same as what I already pay, no problem there.  Note: I do drink good, pricy coffee.<br /><br />If you have health issues and need to drink low acid coffee, this is pretty good. No, its not regular coffee, but if you are looking to buy a low acid coffee, AND you are looking for a coffee with good taste.  This was good.  I liked it.  Its definitely worth your try!!
+
+product/productId: B004ZIER34
+review/userId: A2OJCTT5WLB2HR
+review/profileName: D. Hardaway "dhardawa"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318464000
+review/summary: Tastes great!
+review/text: I have suffered from heartburn for years and never thought that it might be due to the coffee I drink so I was very excited to give this a try.  I loved the taste of the coffee and my heartburn might have been a tad bit better, but it wasn't significant.  I guess it is possible that my heartburn is due to something other than the coffee I drink.  I would still recommend this product though because it is very good coffee.
+
+product/productId: B004ZIER34
+review/userId: A3IZOK5GR51EE2
+review/profileName: j. sistin "la jeffe"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1318377600
+review/summary: Not bad if you have acid issues
+review/text: i don't have much in the way of acid issues with coffee, but at times when i'm binge-ing on coffee i sometimes get that burning in my gut.  Is this a better way to feed my addiction?<br /><br />if i'm a pragmatist, it seems like it's easier on my body.  i didn't have any issues drinking this.<br />if i'm in an "i love the smell and taste of coffee mood", this isn't my choice.  the smell of coffee before brewing is less than wonderful.  in fact, i would say it's distasteful.  it didn't make me want to brew a cup.  Nevertheless, I brewed a cup to check it out and was pleasantly surprised by the taste.  it brews a pretty mellow, smooth cup of coffee.  It's not incredibly flavorful, no subtle hints of this or that, but it's many steps above folgers or other cheapie coffees.<br /><br />In sum, it's not as good as premium coffees,but if you miss the taste because of acid issues, this is a good option.
+
+product/productId: B004ZIER34
+review/userId: AIEEK7AHXKZCC
+review/profileName: BeatleBangs1964
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318377600
+review/summary: Strange Brew Well Received
+review/text: While I am not a coffee drinker, I got this for a relative who is.  That relative is a coffee hound and loved it!  The relative went on to describe the coffee as having a "rich, earthy flavor" that was "very exotic" and distinct.  An added advantage is that it is low acid.<br /><br />I smilingly think of Eric Clapton & Cream's classic "Strange Brew" when I think of this coffee.
+
+product/productId: B004ZIER34
+review/userId: A194K60CWZ371J
+review/profileName: Erin L. Lowmaster
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318291200
+review/summary: A Decent Alternative!
+review/text: I used to have the worst heartburn when I drank coffee. I know how bad it can be when you are craving the brew but don't want heartburn, acid reflux or stomach irritation problems. This Puroast Low Acid Coffee is a wonderful alternative to other the other coffees out there. The taste is smooth and is far from bitter. I would recommend making it just a bit stronger but mainly that's because how I like my coffee. You could also add your own extra flavoring, to each their own. I think it works good as a base coffee. If you are looking to still have a cup of coffee without sacrificing your health give this one a try!
+
+product/productId: B004ZIER34
+review/userId: A21U4DR8M6I9QN
+review/profileName: K. M Merrill "justine"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318118400
+review/summary: loved the first one...
+review/text: This is a vine review, I love coffee, coffee does not love me!, aghhh. I have had some traders joes no acid coffee that was good.(but not the dark roast.)But the one I liked, is no longer.<br />So I tried this from vine. praying for the beat<br />first I only recieved one pack, this is not a whine, just it hard to see if the coffee is workable more than once.<br />The one micro pot was great and tasted wonderful, no stomache ache. I may buy some more to see if its more than a one pot wonder.
+
+product/productId: B004ZIER34
+review/userId: A16QLH5GQGOEOF
+review/profileName: Sean Rueter "s1rude"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1318118400
+review/summary: sticking with Zantac
+review/text: The Vine program sends you a sample of this product that makes one pot of coffee, so perhaps the "low acid" benefits become more apparent with repeat use.  But as Missus 1rude remarked, "I'm sticking with Zantac".<br /><br />The coffee produced by the Puroast grounds somehow managed to be both bitter and flat - for reference, I typically find Starbucks coffees to be bitter and Maxwell House ones to be flat.  If you're a heartburn sufferer and a coffee lover, it might be worth trying the Puroast to see if you find it more palatable than we did.  But it wasn't for us.
+
+product/productId: B004ZIER34
+review/userId: A19FRW264WZTGP
+review/profileName: Bunson Honeydew
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318118400
+review/summary: 5 for taste - not sure on the other benefits
+review/text: The reason I'm not sure of the other reported benefits/claims is that I do not suffer from gastro issues related to coffee - other than the first cup assisting in getting things moving in the AM.  I happen to like bold, bitter, and even light coffees - all depending on my mood.<br /><br />Having siad that, this coffee is delicious even for those who don't need the claimed beenfits.  I am drinking it as I type this, and my wife is about to try her first cup.  She's more sensitive to because she has reflux and heartburn.  According to her, she couldn't notice the differences yet.  But she also reported that it was smooth and mellow, and went down very easily.
+
+product/productId: B004ZIER34
+review/userId: A2NB2E5DXE319Z
+review/profileName: S. Lionel
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318032000
+review/summary: Pretty darned good
+review/text: I love full-bodied, dark-roast coffee, but many of the typical low-acid and decaf coffees have a bland, chemical taste to them.  Not the Puroast.  While it doesn't have all the complexities of my favorite beans, it has a full taste with a bit of the tartness I associate with dark roast and none of the chemical taste of other low-acid coffees. If you enjoy coffee but have difficulty with the acid, then you may enjoy the Puroast.
+
+product/productId: B004ZIER34
+review/userId: AJJ2UM58CSGUB
+review/profileName: soulatpeace
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317945600
+review/summary: Tates is strong
+review/text: I received this product as part of the Amazon Vine Program.<br /><br />I tried this coffee early in the morning. I got my water ready for one cup<br />and used very little coffee to just see how strong it was. To my surprise is<br />quiet strong and don't need to use a whole lot. The taste is a little different<br />than you regular french roast coffee.<br /><br />As far as the acid taste goes, I did not felt that it was too acid but no to sweet<br />either. If you have ever tried Papua New Ginea Coffee this is a bit more acid.<br /><br />All in all a good cup of coffee.
+
+product/productId: B004ZIER34
+review/userId: A300QB98FO5UBO
+review/profileName: Kirstein Howell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317945600
+review/summary: Tastes Fantastic!
+review/text: I have tried two other of these low acid coffees, and the others in the past eventually still upset my stomach after a couple cups. I still couldn't drink them two or three days in a row. This one is different! I was able to drink two cups, two days in a row without any stomach upset, and it has a wonderful taste as far as coffee goes. I would definitely buy this again!
+
+product/productId: B004ZIER34
+review/userId: A1Q92OGDGK6UUV
+review/profileName: Jon Cardwell
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317859200
+review/summary: If You Really, Really Need the Low Acid, Then This is Pretty Good
+review/text: If you are expecting the x-bold, smokey, gourmet flavor of a Starbucks or Seattle's Best, you may be reaching for a miracle that isn't there. I grew up in the 60s with a younger brother who needed to use sacchrine on everything because of his diabetes. Sacchrine is absolutely no sugar substitute. Anyone who has used it knows.<br /><br />The Puroast Low Acid is really not a bad alternative if you need a low acid blend because of acid reflux, sensitive stomachs, etc. Was it weaker than what we're used to? Certainly. Is it bolder than, say, Folgers medium roast. I would say that it is. Though milder than most bold roasts (that's a dead giveaway in opening the pouch. But that is probably because of its finer grind than even the mild and medium roasts with a coarser mill. The finer the grind, the lower the aroma retention. Yet, because it is a finer grind, the taste is much bolder than the smell would give away.<br /><br />This is also a smoother tasting French roast than I was expecting (possibly because of its fine grind), but it was a very pleasant taste.<br /><br />The cost and the flavor may be inconsequential to those who do really need a low acid coffee. For that reason, it was hard for me to rate using the star system because I am a coffee lover without a low acid need. Perhaps someone with a low acid need finds that this coffee is superb and would otherwise give it four or five stars.  If you are a regular coffee drinker, any flavor that isn't cultivated in what you are used to will make others, especially weaker blends seem more inferior than they probably are in reality. When I was in Asia, there were times when I would go weeks without a cup of coffee, and after that, the mildest of blends tasted oh so good to me.<br /><br />Although I was unable to try it in an espresso machine, the finer grind lends itself to espresso; and that may be something you might want to try with this blend to kick the flavor up another bold notch or two.<br /><br />Another possible idea is to use this blend in a French Press (yes, although I know the finer grind isn't typically conducive to the Press; perhaps a filter may be used).<br /><br />If you suffer from acid reflux, sensitive stomach, etc., this may be very worth the try for you.<br /><br />If you don't need the low acid beverage, stick with your standard brands.
+
+product/productId: B004ZIER34
+review/userId: A1IUTYIY6PW8DU
+review/profileName: L. F. Smith
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317772800
+review/summary: Pretty good, but nothing special
+review/text: Taste in coffee is subjective.  In fact, it's so subjective that it may well be meaningless to discuss it.<br /><br />Nevertheless, my judgement of this coffee is that it's pretty good, but it's really nothing special.  I thought the taste was on the same level as Seattle's Best, Tully's, or Starbucks bagged ground coffee.  It was better than lower-tier bagged ground coffee, but not outstanding.  This is pretty pricey coffee, too.  I can't judge the low acid aspect of the brew, because I generally don't have trouble with acid in coffee.<br /><br />In my admittedly subjective view, this coffee at this price just isn't any better than a three-star buy.
+
+product/productId: B004ZIER34
+review/userId: A3VJ27010XUWTF
+review/profileName: C. Wong "Book worm"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317772800
+review/summary: OK, but needs to be cheaper!
+review/text: My husband loves French Roast and does have trouble with acid after drinking coffee. This would be a great benefit to him but the cost would prevent us from buying it.<br /><br />The flavor was still too strong for me but then I like really light coffees. I tried it first without creamer and didn't like the taste. I added 1/3 cup of water as I usually do for any coffee and some sugar free French Vanilla Creamer. Then it was fine for me.<br /><br />I think we would buy it if it was sold at a cheaper price. Kudos for the company for making low acid coffee though.
+
+product/productId: B004ZIER34
+review/userId: A1Z7Y2GMAP9SRY
+review/profileName: M. Thompson "Dyson Diva"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1317686400
+review/summary: Husband says it is not very "Frenchy".
+review/text: I really wanted to like this coffee but it was bland and did not remind me of any French Roast I've ever had. It was smooth.  We put in our solofil K cups and think the grind was too fine for the machine.
+
+product/productId: B004ZIER34
+review/userId: A2FRFAQCWZJT3Q
+review/profileName: B. Davis "The Happy Hermit"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317686400
+review/summary: Pretty good
+review/text: I have an easily upset stomach which is why I generally drink green tea instead of coffee.  I prefer the taste and aroma of coffee but it does often cause discomfort.  This coffee tasted good but not great and it did not have the wonderful smell of good fresh coffee.  But it did not upset my stomach.  The taste was not bad but there was a bit of plastic undertones in there.  It was almost good enough to buy more of but I'm not sure if I will.  I like being able to drink real coffee without regrets but the flavor, it isn't quite good enough.
+
+product/productId: B004ZIER34
+review/userId: A3CG93783LP0FO
+review/profileName: Yarii
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317686400
+review/summary: DARK French Roast?  It's bland and weak......
+review/text: ....but on the plus side, no heartburn as I sometimes get when drinking coffee.  I made this 3 ounces (1 packet) to a full pot of water in my 12 cup drip coffeemaker, maybe that was the reason for the weakness. I was expecting it to be stronger since "dark" was in the flavor name. Nice aroma and no bitterness, but unless my heartburn issues get worse in the future, I will stick to my regular mocha/espresso drinks and my CBTL machine.
+
+product/productId: B004ZIER34
+review/userId: A3DGJMO6VPG6FJ
+review/profileName: Jeff Sprague
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317686400
+review/summary: Good... if you need it
+review/text: While I like my coffee strong, I am slightly susceptible to acidic coffee - just not enough to have to seek out alternatives. If you are to that point, I would recommend this coffee as a good alternative, but if you are not quite to that point, this is not a substitute for great coffee. It's good enough to compete with the pre-ground mass-market coffees but doesn't match up to the more premium beans. It has a mild, nuttier flavor than I'm used to, and a hint of aftertaste comparable to a diet beverage.<br /><br />What confuses me is that the description claims this is a good choice for decaf drinkers looking for a more robust flavor. I'm not sure I agree with that, but what confuses me is: is this decaf or not? I didn't think so, but this claim makes it vague.<br /><br />20 minute later update: oops, definitely caffeinated... gotta run!
+
+product/productId: B004ZIER34
+review/userId: A2FVD05Z2FYW1P
+review/profileName: J. Silva
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317686400
+review/summary: Just OK
+review/text: I definitely noticed a difference in the way my stomach reacted to this coffee -- much less acid, fewer jitters. However, while the French Roast coffee tastes pretty good, there is a hint of bitterness in the aftertaste that is unpleasant. Overall, this is just OK.
+
+product/productId: B004ZIER34
+review/userId: A2KY76HK8DYRL3
+review/profileName: A Book a Day
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317686400
+review/summary: Extremely mild taste, very low acidity
+review/text: This is not a bad alternative for sensitive stomachs or for people who are overwhelmed by the acidity of coffee in general, but like the effects.  I wouldn't say that it has a robust taste, so if you're like me and like a good punch of taste first thing in the morning, this is definitely not going to hit the spot.  It advertises a more robust flavor than decaffeinated coffee, but it still doesn't compete in the flavor department with the the bolder flavors now avaialble. Like decaf, it contains a lot of sludge when you hit the bottom of the cup, but it's not strong.  The taste overall is like the weakest coffee blend you could find, so if you enjoy real french roast, this isn't even close.
+
+product/productId: B004ZIER34
+review/userId: ADS99W8WMEXZ2
+review/profileName: Michelle Dunn "Author, columnist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317600000
+review/summary: Robust flavor!
+review/text: This little one pack of Low Acid coffee is great - I had never tried a low acid coffee before and expected it to be lacking in flavor or taste "light".  I was pleasantly surprised with this coffee.  I could not tell it was a low acid coffee at all in relation to the taste. Very flavorful, strong and robust, smelled great while it was brewing and I would recommend and try this again!
+
+product/productId: B004ZIER34
+review/userId: A2FRAS05LEI6JJ
+review/profileName: Sadie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317513600
+review/summary: Mild with a nutty aroma
+review/text: At first I thought this coffee would be strong because it's French Roast.  However, it's extremely mild.  It has a nutty aroma when the packet is first opened.  The first sip has a mild nutty flavor, which goes away with each additional sip.<br /><br />I like drinking my coffee black, but can only do so with really good coffee that's not too strong.  Most coffees, I need to add non-fat milk to.  So, I first tried this coffee black.  Although it's very mild, and I didn't need milk to buffer the bitterness, I found it lacking in body.  With the next cup I added hot milk and it tasted much better.  It really needed the extra omph of the milk, even though it was non-fat.<br /><br />I didn't notice any heartburn afterwards, which is good.  But, I wasn't excited to drink it again.
+
+product/productId: B004ZIER34
+review/userId: A2AAHDM93LC9BI
+review/profileName: groomRN "Erik"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317513600
+review/summary: It does as advertised!
+review/text: My partner and I tried this coffee this morning. I'm usually skeptical about most advertising claims, so I wasn't expecting much from this coffee, but I have to say it's great.  We both suffer from acid reflux, and had put the coffee maker away because we just couldn't drink it anymore. So we were both thrilled with this coffee.  No acid reflux, and the taste was wonderful.  Very pleased, and the coffee maker will stay out on the counter from now on!
+
+product/productId: B004ZIER34
+review/userId: A2L6QS8SVHT9RG
+review/profileName: randomartco "period film aficionado"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1317340800
+review/summary: Too dark and bitter 'French Roast' from Puroast
+review/text: This Puroast Low Acid Coffee 'French Roast' was just ok - the flavor was too dark and bitter, and I actually prefer a good store brand coffee (Wegman's French roast is quite nice).  I had to add a bunch of half n half and some sugar in order to drink the cup, and gave up after a bit and poured the rest out...I just didn't like the flavor, it was too strange and bitter.  I love espresso, I try various coffees and lattes and coffee flavored drinks all the time, and this was one that was just not for me: it may be something you may like, and if you need a low acid coffee you may want to give it a try, but I would not recommend this product.
+
+product/productId: B004ZIER34
+review/userId: A1C7Y31S5QXNTR
+review/profileName: majormusiclover
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317254400
+review/summary: A good alternative.
+review/text: Purost low acid coffee will surely be of importance to those that love their coffee,<br />but NEED to reduce their acid in-take, this product contains less then 1/2 the usual amount.<br /><br />But since I don't get heartburn, or have acid reflux or stomach irritation problems,<br />I thought I'd sample this coffee on it's merits of good taste.<br /><br />Puroast has a good strong French Roast flavor.<br />But I found the coffee to lack smoothness, and to contain an unplesant bitterness.<br /><br />My opinion comes from comparing the taste of this coffee to the one I drink every day.<br />That perhaps is unfair because we all generally prefer what we get used to.<br />But I defiantly find Folgers coffee more to my liking.<br /><br />HOWEVER: if the day ever came that I needed to have less acid or give up coffee,<br />The first thing I would do is switch to Puroast for my health.
+
+product/productId: B004ZIER34
+review/userId: A2BVNVJOFXGZUB
+review/profileName: J. Howard
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317254400
+review/summary: I prefer Folger's
+review/text: I found it a bit flat, maybe because it lacked the aroma I associate with good coffee.  It tastes a bit muddy, but it did not seem acidic. It has a nice label! I have to say that I prefer Folger's.
+
+product/productId: B004ZIER34
+review/userId: A1LKOIZXPQ9VG0
+review/profileName: Elisa 20
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317168000
+review/summary: Strong but Easier to Drink
+review/text: I never get low acid coffee but, getting older, it seems like a good idea. I like coffee; I was looking forward to trying this.<br /><br />The flavor was a little more "roasted" than I usually like, but I don't drink black coffee and it was good (not great, but good) a little weaker and with milk and sugar. I did feel it created less acid and was easier on the digestion. I think it would be worth the price if you like the flavor--some will, others may find it "too bold".
+
+product/productId: B004ZIER34
+review/userId: AX0ZTNX6KVJ40
+review/profileName: J. Jones
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317168000
+review/summary: Compares Favorably to Starbucks Dark Roast
+review/text: I drink another low acid coffee so when this showed up on Vine I requested a sample.  I got a 3 oz bag and made 2 small pots of coffee.  I found the taste to be bold.  It reminded me of Starbucks Dark Roast.  There was not an aftertaste.  The coffee was smooth and did not cause me any trouble.  If you like dark roast and have trouble with coffee this is a good coffee to try.  The price is in line with other coffee of the same type and is cheaper than some.
+
+product/productId: B004ZIER34
+review/userId: A21YYC2SYN5NDY
+review/profileName: Wyvn
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317168000
+review/summary: Perhaps if acid is a HUGE concern
+review/text: If not for the low acid, I would never recommend this coffee. The taste was uneven and flat, not a French Roast by any stretch of the imagination.<br /><br />I like my coffee strong and smooth, and I figured that low acid would be reflected in a smoother taste, but it was not. To be fair, I have not had a lot of low acid coffees for comparison.  I suppose that if acid is a real concern, someone could drink this. I don't take milk and sugar, so maybe the addition of those would disguise...er, improve the taste.
+
+product/productId: B004ZIER34
+review/userId: AI5OR1HSYXCCL
+review/profileName: Steve  Dietrich
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317081600
+review/summary: Great Stuff
+review/text: I was pleasntly surprised at the good taste.  Great to have coffee without the acid.  Look forward to finding more.
+
+product/productId: B004ZIER34
+review/userId: A27Q1X75QCWTID
+review/profileName: Amanda Devon
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317081600
+review/summary: Good but lacks a punch
+review/text: I had to give up real coffee a few years ago because I have had GERD for the past 10 years that definitely flared up whenever I drank a cup of coffee.  I had to stay away from Dark Roast, Gourmet and even Decaf because of the acidity level in regular coffee.  I missed coffee!  Missed the smell of it, missed the warmth of it and quite frankly nothing else really perked me up better than a cup of old fashioned Joe.  So, when I saw the chance to review Puroast's low acid coffee (French Roast) I was intriqued.  I opened the bag and immediately the yummy french roast aroma wafted up into my nose and filled the room!  Ok...so you had me at first sniff.  Let's see what it takes like before I get excited further.  As I was scooping it into the coffee filter I noticed that the grind is pretty fine.  Almost powdery like.  I found that interesting.  I also was wondering why THEIR coffee was low acid...what was the difference in the overall process?  So, I went to their website and found this:<br /><br />Brew coffee's acid content and bitterness is greatly dependent upon the roast degree, type of roaster, and brewing method. As shown in the table below Puroast� coffee chemistry is unique and different from all of its competitors because Puroast� has a patented slow roasting method known as conduction roasting; which uses renewable fuel and exposes the coffee beans to a lower temperature for a longer period of time. This process is significantly different from the convection roasting method used by other coffee companies that employs a natural gas heated process. This roasting process is also called flash roasting because the coffee beans are exposed to high temperatures for a short time period.<br /><br />These people have done their research!  Check out their website: [...] and see for yourselves.  I was glad to see the process did not include any funky chemicals (like in the decaf process of other coffee manufacturers).<br /><br />I decided to forego my antacid the morning I tried this coffee to see if my GERD would act up.  I even had the nerve to try the coffee black which I never dared before.  It was delicious and I had no symptoms of heartburn or reflux all day.  I tried it the next morning and again drank it black (without any antacid prevention) and I noticed a little bit of heartburn but thought maybe it was because I was trying too much too consistently for my delicate system.  So, I skipped a couple of days and tried again, this time with some skim milk added.  I was fine.  I think the low acid really is helpful but I don't know if people who have really severe heartburn or GERD can drink it daily but it is nice to know that I can keep it in the house and enjoy a cup of coffee with company now and then.
+
+product/productId: B004ZIER34
+review/userId: A1JAPP1CXRG57A
+review/profileName: Linda Painchaud-Steinman "PARK EDGE BOOKS"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1317081600
+review/summary: Rich Taste, Weak Aroma
+review/text: Using a coffee scoop to measure, one 3 oz. packet brewed an 8 cup pot of coffee.  One thing I noticed immediately, while measuring, was the lack of strong aroma. (You know, that lovely smell that wafts up from good strong coffee.)<br /><br />I stuck my nose into the packet, and over the pot when it finished brewing, and still, not much aroma. Same thing in the cup I poured. (Taken with one sugar, a little half-and-half.)<br /><br />So I was pleasantly surprised that my first cup had a nice, rich flavor. It was very smooth, with no bitterness. But...there was an unusual sort of "aftertaste", that I really couldn't identify.  So I waited about fifteen minutes, and fixed my second cup. The rich taste had faded some by this time, but that aftertaste was still there.<br /><br />I think if this coffee is brewed and consumed quickly, the taste is rich enough to be satisfying, and the aftertaste may not be something everyone notices.  However, the quick fade of flavor, and the lack of aroma equals four stars.
+
+product/productId: B004ZIER34
+review/userId: AG90OGHDGOOVH
+review/profileName: David Stapleton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316908800
+review/summary: Based upon my wife's feedback
+review/text: I am giving this 5 stars based upon my wife's feedback (I would have given it 4 stars on my own). I am not a huge fan of French Roast (dark seems redundant based upon my experience with other French Roasts &lt;g>). I do like dark roasts, but French Roast tends to be a little too strong for my tastes, however, my wife loved the flavor.<br /><br />The selling point seems to be the low acid, I cannot say one way or the other as to the effect on heartburn, even though I do occasionally get heartburn, it usually isn't associated with coffee drinking coffee, so the fact that I did not experience it after drinking 2-3 cups of this coffee is not conclusive regarding lower acid.<br /><br />Bottom line, for those that love a really rich, strong flavored coffee that may or may not reduce you incidence of heartburn associated with coffee drinking, this seems like a possible choice, certainly worth a try if you have actually stopped drinking coffee due to heartburn. P-)
+
+product/productId: B004ZIER34
+review/userId: ANEDXRFDZDL18
+review/profileName: Serene
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316908800
+review/summary: Good Stuff!
+review/text: I can't drink coffee, because I have painful bladder syndrome so I was rather excited to be offered this reduced acid version.<br /><br />The first thing I noticed was the scent. Perhaps because I haven't drunk any coffee in years, I was pleased by the scent. It smelled like the coffee I remembered and had a pleasing scent. Brewing was easy. I just brewed it through a strainer, added hot water and voila!<br /><br />My first taste, did not necessarily excite me. It *did* have a slight Folgers coffee kind of taste. However, my second and third tastes made me realize how much I liked the stuff. Now I'm hooked. It does taste enough like the real stuff to make me want to buy more.<br /><br />I can give this coffee product, two thumbs up, but if you are an IC suffer, you might try the decaf blend. This blend still is caffeine and might upset your bladder.
+
+product/productId: B004ZIER34
+review/userId: A26DA070XLT8FP
+review/profileName: Melissa L. Thornley "RhodiMom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316649600
+review/summary: Best low acid coffee
+review/text: As I have gotten older my tolerance for acid seems to be lessening. Sometimes I just can't tolerate coffee, but I love it, and the darker the better.  I tried other brands of low acid coffee but found them weak and tasteless.  This Puroast coffee is the best! Very smooth, with a great deep flavor.  Worked well in my Keurig also.  Absolutely no bitterness and no acidic issues. I recommend trying it if you are having issues.<br /><br />I will be buying this again.
+
+product/productId: B004ZIER34
+review/userId: A720S06Y6KV49
+review/profileName: James A. Kenefick
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1316563200
+review/summary: Low acid, low flavor
+review/text: I'm such a coffee snob that I source from specific farmers in Ethiopia. I say this so that people will understand I don't drink grocery store coffee.<br /><br />This Puroast low acid stuff? Flavorless. No body. No "coffee-ness" to it. It tasted like vaguely coffee-flavored water. It's caffeinated, so it's got that going for it. I'd rather take 50 Tums and drink good coffee though.
+
+product/productId: B004ZIER34
+review/userId: A3BTL4FV6ODKAT
+review/profileName: fredtownward "The Analytical Mind; Have Brain...
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1316390400
+review/summary: Solution in Search of a Problem
+review/text: unless you have heartburn, acid reflux, or mild stomach irritation that is directly attributable to coffee.  I have heartburn and acid reflux, currently treated by OTC acid reducers, and while I've found that certain foods and beverages seem to increase my symptoms, coffee doesn't appear to be one of them, especially since I experience my worst symptoms at night but only drink coffee in the morning (for the caffeine).  (Perhaps this product would make more sense in the decaffeinated version: <a href="http://www.amazon.com/gp/product/B004JQXB66">Puroast Low Acid Coffee Natural Decaf Dark French Roast Grind Drip Grind, 0.75-Pound Bags (Pack of 2)</a> or the half decaffeinated version: <a href="http://www.amazon.com/gp/product/B004JQR7FM">Puroast Low Acid Coffee Half Caff Dark French Roast Grind Drip Grind, 12 oz Bags (Pack of 2)</a>.)<br /><br />My single 3 oz sample bag (purchasers will receive 10 bags) arrived only partially sealed, a rather surprising lapse in packaging that one hopes is uncommon.  Nevertheless, there remained enough coffee to produce several cups.  Taste and aroma seemed fine to me; in fact I detected no difference from regular gourmet coffees, but for the reasons stated above I also detected no change in my symptoms.<br /><br />In sum I think this a specialized product truly suitable only for noticeably acid symptomatic coffee lovers (you know who you are), and I would encourage them to give it a try and see if it helps (and still tastes worth drinking).  Puroast Low Acid Coffee is available in many different flavors, roasts, and blends, many different bag sizes, and many different grinds plus whole bean; to see what is available just click on the Puroast Low Acid Coffee "Author" Button above, or search Amazon using that name.
+
+product/productId: B004ZIER34
+review/userId: AVJJ2D4G5I0Z4
+review/profileName: Michael A. Behr "mabehr"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1316390400
+review/summary: Tastes good, but kicks off my reflux
+review/text: The taste is decent.  Not good, but not really horrible.  If it didn't kick off my reflux, I could live with it.  But, unfortunately, it does, so I can't, so the taste is irrelevant.  I appreciate them trying!  Maybe a dark french roast isn't the best flavor for a low-acid coffee drink though?<br /><br />I'm rating this three stars because I think someone with less severe reflux might be okay with it.
+
+product/productId: B004ZIER34
+review/userId: A1ZKY8IR5TDNJY
+review/profileName: Diane Middleton "Bookie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316131200
+review/summary: low acid coffee
+review/text: This is a very tasteful and smooth coffee and would be a great one for those who suffer from acid reflux (me) or related issues that would benefit from less acid
+
+product/productId: B004ZIER34
+review/userId: A2KQ9FU7M6IX2X
+review/profileName: The Mariners Fan "Eriko"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316044800
+review/summary: Great Taste with NO Heartburn
+review/text: This coffee has quite a bit of flavor and punch to it, I love that its strong and flavorful (basically tastes just like the other coffee I drink). But finally I can have my cup of coffee without needing to remember to take a pill or suffering afterwards because of my heartburn. Highly recommended for those of you who get acid reflux and still want to enjoy your daily cup of coffee.
+
+product/productId: B004ZIER34
+review/userId: A2KSI9HP27450I
+review/profileName: T. Lee "God has died lots of times, but someo...
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1316044800
+review/summary: Kind of meh.
+review/text: I'm a long-time coffee drinker.  I don't suffer from chronic stomach acidity, so I can't attest to it's effect on tender stomachs.  What I CAN do is attest to the smoothness and flavor, which weren't anything to write home about.  It did seem to lack acidity, so I suppose those with tender stomachs could drink this with little worry.  The question is, should they bother with this?  I don't think so.  Stick to tea or do without.  The taste doesn't justify the bother to make it low acid.
+
+product/productId: B004ZIER34
+review/userId: AWCJ12KBO5VII
+review/profileName: Michael L. Knapp
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1316044800
+review/summary: Not so good.
+review/text: This is the worst tasting cups of coffee I've had in quite some time. I've had generic instant decaff coffee that tastes better. I don't know if it's their roasting technique, the quality of the beans themselves or the de acicification process, but it leaves you with a very bland tasting cup o'Joe. I was hoping I'd finally found a way to have caffeine again but I guess I'l have to stick with the decaff.
+
+product/productId: B004ZIER34
+review/userId: A23E9ZPS2RQZS0
+review/profileName: S. Robbins "talking to a tortoise"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316044800
+review/summary: Excellent low acid coffee
+review/text: Puroast  Low Acid Coffee in French Roast is excellent.  It brews well and there is no loss of taste with it being low acid.  It<br />still tastes like full bodied French Roast and has a delicious smooth taste and nice color.  I have been disappointed in other low acid coffees but this met all my expectations for a full bodied cup of coffee without the acid stomach upset.
+
+product/productId: B004ZIER34
+review/userId: A2W0XCWOK3MW6F
+review/profileName: Karen Woodworth Roman "Happy Librarian"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1315958400
+review/summary: Ho-Hum Coffee
+review/text: I like my coffee good and strong. I'll pay more for the good stuff. I got a sample of this for my husband.  We both tried it. The flavor is not so great, in my opinion.  My husband said it was ok.  He didn't mention that he felt better after drinking this coffee compared with other coffee.  I'm giving it a couple of stars for the possibility that it would help people that find coffee too acidic. I don' think we will try this again.
+
+product/productId: B004ZIER34
+review/userId: AC62SNVRI158P
+review/profileName: traderje "traderje"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315958400
+review/summary: Pretty good, not very robust
+review/text: It didn't cause any stomach upset, but was pretty good. It's not as robust as one might like, and the aroma was not very strong either, but I would not go so far as to call it bland or anything. If you have a need for a low acid coffee I would say it might be a viable coffee option. I used the whole package to make one pot-- that quantity was about right for me.
+
+product/productId: B004ZIER34
+review/userId: A2FYK4HWXZRLPN
+review/profileName: Gregory McMahan
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1315872000
+review/summary: Works As Advertised
+review/text: As a rabid, unrepentant coffee-drinker, I had to try this product.  Although I love the flavor and texture of French roast coffee, it's acidity tends to wreak havoc once inside of me.  Given my (minimum) two-cup a day habit, coffee can be tough going, to say the least.<br /><br />The Puroast brand delivered on the caffeine, but I found the flavor to be a bit bland, both straight and with cream.  I generally like my French roast to be strong, sharp and over-powering (so as to awaken me with a jolt and keep me fully hyped up), but the flip-side of this is typically very high acid content with the usual medical complaints.  To achieve that same full sensory experience, I had to use a bit more of it- about 1.5 times the usual amount of grounds that I brew of typical French roast in order to achieve a similar 'kick' from the coffee.<br /><br />In passing, I also like to spice up my coffee with either 1) a little cinnamon and Kahlua (usually during winter) or 2) one part twenty-year aged rum, minimum two parts Grand Marnier, chasing both with a strong batch of French roast filled to the rim of the mug (a kind of after-dinner dessert on the weekends for me).  I tried the latter recipe with and without a touch of cream, and while typically the coffee tends to eclipse the flavor of the alcohol mix, with Puroast both the aroma and taste of the aged rum and the Gran Marnier came through right nice as my ever-so-sensible British friends are fond of saying.  I also found that for best results with the combo of aged rum and Grand Marnier, Nestle's Coffee Mate French Vanilla product provided the best results, which featured a smooth, even finish combined with a creaminess that was, well, positively orgasmic!<br /><br />In sum, this product is an adequate and satisfying entry to the coffee space, and I highly recommend it to those who literally cannot 'stomach' their coffee.
+

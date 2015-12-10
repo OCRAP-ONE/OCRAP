@@ -1,0 +1,1143 @@
+product/productId: B000FFRTVI
+review/userId: A3TI4WWZJQ94ZB
+review/profileName: JGJoy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1312329600
+review/summary: Extremely bland
+review/text: The ingredients and ease of preparation are great, but it's just too bland. To me, it's inedible without adding salt and hot peppers of some sort.  I didn't have a problem with the texture, and the ingredients are great.  But I can't recommend it because of the underwhelming taste.
+
+product/productId: B000FFRTVI
+review/userId: A2M8K7Y89HNBQ
+review/profileName: A. Dey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305763200
+review/summary: Full of flavor and freshness
+review/text: I was hesitant to buy this because other reviewers had said it was bland, but boy were they wrong. This soup is packed with flavor. It was super delicious. You can taste the tomatoes separately and the spices taste really fresh. I loved this and will continue to buy it. I buy McDougall's soups and breakfasts for work and they are fantastic for ease of preparation and filled with flavor.
+
+product/productId: B000FFRTVI
+review/userId: A6SN0JEQY2MZX
+review/profileName: JessJJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305158400
+review/summary: Tasty Tortilla Soup
+review/text: These soups in general are good (albeit somewhat small) work lunches, and are surprisingly good quality for the price.  I've tried tons of these cheap noodle bowls - Ramen, Trader Joe's soups (spring onion), Annie Chun's, packages of miso, Simply Asia, etc.  What surprised me is that these are a lot better than Ramen, but still a lot cheaper than the Annie Chun/ Simply Asia varieties.  I think that Trader Joe's is still the freshest tasting (and my favorite), but I like how these soups have a variety of ingredients in them.  The tortilla has some corn, tortilla pieces, and some other mixed veg.  It's not too spicy, but you could add chili.  Sodium-wise I think it's a little high as with a lot of these packaged soups, but you can always leave out some of the seasoning and substitute with chili or the like to cut down on salt.
+
+product/productId: B000FFRTVI
+review/userId: A391RJ8646SYY1
+review/profileName: Tom Barrister
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1261267200
+review/summary: Good flavor for a vegan product
+review/text: This is a generic review of all Dr. McDougall RightFoods food cups, not this specific one.<br /><br />UPDATE Feb 6, 2012:  Right-foods was bought-out by another company.  While the ingredients are still vegan, they aren't always organic anymore.<br /><br />I've been a customer of Dr. McDougall's Rightfoods for the past five years.  During this time, I've bought and tried every food cup that they offer.  The food cups are good for a quick snack or poured over pasta, rice, bread, or a baked potato.  The food cups are a bit pricy, but that's to be expected for a vegan, mostly-organic product that appeals to a relatively small market.<br /><br />Preparing a food cup is easy. Boil water, fill the cup to the line, stir, and let it stand for five minutes.  The cups (containers) themselves are 100% "food grade", meaning that no nasty chemicals are used in making them.  In each cup are the freeze-dried product (i.e. rice, vegetables), and a separate, sealed flavor packet (i.e. spices) in powder form.  The latter is a very good idea, as it keeps the powder mositure-free.  The ingredients are vegan (no animal products), often (but not always) organic (the product will be marked as organic if it is), low-fat, and moderately low in sodium.  Each flavor tastes more or less like what each represents.<br /><br />Understand that you won't be getting restaurant quality food here, nor will it be as good as homemade.  Neither is practical in a mass-produced freeze-dried product.  However, the taste is good under the circumstances.  My advice is to go to your local specialty foods store (many full-service supermarkets carry these---Wal Mart, of course does not) and buy one cup of each flavor to find out which you like.  If that's not possible, I would recommend buying only one case (6 cups) of each that interests you.
+
+product/productId: B000FFRTVI
+review/userId: A3NITES609Z2LN
+review/profileName: Jenn L
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1235001600
+review/summary: Okay..
+review/text: I like this product but it is not the best.  The vegetables tend to be dry and it can be gritty if you do not stir it around.  I am on a gluten free diet, so I guess I can't be too picky.  I prefer the pad thai flavor (also, more filling) but I still order this for variety.
+
+product/productId: B000FFRTVI
+review/userId: A9079SQDB6AOK
+review/profileName: Alison Whitson "Ali"
+review/helpfulness: 5/8
+review/score: 1.0
+review/time: 1223424000
+review/summary: Gritty
+review/text: I've tried and liked other McDougall's soups, but this one was awful. The beans and vegetables were still way too hard after letting set for double the suggested time. Also, it was extremely gritty, like there was dirt in it! I threw it out after two bites because I thought I might break my teeth out on the grit. I recommend the Miso soup and Vegetarian Chicken Ramen... maybe they just haven't worked out issues with the dehydrated beans?
+
+product/productId: B000FFRTVI
+review/userId: A37GDOUVSLWLL
+review/profileName: Jables
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1319068800
+review/summary: Yuck!
+review/text: This soup tastes terrible and looks like hamster food mixed with water.  I would never recommend this to anybody.  I'm very disappointed.
+
+product/productId: B000FFRTVI
+review/userId: AVZB9SGVE1APF
+review/profileName: ComfortFirst
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1279411200
+review/summary: a nice try
+review/text: Not the usual spin on tortilla soup, but a great alternative to high fat and sodium varieties.
+
+product/productId: B000FFRTVI
+review/userId: A3UB9LNE9X1LTB
+review/profileName: M
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1296172800
+review/summary: A+
+review/text: I've lived on TexMex and New Mexican foods.  There is no sacrifice when consuming this product.  It is very good. It has a nice flavor w/o being too hot, it is seasoned nicely w/o being overpowering.  It is just right.
+
+product/productId: B000FFRTVI
+review/userId: A3LF2SJ3U6LADU
+review/profileName: ANK
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1314230400
+review/summary: Beware of the odd taste
+review/text: I bought this product along with Dr. McDougall's Right Foods Vegan Curry with Brown & Wild Rice Pilaf and Dr. McDougall's Hot & Sour Noodle Soup and I must say that I waste my money behind Dr. McDougall's products. All three products I bought taste very awful and worst food I have ever ate so far. I have never experienced this kind of bad taste in my life. Now I going to throw out all 15 cups. if McDougall can give me money back I for sure return all my items.
+
+product/productId: B000FFRTVI
+review/userId: A2245BFM3BFKA3
+review/profileName: A. Parsons
+review/helpfulness: 1/5
+review/score: 4.0
+review/time: 1174089600
+review/summary: Spicy!
+review/text: I'm so used to watered-down "spicy" in Pennsylvania I wasn't prepared for this.  It's not burning hot, but it's spicy enough that my nose was running.  That said, I still like it.  The tortilla basically turns into a grit on the bottom of the soup cup, but it still tastes quite good and it's great for taking on-the-go.
+
+product/productId: B001NCKEDM
+review/userId: A35A5S6H1WROO6
+review/profileName: Wood Wren "Wren"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1239667200
+review/summary: Yuk
+review/text: I fear that I must report that my experiences with this product mirrored another reviewer's here.  I too ordered this stuff through a local store, for a party I was giving.  It arrived and it was a complete disaster.  My friend and I tried some (thank goodness) before the event and it was horrible.  I am not sure what they did to this poor fish, but what ever it was should be illegal.  There was a definite overwhelming after taste that took four brushings and a half a bottle of Listerine to somewhat erase.  It had sort of a chemical flavor to it.  The fish was very poorly prepared and had the consistency of mush smothering corn husks.  I fed a portion to the five feral cats that live on our street and they would have nothing to do with it either.  Now this is not a lot of money for this product, but you certainly would expect more.
+
+product/productId: B001NCKEDM
+review/userId: A3C4P61UFJM0PM
+review/profileName: K-Squared "KK"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1232755200
+review/summary: Blech!
+review/text: I love salmon.  Fresh salmon, smoked salmon, any kind of salmon.  So I was pretty psyched when I ordered the Norwegian Hot Smoked Peppered Salmon from the Gourmet Food Store.  Unfortunately, this salmon should have stayed in Norway.  It was terrible. Dry in the middle, overly moist on the edges, it formed a gummy paste with every bite.  Add to the fact that while it had some kind of colored sprinkles on top it was, by no stretch of the imagination "hot" or peppered.  (Smoked yes.  I'm still tasting the overwhelming smoke flavor and I'm sure I will be tasting it for the next few days...)  Especially for the price, this salmon is a terrible disappointment.
+
+product/productId: B0014136DM
+review/userId: A2W8LHCNBFBG0F
+review/profileName: J. Cooney "Green Tea GuRu"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1231804800
+review/summary: Japanese Loose Leaf Green Tea
+review/text: This is just what I thought it would be.  I purchased this as a gift for my boss for Christmas and he and his family really enjoy it.
+
+product/productId: B0011FKT68
+review/userId: ASLGSORFY81B0
+review/profileName: Kevin Riggle
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1275350400
+review/summary: okay, possibly underripe
+review/text: I bought these to snack on while studying.  They're edible and a good sugar delivery mechanism.  Something about them -- the variety of mango used, the drying process, or (my guess) starting with underripe mangoes makes them smell and taste... green.  They're not particularly flavorful.  I much prefer Phillipine brand, myself, with SunMaid a close second -- much closer to the flavor of actually eating a good ripe mango.
+
+product/productId: B002Q6WX10
+review/userId: AHWEI4IDWY9LS
+review/profileName: my
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1311379200
+review/summary: Great gift
+review/text: I ordered this to be delivered as a birthday gift for someone whom I knew loves Starbucks coffee & tea. Never saw it, but received big thank yous from the recipient & family who were very pleased with it. No issues with the vendor - went out on time & arrived within their stated date range.
+
+product/productId: B002Q6WX10
+review/userId: A1VXYRK0KWUDP4
+review/profileName: Sara
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338249600
+review/summary: YUMMM
+review/text: Got this for valentines day for my coffee enthusiast husband. He loved it. there was two of all the individual things it was the perfect little gift for both of us. the cups are bigger than normal tiny cups. I can't stand a 4-6oz coffee cup. these are 8. everything tasted wonderful just like i got it from starbucks
+
+product/productId: B002Q6WX10
+review/userId: A2ITEFSXGHDI1Q
+review/profileName: Sarah A. Frazier
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327104000
+review/summary: Was a Gift for my Mother and She love it!
+review/text: I bought this as a gift for my mother and she loved it! Had her favorite coffee, she loved the mugs and the chocolate too that came with it. Well she's not really a chocolate person. I ate most of the chocolate lol. We both approve of this product!
+
+product/productId: B001EPQYP0
+review/userId: A3PZNO3WOTMZR4
+review/profileName: midwestguy "midwestguy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270252800
+review/summary: Good Stuff
+review/text: I enjoy both the Avid Norquist Classic and Mellan coffees.  The Classic is somewhat lighter, and since I prefer darker roasts, I actually favor the Mellan.  However, the Classic is a very nice change every now and then.  As for the service I would rate it as excellent - it seem to actually arrive several days before I thought it would.
+
+product/productId: B001EPQYP0
+review/userId: A1QQ5CRXY5H4OH
+review/profileName: V
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266969600
+review/summary: Really good coffee
+review/text: It is for everybody who likes medium roast European coffee.<br />Good for french press.
+
+product/productId: B001SB0XRU
+review/userId: A1OBN39KSS5Z8R
+review/profileName: John
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1282521600
+review/summary: A  PREMIUM PRODUCT WITH GREAT PACKAGING
+review/text: I meant to buy Coco Lopez and accidentally picked this up. I am not disappointed. It's packaging is great, just like a squeeze bottle of ketchup, and it doesn't require refrigeration. But best of all. I couldn't tell any difference in my smoothie in which I've always used Coco Lopez.
+
+product/productId: B001SB0XRU
+review/userId: A33K5BB89DOXMP
+review/profileName: the old man
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309910400
+review/summary: Great creamy taste
+review/text: I bought a case of this last year and it arrived in a timely manner.  This product makes smooth creamy pina coladas every time.  The bottle is more convenient than a can, as you just simply snap the lid closed and it's ready for next time.  You only need to refrigerate this item if you plan on leaving it out for more than a week.  We use Malibu rum when making the coladas which just makes them even better.
+
+product/productId: B001SB0XRU
+review/userId: A1P086IKE1LIAM
+review/profileName: cocktail mistro
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1334620800
+review/summary: cocktail mistro
+review/text: Product was dark when opened and very watered down. Complained to the company but no response. Do not buy this product there is better product out there
+
+product/productId: B001SB0XRU
+review/userId: ASVOTLEWRPJE4
+review/profileName: Dan
+review/helpfulness: 0/9
+review/score: 1.0
+review/time: 1308182400
+review/summary: Non Responsive Company
+review/text: Sent company an email requesting why it was taking so long to ship my item...No response. Sent a second email and still got no response.  This company is very unprofessional and I will never buy from them again!!  BEWARE!
+
+product/productId: B002RJB2TA
+review/userId: A3TU3XWGVU3YSG
+review/profileName: D. Donnell "Make -up Junkie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271203200
+review/summary: Great taste & value!
+review/text: I purchase this rub from Barry Farm once just to give it a try, & now I'm so glad that I did. It has a mixture of brown sugar, sea salt, chilli powder, paprika, & organic black pepper. It's an excellant marinade for the brisket and helps tenderizes also. I'm glad Barry Farms puts this spice in a bottle instead of the little plastic bags. Love it, and highly recommend it. You won't be disappointed.
+
+product/productId: B002ND6S30
+review/userId: A36K8DLXYRUMBR
+review/profileName: Amber M. Anderson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1270512000
+review/summary: #1 favorite salt ever
+review/text: If I knew I couldn't get more, no one but me would be allowed to use this...it's that good!  It's got such a fantastic delicate shape and flavor...almost sweet and it crunches so lovely.  Great on everything, especially on bread or toast and pasta.<br /><br />If I could only have one salt in my kitchen (ha, ha...) other than my every day koshering salt, this would be it.
+
+product/productId: B002ND6S30
+review/userId: A2FIZ75BHZKFL7
+review/profileName: flower girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285718400
+review/summary: Very Nice!
+review/text: This is a very good product! It really is flaky, as opposed to some of the other hard textured sea salts. It still has a nice, light crunch, and is great on a salad with a vinagrette dressing, or crusty bread dipped in olive oil. I would add it to a seafood dish as well. The texture is very unique, and a good addition to a sea salt collection.
+
+product/productId: B0034ZYJ6O
+review/userId: A1NZNKCJHGPMFE
+review/profileName: Rah Lee Mac "Mac Man"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331942400
+review/summary: Movie Time, On Time
+review/text: Item arrived sooner than expected. I am very happy with the shipment and the merchandise. Merchandise was wrapped very professionally. Very delicious
+
+product/productId: B000928T9I
+review/userId: AD1G8HEJ3DILI
+review/profileName: Alexandra Lee "Opinionated Lady"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1209686400
+review/summary: Perfection in Cake Form
+review/text: I sampled this cake as offered from Biscoff 1 month ago and fell in love.  It is extremely moist and is most delicious when sliced thin to accompany a cup of coffee. The ingredients are perfectly blended as no one taste is overpowering, but you are able to taste each individual ingredient.  If you are looking for a great coffee or tea accompaniment, please give this cake a try!
+
+product/productId: B000928T9I
+review/userId: A1VT0SJZ85V3LJ
+review/profileName: Kristina
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1234915200
+review/summary: So this is how I got fat...
+review/text: This is the moistest, most delicious cake in the world.  if you like almond tarts, marzipan, that kind of taste, you will be in love with this cake.  Normally I think packaged cake is awful, by the way.  This one is amazing.
+
+product/productId: B004FH8JGQ
+review/userId: A2K8QH6K647EZ2
+review/profileName: C. L. McCauley
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342656000
+review/summary: A safe rawhide chew!
+review/text: We have a toy poodle and he loves rawhide chews. At first we bought the little ones with the ends tied in a knot, but as he got older he could chew the knot off and he would swallow them. Had a near death experience where it caused an intestinal blockage and that ended that - no more knotted bones!<br /><br />Searched high and low and couldn't find a chew that didn't come apart in chunks. These bones just slowly wear down and keeps Teddy happily chewing for days. When it gets to a certain size I just toss it so he can't swallow it. Now we're both happy!<br /><br />I would have given them five stars, but they are made in China and that causes me some concern, but I can't find one Made in USA that is made this way.<br /><br />I highly recommend this product.
+
+product/productId: B003Z6W3LK
+review/userId: A2VEXGHZN55VJM
+review/profileName: G. Recipient
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348185600
+review/summary: GOOD JUICE.
+review/text: This welch's red grape juice is very good.<br />It has a really delicious grape flavor and is nice and fresh.<br />we freeze it in the summer and make healthy grape popsicles.
+
+product/productId: B004XVZACA
+review/userId: A3JEZDADG4F6VE
+review/profileName: John Washington "GT Racer"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342051200
+review/summary: Great Coffee
+review/text: If you like folgers but your significant othter has issues in the measuring department this is the product you need. It makes a great pot of 10 cup coffee. The wife and I drink a pot a day. This makes it easy for planning jsut cut the bag and put in filter. It makes 42 pots of coffee so for us thats less then a dollar a day.
+
+product/productId: B004Y332AO
+review/userId: A17O9AHKHK66AI
+review/profileName: L. Gildart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328140800
+review/summary: Apparently, it's delicious
+review/text: I would give this food five stars if it were priced just a little bit more reasonably.  I've got a feral queen who's dealing with CRF (kidney failure), and I'm at the point where I'm thrilled with any food that she will eat and that doesn't make her immediately sick.  So far, she eats this right up and keeps it all down.  Two for two.  But cat food really shouldn't cost more than a can of premium human-grade tuna fish.
+
+product/productId: B00852YW7M
+review/userId: A2ZI5EAO8C66PE
+review/profileName: Li'Laqua Well
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: My Romance
+review/text: i discovered this product 15 years ago and have bought it by the case since > i cannot be without it! not only deliciously spicy-hot > but sooo flavorful! i eat it on hot cereal (along with nutritional yeast, tahini, coco nut butter, and a splash of umi vinegar!) all soups, tofu, stir-fries, steamed vegies, mixed with tahini and miso for a deeply satisfying spread > i have shared many a jar with a variety of folks over the years of my addiction > and every one has said it is the most delicious spicy condiment ever tasted! i keep a jar of youki in my car > i do not leave home without it! when i ran out recently, living on the hiwai'ian island of kaua'i, i had to enlist my daughter to send me some from washington dc > no problem finding it there! my local korean import shop cannot get it from their supplier anymore so i am having to order it on-line! also the large 7oz size appears to be no longer available! i cringe to even imagine what would happen to me should youki become impossible to find! horrors! ah, but heaven for now!
+
+product/productId: B005HQVEXO
+review/userId: AA5H4VV4WFV9H
+review/profileName: sherry wiseman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317340800
+review/summary: Refreshing Light Sangria...
+review/text: This Arbor Mist Sangria is a lovely light refreshing Sangria....<br />It has a freshing delightful taste.<br />I freeze a glass of the Sangria everyday & eat it as a slushy every night...<br />It's fun & refreshing...Try it...You will love it...
+
+product/productId: B005HQVEXO
+review/userId: A34YUXY8Y23EQC
+review/profileName: M.E. Tudor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347926400
+review/summary: Light, delicious, refreshing.
+review/text: I love this light wine.  It's great on a hot day with a slice of orange and on the rocks. It's smooth with a citrus flavor that makes it great for any time of the day.
+
+product/productId: B0012AN4Y6
+review/userId: A3M1BBUC0L3RQ
+review/profileName: Laughsalot
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306108800
+review/summary: Yummy!
+review/text: Okay, this may be TMI, but here goes...I get a bit bloated when I eat wheat so while spelt is a form of wheat it is much easier to digest than white or even whole wheat.  I can eat this all day and not get bloated at all. It's amazing and tasty.  I love it.  I thought I wouldn't be able to eat pasta ever again but thankfully I was wrong.  I love making miso soup and adding the spelt udon to it for breakfast, lunch or dinner.  I even eat it all by itself with nothing added. I love it.
+
+product/productId: B009KPU7Q8
+review/userId: A3JLECMNWC4LDY
+review/profileName: Lorinzo
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1327449600
+review/summary: I can't decide if the outhouse or my cozy toilet is the better place for this product.
+review/text: After trying this for myself, I suspected that those high ratings were only illusions. My husband told me that company's consider these reviews as just another form of advertising and pay people to lie about a product's quality. I really can't imagine anyone thinking this product is drinkable, let alone, pleasurable. If you want a couple recommendations on decent tasting t-discs for your Tassimo machine, the Jacobs Latte Macchiato isn't bad if you add sugar. This morning though, I drank it after I tried the Voluptuoso and my mouth has a metallic taste to it. Not sure which one is responsible. Another thing, the milk in the disc tastes sour, but when you add sugar, there is a decent flavor there. For the 2nd decent beverage, you can take the Kenco Crema with some Coffee Mate's Spiced Pumpkin and Vanilla Spiced Chai (a liberal amount) creamers, with enough sugar, and have a nice smooth cappaccino. I've tried about nine flavors now, and the coffee, cremas, most lattes and cappaccinos, have the same inferior quality in looks and taste, as a cheap instant coffee, as well as, having your mouth taste like you just drank the contents of an ashtray. Kenco Crema is the only one that did not taste like nicotene. These are the coffees I've tried: Gevailia Cappaccino, Maxwell House - House Blend, Hag Crema Decaf, Jacobs Kronung, Carte Noire Voluptuoso Classic, Kenco Crema and Jacob's Macchiato. After finding one inferior brew after another, I've given up looking for a good cup of black coffee and/or cappaccino, for the Tassimo. Don't do what I did, which was believe all the positive reviews and downplay the critical reviews. My curiousity has been appeased after spending $34 in Tassimo beverages. Thankfully, 2 packages were free. Now I can either spend more money in S&H to return them, or drink all 56 cigarettes...coffee I mean. Oh by the way, for a tasty hot chocolate beverage, try Celestial Seasonings "Tuscanny" 1 bag made strong, followed by 2 pkgs Carnation Instant Hot Chocolate, with mini marshmellows, and hot water in a tall to-go insulated mug. Amazon sells both, but you can get the chocolate mix on sale for about $1.50 in a grocer.
+
+product/productId: B00099XOVO
+review/userId: A2SSV6KM3W1VFD
+review/profileName: A. Zerkle "Loves Great Kitchen Gear"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1259971200
+review/summary: Good thing to keep stocked in your kitchen
+review/text: This is a good thing to keep stocked in your kitchen. I dont use many pre made things but this one has a permanet spot on my grocery list? Why? Easy meal when in a hurry in one skillet. Just add some leftover chopped chicken or ground beef.. maybe some broccoli .. let it all steam you into a decent meal when your tired or busy.
+
+product/productId: B00099XOVO
+review/userId: A28R33NYDH6ZLM
+review/profileName: Cheeselover "Cheeselover"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1228780800
+review/summary: Great for a gift for hungry sister...
+review/text: Well order this for my sister who lives in WA.  Sometimes she doesn't always have money for groceries, so this is a great deal to send her.<br />Shipping is really fast if you have amazon prime...great!
+
+product/productId: B00099XOVO
+review/userId: AT70DA1JDEZ57
+review/profileName: Wakingupkk
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1227484800
+review/summary: Yum
+review/text: I wanted to keep some extra food in the house if I was short on cash and low on food.  Good thing.  These were actually really good.  Very flavorful and a really good deal.
+
+product/productId: B00099XOVO
+review/userId: A1PYNYV46RBOOJ
+review/profileName: D. Hanny
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1267056000
+review/summary: Not what it seems
+review/text: I have a package of Knorr "Sides Plus" Cheddar rice with broccoli and Carrots here with me.<br /><br />I'm looking at it in disbelief because I'm just not sure Knorr sold me what the package said I was buying.<br /><br />If there is any hint of cheddar cheese in it, I must be missing it.  Moreover, the rice isn't even cheddar-colored (supposedly from he cheddar cheese - I know the rice doesn't come in that color naturally).  At most I would call it a rice, broccoli and carrot medley, but that's about it.  I know some older grandmas might like it, but kids and anyone hoping for a cheddar cheese taste (let alone sauce - this doesn't have a hint of there being a sauce) is going to be disappointed.  It does taste ... healthy.  It just isn't what I was looking for.<br /><br />The sad thing is that the package states "Rice and pasta blend in a cheddar cheese sauce with Br and car..."  This is so far from the fact that I am going to have to believe Knorr either has very poor quality control, or is not truthful about just what they are selling and packaging.
+
+product/productId: B00099XOVO
+review/userId: A18GKCC69KPR51
+review/profileName: Norman Girard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: LOVE IT
+review/text: GREAT PRICE AND WITH A BIT OF COOKED HAM CUT INTO SMALL CHUNKS IT IS A TOTAL MEAL.CAN EVEN USE SPAM OR HAVE THE DELI CUT ONE SLICE ABOUT HALF INCH THICK AND CUT IT UP.TASTES GREAT, AND GOOD PRICE FOR A WHOLE MEAL, I ENJOY, AND EASY TO COOK UP AND QUICK.
+
+product/productId: B00099XOVO
+review/userId: A3TK68QBLWM5QS
+review/profileName: William Buckingham
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325808000
+review/summary: A Formerly Great Product Made Worse by Coporate Cuts
+review/text: I've eaten these rice sides for probably 10 years or more now, and this Cheddar Broccoli variety used to be my favorite.  Unfortunately, a while back, Knorr bought out the Lipton line of rice products and subsequently proceeded to cut costs in any way possible to make more money.  This has unfortunately resulted in the previously quite cheesy rice dish being reduced to a shadow of its former self.  I bought a box of these because I hadn't had them in a while, and because the Chicken and Broccoli variety still holds up well enough only to discover that the new mix results in a very wet cheese sauce (after cooking in the microwave according to the package directions) that is considerably less cheesy than one would expect.  Eventually enough of the sauce will evaporate/soak into the rice & pasta mixture to increase the flavor a bit, but I can't recommend it anymore.  It's become thoroughly average in every respect.
+
+product/productId: B00099XOVO
+review/userId: A3DRKD2S75C5DB
+review/profileName: RuRu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316649600
+review/summary: No more Ramen Noodles!
+review/text: Being a graduate student, I'm on a tight budget in terms of money and time.  Since I have Amazon Student Prime, I can auto-order these packets with free shipping.  This is fantastic since the price works out to about 95 cents a packet (with the free shipping) and I won't run out since it's automatically sent.  This is easy to cook and being a new vegetarian, it's always a challenge eating anywhere.  I love to add extra veggies to this or chickpeas. All of the Morningstar products go really well with this rice, particularly the mock chicken or fake bacon. It's very simple to cook and can make at least two very substantial servings (if it's a standalone meal) but if it's a side you can likely get 4 or more servings.
+
+product/productId: B00099XOVO
+review/userId: A2MI068GEKE6SO
+review/profileName: Gail D. Carrero
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1282521600
+review/summary: Delicious!
+review/text: Considering this is not homemade, it is quite delicious. I was more than pleased. The flavor of the cheese was extremely tasty and there is enough broccoli for the taste buds to recognize. Follow the directions on the package, and all the ingredients cook evenly. I shall be purchasing this product again.
+
+product/productId: B007W2OX98
+review/userId: A2A6HC2O8K45QV
+review/profileName: MegaThad
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: Great for Wings!
+review/text: This pepper jelly is fantastic!  Good with crackers and cheese.  Awesome as a grilled chicken wing glaze!  Also very good to make salad dressing with.  The recipies were on thier web site, which had some good info.
+
+product/productId: B004GTH58G
+review/userId: A2EQOYANY5EXKN
+review/profileName: L. Poulin
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1324166400
+review/summary: Delicious
+review/text: I've never been to Hawaii, but some family members have and I've worked jointly with an office there before as well.  I've received these as gifts in the past, spotted them on here for a reasonable price and bought myself a little treat!  They are addicting.
+
+product/productId: B004GTH58G
+review/userId: A3A3F5N7NZCVMT
+review/profileName: tightsandtea
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1342483200
+review/summary: Addictive
+review/text: I'm not sure if I would pay $10 + shipping for these, since I bought them for $3 at the local convenience store in Waikiki--one box (14 pieces) between a few people could easily disappear within minutes. That being said, they taste great! The chocolate in the Mauna Loa equivalent is a little sweeter, but more comparable to Hershey's milk chocolate--I prefer these. Each piece contains about 2 macadamia nuts.
+
+product/productId: B004GTH58G
+review/userId: AKG87VPM3VY7R
+review/profileName: Henry Porrero
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1341446400
+review/summary: Chocolate
+review/text: Excellent.  It arrived on time.  I bought several boxes and gave some away as gifts.  Everyone enjoyed them without any complaints.  It is a lot easier to buy this way instead of trying to bring them back from Hawaii.
+
+product/productId: B00013VAVE
+review/userId: AUTBHG6070SL4
+review/profileName: wiredweird "wiredweird"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1218672000
+review/summary: Just say no
+review/text: I like kimchee and I enjoy cooking, so this looked like an interesting experiment. Well, now I know.<br /><br />My first suspicion came when I saw that this slim package, just a few tablespoons, alleged to season five pounds (over 2 kg) of cabbage. I like big flavors, so I figured I'd just use more. Then, the first step in preparation wilts the cabbage by soaking it for a few hours in salt water - a process that left a strong salty flavor that won't rinse off. It took some effort to get the lumps out of the mix, when I added the water it calls for, and finally figured the small ones remaining would dissolve on their own. The final product is what counts, though - I just didn't like it. It doesn't have the tang I want, it does have a sweetness I don't look for in kimchee, the spicy flavor doesn't come across as fresh, and I just don't care for the taste.<br /><br />So, I'll try another kimchee mix if I find one. I won't try this again. I hate wasting food, but I'm not sure I'll be able to finish this batch. I'm very disappointed.<br /><br />-- wiredweird
+
+product/productId: B00013VAVE
+review/userId: A2SVXQFZ9NTE2R
+review/profileName: ShugCT
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344384000
+review/summary: love it
+review/text: I used this kit for cabbage and summer squash from the garden( so far) I bought 12 packs and will need to order more soon. My neighbors can't wait for a sample of each batch I make. I do add chopped jalapenos and some chile paste for extra kick . I tried yellow summer squash with onion and aged it much less.  Delicious.<br />It is a convenient source of seasonings when you don't have fresh ginger, etc available.
+
+product/productId: B00013VAVE
+review/userId: A3RQ2W75EF9YF7
+review/profileName: Tonks Plum
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1293494400
+review/summary: The "instant ramen" of the kimchi/kim chee world
+review/text: Note: I did not buy product from this site<br /><br />The good:<br />-product has the basic ingredients needed for kimchi seasoning.<br />-One bag will take care of one large kimchi cabbage(I can't remember the actual name but its the huge leafy green traditionally used for this).<br />-Just add water & a little chopping action<br />-after day 3, it starts to smell and taste like the real deal (I followed the direction except for the salt water bath.. I just salted each leaf & let it sit for 30 minutes, then rinsed. I also added more mix from another bag cause I wanted to be sure the flavor would not be watered down.)<br />-It wont win any taste awards but it gets the job done if your tight on money & time (college students rejoice!)<br /><br />The bad:<br /><br />- Your not working with fresh herbs so the finished kimchi "red stuff" is watery rather than thick & rich red (I guess because you are working with a fine powder & only "just enough" to do one batch).<br />- if you're looking for the kimchi "look" & taste you are used to from pre-made.. get ready to be disappointed. See above reason.<br />- I have seen flour used to make kimchi, there is none here.<br /><br />Side note: Nothing beats fresh made so my next adventure will be hunting down raw ingredients. That said, I don't feel like I "wasted" my money.
+
+product/productId: B00013VAVE
+review/userId: AA4GC72H2UZQ4
+review/profileName: Big Momma "Big Momma's House"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1265760000
+review/summary: The process of making kimchee
+review/text: This is just a seasoning, not a magic wand to make kimchee.<br /> Making up the steps and modifying as you go along is not going to make kimchee. Just follow the directions exactly.<br /> If you have ever made sauerkraut at home, you know what I mean. The first step, which is salting, is going to make the cabbage salty. So then you rinse off the salt very well, drain, and proceed to the next step, which is the seasoning step.<br /> Be prepared to appreciate the flavor for what it is - not a replication of whatever kimchee you already bought bottled at the store.
+
+product/productId: B00013VAVE
+review/userId: A3MYVX2D2UP5U
+review/profileName: grasshopper "David in Tampa"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1262304000
+review/summary: ridiculous price
+review/text: $1.99 + $5.49 shipping??  $7.48 per each?  Sell these by the case and i would have tried it.  ridiculous price.
+
+product/productId: B000N99DLA
+review/userId: A3DPA04WZFFG4K
+review/profileName: P. J. Higgins
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1337731200
+review/summary: Good flavor
+review/text: I'm enjoying this blackening seasoning.  The taste is just right; not too strong or weak and not too hot.  I like that there is no salt so I can control the saltiness, particularly when I use this along with other seasonings that do have salt.<br /><br />I plan to buy again...when I use up this gigantic bottle :)
+
+product/productId: B003O7FQZ0
+review/userId: A3G746HF04JJT8
+review/profileName: GEJBOOKS "GEJ"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: We love Papad
+review/text: We love these - and you have to love them to go through 20 packages.  The black pepper in these is intense so don't get them if you don't like a lot of black pepper.  Great with meals and with drinks.  Packaging was fine - a few chips around the edges of some packs but no major damage.  For years I prepared them by roasting over the gas stove but have started using the microwave more often - about a minute on high is perfect and you can make a batch all at once.
+
+product/productId: B003O7FQZ0
+review/userId: A2BJ8M0XW4A0WP
+review/profileName: Claire Shepard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336089600
+review/summary: Hot! But Addictive!
+review/text: These are HOT! But I can't stop eating them! Great taste! Love them! I'm hoping that by the time I finish all 20 packages they won't feel hot at all.
+
+product/productId: B003KFX4PA
+review/userId: A2363B5Z8NERCS
+review/profileName: E. Kwok "Mercenary Artist"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1306886400
+review/summary: Ribena (Original Flavor) Concentrate - 600ml (Small) Bottle
+review/text: The product arrived in USPS Priority Mail in good condition.  The product is fresh, as I've had concentrate that was sitting in a store shelf for a long time and the syrup has turned brown instead of the reddish hue.  Just in case you're wondering, this product was available locally in San Francisco Asian grocery stores and some Safeway supermarkets that have Asian cooking sections.  But I think the local distributor no longer stocks them as I cannot find them anywhere local for the last 2 years.<br /><br />The 600ml bottle is the smaller size of the two available sizes.  The one that I am used to the the 1000ml (1 liter) bottle which is slightly larger and is more common as the American size.  These turned out to be a smaller than I expected.<br /><br />The internal pull top opening is no longer circular but star shaped, allowing for a better flow stream without gurgling.  I mix this at a very diluted ratio of 10:1 of water:concentrate.<br /><br />I also recommend the IKEA ligonberry concentrate which comes in a 300ml glass bottle for $5 at the IKEA store.  It tastes close (a bit sweeter) but is of course a different fruit.  I'm glad I was able to find Ribena from Amazon as I have been craving this a long time now.  I still prefer the original blackcurrent flavor to the new lemon-blackcurrent or other fruit mix flavor blackcurrent concentrate.  I've grown up drinking the original Ribena and the new flavors don't appeal to me as much.
+
+product/productId: B003KFX4PA
+review/userId: A323YD5HIPCF1Q
+review/profileName: Nigel G. Bowen
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1280448000
+review/summary: Wonderful product
+review/text: Ribena is an excellent drink, far superior to other drinks on the market. So glad Amazon has made this available. I used to have to hunt the supermarkets. It's perfect as a drink by itself, mixed with water or even with Miller Lite for a refreshing drink.
+
+product/productId: B003KFX4PA
+review/userId: A1VN7PA3TYI8RO
+review/profileName: Indolent
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1316390400
+review/summary: You Can't Make Cider & Black (or Snakebite & Black) Without It!
+review/text: Ribena is one of those childhood staples that I MUST have. I miss the little juice packs that you can get in the UK as well as the carbonated variety that comes in cans, but you really can't beat the old-skool bottled concentrate. If you've never tried Ribena, well.... you should. It's made from real blackcurrant juice, you won't find any revolting artificial sweeteners or high fructose corn syrup in it, and although it's definitely a calorie-laden sugary treat, it is SO much better-tasting than any 'diet' drink you can get. It's really refreshing and thirst-quenching full of blackcurranty delicousness. A little goes a long way because it's so concentrated, so a bottle can last a long time if you're a little sparing with the stuff. It's not just for kids, either - you can make all manner of respectable grown-up beverages with Ribena. Just try splashing a little bit into a glass of cider (or into a glass of part-cider, part-lager for a "Snakebite and Black"... mandatory drink of every discerning goth type), add a generous slosh to a vodka & tonic...  even a little dash in some sparkling mineral water makes for a wonderfully different and refreshing drink. It will add a bright, fruity flavor to all kinds of things, AND it's full of vitamin C so you can even feel all virtuous while you drink it.<br /><br />To sum up in one word: YUM.
+
+product/productId: B003KFX4PA
+review/userId: APPLX3U6UG0RU
+review/profileName: azizk
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1303689600
+review/summary: Ribena
+review/text: Overall very good, the 4-pack is worth it. We usually pay $7.99at Meijer, but were able to pick up the four pack for $28
+
+product/productId: B003KFX4PA
+review/userId: A1VOKNJFJV78LD
+review/profileName: Chris D. Yue
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1302480000
+review/summary: Brings back memories of childhood
+review/text: I had this stuff when I was a kid living in Hong Kong.  Not made of artificial sweeteners or high fructose corn syrup.  It is a concentrated drink mix.<br /><br />Mix it at regular strength for that unique Black Current flavor or splash a little into some sparkling water.<br /><br />It is very refreshing with mint and ice.
+
+product/productId: B003KFX4PA
+review/userId: A2Z2ZUE7563ZVT
+review/profileName: Irnbru4u
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1298505600
+review/summary: best quality by far
+review/text: For those that have never tried blackcurrant drink, or wonder at it's high price (it is far cheaper in the UK).  It's all about quality, taste.  It is a thick syrup like fluid when poured and it's taste is pure - not artifical.<br />My favourite drink of all time, is some ribena (just the amount you would use if diluting it with water), and fill glass with ginger beer (cock,n bull is great) not ginger ale. Try it!
+
+product/productId: B003KFX4PA
+review/userId: A8HFFRTLYJVJL
+review/profileName: G
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342483200
+review/summary: British blackcurrants!
+review/text: Finally! Ribena in the USA. Not sold in any of the supermarkets I've seen, not even Weggies. Not a bad price either. 'nuff said.
+
+product/productId: B003KFX4PA
+review/userId: A2VAO5Y165N28J
+review/profileName: Islander
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: Awesome in a bottle
+review/text: I've been drinking Ribena ever since I was a kid. It has a unique taste that keeps you wanting more. Not to mention how good it is for you.<br /><br />It was really nice for me to find it here. And I recieved it in the mail a week after I placed my order. I was extremely excited. I'm already down to my last bottle.
+
+product/productId: B000BH1NS0
+review/userId: A35J22NKGPMNS6
+review/profileName: EmmBee
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1226620800
+review/summary: Outstanding gingerbread flavor!
+review/text: Went to a Red Robin's chain restaurant the other night and they featured a holiday drink made with this syrup and Sprite. I decided to try it, and the waitress warned me not to get it unless I liked the taste of gingerbread. I assured her I did. Wow, was it delicious! The syrup gave it a very ginger bread cookie flavor; it even had a bit of bite to it. I can see why I was warned about the strength. Turns out this company makes a ton of syrup flavors. I can't wait to try a bunch of them. If this one is any indication, they'll taste just like what they say they are, and have versatile applications mixed with soda, coffee, hot chocolate, smoothies and more!
+
+product/productId: B000BH1NS0
+review/userId: A3O7WRZ8RFA5F
+review/profileName: Average Joe "AJ"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1299628800
+review/summary: Not Starbuck's
+review/text: I really hate to hammer this syrup, but my wife just won't drink it.  She is very fond of the Starbuck's gingerbread when it's in season.  When she wasn't able to purcahse that, I ordered this.  Me ... I don't drink lattes', however our company has had no problems with it.  So, if you are hung up on Starbuck's, you may be dissappointed.
+
+product/productId: B003SBRUOW
+review/userId: A3TGHTD8TQW6OC
+review/profileName: Smartass
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347321600
+review/summary: Hansen's
+review/text: Just simply the best thirst quenching soda made with pure cane sugar and is caffeine free.I just wish it was easier to get.
+
+product/productId: B003SBRUOW
+review/userId: A6C6N8DA1ROQI
+review/profileName: J. Koontz
+review/helpfulness: 0/3
+review/score: 4.0
+review/time: 1285113600
+review/summary: GOOD
+review/text: ITS GOOD AS LONG AS YOU LIKE POMEGRANATE. I LIKED IT BUT I HAD A PERSON TRY IT THAT DID NOT POMEGRANATE & NO THEY DID NOT LIKE IT...
+
+product/productId: B001CWVZUY
+review/userId: A2MUGFV2TDQ47K
+review/profileName: Lynrie "Oh HELL no"
+review/helpfulness: 13/13
+review/score: 5.0
+review/time: 1259452800
+review/summary: High Quality My Dog Enjoys and My Budget Does Too!
+review/text: My doggie really likes Newman's Organic better than some other dog foods pet and big-box stores sell. My budget doesn't like Newman's Organic as much as Harmony Farms. It's the compromise that keeps the doggie AND my budget happy.  Because he eats it heartily, I don't worry that he's getting enough high quality food.  Otherwise he won't eat his food and he'll graze in the trash seeking egg shells and bones to fill the void.<br /><br />There's no barfing, digestion problems or accidents. High Quality food means good digestion, a shiny coat, high energy, bright eyes and a good attitude WITHOUT tons of additional elixers, treats or vet bills. A definite cost effective WIN:WIN for doggie AND me.<br /><br />I've had great results with Newman's Dog Food that I orderd through Amazon BUT there's 5 pounds LESS for about the same price.<br /><br />Psst I'm not an organic fanatic, it's the nutritional value that counts for my fur baby and human kids!<br /><br />Update 3/26/2011: Noticed this has jumped to almost THIRTY BUCKS, will opt for Newman's Organic when the costs per pound are the same...my dog likes BOTH Harmony and Newman, my budget likes the one most cost effective at the time of purchase :)<br /><br />Update 5/17/2012: Last batch Of Harmony Farms I ordered had a rancid oil smell when I opened the bag and the pooch wouldn't eat it as readily as he has in the past. He wouldn't eat for a day and started checking out the trash. I subsequently purchased some canned and pouch foods, cooked brown rice etc as mix-ins to "encourage" him to make it through this pricey bag. Not sure how this is stored before it arrives to my home, BUT the Texas heat can make anything stale/rancid/yucky quickly. I probably should have called Customer Service but felt the replacement would have the same issue due to the HOT weather here. Definitely exploring hot weather alternatives.
+
+product/productId: B001CWVZUY
+review/userId: A1UKN7G4AM275R
+review/profileName: Bill Hamilton "DaBaldGuy"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1248998400
+review/summary: This is great dog food!
+review/text: A few years back, prompted by the death of one of our dogs due to an inoperable brain tumor, I switched my dogs to foods without corn.  I was convinced, right or wrong, that my animal died needlessly because of an over usage of steriods prescribed to cure her constant ear infections.  I believe, again right or wrong, that the recurring ear infections were caused by an allergy to corn...which turned out to be the main ingredient in her food!  Sorry, I'll get off my soapbox and address the issue at hand...I found this food by accident.  The only type the store had was the weight loss formula.  Turns out my dogs love it!  I haven't seen them so spunky and full of energy.  I've got a coon hound and two jack russells (mine are not the "bounce off the wall kind", mine are mellow, laid back kinda dudes!)  They gobble this stuff up and seem to stay full...no more begging in the kitchen than normal! Everyone's skin seems smoother, eyes are brighter, heck, I think I'll go have a bowl!  All I can say, is if you are looking for a good quality dog food, this is the one for you.  YOU WILL NOT BE DISAPPOINTED!
+
+product/productId: B001CWVZUY
+review/userId: A2V10DEH7G5AY2
+review/profileName: C. Bostock
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1271376000
+review/summary: I would give Harmony Farms extra stars if I could!
+review/text: I have a 2 year old Portuguese Water Dog who always seemed to have a sensitive stomach, and a 15 year old Shepherd X dog who was beginning to lose weight, she slept almost all the time, and she was getting very fussy about what she'd eat. (I believe that with a dogs sense of smell they KNOW exactly what is in their food; however they have no choice but to eat what we feed them...just Google what is in most commercial dog foods, and you'll see why your dog may not be thrilled to eat it up...if a dog can detect cancer in a person, they can detect all sorts of other things that aren't supposed to be eaten.) Anyway...I used to feed Purina lamb and rice to my dogs, but I was finding my young Porty was having trouble with it, and my 15 yr old would eat a few bits and then leave her dish. So, I started making their food, and came up with a wonderfully nutritious and tasty recipe. The dogs loved my homemade dog food, and my 15 yr old began putting on weight again, but I didn't always have time to make their food. And, homemade dog food is kind of hard on the wallet. So, I started to research all the natural dog foods out there, compare costs etc. I arrived on Harmony Farms, and guess what...my dogs LOVE it just as much as they love my home made dog food. My young Porty no longer has stomach troubles and she looks great; my 15 yr old finishes her meals and looks for more. Both have shiny coats and energy. No one can believe my old girl is 15 years old. I have told my friends about Harmony Farms dog food, and when they've switched over, they've reported similar positive results. My brother-in-law's dog had always been a very fussy eater, and had skin problems with a thinning coat. When they started to feed her Harmony Farms, she became an eager eater, more happy and outgoing, and her skin and coat condition has completely cleared up (...I'm thinking she had an allergy to whatever was in her other food, which I think was Iams). Other friends have commented on how happy their dogs are at meal time now...and they had all been feeding their dogs premium, top of the line dogs foods AND paying top of the line prices. Harmony Farms products are very reasonably priced. Not the cheapest dog food on the shelf, but, in my opinion, you are buying the best quality food on the market, so it's an incredibly GOOD DEAL! It may also mean you make fewer trips to the veterinarian's office. I and my friends are so happy we have found this food for our dogs. :)
+
+product/productId: B001CWVZUY
+review/userId: A11UZ02KXZ6K98
+review/profileName: Erica Christine "Erica Christine"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1270512000
+review/summary: Awesome!
+review/text: My co-worker that does animal rescue brought in a 'Whole Dog Journal' recently and I was astounded at the feature article for that month which covered dog foods, I had been feeding my dog Beneful which is basically just junk food.  I switched her off immediately, hunted around on Amazon to find an all natural food and this fit the bill, shipping was free which was awesome and my dog LOVES the food, I worried about that b/c I've switched her before and she's been uninterested and I've had to top with gravy, etc.<br /><br />Do your research, it will blow your mind what your pets are eating in regular grocery store dog food, it's typically a high ratio of corn which is a filler.  If you want your pet to live a long and healthy life what they're ingesting should be high up on your list.  I'm glad to have the knowledge now and I really wish I'd looked more into this with my two other dogs years and years ago.
+
+product/productId: B001CWVZUY
+review/userId: A37VANHHWZ4MV8
+review/profileName: C. Hayman
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1270425600
+review/summary: Quality dog food delivered to your door!
+review/text: No more heavy grocery bags for me -- I've just ordered my first bag of Harmony Farms dog food -- and it was delivered to my door by UPS.  The food is excellent quality -- I bought this product based on its healthy ingredients; the dogs love it and I love Amazon for making it so easy to buy!<br /><br />July 2010 - one of my dogs has had bouts of inflammatory bowel disease:  previously she had to have special food from my vet (Royal Canaan Duck & Potato for the past 4+years) -- She has tolerated, even thrived on, the Harmony Farms food w/o any problems. Each bag of Harmony Farms is about $20 cheaper than the Royal Canaan.  Hard to fight.  I am a believer.<br /><br />The canned food is great, too.<br /><br />September 2011 -- my dog who has had inflammatory bowel disease in the past (verified by surgery) has never felt better -- she is a wire and has the energy of a 2 yr old dog (she is 7); she is not on any daily medication.  This HEALTHY WEIGHT FORMULA has helped her to thrive.  Enough protein, not too much fat seem to do the trick. I highly recommend it.
+
+product/productId: B001CWVZUY
+review/userId: A7C7QG6O3ZHXD
+review/profileName: A. C. Smith "A.C.Smith"
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1310860800
+review/summary: Didn't do well for my dog
+review/text: I was giving my shihtzu the Fromm Adult Gold dog food. She didn't seem to want to eat it though so I thought I would try something different. I found the Harmony Farms and thought I'd give it a try. She actually liked it. It's cheaper then the other food and it seemed to contain really healthy ingredients. I couldn't believe how she gobbled this up. BUT after having her on this for a week she developed a rash on her stomach. Took her off and the rash went away completely in 2 days. Her hair also wasn't as soft. This kibble did not do well for her.
+
+product/productId: B001CWVZUY
+review/userId: A2844FUDCBLUMZ
+review/profileName: R. B. Briggs
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1264896000
+review/summary: The Cat likes it, too!
+review/text: I was using Castor and Pollux from Amazon for my dog and I decided to try something different.  My dog dug into this dog food right away!  It has helped to maintain her rough coat so that it is softer and smoother.  And this food really helps keep her weight at a healthy level.<br /><br />I catch my cat sneaking over to my dog's food bowl and eating this food, too.  I have to look into getting her some Harmony Farms!  I can do this because Harmony Farms is really good quality food that is affordable.
+
+product/productId: B001CWVZUY
+review/userId: A1Z820SN3VBU0S
+review/profileName: K. White "K. Whit"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1262563200
+review/summary: My fussy Min. Dachshund loves the taste!
+review/text: I just ordered this, came today and thought I would just try it, well to my amazement,My little Daisy ate it and wanted more.My little Dog is just 8 yrs but has trouble with Flare-ups with her pancreas, I have to avoid fats and corn with her and she needs more fiber. I have been making her dog food ,but she missed eating the dry,I wondered if it was small enough for her to chew , but it was.
+
+product/productId: B001CWVZUY
+review/userId: AG6QH4P56CRIO
+review/profileName: Glen M. Couvillion "Katrina Survivor"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1257292800
+review/summary: My dogs love it!!!
+review/text: Had been feeding my 3 hounds Purina One (which they liked) and thought I'd try this since it's not much more and I liked the ingredients. They LOVE it and I plan to order more in the future!
+
+product/productId: B001CWVZUY
+review/userId: A11AT9PG4CZ09P
+review/profileName: Blake Neumeister
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326153600
+review/summary: Passed the taste test!
+review/text: Everyone should know this is a healthier dog food than walmart brands, like purina, iams, or god forbid moist & meaty. Ingredients like ground flax seed, peas, whole carrots, whole sweet potatoes, apples, blueberries and probiotics and the lack of sweeteners, by-products, and low-quality corn show this to be true.<br /><br />I just did a taste test with this harmonic farms and my dogs old iams ProActive Health and decided to make the results known. I let him smell both thoroughly without letting him eat at first, and placed the two piles a bit apart. He immediately went for the harmonic farms, finished it and didn't even look at the iams before coming back to me wagging his tail hoping for more.<br /><br />Dogadvisor.com made me aware of my past mistakes in dog food choices and I was hoping to god he would not shy away from the healthy organic stuff like I do. To my great welcome surprise, he didn't! I guess he's a hippie at heart. I on the other hand, will take my nachos bell grande.
+
+product/productId: B001CWVZUY
+review/userId: A169B9KA8V4R1J
+review/profileName: Anniegirl
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1293148800
+review/summary: Our ten year old doxie
+review/text: Our ten year old doxie...Annie NEVER, that's right, NEVER would eat ANY dry food UNTIL....Harmony Farms Healthy & Holistic Chicken & Brown Rice Adult Dog Food that we bought from you! Every day we are in shock when she finishes each and every nugget of this dry dog food! Amazon...you are truly amazing and we are so grateful that we bought this 17.5 pound bag of Harmony Farms Dog food from you...we'll be ordering again and again from you as soon as we head towards the end of the current bag.  Wow! So happy about this...
+
+product/productId: B001CWVZUY
+review/userId: A31TVIUNETW21G
+review/profileName: Cindy B.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1278633600
+review/summary: Excellent for Wheaten Terrier's Sensitive Tummies!
+review/text: Harmony Farms produces EXCELLENT dog food products!  Our 8 month soft-coated wheaten terrier is sensitive to gluten, corn meal and other products generally found in the popular  brands.  We were preparing to take him to the vet at about 4 months old b/c he had great difficulty eliminating -- to the point of whining as he would attempt to go.  After more research on the breed we purchased Harmony Farms at a local store -- it was expensive but quickly resolved our puppy's digestive issues.  After 5-8 days on only Harmony Farms products our puppy was happy and healthy!<br /><br />I was so happy to find Harmony Farms on Amazon!  It is more economical AND delivered right to our door.  Our puppy, Connor, eats only Harmony Farms dog food and treats and is a much happier puppy now. Definitely recommend it for soft-coated wheaten terriers and other breeds that have difficulty digesting the popular brands.
+
+product/productId: B001CWVZUY
+review/userId: A35RLDFXR890JC
+review/profileName: A. Morrow
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329264000
+review/summary: My dog now sheds less!
+review/text: Wish I would have known a long time ago what a difference this dog food makes. My 6 year old Jack Russell has always had the worst shedding problem and I recently read that excessive is a sign of poor nutrition (was feeding her P*urina dog chow). She's only been on this dog food for two weeks and I can noticeably tell a difference in the shedding! She loves the taste and I love the price for such a good quality dog food.
+
+product/productId: B001CWVZUY
+review/userId: A2K3QMFDYBKFYS
+review/profileName: Susan K. Henderson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1273104000
+review/summary: My Dogs Love It
+review/text: When I purchased the Harmony Farms Healthy Weight Formula, I had a Mini Dachshund and Jack Russel Terrier.  Both of them love it.  I have added a Shih Tzu to my pack and she loves it, also.  I would highly recommend it to others.  The kibble is just the right size for small dogs.
+
+product/productId: B001CWVZUY
+review/userId: AGNN7H5MJ6SBQ
+review/profileName: K. Lum
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1245369600
+review/summary: Very Good
+review/text: The main ingredients in this dog food are so much better than the ingredients in the common grocery store brands, and it tends to be less expensive than specialty brands.  My dog's coat looks shiny and he seems much healthier since we switched to this food about a year ago.  The other nice thing is that Target sells this brand, so if you ever find yourself at the end of the bag and you haven't ordered more in time, you can stop by Target.
+
+product/productId: B001CWVZUY
+review/userId: A39JF4NO5TYNNI
+review/profileName: winner1322
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341014400
+review/summary: Good Dog Food
+review/text: I am very pleased with this dog food. My sheltie has a good coat and good movements with Harmony Farms. Does much better with this food than others. He is a very picky eater, so I do add chicken and he will eat. We will stick with Harmony Farms. I also like the bag, it helps keep the food fresh.
+
+product/productId: B001CWVZUY
+review/userId: A3GTP0TT03LVKX
+review/profileName: Lois C. Ayotte
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341014400
+review/summary: Hard to find locally
+review/text: My dog loves this food, and she has maintained her healthy weight for many years.  The vet is very happy with her general health, coat, and teeth.  Having the 16lb bag sent directly to my home without any shipping charges is terrific!  The 16 lb. size is not available in my area.
+
+product/productId: B001CWVZUY
+review/userId: A13NNW7JKQDXX2
+review/profileName: R. Kovell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329436800
+review/summary: Good product:
+review/text: While on a family camping trip with Josh our 8yr old Golden, we ran out of dog food. Stopped at a Wegman's market in Erie PA to shop for a quality food. Settled on the Harmony Farm's chicken. Josh liked it right away.<br />We've been mixing it with his normal food (Canidae).<br />He's very healthy and playful, his coat is shiny. He's a happy pup.
+
+product/productId: B001CWVZUY
+review/userId: A2TPNALNIKN96P
+review/profileName: Vanessa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329091200
+review/summary: My dog loves this dog food.
+review/text: My dog loves, loves  this dog food.I had to say love twice, because this dog food is one of his dog's favorite.
+
+product/productId: B001CWVZUY
+review/userId: AV6Z54VGTC4PZ
+review/profileName: Aunt JoJo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323129600
+review/summary: Harmony Farms Review
+review/text: I have purchased this product once before from Amazon.  It was delivered promptly and in tact.  This is the only food our dog will eat and we used to purchase it at PetSmart in New York but in Arizona, it is no where to be found.  This food is holistic and has no unnatural products at all.  We try to give our dog good quality dog food and this was it.  So now we go through Amazon and our dog is quite happy.  Bought a double amount to receive free shipping.  It was a very good deal.
+
+product/productId: B001CWVZUY
+review/userId: A76CBKP9PQXJ3
+review/profileName: Emily Gordon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320624000
+review/summary: Both formulas are excellent for my dogs!
+review/text: I have a nearly 1 year old golden retriever/standard poodle mix, and a 6 year old german shepherd. The doodle gets the chicken and  brown rice (just switched her a few weeks ago from Nutro Max) and the shepherd gets the healthy weight. I have tried several different foods for the doodle, and many of them caused problems like diarrhea and stinky, stinky farts. With this, while switching from the Nutro Max, she had none of those problems. In fact, I only took 5 days to switch her instead of 2 or so weeks, and she didn't have any digestive problems. Both dogs seem to like it and it is definitely cost effective... several dollars cheaper at my local Wegman's and there are always coupons in the paper. This is a very high quality food for the price, and I like that it's available at the grocery store as I live in a small town. I highly recommend this food and hope to feed it exclusively for as long as my doggies shall live!
+
+product/productId: B001CWVZUY
+review/userId: A2R43MI0JDCVC1
+review/profileName: Cindy Vitale "Selective shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318982400
+review/summary: Fabulous food!
+review/text: My dogs have been eating this brand for a few years now and having found it available through Amazon I am able to save money per pound and trips to the store. It arrives promptly and is the same quality as always. Harmony Farms is much easier to digest and healthier than most commercial foods. LOVE IT!
+
+product/productId: B001CWVZUY
+review/userId: A1H957XU1S5WGV
+review/profileName: Aki "oki"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1310083200
+review/summary: Great Dog Food
+review/text: I purchased this because of the good reviews and the great ingredients. No doubt about the quality of the food and my 5 month old dachuhund puppy loves it. But I realized this doesn't have DHA that helps to develop cognitive brain function. Also the kibble might be little big for a puppy. So I believe it's a great food for an adult dog, but I wouldn't recommend it for a puppy.
+
+product/productId: B001CWVZUY
+review/userId: A3P8ZCD5O9VWYF
+review/profileName: Elissa Charbonneau
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304294400
+review/summary: Great dog food!
+review/text: This dog food satisfies both of my dogs and they have had no digestion problems or skin issues , as they have had with other brands.  They both have maintained healthy weights and glossy coats on this food. I have been very pleased with the automated delivery service.
+
+product/productId: B001CWVZUY
+review/userId: A1SUY67AC08D8Q
+review/profileName: Beth Soles
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301875200
+review/summary: Dog Likes It, Great Value
+review/text: Since I live in a rural area sometimes I'd drive to town just for dog food...needless to say that was expensive.  For $26 w/free-shipping the Harmony Farms is cheaper than the purchasing the lower quality "name-brands" - my dog likes the food and his skin is not as dry & flaky. I love getting it shipped directly and that my dog is eating something healthy.  Very thankful it's something I can afford as well.  Only wish Amazon offered a 'subscription service' for this item like they do on others.
+
+product/productId: B001CWVZUY
+review/userId: A1SBLULT4UUJZI
+review/profileName: Jacqueline Meadows "Miss Jackie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299542400
+review/summary: Delighted with Amazon.com
+review/text: I am always pleased with the variety of shopping items, that I find on Amazon.com.<br />I have never been disatified with my purchases through Amazon.com.<br />When searchomg for things, even dog food, I automatically go to Amazon.com<br />before any other site. Rarely do I chose another site.  Amazon.com<br />really rocks.  Thanks for being there!<br />J.Meadows, Syracuse, NY
+
+product/productId: B001CWVZUY
+review/userId: AX4O74TEOCT04
+review/profileName: Melissa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296259200
+review/summary: Great Dog Food :O)
+review/text: I just switched my 11 and a half year old Boxer to this food and it is awesome! She switched over no problems with no weaning off her old food. It has cut her gas down and has been so easy on her stomach. It also tastes so good to her that she will eat it without wet food mixed in. I wish I had found this food 11 years ago. It is great and we will switch our Boxer puppy to it when it is time. Also...very affordable:)
+
+product/productId: B001CWVZUY
+review/userId: AGJW7XVB1OAKQ
+review/profileName: Mission "Impossible"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290556800
+review/summary: The best food for dogs!
+review/text: In my opinion, this is the best food for dogs.  My boyfriend is an avid researcher, and he concluded this is the bet food for dogs on all accounts - taste (the dogs love it), health-wise (it has healthy fats, and the first and main ingredient is meat as opposed to ingredients such as corn) and digestion-wise (the dogs get diarrhea when they eat human food or any other dog food).  We have two dogs we adopted from a shelter, and while at first, one of our dogs would not eat the food (he had worms though, so who knows what junk he was eating before), he soon began to understand that is what we were going to feed him and very soon, he came to love it.  Now they jump when it's dinner time!  Our dogs are happy, very healthy, have shiny coats, and a large part of this is due to this fantastic dog food.  We get it on Subscribe and Save and we usually go through 1 bag p/ month - for reference, we have one 15lb Bichon and one Alaskan husky.
+
+product/productId: B001CWVZUY
+review/userId: A2U51T1TK6CYX9
+review/profileName: J. K. Gillingham "Book Nerd"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323820800
+review/summary: Solved 2 different digestive issues for 2 different dogs!
+review/text: I have 2 husky/shepherd mixes. The first is 13 months and has a finicky stomach - if he eats too fast, drinks too fast, or eats anything out of his routine, he would bring it back up. He also wouldn't eat more than a few nibbles at a time. The 2nd is 7 months old and came to us with severe diarrhea (vet's food didn't fix it either). He would eat anything and everything if we let him. Within a day of both dogs being on Harmony Farms (No fasting, just a quick switch), both dogs digestive issues are gone. My oldest (the finicky eater) is healthily eating his meals without pause or hesitation. My youngest has solid, regular bathroom breaks and has been able to relax his water intake as a result. They're both more relaxed.<br />We purchase at our local grocery store (Hannaford here in NY) for about $1.31/lb. For the price, ingredients, and results - you can't beat it.
+
+product/productId: B001CWVZUY
+review/userId: A1QHEKVEXOR0AH
+review/profileName: robfo
+review/helpfulness: 0/18
+review/score: 1.0
+review/time: 1284854400
+review/summary: No good . . .
+review/text: I read the reviews on this and thought id get some for my dog and pup.<br />They will not touch it. Even if I mix it with home cooked food.<br /><br />They like the dollar store dog food better than this.<br /><br />Amazon let me down on even allowing this dog food to be sold under their name.
+
+product/productId: B000LRH6J0
+review/userId: AAAYOC1S0SVMI
+review/profileName: agapimou3
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333065600
+review/summary: Greek Giant Beans
+review/text: These beans are hard if not impossible to find in the USA.  The 3 Alfa Brand of bean was directly from Greece;  fantastic product.
+
+product/productId: B001ELL51M
+review/userId: A1J508IBBETWTB
+review/profileName: C_Miller
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331337600
+review/summary: Bold and Brassy
+review/text: A bold brassy coffee , nice enough to stash back for a treat when a  cold day  deserves that extra warmth.<br />Fair price and well worth a try. Easy storage and will make a nice gift .<br /><br />http://www.amazon.com/gp/product/B001ELL51M/ref=cm_cr_rev_prod_img
+
+product/productId: B001ELL51M
+review/userId: A3HL1X2AIR2BZ2
+review/profileName: B. Smith
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1309305600
+review/summary: Decent, not fresh
+review/text: Driven by a love for Ethiopia Sidamo coffee beans and a penny pincher attitude instilled by my grandmother, I went searching through Amazon for a cheap alternatives to my local cafe's beans. I can tell you this quest was not successful. I've tried several whole bean coffees from Amazon and every one of them tastes old and stale. If I lived in a location with a poor coffee bean selection I'd still be ordering online, but if you live in Seattle or any other town with fresh beans I'd recommend buying locally.
+
+product/productId: B001SB65JA
+review/userId: A2FD6VSNQJ2MU7
+review/profileName: Diane L. Robaldo "granny dee"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331424000
+review/summary: matzo
+review/text: We live in an area that doesnt have matzo anywhere and they ate wonderful with soup and as a snack. The yehuda matzo are wonderful
+
+product/productId: B001SB65JA
+review/userId: A249G4SVEWV9UX
+review/profileName: Doc W8 "Librarian"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1348272000
+review/summary: The BEST matzo!
+review/text: We couldn't find any matzo up where we live, and used to eat Yehuda  brand in the Bay Area so were delighted to find them on Amazon. Those are crisp, taste wonderful, are Kosher and a great side to soups and the like. A great vehicle for shmears of all kinds, and of course perfect for your Seder meals. Those are made in Israel, but taste as if they were baked next door. None were broken in shipping, and shipping was nearly instantaneous. Those store well, maintaining crispness and flavor. Thanks Amazon for having our favorite matzo!
+
+product/productId: B001SB65JA
+review/userId: A26ISC2UBZNJRF
+review/profileName: 1940ryan
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335571200
+review/summary: Another Amazon Life Saving product
+review/text: As Christians, my wife and I teach about the Feasts of God (Lev 23), and needed Matzo for an extremely important "show and tell" for pastors and Bible study teachers. Couldn't find it in any of the towns near us. The product seems to be exactly like what I have found in the past and was perfect for the presentations. Following our presentation, two churches wanted to know if we had enough to provide some for them, and we did. Shipping was quite prompt, the selections were good, the price was great; in short, Amazon continues to be my go-to provider for many items.
+
+product/productId: B003ZX26IS
+review/userId: AKMP5JEBQPH34
+review/profileName: Bills Fan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308441600
+review/summary: Addicting!
+review/text: The shipping is always excellent, and the product is amazing! My family loves the white chocolate coconut clusters, and only a membership to Weight Watchers is preventing me from ordering it more frequently!
+
+product/productId: B000LR7W1M
+review/userId: ACYR6O588USK
+review/profileName: '  Groovin' guy "music historian"
+review/helpfulness: 10/12
+review/score: 5.0
+review/time: 1204156800
+review/summary: A Classic
+review/text: This prosciutto is the best also known as Parma ham.<br /><br />For anyone not familiar,Parma is where it's made. Sciutto translates to dry.<br /><br />A bit salty but makes an impression on the palette. An impression you're bound to love. I believe this is the best prosciutto and I buy mine at a nearby deli who always keeps it fresh.<br /><br />One of my favorites is putting it over ham.<br /><br />I'm sure most people have tried it and I just want to review it cause I love it so much.
+
+product/productId: B000LR7W1M
+review/userId: A11ME7ISV9PEE4
+review/profileName: BillMac
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1281312000
+review/summary: Excellent All The Way Around
+review/text: The product was wonderful, and priced very well. The shipping was two days from California, I live in Virginia. The product was packed with cooler packs for a nominal shipping price. I have already ordered other products from this company. Great experience.
+
+product/productId: B000LR7W1M
+review/userId: A2ARKEEDO6679D
+review/profileName: Bigmike7
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345939200
+review/summary: Good Tasting But A Ripoff!!
+review/text: Yo-<br /><br />Nowhere in the description does it state how much ham you are getting - well - it's SIX OUNCES which comes out to $63.73 PER POUND - plus shipping!!!<br /><br />The one pound for $28 plus $20 shipping is the better (but still NOT good) buy.
+
+product/productId: B000LR7W1M
+review/userId: A1CJEWIKEYMGA9
+review/profileName: Albert L. Scarani
+review/helpfulness: 0/4
+review/score: 2.0
+review/time: 1211846400
+review/summary: Prosciutto Di Parma - Trimmed Boneless Ham by Galloni - Sliced
+review/text: product didn't arrive by the day it was to be delivered , it was shipped by overnight speed by the way. product was not as cold as described. wasn't complete of seller.
+
+product/productId: B0013T5YO4
+review/userId: A2CZ87ZDY59E5A
+review/profileName: techsavy "videophile"
+review/helpfulness: 6/7
+review/score: 2.0
+review/time: 1341878400
+review/summary: Environmentally Unfriendly Chinese plastic bottles
+review/text: Nowhere in Fiji Water's glossy marketing materials will you find reference to the typhoid outbreaks that plague Fijians because of the island's faulty water supplies; the corporate entities that Fiji Water has--despite the owners' talk of financial transparency--set up in tax havens like the Cayman Islands and Luxembourg; or the fact that its signature bottle is made from Chinese plastic in a diesel-fueled plant and hauled thousands of miles to its ecoconscious consumers. And, of course, you won't find mention of the military junta for which Fiji Water is a major source of global recognition and legitimacy. (Gilmour has described the square bottles as "little ambassadors" for the poverty-stricken nation.)<br />From Mother Jones article 2009. Read the full 3 pages with a google search.Mother Jones Fiji water.
+
+product/productId: B0013T5YO4
+review/userId: A2Y2J6N35USARZ
+review/profileName: Anderlecht
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1337904000
+review/summary: Amazing water. Price is so so, but having it delivered to your door is price-less.
+review/text: I first tried Fiji Water back in college when our cafeteria used to sell these at $2 a bottle for the mini size. I always wondered what the difference between Fiji and cheaper Poland Spring were. However, it all came down to taste. For me, Fiji Water tastes great. It doesn't have that tap water taste and it goes down smoothly. I drink Fiji whenever I can.<br /><br />Back when Amazon had it for around less than $30 (for this pack), I used to have these shipped every month under the subscribe and save. Ever since the price went up, I stopped and lugged this 12 pack from the Supermarket all the time. It was significantly cheaper. Fast forward a year and now that my wife is pregnant, I always have this size Fiji Water on hand at all time. This is the only water she will drink. Even though the cost is significantly higher, it is well worth it because I don't have to strain my back to lug 3-4 of these cases from the supermarket to my house. With subscribe and save, they get delivered right to my door and that is price-less. I no longer have to drive 20 minutes there and 20 minutes back to get them.<br /><br />As far as the size goes, it is perfect. I started with the mini ones, but we would end up having more empty plastic bottles laying around the house. Then, I switched to this size, 1-2 bottle(s) last the whole day and we would end up having less plastic. =) Comparing ounce wise, this is the cheapest.<br /><br />PROS:<br />+ Amazing water taste<br />+ Wife loves it<br />+ Water never exposed to anything until I open the bottle<br />+ Free shipping for delivery to your door! Woo hoo!<br /><br />CONS:<br />+ Expensive when compared to local supermarkets<br /><br />If you are like me and don't have the time to drive out to the supermarket or simply care about your back, Amazon delivers!
+
+product/productId: B0013T5YO4
+review/userId: A2G860HD9ZMS1J
+review/profileName: swlee
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1323043200
+review/summary: Good taste
+review/text: I had been drinking other mineral waters so far and I did not know how the taste of the mineral water is different from each other until I tried this water. Now I am really satisfied with the pure and good taste of this water and I will keep drinking the water. I would like to recommend this strongly.
+
+product/productId: B0013T5YO4
+review/userId: A1IJGB0GTP4XQO
+review/profileName: Tim Charles
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1321747200
+review/summary: I love this stuff -- and the size is right
+review/text: I've been a fan of Fiji for quite a while -- first thought the unique selling proposition was just its price, as is the case for so many other waters, but I dig the apparently silica-related smooth mouthfeel and unique mixing properties (try it and you'll know what I mean).<br /><br />Now, why do you need this big bottle? Suggestions:<br /><br />Iced Coffee or Tea:  Double strength coffee with Fiji water, let cool for 5 minutes, pour over ice and (optionally) sugar into a cocktail shaker. Shake the heck out of it for about 15-20 seconds, then pour into a tall glass. The aerated Fiji foams like crazy and sets up just like a Guinness Stout.<br /><br />Seltzer:  Fill your soda siphon with chilled Fiji. Carbonate. Enjoy.<br /><br />Cocktails:  Perfect with The Glenlivet. 'Nuff said.
+
+product/productId: B0013T5YO4
+review/userId: A418AOH9QGRNL
+review/profileName: Frank D. Spinale Jr. "Frankie"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1320105600
+review/summary: FIJI
+review/text: The best water I have ever tasted.  no one else comes close.  Not all bottled water is created equally.  Don't buy the cheap stuff.  Tastes like night and day.
+
+product/productId: B0013T5YO4
+review/userId: A3AOE753Y0I0VZ
+review/profileName: fiji sun
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1318636800
+review/summary: The BEST!
+review/text: I Absolutely LOVE Fiji water! It has the best taste of bottled water on the market. It tastes fresh and clean. No chemicals! Unfortunately It does not come in gallon or water dispenser size.
+
+product/productId: B0013T5YO4
+review/userId: A3AY11X0TKXMT2
+review/profileName: Miami Kid
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1323734400
+review/summary: Fiji with Amazon pricing = 5 stars!
+review/text: I love Fiji.  If you do too, then you know Amazon is a great place to get it.  On the subscription plan, the large bottles come in at the same price as my best-priced local market, and I don't have to lug them home, nearly breaking my back in the process :-)
+
+product/productId: B0013T5YO4
+review/userId: A2499QYR4YRWFP
+review/profileName: Layla J. "Layla J, Scentsy Consultant"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349481600
+review/summary: Water!!
+review/text: Best tasting water out of all the bottles I've tried. Smooth and using the autoship option on Amazon is amazing. It may not be that much different from the store, but with Amazon prime it is well worth it. I live on the second floor of an apartment, and walking back and up and down carrying water bottles is not my idea of fun!
+
+product/productId: B0013T5YO4
+review/userId: A2OOQ59V7YWYL1
+review/profileName: Gloria M.
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1339200000
+review/summary: Really disappointed
+review/text: I really LOVED this water. I've been ordering it since February 2011.  It doesn't have that strong mineral taste.  Most of all it does come from Fiji's natural spring water and not tap water disguised as mineral water. Unfortunately I can't order it any more due to Amazon switching from FedEx shipping to FedEx "Smartpost". (I live in an apartment complex and the post office won't deliver it to my door as FedEx did.) I really feel let down by Amazon but I will definitely look for another way to order it, I like it that much.
+
+product/productId: B0013T5YO4
+review/userId: A19UTUEBWKIZFT
+review/profileName: Bernadette
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1329523200
+review/summary: Here is the deal with this water
+review/text: This is great tasting water, probably in my opinion the best tasting bottled water there is as far as<br />unadulterated mineral water goes. I do love Smart Water Glaceau Smart Water, 33.82-Ounce (Pack of 12) for it's ultra clean taste but it is purified tap water.<br /><br />As far as price goes, this seems reasonable considering they deliver it to your door.<br />But I also love my Zero Water Filter Pitcher ZeroWater ZD-023 23-Cup Water Dispenser and Filtration System and the clean water is produces from tap water.<br />It tastes even better. I can fill my plastic bottle made without hydrocarbons with<br />my Zero Water ice cubes and sip it all day, knowing that it is free of all metals and minerals. I like the little testing meter that came with Zero Water Filter Pitcher.<br /><br />Fiji water tests at 132, Zero Water tests at 0. Which do you think is better tasting?<br />To come in at 132 for total dissolved solids makes it equal to some tap waters, without the chlorine.<br />Fiji tastes better to you than your tap water because most likely your tap water contains more than 200<br />ppm of dissolved solids.<br /><br />I and my family did a blind taste test of Zero Water and Fiji water. We filled cups with each of the two waters, did not label them except on the bottom, water A and water B,<br />and each of the five of us tasted them without knowing which was which.<br />Zero Water beat Fiji for all five of us. I know this isn't scientific or representative<br />of what others might find but this is our experience.<br /><br />We know hydrocarbons can cause cancer.<br />We know we have a tremendous problem with plastic bottles in land dumps. I see them thrown everywhere here in Florida, in all parks and scenic natural areas.<br />We know that hydrocarbons leach out of these plastic bottles when they are in heat,<br />such as when the un airconditioned UPS truck brings them to us. It bakes here in the Florida sun in the back of that truck, then I drink it.<br /><br />I do love Fiji as a bottled water. I don't love drinking hydrocarbons and have found a way to avoid them, as well as heavy metals like lead, arsenic, mercury, sodium, hydochorides, etc. that are in most bottled waters to some extent. It's great knowing I'm putting water into my body that is free of all traces of these elements. As bottled waters go this one is tops for taste.<br /><br />I like to keep some bottles of Fiji in my fridge along with some highly mineralized San Pellagrino San Pellegrino Limonata, 6 Pack - 11.15 Ounce Cans and some Smart Water. All of these are delicious in their own way.<br />I use my Zero Water pitcher for quantities of pure water when I make tea of coffee.<br /><br />edit: I have read that this water is very alkaline and so I am mixing it with xylitol Health Garden Kosher Birch Xylitol 1 Lbs. Product of USA (Not From Corn)<br />as a mouth rinse. The alkalinity counteracts the mouth's natural acid, which promotes decay of teeth, and the xylitol remineralizes them. Alkaline is a good thing in water and is prefered for health benefits.<br /><br />The website for Fiji water states that the bottles are BPA free. It also says that the bottling plant sits on top of the water aquafer, where the water is drawn up from deep underground directly into the bottles, without any type of processing at all. The water is not polluted by twenty-first century air or touched by human hands, it is simply put into the bottles. There is lacking any type of analysis of exactly what minerals are in the water but I have found on other sites information that there are a small amount of beneficial minerals in it such as calcium and magnesium.<br /><br />Unfortunately, this water is not friendly to the global environment. It is estimated to take one quart of petroleum products simply to fly this from Fiji to it's final destination, for each bottle of water sold.<br />That's a huge toll on the environment. It's ridiculous actually if you stop and think about it.
+
+product/productId: B0013T5YO4
+review/userId: A1MVTXOZOM5AYE
+review/profileName: kj
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1301961600
+review/summary: Best
+review/text: This is the best deal for, in my opinion, the best tasting water. Yes, you can get Poland Spring for less than half of these in Costco, but if you can taste the difference and care, this is the best deal on FIJI by miles!
+
+product/productId: B0013T5YO4
+review/userId: A3EU7LYYZ0ONVU
+review/profileName: Dreamer
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1339977600
+review/summary: FIJI Water taste amazing
+review/text: I first drank Fuji bottled water when I went on a family vacation to Walt Disney World.  We stayed in the Marriott Resort closed Disney.  Everyday they would give us a big Fiji bottle water for free.  I was amazed by the taste.  I mean it is just water but Fiji's flavor really stands out.  This a great deal on a pack of twelve.  I am a college student so I ask my Mom to buy them for me when I go home for a visit.
+
+product/productId: B0013T5YO4
+review/userId: AIXFVDDOOJ8CG
+review/profileName: Phuong
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1337904000
+review/summary: Best for my tongue and hydration
+review/text: I get dry mouth whenever I drink any other water. Other water leaves residue on my tongue that causes me to get dry mouth. With dry mouth and a tongue full of residue I'm unable to get the hydration my body likes. Fiji water doesn't give me that dry mouth residue feeling. I love it. Its by far the best!
+
+product/productId: B0013T5YO4
+review/userId: A2GEZJHBV92EVR
+review/profileName: History buff
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1345939200
+review/summary: Taste is wierd.
+review/text: I find this has a wierd taste. I do not care for it. I will stick with my Nestle pure life bottled water.
+
+product/productId: B0013T5YO4
+review/userId: A2H6YK4BZFGHA5
+review/profileName: David L. Roberson
+review/helpfulness: 3/5
+review/score: 3.0
+review/time: 1305244800
+review/summary: Best water there is. Now at a new more expensive price!
+review/text: The water is great, (it is no longer the best per ounce deal I have seen). 1.5L provides enough water to drink through the workday and sometimes have some on the way home. Simply summarized as great water in a big box that UPS likes to beat up.
+

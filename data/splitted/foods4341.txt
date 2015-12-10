@@ -1,0 +1,1143 @@
+product/productId: B004SKOF4A
+review/userId: AWVE3MD3NVV2C
+review/profileName: MadDoc
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1322524800
+review/summary: Delicious mix
+review/text: My favorite candy bars in one package!  Try them frozen, makes them crisp and crunchy and the caramel stays chewy.
+
+product/productId: B004L5NFT8
+review/userId: AY1EF0GOH80EK
+review/profileName: Natasha Stryker
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1197849600
+review/summary: One of the best tasting bars out there!
+review/text: This bar is tasty, filling and good for you.  I love them and have one for breakfast every morning with a cup of brewed chai with almond milk.<br /><br />I am looking to eat free of wheat/gluten/yeast and this bar fits the bill.  Only 9 grams of sugar (compared to the 15 - 30 grams that other bars contain), plus 5 grams of fiber and 6 grams of protein.  The ingredients are organic and the hint of spice is very nice.<br /><br />I highly recommend!
+
+product/productId: B004L5NFT8
+review/userId: AYWUHB7N8XGZQ
+review/profileName: Evelyn A. Getchell "Evie"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1203897600
+review/summary: A real winner!
+review/text: These Bumble Bars are a real winner with my mother.  She LOVES them!  I buy them frequently for her instead of candy or other snacks which she cannot have on her restricted diet.  It makes me happy to make her happy with these wonderful, healthier, gluten free snacks.
+
+product/productId: B004L5NFT8
+review/userId: A2IUWIS8F8ZSZN
+review/profileName: DaniBug
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1317168000
+review/summary: Bumble Bars - Original with Hazelnut
+review/text: My son's best friend has food alergies and stays away from gluten, aspertame, food coloring etc.  Even though my son does not have the same alergies, we try to eat along the same lines because it's healthy and my son likes to eat what his friend eats.<br /><br />The Bumble Bars are good.  I love the chewiness, I love the seeds and nuts.  The touch of honey is great.  And Lord knows active 11 year olds need all the wholesome energy they can get.  The sugar content is low and the fiber content is high.  It is just hard for me to save them for the boys!!!<br /><br />On a truly aestetic note.  The packaging is nostalgic.  I love that!
+
+product/productId: B004L5NFT8
+review/userId: A29DVTTRZ23NMZ
+review/profileName: Angel0617777
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1305849600
+review/summary: Yum! Healthy snack for a child too.
+review/text: These bars are great!  Very soft.  I feed them to my toddler and I have to give him small pieces in his mouth, otherwise there would be seeds stuck all over.  Nutty with a slight honey taste.
+
+product/productId: B004L5NFT8
+review/userId: A38K1CUD5VMVE4
+review/profileName: Tracy M Nagy
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1305072000
+review/summary: great power bar alternative- and gluten free
+review/text: We have tried a variety of granola, power bars and others - and this is the best that we have found - good source of energy, all natural, tastes great (we have tried all the flavors and the original is our favorite - followed by chocolate cherry)  And the other good thing is that they don't have all the sodium and sugar that most other bars will weigh you down with.  Great for a snack and the gym or at work.
+
+product/productId: B004L5NFT8
+review/userId: AWPJDO5NSDJL
+review/profileName: Kori Truesdale
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1298332800
+review/summary: Best Flavor Bumble Bar
+review/text: If you haven't had Bumble Bars please do so. I love them, and the Lushus Lemon flavor is the only one that really stands out to me. It actually tastes like real lemon. Not that fake lemon flavor that you get in candy sometimes.<br />Give it a try, I think you will be pleased.
+
+product/productId: B004L5NFT8
+review/userId: A27IHE8E5MGKG3
+review/profileName: Randal J. Geringer "Everybody_is_Devo"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1286064000
+review/summary: unique and yummy
+review/text: The original Bumblebars are great.  They are unlike any other snack bar.  Very sticky when it warm, I've not had them when it's really cold out yet.  I would compare to rice crispy bars (but healthy) in texture.  Not like most other granola type snack bars.  But this is what makes it so good and unique.<br /><br />They hold me over when I'm hungry and need to stay at the computer.  I highly recommend!
+
+product/productId: B004L5NFT8
+review/userId: A1SNHAMCFKTTE7
+review/profileName: Laurel E. Mayer "NYLULU"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315353600
+review/summary: Best snack bar
+review/text: This is my all time favorite 'grab and go' snack bar. It doesn't leave you with a sugar rush/drop, tastes great and is easy to stash in your pocket or purse.
+
+product/productId: B004L5NFT8
+review/userId: A2S9UCSKKKPQZ
+review/profileName: Katherine Huskey "winchestersgirl"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1247961600
+review/summary: Yum
+review/text: Yes, these are a little sticky. But they make up for it by being addictively delicious.<br /><br />These are a yummy alternative to granola bars for those who need GLUTEN-FREE foods.
+
+product/productId: B004L5NFT8
+review/userId: A9GIGJUB98JNR
+review/profileName: Chen Sun "WebAndNet.com"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1245801600
+review/summary: heavenly
+review/text: Tastes like lemon chiffon in one's mouth, but texture crumbles and is a bit crunchy (I like).  Messy food, but the wrapper, if one is careful, contains it well.  Filling too.  It's the single best non-dairy snack I've ever eaten.
+
+product/productId: B004L5NFT8
+review/userId: A36MP37DITBU6F
+review/profileName: Enchanted  In  Dixie "Enchanted"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1244160000
+review/summary: AWESOME VEGAN gluten free Organic SNACK BAR! My 11 yr old's prefered snack . He loves these better than candy bars.
+review/text: Great mildly spiced bar sweet but not too sweet. Really satisfies a hunger craving. Great for the whole family.<br /><br />Zesty Ginger, cardamom, and cinnamon enhance the natural flavors of sesame seeds, almonds, vanilla, and flax seeds. Mildly spicy and thoroughly satisfying.<br /><br />ALLERGIES:<br />GLUTEN FREE BUT NOT NUT FREE -Contains The following allergens: almonds, soy. May contain traces of dairy, peanuts, and other nuts.<br /><br />Ingredients<br /><br />(All ingredients are gluten-free)<br />Organic sesame seeds, Organic brown rice syrup, Organic evaporated cane juice, Organic almonds, Organic flax seeds, Organic soy crisp, Organic crisp brown rice, Organic extract of vanilla, Organic cinnamon, Organic cardamom, Sea salt, Organic tumeric, Natural Vitamin E for freshness, Processing agents: Organic safflower and/or sunflower oil<br />Nutritional Analysis<br /><br />Serving size: 1 package (45 grams)<br />Servings: 1<br />Amount per serving DV*  Amount per serving DV*<br /><br />--------------------------------------------------------------------------------<br /><br />Calories: 230  Vitamin A: 0%  Niacin:  4%<br />Calories from fat: 130  Vitamin B6: 10% Phosphorous:  20%<br />Saturated Fat:: 2g 11% Vitamin C: 0% Potassium: 160mg 5%<br />Total Fat: 15g 22% Vitamin E: 15% Sodium 60mg 2%<br />Cholesterol: 0mg 0% Folate: 8% Thiamin:  10%<br />Total Carbohydrates: 20g 7% Calcium: 25% Zinc:  15%<br />Fiber: 4g 17% Copper: 45% Riboflavin:  6%<br />Sugars: 11g  Iron: 20%<br />Protein: 6g  Magnesium: 25%<br /><br />SEE NUTRITION AT<br /><br />http://www.bumblebar.com/index.asp?PageAction=Custom&ID=11
+
+product/productId: B004L5NFT8
+review/userId: A1HG50S3CREQXO
+review/profileName: Anna K.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1229040000
+review/summary: Best Bumble Bar Flavor
+review/text: I purchased a sample pack of Bumble Bars after trying them from a local store, so I've tasted pretty much every flavor and I have to say that the "Lushus Lemon" is definitely my favorite! It isn't really sour, but more of a sweet lemon taste - its soo good. Plus its made of completely natural, gluten-free and organic ingredients, so you can feel good about eating them (no, I do not work for BumbleBar - this is a REAL customer review!!). Just thought I'd share my new found love with everyone - you have to try it!
+
+product/productId: B004L5NFT8
+review/userId: A34S4LS6R50VTA
+review/profileName: K. lavergne
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1209945600
+review/summary: yummy, but sticky
+review/text: My son and I love these bumble bars, but for some reason they are stickier than the other bumble bars, so they are a little messy, but we love them.  Just make sure you have a wet cloth to clean up with after.
+
+product/productId: B004L5NFT8
+review/userId: AYWUHB7N8XGZQ
+review/profileName: Evelyn A. Getchell "Evie"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1203897600
+review/summary: A great gift!
+review/text: These Bumble Bars are a real winner with my mother.  She LOVES them!  I buy them frequently for her instead of candy or other snacks which she cannot have on her restricted diet.  It makes me happy to make her happy with these wonderful, healthier, gluten free snacks.
+
+product/productId: B004L5NFT8
+review/userId: A1I8VHINC43CWV
+review/profileName: kelly
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350518400
+review/summary: Meh - all sesame seeds and too much cinnamon
+review/text: As I said in title, just ok. NOT the 'bar; I was expecting - ALL sesame seeds, and way too much cinnamon. No hazelnut that I could detect. I will not reorder.
+
+product/productId: B004L5NFT8
+review/userId: A3ERJ9HIJKHH1T
+review/profileName: Jose A. Castro "Jose Castro-Frenzel"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: Awesome Taste
+review/text: Great snack item when you have a sugar craving.  Great to mix with honey or PB or just both of them.
+
+product/productId: B004L5NFT8
+review/userId: A2C1X099ZWTJSO
+review/profileName: G. Decker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1275264000
+review/summary: A healthy, tasty bar
+review/text: I don't care for sweet bars with lots of ingredients.  This one is a simple blend of healthy ingredients that give me an energy boost when doing something active.
+
+product/productId: B004L5NFT8
+review/userId: A2JZURC0KKO5D7
+review/profileName: I. Blumenfeld
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1257552000
+review/summary: Delicious
+review/text: Delicious bumblebars. They make a great snack. It's loaded with protein, fiber and lots of other good stuff. It has some fat though, due to the nuts. It's gluten free and vegan. On the label it says they only use organic ingredients, and all of them are gluten free.<br />It's a great deal to get 15 in a box from Amazon, especially when you subscribe. Almond and chocolate are my favorite.
+
+product/productId: B004L5NFT8
+review/userId: A2NMQWBDWT3SQF
+review/profileName: Lorel Shea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1257120000
+review/summary: yum! I love my bumble bars!
+review/text: Bumble bars are gluten free, and made with all organic ingredients.  They are mainly formed of sesame and flax seeds,  with a few peanuts as well as brown rice syrup,evaporated cane juice, and a few other items.  The 1.6 ounce bar makes a good sized snack for an adult, and is big enough for two young children to share.  The flavor is of sesame and sweetness that is similar to honey.  The bars are solid and do not crumble, but they do bend and can be snapped in two easily.
+
+product/productId: B004L5NFT8
+review/userId: A2HHJDZYV0L6G0
+review/profileName: J. Stirpe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1256774400
+review/summary: I Love Bumble Bars!!!
+review/text: I would totally recommend these bars.  A great healthy snack for when you are on the go.  My kids are crazy about them.  I like to keep them in my purse for those snack emergencies or to distract my daughter in the store when I am trying to shop.  This makes her feel like she is getting a "treat" but it is more of a "health" food.  I really love the cherry chocolate and the chocolate crisp!!!  Oh, and I almost forgot the lemon Bumble Bars are yummy too!
+
+product/productId: B004L5NFT8
+review/userId: A2JZURC0KKO5D7
+review/profileName: I. Blumenfeld
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1254873600
+review/summary: Strong taste
+review/text: I love bumblebars, but Chai has a very strong flavor. I would recommend tasting it before you order a whole box of them. I tasted it before, and I liked it. It seems that after awhile it got too strong, and I canceled the subscription. Chocolate and Almond are my favorite flavors.
+
+product/productId: B004L5NFT8
+review/userId: A1DGZ4XQC77KST
+review/profileName: Dee F. Wichman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1212278400
+review/summary: No bumbling for nutrients when you choose Bumble Bars!
+review/text: My favorite snack provides organic nutrients that include 6 grams of protein and 5 grams of fiber.  When you consider that most breads only offer a gram or two per serving, this makes Bumble Bars a real powerhouse of organic energy.  I keep one tucked in my purse for emergency nourishment.  Ideal for a movie treat.
+
+product/productId: B004L5NFT8
+review/userId: A34S4LS6R50VTA
+review/profileName: K. lavergne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206316800
+review/summary: gets you going
+review/text: this is a great, all natural snack that tastes great and they help if you have issues with constipation.  My son has trouble with this and he loves the bars, which works out great!
+
+product/productId: B004L5NFT8
+review/userId: A3CTUMYWO71U10
+review/profileName: Joan Gottfried
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1317340800
+review/summary: Didn't like  much
+review/text: The bars have healthy ingredients but are too seedy,grainy for me. Maybe seeds could be ground for a smoother consistency.
+
+product/productId: B004L5NFT8
+review/userId: A2LJJ4482V9LAW
+review/profileName: SunnyBeachLife
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1244851200
+review/summary: Not my favorite flavor
+review/text: I've tried about 5 flavors and this is my least favorite.  I like the organic ingredients so feel good about giving them to my kids but even they nor my husband liked this flavor.  Weird spice combination.  I like the texture, however, and these were much less sticky than the cherry ones we received.<br /><br />The redeeming quality is the nutritional, natural ingredients and health value.  We'll finish them off but then replace them with apricot ones! =)
+
+product/productId: B004L5NFT8
+review/userId: A34S4LS6R50VTA
+review/profileName: K. lavergne
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1244505600
+review/summary: love these!
+review/text: My son and I love these!  We have them as a snack or as part of a meal.  They give you energy and with all the fiber, they help keep you regular!  We love just about every flavor, but this one has a sweet, nutty taste that is great!
+
+product/productId: B004L5NFT8
+review/userId: A3V6933TT5ZXXI
+review/profileName: RAD Man
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1215993600
+review/summary: Good, not great
+review/text: The Bumble Bar tastes good but the sesame and flax seed tend to get stuck in your teeth.
+
+product/productId: B0062Z60BA
+review/userId: A1OTXO0V7Z39QQ
+review/profileName: S. Bovea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346889600
+review/summary: My dog really loves the bones
+review/text: I needed something that would last a long time. My dog cannot stop chewing, she has to have something in her mouth. She eats anything that she can get in her mouth. rock, plants,wood chips, walnuts, apples, grasses. These work really good. I'm order somemore on line here, petsmart quit caring them. I also found out that pork in better for your dog. Instead of beef bone or anything with beef.
+
+product/productId: B0057UCP06
+review/userId: A1LI05UXREHI1G
+review/profileName: Baba Ganoosh
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1348012800
+review/summary: Eww!!!
+review/text: Okay. I have eaten other progresso soups that I have been extremely underwhelmed with in the past but this has to be the worst (and it was all I brought for lunch)! It looks nothing like it does on the front of the can. The actual soup is dark green and looks like it's been pulled directly from a swamp. There are limp little hunks of spinach floating around in it and some weird, see-through pieces of celery. I have never eaten lentils before and I found the taste and consistency of the actual lentils wasn't that bad but they were ruined by the green bog water they were hiding in. Even if you can get over the sight and smell of this soup, the taste leaves much to be desired. You have been warned. Time to go raid the vending machine so I can get this taste out of my mouth.
+
+product/productId: B000I6PXYY
+review/userId: AHTC87GB50XDB
+review/profileName: Marine mom "Marine mom"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326585600
+review/summary: Ewwwww
+review/text: This coffee taste like those little variety packs you can get at Christmas time at Walmart. Very artificial tasting. Yuck. Wrote directly to the company but never heard back from them.
+
+product/productId: B000I6PXYY
+review/userId: A33Y17OY90KW0O
+review/profileName: K. Spencer "Angelica's mom"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1320019200
+review/summary: Does NOT taste like any kind of cake
+review/text: Tastes like a dark or french coffee with a vaguely chemical taste. Not horrible but not good either. Paid $21 for 4 bags, worth about 1/2 that.
+
+product/productId: B000GIOG4M
+review/userId: A3C9SSFQDBRWX
+review/profileName: Jazz Girl "Jazz Girl"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1261612800
+review/summary: teacher's gift
+review/text: I got this as a gift to my son's teacher. The assistant teacher got the Numi's flowering tea set. I figured it's better to give something food related than the old spa gift, soaps and lotions than one may never use, or even worse, the impersonal gift cards (did that last year).<br />She, of course stated she liked it and sent us a Thank you card.And, what's not to like about it? All the products in the basket are organic and made in Italy.
+
+product/productId: B000GIOG4M
+review/userId: A22DVIQ9LFFJEI
+review/profileName: L. Victoria
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1294704000
+review/summary: Good gift for price
+review/text: I bought this for my fiance's grandparents. They seemed to really enjoy the basket.<br />It's a good gift for someone who has everything!
+
+product/productId: B000GIOG4M
+review/userId: A2B55US69Z0Q0H
+review/profileName: Robin Hood "mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294617600
+review/summary: Gift basket
+review/text: Sent this basket to my parents as a gift. They said it was wonderful. Nice to be able to send something other than fruit,cookies,candy.
+
+product/productId: B0007V1164
+review/userId: A4VYBOP8LO9BG
+review/profileName: Esther Biswas "horse rider"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1270512000
+review/summary: Best stuff ever!
+review/text: This is an amazing noodle kit: easy and delicious! I add peanuts, bean sprouts, egg, Huy Fong Sriracha sauce, and the juice of half a lime...it's so good. :)
+
+product/productId: B0007V1164
+review/userId: A29N2APFNVOUJR
+review/profileName: MS mom
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339372800
+review/summary: Yum!!!!
+review/text: These noodles are GREAT!!  I love that they are a little spicy.  Great purchase and easy to fix.  My son will definitely enjoy these at school.
+
+product/productId: B0007V1164
+review/userId: A3OERLA3Z7CV16
+review/profileName: Luke
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304985600
+review/summary: Tasty.
+review/text: This was my first time eating Pad Thai favored anything. These were the very thin noodles if I remember correctly.<br />It's a unique taste compared to most ramen, I mean fried noodles, I have purchased in the last month.<br />Definitely worth a try if you are planning on tasting some different Asian dishes.
+
+product/productId: B0007V1164
+review/userId: A12HO2B007IIN4
+review/profileName: gbiv
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280102400
+review/summary: Amazing
+review/text: I had my first pack today and now I'm trying to find it by the case.  It is amazing that something so cheap can be so good.  Highly recommended.
+
+product/productId: B004XRJWAA
+review/userId: A25F9B4HAB8SF2
+review/profileName: TDe "Tara"
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1342396800
+review/summary: Not impressed.
+review/text: I used this to amp up the chocolate flavor in a double chocolate cake. It tastes exactly how it smells - like alcohol with a mild chocolate scent. It didn't do any service to my cake or the frosting, and I didn't use a lot. You get much more alcohol taste than a chocolate taste (and it doesn't taste that good).
+
+product/productId: B001NGAT0Q
+review/userId: A3OS09TVPIYYH3
+review/profileName: Shoegirl
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1343001600
+review/summary: Not My Favorite from Frontier
+review/text: I have tried several Frontier Homemade Soups and this is the first I have not liked. The flavor does not remind me of Jambalaya at all; it is a very odd flavor. I couldn't even finish my first serving. I love some of their other soups (Cincinnati Chili, Vegetable, Chicken Noodle) but I'll pass on this one.
+
+product/productId: B001NGAT0Q
+review/userId: A3UB6G3BNDZ1VE
+review/profileName: AEH
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327017600
+review/summary: New Orleans Jambalaya Soup + added ingredients
+review/text: I just made a soup using this mix.  It's one of the best soups I've ever made and it made a ton of soup.  I boiled down a turkey carcass left from Christmas and picked off the meat (not all that much).  I let the stock cool (about a gallon), skimmed off the fat and added the recommended can of diced tomatoes, some cut up celery, cut up carrots, a few pealed pearl onions and a little ham chopped up from the butt end plus the end of the ham bone.  I also added four small red-skin potatoes cut into chunks.  I boiled all this stuff with the soup mix for 25 minutes and added about a cup of chopped cilantro.  You might need to add some salt depending on your additions, but really nothing else.  It has a little spiciness as is.<br /><br />Really, I think you could add just about any vegetables and chopped meat and this would be an excellent soup.  And, when made with left-overs, it cost next to nothing.
+
+product/productId: B001NGAT0Q
+review/userId: A15LF8CYRCRVA1
+review/profileName: R. Mitchell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: Favorite supper dish
+review/text: My family loves this soup but it is quite pricey when all the ingredients are added. Besides the recommended additions, I used extra fresh wild gulf shrimp, an extra can of tomatoes and a cup of frozen okra slices.  This evening I did a taste test and found the soup to be a little spicy. I added a few drops of balsamic vinegar to smooth it out.  Served it with cornbread and slaw for a hearty meal.  Raves from the family!
+
+product/productId: B001NGAT0Q
+review/userId: A1IXJEA1CXY7RJ
+review/profileName: Rosie
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315612800
+review/summary: Better used to make jambalaya than soup
+review/text: Found this to be very tasty and while adding less fluid to make the real jambalaya, I also added more canned tomatoes.  Addinglarge shrimp it also became delicious as the family said.  Oh yes, I added more rice, too.  Great meal for lots of people.
+
+product/productId: B001NGAT0Q
+review/userId: A1HUGAJMCPXDVD
+review/profileName: A. Parr
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1282780800
+review/summary: Not real jambalaya flavor
+review/text: Being from Louisiana, I was expecting true jambalaya flavor in this soup.  There is way too much turmeric which gives it a strong flavor and odd aroma.  I find it difficult to believe that saffron is the number one ingredient (more than rice?).  Good idea.  Needs work.
+
+product/productId: B000EZYFRA
+review/userId: A14AZWOLGK6MD3
+review/profileName: Cousin It
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1210809600
+review/summary: Great Beans!
+review/text: These beans are part of most households shopping list in the UK.  They are very different in taste to those available in the US, although they are similar to the Heinz Vegetarian Beans.  The sauce is more tomatoey and they are great for Beans on Toast (A staple for any University Student.)The price seems a little high, but I am guessing thats because they are imported.  Definitely worth trying.
+
+product/productId: B00008DFDJ
+review/userId: A2MV66VQX72ZNJ
+review/profileName: Kathy K. Ritz "eating well"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1203033600
+review/summary: Luv it!
+review/text: I am delighted with the results!  I am using it with all four of my German Shepherds.  First, I noticed that they are not shedding or scratching near as much.  Their coats are beautiful.  They can't wait to eat their food.  It's a supplement I will continue to use for a long time and recommend it without hesitation!
+
+product/productId: B004P8JNGA
+review/userId: A358FWFJX9BB0G
+review/profileName: S. Betts "retired educational technologist wh...
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1344470400
+review/summary: Gives dogs tummy issues
+review/text: I feed raw to my dogs, but am unable to get green tripe.  I thought this would be a good substitute, but am disappointed.  It seems to contain a lot of water and the color tells me it is extremely processed.  They both get tummy upsets after eating it, also.  Back to my other brand.
+
+product/productId: B000F3YEWM
+review/userId: A2M2R9S472I3MV
+review/profileName: DRW
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1279065600
+review/summary: Brit's do it best!
+review/text: I've tried all the USA tea brands and the Brit's have  the best "English" Breakfast tea. I was happy and surprised that Amazon had this brand available. My local grocery carried this brand for years and has now dedicated the space to major American brands. None of them compare. Taylors of Harrogate Is the best!
+
+product/productId: B000F3YEWM
+review/userId: A3JDB2GJ1DSGAO
+review/profileName: Matthew K. Schmidt "Matt Schmidt"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1279497600
+review/summary: Morning Tea
+review/text: If you are on the go and must use tea bags, these are the best; hands down.
+
+product/productId: B000F3YEWM
+review/userId: A29WGLGLP2RTGK
+review/profileName: Ingie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1271116800
+review/summary: Excellent!
+review/text: What a wonderful find!  I have been enjoying Taylors of Harrogate tea for years (orange and gold boxes), but their black label teas are even better!  The English tea is smooth and flavorable - good any time of day!!
+
+product/productId: B000F3YEWM
+review/userId: A13ZSSQFQVCC4T
+review/profileName: M. Vanderoef "&#34;Tea Lover&#34;"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1218326400
+review/summary: A Wonderful Cup of tea
+review/text: While traveling in Ireland I was served this wonderful tea..<br />ever since I got back (2yrs ago) I have enjoyed this tea<br />daily..Very smooth and bite...so when you want to relax with<br />a good cup of tea, this is the one I would suggest.
+
+product/productId: B000F3YEWM
+review/userId: A1FXQ7QQF7PMZS
+review/profileName: J. Sianez
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1179792000
+review/summary: Very enjoyable experience
+review/text: Very seldom you find an excellent product for an exceptional price and then receive fast shipping.
+
+product/productId: B000F3YEWM
+review/userId: A13STKDYQO5DQ8
+review/profileName: S. Hebbron "S B H."
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1154304000
+review/summary: Yum yum and double yum.
+review/text: A good solid taste of strong British Tea, the secret is to warm the teapot first with a sluicing through of boiled water.<br /><br />When you make the tea, one bag for every two people is required and stir the brew and let it stand or "mash" for 2-3mins before pouring. NEVER, NEVER, EVER make it directly in a cup or mug. If you are not following these simple guidelines then you really are wasting your time and money.
+
+product/productId: B000F3YEWM
+review/userId: A3LPC3J8SF4KG3
+review/profileName: Carmen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: My favorite black tea
+review/text: I have a family member currently living in Herrogate, England. He sent me some of this tea and I was immediately in love! I have been drinking tea my entire life and consider myself fairly schooled on teas. This is simply the best English Breakfast tea I have ever tasted! There is no bitter aftertaste and it is in no way a weak tea. My mother in law is currently in England and is bringing me back more of this lovely tea. It is great to know that when I run out again I can order it straight from my favorite online store, Amazon!
+
+product/productId: B000F3YEWM
+review/userId: A2B8FXMQGOYG21
+review/profileName: bk0033
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298246400
+review/summary: Converted!
+review/text: I never really understood the obsession with english breakfast tea, but it seems that was because I hadn't tried Taylors of Harrogate EB.  Oh my wow, I am a converted EB tea drinker now.  A couple of cups every evening, it just makes you feel like everything is gonna be okay.
+
+product/productId: B000F3YEWM
+review/userId: AJ7CJ7A8REGYU
+review/profileName: H. Dupre
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1290211200
+review/summary: Good But Prefer Scottish
+review/text: I'm going through a tea comparison phase.<br />I drink both hot and cold tea, and I add lemon to the cold tea.<br />All the Taylor bagged teas I've tried have been top quality; the English Breakfast is a very good tasting tea, but I prefer the Scottish Breakfast tea, which has a more distinct flavor. This is a matter of taste more than a matter of quality.
+
+product/productId: B000F3YEWM
+review/userId: ASPAPV5DW1YSV
+review/profileName: G. Taylor "dr. detail"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1168387200
+review/summary: First thing in the morning, every day
+review/text: Call it either being in a rut or being smart enough to stay with something good, I have some form of Taylor's of Harrogate "... Breakfast" tea first thing every morning. I've mostly stuck with the British Isles with the English, Irish and Scottish Breakfast teas. Can't say I hugely prefer one over the other; they all give just the right taste and kick for the morning. I like the big 2-cup bags too. I just make an oversize cup of tea for myself and it lasts a bit longer.
+
+product/productId: B000F3YEWM
+review/userId: A20FK68BUB1IVA
+review/profileName: Happy Reader
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1246147200
+review/summary: Rich tea for someone who loves tea
+review/text: I love Taylors of Harrogate teas.  There was only one local store which carried it, and as they stopped, I'm going to have to break down and buy it on-line with shipping.  This tea is so rich.  I know it is sacrilege to say this, but in the interest of cost savings, I sometimes reuse teabags.  Taylors of Harrogate is the only brand where you can get two good cups of tea from one teabag.  It is simply lovely.
+
+product/productId: B000F3YEWM
+review/userId: AXO4PQU0XG3TG
+review/profileName: Dwight
+review/helpfulness: 1/5
+review/score: 4.0
+review/time: 1153267200
+review/summary: $24.47, lasted six months but lacks the fragrance and depth of St. James
+review/text: This is a tolerable tea similar to Twinings.<br /><br />I regret this purchase.
+
+product/productId: B000F3YEWM
+review/userId: ADGJVYC0G7CE2
+review/profileName: Gilbert Ikezaki
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1305936000
+review/summary: Worst Purchase Ever Made on Amazon
+review/text: This English Breakfast tea is terrible and to think that I bought 300 tea bags. It has no flavor even with  major steeping time, it's simply dull! I have purchased Taylors of Harrogate English Breakfast tea in the past but this one is a dud. If you want a cup of bracing English Breakfast tea, this is not the product - from a 30 years tea drinker.
+
+product/productId: B004N5FAB2
+review/userId: A1QJ4T55GDXE9Z
+review/profileName: peter1007
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1335139200
+review/summary: Tart tea
+review/text: It's tea and its tart. I guess you can add suger but the flavor just does't quite work hot or cold. Not my favorite.
+
+product/productId: B0009YJ47W
+review/userId: A33U3EQ0MCI2OB
+review/profileName: Hymachri
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1331769600
+review/summary: Natural yes
+review/text: Yes I believe these were natural from the smell and small bite I took, but I dont think that Pigs are supposed to eat them. After many attempts I ended up grinding them into tiny bits and soaking them in warm water for 3 hours then poured some grain and oats on the mixture the pigs ate it all up. The pack I ordered did not come with any dog treats which is fine because I dont have any dogs.
+
+product/productId: B0009YJ47W
+review/userId: A2EW7EI993AFDJ
+review/profileName: Sammy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343952000
+review/summary: Pug who loves to chew---loves em!
+review/text: My sweet pug puppy who can't get enough chewing loves these. They are recommended over rawhide, and seem to last pretty well. They are supposedly easily digested...so better than rawhide. It took him hours to really get a dent in them too. It comes with quite a few decent sized ears. They are also made in the USA so I heard that is safer for pet products.
+
+product/productId: B004LS1LBE
+review/userId: A1RXMO6S7PTQC7
+review/profileName: Momhar
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1346889600
+review/summary: Not a Bargain
+review/text: These pods do not fit easily into my Seneo coffee maker. I had to use the double pod holder which was a bit too much room.  As a result the coffee was not as rich or frothy as I had hoped.  Also, at least 3 pods were not properly sealed in each box and had to be tossed out.
+
+product/productId: B004LS1LBE
+review/userId: A8P8KPVXCWV9R
+review/profileName: Bryan J. Kautzman "BK"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334707200
+review/summary: This tastes....familiar
+review/text: I got a couple of these jelly-filled pods in a variety pack from a third party vendor.  My first impression was, quite simply, how could this possibly be good?  Boy was I in for a shock.<br /><br />The fact that I'm giving a five-star review on a coffee pod should speak volumes.  I like my coffee freshly roasted and ground, but when some flavors are added to coffee, the experience takes on an entirely different level.  I had no idea that the flavor of jelly could be infused with the flavor of coffee to create such a blissful experience.  Let's just say that it's a good thing that my variety pack only came with two pods of this flavor.  Otherwise, I might have drunk the whole package in a single day.<br /><br />The flavor and the aroma are somehow familiar, but I can't quite place them.  What I do know is that they both just simply put a smile on my face.  I would gladly go the rest of my life drinking no other coffee but this.  That's how much I like it.<br /><br />And the other thing I think needs to be pointed out is the fact that when I use Senseo pods, I have to use two pods on the single cup setting to get a decently strong result.  With the Donut Shop coffees, I can use a single pod on the single cup setting to get a decently strong result.
+
+product/productId: B004LS1LBE
+review/userId: A2BIK96E2BL6TB
+review/profileName: DeeDee
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1347580800
+review/summary: ordering the wrong coffee - no image available
+review/text: I went into K-cups to order K-cups.  This product didn't have an image and I didn't read the product carefully - after all I went into K-cups - why would there be another product in K-cups or why wasn't there an image.  Also didn't read that this item is nonreturnable.  Now I have coffee that I can't use.  Lesson learned - don't order when there is no image available and read the fine print!
+
+product/productId: B000FLRN68
+review/userId: A1Y7WR9JDP8R1G
+review/profileName: myfrench
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: best popcorn and customer service I have ever had
+review/text: This company not only has the best tasting popcorn, but also the best customer service I have ever experienced in any business.<br /><br />My order was small but the customer service dept treated my order as if it was a million dollar order. I needed it fast and they made every effort to get it to me faster than I requested. After receiving it early they followed up with a phone call to make sure I received it and was happy with my order as well.<br /><br />I will purchase my popcorn for work events and gifts from this company many more times......!<br /><br />thanks
+
+product/productId: B001EQ4KGY
+review/userId: AW0TR1G5Z6QWB
+review/profileName: M. E. Oppenhuis "Liz Oppenhuis"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1218758400
+review/summary: Hhmmmmm...delicious
+review/text: I'll admit it, I have something of a blue raspberry fetish going on.  It probably goes back to the blue raspberry snow cones I had as a child, but at 50 it doesn't seem to have diminished.<br /><br />These gummy bears are fresh, soft, taste delicious, and ten pounds of them seem truly decadent.  The guilt only lasts for a second, though.  :)
+
+product/productId: B001EQ4KGY
+review/userId: A9YB9FSLZJ8IX
+review/profileName: M. Haynes "Mrs. Mocha Divine"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1248566400
+review/summary: Yummy!
+review/text: I used this candy for the candy bar at my wedding. Everyone loved them. They were far better than the average gummy bears. The day after the wedding I had three people leave messages on my Facebook account to ask me to ask where I had gotten them. I got jelly beans from this company as well and they were awesome too.
+
+product/productId: B001EQ4KGY
+review/userId: A2Y8IDC1FKGNJC
+review/profileName: L. A.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1235865600
+review/summary: soft and tasty
+review/text: I was afraid these would arrive hard and too chewy. I opened the bag and they smelled and felt fresh. they taste delicious too. Highly recommend these when they come back in stock. I ordered the last four bags this morning.
+
+product/productId: B001EQ4KGY
+review/userId: A29WEWZSLLG1TF
+review/profileName: AJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Hard to find!
+review/text: This was the exact right color I needed for a birthday party and you get 2 huge bags for a pretty good price. I couldn't find this color in stores and even if I had, I would have spent a fortune. These bags are a good size!
+
+product/productId: B001EQ4KGY
+review/userId: A2P0OP39K6U9EK
+review/profileName: Foxy Roxy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339459200
+review/summary: Great value and product
+review/text: We are VERY please with this product. My daughter is getting married and having a candy bar at the wedding. These blue gummy bears are perfect. Thanks!
+
+product/productId: B001EQ4KGY
+review/userId: AWIQ3WE92Z1HH
+review/profileName: Courtney S. Ransonet
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337212800
+review/summary: Favorite on candy buffet
+review/text: I was searching for affordable blue candy for a candy buffet at a wedding.  These were gone before any of the other candy and my children want more! They taste very good and arrived in perfect condition!
+
+product/productId: B001EQ4KGY
+review/userId: A1RO8OZS1W7XEB
+review/profileName: Meredith Warren
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336694400
+review/summary: yum
+review/text: Very delicious gummy bears.  They are sweet but have a tart taste to them.  That was a pleasant surprise.  Yummy!!
+
+product/productId: B001EQ4KGY
+review/userId: A22UDUADKZDOFZ
+review/profileName: montyjasper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331424000
+review/summary: Great Gummi
+review/text: I ordered these in red and blue to use as party favors for my son's birthday.  They arrived a day before they were promised to my surprise and they were very soft and fresh (I figured they would be hard especially since it's about 20degrees here) For the price you can't go wrong with these and the kids are going to love them!
+
+product/productId: B001EQ4KGY
+review/userId: A3N5KI8UTFHNW7
+review/profileName: D. MILLER "Online Shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329782400
+review/summary: Very good and the price is incredible
+review/text: I love raspberry. Very nice flavor. Not too sweet and not too sour. Can't beat the price less than 1.50 a pound for bulk and free shipping!
+
+product/productId: B001EQ4KGY
+review/userId: A2XJN58PA73Y7Z
+review/profileName: Tonk Mom "Tonk Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326758400
+review/summary: Full of Flavor, Perfect Texture, Nice and Juicy!
+review/text: I am so in love with Albanese Gummi Candy.  The consistency is not too soft and not too hard.  It is definitely a little softer than Haribo, but is much, much juicier and has more flavor.  It is not as soft as a Fruit Slice by any means.  There is a good chew to this gummi and the flavor releases as you chew.  I do like Haribo, but, sometimes it feels like chewing and sweet rubber; you will not have that feeling with the Albanese brand.  The Blue Raspberry flavor is very strong and just sweet enough.  I've always loved Blue candy and especially the Blue Raspberry flavor, maybe because it turns your tongue blue.  These gummies will turn your tongue blue, but it won't turn your lips blue, like blue gum that you get out of the vending machine, darn it!  Hehehehe.  Ah, the things we carry over from our childhood.<br /><br />So, if you are a gummi bear lover and a blue raspberry lover, get this candy.  The price is phenomenal.  You get two bags of five pounds each for a total of ten pounds!  That's a lot of candy.  I always have candy out in pretty clear containers at my home so that my friends will feel comfortable taking what they want.  They all seem to gravitate to the Albanese Gummi Bears.  I seem to love most of the flavors.<br /><br />The gummi bears are really cute too!  They were shipped in perfect condition and there was no melting and I am in Florida.  They were a bit warm, but they quickly come to room temperature and are perfect.<br /><br />These would be cute for a blue themed party, wedding treats and a candy bar too. This is a candy everyone can enjoy, young and old!
+
+product/productId: B001EQ4KGY
+review/userId: A1PSOWG6Y0JGJI
+review/profileName: Ind listener
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1320019200
+review/summary: Tasteless oily and not fresh
+review/text: Think twice before ordering, a great dissappointment for candy lovers.<br />This candy was not fresh, could hardly taste blue raspberry, and very rubbery.
+
+product/productId: B001EQ4KGY
+review/userId: ACW1IFFFGLT8T
+review/profileName: allwaysanangel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300147200
+review/summary: Taste GREAT~!
+review/text: Ordered for candy buffet...<br /><br />These arrived quickly and taste amazing. Perfectly soft! Would order again! 100% Quality! :)
+
+product/productId: B001EQ4KGY
+review/userId: A1LZ3TV96VMVLF
+review/profileName: vance
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295913600
+review/summary: GUMMI BEARS!!!
+review/text: Well I didn't understand if there was going to be 1 or 2 bags but to my delight, there were 2 (5 lbs) bags of this delicious Blue Rasberry Gummis. These were actually fresh and not melted, hazed or funny looking. We will be using this for a baby shower in a favor bag but I can see how you could mix this with other color gummis to make other treat bags. I'm not sure if all of the gummis will last but I know where to get more!
+
+product/productId: B001EQ4KGY
+review/userId: A257LPNFPG7RD3
+review/profileName: Anita Knox "Thrift Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231718400
+review/summary: Perfect combination of sweet & tangy
+review/text: These are excellent gummies, just chewy enough and the perfect amount of tartness.  It's difficult to find the blue gummies, and these are really delicious.  Great product for the price!
+
+product/productId: B001EQ4KGY
+review/userId: A2LASORRVJQI66
+review/profileName: C. Peters "Working 12-5"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1346716800
+review/summary: FLAVOR LEFT AFTERTASTE I DON'T LIKE THE BLUE COLORING
+review/text: The flavor of the Raspberry Gummi left a lingering awful aftertaste in my mouth (for hours).  The most awful aspect of these Blue Raspberry Gummi Bears is that of the blue food coloring ..... way too much for my digestive system. I have an ostomy and  I don't like the way it looks when processed by my body.  Awful to see the blue!  Even if they removed the color and made them clear.... the taste is still there.  I threw away 10 lbs. I purchased.... wouldn't give it anyone else.
+
+product/productId: B000I6PXYE
+review/userId: A3BRZXMPPRCDOL
+review/profileName: Diane K. "Twins Mom"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1282521600
+review/summary: Not what I was hoping for
+review/text: I've had German Chocolate Cake coffee from a company no longer availabe in my area.  This one did not match up for me. I think the packaging was mislabled??? While perhaps mildly chocolate in flavor, not a hint of coconut. But the price was good for the coffee (as a regular coffee).  I'm just disappointed that I cannot get my hands on a good "German Chocolate Cake" flavor.
+
+product/productId: B000I6PXYE
+review/userId: A1GDEQIGFPRBNO
+review/profileName: Barbara Edwards
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281398400
+review/summary: German Chocolate Cake in a cup
+review/text: This coffee tastes just like German chocolate cake but not too sweet.  The rich blend of milk chocolate and vanilla with a little bit of coconut tastes great!  I would definitely buy this product again.  It is one of the best I've tasted from Coffee Masters.
+
+product/productId: B000I6PXYE
+review/userId: A2UT1U59NK2L0R
+review/profileName: R. Bond
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1202688000
+review/summary: Not quite, but close
+review/text: I expected a little more coconut flavor and a little less dark chocolate....but overall a nice flavored coffee.
+
+product/productId: B001D4XR6G
+review/userId: A2TB6P1LRE9YPN
+review/profileName: L. Matthews
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1251936000
+review/summary: Great crackers but the quality date is an issue
+review/text: I love these crackers and felt the price was good.  Still, I was HIGHLY disappointed when I received them to see I only had 4 1/2 months to consume six boxes of these (best if used by date was 12/30 of the current year) & we got another flavor pak of 6.  Eight months to a year should be anticipated or it should be clearly specified.
+
+product/productId: B007FRA600
+review/userId: A22MNNKOD2XHCS
+review/profileName: Roger
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347148800
+review/summary: Just sip and relax
+review/text: I can not imagine not having this most delicious and relaxing beverage. I take mine in the evening and always become relaxed and then spend beautiful time with my family and friends. Simply the best for a calm close of the day.
+
+product/productId: B004AY1H2M
+review/userId: A3RNIEPJYT5CJS
+review/profileName: Valerie Mcclure
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331424000
+review/summary: Expensive but good!
+review/text: As with most products directly from England this Kit Kat was superior to the American counter part. A pity that they alter the taste when we get it here.
+
+product/productId: B0093NJVAK
+review/userId: AYJFP2AJ5Y64L
+review/profileName: Sal G.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: Jelly Belly's are the Best
+review/text: Needed some bulk quantity jelly beans to fill small jars for baby shower favors.  Buying them this way saved a lot of money over buying them by the pound at the local candy store.  As stated in another review, the jelly beans just come in an unlined cardboard box.  This seemed a bit odd, but there were 2 sheets of wax paper, I guess to prevent dust, etc from getting into the box through the top and bottom.  Not much else to say, they're Jelly Belly's at about half the cost of the local guy!
+
+product/productId: B0093NJVAK
+review/userId: A3TRQU8YII5TO6
+review/profileName: Golddust "jungle dweller"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1244851200
+review/summary: a little surprised
+review/text: I was shocked to see that the bulk version of these Jelly Belly's are just in a cardboard box, no plastic, no nothing. Doesn't seem overly hygienic. Since I didn't open the box for a few months the Jelly Belly's were getting softer and crystallizing [unbeknownst to me] because we live in a wet climate. Hmmm...just be aware that the packaging should be upgraded
+
+product/productId: B000200E18
+review/userId: A31CEWKUNKCOR9
+review/profileName: Linda
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1211068800
+review/summary: Salmon Stuffed with Spinach and Cheese
+review/text: I was at first skeptical about how this would taste.  I took it out of the box and it was so small.  I said to myself, I am going to need 2 of these to fill me up...was I wrong.<br /><br />I popped it in the microwave and found, not only was it delicious but very filling also.  Would highly recommend especially if you are dieting and doing portion control.<br /><br />Can't wait to try out their other selections.
+
+product/productId: B000200E18
+review/userId: A1I9TZZ5UZOTPE
+review/profileName: Skipperoo
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1272412800
+review/summary: Tasty but don't cook in micro
+review/text: I really enjoyed my first dish of the salmon. I baked it slowly in the oven and it was quite good. Tonight I cooked it in the microwave, for the least amount of time recommended and it tasted like a leather boot. So, for me, I'm sticking with the regular oven. I'm going to try some of Oven Poppers' other items, too.
+
+product/productId: B000200E18
+review/userId: A1ITM2IQE2UGSC
+review/profileName: SEASIDE "DEE"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1232928000
+review/summary: OVEN POPPERS SALMON
+review/text: These are really tasty stuffed salmon.  There are 2 in a box, which costs a little under $7.00. Takes about 5 minutes to heat in the micro. The cheese and spinach filling is very flavorful. I eat 2 a week for the Omega-3 benefits, but they are delicious as well. The one problem I have is when cooking in the microwave I've tried different timing but the bottom is crusty.  Even so I love 'em!
+
+product/productId: B000200E18
+review/userId: A16PE2Z6XE3P87
+review/profileName: B. Cousins-coleman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295654400
+review/summary: great but oil bottom of fish
+review/text: I love these. I used to get them at BJ's in a four pack but they stopped carrying them. They used to be $14/box. I couldn't find them anywhere so I got them here, misunderstanding just how few I was getting. While I love the product (be sure to really oil the bottom of the fish before cooking in micro for 5 mins.), they're too expensive on Amazon. I found them here in NJ in Stop 'N Shop for between $6 and $7 for a two-pack. So now I can eat them without going broke. By the way, these are great for diabetics or anyone looking to watch their carb intake.
+
+product/productId: B000200E18
+review/userId: ACOM8V3XGDQW
+review/profileName: Peggy L. Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331078400
+review/summary: Absolutely incredibly delicious!!!
+review/text: I can't live without knowing these are in my freezer and ready for consumption!!!!!!!  All ingredients are good for your health!
+
+product/productId: B000H44STI
+review/userId: A19PHPQC8JQBG3
+review/profileName: Peter J. Venturelli "Peter V"
+review/helpfulness: 10/11
+review/score: 1.0
+review/time: 1277078400
+review/summary: I was fooled by this Company's Omission
+review/text: <a href="http://www.amazon.com/gp/product/B000H44STI">S-Adenosyl-100 (SAMe) for Small Dogs and Cats by Vitality Systems</a>I order this product for my dog.  My vet wants me to give one pill per day for his aging liver.  When I ordered this product, I assumed it would be 60 pills for the price since I paid approximately the same amount for 60 pills eight times before.  My big mistake was ordering the Vitality Systems company selling the product on Amazon.  I guess I inadvertently switched vendors on this order without realizing this.<br /><br />When I received the order it was 30 pills for over $22.00.  I ordered from the wrong company who cleverly omitted the total number of pills in their description.  (I would also hide this vital info. if my intention was to fool (really cheat) customers!)<br /><br />I know that often Amazon is not very good with providing vital information on products and I often have to go to other websites to find out more about the products I am shopping for. (A good number of times they  lost my business when other websites selling the same product had a similar price with less postage costs.)<br /><br />There should not be certain companies who omit things that other companies selling the same product state up front.  Amazon needs to have more uniformity in displaying the products they handle and/or sell.
+
+product/productId: B000N351WQ
+review/userId: A3LKA3JS1LNKB7
+review/profileName: Tricia
+review/helpfulness: 26/26
+review/score: 5.0
+review/time: 1259280000
+review/summary: So handy!
+review/text: After diapers & wipes, these are the most important thing in my diaper bag! I'm breastfeeding my son, but we supplement with this formula so my husband can feed the baby (I don't always have enough pumped for a bottle) and for convenience. It is very helpful to have a bottle handy when I'm waiting at the register at the supermarket and the baby is crying to be fed. I love these little, ready-made bottles because they are the perfect size and there is no mixing needed - just shake, open, screw on a nipple, and feed the baby.<br /><br />These don't come with nipples, but you can use regular bottle nipples or get disposable nipples separately. You can buy about 50 disposable Similac nipples from the Abbott store online or use Enfamil disposable nipples (I've used these - they fit fine), which they sell on Amazon.com in packs of 10 or 25.<br /><br />I have two nipples in a ziplock bag and 4 bottles in my diaper bag at all times. There are cheaper feeding options, but for convenience I can't recommend these enough!
+
+product/productId: B000N351WQ
+review/userId: AH5HFLS27EUY6
+review/profileName: Alice Roberts
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1228089600
+review/summary: Perfect for breast feeding mothers!
+review/text: These bottles helped tremendously in adjusting to daycare for a pumping mother.  My daycare used these bottles at the end of the day when baby was hungry and there was no breast milk left.  I call them a jumper bottle--they satisfied her hunger until I could pick her up and nurse her and 2ozs wouldn't significantly reduce my production. They are ready to use - which allows them to be stored at daycare per state daycare guidelines--I simply provide a bag of ready to attach nipples.  Priced exactly like local but no sales tax to pay and delivered to my door!
+
+product/productId: B000N351WQ
+review/userId: A1UC3OCLUPCXSB
+review/profileName: S. Paris
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1275177600
+review/summary: A must have for the first few weeks!
+review/text: These bottles are the same product used in the hospital. I found them to be invaluable during the first few weeks when newborns are eating constantly. Its a great way to avoid constant bottle washing when you are so tired. I don't heat the formula so that saves even more time. Later, these bottles are great for the diaper bag and any use away from home. Nipples are not included but I found them to be much cheaper at my postpartum clinic than they are online.
+
+product/productId: B000N351WQ
+review/userId: A1YY8BEC5RL2AK
+review/profileName: Janelle
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1307836800
+review/summary: Great but would not ship them in the summer
+review/text: This product is awesome. The only problem is that I would not have them shipped in the summer!  They can only take temperatures of 100 degrees or more for 24 hours. If it is 85 or 90 degrees the formula could be exposed to 100 degree temperatures which would spoil the formula.  Just be careful
+
+product/productId: B000N351WQ
+review/userId: A1WICS4ED1MCRV
+review/profileName: Simbolina
+review/helpfulness: 6/8
+review/score: 4.0
+review/time: 1219968000
+review/summary: Very convenient; great supplemental feeding
+review/text: The summary: my daughter likes the taste, the small size minimizes waste and makes it easy to travel with, but it's relatively expensive compared with powders and larger bottles.<br />The 2oz bottles are a perfect amount for a supplement.  You can easily use more bottles, but the 2oz amount helps minimize waste.  This is an expensive way to buy formula if you are feeding formula exclusively, but it's great if you just need it for traveling or to 'top up' your baby when he/she doesn't get enough from breastfeeding.  In theory, you can add a nipple and ring and feed your baby directly from the bottle, but I tend to use baby bottles that help reduce the amount your baby swallows (I use Born Free, because it is also BPA-free).<br />Also, the small bottles fit easily in the side of a diaper bag (most bags will hold 2 in a side pocket). My daughter seems to like the taste.  She is primarily breastfed and has no problem getting breastmilk sometimes and this formula sometimes.<br />I do notice that it tends to stain my daughters clothing, but I don't know if that's unique to this brand or common to all formulas.
+
+product/productId: B000N351WQ
+review/userId: A1N92PEIHBSCTM
+review/profileName: PoisonousMonkey
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347494400
+review/summary: Lifesavers for the first months.
+review/text: We used these for supplemental feeding in the first months and as a ready to go bottle. They were extremely convenient until the baby was ready for a consistent 4oz feeding.
+
+product/productId: B000N351WQ
+review/userId: A1OEYK6DAL9JHC
+review/profileName: A. Hale
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340496000
+review/summary: Awesome and convenient product
+review/text: Similac is a well known product and I was given this to feed my baby in the the hospital. This particular size and amount is great. These boxes come with eight 2 oz bottles and one re-useable nipple and ring. It is the perfect amount to start a newborn off with when supplementing. I have had a breast reduction and I am supplementing with some formula as my milk amount fluctuates. Although I agree with others reviewers that it is a huge amount of plastic bottles to throw away, it is very convenient for on the go and supplementing in general. eventually will also move up to the 8 oz bottles and larger as my baby grows. shipped on time and well packaged.
+
+product/productId: B000N351WQ
+review/userId: A2WOZPIFGD3RDK
+review/profileName: Kerri V
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335830400
+review/summary: Exactly what we ordered and needed
+review/text: We used these in the hospital and several staff members "hooked us up" before we came home so we had some for a little while. They were perfect for feeding our son when we first brought him home because he was taking less than 2 ounces at first. They're great for the middle of the night feedings as well b/c they don't need to be heated up. You just pop the nipple on and it's ready. The box only comes with one nipple...that's the only drawback. However, we bought the Enfamil nipples to go with them on the recommendation of some other reviewers and they worked perfectly.
+
+product/productId: B000N351WQ
+review/userId: A3NITENHBM5G5J
+review/profileName: Mstew1998
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332979200
+review/summary: Perfect for supplementing
+review/text: I love these little bottles. My baby would not take formula AT ALL and upon suggestion bought these and she loved them. I use the $5 off coupons that similac mails me and buy a<br />pack for only $1.67. She's about 80% breastfed but these are a great option.
+
+product/productId: B000N351WQ
+review/userId: A2PEIERQZR3COP
+review/profileName: Rayynn "I'm trying to help you."
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327017600
+review/summary: Life Saver
+review/text: My baby is 2 weeks old. I'm breastfeeding, but he gets fussy waiting for the milk to "let down". My doctor recommended I try a ready-to-go formula like this one that required no additional effort on my end. When he's fussy but needs to eat, this is quick. It also smells more like breastmilk than other formulas. I packed a few in my diaper bag. We go through 1-2 of these a day. (He's drinking breast milk otherwise).
+
+product/productId: B000N351WQ
+review/userId: A2PH8UI4SZ3TUG
+review/profileName: betta g
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308441600
+review/summary: difficult baby feeding made easy
+review/text: I love the little Similac bottles for many reasons. The first one is because even when I was breastfeeding I still used them, especially in the middle of the night. This way my husband could have his turn feeding the baby too and I had my turn for sleep. But the less work in the middle of the night the better. All you have to do is open it and put a nipple on it. We are all for the least amount of work between 12 and 6 am. Secondly when we are out somewhere and need to give the baby a bottle its is ready and handy. I don't have to worry about finding water measuring formula ect. And lastly because when you have a baby sitter (even baby sitters like grandma's ) you don't have to worry about them remembering how many scoops of formula with how many ounces of water. Even though my baby drinks 4 oz I just give her 2 bottles. They are handy to carry around and it is just one less thing to worry about when you are out and about. They are kind of expensive but if you break it down and join the amazon mom club it is less than $1 a bottle and piece of mind and convenience are totally worth it.
+
+product/productId: B000N351WQ
+review/userId: A3O1O9L6LQMRCE
+review/profileName: neely o'hara
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1252281600
+review/summary: Fantastic for when you bring home newborn baby
+review/text: I ordered 2 cases in a few weeks before baby was born (also I did it early for free shipping since the case is heavy) I LOVE having these around for the late night/3am feedings for baby.  Also, a hint for the nipples on these bottles-They do not sell the similiac nipples BUT the enfamil disposable nipples fit PERFECT, and they sell those on amazon as well.  Along with these small bottles being awesome for the night feedings, they are great to throw in your diaper bag to take anywhere.  Another hint, I asked the hospital nurse for extras to take home and then I had 2 cases of the 2 oz at home and I will tell you, the first 2 weeks home has been a breeze with feeding!  Good luck and I hope this helps
+
+product/productId: B000N351WQ
+review/userId: A2FNWFVJOZ07VD
+review/profileName: Cathryn J. Adams
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1239667200
+review/summary: AWESOME!
+review/text: Tiny bottles perfect for night feeding! A little pricey but well worth it... just shake and ready... bottle fits all nipples so you can just use a reusable standard one! Be sure to ask the hospital for extra when you're headed home... they get them for free for promotion :)
+
+product/productId: B000N351WQ
+review/userId: A240B3WXF2JP8B
+review/profileName: SM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Best Choice for Infants
+review/text: We've been feeding our infants this formula since they were born and these compact bottles are very useful, especially, when traveling with the babies.  A must-have for any new parents!
+
+product/productId: B000N351WQ
+review/userId: A36UAZYIJDJVC2
+review/profileName: JAB
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340064000
+review/summary: Great for the diaper bag
+review/text: These little guys are, of course, a little pricey, but well worth it when out and about with an infant.  I wish they had a 4oz size instead of having to jump to the 8oz.
+
+product/productId: B000N351WQ
+review/userId: A32B1BBPY4WTFQ
+review/profileName: hxz
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339977600
+review/summary: Good product. Some problem with packaging
+review/text: My LO and I like Similac. It's a good product and very convenient. The only problem I have with it is that some of packaging I ordered recently came with 7 bottles per box. Not sure why this could happen.
+
+product/productId: B000N351WQ
+review/userId: AII1TEYGD3HI7
+review/profileName: SueKor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Great product
+review/text: Awesome product for newborns - great for on the go or when you don't have time to make bottles from powdered formula. The shape of the pre-mix bottle is also good - fits nicely in your hand. My 6-week old baby boy will only feed nicely on Similac nipples that come with the pre-made bottles - so much so that I have bought larger bottles for powdered formula that fit those nipples!
+
+product/productId: B000N351WQ
+review/userId: A2F2507ZOZ0AGX
+review/profileName: D. PADILLA
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336521600
+review/summary: A must have for newborns
+review/text: This is the same formula that the hospital provided after our daughter was born. We did not nurse so we continued to use these for two weeks until they became too small for our daughter as she is up to 3 + ounces per feeding after two weeks. The only negative is that each box of 8 only comes with one nipple. She does have some re flux and gas however I can not say it is because of the formula make up.
+
+product/productId: B000N351WQ
+review/userId: A3HHKBIK1HZTUA
+review/profileName: Kiwi
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334361600
+review/summary: Perfect for travel
+review/text: We received a few of these at the hospital when our son was born. They were great to just throw in the diaper bag to have on hand when out and about. I had to take a last minute trip by airplane and decided that these would be easier than powered formula during travel. Purchased these on Amazon with Prime delivery for a decent price. They worked great for the airplane as I didn't have to mess with making bottles when my little guy decided he was hungry NOW. I just wish they would make a 4 oz size as the 2 oz is now too small, but the 8 oz is too big. I'd rather use a few of the smaller size right now than risk wasting part of the 8 oz bottle.
+
+product/productId: B000N351WQ
+review/userId: A2T5EZ5ZDAO96Z
+review/profileName: Stephanie Frederic
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329523200
+review/summary: Great for newborns and diaper bags.
+review/text: These are wonderful for newborns, who don't drink large amounts.  Small nipples, so they fit the newborn mouths well, and no mixing during that overwhelming time when they are first born.  Save the nipples and rings so you can use them on new bottles, and recycle the empty bottles.  Also good for diaper bags for when the babies are small (and don't need large amounts yet).
+
+product/productId: B000N351WQ
+review/userId: A2031A3I2VT67W
+review/profileName: amazon_ fanatic_ny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Very convenient and best price
+review/text: Very convenient to use and to have these delivered in 2 days or less with Amazon Prime is great.  Who has time to go out and get formula?  Found the best price for the formula @ amazon.
+
+product/productId: B000N351WQ
+review/userId: A1A0VFN6XS06SH
+review/profileName: Carlo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323388800
+review/summary: Life savers!
+review/text: Great for traveling! Very nice Idea!!! My baby love them... if you want to have time for your self, go and get them... My only complain is that in the box they shoul give you at least 6 nipples, it only comes with one, I bought a box with another 50.
+
+product/productId: B000N351WQ
+review/userId: AF9OYN557Z77I
+review/profileName: alexis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319241600
+review/summary: LOVE THESE!!!!
+review/text: These nursette bottles are such a lifesaver for nighttime feedings!!!! Just shake it, open it and screw on a collar ring with nipple.  These packages only come with one nipple.  I found that the Gerber essentials bottles nipples and rings will fit these nursette bottles wonderfully!!!  A 3 pack of those bottles only costs a little over 3 bucks at the big box store.  I purchased 9 of them to make sure I had nipples on hand to use just for these nursette bottles.  The formula works fine for my baby and these bottles are just so handy. No mixing, or cleaning bottles.  I'd highly recommend them.  Another point is that these come in an 8 pack and Enfamil's version only has 6 in a box and are a buck or 2 more expensive.
+
+product/productId: B000N351WQ
+review/userId: A1GITH4MM7UGNS
+review/profileName: MommaTree
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318118400
+review/summary: Convenient, but pricey
+review/text: CONVENIENT! Great for on-the-go. My newborn love this and so do I. However, these are pricey compared to the powdered formula. At $40, you get 96oz worth. With the powder formula (from Sams Club), at $27, you get 244oz. We're currently using both types for our newborn. She seems to favor the Ready-to-Go better than the powder.
+
+product/productId: B000N351WQ
+review/userId: A26SKWJP6JSJDJ
+review/profileName: Amy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317513600
+review/summary: Great for Travel
+review/text: These are great for travel.  I am breastfeeding my 6 mo old baby but starting to wind down a little.  With just 2 ounces, they are great for supplementing without filling him up too much.  They are pricy but work good for travel when you don't have time or water to mix formula.  My baby actually eats this "ready to feed" product better than any other formula that we mix up.
+
+product/productId: B000N351WQ
+review/userId: A2ADF3PBL46KW3
+review/profileName: NINASMOMMY
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: LIFE SAVERS A+++
+review/text: I WISH I WOULD HAVE START COLLECTING THESE BEFORE I HAD MY 1ST BABT 100% LIFE SAVERS FOR ANY TIME OF DAY ON THE GO AND 1AM FEEDINGS A MUST HAVE!!! THE ENFAMIL ARE GREAT TOO! AND THIS IS A GREAT VALUE IF YOU CAN FIND A COUPON. WOULD AND DOES RECOMMEND...
+
+product/productId: B000N351WQ
+review/userId: AF5VOH79BVTBY
+review/profileName: Esra Tasdelen "etasdelen"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312329600
+review/summary: Perfect for the diaper bag
+review/text: These 2 oz bottles are perfect for on-the-go. No preparation needed, no mess. Put some in your diaper bag and you're ready for baby's emergency hunger pangs.
+
+product/productId: B000N351WQ
+review/userId: A26PY2RWUJXY18
+review/profileName: Flower Chica "Just a new mommy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311897600
+review/summary: Seriously convenient
+review/text: If you are formula feeding - this is a must-have. My lactation consultant gave us trial versions of this formula. I'm using it to supplement my breastfeeding and for the times when I'm either too sore to feed or just too tired at night. These 2 ounce bottles are perfect for quick painless feeding in the wee hours of the night. It comes with a single reusable nipple per box.  This is a staple in our nursery for rush feedings.<br /><br />I should point out that this has milk + soy as well as iron supplements. My baby seems to have done fine and hasn't had any negative reactions to this formula. It doesn't even make her poos smell like some of the other formulas we've tried.
+
+product/productId: B000N351WQ
+review/userId: A2XG4XBSHGFJE6
+review/profileName: Eve
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1311638400
+review/summary: Great for traveling
+review/text: Great set to have during travel or outdoor. No need to worry about freezing or heating up the milk. Wish the nipple comes with fast or standard flow for older baby.
+
+product/productId: B000N351WQ
+review/userId: A1ZMRVKOQW99DU
+review/profileName: GT
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310601600
+review/summary: my baby loves it !
+review/text: We started supplementing her with Enfamil when she was 2 months, but she started spitting up. We changed to Similac and no more spit ups. She loves it. The new born ready-to-be-feed 2 ounce bottle is very handy , just put on the nipple and is all ready to feed. Medella nipples also fit on these bottles.
+

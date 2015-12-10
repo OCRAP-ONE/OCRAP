@@ -1,0 +1,1143 @@
+product/productId: B0000AH3UK
+review/userId: AILAHGJ0LY6RO
+review/profileName: Papillon Mama
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1297900800
+review/summary: Last longer than expected!
+review/text: These are expensive but they lasted longer than I thought. My dog loves them too...still think bully sticks are better, last longer and are a little cheaper!
+
+product/productId: B004HS9N04
+review/userId: A1Z94ZAPBJH3O3
+review/profileName: K. Burgess
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338595200
+review/summary: Yum!
+review/text: This is so easy to make, and it tastes awesome! There are real flecks of vanilla bean throughout. No artificial taste at all.
+
+product/productId: B004OT4TXM
+review/userId: A1AULJ471YG7X3
+review/profileName: HeyJude
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349222400
+review/summary: Canine Caviar
+review/text: My dogs are use to chicken jerky. They were apprehensive at 1st. I kept the buffalo put away for awhile, now they seem to love it. Go figure? Anyway it last longer than chicken jerky. I give them both alternataly. No jerky made in China, be careful of that.
+
+product/productId: B000P4ZUB0
+review/userId: A2A3WQUXLMU5P
+review/profileName: C. Judd
+review/helpfulness: 12/14
+review/score: 5.0
+review/time: 1193011200
+review/summary: great bars, but you can probably find them cheaper
+review/text: The cherry chocolate kashi bars are great, but they're a lot cheaper at my Target (2.74 a box, sometimes on sale for 2.50).
+
+product/productId: B000P4ZUB0
+review/userId: AV9R9KOV0M90B
+review/profileName: Laura Andrews "benegesserit"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1192924800
+review/summary: Favorite Breakfast Bar!
+review/text: This is by far and away my favorite breakfast bar on the planet (thus far discovered).  The dark chocolate chips are essentially unsweetened and complement the perfectly tart and sweet cherries.  The Kashi cereal mix holds the whole thing together with honey or something.  Darn good stuff.  They are sometimes hard to find at the store and 12 boxes will last a long time (6 bars per box)!
+
+product/productId: B000P4ZUB0
+review/userId: A1CK5CZ714F34T
+review/profileName: Homer J fan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1211846400
+review/summary: Yummy!
+review/text: It really is a fantastic bar.  The cherries & choc chips are abundant and unsweetened.  Very high in fiber as well.  Where I live a single box goes for around $6, so the price cannot be beat.
+
+product/productId: B000P4ZUB0
+review/userId: AUSZB353T6C3A
+review/profileName: V. RIGAUD
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1210291200
+review/summary: Delicious...and Nutritious
+review/text: Best tasting granola bar I have ever had (and I've tried many....I'm kind of a health nut). They are a little expensive and hard to find but buying by the bundle may be a good idea. What I love about Kashi products is that they are all natural, tasty, and good for you (whole grains). I eat a bar whenever I want a little snack and one about 1/2 hour before my workout. It seems to provide the perfect amount of carbs to fuel my workout, plus satifies my sweet tooth without my feeling guilty (yummy chocolate chips). I'm currently in Iraq and I have my mom and sister send me about 4-5 boxes at time. I'm obsessed!!!
+
+product/productId: B000P4ZUB0
+review/userId: A3869CQLA4D5FP
+review/profileName: J. England "jazzy9230"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1224201600
+review/summary: Really tasty but there's a problem...
+review/text: ...the chocolate chips just fall right off! Very annoying if you're eating breakfast while driving & find yourself with a lap full of chocolate chips. I'm addicted to these so I'll probably keep buying them, but they need to find a way to get the chips to stick better.
+
+product/productId: B000P4ZUB0
+review/userId: A1CJGMMGLPOZRM
+review/profileName: Green Interior Designer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1221609600
+review/summary: Really Good
+review/text: This is exactly how it is described--chewy! Plus, chocolate isn't too sweet and the cherries perfectly compliment the chocolate and other flavors. A winner!
+
+product/productId: B000P4ZUB0
+review/userId: AAROPNZIC40HE
+review/profileName: M. Riley "SwimDVM"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1207094400
+review/summary: Pleasant surprise
+review/text: When my stomach started growling in class, the girl that sits next to me handed me one of these granola bars - it was fantastic, and carried me through the rest of the afternoon! I grabbed the package to check out the nutrition info - and was pleasantly surprised - I think this might be the lowest fat of all the Kashi granola bars AND my new favorite flavor!
+
+product/productId: B000P4ZUB0
+review/userId: AZGAEGB5NRGSL
+review/profileName: CCS "Kashi fan"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1204070400
+review/summary: Deliciously tangy
+review/text: I've tried lots of Kashi TLC products and pretty much like them all. These bars are especially good. The cherry pieces are tangy and the mini chocolate chips rich. I prefer my bars less sweet and with lots of taste. This bar fits the bill.
+
+product/productId: B000P4ZUB0
+review/userId: AAEMA7JTC6TIY
+review/profileName: Khurtz
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1328659200
+review/summary: Are we eating the same thing?
+review/text: I got a box of these at my local Wegmans store and to be honest, the initial taste is the same as the smell of fresh woodchips that you would use to line a hamsters cage. The aftertaste is like burnt popcorn. I'm sure they're healthy for you but blech, they are hard to get down. I'll definitely be looking for a different granola bar next time I go to the store.
+
+product/productId: B000P4ZUB0
+review/userId: A3V3YN2D855HIA
+review/profileName: T. Kyne "Deal Watching"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322352000
+review/summary: Yummy bars
+review/text: These granola bars are good. A quick source for some fiber and protein in a yummy package.  But always check the nutritional facts for yourself.
+
+product/productId: B000P4ZUB0
+review/userId: A1WX42M589VAMQ
+review/profileName: Mir
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1271203200
+review/summary: Great texture, nice tart cherry accents, high fiber, low fat-- but chocolate taste is almost negligible
+review/text: As a chocoholic, I thought this bar would be one of those one-two punches--healthful ingredients plus the treat of dark chocolate. The combination of cherries and chocolate--be it in a cherry cordial by Godiva or a Black Forest cake is one of those perfect flavor duos. Sadly, the chocolate aspect is minimal, so I take a star away for that. I expected a burst of the dual flavor--cherry + chocolate. I didn't get that from this.<br /><br />HOWEVER, this is a very nice bar. The texture combines the chewiness and crunch aspects that make a granola bar fun to eat. It's not loaded with fat or calories like some other breakfast/snack granola bars out there. It has only 2 grams of fat (I'd tolerate more for a richer chocolate burst of flavor), and 4 grams of healthful fiber. No trans fat. 5 grams of protein. This is a good bar to keep in your purse for when a snack attack hits and you wanna sidetrack indulging in something junk-foodish.<br /><br />Every other bite, you get a nice tart surge of flavor from the cherries. That was nice.<br /><br />Now, more chocolate, please, Kashi folks!<br /><br />Enjoy...
+
+product/productId: B000P4ZUB0
+review/userId: A3Q0HS9JF6TCLJ
+review/profileName: C. Banks "Mamma Banks"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267228800
+review/summary: great bar, not great price
+review/text: Love this bar!<br /><br />approximately $.87 per bar on this site, just purchased from Wegmans (grocery store) for $.54 each in smaller portion
+
+product/productId: B000P4ZUB0
+review/userId: A2158Y2U61AU9G
+review/profileName: Lillian37
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263427200
+review/summary: The Combination Of Dark Chocolate & Cherry Is Just Right
+review/text: The combination of dark chocolate and cherry is perfect. Nothing artificial, no corn syrup, 120 calories and 4 grams of fiber per serving, so you don't have to feel guilty about eating one! Makes a perfect small dessert or snack. It's on the chewy side so it's not hard to eat.
+
+product/productId: B000P4ZUB0
+review/userId: A2QWTGW30D0I5D
+review/profileName: Angela Watts
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1233014400
+review/summary: Great bars!
+review/text: Probably the best granola bar I've ever had. I love the dark chocolate and cherry combination, plus it's chewy, and it's made by kashi so that's just an added bonus. Higher quality product IMO so I don't mind spending a little more for it. Plus one bar has 120 calories and 5 awesome grams of protein. It is my all time favorite bar.
+
+product/productId: B000P4ZUB0
+review/userId: A1AQ4EMDMSK8HC
+review/profileName: Lydia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223424000
+review/summary: I. Love. These. Bars.
+review/text: These are, hands down, THE BEST SNACK BARS I have EVER eaten. Nice dark chocolate with it's slight bitterness, tart dried cherries and natural ingredients... what more could you want? Like their name, they're nice and chewy. Nice taste, great texture, and it actually fills you up! Even my husband (AKA The Bottomless Pit) agrees. The price is okay here on Amazon, but if you look in Target or Walmart, you may be able to find them for as little as $2.25 a box.
+
+product/productId: B000P4ZUB0
+review/userId: A2ZU4YOJBV7O4A
+review/profileName: owennoah0507 "mommy to precious boys"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1209254400
+review/summary: Great Bar, too expensive though
+review/text: I love this bar and so do my kids. However, the price on amazon is over 3.30 per box. Go to Target for cheaper prices. They are often on sale too.
+
+product/productId: B000P4ZUB0
+review/userId: A1EESY5HNR2W5R
+review/profileName: Pamela Moceri
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1202688000
+review/summary: yum and healthy too
+review/text: These may be too healthy tasting for some people but I love them.  Can't go a day without one in fact.
+
+product/productId: B007DOOR9G
+review/userId: A33GLE6FIW5KAY
+review/profileName: Lola Marlin "Lola"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347062400
+review/summary: broken dreams
+review/text: every cookie in this box was broken. most of them were crumbled so bad<br />you could not pick up a piece to eat.<br />bad bad bad.<br />had to fight to get credit on this item.
+
+product/productId: B0002HDMCE
+review/userId: A4PDTZO83ZEIE
+review/profileName: D. L. Finch
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1295740800
+review/summary: Most were whitish-colored and mushy
+review/text: The few which seemed to be cooked correctly were delicious, but most of the fingers were a light color and mushy.
+
+product/productId: B0002HDMCE
+review/userId: A2WARZIG7WTM3K
+review/profileName: AA "average consumer"
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1172275200
+review/summary: Yummy, honey , crunchy phillo dough and cashews....
+review/text: These are just as described, "SWEET AND CRUNCHY PHILLO DOUGH PASTRIES"...love these just as much as the baklawa with walnuts...yummm!!
+
+product/productId: B0002HDMCE
+review/userId: A12HLD6ITNZXX9
+review/profileName: MO
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1230940800
+review/summary: would recommend it
+review/text: Arrived early. Well-packaged and it tastes great. It was given during holidays and it is quite unique especially when you're looking for something new to give as a gift. For its price, one box has a lot of the sweets.
+
+product/productId: B0002HDMCE
+review/userId: A2QQFXZ3W4CZ08
+review/profileName: Debby Krimsky "Lilly2bee"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1229558400
+review/summary: Yummy
+review/text: Out of this world Good!!  Taste is oh so good!! Packaging very professional and over the top for the price.  Will share product with others if there are any leftovers.  Fedex was slow took 7 days to go from MI to CA. Took only 2 days to bake, process, and mail.  Great work Shatila Will order again for sure Lord willing.
+
+product/productId: B0002HDMCE
+review/userId: A6LEJ1D3MVNZ4
+review/profileName: BooksNotLooks
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: Like getting it freshly made
+review/text: Wow, what can I say about this baklava? Not too rich, very crispy and flaky, utterly buttery, and oh so sinful. I'm so glad Shatila ships, because I could not go long without this. You just can't get baklava this good elsewhere.
+
+product/productId: B0002HDMCE
+review/userId: A3Q9VXQRABT3Q4
+review/profileName: N. McAlpin
+review/helpfulness: 2/4
+review/score: 3.0
+review/time: 1234569600
+review/summary: cookie fingers
+review/text: The fingers were good but got very dry quickly. They were very much like baklava.
+
+product/productId: B0002HDMCE
+review/userId: A1BSBX5YCGNUOP
+review/profileName: jman
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1337731200
+review/summary: WOW! YUMMY!!
+review/text: These are by far my fav treat and the best Baklawa I have ever had the pleasure to eat. These are truley Out Of This World just order them for the 4th time and many more to come. so if you are unsure, BUY NOW you will be amazed thanks Shatila!
+
+product/productId: B0002HDMCE
+review/userId: A1V8JNUT1SOJEQ
+review/profileName: Mary Kirkland "I saw a woman wearing a sweat ...
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1333843200
+review/summary: Good Tasting Treat.
+review/text: I bought these thinking they would be much like the Baklava I have bought in the different coffee shops and while they weren't really like the Baklava I am used to, they were really good. They have a really nice crunch to them, a really nice sweet flavor and are just the right size. They came packaged really nicely and even had an optional small packet of crushed pistachio's to add to the top before serving, which was nice. All in all, not what I expected but a very nice treat.
+
+product/productId: B0002HDMCE
+review/userId: AKP89J58YPLR9
+review/profileName: Virginia Black "clara14"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1332633600
+review/summary: Delicious! !
+review/text: It is an absolute delight to see the exceptional packaging for these pastries and then to open and find the delicious treat that is there.<br />For several years I bought these pastries locally only at Christmas<br />time. Now that they are available on Amazon, I will order more often.
+
+product/productId: B000SW4NNK
+review/userId: A2M9D9BDHONV3Y
+review/profileName: A. Bennett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1253577600
+review/summary: MInced garlic ready to use without any fuss or muss!
+review/text: This is a nice small bottle of minced garlic with a wonderful rich, full aroma.  The garlic itself is very mild though.  It has absolutely no BITE!  unlike some fresh garlic bulbs.  This is great for some recipes but others...like hummus... would benefit from a more aggressive tangy taste.  Being prepared and bottled, there are no bulbs to go bad with excessive time and no mess of peeling and mincing.  I really like these Goya minced garlic bottles and highly recommend them to anyone who enjoys a milder garlic flavor. I will be buying them again!
+
+product/productId: B000SW4NNK
+review/userId: A10BHLUILIS817
+review/profileName: Stephan Nagel
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1259798400
+review/summary: Poorly packaged; no appeal
+review/text: Love the garlic but one of the bottles was broken during shipment, so we received a stinking mess. Wrote the vendor; no response.
+
+product/productId: B00445PZ02
+review/userId: A3NS2ZZYH6GOV1
+review/profileName: Book Worm
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1308355200
+review/summary: Great Taste, Mostly Soft!
+review/text: I had these the first time in Florida on vacation.  When I got home and had finished the box, we wanted more and decided to look up the company on Amazon.  The box we got through Amazon was good but not as soft as the fresh ones at the beach.  They're also not the kind that will break your jaw though.  So they're edible and tasty.  I'd recommend to a friend.
+
+product/productId: B0006GXLQS
+review/userId: AWC8CTW8N2XVE
+review/profileName: TheCommish16
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: Cat loves these!
+review/text: - Been buying these for my cat for about a year or more<br />- She loves them and meows for them after I feed her as a little treat<br />- Stay fresh in the package for the most part, just close the resealable top each time or they do go stale.<br />- Always re-odering!
+
+product/productId: B0007PLQPQ
+review/userId: A1ZSF5CJ0A4CIO
+review/profileName: Fancy Trimmins
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1247875200
+review/summary: Best Granola I've Ever Found
+review/text: I'm not a fan of granola by any means: at least not until now. I have tried making my own on many occasions but the mess, expense, amount of ingredients to keep on hand and the less than satisfactory results have pretty much turned me off. I purchased this product in 3 flavors as a last ditch effort: Cherry Walnut, Almond and Maple Walnut. They arrived together in 2 days, well packaged, fresh and crunchy. Did I mention FLAVORFUL? I am a true convert. This is the best. While I like all 3, my favorite is the Maple Walnut, followed by the Almond and then Cherry Walnut (mostly because the huge dried cherries taste more like golden raisins than cherries, but still very good. I should also mention that while the dried cherries are about the size of the bowl of a teaspoon and look like they are soft and pliable, they are very hard and take a lot of careful chewing, after which they become sticky. I didn't find that texture pleasant). And when the ingredients listed walnuts or almonds, I figured it would be microscopic smooshed up pieces mixed in so small I wouldn't be able to tell the difference between a sesame seed and a piece of walnut or almond. BUT, the almonds are large pieces or whole almonds while the walnuts - well, the walnuts are planet-sized: sometimes 1/2 of an entire walnut and there are tons of them in a single bag of this granola. The maple walnut is the only one I find a bit on the sticky side, but not like caramel popcorn sticky-just a bit tacky. I've already used this in yogurt, cottage cheese, oatmeal, as a snack in mid afternoon, in salads, pancakes and yesterday morning, I made Bisquick biscuits and added some of all 3 flavors as an experiment. The biscuits were marvelous. Now, if I could only remember WHAT I did so I can make them again with the same success! Try this. I don't think you'll be disappointed. If you are, you can send it to me!! :)
+
+product/productId: B001PQMJCA
+review/userId: A1AAH7KJELV2I9
+review/profileName: VJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Delicious
+review/text: A little more expensive than other local brands, but a lot more flavor which means you don't have to use as much to get a great taste. So in reality saving money. Win-win situation!
+
+product/productId: B001PQMJCA
+review/userId: A3T8JXT90FI1JJ
+review/profileName: Yasmina F Mercatili
+review/helpfulness: 4/9
+review/score: 1.0
+review/time: 1322784000
+review/summary: Wrong item received
+review/text: I ordered McCormick Crushed Red pepper because this is the brand I like, what I got is an off brand of this product called "Tones", I wished the seller would have told me that what they sold was not what they advertised!!!!
+
+product/productId: B00453M7RM
+review/userId: AY12DBB0U420B
+review/profileName: Gary Peterson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Incredibly Good, If It's The Same.
+review/text: In shopping at a nearby Costco yesterday, I came across some Kirkland Signature Artichoke Hearts marinated in oil. Man, are they ever good! Incredible! Well, I just had to review this item and tell people about it. So I tried to look it up on the Amazon computer. Well, it isn't there. I found all kinds of artichoke hearts, but no Kirkland Signature. However, in sorting through this assortment, I think I found the same thing by the same manufacturer. Okay, Kirkland Signature is a Costco store brand. They don't manufacture  their items. They contract out to have other companies put stuff up for them. Well, I'm certain these Cara Mia Marinated Artichoke Hearts are the exact same thing as the Kirkland. The  giveaway is  the bottle and the cap on the bottle. The cap has two thin green lines running around the base, in exactly the same way as the Kirkland. Strangely, the Cara Mia bottle is labeled as 62 ounces and it must be a mistake. The exact same Kirkland bottle is 33 ounces. So, I think I'm right on this matter and it's a exceptionally quality item. Like to take a gamble?<br /><br />Gary Peterson
+
+product/productId: B001UP2R00
+review/userId: A22LSAYF43XR0P
+review/profileName: Consummate Consumer
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1296864000
+review/summary: Simply delicious
+review/text: First I bought the regular Capirete sherry vinegar - good.  Then I bought the aged-8-years vinegar - better.  And finally I tried the Capirete 20-year-old vinegar - bingo! - the best.  It is smooth, deep and luscious, and it makes recipes that call for vinegar all the more elegant.
+
+product/productId: B001FKC4XA
+review/userId: A2FAIHSFO3VYC1
+review/profileName: SumBumbleBee
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1254096000
+review/summary: One of my favorite pet products
+review/text: I first received the scented bags as a "bonus" with my regular bags.  I loved them so much that I was bummed when I had to switch to the "regular" ones I actually bought.  The scent is very strong, but not to the point where it's offensive in its own right, but is strong enough to mask the unpleasant smells the bags contend with.  I didn't have the other reviewer's problem- the scent remained for as long as I had the bags, and even made my "regular" bags smell good to an extent.<br /><br />Even more importantly- this is the only brand of bags I use.  I've tried others, and I've had breakage or size problems.  These are perfect.  They've never broken, and they're the perfect length for easy, clean tying.  I love them.
+
+product/productId: B001FKC4XA
+review/userId: A2UURE4MSNW0YG
+review/profileName: D. Haas
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1337731200
+review/summary: These bags are short now, too!
+review/text: I had been buying the scented bags for the past several months because they were longer than the unscented bags (the unscented bags used to be longer, too).  Unfortunately, Bags on Board has gotten cheap with all of their bags now, as the last batch of scented bags is now shorter, too.  Too bad.  It used to be a 5-star product for me, now only 4 stars.  Note to manufacturer - please go back to the original, longer bags.
+
+product/productId: B001FKC4XA
+review/userId: ALPQOXCRF3SSH
+review/profileName: C. Scibetta
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1270425600
+review/summary: Scented bags make a long walk MUCH more enjoyable!
+review/text: These bags are easy to use and I have them attatched to my dog's leash for easy access.  They arrived quickly, were sold at a good price and are exactly as promised.  The fact that they have a  plesant although mild scent makes my multi-mile walks much more enjoyable!  The fact that they're biodegradable a huge added bonus!  I will order again and again.
+
+product/productId: B001FKC4XA
+review/userId: AURAXE2UI6F2I
+review/profileName: Recorder "js"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1275091200
+review/summary: Great, convenient product
+review/text: It is a poop bag on a roll.  what else is there to say?  They are convenient and thick enough that they doe not tear.
+
+product/productId: B001FKC4XA
+review/userId: A1EJHI835HNGEQ
+review/profileName: MNViking54
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332892800
+review/summary: Bigger bag
+review/text: Pleasant smell, but that is subjective.  The 5 star rating is based on the fact that these bags are about an inch longer than the standard blue or the bright colored bags, PLUS plastic seems slightly heavier.  Will buy again.  Fragrance helps not make the garbage can unbearable.
+
+product/productId: B001FKC4XA
+review/userId: A378SKHGPNY11
+review/profileName: ltnorham
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1270339200
+review/summary: Good poop bags.
+review/text: I enjoy using these bags.  I have a dog training book (<a href="http://www.amazon.com/gp/product/0446675385">Good Owners, Great Dogs</a>) with a picture of a dog pooping, and the caption says: "To those of you who do not have housebreaking problems with your pet, this picture may seem a bit crass. But for those of you who have struggled with this particular behavior, a dog doing his business outside is a thing of beauty and a joy forever." Well, I think of this whenever I unfurl one of these bags.  My rescue dog may have came with all sorts of training issues, but bless her, she is perfectly house trained.<br /><br />The bags are a decent size, wide enough to encompass the target. They are long enough to tie with enough clean part at the top, but would be even nicer if they were a bit longer. They are occasionally hard to open. Each roll is approx. 2.25 inches wide and 1.25 inches thick, including a plastic core which seems unnecessary to me.  I don't have a Bags on Board brand dispenser but they fit into a dispenser purchased at Pet Food Express. The bags are printed so you can see where to tear, which is nice. The "Ocean Mist" scent is not what I would call a "fresh, clean fragrance" - a bit cloying and sweet - but it does help mask that other fresh fresh fragrance. The bags are a pretty color but the contents do show through a bit.<br /><br />All in all, these bags are a worthy buy. I will no longer risk the horror of grocery store plastic bags that sometimes have holes in them.
+
+product/productId: B001FKC4XA
+review/userId: A384TTCOBX9QVZ
+review/profileName: Bebimon "Bebimon"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1268179200
+review/summary: Love the scent.
+review/text: The quality of these bags are great.  They are strong, large and have a refreshing scent.  Don't know if paying the extra $4.00 is worth to get the scent though.
+
+product/productId: B001FKC4XA
+review/userId: A38NM20C10WF25
+review/profileName: MARC ANDREYKO
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1257379200
+review/summary: awesome product!
+review/text: these bags are a godsend. as someone who gags at just the thought of dog-poo, the scented bags save me from losing my lunch every time i take my dog out! pleasant smelling, durable, and, best of all, biodegradable!
+
+product/productId: B001FKC4XA
+review/userId: A3OJJ6VPIESDF4
+review/profileName: MB
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347494400
+review/summary: Fine bags, but a bit small
+review/text: The bags are easy to carry around, and don't have any manufacturing defects. They are a little on the small side though.
+
+product/productId: B001FKC4XA
+review/userId: ADUYFQXX0ZVUD
+review/profileName: Stephen
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343260800
+review/summary: What else can I say about a product that was made to pick up poo poo?
+review/text: The fragrance helps not make the garbage can  a little more bearable. But I wish that they were a tad bit thicker so you did not have to feel the warmth and gooeyness of the dogs shit when you picked it up. Always makes me squirm a little.
+
+product/productId: B001FKC4XA
+review/userId: A1BL790UAOLQ91
+review/profileName: Pedro Contreras
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342396800
+review/summary: Great product!
+review/text: I have a pug and I haven't encountered any issues with the bags yet. They seem like they would be big enough for a full sized dog. The scent does seem to cover the poop smell okay and fit in my dog bag dispenser.
+
+product/productId: B001FKC4XA
+review/userId: A1PT9X3OZKV4BZ
+review/profileName: Ida's Adopter :)
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: LOVE These!
+review/text: I LOVE these bags. Price and quality DOES matter when it comes to some products! I actually use these for my kitty litter box, and had bought some really cheap ones at the grocery store. They were tiny and really thin. I ordered these and they were great. They were a lot longer and thicker, and the fact that they are scented is a plus :) They're a little pricey, but I think they're worth it. And I NEVER smell anything when I throw the bags in the garbage. Give them a try, you won't be disappointed.
+
+product/productId: B001FKC4XA
+review/userId: A30F2E3ZH4CPQT
+review/profileName: Amy Fairbanks
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333670400
+review/summary: Simply Great
+review/text: These bags are great! They fit perfectly in the fire hydrant bags on board container. The smell is light, but pleasant and effective. And most importantly, they have never had a hole in them!
+
+product/productId: B001FKC4XA
+review/userId: A3PD7DFHIHRSW5
+review/profileName: HandleyMom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328832000
+review/summary: Great for several uses!
+review/text: I've been overpaying for the last year at Walmart and Target for the Arm & Hammer scented baggies until I found these online.  When they arrived, the first thing I did was smell them.  It sounds crazy, but the scents are really nice for drowning out other smells!  These are a nice fresh scent and not overwhelming.  I primarily use these at our changing table in my daughter's nursery.  I also keep a roll in each diaper bag, in the glove box of both vehicles, and in my purse.  Nasty diapers are the first thing to find their way into one of these, but I've used them for garbage in the car too.  Will be a return customer for sure!  They're perfect!
+
+product/productId: B001FKC4XA
+review/userId: A2W9B725TZBXOX
+review/profileName: Mrs.58 "GimmeDaOldDaze"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326931200
+review/summary: Fabulous
+review/text: Small apt, one jumbo litter box and 2 healthy litter box donors keep me scooping a few times a day. We all prefer a clean box. One meows and comes to tell me if someone (usually his furry buddy) pooped so I can clean up for the next occupant.<br /><br />I purchased a litter locker, great product but unnecessary. The refills are $5 each and barely lasted a week, so I was spending about $15-20 a month to toss cat poop. No thanks. I read a note in one review on the litter locker about diaper genie fitting and a better buy and thought if they make a roll of bags that hides a dirty diaper stink, that's exactly what we need. I bought a small plastic holder for diaper bags, it hangs in the bathroom and I use these very nicely scented bags that fit into the diaper bag dispenser. 100x times cheaper and since I toss garbage every 2 days, this is most economical, the bags are biodegradable and do just as advertised, contain odors and dont leak etc.
+
+product/productId: B001FKC4XA
+review/userId: A306PAX3GWF5KV
+review/profileName: Season Balik
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313280000
+review/summary: Thumbs up from a dog walker!
+review/text: I work as a dog walker for a petsitting company.  One of my clients keeps her leashes in the downstairs closet-- it has the most amazing smell and I could not figure out what it was!  I assumed it was some sort of air freshener.  One day, I saw one of these bags peeking out and took a whiff: ta da!<br /><br />I am hooked.  Not only do these bags smell fantastic, they are strong and portable.  I use them for work and am buying them for cleaning out my cats' litter as well.  The scent is strong enough that if I keep them near the litterboxes, I'm betting it can even tackle those odors or at least mask them until I can clean.  It's a sweet, uplifting but not cloying scent (I cannot believe I'm talking about poo bags this way) that could easily come from a high-quality air freshener.  Maybe I'll hide some of these throughout the house...
+
+product/productId: B001FKC4XA
+review/userId: A36N0Y7MCB8XF2
+review/profileName: D. Parker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308096000
+review/summary: Good product
+review/text: These bags are great - I no longer have to beg my friends to save their newspaper baggies for me.  I would actually prefer them unscented, as the scent is quite strong, but really, I can deal with the smell - after all, I am using them to pick up dog poop.  I was happy to find them on Amazon.com.
+
+product/productId: B001FKC4XA
+review/userId: A1ZWKS8D2IJVH4
+review/profileName: J. O. Brien
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307404800
+review/summary: Great product
+review/text: We first used the unscented version of these bags and were happy with them....until we discovered the scented bags. The scent does a great job of masking the sometimes unpleasant smell of what you are picking up. I've never had a bag break on me, and they are plenty large to use for a 90+  pound dog. Even our dog walker is impressed with these and wanted to know where we found them.<br /><br />I used to buy them locally but the pet stores were always sold out of the scented bags. Getting them on Amazon saves me from visiting 2 or 3 stores just trying to pick up a pack - and the price on Amazon is better.
+
+product/productId: B001FKC4XA
+review/userId: A2JE5TWAGF8UWA
+review/profileName: Carol A. Beach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307059200
+review/summary: does the job
+review/text: they defently do the job . no leaking or breaking and hold alot {i have a mastiff} and only one bag is needed
+
+product/productId: B001FKC4XA
+review/userId: AY7UGNI16AJHA
+review/profileName: Shannon M. Small
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306454400
+review/summary: great product at a great price
+review/text: we really prefer the scented bags to the unscented, but they cost so much more at the pet stores.  we were so happy to find them here for such a great price :)
+
+product/productId: B001FKC4XA
+review/userId: AFOY87HWNHACX
+review/profileName: smoochz "animal lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305417600
+review/summary: Luv these bags!
+review/text: Luv these bags!  First time using this brand name: easy 2 open, large, strong, easy to insert in doggie bag holder, and lightly scented.  These R my new FAVS!
+
+product/productId: B001FKC4XA
+review/userId: A3FN5T0U561OTG
+review/profileName: Gregory Topor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304726400
+review/summary: very good bags
+review/text: these bags are great....i'm using unscented (blue color and cheaper) during cold months here in Illinois and these while it's warm to cover unpleasant scent of my beloved golden retriever's "poop" they are rather pricey but they're reliable, i haven't have one that was broken.
+
+product/productId: B001FKC4XA
+review/userId: A1865F1LQCIS1W
+review/profileName: PJ - road warrior
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297814400
+review/summary: Best Doggie Bags on the market
+review/text: These are "hands down" the best doggie disposal bags I've found on the market - scent absolutely covers the unpleasant smell and these are easy to use.
+
+product/productId: B001FKC4XA
+review/userId: A1Z8CSHO8CED91
+review/profileName: Lisa Jill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1284422400
+review/summary: Love these bags
+review/text: I love these bags.  I have a very large black lab that makes very large & stinky #2s.  I live in a NYC building in the middle of an avenue, so I generally bring my dog's waste back into the building with me, up the elevator, and then I dispose of it down the trash chute.  If I don't use scented bags to mask the smell when I take the elevator back up, my neighbors would be very unhappy!  These work perfectly for me & my doggie.
+
+product/productId: B001FKC4XA
+review/userId: A1TZRF4NZEPCAV
+review/profileName: doglady
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1284249600
+review/summary: Not worth it
+review/text: You can barely tell there is a scent on the bag. As soon as it is off the roll, there is no scent at all. I paid extra so that when I walked with my 'loaded' bag, I wouldn't have to smell the odor. With these bags, trust me, the only thing that has a scent is the poop inside the bag. Don't waste your money--buy the regular bags.
+
+product/productId: B001FKC4XA
+review/userId: AUE2T74Z6AGEI
+review/profileName: M. Breier "Bandgal"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1245456000
+review/summary: Just OK on the "scent"
+review/text: I was hoping the scent of these bags would help keep the dog poop stink down, but the scent fades quickly after you open the bag of eight rolls. What a shame.
+
+product/productId: B002ZZ9UUO
+review/userId: A2VEQUTRI7NQ8Q
+review/profileName: Kathy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1318377600
+review/summary: Made by gold!
+review/text: This product is way too expensive.  I paid like more than $34.00 for two and you can find it in costco around only $5.00 each.  They taste the same anyway
+
+product/productId: B001K2EPUI
+review/userId: A1WRNKCP6NQ318
+review/profileName: JJ
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1262217600
+review/summary: Totally yummy!
+review/text: This maple cream is delicious.  If you love the taste of pure maple syrup, this is made of the same, but in a form you can spread on toast, crumpets, scones or eat on a spoon!  Enjoy.
+
+product/productId: B004WJATHO
+review/userId: A21CZIJ7LXR1A1
+review/profileName: Olinda "Steady Shopper"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334102400
+review/summary: Great Coffee
+review/text: I, personally, do not drink this coffee but my roommate loves it. A bit on the bolder side and that's the way he likes it. He says tasty and not too bitter.
+
+product/productId: B004WJATHO
+review/userId: A2AKNM5HF2H6JQ
+review/profileName: jessica wyatt
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347148800
+review/summary: BOLD AND FLAVORED
+review/text: I love bold dark roast coffee and I love flavored coffee, but can't ever find dark roast / bold coffee that is flavored.  my favorite in the pods by far!
+
+product/productId: B004WJATHO
+review/userId: A24OX6XLW4L331
+review/profileName: OKCJohn
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1342224000
+review/summary: You will love it or hate it...no in between
+review/text: I ordered it but didn't realize that it was flavored coffee.  I can drink just about any coffee flavored or not.  The description says lightly flavored which I think is a little off.  There is a distinct coconut flavor to the coffee.  If you like coconut, you will love this coffee.  If you like no flavor or coffee with a hint of flavor, pass this one up.
+
+product/productId: B004WJATHO
+review/userId: AOPQ145T9PV2B
+review/profileName: Terry
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1349049600
+review/summary: Careful these aren't k-cups!
+review/text: These coffee pods come up when you search for Jamaica Me Crazy K-cups.  So yeah I was in a hurry and ordered these by mistake....  Guess what!  They are NOT returnable.  Thanks a lot Amazon!  You are no longer a source of k-cups for me.
+
+product/productId: B004WJATHO
+review/userId: A2YEHH6O0R68QE
+review/profileName: Gerald Shifrin
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1337817600
+review/summary: Ghastly
+review/text: I ordered this by mistake thinking I was getting Jamaica Blue Mountain coffee. This was just terrible. I pitched the whole package after trying a single cup.
+
+product/productId: B001OKM8MS
+review/userId: A377GYNIQVML6A
+review/profileName: Fred Gene Haseney
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1242000000
+review/summary: The SoyaJoy Automatic Soymilk Maker: Easy and Economical
+review/text: I've been using the SoyaJoy Automatic Soymilk Maker about once a week for almost a year now.  A deal at $99, the soymilk maker has paid for itself over and over again.  It's so easy to use; my favorite recipe is my own: Pineapple Soymilk.  All you have to do is soak soy beans overnight.  Thaw half a can of frozen pineapple juice; add the juice to the SoyaJoy along with filtered or bottled water.  Add a tablespoon of oat flakes to the soy bean filter, then add the soy beans; attach the filter to the unit, plug it in, and about fifteen minutes later, your soymilk will be done.  Let it sit for about half an hour to cool; chill overnight in the refrigerator, and enjoy.  Using a whole can of frozen<br />pineapple juice overwhelms the taste of the soy beans and additional sweeteners are not needed.<br /><br />I also prepare soy milk this way: soak overnight soy beans, a few raw almonds and raw Virginia peanuts along with about half a teaspoon of Basmati rice; next day, prepare Soymilk as usual.  I add the Okara (the residue that is left after the liquid is drained off when making soybean milk) to homemade soups as well as when I cook rice (I use a crock pot in both cases); the Okara adds something special to each meal.<br /><br />"The SoyaJoy Concentrated Magic Cleaning Powder" is very easy to use, and aids in keeping the soy bean filter clean; in fact, I used the powder, as directed, only a few times, then one day I realized that I didn't need to use the powder anymore, and a simple cleaning was possible using water, the brush that comes with the SoyaJoy, and a sponge.<br /><br />If you plan on using the SoyaJoy often, you can pre-soak the soy beans; they keep up to a week in a tightly sealed container in the refrigerator.<br /><br />I've been on the "Blood Type" diet for a decade; Dr. Peter J. D'Adamo says of his diet that soy-based foods are "super foods" for a Blood Type A.  Every time I walk by the soymilk section at the grocery store, I see an expensive way to buy that food; the SoyaJoy Automatic Soymilk Maker is the most economical and easiest way for a Blood Type A to enjoy "super food"!
+
+product/productId: B001OKM8MS
+review/userId: A1OB8JYRHA5MXV
+review/profileName: jain
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1240704000
+review/summary: Great product, excellent service
+review/text: I bought this SoyaJoy maker 5 years ago from a friend in Houston. I have been using it since then. It is a reliable great product, very easy to use. I am extremely satisfied with this product. Unfortunately, I lost the plug cable during my recent moving. So I checked Amazon thinking to buy a new maker. I was so excited when I saw the same product is now listed on Amazon. So I e-mailed the custom cervice asking if I can get a plug cable from them. I got a quik response and they will send it out to me the very next day.<br />It is a great, reliable product. I strongly recommend this product.
+
+product/productId: B001OKM8MS
+review/userId: A2XYHGU9B0Y4AG
+review/profileName: David
+review/helpfulness: 8/10
+review/score: 4.0
+review/time: 1243814400
+review/summary: SoyaJoy soy milk maker is good, but SoyaPower Plus is better
+review/text: I just posted a review on SoyaPower plus soy milk maker. I had a SoyaJoy for five years and I do like it (still working). I would have given the SoyaJoy a five-star had I not used the SoyaPower plus. They are both made by the same company. If you can't spend $60 more, the SoyaJoy is still a great machine for the money! Sorry SoyaJoy, but I have to tell people because I have used both.
+
+product/productId: B001OKM8MS
+review/userId: A1LFSTBR7L7PUT
+review/profileName: V. Wiedemann "2 avid readers"
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1254614400
+review/summary: great machine but takes time
+review/text: We've used the SoyaJoy machine for well over a year.  It makes great milk and you can experiment with flavors till you get your favorite.  We use a few less soy beans and add some soaked almonds for a great combination milk. As far as the end product, it gets 5 stars.  Minus one full star for time involved to wind up with only about 6 cups of milk.<br /><br />The one thing their web site videos do not ever tell you is the amount of clean up time it takes each time you make a batch.  When you do a double batch as we often do, plan on close to an hour and a half total time with 2 cooking times, straining the milk through a fine strainer and then squeezing the mash through several layers of cheesecloth and cleaning the machine itself twice so there is absolutely no soy residue left.<br /><br />We use the left over mash (okara) for everything from super breakfast porridge base to fake crab cakes to cookies.  End result: The money saved altogether more than makes up for the time involved.<br /><br />We are also on the Eat Right 4 Your Blood Type food plan and soy is very beneficial for blood Type A's.  Type B -- don't use soy, period.
+
+product/productId: B001OKM8MS
+review/userId: A1L672WF6E1D4X
+review/profileName: Mellie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: Great product, great customer service...
+review/text: I really love this soymilk maker. It is very well made, durable and easy to use. Every batch of soymilk I have made with it has turned out well.<br /><br />I have to say I was very impressed with the customer service this company offers. I bought my SoyaJoy used and it did not come with an instruction/recipe booklet. I contacted the company directly and let them know that I had purchased their product from an online auction site used, and that I would like to purchase an instruction/recipe booklet. Customer service was very helpful and promptly emailed me the booklet to print out without charge. There was absolutely no hassle & they were very friendly.
+
+product/productId: B001OKM8MS
+review/userId: APNG4GZOH8PM9
+review/profileName: Jillians Mom
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1325548800
+review/summary: Conked out after 2 years
+review/text: I was basically pleased with this product but it only lasted 2 years with average to light use. It should have lasted longer. Their customer service merely suggested i buy the newer model but i will shop a different company.
+
+product/productId: B001OKM8MS
+review/userId: A71F4QB8SXHD4
+review/profileName: catonthelapagain
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296518400
+review/summary: Wonderful machine!  No more throwing away packaging!
+review/text: I love my soyajoy.  I bought it 5 years ago and it still works as well as ever.  It's so much faster and easier (and easier to clean) than making soymilk the old fashioned way, in a pot with blender.  Also, I don't have to buy soymilk, which is often expensive (for organic), overpackaged, and since I live out in the country, difficult to find.<br /><br />I usually make a soy/rice blend.  This is one of the reasons I like making my own, because I don't want too much soy and mixing the beans and rice like this creates a complete protein.  It also tastes less "beany".  I used to add some almonds too, before I got too cheap to buy them.<br /><br />The machine should be washed as soon as the milk is done, but it's not hard to do.  I still haven't used the cleaning powder that came with it.  I just give it a good scrub.<br /><br />My favorite thing about this soymilk maker is that I'm not throwing away piles of packaging that I can't even recycle here.
+
+product/productId: B001OKM8MS
+review/userId: A2B46QP0XT0RVW
+review/profileName: Linda Lam
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1290988800
+review/summary: Mal-function
+review/text: Every time I plug it to the wall, it short circuit all the plugs on the whole wall.<br />Could not even start to use it.
+
+product/productId: B008JA7H6S
+review/userId: A22SPKKTSQA6ZX
+review/profileName: Kitty Wildebloode
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349136000
+review/summary: Ewwwwwww
+review/text: Tastes like a REALLY watered down bitter flat/re-carbonated grape soda.  I think that the taste factor has to do with the fact that this is 50% juice and 60 calories, while the other "regular" V8 Fusion flavors such as Strawberry Banana, Pomegranate Blueberry, and Concord Grape Raspberry are 100% juice and about 120 calories. The other flavors taste a million times better than this! I don't have the slightest clue how this got past any human taste testers.
+
+product/productId: B0036QKVIQ
+review/userId: A21O2HHIJTRCXC
+review/profileName: Anna*
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1316476800
+review/summary: NOT quinoa FLAKES
+review/text: They shipped quinoa GRAIN instead of quinoa flakes. Too bad I found out about it too late... I did not finish my quinoa flakes when I was ordering more, so I did not bother to open a 25lb bag until 2.5 months later. Well, fortunately, it is not a complete waste... in my home quinoa grain goes 10X faster than quinoa flakes.
+
+product/productId: B0036QKVIQ
+review/userId: A3ECGYOU1TJHDG
+review/profileName: J. Green
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1297641600
+review/summary: Great food, wrong package
+review/text: Flaked Quinoa is a great food from Ancient Harvest-containing a complete protein, I use it to add extra nourishment to home made granola and breads, and cook it like oatmeal.  Unfortunately, I received a 10# box, not a 25# bag.  Amazon credited me 15/25 of the price to correct for the mistake.
+
+product/productId: B004BQ7P1Q
+review/userId: A2O7AG40FHQXNZ
+review/profileName: K. Casey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320710400
+review/summary: Can't stop eating these
+review/text: I stumbled on these at a Whole Foods in Albuquerque and as soon as I'd eaten one, went right back to the store and cleaned out their entire inventory.  Since they don't sell them where I live I buy them off Amazon all the time now.  It's rare to find such a healthy snack that's so tasty, but these really are, a perfect mix of sweet meets rich, but not too filling and my favorite afternoon snack to tide me over till dinner (they go perfect with a cup of hot tea).  They'd be great for holiday parties too, kind of "elegant", if that makes sense.
+
+product/productId: B004EBPTIO
+review/userId: A2VIBZWD67KTKC
+review/profileName: J. norman
+review/helpfulness: 27/29
+review/score: 5.0
+review/time: 1213920000
+review/summary: Excellent foie gras
+review/text: Sure it's cruel.  All meat is cruel.<br /><br />Once you've set your moral rage aside, this liver is the finest you can buy without having a local supplier (which is a better option). This package is fully dressed...no veins or ducts...and cooks very well. The taste is precisely what you would expect from one of the finer gourmet suppliers in the world. The fact that it is duck means you're not spending as much and the flavor is right on.<br /><br />If you don't like meat, don't eat things that have to be killed to be eaten. If you do like meat and you love foie gras, then this product is a must-have.
+
+product/productId: B005HZ1UMK
+review/userId: A1IZI2WWS2A08V
+review/profileName: czadra
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322179200
+review/summary: YUM!!!!!
+review/text: This makes BBQ so awesome!!!!  I would recommend this to anyone that wants to add that little extra to thier BBQ meats.
+
+product/productId: B005MWT78M
+review/userId: A3OXRFCJI67IMN
+review/profileName: Bold Consumer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333584000
+review/summary: Interesting "Natural Source of Antioxidants" made from green tea, acai berries, and grapeseed extract
+review/text: I like a variety of teas, especially green and white, so I was intrigued with the ingredients in this one. It does have more taste than I usually find in green or white tea. It isn't too sweet, which is good, because I don't like sweet tea. It smells and tastes a lot like blackberries to me.<br /><br />I won't try to judge about the health benefits or claims for vitality, increased metabolism, ability to promote health and anti-ageing, etc. I just enjoy different teas and was looking for another way to drink green tea for its benefits.<br /><br />It's labeled as a "dietary tea supplement" "Made with Organic Tea". Since the ingredients were important to me, I'll list them here for those of you who are interested:<br /><br />Organic Green Tea 900 mg<br />Organic Green Tea Extract 100 mg<br />Organic Hibiscus 400 mg<br />Proprietary Blend (whatever that means) 600 mc<br />The rest of the ingredients don't include amounts per serving:<br />Ginseng (panax)<br />Acai Berry Extract<br />Blackberry Pieces<br />Bilberry Juice Powder<br />Black Current<br />Grapeseed Extract<br />Stevia<br /><br />Other Ingredients: Natural Grape and Berry Flavors<br /><br />It does contain caffeine. "We have added 100 mg of pure organic tea extract high in polyphenols (antioxidants) for maximum health benefits."<br /><br />Directions: For health benefits drink 2-4 cups of tea throughout the day.
+
+product/productId: B0043C0AQ0
+review/userId: A1FN34TZ05UAVY
+review/profileName: mary sunshine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: arrived perfectly!
+review/text: I wanted these sugar snowflakes to decorate my Yule log cake for Christmas. These were perfect, none broken, nice variety, arrived in plenty of time. I would order from this company again for cake decorating supplies!
+
+product/productId: B001IW16SE
+review/userId: A3R1D7H3PIFONU
+review/profileName: Michael Jandrok
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1280188800
+review/summary: Ramune is awesome fun!
+review/text: Ramune has to be one of the coolest and most unique soft drinks that I have ever seen. My kids had been dying to try this stuff ever since they had come across it on J-Box, the popular Japanese import webshop. Ramune is incredibly popular in it's native Japan, and now it looks like the fun is beginning to spread here in the States.<br /><br />To open a bottle of Ramune, you have to remove the top, pop out this little plastic plunger from it's casing, and then use the plunger to pop out a marble that seals the neck of the bottle. The neck of the bottle has two indentions that will hold the marble when you tip the bottle back to drink from it, keeping the neck of the bottle clear. Hold the bottle the wrong way, and the marble will clog things up. You can avoid carbonated overflow when opening by pressing gently on the plunger until it depresses the marble; knock it down with force and you're sure to get a fountain of spray.<br /><br />The melon flavor reviewed here has a very unique taste. Think honeydew more than watermelon, sweet and light with that distinctive Ramune lemon-lime backbone flavor holding everything together. Truly a treat.<br /><br />This is a way fun product that kids (and most adults) will have a blast with. It's a smaller portion (8 ounces) than what we're used to here in the US, but that actually works out for us as we're trying to limit the amount of soda that our kids consume. Ramune works great as an occasional soda treat and the fun factor alone keeps us coming back for more. Ramune is easy to find at just about any Asian market, but for those who don't have easy access to one, ordering here on Amazon would be recommended. Pricing at an Asian market should run in the $7.99 to $8.99 range for a six-pack.<br /><br />Also, for the safety conscious, I can attest that these drinks are very safe. We've never had a problem with the marble, and I can't find any reports on the internet that would indicate any safety concerns with this drink. It's not a choking hazard, in other words. Ramune means 'carbonated' in Japanese, and I can highly recommend this wonderful and very different drink.
+
+product/productId: B008D3BQEA
+review/userId: A12YZ1OMFQJNPG
+review/profileName: Tea Cup Lady
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344988800
+review/summary: Fantastic treat!
+review/text: I tried this tea at a tea room recently, and it was absolutely divine. The tea had a nice balance between sweet and spicy; almost like a chai tea, but even better. My friend, who doesn't like tea, tried it and absolutely loved it. Definitely a great tea.
+
+product/productId: B007FUA5K8
+review/userId: AXGN8A40PY8IE
+review/profileName: MW in Dallas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347580800
+review/summary: Yummy Organic Crackers
+review/text: I first discovered these crackers at Health Wise Foods (what a great little store!) in Montgomery, Alabama.  I had been looking for a low carb, reasonably priced cracker.  These are perfect!  They are delicious, organic and don't cost an arm and a leg. I will be ordering more of these.
+
+product/productId: B0013T8VSA
+review/userId: A36VM3U0148YRR
+review/profileName: Mingz "2die4 movies"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263772800
+review/summary: Fantastic Roast
+review/text: Robust, smoky, coffee that knocks you off your feet with its wonderful aroma and tastes even better with every cup.<br />Just like the coffee I drank in Venice, Italy. Quality product and worth every cent.
+
+product/productId: B004TNVSDW
+review/userId: A1I8F6JNIVQ6RW
+review/profileName: jaspertyler
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1326931200
+review/summary: YUM
+review/text: These are very good.  They have an amazing strawberry flavor and a great chewy center!  I love these!  I have tried one other brand which tasted kind of fake.  I will be buying these repeatedly!<br /><br />On my third order and these current bags are sort of defective because many of the pieces do not have the soft center.  They are still good but I like the soft center the best!
+
+product/productId: B004TNVSDW
+review/userId: A2IS1LUHS5J1EE
+review/profileName: Livin Easy
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1344384000
+review/summary: The real thing
+review/text: I tried 3 other strawberry candies, but the Arcor is exactly what I've been seeking:  great strawberry taste with gooey center.  Wonderful candy.
+
+product/productId: B004TNVSDW
+review/userId: A2Z74ZPCSEF8L5
+review/profileName: Candy lady
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350172800
+review/summary: Another Amazon Find - Fruit filled candy
+review/text: Delivered quickly, product was packed well. Have been sharing them at work and these strawberry filled candy are one of the favorite candies in my bowl! Great flavor too...perfect combination of hard and soft candy in one. Searching for these everywhere - Amazon does have everything!
+
+product/productId: B004TNVSDW
+review/userId: A2A2JTMWKI6XLM
+review/profileName: Jackie B.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349827200
+review/summary: Delicious!
+review/text: I love these candies, and these are the real deal.  Be careful about other knock-off Arcor brand candies out there.  This particular ones are great.  Nice soft/chewy center and has great flavor.
+
+product/productId: B004TNVSDW
+review/userId: A1GOT071JJNQD
+review/profileName: J. Bailey "jbgordfan"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340755200
+review/summary: The right ones!
+review/text: These candies are truly from ARCOR (the "good" ones you find in a mixed bag of hard candies), not the imitator. ARCOR wrappers have "ARCOR" written in silver on the green "leaves" on the wrapper, the red coloring on the wrapper is "orangier" than the imitation, and the "seeds" on the wrapper are more numerous and closely spaced. They have a better taste somehow. I am glad I persisted in my ordering to find the right item. The Amazon page titled "ARCOR Strawberry buds" is misleading and I received the imitation from Columbia SA, not Argentina, as the true ARCOR originates from. Those were returned. What can I say, I'm picky!
+
+product/productId: B004TNVSDW
+review/userId: AQFKSOKQ7WXVC
+review/profileName: john connor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343779200
+review/summary: yummy  yummy  yummy
+review/text: Strawberry Hard Kosher Candy only $14.69. it's my 3 no order in his product. i love chocolate very much. And i think he give me this on time..
+
+product/productId: B004TNVSDW
+review/userId: A90IJFRY0DT7Z
+review/profileName: Joyce Berzle
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1339718400
+review/summary: No soft filling in most candies
+review/text: These are supposed to be the candies with the chewy strawberry center.  However, most of the candies in the package were just strawberry hard candies.  Very disappointed.
+
+product/productId: B000FNM33Y
+review/userId: A2B5A4L9N8DEEP
+review/profileName: Barbi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1213574400
+review/summary: Excellent hot sauce
+review/text: Whew, boy, is this stuff ever hot!! But tasty! Many hot sauces have extreme heat - and there are some hotter than Dave's Ultimate Insanity now - but very few sauces combine the extreme heat with a very interesting flavor. Dave does exactly that with this sauce. If you can't take the heat, stick with your old Tabasco sauce, but if you want a new, exciting flavor with enough heat to knock your hat in the creek, try Dave's Ultimate Insanity. I know it will peel the wax off a hardwood floor, it says so right on the bottle! This sauce has a taste you can't refuse.
+
+product/productId: B0064KOOD4
+review/userId: A215QEI3FPLVXU
+review/profileName: Carol L. Chmiel "Carol Chmiel"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349136000
+review/summary: VANILLA TOOTSIE ROLLS
+review/text: You HAVE to try the VANILLA Tootsie Rolls!  The regular chocolate ones are good, but THESE are the BEST EVER!!
+
+product/productId: B004FVTQJQ
+review/userId: AKZKG2Z7CNV27
+review/profileName: BreezyPaige
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1330214400
+review/summary: False Advertising, Terrible Dog Food!!
+review/text: I bought this dog food because the bag showed pictured of veggies and chunks of meat, and with a name like "Beneful" I thought I was purchasing a nutritious brand of dog food. My dogs did eat this food at first, and slowly began to not like it. After reading the ingredients I completely regret purchasing it and feel just awful for feeding it to my dogs. The first three ingredients are Ground yellow corn, chicken by-product meal, and corn gluten meal. How disgusting is that?! The main ingredient is a corn filler. One thing my vet told me a while back that I never forgot: "When you eat corn, what comes out of the other end? The same thing happens with dogs." Basically, dogs cannot fully digest corn as they are carnivores. Corn it is just a cheap filler that can cause dogs to actually eat more to feel full, poop out more, and retain less nutrients. Most inexpensive low-quality pet foods have lots of these fillers and cheap ingredients with little to no nutritional value.The only meat in Beneful at all is a by-product, its not even a real meat! By-products are the stuff leftover once all the actual meat is harvested. We're talking beaks, chicken feet, eyeballs, even chicken poop! I would not recommend this product to anyone, for any reason, ever. It is an absolutely awful dog food. I can't believe the pictures of veggies and full chunks of meat on the bag can be allowed to be on the packaging if the product does not contain the pictured items; it is very misleading and should be considered false advertising.<br /><br />I recommend to stay far away from Beneful, and most Purina products. When purchasing a dog (or cat) food, the most important thing to consider is the first 3 ingredients; just make sure those first three are decent ingredients that you would eat yourself- provided that you eat a typical (non vegetarian or other restricted) diet. Now that I know what to look for, I usually buy my pets all natural foods such as Natural Balance, Blue Buffalo, Halo, or Wellness. High-quality foods tend to be more nutritionally dense, meaning you will be feeding a much smaller amount for the same number of calories. If you do the math to figure out the cost for the number of calories you need to feed your pet, many premium foods are CHEAPER than the awful crap you're buying at the grocery store.
+
+product/productId: B004FVTQJQ
+review/userId: A1Z4GII5CHCDG7
+review/profileName: K and B
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1321920000
+review/summary: Not Healthy
+review/text: We used to feed our dogs this until we read the ingredients. Despite being promoted as a premium, healthy dog food, this is not. It is made by Purina. The first two ingredients are corn (not good for dogs) and chicken by product (not good for anyone). Buy something else.
+
+product/productId: B004FVTQJQ
+review/userId: A1CMD08Z49PGKQ
+review/profileName: okiedan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335312000
+review/summary: Dog likes it and the quality is just fine
+review/text: Have been using this now with my dog for three years.  she is a lean mean happy machine.  vet always says she is just fine.  I supplement her diet with fresh carrots and apples which she loves.  Sure it may not be perfect but according to my vet why change what i am doing when her blood work, health checks etc are so excellent.<br /><br />PLUS as you can see I actually own this product.  Looking at the negative reviews is seems they sound just like commercials from tv.
+
+product/productId: B004FVTQJQ
+review/userId: A1U5OZKELSYUUI
+review/profileName: Green Eyes "Love Suspense!"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1329091200
+review/summary: I hate dragging dog food home from store
+review/text: Thsi si great way to buy dog ffod and it comes at regular intervals eliminating the need to run to the store often. One disappointment is that I would like to get a larger bag than the 7 lb.
+
+product/productId: B0069C21NM
+review/userId: A1TRLFRWQS093M
+review/profileName: George J Richter
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1331596800
+review/summary: Don't bother
+review/text: Delivery fine. Kobe beef WAY short of expectations. Thought $32.50 a pound (delivered) was too good to be true.  Apparently, it is. Cooked 3 steaks thus far using 3 different methods found on the internet (no cooking suggestions included in shipment or on vendor's website).  All 3 attempts resulted in tough meat.(Seared 2 minutes per side and then cooked another 3 minutes turning often).  I've had more tender Choice ribeyes from Fry's in AZ at $4.88 a pound. Very disappointed. These steaks were graded 7-9 BMS (so I was told in response to my email inquiry). I find that hard to believe.
+
+product/productId: B003RYBSEI
+review/userId: A23IXP312Q1B1Y
+review/profileName: Jamie R.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313452800
+review/summary: Great taste-Highly Recommended!
+review/text: I purchased these Jelly Bellys as part of a gift for my deployed husband.  They aren't allowed to drink over there, but I wanted something for him to be able to reminisce about fun nights out.  This fit the bill!  Wonderful taste (like all Jelly Belly products)!
+
+product/productId: B004UB4N6M
+review/userId: A2BJKZI1PC2DJN
+review/profileName: Anthony L. Poselenzny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Hot stuff
+review/text: Purchasing drinks on line can be worrisome. Will they be delivered without damage? These always are so well packed there never is any damage. This drink is very spicy and hot yet somehow thirst quenching. Also lower in calories than most drinks. It is my all time favorite!
+
+product/productId: B0007SNZS4
+review/userId: A24PC0GX4CWJ0L
+review/profileName: avg_customer
+review/helpfulness: 4/5
+review/score: 2.0
+review/time: 1273881600
+review/summary: just too expensive
+review/text: AlwaysDirect did an excellent job packaging and delivering.  They actually packed it with 2 freezer bags to try and keep it cool.  Now the freezer bags were complete thawed by the time i recieved it but I appreciate the gesture.  The chocolate was fine and not melted.  My only complaint is it is too expensive.  Target sells a 9.5oz bag for $2.99. This "tub" is 40oz(note: product description is wrong.  It is not 12/4.6oz packages; it is one 40oz tub).  So it should be no more then $12.59 and with the shipping it is 67% more expensive then just buying at Target.  Don't be fooled by the count because this is the foil wrapped andes and are 1/2 the size of the ones in the Target pack.<br /><br />So good product and delivery if you have no other option but way over priced.
+
+product/productId: B0007SNZS4
+review/userId: AQ01Q3070LT29
+review/profileName: James McDonald
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1139011200
+review/summary: The best chocolaty-mint treat for everyone.
+review/text: These candies are really a special treat.  They are a fantastic stocking stuffer for Christmas and a nice gift for Resurrection Day.  They are great for those delightful parties.  Very addicting to eat.  You can't have just one because you will eat the whole package in one day.  Don't forget to share them with your kids too.<br /><br />  To show someone you think they are special, give them an Andes Creme de Menthe Chocolate candy.
+
+product/productId: B000VK6MN8
+review/userId: A3Q1QOIOJRNATE
+review/profileName: Bear
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303603200
+review/summary: Taste Great
+review/text: I love how fast you can fix this Thai Peanut in the take out type of box just add hot water, ster then eat. It tastes great and is fast to fix. This is not the same Thi Peanut that comes in a regal type of box that is cooked in a pan on the stove top. I like the taste of this one better and it is easier to fix.
+
+product/productId: B000VK6MN8
+review/userId: A3DM2OAXKQR6U4
+review/profileName: Green Eyes
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1226707200
+review/summary: Horrid
+review/text: This is horrible, and yet the boxed stove-top version is five stars and we love it.  It is shocking how different this product is from the stove-top version (which is so flavorful and has a perfect texture) even though they are called the same thing, though it looks as if the ingredients differ.  The texture is goopy, the flavor is bland--it is sticky and plain.
+
+product/productId: B000Z97CD4
+review/userId: A3TCTY0N97LIL2
+review/profileName: Moin Fudda
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1271376000
+review/summary: Manuka Honey
+review/text: The Picture on the bottle displays Comvita Active 5+ Manuka Honey whereas supplier provided floral honey. Thus product was not to my expectation.<br /><br />Moin
+
+product/productId: B000LKYPSW
+review/userId: AWIQN687TIKNX
+review/profileName: Nyra Valle "Ni�a del Fuego"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1256774400
+review/summary: Deluxe Bar is Delightful
+review/text: Mmmmmm.  Recently tried the deluxe bar after trying all the other flavors and so far it is my favorite.  Thus far, the deluxe bars have been delicate and crumbly like halvah "ought to be".  Though I've only had a few bars, there is a possibility that I may come across one with that unpleasant cardboard texture (I've had this experience with the chocolate flavored bar).  I did squeeze several of the unopened deluxe bars and they felt soft and crumbly (Mmmmm).  I have high hopes for this bar and have a feeling that I may have hit the jackpot on this flavor.  Wish me luck!<br /><br />It would be nice if all the ingredients were listed here on amazon.  Although, had I known what the other ingredients are, I might not have ordered this flavor.  Besides sesame seeds, sweetener etc., there are raisins, pumpkin seeds, almonds, sunflower seeds, cashews and pistachios, but I have, to date, only noticed almonds. Most of the other ingredients may be very well ground into the mixture or maybe I have not eaten a bar with noticeable pieces of the other ingredients.<br /><br />After placing my order, I read the ingredients on the Camel's web site and my mind thought "Oh no, big chunks of raisins, nuts and seeds will ruin my halvah eating rapture."  Not So.  I'm delighted!
+
+product/productId: B000LKYPSW
+review/userId: A2DJFN6DQQ8WF9
+review/profileName: E. Carr "tinkerbelle"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1244937600
+review/summary: Halvah Bars
+review/text: When I received my order these Halvah bars didn't look like<br />the ones I used to buy in the fridge section of Publix.  I<br />gave some to my adult kids to try, and after my first bite<br />I wasn't sure.  These are not dry like the bars I used to buy,<br />but they have a bit of corn syrup in them and you won't want<br />to stop after a few bites.  My boys enjoyed them a lot.
+
+product/productId: B000LKYPSW
+review/userId: AI4HDXODOCMXC
+review/profileName: fritterer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325289600
+review/summary: the best thing for a healthy sweet tooth fix
+review/text: I don't know why this isn't the most popular thing out there on the "energy bar" circuit.I know it's not billed as an energy bar but who's to say it's not? It only has good stuff in it. It doesn't have cane sugar, it has protein, and it's delicious. Sometimes you get one that seems a little taffy-like and tough. I'm assuming that maybe it's been around longer. But at their best, they are creamy, moist, sort of sandy textured, and very flavorful. Just sweet enough. I can be satisfied with a couple of bites if I just want something after a meal. All the flavors are good, but I think this is my favorite.
+
+product/productId: B000LKYPSW
+review/userId: A160XJ7ODWSSDV
+review/profileName: Solar Powered
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1234569600
+review/summary: Best Ingredients
+review/text: It's the only Halvah I've found without partially hydrogenated vegetable oil. It is less sweet than most, but it has the healthiest ingredients.<br />I also found many bars had dark oily stuff on the outside of the wrapper.Hmm. But if you like Halvah, here's one without the PHVO.
+
+product/productId: B000LKYPSW
+review/userId: A2TPOYNEEWCB47
+review/profileName: Deb McM
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1221782400
+review/summary: Different but good
+review/text: The first thing I noticed when I opened the box was that every bar wrapper was oily. Don't know if something leaked or it came like that from the factory.  So far every bar has been well sealed.  I wasn't thrilled with the first bite because I was expecting something sweeter and dryer like I have had in the past. But now that I'm used to the taste and texture I really like them.  They even feel healthy. They are very filling and make me feel that I had a nutritious snack.  You might want to try one before buying a whole box, but I do find them quite tasty
+
+product/productId: B000LKYPSW
+review/userId: A3MHH28C6K3T7W
+review/profileName: S.D. Amazonian
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1217980800
+review/summary: excellent, but sometimes inconsistently textured
+review/text: I've been buying Camel Halvah for years and it is the best Halvah I've come across. I really like that they don't load it up with preservatives or hydrogenated oils, like so many other brands. On the negative side, the texture can be inconsistent between batches - sometimes dry, sometimes oily. Regardless, it is still delicious!
+
+product/productId: B000LKYPSW
+review/userId: A16KK3YHCWE29C
+review/profileName: QF Jane
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1209686400
+review/summary: Grows on you
+review/text: All of the Camel halvah bars are relatively dry and tasteless.  The more you eat them though, you may decide (like me) that they aren't so bad, lol.<br /><br />And they make a great snack for my 2 year old who often asks for a snack at bedtime or in the car, both times when I don't want to give much sugar.<br /><br />All-in-all a nutritious although tasteless snack that comes in handy often.  I have purchased 6 boxes of various varieties and Amazon was fast with the delivery.
+
+product/productId: B000LKYPSW
+review/userId: A16Y7ZZLEU6C7U
+review/profileName: Southern Girl
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1221004800
+review/summary: Tastes like wood chips
+review/text: I expected a creamier texture with some taste. Big mistake! This tastes like crushed wood chips with an oily exterior. I found no raisins to sweeten it and maybe two small pistachios.<br /><br />I rate it two stars because of its low carb content. I guess when I play 18 holes of golf I can use it as a substitute for lunch...with plenty of soda or beer to wash it down with.
+
+product/productId: B003FX2L1A
+review/userId: A1RASVNPPM7XTV
+review/profileName: Mark Bastings
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1284681600
+review/summary: Swwet & Sour Twizzlers
+review/text: These are great, wish there were more than the two flavors but they taste great.
+
+product/productId: B003FX2L1A
+review/userId: A2FYW9CVOEMM2K
+review/profileName: Dilllovesswords
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324512000
+review/summary: mmmm  twizzlers
+review/text: I know not many people really like these sour Twizzlers but my god they are delicious. great price for such a large box lasted me a month.
+
+product/productId: B003FX2L1A
+review/userId: A1QUHPI9XPUU3S
+review/profileName: J. Seavitte
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288569600
+review/summary: wonderful treat
+review/text: Hard to find in stores.  Just sweet and sour enough.  Wish there were more flavors and easier to find.  Like the smaller packs so husband and I just split one when we need something sweet after dinner.  Low in calories so not a bad treat.
+
+product/productId: B003FX2L1A
+review/userId: A332NVJK82ZCBU
+review/profileName: P. Meyer
+review/helpfulness: 1/9
+review/score: 1.0
+review/time: 1283558400
+review/summary: Absolutely horrible. Tastes like cleaning solution.
+review/text: I'm a big fan of regular Twizzlers. If you think that these Sweet & Sour Filled Twists are anything like regular Twizzlers then you will be sorely disappointed. These taste absolutely horrible. They taste like sucking on a bottle of cleaning supplies, or maybe like cheap side-of-the-road reststop hand soap. Further, the texture is like soft plastic filled with elmer's glue. Nevermind the bad taste, the texture is so gross you won't want to eat these. These are also very, very unhealthy with a whopping 70 calories PER TWIST. Avoid this candy at all cost--it is repulsive.
+
+product/productId: B000JQALA4
+review/userId: AIS3BCD40MD9Q
+review/profileName: Terryl L. Pugh
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1202428800
+review/summary: Greenies
+review/text: My dog loves these treats.  Our vet recommended them for improved dental health, but no one carries the small size locally.  My dog is only 9 pounds, so these are great!
+
+product/productId: B000JQALA4
+review/userId: A3HY9EMJSJUY4Q
+review/profileName: Sally
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333324800
+review/summary: Doggy loves 'em
+review/text: We buy the teenies for our dog.  She only weighs 8 pounds and absolutely adores these edible bones.  These bones are her absolute favorite treats.
+

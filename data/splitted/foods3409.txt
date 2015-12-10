@@ -1,0 +1,1143 @@
+product/productId: B000SATIE6
+review/userId: A59SFSJ6ZALXJ
+review/profileName: jootje
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1325289600
+review/summary: wonderful tasting tea
+review/text: This tea has lots of flavor and is of high quality. I highly recommend this to any tea lover. It is great by itself and as a base for home made chai.
+
+product/productId: B000SATIE6
+review/userId: AK1ZZSYOFZGBG
+review/profileName: L. KRAMER
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323388800
+review/summary: Davidson's Rooibos 16 oz bulk tea
+review/text: Thank you Davidson's for making such delicious teas.  This one is my favorite so far.  It has a hearty flavor and I love that I can buy it in bulk making it more reasonable.
+
+product/productId: B000SATIE6
+review/userId: AMX5105R0N5BY
+review/profileName: Jennifer S. Garfinkle
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323129600
+review/summary: Awesome stuff
+review/text: For how little (per ounce) it cost, the quality of this item is extremely good. No frills, nothing fancy, just good, plain rooibos.
+
+product/productId: B000SATIE6
+review/userId: A3IWA5NCQV9VH0
+review/profileName: Aynabat A. Khaidova "Anya"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1310342400
+review/summary: Very good product, tasty tea
+review/text: I am going to buy it again, my family members liked it very much! It is not only tasty, it is so healthy and at affordable price. Thank you, Amazon!!
+
+product/productId: B000SATIE6
+review/userId: A10NNTI053DHVR
+review/profileName: K. Lynch "Wiseshopper"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1304208000
+review/summary: Kat
+review/text: This tea is excellent. I expected a great tea and I got one with this product.  It is flavorful but no flaver overpowered another and I like the fact that it is organic. It is really good iced with a little sweetener or your choice and milk.
+
+product/productId: B000SATIE6
+review/userId: A2HYG63E02ULZC
+review/profileName: Consumer
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1304035200
+review/summary: I will never buy teabags again
+review/text: This stuff is great. I wasn't sure when I took my first drink as it was unlike anything I had ever drunk before. Very flavorful.
+
+product/productId: B000SATIE6
+review/userId: A1B34OJYLE7KXV
+review/profileName: Richard Hill
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1283126400
+review/summary: Not a new favorite.
+review/text: I rate it high-ish because it tastes fresh and I'm sure it's authentic, but...it doesn't seem to have a lot of flavor.  I'm sure it's good for you and whatnot.  I blend small amounts of it into my coffee (I don't taste it).  I've heard from friends that it's good when blended with hibiscus, so I'm going to give that a try.  So purchase this tea if you want, but buy something else to blend it into.
+
+product/productId: B000SATIE6
+review/userId: A2TY83N6WBXM7A
+review/profileName: John Lazar
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1305417600
+review/summary: Tastes like hay
+review/text: Love Davidson's Teas but this is not one of my top picks.  Just like other reviews, tastes grassy and like hay.  Probably not going back to this type.
+
+product/productId: B000SATIE6
+review/userId: ABFBFXOBHGAGJ
+review/profileName: Dominic Conner
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1320883200
+review/summary: Not Good for Iced Tea
+review/text: Tried this for iced tea. It wasn't terrible, but not that good. Tasted funky to me. It may work for hot tea, but I wouldn't recommend it for iced.
+
+product/productId: B000SATIE6
+review/userId: AK2VKH5OUXEE2
+review/profileName: judy
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1302652800
+review/summary: Davidson's South African Rooibos
+review/text: Too fine for my tea ball (which is average size, I think.)  Some of the tea sifts through.  Also, I wish it were stronger in flavor.
+
+product/productId: B000SATIE6
+review/userId: A3D39SPY9FG0E2
+review/profileName: Dawn Marie Briggs "DawnBird"
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1345420800
+review/summary: Boy was this one a mistake!
+review/text: I thought by all the rave reviews that this was gonna be good choice but I only have one word to say....YUK!
+
+product/productId: B000SATIE6
+review/userId: AAHB25WK5VLBK
+review/profileName: Joseph E. Mercier "trinityfly"
+review/helpfulness: 1/6
+review/score: 3.0
+review/time: 1254700800
+review/summary: A little goes a long way
+review/text: This tea has a strong and very unusual taste and smell. I like it but in small quantities.
+
+product/productId: B000SATIE6
+review/userId: AT5BP7OVH92WT
+review/profileName: Dinesh A. Gomes
+review/helpfulness: 61/64
+review/score: 5.0
+review/time: 1247875200
+review/summary: Great tea, great value for money, great for high blood pressure!
+review/text: My wife suffers from high blood pressure and not wanting to get hooked on blood pressure medicine, sought out natural ways to control her blood pressure. A collegue of her's recommended rooibos and thats how we started drinking it. Its expensive to buy by the teabag and this product was the best value for money we could find. Love the taste, no additives and best of all, my wife's blood pressure has come come down noticably(she's been drinking a large cup daily for the last six months).
+
+product/productId: B000SATIE6
+review/userId: A3O6VJS3L852B8
+review/profileName: awakening
+review/helpfulness: 54/58
+review/score: 5.0
+review/time: 1280793600
+review/summary: Very good tea
+review/text: This is a great tea. I highly recommend all Davidson's teas and I am really glad I discovered them for myself and my family- chamomile, rooibos, hibiscus, green teas- the price is great and you get the organic tea of high quality & quantity.<br /><br />Rooibos tea, like green and black tea, has been found to be rich in anti-oxidants and flavonoids. In fact, Rooibos tea has been found to have as much as 50 times more SOD than Green Tea. It also has other anti-oxidants not found in other teas.<br /><br />The effect of free radicals (a by-product of normal cell function) in the process of aging and declining of the immune system is limited by the anti-oxidants in Rooibos tea.<br /><br />Rooibos tea is completely pure and natural, as it contains no additives, preservatives or colorants. It is a soothing drink for people on a calorie-restricted diet, without adding kilojoules.<br />Rooibos tea is also strongly recommended for people suffering from irritability, headaches, disturbed sleeping patterns, insomnia, nervous tension, mild depression or hypertension. Rooibos tea contains no caffeine and therefore has a soothing effect on the central nervous system. Rooibos tea is also low in tannin and therefore does not have a negative effect on the absorption of iron and proteins into the body.<br /><br />Rooibos tea has anti-spasmodic properties, thus relieving stomach cramps and colic in infants. Rooibos tea also relieves stomach and indigestive problems like nausea, vomiting, heartburn, stomach ulcers and constipation.<br /><br />Furthermore, rooibos tea also supplements the daily amounts of calcium, manganese and especially fluoride, needed for the development of strong teeth and bones. It contains zinc and alpha-hydroxy acid, which promotes healthy skin and magnesium which is necessary for a healthy nervous system.<br /><br />Rooibos tea has a soothing effect on the skin, relieving itching and certain skin irritations like eczema, nappy rash and acne when directly applied to the affected area.
+
+product/productId: B000SATIE6
+review/userId: AB5BWN01B0DI7
+review/profileName: Pretty Fly
+review/helpfulness: 21/22
+review/score: 5.0
+review/time: 1229558400
+review/summary: High Quality Rooibos! Very good deal!
+review/text: I have tried many various Rooibos tea and this tastes one of the best for me. It is very good value for the amount, I've been drinking one bag for almost 6 month now. Highly recommended for Rooibos tea lovers!
+
+product/productId: B000SATIE6
+review/userId: AB52L6CVTE398
+review/profileName: David C
+review/helpfulness: 18/19
+review/score: 5.0
+review/time: 1208390400
+review/summary: Excellent value, excellent product.
+review/text: I have been drinking Rooibos now for sometime and have become quite fond of it both for its taste and health benefits.  This is an excellent product at a great price.  I usually brew it at night and take it with milk.  It can also be taken without milk and has a mild sweet taste on its own.  Love rooibos (redbush) and can't recommend it enough.
+
+product/productId: B000SATIE6
+review/userId: A2MSQNPTNAAGL1
+review/profileName: P. Cannon
+review/helpfulness: 13/13
+review/score: 5.0
+review/time: 1244592000
+review/summary: very soothing tea!
+review/text: Rooibos (Roy-boss) tea is surely an acquired taste but once you get use to it it's really quite good! This one brews up a very nice deep dark reddish color. The taste is not easy to describe, it is deep and earthy. This tea does not have caffeine so it is a great tea for those that can't have or don't like the feeling you get from caffeine. This is a very nice soothing tea I find myself reaching for more and more!
+
+product/productId: B000SATIE6
+review/userId: A1WV25LU9QKGDZ
+review/profileName: Al Chartreux
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1243296000
+review/summary: Quality Stuff
+review/text: I have been drinking this Rooibos from Davidson's, along with their South African Honeybush, for the past six months, and I can't believe I was missing out on these great tea varieties for so long. This Rooibos has a delicious aroma and makes some of the best homemade iced tea I've ever tasted, with a gorgeous deep red color. Just be sure to store it in an airtight container after your tea arrives, because it comes in a paper bag that is not meant for long-term storage and will let the aroma out.
+
+product/productId: B000SATIE6
+review/userId: A1JDN0P217AM54
+review/profileName: Leroy Johnson "www.sorryaboutleroy.com"
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1246147200
+review/summary: Excellent Rooibos tea at a great price!
+review/text: I receive a pound of this tea every month and I love it. This is a great, organic tea that is caffeine free and full of anti-oxidants. It makes excellent ice tea as well. I highly recommend buying Rooibos Tea through Davidson's Tea Company & Amazon.
+
+product/productId: B000SATIE6
+review/userId: A3T2S9HKS408U0
+review/profileName: Rob
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1242777600
+review/summary: Nice, flavorful, relaxing tea
+review/text: Rooibos tea is "sweeter" than other teas.  I just use a little honey to flavor it.  This tea is very good, I even make 2nds with it.  A nice caffeine-free break from green tea.  Sometimes I will have green in the morning and this before bed.<br /><br />Davidson's used to be very slow on their delivery, but my last 2 orders have arrived ahead of schedule.  Much improved.<br /><br />The product comes in a plain brown bag, but I quickly put it into a sealed container so that is not a problem.
+
+product/productId: B000SATIE6
+review/userId: A26ANT7EUKSJR1
+review/profileName: Mary Jane "MJ"
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1238889600
+review/summary: Great Tea!
+review/text: I have never tried rooibos before and was pleasantly surprised when I drank my first cup.  I now drink it daily in the afternoon and it has fast become my favorite tea.  I usually drink it blended with Jamaica sorrel (hibiscus sabdariffa also known as roselle) and African honey bush and just add a few drops of lemon juice.  It tastes great every time, served hot or cold.  I sometimes add rose hips to the blend, and this further enhances the taste.  I am running through my rooibos in no time, so I am about to place another order and this time I am also going to add the green rooibos to my blend.
+
+product/productId: B000SATIE6
+review/userId: A3HCJUKVEBCR8R
+review/profileName: KAY H
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1209168000
+review/summary: GOOD QUALITY TEA
+review/text: I drink Rooibos tea because its caffeine free, great mild taste and has a beautiful clear red color.  Its a good quality product at a good price. Now that I know the quality of Davidson's product, I am going to try different tea products from them.
+
+product/productId: B000SATIE6
+review/userId: AEBXWBD99FWW0
+review/profileName: A Reader "Laying Low"
+review/helpfulness: 10/11
+review/score: 3.0
+review/time: 1321142400
+review/summary: Davidson's Bulk Rooibos
+review/text: I originally purchased the Choice brand tea bags and fell in love with the Rooibos flavor.  However, you get 6 boxes of 16 bags for twice as much money with the bag tea.  So I bought this to save money and found that this brand doesn't have quite the same richness.  I put 4 teaspoons in 16 Oz of water and brew it for 10 minutes and it lacks the flavor of a single bag of the Choice brand tea in the same amount of water.  I have even added extra to try and duplicate the flavor and it just isn't the same experience.  Don't get me wrong, this tea does not taste bad or anything like that, it is just different from what I expected and my only other experience with the Rooibos flavor was the Choice brand.  I am going to have to search around and see if I can find a loose tea with the same flavor as Choice.
+
+product/productId: B000SATIE6
+review/userId: A2RRVOATBJZTPG
+review/profileName: rosie7777
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1333756800
+review/summary: Wood Shavings
+review/text: I enjoy rooibos tea very much and drink it all the time.  Usually loose tea is fresher and better tasting.  I was wrong.  This tastes like stale wood shavings.  I think this sat around in a warehouse for a while.  Odd that Amazon did not have this product in the "leave feedback" email I received.  I had to do a little search to leave this post.
+
+product/productId: B000SATIE6
+review/userId: A260EOWY9JBUZU
+review/profileName: DS
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1325030400
+review/summary: maybe i got a bad batch
+review/text: I have had several rooibos teas.  Most in tea bags. some at starbucks.  As soon as I opened the bag I knew there was a problem because it was ground almost as fine as coffee.  It went straight through my tea diffuser and the grounds were all in my cup, plus it tasted nothing like any rooibos I have ever had.  Pretty bad actually.  Highly disappointing.  I was so excited about this shipment.  Do not order this.  get it from your natural foods store where you can see it if gonna get in bulk.  If not stick with the 10.00 boxes of these tea bags for sale.  Tastes like you could use this in an iced tea machine maybe with a fine filter so you can brew like coffee.  Otherwise useless.
+
+product/productId: B000SATIE6
+review/userId: A2P6KPSD5S0MY6
+review/profileName: William C. Everett
+review/helpfulness: 5/5
+review/score: 1.0
+review/time: 1328486400
+review/summary: Weak taste, smells good, very dusty
+review/text: Smells good, tastes weak and the batch I got was very dusty and the small particles did not get filtered out with a standard strainer. You cannot make multiple infusions with this stuff. This is fairly disappointing, but I suppose something has to be wrong with a very cheap bulk tea. I probably wouldn't buy it again for this reason. If you don't mind a little debris on the top of your cuppa or using a lot of tea in your infusions, it's okay.
+
+product/productId: B000SATIE6
+review/userId: A3VGVVVFHWLSJY
+review/profileName: Roy H. Davis
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1288569600
+review/summary: Tasty Tea
+review/text: We have been paying big bucks for little cans of Rooibos tea at the health food store and brewing ice tea with it that we drink by the gallon. I was surprised that the Davidson's Rooibos was richer and tastier and brewed up a nice clear amber/brown color. Better quality and less expensive!
+
+product/productId: B000SATIE6
+review/userId: A2YV1BOXUMTF03
+review/profileName: Konrad Haskins
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1289779200
+review/summary: Great Tea especially before bed
+review/text: This is a classic from South Africa and I'm from the same place so it's not new to me.  This tastes like Rooibos should taste.  The picture shows a brown paper bag.  Mine arrived in a high tech foil pouch with a brown paper exterior.  Which after you cut off the seal has a zip lock top. No need to find another container as one reviewer suggested now that the packing is improved.  I sleep best when I drink Rooibos before going to bed.  I like drinking it all day.  It's good for you and caffeine free.  I drink it with milk or Almond milk.  The history of Rooibis is it was developed as a tea substitute in South Africa due to the expense of importing tea in the 1700's and 1800's.  It's not a true tea and what's in the bag is a lot finer than a traditional loose leaf tea.  Until it expands from hot water a few of the tiny leaves will slip through most brewing devices.  The leaf size is just a FYI, not a problem for me.  With the free shipping from Amazon this is probably the best Rooibos bargain in the USA.  For the true South African experience you need to dunk Beskuit (pr. Bess-kate) a Biscotti like rusk in your Rooibos tea.  Amazon carries "Ouma Rusks" the number one brand of Beskuit in South Africa or just Google the recipe, I bake my own.  Being that this product is from South Africa UPS decided to send my Prime 2nd day air order via Timbuktu, but I won't knock the product for UPS's incompetence.
+
+product/productId: B000SATIE6
+review/userId: A2K9V5HTLLGJXU
+review/profileName: E. Bryant
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1237766400
+review/summary: Great Loose Tea
+review/text: We love rooibos, tasty and healthy too.  This makes a great pot of tea and goes with milk, cow and soy varieties quite well.  Recommended for all tea lovers, especially rooibos fans.
+
+product/productId: B000SATIE6
+review/userId: A1E0HBR6EZBW4W
+review/profileName: George R. Wallace
+review/helpfulness: 10/13
+review/score: 1.0
+review/time: 1298246400
+review/summary: Very interesting
+review/text: I've been reading the other reviews and am quite perplexed. When I brewed the first (and only) pot and took that first sip I felt that there must be some mistake, no one would have emptied an ash tray into my tea pot on purpose, would they?  I really had to check for cigarette butts.  The taste of this tea...well, is very interesting.
+
+product/productId: B000SATIE6
+review/userId: A2ERFHYE6O2TNG
+review/profileName: A. Gray
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1303689600
+review/summary: Disappointed but can work
+review/text: I don't know how to feel about this tea.  This tea looks and smells like good quality rooibos (although a little finer than other inexpensive loose rooibos I've purchased), but the taste is a bit lacking.  I found the taste to be a little dull and diluted however for this price point, it is easy to overlook this a bit and compensate with longer brew times and slightly more loose tea.  I've found that you really do need the full 2 rounded teaspoons per 8 ounces plus a little extra and brew for a minimum of ten minutes rather than five (this also helps get more of the nutrients out of it anyway).  This ends up making a fair cup of rooibos.  I should note that I drink mine plain - no sweetener, no milk, etc.  I will probably purchase this again just because it is so inexpensive, and I enjoy rooibos.  It tends to be hard to find just plain and especially in this quantity for this price.  Just make sure you use the right amount of loose tea, and this can make a decent cup of rooibos for the price.  Can you buy better?  Sure - keep in mind it's organic and the quantity/price point so if this is a daily drinker for you and you use a lot quickly, it's worth it.<br /><br />Pros - inexpensive, good smell, rich/dark color, organic, plain rooibos without additives<br />Cons - weak/dull flavor, little finer than other loose rooibos
+
+product/productId: B000SATIE6
+review/userId: A28QNHQLEPTO1
+review/profileName: D. Bordelon
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1283212800
+review/summary: Enjoyable and very affordable
+review/text: Though I haven't tasted any other rooibos tea, and thus have no frame for comparison, I do drink a fair amount of loose tea.  I ordered this tea to try a new style, and also because a pound of it costs what many loose teas cost for only two ounces.  I therefore had fairly low expectations, but was pleasantly surprised--I really like this tea!  I drink it almost daily and I find that it helps me wind down before bed.  (On the other hand, it doesn't make me drowsy by itself, so I can drink it fine any time of the day.)  Whatever health benefits it has are just a bonus; I drink this tea for its taste, and I'm pleased to say that it's the cheapest loose tea in my cabinet.<br /><br />I was also pleased with the packaging.  Based on the photo and price, I expected a plain paper bag, from which I would need to transfer the tea as soon as I opened it.  Actually, the bag is quite sturdy and lined with plastic on the inside.  It is also resealable like a Ziploc.  Since I don't have any tins large enough, I just keep the tea in the bag as it is.
+
+product/productId: B000SATIE6
+review/userId: A382PTU5H7H2VU
+review/profileName: V. Lau "V"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1283126400
+review/summary: Davidson's Organic South African Rooibos, 16 oz bag
+review/text: I was a little worried by the other reviews but I really wanted to try this 'tea' because of its health benefits and because it is caffeine free.  When I got my order and made some to drink, i really like it...it is now my favorite drink next to my japanese macha tea.  The fragrance out of the bag reminds me of cherry tobacco and when the drink is made, it has a beautiful reddish clear color and the scent is like a deep rich red tea scent.  I drink it straight, no sugar or honey and i love it.  I would buy again and I recommend this product.  Enjoy!
+
+product/productId: B000SATIE6
+review/userId: A1RLP0R1N8H8C4
+review/profileName: Kitten Kisser
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1276473600
+review/summary: A Delicious Tea at an Amazing Price!
+review/text: I cannot get over the deal you can get when you participate with the Amazon Subscribe & Save program for this tea!  If you are nervous about commitment, don't be!  You can cancel at any time.  You can change your preferences any time as well!  On top of that, the tea ships for free & you don't have to worry about remembering to order more!  Or if you are running low, you can opt. to have your shipment sent sooner!  It's really great!<br /><br />I really enjoy this loose leave Rooibos.  I drink it iced.  I love that I can let it brew forever without having to worry about over brewing it.  It's also great that it is caffeine free because I usually drink unsweetened iced tea rather than water.  Last thing I need is to OD on caffeine!  The color when it brews is really pretty.  It is a beautiful reddish brown.<br /><br />The downside is the tea is rather fine & it goes right through my big ol' tea ball.  I made reusable giant tea bags that are just for brewing this tea!  So make sure you get a super fine mesh tea brewer or buy loose leaf tea bags to use with this!
+
+product/productId: B000SATIE6
+review/userId: A2XB633DKUO3KZ
+review/profileName: Jonathan A. Young
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1237766400
+review/summary: You can't go wrong with this rooibos
+review/text: I must say that I don't notice much of a difference between the bulk rooibos teas that I have tried.  With that said, this is as good as any I have tried, and the best price by far.  I personally like green rooibos even more, which to me has a more complex and delicate flavor.
+
+product/productId: B000SATIE6
+review/userId: A1A1LCFV1WXLJP
+review/profileName: Reviewer Of Things I like
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1232496000
+review/summary: Great price on my favorite tea
+review/text: This is a delicious variety of rooibos tea - my favorite!  It's full of good stuff and naturally caffeine free so it can be enjoyed any time of day.  (For me that usually means all day long)
+
+product/productId: B000SATIE6
+review/userId: A2R576U55NG9
+review/profileName: Russell V. Sopko
+review/helpfulness: 12/16
+review/score: 3.0
+review/time: 1271980800
+review/summary: Davidson's Rooibos tea, not infuser friendly.
+review/text: I have been using loose teas for many years.  However, Davidson's Organic South Sfrican Rooibos tea was cut so thin that a lot of the tea and sediment goes right through most tea infusers. Actually, the Rooibos tea seemed to be cut for tea bag use and was accidently placed in the wrong container. I would question the company before ordering.  PS: Since I ordered the tea from Amazon.com, they stood behind by complaint and rectified the problem immediatly. Never a problem when dealing with Amazon.com.  Russ (Russell3006) Amazon.com Storefront.
+
+product/productId: B000SATIE6
+review/userId: A3ADK9B0MGA6GZ
+review/profileName: Willstersmalicious
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1341273600
+review/summary: Great Tea Well Done
+review/text: I'm a South African living in a place where Rooisbos is otherwise very very expensive.<br /><br />The tea itself has a taste as good as anything you'd buy in South Africa, the packaging is nicely minimal and the price has turned it from a luxury into an everyday product (which is what it is in South Africa).
+
+product/productId: B000SATIE6
+review/userId: A2WGG5MH2RUVQY
+review/profileName: Woodsyliberal
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334102400
+review/summary: Yummy
+review/text: This tea is delicious.  Let it seep for awhile.  Next time I will get tea bags.  Loose tea is not for everyone.  It seems to help a little with my pain, but that could be the placebo effect.
+
+product/productId: B000SATIE6
+review/userId: A24DLARJZJ0843
+review/profileName: Thoradog
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331942400
+review/summary: great tea
+review/text: I am in no way a tea connoisseur but I really like this tea. I was buying Twinnings Rooibos in the bags and that's just not economical compared to bulk tea. I enjoy the taste of this tea and find it as good or better. You will need the extra fine tea strainers though, the tea is too fine for the common balls or cheaper presses.
+
+product/productId: B000SATIE6
+review/userId: A33Z8XGNCHQDR9
+review/profileName: X. Xu
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1331337600
+review/summary: Affordable bulk rooibos
+review/text: If you drink a lot of rooibos, this is perfect for you. This is a very standard, run of the mill rooibos and hits the spot. It's not extremely fragrant but the flavour is right and it's perfect for brewing up a bit pot. This is a huge bag though so I don't think I will buy it again (at the very least, it'll take me a year or two to get through it, and that's with drinking a lot more rooibos than I normally do!). It would be more useful if the retailer sold teas in a smaller amount (say, 4oz or 8oz). Even if you're a heavy tea drinker like I am, it'll take you a while to finish this bag, and that's assuming you're not interested in variety.<br /><br />Also, to the reviewer who previously said that the product was so ground up it was unusable; rooibos tea is an herb, its not actual ground up tea leaves. All "loose-leaf" rooibos looks like this and admittedly, it can be a bit of a problem with tea brewing contraptions that have larger filters than others, but this is a problem inherent to rooibos itself and not this specific product from this specific maker.
+
+product/productId: B000SATIE6
+review/userId: A3H7DJ8TDWZTIC
+review/profileName: Julie Holy "bookie  book"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330560000
+review/summary: great cup of tea  !
+review/text: This is a very nice tea  --has a mild taste and doesn't require anything added  -- It is very good tea  -- nice mild taste  -- very simple  --  I like that  -- just Rooibos Red Tea  --  I love loose teas and I have liked the ones I have gotten from Davidson's  -- This is a great value  ------  I actually thought I had ordered the Chai Rooibos and was going to send it back but I am glad I didn't  - I am very pleased with tea  --  Sometimes those other flavors can overwhelm  them  but I am trying that one next  -
+
+product/productId: B000SATIE6
+review/userId: A1UA9OFOSQJFIY
+review/profileName: kdextraze
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329696000
+review/summary: Great Tea
+review/text: I love this tea - delicious rooibos in a light-protective bag. Shipped quickly.<br />I spent a good amount of time online trying to find organic loose-leaf tea and I finally found it. This large bag will keep me for a while, but next time I'll definitely come back to Davidson's.
+
+product/productId: B000SATIE6
+review/userId: A2ZO1A4MFM3GFJ
+review/profileName: student
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327881600
+review/summary: Favorite tea
+review/text: This tea is very enjoyable. It's soothing and has a pleasant light sweetness. I brew it in a coffee pot in place of coffee- 1 tablespoon per 2 cups. It is also very good when mixed with spiced rooibos tea bags to make them more mild. It tastes a little bitter/earthy when chilled, but the initial flavor is easy to adjust to. I also add flavored green tea to the rooibos when making it into iced tea. A good combination is raspberry green tea with rooibos. I haven't had much luck blending flavors of black tea with the rooibos. It's fun to experiment with the flavors. I also think the price is very reasonable, and the package is resealable, so you can keep it fresh. I just squeeze the air out before closing. This tea has more antioxidants than green tea. Maybe that's why I feel better during the day if I start my morning with a cup.
+
+product/productId: B000SATIE6
+review/userId: A3CPX9XWN4ZAFK
+review/profileName: wefishallday
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327449600
+review/summary: DELICIOUS
+review/text: Just received and made last night. Surprisingly delicious - both hot and cold with ice!<br />And has a natural sweetness. Tastes like tea even though it's not. Deep color.<br />Nice to have an evening drink that is caffeine free and<br />full of good antioxidants.<br /><br />Very nice packaging with zip-lock enclosure, but with the large amount that comes with this order,<br />I'll probably put it in my large tea tins to keep it fresh longer.<br /><br />Great Price! Will buy again.
+
+product/productId: B000SATIE6
+review/userId: A2E7GTHO4UA786
+review/profileName: ScottyD
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319760000
+review/summary: A steaming mug of happiness
+review/text: High-quality, straight rooibos - and plenty of it.  The flavor is mild, so use plenty of leaves - it won't get bitter on you, and the flavor really comes through as you brew it stronger.<br /><br />I haven't tried to yet, but I can imagine this would make a good base to mix your own fruit or floral tea.<br /><br />And a whole pound of it will last a while.
+
+product/productId: B000SATIE6
+review/userId: A2I7H7Y9P7W1DS
+review/profileName: Amy Weierman
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319587200
+review/summary: By far the most healthful tea in my opinion
+review/text: I was turned on to rooibos tea by a nurse practitioner I was working with in the emergency department during flu season.  She drank a mug of this daily, and swore she never got sick.  As a PA, I did some research about this leaf and was nicely surprised to find there is some scientific weight behind this tea!  It has great anti-inflammatory properties, and I have noticed improvement in my immune function - everybody else in the house will have a cold, or the flu, etc. and I'm the one still feeling fine and going to work.  There is also evidence to show it can help to keep blood sugar under control in type 2 diabetes.  After reading other reviews, I feel I should mention that it has not helped with my chronic migraine problem, but that's not why I started drinking this tea.  And it tastes pretty good, hot or iced - well worth trying!
+
+product/productId: B000SATIE6
+review/userId: A3W0BQMJ5J4O0E
+review/profileName: mw415
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1300233600
+review/summary: Taste is Subjective, Especially with Different Teas
+review/text: I recently started to drink 2 or more cups of both the red and the green varieties of Davidson's Rooibos teas.  Personally, I like the tastes of both varieties and enjoy drinking the tea, regardless of any consideration of potential health benefits.  For me, the tea requires no additives, which are found in other brands and/or used by other consumers.<br /><br />But taste is such a personal, subjective thing and it is understandable why the Amazon reviews for this product contain such diverse opinions in this regard.  My suggestion is to try the pure form before you make a decision based solely on these reviews to see if you like it or not.
+
+product/productId: B000SATIE6
+review/userId: AEN3M6RYKACUT
+review/profileName: Faeriebee "Squiggles"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1287360000
+review/summary: Awesome Rooibos Tea
+review/text: I really like the taste of this organic rooibos tea. The leaves are a bit small but works wonderfully if you infuse it using a french press, instead of using a meshed ball tea infuser.<br /><br />I'm from South Africa and even thought I know people there like it with milk, I would recommend it without milk, probably personal taste.<br /><br />It's a wonderful healthy alternative to any hot caffeine drink. enjoy.
+
+product/productId: B000SATIE6
+review/userId: AUFQ68T67GECZ
+review/profileName: R. Watts
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1275696000
+review/summary: Well worth the money, best source for Rooibus tea
+review/text: I purchased a can of rooibus tea at a tea shop and paid through the nose for a small handful of tea bags.  This item comes in bulk, and if you have the proper strainer, you will save a ton of money.  Personally, I use a teabag I got from Starbucks (ordered a rooibus tea and kept the bag) and am careful not to let the top get below the surface of the water.  The bag appears to be silk, finely woven.  The rooibus tea is excellent, brews well, and you can't make it too strong.  It has a mild flavor, and this product is as good as any I have had from other sources, perhaps better.  My cost is way, way down by buying in bulk, and this is the only way to go.  My wife and I drink it every day, usually a couple of times a day.  Since it's caffeine free, no worries even if you drink it at bedtime.  Thumbs up.
+
+product/productId: B000SATIE6
+review/userId: AP4LEGXOIME9C
+review/profileName: JS
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1271894400
+review/summary: Good for a change of pace
+review/text: This Rooibos Tea has a good taste and is a pleasant change from the Gunpowder Green Tea I usually drink. It is of much finer texture than green and needs at least 50% more ( 1 1/2 tsp.) per cup, to brew a decent cup of tea. That isn't so bad, due to it being greater in volume than Green Tea. Most tea infusion balls would be too small for the amount needed per cup and is best brewed using a fine mesh, cup style infuser. I find to like it better to drink as iced tea and have mixed it with Green Tea, which I think I like the best. All-in-all, it's a great value and I would recommend it for a change of pace. Give it a try..
+
+product/productId: B000SATIE6
+review/userId: A657G6UZGX5H1
+review/profileName: Aaron702
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1264723200
+review/summary: Produces a deep, mellow flavor with hints of vanilla and black tea
+review/text: If you are interested in a caffeine-free brew with a rich, full-bodied taste, you need to try Rooibos tea.  If you want the absolute best Rooibos for the price, you need to try Davidson's Tea in bulk.<br /><br />Rooibos is generally expensive, and many types available at the store are combined with other flavors (fruits and extracts).  Generally, all of these taste good, but each can hide the true quality of the Rooibos used.  The few pure Rooibos teas you find are closer to triple the price of normal 20 count boxes of teas.  These boxed Rooibos teas are actually quite good, one or two are even better than this Davidson's Tea, but expensive--you might get 1.5 ounces for the price.  Amazingly, Davidson's is able to give you 16 ounces of Rooibos for a couple dollars more.<br /><br />We like our Rooibos strong and we would go through it very fast with Rooibos by-the-bag, so we seldom get the pure Rooibos.  That is, until now with this bulk version.<br /><br />Coupled with a good method of infusing (I highly suggest the SwissGold TF 500--it is non-reactive with the tea and it is sufficiently sized and made for extended use), you will make great brews.  Rooibos can give you two great brews, and a third brew that is, at best, mediocre (make this a hotter, longer brew), using four teaspoons in the TF 500 mentioned above.  This keeps me going until evening, when I share another set of strong brews with my wife.  As you may tell, I use a very large mug.  :-)<br /><br />The bag is plastic-lined paper, and has strong ziplock-type top.  You can probably get by leaving the tea in the bag for some weeks, but if you need to keep it for longer, you should buy vacuum containers.<br /><br />We are elated with this so much, that we've ordered four other Davidson's bulk teas.  Expect reviews on these soon.
+
+product/productId: B000SATIE6
+review/userId: A2GJH3WV4QOV5D
+review/profileName: Evan Walters
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1263254400
+review/summary: Nice Tea
+review/text: Just received my shipment in yesterday with the tea in excellent condition. Smells and tastes great! The longer this tea is steeped the better (opposite of regular tea), I steep mine for 10 to 20 minutes. Very happy with this product, and very glad it's organic... wouldn't buy it if it wasn't.
+
+product/productId: B000SATIE6
+review/userId: A10NZD71WC4P4A
+review/profileName: Theeyequeen!
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1346976000
+review/summary: Pleasantly Surprised!
+review/text: Was a bit skeptical upon ordering, having never tried Red Bush Tea before.  I really like it's earthy taste and use the loose tea in my reusable K-Cup with my Keurig Machine. I took a chance and ordered 2- 1 lb.bags, glad I did. No oxylates in Rooibos leaves, (Red Bush Tea) because it is not actually from "Tea Leaves" but a different kind of bush, make it perfect for people who tend to be kidney stone formers! YAY, that is great news!  I recommend Davidson's Organic South African Rooibos Tea.  I will buy this again. You do need to transfer the not so hot zip lock bag it comes in, after opening, to another air tight container, but that is a non issue.  I put a dash of Stevia in my cup of tea and it really comes alive, hot or iced!
+
+product/productId: B000SATIE6
+review/userId: ARI1VFDZKZLH5
+review/profileName: druckin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346716800
+review/summary: Ultra High Quality Tea - Great Packaging!!!!
+review/text: This product arrived well packaged and before the estimated arrival date. The packaging looks unmentionable but it is double sealed at the top and has a zip-lock re-sealable function. I opened the package and immediately smelled the aroma of this high quality tea and noticed the aluminum foil lining. I made a huge cup of this tea using 1 tsp of tea per 1 cup of water. I boiled the water and let it sit for 5 minutes with no heat before immersing the infuser. I let it do it's thing for 15 minutes and then poured one of the best cups of Rooibos I have ever had. I will try with cinnamon and cloves tomorrow, hot then iced. You ar emissing out if you don't get some of this awesome tea!
+
+product/productId: B000SATIE6
+review/userId: A783B107REZ19
+review/profileName: John Green
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1341705600
+review/summary: The smell!
+review/text: I drink a lot of ice tea, made in a West Bend ice tea brewer.  To avoid the fine grind that others have mentioned, I also used a coffee filter.  The tea seemed to turn out fine -- good color, etc.  However, when I poured the first glass I couldn't believe the smell.  Apparently, it doesn't seem to bother other people.  It sure bothered me.  This stuff is probably great if you have a bad cold and can't smell.  Otherwise, try a small sample before bulk ordering.  This morning I blended a small amount with Earl Grey decaffeinated.  This turned out pretty well.  I can taste the rooibos but the smell is pretty well subdued.  Used in this way, one can get the benefit without the overpowering smell.  I mixed roughly 2/3rds Earl Grey to 1/3rd Rooibos.<br />This seems to be a cultivated taste - kind of like eating oysters.  I may learn to like the smell, but for right now I'm looking for different ways to blend it.
+
+product/productId: B000SATIE6
+review/userId: A1EU9WITEXDZ6W
+review/profileName: erik
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1336953600
+review/summary: very nice tea
+review/text: This was my first foray into rooibos, but after making the trip, I'm glad to say that it was worthwhile.  There is a darker, smokey, kinda flavour to this tea.  I find it more earthy and mellow and when I want a cup of that, then I reach for this one.  I will drink this tea and I shall purchase it again.  A good choice for those out there looking for a decent rooibos at a decent price.
+
+product/productId: B000SATIE6
+review/userId: A2LLSFQO8O8XNW
+review/profileName: Ryan
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336694400
+review/summary: Pleasantly Mild, with purported health benefits.
+review/text: I love a mild tea, and this one is on the top of my list.  I love to dink herbal teas because of their purported health benefits, because in many cases they do actually have health benefits. This was my first time I've tried Rooibos and I will continue to drink it because I like the subtle taste so much. I can't speak for other brands that provide a loose tea like Davidson's Tea does, but I have really enjoyed the quality and quantity provided by their product. I think the overall value is immense when you compare it to other brands that charge you  double the money for substantially less product. The bag this comes in is an excellent storage bag because it is resealable. This isn't as strong as Honey-Bush tea, and is also slightly less sweet than I had imagined it wold be.  I was interested in the claim that Rooibos can help give relief from common Allergies to pollen, what you could call "hay-fever". From whatI can tell I have had a small improvement in my pollen allergies. Overall there is a lot of value present here and Davidson's has done a great job.
+
+product/productId: B000SATIE6
+review/userId: A123WQ3C2XNV3A
+review/profileName: Joann Thomas "Top of the Morning"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336089600
+review/summary: Dealer has an excellent quality of Rooibos Tea
+review/text: I was introduced to Rooibos tea when our family lived in South Africa for a short-time in the 1980's.  I've tried several Rooibos teas from different companies and was never quite satisfied until I purchased Davidson's Rooibos tea.  If you read this Davidson . . . "I'll be back!"
+
+product/productId: B000SATIE6
+review/userId: AICJXIIX8D3QZ
+review/profileName: marisolesq
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335571200
+review/summary: Great tea, great value
+review/text: A whole pound of great tea!<br />The quality of this tea is equivalent to teas I've purchased that are far more expensive.<br />The package arrived before the estimated date, in great condition.<br />I will be ordering from Davidsons again!
+
+product/productId: B000SATIE6
+review/userId: A368IPE6EW0GZL
+review/profileName: Mike Vande Ven Jr.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332633600
+review/summary: The real deal
+review/text: Tis rooibos is the real deal. After spending three weeks in south Africa and falling in love with rooibos tea, I made it a mission of mine to find the smooth drinking red tea in the states. I tried four other brands before getting this 1lb bag of loose tea. I was a bit apprehensive about getting a full pound (this is a very big bag of tea, especially if you are the only tea drinker in the house). But as soon as I brewed my first cup I knew my search was at an end, and this 1 lb bag was going to be my source of tea for many months to come.
+
+product/productId: B000SATIE6
+review/userId: A25XP4G06AXXE9
+review/profileName: Natasha
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327708800
+review/summary: The tea is delicious!
+review/text: I bought the tea on Amazon. You can drink the tea iced or hot. The tea is not bitter. I use three drops of liquid stevia in the tea and also add organic powdered ginger.
+
+product/productId: B000SATIE6
+review/userId: A12O2EWTKXSTAM
+review/profileName: DragonREG "Roger"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323907200
+review/summary: Quality Bargain
+review/text: Very Good product. Made an excellent cup of tea. The picture doesn't do the bag Justice as it has a zip-lock feature. It will take some time to drink all of this one bag and I purchased 4 different varieties. The zip-lock bag would do well if I were were drinking from only one. I vacuum packed 3/4 of each and stored them in the freezer. The partial bags are in the fridge ready to use. I'm looking forward to drinking these fine organic teas for some time to come and save big $s as well.
+
+product/productId: B000SATIE6
+review/userId: A1NOJ81EI6P0HX
+review/profileName: David J. Godin "godindav"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: very very good
+review/text: I love this tea and the quality is great.  I will buy it again.  The plain flavor of the tea is rich and you can enjoy what roobios tastes like with out all the foo-foo flavor adding it receives with so many other Roobios tea packaging.
+
+product/productId: B000SATIE6
+review/userId: A1HOTHDBCFN4OR
+review/profileName: wrc22
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1321228800
+review/summary: Very deep flavor
+review/text: The leaves are miniscule, so you'll need a mesh steeper. Davidson's have  improved their packaging and now use a resealable bag. Regardless, I take some out into a little tin and seal the rest so it stays fresh. To serve, I had a drop of honey. Usually I add a bit of milk and froth it.
+
+product/productId: B000SATIE6
+review/userId: A1BGJNZW34MYVI
+review/profileName: aleunamlegov
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315440000
+review/summary: I'm addicted to this tea!
+review/text: I'm from Germany and have been drinking this tea for years. Now living in the States, I thought I have to forever live without it! I didn't want to spend $4 or more at Trader Joes.. not at the rate I'm drinking this stuff. And I don't like green or black tea. Hot in the winter, cold in the summer, and the kids love it too! I found this on Amazon and wow! this is awesome! Way better than the individual tea bags! Add some vanilla or carmel sirup or (for adults) some Amaretto! Heavenly!!!
+
+product/productId: B000SATIE6
+review/userId: A2M18FEJV8TTO0
+review/profileName: W. T. Langley "GunnyL"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314748800
+review/summary: Awesome Rooibos
+review/text: I use in my refillable keurig  k-cup and it brews the perfect cup of rooibos. This is the best quality loose rooibos I've purchased. Will definitely be a regular order going forward.
+
+product/productId: B000SATIE6
+review/userId: A1V26WD9IUBVAJ
+review/profileName: Natalia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311638400
+review/summary: Natalia
+review/text: Its not sweet but its not bitter... Definitely a new flavor to me but I liked it since the first day.
+
+product/productId: B000SATIE6
+review/userId: A3RNCB6QSDKHLB
+review/profileName: P. Green "P. Green"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311206400
+review/summary: No bitter after taste. My favorite tea by far!
+review/text: This tea is my favorite. Smooth taste. I'm not sure if it is because the tea is caffein free or just my imagination but seems to have a calming affect on me. I have shared my pound bag with friends and everyone loves the tea as well. I am ordering more today :)
+
+product/productId: B000SATIE6
+review/userId: AEP0XAC6F8N2Y
+review/profileName: April Fear
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310342400
+review/summary: Great Tea
+review/text: I first bought this tea because I'd read articles on the health benefits of it. Roobibos has a nice flavor and I'm now a repeat buyer. I like making suntea with it and it is good hot in the winter, also. I like that it is organic and caffine-free.
+
+product/productId: B000SATIE6
+review/userId: A3ET3BXSYFKEWF
+review/profileName: Alric86
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305590400
+review/summary: Excellent
+review/text: This tea is of excellent quality, very fresh, and tastes delicious hot or chilled.  Obviously everyone's tastes are different; be sensible and try a cup at a local coffee shop before ordering an entire pound!<br /><br />In addition to the wonderful earthy taste and aroma, Rooibos has many beneficial health effects.  While there isn't a massive amount of peer-reviewed scientific research published regarding Rooibos, what is out there clearly shows significant anti-mutagenic and anti-carcinogenic properties.<br /><br />Personally, it has helped me with my blood pressure, which tends to run high in my family even though I am young.  I have also almost completely weened myself off of caffeine (impressive as I was a ~4+ cup of coffee per day guy previously).  I can't recommend this tea enough!
+
+product/productId: B000SATIE6
+review/userId: A2SWE9HVE1F74E
+review/profileName: JRC
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305331200
+review/summary: Great quality, value, and taste
+review/text: This is a great tea if you like Rooibos. It tastes great, the color is great, and they give you a ton of it for a low price.<br /><br />The two main complaints I've read about this tea is 1) packaging and 2) the tea is cut too fine.<br /><br />1) The tea came in a nice resealable package, not the one shown, but covered in the same plain brown paper bag-like finish.<br /><br />2) When I first opened the bag and for about a month or two I noticed no sediment at all. Once I got down into the bottom portion of the tea and started mixing it up I noticed sediment. If you are worried about having no bits of anything in your tea, this could be a problem. They are tiny small fibrous strands that you don't notice at all when drinking.<br /><br />Otherwise, the tea tastes great and you can brew it for as long as you want for desired strength (recommended 3-7 minutes).
+
+product/productId: B000SATIE6
+review/userId: A3BRTOKYC8UQJ3
+review/profileName: khumalo
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305158400
+review/summary: Great Flavor. Excellent price!!
+review/text: You can beat the flavor or the price of the rooibos. I live in South African for two years and I have been looking for a robust loose leaf for sometime. This does not disappoint. Best flavor for an herbal tea in the world.
+
+product/productId: B000SATIE6
+review/userId: A2BSICYFAR5AOA
+review/profileName: Kat M B
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1292803200
+review/summary: Nice flavor, and a great price!I
+review/text: I purchased my first Rooibos tea from Teavana. I didn't want to pay the high price again, so started searching Amazon for something comparable.<br /><br />Although it's not the exact same flavor, it still taste nice, and you can't beat the price. It's about a third of what I'd pay at Teavana.<br /><br />I'll be purchasing this tea for now. :)
+
+product/productId: B000SATIE6
+review/userId: A2KUUWP4ZZMOBP
+review/profileName: Jolly Green Giant "You can try Birchbox too! ...
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1247702400
+review/summary: Will buy again!
+review/text: The tea is very good quality, very fresh, and has a nice flavor for those who like Rooibos teas. It's far better than other bagged rooibos teas I've tried and much cheaper when bought in bulk.
+
+product/productId: B000SATIE6
+review/userId: A8IY9R8Y4IVUC
+review/profileName: Z. Tsutskiridze "Z1977"
+review/helpfulness: 5/7
+review/score: 1.0
+review/time: 1296777600
+review/summary: Not really a taste for me.
+review/text: I have tried all other teas from Davidson's, and love them all, but this one is the worst. Is too dusty and has lots of sediment.  I know i am in a minority in my negative review but this review only applies to this flavor. In fact i am ordering my third bag of <a href="http://www.amazon.com/gp/product/B000SARJF6">Davidson's Tea Bulk, English Breakfast, 16-Ounce Bag</a>  and <a href="http://www.amazon.com/gp/product/B000SAPX6S">Davidson's Tea Bulk, Herbal Cranberry Orange, 16-Ounce Bag</a> . I know that it is futile to argue about tastes but this tea is hard to brew and i get small sticks in my throat. Don't give this to a toddler.
+
+product/productId: B000SATIE6
+review/userId: A30G24PZC1PSIQ
+review/profileName: saucygirl
+review/helpfulness: 9/13
+review/score: 1.0
+review/time: 1260230400
+review/summary: smells like pipe tobacco
+review/text: I wanted so much to like this product!  I had heard wonderful things about the tea (as you can see by the glowing reviews)  but I could not tolerate the smell.  I opened the bag and thought it smelled exactly like pipe tobacco.  In spite of this, I forced myself to brew some.  It was horrible!  Saying this has an "unusual flavor" is downplaying the nauseating taste.  I was seriously ill afterwards.  If anyone knows what I can do to redeem the flavor, I'm all ears!  (or eyes).  I really want to salvage what I have.  Thanks!
+
+product/productId: B000SATIE6
+review/userId: A3EL2XJBEES1KX
+review/profileName: southwester
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1304899200
+review/summary: Highly recommend Davidson's Teas
+review/text: I've been buying Davidson's tea now for the past couple of years.  I brew a mixture of half Rooibos and half de-caf Earl Grey.  It makes an excellent ice tea.
+
+product/productId: B000SATIE6
+review/userId: A3QF8N5GBYCZUQ
+review/profileName: Shomu Banerjee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: Perfect!
+review/text: This product is absolutely perfect. It's exactly as described: 16 ounces of really good Organic South African Rooibos tea.<br /><br />But it gets better: unlike the photo, the tea comes in a resealable airtight and watertight (like tetrapak) bag.<br /><br />Couldn't have asked for better.
+
+product/productId: B000SATIE6
+review/userId: A1VSRL8CZBE4BU
+review/profileName: earlyhappybird
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350432000
+review/summary: A good rooibos
+review/text: A good rooibos and it's organic. However a little too bland for my taste since I'm used to vanilla flavored rooibos teas.
+
+product/productId: B000SATIE6
+review/userId: A2BZ0UH6U6AIK2
+review/profileName: Red Kat
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350259200
+review/summary: Hard to get used to
+review/text: This is a strange tasting tea; it smells stinky and taste like dried autumn leaves from the yard. It may be good for you, but at a price. I decided to mix this stuff with a breakfast tea to make it palatable.
+
+product/productId: B000SATIE6
+review/userId: A2F4G3L7T3TCEH
+review/profileName: bhul0825
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349136000
+review/summary: didn't order
+review/text: i bought this product twice.  the first time i received it as advertized and it was good.  drinking one cup a day i have enough for next year 2013 ...  i received another bag at the beginning of sept which i could not return because it is grocery.  not sure how i got it,  but definitely got the bill.  i am now good through 2015 at current consumption so i  will have aged tea,  hopefully it is like fine wine...  i checked to see if i joined a club or some thing , but could not find the answer...  if i receive another bag in october will have a "tea party" in november....
+
+product/productId: B000SATIE6
+review/userId: A3I6MLE6NF77Z5
+review/profileName: jombikat
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1348358400
+review/summary: Dusty, slightly bitter, and weak
+review/text: Having initially tried another brand of Rooibos (Frontier), I decided to try Davidson's because shipping was going to be free.  It definitely was not worth the savings.  Davidson's Rooibos tea is too finely chopped and weak in comparison to the brand I had been drinking.  My steeping time went from 4 minutes to almost 12, and still the flavor wasn't the same.  There is also a dusty smell/flavor to this brand.  I will not purchase Davidson's again.  I was quite disappointed.
+
+product/productId: B000SATIE6
+review/userId: A2IL6666DOO87
+review/profileName: alexvas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348272000
+review/summary: Awesome tea, good price!
+review/text: A pound of Rooibos for ~$15? Awesome! High quality, flavorful, and perfect if you like Earl Grey but want to avoid caffeine.
+
+product/productId: B000SATIE6
+review/userId: AEWQCO68BQJUR
+review/profileName: quantpsych
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345248000
+review/summary: Good tea, Great service
+review/text: I have ordered this Rooibos several times.  Delivery is always prompt and the tea is excellent quality.  I have several lifelong rooibos drinkers in the household and they think it is a good tea.  I think the price is reasonable compared to other vendors.  I've paid more for rooibos in the past that was the same quality.
+
+product/productId: B000SATIE6
+review/userId: A36MWKJ63ZPN4C
+review/profileName: Epitaph64
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: Great earthy flavor!
+review/text: The product is very high quality and arrived fresh in a nice resealable bag. I'd recommend it to anyone wanting to expand their tea horizons.
+
+product/productId: B000SATIE6
+review/userId: A3PGLUQ8J2CTO1
+review/profileName: Allan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Awesome Tea at a Great Price
+review/text: Compared to a more mainstream tea such as Teavana, this product is a phenomenal value. It is good tasting, and has no caffiene so is great in the evenings. You really get A LOT of tea. I will be purchasing this one again.
+
+product/productId: B000SATIE6
+review/userId: A1UHCV8QTXY7EV
+review/profileName: ZenLunatic
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: Loving it.
+review/text: Have only recently been introduced to Rooibos tea and love it.  Davidson's Rooibos is a worthwhile purchase, the price was right and the tea is excellent.
+
+product/productId: B000SATIE6
+review/userId: A1VPBQ1ZBUJDTJ
+review/profileName: Keri Baker "opheliasend"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340668800
+review/summary: Great tea at a great price
+review/text: I recently started to drink lose leaf tea and found decided to try the Davidson tea because of the low price and overall good reviews. After having used the tea for a few weeks I have to say it's a great value. The tea tastes great hot or iced and the price can not be beat. While there might be better quality brands out it would be hard to belive they would be worth the extra cost.
+
+product/productId: B000SATIE6
+review/userId: ANDDFR5HYXFFP
+review/profileName: Southern Africa Tea Drinker
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340236800
+review/summary: Super
+review/text: The product arrived quickly and was well packaged.<br />This is a far more economical way to purchase Rooibos than buying 20 tea-bags ($4.69 per box of 20)from a grocery store.<br />My favourite brand of Rooibos is sold in South Africa but this is a worthwhile second.<br />I like that it is organic and this was the best price I could find.  Well done Davidson's!
+
+product/productId: B000SATIE6
+review/userId: A2FD1PX5J8FKIY
+review/profileName: Heather N. Wolf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338940800
+review/summary: I love it!
+review/text: Generally, I need some sort of sweetener when I drink tea.  With this, there is no bitterness and the flavor isn't overwhelming.  I was pleasantly surprised that I enjoyed drinking it without any artificial sweetener, sugar or honey.  I can't quite put my finger on the flavor but it has a mild flavor with an aroma that almost seems to clear the sinuses like menthol but it doesn't taste or smell like menthol. The pack is resealable which is a plus.  The only thing I would say is that it is the size of coarsely ground coffee so it didn't work well in my Sun's double wall tea glass as the holes are big enough to allow the grounds through.  However, the "grounds" are not gritty like coffee grounds, so if I drank any, I didn't even notice. I am using a "screen" type strainer now though.
+
+product/productId: B000SATIE6
+review/userId: AL5J5GK1XBRN4
+review/profileName: D. Pedi "Arizona"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: Very Nice
+review/text: This tea has very deep orange/red colors and is very rich. I steeped it with  Davision's Rosehip tea and it is wonderful. The aroma is full bodied and looks like it was just harvested that day. My husband was even impressed with the color and aroma and he doesn't drink tea.
+
+product/productId: B000SATIE6
+review/userId: A3N5TF6RGZJ08Q
+review/profileName: Diane L. Adams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: sleepy tea
+review/text: Enjoy this tea.  Also recommended to my colleagues.  We call it the sleepy tea, because it affords us a good night relaxing night's sleep.
+
+product/productId: B000SATIE6
+review/userId: A1L3WV00OMVQ4B
+review/profileName: T. Lee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321142400
+review/summary: Great deal
+review/text: The tea is delicious.  I purchased roobios from another third party website that was quite more expensive than this deal.  This is just as good and a lot cheaper.  Comes in a nice resealable bag.
+
+product/productId: B000SATIE6
+review/userId: A3JEFAJDWTKB7H
+review/profileName: R. Hayes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319414400
+review/summary: Excellent caffine free beverage
+review/text: Davidson's Rooibus tea is awesome! It works very well in my Westbend tea maker. It tastes the most of any other types of herbal teas like regular iced tea to me. I can add vanilla or other extracts if I want a different taste.  I would highly recommend it!
+
+product/productId: B000SATIE6
+review/userId: A20MSOF85G0VJ1
+review/profileName: bridbry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318204800
+review/summary: Great Tea!
+review/text: Awesome, full-bodied Tea! The zipper bag it comes in keeps it flavorful and makes it convenient to just dump into my tea infuser when I'm too lazy to use a spoon.  This is a must for tea connoisseurs.
+
+product/productId: B000SATIE6
+review/userId: A3HK3G0KD0DCGP
+review/profileName: Dawn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318032000
+review/summary: Great deal for quality tea
+review/text: Considering you usually pay 5-6 dollars for a couple ounces in a regular tea shop, this is a great deal. I use it to make homemade caffeine-free chai. Great tea !
+
+product/productId: B000SATIE6
+review/userId: A24CCFDTQEKFWR
+review/profileName: SRT-6
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314489600
+review/summary: Great Infusion; Great Bargain
+review/text: Red rooibos is now my favorite "tea," and Davidson's from Amazon is by far the best and most economical way to get it.  I've had red rooibos from other, more expensive sellers, but their products were indistinguishable from Davidson's.  If you like red rooibos and drink it a lot, this is what you should consider buying.
+
+product/productId: B000SATIE6
+review/userId: A2EMQBCM0G1K0M
+review/profileName: JusMe
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1304035200
+review/summary: Excellent flavor but very finely milled
+review/text: We've love the Rooibos teas and their health benefits since we discovered them awhile back so we thought we'd try Davidson's Organic and use this in our Keurig machine. While the flavor is as expected the tea leaves are so fine there ends up being quite a bit in your mug in the end. Not wanting to let this sway me from making this tea regularly, I lessened the amount of tea from the recommended amount and the problem was much less evident. We're happy with it and so have it on autoship. Definitely give it a try!
+
+product/productId: B000SATIE6
+review/userId: A1D8YMYOZ52EJN
+review/profileName: M. Downing
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301875200
+review/summary: Best tea to start your day with
+review/text: I have been drinking this tea every day for a month.  My blood pressure is now in normal range and I love this tea.  I don't drink my herbal teas with any sweetener and I find this tea has a very pleasant flavor.  This tea seems to start up your whole body in the morning . . .right down to your toes.  I also have osteoarthritis in my hands and since I have started drinking this tea, I have no pain in my thumb joints at all.  I would recommend this tea to everyone.<br />I would like to see the tea leaves cut a little larger as the finer ones do go through my infuser.  They settle to the bottom of the teapot after a few minutes.
+
+product/productId: B000SATIE6
+review/userId: A1KWIL0U3Z7C3G
+review/profileName: Tamara Efron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301270400
+review/summary: My favorite tea
+review/text: I like this tea very much for many purposes. It really helps to sleep well, with digestion problem and the teaste is great.
+
+product/productId: B000SATIE6
+review/userId: A1MQ5XP7UJYDOO
+review/profileName: Robert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300665600
+review/summary: Rooibos
+review/text: When in South Africa, I enjoy Rooibos tea daily.  It was great to find such a high quality, organic Rooibos here in the states.  I am glad that I don't have to wait for my next trip to Cape Town to enjoy Rooibos but can enjoy it right here in my own home.
+
+product/productId: B006YXOOI6
+review/userId: A1DSRM2P0WGQNS
+review/profileName: J. Moore "Zombie Prep Network"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1337040000
+review/summary: When The Zombies Come, You'll Have Bacon
+review/text: <span class="tiny"> Length:: 5:49 Mins<br /><br /></span>Let's face it, the zombie apocalypse is going to happen, and it's going to be awesome. Hunting zombies is going to be a lot more enjoyable with a good supply of bacon on hand. Yoders is bacon in a can - with a smoky flavor and a long shelf life.
+
+product/productId: B006YXOOI6
+review/userId: A84YJWMIO30HH
+review/profileName: zach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: expectations met
+review/text: Is what it says it is would never think it came out of a can would not be suprised to see this product on major. store shelves on account of quality
+
+product/productId: B0019I4J7W
+review/userId: A157166ASMOUJI
+review/profileName: N. Corsini
+review/helpfulness: 7/9
+review/score: 5.0
+review/time: 1261526400
+review/summary: Le Tresor Unrefined SEa Salt via Amazon
+review/text: Although it seems pricey the packet lasts and lasts.  It comes in a resealable package for safe and long term storage.  We transfer a useful amount into our salt box for daily use.<br />I like the idea that we are getting the minerals and nutrients not available in many processed table salts.
+
+product/productId: B0019I4J7W
+review/userId: A3FH0AJRYA5IWP
+review/profileName: Arson Montoya
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333065600
+review/summary: oh the uses.
+review/text: I bought this for the same reason the other reviewer mentioned, the superiority of the salt versus processed salt. Now I use this for food, but I also use it for body cleansing. Simply take three evened table spoons and add it to 32 ounces of warm water consume in the morning and lay on your right side for twenty to thirty minutes. And within an hour or so you will experience a discharge, this removes any fecal matter that may be spackled on the walls of your intestines, its safe to do daily, but I do it every other month. It keeps my body healthy, and my system working well. Some people experience dramatic weight loss from this. Note: when John Wayne died they found over ten pounds of fecal matter spackled on the walls of his intestines, so if you way a lot of red meats, this will be supremely helpful to you.
+
+product/productId: B003VQH6Z2
+review/userId: A12UOVY2WKK2Z9
+review/profileName: NJgirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Heaven in a bag
+review/text: I have bought these from QVC and my family just loves them!  They are wonderful;  All natural ingredients, no additives and of course, made in small batches just makes them that more special.  I like them all except for the chipotle, as I am not one for that flavor.  Try them, you will fall in love!
+
+product/productId: B002O7F1WY
+review/userId: A3AVZUT129XWNV
+review/profileName: D. McClelland
+review/helpfulness: 6/7
+review/score: 3.0
+review/time: 1266278400
+review/summary: Not What I Expected
+review/text: This is a shaved product and I was expecting a treat that you would hand to your dog. Lots of thin little pieces.  Rusty likes it, but it's a mess to feed.
+
+product/productId: B002O7F1WY
+review/userId: A39GCAUC3CGGH4
+review/profileName: fritz tarantino
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1283472000
+review/summary: messy
+review/text: I bought these for my 2 small dogs. they like small soft treats so I thought these would be perfect. they are about the size of a postage stamp and very thin. I got through about 1/3 of the bag and the rest of the treats just fell apart and turned to jerky flakes. I ended up using the rest sprinkled on their food because it was no longer treat sized. My dogs loved the treats but I won't buy them again.
+
+product/productId: B002O7F1WY
+review/userId: AADJSVRJW8HDJ
+review/profileName: Karen L. Henry "Karen H."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: My dogs love this!!
+review/text: As the owner of small dogs, I am always on the lookout for nutritious yet tasty soft treats that I can use as training treats.  These definitely fit the bill.  They are small, but can also be torn into even smaller pieces when I want to reward with a tiny treat that won't take time to chew.  They are also not greasy or crumbly, and do well being kept in my pocket for easy access during training sessions.  Most important of all - my dogs LOVE them!
+
+product/productId: B002O7F1WY
+review/userId: A2AT8YOSWT8LHZ
+review/profileName: Vickie D "Book Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331510400
+review/summary: ZiwiPeak Real Meat Jerky Treats for Dogs, Venison, is an outstanding product.
+review/text: ZiwiPeak Real Meat Jerky Treats for Dogs, Venison, was recommended to me by my Certified Dog Trainer.<br /><br />The contents are nutritious, and my dog loves them.  This makes it easy for her to concentrate on whatever training assignment we aare using.<br /><br />In fact it is necessary to put my container of ZiwiPeak Treats away carefully so my dog will not help herself to this tasty product when we are not having a training session.<br /><br />Virginia A. Dickey
+
+product/productId: B002O7F1WY
+review/userId: A2X3C8WGYTPQQX
+review/profileName: Kleps
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326844800
+review/summary: Great product!
+review/text: Our dogs love these. One of them has some GI issues and can only have venison as her protein, so these work out great. They are a really good price per ounce, if you compare to other venison "jerky" treats.
+
+product/productId: B002O7F1WY
+review/userId: A1C8X8NXUB7DEU
+review/profileName: Tina Davis
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1299801600
+review/summary: Size is fine, but they are greasy!!
+review/text: I use treats for obedience and agility classes.  I need a treat that is not crunchy, but chewy and capable of breaking up into small bites.  I typically cut the treats up into pea sized bits.  With these, my hands are covered in grease (they use fish oil) and I don't like using it for that reason.
+
+product/productId: B002O7F1WY
+review/userId: A1B661VFC7GAIX
+review/profileName: Shelby W
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1283472000
+review/summary: Good taste, not the best delivery
+review/text: The dogs love these and they are great for my allergic dog.  BUT, as other reviewers said, they are pretty much flakes.  Great for training but not as a "big treat."  The end of the bag does wind up as powder, I use it to make doggie ice pops.
+
+product/productId: B0009YUI86
+review/userId: A14AZ5HGGKQNYE
+review/profileName: Jennifer "MedWonk"
+review/helpfulness: 19/21
+review/score: 3.0
+review/time: 1305504000
+review/summary: Low fat, but not Blue's lowest calorie formula
+review/text: Note: Blue Buffalo no longer makes "Weight Control" dog food and instead makes "Healthy Weight" dog food in the "Life Protection line.  Healthy Weight has 415 calories per cup and 3.290 calories/gram.  Compared to the Longevity line for adult dogs, Healthy Weight has more calories per cup but a fewer calories per gram, meaning that Healthy Weight has more grams per cup than Longevity. Looking at the order of ingredients (which is by pre-production ingredient weight), I am concerned that too much of Healthy Weight's protein may come from whole grains, which do not contain all of the amino acids that a dog must get from his or her food (dogs cannot synthesize all the amino acids they need from plants and grains the way humans can.) De-boned chicken is the first ingredient, but, because it contains 75% water before processing, it is not the heaviest final ingredient.  Chicken meal is a high quality protein, but it is listed as the fifth ingredient.<br /><br />Also: At the bottom of this review I name a brand of food that ultimately helped me meet my dog's goals.<br /><br />Overview of Weight Control: While I did not do all I could to make Weight Control work for my dog, it ultimately did not help my dog reach his ideal weight. Blue Weight Control is nutrient rich, very low in fat, and uses high-quality protein sources. Unfortunately, Blue Weight Control has 444 calories per cup, which  is pretty calorie-dense.  I believe it was over 4 calories per gram, which, in human food, is the caloric density of cheddar cheese.  My dog may have been able to eat a satisfying quantity of this food if he only needed to maintain a healthy weight, but he needed to lose weight, and the portions I had to feed him were too small. Fortunately, Blue Buffalo makes an excellent food called <a href="http://www.amazon.com/gp/product/B003P9XFV4">Blue Buffalo Longevity Dry Food for Adult Dogs, 24-Pound Bag</a>, and the adult food has a more reasonable 354 calories per cup, allowing my dog to eat a more satisfying quantity of food per day.<br /><br />Details: My dog weighed 50 lbs. and needed to get to the maximum ideal weight for his breed --44 lbs.-- as determined by my vet and the American Kennel Club.  According to several dog nutritionists, the calories a dog should consume per day to lose weight is computed as follows:  1)Convert his goal weight in pounds to kilograms by dividing the pounds by 2.2.  For my dog 44 lbs over 2.2= 20.  2  Multiply her weight in KG by 30.  For my dog 20*30 is 600. (3)Add 70. In my dog's case, that meant 670 calories per day.  This number represents the dog's caloric needs while on a weight loss diet, assuming the dog has no special needs, such as pregnant or whelping, being a puppy, being a toy breed, working, or living outdoors in cold weather. The formula only is valid if the dog weighs between 5 and 99 pounds. Check with your vet to make sure the daily calories you compute are in the right neighborhood.<br /><br />The reason Blue Weight Control was not the best Blue Buffalo food for my dog was because it is is relatively calorie dense-- 444 calories per cup. To feed him 670 total calories per day, I could only feed him 1.5 cups per day, meaning that each of his two meals could only be 3/4 cups, and that was without even a tiny buffer for a single green bean as a treat. (Later I explain why I had to add-in other foods.  I ended up only feeding him 2/3 of a cup for each meal, and that really worried me about the adequacy of his nutrition. This quantity of food is well below the feeding guidelines on the bag. My dog was miserable and begged constantly. He would even lick his empty bowl between meals.  I tried feeding him a 1/3 cup (10 calories) of plain no-added-salt canned green beans as a snack, just to help fill his stomach, but he was not content and eventually turned his nose up at the green bean snacks.  I should have added warm water to his dog food and stirred in the green beans, but I wasn't smart enough to do so at the time. My dog kept acting hungry and begging for more dog food.  He would actually walk over to the bag of dog food, put his paw on it, and look at me while whining softly! Other members of my household would sneak table food to him because he begged so persistently, and the "diet" was a abysmal failure.  My poor dog ended up actually gaining 4 more pounds from all the human cheating!<br /><br />I was glad I found Blue Longevity adult food.  It has 354 calories per cup as opposed to 444. It has 3.384 calories/gram.  I gave my dog 1.8 cups per day (in 2 meals) for 640 calories. A saleswomen at Petsmart explained that I could help increase my dog's feeling of fullness even more by adding warm water to to his food, enough to just cover the kibble, and letting it sit on the counter a minute so that the kibble would swell up. I should then stir in 10 calories (a little less than 1/4 cup) of no-added-salt green beans to make it an even more filling meal. I did all of these changes together, so I can't separate the effects. My dog stopped the whining and began to lose the weight.<br /><br />I budgeted him only 10 calories per day for treats. The problem was, I had to find something to give as a treat at least 3 times per day.  See, my dog lived in a no-kill shelter for 18 month, so I had to use treats to re-housebreak him. Now he refuses to do #2 unless he is guaranteed a treat (if he doesn't get one immediately after he goes, he lies down on the ground and makes us carry him home--even if we are two blocks from the house and it is dark and pooring down rain. Welcome to my world of loving an Australian Cattle Dog.) I was surprised to learn that small sized Milk Bones have 20 calories each and contributed to him getting overweight to begin with. Even breaking one in half wasn't enough to make his treat calories reasonable. I found a bite-sized treat that is only 1-2 calories called <a href="http://www.amazon.com/gp/product/B000VHZ84A">Premier Liver Biscoti Dog Treats, Original Recipe, Original Bite Size, 8oz. Bag</a>).  They were fine as a substitute for Milk Bones. I recently found a 2-calorie  treat that my dog is crazy about called <a href="http://www.amazon.com/gp/product/B001KVSPIC">Zuke's Mini Naturals Salmon Dog Treats</a> (not to be confused with the 10-calorie each <a href="http://www.amazon.com/gp/product/B0055TM554">Zuke's Mini Bakes Chicken N Cherryz, 16 oz</a>. My dog would probably walk through fire for the Salmon flavored ones, but he also likes the peanut butter flavored ones.<br /><br />Update: I eventually found a web site called DogFoodAdvisor.com.  Through it, I found another food called  <a href="http://www.amazon.com/gp/product/B0002ML7S0">Premium Edge Healthy Weight I Weight Reduction Formula Adult Dry Dog Food, 35-Pound</a> that has the same calories per cup as Longevity but that has twice as much protein (also from high quality sources!) It is also grain-free (dogs don't need grains in their diet at all) and a little less expensive per pound.  It helped my dog build muscle and lose weight.
+
+product/productId: B0009YUI86
+review/userId: AAO45U5T6LX9J
+review/profileName: Willie
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1285113600
+review/summary: Good food.
+review/text: My dog loves this food and he's lost a few pounds since he's been on it.
+
+product/productId: B0009YUI86
+review/userId: A21G8XF090VXN4
+review/profileName: R. Demaine
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1294444800
+review/summary: Great Product
+review/text: We have been using the Blue Buffalo Weight control formula for one of our Beagles because she started to gain a lot of weight (due to a medication she is on). We've been feeding this to her for a couple of months now and she has lost a healthy amount of weight and has had a lot more energy. Her skin and fur is clean, feels looks really good (not greasy), and her stool is solid. Once she looses another couple of pounds we'll switch her over to another Blue Buffalo formula, probably the Fish and Sweet Potato.<br /><br />It is a quality product for the price and it shows.
+
+product/productId: B0009YUI86
+review/userId: A2E2UCES7E84M3
+review/profileName: K. Coburn
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1286841600
+review/summary: Very Happy Puppy
+review/text: I love my 85 lb yellow lab, Jake, and wanted to feed him something he loved but kept him from gaining weight since he has been fixed yet gave him all the nutrients needed.  This food seems to fit the requirements. And I must say, after switching from the regular grocery store brands I have noticed that he passes less gas and his stools are a lot easier to pick up on our walkies (sorry for the TMI).  I highly recommend Blue Buffalo foods, looks like the hype is well deserved.
+
+product/productId: B0009YUI86
+review/userId: A3ND8C7G3U8DUZ
+review/profileName: Megan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1301875200
+review/summary: The only food we'll feed our dogs.
+review/text: I don't want to eat or feed my family bi-product, so why in the world would I want to feed it to my dogs? Thus the reason we feed our German Shepherd and Boxer/Pitbull Blue Buffalo. We do the weight control as our Shepherd was a little hefty. In 6 months he's lost 6 pounds...which, for a dog, is a lot. He looks so much healthier! We love this food....I do wish they came in 50 or 60lb bags tho.
+
+product/productId: B0009YUI86
+review/userId: A1DDKF0720PJ72
+review/profileName: Courtney S. Putnam "C.S. Putnam"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308009600
+review/summary: I Like The Poop, My Dogs Like The Food
+review/text: I switched to Blue Buffalo on a recommendation from my mother who has had bulldogs for years.  I had been using Iams Weight Control for my two Cocker Spaniels.  I gradually transitioned from the Iams to BB.  As the transition progressed, my dogs appeared to be more hungry at each feeding.  As it turned out, I think that they were just starting to enjoy their food for the first time in their short little lives. Sad, really.  But how can a person tell if a dog food actually tastes good?  If I were to pick a dog food based on what I THINK might taste good, I would be feeding my dogs Beneful dog food (their commercials make ME hungry).  In any case, they seem to love BB.  So that's the review from the dog's point of view.<br /><br />As for how this change in dog food has impacted MY life.  I live on a half acre and my two cockers can really spread wealth, if you know what I mean.  I really like to keep the lawn "bomb free" so my kids and I pick-up the lawn often.  When the dogs were eating Iams, the "surprises" that they would create would lay softly beneath the top blades of grass, just waiting for someone to come step on them.  It was too often an ugly situation that I will not describe here.  Since we have been feeding the dogs BB, those "duce-balls" now sit lightly upon the TOP of the grass.  They are light, easy to see and very firm (Eauwwwww!) As a result, pick-up is quicker and the lawn is cleaner.<br /><br />I suggest you give this food a try, but be cautious.  Based on some reviews, BB has had some quality problems in the past.  Nobody wants to lose their animal due to negligence on the part of a dog food company.  As with any change in your dog's diet, monitor closely.  Even if a food is safe and healthy, not all foods agree with all animals.  So remember, be cautious, we all want the best for man's best friend.
+
+product/productId: B0009YUI86
+review/userId: A1JTYUKI1JQUXY
+review/profileName: Linda Manuel
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302652800
+review/summary: AMAZING PRODUCT
+review/text: If you have not tried Blue Buffalo, you just must.  This is an outstanding product, my dogs LOVE it, even the diet kind!  The quality is the best.  Please do NOT feed your dogs any of the commercial dog foods, find a quality food that will extend their lives.  Do you research to find out what goes into your pet's food.  It will save their lives.<br /><br />My dogs now JUMP and wiggle when it's time to feed them rather than ignore their food.  They are healthier and their joints are doing much better (they are 11 years old).  Their itching has stopped too.<br /><br />CANNOT RECOMMEND THIS PRODUCT HIGH ENOUGH!!  TRY IT.
+
+product/productId: B0009YUI86
+review/userId: A3PHDH8YUYBYKG
+review/profileName: Lorna Doone
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345334400
+review/summary: WARNING: Not for all dogs
+review/text: I'm sure that Blue Buffalo can be a great dogfood because it's holistic, but it wasn't for us.<br /><br />We bought Blue Buffalo for our black lab boxer mix because we did research and, based on the millions of brilliant reviews and the company's standards, it appeared amazing.<br /><br />An amazing disaster more like.<br /><br />Our poor pooch (and us, because we had to clean it up) had regular diarrhea episodes on this dog food, which smelled rancid. When she wasn't having diarrhea, she was having a very loose stool and pooping a lot when she went on her walks. I thought I was because we bought her the healthy request, so I decided to try the <a href="http://www.amazon.com/gp/product/B000XZBXP8">Blue Buffalo Dry Dog Food, Lamb and Rice Recipe, 30-Pound Bag</a>.That didn't help matters at all. After she had an accident in our kitchen, I decided to do research. I thought maybe she had a bug or something, since we did just get her from the pound a little over two weeks prior. Why would a dog food that was supposed to be the best be the culprit?<br /><br />Apparently, Blue Buffalo is a rich food that isn't tolerated by all dogs due to it being high in protein (regardless of flavor). By typing in "Blue Buffalo Loose Stool" on Google, I got loads of hits from concerned dog owners of different breeds having the exact same issue.<br /><br />I switched our girl to Purina One Smartblend, and she loves it...and no more stinky, loose poop!
+
+product/productId: B0009YUI86
+review/userId: A35RG2LCK02XZ3
+review/profileName: Corry Frydlewicz "Web Developer, Foodie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: Dog loves it, and she's back at her ideal weight!
+review/text: My dog loves this food and after about 2 months of eating it, she has already gone from being 100 lbs. (she stayed with her grandma and was spoiled rotten), back down to her healthy weight of around 60-65 lbs. She seems happier, is definitely more energetic, and I'm jealous of her metabolism.<br /><br />For reference, she is a 7 year old Walker Hound / Greyhound mix.
+
+product/productId: B0009YUI86
+review/userId: A3UQBGQTMIFQCQ
+review/profileName: David Cintron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332720000
+review/summary: Helped our lab lose weight
+review/text: Chose weight control to help our lab lose a little weight. This food has helped do exactly that. The only warning I will give is that she experienced some extraordinary gas when switching over to this food. This was with mixing it with her old food for about two weeks. Eventually her body adjusted to the food and she isn't making the stinky like when she first started eating it. Love too having it delivered to the front door instead of having to lug it around the pet store and out of the car.
+
+product/productId: B0009YUI86
+review/userId: A2DFM26VLNVYNY
+review/profileName: Homer "consumer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330387200
+review/summary: A terrific dog food and helps my pudgy dogs
+review/text: I have five dogs. One has extreme food sensitivities to gluten and wheat. As three of my dogs are labs, which tend to be somewhat food gluttons, it is nice to find a dog food that helps them maintain their weight.<br /><br />This is an excellent product. Even my dog with the food sensitivities has no problem.<br /><br />And they all are keeping their svelte figure.<br /><br />This product is excellent and from my point of view, clearly one of hte best products for keeping your dog healthy and fit.
+
+product/productId: B0009YUI86
+review/userId: A4APZP2PI4KZB
+review/profileName: Eli
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325376000
+review/summary: Good Dog Food
+review/text: I have two male Jack Russells.  One started gaining weight and was quite a bit heavier than the other.  I decided to try this food and it has worked very well for the heavier dog, but not well for the other.  I gradually changed their food at the same time and the skinnier dog's stomach started rumbling and it just plain didn't agree with him.  My thought was maybe the fiber content was too difficult for him to handle.  I switched him back to the regular Blue Buffalo Chicken dog food and he has been fine.  The heavier dog has been on this for over a year and has had no problems.  His weight gain has stopped and he's even lost a couple of pounds.  Make sure you gradually change your dog's food to this as an abrupt change will most likely give your dog problems.
+
+product/productId: B0009YUI86
+review/userId: A3CDDASGBLAGQ5
+review/profileName: DunHill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324944000
+review/summary: My dog LOVES this...
+review/text: Max is getting up in age and subsequently is not able to exercise like he once did.  We were cutting back on the amount of food, to compensate. Max was NOT happy. He loves Blue Buffalo Weight Control Formula, plus it not filled with a lot of meal and by products. He's HAPPY and much leaner now.
+

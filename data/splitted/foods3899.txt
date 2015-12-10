@@ -1,0 +1,1143 @@
+product/productId: B0083QJU5O
+review/userId: A1EX5SK2PD0XLC
+review/profileName: Kenneth Sandberg
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1262822400
+review/summary: Excellent maple syrup
+review/text: I have tried many maple syrups over the years; this is as good as any.  It has a pleasant flavor, light in color, and delicious.  I am very happy with the flavor and taste. For the price these days of syrup, it better be darn good!
+
+product/productId: B0083QJU5O
+review/userId: AHLCT3DQYU2Z4
+review/profileName: Cathy G
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1315353600
+review/summary: wonderful!
+review/text: This is a good price for Maple syrup, and I love the plastic jug. It came quickly and it shall be enjoyed soon!
+
+product/productId: B0083QJU5O
+review/userId: ASZ1R7ZI727NZ
+review/profileName: omar
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1293494400
+review/summary: best syrup ever
+review/text: This product is highly recommended.  Please do not price compare it to Canadian maple syrup because there is no comparison.
+
+product/productId: B0043H4OEE
+review/userId: AUIRJY5C8AWUS
+review/profileName: Eric Croft
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1295827200
+review/summary: This price is rediculous!
+review/text: This product is great for an on-the-go yet filling lunch option. They are available elsewhere in numerous flavors. You can also purchase them at other locations for less than $1 per bar!!!
+
+product/productId: B0043H4OEE
+review/userId: A1NJK3K9VIDSSE
+review/profileName: Kayla
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: Delicious and satisfying!
+review/text: These bars are so delicious and very fulfilling as a quick snack or lunch. I like how it has organic ingredients.
+
+product/productId: B000F04RRC
+review/userId: A1264ZVF2WFGKT
+review/profileName: D. Dwyer
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1160697600
+review/summary: These things are ridiculously tasty
+review/text: I recently moved to a new area and there's a Vietnamese grocery on my block -- lots of new stuff to try: different vegetables and vinegars and fruits and such.<br /><br />And snacks.  Different snacks.<br /><br />These rice crackers are like the large version of the orange squares that sometimes show up in trail mix.  Nothing too exotic, really -- just a rice crisp with what seems to be a light sugar glaze.  But oh, man, are they good, and addictive, and pretty inexpensive.  The individual wrapping is handy, too; I can buy a bag of these for the work room and they stay fresh for the one or two days or single afternoon until they're all scarfed up.<br /><br />Hoepfully, they're not too nutritionally sketchy.  I wouldn't subsist on these, or anything, but they're great, great snacks.<br /><br />P.S. If anyone knows if Bin-Bin makes T-shirts, I'd snag one.  One of their pacakages features a character named "Yappy" which has a really nifty design.
+
+product/productId: B004QQ37MC
+review/userId: A364UOSBVL3HHF
+review/profileName: Chef Wally
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: Great oil for baking with
+review/text: love this stuff although it's not HOT enough so I'll be seeking a more concentrate product. I'm sure that there's some hotter cinnamon oil out there.
+
+product/productId: B000WLHYVA
+review/userId: A3T0SC8Y3A7YP5
+review/profileName: Kelly KS Clausius
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Best Chicken Seasoning Ever!
+review/text: Emeril's Chicken Rub changed the this family eats!  I will not say this is a wonder drug, but this seasoning, on chicken, changed a 7 day a week Steak and potatoes, High Fat and High Carbs, into a 4 times a week chicken, Low Fat and Low Carbs, family!
+
+product/productId: B000WLHYVA
+review/userId: AO1SY0B9P7YZL
+review/profileName: Doe Pierre "Doepierre"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327363200
+review/summary: May Be The Flavor You've Been Missing
+review/text: Try this on/in your poultry dishes and see if it doesn't satisfy and make the food you're eating just taste like you think it should! It really makes chicken taste like chicken.<br /><br />I put this in my turkey tetrazzini, on baked chicken, and in chicken/turkey gravy. I do still add my own other spices to things, including some salt and pepper, but putting this Emeril's Chicken Rub in first and then adding whatever else I want seems to yield a balanced, flavorful result, much better than I could get without it. I know tonight if I hadn't had this, my latest batch of tetrazzini would've been lacking despite my adding other flavors and spices. It's called a rub, but I've been sprinkling it in and on things without any rubbing, heh.<br /><br />Note: There is red pepper and paprika in this, the bottle says, so if you're heat sensitive, you may want to try to go a little light at first to see how it seems to you. I like it and have no problems, though I can tell there's a heat sense to it.<br /><br />Note also: I haven't seen this in lots of local grocery stores (I've been looking; hence, the reason I'm on the internet and at Amazon, trying to find out where to get it now.) You may have to find out who carries it near you or order it online.
+
+product/productId: B001QY0RSE
+review/userId: A23FCIR5TFLX3T
+review/profileName: NYC Lady
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1297123200
+review/summary: Amazing Cake
+review/text: I've been a long time customer of Tortuga cakes - all flavors and I can honestly say they have always kept the quality of their product.  These cakes are delicious and perfect housewarming or holiday gifts!
+
+product/productId: B001QY0RSE
+review/userId: A13VU7DUZGIYJT
+review/profileName: J.H.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329177600
+review/summary: Heavenly!
+review/text: This cake is delicious.  The cinnamon, rum and raisin combination is genius.  Its very moist.  This is a real treat.
+
+product/productId: B000MC8J1S
+review/userId: AJD41FBJD9010
+review/profileName: N. Ferguson "Two, Daisy, Hannah, and Kitten"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1232668800
+review/summary: tasty, human grade ingredients, unique manufacturing process
+review/text: Blue Buffalo Spa Select is great! Top of the line ingredients, human food grade-- there's a chicken version and a fish version. I'm really careful to keep on top of the literature about pet foods, and so I'm confident that this food meets a high standard. No yucky meat "by-products", meat and meat meals are the top ingredients, in addition to a host of wholesome and varied ingredients and probiotics.<br /><br />On top of that, this is an incredibly palatable food. My cat LOVES it. In fact, she scarfs it right down, when she typically has just grazed on a piece or two at a time of other premium foods. I have to be careful to use a measuring cup and not overfeed her, 'cause she will seek me out and meow for more!<br /><br />Blue Buffalo uses a unique process to manufacture "lifebits" which are added to the food. These smaller, darker pieces are cold formed in order to maintain nutrients. I don't believe any other company incorporates this kind of element into cat or dog food.<br /><br />I came across this cat food at the local Tractor supply (I was there to buy chicken feed!). I'd never heard or read about Blue Buffalo, but I respect what they are doing, and I've changed to Blue Buffalo dog food for my golden retrievers, too.
+
+product/productId: B000MC8J1S
+review/userId: A2JE8K6PXZITDN
+review/profileName: Earth Mother
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1302566400
+review/summary: Excellent Cat Food
+review/text: Love this cat food!  It has reduced the smell of my male cat's poop.  Now I can hardly tell when he's gone in his cat box.  Also, after several months of use of this cat food, his coat is very shiny and healthy.  He likes this food and never complains about wanting something else.
+
+product/productId: B000MC8J1S
+review/userId: AXERKP6K4WWOT
+review/profileName: Betty A. Roueche
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300579200
+review/summary: Blue Buffalo, Real meat cat food
+review/text: My cats love this item, the cost in the pet stores are a little costly but at amazon yu can get it at a pretty good price.
+
+product/productId: B000MC8J1S
+review/userId: A1SKR5WXGC01VR
+review/profileName: C. Tyler
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296086400
+review/summary: Cat allergic to chicken; this food works
+review/text: I adopted a cat last year from the SPCA.  They sent her home with a bag of Hill Science Diet.  Luckily, she was at the SPCA less than one week before I adopted her.  She became very ill once home.  Trying different things, I finally decided to try eliminating certain foods.  Every cat food you buy at big box stores has chicken in it, no matter the flavor.  So started reading lables at a leading pet store.  Still difficult finding one.  Petsmart had a store brand with turkey, and my cat ate this for months.  Then she wouldn't touch it.  Tried several other types before I came across this food.  No chicken.  She has been gaining weight since eating this food.  I am just keeping my figners crossed she doesn't tire of it.  Not many options out there.
+
+product/productId: B000MC8J1S
+review/userId: ATJN4KEHJBOC8
+review/profileName: KatyKatIL "KatyKat"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293667200
+review/summary: Cats are in love!  Very good food
+review/text: We had first heard of Blue Buffalo on the internet.  We don't have any place where we live<br />that carries this food.  So, I ordered one online (a little different from this one).<br />The cats loved it.<br /><br />I wasn't sure how much they'd love it or tolerate it, so I filled their treat ball with this.<br />The food is a nice size for cats, and it is just smelly enough for them to be interested and<br />humans to not mind it.<br /><br />I do wish Blue Buffalo would be a little more clear on what the difference is between the various<br />types of dry cat food. We bought the Spa Select the first time, and I got this one this time.<br />I don't know what the difference is, and I didn't save the bag.  More clarification or a comparison<br />chart from the vendor would be nice.  Even their own site does not really do a good job of this.<br />They compare against other cat food brands, but not within themselves.<br /><br />Anyway, the cats both love it, and the ingredients are very healthy for them.  Little if any fillers.<br />We fill their treat ball with this food, and feed them wet once a day.<br />This is the food they go after at 3 in the morning.
+
+product/productId: B000MC8J1S
+review/userId: A39H80CS26JQT7
+review/profileName: Rose M. Ash "Old Bat"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286409600
+review/summary: Shopping ease!
+review/text: My two cats love Blue Buffalo. Being disabled (I use a walker), it's difficult enough getting on and off the bus without packages; with packages it's almost impossible as we have a lot of older buses still in service. Stairs make it a horrendous trip. Using Amazon, I can make sure my two always have food and I don't have to worry about bad weather or non-working handicap lifts.
+
+product/productId: B000MC8J1S
+review/userId: A156LB7D9SSF6J
+review/profileName: Chris from Michigan
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1300492800
+review/summary: My finicky cat will barely eat this
+review/text: Having seen the TV adds for Blue Buffalo pet foods I was very optimistic to try this for my adult cat. She is very finicky, preferring canned shredded meat to dry food though she will nibble on food like some major brand Cat Chow during the day. So, I ordered a bag of this and she hardly touches it. If I offer it her in the morning and then fresh servings at lunch and dinner, she barely nibbles at it and sits by her bowl and mews.  Usually it's not until close to dinner time when she;ll actually start nibbling on this. I was very disappointed because I really liked the health benefits for he but if she won't eat it then that really dos her no goof.  I will have to try the wilderness variety next.
+
+product/productId: B000MC8J1S
+review/userId: A38S2MNVMLZSEY
+review/profileName: Lena
+review/helpfulness: 0/8
+review/score: 1.0
+review/time: 1277164800
+review/summary: Save your money
+review/text: My cats would not even touch the stuff. Not one of my 3 cats would go near it, not even Mr. Piggy.  Which is a shame, since it means this $20 item is going into the wastebasket.
+
+product/productId: B004UH03LK
+review/userId: A1JTZATLJCOISL
+review/profileName: JayG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347148800
+review/summary: Great tasting coffee
+review/text: If you like full bodied coffee this product fits the bill.  Excellent taste and repeated consistency.  I use the eight ounce size with some half and half. Tastes great.  Purchased this size comes in four 24 box sizes
+
+product/productId: B004UH03LK
+review/userId: AV4GI7ZMVZH85
+review/profileName: Lucia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Newman's Own
+review/text: My husband and I feel this is the perfect cup of coffee, not to strong but not mild.  It is also organic and the organization supports third world countries. This is a win/win.
+
+product/productId: B004UH03LK
+review/userId: A1V9DG5C9RVOOP
+review/profileName: Raymond C. Schultz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342569600
+review/summary: Newman's Own Special Blend Extra Bold K-Cups
+review/text: I have ordered this product in the past.  I have never had any quality issues nor has there been any shipping or item packaging disparities.  Going through Amazon is a bit less expensive than ordering directly from Keurig.  The Amazon Prime shipping makes up a fair portion of the differences.  All in all, a pleasent buying experience of a great product.
+
+product/productId: B00027DSUA
+review/userId: AWJC8SF9IK6HX
+review/profileName: clarityhome
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296345600
+review/summary: Best food on the market for sensitive dogs
+review/text: I have a 2 year old boxer pup.<br />He has had a variety of health problems and overtaxed immune system as a pup. He has always had a low threshold for developing loose stools. The only food I have found that prevents his issues is Canine Caviar. I have tried every other high quality premium food, without the same results. I am now committed to driving across town for this food, as nothing compares (I discovered C.C. from a French Bulldog owner who also had great results calming their issues).<br />Just wish more stores carried it.
+
+product/productId: B0038KOTVU
+review/userId: A1YBV3FO8305TW
+review/profileName: C. C. Werner
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1292025600
+review/summary: Awesome semi-dry salami
+review/text: We sampled some Creminelli Salami al Tartufo this morning at a better supermarket in Virginia. The flavor was incredible. The infusion of black truffles smooths out the spices. The trick is to slice this almost paper thin to really enjoy the flavors. Too thick, and you'll have more of a challenge breaking this down as it is a fairly dry meat. This has some slight to moderately deep earthy tones, and coupled with an excellent meat/fat balance, and top notch selection of spices, makes for a wonderful experience. We bought a 1/2 pound stick and couldn't wait to get home. Pair this with your favorite Cabernet or Bordeaux and be prepared for a delightful experience. I will definitely be getting this again.
+
+product/productId: B0038KOTVU
+review/userId: A3M2TSC7Q9SC0Y
+review/profileName: Loanwolfe
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345852800
+review/summary: Disgusting
+review/text: This may be the worst salami I have ever tried to eat.<br />  It is mainly grease and gristle with hardly any taste.<br />  Almost impossible to chew.
+
+product/productId: B0038KOTVU
+review/userId: A348RCUM2SSDCW
+review/profileName: Bridget Ellis ":) Bridget"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327622400
+review/summary: Delcious
+review/text: We have really enjoyed the salami sticks.  They make a great snack or addition to a meat and cheese tray.
+
+product/productId: B000VQD4Z6
+review/userId: AUWXKATLYZ0EW
+review/profileName: JouNg Yun Choi
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1329955200
+review/summary: Best Ramen
+review/text: As a college student who lives in the dormitory, I often get bored of the food that school provides. They always have same menus and it does not taste good. Also, as a Korean student, hamburgers, pasta, and bread are too greasy and cheesy for me. Thus, when I do not feel like going down to the school cafeteria or want to eat Korean food, I cook Shin ramen. It is not cheesy or greasy like burgers, and eating Shin ramen makes me feel I am home.<br />On the front wrap of the ramen, it has picture of cooked Shin ramen with Red coloring which indicates it is hot and spicy. On the back of the wrap, it has recipe, ingredients, expiration date, and etc. By just looking at the wrap, my mouth gets watery and I get hungry. I can imagine the taste and its spiciness while I am writing this review.<br />For those people who are not good at cooking foods, you do not have to worry. Cooking this ramen is very simple and it can be cooked in less than five minutes. Basic way to cook this ramen is to follow the direction on the back of the wrapper. First, boil the water and put noodle and two packs of seasonings. Anybody can cook this. If this direction is still hard for you, you can get Shin ramen cup-noodle. You just need to pour boiling water in to the cup.<br />Other than simple recipe, there are many different ways to cook this ramen. The spiciness of the ramen can be controlled by putting how much seasoning is put. Also, adding different ingredients, such as mushrooms, hot peppers, meats, or eggs can make the soup taste much better. My recommendation is putting all the seasoning and adding Kimchi to make the ramen spicier. For those people who are not so good at eating spicy food, I recommend putting raw egg to make the soup less spicy.<br />Also, I recommend try eating Shin ramen raw. Crack the noodles before you open the wrapper. Open up the wrapper, do not put the vegetable seasoning, but put spicy seasoning. After, you shake them up together and make spicy ramen chip. Instead of eating as a meal, you can enjoy it as a snack while you watch movie or TV.<br /> As a ramen lover, I have tried many different ramen from different countries. After I have tasted most of the ramen, I made a conclusion that Shin ramen shows superior quantity and quality from the other types of ramen. Compared to the most common ramen in the United States, the Maruchan ramen, Shin ramen has more filling and spicy. Other than its better quantity, its quality is also superior. Shin ramen has two seasonings, which includes dried vegetable seasonings and spicy seasonings. However, Maruchan ramen do not have vegetable seasoning.<br />Although it shows superior quantity and quality from Maruchan ramen, it is quite expensive compared to Maruchan ramen. It is fifteen dollars per pack of 20 ramen, when Maruchan ramen is fifteen dollars per pack of thirty six ramen. Although the price is higher than Maruchan, I strongly recommend Shin ramen for those who want spicy hot soup with better filling.
+
+product/productId: B000VQD4Z6
+review/userId: AQEZLY119SHJ3
+review/profileName: Ashley White "shopalot"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1221609600
+review/summary: the best noodles ever
+review/text: these noodles cook up soft but not soggy.  there are two packets of of seasoning on the inside.  one is just garden veggies dried and the the other is powdered seasonings. the latter is spicy so add with caution.  great eat and filling.  enjoy anytime of day or year!
+
+product/productId: B000VQD4Z6
+review/userId: A7KWY8M7VNLJF
+review/profileName: M. Kae "matchinheaven"
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1201564800
+review/summary: It's Hot Super Hot
+review/text: The sauce that comes in the bag makes the cooked ramen "pretty" spicy. However, if you don't like extra hot, then you can add veggies, such as, onions, green onions, egg, and even beef/other meats, and it will become pretty mild. There are a lot of Korean noodles, but Shin Ramyun is one of my favorites! If you don't enjoy spicy food (or msg - some mentioned it), then don't bother.
+
+product/productId: B000VQD4Z6
+review/userId: A3K8ZKWZ436EMD
+review/profileName: J. L. Haste
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1248393600
+review/summary: Deliciously Spicy!
+review/text: My brother introduced me to these wonderful noodles after his stint in Korea.  I jazz them up with an egg when the noodles are almost done...then I add a handful of shredded cheddar cheese.  MMMMmmm!  The cheese and egg give the broth a wonderful flavor.  The noodles seemed very hot to me on the first try, but my tastebuds grew accustomed and then they started to be rather mild. These are definitely a must have in my pantry.
+
+product/productId: B000VQD4Z6
+review/userId: A2NGJMJX9ETT6
+review/profileName: Mark Basham
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1239667200
+review/summary: Simply the best dried Ramyun you can buy
+review/text: If you like spicy ramyun give this a try, be warned people might think you're cooking up tear gas because it is very... fragrant while cooking.  I advise just bringing the noodles to a boil and starting to seperate and then putting them in your bowl and allowing to cool for perfectly cooked consistency.  I also advice adding some baby bok choy, dried mushrooms, egg, beef etc... you can make a damn good meal out of these.<br /><br />They aren't perfect but they're as good as you can get at home.
+
+product/productId: B000VQD4Z6
+review/userId: A39C9QMKL1AAP3
+review/profileName: halfbakedcake
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1258848000
+review/summary: The only ramen I'll eat
+review/text: The Malaysian postdoc in my lab introduced me to these. I've never been a huge fan of ramen, but I love spicy food and I needed some cheap meals, so I tried them. She suggested that I start with half the spice packet which wasn't nearly hot enough for me (she was impressed by this, actually), so I added the whole packet. I would suggest half the packet to anyone who hasn't tried them before, though...I have a very high heat tolerance. I think they actually taste pretty beefy, too, though I'm a little frightened by what is lending it the beefy flavor. At any rate, I'm sending the box of 20 to my brother-in-law who is on deployment. He's in the Navy, loves ramen and spicy food, and finds the meal choices on the ship a *bit* limited. He has the ability to make ramen or cup-o-noodles on the ship, and since they're not perishable, they're perfect to send to someone who's going to be trapped on a ship for 6 or 7 months.
+
+product/productId: B000VQD4Z6
+review/userId: A23N3MGIY8D5BH
+review/profileName: Mike
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333497600
+review/summary: Really good
+review/text: These noodles are the best. You can put in as much spice from the packet as you want, Try it you'll like it.
+
+product/productId: B000VQD4Z6
+review/userId: A2H7YOUUEIJVKE
+review/profileName: JanCando
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329264000
+review/summary: Simply the best...
+review/text: An absolute staple in my kitchen. Folks don't know what they're missing. I add chopped celery and onion to make the most flavorful soup ever!
+
+product/productId: B000VQD4Z6
+review/userId: A8SF24OOTU418
+review/profileName: Spitfire
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323907200
+review/summary: My son LOVES this stuff!
+review/text: It is a lot easier to order off of Amazon than to drive around to the few places locally to see who has it "this month."  My 19 year old loves the spicy flavors, and it is a cheap way to keep a "still growing boy" fed in between meals. (mumbles-I hate his metabolism) He is not fond of the "regular" raman noodle packs, but loves this stuff!
+
+product/productId: B000VQD4Z6
+review/userId: A331S5N5PNSOV0
+review/profileName: N. Pawar "thestoneman"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1316044800
+review/summary: Wow...excellent.
+review/text: This stuff is great not just for ramen.  I eat fiery hot stuff almost every day and this ramen is really really really hot.  It's got a lot going for it: 1)Base/soup tastes really good, 2)Freeze dried vegetables aren't overwhelming, 3)Noodles have the best consistency I've experienced even in the microwave, 4)Whole lot of noodles, 5)Fairly cheap, 6)Available at chain grocery stores, 7)It's made in California for the US.<br /><br />There are drawbacks: 1)The preparation requires a measuring cup for the water added and the cooking time is a little long in the microwave, 2)If you have heartburn this will make it much worse, 3)Would be nice to have in a smaller portion size/other flavors (but might be related to limited retail supplies), 4)Loaded with sodium 5)Noodle block won't fit in a regular sized bowl for microwaving.<br /><br />Altogether it's good stuff.
+
+product/productId: B000VQD4Z6
+review/userId: A2DIA99ETFW05Q
+review/profileName: Mr. Peepers
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315094400
+review/summary: great product, great seller
+review/text: A friend from work got me hooked on these noodles. They are way better than the Ramen in most stores. Very Asia is also great to deal with.<br />  borglyn
+
+product/productId: B000VQD4Z6
+review/userId: A7QAU7NY69OJC
+review/profileName: P. Walsh "Peter Walsh"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1310428800
+review/summary: Pretty tasty, but not spicy enough.
+review/text: These are pretty tasty, but not quite as tasty as mama tom yum. I usually add extra peppers to this soup in order to get the heat to where I like it. I'm still on the search for a really spicy packaged noodle, but these are the spiciest I have found so far.
+
+product/productId: B000VQD4Z6
+review/userId: A7ZI4T4F7C9FO
+review/profileName: Kenneth B. Fowler
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308614400
+review/summary: Spicy but great !!!
+review/text: I ordered these noodles because a caring co-worker recommended them for the days that we are unable to escape for lunch. Although it took a little while for my stomach to get used to them, I love these noodles ! Although I didn't purchase them for this reason, they assisted me with losing some weight. I am currently stationed in Kuwait; however, shipping was very fast. I ordered 2 cases thus far and I am going to order 2 more at the beginning of next month. I highly recommend these noodles !!!
+
+product/productId: B000VQD4Z6
+review/userId: A36E3TSYJQGWSS
+review/profileName: Bob
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296777600
+review/summary: Been eating it for years
+review/text: This product is awesome.  It is quick and fills you up which is good since you dont knowwhen you will be able to eat another hot meal for a while over here in the desert.
+
+product/productId: B000VQD4Z6
+review/userId: A1RQEQL1PWRRGV
+review/profileName: Ron C. Weber
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1260835200
+review/summary: If you like spicy hot!
+review/text: I love this soup.  Its really really spicy hot.  By the time your done eating it your sinuses are clear and sweat running down your forehead.  You gotta try it!
+
+product/productId: B000VQD4Z6
+review/userId: A38QNJELGLTMTH
+review/profileName: clee
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351123200
+review/summary: warning! cancer...
+review/text: I love this stuff, but sadly just received a phone call from my mother who was watching Taiwanese news -- they recently were warning consumers in Asia NOT to buy Shin Ramyun (this brand specifically!) because of the increased risks of cancer...<br /><br />[...]<br /><br />See this older study.  But it seems to have recently resurfaced and isn't in the mainstream US media...
+
+product/productId: B000VQD4Z6
+review/userId: AAUVIV5KLSC8A
+review/profileName: chika
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: shin ramyun
+review/text: I like this grocery.<br /><br />It is too spicy and famous noodle in Korea.<br /><br />I'm not Korean but I can eat it.<br /><br />Customer service is so good because it is so speedy.
+
+product/productId: B000VQD4Z6
+review/userId: A3VGL9JOQEOCR8
+review/profileName: Anthony Cuttitta Jr.
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1300406400
+review/summary: Feeling a little under the weather?  Break out the Shin!
+review/text: My wife has a tender stomach.  When she's sick, it's lightly buttered toast and baked potatoes until her stomach is ready.  Me?  Spicy.  The hotter the better.  Whether it's a head cold or a stomach ailment, I go to the store and grab a pack of Shin Ramyun and doctor it up.  A bag of frozen veg is great, and leftover pork chops, steak, or chicken is awesome.  For the seafood one, I also keep pre-cooked frozen shrimp on hand.<br /><br />Note:  If you wanna amp up the heat (as I like), ditch the whole soup concept and put in just enough water to soften the noodles.  Make it more like lo mein than a soup basically.  The heat is WAY more intense and you'll feel your lips tingling for awhile afterward.  (Just finished a bowl now and my belly is quite happy.)
+
+product/productId: B000VQD4Z6
+review/userId: A118QOZ6Q6515S
+review/profileName: Q. Sun
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1324252800
+review/summary: Fabulous MSG goodness!
+review/text: This is the best tasting of the hordes of noodles I've tried. You name it, I tried it.  I've been eating this particular one for probably about 10 years or so. I once ate this every meal for a whole month. The MSG really gets you after awhile though.
+
+product/productId: B004HV7TG6
+review/userId: A3U4GKYN68JENC
+review/profileName: Richard M. Lianggan "RIchard"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349913600
+review/summary: Good noodle, but average soup paste
+review/text: I have try their Menraku Tonkotsu Ramen, which was suprise good, very good value for $1.50 in the local asian grocery store, it was the cheapest tonkotsu japanese made ramen i can find, so i try a different flavor, the miso paste taste close to those cheap miso soup paste pacakge, is not something i would order again, the noodle was good.
+
+product/productId: B001BY08L0
+review/userId: A36NH2Q3EADH5B
+review/profileName: bijou2311 "bijou2311"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1235174400
+review/summary: great product if a bit expensive
+review/text: I found these when I was in Europe but haven't been able to find them anywhere else in the US.  They are a little bit expensive, but worth it, at least in my opinion.
+
+product/productId: B002DHL0TI
+review/userId: A1P1UEBBLD054O
+review/profileName: Jen
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1289260800
+review/summary: Disappointed
+review/text: I was completely disappointed to see cheddar cheese in these PEANUT BUTTER crackers! Be aware!!
+
+product/productId: B002864582
+review/userId: A2DDKFU4NDJ15K
+review/profileName: sao
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331510400
+review/summary: dog gives 5 star for taest I give 3.5 for mess
+review/text: I have a 10 month old Weimaraner that loved the Busy Bone Chewbone treat. He has some separation anxiety and they can help keep him calm. It takes him about 15-20 minutes to eat but it is long enough for him to calm himself down. I just make sure he keeps it off white stuff. The red  center bleeds a little if he drops the wet side down or a piece gets broken off and falls on a light surface.  My dog will chew on one end then leave it if he gets distracted then come back and chew on the other end and the wet side dies surface he is on. I have been able to clean it out of stuff easily enough but it is a little bit of a annoying that I have to. I also wish they were cheaper.
+
+product/productId: B001FCOQ48
+review/userId: AK7CAW3N1XZV6
+review/profileName: Beth Cholette "doctor_beth"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1272499200
+review/summary: Definitely have had better oatmeal raisin flavored bars
+review/text: I like to choose protein bars as a nutrition-dense breakfast option. I tried the Carrot Cake flavor earlier this week and liked it (really does taste like Carrot Cake!), so I thought I would try this flavor as well.<br /><br />The Oatmeal Raisin Walnut Clif bar had more sugar than I normally would have like in a bar (20 grams, or about 4 teaspoons).  However, the rest of the bar's nutritional profile was decent: 10 grams of protein (although a bit more would've been nice to offset the 43 grams of carbs), 5 grams of fiber (excellent!), and 5 grams of fat (1 gram saturated).<br /><br />Regarding the taste, this bar wasn't nearly as good as the Carrot Cake version.  It is dense and chewy, and it wasn't bad, it just didn't have much of an oatmeal raisin taste to it at all (there was a slight walnut flavor).  On the plus side, the ingredients for this bar are mostly natural, including plenty of soy (of course, this might be a negative for someone trying to avoid soy products), rolled oats, raisins, and walnuts.  In the end, though, I probably wouldn't buy this bar again.<br /><br />One final note:  after I ate the Carrot Cake Clif bar earlier this week, I felt rather dizzy and sick to my stomach about an hour later.  I thought this was just a fluke, but the same thing happened today when I tried the Oatmeal Raisin Clif bar.  My blood pressure tends to run low, and I don't know if there is some ingredient in these bars that is somehow interacting with it; it's odd because I don't usually have food sensitivities, but I just thought that I would mention it.
+
+product/productId: B0083QJU54
+review/userId: A3JR3WV94U4BOD
+review/profileName: Kimberly V.
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1283817600
+review/summary: Best Tasting Maple Syrup Ever
+review/text: I have never been a big fan of maple syrup but I set up an Amazon subscribe and save subscription for this product because everyone else in my family loves maple syrup and I wanted to get an organic product since we go through it so fast.  Also, my husband kept complaining that the maple syrup I was buying at Costco just wasn't all that great.  You can imagine my surprise when I tasted this maple syrup and discovered how amazingly good it is.  I never used to put syrup on my pancakes but now I want to make pancakes simply so I can eat some of this syrup.  It is that good.  I highly recommend this product.
+
+product/productId: B0083QJU54
+review/userId: AFXMTGF9XLJM1
+review/profileName: Former Rater
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1080432000
+review/summary: The REAL Maple Syrup
+review/text: I have had products from the Coombs farm in my pantry for years.  This is what Maple Syrup tastes like.  This is the best Maple syrup I know of.  I use the Grade B for cooking (it has a stronger flavor that withstands cooking) - everything from breads to cookies and glazes.<p>This Grade A syrup is wonderful with anything, but I love just a tsp or two with real oatmeal.  I hear that some people make &quot;Mapletinis&quot; out of this syrup and vodka, but I can't say that I have tried one.
+
+product/productId: B0083QJU54
+review/userId: A1463BRPBNNW2T
+review/profileName: sheepherder
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1290729600
+review/summary: Maple Syrup
+review/text: We love the real thing and this meets all our expectations. Price is right and great product! Will buy more.
+
+product/productId: B0083QJU54
+review/userId: A2BJJNPJ3ICEMD
+review/profileName: William Green "StargazerBill"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: Real Maple Syrup Can't be Beat!
+review/text: We try to keep our diet organic as best we can. This is one of the few organic maple syrups that I could find. Luckily, it is also one of the best tasting. For those who are still unaware that there is a HUGH difference between maple syrup and the "maple flavored" sugar c**p that lines the grocery store shelves, you owe it to yourself to try genuine maple syrup. To those who already appreciate maple syrup I highly recommend Coomb's.
+
+product/productId: B0083QJU54
+review/userId: A1HKTWRXC8MDZB
+review/profileName: Candace
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341532800
+review/summary: Yum!
+review/text: We use this for pancakes and waffles every morning and it is absolutely delicious!  If you are looking for real maple syrup instead of an artificially flavored table syrup, this is the way to go.  I tried <a href="http://www.amazon.com/gp/product/B0013E21V8">Highland Sugarworks Pure Organic Grade A Dark Amber Maple Syrup, 32-Ounce Jug</a> but found that the Coombs Family brand has a smoother, more maple-y taste.  This Grade A Dark Amber provides a flavor similar to a table syrup, without the artificial chemically taste associated with those.  If you are considering a maple syrup for baking or just like a stronger flavor, I would go with a Grade B.
+
+product/productId: B0083QJU54
+review/userId: A16BX5YGVLJEJI
+review/profileName: Pip
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1320278400
+review/summary: Excellent Syrup - !00% Pure, Natural, & Organic! As Maple Syrup Should Be!
+review/text: Seeing as there was an unfortunate negative review left by an unknowing person, I felt compelled to not only respond to his review directly, but to balance it out by leaving a review of my very own. I'm also bored at work, so it gives me something to do. LOL.<br /><br />I love real maple syrup, and I've tried most major brands, as well as many smaller, local brands (I live in the northeast). The taste and consistency of Coombs is perfect and in line with all high quality maple syrups. This is how the real deal tastes and feels. I prefer a deep, rich maple flavor, so I keep a bottle of dark amber on hand at all times. If I'm feeling particularly sassy, or a frigid winter morning is threatening to keep me from work, I will actually use a dark grade B syrup. Generally speaking, that's reserved for cooking, but I love the robust, often complex taste and structure. It can become a transformative experience - I imagine the old growth forest that gently watched over the land for generations before, and who will continue its watchful eye for generations yet to come, and I find myself reconnecting with something much greater than myself. It is humbling and deliciously wonderful to be brought to my knees by the enormity of it. Who knew pancakes could elicit such a deep introspection. Pippa's pancake philosophy - It could revolutionize the world! It truly baffles me that the darker ambers are considered "sub-par" or of generally lesser quality. But hey... that's just me, I suppose. If you want milder flavor, go for a medium amber. If you just want a sweet coating for your pancakes, go for the light amber.... and never come to the northeast. LOL - just kidding (sort of).<br /><br />If you find yourself balking at the taste and/or consistency, I suspect that you are overly accustomed to the cheap crap you find in a general grocer's aisles. They add a bunch of nasty chemicals, fillers, and thickeners to their products. Or worse, as is the case with such brands as Aunt Jemima's and Mrs. Butterworths, there is ZERO actual maple syrup in the "formula." That is not an exaggeration. Look at the ingredient list and you will see it's basically high fructose corn syrup with a synthetic "maple" flavor.<br /><br />It's a disservice to the Amazon rating system when people give a good product a one-star rating simply because they do not know any better - don't get me started on the troglodytes who stammer on about nonsensical bull-shite that has nothing to do with the product or its inherent quality, or lack thereof. Although, in all honesty, it's far more disconcerting that Americans have become so disconnected from their food that they react negatively when offered the real thing. But I digress - that diatribe is best saved for another time.<br /><br />Overall, this syrup is some of the best around. And the price is pretty decent, esp. if you use the "Subscribe and Save" option. You'd be hard pressed to find a better deal in the store, and Coombs is probably the best offering here on Amazon.
+
+product/productId: B0083QJU54
+review/userId: A27I20PKERU07R
+review/profileName: Tanya Bell
+review/helpfulness: 0/3
+review/score: 5.0
+review/time: 1295136000
+review/summary: Dee-licious!
+review/text: I previously purchased Grade A without thinking about it.  Once I got this product (Grade B) I was back on track with flavor and color.  I like the deeper, richer, more mapely taste of Grade B and this particular syrup is tops with me!
+
+product/productId: B0083QJU54
+review/userId: ABSN9KO83WMXN
+review/profileName: william alexander
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1316736000
+review/summary: Very thin Maple syrup..
+review/text: VERY THIN syrup and not at all the quality I was expecting. I would not recommend this product to anyone.
+
+product/productId: B004M8JA02
+review/userId: AL54AYDWMWP6E
+review/profileName: Prince Steamer
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1316908800
+review/summary: Only game in town
+review/text: I have had a tassimo coffee maker for about 5 years. This past year it has become difficult to get the t-discs at area grocery stores. Amazon subscribe & save is really helpful. The decafe coffee is very  mild, but decent for night time use.
+
+product/productId: B004M8JA02
+review/userId: A1HKW2TELCHGLL
+review/profileName: astraelraen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315526400
+review/summary: My wife says this is good decaf
+review/text: We have never been Maxwell House drinkers. The thought of even using Maxwell House almost scared me away from buying a Tassimo. I'm glad we did try the Maxwell House drinks though. These are certainly not the same coffee that comes from their can because my wife says it is GOOD coffee.<br /><br />She has had Folgers Decaf, Maxwell House Decaf, Yuban Decaf, various store brand decafs as well as a few other smaller name brand whole bean decafs. She says this is one of the best in terms of strength/body.<br /><br />She also has a problem with some decaf coffees hurting her stomach, maybe due to the decaffinating process? This one does not.
+
+product/productId: B004M8JA02
+review/userId: A3L6XHA5FVMN16
+review/profileName: Michael P. Lenahan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337817600
+review/summary: T-Discs
+review/text: I like a large cup of coffee in the morning and The Maxwell house morning Blend is a 12 oz cup od coffee for the Tassimo Beverage System, it is also available in Giavlia Morning Blend, but I prefer the Maxwell House.and it's a couple bucks cheaper.  Both make a good cup of coffee but I find the Maxwell House less strong and more to my taste.  Also with Prime's free shipping it is much cheaper than anywhere else on line I could ever find.
+
+product/productId: B004M8JA02
+review/userId: A1EVHCE6OIWUUL
+review/profileName: Nancy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335484800
+review/summary: Great coffee
+review/text: Perfect coffee with great flavor.It's not too strong or weak which is a decided positive if you want to cut back on caffeine and still enjoy your coffee.I felt it would be a challenge to make the switch but haven't noticed any big difference at all. Used to be an  iffy situation as the pods leaked but this has been corrected and is not a problem at all.
+
+product/productId: B004M8JA02
+review/userId: A2SHUYK3YMWPGK
+review/profileName: Helysa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334188800
+review/summary: Great decaf blend
+review/text: I love coffee, but I can't drink caffeine in the evenings because I can't sleep. I don't like most decaf because I think the taste is awful. This tastes more like caffeinated coffee than any other decaf I have tried, and when I am craving some coffee in the evenings, this does the job! Plan to continue to use this one.
+
+product/productId: B004M8JA02
+review/userId: AWPNIK47T1IK7
+review/profileName: K. Scasny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331683200
+review/summary: A Great Cup of Joe
+review/text: Not much to say other than this Maxwell House<br />blend makes a good cup of coffee.  The lower price<br />versus the more expensive brands is a plus, too.
+
+product/productId: B004M8JA02
+review/userId: A1PH144RQRRVQR
+review/profileName: hobbyist  &#34;mav&#34;
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329264000
+review/summary: great coffee at a reasonable price
+review/text: tried this for the first time.  love this blend which has a great taste for a decaf!  you also save more at amazon by signing up for the subscription service.  perfect for those looking for not too strong a coffee that keeps you up at night.
+
+product/productId: B004M8JA02
+review/userId: A146UFOY3ALHC1
+review/profileName: Mark
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327968000
+review/summary: Very Good Cup Of Joe
+review/text: I have to admit the Tassimo makes a fantastic cup of coffee and the maxwell house ones are every bit as good as the more expensive ones.  Full, rich flavor and no fuss no muss.  Only downside over all is they can get kind of expensive if you drink them regularly, though the convenience and taste make up for alot of that.
+
+product/productId: B004M8JA02
+review/userId: A3BB77YE2CHBHO
+review/profileName: Susan A.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325721600
+review/summary: Quick, Easy and Great
+review/text: I love the Maxwell House Cafe Collection House Blend Decaf. It suits my taste buds just right.  Not to strong or to weak.  Good coffee in just a couple of minutes. Thanks to my son for purchasing this coffee maker for us at Amazon.
+
+product/productId: B004M8JA02
+review/userId: A80CP0XMUG1XU
+review/profileName: Hazel S. Bray
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316649600
+review/summary: fresh and flavorful
+review/text: I am new to the world of one cup at a time coffee makers and had always scoffed at others who had them.  But I am an enthusiastic convert.  Each cup is fresh and flavorful.  This "House Blend" is a great everyday coffee.
+
+product/productId: B004M8JA02
+review/userId: A1V4S92N2EZU5F
+review/profileName: DPeavy
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1335139200
+review/summary: The discs are defective and exploded in my brewer.
+review/text: These T discs were defective. The first one exploded in my brewer. The second caused the brewer to burn and smoke. Amazon states that they are not returnable. I got the run around at Tassimo/ Kraft Foods.
+
+product/productId: B0013LYLIW
+review/userId: A1IRCA0BTW0LLD
+review/profileName: Smart
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1178928000
+review/summary: That's a spicy!
+review/text: If you've tried the conventional Kettle crinkle chip verson Salt and Peper, you CAN'T compare these to those!  These are easily some of the most spicy chips you will ever eat, but oompletely enjoyable.  You finish the bag and the indside is just coated with spices.  Great stuff.
+
+product/productId: B0013LYLIW
+review/userId: A2UFC8M91UFRX9
+review/profileName: HH "h_squared"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1177891200
+review/summary: Who needs salsa when chips taste this good?
+review/text: These are the best tasting tortilla chips I have ever had!  I have become allergic to tomatoes, but I love tortilla chips.  There is so much flavor in these chips that I no longer miss pico de gallo. I prefer to eat them plain. They also have just the right amount of heat to make them flovorful, but not overpoweringly spicy.
+
+product/productId: B0013LYLIW
+review/userId: A3QFVEQNX2FQ8P
+review/profileName: Deja Vu "Angela"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1261526400
+review/summary: Delicious!
+review/text: These potato chips are DELICIOUS!  I have not had potato chips in approximately two years as it has been difficult to find organic chips.  Amazon lowered the price on these, and I finally had a chance to order them.  I most definitely will be ordering them again!  My family and I love them.  They are pure and void of all artificial flavorings.  The true flavor is present, and it satisifies the need for something salty, sweet, spicy, and crunchy.  A++++
+
+product/productId: B0013LYLIW
+review/userId: A181BEPNIVQWB1
+review/profileName: mendomom "mendomom"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1208649600
+review/summary: Organic yummy chips what more can you ask for
+review/text: These chips are a great snack if you don't want all the junk assiciated with chips.  Try them you'll like them.
+
+product/productId: B0013LYLIW
+review/userId: A1UJ6I72N22HT7
+review/profileName: S. Andrews "Sunsh!ne"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1207612800
+review/summary: Very different flavor
+review/text: I love these chips. The flavor is not plain. They are sweet and spicy all at the same time.  The only drawback is it has a tad bit too much salt. But, it still a great flavor!
+
+product/productId: B0013LYLIW
+review/userId: A386PFEJWL73X5
+review/profileName: L. Hulse
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1185062400
+review/summary: These are the best widely available bbq chips!
+review/text: thesedon't like hot food they might be a bit much for you. They have a great balance of sweetness and spice. Of course, Kettle Chips are just good chips - they use good oil to make them and even the plain ones are tasty. I also like that they are ridged chips - those are usually too crunchy and hard to chew for me - I don't want to have to work that hard for my deliciousness. If you like spicy barbecue you will definitely like these chips.
+
+product/productId: B0013LYLIW
+review/userId: A2MIJOZVTWEXP2
+review/profileName: TG "Tigris"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1187740800
+review/summary: My favorite chips from Kettle!!
+review/text: Just the right amount of spice to make them hot and they are also sweet! Very hard to find in New Jersey. Can not have just one bag around!!
+
+product/productId: B0013LYLIW
+review/userId: A4AYT6I29WTPY
+review/profileName: Chip Lover "Leisa"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1158537600
+review/summary: Amazing Taste, Best Chip Ever!
+review/text: I can't believe how wonderful this chip is! The slightly spicy after taste gives the chip extra punch and flavor. My family and I are offically addicted.
+
+product/productId: B0013LYLIW
+review/userId: A1UDFKEKTO70NX
+review/profileName: Tiffany
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1245110400
+review/summary: tasty
+review/text: These chips are perfect for snacking with or without salsa. The texture is brittle and thin, like other Plocky's chips.<br /><br />The only downside: the spice is minimal.
+
+product/productId: B0013LYLIW
+review/userId: A471XPKNUEJGU
+review/profileName: Joe133
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1219536000
+review/summary: Plocky's Sweet Smokey Chipotle Whole Grain Tortill...
+review/text: I think Plocky's brand as a whole is a cut above in quality but I found these to lack in taste somewhat and be a little greasy.
+
+product/productId: B0013LYLIW
+review/userId: A3UCO7B9HP42BG
+review/profileName: Denise Graner
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1217203200
+review/summary: Yummy chips
+review/text: These are the best chips I have ever eaten. Everyone in our family loves them. Sweet but spicy- crispy....really good. Delivery was perfect, no crushed chips. Fantastic overall.
+
+product/productId: B0013LYLIW
+review/userId: A28A3KLKV22OAJ
+review/profileName: C. Young
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1215043200
+review/summary: Tasty!
+review/text: A nice case of chips that are quite tasty. I definitely enjoy the Kettle Sea Salt and Black Pepper. I just wish they were bigger bags :)
+
+product/productId: B0013LYLIW
+review/userId: A1WX42M589VAMQ
+review/profileName: Mir
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1209686400
+review/summary: So Faboo: Dangerous for those prone to Chips Binges!!!
+review/text: I ordered these this week from my organic foods delivery service. OH MY WORD! Spicy (but not burning spicy, more like tongue-warming), sweetish, salty...a really strongly-flavored and delicious chip. If you like barbecue flavor, this is a nice sweet-Mexi-fied barecue.<br /><br />I also like that it's organic.<br /><br />I ate the 5 oz bag in less than 15 minutes. My bad. But dang, if they're not sinfully delicious.<br /><br />Granted, 5oz is not a whole lot (it was skimpy for the price, which is often the case when it comes to organic), but it was 750 calories at a pop. Geesh.<br /><br />Yes, 150 cals per 1 oz serving. That's about par for the course for fried chips.<br /><br />Verdict: Fattening, crispy, flavorful, delicious. Best to stick to very small servings on the side of a low-fat sandwich or soup.<br /><br />Enjoy.<br /><br />Mir
+
+product/productId: B0013LYLIW
+review/userId: ARUQJLJBXS88
+review/profileName: Karen E. Emanuel
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1184371200
+review/summary: The spice will grow!
+review/text: At first you think that these chips aren't all that Spicy, but the spice will grow on you with each bite.  They are really very good!
+
+product/productId: B0013LYLIW
+review/userId: A3MKD1JZEYH8J3
+review/profileName: P. Werwie "Punchneedle Chick"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1256342400
+review/summary: The best tortilla chips I have ever eaten!!
+review/text: I can't say enough good things about Plocky's chips!!  I have purchased this flavor and the black bean flavor <a href="http://www.amazon.com/gp/product/B000GWKO7G">Plocky's Tortilla Chips, Black Beans 'N Rice, 7-Ounce Bags (Pack of 12)</a> and I love them!  They taste better than more well known brands and are very satisfying.  I have never eaten a tortilla chip that didn't make me feel guilty afterwards.  Not with Plocky's...I always eat less and feel satisfied.  I actually prefer these eaten by themselves..no dips...and I keep a bag in my desk at work.  I have even had them for lunch when there is no time to grab something.  I bring them to work to share with friends and they love them too.  I am a fan of Plocky's chips and will continue to purchase them on Amazon.
+
+product/productId: B0013LYLIW
+review/userId: A1ZH9LWMX5UCFJ
+review/profileName: K. Stuckey "kateling"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1202169600
+review/summary: Such an excellent chip
+review/text: My aunt gave me a bag of these and I was immediately addicted. There are actual pieces of beans in the chips and they are not overly salty like other chips. I love the zip, agreed they are awesome without salsa, and no trans fat!
+
+product/productId: B0013LYLIW
+review/userId: AK5DB61C13CN7
+review/profileName: Seraxia
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344384000
+review/summary: WRONG FLAVOR - got Country BBQ instead of Chili Chipotle
+review/text: I was so excited thinking they had my favorite discontinued Kettle flavor, but was disappointed when I opened the box and found this substitution. I am keeping them but would not have ordered 15 bags of this flavor. It is a very good bbq chip but I could get this flavor at the grocery store. Why oh why do my favorite food items always get discontinued??? The one star is for the substitution. The country bbq is a 4 start chip, but not the chip I longed for.
+
+product/productId: B0013LYLIW
+review/userId: A3AIHN7XBD816P
+review/profileName: Kathryn Waldrup
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1284681600
+review/summary: Great
+review/text: We love these chips. They can be eaten alone, since they are so crisp and tasty or with a dip. Every one that we have introduced the chips to, loves them. And the expiration date is for 8 months from now, so ordering 12 bags didn't come near to them going stale.
+
+product/productId: B0013LYLIW
+review/userId: AWZG8HXBE8PNB
+review/profileName: doraima
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1278633600
+review/summary: Plocky's Rice and Beans Tortilla Chips
+review/text: I bought these chips, and wanted to try if they were tasty. It sure is!  Unique and different flavor and the right thickness.<br /><br />It remains crunchy, spicy and flavorful with a hint of tabasco and paprika sauce for heat. There are some rice granules embedded with the tortilla chips. However, some of the spices are lacking from this chip. But I liked this very much.<br /><br />I would recommend this to anyone who wants to try a red beans and rice tortilla chips. Go ahead-- you can put other ingredients as nachos except the cheese.  Maybe some el pastor, shredded meat, tomatoes, etcetera.
+
+product/productId: B0013LYLIW
+review/userId: A3QAZDJ7NYH2C6
+review/profileName: M. Esmail
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265500800
+review/summary: Huge fan of these chips!
+review/text: I Love these chips for its unique taste and incredible crispy texture. Used to get them at Henry's in San Diego, CA before we moved out of there and have been ordering them from Amazon since. Running out of them constantly!
+
+product/productId: B0013LYLIW
+review/userId: A2OPEDFVLL22TP
+review/profileName: B Healthy "Healthy eater"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1256169600
+review/summary: Plocky's tortilla chips--tasty and healthy
+review/text: These chips are the only ones I found to be tasty and healthy. They have fewer fat calories plus higher fiber for those who want good taste and nutrition--the perfect blend!
+
+product/productId: B0013LYLIW
+review/userId: A2M7DO3ICXZWF1
+review/profileName: Mary K. Herman "Marushka"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1250035200
+review/summary: Plocky's Three Grain Tortilla Chips
+review/text: We love these. Can't always get them in local stores, they don't keep them stocked even though we are always buying them out. Strong enough to dip in any condiment, great flavor and grain texture.
+
+product/productId: B0013LYLIW
+review/userId: A1KTR92SDR33GZ
+review/profileName: P. Herbert "cal_herbie"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1248652800
+review/summary: Tasty, but make sure you have gum
+review/text: These spicy chips have a lot of great flavor but be warned, you will be left with some stanky breath afterwards! The first time I ate these was at night and then even after brushing and flossing I could taste them in my mouth the next morning. So just be careful about when you eat them, especially if you will be hanging out with people later in the day.
+
+product/productId: B0013LYLIW
+review/userId: A1DMR4TXV10JBB
+review/profileName: A. Chrzanowski "Dwarf Mama"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1246665600
+review/summary: Don't stop carrying these chips
+review/text: The first time I ate these chips was in Aruba in 2007.  I couldn't find them in our area (CT) so you can imagine my joy when I found them on Amazon.  I love these and hope you continue to carry them.  Your prices are terrific too.  I pay $2.99 in Aruba and they run about $2.46 a bag when I buy the case of 12 through Amazon.  Good job!!!!  Only problem is, now everybody wants them here and they steal my bags when the case comes in, but that's ok...sharing is good.
+
+product/productId: B0013LYLIW
+review/userId: A15UN7OK3WRFXE
+review/profileName: Rich Wang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244678400
+review/summary: OM NOM NOM NOM!
+review/text: These chips are delicious. If you like salt & pepper flavored chips with a solid crunch, then you can't go wrong with these--they are the tastiest bag I've come across. The sea salt is easier on the palette than regular salt, in fact I have trouble cutting myself off mid-bag even though I normally enjoy a low sodium diet. I would feel like less of a lush if they had them in the 8-9oz bags.
+
+product/productId: B0013LYLIW
+review/userId: A31UITXO8QXG3H
+review/profileName: Jay M. Clayton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243987200
+review/summary: delicious and healthy
+review/text: I used to buy these at the local supermarket, but they are no longer carried there.  Finding them on Amazon I purchased a box and found they were fresh and delicious as I remembered.  For chips they are also very healthy.  I definately will buy them again.
+
+product/productId: B0013LYLIW
+review/userId: AQAEOMJX8ON8A
+review/profileName: Russell Oelschlager
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1241136000
+review/summary: Unique schrumshist and tasty Tortilla Chips
+review/text: Plocky's Red Beans and Rice Tortilla Chips are really tasty. I shared a few bags with my daughter in Iraq. She said Ummm they are Good. They are good for you too. No artificial stuff.
+
+product/productId: B0013LYLIW
+review/userId: A4FVWK4UTFQVT
+review/profileName: Cow "cowguy6"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236384000
+review/summary: Music to My Palate
+review/text: We like Plockys<br />They like us.<br />Plockys Plockys.<br />Mean no fuss.<br />Taste so good.<br />And healthy too.<br />Plockys Plockys.<br />Grab a bag or two.<br />Thank you Plockys!!
+
+product/productId: B0013LYLIW
+review/userId: A2D8K0GPVMMSER
+review/profileName: Yummycheetos25 "LeLe"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236124800
+review/summary: yummy!
+review/text: I Love these potato chip they r soooo good! =) sweet and spicy but not overwhelming just enough to work up the palate, not salty just enough to balance out the sweetness I will be ordering these again soon. LOVe IT!
+
+product/productId: B0013LYLIW
+review/userId: A2U3DAB0WI8BLZ
+review/profileName: Dennis Wright
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1230595200
+review/summary: Kettle Organic Chipotle potato chips
+review/text: The best potato chips I've ever had at the best price I've ever paid. The service was respectable and the shipping free.
+
+product/productId: B0013LYLIW
+review/userId: A3SV6IWK26XK6B
+review/profileName: S. Doubek
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1220140800
+review/summary: Best kept secret.
+review/text: I love this product.  All of the different flavors are fantastic.  My family likes the 3 grain the best.  No more corn tortilla chips in this house!
+
+product/productId: B0013LYLIW
+review/userId: ACNON4BZACUUL
+review/profileName: mommyofchristopher "mommyofchristopher"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1217030400
+review/summary: Delicious and additive
+review/text: Love these chips, and I don't even like black beans.  Very tasty.  Yum!!  Plus, good for you!
+
+product/productId: B0013LYLIW
+review/userId: A1UDZGQRPFHB5Y
+review/profileName: Jason G. Godin "Dog lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1215993600
+review/summary: FANFREAKINTASTIC
+review/text: These chips are FANFREAKINTASTIC. They are with out a doubt the best chips that I have ever had. A nice sweet smoky flavor and then a little bit-o-heat. OH YA BABY.
+
+product/productId: B0013LYLIW
+review/userId: A2ZCD6KO2YY9IZ
+review/profileName: A. Crawford
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214265600
+review/summary: Smokin'
+review/text: Nice amount of heat and smoke. Very tasty chip that goes great with a brew.
+
+product/productId: B0013LYLIW
+review/userId: A34ZI3K5DNDSNE
+review/profileName: Lisa M. Redington
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1211673600
+review/summary: really good chips
+review/text: These chips are salty with a hint of sweet. They are crisp and crunchy. They are the best chips I've ever had!
+
+product/productId: B0013LYLIW
+review/userId: A1Y1O4GJA3HXQF
+review/profileName: Jelcy Romberg "Chocolate Breath"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1210204800
+review/summary: Plocky's Tortilla Chips, Red Beans 'N Rice
+review/text: We ordered these only because the Black Beans and Rice,which we really. really love, was out of stock.  After about a week, we finally opened up a package and then kicked ourselves for not having tried them earlier.  There is a little kick to them after you swallow them to let you know you have had a hint of hot pepper of some sort.  We took them to a pot luck that night and came home with an empty bag.  I used them, from another bag, as a garnish on a salad that I took to the pot luck and we came home with an empty salad bowl!<br />We will definitely order these again.<a href="http://www.amazon.com/gp/product/B000GWLUGU">Plocky's Tortilla Chips, Red Beans 'N Rice, 7-Ounce Bags (Pack of 12)</a>
+
+product/productId: B0013LYLIW
+review/userId: A2TW6FWJYTF8QM
+review/profileName: Nancy Walsh
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1209686400
+review/summary: "Simply THE BEST"
+review/text: I was first introduced to the Red Rice & Beans chips in my hometown of Bethlehem, PA.  When I moved to North Carolina I was unable to find these chips in my local area.  On my trips back home, I would buy a bunch of bags to bring back with me to NC.  Then I discovered that I could order them on-line and life was great.  These chips are my all time favorite and everyone that I serve them to loves them just the same.  You just gotta try them ... you'll be hooked !!!  ..... Nancy Walsh
+
+product/productId: B0013LYLIW
+review/userId: AISIJIUHHZNHQ
+review/profileName: GG "reading tutor"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1201651200
+review/summary: Addicted
+review/text: Ok. If you don't want to get addicted, don't try Plocky's Red Beans and Rice Tortilla Chips! My husband and I started with one seemingly anodyne bag from a store. Now, we've just received our second case. It won't last long. Beware.
+
+product/productId: B0013LYLIW
+review/userId: AC82F5LXJCR22
+review/profileName: kimberly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1199577600
+review/summary: Perfect tortilla chip goodness!
+review/text: My husband (who, being Mexican, is very picky about his tortilla chips) and I absolutely love these!  The texture is light and crispy, rather than thick and crunchy. He actually usually prefers a very hearty, cruncy chip (Like El Ranchero), but the flavor of these is so fantastic that we're both thilled with them. The bean, rice and corn base makes them incredibly flavorful, and they have a touch of onion and garlic in addition to that. We go through an embarrassing amount of them.  I never, ever like plain chips, but these I can eat without anything else, although they're particularly amazing with a fresh salsa.  I highly recommend these!
+
+product/productId: B0013LYLIW
+review/userId: A3I7NZC5LUVPPW
+review/profileName: Carolyn Waters
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1198886400
+review/summary: These chips are addictive!
+review/text: <a href="http://www.amazon.com/gp/product/B000GWLUGU">Plocky's Tortilla Chips, Red Beans 'N Rice, 7 Ounce Bag (Pack of 12)</a>  I first tasted these chips while visiting relatives in KY.  They are not available where I live, so I ordered them from Amazon.  WOW!  My friends and family are all addicted to them.  The spicy flavor grabs you at the first bite.  Once a bag is open, it is gone!
+
+product/productId: B0013LYLIW
+review/userId: A14B8M117EUBLK
+review/profileName: Shelly Kenyon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1180656000
+review/summary: Best tortilla chips ever!!!
+review/text: We like these chips for salsa and quacomole better than any other cips on the market. They are even great by themselves. We will order these as long as they are available. Thank you for making them accessable.<br /><br />  Shelly Kenyon
+
+product/productId: B0013LYLIW
+review/userId: A228P3VH7SFBHG
+review/profileName: J
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1219449600
+review/summary: Meh
+review/text: I guess there's no telling what will tickle the palate.  I'm a huge Tabasco fan, and I love unconventional snacks.  But these don't taste to me even remotely like the wonderful sauce they're made from; I didn't find them to have much of a kick at all.  Practically bland, in fact.  Even with my strong aversion to wasting food, I had to throw out or give away most of the case.  Do yourself a favor and find a bag of these locally before taking a chance on 12.
+
+product/productId: B0013LYLIW
+review/userId: A1AQ2W2R4SOVGN
+review/profileName: De Profundis
+review/helpfulness: 6/10
+review/score: 1.0
+review/time: 1195084800
+review/summary: The "Organic" Label is Misleading
+review/text: "Yeast Extract" is listed as an ingredient. Sounds harmless, right? Specifically, these chips contain autolyzed yeast extract, which is, on a chemical level, monosodium glutamate. It's just derived from a different source, but it has all the same toxic properties. Kettle still advertises their products as containing "No MSG" while they acknowledge that their chips are not safe for people with MSG sensitivities.
+
+product/productId: B0013LYLIW
+review/userId: A3NCTCNAUYCH6H
+review/profileName: jesse girl
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1278374400
+review/summary: Kind of Bland
+review/text: These were not flavorful enough for my taste. It seems that all the seasoning falls off the chips and sinks to the bottom of the bag. Too bad, because I really liked the idea of a healthier potato chip. I would not buy these again.
+
+product/productId: B0013LYLIW
+review/userId: ADD87VB66Y0DQ
+review/profileName: L. Pray "bargainqueen"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1277337600
+review/summary: Delicious chips
+review/text: Plocky's chips are made of several whole grains and have a touch of sweetness.  They are a little lower in fat and sodium than regular tortilla chips.  The flavor out performs any tortilla chip I have ever eaten.  They hold up great to salsas and dips.  Nothing wimpy about them.  I just wish the company made a bigger bag!  Love them.  Usually found in the organic foods section of the grocery, but seem to be difficult to obtain as the shelf is always empty.  Order by the case.  You'll be glad you did as they disappear fast.
+
+product/productId: B0013LYLIW
+review/userId: A2GS0QUCV2KVMP
+review/profileName: Stephanie J. Myers
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1209686400
+review/summary: Broken chips but tasty
+review/text: I love these chips and ordered them after I had some in Florida.  My case of chips came without any packing inside.  All bags in a box with no cushioning at all.  Needless to say most of the chips were broken and I would not order them again.  A great item but if they can't package to aid in minimal chip breakage then one is wasting their money.
+
+product/productId: B0013LYLIW
+review/userId: A1D0P49A1MQO1O
+review/profileName: JSY9951 "JSY9951"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1209340800
+review/summary: The best chips ever!!!
+review/text: I received this chips in a gift basket and absolutely loved them. I searched high and low, but was unable to find them until I saw them here. I immediately ordered a case. These chips are light, crispy, flavorful, and good for you. I love them with dip, in chili, or just plain. Once you try them, you'll be hooked!
+
+product/productId: B0013LYLIW
+review/userId: A3J6N95DIJTPVH
+review/profileName: B. P. Mayeux "bpmayeux"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1203811200
+review/summary: Excellent Tortilla chips
+review/text: These chips are truly amazing. They have it all. They're light, crisp, great tasting, nice texture, AND they're all natural... AND low in fat and sodium! Need I say more? I recently bought a bag of them at a regular grocery store, and couldn't belive my taste buds. That's why I excited why I saw them here on Amazon, and decided to buy a case!
+
+product/productId: B0013LYLIW
+review/userId: A3MALNCOVF5COP
+review/profileName: Overseas Mom
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1203206400
+review/summary: Black Beans Never Tasted So Good!!!
+review/text: These are the most fantastic chips I've ever had!  I could eat the whole bag myself!  They're made with lots of whole grain and beans, and make a complete protein, so I have no qualms about feeding them to my kids as snacks.  They are great!  The only problem I have with them:  The bag is too small!!!  We need a bigger bag!! :)
+
+product/productId: B0013LYLIW
+review/userId: A1ABDQ02BCIGYQ
+review/profileName: HM
+review/helpfulness: 3/7
+review/score: 2.0
+review/time: 1173830400
+review/summary: Not, my favorite chip
+review/text: I did not like these potatoe chips. It's hot, and sweet, with an overwhelming taste of garlic. It's also a bit salty.
+
+product/productId: B0013LYLIW
+review/userId: A1KBNKFKAWYV7L
+review/profileName: Charles R. Bock
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1186704000
+review/summary: Very Timely Delivery
+review/text: They did a very good job with shipping the order quickly....Nothing like Ace Hardware who took a week to ship
+
+product/productId: B0013LYLIW
+review/userId: ARLTWKV2AUJ2F
+review/profileName: koboilila
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1237939200
+review/summary: Very Tasty - BUT BEWARE
+review/text: Long story short - these are very tasty. We have purchased a number of flavors from this brand, this is my favorite.<br /><br />BUT... as noted by another reviewer - these contain MSG in the form of "Yeast Extract".<br /><br />It has become a popular means of hiding MSG lately by calling it different things, as a person who now finds himself having to use more caution in what I consume I find the whole process of hiding in plain site very bothersome.<br /><br />Also, the bag is not very large, but half of it is air. This may well help in shipping, but when paying a premium price for 'organic' it just seems more deceptive.
+
+product/productId: B005PNGPYW
+review/userId: A2B97R6XFKYH2W
+review/profileName: Cynthia  Gilfus
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283644800
+review/summary: One of our family's favorites
+review/text: this gum is one of our family's favorite, and it's nice to know it's good for you too...
+
+product/productId: B005PNGPYW
+review/userId: A2SROGMMCHUYHS
+review/profileName: cyberwar
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1336348800
+review/summary: Not worth the price
+review/text: I bought this come because it said it would help with your teeth but I found most chewing gum carries the same ingredients so I don't suggest buying it for their advertised reason. As far as taste goes it tastes rather fruity for maybe 20 seconds and then the flavor quickly fades. In my opinion not worth buying better off just buying a regular packet of gum. You'll find most sugar free gum contains xylitol. The set look at the packaging.
+
+product/productId: B0074A3WXG
+review/userId: AKH00JX78KHO
+review/profileName: Faith76
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1340064000
+review/summary: Excellent product
+review/text: This appeared to be the purest coconut cream I could find that was not in a can.  I still do not prefer the "juice box" packaging (there is a ton of controversy over the aluminum used in this type of packaging still leaching into the food) but this is the best I could find.  And I was not disappointed.  I was wanting to make a Coconut Layer cake for my birthday and it was delicious.  Very good product.  Would recommend.  :-)
+
+product/productId: B0074A3WXG
+review/userId: A4FSFPRHMU6K3
+review/profileName: Michelemw
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1347148800
+review/summary: Coconut Cream
+review/text: I was looking for something that would honestly replace the creamer in my coffee.  After months of using only coconut milk, I finally stumbled upon this wonderful product!  It is creamy and only slightly coconut flavored, if you notice it at all.  The package says to use the product within two days of opening but I've kept it in the fridge for two weeks without any change in taste.
+
+product/productId: B0074A3WXG
+review/userId: A3HPXF7PSKWRT4
+review/profileName: RuskitD
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1344729600
+review/summary: Delicious and Pure! No allergens added!
+review/text: In dealing with food intolerances, many products have one or two things added that most people even don't notice. They are not worried about what is in the food. After all, if they look they see these seemingly innocent ingredients in so many things they HAVE TO BE SAFE, RIGHT?<br />If you don't have a reaction to that small amount of added ingredient, you see it as no problem. But for the vastly growing number of us in the population, sudden onset of food allergies and intolerances leaves us with very little to eat. What seems to be an innocent ingredient, or even a welcome one if you feel it keeps the product fresher longer.... there is no innocence for those who cannot tolerate it.<br /><br />I was THRILLED after finding I am corn/soy/gluten/dairy intolerant, that I can actually have SOMETHING fun and interesting to eat! Its pure. Nothing added. Its safe!!!<br /><br />This Coconut Cream is lusciously delicious! It can be whipped for whipped cream for those who cannot have dairy. It is very close in consistency to dairy whipping cream.<br />I can finally have a latte again!<br />And my coveted coconut chicken just like the Chinese buffets serve!<br /><br />It should be used within two days of opening, or frozen. Freezing does not harm the consistency in any way.<br /><br />This coconut cream is to die for! The free shipping is a plus!
+
+product/productId: B0074A3WXG
+review/userId: AMZ6FEOEHBCFO
+review/profileName: Jacqueline L. Patti "jackiepatti"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1350345600
+review/summary: great for coffee
+review/text: I posted this review about the <a href="http://www.amazon.com/gp/product/B008ZWILNS">AROY-D 100% PURE Coconut Cream, 33.8 Oz package (3-pack)</a> also.  But I ordered this first, as I wasn't sure if it would work for me.<br /><br />I am on a diet that requires me to temporarily be dairy-free and needed something for my coffee.  But I didn't want canned coconut milk, as I understand that the BPA-free cans contain BPS, which is nearly as nasty.  I wanted something in aseptic packages.<br /><br />When I first used it in coffee, it did taste slightly coconut-like, but not in an overwhelming way.  I am someone who can't use virgin coconut oil cause it's too strong, I get expeller pressed.  But this did not taste like too much coconut for use as a healthy coffee creamer.<br /><br />The package says to refrigerate after opening and to use within 2 days.  I do neither of these and it remains quite yummy & edible.<br /><br />I have also used it in a few recipes calling for coconut milk just by diluting half way with water.<br /><br />But my new FAVORITE is adding a tablespoon or two of this to a mug of homemade chicken broth and a bit of sea salt.  THIS IS INCREDIBLY YUMMY!
+

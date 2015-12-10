@@ -1,0 +1,1143 @@
+product/productId: B007W6Y65U
+review/userId: AA02FJVP7JMF8
+review/profileName: Uffdamom
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339718400
+review/summary: very boozy
+review/text: I suppose the purpose of it being skinnygirl is to take everything sweet out of it, but that takes all the good taste out of it too.  It is really boozy tasting, instead of sweet and tropical tasting.  I really like Bethenny, so I wanted it to taste good, I really did.
+
+product/productId: B007W6Y65U
+review/userId: A1UA6KGILTT364
+review/profileName: FitGirl
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1341705600
+review/summary: You don't have to sacrifice flavor to be fit.
+review/text: Horrible taste like all of the other in the Skinny Girl line.  I don't agree with the reviewer that basically says, "oh well, it's lo cal what do you expect". There are plenty of other options for staying fit that you can turn to.  Highly not recommended.  Sorry, Bethenny...fail.
+
+product/productId: B004JXBHQK
+review/userId: A3JNQDVV8LHU0I
+review/profileName: J.Steve
+review/helpfulness: 12/16
+review/score: 1.0
+review/time: 1320969600
+review/summary: I did the math...
+review/text: If you plan on buying 10 or more cases, it's actually cheaper to fly to Madagascar and purchase the raw ingredients from local farmers, then lease a production facility to produce and package the beverage for yourself.
+
+product/productId: B004JXBHQK
+review/userId: AGEPO9ZNXDS9O
+review/profileName: M. Monroe "fubar11"
+review/helpfulness: 16/22
+review/score: 1.0
+review/time: 1304640000
+review/summary: What?
+review/text: $32 per pack? That's crazy... they are just hoping nobody looks at the price. I wonder how many people actually order it this way?
+
+product/productId: B004JXBHQK
+review/userId: A2LGRPM88JDWP6
+review/profileName: Outrageous
+review/helpfulness: 8/12
+review/score: 1.0
+review/time: 1317945600
+review/summary: What the hell
+review/text: Amazon, are you kidding me? This week at my local grocery store the 24 pack cube is $6.99. It has been on sale for $4.99 before too.
+
+product/productId: B004JXBHQK
+review/userId: A3CKJM3JHI6QBJ
+review/profileName: Natural Way 5 "Natural Way 5"
+review/helpfulness: 6/9
+review/score: 1.0
+review/time: 1314403200
+review/summary: Get it for $6.99
+review/text: You can get it locally at any time for between $5.99 to $8.99. Just brought it at 7-11 for $6.99. That's what is worth. Not a penny more.
+
+product/productId: B004JXBHQK
+review/userId: A377AHG4ZYPLFM
+review/profileName: K. Jones
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1344643200
+review/summary: shipping costs
+review/text: It is true that the shipping costs really make this some mighty expensive product!  I have a disability and sometimes like delivery on heavier items - believe it or not when I have to order from a local, nationwide office supply chain I can throw in a case of cokes and the shipping is the same as the other items - much better way if you want or need to have it delivered.  Otherwise - I buy smaller quantities and make a few trips to the car!  :)
+
+product/productId: B004JXBHQK
+review/userId: A1PWIHWQM7KE5Z
+review/profileName: Lloyd Hollingsworth
+review/helpfulness: 7/15
+review/score: 5.0
+review/time: 1302220800
+review/summary: Greatest Coca Cola in the World
+review/text: Everyone knows the great taste of Coca Cola.  However, at $18 a 24-pack, this must be the best in the world.  I can buy it locally for $5.99 a 24-pack, but what I buy must not taste this good.  Good grief Charlie Brown!
+
+product/productId: B004JXBHQK
+review/userId: A24ZV048V7J0MT
+review/profileName: Murphy "Goldenmom"
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1319673600
+review/summary: What's This????
+review/text: Who would pay this for Coke?  I just bought this at the local Meijer's for 2-24 packs for $11.00.  Plus, I would be afraid these would burst during shipment.  This is obviously for someone who does not look at sale ads and cannot get out of this house.
+
+product/productId: B006GPBQE2
+review/userId: A3NZTZK0YIXGIV
+review/profileName: Himmie Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340323200
+review/summary: kitty goes bananas for this wild salmon
+review/text: My very picky 11 year old Himalayan just loves this salmon, and occasionally the chunked chicken -- I mash them both in her food bowl.  I'm happy that it's wild caught and looks like it's made from acceptable parts of the fish.  Only complaint is that it's expensive -- but it's worth it.
+
+product/productId: B000LKTXQG
+review/userId: A1BWPKMS736AHP
+review/profileName: C. ONeill
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1199145600
+review/summary: best potato chips
+review/text: I love these potato chips.  I've been eating Season's potato chips for years.  When I buy the unsalted ones, I add a little salt on my own.  They're cooked with peanut oil, which doesn't leave the slight aftertaste that many oils other than this and canola oil do, in my experience. These chips have a great mouth 'feel',light and crisp, not too hard or crunchy.  I highly recommend giving them a try.
+
+product/productId: B000LKTXQG
+review/userId: A2OOE11F4SE33A
+review/profileName: Dayzee D
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1253923200
+review/summary: Great Tasting, heart healthy chips
+review/text: What a find.  For those persons who need no (or low at best) salt and low fat food it is hard to find snack foods that actually taste good.  These chips really do!!  I love them and even for those who can eat anything without remorse these chips will still taste good.  Highly recommended.
+
+product/productId: B000LKTXQG
+review/userId: A18BQQQDKKTY2
+review/profileName: Jim H.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267747200
+review/summary: Michael Season's Ripple chips are a hit with wife!
+review/text: We first discovered and bought Michael Season's at Fred Meyer because they are reduced fat and salt, and the taste and consistency are great. But FM stocks only Thin and Crispy and my wife wanted a sturdier version to use with dips. After getting product descriptions from the Michael Season's web site we discovered that they also make reduced fat and sodium Ripple chips. Found that Amazon had them in stock, ordered and received them promptly with free shipping. My wife says that she likes the taste as much as the Thin and Crispy and that the Ripple also stand up to using with thick dips.<br /><br />Also we found that Michael Season's are almost entirely whole chips, whether ordered online or bought from a store, unlike Frito-Lay. After I watched a Frito-Lay sales and stock person literally crush each bag of F-L chips apparently so that he could get more bags into the allotted space I could understand why. Michael Season's is a winner for several reasons. And with Amazon, the price per bag is lower than if bought locally.
+
+product/productId: B000LKTXQG
+review/userId: A2F0PCVFFG3PQZ
+review/profileName: merstar
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1259020800
+review/summary: Perfect potato chips!
+review/text: These are great - very light and crispy, and not greasy. I love the fact that they're unsalted, which is almost impossible to find.
+
+product/productId: B000LKTXQG
+review/userId: A38HB9LSYK8ILT
+review/profileName: Lc Robinson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1248825600
+review/summary: Best Product ever tasted
+review/text: I have tried the unsalted thin and crispy. They are excellent.<br /><br />We have also tried the chesse poofs and cheese curls which are glutten free.<br />For themto be gluten free and taste so good. Our kids love the taste.<br /><br />Espcially now that they are on a special glutten fre diet.... those cheese puffs have become there favorite.<br /><br />Excellent  food choice.
+
+product/productId: B000LKTXQG
+review/userId: A3AZ8ZRNK2SS07
+review/profileName: XBOY2000
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330128000
+review/summary: Best!
+review/text: These are the BEST chips ever!  I hate chips that are ruined by mass quantities of salt.  These chips actually taste like...wait for it...POTATO!  The only thing wrong with them is that they are so good I can't stop eating them!  Light, crisp, not greasy, and tasty.  Could it get any better?
+
+product/productId: B000LKTXQG
+review/userId: A28K9G0BI2695B
+review/profileName: V. L. Hester "Vegan Mom"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329004800
+review/summary: These Chips Taste Like The Potato They Came From!
+review/text: As many have said, it is very difficult to find a chip that isn't loaded with salt and so much grease you need an entire roll of paper towels to clean up with after just a few bites. You can actually taste the potato these chips were cut from and because of the intense potato taste, you don't miss the salt.
+
+product/productId: B000LKTXQG
+review/userId: A2W31XL8X75C0G
+review/profileName: bluebird
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324252800
+review/summary: Delicious and satisfying
+review/text: Not greasy, not salty, not dry (like baked chips), and the best part..don't have to eat the whole bag to feel satisfied.  I'm sold!
+
+product/productId: B000LKTXQG
+review/userId: A11UPNFYDICF3C
+review/profileName: Robin M. Vaughn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1252713600
+review/summary: Best Not-Baked Chip We've Tried!
+review/text: We truly enjoy these chips, and were delighted to find them on sale at Amazon! We experienced a great savings over the healthier, food choices aisle price, of our grocery. They are not greasy, or overly salted, but absolutely delicious! A great, heart healthier option, that still has great potato chip taste! Also holds up fantastic with dips! :)
+
+product/productId: B000LKTXQG
+review/userId: A14YIZZHS51A0U
+review/profileName: sarajan "sarajan"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1243987200
+review/summary: Fantastic Snack
+review/text: I tried, and love these chips. My local store carries them at over 4 dollars each.  I save over 15 dollars on every case.  I'm trying the salt free next!
+
+product/productId: B000LKTXQG
+review/userId: A18GKCC69KPR51
+review/profileName: Norman Girard
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1243036800
+review/summary: Great Healthy chips yes.
+review/text: I only knew of one company that made no sodium chips and they stopped making them. Yeah, to see them back and surprisingly, they fill me up better than regular salty chips and keep blood pressure low. Health and taste rarely combine, and for once it has.
+
+product/productId: B000LKTXQG
+review/userId: A3LCKU7LIE45ZM
+review/profileName: Snow "YKA"
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1255564800
+review/summary: dissapointed
+review/text: I was dissapointed this potato chips, tast ok, not very crunchy and all broked tiny pieces.
+
+product/productId: B000LKTXQG
+review/userId: A2J3PR6J36UTVH
+review/profileName: Joyce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Michael Seasons Unsalted Potato Chips
+review/text: These are the best chips ever!  They are unsalted and being on a low sodium diet critical in allowing my husband and I to eat chips.  They are all natural and low fat which is a great extra bonus.  Additionally they have the BEST flavor...you really taste the potato flavor and not the salt!  I would choose these chips over ANY chip on the market today, salted or not!! These chips as well as ANY unsalted chips are very hard to find in the stores so THANK YOU Amazon for selling them.
+
+product/productId: B000LKTXQG
+review/userId: A1IGC4M194ENJP
+review/profileName: Audrey F Haggerty
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350777600
+review/summary: Amazon Michael Season's Thin & Crispy Unsalted Potato Chips - Sad news
+review/text: The taste was very good on this product but I bought the 12 pkg plan and the bags each were anywhere from 1/3 to 1/2 crumbs or small pieces you would only use on top of a casserole.  No dipping or presentation wise nothing.<br /><br />However since I need unsalted chips they were worth a try and I need to cancel future orders of this one and stay with the Michael Season's kettle ones which of course were more durable and they too taste the same as the others.<br /><br />Amazon please note to cancel automatic shipping on this product but keep the one for the Kettle chips - thanks
+
+product/productId: B000LKTXQG
+review/userId: ALSCWZ93B5OU4
+review/profileName: Diana F. Steele
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345075200
+review/summary: broken up to small pieces
+review/text: The chips tasted stale and were so broken up from poor packaging that I could only eat a few from each bag. The bags were crammed into a box that was lightweight, and thus, the problem. I will not be ordering them again.
+
+product/productId: B000LKTXQG
+review/userId: A1G8E313MN3660
+review/profileName: P. McLeish
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329955200
+review/summary: Very Tasty Chips
+review/text: I bought the Ripple lightly salted chips. I find that the chips are very good as other reviewers have said. I like that that they are lightly salted and it is still enough of a salted taste. The chips were not broken (any more than when you get them in a store) or crushed. They are packaged quite well for shipping. This is February and the expiration date on them is 6 months from now (Aug.). 12-8 0z. pkgs. to a box is a lot of chips but for those who don't know it, the chips can be refrigerated for quite a while, even past the expiration date, and still be as fresh and crispy as if just bought. I put extra crackers and cereal in the fridge too with the same results. I have a fridge in the garage so I can do this. I do recommend these chips.
+
+product/productId: B000LKTXQG
+review/userId: AB5L26L7IVWHS
+review/profileName: Dwaine Everett Thomas "NoBombs4Oil"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328054400
+review/summary: You Can't Eat Just One....
+review/text: 12 Bags, with a six month expiration date; packaged well to avoid your typical delivery process of testing the packaging.<br />Chips are as advertised: thin, crispy, & unsalted, but surprisingly flavorable; difficult to stop eating them. There is a fair share of breakage, & a few over-cooked pieces per bag, but no higher than any other chip-seller I've seen.
+
+product/productId: B000LKTXQG
+review/userId: A3QALZXU8DGLI1
+review/profileName: Richard Schecter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: The Best
+review/text: <a href="http://www.amazon.com/gp/product/B000LKXDXU">Michael Season's Thin & Crispy Unsalted Potato Chip, 8-Ounce Bags (Pack of 12)</a>Michael Season's Unsalted Potato Chips are the best in the market. I was buying them at my local grocery store, but for $3.69 a bag, it was very expensive.  Buying these in bulk for a much lower price makes sense especially if you have at least a bag a week.  I've tried a few others and none compare.
+
+product/productId: B000LKTXQG
+review/userId: AQHGDYCWX11AL
+review/profileName: sixbullets
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321142400
+review/summary: Terrific potato chips
+review/text: Particularly fine product at a competitive price.  Should be carried by major chains for the significant percentage of the population whose doctors recommend reduced sodium intake.  They're losing business when they think there's no market.  I'm sure I am not the only one who has walked past the stores' snack isles for years for lack of an unsalted selection, but I can't buy from an "empty wagon."
+
+product/productId: B000LKTXQG
+review/userId: A9JIJVCETIFKJ
+review/profileName: vol245
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1306886400
+review/summary: Great chips
+review/text: I have ordered many boxes of these and have been very happy with them until now.  For some reason the shipment was returned as undeliverable.  Same address as always.  One try at delivering it and they sent it back.  I'll get a refund.  Great.  I want my chips.  Moronic driver?
+
+product/productId: B00027OCVY
+review/userId: A1PNUEIGXR36SV
+review/profileName: BJ
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1229040000
+review/summary: The best lobster rolls anywhere
+review/text: I order the lobster rolls and whoopie pies occasionally as a special treat for my family.  My teenage son is particularly fond of them.  They bring back memories of family trips to Maine, Boston, etc.  Honestly, I think the lobster rolls we get from Hancock are even better :)<br /><br />We encountered a shipping issue with our last order.  It was not Hancock's fault but they went the extra mile to get our order to us in a timely manner and were really pleasant when I called to report the problem.
+
+product/productId: B00027OCVY
+review/userId: A2T8DZ0F0F5I82
+review/profileName: Leslie Arthur
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1211155200
+review/summary: Lobster rolls & Whoopie pies, a perfect gift!
+review/text: I am about to order this combination as a gift for my mother's 88th birthday. This will be the third time I have sent this to her as she absolutely loves this taste of Maine - she misses New England. She tells me it is always carefully packed in ice (I assume dry), and everything is fresh and tasty. She used to make Woopie pies as her own specialty, but she tells me these would give her some competition. She also reports the lobster comes in large pieces and is very flavorful. Order without hesitation!
+
+product/productId: B00027OCVY
+review/userId: A39BGBI0S78903
+review/profileName: Robert D. Hanson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1291680000
+review/summary: Leave them for me - I'll suffer for you and devour these
+review/text: OMG were these excellent. You have to toast the rolls like the directions say. Make sure you combine the lobster with the ingredients at the bottom of the container. Eat like there's no tomorrow. And when you get to the bottom of the box, dessert awaits. 6 Whoopie Pies. Not whoopie pies but WHOOPIE PIES. OMG I was full. I'm sure I read somewhere this box is a meal for one, right? That's what I'm telling the family, at least.
+
+product/productId: B00027OCVY
+review/userId: A1N098S8UPA7CA
+review/profileName: CatSttl "CoffeeAfficianado"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1343520000
+review/summary: Lobster Salad is Delicious
+review/text: The lobster salad is the main attraction here, nice and chunky with lots of lobster meat. This is not an overly moist salad, the main ingredient is lobster. I like that fact because with a lb, I can serve it a couple of different ways. We enjoyed the lobster rolls and still had plenty left over, which I blended into risotto with a little asparagus. I didn't care for the Whoopie pies, they are sugary sweet and the cake has artificial taste. My husband, wholoves chocolate and cake would usually find chocolate cake a match made in heaven but even he didn't find these enjoyable. I recommend the lobster alone or with the rolls but I would skip the Pies. The lobster salad is too yummy to score anything less than 4 stars.
+
+product/productId: B00027OCVY
+review/userId: A3QKQH6N2MZIFR
+review/profileName: J.Shaw
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: If you love sea food !!!!
+review/text: I have loved seafood since I was a kid and my dad took me to the North Avenue Market in Balitmore. Of all the types of seafood available my favorite is Lobster. When we travel to Maine, or Nantucket my entire family looks forward to lobster rolls It was a pleasure when we tried the Hancock Lobster company thru Amazon. The product was just like being there fresh cold and so very good, I would recommend them to anyone who loves lobster Four Stars +++<br /><br />John H. Shaw
+
+product/productId: B00027OCVY
+review/userId: A3MS83N3BQ3TGT
+review/profileName: Eileen Dickson
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1293753600
+review/summary: Good But Not Great
+review/text: I suspect that if you grew up eating Maine lobster rolls, this would be a taste of your childhood, but for me they were just average. A hot dog bun with some lobster salad which was an average tasting sandwich. The whoopie pies were sweet, but the frosting in between is like the old fashioned lard based white frosting.
+
+product/productId: B004X8TJ16
+review/userId: A2Q6TU22UH34JX
+review/profileName: captcrunch75
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1314403200
+review/summary: "Golden Fresh Cookie Fingers"
+review/text: "Golden Fresh Cookie Fingers"<br />  Are so good the only problem is the Cookie Package size is not large enough, not when four or five little pairs of hands are grabbing for the Golden Fingers.<br /><br />PS; Little Hands are from Grandchildren when Vienna Fingers are in snack cabinet, that is everyone's first choice! The bag is empty til I reach in for one, that's okay I love watching the grandchildren eating their cookie fingers.<br /><br />Pop [captcrunch75]
+
+product/productId: B004X8TJ16
+review/userId: A1U7XVJWVKN44Y
+review/profileName: Albertha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Love these cookie
+review/text: If you are a Vienna Finger fanatic, order these.  They satisfy my late night sugar cravings.  They are not too sweet, but just sweet enough.  If they get too sweet, just scrape the icing off, or half of the icing off.  But they are delicious, an excellent snack.  Try with milk or coffee.
+
+product/productId: B001HTR63M
+review/userId: A1G7YT3HCDX79J
+review/profileName: Dale Studebaker "sfcalgal"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1242691200
+review/summary: Fabulous!
+review/text: I wish this product was more easily available.  It is so delicious and gives a nice kick to so many things.....like for dipping artichoke leaves, or in deviled eggs or tuna.  We just love it!  The smoky nature of the Chipotle Chili is intoxicating.
+
+product/productId: B001HTR63M
+review/userId: A2W3TGPT9MW4T0
+review/profileName: Curatina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343520000
+review/summary: omg I love this!
+review/text: I was delighted to see Amazon carried this product because I just scraped the last of this delicious mayo out of my jar.  This gives just a little bit of sharpness and tang to everything from sandwiches to egg salad to potato salad.  I'm not fond of pickles and I find that this mayo gives the perfect bit of tang that egg salad or potato salad lacks without the addition of pickles.  I've tried a lot of substitutes, and this is the best I've found.<br /><br />It's just a little bit of heat on the tongue -- not too much.  I particularly like it on a bun with a veggie burger topped with feta cheese and fresh spinach.  It's also great on a chicken sandwich.
+
+product/productId: B000N5Z5UC
+review/userId: AO1QIA44P5H5R
+review/profileName: gmwrdnwf
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317513600
+review/summary: Pig Ears
+review/text: Product was received quickly, was disappointed that it was only 10 ears.  The listing priced them at 2 odd dollars for 25 and i ordered 10 boxes but only received 10 ears.
+
+product/productId: B000N5Z5UC
+review/userId: A2B55MCHPY2PR8
+review/profileName: Beverly Morgan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338940800
+review/summary: miss porky chews
+review/text: This is not the first time I have bought these from this seller. I have two dogs who are in love with these. They only get them as special treats but as soon as I start towards the box they are there waiting.
+
+product/productId: B000N5Z5UC
+review/userId: A19SIS7F354MW4
+review/profileName: Charles K. Moore
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287446400
+review/summary: Miss porky pig ears
+review/text: Very good product, Dogs live them and they don't get all slimy like other rawhide products
+
+product/productId: B005Z7RA9W
+review/userId: A1S0DIWGTGYBFS
+review/profileName: caw
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1325635200
+review/summary: candy
+review/text: Peppermint tootsie roll pops.  Just what I expected.  Tasty if you enjoy peppermint and a little chocolate.  Not too high in calories and satisfies your sweet tooth.  Good service on delivery.
+
+product/productId: B0081Q1LQ2
+review/userId: A3G4YUO4EKHQQH
+review/profileName: Stupendousman
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1350432000
+review/summary: This is the 2nd Hottest Food I have eaten
+review/text: I have a genuinely high tolerance for hot food.  Things normal people claim are spicy I wonder about "what spice?"<br /><br />My tolerance is such that I have eaten a slice of pizza that has been sprayed with pepper spray because it would have been a shame to waste it.<br /><br />So when I tell you that this jerky is the hottest thing I have eaten other than pepper spray pizza I hope you understand what that means.  I am also a huge fan of jerky in general, I took one star off as this stuff is so hot is detracts from the normally very tasty and yummy jerkeyness.  But if hot is what you want then you have found your answer.
+
+product/productId: B0002NVL4O
+review/userId: A1ZRV2XEC2QEYP
+review/profileName: Lily Appel
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1263686400
+review/summary: smelled and tasted funny
+review/text: I had purchased a package from Costco and they were delicious. These tasted awful and the smell was worse.
+
+product/productId: B0002NVL4O
+review/userId: A1KI7UFUQ9DWI
+review/profileName: swbutt
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1234656000
+review/summary: Mushrooms
+review/text: Had some freeze dried mushrooms prior that could be kept in Pantry, very convenient. These recommended to be kept in freezer after opening. Also needed to be soaked in liquid prior to use; NOT convenient. They also had a foul odor.
+
+product/productId: B001HTIVCW
+review/userId: A3OVYXN5XVWILE
+review/profileName: Magator
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1312588800
+review/summary: Not My Favorite Organic
+review/text: If you're a gummy bear aficionado like me Haribo Gold Bears are the gold standard.  In the organic world there are Surf Sweets and Yummy Earth.  Surf Sweets are almost indistinguishable from a good quality non-organic gummy bear.  It doesn't have the consistency of Haribo that I love but it's good and fruity.  Yummy Earth has an inconsistent texture that I have actually grown to prefer.  Some are hard and have almost Haribo like texture. Others are very soft.  Some are even stale.<br /><br />For consistency go with Surf Sweets.
+
+product/productId: B001HTIVCW
+review/userId: A24NORLNNF5GTQ
+review/profileName: P. ROSENBLUTH "Mau's Mom"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1303084800
+review/summary: True Flavor
+review/text: These are the best gummy bears I've eaten in a very long time. I'm 60 years old and still enjoy a chewy candy from time to time. I had almost given up on finding gummy bears that had a real fruit flavor instead of just fruit-like flavor and sweet but each bear in this pack has a distinct flavor of a single fruit. The fact that they're organic just makes them all the better.
+
+product/productId: B001HTIVCW
+review/userId: A3223MR0RBJG6H
+review/profileName: AlmondJoy "almondjoy"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1317254400
+review/summary: Clean Flavor
+review/text: We tried all of Surf Sweets-bears, worm, jelly beans & sours; each had mostly pros.  The best of all they are all gluten free and don't have any palm oils which we're allergic to also.  They each have clean flavors-not that preservative after taste I remember from my pre-gluten-free years and no one in my family who has multiple allergies has ever had a problem with any of their products.  That is a huge accomplishment-for something to taste this great and none of us to have a reaction!  Ultimately, our favorite was the Surf Sweets Gummy Bears, though they are more chewy than some of the others, we liked that they weren't quite as sweet as the jelly beans or sour as the sours and we liked the size better than the worms.
+
+product/productId: B001HTIVCW
+review/userId: A2WTPHW4FM47MY
+review/profileName: J. Lee
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314144000
+review/summary: Best gummy bears!
+review/text: Love these gummy bears, taste better than Haribo and Yummy Earth and have excellent consistency.  Can't eat any other kind now, and the fact that they're organic makes it even better.
+
+product/productId: B001HTIVCW
+review/userId: A3MHXKJN9ZT2Q0
+review/profileName: Andrew
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1260835200
+review/summary: our daughter loves these gummy bears
+review/text: Our two year old loves these gummy bears.  I feel less guilty about giving these to her since they're all natural.
+
+product/productId: B001HTIVCW
+review/userId: A2ZMLM3LAKIWHU
+review/profileName: W. Ye
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1265846400
+review/summary: Healthy Goodies for All Ages
+review/text: Fresh Tech Maid Services (www.FreshTechMaids.com), a green cleaning company, has been using this product during trade shows and green festivals as a give-away to visitors.  This product is a great hit for families.<br /><br />Organic fruit juice, natural colors and flavors, free of Corn Syrup and GMO's, nut free, and gluten free are perfect fit to our philosapy and our practice.  Most importantly, both children and adults love them.<br /><br />We will continue to use this product for our promotions as this product is a big draw to families.
+
+product/productId: B001HTIVCW
+review/userId: A3LAYCTGSO1IQR
+review/profileName: Purrrfectcat "purrfectcat"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326240000
+review/summary: soft yummy ORGANIC gummy bears
+review/text: As another reviewer posted and the package states:<br /><br />"Organic fruit juice, Fortiied with Vitamin C, natural colors and flavors, free of Corn Syrup and GMO's, nut-free, and gluten-free"<br /><br />If you like Black Forest non-organic gummy bears (and I'm one of them), these would have to be almost indistinguishable from them - soft and slightly chewy but NOT incredibly chewy like haribo (which I hate) or yummyearth, but unlike yummyearth organic gummy bears whose sweetness you can taste just from the outside of the gummybear, surfsweet's tasty sweetness is buried in the gummy bear like Black Forest.<br /><br />It's 90% organic and "Certified Organic by Quality Assurance International."  Ingredients, as exactly stated on the back of the package, are: "Organic Tapioca Syrup, Organic Evaporated Cane Juice, Gelatin, Organic Grape Juice Concentrate, Citric Acid, Lactic Acid, Ascorbic Acid, Colors Added (including Black Carrot Juice Concentrate, Turmeric, Annatto), Natural Flavors, Organic Sunflower Oil, Carnauba Wax."<br /><br />Of course, the packets of gummy bears are tiny with only ABOUT 10 gummy bears which total only 80 calories.  You don't get many gummy bears per small packet.  But then, they're ORGANIC, corn syrup-free, GMO-free, nut-free and gluten-free.
+
+product/productId: B001HTIVCW
+review/userId: A2AZKKUPT7GFI
+review/profileName: W. Eskelin "W. Eskelin"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318636800
+review/summary: Gummy Bears with zero corn syrup
+review/text: I have a corn allergy and its really been almost impossible to find any candies that don't have corn syrup as their main ingredient. I was so happy to have found these. I have tried these gummy bears and also another kind of their candy. Every time they have been fresh and they have a great taste to them. I was not even that much of a gummy bear fan until I had these. I am thankful that some companies are making alternative candies using great ingredients!
+
+product/productId: B001HTIVCW
+review/userId: AY3EENC2BGTGK
+review/profileName: M. G. Gagliano "Maria"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306454400
+review/summary: Let Them Eat Candy
+review/text: I am one of those moms, you know the one. It takes us 4+ months to eat what they get for Halloween and Easter with some disappearing into the trash almost daily. I allow a piece a day. There is no reason for all that stuff to be eaten until you are sick. My sister and I talk about this all the time, when we were kids, there was never a Sweet Police demanding we make the pick a good one because it would be your only for the day. We were allowed to eat until we were sick which is why I think we now eat until we are sick. Hopefully, by allowing our children to partake but with limits, we are setting them up to live a life of enjoying sweets without going overboard.<br /><br />If they are going to eat candy anyway, make it the good stuff!<br /><br />Surf Sweets Natural and Organic Candy was a big hit with the kids and me. We know kids and adults alike, love candy and now you can eat all those wonderfully, fruity gummies, jellies and sours without all the sugar.<br /><br />Inspired by good, clean fun the makers of Surf Sweets, have created products that were inspired by surfing, active and lifestyles, and natural sweets.<br /><br />My personal favorite was the gummy bears and worms while my kids loved the jelly beans and my niece the sour worms.<br /><br />You can totally taste the difference. They are made only with ingredients found in nature.<br /><br />Big plus to all my Celiac Disease friends out there: Surf Sweets are GLUTEN FREE<br /><br />Need yet another reason to shop Surf Sweets? How about this, they are a cause friendly company who support the organizations committed to improving our planet (water and earth).
+
+product/productId: B001HTIVCW
+review/userId: A844QT2C8NQC
+review/profileName: punkin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303257600
+review/summary: SO MUCH BETTER THAN YUMMY EARTH!
+review/text: Wow these Surf Sweets gummy bears are so much fruitier and really superior-tasting to the yummy earth brand.  I will never buy yummy earth now that I have tasted these.  I don't know why it took me so long to try these! I had one bag left of yummy earth and I tasted one and threw it away as it was so bad in comparison to Surf Sweets!
+
+product/productId: B001HTIVCW
+review/userId: A1I3FVZAAXWTLZ
+review/profileName: phee11
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288828800
+review/summary: Delicious
+review/text: Love these.  Very tasty, I(or 28month old daughter) can't tell the difference from non-organic ones.
+
+product/productId: B004G91ZX2
+review/userId: A3L8PT0UWIM83R
+review/profileName: mts
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318291200
+review/summary: My way
+review/text: This olive oil quickly livens up any meal. I simply enjoy it with toasted bread and red pepper flakes. AWESOME COMBO!
+
+product/productId: B004G91ZX2
+review/userId: AQUVILJKB2PMX
+review/profileName: Donald Nelson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311033600
+review/summary: Premium Olive Oil
+review/text: I use olive oil every day. I have three different types in my kitchen and Macia El Altet has my overall top personal rating because it just makes most of the dishes I cook explode with flavors that will dance in a balanced coordination in your palate.<br /> Certain olive oils are so particular that will match certain dishes better than others, Macia El Altet has the particularity that goes well with a great variety of dishes and with an exquisite flavor you won't find in many other so called "extra virgin" olive oils. I was absolutely amazed when I tried Macia El Altet, and now is has a place of honor in my kitchen. I highly recommend it with: Rices (all kinds of paellas or rissotto's), Grilled Veal or Beef (pour on top after grilling, just before serving), Vegetables (steam or grilled) and salads, Pan-Tomat (Toasted bread rubbed with garlic and raw tomato), or just bread dipped in it to taste a world class olive oil!.  I bought it through [...] which gave me a great service and fast delivery.<br />D.Nelson-Boca Raton-Florida
+
+product/productId: B004G91ZX2
+review/userId: A19RDFA5Y5JTER
+review/profileName: Nikolai
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310774400
+review/summary: Olive Oil
+review/text: Yet another fantastic, high-quality product. This is the real deal, not your average olive oil from a supermarket, what an amazing flavor.
+
+product/productId: B005YZ7NK6
+review/userId: A2IZW3JBYH8NM7
+review/profileName: bklynboy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327622400
+review/summary: Vegetable Lasagna Entree
+review/text: I have been trying all the Entress. This one was very good. Still need to lose more weight. So I am staying with MedfitNY. They don't steer you wrong.
+
+product/productId: B005YZ7NK6
+review/userId: A65AXFDTYLRZ0
+review/profileName: VinCampbell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327536000
+review/summary: Watch out Jenny! Here comes Medi!
+review/text: I have tried almost every meal and each one is simply delscious and filling! Have them for lunch, dinner - or even as a snack by the TV - and you know you are doing something good for yourself!
+
+product/productId: B000FEF0FQ
+review/userId: AJBXOYYA3PZW7
+review/profileName: Doctor D
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252972800
+review/summary: love the cherry flavor
+review/text: I love these! Usually you can't find the cherry flavor ones in the stores. They usually only have the strawberry and green apple and maybe the blue ones. These are great!
+
+product/productId: B0002MBG2W
+review/userId: A1JOYY57SZ2OE7
+review/profileName: L. F. Perkins
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1244937600
+review/summary: Great to have on hand
+review/text: I've used dried mushrooms many times over the years and these are among the best.  Though expensive the morel has great flavor and is easily reconstituted.  Already I've used them in a mushroom risotto and my favorite Fettuccine Alfredo.  The 4-ounce package has a volume of about five cups of the dried morels so it easily beats what I find in the local supermarket.
+
+product/productId: B0002MBG2W
+review/userId: A1L66MKXYZ9IZK
+review/profileName: dallasdave
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1313539200
+review/summary: Tasted GREAT!
+review/text: These mushrooms were easy to reconstitute and, when used as a component in another recipe, they add an excellent flavor and texture.  Before I purchased them, I noticed that one reviewer said that these mushrooms didn't have any flavor, which caused me a little anxiety about ordering them.  I believe I know why he/she might believe that is the case.  The mushrooms themselves don't have huge amounts of flavor when you pull them out of the soaking liquid.  When you reconstitute them, be certain to keep the soaking liquid.  DON'T DISCARD IT because that's where most of the flavor is.  I suspect that might have been what happened in the other reviewer's case.<br /><br />You can strain the liquid or run it through a coffee filter to remove grit.  Then reduce the soaking liquid to add back into sauces or other morel recipes and the flavor can actually become more intense with the reconstituted mushrooms.<br /><br />All in all I'm very satisfied with this purchase, even though they are very expensive.
+
+product/productId: B0002MBG2W
+review/userId: A2UK8EU75H6WGT
+review/profileName: T. Wassink "renaissance woman"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1277856000
+review/summary: Excellent value, and wonderful flavor
+review/text: I'm extremely glad I ordered these mushrooms.  The price per ounce, especially rehydrated, ends up being quite reasonable.  I usually rehydrate with warm water (and make sure I use the water in the recipe for extra flavor) then add the morels to sautees, soups, and stir-frys.  Really excellent product.
+
+product/productId: B0002MBG2W
+review/userId: A2V5T2AFLP1NXR
+review/profileName: Barbara Broadhurst
+review/helpfulness: 5/9
+review/score: 1.0
+review/time: 1268697600
+review/summary: No taste
+review/text: The mushrooms I received had absolutely no flavor.  It was like soaking up cream sauce with pieces of rubber.  Really disappointing.
+
+product/productId: B003XUJ3I4
+review/userId: A1RP2F700NE84C
+review/profileName: D. Bucciano "essentialearl"
+review/helpfulness: 19/19
+review/score: 5.0
+review/time: 1301875200
+review/summary: Not coffee but very satisfying
+review/text: First let me say that this is only my opinion, and you know what "they" say about opinions...<br />A while ago I found that I had to give up coffee, which for me was tough because coffee and water are about the only two things I drink. I've never been a milk drinker, nor have I ever been big on juice. And forget tea - maybe some herb tea before bed but it's nothing I want during the day while I'm working. Enter the "coffee substitute". I found numerous brands on line. All of them claim to taste "just like the real thing" and have plenty of reviews by people just like you and me saying how wonderful the stuff is. You could probably serve these people a cup of hot yak urine and tell them it was coffee and they would tell you it was delicious. The truth is, NOTHING but coffee tastes like coffee, and anyone that tries to tell you otherwise needs a new set of taste buds. All of the coffee substitutes I've tried taste like exactly what they're made from - roasted grains, nuts and roots. Most of them contain roasted carob. Carob DOES NOT taste anything like coffee; for one, it's way too sweet. You don't want anything that contains carob. Substitutes made with dates and figs are equally as repulsive. Again - way too sweet. One of the things that gives coffee its appeal is its bitterness. A good coffee substitute has to have some bitterness. So far the only thing I've found that comes close is Orzo brand roasted organic Italian barley. If you drink it black it satisfies like coffee. It takes a few cups but it starts to "grow on you"; after drinking it for a week I've found I like it just as much as, and maybe even prefer it to, coffee. For one thing, it doesn't upset an empty stomach the way coffee does, and you can drink it after dinner without fear of it keeping you up all night.
+
+product/productId: B003XUJ3I4
+review/userId: A1ZAXTGV03A2N9
+review/profileName: Lily the coffee junkie
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1317340800
+review/summary: Just when I thought I would have to go to coffee rehab!
+review/text: My doctor advised me I should stay away from caffeine due to medical reasons- not hypertension. I was horrified! I love coffee, and not only do I need it for a morning pick me up but I love the taste. I was so upset, and started the grieving process. I started to do some research and found this stuff. I placed the order fully expecting it to suck and got my sneakers ready to stomp on the packets in my yard (Still withdrawing and grieving). I just made a pot....I LOVE IT! O.K. it's not coffee, but not that far from it. Not sure if it has a energy boost because I'm drinking it as we speak. Tastes a little smokey, but nice. So happy, now when I make someone coffee (regular), they don't have to endure the sight of me practically sticking my nose in their cup, inhaling the scent, as I take it to them( pathetic I know). I bid my fellow coffee junkies fair well and hope you try this stuff...ok gotta go, drinking my Orzo.
+
+product/productId: B003XUJ3I4
+review/userId: AT23GUNBRJW8U
+review/profileName: Lindsay
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1281312000
+review/summary: Super Delicious!
+review/text: I went over to a freinds house for dinner one night and after a great meal, they brought out the dessert. They gave us the options to have coffee, tea or Cafe Orzo along with it. Normally, I am a big tea drinker, not coffee, so for a change, I decided to step out on a limb and try the Cafe Orzo drink. It was super delicious and now dessert just feels lonely without the Cafe Orzo. Yummy!
+
+product/productId: B003XUJ3I4
+review/userId: A3RURS3FM9KDRH
+review/profileName: Gay L. Sylvies "toujours"
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1303084800
+review/summary: rather tastless
+review/text: I liked the idea of brewing, so I purchased this product.  However, I was very disappointed the product is tastless.  With alot of doctoring it does have some subatance.
+
+product/productId: B003XUJ3I4
+review/userId: A18YMSP0D4QKE4
+review/profileName: Paul R. Steel "pabloinla"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1323907200
+review/summary: Love coffee but can't take caffeine
+review/text: I have three cappuccino makers and purchased only Peets special moca-java coffee grind! Then I found why I got constant headaches - it was the caffeine. I tried decaf. Decaf coffee is NOT no-caf, especially with Peets and Starbucks. Herbal teas get boring really fast; Teeccino is OK but after a while, ugh. The Italian roasted barley of Cafe Orzo tastes really great, satisfies me the way coffee did. Cafe Orzo recommends adding favorite flavoring; I add Toranio White Chocolate syrup. Result, really amazing flavor! Try it for yourself.
+
+product/productId: B003XUJ3I4
+review/userId: AQGGK340JR2V9
+review/profileName: Dr. Loomis
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1321228800
+review/summary: tastes ok, but not coffee enough, too barley
+review/text: Has a weird smell and taste to it that if I dont cover it up with a flavored creamer I have a difficult time palletting it.  If you want a coffee replacement that tastes like coffee, this falls far from it, but the flavor itself is not bad, but I would say it takes some getting used to.  I tried it as iced coffee too and that was just a huge mistake.  The flavor differences seem enhanced when its cold.  If you're going to drink this instead of coffee, I would recommend drinking it hot and mixing this with regular coffee at varying ratios until you can pallet just 100% orzo.  I personally prefer Teccino, which I am so glad I found.  That stuff tastes amazing and some of their flavors really do taste like coffee yet its still 100% caffiene free; plus it can be prepared in a drip filter AND a french press, where as if you try to make orzo in a french press it clogs up too much and wont press down.
+
+product/productId: B003XUJ3I4
+review/userId: A3NLBB2AEE48L2
+review/profileName: Philip C. Edelstein
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1281312000
+review/summary: Finally...
+review/text: Finally a caffeine-free alternative to coffee that doesn't taste bitter or fruity.  I've tried other caffeine-free alternatives and have barely been able to swallow because of the flavor of chicory.  For people who can't handle caffeine, this is the perfect drink!
+
+product/productId: B003XUJ3I4
+review/userId: A1YPPQBQXOAOMY
+review/profileName: A. Sanders
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1317168000
+review/summary: Depends how you make it
+review/text: I find it very weak when I make it in my drip filter contraption (Melitta). When I ground it finer, it clogged the filter. But when I use my manual, stove top espresso maker it's good.
+
+product/productId: B003XUJ3I4
+review/userId: A17M5ICMK4DWK8
+review/profileName: Heidi J. Fava "Coffee lover"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315699200
+review/summary: Excellent
+review/text: I was looking for a cheaper alternative to Teeccino as an alternative to coffee and this is it.  Tastes more like coffee and costs a lot less.
+
+product/productId: B003XUJ3I4
+review/userId: A3VT3F9HTHC2Z7
+review/profileName: Selvagia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310342400
+review/summary: cafe d'orzo best drink!!!!!
+review/text: if you want to replace coffee that's it!!!!<br />or mix it with coffee and it's just delicious in both way!!!!
+
+product/productId: B003XUJ3I4
+review/userId: A1G6E11OK23KAP
+review/profileName: Richard the tea guy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1281312000
+review/summary: A great alternative to coffee.
+review/text: I love Cafe Orzo at night, after dinner, when coffee keeps me up. I brew it in my stovetop "Moka" type espresso pot or in a french press.<br />It isn't coffee but it is a very nice alternative; just like we drink it in Italy!
+
+product/productId: B003XUJ3I4
+review/userId: A2W3ABLWMJ84NS
+review/profileName: Jessica Snyder
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: Almost identical to coffee
+review/text: Best coffee alternative I ever had.  I usually drink french roast coffee, or anything dark.  I brew this strong and add cream and sugar as usual.  The flavor is very rich, a lot like coffee but it finishes with a deep, nutty flavor that I really dig.  It's earthy, but not in the "tastes like dirt" kind of way.
+
+product/productId: B003XUJ3I4
+review/userId: A2B2RVI7XDWHQE
+review/profileName: Daphne and Michael
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339718400
+review/summary: Caf&egrave; Orzo & the French Press
+review/text: This Caf&egrave; Orzo seems to be ground for a filter coffee maker.  However it works quite well in a french press, with very little detritus coming through on pouring.  It is not like Orzp Pupo, which can be used like instant coffee, but a fresh press is very little trouble and cleans up very easily when used with the product.  The taste is excellent.  Daphne has trouble with the oils in coffee (they upset her intestines), and I cannot have caffein because of my heart.  The taste of this product does not leave us wishing we had coffee.  It is excellent as it is.  We use two teaspoons per 8 ounces (240 ml) and get a firm taste with just the right level bitterness.<br /><br />Michael Ryan
+
+product/productId: B003XUJ3I4
+review/userId: A1SBVBYA0F9AOJ
+review/profileName: Marci
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1323302400
+review/summary: Too many carbs
+review/text: It tastes OK, but it has too many carbs. I am on a low carb diet and I gained four pounds after I started drinking this (nothing else in my diet changed). They came off when I quit.
+
+product/productId: B002V08V94
+review/userId: AHWBKTWFD46UI
+review/profileName: Samurai Girl
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322524800
+review/summary: Lil' Cup of Heaven from Turkey
+review/text: If you love coffee, you simply must try Mehmet Efendi's delicious Turkish coffee! When I am in Istanbul, I make my pilgrimmage down past the spice bazaar to the busiest shop in town...sometimes the line travels all down the shops for a long way..but it moves quickly, because the efficient counter boys know their business. Boom! You walk away with an armful of tins that travel back home and provide the finest coffee experience with no special equipment needed! I seriously htrew away half the clothes in my suitcase to fill up with Mehmet Efendi tins. Better than buying an expensive espresso maker, use a small pot and make your coffee on the stove, boiling the water and letting crema occur naturally...<br />Read up on how to make it! You will not be disappointed with the results!!!
+
+product/productId: B00473XCSI
+review/userId: A2INL14U97WN37
+review/profileName: Jet
+review/helpfulness: 8/8
+review/score: 1.0
+review/time: 1337040000
+review/summary: Bait And Switch
+review/text: I've purchased this water for a year now for the high alkaline content and the great taste.  Recently, I've been getting shipments that are NOT the New Zealand spring water but rather distilled water from Walnut Creek, California.  The taste difference IS night and day.  You can only tell the difference between the original New Zealand Spring water and the distilled water from Walnut Creek by looking at the label.  Therefore, I won't be buying any more Eternal Water on the internet; you must actually see the label to know you're getting what you paid for. This is dishonest on Eternal's part -- I hope they literally clean up their act.
+
+product/productId: B00473XCSI
+review/userId: ASHLVH2X8PFQN
+review/profileName: Eileen Fang
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1347235200
+review/summary: Explanation about labeling
+review/text: I called the company and got a detailed explanation of everything that was commented  on in the other reviews.  The company spent a great deal of time with me explaining the below and seemed sincere.<br /><br />CHANGE FROM NEW ZEALAND TO US<br /><br />The majority of their customer base was primarily attracted to the naturally occurring 8.0 alkaline water, and had an issue with water being trucked half way around the world.  Most of the customers wanted a similar quality water with less of an environmental impact.  So the company made the business decision to follow this feedback and invested a great deal of effort finding three natural springs in the US that are naturally alkaline.  Water from New Zealand is no long available.<br /><br />The sources and the water quality report from the new US based springs can be found on their site.<br />[...]<br /><br />DISTILLED WATER<br /><br />During this time an unfortunate mishap happened regarding an order of specially requested water by a department store.  This department store requested distilled water.  The bottles were labeled differently, but the cases looked the same and unfortunately some of this water wound up being distributed by mistake.  The company states they will never create another lot of distilled water and while they regret that this water has hit the market in some areas, it is of limited supply and the issue should dissipate.<br /><br />LABELING<br /><br />The original water that was manufactured in New Zealand, says "New Zealand" on the label.  It is no longer being produced.  If you are lucky enough to still be in possession of this water, you have a collector's item.<br /><br />The new US based water, from the three naturally alkaline springs says Source: Multi-Spring, bottled for Eternal Beverages, Walnut Creek CA.  This is the water the company is basing its future on.<br /><br />The distilled water that is out in some markets actually says distilled water on the back of the label.  If you are in possession of this water, you have an inferior product.<br /><br />MY PERSONAL OPINION<br /><br />I happen to be in possession of the original New Zealand water, the new US based spring water, as well as several competing brands: Hawaiian Springs and Mountain Valley Springs.<br /><br />Comparing them by taste and smell, my husband and I agree that this is how we would rate the four products.  1.) New Zealand water is the clear winner, it's a shame we no longer have the option to purchase it, 2.) The US based Eternal Water is our second choice, 3.) Hawaiian Springs is a close second to the US based Eternal Water, 4.) Mountain Valley Spring Water.  Note: Mountain Valley Spring water does contain some fluoride.
+
+product/productId: B00473XCSI
+review/userId: A1PMYPAHPGP32F
+review/profileName: buresch2000
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1341100800
+review/summary: RIPPED OFF
+review/text: Do not buy. Water source changed. Company has no ethics. I won't be buying anything from Eternal again. Buyer Beware!
+
+product/productId: B00473XCSI
+review/userId: A2STQ2OQ5NL4JG
+review/profileName: J. Dubose "J.D."
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1344211200
+review/summary: Deceptive
+review/text: DoNOT Buy this Water. This water used to be delicious but the have recently within the last 3 months started making changes to this water. Cheaper packaging and the water is no longer purchased from New Zealand it is actually now purchased in different parts of the US and they charge the same price at my local Whole Foods as if it was still from New Zealand. The water now tastes horrible....it tastes like it has sediment or contaminents in the water. I inquired about the change in the water and here is the email I rec'd: Although Eternal was previously sourced in New Zealand, there are many reasons for our decision to change to a US-based source. Your naturally alkaline spring source is nestled deep in the Great Smoky Mountains of Eastern Tennessee at the base of English Mountain.<br /><br />I am now searching for another water to drink. SMH!!!
+
+product/productId: B004QVYW5S
+review/userId: A1GE11I2UO3D1A
+review/profileName: Red-headed stepchild
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343865600
+review/summary: Somewhat misleading Amazon product title
+review/text: This is NOT "Puppy food" -- that is to say, it is not branded or sold by NutriSource as quote-Puppy-unquote food.<br /><br />In fact, while large print on the package says "Adult Dogs," this food IS perfectly suitable for puppies; and NutriSource say this in the smaller print of the packaging. It's certainly not part of the branding: NutriSource do not currently make any such thing as "Grain Free Chicken" food specifically for puppies.<br /><br />That said -- this is the same food as the small bag (with, confusingly, a quite different-looking packaging) of kibble our breeder sent us home with when we adopted our little Havanese puppy.<br /><br />He loves it. He produces a nice stool and has never either been constipated or had diarrhea using this formula.<br /><br />So, hooray, a very good puppy food that is not "Puppy food."
+
+product/productId: B004TEVING
+review/userId: A26CJA8EMEJW6W
+review/profileName: End User Consumer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Great Salt Substitute
+review/text: My wife and I use this as a low sodium alternative to regular table salt.  We cook with it and we sprinkle it on food on the plate.  Either way, it tastes absolutely the same as standard salt....still with the iodide we want but with 66% less sodium, according to the label. We certainly recommend it.
+
+product/productId: B003TLAWO6
+review/userId: A2CB9Q5J3E63RA
+review/profileName: PurchasedFTW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299801600
+review/summary: Our Mastiffs Approve
+review/text: These wafers are great.<br /><br />Sensitive stomach's of our mastiffs approve.  I love the large wafers as if the dog has done something really good, they get a full wafer.  Otherwise, they get just a broken off part, I like controlling their rewards to how important the rewards are.<br /><br />Appears they are great tasting, the dogs go nuts.  I ran out of these and am using some others now, but still using the bag for the new treats!  It is a great durable, air-tight, ziplock bag.<br /><br />GREAT Product!
+
+product/productId: B003Z3W232
+review/userId: A1B277CY8XAHXI
+review/profileName: monica
+review/helpfulness: 14/14
+review/score: 1.0
+review/time: 1311292800
+review/summary: 20% pistacchio only
+review/text: This product is mostly sugar (it contains only 20% pistacchio butter!!!!). If that would have been listed on the description I wouldn't have bought it in the first place.
+
+product/productId: B003Z3W232
+review/userId: A20LA12XVMN9OE
+review/profileName: Christine
+review/helpfulness: 5/5
+review/score: 2.0
+review/time: 1288396800
+review/summary: Disappointing
+review/text: The jar was less than 1/3 full. For this price, one would expect an entire jar...full to the top.  The product coated the inside of the jar so it wasn't until i opened it to find it is mostly empty. It tastes fine, but what am i going to do with 1/4 cup of pistachio nut cream?
+
+product/productId: B003Z3W232
+review/userId: AKIMSTYP030GP
+review/profileName: Elaine Hinton
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1324944000
+review/summary: Too thin
+review/text: I make cannoli with pistachio nut cream.  My regular store's supplier (of another brand) hasn't sent them any stock, so I tried this.  Big disappointment.  Way too thin, almost watery.  The jar was only half full.  I won't make this mistake again.
+
+product/productId: B003Z3W232
+review/userId: A13L3UCV6P41XB
+review/profileName: Lana Childs "Lana"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345248000
+review/summary: I low carb and I love  this for a huge treat!
+review/text: It's creamy delish and like nothing I've ever tasted, I eat a little on the tip of a spoon and it's enough to satisfy my sweet tooth.  Just love it.  Originally, I got it from some relatives who brought it back from Sicily.  I had to have more!
+
+product/productId: B003Z3W232
+review/userId: AXB2AJR5X1OIT
+review/profileName: hellophone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: Love this pistachio cream!
+review/text: I love this pistachio paste/cream. This brand was specifically called out in a recipe book that I have and I love it. I specifically bought it to make macarons, but used it in some buttercream frosting for cupcakes not too long ago and it was perfect for that as well. I also look forward to using it in homemade ice cream this summer. I don't think the price of the item is bad at all, although I do think the shipping seems a bit expensive, but, since I can't get anything like this where I live, it's worth it. : ) I also don't mind how much sugar is in this cream. I'm using specifically for baking, so that sugar content doesn't bother me.
+
+product/productId: B003Z3W232
+review/userId: A27DMJZDBHE6ZD
+review/profileName: O.F.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320105600
+review/summary: Excellent
+review/text: Excellent taste and texture.  I used this product for homemade gelato and was pleased with the results. I did not have any problems with the amount in the jar as had been commented on by two other reviewers. This is authentic pistachio cream from Bronte Sicily known throughout the world as one of the best regions for Pistachio growth.
+
+product/productId: B003Z3W232
+review/userId: A13HQJ3T00GUXI
+review/profileName: Naty
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317513600
+review/summary: Gran sabor, poca cantidad
+review/text: Tiene el aut&eacute;ntico sabor de Bronte Pistachio cream, pero menos de la mitad de su contenido.- &iquest;Puede ser debido al transporte?
+
+product/productId: B003Z3W232
+review/userId: AWL86J7CREUK
+review/profileName: NL
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1308009600
+review/summary: Great for ice cream!
+review/text: I got this for making a batch of ice cream and it turned out great!  Much better than shelling the pistachios, soaking them, and then straining from the ice cream for sure.  It took the whole jar to make a batch (~2qt) with good pistachio flavor.  I couldn't resist and had a spoon of this stuff while making the ice cream and thought it was great!  I thought the price wasn't too bad compared to other pistachio pastes out there.  Definitely worth it for me.  Btw, I didn't have the problem as another reviewer did with the quantity in this product.
+
+product/productId: B006OKXCQE
+review/userId: AAWPAB0NM28H7
+review/profileName: phredex
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344643200
+review/summary: good stuff
+review/text: i like the the powdered from of zipfizz as well.  the liquid form is just more convenient and handy. the taste is not bad but not amazing, just ok.  i would order again
+
+product/productId: B001EO5X80
+review/userId: A250AXLRBVYKB4
+review/profileName: Nathan Beauchamp "ConsumerAdvocate"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1262044800
+review/summary: Lotsa' Matzo
+review/text: This is pretty much standard Matzo bread. It tastes fine and is exactly what I wanted, at a fraction the price of our local grocery store. We use quite a bit of this at my church for communion bread, so I expect I'll order more in the near future. Unsalted is not always easy to find!
+
+product/productId: B001EO5X80
+review/userId: AW2DKYDNTRIHN
+review/profileName: Mark E. Smith "The 13th Amendment ESTABLISHED...
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1295654400
+review/summary: The expiration date is ten months ago
+review/text: The matzohs seemed to have shrunk a bit, and were curved instead of flat. So I looked at the expiration date on the boxes, and they'd expired in March 2010. This is January, 2011.<br /><br />I've never had amazon ship me an item that was past its expiration date before, so I hadn't expected it. Not very nice, considering that I paid full price.<br /><br />The expiration date on matzohs is usually two years or longer, so these are at least three years old.<br /><br />Another example of caveat emptor.<br /><br />Before I order a product, I'd like to know if it is already past its expiration date. Is there a way that I can do that?
+
+product/productId: B001EO5X80
+review/userId: AOBL9GLEXBW43
+review/profileName: Mordecai L. Altose "cheap guy"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1268697600
+review/summary: NOT Kosher for Pesach
+review/text: This version of Matzah is NOT Kosher for Passover.  I wish Amazon had some Kosher L'Pesach Matzah available.
+
+product/productId: B001EO5X80
+review/userId: AZV26LP92E6WU
+review/profileName: M. Hammond "ColemanFlGuy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1273881600
+review/summary: Unsalted Matzo
+review/text: I like these alot. They are great unsalted product to snack on instead of those salty types of snacks.
+
+product/productId: B000K8IC66
+review/userId: A18A2S3VEGVYUT
+review/profileName: Baby
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344384000
+review/summary: Wonderful Tea
+review/text: I've been a big fan of Tetley tea bags since I bought them in UK. Nice taste and reasonable price!! Milk tea made with Tetley tea bags couldn't be better. It's difficult to get them in Japan. So I'm happy to get them at Amazon USA.
+
+product/productId: B000NMCJV8
+review/userId: A4H00B61AD039
+review/profileName: Dave559
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324512000
+review/summary: Very good cookies
+review/text: I'm not sure why the reviews are so negative.  These are great, I love GOOD soft cookies!  I also like the fact that they are individually wrapped.
+
+product/productId: B000NMCJV8
+review/userId: AHYRTWABDAG1H
+review/profileName: E. Thomsen "arvig"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1288224000
+review/summary: Good cookies, but see my review
+review/text: These are good cookies, and worth the four stars, IF one rates the cookies one can get from the mall and/or order directly from Mrs. Field's website directly to be 5 stars.  These are soft as an aside.  I would disagree though and not rate them "YUCK" as one reviewer has done here.  I can tell that the grade of white chocolate isn't quite the same as the cookies sold from their website for instance.  So, much better then "YUCK", I'm not disappointed at all but next time I want a box of their cookies I'll probably order from Mrs. Field's direct.
+
+product/productId: B000NMCJV8
+review/userId: AKX4ISV59S53T
+review/profileName: Thomas J. Borko
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1304899200
+review/summary: Delicious and moist!
+review/text: I sent these cookies to a friend of mine in the hospital and he loved them.  He promised to eat only one a day until they were gone!
+
+product/productId: B000NMCJV8
+review/userId: A1QC8KLTX2LOV2
+review/profileName: Trea "Trea"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1275436800
+review/summary: She loved them
+review/text: I bought these for a girl i love and she loved the cookies. She said they tasted amazing and were soft. You will just have to buy these cookies to see if you yourself like them.
+
+product/productId: B000NMCJV8
+review/userId: A3IR8KHXQNV81
+review/profileName: Veronica Williams "Shy Gal"
+review/helpfulness: 4/8
+review/score: 1.0
+review/time: 1232064000
+review/summary: YUCK!
+review/text: I don't know what it is about these cookies, but, they are NOT good at all. They're sort of bland, taste a little off, and cannot be doctored in any way to fix the problem. They taste nothing like the ones you can get online or in the mall. I ended up giving them away to family members in gift boxes to get rid of them. I will never ever purchase these again. The strange flavor was NOTHING like a white chocolate and macadamia nut cookie should taste like.
+
+product/productId: B000NMCJV8
+review/userId: A38GMW8CODKV1Z
+review/profileName: R.Thibodeaux
+review/helpfulness: 1/4
+review/score: 1.0
+review/time: 1316304000
+review/summary: Unfortunately, These Cookies Have NO Flavor and Are Tasteless
+review/text: Unfortunately, zero stars not possible on here. I agree with the reviewer who said "yuck" (though I wouldn't put it as straightforwardly rude as that). When I saw these Mrs. Fields White Chunk Macadamia cookies on here and saw some people thought they were good I just HAD to say something (and, check my record- I usually don't post reviews!)!  I bought 2boxes of these Mrs. Fields White Chunk Macadamia because I love Mrs. Fields- I adore her other cookies/wanted so much to love these!  However, the first bite of this White Chunk Macadamia cookie ruined that. The 1st box I bought from a local CVS store. They are totally bland and have virtually no flavor- even the white chocolate didn't have any flavor although the chunks were plentiful. Which is kinda unbelievable- as, white chocolate is supposed to make it even more flavorful (for example- Hershey's white chocolate bars and kisses taste, extremely flavorful/like chocolate). VERY DISAPPOINTED in this flavor of Mrs. Fields.  Since I love Mrs Fields Cookies (and, obviously, giving her the benefit of the doubt):  I thought, ok, maybe I got a bad box.  So, I bought another one from the Walgreens in Downtown Chicago. AND NOPE- THIS FLAVOR IS STANDARDLY BLAND AND TASTELESS.  The only good thing about these cookies were that both boxes were very fresh/cookies were indivially wrapped as advertised.  If only Mrs. Fields would've put as much thought into the actual cookie itself!! SO- IF YOU HAVE A TASTE FOR WHITE CHOCOLATE AND BUY THIS COOKIE PLEASE BE PREPARED TO HAVE 2THINGS ON HAND- BOTH WHICH ACTUALLY TASTES LIKE  WHITE CHOCOLATE, AND A REAL CHOCOLATE CHIP COOKIE!  HOW could a professional like Mrs. Fields get this so horribly wrong????  When it comes to sweets I'm easy to please- trust me (and, my scale can, at times, attest to that):  But, in this case THIS COOKIE NEEDS A REDO!!  I am convinced that the people who thought these even had a scintilla of taste either works for the company, or need tastebud transplants! I've been as honest as I can.  I wonder what Gordon Ramsay would say to Mrs. Fields upon sampling these white chunk Macadamia cookies???  Oh, the horror.
+
+product/productId: B003H7LW5U
+review/userId: A36M9RKZK4BXH
+review/profileName: K. Burleski
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1294444800
+review/summary: Quite the rip-off
+review/text: I am so sorry I did not listen to the other reviewer.  These gumballs are tinier than anything I have ever seen sold in a package like this.  It takes about 6 of them to equal the size of one regularly-sized gumball.  I have posted a picture so you can see how small these gumballs really are.  The package clearly states "25 cents".  The fact that the Amazon reseller is charging nearly double that price is shameful.
+
+product/productId: B003H7LW5U
+review/userId: A1MCC26RD4QAYU
+review/profileName: Robert McGovern
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296604800
+review/summary: Looses Flavor Quickly
+review/text: I bought a box of this gum for my kids stock stuffer. Overall they were disappointed, because the gum lost its flavor very quickly. As my daughter described it "five chews and the flavor is gone".
+
+product/productId: B003H7LW5U
+review/userId: A1G9FCG16ZMN0K
+review/profileName: Susie
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1294704000
+review/summary: I didn't know they would be so small!
+review/text: I was surprised when I received this product.  I was expecting the only size dubble bubble that I have seen packaged in a tube.  I was expecting the larger gumballs.  They seemed to be priced too high for the little gumballs.  The little gumballs I received had a 50 cent price tag.  If you sold the packages for that price, you would lose money.
+
+product/productId: B003H7LW5U
+review/userId: A18KD1W2CXIIVP
+review/profileName: Steven Angel "stvangel"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1272844800
+review/summary: Very Misleading
+review/text: These are not the normal 1" tubes of gumballs that you usually see in stores, but instead tubes of 1/2" balls.  They are charging "only" $13.97 even though the individual tubes are printed "25 cents".  That would be $9 worth of gum with a "list price" of $18.00.  It would be cheaper just to walk into a store and buy the tubes individually.  The only reason that they didn't get 1 star, is that it's still Dubble Bubble and I've gotta give them something for that.
+
+product/productId: B002EX19JW
+review/userId: A1FQW1CO79MI3I
+review/profileName: scantron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334707200
+review/summary: Most excellent Mole sauce
+review/text: I was not disappointed with this Mole paste.  I agree with another reviewer, it does benefit from adding chili powder to kick it up a notch, but the flavor itself is spot on.  It really lends itself to a multitude of uses.  Buying another brick for sure!
+
+product/productId: B002EX19JW
+review/userId: APAGEK1T5DG6
+review/profileName: Jules
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1286064000
+review/summary: Mole Paste
+review/text: This was very good mole paste.  You may want to add some chile powder to spice it up, but it is natural and high quality.
+
+product/productId: B0002MBG2C
+review/userId: A1JOYY57SZ2OE7
+review/profileName: L. F. Perkins
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1244937600
+review/summary: Great to have on hand
+review/text: I've used dried mushrooms many times over the years and these are among the best.  Though expensive the morel has great flavor and is easily reconstituted.  Already I've used them in a mushroom risotto and my favorite Fettuccine Alfredo.  The 4-ounce package has a volume of about five cups of the dried morels so it easily beats what I find in the local supermarket.
+
+product/productId: B0002MBG2C
+review/userId: A1L66MKXYZ9IZK
+review/profileName: dallasdave
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1313539200
+review/summary: Tasted GREAT!
+review/text: These mushrooms were easy to reconstitute and, when used as a component in another recipe, they add an excellent flavor and texture.  Before I purchased them, I noticed that one reviewer said that these mushrooms didn't have any flavor, which caused me a little anxiety about ordering them.  I believe I know why he/she might believe that is the case.  The mushrooms themselves don't have huge amounts of flavor when you pull them out of the soaking liquid.  When you reconstitute them, be certain to keep the soaking liquid.  DON'T DISCARD IT because that's where most of the flavor is.  I suspect that might have been what happened in the other reviewer's case.<br /><br />You can strain the liquid or run it through a coffee filter to remove grit.  Then reduce the soaking liquid to add back into sauces or other morel recipes and the flavor can actually become more intense with the reconstituted mushrooms.<br /><br />All in all I'm very satisfied with this purchase, even though they are very expensive.
+
+product/productId: B0002MBG2C
+review/userId: A2UK8EU75H6WGT
+review/profileName: T. Wassink "renaissance woman"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1277856000
+review/summary: Excellent value, and wonderful flavor
+review/text: I'm extremely glad I ordered these mushrooms.  The price per ounce, especially rehydrated, ends up being quite reasonable.  I usually rehydrate with warm water (and make sure I use the water in the recipe for extra flavor) then add the morels to sautees, soups, and stir-frys.  Really excellent product.
+
+product/productId: B0002MBG2C
+review/userId: A2V5T2AFLP1NXR
+review/profileName: Barbara Broadhurst
+review/helpfulness: 5/9
+review/score: 1.0
+review/time: 1268697600
+review/summary: No taste
+review/text: The mushrooms I received had absolutely no flavor.  It was like soaking up cream sauce with pieces of rubber.  Really disappointing.
+
+product/productId: B0001Q3GWM
+review/userId: A281NPSIMI1C2R
+review/profileName: Rebecca of Amazon "The Rebecca Review"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1169078400
+review/summary: Tempting Toasted Marshmallow
+review/text: The toasted marshmallow Jelly Beans are irresistible and possibly the best flavor ever! What more can one say?<br /><br />These are creamy, and while they are sweeter than a real toasted marshmallow, these are worth searching for in any bag of mixed jelly beans.<br /><br />~The Rebecca Review
+
+product/productId: B0001N6QFY
+review/userId: A2N5OIJ50MPFSS
+review/profileName: Kacey
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1103932800
+review/summary: Fabulous!  Delightful!
+review/text: I ordered this as an Xmas present for my husband, who is a blueberry freak.  We spent all morning today licking the spoon.  The Oregon Coast Jam website warns that it may be tart and need sweetening, but we did not think it needed a thing!  Absolutely wonderful jam, with no artificial ingredients or sweeteners.  Exactly what I was looking for.  I'll be ordering a mixed case from them next month.
+
+product/productId: B000ZZAD16
+review/userId: A14HY7PT98O3BI
+review/profileName: Steven J. Goyette "Daddy Audio"
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1269561600
+review/summary: These ROCK!
+review/text: Never a fan of Truffles, since it was like playing Russian Roulette-never knowing what exactly was inside, I was absolutely amazed at these delicious confections. It's like Heroin to a Choc-a-holic, only better and legal. They're great with your morning coffee/espresso, an afternoon Tequila or an evening glass of Red Wine.
+
+product/productId: B000ZZAD16
+review/userId: A3UHM4YVCP8VWB
+review/profileName: E. FitzGerald
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1287619200
+review/summary: Wonderfully Addictive!!
+review/text: Bought this as a gift for a chocolate truffle fan, and the double pack is perfect because the recipient LOVES them! They said they're SO good, it's almost wrong!
+
+product/productId: B000ZZAD16
+review/userId: ABYZDXX3ME55T
+review/profileName: Donna
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1285718400
+review/summary: Best truffles I've ever had!!!
+review/text: Our office received these truffles for a Christmas present. Truffles have always been one of my favorites, but there is a huge difference between brands, types, etc - even in the so-called "home made" stores. One bite of these, and I was spoiled forever! (Personally, I'm buying the two pack so I can keep one and give the other as a gift --- hopefully! LOL)<br /><br />These seem to be seasonal, so if you are at all interested, be aware of this.
+
+product/productId: B000ZZAD16
+review/userId: A2SUZBJRV02FRH
+review/profileName: Eric
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320364800
+review/summary: Quite good for this price
+review/text: We received this product in about 2 days, really surprised. It has two bags in a box, the package is good, having no defects. As for the truffles, I should say they are perfect. We just can't help eating one and another one and......so delicious and sweet. I think I will buy again for my family and friends.
+
+product/productId: B000ZZAD16
+review/userId: A3LV9O9L4ZIPLX
+review/profileName: dawnkok
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299369600
+review/summary: good~
+review/text: the chocolate is decent, so is the packaging.<br />it is not sweet at all, which I like the most!!
+

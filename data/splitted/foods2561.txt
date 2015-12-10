@@ -1,0 +1,1143 @@
+product/productId: B006H34C62
+review/userId: A28A3JDW6SZTM1
+review/profileName: N
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Quaker Honey Nut Oatmeal Squares
+review/text: This cereal is delicious. If you've ever eaten the Quaker Honey Nut Instant Oatmeal, these squares take you back to that same flavor. Boy did my taste buds have a party. Hope you enjoy the cereal as much, if not more than I did.
+
+product/productId: B006H34C62
+review/userId: A1PJX7Y2V3SICE
+review/profileName: AndreaF
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339718400
+review/summary: Not our favorite cereal
+review/text: I recently purchased this cereal at our commissary due to the fact that my family has always loved <a href="http://www.amazon.com/gp/product/B005OVPK9G">Quaker Oatmeal Squares, Crunchy Oatmeal Cereal with a Hint of Brown Sugar, 14.5-Ounce (Pack of 4)</a>, but, unfortunately, it was unanimous that none of us liked the Quaker honey nut squares.<br /><br />In my opinion, it didn't taste at all similar to other honey nut cereals like Cheerios or Chex, which we love and currently have on hand, because the Quaker squares left an aftertaste that was a bit too artificial.  I was left feeling as though I were trying to identify an unknown ingredient, instead of enjoying a familiar and well-loved flavor.  While most cereals don't last long in our pantry, this one has not been touched since we first tried it.
+
+product/productId: B006H34C62
+review/userId: A1DAXBHX9CAF8C
+review/profileName: Indymomof3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333670400
+review/summary: Delicious yet nutritious
+review/text: I recieved a buzz kit with these through buzzagent.com.. I was VERY suprised at the tasted vs nutrition.. They were YUMMY yet good for you.. My kids love other mini wheat cerals that tend to be more sugary.. I was excited to find they liked these oatmal squares just as well.. I can not wait to try out the other flavors.. A real winner for my family!!
+
+product/productId: B000I6O46C
+review/userId: A20FDJ07W75X40
+review/profileName: Texas Native
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1328400000
+review/summary: Disappointed
+review/text: I have been drinking cinnamon, vanilla, pecan flavored coffee for some time now. My favorite is Lola Savannah, it is delicious but rather expensive considering you must pay shipping. I finally found a fairly close second, Target's Archer Farm brand. It is really good, too, but you can't buy it on-line and the nearest store is 30 miles away so when I run out I can't just go get it when I need it. I was in high hopes this coffee would at least come close. Boy, was I disappointed. When I opened the bag and smelled it I was rather certain it wasn't going to be good. Just as I expected, it did not taste any better than it smelled. It tastes old and stale and I cannot taste any of the flavores it says it has in it. Now I am stuck with 4 bags of coffee I can hardly drink.
+
+product/productId: B000I6O46C
+review/userId: A121PLHXGZXXUJ
+review/profileName: vtx_chic
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1310342400
+review/summary: Very good coffee!
+review/text: I like this coffee - it has a nice flavor, not too overpowering. I will definitely check out other flavors by Coffee Masters and come back for more Cinnamon Nut Swirl.
+
+product/productId: B000I6O46C
+review/userId: AH0MKF194QMRE
+review/profileName: Bird That Flew
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303862400
+review/summary: My favorite Coffee Masters flavor so far
+review/text: I have tried nearly all of the Coffee Masters flavored coffees, and this flavor is my favorite by leaps and bounds.  It smells and tastes like a cinnamon bun with a sprinkling of walnuts on top. There are three main flavors (vanilla, cinnamon and nuts) and none overpower the other.
+
+product/productId: B000UG5E0U
+review/userId: A2PWZXXT883J3U
+review/profileName: KATHLEEN A GREEN
+review/helpfulness: 8/9
+review/score: 1.0
+review/time: 1335916800
+review/summary: Deceiving
+review/text: This is not peppermint!  It is the species Mentha arvensis.  True peppermint is Mentha �piperita L. This smells terrible and I am not sure this is edible.
+
+product/productId: B000UG5E0U
+review/userId: A3RRACWJCIGR1Y
+review/profileName: Kim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: Fast shipment, wonderful smell
+review/text: Great bottle, with dropper, the smell is wonderful and smooth, would definitely order again from this company &#9829; I place a few drops in a burner and wow, the smell is yummy, I also add it to some coconut oil, with olive oil and she butter and what a wonderful skin tonic...
+
+product/productId: B001L0JYLY
+review/userId: A6WVKA4ZS99NR
+review/profileName: Anna Low "media maid"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324944000
+review/summary: Holiday Treat
+review/text: I purchased a small box for the Christmas holidays. These are the best brandy cordial. Extreamly fresh and delicious. I wish I bought more to share for stocking stuffers. Next year I will remember to get these early.
+
+product/productId: B001L0JYLY
+review/userId: A2AFB6Z1F91466
+review/profileName: mommy-me "mommy-me"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1298764800
+review/summary: Great product
+review/text: My  husband loved these.  I gave them to him for Valentine's Day.  He simply loves chocolate cherry cordials and these added a nice twist with the brandy cherries.
+
+product/productId: B001EPPJ6K
+review/userId: A1Q719HS9VO5TO
+review/profileName: Maurice
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1265587200
+review/summary: Quality Pasta
+review/text: This Farfalline is a smaller (no.95) bow tie which I find perfect for soups. Can't go wrong with De Cecco.
+
+product/productId: B0026KEGUC
+review/userId: A2LEE5LPHMDP3B
+review/profileName: val
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1320537600
+review/summary: Passable!
+review/text: This lemon salt is ok, but the salt is not infused with the lemon, the lemon is mixed with salt granuals.  So might as well use lemon.
+
+product/productId: B002VFWIWU
+review/userId: AVC9BB2DZNT6W
+review/profileName: Artsuccess
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1296172800
+review/summary: Memorable Candy Item
+review/text: I am currently going through my Pez collection when I came across my Darth Vader Pez and then found it listed here and is now retired.  I wonder how many others have it and don't realize it.  I'm glad that I held onto it.
+
+product/productId: B001HTG17E
+review/userId: A2A98IZ6QUMIUX
+review/profileName: Cindy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: Great with a protein shake!
+review/text: Drinking this Blue Diamond Almonds chocolate almond milk doesn't have hardly any taste whatsoever on it's own so that's the downside, However, the reason I give it 5 stars is:<br /><br />1. According to the label on the box: Serving size 1 cup is only 45 calories, 3.5 g fat (0 saturated fat), 0 cholesterol and only 3 total carbs (0 sugar carbs) so you just can't beat it unless you want to just drink water all day.<br /><br />2. I drink an EGG chocolate protein shake (only a couple calories and carbs) every morning and this tastes the absolute best mixed with the powder shake. I also add a little Sweetleaf all Natural liquid Sweetener (which is 0 calories and 0 carbs), sweetener is much needed and instantly have a great tasting power drink to keep me full until lunch.<br /><br />3.This chocolate almond drink is also good blended in the "Bullet" with ice and again must put in the Sweetleaf sweetener and it's very refreshing. Sometimes I add a bannana to it. Yum!<br /><br />I am planning on ordering from Amazon the Sweetleaf chocolate all natural sweetener. I know it will be delicious with this chocolate almond milk too. The "sweetened" chocolate almond milk is to die for but then again, it's full of calories and carbs so for anyone watching their calorie intake or carb intake this is the one to order (as long as you add the Sweetleaf natural sweetener).
+
+product/productId: B003YMV8FW
+review/userId: A30YWW1XFRVGJ9
+review/profileName: E. Nonimiss "buyer"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1288569600
+review/summary: Best brown rice...
+review/text: I typically do not like brown rice due to its' "brown paper" like taste.<br />I decided to try this and what a difference!<br />It cooks up like a very fluffy white rice and the texture and taste is wonderful.<br />Highly recommend...
+
+product/productId: B0045DBQ6K
+review/userId: A36MG7JG8ME50V
+review/profileName: scortes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Great Price on a great food!
+review/text: Our 15 year old chihuahua was on deaths door 6 months ago.  She has had CHRONIC stomach problems and food allergies her entire life. This grain free diet has given her a new lease on life.  To make this case of food last longer, I supplement with a dollop of pumpkin (one of the ingredients in this food) and I can get 4 servings from one can ( she is only a 7lb. dog) I've checked around and now know that the price of this food from this distributor is one of the most competitive!  So glad I don't have to get the food at a "boutique" pet store any more!
+
+product/productId: B0027J67YA
+review/userId: A3O264TYQ7D4LR
+review/profileName: Nina n TX "Nina"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319673600
+review/summary: My picky & spoiled dogs love these!!!
+review/text: I found these at Marshall's, so I decided to give them a shot.  It seems everytime I find something my dogs like it gets discontinued, but I got lucky this time.  My dogs are so picky that they'll take a treat from us and immediately drop them on the floor to see if we have anything better.  They didn't do that when we gave them these!  It was a nice change.  The only other thing they don't drop is rawhide sticks with chicken that we get at Target.  They are just rawhide sticks, so they don't entertain them very long.  These keep their interest for a while.  We have 3 dogs, 2 small & 1 that was supposed to be small (20+ pounds, not 8-10).  The medium sized one gets 2.  It seems fair.  They do make a larger size, but I get tired of buying 2 sizes of everything.
+
+product/productId: B001KUWCWS
+review/userId: A3DILN7A15LJJ9
+review/profileName: BrooklynLMSW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280275200
+review/summary: Best Ever.
+review/text: These are the best veggie chips ever.  Really.  I was addicted to them since I was a kid and I can't find them anywhere now so really glad to see them here.
+
+product/productId: B001IZ7OQO
+review/userId: A3E4Y62YJL07ZQ
+review/profileName: KNY
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319846400
+review/summary: Happy to find these Tic Tacs!
+review/text: Hey, why do companies stop making the things that we folks like best?  This variety of Tic Tacs is my fav and they can't be found in any stores...anywhere!  Just for fun I thought I'd look on Amazon and there they were!  I ordered lots of them (people keep stealing mine!!!!).<br />Maybe a tad pricey for mints, but they're great!!!!
+
+product/productId: B005IOXB0E
+review/userId: A21ZYPCF7DO598
+review/profileName: Hungry Man "porthos74"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334620800
+review/summary: WOW!!!
+review/text: BEST. PICKLES. EVER.  Family owned California company, quality products, these are my favorites.  Great by themselves or added to burgers, sandwiches, potato salad. WARNING: Extremely addictive!!!
+
+product/productId: B005IOXB0E
+review/userId: AYSMC56G6TAT2
+review/profileName: Food&lt;3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: Even if you don't like pickles...
+review/text: Even if you don't like pickles but you like a little spice, you will love these. They are awesome in burgers and sandwiches but add them to your tuna, chicken or defiled eggs and you will get rave reviews.
+
+product/productId: B0052OMSDG
+review/userId: A10P6XIDTP419N
+review/profileName: RFG
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318032000
+review/summary: Rolled Wheat Hot Cereal: Where are you??
+review/text: I was raised on Fisher's Zoom, then a popular rolled wheat hot cereal. They still make it, but you have to buy it on-line in case lots. Oatmeal is everywhere, but just try to find rolled wheat on the retail shelves. I was in Houston last week on business, and figured H.E.B. would carry it -- they have just about everything else... Nope! Bob's Red Mill Flakes Rolled Wheat is the closest thing to Zoom, but you'll never see it in the grocery or health food stores. You have to buy it on-line, four bags at a time. (But that's better than in case lots, and unlike Zoom, Bob's never cooks up lumpy.)<br /><br />Now, don't just pour milk and sugar on it. (Yuck!) Grow up and eat it British style, with butter (or your favorite margarine) and plenty of salt and pepper. (YUM!) If you have an aversion to butter, etc, try it with olive oil. (Mamma Mia!) Bob's cooks up in about 8 minutes on the stove top (yes I know, an eternity these days) -- 1/2 cup water to 1/4 cup cereal for one serving.<br /><br />If you mistakenly cook up too much, don't fret. Just press it into a 1/2" slab onto a buttered cookie sheet, cover with waxed paper, and store in the refrigerator over night. Next morning, cut the slab into strips and fry 'em up with your eggs and bacon. We called it "fried mush" when I was a kid.<br /><br />Anyway, try Bob's Red Mill Flakes Rolled Wheat cereal! You'll love it, and will forever be as regular as night follows day. <a href="http://www.amazon.com/gp/product/B0052OMSDG">Bob's Red Mill Rolled Wheat Hot Cereal -- 16 oz</a>
+
+product/productId: B003DKJZCS
+review/userId: A2BTWFD33BHBJ5
+review/profileName: T. Day
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320105600
+review/summary: Great service
+review/text: Great job!  How can I continue order from the same vendor when choosing this product again?  The only thing that would be better is if you included a smiley sticker on the outside of the box.
+
+product/productId: B003DKJZCS
+review/userId: AA5L224DLC6ZV
+review/profileName: Eugene Mincher
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301356800
+review/summary: great drink for pumping out..
+review/text: Great drink for working out. I was paying $5 at 24 hour for each drink now got a case of them for cheap.
+
+product/productId: B0053B7TK0
+review/userId: A3MYDCJTJELXZ9
+review/profileName: Jay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319414400
+review/summary: cheaper at the grocery store
+review/text: I love this soup but don't buy it here buy it at any grocery store 1.79 each regular price. I thought shopping online would be cheaper but its not
+
+product/productId: B004Z7EU6E
+review/userId: ARJOTEC1Z3PWF
+review/profileName: Timothy O Crooks
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: The best yet so hard to find
+review/text: I may have to hoard this stuff.  Although made in New Jersey, I cannot find one store in NJ that sells it.  I hope they keep selling it here.
+
+product/productId: B004Z7EU6E
+review/userId: A31T3OQA1E8ALR
+review/profileName: Marilyn Pennebaker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318377600
+review/summary: Yum, Chile 'n Lime
+review/text: I was also very excited to find the Chile 'n Lime.  It is soooo good.  The stores in Michigan also only carried it for about a year.  So glad to be able to get it again.  A unique fresh taste without being to "hot" spicy.
+
+product/productId: B004Z7EU6E
+review/userId: AJD05X10GO9PE
+review/profileName: nspatty
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317427200
+review/summary: Excellent
+review/text: I was so glad to find the Frank's RedHot Chile n Lime product available. No store carries it any more in Omaha, after a year of using it and loving it and then no longer available, it was very sad. I received the bottles quickly and it was just what I new it would be. Sure glad they didn't stop making it.
+
+product/productId: B001TH64MQ
+review/userId: A318I3TWETVATC
+review/profileName: Dri
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Baby Mum-Mum
+review/text: This product is great!  My little one LOVES to gnaw on these while we eat dinner, or just as a snack.  They are a little messy and sticky, but MUCH less so than traditional teething biscuits.  They also dissolve really quickly, so I feel safe letting her have them without any teeth.  She eats the whole package and sometimes wants another of the cookies from a new one!  She also has a sensitive tummy, but these are great and very easy for her to digest and handle.
+
+product/productId: B005CW350I
+review/userId: A1ODOGXEYECQQ8
+review/profileName: Nuknuk
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1313971200
+review/summary: It dampened the spirits.
+review/text: I got this margarita mix from a local liquor store. The lite will save you some calories if you are trying to stay away from it. Reasonably priced compared to other mixes.<br /><br />The thing that I didn't like is the taste. It tastes like a bad diet soda. It really put a wet blanket on my margarita experience. Let me say, it dampened the spirits.
+
+product/productId: B006OCBDH2
+review/userId: A1V7HSS48TD1JX
+review/profileName: 55808
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343779200
+review/summary: PRICE
+review/text: Why would anyone pay 59.99 for a case of 24 when u can buy them at your local Walmart for .99 a piece and it is the same size and ounces??
+
+product/productId: B001MOP88W
+review/userId: A10X7N64WYG6NR
+review/profileName: martinp
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325980800
+review/summary: Great Tea & Great Service
+review/text: I've been drinking tea (all type of tea :) since I was 17 years old. I'm close to 50s now :(.<br />If you are a tea lover this one will be in your list of favorites.<br />Recommended for those who love tea with cream/milk.<br />The shipping and packaging 100% recommendable too, but the package differs from picture.... note a deal breaker... right?
+
+product/productId: B001MOP88W
+review/userId: A1BK41MIEXV8U1
+review/profileName: james
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: just what i was looking for
+review/text: i enjoy and use this product on a daily basis so it is always on my shopping list.<br />the right size and fresh product makes this purchase a good deal.
+
+product/productId: B001MOP88W
+review/userId: A1A7BDDRO4OZA4
+review/profileName: AK99
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Very tasty, mild tea
+review/text: Maybe it's because the name is burned into my brain from reading 50 Shades of Grey - and obsessed with it - but all the mention of this tea made me have to try it. I'm a green tea drinker who usually uses one lemon green tea bag mixed with a regular green tea bag in 1 mug. I like it pretty strong. But this was much milder, still had bold color to it. Refreshing. Made me daydream about the book more which makes me very very happy. So this tea brings me to my happy place & I love it for that! Oh yea, caffeine isn't too strong (compared to what i'm used to) but i did only brew 1 bag with 1 mug with this tea and it was just divine ;)
+
+product/productId: B001LULT2Q
+review/userId: A3OHF7BV39X3Q9
+review/profileName: D. LINGERFELT "The Governor"
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1250467200
+review/summary: Bacon-licious!
+review/text: It is hard to put into words on how great this product is.  Not only does it come with multiple varieties of Bacon Salt, all excellent by the way, but included is a jar of Baconnaise and Lipbalm.  I am not a huge fan of the Lip Balm, but it is a novelty item and won't kill you.... so far.  The Baconnaise is super-fantastic (in the Arnold voice).  It is the envy of every coworker in the building.  I recommend the Baconnaise on a cracker of your choice and sprinkled with some flavor of Bacon Salt.  Why? Because everything should taste like Bacon.  Bacon is what all meat strives to be.  J&D did right when they made this product.  God Bless them....every one!<br /><br />Don<br /><br />Bacon - It's whats for breakfast, lunch, and dinner!
+
+product/productId: B001LULT2Q
+review/userId: A2BEAH49FBY09
+review/profileName: Maryann Bussard
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1242691200
+review/summary: Great variety pack
+review/text: I ordered this pack after watching the product on a tv shopping channel.  Amazon's price was better and there were more products offered.  I use the bacon salt on everything, and the mayo is great for making panni's.  I would order again and the only reason I didn't give it 5 stars is because it didn't have the peppered bacon salt flavor offered in the gift pack.
+
+product/productId: B001LULT2Q
+review/userId: A7Y2R2TCAHJOM
+review/profileName: W. Lowe
+review/helpfulness: 11/13
+review/score: 2.0
+review/time: 1256688000
+review/summary: Good and bad
+review/text: I'm reviewing the whole package when I give it 2 stars.<br />First, I love the Baconnaise. It's all I use on hamburgers now. No mayonnaise, mustard or ketchup. I'm getting ready to order more of it. Personally, I don't find that it tastes like bacon, but I really like the flavor.<br />The lip balm, don't really care about, tastes like the baconnaise but I don't use it.<br />Now the bacon salt. The flavor of the three I tried was pretty good. The problem is after only a few days after opening them, they became completely solidified. I've tried to knock the bottles on the countertop to loosen it, didn't work, opened them up and used a butter knife to break it up and it's really sticky. Even after breaking it up with a knife, when trying to shake it out, nothing makes it, it just sticks together. Maybe I got a bad or old batch, not sure, but I would not waste my money on the bacon salt again.
+
+product/productId: B001LULT2Q
+review/userId: AWJQB5VYVHFJ7
+review/profileName: vin williams
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1247097600
+review/summary: great taste
+review/text: Found these products to really help control fat intake and add great taste..Was shown on thr Oprah show.Amazom was the only place I was able to find it and this is my second order..
+
+product/productId: B001LULT2Q
+review/userId: A3MD8UJOOMPHJK
+review/profileName: AGS
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267315200
+review/summary: Bought this as a Cmas Gift
+review/text: I bought this as a Cmas gift for my brother who loves bacon.  This was partially as a gag gift, partially as a serious gift.  He loved it.  He uses every spice interchangably with his recipes to create new bacon flavors and he uses them often.  It was the perfect gift for a bacon flavor lover.
+
+product/productId: B001LULT2Q
+review/userId: A3QML5GXMDDEAF
+review/profileName: Amber Waves
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1253577600
+review/summary: Definitely for your bacon lover!
+review/text: I bought this as a birthday gift for my teenaged son, whose favorite food has always been bacon! He uses the baconnaise on every sandwich, and we have sampled the different baconsalts on just about anything that bacon would compliment! What a great idea, and I am thinking about buying these gift boxes for the guys on my Christmas list this year.
+
+product/productId: B001LULT2Q
+review/userId: A13NHG1YNBYC98
+review/profileName: Mom of 2 "bibliophile with varied taste ;)"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252800000
+review/summary: Great idea for any bacon lover
+review/text: I got this for my friend who we jokingly call "the pork princess" because she has an amazing way with cooking all things pork.  It looked/sounded right up her alley.  It was a big hit!  I haven't tried anything made with it yet, but everyone loved the package (the box is printed with "bacon ribbon"), and kept asking me where I found it!  I have been promised some potato salad featuring the Baconnaise, and I'm looking forward to trying it!
+
+product/productId: B001LULT2Q
+review/userId: A2L3AS7P84AAUL
+review/profileName: Sunshine "Bon Jovi Fan"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252713600
+review/summary: Love It!
+review/text: Absolutely love the bacon Mayo.  Very natural bacon flavor, great on hamburgers!  The salts are great too!
+
+product/productId: B001LULT2Q
+review/userId: A2HFMSWIHHUH67
+review/profileName: Chrystal D. Thompson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1252368000
+review/summary: My Husband LOVED this!
+review/text: I bought this gift for my husband (who loves bacon), and he also loved this set. He uses the mayo on all sandwiches and the seasons on all meat/pork/chicken that he cooks.
+
+product/productId: B001LULT2Q
+review/userId: ACDHLOVWRC6TC
+review/profileName: Renee Strange
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1250380800
+review/summary: Good Stuff
+review/text: These are great products.  The Baconnaise is a little strong for everyday sandwiches, but that is easily remedied by adding some plain mayo to it.  Not to mention it will stretch the amount you get for the money!  You will reach for it first.  Add a little full strength to sour cream for a baked potato topping. The seasonings are great on vegetables and anything with eggs.  Use it to season soups, and your guests will be trying to guess the ingredients.  Tomato soup with bacon seasoning, YUM. The seasonings would also make a great gift idea for your vegan friends. Christmas will be here before we know it. I thought the idea of bacon-flavored lip gloss was icky, but it is mild and I got over it.
+
+product/productId: B001LULT2Q
+review/userId: ATQ8PUOF195V4
+review/profileName: Deborah Buskirk "deafsetter"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1246233600
+review/summary: Authentic bacon taste
+review/text: Have not tried all of the salts, but the ones we have tried are excellent. Hubby sprinkles the original on fresh steamed green beans with butter spray and the bacon salt. DEEEELICIOUS.<br />I tasted the Baconnaise plain and the bacon taste is authentic tasting. Have used it in tuna salad and POP! DEEEEEELICIOUS.
+
+product/productId: B001LULT2Q
+review/userId: A390HT8S9HXI3Y
+review/profileName: Mrs. R. E. Major "Music Lover"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1246060800
+review/summary: Bacon Flavor Gone Wild!
+review/text: Awesome product.  Baconnaise is out of this world.  Still finding food items to try it on.  The different flavored bacon salts are excellent and work well with breakfast, lunch and dinner selections.  If you haven't tried this product, you must be living on another planet.  One of the best new products to come along in a long time.
+
+product/productId: B001LULT2Q
+review/userId: AWODAQOGK6Z3E
+review/profileName: Beanalicious "Omnis Aetus"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1244505600
+review/summary: Yummy!
+review/text: I recently purchased this on a Gold Box deal, I was waiting for there to be an incentive before I took the plunge, but now that I have these delicious products, I realize it isn't worth waiting for a deal to pop up.  As soon as I run out of my bacon salt, I'm buying more!<br /><br />All the bacon salt varieties included in this set have their own subtle variations in flavor, my favorite being jalapeno, and without having a least favorite.  They all have a little bite to them that I attribute to black pepper, but aren't really spicy.  I'm not really sure if they truly taste like bacon, I have heard that the bacon flavor needs fat present to manifest itself.  I do know however, that it is so good, Ill just sprinkle some on my palm and lick it off.  Gross?  Maybe, but I bet you would lick my palm too :P<br /><br />I have never been a huge fan of either Mayo or Miracle Whip, but after trying the Baconnaise, I think my hierarchy is Baconnaise > Mayonnaise > Miracle Whip.  I can only imagine making some delicious baconized fry sauce! (typically mayo and ketchup mixed together, try it and be blown away.  Its almost a religion down here)<br /><br />If you have been waiting to buy this stuff but haven't quite been convinced, just take my word for it and buy.  If you don't like it, just send it my way!  That probably won't happen though, unfortunately for me.
+
+product/productId: B001LULT2Q
+review/userId: A19WGWGYKYKTJK
+review/profileName: M. Camp
+review/helpfulness: 6/8
+review/score: 5.0
+review/time: 1243296000
+review/summary: What a tasty bargain!
+review/text: I am so thankful that I took the time to purchase the Bacon Lover's Gift Pack. I cannot get enough of Baconnaise. I look forward to every sandwich they I get to it with it spread on it. I am a vegetarian and use it with veggie burgers and chik patties. The Bacon Salt included definitely enhances anything you are eating. I also have enjoyed using the Bacon lip balm. Nothing better than having the taste of bacon on your lips and not having the calories to show for it. Thanks to J&D's for creating such a great gift pack. Anyone would be happy if this arrived on their doorstep. I recommend it to all.
+
+product/productId: B001LULT2Q
+review/userId: A338AZVM8KV9E7
+review/profileName: Doke Scott
+review/helpfulness: 4/6
+review/score: 2.0
+review/time: 1259539200
+review/summary: tastes fake
+review/text: It's a nice idea.  Unfortunately, the fake bacon flavor just isn't convincing.  It tastes of salt, smoke and chemicals, but not meat.  They should have used real bacon, finely ground, instead of artificial flavorings.
+
+product/productId: B001LULT2Q
+review/userId: A3924X768ZHO7D
+review/profileName: ceejay
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1294444800
+review/summary: Bakkalicious
+review/text: Great product for the bacon lover, did not know that it can also be a used by the vegetarian family member.
+
+product/productId: B001LULT2Q
+review/userId: A341MLSIBYUS6J
+review/profileName: The Harbor Guy
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1261180800
+review/summary: Yuk!
+review/text: My Mom bought a 3 pack from one of the TV shopping channels a few months ago. After watching the hosts "salivate" over the stuff, she ordered it.<br /><br />The result...BLECK! Horrible! Tastes fake and like chemicals. And the salt level...forget it. We had 5 different people taste all 3 and we all agreed, awful.<br /><br />I sent it back within a couple days. If you want bacon for heavens sake, buy some real bacon and forget this fake junk.
+
+product/productId: B001LULT2Q
+review/userId: A12OKUSUX0CVQ1
+review/profileName: kaste
+review/helpfulness: 5/9
+review/score: 1.0
+review/time: 1249344000
+review/summary: Blah!
+review/text: We didn't like these products at all. They all taste like very salty fake bacon, nothing at all like real bacon. My advice is to skip it - a big waste of money.
+
+product/productId: B001LULT2Q
+review/userId: A2UB6GFNQ4YAO
+review/profileName: Karens GLuten Free
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1342742400
+review/summary: Contains Gluten - Wheat!
+review/text: I was Greatly disappointed to learn after spending almost $50.00 on this 'Gift' that ALL the items Contain WHEAT! I NEVER would have purchased the item had it been disclosed in the sale script. I did not find anything stating there was Wheat, or Gluten at all. I thought it was government regulated that it MUST be stated so. With SO many GLUTEN intolerant people these days- I was frankly shocked to read the label once the item had been received. I feel DUPED! A Dissatisfied Customer.
+
+product/productId: B001LULT2Q
+review/userId: A37JI7RNJR1U10
+review/profileName: Phisco "Tuscan Baconnator"
+review/helpfulness: 6/11
+review/score: 5.0
+review/time: 1243814400
+review/summary: A combo that could bring world peace
+review/text: Imagine...you've just sat down to enjoy your favorite sandwich (complete with your favorite Baconnaise spread) and next to it is a tall, ice cold glass of Tuscan Milk.<br /><br />As you enjoy your repast, you're transported as if floating on a cloud and all thoughts of a poor economy, anti-American sentiment, Korean nuclear testing, global warming, bailouts, bankruptcies and foreclosures melt away as if magically being swept away by the creamy folds of Tuscan milk and the sweet, sweet aroma of bacon.<br /><br />As you apply the bacon lip balm, you feel refreshed and ready to create the utopian state we all desire. All is right with the world.
+
+product/productId: B001LULT2Q
+review/userId: A2U8Y9THV8J0GU
+review/profileName: Jennifer C. Hu
+review/helpfulness: 7/14
+review/score: 3.0
+review/time: 1244073600
+review/summary: Novelty Item loaded with artificial chemicals and carcinogens
+review/text: The product was a great idea. I actually bought 2 boxes of the gift pack with the bacon lip balm (the only thing good in the box made with coconut oil and aloe vera oil) but once I read the ingredients like MSG, Red 40 ( a carcinigen!) and partially hydrogenated oils.... I was really turned off.. You can really taste the artificial colors and flavors in this thing. It's really not a healthy item and dangerous to anyone you will give it to. This stuff contains all types of endocrine disruptors and will really screw up your metabolizm! Ok to have once in a great while but tastes like powder smoke and loaded with chemicals and carcinogens. If you dont care about your health and eat lots of crap anyways, then you'll prob love it..LOL.. I think the recipe needs more tweaking..I'd rather have real uncured bacon with no carcinogens found at Whole Foods.
+
+product/productId: B005FC6T08
+review/userId: A2OTTBILY9UYAH
+review/profileName: P. Graff
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1324252800
+review/summary: Amazing Product!
+review/text: Just got these on Friday and they are awesome! Crisp, clean and refreshing! It was like drinking straight from a freshly cracked coconut. I've tried all the major brands and this is by far the best one out there.<br /><br />I had one after going to the gym and it was perfect. This thing has over 700mg of potassium and it's only 35 calories. That's the most potassium and lowest calories I've seen from any coconut water on the shelf. There is no added sugar. It's just naturally sweet. I can give in to my sweet tooth without any guilt!
+
+product/productId: B005FC6T08
+review/userId: A1P8G51NJENCA2
+review/profileName: RescueGirl "Yoga to the Rescue: author/Illust...
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1333065600
+review/summary: Best Coconut Water on the PLANET!!!
+review/text: There is SO much coconut water out there, it's like Oprah...it is everywhere!<br /><br />I'm just glad that after trying Zico (pretty good) and Vita Coco (a bit strange tasting/too sweet), I was open to trying another one.  I don't know how Harvest Bay does it, but their coconut water tastes as close to drinking fresh coconut water as you can get.  It is absolutely delicious.
+
+product/productId: B005FC6T08
+review/userId: AY3N0LQ9KDQUS
+review/profileName: Planet_of_Sound
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1330732800
+review/summary: Amazing Taste
+review/text: In my household, we drink coconut water every day;  we did a taste off last summer between Zico over Vita Coco, finding Zico to taste natural while Vita Coco tasted artificial and sweet.<br /><br />We recently discovered Harvest Bay coconut water, and it's our new favorite.  It truly brings to mind the taste of fresh coconut.  We still enjoy Zico, but Harvest Bay seems to have a little extra something, and is now the reigning champ in our fridge.<br /><br />The slightly slimmer box is nice too;  although it contains less liquid, it's nice to hold and also contains more potassium.
+
+product/productId: B005FC6T08
+review/userId: A20BC3R2NBN646
+review/profileName: CMB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349827200
+review/summary: Refreshing, low calorie, great tasting
+review/text: I have tried almost every coconut water out there.  I wanted to try this product because it is the lowest calorie coconut water I have seen out there and I read about it in several other media sources.  I have to say that this coconut water is great.  It really does taste like it's fresh out of a coconut. It is very refreshing and has a great nutty aftertaste. I love to drink this after a workout because I just feel like it replenishes me.  I would say this is one of my favorite coconut water's that I have tried based on the taste, that it is organic, and low calorie.  I would recommend this to anyone looking to find an authentic coconut water.
+
+product/productId: B005FC6T08
+review/userId: A2NGSNWV5MOMZQ
+review/profileName: Amazon Shopper "Amazon Shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: Great Coconut water
+review/text: Harvest bay coconut water has low sugar, is not too sweet and tastes great! One of the better brands of coconut water.
+
+product/productId: B005FC6T08
+review/userId: A1QQNRG4ZKR75Y
+review/profileName: Sara
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: Delicious coconut water
+review/text: I must admit I was surprised to see food available on Amazon.  I decided to see what happens when coconut water comes from UPS.  It was very easy, 12 little bottles came right to my door.  Harvest Bay is very good and has a lot of potassium.  Definitely will buy more.  You should too!!!!
+
+product/productId: B005FC6T08
+review/userId: A30NHVVC62LJMK
+review/profileName: Libri Mundi "Libri Mundi"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347667200
+review/summary: Taste is closest to the fresh stuff
+review/text: We have tried a lot of coconut waters. If you like the taste of real fresh coconut water, this brand comes the closest. My husband grew up drinking the stuff right out of the coconut and this resembles it the most. If you are new to coconut water, you may not like this at all though. Fresh coconut water does NOT taste like coconut flesh. It is a taste that you may have to get used to or may not ever like at all. If you like the nutty flavor of the coconut, go for Nirvana (and to some extent Zico) which tastes like the white coconut flesh. Of all brands we tried, Harvest Bay Coconut water's flavor tastes the most like fresh coco water and the least like coconut flesh.
+
+product/productId: B005FC6T08
+review/userId: A3SIZC600PA0AW
+review/profileName: miss-honesty "Tiffany"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342396800
+review/summary: Delicious, but 8.5 oz containers are too small!
+review/text: I typically drink Vita Coco, Zico, ONE and Nature's Guru instant coconut water. These are truly green, somewhat tasteless Central American coconuts. When Harvest Bay came I immediately tried one and was pleased by the full flavored 'nutty' taste of Thai coconuts. It's like drinking light beer and then trying regular. Now light doesn't taste so good anymore. The only draw back is the containers are very small, less than nine ounces.
+
+product/productId: B005FC6T08
+review/userId: A2KHN9VEEKP4CC
+review/profileName: Humble reviewer "James"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341878400
+review/summary: Why This  Tastes Better than Zico or Vita Coco
+review/text: I am a coconut water aficianado if not connoisseur and this product tastes better than almost every other one I have tried with the possible exception of Nirvana in the glass bottles.  Why?  It has to be the quality of the coconuts.  When I say taste better, this has the solid finish of higher quality produce, like a fine wine...it doesn't go down a little sour, like most coco water (reminding some faintly of urine, unfortunately) but it has a nice robust coco-nutty finish that just tastes fabulous.  This is the real deal.  Imagine how good it would taste in a glass bottle!  The analogy I would use is that Harvest bay is to most coco water as fresh squeezed unpasteurized OJ is to store bought pasteurized OJ.  Enjoy!
+
+product/productId: B005FC6T08
+review/userId: A1VNYXGEB71791
+review/profileName: Utopiasmith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Cheaper at Plum market
+review/text: It is a matter of taste, I've tried them all and this is by far my favorite. I buy it by the case. Has a pleasant mild nutty aftertaste, yummmmm
+
+product/productId: B005FC6T08
+review/userId: A1YCCRVPH18GQR
+review/profileName: Dmich
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1340755200
+review/summary: Tastes weird
+review/text: I am sorry but this stuff tastes awful. I have tried several different coconut waters and this is the worst tasting of the non dehydrated coconut water. Found a dehydrated one that was even worse than this stuff. The price is good but I can barely stand to drink this. I'm not a huge fan of the taste of coconut water in general but I need extra potassium and this is a quick way to get it. Will not be buying this again. I noticed it says it's product of Thailand maybe the coconuts taste different there. So maybe that why some people like the flavor of this one. I prefer milder tasting coconut water.
+
+product/productId: B005FC6T08
+review/userId: A3SDXIOLSPVVHJ
+review/profileName: S. Blades
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: most natural tasting coconut water and less sweet than others
+review/text: I've tried several different kinds of coconut water and had settled on Vita Coco for a while, but it was always hit or miss.  Sometimes it was really good, sometimes it was sour and off tasting, and it was always ALWAYS way too sweet, so I could only drink about a third of a bottle before putting it back in the frig.  Inevitably, whenever I went back for more, the once yummy coconut water would have already begun to taste "off," leaving an odd aftertaste. Browsing the selection of coconut waters at my local health food store, I came across Harvest Bay coconut water, and it is, hands down, the best and most natural-tasting I've ever had.  There isn't the strange sourness that is in other coconut waters that often have added vitamin C or citric acid (such as Vita Coco).  Harvest Bay seems to be 100% pure coconut water - or at least it certainly tastes like it, and the only ingredient listed on the bottle is coconut water.  There is no aftertaste whatsoever - very refreshing!  Keep in mind that the bottles are on the small side, which is fine for me because I can only drink coconut water in small amounts.  Also, it seems to have a lot less sugar in it, although that could simply be from the small 8.45 fl oz amount (Vita Coco has 11 grams per 11 oz serving, if I remember correctly, while Harvest Bay only has 6 grams of sugar per 8.45 oz serving).  Either way, it tastes way less sweet than previous coconut waters I've tried, which equals perfection for someone like me who doesn't like super-sweet anything. Much of this probably has to do with the location of the coconut and/or the ripeness.  I've read that these can factor into taste and sweetness.  If I remember correctly, Vita Coco is a product of the Philippines, while Harvest Bay is a product of Thailand (or at least that's what the bottle states).  Apparently I prefer Thai coconuts, or whatever it is that makes this product less sweet.
+
+product/productId: B005FC6T08
+review/userId: A2KDWY7K1CRKSC
+review/profileName: Russule
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1338940800
+review/summary: Tastes funky and sour
+review/text: Just purchased a case based on the latest rave reviews and am very disappointed. It is sour not fresh and has unpleasant taste like muddy water.<br /><br />After tasting Amy and Brian(the best so far IMHO), Nirvana (not bad but taste is too overpowering for me) , Zicco (ok, not bad) , Naked (sour) and Vita (not bad) I feed that it almost tastes spoiled by comparison to brands I mentioned.
+
+product/productId: B005FC6T08
+review/userId: A19CXQPHO9E5ZT
+review/profileName: SweetMamaB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: Delicious!
+review/text: This is the best coconut water I've ever had.  It tastes fresh and natural.  I LOVE IT!  I've tried a few other brands of coconut water, but after having Harvest Bay, I don't think I'll buy anything else again.
+
+product/productId: B005FC6T08
+review/userId: AHF4S2GKZXLXZ
+review/profileName: Peter A. Fohn "PAF"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329350400
+review/summary: Best tasting coconut H2O
+review/text: Best tasting, highest potassium level (8.45oz/730mg), and reasonable price...was looking for a cheaper alternative, but have not found one.  I tried 5 different kinds...and 2 of them were really bad!!<br /><br />Harvest Bay's Coconut water is the best!! (and I have no connection w/ brand)
+
+product/productId: B005FC6T08
+review/userId: A4KBTM3RG3FTW
+review/profileName: Mariya V. Karlieva
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326153600
+review/summary: The best coco water so far!
+review/text: This coconut water tastes great! The first time I tried it, it tasted slightly bitter, but then the bitterness faded to the amazing flavor of coconut. It actually tastes like fresh coconut water...as if you cracked the coconut yourself. Personally, this is the best coco water I have tried so far. Vita Coco is not bad, all the other ones are not bad, but they just taste diluted compared to this one. Also, I like the fact that it is not heavily advertised, because I honestly don't care about Rihanna trying to sell me coconut water
+
+product/productId: B005FC6T08
+review/userId: A3TDF6MZQPKYPG
+review/profileName: luv2shop4meee "luv2shop4meee"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1340668800
+review/summary: Bleh!
+review/text: Bleh! Worst coconut water I ever tasted. It seemed spoiled, almost like spoiled milk. I threw the entire box in the trash! What a waste of money! Not happy with this purchase at all!
+
+product/productId: B000N3528O
+review/userId: A1TYSWEQ83MF1R
+review/profileName: J. Davenport "bankchc"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1239926400
+review/summary: Not what i expected
+review/text: Pretty to look at, horrible to drink. I made some very pleasing centerpieces as these are very pretty when they have "bloomed", but the tea itself is a very earthy taste, not what I would recommend, nor as a tea drinker, anything I would buy again.
+
+product/productId: B000N3528O
+review/userId: A3GOG21INP5GWK
+review/profileName: Carol L. Cate "Carol Cate"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1236729600
+review/summary: Bloomin'
+review/text: The Jasmine tea smelled wonderful. I enjoyed watching it bloom. We had an accident with the first glass pot and it exploded, however later another one did not. These are great for dinner parties or teas.
+
+product/productId: B000N3528O
+review/userId: A1SMWW4OATF5KC
+review/profileName: Amazon customer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1229040000
+review/summary: Great flavor, good show, good value
+review/text: I have tried a variety of blooming tea balls and have settled on these as my choice.  Flavor as good as any I have tried.  The flowers can be inconsistent, but generally fine and enjoyable.  Price is better than any equivalent taste/look balls that I have tried.  Definitely worth keeping around for entertaining or just for cheering up on that cold grey day.
+
+product/productId: B000N3528O
+review/userId: A3RTCYC3G7B0UY
+review/profileName: Peggy E. Goodall "Tea Lover"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1201132800
+review/summary: flowering tea
+review/text: Altho, I'm enjoying the taste of the tea, the flowering leaves alot.<br />The flower falls apart quickly and has no color to it.
+
+product/productId: B002UMJ4GC
+review/userId: A3DNOOK5LWY22Z
+review/profileName: Hermy909 II
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1278460800
+review/summary: Delicious
+review/text: Sunny Maid is hard to describe.  Picture a food that makes your mouth water when you just think of it.  Picture warm, salty, noodles in your mouth.<br /><br />I can't get enough.  Not to mention they don't have any meat in them.
+
+product/productId: B002UMJ4GC
+review/userId: ASJFH03H042CD
+review/profileName: S. E. Enochs
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1346457600
+review/summary: Ingredients?????
+review/text: Just a general comment. A very thorough and complicated page but any vegan or vegetarian knows to check the ingredients. That goes for all these foods. It's not only for ethical reasons but also allergies and diet planning as well. WE  NEED THE INGREDIENTS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+product/productId: B0018CG2RY
+review/userId: A14AZ5HGGKQNYE
+review/profileName: Jennifer "MedWonk"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1311897600
+review/summary: Dog went from flabby to fit
+review/text: My dog had a good result with this food, but it wasn't what I expected. My veterinarian wanted my dog to lose weight because my dog had no indentation at his waist or under his belly.  I tried <a href="http://www.amazon.com/gp/product/B003P9XFV4">Blue Buffalo Longevity Dry Food for Adult Dogs, 24-Pound Bag</a>, but his physique never improved and his weight never went down. For both weight-loss foods, I used a calorie-determination formula instead of the feeding guides. For both foods, the feeding guides on the bags recommended a lot more food than the formula (see formula at end of review.)<br /><br />Many dogs will not drink enough to process a very high protein dog food like Premium Edge (49% protein) even when fresh water is offerred. I suspect dogs may limit their drinking to accommodate a potty schedule.  At  my dog's 2 daily feedings, I add  enough warm water to just cover his kibble. (When I first added the water, my dog had accidents because I feed him after his morning exercise walk.  I had to change his feeding to 30 minutes before his walk.)  I let the food it soak on the counter for 2 minutes, and then I stir in 2 heaping table-spoons of low-sodium canned green beans (10 cals.)  My dog eats the food with gusto and seems to feel full after he eats. He begs less and is happy with small treats. On the other weight-loss food, he was acting full at first but, after a few weeks, he began begging for food right after he ate, even with the water and green beans.<br /><br />I also should say that I walked my dog about a mile per day on both weight-loss foods.<br /><br />When the vet saw my dog 6 weeks after switching to Premium Edge, I though he was going to tell me to go back to my dog's old food because, on my scale at home, he gained 3 pounds.  I was so frustrated.  To my surprise, the vet told me that my dog was in excellent condition.  The weight gain was due to higher muscle mass! His waist and belly were not flabby at all anymore. I guess the high-protein levels in this food are giving my dog what he needs to grow muscle, and the increase in muscle mass enables him to burn the fat more efficiently. He may have been so hungry on the other food because he needed more protein. I am so happy with the results that I am continuing to feed my dog the same food at the same amount indefinitely. He is still very satisfied with his food.<br /><br />If you are not willing to exerise your dog every day, I don't know if you will get this result, but I think it is a fabulous food if you are committed to walking your dog a long way each day, rain or shine.  It is an economical yet high-quality food.<br /><br />At 49%, this is the highest-protein in a dry dog food I have ever seen. Not even <a href="http://www.amazon.com/gp/product/B003P9XGDG">Blue Buffalo Wilderness Grain Free Dry Dog Food, Salmon Recipe, 24-Pound Bag</a>, which is grain-free,  comes close to this food in protein.  To get this much protein, I ordinarily would have to feed wet food.  There was no way I could afford wet food for my dog--it would cost $120 per month to feed my dog a quality, high-protein wet food. For a low-quality (and lower protein) wet food, it would cost $45/month, whereas Premium Edge dry food costs me about $25/month.<br /><br />In addition, this food is high in fibre, grain-free, low fat, and contains omega-3 and omega-6 fatty acids, probiotics, and chelated minerals (which are more bio-available than minerals that are not "chelated" to protein.) At 347 calories per cup, it is it is as low in calories as <a href="http://www.amazon.com/gp/product/B003P9XFV4">Blue Buffalo Longevity Dry Food for Adult Dogs, 24-Pound Bag</a>, but Premium Edge has more than twice the protein and no calories from grains.<br /><br />As with every dog food label I have ever read, the feeding guide on Premium Edge over-feeds the dog.  If I followed the instructions on the Premium Edge bag, I would be feeding 2 1/4 cups per day. According to Waltham Centre for Pet Nutrition, the calories a dog should consume to lose weight is computed as follows: (1)Determine your dog's "ideal" weight with your vet or by looking up your dog's breed (or predominant breed) with the AKC. If your dog ever appeared to be a healthy weight, you can use that past weight as an ideal weight. Convert his ideal weight in pounds to kilograms by dividing the pounds by 2.2. For my dog, 44 lbs over 2.2= 20 (2) Multiply her weight in KG by 30. For my dog 20*30 is 600. (3)Add 70. In my dog's case, 600+70=670 calories per day. This food is 347 calories per cup, so 670/347 = 1.93 cups per day is the most my dog should be fed. The Premium Edge feeding guide recommends 2 1/4 cups per day, which is 781 calories.  A small difference in serving size makes a difference of over 100 calories.  Ironically, my dog is well-above his 44 lb "ideal" weight, but he is at a new "ideal" weight with heavy muscle mass.
+
+product/productId: B0018CG2RY
+review/userId: A5P0G326AZ58X
+review/profileName: Roni Jordan
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1172361600
+review/summary: Beware the corn gluten meal!
+review/text: After reading the product claims and ingredients on this product, I was intrigued by the promise of weight loss, but concerned about the presence of corn gluten meal as the #3 ingredient.  I contacted the company's staff veterinarian, who assured me it was a good source of protein.  With some misgivings, I placed my miniature schnauzer Cicero on this diet to assist in his trimming down about 2 pounds.  We had previously tried Wellness Weight Management, with no weight loss result and too many trips outside due to the high fiber content.  (Cicero had been raised on Innova prior to the Wellness effort at diet).  Not only did my pup not lose weight, he gained a pound in the two weeks he ate this, and developed a yeast infection which presented symptions in his right ear and on his back.  My readings confirm the suspicion that this was a direct result of the corn gluten meal, as he had never before had a food with any corn ingredient.  I immediately suspended feeding this product, sent the company proof-of-purchase verification for a refund, and conducted an exhaustive search of all-natural high protein foods without grains or filler ingredients which I would feed in controlled smaller portions, rather than another "lite" or "weight management" formula.  Am delighted to report that Cicero is doing beautifully on a combination of Innova EVO and Timberwolf Organics, and that Premium Edge refunded my purchase price in full.  To their credit, the manufacturer was immediately responsive to my emails and sent the refund check within a week.
+
+product/productId: B0018CG2RY
+review/userId: A3AT9SK7F5PV15
+review/profileName: recl03
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1325980800
+review/summary: Seems High Quality & Dogs Love It
+review/text: I was looking for a high quality dog food which is affordable for my two dogs. I liked the ingredient list as well as the nutrient content on this brand. I haven't really heard of the brand before but did a search on it and found some favorable reviews. My dogs really love it and it seems like the amount listed on the package to feed (based on weight) seems to satisfy them.  They are not extremely active so I have to watch their weight. Also there seems to be not a lot of waste (yard clean-up) associated with the food which tells me it doesn't have tons of fillers. Overall I think this is a quality food and a great buy.
+
+product/productId: B0018CG2RY
+review/userId: A24U7TCN03OZ7V
+review/profileName: Bellin S. Cox "Bellin"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1324771200
+review/summary: So far so good
+review/text: My dogs really seem to love this stuff, but we're still transitioning from a combination of Blue Buffalo Weigth Control and Purina Beyond.  Not sure if they "love" it just because they're on diets and want more food or if they really enjoy the flavor :)  I switched to this after reading several reviews, including the dogfoodadvisor.com 5 star rating.  We needed a food that had fewer calories per cup so that we could try to give the dogs a little more quantity without increasing the total caloric intake.  I was ready to stick with the Blue Buffalo Weight Control, but decided to go with this instead.  No problems with the Blue Buffalo, they really seemed to like that too, just needed lower caloric density to help us achieve our weigh goals for the dogs.  Each time I up the ratio of Premium Edge to the Blue Buffalo/Purina Beyond mix, their stool gets a little mushy - but this is to be expected as you're adjusting your dogs diet.  I expect it will be a full month before I've fully transitioned them to Premium Edge.  I tried to find this at a local pet store and the best I could do was an offer to special order it for me.  Being able to buy this on amazon and have it delivered straight to the house is really convenient.
+
+product/productId: B0018CG2RY
+review/userId: A2J607ZGW46L8T
+review/profileName: sully
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1311033600
+review/summary: our dogs LOVE it
+review/text: over the years our 4 dogs have put on weight, Dog Food Reviews online rates this kibble their highest rating.  you can smell the salmon in it so our dogs come running when you open the bag and eagerly await filling their bowls. I can feed them less as it is more filling.  they have all lost a few pounds. I have had no problems with switching them to it either.  I highly recommend.
+
+product/productId: B0018CG2RY
+review/userId: A18JDK34MUOQFB
+review/profileName: Kyle Clayton
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333411200
+review/summary: 5 pounds gone!
+review/text: My dachshund was at least 5-6 pounds overweight when we started him on this feed. He gained the extra weight gradually after he slipped a disc in his back (as this breed very commonly does) while jumping off the couch. Extra weight is dangerous for any dog, but especially so for dogs with long backs and even more so for those with previous injuries. Needless to say, he couldn't run very far or for very long without his back hurting, which was complicated by the extra weight, so it would have to be mostly diet that brought his weight down. So, with all that in mind, I clearly had to choose his food carefully. I relied heavily on the advise of [...] (awesome website) and I could not be more pleased with the feed I chose: Premium Edge Healthy Weight. He has lost 5 pounds since November (5 months) and is continuing steadily with controlled caloric intake based on his daily activity. I highly recommend this feed for this particularly vicious combination of permanently limited activity and necessary weight loss. I also recommend the website I mentioned above that helped me choose it, as they are very easy to navigate as well as being highly informative. Now that he has lost most of the extra pounds, I can tell that his back is much healthier than when he had to carry all that excess weight around. He plays longer and runs farther and is just a happier dog all around- a very good thing.
+
+product/productId: B0018CG2RY
+review/userId: A27NCFY0S1Z1EM
+review/profileName: Ellen Ferraro
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: Best dry dog food available for the price
+review/text: I did a lot of research before trying the Premium Edge dog food. This high protein dog food was ranked at the top of just about all dog food commercially available at this price point. My two blue ticked beagles have lost almost 8 pounds total (a little over a year time period). They love the food and I know I am providing the best dog food I can for the money. I mix a little of the Healthy Hips can dog food just to dress it up and the dogs love it. You CAN NOT switch dog foods in two weeks when using this product. It has far more protein than most dogs will ever get in a commercial dog food. I highly recommend a VERY SLOW transition that takes place over a minimum of two months, an eighth of a cup per cup at a time when replacing another dry dog food. It also contains chelated vitamins for easier absorbtion, omega 3, and other essential ingredients for a healthy diet.
+
+product/productId: B0018CG2RY
+review/userId: A3L4XQ2WJHURMU
+review/profileName: Byron Taylor "BTSculptor"
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1337040000
+review/summary: Recall snafu
+review/text: I'm not writing this review of the food itself, which is very good, but about the recall. This product is part of the recent voluntary recall due to potential salmonella contamination. When I get a new bag of dog food, I pour it into a tub that's kept closed near the food bowls, for ease of serving and insurance against my dog getting into the bag. The bag goes into the trash. And for this recall you have to have the bag to be certain that your batch is or isn't involved. Without the bag, nether the manufacturer or distributor will do anything except to tell you, "when in doubt, throw it out." My feeling is that the manufacturer, knowing that I ordered during the time in question, should offer to replace my food, but that was not the case. If this weren't the food my trainer recommends, we would be changing brands.
+
+product/productId: B0018CG2RY
+review/userId: A3V4N2MC1ZDH4X
+review/profileName: Henry A. Rider "Al"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345593600
+review/summary: My Dog Likes it
+review/text: Of course, my dog likes anything that doesn't bite her back. But, her coat is staying shiny and her weight is holding steady. Only problem is that Amazon seems to be out of stock, when I want to order and our local shops don't carry it.
+
+product/productId: B0018CG2RY
+review/userId: AVG3MP5DX97EY
+review/profileName: Susan Cameron
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335484800
+review/summary: Excellent price for high protein grain-free food!
+review/text: We really like this food for our extremely active German Short Hair pointer. She certainly doesn't need to lose weight, but we feed her this because of its high protein content and the fact that it is grain free. She gets 4.5 cups per day and her weight is steady right where it should be. This food is similar to Taste of the Wild, but slightly cheaper and I like that it has 2 proteins both chicken and fish meals. We do supplement with coconut or fish oil a few times a week for some extra fat. This high quality food isn't just for those that need to lose weight!
+
+product/productId: B0018CG2RY
+review/userId: A2UHDIBXT9SKH1
+review/profileName: Grandma Griz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334793600
+review/summary: Great food
+review/text: I bought this food because it was one of the very highest rated foods on good and healthy ingredients for weight control dog food. My dogs are doing very well on it, and they like the taste. Their poop is drier than it was before which makes it easier to pick up, thats a plus, and smaller piles (1 dog is large) so I do think they are using more of this food before it is eliminated. This company on Amazon had the best price on the internet and with free shipping it was a cost saver over all other sites that offered this same brand. I dont see a difference yet in the weight control but have had the dogs on weight cntrol food for a couple years now so hard to tell. Overall I really am happy with this dog food. Shipping was slower than most other sites I have ordered dog food from so dont wait until you need it to order, but I found it worth the wait, next time I will order early.
+
+product/productId: B0018CG2RY
+review/userId: A39E7G5I6WW43S
+review/profileName: A. Skylar "PRIMO Internet Bargain Shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: My Dogs Love This Food
+review/text: Since my dogs are "my children", I read labels on what I feed them, much more closely than on what I eat. I did a lot of research and found the ingredients in Premium Edge to be excellent. One of my dogs would throw up regularly. Since being on Premium Edge for over two years, she stopped vomiting. I tried other top brands of dog food, including Nutros, Merrick and Halo. None of them have matched my satisfaction with Premium Edge.
+
+product/productId: B0018CG2RY
+review/userId: A2OMZ8QPFZQBO4
+review/profileName: Muse
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331856000
+review/summary: OMFG..!!!
+review/text: My chubby female dog lost around 2 inches already. she was getting bigger so fast that she had to get a bigger harness!!!<br />Now she is better. Hope she loses a little more. Also got newman's own organics beef canned food. They're super high in protein and super low in fat and carbs. The dogs LOVE THEM too!! :)
+
+product/productId: B0018CG2RY
+review/userId: A18VEOGBSZ56HG
+review/profileName: Stacy D. Shelton
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300406400
+review/summary: Very good food
+review/text: My dog Maxwell has been on this for about three months and has lost 7 pounds. I mix a half cup with greenbeans (per his vet's instructions) and a tiny bit of Cesar Gourmet Fillet Wet food. He loves it. It fills him up and he is losing weight well.
+
+product/productId: B0018CG2RY
+review/userId: A31DYFMEF2N40C
+review/profileName: K. Moyer
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1302220800
+review/summary: Premium Edge Dog Food
+review/text: Bought to try and get my Chihuahua to loose a little weight.  At first he liked this food, but after a week of slowly switching him to it - he now seems to be eating it reluctantly.<br />This is the best site to buy this item from - quick shipping too.
+
+product/productId: B0018CG2RY
+review/userId: A1N1QO3KXY41P9
+review/profileName: Kirsten Stephenson
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1156032000
+review/summary: Didn't work for my dog.....
+review/text: My dog ate nothing but this food for 3 months. I gave him the recommended amount and everything. Not only didn't he lose weight, he gained 6 pounds!!! Not worth the money or the trouble although he loved the way it tasted. Smells very strong because it has salmon in it.
+
+product/productId: B0018CG2RY
+review/userId: A2SCJ5MH67HNZ0
+review/profileName: Pamela E Watson
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1299369600
+review/summary: Never again
+review/text: We decided to try this dogfood because it was a few dollars cheaper than the Iams weight control that we normally buy.  We have spent FAR more than those few dollars in paper towels and cleaning supplies.  I guess because of the name, we thought it was a premium dog food.  If it is, it is the worst stuff we have ever tried.  I would go back to a cheap brand before ever buying this stuff again.  The dogs may lose weight, but if so, the dehydration from the diarrhea is a much worse consequence.  I expected some digestive problems with the change, but it has been almost 2 weeks, and no change in the problem.  I had to go to the store and buy our usual.  I wont even set this stuff out where stray dogs can get it.  Lesson Learned!
+
+product/productId: B0001GV4QM
+review/userId: A2SJYD2F9DTYU1
+review/profileName: Kenny B
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1169078400
+review/summary: a little smaller thanit looks
+review/text: I expected this assortment to be a little larger but the products in it were of good quality. The vendor had a quick shipping turn-around time.
+
+product/productId: B003MUOOAM
+review/userId: A38FL3JV5OVY29
+review/profileName: GumMan
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1327968000
+review/summary: I used to love this gum.
+review/text: I remember when Stride first came out. I was amazing how long the flavor lasted!<br />With this new 2.0 Stride Sweet Peppermint, it just doesn't last as long. I like the foil wrapper (they don't "sweat" like the old ones). The flavor and consistency are great too. However, the flavor just doesn't last like it used to. So overall this is a step in the wrong direction.
+
+product/productId: B003MUOOAM
+review/userId: A71G2B98HXJWL
+review/profileName: J. Simpson "JKS"
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1302048000
+review/summary: YUK 2.0
+review/text: I hate the NEW and IMPROVED Stride 2.0, which I purchased for years.<br />I Do Not like the foil wrapper, or the taste of the gum.<br />(Flavor DOES NOT LAST.)<br />I have switched to Orbit White bubblemint. YUM!
+
+product/productId: B003MUOOAM
+review/userId: A1T9ZVFPI8YIJI
+review/profileName: J. Parker "onlylvonce"
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1312416000
+review/summary: YUK....I AGREE!!
+review/text: I was hoping this was the original version of Stride Sweet Peppermint like everyone else.  They need to change the picture!!~  The new version is rubbery and loses its flavor very quickly compared to the original.  STRIDE, BRING BACK THE ORIGINAL!!!!!
+
+product/productId: B003MUOOAM
+review/userId: A2TGNHW0ZEJM4K
+review/profileName: dearfach "pk..."
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1303084800
+review/summary: If this is Stride 2.0, this is very misleading
+review/text: This is misleading and Amazon should attempt to correct this problem. This ad shows the packaging for the original Stride Peppermint Gum and the various reviewers state this is actually the NEW version.<br /><br />I was considering ordering this (old) stock as I have tried the new Stride 2.0 and was very disappointed.<br />Bottom line - I won't purchase Stride 2.0 as it has an unpleasant taste and (luckily), the flavor doesn't last.
+
+product/productId: B003MUOOAM
+review/userId: A191ZELSOUDUEM
+review/profileName: src
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1298332800
+review/summary: this is the 2.0 version..not the original sweet peppermint
+review/text: this is the new sweet peppermint stride gum..version 2.0. the item picture is not correct. it is not the original sweet peppermint gum that you can't find anywhere!!
+
+product/productId: B003MUOOAM
+review/userId: A1PI8VBCXXSGC7
+review/profileName: Lynn
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1251590400
+review/summary: Great Flavor...
+review/text: I became a fan of Stride gum the first time I tried their Winterblue flavor; I've since tried their spearmint and sweet peppermint.  I like all 3, depending on my mood, sweet peppermint is my favorite. Other times, I enjoy spearmint the most. Sweet Peppermint tastes like those round, hard, red & white striped candies; only it's a tiny bit sweeter.  The flavor lasts a long time, just as advertised.  I can even blow small bubbles with it!
+
+product/productId: B003MUOOAM
+review/userId: A6OATY5TJ5PC9
+review/profileName: goinggone14
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Better-than-Wholesale Pricing
+review/text: With Amazon Prime and the price of this 12-pack of gum, you'll be out Costco, Walmart, Sam's Club, and BJ's in price.  And you won't have to take yourself to the store, or have a membership card to reap the benefits here.  Definitely a good buy if you like this type of gum.<br /><br />NOTE: This is a box of 12 packs of standard Stride 14pc.gum. If you think it's anything other than that, it's your mistake.
+
+product/productId: B003MUOOAM
+review/userId: A325ESKAA7TLF
+review/profileName: M.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338076800
+review/summary: Stride 2.0
+review/text: I chew this gum pretty much constantly (occasionally other Stride flavours too, but I prefer this one - just the right blend of mild sweetness and mint). I take a prescription that makes me really nauseous and sensitive to smells, and chewing gum helps to combat that. I've tried a ton of different brands, and so far, this is the only one that doesn't give me horrible cramps. I suspect it's because most other sugar-free gums contain maltitol, but anyway, Stride's the only kind of gum I'll buy, particularly this kind.<br /><br />As some reviewers have pointed out, if you order this on here either via Subscribe & Save or as a single order, you'll still get the Stride 2.0 version, not the original Sweet Peppermint (RIP, and they really should change the photo). It's not as good as the original was, but it's still a pretty decent flavour and just as long-lasting. The sweetness does sort of wear off, after a while, and it becomes a bit bitter (but if you're like me and like bitter stuff, it's all for the better!).
+
+product/productId: B003MUOOAM
+review/userId: A2XTW8DLX1BIOQ
+review/profileName: B. Graham "Brandizzle"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328659200
+review/summary: It is good.
+review/text: I don't write a lot of reviews... but I had to try to combat all this hate on my favorite gum.<br />It is true that they changed the flavor with V 2.0. The new wrapper did impart a strange taste on the gum at first. I considered switching for a bit, but being as lazy as I am, I waited it out and they fixed whatever had gone wrong.<br /><br />Give it a go, see if you like it.<br /><br />The flavor lasts just as long as it ever did.
+
+product/productId: B003MUOOAM
+review/userId: A1R2CRPY5W3V9X
+review/profileName: Angela Howard
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1315267200
+review/summary: YUK!!!
+review/text: I loved the original Stride, but they changed the recipe or something and it is now rubbery and loses its flavor quickly.  I hate the new change and won't buy anymore.  I plan to find another brand.
+
+product/productId: B003MUOOAM
+review/userId: A3S4NYLMHUDIPX
+review/profileName: Steve
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312934400
+review/summary: Long Lasting and Tasty
+review/text: The combination of minty refreshing-ness with a hint of sweetness is great, and the gum lasts a really long time. When it finally loses its flavor, it doesn't have that gross empty gum taste like a lot of others. I've chewed on one piece for probably 12 hours, and it didn't get annoying or gross.
+
+product/productId: B003MUOOAM
+review/userId: A2NFBCI9AZR9LY
+review/profileName: mrblue
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1283644800
+review/summary: Bubble gum review
+review/text: It is bubble gum. The flavour is supposed to last for much longer, but to my taste, it lasted no longer than any other gum! End of story.<br /><br />Mrbluenun
+
+product/productId: B002HFNDR8
+review/userId: A3NRVFBA3W4PAK
+review/profileName: GaPeach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319328000
+review/summary: Jasmine Green Tea
+review/text: This is one of the best tasting green teas I have found and I have been drinking it several years now. I can always find it on Amazon at a reasonable price.
+
+product/productId: B001W5QDS0
+review/userId: A3C2RV9UXJPJ8H
+review/profileName: LaurenT
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1277683200
+review/summary: Delicious Selection and Variety!
+review/text: Bought this for my dad so he could experience the taste of Buffalo! Having lived in the midwest where buffalo meat can be easily purchased at every grocery store, I wanted to make sure my dad wasn't missing out. Buffalo meat is so lean and healthy, not to mention VERY expensive, so this set is a good deal overall. He thoroughly enjoyed the sausages with crackers and shared them with many friends, who also enjoyed. A great variety and size - perfect for passing around the camp site!
+
+product/productId: B0002G3UY0
+review/userId: ALV4TW6SWHDUF
+review/profileName: Me "Me"
+review/helpfulness: 14/15
+review/score: 5.0
+review/time: 1130976000
+review/summary: Fresh taste.
+review/text: Great stuff. Not only healthy, but keeps you going for a long time...must be a different type of natural caffeine or something. Just be careful about drinking it too close to bed time or you'll be up very late at night. Anytime I drink it too late, I wind up doing alot of stuff around the house...with bleary eyed pets (i.e., cats) staring at me and wondering when I'm going to sleep.
+
+product/productId: B0002G3UY0
+review/userId: A12L2U4WBA673N
+review/profileName: Naomi M. Watts
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1174694400
+review/summary: "simply the best"
+review/text: This green tea has a very smooth mellow taste. I have tried different green teas and this is the best I have every tasted. I have been ordering this product for a couple of years now. If you love a good green tea, this is the one!
+
+product/productId: B0002G3UY0
+review/userId: ACEFSJL1IP9LW
+review/profileName: Eric Morrison "battleforhealth[dot]com"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1207699200
+review/summary: Wow impressed!
+review/text: I know my green tea, and every single tea that I've had from a bag has been horrible..  So I was really scared to try this, but based on the reviews I gave it a go.  HOLY impressed..  I could swear I'm drinking freshly brewed $100/lb Gyokuro... only slightly more bitter.  Great stuff, and especially for the price!  Hands down the best bagged tea I've ever had!
+
+product/productId: B0002G3UY0
+review/userId: AZ5V828TDDFEO
+review/profileName: lol
+review/helpfulness: 7/9
+review/score: 1.0
+review/time: 1323216000
+review/summary: Beware !!
+review/text: The box has Japanese written on it, but this tea is actually made in China, not Japan.<br />Be aware of the pesticide residue in all Chinese agricultural products, especially tea leaves.
+
+product/productId: B0002G3UY0
+review/userId: A1R02B0G2WENW8
+review/profileName: Katie Bolander "K Bolander"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267920000
+review/summary: Best Green Tea ever!
+review/text: Simply the best green tea ever...always go back! Smooth, never bitter and is a nice mid-afternoon 'pick-me-up' at the office before tennis time! Good stuff. KB
+
+product/productId: B0002G3UY0
+review/userId: AP8D74QD9LUUL
+review/profileName: L. Steiner
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1232496000
+review/summary: wonderful tea
+review/text: I first tried Yamamotoyama green tea at a Japanese restaurant.  I was enjoying it so much, I asked the server if she would tell me what brand it was, and she brought out a box of this tea, and told me that is all they use.  I usually make 2 cups with each teabag, since I like mine mild.  The flavor is wonderful, and the price is good, very good actually for the quality. I highly recommend this product to anyone who enjoys a great cup of green tea.
+
+product/productId: B0002G3UY0
+review/userId: A399F9BH1CPYAS
+review/profileName: biggvsdiccvs
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326326400
+review/summary: Excellent tea
+review/text: Maybe I'm not the greatest tea connoisseur, but I'm pretty picky. This is the best green tea from a tea bag I've ever had. They also have very good oolong. Every tea bag is individually sealed in an aluminum wrapper, which helps to keep it fresh. I just started buying it recently -- I get it at a local store (Berkeley Bowl). It's definitely better than the stuff that costs 5-6 times more.<br /><br />By the way, nether the box nor the packets say where the tea is actually from. Another reviewer thinks it's Chinese.
+
+product/productId: B0002G3UY0
+review/userId: A2NEVZFWO4DZY8
+review/profileName: Allan Chiou
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307491200
+review/summary: Great daily drinker!
+review/text: I've drank a few boxes of Yamamotoyama's green tea and I must say I haven't gotten tired of it yet. It's really refreshing in that it is very neutral tasting with not a lot of `bite' to it (I suppose you can also describe it as bitterness). I've even disregarded the 1 to 3 minute steep time and left the bag in for a stronger green tea and it hasn't disappointed me. The tea steeps to a nice green color (hence the green  , tastes ever so slightly earthy. It's hard for me to give an accurate description to a newcomer, but there are no surprises in this tea. It's just a solid basic green tea.<br /><br />I would say if you're new to green tea, then this is a good starter tea to go with. It's friendly in the sense that you almost can't oversteep it and it's very light, even for a green tea. It's also accessible and `upgradedable,' because once you've had enough of their green tea, they have a wide variety of more expensive premium teas to choose from. If you want a tea to drink on a daily basis, I give this tea my full recommendation.
+
+product/productId: B0002G3UY0
+review/userId: AHV6VC4JZ694L
+review/profileName: M.M.M. "kandilareyna"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1190160000
+review/summary: The best tasting green tea I've found so far
+review/text: I've been drinking this tea for a few years now, occasionally trying other brands for comparison. I keep coming back to Yamamotoyama. I just love the flavor, never bitter.
+
+product/productId: B0002G3UY0
+review/userId: A3SDA1T6DE46U0
+review/profileName: P. Sonthikorn "Kim"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1106352000
+review/summary: excellent
+review/text: I drink this green tea by Yamamotoyama for almost three years already. I am impressed by the quality and the taste.  Highly recommended
+
+product/productId: B0002G3UY0
+review/userId: A269OBKURJ3AHO
+review/profileName: Kiwi "Bigsmoochz"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343779200
+review/summary: Fantastic!
+review/text: Yamamotoyama Green Tea was given to me by a friend when I was trying to ween myself off coffee and I've been drinking it ever since! It's got a slightly heavy, distinct flavor that's hard to describe, but as many other people say, it is extremely smooth. I generally have it with a little honey and it's great. I've also found that when I drink a cup after I eat it helps my (very fickle) stomach lol! Try it and you will most definitely be hooked.  ;)
+
+product/productId: B0002G3UY0
+review/userId: A21CGUF4L350G0
+review/profileName: Sammie "sobayboi"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331856000
+review/summary: Surprising Flavor!
+review/text: This brand of green tea no where in taste like the wonderful and refreshing flavor I've tasted in many Asian restaurants.  There is nothing fragrant or enjoyable about this tea...the strange, dull flavor is indescribable.  I'm going back to my Bigelow faves.  What a wasted purchase!
+
+product/productId: B0002G3UY0
+review/userId: A2SNRW54B9OS5S
+review/profileName: Michele C.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1307059200
+review/summary: Yummy!
+review/text: I was looking for an authentic tasting green tea.  I lived in Japan for a while, so I really wanted something that tasted like "home."  This did it.  Very good.
+
+product/productId: B0002G3UY0
+review/userId: A24TP8T058847N
+review/profileName: Enoch "Bryan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299628800
+review/summary: Best Green Tea
+review/text: Yamamotoyama is the best sencha green available in individual packets. For taste and quality it beats anything else I have tried.
+
+product/productId: B0002G3UY0
+review/userId: A2DEA5W0RU2LXR
+review/profileName: BadAndy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299369600
+review/summary: A great green tea
+review/text: I had just enjoyed this tea at a restaurant this evening. I enjoyed 6 or 7 cups with my meal. It does not have the bitterness that most green teas have, after leaving the bag in too long. I like to leave the bag in to get as much from the tea as I can, for the health benefits, of which there are many. I believe everyone should drink green tea, and this one tastes great. Maybe a slight bitterness but not much, it was a very smooth, fresh tasting green tea. It had that classic green tea flavor that I enjoy. As I don't care much for black or oolong teas. This was one of the best brand name green teas that I have ever had, so much that I looked it up when I got home and am now posting this review.
+
+product/productId: B0002G3UY0
+review/userId: A26U1LJ801TMUT
+review/profileName: R. Valdez "Rosie, NJ"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263081600
+review/summary: Love it...
+review/text: I had this tea at a Japanese restaurant and loved the flavor. I didn't feel like I needed to add anything to it. Every other brand I have tried has a bitter taste. There is just no comparison; this is the best green tea I have ever tried.
+
+product/productId: B0002G3UY0
+review/userId: AVLALLFRML1D4
+review/profileName: Tanya Floyd
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1276041600
+review/summary: Yamamotoyama Tea Bags
+review/text: Our son-in-law, Japanese by birth and heritage, strongly recommended this brand of tea to us for its overall excellence.  We have found it to be delicious, clear and just right whether served hot or cold.  It is now our substitute for sugar-laden breakfast drinks.
+

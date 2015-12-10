@@ -1,0 +1,1143 @@
+product/productId: B002H2PHN4
+review/userId: A3AK1STU9I1A5I
+review/profileName: Viklet
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Crispy Pleasure
+review/text: I don't eat chips very often so this was a wonderful treat.  They aren't as greasy as they used to be. I enjoyed them very much.  I was impressed with the size of the can also.
+
+product/productId: B000LKVAHQ
+review/userId: A2M7SK8LPHUKPQ
+review/profileName: Yuli "Yuli"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1271376000
+review/summary: Healthier than Cheerios
+review/text: I've been looking for a healthy snack and breakfast cereal for my toddler for a long time. I want something that's high in calcium and other essential nutrients, yet low in sodium and sugar. Babies have more sensitive taste buds so something tasteless to us can be tasty to them. Actually, I still wish these puffs are a little less sweet though although it's already considered as low in sugar. I've bought Happy Baby Puffs which are great and my son loves them but they are too airy to be eaten as breakfast. I think Teddy Puffs are great! They are not that hard. If your child eats Cheerios or crackers, she will be okay with this.
+
+product/productId: B000LKVAHQ
+review/userId: A3FY1N4L2VI3NS
+review/profileName: Spike Likes
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1176163200
+review/summary: Teddy Puffs Rock!
+review/text: It may seem like a case of Teddy Puffs is a lot to buy in one batch, but you'd be surprised how quickly the boxes disappear. Teddy Puffs are awesome because it gives my son a mini boost of nutrition, they're not overly sugary and he can eat them for breakfast or snacks. I highly recommend them for the "organic savvy" family.
+
+product/productId: B000LKVAHQ
+review/userId: AQQUBX8WLXPKP
+review/profileName: Y. Walthour
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1176076800
+review/summary: Teddy Puffs
+review/text: My son loves this cereal he's been eating it since he's been about 6-7 months old, they are big so you need to break them up but it's easy enough to do with your fingers. We always used this as a fall back when he didn't want to eat. It's great cause it's not too sweet and even a nice snack for mom!
+
+product/productId: B000LKVAHQ
+review/userId: A37DKLRBB2ZK5Q
+review/profileName: V. Young
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1173398400
+review/summary: For toddlers, not really.
+review/text: This cereal is definitely not for toddlers who are not expert chewers. They are hard and bigger than cheerios and they don't have much taste (they taste like grain). You are much better off buying apple cinnamon cheerios, they are cheaper and your toddler won't choke on them as fast as they would on this cereal.
+
+product/productId: B00020V5NE
+review/userId: A21EJRCVM24UM1
+review/profileName: J. Shinn
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1176163200
+review/summary: Best Belgian Chocolates I have had
+review/text: Obviously pricey outside of Belgium (or Europe for that matter) however the quality is unmatched.  I bought these for my wife on Easter instead of the traditional (and dare I say highly repetitive) chocolate box brand.  First, the milk chocolate is obviously of higher quality and retains its creamy taste even if regrigerated.  The fillings and cremes are superb.  The only problem I have now is that my wife wants them on every insignificant occasion now!
+
+product/productId: B00020V5NE
+review/userId: A3SZ8QJGMDAYMD
+review/profileName: L. Lagrone-Long
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1190332800
+review/summary: Wonderful Chocolates
+review/text: Leonidas is a wonderful brand of chocolate and previously hard to get in the US if you didn't have a friend flying to Belgium every week. I found these on Amazon and now my daughter thinks I'm the best mom. They are made without preservatives so they need to be well cared for and not kept around too long. That is not a problem since they taste as great as they do. This package offers a variety of flavors and types to try as well. We really enjoyed having it around. Too bad it didn't last very long before it was gone.
+
+product/productId: B00020V5NE
+review/userId: A3S93NIVZYK0LE
+review/profileName: Wayne A. Rupert
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1170892800
+review/summary: mmmmmmm!!!!!!!!!!!!!!!!
+review/text: "oooooooooo mmmmmmmmmmmmmmm oooooooooo", Is all I heard for two days after giving her these candies, Thank You.
+
+product/productId: B00020V5NE
+review/userId: A7SK91SE8UZE6
+review/profileName: jasonstuff "jasonstuff"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1209254400
+review/summary: AWESOME - Worth It!!!
+review/text: I ordered this a little worried that the cost would not equal the product.  I ordered them and got them in a day and they were AWESOME about to order some more.  I would highly recommend the experience for you or as a gift for someone.
+
+product/productId: B00020V5NE
+review/userId: A1K5EGX8HBO34M
+review/profileName: Tyson Owen "UberOwen"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1209081600
+review/summary: Delicious!
+review/text: To be honest I wish I had more to say about these chocolates but my Girlfriend ate all of them up before I had a chance to try very many! Far better then any of the Godiva chocolates I've ever had.
+
+product/productId: B00020V5NE
+review/userId: A3QBVDZY4B6ARY
+review/profileName: E. Amos "savyshopper"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1250121600
+review/summary: My friend loved the chocolate
+review/text: This was a gift for a friend recovering from surgery.  It was delivered quickly and she said the candy was delicious.
+
+product/productId: B00020V5NE
+review/userId: A3B7M0C5RAD1CV
+review/profileName: Justin
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1245369600
+review/summary: Excellent Milk Chocolate Sampler
+review/text: Ordered during the day, got it during the next morning.  Excellent quality, and well-packed.  A little pricey, but don't eat it like Hershey's, and savor it.
+
+product/productId: B00020V5NE
+review/userId: A13AI70DYO33F
+review/profileName: Griffo
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1201564800
+review/summary: The Best Chocolate Around
+review/text: This is without doubt the nicest chocolate I have ever had. I had it years ago and was very pleased to see it now available through Amazon. It turned up in the US the day after it was ordered very nicely packaged and delicious. The packaging is quite substantial and insulated. Great service from Amazon and Leonidas.
+
+product/productId: B00020V5NE
+review/userId: A1GQIYMVCG9LY4
+review/profileName: J. Gerhardt "design engineer"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1303344000
+review/summary: EXQUISITE CHOCOLATE!
+review/text: This is the best Belgian Chocolate I've tasted. The shipping to the customer is first rate. Defineately give them a try. I prefer these to Gopdiva chocolates. Yes, they cost more than drugstore chocolate but they are well worth the cost. The packaging is as pleasing to the eye, as the chocolate is to the palate. The Belgian's sure know their chocolate!
+
+product/productId: B00020V5NE
+review/userId: A1YGES74N0BFGN
+review/profileName: Butterfly Johnson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1260316800
+review/summary: Awesome chocolate. Great company
+review/text: I have received the chocolate as a gift from someone who brought it from Belgium. I ordered this for my husband and the company accidently sent Milk Chocolate when I had ordered Dark Chocolate. I called the company and explained the error. They sent the dark chocolate overnight to correct the problem and let me keep the milk chocolate. I was very happy with how they handled the error. I would definitely buy from them again.
+
+product/productId: B00020V5NE
+review/userId: A3JC0IHV68YYW7
+review/profileName: J. Fenwick
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1200096000
+review/summary: Leonidas Belgian Chocolates
+review/text: Fresh, rich and delicious Belgian chocolates.  Definitely a winner and we will order more.
+
+product/productId: B00020V5NE
+review/userId: A1FVRSK10HBBFO
+review/profileName: Mark S. Benson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1167782400
+review/summary: Great gift
+review/text: I sent these to my mother for Mother's Day and they were a big hit.
+
+product/productId: B00020V5NE
+review/userId: AKA96QHZCJWH0
+review/profileName: jeannie16
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295740800
+review/summary: So Decadent, So Worth It!
+review/text: Nothing can beat Belgian Chocolate and Leonidas is my favorite brand.  I'm so glad<br />that I didn't have to travel to Brussels to get them.<br />Just put one in your mouth, let it melt and OMG!!!
+
+product/productId: B00020V5NE
+review/userId: ASXLGO25JNM0P
+review/profileName: vickiesue
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286409600
+review/summary: OMG
+review/text: I have never had better chocolate in my life! My box is only two days old and it is 75% gone. My husband helped. I really don't know if this is a blessing or a curse.....normally I have better self control and we are thin and healthy people who never over-indulge. But it's just that good.
+
+product/productId: B00020V5NE
+review/userId: A2976AWBIKJGO3
+review/profileName: P. Schutt
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1237680000
+review/summary: These are the best chocalates.......
+review/text: My family is from Belgium and this was our first and last purchase on every trip and also took up most of luggage space on the way back.  This is the chocolate that most Belgians buy (vs. Godiva, Nuehaus, etc.).  I have not ordered through Amazon yet, but I can't wait.
+
+product/productId: B00020V5NE
+review/userId: A14L3AY4DMNNHZ
+review/profileName: Joanie Costlow
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233446400
+review/summary: Creamy & Rich. The Best Chocolates Around!
+review/text: I have been receiving these chocolates from my significant other for years now. Every holiday I get a new assortment. They are to die for. Milk chocolate is my personal favorite but I have tried the other flavors and types and they are all wonderful. The types of chocolates range from creamy filled bites to solid deep flavorful chunks and include lemon, coconut, orange, milk chocolate fudge, rice crisps, among others.<br /><br />Worth the buy by far!
+
+product/productId: B00020V5NE
+review/userId: A2SDAZNXUJHS3C
+review/profileName: Haruspex
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1229472000
+review/summary: Amazing chocolates!
+review/text: As with other reviews I was worried about spending so much on chocolates.  I was entirely taken back at how amazing these chocolates were!  I'm not huge on the chocolates filled with items (Some coconut and one that tasted like banana).<br /><br />One thing I will mention.  If you are ordering this as a Christmas present, you better hope that you get the box before it's seen by the person you are giving it to!  On the outside of the box it clearly says "Leonidas Belgian Chocolate".  That was an Xmas present ruined but the chocolates were still enjoyed.  Also, and I don't know if this was just my box or all of them, but you don't get a "map" as to what chocolates are filled with what.  This means that if you don't like a certain chocolate you have to gently bite into a piece that you take and hope it's not that certain flavor :)<br /><br />Overall I am very satisfied with the purchase.  The box looks great that the chocolates come in which adds a nice "Fancy chocolate" touch to it.  They were also packaged very well so nothing was damaged in shipping.
+
+product/productId: B00020V5NE
+review/userId: A2DJ2DQJY1GODD
+review/profileName: MC
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1193788800
+review/summary: Finest milk chocolates you can find !
+review/text: If you don't like it so sweet, I would recommend the dark assortment. Try also Leonidas Gjanduia, the best of its kind !
+
+product/productId: B00020V5NE
+review/userId: A14Z5K54JVP3VJ
+review/profileName: Jitendra C. Mathur
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1227312000
+review/summary: exotic taste
+review/text: My grand children loved these chovlates and want more. I am glad that I selected Leonidas Belgian Chocolates
+
+product/productId: B00020V5NE
+review/userId: A1AGBGWAQ0CKXY
+review/profileName: B. luttrell "coffee lover"
+review/helpfulness: 1/3
+review/score: 4.0
+review/time: 1212537600
+review/summary: satisfied customer
+review/text: Had a perfect transaction, with order arrival just as stated. Happy to order again. Thanks
+
+product/productId: B00020V5NE
+review/userId: A3D70N7PMKE3M1
+review/profileName: K. Bentley
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1274227200
+review/summary: Awful
+review/text: I am really disappointed with this chocolate. It tasted cheap and not worth $5, let alone the $30+ I paid for it. Lindor Truffles would have been better for my mother for mother's day, rather than this cheap, gritty junk. Don't waste your money.
+
+product/productId: B00020V5NE
+review/userId: A30G94UTBIKMU8
+review/profileName: Cathleen D. Macauley "fizzwing"
+review/helpfulness: 1/14
+review/score: 1.0
+review/time: 1243900800
+review/summary: ooops!
+review/text: Leonidas Belgian Chocolates: 1 lb Milk Chocolates Assortment<br /><br />Well...they sounded great to me! The reviews were great too! Off they went for Mothers' Day (shame on me). The "giftee" said they were " the most ***awful chocolates I've ever had! I tried several...no carmels, no creams, no nothing! Just a pound of solid chocolate...don't ever give me anything else unless I ask for it!" She needn't worry...I'm done.
+
+product/productId: B0049I4JPG
+review/userId: AJUEAE35LR20G
+review/profileName: 222
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: My little guy loves these...
+review/text: Can't find these in the local supermarkets or walmart anymore, so when I saw them here I was happy as my 6 year old has been requesting these non-stop since christmas.
+
+product/productId: B0049I4JPG
+review/userId: A3PTJSUQFRNLFW
+review/profileName: KLWixxie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1294444800
+review/summary: Alright for the kids
+review/text: I bought these for my coworkers but I wasn't a huge fan of the flavor (kind of chalky, not like their cheaper, more colorful "rainbow candy cane" counterparts.). Most of them went to waste. These are best suited to kids with undiscerning palates, they will appreciate the colors and the sweettarts name.
+
+product/productId: B0006G5PGC
+review/userId: A14WUHTU4MRA2B
+review/profileName: Susan E. Piland
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1347321600
+review/summary: double the price
+review/text: I had this ordered for drop shipment. After the first bag, which my dogs were not wild about, I got a notice that the price was doubling. I canceled immediately. I might have tried to convince my dogs to eat this food at the first price but certainly not at double. I can get what they love at the grocery store for that kind of money.
+
+product/productId: B005C2KH4K
+review/userId: A3FX8HSQELVV90
+review/profileName: angie6461
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1337644800
+review/summary: WAGGIN' TRAIN Killed my dog
+review/text: On Christmas night, 12 hours after eating one WAGGIN' TRAIN BIG BLAST Pork Skin Twists with Chicken Liver Center Dog Chews, my healthy, nine year old lab mix became violently ill. Three weeks and thousands of dollars later, on January 15, 2012, I had to have my best buddy euthanized. I'm heartsick to find out that I'm the one who killed him by giving him the tainted treat. Don't buy any Waggin Train treats or anything other dog treats made in China!!!
+
+product/productId: B000F498Y0
+review/userId: A256EDQ9A3DDTK
+review/profileName: V. Friday
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1235779200
+review/summary: Store in Frig or Freezer
+review/text: I really like these. I throw a handful into items I cook and it adds great tomato flavor and color. I do keep the packages in the freezer or refrigerator, so haven't had the 'bug' problem mentioned. For me, no sulfur dioxide is a big plus.
+
+product/productId: B000F498Y0
+review/userId: A1YLOZQKBX3J1S
+review/profileName: R. Lee Dailey "Lee_Dailey"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1231632000
+review/summary: good - BUT ...
+review/text: howdy y'all,<br /><br />update = 2009-11-15<br /><br />i received my new order and i've a few problems ...<br /><br />[1] they are NOT from mexico<br />there's an over-sticker that says "turkey" on each packet and the carton also says the tomatoes are from turkey. not a problem except that the product description here says "mexico" and that's wrong.<br /><br />[2] they taste ... wrong.<br />the previous order was from mexico and tasted slightly sweet. that's as _i_ expect with dried tomatoes. the NEW batch, however, tastes distinctly _salty_! there is no salt listed on the packet, just sodium. unfortunately for me, i am on a restricted diet and can't afford to eat any more salt than i must. anything that tastes salty - quite salty, in this case - must be presumed to have salt in amounts that i can't afford to eat.<br /><br />[*sigh ...*]<br /><br />so i will need to give this batch to someone who will eat the tomatoes even tho they taste salty instead of slightly sweet.<br /><br />i'm going to try to contact the source and see what they have to say, but i doubt i'll be buying this product again. fooey!<br /><br />take care,<br />lee<br /><br />********<br />original date = 2009-01-11<br />howdy y'all,<br /><br />this is a good product. taste's good, easy to use, [mostly] predictable and priced pretty well, too.<br /><br />_however_ ... the last two 12-packs eventually developed moths and moth grubs. ick! [*grin*] i had eaten three of the packets already and when i when to get the next one i found grubs [worms] and moths in the bags. NOT all of them - one packet in the 2nd box seemed ok.<br /><br />so, lets see ... out of 21 packets there was ONE that had no [visible] bugs. i had already eaten 3 packets.<br /><br />how many bug eggs did i eat? [*grin*]<br /><br />now, i KNOW that one of the gotchas with organic and/or all-natural foods is the higher loss rates to pests. so it's not a _total_ surprise to find bugs hatching out.<br /><br />it is however, unacceptable.<br /><br />i admit that i had left the boxes setting in the pantry for more than three months. i was in for another round of chemo and just didn't eat anything that wasn't on my approved foods list. still, the fact that ONE packet had no bugs - and that NO bugs were loose in the box that held the packets - seems to mean that the bug eggs were on the product before i got it.<br /><br />i suppose i'll try this product one more time. but it NEEDS to be store-able for a few months for me to be able to buy it in the rather large quantities it is sold in.<br /><br />take care,<br />lee
+
+product/productId: B002K68356
+review/userId: AVM803OWSU34S
+review/profileName: stevenpeter
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1317772800
+review/summary: NOT GOOD NUTS
+review/text: I bought these with the hopes they had a great flavor and texture. They do not. the nuts are soft and don't have the usual crunch of an almond. If I could return them, I would.
+
+product/productId: B000B7PNJ0
+review/userId: ARWHG2W3DQ25X
+review/profileName: Juan Jorge Villarreal "Chacho"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1137110400
+review/summary: A piece of Heaven in your mouth
+review/text: Expect the unexpected. You'll be amazed when one of these little balls of organic guava jelly covered with costa rican chocolate touch your tastebuds. Just try one and I assure you'll eat the whole bag.
+
+product/productId: B000B7PNJ0
+review/userId: A3O478Y73VA3CS
+review/profileName: FooBar
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1193529600
+review/summary: Yum yum - great stuff - a bit expensive
+review/text: Really tasty, yummilicious but a bit expensive. Probably costs 2 or 3x the price in Costa Rica.
+
+product/productId: B000LKYP96
+review/userId: A16WRLNKZ36QBD
+review/profileName: Cuckoomamma
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1310256000
+review/summary: Delicious, Pretty and Great Price
+review/text: As I mentioned in my other review of Brown Family Maple Candy, my children are allergic to all other types of candy.  Maple candy is the only candy they can eat.  Naturally, we need a less expensive source so that we have it on hand for holidays, birthday parties and treats.<br /><br />This candy seems fresh.  When you bite into it, it's soft and crumbly inside, not hard like some older candy.  It has a lovely consistency, and is delcious.  We also appreciate that it is 100% maple candy, not like some of the other brands which are a mix.<br /><br />The way that this is packaged allows our girls to eat one piece in a neater fashion than when we give them the whole maple leaf and either try to cut it up or allow them to eat half.<br /><br />The only room for improvement would be offering this as a subscribe and save option the way amazon did previously with the maple leaf design.
+
+product/productId: B005GLJDZ6
+review/userId: A1D27BCSYV7VWH
+review/profileName: C. James
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1325721600
+review/summary: Still not like I remember but a lot better than the last batch
+review/text: I have been on a hund for real old fashioned butter mints and I am starting to think those melt in your mouth, buttery, creamy mints are more of a memory that a reality. I tried one of the other brands here and boy were they bad.<br /><br />These are close, you get they buttery taste and they do melt but not in the smooth way and there is just a little off in the taste, very little and thus the 4 stars, the other one got 1 star and would have been -1 if available.<br /><br />If you are looking for the butter mint circa 1960'sih then you these might be what you are looking for, in the mean time the seach continues for the perfecdt butter mint :)
+
+product/productId: B005GLJDZ6
+review/userId: A1QZHSA9EN74X5
+review/profileName: nalissa
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1327708800
+review/summary: Great mints, but pricey.
+review/text: These are very good. They have that old fashioned buttery taste, and I don't find them "crunchy" like some other reviewers did. My ONLY reservation is that they are insanely expensive.
+
+product/productId: B003ZDYPPU
+review/userId: A3HLU25VHRXIDJ
+review/profileName: Margie Herbert "booklover"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334707200
+review/summary: just as Dr Oz mentioned except for one thing
+review/text: I think the seeds that are not ground are better for you.  These are good and certainly as good value.
+
+product/productId: B005NYXE1K
+review/userId: A3D0OTL9OYYHFT
+review/profileName: C. Lutz
+review/helpfulness: 354/383
+review/score: 1.0
+review/time: 1199145600
+review/summary: Not Satisfied!
+review/text: I ordered the 50's Gift Basket for my parents.  I ordered it a couple of weeks before Christmas and the package did arrive.  However, when I asked my Mom how she liked it, she told me that there were a few items missing.  The packing slip had listed what all should be in there, and the following were NOT there: charms assorted squares,smoothie peanut butter cup, cherry mash, chocolate cigarettes, walnettos.<br /><br />I sent an email to Hometown Favorites on 12/17/07 telling them that these items were missing and requested they satisfy my order.  As of today, 1/2/08 I have not heard back from them.<br /><br />Needless to say, I will NOT purchase anything further from their company...and would suggest you do the same!
+
+product/productId: B005NYXE1K
+review/userId: AVQ6NL84RH3WS
+review/profileName: NY mom
+review/helpfulness: 76/78
+review/score: 3.0
+review/time: 1245196800
+review/summary: Eh.... it was okay
+review/text: This product was okay.  The Moon-Pie was pretty bashed up and some of the taffy-like candy was VERY hard, maybe stale.  I bought it as a gift for the nostalgia, and that is pretty much all it was.<br />Buy it for someone from the 50's, but don't expect really good, fresh, candy.
+
+product/productId: B005NYXE1K
+review/userId: A3UTK9FHYS23EW
+review/profileName: J. L. Huttemann-kall "jen_h_k"
+review/helpfulness: 142/152
+review/score: 3.0
+review/time: 1198540800
+review/summary: Sentimental Gift
+review/text: Overall it is a neat box with some great candy that brought back many memories for my parents.  Some of the pieces seemed a bit stale and hard and the moonpie was basically crushed, though we've only eaten a few pieces so far.  You couldn't find this type of candy anywhere so it is a great concept to bring all of it back again in one box.  My biggest complaint was the ground shipping which was over priced in my opinion.  I'm not sure how long this company has been doing it but it appears they have some things to correct in order to succeed further.  I noticed too that the candy was all in a jumbled mess.  I'm not sure a woman would have organized the box in that same fashion.  So please try to correct these issues and I will buy from you again.  Thank you.
+
+product/productId: B005NYXE1K
+review/userId: A2143RO6FTK3X3
+review/profileName: Kckgrrl
+review/helpfulness: 26/30
+review/score: 5.0
+review/time: 1149811200
+review/summary: Fun gift
+review/text: This a fun idea.  Most of the candy is available at local stores, but it is nice to have someone else put it all together for you.  The box is cute with the warning sticker on top.  My parents loved it and reminisced for days.  They got a kick out of how much their little grandchildren loved the candies.
+
+product/productId: B005NYXE1K
+review/userId: A3LOXMSRJO6RFV
+review/profileName: Mr. Merlin D. Wilkinson
+review/helpfulness: 17/19
+review/score: 2.0
+review/time: 1259539200
+review/summary: Waste of Money
+review/text: A tiny bit of candy for the money.  Part of the candy was hard like it had been stored for a really long time.  I gave it as a gift to my parents and they were extremely disappointed.
+
+product/productId: B005NYXE1K
+review/userId: AHPADN5UXUVV9
+review/profileName: C. fortner
+review/helpfulness: 12/13
+review/score: 4.0
+review/time: 1231632000
+review/summary: Wish it was as pretty as the picture
+review/text: I purchased this item for my grandma this last Christmas. She thought it was pretty neat and it brought back some memories for her. Overall it's a great concept and for the right person it's a great gift. I was a bit frustrated with the contents being a mess and some of the candy packages were opened or the candy was smashed to powder. A little packaging improvement (and some bubble wrap or foam) would go a long way!
+
+product/productId: B005NYXE1K
+review/userId: AQX5HSFKGQVVE
+review/profileName: C. Chapman
+review/helpfulness: 11/12
+review/score: 4.0
+review/time: 1178668800
+review/summary: What a fun gift idea!
+review/text: My dad turned 70 this year- what do you buy a man with everything- how about a box of candy from the 50's!  It was fun to see my mom and him looking at all the candy and remembering it with fond memories.<br /><br />A great gift idea!
+
+product/productId: B005NYXE1K
+review/userId: A2CL818RN52NWN
+review/profileName: stewart  L
+review/helpfulness: 37/47
+review/score: 5.0
+review/time: 1133308800
+review/summary: A great gift basket of fun for those who remember the 50's
+review/text: This decade candy basket makes an excellent gift for mom dad yourself,or your friends of all ages..These will go fast. You cannot go wrong.I just purchased this as a christmas gift...5 star rated.
+
+product/productId: B005NYXE1K
+review/userId: A1KLA8P0H0KT6Y
+review/profileName: walter
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1280534400
+review/summary: hot weather
+review/text: not an item to buy in summer.most chocolate products melted but still a nostalgic candy suprise
+
+product/productId: B005NYXE1K
+review/userId: A2KQ6GBBSN3D77
+review/profileName: Flavia E. Banu
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1275350400
+review/summary: Swwwweeet!
+review/text: I bought this for my partner's 60th birthday. Of course, she had fun seeing all this stuff again - though she said that some of it does not look familiar, probably because it wasn't marketed in NY. Our 11 year old son also enjoyed picking out his dessert from it every day and so did all our elderly friends! I found it funny that all this candy has Nutrition Facts on it, something it didn't when it was first manufactured! We called it the box 'o fun, we loved it so much. A lot of the stuff has peanut butter in it so be careful!
+
+product/productId: B005NYXE1K
+review/userId: A1EH2S92FHWZRP
+review/profileName: Just a guy
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1293926400
+review/summary: Lots of quality candy, but not great as a "gift basket"
+review/text: I sent this as a get well gift.  The candy was great (a few of the candy cigarettes were broken), but most everything was still fresh and good quality.  My gripe is that it looks like this arrives in a fancy cigar box type of presentation like a gift bag.  It isn't.  It is simply a box with a few fliers inside with facts about the 50s etc.  Be sure to add giftwraping if you want this to look like a gift.
+
+product/productId: B005NYXE1K
+review/userId: A12J23GTINM68
+review/profileName: eli eli oh
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1294099200
+review/summary: Nice easy gift
+review/text: Is it a great product or great value? No. Did my girlfriend's parents love it anyway? Yes. It seems like a thoughtful gift since it's specific to the person receiving it. So, if there's a difficult someone on your gift list that's around 50-60 years old and has a sweet tooth, you could do worse than this box of goodies. Just make sure you know how old the recipient is. Don't want to go offending people with your gifts.
+
+product/productId: B005NYXE1K
+review/userId: A14IHGFLRVAIUI
+review/profileName: abeppu
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1244332800
+review/summary: My parents were very nostalgic
+review/text: Disclosure: I never saw this product.  It was a gift for mother, who lives in another state.  However, she, my father, and her friends apparently spent quite a while reminiscing over the boxes contents....which was kinda the point of sending it.
+
+product/productId: B005NYXE1K
+review/userId: A1VMGTCTZUKHV6
+review/profileName: Bulldog
+review/helpfulness: 5/6
+review/score: 2.0
+review/time: 1292371200
+review/summary: Big Disappointment
+review/text: My sister received this as a birthday present.  I could have put together a better basket by shopping in the candy section at Cracker Barrel.  Save yourself the cash and put together something yourself.  It will be much better quality.  Some of the candy was stale and some items were crushed.  Great idea but poorly put together.
+
+product/productId: B005NYXE1K
+review/userId: A2OHAD17QQ4B4J
+review/profileName: gypsygirl
+review/helpfulness: 9/12
+review/score: 5.0
+review/time: 1171929600
+review/summary: Tons of candy, tons of fun!
+review/text: This is a really fun gift to give, and better to get!<br /><br />You get a bunch of childhood favorites that you will enjoy eating as much as you did when you we were a kid. I bought a box to share with my kids the kind of candy I used to eat, they were as excited as I was to eat it!<br /><br />I'd recommend choosing your box more by content since I found the 50's box closest to my childhood fav's, even though I grew up in the 70's!
+
+product/productId: B005NYXE1K
+review/userId: A39G12JD41N65D
+review/profileName: Jeanne Lynn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323993600
+review/summary: A Very Nice and Cute Gift Idea!
+review/text: I bought the Hometown Favorites 1950's Nostalgic Gift Box for my candy-loving teenagers. When the box was delivered yesterday, I couldn't resist taking a peek before I wrapped it. The box was full of great old-fashioned candy. I also couldn't resist nabbing a candy bar from the box to eat myself. There was much more candy in the box than I expected; the majority of the candy was big, full-size bars. I thought the display box was really cute too. The candy was packaged great, shipped fast and received in perfect condition. I was extremely pleased with the candy gift box and ordered several more to give to other family members. This is an incredible gift!
+
+product/productId: B005NYXE1K
+review/userId: A2IZBKHG7AGEFC
+review/profileName: Moonie
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1322870400
+review/summary: Nice memories but not much
+review/text: Was pleased with the quality but not the quanity. There really isn't much included in this box especially for the price and I even bought as a lightning deal so didn't pay as much as usual. Very overpriced for what's included I could put the box together easily (candy isn't that hard to find even though old) for 1/3 of the cost.
+
+product/productId: B005NYXE1K
+review/userId: AY9R0STF9I0P7
+review/profileName: lnosal717
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1295222400
+review/summary: Great gift!
+review/text: I had this candy box shipped to my mother for a birthday gift. She was totally surprised that something like this existed and enjoyed it very much. I don't think all of the candy was the freshest or they liked all the types, but it definitely had a good selection and brought back memories!
+
+product/productId: B005NYXE1K
+review/userId: AX0J7BZVE91YL
+review/profileName: Pawinesiu "pawinesiu"
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1324944000
+review/summary: If I could give no stars... I would, but it's not possible.
+review/text: I gave this as a gift to a friend in my office. She and I love this kind of stuff and I was very excited to send it to the office so we could open it together. The packaging is very cute, including the booklet about the 50's. We were going through the candy, yelling and screaming about how we remember this one and that. Then we got to the moon pie which not only looked crushed, but it also looked old. Then we checked the other candy like the MaryJanes and those were hard and inedible. Though we checked the expiration dates on the candy that had them, and they were within the dates, they definitely were not fresh and the enthusiasm for this product quickly faded knowing we weren't going to be eating any of it. I am very disappointed in this item. Especially because it's packaged as a gift to give to someone. I would not recommend sending this to anyone because the quality of the candy is not acceptable. To make matters worse, this item is not returnable.
+
+product/productId: B005NYXE1K
+review/userId: A3A1HAO5KMFX9Q
+review/profileName: V. Quackenbush
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1238716800
+review/summary: Great gift for a Candy lover
+review/text: ASIN: B0001VSA2I We bought this gift for our friend who LOVES candy and was celebrating his 60th birthday-the box was heavy and full of a variety of candy from his youth.  He enjoyed not only eating the candy but,  the memories that went along with each piece. We will definitely order this again.
+
+product/productId: B005NYXE1K
+review/userId: A2SVXO3QSK3CBO
+review/profileName: Darcy Shaw "0xy02"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1231459200
+review/summary: Such a fun gift!!
+review/text: I purchased this fun box of memories for my husband's 68th birthday. I am 58. We spent about an hour going through the box and examining and talking about each candy. He remembered some, I remembered some and we both remembered a lot of them. I'm not sure what we'll do with all of the candy when we're finished sharing the fun with our friends......maybe we'll have to eat it :-). All seems very fresh.
+
+product/productId: B005NYXE1K
+review/userId: A26BOU6FYGTI0Q
+review/profileName: Kayla Ludvigson
+review/helpfulness: 5/7
+review/score: 5.0
+review/time: 1199750400
+review/summary: 50's decade box
+review/text: This gift set was incredible. The candy was all fresh and my dad LOVED it! He said it was the best gift I had ever given him. He spent hours going through the box and telling us stories of when he was a kid...it was really fun and I recommend this to everyone!!!
+
+product/productId: B005NYXE1K
+review/userId: AIHJX6YNQ681Z
+review/profileName: Gypsymoss
+review/helpfulness: 7/10
+review/score: 5.0
+review/time: 1200096000
+review/summary: Big Hit!
+review/text: I gave the '50s basket to my brother for Christmas and I wish you could have seen the look on his face when he opened the present! Sheer delight! What do you give the person who has everything?? This is it! The kids were even excited. They had not seen or heard of so many of the candies included in the box. Of course, my brother removed some of his favorites and put them in his own secret stash but there was plenty for everyone to have a free-for-all. It was a lot of fun for everyone!
+
+product/productId: B005NYXE1K
+review/userId: A2AKY6OCZ3Y30I
+review/profileName: Judith A. Odwyer
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1231200000
+review/summary: great gift
+review/text: This 50's box was a gift to my cousin - she called me as soon as she got it - really great response!
+
+product/productId: B005NYXE1K
+review/userId: A3JXNHL33KD1P1
+review/profileName: J. Hair "ifu^one"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346976000
+review/summary: dissapointed for the price
+review/text: Got this as a gift. It came late. The ice pack it shipped with was completely warm when it arrived days late. Some of the candy was expired- Cherrymash expired about a week ago. 2 candies listed were not included- zagnut bar and moon pie. Most of the box is either gum or hard candy/taffy. I would not spend the money myself and I feel bad that my friend did!
+
+product/productId: B005NYXE1K
+review/userId: A26NG02R8JHR57
+review/profileName: Nicole
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335312000
+review/summary: Great hit with the folks!
+review/text: I bought a bunch of these from different years and it was great! It brought up a bunch of memories for everyone and it's a great big box of candy perfect gift for anybody
+
+product/productId: B005NYXE1K
+review/userId: AML4H2Q0ZF39C
+review/profileName: TexasBerly
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1326499200
+review/summary: Great Gift
+review/text: This was part of my dad's Christmas gift.  He loved it and had fun going through all the pieces and remembering eating them as a kid. There were a few that he didn't recall but most of it was familiar.  I looked at a few others from different companies, but felt the packaging and product in the Hometown box was best.  Everyone was asking where I got it!
+
+product/productId: B005NYXE1K
+review/userId: A2TVE940CG7PC3
+review/profileName: chud33
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326499200
+review/summary: Unique Gift
+review/text: I loved the Hometown Favorite candy boxes I ordered.  I ordered two 50's boxes for my mother and father-in-laws birthdays.  They loved looking at all the old candies and remembering back in time.  The entire family enjoyed all of the yummy treats too!  Great and unique gift.
+
+product/productId: B005NYXE1K
+review/userId: A6LCLBQIT0OT7
+review/profileName: Kristin Mary Rich
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325808000
+review/summary: A Smash Hit
+review/text: Gave the 1950s box to my dad for Christmas and he loved it. Never saw a man so excited about Cherry Smash!
+
+product/productId: B005NYXE1K
+review/userId: A1OGUSVDTTWLS9
+review/profileName: Esme
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325548800
+review/summary: Hometown Favorites 1950's Candy
+review/text: If I had paid the price that they are asking now plus shipping, I would have been disappointed. There is not enough good solid candy and the box is smaller than shown. However, it is a great idea, especially for older couples who really don't need anything, b/c they get a trip down memory lane. The rep. from the actual store was helpful in explaining that what I purchased was paid for by Amazon, when my pkg. did not arrive. And, Amazon customer service was excellent!! Buying it a lower price from Amazon and prime shipping made it a good gift!
+
+product/productId: B005NYXE1K
+review/userId: A3BYWT41LX9UBV
+review/profileName: C. D. Cornett "GaDan"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325030400
+review/summary: Gift was greatly appreciated
+review/text: Sent to family member as gift.  They said it was a pleasant surprise and greatly appreciated.  Everything looked great and was as described.
+
+product/productId: B005NYXE1K
+review/userId: AVIYZPE36SKKN
+review/profileName: doodle
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325030400
+review/summary: My Mom Loved it!
+review/text: My mom loved this.  I sent it to her for her birthday.  She said it was a blast from the past.
+
+product/productId: B005NYXE1K
+review/userId: A3VGMWRATH95V4
+review/profileName: KarenS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324944000
+review/summary: Very Nostalgic!
+review/text: My dad was literally like a kid in a candy store when he opened this gift. Both of my parent's grew up in the 50s/60s so I bought both decades. There is nothing my dad enjoys more than memory lane, and this candy took him back. Mom tells me he ate candy for breakfast Christmas morning haha! Awesome gift!
+
+product/productId: B005NYXE1K
+review/userId: A3TBEKLUHCVGNR
+review/profileName: Meg84
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324771200
+review/summary: He knew 'em all!
+review/text: Being an 80's kid, I,ve only heard of maybe three of these candies before. The recipient however was born in the late 40's & he knew them all. Extra 'kudos' for the sky bar, zagnut, & moo pie. He swears I'll get hooked on some of these & I won't be able to find more anywhere else. And with the awesome deal from amazon during the week after black Friday really made this an awesome deal. Thanks
+
+product/productId: B005NYXE1K
+review/userId: AHC43JIIXR6HF
+review/profileName: KaRmaFaLlen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324598400
+review/summary: A-M-A-Z-I-N-G!!!
+review/text: We got this for the parentals and it's fantastic!! I love the box it is so cute and comes with a little booklet telling you about the 50's! So cool! Thank you!! Great DEAL!! Worth it totally and cool to see what the 50's candies were like! All the candy was in the box, I dbl ck'd. Also all the candy is intact and not smashed and seem fresh. And I found mine on Amazon for $20.99 + FREE shipping. :) Happy Holidays!
+
+product/productId: B005NYXE1K
+review/userId: A1FX8VH5MONGWV
+review/profileName: Agoodman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324080000
+review/summary: Best gift ever!
+review/text: Just received an email from my dad saying this was the best Christmas gift he has ever gotten! Very authentic!
+
+product/productId: B005NYXE1K
+review/userId: A2N3CHPNIXBHLW
+review/profileName: Angela Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293926400
+review/summary: very pleased
+review/text: I bought this set for my grandparents for Christmas which they loved.  It brought back a lot of memories for them from their childhood.
+
+product/productId: B005NYXE1K
+review/userId: A1HMPLZ068D21A
+review/profileName: J. Davis "Mom of boys!"
+review/helpfulness: 5/8
+review/score: 5.0
+review/time: 1194912000
+review/summary: Great Gift
+review/text: I bought this for my brother-inlaws 50th birthday. Great gift. Arrived quickly. He reaaly enjoyed it.
+
+product/productId: B005NYXE1K
+review/userId: AN1RW1Y3ZWUGM
+review/profileName: M. Smith
+review/helpfulness: 5/8
+review/score: 5.0
+review/time: 1190073600
+review/summary: WHAT FUN!
+review/text: tHIS CANDY WAS A BIG HIT AT MY HUSBAND'S 50TH bIRTHDAY PARTY.  wE ALL ENJOYED REMEMBERING THESE OLD FAVORITES LIKE "CHARM POPS" AND "SLO POKES"
+
+product/productId: B005NYXE1K
+review/userId: A2K5WGHD5Y5ENZ
+review/profileName: Gayle S. Ataceri "The Venetian"
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1214611200
+review/summary: A Blast at the Retirement Home!
+review/text: I sent this to my father for his birthday and he had the best time handing out the candy in the retirement center where he lives.  Everyone found out it was his birthday this way.  He didn't think the candies were exceptional tasting but he enjoyed seeing his friends' eyes light up when they saw their old favorites. It generated a lot of talking, laughing and reminiscing. A bunch of ladies got into the candy cigarettes and had their picture taken "smoking" in the lounge!  Dad is  very frugal and unfortunately, the price slip was included.  So, first he says to me, kidding a bit but also showing his German roots: "Gayle, $40 for a box of candy?!" But he called me several times after to let me know that he got his $40 worth of fun!  I did consider getting the 40's gift box, as that was more my father's era, but this gift has a lot more candy and I figured he'd enjoy having plenty to share.  My 76 year old father thought the candy selection was right on target for what he remembered buying as a kid.
+
+product/productId: B005NYXE1K
+review/userId: A1XFTCY4VJ3GZ5
+review/profileName: mgirl
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1328054400
+review/summary: yum
+review/text: old candy from the 50's to satisfy your every whim and childhood memory. My dad loved this assortment of candy and requested another next year!
+
+product/productId: B005NYXE1K
+review/userId: A16KW7LUW7FGGA
+review/profileName: Randy
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1286064000
+review/summary: great fun!
+review/text: Overall it is a neat box with some great candy that brought back many memories for my parents. Some of the pieces seemed a bit stale and hard and the moonpie was basically crushed, though we've only eaten a few pieces so far. You couldn't find this type of candy anywhere so it is a great concept to bring all of it back again in one box. My biggest complaint was the ground shipping which was over priced in my opinion. I'm not sure how long this company has been doing it but it appears they have some things to correct in order to succeed further.<br /><br />I noticed too that the candy was all in a jumbled mess. I'm not sure a woman would have organized the box in that same fashion. So please try to correct these issues and I will buy from you again. Thank you. Overall it is a neat box with some great candy that brought back many memories for my parents. Some of the pieces seemed a bit stale and hard and the moonpie was basically crushed, though we've only eaten a few pieces so far. You couldn't find this type of candy anywhere so it is a great concept to bring all of it back again in one box.<br /><br />My biggest complaint was the ground shipping which was over priced in my opinion. I'm not sure how long this company has been doing it but it appears they have some things to correct in order to succeed further. I noticed too that the candy was all in a jumbled mess. I'm not sure a woman would have organized the box in that same fashion. So please try to correct these issues and I will buy from you again. Thank you.
+
+product/productId: B005NYXE1K
+review/userId: A1DRGTSJ2G2TPT
+review/profileName: lc_michele
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1240963200
+review/summary: 50's Decade Box Gift Basket - Classic 50's Candy
+review/text: We bought this gift for my dad for his birthday. He absolutly loved it! It's a great gift for any occasion. It was actually bigger then we thought it would be also. All of the candy was great and NONE were broken or smashed! I would recommend this item to everyone!
+
+product/productId: B005NYXE1K
+review/userId: A19N4ILGQ7JF49
+review/profileName: P. Miceli
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1215820800
+review/summary: The 50s rate, it was THAT great!
+review/text: My husband loved his 50s box of old candies.  We kept looking at all the candy saying, "Remember this one, remember that one?  That one was MY favorite!  That one is My favorite!"  My husband would not share his candy (for the first time) as he savored every bite.  I did get one box of candy from him.  That violet flower-scented gum which was MY favorite from my childhood days.  He absolutely loved this gift and I will buy again in the future.  If you want a box of fun, this IS IT!
+
+product/productId: B005NYXE1K
+review/userId: A3NQT2T3F1MU3J
+review/profileName: C. Manning
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1212796800
+review/summary: Worth the money
+review/text: I bought this for a 50th birthday present.  Very good selection.  Fresh candy.  Would recommend for a candy lover in that age group for a gift.
+
+product/productId: B005NYXE1K
+review/userId: A24UIIJSI7UI56
+review/profileName: adrastea72
+review/helpfulness: 4/7
+review/score: 1.0
+review/time: 1291680000
+review/summary: All the same...
+review/text: I think its quite gimicky.  The same candy are represented in all the different decades.  The idea is that each decade you get that particular candy, but its all the same crap no matter what the decade box its in.  Take a look!  Lollypops, Mike&Ikes, etc...  Very gimicky and cheap!
+
+product/productId: B005NYXE1K
+review/userId: A359V96S0PQTSQ
+review/profileName: Helen Anderson
+review/helpfulness: 4/7
+review/score: 5.0
+review/time: 1255392000
+review/summary: What do I get for this person?
+review/text: This is the best gift for that person who really doesn't need anything, but that you<br />still want to get something that they will remember. I have used this three times<br />and each time it was the hit of the party, not only with the person receiving it,<br />but eveyone else at the party. It is great that you can customize it to several<br />different decades.
+
+product/productId: B005NYXE1K
+review/userId: A32XLXUQ2YK4CB
+review/profileName: Sally Wallach
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1323820800
+review/summary: No Bargain
+review/text: You can find the same item on Amazon for $20.99 with free shipping!!  Search "all departments" to find this item at that price. Rated low because of price not quality.
+
+product/productId: B005NYXE1K
+review/userId: A18NRBD1YZ6LIF
+review/profileName: S. Blanchette "Sully"
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1230940800
+review/summary: 50's Candy makes an Old Man Smile
+review/text: My father in law has Parkinson's and other issues.  When he opened the box of 50's candy on Christmas, he smiled and stated "I remember these penny candies".  He has been showing everyone that stops by about these candies and smiles.  This was a the perfect gift! Thanks
+
+product/productId: B005NYXE1K
+review/userId: A1Z2TU71IY7TA8
+review/profileName: Christopher Egan
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1229299200
+review/summary: They're still talking about it!
+review/text: Last Christmas I ordered a package for each member of my family, appropriate for their particular decade. As we're getting into our 50's and 60's it's more and more difficult to buy for one another. This was the perfect gift in that it triggered countless happy memories, memories they shared with their spouses and children. The kids liked the gift because it drew out memories their parents hadn't shared before. An unexpected holiday hit, that's for sure.
+
+product/productId: B005NYXE1K
+review/userId: A2HIJ9K1OP1NK1
+review/profileName: Madison Taylor
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1215648000
+review/summary: Great Product!
+review/text: I bought this for my father for Father's Day and he absolutley LOVED it! Everyone thought it was such a great and unique gift. My dad along with my aunt and uncle went through the box of candy with huge smiles and lots of "Oh my gosh! Remember these?" There was ALOT of candy in that box! I didn't expect it to be that much!
+
+product/productId: B005NYXE1K
+review/userId: A1DB2WX7CWPL22
+review/profileName: Raquel Cochran
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1326758400
+review/summary: Memories
+review/text: I sent this as a gift to my Aunt. She loved it!! Said it brought back memories growing up in the 1950's. Each candy had a story. I would recommend this product!
+
+product/productId: B005NYXE1K
+review/userId: A1I6SIKOVRAROD
+review/profileName: A. Miller
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1326758400
+review/summary: Favorite Christmas Present
+review/text: I purchased a Nostalgic Candy Gift Box for each of my sisters this Christmas. They all called me to thank me for the gift. They said the candy was delicious and that they had so much fun picking out their favorites and talking about "the old days" when they could buy this candy. I'm buying these candy packs again for birthdays, Christmas and whenever. This is a great gift.
+
+product/productId: B005NYXE1K
+review/userId: A1UO17SDO4F6S7
+review/profileName: Danielle Zepeda
+review/helpfulness: 3/6
+review/score: 5.0
+review/time: 1246147200
+review/summary: Great Gift
+review/text: I bought this for my Dad, a man who already has everything he needs. The gift basket gave him a trip down memory lane. His face lit up when he opened it. He went on to share with me stories of his childhood. It was a great moment and a perfect gift.
+
+product/productId: B005NYXE1K
+review/userId: AYWKKLM9F9F8J
+review/profileName: J. Schmitt "puravida"
+review/helpfulness: 2/5
+review/score: 5.0
+review/time: 1249603200
+review/summary: A great gift
+review/text: My Dad loved this box of memories. There was a ton of candy and included lots of  things he hadn't seen since he was a kid.
+
+product/productId: B005NYXE1K
+review/userId: A331YAGRNWK6RV
+review/profileName: Victor F. Mayoli "BonVivant"
+review/helpfulness: 0/5
+review/score: 4.0
+review/time: 1250121600
+review/summary: Very Nostalgic Gift
+review/text: I bought this for my In-laws and they went crazy. Fantastic gift for any one who grew up in this era
+
+product/productId: B005NYXE1K
+review/userId: AL76ZXAYKV9YA
+review/profileName: Christopher Beck
+review/helpfulness: 11/29
+review/score: 1.0
+review/time: 1275782400
+review/summary: NO REAL Product Description
+review/text: BUYING THIS ITEM WITH NO PRODUCT DESCRIPTION IS LIKE SIGNING A BLANK CHECK.<br />ONLY A MORON WOULD DO THAT
+
+product/productId: B000R9Q3ZA
+review/userId: A23NNIZIAMQGOQ
+review/profileName: M. Bond
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317513600
+review/summary: Great Pasta
+review/text: This is very good whole wheat pasta. It isn't sticky/starchy like some other whole wheat pastas and it's organic. It's cheaper buying it at Amazon than it is buying it at the store.
+
+product/productId: B002TM8AJU
+review/userId: A11C1IHP88PWH5
+review/profileName: Jenbear
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1343520000
+review/summary: Ginger Snaps
+review/text: Fast delivery. Cookies were perfect! I appreciated the fact that they were mainly intact which is part of the joy with this product. Thank you
+
+product/productId: B005BYP8IO
+review/userId: AI0TBLQF5F6RU
+review/profileName: Michelle
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1323216000
+review/summary: Great almonds!
+review/text: This is my second time ordering these almonds.  They are naturally sweet and fresh. I will be ordering them again.
+
+product/productId: B005BYP8IO
+review/userId: AV2E3EN73G5BE
+review/profileName: lightdancing
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344643200
+review/summary: Any very happy customer :)
+review/text: Love 'em. Have them set up on the discounted price subscription now.  Three cheers for Good Sense Organic Raw Almonds :)<br /><br />Edit - Went to order an extra bunch of almonds under the subscription rate and they are out of stock for a second time in several months.
+
+product/productId: B005BYP8IO
+review/userId: A2AJQRTBL2X1PV
+review/profileName: Tanglewood "music lover"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344384000
+review/summary: ALMOND "JOYS"
+review/text: These raw organic almonds are probably the BEST i've ever tasted. They are flavorful and fresh. They are never chewy i.e. stale but have an almost crispiness to them! Love them!
+
+product/productId: B005BYP8IO
+review/userId: A2NO99YGEYDU6S
+review/profileName: Acausal Being
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343606400
+review/summary: Delicious!
+review/text: These almonds were some of the most fresh and flavorful I have ever eaten.  I tried a few other brands of raw, organic almonds, and each was inferior to Good Sense.  They won my repeat business!
+
+product/productId: B005BYP8IO
+review/userId: AKJI7NAMPQ9XV
+review/profileName: Butter
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350172800
+review/summary: Gross !!
+review/text: I love raw almonds but these are horrible. First bunch of almonds tasted ok but on the second handful I grabbed a bunch of dry, rancid tasting ones.  I literally spit them right out and they left a horrible taste in my mouth. Looking at these ... They don't look like raw almonds I've purchased from whole foods or trader joes.  The outer skin is dusty looking. And tastes like it looks. Would not recommend.
+
+product/productId: B005BYP8IO
+review/userId: AEIKXMN47HPEZ
+review/profileName: Sunshine
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Very tasty - also great for almond milk
+review/text: I was a little worried about the quality about these almonds after reading the most recent reviews but decided to give them a try and I was NOT disappointed!<br /><br />Great taste, perfect for homemade Almond milk. Will buy again, for sure!
+
+product/productId: B005BYP8IO
+review/userId: A2N4FQI2EQH59C
+review/profileName: foursisters
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348012800
+review/summary: Will not purchase these again
+review/text: I've recently purchased other nuts from this brand (walnuts) and they were delicious. These almonds are hard as rocks! I don't know if they are stale or what is wrong with them but they can barely be chewed without causing harm to the teeth. I will not purchase again.
+
+product/productId: B005BYP8IO
+review/userId: A2ZJ6U7VGILGGQ
+review/profileName: Zuly78
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1347580800
+review/summary: Horrible
+review/text: These almonds tasted old and rubbery.  I ordered to packets and I had to throw them away.  I was really looking forward to having organic almonds and it was a big disappointment and a waist of money.
+
+product/productId: B005BYP8IO
+review/userId: A227SDNN4BJQJ6
+review/profileName: Lazelod
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339459200
+review/summary: Exactly what it states
+review/text: Very happy with these almonds. They are a great yummy snack. I take them with me to my 2nd job.
+
+product/productId: B000JWCA3E
+review/userId: A29E8AD2UJQGO2
+review/profileName: Kimpsalm139
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327017600
+review/summary: FINALLY!!!!!
+review/text: I can finally enjoy my favorite Chai tea brand!  LOVE it!  I've been waiting for this MFG to introduce a low carb version and they didn't disappoint!  Worth every penny!
+
+product/productId: B000JWCA3E
+review/userId: A1EM65LI53KGWV
+review/profileName: Leeann Lail
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1250035200
+review/summary: YUMMIE-E-E-E-E
+review/text: A cup of this wonderful tea mix with a shot of New Whey Liquid Protein is a perfect breakfast and the low carb is only a plus. Thank you for carrying this fantastic product.
+
+product/productId: B000JWCA3E
+review/userId: ARHAAMLX41NI0
+review/profileName: K. Wiley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1207440000
+review/summary: The Low Crab Drink with a great taste
+review/text: This Chai Tea is awesome.  I prefer it with milk but is great with water too.  This is an awesome buy and I recommend it highly!
+
+product/productId: B000JWCA3E
+review/userId: A2TKE1KA3RQX98
+review/profileName: Idaho Spud
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1194825600
+review/summary: OK
+review/text: Low calorie and low carb, two good things about this product.  The taste, weird.  Better than Tazo and Pacific chai powders (no soapy after taste) but being low carb, it's not a taste delight.
+
+product/productId: B000JWCA3E
+review/userId: A6D7LICVC6DEL
+review/profileName: D. Smith
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1189296000
+review/summary: Chai low carb
+review/text: Very sweet for a diabetic. I actually bought it for my mom, but she did not like it very much. The service, however, was excellent--prompt shipping.
+
+product/productId: B000JWCA3E
+review/userId: A7PQRK19UIVDW
+review/profileName: garden queen
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1263340800
+review/summary: Very Disappointing
+review/text: This chai is very, very sweet and has no spice taste whatsoever. Sorry to say, this is going in the trash.
+
+product/productId: B000JWCA3E
+review/userId: A3VSA4KA7QD3R4
+review/profileName: Pamala
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1185580800
+review/summary: wonderful coffee alternative
+review/text: <a href="http://www.amazon.com/gp/product/B000JWCA3E">Big Train Low Carb Spiced Chai 2 lb. Tub</a><br />this is great hot or cold...low calorie and carbs and a wonderful "treat"
+
+product/productId: B0039556DY
+review/userId: A2YKP1JIK5V5UN
+review/profileName: E. Hoffman
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1294012800
+review/summary: Coffee grinds everywhere
+review/text: This is my wife's favorite flavor K-Cup.  Unfortunately out of a box of 24 K-cups, probably 5-6 yield a cup full of coffee grinds.  We've tried 2 separate orders from Amazon (2 boxes each, so 4 total boxes) and this happened pretty consistently.  About 20-30% of the cups of coffee were ruined due to being filled with grinds.  I don't know if this is a temporary thing, maybe there's a bad batch, but I'd stay away from these K-Cups until they fix the problem.  Too bad, because as I said, it's my wife's favorite flavor.
+
+product/productId: B0039556DY
+review/userId: A9SN5BBPRL2IA
+review/profileName: Big Mimi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1285804800
+review/summary: Love it!
+review/text: I love this coffee! It has a nice mellow flavor. I always prefer Columbian and this is one of the best.
+
+product/productId: B0039556DY
+review/userId: A13F7WV5UW75AI
+review/profileName: Nita
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1291334400
+review/summary: Unstable product
+review/text: I have ordered this product twice now and both times it has had the same problem. Whenyou run the coffee all the grounds come out into your coffee mug. I thought it was just a bad batch but it is just the product I think.
+
+product/productId: B0039556DY
+review/userId: AZRD88CR1IRAC
+review/profileName: Lolo107
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1285372800
+review/summary: More than pleasantly surprised!!
+review/text: After reading many of the coffee reviews I was becoming more nervous as I debated about ordering<br />or not!! There were many negative comments about flavor of the coffee, aftertaste, condition of the K-cups not up to par etc. But today I am happy to report that I am "more than pleasantly surprised" that I decided to order.  I joined the "Subscribe and Save" order plan for the Van Houtte Decaffeinated med. roast K-cups for my Keurig brewer.  The price was unbeatable and the quality was first rate and they were here in a flash!  And delicious - perfect blend - I love it!<br />Thanks- I don't have to worry about running out of coffee any more..whew!!  Lolo107
+
+product/productId: B0039556DY
+review/userId: ANXCHXSYVCS0E
+review/profileName: Margie B. Marshall "Grandma Marge"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315785600
+review/summary: I like Decafe
+review/text: I like this product as it is convenient for me.  I use the  mail order because this product is hard to find in the stores in my city.  This product suits me very well except for it being hard to  find in Decafe.  I can order from Amazon at my convenience.
+
+product/productId: B0039556DY
+review/userId: A12UQPEK9IWD2E
+review/profileName: sljk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: K-cup coffee
+review/text: I like getting this coffe on subscribe and save, however I have received a notice that it is no longer available. The e-mail gives a link to receive other coffees on subscribe and save, however the link does not work. I would like to receive more decaffinated coffee under the subscribe and save program, please advise.
+
+product/productId: B0039556DY
+review/userId: A3C3Z3HWW5N27T
+review/profileName: B. Mince
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1296432000
+review/summary: Pretty good decaf
+review/text: Had trouble with some of the filters in these but chalked it up to a bad batch. Coffee is really good.
+
+product/productId: B0039556DY
+review/userId: A255LN7YXS7QAE
+review/profileName: texgirl "Sandy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295481600
+review/summary: My Favorite Decaf
+review/text: I drink only flavored caffeinated coffee.  I sampled about 24 flavors of k-cups and have narrowed my favorites down to 6.  However, I do not drink "leaded" coffee after noon. Unfortunately, there seems to be only 2 flavors in decaf k-cups and I am not particularly fond of either one.  So, I went on a mission to find unflavored decaf that I like enough to drink afternoons and evenings.<br /><br />I ordered a few of those pricey 5 cup samples from Keurig.  Some of them were so bad, I threw them out.  My research paid off though.  I really like Van Houtte's medium roast decaf, which was an unexpected, but welcome surprise.<br /><br />I wouldn't like any k-cup if the grounds wound up in my cup, as a couple of people have reported here. But, that hasn't happened - at least not since I returned a defective Keurig coffee maker and received a replacement.  I might add that I am on my 8th box of this coffee, so if there was a "fragile" batch, the problem was likely corrected.
+
+product/productId: B0039556DY
+review/userId: A1Q3VZH3TP8DFN
+review/profileName: Janice G. Brown
+review/helpfulness: 2/4
+review/score: 3.0
+review/time: 1276473600
+review/summary: K-cup
+review/text: I found this decaff coffee just o.k.I have tried many K-cups and this one was not as good as others. It has a burned taste to it.I like the flavored decaff better because you don"t get that decaff after taste as much.I just wish they made more flavored decaff K-cups.
+
+product/productId: B00330N6J6
+review/userId: AER7WEJSW4H1T
+review/profileName: Jerry N. Slaughter
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294185600
+review/summary: Coffee-Mate Italian Sweet Creme
+review/text: I've found that the Italian Sweet Creme is my favorite of all the Coffee-Mate flavors with one reserve.  The hesitance comes with the high too-sweet power of the cream.  The counter act is to mix the Italian Sweet Creme 50/50 with Coffee-Mate's Original Creme.  Then it's not too sweet and you can enjoy the taste of the coffee as well as the Italian Sweet Creme.
+
+product/productId: B000PCZIRI
+review/userId: A3E98HMRGZT6VU
+review/profileName: Middle T
+review/helpfulness: 7/8
+review/score: 4.0
+review/time: 1184198400
+review/summary: Yummy
+review/text: Relatively good pricing.  Shipping took a little longer than I expected, but overall I was satisfied.  I couldn't find these in regular stores and my friend, who's a Marine in Iraq, had requested them.  So I'm happy that I could find them anywhere.
+
+product/productId: B000PCZIRI
+review/userId: A2YGRMWF7B3SB4
+review/profileName: james co.
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349136000
+review/summary: not sour.
+review/text: the aweets arived well packaged however they were not sour because the coating was ruined there was an even selection of the flavors but we cant sell them on.
+

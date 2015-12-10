@@ -1,0 +1,1143 @@
+product/productId: B000H7GS5W
+review/userId: A10KHDE74WAT9D
+review/profileName: Nancy Funk
+review/helpfulness: 2/6
+review/score: 1.0
+review/time: 1285372800
+review/summary: Melted chips!
+review/text: Cookies arrived with all the chips melted out of the cookies.  The only way we could eat them was to crush them into crumbs and sprinkle on ice cream or pudding and even then they were very hard and not tasty.
+
+product/productId: B000H7GS5W
+review/userId: A3H4YG0661S9LS
+review/profileName: J. Peconcillo
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1299628800
+review/summary: HORRIBLE!!! - Like Sawdust with chocolate flavor
+review/text: These are some of the worst tasting cookies I've ever had. I'm amazed people can give this anything above one star, let alone 5 STARS?!?!<br />HUH???<br />It makes me think they've never had a real cookie before, ever. These tasted like chocolate flavored sawdust. The texture and taste was truly disgusting.<br />I actually didn't want to swallow the bite I took, it was that bad. The rest of the cookie and the box, went right in the trash.<br />Are you high raters delusional or have you never actually tasted a real cookie before?
+
+product/productId: B005ZH6ICM
+review/userId: A3KIYJA47F2NRI
+review/profileName: jeff mika
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: gummy rabbits by Annies' Homegrown
+review/text: These are the best tasting gummy fruits I have ever eaten. Can't stop eating them and the flavors are great.
+
+product/productId: B008MZM51W
+review/userId: A2DOQ9ERI5ELAZ
+review/profileName: Jessica
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344297600
+review/summary: This cat stew is truly amazing!
+review/text: My cats really liked this Sea Brulee stew!  One is pretty picky too, but it passed his test.  The texture is kind of amazing for cat food, very hearty that's for sure.  Cute name too!  We are adding this to our weekly shopping list as it makes for three very happy cats!
+
+product/productId: B000LKZJTG
+review/userId: A1UYUHLA2P126W
+review/profileName: Toni Wharton "bargain lover"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1268006400
+review/summary: Tea lover
+review/text: Love this tea.  Brought more than I need, but believe me it will be use.
+
+product/productId: B000LKZJTG
+review/userId: A309GOVUL9JHA6
+review/profileName: nhoj
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327622400
+review/summary: Tea
+review/text: Best tea ever. I can drink this tea all the time, even before bed, never a caffiene problem, makes great iced tea. My all time favorite!
+
+product/productId: B000LKZJTG
+review/userId: A3PT8JAUPNATTH
+review/profileName: A. Shifley "Proprietor of The Goody Gallery"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1278374400
+review/summary: On ice too...
+review/text: I bought some of this tea when it was clearanced through Big Lots.  I only bought one box--too bad.  No more available locally.  I put this tea in my iced tea machine with 2 regular black tea bags and oh what flavor!!  It enhanced the flavor of my black tea with just the right amount of lemon-y essence--not sour, not acidic, not candy-lemon, not furniture wax, not over-powering like so many artificial lemon products.  Even actual lemons can get too astringent if you "forget" to fish them out after awhile. This lovely french tea has that just right lemon taste.  I'm ordering a case of these bags and the price is actually pretty good (more than Big Lots), but with free shipping it's a deal I can live with.
+
+product/productId: B000LKZJTG
+review/userId: A1VZQDTPRG1DYZ
+review/profileName: Wayne P. Coffelt
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1336953600
+review/summary: Lousy
+review/text: Hoping for a flavorful good tea proved to be a waste of a lot of money for a flavorless product.
+
+product/productId: B000LKZJTG
+review/userId: A21OFO5SB43TAA
+review/profileName: Twins Rock "Twins Rock"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305331200
+review/summary: A great buy
+review/text: I love this product.  I subscribe to it.  I highly recommend this product to anyone who maybe looking for citrus flavored teas.
+
+product/productId: B000UCR92U
+review/userId: A1C2GFOPBDFM8L
+review/profileName: David S. Lott
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233619200
+review/summary: Worth The Price
+review/text: Far superior to canned anchovies. Firm fleshed, not mushy. Flavor very fresh and not overwhelmed by the oil.
+
+product/productId: B000UCR92U
+review/userId: ARUS84PIUW4ZP
+review/profileName: L. Weaver
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1191024000
+review/summary: anchovt /fillets
+review/text: Great tasting anchovies.  The jar is kinda small though for the price, but would probaby buy again.
+
+product/productId: B0029XEYVW
+review/userId: AFTOPAHIP32WD
+review/profileName: N. Mcpherson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307318400
+review/summary: humboldt fog
+review/text: This cheese is a favorite in our family, but not usually accessible in our area.  This was a gift, a nice surprise and a big hit.
+
+product/productId: B0029XEYVW
+review/userId: AGI4ZFUSN5Q9G
+review/profileName: D. Greene "fussy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302912000
+review/summary: the best!
+review/text: Humboldt Fog is expensive, but worth it!  Irresistible flavor, and if it weren't that expensive, I'd buy it once a week and gain 20 pounds.
+
+product/productId: B0029XEYVW
+review/userId: A3AIOBTJL3VEHB
+review/profileName: Sarita
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320969600
+review/summary: Best cheese ever
+review/text: This is hands down the best cheese I have ever had.  It's a must try and keep buying over and over again!
+
+product/productId: B0029XEYVW
+review/userId: A3PAYNDQB8HAY2
+review/profileName: Berae
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1304121600
+review/summary: Best Goat Cheese!
+review/text: There's a reason this cheese is so expensive - it is considered one of the best blue cheeses in the world.  I work in the restaurant industry, and it is widely known that Humboldt blue cheese is a delicacy.  It is very smooth, very creamy, doesn't have the tanginess that goat cheeses often have - I could eat this all day every day and be the happiest person in the world - and weigh about 800 pounds.  Buy some, you won't regret it!
+
+product/productId: B0029XEYVW
+review/userId: A20YZVLMUG93ED
+review/profileName: David R. Freeman "Vertigo, Inc."
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1340928000
+review/summary: Was Not Impressed
+review/text: This cheese is best described as solidified sour cream with a faint hint of blu.<br /><br />I tried to like it and feel around for the flavor, but the sour cream taste overpowers whatever the unique flavor of the mold might have.  After separating the vein alone and trying that it tastes musty but not in a good way to me.  Those that say this is the best cheese they tried should give gorgonzola a shot for the title.
+
+product/productId: B003AALRKY
+review/userId: A2VDK1NPWF8JMH
+review/profileName: G. Curran
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346198400
+review/summary: I have three cats that insist on getting their "crunchies"!
+review/text: My cats love all flavors of the Temptations!  Do they experience the different flavors, and enjoy one more than another?  I don't know!  But I feed them in a rotation; a different flavor each time.  They seem to enjoy all flavors.
+
+product/productId: B003AALRKY
+review/userId: A2C5HF8S083ZCL
+review/profileName: Kara O
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336348800
+review/summary: tons of treats!
+review/text: I was surprised at the size of these bags of treats!  Each bag is twice the size of the ones sold at the supermarket, and there were 10 bags.  Howie (my over-indulged cat) loves all Temptations treats, but like the beef flavor the best.  To prevent him from gaining too much weight, I throw them, and he chases them.  They are under 2 calories apiece, so I figure he's burning off the 2 calories chasing the treat.  Very happy with the quality of this purchase, and the speed in which the delivery arrived.  Ordered on Thursday, arrived on Monday.
+
+product/productId: B003AALRKY
+review/userId: A1OT9WIYQWFS8C
+review/profileName: chisox2367
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332115200
+review/summary: my cat can/t get enough of these treats...
+review/text: my cat absolutely loves these treats. my only concern is that he eats these treats more than he eats his regular dry food. i/d prefer he eat more food that meets his nutritional needs, but i/d rather he eats something he likes than not eat anything at all. he goes through 10 6oz bags in about 2 months, so i/m constantly ordering more. amazon is always out-of-stock with this product due to their popularity, so get them when you can...
+
+product/productId: B003AALRKY
+review/userId: AHYA14SADRZTU
+review/profileName: LoveAmazon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329609600
+review/summary: My boys love these things
+review/text: I have four male cats; all of which are neutered, healthy, and spoiled. These larger packets are economical, especially compared to the price in the stores.
+
+product/productId: B003AALRKY
+review/userId: A1RH5H3NQPIAXP
+review/profileName: Karen K. Steinbauer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328659200
+review/summary: Wasn't sure about the beef...
+review/text: All of the Temptations are wonderful for my kitty!!  I was wondering about the beef flavor (since I don't eat much beef myself:-) He prefers the snacks over his regular everyday food.  Meow....
+
+product/productId: B003AALRKY
+review/userId: A2RILT5O90D75A
+review/profileName: Randy Block
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315353600
+review/summary: Cats Love this
+review/text: My cats love their treats.  It helps them with tartar control as they eat a fair amount of soft food.  And of course, it can be used for positive reinforcement when they do something you ask.
+
+product/productId: B001EPQ2WK
+review/userId: A3MYA91TKQACDN
+review/profileName: Stephen Corum
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1255478400
+review/summary: Whole lot of spice
+review/text: I like to make my own rye bread but had almost given up on it because of the price of caraway seeds in the stores. I ordered this item from Amazon not realizing what a 24 ounce jar looked like. I was surprised to see these two large containers of caraway seeds. It was at least 50 times the amount for the same price as I was paying in the stores. The seeds were just as good as the expensive ones. Great bargain.
+
+product/productId: B001EPQ2WK
+review/userId: A3KWCNTUY214BY
+review/profileName: Marki Mark "MarkiMark"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336003200
+review/summary: Amazing quality for the price
+review/text: I ordered this for my wife, who likes to bake various kinds of bread. It became harder to find Caraway seed locally, so we took a chance with this product. AND WE ALL LOVE IT!!! When we opened the container, the fresh smell of the spice quickly filled the room. And it's much cheaper in bulk than buying the tiny glass containers locally. If you know, how to use this spice: This product can't be beat!
+
+product/productId: B0027IQC78
+review/userId: A2Q0XHX89Z05JX
+review/profileName: T. Kreutzberg
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1262736000
+review/summary: Sojos Complete dehydrated raw dog food
+review/text: I have a 7 year old Australian Shepherd who thrives on this food. She never has health problems and eats this food with gusto, especially when compared to kibble (wouldn't you?) I typically make enough food for 3 or 4 days and store it in a lock and lock container in the fridge. I've always had an interest in feeding raw (and do occasionally give a turkey or chicken neck) but I also travel a lot and needed something I could bring along easily.<br />She had previously been eating a super premium kibble, but I like the idea of real unprocessed food so much more. The benefits are undeniable.<br />I am shocked to hear that several reviewers are supplementing with rice. This is a grain FREE food, as dogs are not really meant to eat/digest grains. It being grain free is what makes it so costly. The Honest Kitchen makes similar canine diets with grains for what I consider to be significantly less cost. If I wanted my Sojos to go a little farther I'd probably add egg or some raw ground meat.<br />The 8lb bag lasts her around 6 weeks, which is about how long the 28.6lb bag of super premium kibble she was previously eating lasted (and for around the same price).<br />Thanks to Amazon for the always-perfect service. I love being able to order this food with expedited shipping to my door for less than the price of buying it in store.
+
+product/productId: B0027IQC78
+review/userId: A1SWJWGGZ9DMZB
+review/profileName: Ardith Dahlstrom "Border Terrier Fancier"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1259971200
+review/summary: Terrific Product!
+review/text: I bought this for a road trip across the crountry and back. My dogs are raw fed and this seemed the closest to what I made at home. We spent 15 days on the road and our four dogs enjoyed every meal the entire trip. They ate the food with gusto and had totally normal poops the entire trip. I used ziploc bags to fix a meal ahead (they eat twice daily) and stored the soaking food in our ice chest. Now I use this food for weekend trips and have some stashed in our disaster kit.
+
+product/productId: B0027IQC78
+review/userId: A2IVH6ZYQOQZE5
+review/profileName: Sunshine
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1270339200
+review/summary: Best food ever
+review/text: I have to say that this is the best food available. My puppy had been having dandruff and a dull coat on a diet of high quality, corn free kibble. Her coat was shiny and flake free within 24 hours of starting this diet, and she loves it (thats not saying much because she'll eat anything though). I ate some myself and it is pretty good. It feels good feeding a food that is actually FOOD, not mystery brown chunks. It is pricey, I feed it along with a homemade raw meat/veggie deal, but it is great for traveling.<br /><br />I really wish it was more affordable so we could feed it to large dogs (we have two 90lb+ dogs). Check out Grandma Lucy's for a comparable product that is slightly cheaper. (10lbs for the price of 8lbs of sojos).
+
+product/productId: B0027IQC78
+review/userId: AMR9P23T0T7Y
+review/profileName: Lynne Himelstein "lynnesusan"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1257033600
+review/summary: Amazing Dog Food for Amazing Dogs!
+review/text: I have been searching for the best food to feed my two small dogs:  One is a rescue Maltese/Havanese mix, 7 pounds, one and a half years old; the other a 13 year old Bichon.  Did not want to make the commitment to the raw diet.  This is the next best thing.  There are other dehydrated dog foods on the market, but this one actually is chunks of the food.  Others have been ground up to the consistency of oatmeal.  My dogs love, love, love this food.  I have needed to contact the customer service department a few times.  A human always answers the phone and they have always answered my questions in a very polite and knowledgeable manner.  My search for the best food for my "babies" is over.  And, as I have told friends, if worse comes to worse, my husband and I can always eat this!!!  It looks and smells that good.  I know it is expensive.  I have two small dogs, so it isn't terrible.
+
+product/productId: B0027IQC78
+review/userId: A1T8KV4XK2LJ
+review/profileName: Kristen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317427200
+review/summary: Amazing transformation for allergic golden
+review/text: I've been feeding my nine year-old golden retriever Sojos for the past eight weeks (nine weeks if you include the transition period).  He's had so many positive changes that I wanted to write a review.  In the interest of fair disclosure, I have also added the following supplements to Teddy's food (starting at the same time I started Sojos): apple cider vinegar, salmon oil, a probiotic, and Dr. Pritcairn's "Healthy Powder" (nutritional yeast, lecithin granules, kelp powder, bone meal and vitamin C).  Given that the biggest change was the food, I'm giving most of the credit to Sojos, although I do believe the supplements are helping.  Here are the changes I've noticed:<br /><br />1. Minimal evidence of allergies.  Teddy has been highly allergic to pollens since he was tested at 18 months old.  I now believe he's also been allergic to some grains.  He has been on extremely expensive allergy pills and shots for years, which I've been able to discontinue with no trouble.  He has also been highly susceptible to nasty hot spots in the last few years (three occurrences in the last 8 months alone) and regularly had eye and ear infections.  He would also lick and chew his paws like crazy every day, to the point of tearing his paw pads.  I haven't seen him lick his paws for two weeks, the fur between the paw pads are no longer stained with saliva, and his ears are a nice flesh color (instead of their usual bright pink color).  I am so happy to see him comfortable, for once!<br /><br />2. Awesome weight loss.  In July he was 87 lbs (typical weight for him), but today (October 1st) he weighed 73 lbs (!!!!) when I took him to the groomer.  His highest weight was over 90 lbs.<br /><br />3. Increased energy and mobility. He has started acting more like a puppy again--zipping around the backyard like he's chasing some imaginary animal. :-  He was diagnosed with arthritis in one of his front elbows last December and has been on strong pain meds (he couldn't tolerate the NSAIDs).  I've dropped his pain meds to half the original dose and he's hopping up into our SUV with ease.<br /><br />4.  Fewer eye "goobers" and cleaner teeth.<br /><br />5.  Improved digestion and elimination.  No more rumbling stomach or stinky bombs.  Virtually no pee burn-stains on the lawn.  His poops are half the size, firm instead of runny, and have 80% less smell.  What's not to like about that?! LOL<br /><br />I love the convenience of the Sojos Complete and plan to try the beef flavor soon.  I've been very reluctant to try any variation of a raw diet for Teddy because I'm a vegetarian, so I *really* appreciate not having to prepare raw meat!  Although I initially purchased Sojos from Amazon, I have found it $18 cheaper per bag elsewhere.  It's not cheap to feed a large dog, but I am saving so much money in reduced vet visits and other medications (not to mention a happy, healthy dog), that the extra cost is well worth it!  Teddy eats his food with gusto, instead of begrudgingly.  I love my "new" happy, healthy dog!<br /><br />UPDATE 3/14/12: Teddy (who just turned 10) is now down to a healthy 61 lbs and is still doing very well.  He did have another small hot spot on his tail two months ago, but otherwise his allergies are still well under control, he has tons of energy, and we're thrilled with the weight loss.  I've used the beef flavor on occasion to mix things up, but Teddy's preference seems to be for the turkey.  I do hope Sojos will continue to come out with new varieties of the complete mixes.
+
+product/productId: B0027IQC78
+review/userId: AYY3EAEQCY9YC
+review/profileName: Divabunny
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295740800
+review/summary: Search for the perfect food is over! Yay!
+review/text: I have two yorkies and a maltese and sojo's complete has been a gift! I had wanted to feed a raw diet for some time, but couldn't commit to work involved... my "kids" were on natural balance and loved it until the manufacturer changed the formula, then they wouldn't touch it! that was when i did some research and found sojo's complete... they immediately took to it and can NOT wait to eat.  I make mine in daily batches since they only eat 1/4 cup twice a day...but it is so quick and so convenient... it literally takes a minute to measure, add water and seal up in a tupperware and refrigerate.  they are so much healthier and have a ton more energy.  I could not be a happier customer!
+
+product/productId: B0027IQC78
+review/userId: AQ7WGOAN5N9MP
+review/profileName: Patricia E. Weekly "tricializ"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1284508800
+review/summary: Sojos has to be the best smelling dog food ever.
+review/text: This food is awesome.  I have 3 chihuahuas and 2 are fed Sojos complete and one is a puppy who is moving over to it this week.  I can't say enough about this food.  First of all, it has a "born on" date right on the bag, easy to see.  I have never bought a bag that was more than a month old and when I ordered from Amazon my bag was literally only 1 week old from production.  (I was a little worried about that).  The food smells like chicken pot pie and sort of looks like it too.  My dogs are ridiculously picky to the point of my littlest chi being underweight.  I think it was a combination of them waiting for the kids to give them scraps and then they wouldn't touch their food.  I have tried several different brands and cost was irrelevant to me (due to their size, they don't eat much so it isn't a factor).  I tried one that was a dehydrated raw and it smelled like organs so bad, that I would gag when I put it out.  Fortunately for me, the dogs had about the same reaction.  They have taken to this food really well and I have noticed that they shed less and have a ton of energy.  Poops are fine and truly not as smelly either.  My older chi was getting a little chunky and he has slimmed down with this as well as I think being grain free, they are only getting necessary nutrients and not filler.  I like that you can actually recognize what the food is versus the pureed type of foods.  I truly see no need to look further.  I believe in the raw diet but know that there is no way I'm going to be feeding my dogs all those organs, meat, bones etc.  I have a hard enough time making dinners for my family.  LOL  I also mix up a couple of days worth in a twist lock container and just pour it in the bowl.  Easy as pie.  I highly recommend this food.
+
+product/productId: B0027IQC78
+review/userId: A1421EDED1JI4I
+review/profileName: H. Scott "pop culture fan"
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1339459200
+review/summary: A Fair Test with 3 Dogs - warning graphic poop talk
+review/text: After transitioning from Natural Balance Duck and Potato, we've gone through several bags of Sojo's Turkey over the course of several months, so I feel I can write a fair review.<br /><br />Our dogs are small poodle mixes, rescue dogs, weighing 10 lb., 10 lb. and 7 lb. We follow the Sojo instructions mixing water to food in the recommended 2:1 ratio. We feed twice a day. I've spoken to customer service a few times with questions and they've been super nice, although they didn't always have helpful answers.<br /><br />Impressions: The food smells great (even to me!) and the dogs go bonkers for it. They love every bite.<br />Sojo's has variable consistency - some bags were a powdery consistency - creating a mush when mixed with water. These are the best bags - everything becomes part of the thick mush.<br />Other bags have big chopped pieces of veggies/meat - these are not my favorite bags. The added water hydrates the pieces and then creates a ton of watery gravy - too much fluid to feed the dogs.<br /><br />After a month our dogs each lost a pound of body weight. They had no body fat to lose so it was a bit distressing. They warn that fat/weight will come off a dog after switching to Sojo's and then an appropriate amount of weight will be gained back. Our dogs never gained it back. I was feeding the amount recommended for dogs up to 12 lbs (which should be more than enough food for our pups).<br /><br />Despite this, for an hour or two before each meal time all three pups were clearly in distress - shaking, quivering, starving. This went on for many weeks before I decided there is something lacking in this food. (I didn't know if this was excitement for the yummy food or actual weakness/lack of energy, so I gave it some time.) I even tried feeding more than the 12 lb. dog amount - enough to supposedly sustain a much bigger dog - and still they were quivering and weak (and our dog food budget was taking a big hit).<br /><br />I have slowly transitioned them back to a mix of Sojo's and Natural Balance (ratio of 2:1). Now our pups are happy again, they aren't shaking and panicked at meal time.<br /><br />The claim that dogs will have better teeth and better breath... Sojo's breath does seem a bit nicer (due to the parsley I assume) but their teeth were not cleaner. I imagine a professional cleaning plus feeding Sojo's exclusively might result in teeth staying cleaner. Feeding this food doesn't change the current cleanliness of their teeth (though their customer service rep tried to spin it this way).<br /><br />Sojo's has high water content so our dogs urinated constantly. That's a good thing for their kidneys, but a bad thing for our little guy who can't hold his pee. He had a million accidents while on Sojo's.<br /><br />Sojo's has high fiber content so our dogs became poop machines. Non-stop poop makers. This is good for their anal glands, but it really gave me and our septic system a run for its money (we dispose of their feces in the toilet). Tell-tale was the comment by our groomer when we picked up our little 7 pounder: "He did a human size poop. How did he have all that in him?" Exactly. That's Sojo's.<br /><br />And the worst, most telling, example that Sojo's didn't provide adequate nutrition... About 4 hours after eating, our little guy would go out to the dog yard and chew on old Sojo's poop. There are visible bits of undigested veggies in Sojo's poop and he would pick them apart and eat them. He was starving. Now that Natural Balance is mixed into his meals he no longer eats poop. He's happy and content. [Only on an all-Sojo's diet did he have this pica behavior. The veggie bits are still in the feces, but he has no interest and no need to eat them. Another spin from customer service: "The dogs love Sojo's so much I've heard they will eat the poop." Now we know the pica behavior is driven by hunger, not passion.]<br /><br />I equate Sojo's to the old saying about eating Chinese food "two hours later, you're hungry".<br /><br />In any case, I think we're all very happy now with the mix of food. They have lots of yummy veggies, some turkey and the kibble that sustains them. I wish Sojo's was enough, but it's not. I'm glad to have found a solution without giving up Sojo's altogether. And so are our dogs.
+
+product/productId: B0027IQC78
+review/userId: A2TJS6WL0DSGC9
+review/profileName: John
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306540800
+review/summary: Amazing results
+review/text: Had never heard of Sojos before, so I'm glad I happened to stumble across it because my otherwise healthy German Shepherd Dog (� 3 years) had been scratching, licking, sneezing and chewing incessantly for months.  By process of elimination we eventually deduced there was probably some sort of allergy involved.<br /><br />I adopted Jake about six months ago and fed a super-premium breed-specific kibble, which was always accepted and seemingly enjoyed.  But the label showed nearly one hundred ingredients, and now I wanted to eliminate as many possible allergens as possible at once, in hope of identifying what Jake was allergic to.  That led me to a neighborhood raw pet food store (which I'd frankly always kind of snickered at) and by chance I grabbed a bag of Sojos Complete.<br /><br />I've had similar results as other reviewers.  The itching/scratching stopped almost immediately, for the first time in months. Jake had plenty of energy before, but now he actually seems supercharged, almost like he's on speed.  His coat is noticeably softer.<br /><br />This stuff looks bizarre at first, unlike any kibble or canned food you've seen.  Kind of like a soupy salad stew.  But it actually smells really (I mean *really*) good, and I half-joke that my dog is eating better than I am.  Jake woolfs Sojos down, and his poos are consistently normal -- not even a problem when I switched to this food cold turkey (no pun).<br /><br />I'm generally pretty jaded, but I think this stuff is really awesome.
+
+product/productId: B0027IQC78
+review/userId: A18WAYKO4NVMCG
+review/profileName: lynn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303257600
+review/summary: Absolutely the best dog food for nutrition and convenience
+review/text: I began feeding this to my husband's border collie when we did a 5 day back-country hiking trip last year.  We needed something lighter, and more nutritous than kibble.  She absolutely loved the food.<br /><br />Shortly thereafter, we began feeding it to our ancient 16-year-old border collie.  About a month after being on the Sojos complete, there were fewer clouds in his eyes, his coat was softer than it had ever been, and, unbelievably, he seemed to have less than half the dementia type episodes he had been experiencing.  He also slept better at night.<br /><br />Up until I fed Sojos, I had been feeding a very high quality organic kibble topped with homemade dog food (cooked chicken, turkey, hamburg, and loads of veggies).  The Sojos made an incredible difference - mostly for the old dog.  He lived to be 2-weeks shy of his 17th bday.<br /><br />With 4 active young dogs in the house at the moment, I use Sojos as a topper unless a dog has allergies.
+
+product/productId: B0027IQC78
+review/userId: AOJF59EUDPR7A
+review/profileName: Richard Keller
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1261526400
+review/summary: Great products like all Sojo's products.
+review/text: I have used other Sojos premixes and decided to try this one as it already has the protein in it.  This would save me time from cooking eggs or preparing other proteins.  My dogs took to it right away and love it.<br /><br />I make a 3 day batch and keep it in the fridge and I usually put it over some rice and make it like a stew.  Adding rice can also help keep the cost down and stretch it a little as it can get expensive if feeding to multiple dogs like I do.
+
+product/productId: B0027IQC78
+review/userId: AQ3Q61OY4KV6L
+review/profileName: Kristy Watkins "Pet Owner Extraordinaire"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349827200
+review/summary: I love this food!
+review/text: I originally used this when I switched my first dog, Peanut, to home made fresh raw. He loved it and he thrived,then, when I started working, I didn't have time for all the cutting, pulverizing, supplementing, and storing that fresh raw required, I switch him to Taste of the Wild. I just adopted a neglected Mini Dachshund, Chip, who had a horrible skin infection, dry flaky skin, and dull coat. He had been fed exclusively human scraps, like pizza or chicken nuggets, or bologna. He refused to switch to a healthy dry. So... Im going back to Sojos! It is only a fraction more expnsive per meal than the dry foods I feed, due to smaller required portions, AND i dont have to buy endless cans of stinky canned food just to get Chip to eat, wasting A lot of dry kibble because he would lick the canned off each kibble and hide it! He dug right in to this, and for the convenience and nutrition, I am willing to stay!
+
+product/productId: B0027IQC78
+review/userId: A1YWJLU9L5WLXS
+review/profileName: T. J. Stewart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348704000
+review/summary: One Happy Dog!
+review/text: I bought this food to try with our younger shepherd to save space and weight while backpacking. Strangely, the dog who eats everything didn't like it (the only reason I didn't give it 5 stars), but the 10 year old shepherd LOVES it. He has never particularly liked any food we've tried and has always been underweight. We've tried adding all sorts of things to his diet to get him to eat without much success. He now looks forward to meals and cleans his bowl every time. He has been on this food for 3 weeks now and looks very healthy and happy. The food is easy to prepare and takes up very little space.
+
+product/productId: B0027IQC78
+review/userId: AOVZ0WGSKZ1G0
+review/profileName: Loren Clobes
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1347408000
+review/summary: Is SOJOS over rated?
+review/text: We have two really neat creatures living with us and most people refer to them as dogs.  We, of course, want what is best for them and so we have been using SOJOS as part of the diet for them.<br /><br />In checking the internet, I came across a site which was an independent organization which thoroughly tested and evaluated a whole litany of pet foods.  To my surprise, this site rated SOJOS at a 3.5 rating out of a possible 5.  The kibble which we had been feeding, and continue to mix with the SOJOS is rated at a 4.0 rating.  Although our two creatures like the taste and/or smell of the SOJOS, we are trying to determine if we want to continue to feed them the SOJOS.  We want to get the most bang for our buck and are not certain if this gives us that.<br /><br />What really caught my eye and makes me wonder if we are getting the most bang is wording on the AMAZON site.  The larger bag of the Complete with turkey is listed at 8 pounds.  Yet, in the description, it says "Shipping weight 7.8 pounds.  Which is correct?  Are we actually getting 8 pounds of product or 7.8 pounds?<br /><br />We want what is best for our beloved creatures, but lately there has been a rash of new products and everyone is claiming that theirs is best for our four legged friends so one is going to have to rely on independent testers to assist us in making a prudent decision.  At this point, I do not feel that a 3.5 out of 5 really cuts it as top shelve.
+
+product/productId: B0027IQC78
+review/userId: A2XJ05ORY8RAFP
+review/profileName: Darlene Sinclare
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338854400
+review/summary: Sojos dog food
+review/text: Received the product quickly.  My dogs love this food.  When it gets close to dinner/breakfast time they don't leave me alone.
+
+product/productId: B0027IQC78
+review/userId: A2YQBBJFAC9X1I
+review/profileName: lphan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337212800
+review/summary: Restored my dog's fur!
+review/text: I had always fed my 3 year-old german pinscher grain free kibble. Even after switching to other highly rated grain free kibbles, and he had always had a weird skin condition - it was oily but dry at the same time, and he always had a lot of dandruff. Earlier this year, I noticed he was beginning to lose fur. After inspecting his coat closer I saw he was developing a rash under his coat where he was losing fur.<br /><br />I switched to Sojos Turkey Complete and noticed a dramatic improvement on his skin condition in FIVE DAYS. My boyfriend even noticed. His fur is coming back and is looking so much better now. He also doesn't smell as much as he used to.<br /><br />After three weeks his fur has been mostly restored. He's happier, and I'm happier. Thanks Sojos.
+
+product/productId: B0027IQC78
+review/userId: A13IOA1ZXEFTIX
+review/profileName: msminni
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319328000
+review/summary: good in a pinch
+review/text: It's good in a pinch, but it's much less expensive to just get chicken or turkey and potatoes, carrots and brocolli<br />and cook once a week for your dog and keep it in the frig.<br />This stuff does not bulk up as much as they claim. And the food looks like mush.<br />They only thing that is visually identifiable is these little chunks of turkey.<br />Having said that, my dogs loved it.<br />But they love dog food, so that's not saying much.
+
+product/productId: B0027IQC78
+review/userId: A37U5RX3L1S2QC
+review/profileName: Gsd4me
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316908800
+review/summary: Sojo's for a very allergic dog
+review/text: I have a 20 month old German Shepherd who has LOTS of allergy problems--I need to feed him a Turkey and Veg mix and have been either making it myself or purchasing a raw mix already prepared.  A friend told me about Sojo's so I bought an 8lb bag to try.  It mixes great with the water, looks appetizing, smells good and most important, the dogs LOVE it.  Their stools were great (and I did not wean onto it)and it seems to satisfy them.  My only issue is knowing the portion of water to food---and I need to know how much of it equals one lb.  The feeding guidelines are in cups--recommended amounts.  I feed by weight.  I thought i had it figured right but i used way too much water so I need to decrease that for the next time I mix it up.  Otherwise, loved it.
+
+product/productId: B0027IQC78
+review/userId: A3F2926FPOBNL
+review/profileName: fake name
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316822400
+review/summary: Amazing
+review/text: I have tried every type of premium dog food on the market. Literally, but my dogs didn't like any of them. I've  been to the holistic vet for suggestions for food, we tried mixing dry/wet we tried homemade dog food, we have tried everything - all with limited success. The only food we can consistently give them that they are excited to eat, from their bowls is fresh vegetables such as broccoli, cauliflower, lettuce, carrots, etc that the holistic vet suggested we supplement their diet. My dogs have been successfully eating Sojos for the longest period and the health benefits are AMAZING!<br /><br />I have a schnauzer poodle mix who is now almost two years old. In her short life we've visited the vet over 20 times because she has eye problems. She had entropion eyelid surgery because her eyelids rolled in and her eyelashes would scratch her eye (can you imagine living with the feeling that you constantly had hair/eyelashes stuck in your eye?) Then, when visiting the doggy eye-doctor we discovered our sweet girl was not producing ANY tears in one eye and close to none in the other eye. We had to put her on strong eye drops for the rest of her life that would help to make her tear glands produce tears. In addition we were putting in an eye gel to simulate tears in her eyes and moisten her eye ball. I hated giving her the eye drops because of the side effects: when she would smell human food (never dog food) she would salivate and it would drip from her mouth. So I stopped giving the eye drops and started using the eye gel more.<br /><br />I never considered that her diet and her dry-eye would be related but after I stopped the eye drops we tried Sojos because the girls literally wouldn't eat their very expensive food we had been purchasing. Amazingly, they ate it every time. Over the next four weeks we noticed that we had to put less and less eye gel into her eyes because her eye did not need them. Her eyes looked healthy and were moist. We took her back to the doggy eye doctor and their test confirmed what we had seen - her eye had started to produce tears by themselves.<br /><br />I should not be surprised as I suffer from severe allergies know the effects that allergies can have on my body. In taking away the grain and feeding my dogs Sojos, my sweet dog's allergies have subsided and her eye has improved. I am so grateful she is feeling better and enjoying the food she is eating. I do believe it was a grain that she was allergic to, I don't think the meat in Sojos made the difference. It is very possible that another grain-free food would have produced the same benefits. I am not going to test this theory as I have been waiting for years to find a successful food for my dogs. I do shout the benefits of going grain-free. If you are trying a different food or trying to decide to make the change, I think it is worth the money to see if it will benefit your dog. I wasn't expecting it would make the difference that it did and I ECSTATIC about it! I highly recommend going grain-free and think that Sojos is a great option.
+
+product/productId: B0027IQC78
+review/userId: A1HTP3GJYF26RI
+review/profileName: Edward S. Golden "nedlog"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1255219200
+review/summary: Sojos
+review/text: We ordered two large bags. The package arrived on time. The dogs are gobbling it up, they are loving it.
+
+product/productId: B0027IQC78
+review/userId: A2J5I8EPWXJEGB
+review/profileName: L. Robinson "Loves to read"
+review/helpfulness: 2/4
+review/score: 2.0
+review/time: 1278374400
+review/summary: Not a patch on the sojos grain free add meat!
+review/text: Sadly for me and the time i spend cooking ground turkey for my little darlings, they really didn't like the Sojos complete food. They love the add meat variety (LOVE LOVE LOVE) but this- they ate when they were starving, but otherwise ignored. I wish they loved it it would be so much easier! They are little yorkies - perhaps it's a breed thing.
+
+product/productId: B0027IQC78
+review/userId: A3DEVKQV4RKWNU
+review/profileName: FirstMate
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1261526400
+review/summary: Fantastic, Healthy for Happy Dogs
+review/text: I have been a customer of Sojo Farms for years...when they came out with the Complete Dog Food...I was elated and our Dogs love it!  Even my cat loves the pieces of turkey!
+
+product/productId: B0027IQC78
+review/userId: A1VVMEYTVZ2Q0G
+review/profileName: April Silver
+review/helpfulness: 1/4
+review/score: 5.0
+review/time: 1301097600
+review/summary: No more "stinkies"
+review/text: I initially ordered Sojos Complete Dog Food Mix to eliminate our French Bulldog puppy Boogie's "stinkies". Post research my boyfriend read that raw diet is the solution to "stinkies". Sojos Complete Dog Food Mix is all natural, convenient and smells flavorful. Sojos Complete Dog Food Mix is fresh and usually born within the same month of purchase. I regret the lack of transition from Solid Gold Just A Wee Bit to Sojos Complete Dog Food Mix for my two year old Dachshund Frankie. Frankie ate Sojos Complete Dog Food Mix for a couple of days and then completely stopped. I currently purchase Solid Gold Just A Wee Bit for Frankie. Boogie's "stinkies" are eliminated.
+
+product/productId: B004DCOU8O
+review/userId: A2O6VIR0AUTIE1
+review/profileName: Isabell
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311984000
+review/summary: Good Flavor
+review/text: Quite a nice accomplishment to a BBQ dinner.  Also a good addition to chicken, beef or beans in a wrap.
+
+product/productId: B001EO65VO
+review/userId: A2BHQ64MU0N8FE
+review/profileName: accordionplayer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244419200
+review/summary: Refreshing, organic tea
+review/text: I have tried several of the Ambassador Organics teas.  The mint is my favorite.  I keep a few extra cans of tea and packs of coffee around the house as they make excellent house gifts...something different than wine.  I took a few cans of tea when I traveled to Germany.  The tea comes in containers that are secure, light-weight and easy to pack.  The company is run by former Senator and former Ambassador Carol Moseley Braun.  They are really committed to sourcing "fair trade" and biodymic products.
+
+product/productId: B0000TM9FU
+review/userId: A3RQFQS48OZAZO
+review/profileName: S. Straw
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1324425600
+review/summary: I Throw Away Other Cheese Straws
+review/text: First of all, I would like to comment regarding previous reviews. I do not think the first review in 2005 was done by an employee, and that's not really a fair statement but rather an assumption lacking any real fact or evidence. It seems like a very small company that just enjoys making cheese straws and wants to share them with others. I sincerely doubt that, at the great price they are, the company even makes a ton of profit - which is a shame.<br /><br />Secondly, after tasting Aunt Lizzie's cheese straws for the first time this Fall, I will not eat anyone else's. I literally threw away a package of a VERY POPULAR cheese straw company that I received yesterday as a gift because when I tasted them, they just tasted bland and floury. I could not even bring myself to finish them. I crave Aunt Lizzie's cheese straws so much. (I recommend trying them with some Shiraz or other wine!)<br /><br />Our company gave out Aunt Lizzie's cheese straws as a corporate customer gift this year, and I bet that Aunt Lizzie will have a slew of new customers after that. Thanks, Aunt Lizzie!! :)
+
+product/productId: B0000TM9FU
+review/userId: APQT15K4LVT3P
+review/profileName: Bliss 149
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1117756800
+review/summary: These are really good
+review/text: If you've never had them, they're like a cross between a cookie and a cracker. Kind of the texture of shortbread...but savory not sweet.<br /><br />The low carb version is fabulous too.
+
+product/productId: B0000TM9FU
+review/userId: A1IRKTCTOIHJIM
+review/profileName: happyann
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349654400
+review/summary: Yummy, but...
+review/text: These cheese straws are very yummy. Unfortunately, I felt that they were making me gain weight as part of my low carb diet. I gained three pounds in the week that I bought them eating maybe a couple of handfuls a day. So, while very delicious, they may not work well for my diet.<br /><br />Update: I see that the product Amazon took me to write this review was not exactly the product I ordered. I ordered the low carb tin.
+
+product/productId: B0000TM9FU
+review/userId: A1CBG20CYAHJYY
+review/profileName: Linda Pennot
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1280880000
+review/summary: 1st Review Written By Employee
+review/text: If you read the first review and then read the company literature it will become obvious that the 1st review was either written by an employee or was copied from the literature. I will say the cheese straws are the best I have ever tasted. From the flavor to the crunchy feel in my mouth, I am addicted to Aunt Lizzies cheese straws. The negative? Customer service is non existent. An order that was placed on the internet was subsequently lost, even though I received a confirmation via email. I was offered no discount or upgraded shipping, no additional product with my order, no discount on my next order, not even an apology for the 7 day delay. Just an excuse that the email order was lost and that her IT guy would be on the problem tomorrow. Personally, I can count the number of times an email has been lost over the last 10 years on one hand. This is not the first problem I have had with an order. They do not give a tracking number with each order and when asked for one after the order is placed the odds of getting one are 50-50. I have had so many problems with my orders I will go without my Aunt Lizzies cheese straws. I will miss them greatly however I need the hassle associated with ordering them less than I need the cheese straws. ANN, I wish you the best in the future and suggest you participate in customer service training classes to refrain from losing additional customers in the future. FOLLOW UP: I just received an email notifying me that my order shipped on the Aug 9th. I have not placed an order! What more can they do?
+
+product/productId: B0000TM9FU
+review/userId: A1C5BEPVPUBGVY
+review/profileName: zippity "zippity"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1294358400
+review/summary: Winner -just like mama use to make
+review/text: These are perfect, just like mama use to make - maybe a touch better. I am a regular customer and have not had the problem mentioned by the other customer. Just a perfectly lovely homemade cheese snack that are perfect with apples slices when playing cards, snacking, etc.
+
+product/productId: B003WO51JG
+review/userId: A1SMVI75746Q4E
+review/profileName: Darren Margolis "Darren1701"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1325721600
+review/summary: Too tart
+review/text: I make Crystal Light Lemonade at home in a pitcher and add some Ocean Spray Diet Cranberry to sweeten it and it's delicious.  When I saw this product it seemed like a great idea to have at work.  I was very disappointed.  It tastes too tart, not at all sweet.  It's basically lemonade.  I hope that they will reformulate this so that it has a sweeter cranberry taste. If I can do it right when I make it at home, they should be able to also.
+
+product/productId: B003WO51JG
+review/userId: A1ZW0CLNFF1FSA
+review/profileName: Elisa M. Sauer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Love It!!
+review/text: Ocean Spray On the Go Sugar Free Drink Mix  are great i use double the water it calls for and it's perfect! I have my Hubby now hooked and they are sooooooo hard to find!!
+
+product/productId: B003WO51JG
+review/userId: A1MDO8RZCZ40B0
+review/profileName: ilbob
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350950400
+review/summary: tart and sweet at the same time
+review/text: I got this at a local grocery. It was 2 pkgs of ten on sale for $3. I had not tried it before, so thought I would try it. At that price, there is not much downside.<br /><br />I like it. As with the other flavors of this product I have tried the lemonade flavor dominates over the cranberry flavor.<br /><br />It is not as sweet tasting as the cran grape flavor <a href="http://www.amazon.com/gp/product/B007RXG1SS">Ocean Spray on the Go Sugar Free Cran-grape 10 Per Box</a>, but I liked it enough that I will probably buy it again.
+
+product/productId: B003WO51JG
+review/userId: A2OH84UPL6IX6A
+review/profileName: 5grits
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335744000
+review/summary: Cran-Lemonade
+review/text: Product is great it just took way to long to get it.  I recommended the product to someone else and they got it a week before I did.
+
+product/productId: B003WO51JG
+review/userId: A3K3UHC5J04NW4
+review/profileName: JNobi "Jimmy"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319241600
+review/summary: Not great, but not bad.
+review/text: This doesn't taste like Tang to me like the other reviewer says. Tastes like lemonade with a hint of cranberry. Not bad for sugar free and pretty easy to make. At this time the price is half of what the other Ocean Spray flavors are, not sure why, but a great value. I paid $11.24. Today's price (10/22/11) $10.24.
+
+product/productId: B003WO51JG
+review/userId: A1RXJEFNPP9QJI
+review/profileName: Venny Vicious "Operating at the speed of Life"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1317600000
+review/summary: Not the greatest flavor
+review/text: I've tried a few of these, and took a chance at buying this flavor online.  The Cran Lemonade is not one of the better flavors to me. A bit too acidic, more like Tang drink mix.  Initially, I was looking for the Cran Pommegranate; which is fantastic but potent.  Price was the determining factor and I took a chance.  Won't buy again.
+
+product/productId: B00474JIRG
+review/userId: AQGLLL5A6PQQC
+review/profileName: Bill L. Matthews
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Go Country, Go Gravy!
+review/text: I grew up on a farm where the tradition was gravy at least one meal a day, and in the mornings: hot homemade biscuits with lots of gravy on them. Now, I can make my own gravy, but, why bother when there's Southeastern Mills Old Fashioned Gravy Mix, With Sausage Flavor in easy to open packets I can order from Amazon and have it delivered to my door by my postal carrier! This is my favorite from Southeastern Mills. Just open up a couple of my hot homemade biscuits and ladle the gravy over them alongside sausage patties and hash browns. That's my basic Sunday brunch every week. I try to limit this 'guilty pleasure' to Sundays---but don't always succeed!
+
+product/productId: B007VPGH04
+review/userId: A1X3J1GJQ5BKTP
+review/profileName: Saia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346976000
+review/summary: My dog's favorite!!
+review/text: Merrick wishbone continues to be my dog's favorite chew.  I should say his ONLY favorite chew that won't cause him diarrhea.  His stomach can't tolerate rawhide, be it unbleached or bleached.  He can spend the whole day chewing that be happy.  It will keep him busy if we have to go out during weekends.  Plus, you can't beat the price on Amazon.
+
+product/productId: B007VPGH04
+review/userId: A3FS3KF3O778YM
+review/profileName: Katie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Longest lasting chew yet
+review/text: I have an Italian Greyhound who is a moderate chewer and a Pug who is a strong chewer. These chews are so great for both of them. Even though these are pretty big, they can handle carrying them around easily. They love these beef tendons. I have not seen a chewy with a better value, or of a better quality. They are consistently high quality, as can be expected from Merrick. I will be making these my primary chewy for my boys, because it is easy for them to digest, great for their teeth, doesn't smell terrible like other chews (such as a bullystick), and lasts longer than any other I have tried (including bullysticks, rawhide, pork skin, ... you name it). I have finally found the best bang for my buck,so to speak, and it just happens to be my boys' favorite. Highly recommended.
+
+product/productId: B001HTL7VY
+review/userId: A3AJKDRU31NJLJ
+review/profileName: Lynn Michael "Grandma"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1321401600
+review/summary: Not what it said
+review/text: It says a pack of 12.  I received 6 and have never heard from them again.  I contacted them and have heard nothing.
+
+product/productId: B0029NDTEA
+review/userId: A1ENWBPI8R2FAZ
+review/profileName: K. Nelson "lovevintage"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319414400
+review/summary: Super fruit flavors.
+review/text: This tea is great for anyone who likes a little fruity flavor in their tea. Needs no sweetener. It just has a good flavor and is very enjoyable.
+
+product/productId: B0029NDTEA
+review/userId: A26HIWMERIOXP
+review/profileName: Deborah Pianko
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341964800
+review/summary: Fantastic peach apricot tea
+review/text: Not only was the shipping prompt and easy, the seller included an extra little gift in there.  Nice touch.  I've been using the peach apricot tea leaves in my Hamilton Beach iced tea maker for the past couple of months - and I love it every time.  I put about a tablespoon of the leaves in the brewer, and let it run.  And then I add an equal amount of iced cold water to the hot tea that gets created (I don't like very strong iced tea), and presto!  The peach apricot is such a nice combination of flavors, I'm sure I will buy more when I run out eventually.
+
+product/productId: B000MDHHQK
+review/userId: A1O4UTERZGXURK
+review/profileName: Hamer
+review/helpfulness: 5/9
+review/score: 3.0
+review/time: 1263168000
+review/summary: Sardines good, a little too much mustard IMO
+review/text: I have been making my way through different sardine brands and finally tried these. I enjoy the regular US brands of mustard sardines. I found these to be a little overboard on the mustard for my tastes. I would estimate there was approximately 3 tablespoons of a thick Dijon mustard in the package. The mustard just dominated everything and I tried to remove as much as of the mustard as possible.
+
+product/productId: B001FB6BE2
+review/userId: ATFU5XB9Z6FBG
+review/profileName: A. Goebel "equine publisher"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1266192000
+review/summary: I love this sauce!
+review/text: It has a good, rich flavor, slightly but not too sweet, and it can be varied by adding a little rice wine or sesame oil or other flavor. It works with a variety of vegetables, and I like it with walnuts or tofu or wheat gluten. For tofu, I usually stir-fry the veggies, remove them from the wok, add the tofu and brown it, then add this sauce and let it caramelize to taste, then add the veggies back in.
+
+product/productId: B001FB6BE2
+review/userId: AFD5Y6RO3OTF0
+review/profileName: Janet Metz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323043200
+review/summary: Excellent
+review/text: Lee Kum Kee Vegetarian Stir-fry Sauce is very tasty and makes stir-frying vegetables very easy.  It isn't too salty like some products.  Highly recommend.<a href="http://www.amazon.com/gp/product/B001FB6BE2">Lee Kum Kee Vegetarian Stir-fry Sauce, 18-Ounce Bottle (Pack of 2)</a>
+
+product/productId: B0000GIOU2
+review/userId: A1080SE9X3ECK0
+review/profileName: L. Meza "fire2ice"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1203379200
+review/summary: a true delight!
+review/text: we were very pleased to have found these through amazon! we love the taste! my kids love them with milk.
+
+product/productId: B0010ANE2K
+review/userId: A2O7EVF437OGXY
+review/profileName: W. Wattles
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1202947200
+review/summary: Better than Yellow!
+review/text: I've been using the White Corn in both an air popper and the old-fashioned way (in a pot with oil) for several years now.  The kernels themselves pop up a little smaller than the mass-marketed yellow corn, but the flavor is significantly better.
+
+product/productId: B0010ANE2K
+review/userId: A26CZUOQUMYNZY
+review/profileName: Half Twain
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1209340800
+review/summary: The budweiser of popcorn is actually really good
+review/text: I'll keep this short.  I'm a beer snob, but I'm also a popcorn snob.  Bad popcorn can ruin a night out at the movies for me.  I also buy my popcorn from a popcorn company.  One day my supply unexpectedly ran out and I had to get some popcorn quick! I bought this at my local store; It was pretty damn close to the premium brand I'm used to (fireworks popcorn).  It actually had bigger volume.  That said, I'm too loyal to fireworks (it's better too).  Nevertheless, if I'm in a popcorn bind I'm buying this!!!
+
+product/productId: B0010ANE2K
+review/userId: A3PSQJLKEOH63I
+review/profileName: Christopher M. Sammons
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1273104000
+review/summary: The best for oil popping
+review/text: I only cook popcorn using corn oil and have been doing so for decades.  Orville has been my favorite forever.  When I discovered the white corn a few years ago I was intrigued. Tried some and instantly became a huge fan.  I urge you to try it.  As I have never utilised an air popper I can not address the issues some seem to have experienced.<br /><br />If you are looking for great taste, you couldn't do better...
+
+product/productId: B0010ANE2K
+review/userId: A3RCPHBVCHV532
+review/profileName: M. Nagle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334016000
+review/summary: "POP" STAR !!
+review/text: I have spent lots of cash on White popcorn. Tried most of the fancy ones. I ran out of all of it one Friday night and was forced to 'lower my popcorn standards" and buy some Orville. I made faces as I popped it with Olive Oil(try it. extra flavor) on top of the stove because It was going to disappoint. I always make a huge pan so I can eat it for a couple days. All but 3 kernels popped! Amazing! Out of that huge pan I found 2 partial hulls. It tasted delicious, had just enough crunch but still melted in my mouth. If Orville was around, I'd stalk him!!! With all the money I will save, not giving it to the Amish, I'm gonna stock up! BTW,IMO,air poppers should be illegal!
+
+product/productId: B0010ANE2K
+review/userId: A3FYC227OD02Y3
+review/profileName: Leah Helmer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213401600
+review/summary: Love this popcorn
+review/text: I have this popcorn bought and I love it.I have the popcorn machine of Orville Redenbocker too.
+
+product/productId: B0010ANE2K
+review/userId: A3FKGKUCI3DG9U
+review/profileName: Paul Moskowitz
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1251676800
+review/summary: Too energetic for my machine
+review/text: This popcorn came with high expectations in a nice see-through bottle with no added salt, fat or other unwanted stuff.  It promised large kernels of popcorn.<br /><br />When I placed it in my hot air popper, everything started normally.  That is, until the first pop.  The corn popped with such violence that my machine shot out a dozen unpopped kernels with enough speed to bounce out of the waiting bowl and into space.  I hoped that the popped kernels would absorb the energy generated by the popping process as they normally do.  No such luck.  Subsequent pops repeated the explosive process.  Unpopped and popped kernels went flying everywhere.  It was a remake of the <a href="http://www.amazon.com/gp/product/B00003CX9W">Sorcerers Apprentice from Fantasia</a>.  They were on the countertops, the floor, even shelves.  I am still finding them.<br /><br />Only about half of the original popcorn ended up in the bowl.  The popped kernels were indeed very large and fluffy.  Clearly, this product is not designed for my popcorn machine.  I will go back to the old-fashioned unexciting small kernel popcorn that I can get at the local health-food store.
+
+product/productId: B0010ANE2K
+review/userId: A1FX9275HSZYXW
+review/profileName: T. Davis "T. Davis"
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1310947200
+review/summary: Doesn't have the 'corny' taste of regular yellow
+review/text: As has already been noted, the kernels are a bit smaller than the regular yellow variety and, to me anyway, less flavorful.  I've been using a West Bend microwave popper.  The 'pops' are a good deal less robust than the yellow variety when popped by this method.  More like 'pfft corn'.  The texture has a lot more crunch to it than the pillowy yellow puffs.
+
+product/productId: B0010ANE2K
+review/userId: A3A0ZC8UNDT8N3
+review/profileName: Edward Brown
+review/helpfulness: 4/11
+review/score: 1.0
+review/time: 1209513600
+review/summary: Over $14 For Standard S/H
+review/text: Over $14 for standard S/H, no thank you this will be the last time i purchase this popcorn from Hometown Favorites.
+
+product/productId: B003QNNMCG
+review/userId: AYHCZORYTWQAB
+review/profileName: Chris Garco "prose9"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320278400
+review/summary: Best tummy tea I have found
+review/text: I think a lot of the wellness teas out there that aid in digestion and settle the stomach can have a unpleasantly intense ginger flavor. I like ginger, but this herbal tea is much more subtle and enjoyable. The flavors in this tea blend so well and are incredibly tasty. (Fennel, cassia, ginger, apple, calendula, anise, dandelion, mint, caraway, peppermint, cornflower.) I highly recommend this tea! And, its organic!
+
+product/productId: B007S7OT8W
+review/userId: AJ9COM2N41PD5
+review/profileName: H. Mera
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342224000
+review/summary: Intense Flavor
+review/text: This cinnamon has an intense flavor. Reminds me of the Cinnabons aroma in shopping mall! Not smokey as the label might imply. Full bodied scent. Prefer this a lot more than the everyday ground cinnamon. Can use slightly less in recipes because of the stronger flavor.
+
+product/productId: B0007TXI9E
+review/userId: A2T9NCPXQ6163W
+review/profileName: Donna
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319846400
+review/summary: Puffs from Heaven
+review/text: A wonderful combination of crunchy and melt in your mouth. And the thick layer of chocolate all around is just perfect. An amazing contrast of textures and flavors.
+
+product/productId: B003RD0Q2O
+review/userId: A1P95CJMIG61DM
+review/profileName: Boulder CO mom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322438400
+review/summary: surprising good taste
+review/text: I was intrigued by the picture on the front, the list of ingredients, and the Italian snob appeal when I saw this at our little gourmet food shop in Niwot CO.  I was thinking maybe the reason this could make you lose weight was that that with all those weird ingredients it would give you a stomach ache and diarrhea. I usually avoid licorice and green tea for that reason. But I bought some anyway just to taste it, and then give away as a joke, but I find myself loving it and drinking it several times a week.  I have not had any gastro problems, and I am truly steadily losing weight. I have to say that something is putting me in a good mood too, and my brain keeps suggesting that I drink this stuff.  (Which is better than when my brain used to suggest what I needed was red wine)  I will buy more of this coffee and I want to give it as Xmas presents to family members who I think would like it too. It does seem like the type of coffee you would NOT put cream in (I mean, come on, it's weight loss coffee!) but it actually tastes good black.  Ok, so maybe you could use skim milk, foamed up.
+
+product/productId: B003RD0Q2O
+review/userId: A17LW37BM513HU
+review/profileName: Lloyd
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307404800
+review/summary: Fitness Coffee review
+review/text: Fitness Coffee is amazing! I am on the road a lot and after a day of driving, I am pretty tired. Since I started drinking Fitness Coffee I have more energy and my mood is better when I get home in the evenings. I have also lost a few inches around my waist. This morning I brewed a cup and poured it over a cup of ice and now this has become my new summer drink!
+
+product/productId: B003RD0Q2O
+review/userId: AV59M8ZW27HY3
+review/profileName: Dee Dee Crump
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349136000
+review/summary: Too much Too litte
+review/text: I expected good results from some ladies who had used the product and thought it was a great asset to their health.  I really didn't see any of the results that they saw.<br /><br />I would try it again if the price was more reasonable.  The shipping expense was way out of line.  Somehow, my friends got theirs without paying shipping.  Too bad for me!
+
+product/productId: B003RD0Q2O
+review/userId: A221IYGUANAAL2
+review/profileName: Cheryl L. Clark
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1306195200
+review/summary: The taste is terrible!
+review/text: I did not like the taste of this stuff at all.  I tried several cups and just could not get over the taste of cloves or something like that.  Will not try this again.
+
+product/productId: B001E5DZJ8
+review/userId: ATI5UX2O5R4RL
+review/profileName: Molly Bermea "a monster"
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1268265600
+review/summary: BEST BROTH EVER (vegan or not)
+review/text: BEST BROTH EVER. I use it in place of meat based broths and it's perfect. I'm not a vegan or vegetarian either. And not onion-y or garlic-y either. They use excellent herbs for their mix and it's a small simple list of ingredients.<br /><br />I even put a cube in to my rice cooker (with the rice) and it really flavors the rice up well.
+
+product/productId: B001E5DZJ8
+review/userId: A25CB08CPKZUD1
+review/profileName: Tessa M.
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1267660800
+review/summary: Excellent Vegan Bouillon
+review/text: This makes by far the yummiest veggie broth I've ever tasted.  I'd describe it as similar to chicken broth - very rich and herby.<br /><br />Tips: It's a little salty so you may want to reduce the amount of added salt when you cook with it.  The cube is also sort of moist so you can cut it in half if you just need one cup of veg broth.
+
+product/productId: B001E5DZJ8
+review/userId: A2ZE5ICI6LWAZ0
+review/profileName: Debra Schiff "http://hereandthere123.blogspot...
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1259193600
+review/summary: Excellent ingredient for many recipes
+review/text: I use this bouillon when I make rice to flavor and salt the rice. It's a bit on the salty side, so only using one cube per 4 cups of water (doubling the water in the recipe) nicely seasons rice. Additionally, the herbs add good flavor. I also have used this product in making vegetable and bean soups. It provides a tasty base, but again, if you are sensitive to salt, you might want to try the salt-free version of this vegan product. Lastly, the subscribe and save feature really drops the price. I work in a health food co-op and we sell this for much more (even with a discount).
+
+product/productId: B001E5DZJ8
+review/userId: A29X3CSAKXEUN
+review/profileName: Cutething
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325203200
+review/summary: Fantastic, convenient vegetarian base
+review/text: Yeah yeah, we should all be making our own stock and freezing it, but Rapunzel bouillon cubes are so convenient and delicious, there's no need. I love the fact that there's a flavorful bouillon cube that's vegetarian. I use them for soup and stew bases and to add a little extra flavor to rice and box mixes.<br /><br />I'm wary of vegetarian broths because they can often be bland or have a weird aftertaste, but these are a great balance of flavor without being overwhelming. Stock should create a base for your meal, not define it, and that's exactly what these do.
+
+product/productId: B001E5DZJ8
+review/userId: A3BQRJV4K9RVT2
+review/profileName: Steven Hellbusch
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1318550400
+review/summary: Best Tasting Veggie Broth
+review/text: I really enjoyed this broth. For me, vegetable broths are always have to strong of a tomato taste and this one does not.  The only reason it is 4 stars and not 5 is because of the high sodium content even for the "with sea salt" version of this product. I enjoy the "no salt" version but this one is better tasting. I would really like it if they had a "no salt, with herbs" version.
+
+product/productId: B001E5DZJ8
+review/userId: A2FT4F1WH6S052
+review/profileName: Linda Ledford-Miller
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1179187200
+review/summary: vegetarians will love it!
+review/text: I have tried many different vegetable bouillons in the past. Sadly, many have MSG or natural flavoring and must be avoided. This one is safe and delicious, and makes a great soup base, or a wonderful addition to a risotto. Enjoy!
+
+product/productId: B001E5DZJ8
+review/userId: A17X683JV3REY1
+review/profileName: Cara M. Phillipo "caradarling"
+review/helpfulness: 24/36
+review/score: 1.0
+review/time: 1256428800
+review/summary: hidden MSG in this product
+review/text: Rapunzel does us free glutamic acid in their yeast to boost flavor despite claiming it is not in the product.  Third party tests have revealed this to be true.  I had a horrific reaction to this last night.
+
+product/productId: B001E5DZJ8
+review/userId: A2F3JNFI8CVXRY
+review/profileName: Rebecca X
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: My favorite bouillon
+review/text: This is so flavorful and delicious - even my kids like it and usually they run from anything with the word "vegan" in it.
+
+product/productId: B001E5DZJ8
+review/userId: AW9JA0M9KV8NG
+review/profileName: Holly F.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347580800
+review/summary: Absolutely wonderful boullion cubes!
+review/text: I'm not vegan or vegetarian and I choose to use these cubes in all of my recipes because they have the best flavor.  There is just the right amount of sea salt and herbs.  A really great product.  I saw some people saying there were MSG's in the cubes, but I generally have a bad reaction to MSG and have no adverse reaction when using this product.  I think those folks are mistaken.
+
+product/productId: B001E5DZJ8
+review/userId: A18Z7ICRLVHBBP
+review/profileName: Catherine S.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: I love these
+review/text: I make a lot of food from scratch (beans, rice, etc), and I use these to make a broth when I'm making soup.  These add just the right amount of flavor to grains, and they don't taste MSGish, like I have experienced with other store bought bullion powder in the past.  I really like these, as they make healthy food taste good :)
+
+product/productId: B001E5DZJ8
+review/userId: A3RRJQHRRGFDWJ
+review/profileName: robert veach
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342483200
+review/summary: great organic boulion!
+review/text: This is a great substitute for the store chicken and veggie bullion. The advantage is this product has no MSG or nitrates and less salt. It is on the softer side so it dissolves much quicker than the rock hard bouillons you get in the supermarket.
+
+product/productId: B001E5DZJ8
+review/userId: A3E3DWK97ARYK
+review/profileName: Onecleverwoman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: Love this product
+review/text: I'm known for my soups--split pea, matzo ball, bean, potato--and Rapunzel is my go-to ingredient. I used to use chicken or beef stock, but I live with a vegetarian and have had to make adjustments. This is the best food find ever, and now I use it even when I don't have to. Amazon's subscription price makes great sense, too; always available, always affordable.
+
+product/productId: B001E5DZJ8
+review/userId: A3E2W79F965IHC
+review/profileName: Amanda E. Reed "reedfamily"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334880000
+review/summary: Perfect for us!
+review/text: I use this at least once a week and it is perfect! I only use half or a quarter of a cube at a time to cut down the amount of salt. Because it has a good, strong taste, a little goes a long way! I use it to make soup, flavor rice and potatoes, to make a veggie gravy, the list goes on and on!
+
+product/productId: B001E5DZJ8
+review/userId: AAFB1RUMWWPRO
+review/profileName: mfoster115
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328313600
+review/summary: Yummy!
+review/text: I bought a bulk pack of the herb variety and used it with everything.. I steamed and stir fried with it... It's simply wonderful in just about anything you make.. Great in grains, like millet, couscous, and Quinoa... Highly recommend.. Shipment was also right on time.  Will be ordering more soon!
+
+product/productId: B001E5DZJ8
+review/userId: A1ND6XZ3HT4RG3
+review/profileName: Just Jan "&#34;garden girl&#34;"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324857600
+review/summary: Absolutely the best!
+review/text: These cubes add such richness and flavor whenever a broth is needed.  I will not use the expensive, tasteless chicken broth from the grocery store and love the convenience of using these bouillon cubes when making soups and gravies when I've run out of my homemade meat broths.  It is great for cream of celery soup, potato soup, pumpkin soup, etc.  I sometimes put it in the water for my rice to add a nice savory taste. I'm thinking of using this in my cornbread dressing for the holidays.
+
+product/productId: B001E5DZJ8
+review/userId: ADHB2BT5IHHZE
+review/profileName: CT resident
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323475200
+review/summary: Love it!
+review/text: No MSG or other unnecessary ingredients, and it taste great. Use it in soups, gravy, or just to spice up a vegetable dish.
+
+product/productId: B001E5DZJ8
+review/userId: A334K3EPD2H467
+review/profileName: Sarah Norman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314662400
+review/summary: Tastes great
+review/text: These taste great.  I add 1 or 2 cubes to the water when cooking quinoa or lentils and it really adds a nice depth of flavor.  I use them often.
+
+product/productId: B001E5DZJ8
+review/userId: A3LM3ARJMBPBNZ
+review/profileName: bree
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297641600
+review/summary: you will never use another broth again
+review/text: this broth is seriously good in everything...soups, pastas, chili, casseroles, mashed potatoes.  it is so easy and it's all the seasoning you will need, it has the herbs and salt in perfect amounts.  I won't use anything else if I don't have to.
+
+product/productId: B001E5DZJ8
+review/userId: AAUICTIUBVU7R
+review/profileName: Roy Berger "Everyman"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1341446400
+review/summary: TERRIBLE STUFF
+review/text: The cubes don't dissolve well in hot water--a lot floats around on top--and what does dissolve has little taste. Save your money and buy a different brand. BTW, I asked for a refund and Amazon deducted a couple of dollars to pay for shipping, which I get "free" as a Prime member.
+
+product/productId: B001E5DZJ8
+review/userId: A1AZ52V0IXMMPO
+review/profileName: cristina hampton
+review/helpfulness: 9/20
+review/score: 1.0
+review/time: 1315526400
+review/summary: what a fraud!!
+review/text: what an awful farce!!! i have been using this product to make my kids and family food...and there on the second ingredient is yeast extract!!!! all i had to do was google the ingredient to find out that i am giving my family MSG!!! what a terrible company!!! to advertise in the manner that they have and color their image in a different manner than what it is providing the consumers!! to say i'm dissapointed is putting it mildly....buyer beware, this indeed does have MSG!!
+
+product/productId: B000EDBPQ6
+review/userId: A1Y4C1JFBIANCI
+review/profileName: TJ
+review/helpfulness: 17/17
+review/score: 5.0
+review/time: 1155686400
+review/summary: Great... with a slight modification in recipe...
+review/text: This is a great mix, with a slight modification in recipe... double the eggs and double the amount of oil/butter then make the pancakes "swedish style" (very, very thin on a very hot griddle).  It's my favorite breakfast.  And my 4 year old daughter's too, who normally would never choke down any "yucky" gluten free stuff.<br /><br />If you follow the original recipe, you'll get a dense, fiberous pancake, as another poster reported.
+
+product/productId: B000EDBPQ6
+review/userId: A3VDGIUMYJ3C61
+review/profileName: Webturtle "webturtle"
+review/helpfulness: 18/19
+review/score: 3.0
+review/time: 1150502400
+review/summary: Good with some modifications
+review/text: I was sick of eggs. And sick of cornflakes. So when I spotted the Pancake mix from Bob's, I had to try it. Like all of their products, it was really easy to make - just like any pancake mix. The first batch I made, however, were... well, let's say "Dense." I was feeding a guest, who clutched his throat and asked for liquid to wash it down. But I didn't think they were THAT bad, considering the wheat free sludge I'd engaged before. So, I drowned mine in maple syrup and thought it was quite tasty.<br /><br />The next time, I tried modifying the recipe a bit with fruit - fresh blueberries to be exact. And those came out a lot moister and less dense. Mmm... blueberry pancakes... wonderful! I've tried other fruit, tossed in applesauce once... and each time, I got interesting twists on much moister pancakes.<br /><br />I still don't eat them often -- just when I'm having a "help, I can't eat another egg" moment. Actually, they are good as part of a big brunch, with an egg over easy on top. Since can't eat bread with my eggs, it takes the place of toast.<br /><br />I've wondered if whipping these frothy with a beater might help but haven't tried it yet. All in all, they're tasty, if a little thick, very filling and easy to whip up.
+
+product/productId: B000EDBPQ6
+review/userId: A1IU7S4HCK1XK0
+review/profileName: Joanna Daneman
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1163548800
+review/summary: Great mix, and you CAN make waffles with some hints here
+review/text: This mix makes absolutely delicious pancakes. For wheat-sensitive and gluten-sensitive people, this mix is a Godsend. We make these most weekends as a treat.<br /><br />Now, it is true that this mix doesn't, out of the bag as directed, make a good waffle. But don't let that stop you. Waffles have different requirements than pancakes. They need more leavening (air) and more fat. So we use real melted butter in the batter and do not stint on this (if you are not a butter eater, use an oil.) And for the eggs, this hint is invaluable. Take the time to separate the eggs. Beat in the yolks as you make the batter but have beaten the WHITES separately to stiff or almost-stiff peaks. Then at the end, fold in the whites in the batter. This adds "oomph" to the batter and keeps the waffles from being overly heavy. We do use a flip-able waffle iron and this also keeps the waffles light, as does a Belgian (deep) style waffler. The thinner German or American style waffles come out less good. I have done extensive trials with both styles of waffler and with beaten egg white and we find that this gives a wonderful waffle. We actually prefer this mix to standard pancake mix (one of us is wheat-sensitive, but we both enjoy these.)
+
+product/productId: B000EDBPQ6
+review/userId: A1P4YA7O56PX3O
+review/profileName: T. Sherwood
+review/helpfulness: 14/17
+review/score: 2.0
+review/time: 1163116800
+review/summary: Not THAT good
+review/text: I don't understand why everyone says these are sooo good - they smell and taste like the bean flour - which is very hard to mask - and they are grainy - not at all like regular wheat flour. My husband won't eat them - and my kids complain when I make them - The only thing I like about them is that they are fluffy.
+
+product/productId: B000EDBPQ6
+review/userId: A29ROD0QEENLIV
+review/profileName: Jory S. Cannon "StoryJory"
+review/helpfulness: 6/7
+review/score: 3.0
+review/time: 1161561600
+review/summary: better pancakes than waffles
+review/text: I love all of Bob's products, but this one doesn't seem to quite measure up to his usual offerings.  The waffles I made with it didn't come out nicely browned, and had a baking powder aftertaste.  My 3 year old ate them (the one who can't eat wheat), so that's good.  My 7 year old ate them, and then politely asked if next time she could have the waffles daddy was having (Bisquik!).  As pancakes, they work quite well, though they are on the thick side.  They work equally well with regular milk, soy or rice milk.  I love Bob's gluten-free flour mix, so I might try making waffles with that and seeing how it works.
+
+product/productId: B000EDBPQ6
+review/userId: A3E3WQC98WZSP
+review/profileName: stayathomemami "mami"
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1273881600
+review/summary: Decent with modifications!
+review/text: As another reviewer suggested, you really need to add another egg to this mix. I also added vanilla extract, some apple sauce, natural sugar and lots of extra water to get this mix to the consistency/taste I wanted. Even after all my modifications I still did not like the aftertaste but this seems to be the standard with all GF pancakes mixes I have tried. I am only 3 months GF so maybe I will get more used to the aftertaste as time goes on? Next time I make these pancakes, I will definitely make with blueberries. I still gave this mix three stars because my sons-ages 4 and 5 ate four pancakes each. They would eat more non GF pancakes but 4 is still a lot! I could stomach these and ate 3. I did not like Namaste at all though many have recommended it. I would like to try Pamela's too. Tried making some pancakes from scratch with Domata flour but have been very unsuccessful with this flour. I am a chef so I was really disappointed I could not make my old recipes as they suggested I could. Bottom line, I would recommend this mix with modification of an extra egg, more liquid, vanilla extract and a fruit or other addition of your choice. Best of luck and Bon Appetit!
+
+product/productId: B000EDBPQ6
+review/userId: A3UXDPCLOFC8N4
+review/profileName: Ashley M. Dahl
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319155200
+review/summary: Delish, but make some changes to the directions...
+review/text: My husband (who is really picky) and I both thought these were really good, but I did alter the recipe they give you on the package.  I used 1 1/2 cups of the mix, with 1 cup of buttermilk (you cam make your own by mixing 3/4 cup of milk with 2 tablespoons of vinegar and letting it sit for a few minutes), 2 eggs, 2 Tablespoons of melted butter (instead of the oil) and I added 1 tablespoon of sugar (although not sure if it really needed it!).  I then made very thin pancakes and cooked them until golden brown.  I basically tried to mimic the wonderful non gluten free pancake recipe that we have.  We were really happy with how they turned out!  My kids even preferred them to our other recipe (which tastes just like the Original Pancake House).  YUM!
+
+product/productId: B000EDBPQ6
+review/userId: A11FHFYIWR7Q6G
+review/profileName: J. Jepsen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1313020800
+review/summary: Like Natural Gas-X
+review/text: With the consumption of flour threatening my bowels and leaving me a stinky time bomb at the office, I knew there had to be a better way.  Fortunately, Bob found that solution.  Gluten free pancake mix tastes just like the pancakes you lived off in college, but without the threat of bloating, abdominal cramps, and stinky explosive dangerous farts.<br /><br />If you are gluten intolerant or have Celiac's, then this is the product for you.  Cheap and tasty with out the side effects of regular pancakes.
+
+product/productId: B000EDBPQ6
+review/userId: A2Y8WWNNN6FLNG
+review/profileName: SM WFB WI
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1309564800
+review/summary: Good if made the right way with a few modifications
+review/text: If you do any GF baking you know that all the ingredients have to be at room temperature.  First, beat the egg (I use extra large or 2 eggs) for 30 seconds on medium speed until frothy.  Then add the oil.  Mix again until combined.  Then add the milk.  I also add a 1/2 cup of applesauce.  Mix again.  Then add dry ingredients.  I sometimes also add 1 Tablespoon sugar since sugar also acts as a liquid in baking.  My boys love them.
+
+product/productId: B000EDBPQ6
+review/userId: AL8RNP73OF7TX
+review/profileName: K. Rachko "Kimsole"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1301011200
+review/summary: Try adding pumpkin !
+review/text: I get these for my son and he was not big on them at first. So I added some pumpkin and that made the difference! I prepare them with almond milk and cook in coconut oil and they are now a staple!
+
+product/productId: B000EDBPQ6
+review/userId: A33GNK2H4F1EC0
+review/profileName: City Of Rocks
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1283385600
+review/summary: Makes very fluffy pancakes
+review/text: I like a good, substantive pancake. These cook up very fluffy, a good three quarters of an inch, requiring only a few minutes of time. (The key is remembering to let the batter stand a few minutes).<br /><br />Another thing I really liked about this mix is that even when I took leftover batter out of the fridge to cook it the next morning, the pancakes still cooked up to the same texture. With the last batter I used, I couldn't store any leftover batter in the fridge because when I used it the next day, the pancakes turned out flat and rubbery. Not so here-less waste.<br /><br />The pancakes are a bit crumbly, which I didn't mind. These aren't wheat and of course didn't taste like it, either; the taste is a bit pungent and at first I didn't like it. It isn't a bad flavor; just not what I've been used to my whole life. But after I tried it a few times and took the flavor on it's own terms rather than comparing it to Aunt Jemima's, I got used to it, and was glad to have pancakes again.<br /><br />The only thing I wish is that the measure of mix in the bag was consistent with the batch sizes so I didn't end up with half a batch's worth of mix in the bottom of the bag. I did figure out a way to use half an egg for the remaining half mix, but still. It would be more convenient to just have a full number of batches in the bag.<br /><br />But I do like the pancakes this made.
+
+product/productId: B000EDBPQ6
+review/userId: A1AU81PNIWZNKR
+review/profileName: K. Berry
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1175212800
+review/summary: Fantastic!
+review/text: These pancakes get my highest rating for gluten-free pancakes! They taste almost identical to bisquick pancakes. They are SO yummy!! I'll never make GF pancakes from scratch again!
+
+product/productId: B000EDBPQ6
+review/userId: A16DOFSW5GGV99
+review/profileName: Barbara C. Hodgson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1175040000
+review/summary: great breakfast
+review/text: Works just like regular pancake mix  - rises and cooks the same and excellent taste. We bought this in bulk and are going through it like crazy. Must be good.
+
+product/productId: B000EDBPQ6
+review/userId: A3KDAT3DJYBTA0
+review/profileName: Kiwi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1153353600
+review/summary: the best I've tried
+review/text: My sister in the US gave me a packet of this product, and I was super impressed. This is definitely the best gluten free substitute for wheat flour product I have tried. I found the pancakes to rise, be fluffy and as light as those pancakes from wheat flour.<br /><br />You can easily serve it to friends that can eat gluten and they won't even bat an eyelid.<br /><br />Now my next question is "Where can I buy it in London?"
+
+product/productId: B000EDBPQ6
+review/userId: A3F15O3PXFE3YX
+review/profileName: DMan
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1329782400
+review/summary: Too Dense
+review/text: I love a good pancake or waffle once in a while so when I saw Bob's Gluten Free Pancake Mix I was anxious to try it. As usual for Bob's it was easy to prepare and made really nice looking pancakes but when I put them in my mouth they seemed to just sit there, not fluffy at all, and so dense and with a slightly weird off-flavor that I had to put extra butter and maple syrup on them just to get them down. Keep working on this one Bob.
+
+product/productId: B000EDBPQ6
+review/userId: A2D4EM0ISADSI6
+review/profileName: Grant Hughes
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1318291200
+review/summary: Not good.
+review/text: I'm sorry.  I really wanted to like these. But they were just not good.  I tried to choke down one when they were just off the grill and they are just so dense and grainy, I couldn't do it.  It was like eating sand.  So sad that such expensive pancakes were a complete waste...
+
+product/productId: B000EDBPQ6
+review/userId: AWFI7DXIJ4A8R
+review/profileName: TRLK
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303344000
+review/summary: Best GF Pancakes I've Ever Had
+review/text: I love these pancakes!  I have tried many other brands and these are the best.  I'm a super-taster so I can be picky when it comes to food but these are great.  I feed them to my family members who don't have to eat gluten free like I do and nobody can tell that they're not made from wheat.<br /><br />I highly recommend this mix.
+
+product/productId: B000EDBPQ6
+review/userId: AB5VH8TNOHVNU
+review/profileName: T. Hines "HS mom"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1278806400
+review/summary: worst taste ever
+review/text: I had so much hope for this product. I had the hardest time getting the horrible bean taste out of my mouth. If you make the mistake of trying it, drink some milk. That's the only thing that help. Otherwise if you can have rice, look up a good simple recipe using rice flour. That's what I do now and they are wonderful.
+
+product/productId: B000EDBPQ6
+review/userId: A3GAWPWRKF2JH9
+review/profileName: Sylvia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1242864000
+review/summary: Delicious!
+review/text: We've made both pancakes and crepes with this product.  For the crepes, I just followed the Joy of Cooking recipe.  Delicious!  Beautiful crepes came out.  It was a wee bit different tasting than ones made with flour, but it tasted like the crepes were supposed to be that way and not just a substitute for flour crepes.  And I love my flour crepes (my Honey is the one sensitive to Gluten).<br /><br />Phew, I'm so glad we don't have to do whole wheat anymore; I wasn't too crazy about the taste compared to white flour.<br /><br />When my Honey made his pancakes, they were quite delicious, too.  And light and fluffy.  I'm pretty sure he was following the recipe right on the container.  He got spoiled with great food in his young adult life, and he's a picky eater.  So if he says something tastes good, then that's really saying something.  And he loves the pancakes every time he makes them.<br /><br />I would even recommend this product to people who aren't sensitive to wheat.  It's just that nice of a flavor.
+
+product/productId: B000EDBPQ6
+review/userId: A3IU51J18S2JDO
+review/profileName: Gracie Faith
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1189900800
+review/summary: WONDERFUL
+review/text: I loved this pancake mix! We live in an area where there is little gluten free products available so my choices are very limited and that makes for a pretty bland diet. This stuff tastes great and really doesnt taste too different than regular pancakes. My husband gave it a thumbs up and he's very honest and particular about food. I did sub applesauce for the eggs b/c i cant have eggs either.
+
+product/productId: B000EDBPQ6
+review/userId: A1S61K87YLZRLX
+review/profileName: Kenneth A. Meyerson "Ken"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1166054400
+review/summary: Sligtly Different Preparation Hints
+review/text: After my Celiac diagnosis, it took 2 years to find this product...walla! I can eat pancakes again. These taste quite nice, but I had to modify the recipe a bit:<br /><br />1) substitute Bob's GF Bread mix for 1/4 of the total mix. This seems to make the batter a lot smoother and cuts down on the sweetness overall.<br /><br />2) definitely allow the mix to stand and thicken! If it doesn't flow easily out of the measuring cup, add 1 TBS each of milk and egg, and mix with a fork to thin it out. In 1/2 a minute you'll have a good idea if you have the desired consistency. Repeat if needed. The extra prep time ensures that you can get 3-4 pancakes that spread out properly on e.g., a a 10" frying pan on medium heat before they start to bubble up.<br /><br />It was definitely worth the wait to "discover" pancakes again...yum! Served with blueberry or maple syrup, Bob's pancake mix rocks!
+
+product/productId: B000EDBPQ6
+review/userId: A1VYZE8SUYU9B9
+review/profileName: Jesse "JMT"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1156204800
+review/summary: The best pancakes I have ever had!
+review/text: My guy is allergic to a lot of things, so we have to make concessions sometimes... but this mix makes the best pancakes I have ever had... I would suggest, if you don't eat eggs, use a 1/4 cup of applesauce instead... they taste better than anything that way.
+

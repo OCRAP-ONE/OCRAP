@@ -1,0 +1,1143 @@
+product/productId: B002Y2QTRK
+review/userId: AVM4L8XWJYIKB
+review/profileName: The Prophet
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: Great coffee
+review/text: This is the best coffee I ever had both my wife and I enjoyed it. I'll probably buy more when these bags of coffee run out.
+
+product/productId: B002Y2QTRK
+review/userId: A3SVBFJEU27FNZ
+review/profileName: Dena J. Anderson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325980800
+review/summary: Great coffee
+review/text: this coffee is a wonderful American made product with excellent flavor. I brew this coffee every morning and look forward to my first cup of the day.
+
+product/productId: B002Y2QTRK
+review/userId: A1J5IF0UT8OH1E
+review/profileName: momof3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325116800
+review/summary: Excellent deal on great coffee
+review/text: This coffee pleases my husband, who is a Starbuck's fan, as well as me, who really can't stand Starbuck's and would best be termed as a Denny's fan - prefer standard milder restaurant breakfast house coffees.  We're happy to have found a great deal on coffee that can make us both happy.
+
+product/productId: B002Y2QTRK
+review/userId: A1W2FY1VSKOBGS
+review/profileName: wordisbondkid
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320364800
+review/summary: One of my favorites
+review/text: This is probably my favorite roast of coffee.  I never realized how different coffee was between brands until I laid off on the sugar.  After doing this I can never drink Starbucks again.
+
+product/productId: B002Y2QTRK
+review/userId: A3AGKCSB9FLZ0T
+review/profileName: G. meschino
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1304467200
+review/summary: fine coffee
+review/text: the coffee was very good. middle bodied. the price was good. i would buy it again.<a href="http://www.amazon.com/gp/product/B002C58RME">Community Coffee Ground Coffee, Cafe Special, 12-Ounce Bags (Pack of 3)</a>
+
+product/productId: B002Y2QTRK
+review/userId: A29313797NGT9L
+review/profileName: Eddie Wannabee
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1293321600
+review/summary: No more than 4!
+review/text: For the value (money versus cups) this one gets a 4 Stars but if it was taste alone, and here I go again with the half measures, it would probably get 3.5. Still, it is a lot of coffee that when brewed right it will yield a respectable cup of coffee.
+
+product/productId: B002Y2QTRK
+review/userId: A35A4XCXDPYSB8
+review/profileName: geemaniac
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1280016000
+review/summary: Best coffee you never heard of...
+review/text: unless you're from the Louisiana area, I'm guessing. Decided to give it a try and I'm glad I did.<br />Excellent coffee at an excellent price! That's it in a nutshell.
+
+product/productId: B002Y2QTRK
+review/userId: A29W1YXUVCO64X
+review/profileName: southLAgirl
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1305676800
+review/summary: not usually a coffee drinker
+review/text: I do not typically drink coffee, just because I never got into the habit. However, if and when I feel the need for a little Joe, this is the coffee I will drink. EVERYONE NEEDS TO TRY THIS ONE! After educating myself a little on coffee roasting and roasting standards, I know Community Coffee is the best coffee in the south. i can not believe that Star-bux even stays open down here. Seriously, they don't hold a candle to Community Coffee! My parents drink CC, their parents drink CC, and THEIR parents drink CC! Cafe Special is a great coffee to start with if you are a first-timer.
+
+product/productId: B002Y2QTRK
+review/userId: AU5ZLZPJ45GGT
+review/profileName: Mary F.
+review/helpfulness: 3/6
+review/score: 2.0
+review/time: 1298332800
+review/summary: Nothing special.
+review/text: I'm from Chicago, not Louisiana, so perhaps I just can't understand what is supposed to make this coffee so great, but to my taste, it was just OK.  I'd much rather brew Starbucks House Blend or even Folgers.  I will not buy again.
+
+product/productId: B002Y2QTRK
+review/userId: A1WEY252CHABRY
+review/profileName: ms
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1322179200
+review/summary: Really awful
+review/text: I normally buy Eight O'clock Coffee-100% Arabica beans. Amazon didn't have my normal subscription order so I went looking for another brand. Unfortunately I chose this one and won't make that mistake again. It's a very weak coffee and you need to use a lot more than you normally would, and it has a 'off' taste. Not recommended at all.<br /><br />Until I can get Eight O'clock again, I'll buy Dunkin Donuts coffee.
+
+product/productId: B0041FEBNM
+review/userId: A2S64EJQWUKTCY
+review/profileName: dogfish "shimmertwist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343088000
+review/summary: The Best Coffee
+review/text: As far as I'm concerned, this is the best coffee. Dark and smooth. Strong flavor, no bitterness. By far my favorite.<br /><br />I brew it in a Aeropress -- (if you don't know what one is, you're missing out. All the fun of a French Press but much easier to clean.) It, and the Ebony Pearls are a match made in Coffee Heaven.
+
+product/productId: B0041FEBNM
+review/userId: ATU17PH3J645X
+review/profileName: eva "eva"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323907200
+review/summary: Really Great Coffee!
+review/text: Great coffee, would highly recommend to a serious coffee drinker who appreciates an intense dark coffee.<br /><br />I love this brewed in my espresso machine, it bold, yet smooth - excellent!<br /><br />I live in Canada and always find this at Winners...but if I had to order on line I would, and its a great price.
+
+product/productId: B0041FEBNM
+review/userId: A1E9DUNLO1CU1G
+review/profileName: Deborah A. Burkett
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1323388800
+review/summary: Ravens brew ebony pearls
+review/text: Raven's brew coffee is one of the best companies fro whole bean coffee.  I have tried many varieties from this company and every one is great.  From mild to strong, they have one for everyone.  I would highly rec ebony pearls.
+
+product/productId: B0041FEBNM
+review/userId: A1V1EP514B5H7Y
+review/profileName: asiana
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1336867200
+review/summary: Best coffee I've found thus far
+review/text: I keep trying all the various French Roast coffees available through Amazon, based on what others have posted.  This Raven's Brew Ebony Pearls Whole Bean is the best I've tried.  I think I've tried 2 or 3 other Raven's Brew coffees, but they were not rich enough for my taste and I also have tried a couple of Cameron's.  Next on my list is First Colony which I used for over 40 years until they ceased production and sold to White Coffee.  I'd like to try 2 pounds of their coffee first before I commit to purchasing a 5 pound bag, so for the time being, I'm sticking with theEbony Pearls.
+
+product/productId: B0014H17LO
+review/userId: AG8FL74QYNYXJ
+review/profileName: Troy, NY
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1255824000
+review/summary: good vaccuum packed supermarket gnocchi
+review/text: I had been buying this at my supermarket but they stopped carrying it.  After trying the competing brands, I ordered from Amazon because this one actually has flavor as opposed to other brands that are overpowered with salt.
+
+product/productId: B00411V0N0
+review/userId: AIUWMLQGB4OGL
+review/profileName: Thornton Hagert
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1320537600
+review/summary: Product undescribed
+review/text: Purporting to be sweet baking chocolate associated with the German's trademark, this fails to tell the percentage of cocoa solids or substitute, cocoa butter or other fats or oils, sugar or other sweetener, milk or other additives.  What is melting temperature, etc. ?  Who would buy such a  pig in a poke ?
+
+product/productId: B0046IHF7S
+review/userId: A34PRWLV61Y355
+review/profileName: Pseudonym
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337385600
+review/summary: Surprising winner
+review/text: St Dalfour offers a variety of spreads, notable for their reasonable price, about half the sugars of ordinary brands, and pleasing taste. Kumquat may their least popular flavor, but it's actually reminiscent of marmalade, with a touch of apricot that makes it a distinctive pick. Kumquat is unfamiliar to many, but it's also about 30% less than more popular fruit, but it's ideal as a complement for toast or crackers. St. Dalfour has seized the market on this spread, but its distribution online through health stores make this relatively hard to find. But this spread is a real winner: mildly sweet (thanks to the addition of grape fruit concentrate - its only sweetener), but never cloying. While other spreads lose their personality through too much sugar, St. Dalfours gets the balance right. Flavorful, with real personality.<br /><br />This spread is destined for success.
+
+product/productId: B0030LELS8
+review/userId: A25A64EXSSQ86N
+review/profileName: CLM
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1308614400
+review/summary: Wrong Product Sent
+review/text: Beware - I ordered this item and they sent me Salad Topping instead.  Will not be purchasing from this vendor again.
+
+product/productId: B0017692KA
+review/userId: A33APRYDUSJY2A
+review/profileName: Cassie Abbott
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1325980800
+review/summary: Made in the USA
+review/text: My biggest concern was where these came from, which was nowhere to be found in the product description. According to the box they're from the USA, which was important to me! My only complaint is that some parts of the hoof walls are thin, making it easy for my Border Terrier to chew off small pieces and try to eat them. So far that hasn't caused a problem. Other than that these are a good product and a much better deal that buying singles at the big box stores.
+
+product/productId: B0018MZ7Q6
+review/userId: A117K1W206D8CN
+review/profileName: LZO
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: Excellent Quality Product
+review/text: I live where these are made, so I buy them and bring them to my family whenever I go to the USA.  They are always of excellent quality and my family prizes them very highly!  I buy them in brine, since everyone is watching calories, but the kippers are also excellent in oil.  I just paid 1.79 (about $2.20 in July 2012) for one tin of these kippers.  But I know that posting them overseas is quite expensive.
+
+product/productId: B004H6FDLY
+review/userId: A2M8W53D4TWXYT
+review/profileName: Wanda M. Isum "weisums"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317686400
+review/summary: Original Clearjel
+review/text: Made canned apple pie filling with this product.  It turned out nice and clear.  Anxious to see what it will be like when pies, etc. are made.  received the product very fast.
+
+product/productId: B004H6FDLY
+review/userId: A1HNYQB51VNWSP
+review/profileName: gabbykare
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344988800
+review/summary: happy with purchase
+review/text: the clear jel i purchased arrived in a very timely manner.  i will buy this stuff again.  i would like to purchase in an even bigger container since i like to bake alot and liked the texture of the product when cooked.
+
+product/productId: B004H6FDLY
+review/userId: A2L1Z25P34WGVT
+review/profileName: MissDiane
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Great product
+review/text: I bought this to use for canning blueberry pie filling. It works great!! Will definately be using this for all of my pie fillings from now on.
+
+product/productId: B004H6FDLY
+review/userId: A2N82S8NKCRJGY
+review/profileName: maryjane
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1335052800
+review/summary: clearjel
+review/text: I have used clear jel before and got a nice clear filling with my pie. I ordered this and used it last night to can some rhubarb pie amd it tasted just like cornstarch, it was cloudy and didnt' taste good at all.  I bought 3 packges of it and if it wouldnt' cost me so me  much to send it back I would send it back. I was really disappointed. Because I ruined 4 quarts of rhubarb.
+
+product/productId: B004H6FDLY
+review/userId: A1IC796PC4W56X
+review/profileName: jim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: wish I could buy this locally
+review/text: I used this product in a recipe and it is so easy to use.  The dessert came out just great.  I am sure to buy this produt again next year at canning time.
+
+product/productId: B004H6FDLY
+review/userId: A2J8QKDNPKABQQ
+review/profileName: S. Bradbury
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Great job
+review/text: Super quick service and delivery from the vendor.  It was exactly what I was expecting and I was able to make my apple pie filling for Christmas Presents!
+
+product/productId: B004H6FDLY
+review/userId: A39UW4FVJ5XM
+review/profileName: FireRaven9
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Worked like a charm!
+review/text: I used this product for making home-canned apple pie filling and it worked great. The finished product turned out thick and clear. It didn't lump up when added to the filling, nor did it turn cloudy. The 18 ounce package is enough to do a couple of batches of pie filling. I will buy this again next season.
+
+product/productId: B002U4MP4I
+review/userId: A2AVYSXICESSTK
+review/profileName: E. Kerby
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1288224000
+review/summary: These are our puppy's favorite!
+review/text: I started putting these in my puppy's Puppy Kong, and she LOVES them.  I stick them in as far as they go, and she has to squash the KONG while she pulls it out, or it gets stuck and she has to nibble on the end and slowly pull it out.  Sometimes these get stuck and you have to use something to poke it back out so the dog can get to it again.<br /><br />I highly recommend these, as they are a great variation from the little KONG-shaped biscuits, and from dog kibble.  Also, it seems like they must taste great, because when I put these in her KONG, my puppy will keep working on eating this treat (putting other things inside only catches her attention for a little while).
+
+product/productId: B002U4MP4I
+review/userId: ARCG38WXMFKGU
+review/profileName: Ashley
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1321142400
+review/summary: Bella's Favorite!
+review/text: My yorkie Bella loves these! She prefers these to the smaller "honey comb" shaped biscuits Kong offers. When I stuff her kong with these she won't leave it alone until it's completely gone. I also like these better than the biscuits because it sticks out a little more and is a little easier for her to pull out than the shorter, curvier biscuits while still being entertaining. Definitely recommend.
+
+product/productId: B002U4MP4I
+review/userId: A2GJY9BYKF65R0
+review/profileName: Zeppoli
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1323302400
+review/summary: My pup loves these!
+review/text: Good quality product. I'm paranoid of my pup choking, these are very safe, could be left alone with these and fits perfectly into the puppy kongs.
+
+product/productId: B002U4MP4I
+review/userId: A2ZH1XRTVVZX1L
+review/profileName: Gipper
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1339459200
+review/summary: Wish I never gave this to my toy poodle
+review/text: These didn't work out for my little poodle. She started choking on them, I cleared a rough, hard piece out of her throat and then threw them out...omg, never again.
+
+product/productId: B002U4MP4I
+review/userId: A4D4TXCFRFM3O
+review/profileName: Shari Peavy "EdanaDaithi"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1337385600
+review/summary: Stuffing Ziggies
+review/text: They are great treats but my dogs were never interested in spending time trying to get food out of something. They do play with the toy that is suggested to use with the treats, but just as a ball. There was nothing wrong with the product, just not a good choice for my dogs, and very expensive to use just as treats, which we did.
+
+product/productId: B002U4MP4I
+review/userId: A287O13WX9K0IP
+review/profileName: Alex The Russian
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349827200
+review/summary: Ok but messy.
+review/text: The bones are just ok. My Boston puppy liked them but they are really messy and crumble easy. Also dog lost interest in them after the second bone.
+
+product/productId: B002U4MP4I
+review/userId: A2VFQR6Y4VEKSQ
+review/profileName: Moonslice "(the world's fish tank)"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348444800
+review/summary: Caused diarrhea and got stuck inside Kong
+review/text: What a HORRIBLE product! It's easy enough to eat the ziggy on the outside of the Kong, but nearly impossible on the inside. It was very difficult for me to pry it out also. And yes, I'm using the right size Kong.<br /><br />The biggest problem is the bad diarrhea this caused not once but twice for my dog. I know it's this product.
+
+product/productId: B002U4MP4I
+review/userId: A172AX30X9QW2E
+review/profileName: Chevy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Chevy is happy!
+review/text: We got our Kong and Ziggies the same day. Up til then he had only had homemade treats. Well he loved his pink Kong, then he found a treat, well.... We are both happy. Thanks for making a health puppy treat!
+
+product/productId: B002U4MP4I
+review/userId: A96ELROLQRPAE
+review/profileName: Hnrbabyt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343520000
+review/summary: Puppy love
+review/text: My puppy loves these things. He thinks he is supposed to eat them all the time. He tries to get them out the closet they r in. But very good
+
+product/productId: B002U4MP4I
+review/userId: A5Z6TIROUVA5O
+review/profileName: J. Lai "JL"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Brownie loves these
+review/text: Brownie loves these in or out of the kong and the ingredients are great so I know he's getting something healthy. Makes both of us happy.
+
+product/productId: B002U4MP4I
+review/userId: A39HMNE0XY13X
+review/profileName: Cindi Vanwingerden
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1316995200
+review/summary: one of favorite treats
+review/text: My cockapoo loves this!  we put in his kong toy and he doesn't stop until it's all gone.  For adding length of time, stuff kong toy, freeze, and it makes for a good 15 minutes of work.  Makes me feel less guilty about leaving him sometimes.
+
+product/productId: B002U4MP4I
+review/userId: A2DQQUEPK53ORW
+review/profileName: handicapped shopper
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1336003200
+review/summary: Don't like them
+review/text: Granted, I have two dogs who are spoiled rotten and expect the best.  These are NOT the best.  Neither dog likes them.  I have a German Shepherd and a Cavachon.  I THOUGHT they would enjoy these treats after reading the other reviews.  They wouldn't even take them from me.  For me, they were a waste of money.
+
+product/productId: B002U4MP4I
+review/userId: A1UHMYDU4BINRK
+review/profileName: Dessa
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1334620800
+review/summary: Okay product- if only he was interested.
+review/text: I tried offering this along with the puppy binki to my 11 wk old yorkie. He's big and biting everything!... except this. He shows absolutely no interest in this "treat". He sniffs it, then walks away. Guess I got a picky little guy on my hands.
+
+product/productId: B002U4MP4I
+review/userId: A3MT6CBZRW0DWJ
+review/profileName: Caro
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1321574400
+review/summary: It seems good
+review/text: It looks pretty good, i bought one for my dog and one for my sister's dog. I think it depends on the dog, my sister's dog loves it! loves the kong as well and these sticks fit great on it, dog plays for hours. My dog was a bit more lazy and wasn't very found of the kong in general. But the sticks do work to be put inside.
+
+product/productId: B001MWRT0Y
+review/userId: A1KDRUPPOX8QMB
+review/profileName: Tim O'Toole
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1255305600
+review/summary: "the boys" love them!
+review/text: I've been buying these "bones" for my two small/medium size pups for a while now and they go banana's for them! Neither has ever had a problem with them and I like that they last a little longer than regular dog treats. I had been trying to find a natural alternative to greenies. With these, I break a medium bone in half each get's one half and it last's them about 15 minutes, pretty decent for a natural chew bone. They are pricey, but I think worth it!
+
+product/productId: B001MWRT0Y
+review/userId: A32P2SVC8UPQZO
+review/profileName: Barbara Edelberg
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1251936000
+review/summary: Only Chewie for Denna's Sheltie
+review/text: My friend Denna adopted her Sheltie from us at Sheltie Rescue of Utah.  I was over her house the other day. I had brought some of Z-Chews to share with her boy, Duke.  She immediately told me that Duke doesn't like any chewies and she's tried a whole bunch.  He just leaves them laying around.  I said...well...I've got them here, it's a premium product with outstanding ingredients, so let's just see what happens when we offer him one.  You know the end of this story...Duke at first sniffed suspiciously but then ate the Zuke's Z-Chew.  Denna stood there like she was in shock.  So, we found a chewie treat that Duke likes and it's really good for him too.  Yeah!  I'm really sorry that someone else's dog threw up the pieces.  If that happened soon after eating the Z-chew then there was no time for anything to get digested.  Everybody's stomach is different...human or canine.
+
+product/productId: B001MWRT0Y
+review/userId: A2LGV83LSQ4XI
+review/profileName: Alexi Darling
+review/helpfulness: 7/8
+review/score: 1.0
+review/time: 1306195200
+review/summary: These are being taken off the market
+review/text: My little Lhasa loved these, but she threw up big balls of starch.  Apparently, this is such a common problem, Zuke's is soon taking this line off the market and releasing a new replacement product in the next few months.  Small dogs don't have the digestive track needed to process these.  They will be switching from the existing potato formula to a more digestible Tapioca line.<br /><br />I need to hand it to Zuke's though. I told them about the product, and they rushed to send me samples and refund my money.
+
+product/productId: B001MWRT0Y
+review/userId: A2LOOKU4EKP0SU
+review/profileName: M. Chang
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1302220800
+review/summary: My buddy loved it until he threw it all back up...
+review/text: my havanese absolutely loved this, but he spent the night throwing it back up. if you have an excited chewer who shallows chunks of it whole, this may not be a good treat for them.
+
+product/productId: B001MWRT0Y
+review/userId: A1ND0SUVPYHYBV
+review/profileName: Kula Gal
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1299888000
+review/summary: Good dental treat, but unfortunately
+review/text: about halfway through the bag, my dog tired of this flavor, unlike Greenies, which she has never lost interest in.
+
+product/productId: B001MWRT0Y
+review/userId: A22P2CHU8EOF5L
+review/profileName: BM223
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1340323200
+review/summary: My dog threw up seven times after eating this.
+review/text: Wish I'd read the bad reviews before feeding this to my poor pup. She is a 4-year old, 25-lb. mutt and threw up a grand total of seven (7!) times after consuming one of these. Needless to say, we are not happy with the product. Will try to contact the company...I'm disappointed that I was able to buy these even after another reviewer said they'd be off the market a few months from OVER A YEAR AGO.
+
+product/productId: B001MWRT0Y
+review/userId: A1H1AAJZPLNEV0
+review/profileName: Nadezhda D. Rose "nadezhda77"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1311120000
+review/summary: the best
+review/text: I have 3 dogs and one of them on a strict diet allergy wise? so he loves this treats and has no reaction to it!
+
+product/productId: B001MWRT0Y
+review/userId: A8XUWR69F1IUY
+review/profileName: M. Foster
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293926400
+review/summary: Great tasty treats!
+review/text: My dog, Comet loves these treats, and dances on his hind legs when they come out. Reorder ahead of time as you just can't buy these in any pet store.
+
+product/productId: B001MWRT0Y
+review/userId: A2S8GKQ5V5OL37
+review/profileName: Sarah Moon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1286496000
+review/summary: My Dog Loves Zukes Cranberry Bones!
+review/text: Full disclosure: I haven't chewed on these bones myself--this review is based on what I perceive is my dog's opinion. ;-)<br /><br />Zukes cranberry bones are my dog's favorite bones, paws down. She seems like the other flavors, but the cranberry ones are the ones that literally make her drool as I had them to her. I love that they take quite a bit of time for her to chew (a couple hours), they don't stain the carpet and that they make her breath fresh and her teeth clean. She's a 45-50 pound Australian Shepherd and the small size is perfect for her. I've bought the medium for her in the past, which she loves, but it's really probably too many empty calories for her size, so I switched to the small. I'm very appreciative that they have a pleasant, slightly earthy, odor--so many dog treats smell really rancid, because there for, you know, dogs who are into stinky things. Also, my dog's got a sensitive stomach and has never had any trouble with any of the Zukes bones. While they're not cheap, they do what they're supposed to do, so I can't complain.
+
+product/productId: B001MWRT0Y
+review/userId: AVA7TMKEPAHDJ
+review/profileName: Sam Long
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317513600
+review/summary: Great for teeth, breath, and health!
+review/text: I have been purchasing these for about six months.  My dog't teeth, once covered with tartar and plaque, are markedly improved---and she loves them, to boot!
+
+product/productId: B001MWRT0Y
+review/userId: ABYZ5DA0SYV50
+review/profileName: T. Risher
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312329600
+review/summary: My dog loves Zuke's Z-Ridge Bones.
+review/text: My dog is crazy about these bones. They do a great job of keeping her teeth clean and the ingredients do not include a lot of the "garbage" found in most dental chews on the market. The medium size (recommended for 46-80 lb dog) only lasts about 20 minutes for my 55 lb. boxer mix. I prefer the large size (81 lbs. and up) for her. She can make one bone last for a day or two which is more satisfying to her and cost effective for me.
+
+product/productId: B001MWRT0Y
+review/userId: A1TQ69KQ3EA58B
+review/profileName: Experiment626
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311552000
+review/summary: Safe and natural
+review/text: I love Zuke's products and these bones are no exception.  They are safe and natural, and with a dog on a restricted diet I love that all the ingredients are easily found.
+
+product/productId: B001MWRT0Y
+review/userId: A74SHV5ZD3RLT
+review/profileName: R. Ellis "Bobby"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1303862400
+review/summary: I think he likes them.  But not as much as Greenies.
+review/text: We have a little Maltese that is given a <a href="http://www.amazon.com/gp/product/B001G96UK8">Greenies Dental Chews for Dogs, Teenie Pack, 96 Chews</a> every day.  I saw the Zuke's Z-Ridge and thought they might be a good alternative to the Greenies.<br /><br />I will say that our dog can be weird.  When he gets dry dog biscuits he will hide them, then go back later and eat them.  He does the same with these.  I don't know if that means he really loves them, or if he just feels kind of "meh" about them.  I will say that he devours his Greenies.<br /><br />If you look at cost comparison, these things are almost a buck a piece, while the Greenies are only about a quarter a piece.  That right there makes me want to stick with the Greenies.<br /><br />I do think they work for breath freshness though.  Every once and awhile I'll give him one of these if he's getting a case of halitosis.  The only problem is that he keeps hiding it for half a day before he'll eat it.  I also use these if the little guy keeps bugging me.  That way he'll hide it instead of bugging me ;)<br /><br />I do like the Zuke's brand.  He loves the <a href="http://www.amazon.com/gp/product/B0007A0AP8">Zuke's Jerky Naturals Dog Treats, Lamb, 6-Ounce</a>.  That's why I wanted to try these.<br /><br />In all, I would recommend these to your pet.  If you're looking for an economical way to spoil your pet then I would go with the <a href="http://www.amazon.com/gp/product/B001G96UK8">Greenies Dental Chews for Dogs, Teenie Pack, 96 Chews</a>.
+
+product/productId: B001MWRT0Y
+review/userId: A3RSKYAEVOYGBJ
+review/profileName: Sadie's Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298246400
+review/summary: Worth The Wait
+review/text: My 90 lb. Chocolate Lab looks forward to her medium size cranbery chew bone once a day. It's her lunch time reward for waiting 1/2 way though my work day. Enough chew time to make it satisfing for her. A healty and digestible treat that keeps her weight in check.
+
+product/productId: B001MWRT0Y
+review/userId: A1P02FVX8QJOES
+review/profileName: ForsakenPhantasm
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293840000
+review/summary: Fantastic treat!
+review/text: My dogs absolutely love these!  I have two dogs who can't have any grains at all, and one dog allergic to poultry, so discovering Z-Ridge bones was a wonderful thing.  The minis are perfect for my 10lb terrier, who has a tiny mouth (and consequently works on one of these for a few hours), but are just right for my insatiable chewers, two 15lb mixes (poodle and min-pin), although they chew them up within 10-15 minutes (size small keeps them busy longer, but it's easier to just buy one bag they all can have).  I read one review about these making their dog sick - like any hard treat, you should definitely keep an eye on your dogs when they're eating them, to make sure they're chewing the pieces.  They have never made my dogs throw up, and the ingredients used are all quite digestible (they're potato and vegetable-based).  However, if your dog is swallowing chunks without chewing properly, they'll vomit anything.  All in all, my dogs go nuts for these, in all flavors, and my neighbor's picky pitbull loves them too!
+
+product/productId: B001MWRT0Y
+review/userId: AISWMZZ4ALK3D
+review/profileName: anon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288224000
+review/summary: Five stars, with caveat
+review/text: My dog loves these!  He likes all the flavors, but carrot is his favorite.  He is allergic to corn and wheat, so he can't have greenies (fine by me, zukes is a better company anyway) or many other dental treats.  I give him a few per week and they make his breath smell nice for the day.  They shouldn't be used as a substitute for brushing your dog's teeth because they won't keep tartar build-up down and they shouldn't be given to dogs that "gulp" pieces, but if your dog chews before he swallows, these treats are a great option.  Thank you Zukes for making a dental treat my dog can have.
+
+product/productId: B001MWRT0Y
+review/userId: A2OZZ44U9AQ0LT
+review/profileName: Jake
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1287705600
+review/summary: Great size for a small dog
+review/text: My 7 month old puppy loves these bones.  They are the perfect size and seem to agree with him as well.  He digests them and has had no problems.  I love that they are all natural.
+
+product/productId: B001MWRT0Y
+review/userId: A1HIVXLFG7P3IP
+review/profileName: Birch Tree
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1287360000
+review/summary: Worth the Price
+review/text: We love this product for our two Siberian Huskies. It's a great natural way to get their breath to smell good again without having to brush as often. The only thing is, they're kind of expensive for how long they last. But overall, it's the best breath-freshening treat we've found for our dogs!!
+
+product/productId: B001MWRT0Y
+review/userId: A2S74E92WNSUWS
+review/profileName: Chris Tullar
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1281916800
+review/summary: love em
+review/text: ...or i should say my dog loves em. 7 yr old golden, works great on her breath. definitely a bit pricey but i think its worth it to get rid of that hot stank out of my dog's mouth.
+
+product/productId: B001MWRT0Y
+review/userId: A1E8J5K21EORWN
+review/profileName: Linda Feldman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280793600
+review/summary: Wheat Free
+review/text: My wheaten has a wheat allergy - these are the perfect alternative to "greenies" and are highly digestible
+
+product/productId: B001MWRT0Y
+review/userId: A13SFV2XR7IU09
+review/profileName: V. Hobbs
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1273449600
+review/summary: Dog loves them!
+review/text: I trust this company to make a quality product and my dog loves them. We used to use Greenies, but now use the Zuke's products instead. I also use many other Zukes products for training.
+
+product/productId: B001MWRT0Y
+review/userId: A3QLGR3NNFMKNF
+review/profileName: Teddy
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1249430400
+review/summary: Made my dog sick
+review/text: I switched to Zuke's for an alternative to Greenies. My dog threw them up in little chunks that resembled pebbles. Doesn't seem very digestible. I am returning them.
+
+product/productId: B003TDV3II
+review/userId: A3B132SRVF45DG
+review/profileName: Luxette "Mom, finder of lost items"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293667200
+review/summary: Major skin allergies disappeared for our dog
+review/text: Before I begin, I do want to say that every dog is different and what works for some won't work for others.<br />For us, we suffered for 11 years with severe skin allergies and infections.  Bloody lesions, ear and eye infections would plague our poor dog.  No matter what we did, change dog foods, use expensive antiseptics, administer even more expensive steroids and antibiotics, nothing helped.<br />I put her on probiotics.  I gingerly bathed her for years.  I cared for every lesion like a nurse in a war battle zone.<br />We then decided after consulting with our vet to stop all meds.  It just wasn't working and we were afraid it would do too much damage to her kidneys.  He said to try with food.  Get rid of all corn products and high preservative foods.<br />A friend suggested her dog's favorite 'Fish and Chips'.  She gave me the link to the website and I read up a little and ordered a small bag.  At that point, I figured, it couldn't hurt.<br />Well, that was 3 years ago and I can't say that it was all the magic of food but I honestly think it didn't hurt.  Our dog now has been lesion and infection free for three years.<br />I think the low corn and preservative content of this food has assisted us with maintaining a low allergen environment for her.<br />Now again, I preface, every dog is different.  For us, Flint River Ranch food is our go to food for all our dogs and we will probably continue with FRR for as long as possible.<br />If you want to try it, I recommend trying the sample packs.<br />You can get it cheaper and with free shipping at another website (1st result via google search for flint river ranch).
+
+product/productId: B003TDV3II
+review/userId: A36J3H8L314Y5V
+review/profileName: jenny spam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321833600
+review/summary: It makes my 2 year old runt Maltese filled out nicely
+review/text: I have my pup at 8 month old and she stroke for three days not eating as she misses her home and her mom dad... She was very sickly looking and her hair is tangy and lifeless... I got her on this brand about a few weeks ago she's almost 2 now....she just start to grow! Not just gaining weight but just catch up what she has been missing out as nutrient...npand grow into her healthy weight, I can tell because her hair just soft and health looking and her chest got perkier... She s a very happy puppy now...disappoint ing to see how few review they got..<br /> My friend who recommended me as his cats hair looks great as well
+
+product/productId: B001EO67OO
+review/userId: A1MT85CBISDLF3
+review/profileName: Mommy
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1288310400
+review/summary: Perfect size for my iced tea maker!
+review/text: I just love my round Tetley decaf iced tea bags! They are a perfect size and shape for my Mr. Coffee Iced Tea Maker! One tea bag makes a full 3 qt pitcher of fresh iced tea! I'm very pleased!!
+
+product/productId: B001EO67OO
+review/userId: A27GRKQWIIEYF
+review/profileName: Dev-Dave
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330992000
+review/summary: Tastey Tea!
+review/text: We simply LOVE this iced tea! We drink regular Tetley iced tea in the morning and this decaffeinated in the afternoon and evening. Having tried many different brands of decaf tea over the years this is the best we have ever had. Most decaf teas have a watered down flavor, not Tetley, it is full flavor iced tea. For Sweet Tea, I bring 2 1/2 quarts of water to a boil, turn off the heat, add 4 family sized tea bags stir around a bit then let steep in covered pot for about 10 minutes, stirring a couple of times. I remove tea bags and discard, then I add 2/3 Cup of sugar (while the tea is still hot) stir until fully disolved. Pour over ice and add water, if needed, to make it a full gallon. It also makes great unsweeted tea too. I cannot say that about any other brand I have tried. Tetley Iced Tea Blend (Regular and Decaffeinated) is very difficult to find in stores in my area, I am so thankful that I found it here on Amazon, I subscribed and now it comes to my door on a regular basis. It's the only beverage you will find in our house. I only wish I could give it more than 5 stars!<br />Written by Mrs.Dev-Dave
+
+product/productId: B001EO67OO
+review/userId: A214TGXTL91YRD
+review/profileName: Ruthie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1290211200
+review/summary: Tetley Decaffeinated Iced Tea
+review/text: The Tetley Naturally Decaffeinated Iced Tea is great.  I am so glad I found Amazon, as I do so much shopping here.  If you like tea you will love this product.
+
+product/productId: B001EO67OO
+review/userId: AYGGLEXTGW3DP
+review/profileName: Andrew Kulp Jr.
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1253923200
+review/summary: Excellent product
+review/text: This is an excellent product...I'm use to buying my tea bags in the store but this product is even better
+
+product/productId: B001EO67OO
+review/userId: A1V5V6MZRZ07VV
+review/profileName: FriendinHim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Best tea on the market!
+review/text: <a href="http://www.amazon.com/gp/product/B001EO67OO">Tetley Naturally Decaffeinated Iced Tea Blend, Family Size, 24-Count Round Tea Bags (Pack of 6)</a><br /><br />Tetley Naturally Decaffeinated Iced Tea is the best tea on the market! I love the 24-count round tea bags as one is the perfect size for making tea in my Mr Coffee Iced Tea Maker. I like my tea on the weak side so it makes a gallon of tea for me. The rounds are easy to use and you don't need to worry about strings or tags.
+
+product/productId: B001EO67OO
+review/userId: A33JFQ44GCGVG7
+review/profileName: G. Haring
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: Glad we tried these
+review/text: Had been purchasing Lipton Decaffinated Family size tea bags for years from Amazon.  Saw these, saw these were a little less expensive that Lipton.  We only buy these now, like the flavor a bit better - we drink A LOT of iced tea in Florida and I happen to mix a few decaf green tea bags with them.  These bags are round and not in the "paper wrappings" like Lipton, which is not an issue because I always have to keep in a tupperware/rubbermaid container after opening the boxes anyway to keep them fresh.  Anyone who doesn't isn't a tea drinker because paper wrapped or not tea starts becoming stale the minute the box is opened.  Someone should educate many restaurants who try to give me a non-foil wrapped tea bag, so I often bring my own.
+
+product/productId: B001EO67OO
+review/userId: A2CEZY6C29ACKP
+review/profileName: Jennifer H. Barnes "Mrs. Mohr"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Good strong tea that I cannot find anywhere else!
+review/text: We've tried Luzianne...it's good.  We've tried Lipton...it's bitter.  This Tetley Iced Tea blend has the robust tea flavor I like and NO CAFFEINE!  We limit our caffeine here to our coffee in the AM.  Otherwise we do decaf whatever else we drink. I love the rounds, as they have no strings and tags to clutter up my pot (I'm old school. I boil my tea on the stovetop and let it steep before I mix it).  And the flavor and color of this tea is excellent.  My southern roots love this bold flavor, smooth, tannic finish that makes me want to throw back a glass or 3 each day.  It's just plain good tea.  I'm just thankful I found it here.  (First found on clearance at my local Food Lion for $1.49/box.  Bought it out and won't drink anything else now.).  GREAT TEA...Great deal on here, too.  Do the subscription and save yourself a headache.
+
+product/productId: B001EO67OO
+review/userId: A259CN3QNTPI1I
+review/profileName: BSW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337990400
+review/summary: Decaf Tea
+review/text: Tried to cut caffine in diet and like the Tetley brand.  It's hard to find in the stores at present.  Glad to order thru Amazon.
+
+product/productId: B006H2286O
+review/userId: A22EWK87005ISF
+review/profileName: staci
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1336089600
+review/summary: my puppy loves these
+review/text: my 2 month old puppy loves these she is a little labradoodle, though for how fast she went though them i was not happy... they are small but good for smaller dogs and the shipping time was short thank you!
+
+product/productId: B001EQ5IKQ
+review/userId: A2CLCSTNLZUNNC
+review/profileName: Cvee
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1306800000
+review/summary: Very enjoyable tea
+review/text: I was recently served this tea in a lovely lakeside lodge and saved the packaging so that I could order some upon return home from vacation - which is what brings me here.  I'm nowhere near being a tea connoisseur but I very much enjoyed the aged Earl Grey Italian w/ Bergamot tea and ordered it several times during our stay at the lodge.  I look forward to having it at home.
+
+product/productId: B001EQ5IKQ
+review/userId: A1OALLABGL1KL5
+review/profileName: P. Anderson
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1182556800
+review/summary: Great flavor
+review/text: This is a very good, fresh tea, and the low price was an extra bonus.  I recommend it.
+
+product/productId: B001EQ5IKQ
+review/userId: AOBS8I4442AR1
+review/profileName: Foodie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: tea connoisseur
+review/text: Excellent tea! Delicious with cream and a little sugar or with just a little sugar. The fact that it's Aged and Organic makes it even better.
+
+product/productId: B001EQ5IKQ
+review/userId: A3CB9E76Z69509
+review/profileName: David E. Holtzinger
+review/helpfulness: 4/7
+review/score: 2.0
+review/time: 1271894400
+review/summary: Disappointed
+review/text: Numi Earl Grey doesn't rise about the level of a cheap imitation of an excellent black tea. It simply sucks. I've been drinking Rishi's Earl Grey and have been very pleased. Of course money is always a problem and Numi is substantially cheaper. I like Numi's Jasmine Perl and thought that their Earl Grey would be good too. Boy was I wrong. If you like Earl Grey, stick to Rishi or some other brand that satisfies you. Don't go cheap with Numi when it comes to Earl Grey. You will be sorely disappointed.
+
+product/productId: B000FIZVYM
+review/userId: A1CF9PSOIMVKAK
+review/profileName: Goldeagle
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1266883200
+review/summary: Best canned ham for its price!
+review/text: This is the best canned ham for its price.  Any time my wife and I want to cook some fried rice and cannot find any meats, we will simply open a can, chopped them into small pieces and used in cooking fried rice.  If we cook breakfast and cannot find any meat, we will simply cut it up into large slices and brown them both side in the skillet and serve them with eggs. It is so tasty and convenient and the price offered by Amazon is actually cheaper than that of our local Wal-mart.  I love it!
+
+product/productId: B000FIZVYM
+review/userId: A220VJ4SZ36J08
+review/profileName: S. Burgess
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1268438400
+review/summary: Thanks Amazon!
+review/text: My local stores seem to have all stopped carrying this product, so I am glad there is still a way to get it.<br /><br />If you are salt sensitive, this is probably not the product for you, but if you want a great ham luncheon meat, this one can't be beat.<br /><br />Z
+
+product/productId: B000FIZVYM
+review/userId: AJEQS4TLOLXEM
+review/profileName: David Courtney "blixel"
+review/helpfulness: 8/10
+review/score: 2.0
+review/time: 1302307200
+review/summary: Only edible in small amounts as an ingredient
+review/text: <span class="tiny"> Length:: 2:27 Mins<br /><br /></span>As I mention in the video, the Hormel Lean Smoked Ham has a strong chemical flavor that I do not like. If you cut the ham into small pieces and mix it with a large amount of rice, beans, pasta, etc... then it would probably taste ok. But when mixed with a relatively small amount of noodles, the taste of the chemical preservatives is so overwhelming that it makes your snack/meal almost inedible. Having said that, everyone's taste preferences are slightly different, so you may want to pick up 1 can at your local grocery store and decide for yourself.
+
+product/productId: B000FIZVYM
+review/userId: A1838IZAXGBTIF
+review/profileName: Grumpy
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1287792000
+review/summary: Buy the Spam.
+review/text: Strong, salty taste with a fishy aftertaste. I ate most of one can and will give the others away.
+
+product/productId: B000FIZVYM
+review/userId: A2M9D9BDHONV3Y
+review/profileName: A. Bennett
+review/helpfulness: 9/12
+review/score: 1.0
+review/time: 1242777600
+review/summary: Disappointed!!
+review/text: Since these cans of Ham are supposedly almost fat free, I was surprised that I found so much fat on the periphery of the can.  And it tastes like there is a salt shaker full of salt in each can too.  All in all I find these Hormel Chunk Lean Ham to be a bit on the disgusting side.  I will try using them for appetizers after adding onions, olives, chives, lots of pepper, celery, etc etc to try to smooth out the rather gross<br />taste onto crackers or roasted bread pieces.  A strong overwhelming salt taste can be subdued but it really requires a lot of work and forethought.  Don't expect a delicious HAM taste to be present though.  This is the first time I have tried these cans of lean ham but I will not be buying these again.  I DO NOT recommend them to anyone!
+
+product/productId: B000FIZVYM
+review/userId: AQW4I6P9Q0CYD
+review/profileName: Glennis Goeschl
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1251676800
+review/summary: Great for Casseroles
+review/text: We have been using this product for years.  It tastes good and is perfect for casseroles such as scalloped potatoes and ham. I also mix it in with garlic noodles and green beans. It is good for any receipe that needs a small amount of ham.  We have never tried it just plain by it self - only as a mix in.
+
+product/productId: B000FIZVYM
+review/userId: AAUICTIUBVU7R
+review/profileName: Roy Berger "Everyman"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: I LIKE IT
+review/text: The first ones I got there was something wrong with the cans and they were almost impossible to open with the new can opener from Amazon.<br />But I tried them again and these are great and open more easily.
+
+product/productId: B000FIZVYM
+review/userId: AYUO1EHOL2LFK
+review/profileName: Happy Grandma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303689600
+review/summary: canned ham
+review/text: I really like this ham.  I make a heated sandwich with it and do not liked the smoked ham - it is an entirely different product.  This is not too smoky.  My store doesn't carry it anymore so was happy to find it at Amazon!
+
+product/productId: B000FIZVYM
+review/userId: A2N7MAN0V853TS
+review/profileName: MadeInAmericaWithDanishParts
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299196800
+review/summary: Amazon to the rescue!
+review/text: When this product (originally called tender-flake ham) became difficult to find in local grocery stores, I was SO relieved to discover I could order it from Amazon.  It's such a great staple to have on hand in the pantry, immediately available whenever it's needed, & staying fresh until then.  Try it as an alternative to tuna or ground beef, microwaved with handy "helper" pasta mixes, especially any cheesy ones.  (This is particularly convenient for anyone too old, too young, or too busy to comfortably tackle full-blown meal prep.)  Smashed up with some relish and either mayo or ranch dressing, it makes a tasty ham salad to eat alone, on sandwiches, or on crackers.  In a rush (at work, for instance) it's not a bad snack smashed up & eaten as-is.  (Yes, if you read my review of Swanson canned white chicken, you'll see very similar suggestions there, but that doesn't make them any less true.)
+
+product/productId: B000FIZVYM
+review/userId: A130VGG4P4PW5J
+review/profileName: SirTaz "Geniebugged"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291939200
+review/summary: Tastes like Spam - Okay for open faced sandwiches - as a meal NO
+review/text: ordered as very severe weather again here in SW Va/ hampering trips to store.<br /><br />The can we rec'd says 'Lean' - seems to be but the jell [that one see when opening] this is preserved in exactly like Spam -
+
+product/productId: B002B8CKEI
+review/userId: A10AR1I7DBIF2V
+review/profileName: michelle
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341532800
+review/summary: Just like ole times
+review/text: I am deployed and  I was looking for "Kountry Candy". The red hots were a nice touch of home that I could carry with me.  They arrived quickly and made a miserable deployment just a little better.
+
+product/productId: B002B8CKEI
+review/userId: A2NHSWDH1Z0URN
+review/profileName: VICTORIA
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1324252800
+review/summary: ARRIVED ON TIME!
+review/text: ARRIVED IN TIME, GOOD PRICE, AND VERY GOOD TASTING.<br />IM FROM SOUTH AMERICA AND ITS HARD TO FIND CINNAMONS CANDYS<br />THE BOX WAS CORRECTLY CLOSED AND WELL WRAPPED.<br />I RECOMEND YOU SHOPPING THIS PRODUCT, AND FROM THIS COMPANY
+
+product/productId: B007HP6TVU
+review/userId: A1T2H9DS3DSN7N
+review/profileName: brandy3392
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1336780800
+review/summary: Makes a fantastic Caramel Matcha Latte!
+review/text: I have always been a lover of all things caramel. I've probably tried every caramel cookie, cake, ice cream, tea, coffee, pastry, and countless other items that contain caramel. But I am very picky about caramel flavorings. Many of them taste too artificial, butterscotch-y, or are just too faint for me to enjoy. Happily, this Caramel Matcha did not disappoint me. When I received the package in the mail, I immediately knew my Matcha had arrived. There was a wonderful, strong smell of candy-like caramel coming from the package. After actually opening the package and smelling more caramel goodness, I knew I was in for a treat.<br /><br />I decided to try this as a latte. So I prepared it using my usual method of 2 grams Matcha, 2 ounces of skim milk, 3-4 scoops of stevia, and 6 ounces of water. I whisked this up using my electric milk frother and tried it. It was very good, but a little strong. After adding another 2 ounces of water, it was close to perfection. This Matcha is very smooth and rich. Even though I used very little milk, it tasted so creamy. The caramel flavor is just right - enough flavor that you can definitely taste it, but not enough to outshine the flavor of the Matcha. This may be one of the best drinks I've ever made at home, and I'm actually kind of proud.
+
+product/productId: B007HP6TVU
+review/userId: A3AMNY44OP8AOU
+review/profileName: Jennifer Lee
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335225600
+review/summary: Awesome flavor!
+review/text: The flavoring is absolutely caramel.  No doubt about it.  It smells so rich and sweet you'd expect to get a sugar shock from drinking it, but it's only as sweet as the natural sweetness of a good matcha.  And the matcha base used is good!  The flavor isn't just some mask for an inferior tea!<br /><br />The color of this tea is a bit brownish.  Those who are used to the vibrant green of matcha may be a bit shocked at first, but the brownish tint is undoubtedly from the flavoring.  The awesome awesome flavoring.  Drink it straight for a decadent treat without the cavaties, or make it into a mind blowing latte.  yummy!  You can use it to add caramel flavor to anything!  caramel vanilla matcha milkshake?  Yes please!  Caramel matcha hot chocolate?  Mmmmm...no words.
+
+product/productId: B007HP6TVU
+review/userId: A35GQN8V34YQUS
+review/profileName: A. Diegel
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1334707200
+review/summary: Matcha meets candy.
+review/text: This matcha is awesome. I am a caramel addict, so sometimes I'll get something caramel flavored without really thinking about it, which was the case with this tea. But really, the flavors work really well together.<br /><br />The flavor almost reminds me of what I'd imagine green tea creme brulee would taste like. It's got the obvious green tea taste from the matcha itself, but then there's the sweet, creamy notes from the caramel. It's okay when it's hot and by itself, but I think it's vastly improved when it's made as an iced matcha latte. No sugar necessary there.<br /><br />Beyond drinking it, this seems like it would make an excellent flavor for cakes and ice cream. I am definitely going to give it a try in ice cream in the summer.
+
+product/productId: B007HP6TVU
+review/userId: A3OGYXV9S7MJHM
+review/profileName: Rita Lonie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334707200
+review/summary: Oh My Matcha
+review/text: So in my search for the perfect vanilla (which I've now found in Red Leaf Tea's French Vanilla matcha), I've found that many caramel teas are close enough to temporarily satisfy me. But after a while I miss that vanilla creaminess and begin the hunt anew. Plus, caramel is my favorite sweet candy, though I prefer sour candies. But as a child who went through two sets of braces, caramel was not a treat I was allowed to indulge in often. But every Halloween I would buy a bag of those Caramel Apple suckers, braces be damned, and make them last for ages. My love affair with caramel has been a long and torrid one.<br /><br />Anyway, caramel brings out those feel-good feeling in me. So of course when I was ordering my Green Apple matcha from Red Leaf Teas, the caramel had to tumble into my cart too! I have to try them mixed, or I'll be doing my teenage self a grave disservice. But first, I'm going to try it by itself, with sugar added, of course. If it's anything like their French Vanilla, I'm in for a treat. I'm trying to try all of the new ones, but all I want to do is return to that little gem.<br /><br />On to the caramel! I'm only making a small cup of this as it is 9:30 at night and I want to sleep at some point. But hey, sleep is for the weak and matcha-less, right? Right. The smell is amazing. Like I just want to crawl into the package and spend the rest of forever there. The taste...mmm. Mmmmm....mmmm. Okay, it tastes like....mmmm. Maybe I needed a bigger cup. A soup bowl, perhaps. Guh...mmmm. It tastes like the French Vanilla, but with a lovely burnt sugar aftertaste that is rocking my world right now. It tastes like real caramel made on the stovetop with nothing but sugar, cream, and a big mess that is completely worth it. Mmmmm. When I was in high school, at a church carnival I won a caramel cake. It was a caramel-flavored cake that was laced with real caramel bits, caramel icing and drizzled with, you guessed it, caramel. This reminds me of that. Or the caramel pie from O'Charley's, which was essentially a pie crust filled with caramel. This is amazing, and I want to order some with the "There's matcha in this?" flavoring option so I can just drown in the caramelly goodness. This is a must-always-have-in-stock for me.
+
+product/productId: B007HP6TVU
+review/userId: A17EDAT35AJCAG
+review/profileName: aislingoftea
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334707200
+review/summary: Oh My Matcha
+review/text: So in my search for the perfect vanilla (which I've now found in Red Leaf Tea's French Vanilla matcha), I've found that many caramel teas are close enough to temporarily satisfy me. But after a while I miss that vanilla creaminess and begin the hunt anew. Plus, caramel is my favorite sweet candy, though I prefer sour candies. But as a child who went through two sets of braces, caramel was not a treat I was allowed to indulge in often. But every Halloween I would buy a bag of those Caramel Apple suckers, braces be damned, and make them last for ages. My love affair with caramel has been a long and torrid one.<br /><br />Anyway, caramel brings out those feel-good feeling in me. So of course when I was ordering my Green Apple matcha from Red Leaf Teas, the caramel (found here:[...]) had to tumble into my cart too! I have to try them mixed, or I'll be doing my teenage self a grave disservice. But first, I'm going to try it by itself, with sugar added, of course. If it's anything like their French Vanilla, I'm in for a treat. I'm trying to try all of the new ones, but all I want to do is return to that little gem.<br /><br />On to the caramel! I'm only making a small cup of this as it is 9:30 at night and I want to sleep at some point. But hey, sleep is for the weak and matcha-less, right? Right. The smell is amazing. Like I just want to crawl into the package and spend the rest of forever there. The taste...mmm. Mmmmm....mmmm. Okay, it tastes like....mmmm. Maybe I needed a bigger cup. A soup bowl, perhaps. Guh...mmmm. It tastes like the French Vanilla, but with a lovely burnt sugar aftertaste that is rocking my world right now. It tastes like real caramel made on the stovetop with nothing but sugar, cream, and a big mess that is completely worth it. Mmmmm. When I was in high school, at a church carnival I won a caramel cake. It was a caramel-flavored cake that was laced with real caramel bits, caramel icing and drizzled with, you guessed it, caramel. This reminds me of that. Or the caramel pie from O'Charley's, which was essentially a pie crust filled with caramel. This is amazing, and I want to order some with the "There's matcha in this?" flavoring option so I can just drown in the caramelly goodness. This is a must-always-have-in-stock for me.
+
+product/productId: B007HP6TVU
+review/userId: A20NYQ6WARUXPQ
+review/profileName: Kat
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1351123200
+review/summary: Caramel Matcha-yum!
+review/text: This matcha is smooth and creamy-and smells divine. The best part is that red leaf matcha is of high quality, so you never get the grainy stuff at the bottom as I have with other matchas. Try with just a splash of soy milk for a real treat!
+
+product/productId: B007HP6TVU
+review/userId: AS9UB97EO5PD7
+review/profileName: Meghan Donovan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: Great Flavour!
+review/text: I bought the caramel matcha more or less on a whim - it was on sale, so I could get a bigger size! Thinking back, I'm really glad I did. I am much more of a chocolate or vanilla person - caramel is not something that I normally lean towards. Red Leaf Tea hasn't steered me wrong yet! I am amazed at how much I like this!<br /><br />Dry, the caramel smell is strong and very distinctive. If I didn't know what flavour it was, I would have guessed correctly! In no way does it overwhelm or taste artificial though. I decided to take some to work with me, so I made it iced. It reminded me of a caramel version of chocolate milk - great flavour, creamy and all-round delicious. It was so good I even let two of my coworkers try it, and they agreed that it was heavenly.<br /><br />I find that my favourite way to have sweet flavoured matchas is as a latte or an iced latte, and I usually add a little bit of honey, depending on the specific flavour. My thermometer is currently m.i.a (I think it's at the bungalow) so I've just been letting the water get a little warm in the kettle and everything has been turning out great! I am thinking that caramel might become a staple flavour in my tea cupboard and I love having the chance to try so many wonderful flavours. I would highly recommend picking up some of this.<br /><br />I'd say that overall, this was my second favourite flavour (behind tiramisu) If you like caramel at all you should try this!
+
+product/productId: B007HP6TVU
+review/userId: A2R0HI0E7UBI2C
+review/profileName: H. Gullen "bookworm"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: Awesome!
+review/text: Okay I was eagerly awaiting this tea since I ordered it, especially after the glowing reviews other people have written. Well I was not disappointed! I have tried this hot, cold, somewhere in the middle, smoothie, latte..etc. Basically I've tried it all with my small 30g sample (basic grade a.k.a classic with robust flavour). I like this best hot half matcha, half milk and marshmallows! The customer service is great if you have any problems or questions just ask them :D I also ordered with the tin since the bags aren't resealable. The small tin fits very nicely into my cupboard and helps my tea take up a lot less space! I recommend this to everyone!
+
+product/productId: B007HP6TVU
+review/userId: A7KZSX89SI88W
+review/profileName: doccyn "threewhales"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Pass the caramel...tea.
+review/text: I love caramel and this tea blend did not disappoint! It is very rich, creamy and has so much real caramel flavoring that you will wonder how you ever lived without this matcha blend. I will caution you about one thing: store it in a double lidded tin, this one is fragrant in a good way...my frig smells so heavenly!
+
+product/productId: B007HP6TVU
+review/userId: AJFSW7DOMQ3KQ
+review/profileName: Donna A
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348444800
+review/summary: Oh so delicious!
+review/text: Caramel Matcha from Red Leaf is creamy, sweet and so, so delicious! I enjoyed it chilled with some unsweetened almond milk, a splash of cream, some sweetener and a few ice cubes. What a treat!<br /><a href="http://www.amazon.com/gp/product/B007HP6IDE">Caramel Matcha Tea (60g)</a>
+
+product/productId: B007HP6TVU
+review/userId: A3CDS9U77I38RD
+review/profileName: S. T.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348358400
+review/summary: Yum!
+review/text: This is my favorite matcha that I have tried. It is sweet, comforting and rich. I love that it's made with healthy tea! Mmm.. a perfect choice on a cold afternoon. This is a good matcha flavor to try if you have never tried matcha before.
+
+product/productId: B007HP6TVU
+review/userId: A72ZJ8RMK2W2A
+review/profileName: Jess
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: Yum!
+review/text: Oh boy! After eyeing matcha for months, I finally grabbed some of this based on the excellent reviews.  And it totally lives up to them.  It's so tasty.  Just from smelling the bag, I could already tell I would love it.  The flavor is smooth and creamy, not too sweet, (but definitely sweet enough to satisfy my sweet tooth) and excellent in a latte.  I can't wait to try baking with it.
+
+product/productId: B007HP6TVU
+review/userId: A3I8RIBAXJ31HK
+review/profileName: A. Gore "Ashman"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: Amazing aroma!
+review/text: I just got my order - their shipping is pretty fast!  And the smell of this matcha is just unbelievable.  This is so rich and sweet smelling, you would think it had a million and two calories, but it doesn't!  The flavor lives up to what the aroma promised.  I made this into lattes for an afternoon snack for myself and one of my kids and we loved it!  Plus we are getting a nice antioxidant boost at the same time.  Thank you, Red Leaf!  How will I ever get around to all the flavors I want to try?
+
+product/productId: B007HP6TVU
+review/userId: A3O8F9Z3DDLXJT
+review/profileName: S. Burch
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347926400
+review/summary: Great Tasting Matcha
+review/text: I am the very definition of a beginning matcha drinker: I have never once even tried matcha before, much less made it myself. But I couldn't help but order one of Red Leaf Tea's myriad of flavored matchas. This one sounded delicious!<br /><br />The minute I cut open the foil envelope of matcha I was swamped with delicious caramel scent. Smelling it a bit closer brought out a kind of fruity aroma, which I assume must just be the matcha. It kind of reminded me of a caramel apple or something like that. Following the instructions on the brochure I ended up sifting 1.5tsp in my bowl (I was unsure on the instructions whether each scoop was supposed to be 0.5-1tsp, or two scoops was that total?). My very fine sieve (yay HomeGoods) worked well, and there were definitely more clumps than it first seemed, so I'm glad I sifted. I added a few ounces of water (though I didn't measure exactly how much) at about 180�F and whisked with my metal cooking whisk vigorously. It frothed pretty well but I think my technique is lacking! Right when the water hit the matcha I smelled a much stronger green tea flavor and a distinct earthiness, but not so much caramel.<br /><br />I took a sip, but it was pretty strong and bitter so I whisked some more, added more water and whisked some more. Better. Still a little bitter, but I am chalking that up to user error. Maybe I just need to add some sugar, too, since I tend to be a bit sensative to bitterness, but I didn't have any with me. Anyway, that kind of fruity caramel came through, the flavor blooming in the sip. The green tea wasn't too vegetal or in your face like I was fearing. The caramel was not as strong as I thought it would be, but it was present (and again that might be user error), and I did finish the entire bowl pretty fast! I am excited to try this in latte form, and I'm sure I will look up all kinds of tips and tricks for matcha now. I also wanted matcha to add to smoothies and to try some baking with it, and this seems like it would be amazing for both. I just bought some brownie mix at the store, and now I am thinking maybe some caramel matcha brownies? I don't know if the flavor would be drowned out, though. Research must be done!
+
+product/productId: B007HP6TVU
+review/userId: A1V2D16B9RPG98
+review/profileName: Cedes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347494400
+review/summary: YUM!
+review/text: This matcha is a great first try matcha. Its got the amazing caramel sweetness and earthyness from the matcha. When you open the package you get the most amazing sweet caramel scent, it makes you want to just sit there and smell it.<br /><br />Smelling it you think its going to be so sweet but its not. The balance of this tea is fantastic. Its got a beautiful green colour. What can I say its just perfect. To me its a real caramel flavor, alot of caramel things have that weird fake caramel taste but not this. Its got a real sweet caramel taste that is so delicious.<br /><br />I'm very happy that I tried this as my first matcha.It makes me want to try them all now.
+
+product/productId: B007HP6TVU
+review/userId: A29P51TN9KKMU9
+review/profileName: Azzrian
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346544000
+review/summary: THE sweetest delight EVER
+review/text: Don't think about it, don't question if you should, don't wibble wabble back and forth, its easy, click that link above! DO IT NOW! You will never regret it.<br /><br />So the flavor, this caramel is THE most carmaley flavored tea I have ever consumed! This is like eating chewy caramel candies without the tooth decay or chewing. I'm not a kid anymore so chewing on caramels is really not working out so well for me these days but I tell you what - THIS is more than an adequate substitute! I swear to you this is THE caramel to get!<br /><br /> Get some of this matcha, mix in a splash of vanilla low fat creamer, a half cup to cup of milk, some ice cubes, pour in your matcha mix and BAM, LOVE!<br /><br />I have had many amazing flavors from Red Leaf Tea so far in my matcha journey but I will say without a doubt THIS one is THE sweetest MOST candy like, MOST true to its namesake, MOST indulgent, dessert like, not even close IT IS dessert! I could not even go down to my local ice cream store and get something THIS delicious.
+
+product/productId: B007HP6TVU
+review/userId: A3FD3PC1MVMM2H
+review/profileName: SoftRevolution
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346371200
+review/summary: A wonderful introduction to flavoured matcha!
+review/text: It took me a long time to finally place an order for some Red Leaf Tea matcha, and now that I have it in my hands (and my tummy!) I wish I had have purchased it sooner.<br /><br />I was unsure whether I would find it too much of a fuss to prepare matcha myself, or whether I would enjoy the delicious sweet grassy taste of matcha paired with rich flavourings. Matcha seemed to me more like a tea you should enjoy on its own. But honestly, let me tell you, the caramel flavour and the bright, fresh matcha make a perfect coupling. And I have found the preparation to be much easier than expected!<br /><br />I have had other plain matchas before, but they simply do not compare in flavour or quality to this caramel matcha. So far I have tried it hot with no additions, and hot with milk and sugar. I much prefer it sweetened with milk, as that cuts down on the strength of the vegetal qualities of the matcha. It also really brings out the caramel sweetness. On its own I found it a bit too strong, but I tend to like milk and sugar in most of my teas.<br /><br />Overall I'm very glad I have some of this on hand now, and I can't wait to try out some of their other flavours. I have my eye on cheesecake, cotton candy, boysenberry, french vanilla, pear, and so many others! I think I may have found a new addiction. At least it's a healthy one!
+
+product/productId: B007HP6TVU
+review/userId: AAH6764FP1GOZ
+review/profileName: Clara English
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: Creamy Heaven!
+review/text: This is the first flavored matcha I have tried, and it is AMAZING! So smooth and creamy, the caramel flavor is spot-on and not at all artificial. It smells like creme brulee! The matcha adds a nice grassy background so it's not overly sweet. Great for lattes, baking, or just drinking straight.
+
+product/productId: B007HP6TVU
+review/userId: A3MP1HX3I3BTLD
+review/profileName: AwkwardSoul
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Caramel Matcha - very tasty and easy to make!
+review/text: I'd say I'm a beginner with Matchas. I've never made a straight up cup of matcha, but I've had matcha pre-mixed with genmaicha teas. One of my favourite sushi joints has "iced green tea" which is matcha iced - excellent and refreshing with sushi! However in stores, I found matcha to be quite expensive. My local tea shops sold basic matchas with no fun flavors a little out of my price range to try a new kind of tea that I'm unsure is good, fresh and packaged right. Best prices I could find was in asian super markets. I've often purchased pre-measured matcha mixes or little tubs that stated it was for ice cream and baking. These mixes were still on the expensive side, so I used them sparingly to make smoothies or add to vanilla ice cream. The matcha mixes I disliked because they contained creamers and sweeteners thus calories I could do without. The unsweetened ones I found were often bitter and occasionally tasted like dirty grass.<br /><br />I saw Red Leaf's matchas reviewed at Steepster and became interested - so many different flavors! As a crazy tea drinker with a stash of over 100, I love interesting and fun tea blends, especially ones that have chocolate, exotic fruits, or caramel. Red Leaf has a big selection of various flavors. Personally, I never saw flavored matchas until I discovered Red Leaf's site. I had to order this Caramel Matcha!<br /><br />I then realized I have no traditional matcha gear, no bamboo whisk, funky spoons or bowl to prepare my matcha. I could of purchased it along with my order, but I had a tea budget to follow. I figured for now I'll make do with a tiny wire whisk, measuring spoon and a wide tea cup.<br /><br />My package arrived in a flat envelope, the matcha in a non resealable gold bag. My package also had a pamphlet on their various matchas and how to prepare it.<br /><br />TIME TO ENJOY MATCHA!<br /><br />Smell of the matcha powder - Strong grassy green tea smell with a spark of sweetness. From sniffing the matcha bag, I got green dust on the tip of my nose!<br /><br />First Cup - The Matcha Protein Smoothie<br />Red Leaf has a collection of matcha recipes to get you started. I followed the recipe on Red Leaf's website for the Matcha Smoothie with Protein Powder.<br />I used a frozen banana, fat free plain Silk soy milk, ON 100% soy protein vanilla powder and 2tsp of the Caramel Matcha.<br /><br />The colour of my smoothie is a milky yet dark matcha green. The caramel in the matcha is smooth and perfect strength that I can imagine it being gooey yummy. The banana adds extra depth and sweetness. I did not find the smoothie bitter or in need of additional sweeteners. The matcha and banana hid the protein powder taste. With that said, I figure this large smoothie was around 270 calories and is a great post workout smoothie that has 32g of protein. I'm going to make this smoothie again next time I lift weights.<br /><br />Second Cup - The Real Deal cup of Matcha<br />Using the instructions from the website, I carefully sift 1 tsp of the caramel matcha through a fine mesh tea pot strainer - it went surprisingly well and not messy at all.<br />Annoyingly, my hot water kettle does 185F (not 180F) so I went with 175F. I poured in about 1/3 of a cup of water and whisked away with my tiny wire whisk. It took a couple minutes to get a 1cm of delicious looking matcha froth. I then added a bit more hot water to taste.<br /><br />My cup was a beautiful deep green. The Caramel matcha is delicately flavored but with a full bodied green tea taste. Not watery or bitter or nasty grassy. The caramel is a fun present at the end of my sip and lingers as an aftertaste.<br /><br />Third Cup - The Matcha latte<br />I followed the same procedure I did for the hot cup of matcha, but added 2 tsp of sugar and topped the frothy matcha with soymilk and ice cubes. The result was very magical as the sugar and cold temperature makes the caramel pop more. I discovered it is possible to drink something and drool over it at the same time! This was better than lattes I've got from local coffee joints, much cheaper and less calories (with an additional plus that I can use the soy milk I like).<br /><br />From my first experience of steeping up my own real matcha, I found I have a new favorite tea. Red Leaf Tea's Caramel Matcha is tasty, better than anything I had from a mix or made from a coffee shop. I had more control over the amount of sweetener and milk.<br /><br />Red Leaf was very clear in their instructions on how to prepare matcha so a newbie like me could make a perfect cup.<br />With that said, I'm totally going to try more matchas from Red Leaf Teas. First, I think having a frother/hand mixer or bamboo whisk would of made the matcha frothing process go faster - especially for impatient "I need tea now!" types like me. of matcha would be fabulous.
+
+product/productId: B007HP6TVU
+review/userId: A17HUNR8HP7S5
+review/profileName: Will Work For Tea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Fantastic flavored matcha & it's sugar-free!
+review/text: Let me first tell you that before I was turned on to Read Leaf Tea, I would sometimes put in some good quality caramel sauce into my matcha lattes as a treat - I really do love good caramel flavoring! Thanks to this company, I don't have to do that anymore - AND I can control the sugar amount!<br /><br />Upon pouring out the contents of the robustly-flavored Caramel Green Matcha from the non-resealable, gold foil packaging into the tin, I could smell the sweetness of caramel. I HAD to make a bowl right then and there!<br /><br />For this first preparation I sifted a teaspoon of matcha powder into my bowl - I highly recommend doing this! Without it, you risk the chance of having clumpy matcha, and no one wants that! I wisked in two ounces of warmed water with my electric frother until the matcha was fully dissolved. Filled the bowl with the rest of the warmed water, about 6 ounces worth.<br /><br />I found the caramel missing an element - maybe it's sweetness, which is something I usually associate with caramel. While Red Leaf Tea doesn't add any sugar to their matchas, I found this benefited from some added sweetener.<br /><br />I also think I might prefer the Caramel Matcha prepared as a sweeter latte - either hot or cold.<br /><br />I do look forward to playing around with the Caramel Matcha more - mixing it with other flavored matchas from this company. Caramel Cheesecake, Caramel Green Apple, Caramel Espresso, Caramel Vanilla, just to name a few! Oooo and I bet baking with this is going to be AMAZING!
+
+product/productId: B007HP6TVU
+review/userId: A38RWVWOQPYJSA
+review/profileName: LiberTEAS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: Yummy!
+review/text: In a word, this matcha is YUMMY!<br /><br />But, you probably want more than one word, so, I will add a few more!<br /><br />I love the sweet, delicious, creaminess of this flavored matcha.  Sure, I prefer unflavored Matcha most of the time, but sometimes I want to change things up a bit, and I love the selection of flavors that Red Leaf Tea offers, and the flavors are amazingly good.  This would make a great dessert substitute that is so delicious that you'll forget that it's quite good for you too!<br /><br />Really and truly yummy.  If you like caramel and you like Matcha, you're in for a treat with this.  If you're new to Matcha - this would be a really good starting point too ... then again, this is so delicious, it might be difficult to try something else if you start here!<br /><br />YUM!
+
+product/productId: B007HP6TVU
+review/userId: A378R8V3UEVLL6
+review/profileName: Guberinic Milena
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343433600
+review/summary: Practically perfect in every way
+review/text: I love caramel and I would kill for this tea. I had no doubts about caramel and matcha working well together. I think that caramel makes magic with anything it touches. And it definitely makes magic with matcha. The flavor of the tea is like the best caramel candy I've ever had, only in liquid form so I can get more of it into me faster. It makes a killer latte and I'm sure it would be just amazing in baked goods. I can't wait to try a caramel matcha cake!
+
+product/productId: B007HP6TVU
+review/userId: A1S6QR05B3TPGT
+review/profileName: Mike
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Fantastic flavoured matcha!
+review/text: I've been meaning to try Matcha again for quite a long time and this is my first foray back into it... it was well worth it. I traveled to Japan in 2009 and unknowingly had Matcha several times at random sushi restaurants, etc. It was interesting there but I just figured it was a normal green tea, nothing special right? Oh man, was I wrong! This stuff really is something to pay attention to, and the different flavor and health benefits possible with matcha are well beyond any standard green tea. This is really a fascinating beverage and I am excited to get back into it.<br /><br />Before this, I had never tried a flavoured matcha, in fact I had no idea such a thing could exist! Red Leaf pulls off the flavoured matcha with grace and skill, and offers a wild and impressive set of expected (vanilla bean, caramel, etc.) flavours and some wildly crazy and epic sounding ones (Coca Cola Matcha?!!!!) I am gonna have to try that one.<br /><br />I bought the Red Leaf Starter (Basic Grade), Delicate flavouring of Caramel Matcha. This is available on their site here: [...]<br /><br />Since I am a bit of a matcha newbie, I had to read their site about how to prepare it. It was very helpful. I got a whisk from Japantown and used a Chashaku (Bamboo Scoop) to measure out the matcha. I used 2 scoops and my first cup used the suggested amount, 3 oz of 80C water. I whisked it, poured it from the bowl to a mug and drank it from a mug, no extra water added. This was my previous experience with matcha in general, quite thick and vegetal. It was good.<br />In fact it was so good, I found myself going back to the kitchen to make a 2nd cup of it not 1 hr later!! This time I decided to change it up a bit, using only 1 scoop of matcha this time and a little less water, and then after whisking, adding a fair bit more water to reduce the thickness and make a larger drink. I think I actually enjoyed this better, it was a little sweeter this way and also allowed for a more tea-like experience (rather than a sort of "tea shot" like I had earlier). This was very tasty!<br /><br />These are the only ways I have prepared it so far but I think it might be wiser (for my unrefined palate!) to buy the "Distinctive" flavouring next time so that I can get a stronger flavor. This one is subtle, but I tend to enjoy stronger more bold flavourings in my tea, so I think the next one I get from Red Leaf I will pay just a little extra to get more flavouring. Excited to follow this new tasty and healthy habit!
+
+product/productId: B00374TU7U
+review/userId: A38Q2NS8QZW0OH
+review/profileName: PuterWiz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348790400
+review/summary: CookPro
+review/text: Super product.  I got it first from someone who picked it up on sale from store going out of business. Fell in love with it but couldn't find it anywhere after that.  Put this in/on everything - salads, soups, BBQ chicken/fish, some stir-fry [not Asian-style], veggies--both fresh/raw and steamed, eggs of all kinds including egg salad, sandwiches - you name it.  Adds flavor without being overpowering like so many products can be. Excellent product.  Find it hard to believe anyone could not like it.
+
+product/productId: B00374TU7U
+review/userId: A47I3WXVH5QX3
+review/profileName: Margo D. Davenport "bargain hunter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283299200
+review/summary: this seasoning is awesome!
+review/text: I love this seasoning! (Well, I love almost anything with garlic.)  I primarily use it in garden salads, pasta salads, and pasta sauce, but I also have put it in eggs.  I ordered it from Ozbo.  The product arrived on time and was just as I described.  Plus, the price was less than my local supermarket.  I won't hesitate to buy from Ozbo again.
+
+product/productId: B003MZBSNS
+review/userId: A1T37YXW803PAM
+review/profileName: T. Kincaid
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Really creamy
+review/text: I purchased these to put into my coffee. It makes the coffee<br />taste like hot chocolate. I wished they had a sugar-fee<br />chocolate creamer. But I'll use these in moderation.
+
+product/productId: B003MZBSNS
+review/userId: A2FZDFOTKIEJQU
+review/profileName: Pam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Creamer Supreme
+review/text: This creamer is not found in stores here in SC. It must be wholesale only product. Don't know why because it is delicious. By far the best chocolate creamer you will buy.
+
+product/productId: B0051COQ2K
+review/userId: A2IS6VTDM14IR3
+review/profileName: kc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346284800
+review/summary: My little guy loves these
+review/text: My little guy loved this vanilla banana berry riosotto.  We went through the whole case in no time.  The texture is very smooth, but a bit thicker than stage 2 foods.
+
+product/productId: B0051COQ2K
+review/userId: A20LIEGWWFLVFG
+review/profileName: A. Yang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340841600
+review/summary: delicious and well loved
+review/text: The Baby Gourmet baby food was instantly loved and Gobbled up by my 9 month old.  Just for my information, I tasted it and found it delicious and high quality food item.
+
+product/productId: B0051COQ2K
+review/userId: A50YT0YIW7O9S
+review/profileName: Harpseal
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335312000
+review/summary: 12 month old likes it a lot
+review/text: My 12 month old son likes this quite a bit.  Wish it was a bit thicker, is more so a thicker puree, no chunks present of any sort.
+
+product/productId: B001SAOB5G
+review/userId: ABKYHQANNKUGP
+review/profileName: Catski
+review/helpfulness: 5/5
+review/score: 2.0
+review/time: 1317513600
+review/summary: dried beans and spice?
+review/text: This nothing but a box with dried beans and a baggy of spices.  It even calls for corn starch but doesn't include it.  If you want dried beans you can buy them much cheaper.  The spices were not as tasty as I like either.
+
+product/productId: B001SAOB5G
+review/userId: A3F3LZGI31KRXK
+review/profileName: j2dish
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331769600
+review/summary: Easy and Tasty!
+review/text: We made this mix with ground deer meat and cubed beef, it was delicious and so easy to make! All we did was slice the deer meat into a couple pieces and toss in some beef tips. Then added a can of diced tomatoes and turned the slow cooker on low while I was at work. Dinner was ready when we got home! Love it!! This one is great too <a href="http://www.amazon.com/gp/product/B005M49X84">American Pioneer 21 Bean Soup ( 6/13 Oz)</a>
+
+product/productId: B001SAOB5G
+review/userId: A2L1Z55GVXM1AF
+review/profileName: J. Partin "extremities71"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326585600
+review/summary: Not quite gourmet
+review/text: I love chili!  This was the first chili that I have ever had that I really didn't like.  I cook a lot and have made chili from scratch and hoped this might be quick, easy and tasty.  I had to add so many additional ingredients to this chili that it wasn't worth buying.
+
+product/productId: B001IZHYNM
+review/userId: A1TE8DG7EK1OP1
+review/profileName: Steve loves KoolAid
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1287705600
+review/summary: Love the Kool Aid
+review/text: Ice Blue raspberry Kool Aid is the best flavor ever. Hard to find in stores but ordered it on the internet and it was delivered in no time with a supply that will last a year at least!!!!!!!!! It rules!
+
+product/productId: B001IZHYNM
+review/userId: A1O4UHM6JOQO9J
+review/profileName: C. Grice "www.newdestinationweddings.com"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1236211200
+review/summary: Best Kool-Aid EVER
+review/text: This is the best Kool-Aid ever made.  Of course the company discontinued making it...but luckily I found it here on Amazon, for a fantastic price!  Now at least I've got some for awhile...thanks!
+
+product/productId: B001IZHYNM
+review/userId: ADVKCUEB496HB
+review/profileName: J. Keeler
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283126400
+review/summary: The Best Blue Kool-Aid
+review/text: This is the Berry Blue Koolaid I drank as a kid in the late eighties. I remember the marketing blitz for it back then, I drank it a lot in the summer! The "Berry Blue" Kool-Aid out now is not the same ancient formula--this "Ice Blue Raspberry Lemonade" is. I know, I can taste this variety of Kool-Aid by just thinking about it. The blue color looks amazing in a glass pitcher--seemingly nuclear in origin! Delicious smooth lemonade type flavor without the sourness or bite. Unsweetened, so you can add your own sweetener.
+
+product/productId: B001IZHYNM
+review/userId: A3QCPJSJ42UMEO
+review/profileName: L. Will
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1248480000
+review/summary: Best. Kool-aid. Ever.
+review/text: I consumed a great deal of this in High School but have missed it the last few years as it has been removed from my local grocery store. I convinced my wife to let me buy this bulk amount and I am thrilled. Little note will be paid to these reviews but still I must say, you need to try this.
+

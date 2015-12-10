@@ -1,0 +1,1143 @@
+product/productId: B003GTOIVO
+review/userId: A16JB2T6HENFM1
+review/profileName: Jenny
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329264000
+review/summary: Kraft Mac 'n Cheese - no artificial colors
+review/text: We tried this because it does not have artificial colors.  It tastes similar but better than the standard kraft mac and cheese. Our entire family loves it. We haven't tried the toppings.
+
+product/productId: B003GTOIVO
+review/userId: A23PX17ZZ2UH69
+review/profileName: caramel
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1324080000
+review/summary: tasty
+review/text: I tried this first from the grocery store and liked it but now I get it from Amazon. My local grocery charges more for this product.
+
+product/productId: B003GTOIVO
+review/userId: A2FAGIZ9C50XHK
+review/profileName: Chatty Cathy "Moviegirl"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1314230400
+review/summary: Good in a pinch
+review/text: First it's a much better deal than at the grocery store if you do the subscription service. It's a bit salty for my taste, but others may be okay with it. I didn't really care for the bread crumbs either.
+
+product/productId: B001SAWP4U
+review/userId: A38TX5Q9C3XCY1
+review/profileName: J. Benedetto "awesome sound"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319760000
+review/summary: Really good coffee.
+review/text: I pick this up from my local grocery regularly for around $8-9 bucks a pound. Over the years I have developed a discriminating palate for good coffee and any of First Colony's Discoveries blends holds up very well in my opinion.
+
+product/productId: B000B6CYP2
+review/userId: A29XN2QJGS03PP
+review/profileName: Bob in Georgia
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1209340800
+review/summary: Raspberry chipotle vinaigrette
+review/text: One of the fastfood sandwich chains has a raspberry chipotle salad dressing that's pretty good, so I went looking for something similar. This product got lots of rave reviews on the Internet, so I thought that I'd take a chance.<br /><br />The verdict? I'm glad I took a chance. This dressing, which is low in fat but high in flavor, is an absolute winner. I even keep a bottle at the office for those eat-at-my-desk lunches. The combination of sweet and bold is outstanding.
+
+product/productId: B000B6CYP2
+review/userId: AFB75WNH5X6G2
+review/profileName: Anne Greene
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292976000
+review/summary: The best Vinaigrette I've ever had in my life!
+review/text: This is the stuff salads were made for! So yummy.  I put lots of goodies in my salad - chicken, walnuts, green onions, tomatoes and on and on, and then top it with this, and it's a salad made in heaven! The ONLY down side to this vinaigrette is that it's pricey, but oh sooo good and so worth it.  I eat a lot of salads and so I can't use it each time I make one, but for those special salads and for company, this is what comes out! A perfect balance of sweet raspberries and balsamic vinegar, it's a home run! Would be a perfect item for a gift basket as well!
+
+product/productId: B000B6CYP2
+review/userId: A2QNUPVJ08LK0P
+review/profileName: Adrienne Napoli
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243555200
+review/summary: Hot 'n Sweet.....
+review/text: My absolute favorite salad dressing. Has some kick and also some sweet......perfect for greens, blue cheese, walnuts and fruit or just basic green salad. Once you try it you will be a fan.
+
+product/productId: B000B6CYP2
+review/userId: A1YAHULOZAY6IU
+review/profileName: Auj
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1217289600
+review/summary: Fabulous Dressing to liven up your salad!
+review/text: I had a salad in a restaurant for lunch and went crazy over the  roasted raspberry chipotle vinaigrette dressing. I decided  to recreate the salad myself at home. The salad dressing I found in my search on the internet was the Fischer & Wieser  Roasted Raspberry chipotle vinaigrette dressing. It is absolutely fabulous! I have made the salad  many times and for friends and have had to order extra bottles since I got them hooked on it too. This salad dressing will not disappoint and  deserves a five star review!
+
+product/productId: B004KENQOY
+review/userId: A3SU0NM0I51YNN
+review/profileName: Sunny @ the Library "sunnyatthelibrary.com"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1301356800
+review/summary: Pretty tasty, but not chewy enough
+review/text: If you are a fan of Haribo, you will probably find these a bit... mushy, for lack of a better term. I like a chewier gummy product.<br /><br />The flavor is very nice, however, and not overly sweet, which I appreciated.
+
+product/productId: B004KENQOY
+review/userId: A22318BTM97GYZ
+review/profileName: J. Cason
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320883200
+review/summary: Tasty gummies!
+review/text: These are soooo good!  They are a bit larger than regular bagged gummi bears.  I can also confirm what the other person said about being "mushy," but I much prefer the texture of these to the regular gummies.  I would describe them as softer and tender.  But if you like the harder, more chewy version, you might not like these.<br /><br />I read in another spot someone complaining because they are yellowish instead of clear like they seem in the picture.  They are indeed slightly yellow (very pale) and not clear. So, if you are buying them as a decoration, beware!<br /><br />The only problem I have with them is not eating the entire bag in one sitting.
+
+product/productId: B004KENQOY
+review/userId: AFJBDU42S7LV6
+review/profileName: Kylee
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1301443200
+review/summary: YUMMY!
+review/text: I have had the watermelon, mango, blue raspberry, and orange flavors of these gummi bears. They are delicious!  They are very flavorful.  They all taste like the flavors they are supposed to be.  We had bowls of these out at a party and everyone loved them.  I can't wait to try more flavors!
+
+product/productId: B004KENQOY
+review/userId: A3KEQJPXF2J71G
+review/profileName: kmv
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350950400
+review/summary: Good Flavor, not too artificial
+review/text: Gummi Bears arrived quickly and in good shape, not melted or all stuck together.  The grape flavor was not too artificial or overly sugary.  They made a great addition to our candy bar.
+
+product/productId: B004KENQOY
+review/userId: A2Y3902S0KLYCT
+review/profileName: Michi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: Very yummy
+review/text: I got the cherry flavor which were awesome, but Maybe I should have picked one with mixed flavors for variety.<br /><br />They are bigger than normal gummie bears and I agree with them being mushy, but you can easily fix that by putting these in the fridge for a while. :) they were perfect after that.
+
+product/productId: B004KENQOY
+review/userId: A2X4HZV3RGWSMI
+review/profileName: Heurone
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339027200
+review/summary: Pretty good
+review/text: Great flavor, though a little chalky. The only problem being that the quantity is too large for just one flavor. It gets old after a while.
+
+product/productId: B004KENQOY
+review/userId: A195NDLY9TDPIJ
+review/profileName: bootcamp
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326153600
+review/summary: best mango flavor ever
+review/text: if you like gummy bears and are looking for mango flavored, then this is it.  My family loves these gummies.  the best anywhere... I did my homework, trust me.  I'm a candy freak!!!
+
+product/productId: B004KENQOY
+review/userId: AWA68DJTQS848
+review/profileName: Kristi Eastman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320537600
+review/summary: Yummy and Fresh
+review/text: They have the best flavor and are so fresh. I order other flavors also with the same results. So Yummy!
+
+product/productId: B0046LF7WA
+review/userId: A28NEA0ZJGJNKK
+review/profileName: Roland Petrov "tea store owner"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329350400
+review/summary: Kwong Sang Mango Tea
+review/text: This black tea from Hong Kong is infused with a nice natural mango aroma and flavor. The reason I didn't give it five stars is that the tea itself has a slight earthy flavor (some people like it, but I'm not a fan). Overall, this one's a keeper.
+
+product/productId: B000MAOJDM
+review/userId: AI7S94161XV07
+review/profileName: Phillip Reedy
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1225584000
+review/summary: A Tasty Snack with Rapid Arrival
+review/text: Mini Bags are the perfect 1 person size and blast-o-butter is my favorite! Win, Win. Very pleased with product and seller!
+
+product/productId: B000EXGKWA
+review/userId: A1WS2R1PB7HW7E
+review/profileName: SortaTired "SortaTired"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1181606400
+review/summary: Little Teeny Noodles but Great Big Taste!
+review/text: I was very surprised when I prepared this for the first time. The pasta looks really large on the package illustration, but is actually very tiny, almost Spaghetti-Os size.  I wouldn't serve this at a dinner party, but it makes fun eating for lunch, a snack, or a side dish.<br /><br />All the Knorr-Lipton noodle dishes are quick and easy, though some are kind of boring in the flavor department. This one is really full-bodied. If you have used the Knorr Parma Rosa sauce mix, this is pretty much the same flavor: cheese, tomato and garlic. If you have kids that like garlic, this should go over really well.
+
+product/productId: B000EXGKWA
+review/userId: A1XRUPKEH91NJQ
+review/profileName: Carlene Doerr "CD"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1156464000
+review/summary: Nice Flavor. Quick and Easy
+review/text: My only quibble with this product is that the pasta is small and dense and is a tad too "al dente" for my taste. But this is easily remedied. Just add about a 1/4 cup more water and cook for a few more minutes. It's a very nice side dish or main dish for that matter, with a very pleasant blend of cheese and tomato.
+
+product/productId: B000EXGKWA
+review/userId: A1HL7MTSE1N857
+review/profileName: Laurie Ehlke
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1281225600
+review/summary: Good Flavor!
+review/text: I started buying Lipton Noodles & Sauce years ago, and find it to be a very reliable, tasty product.  When Lipton first started making Noodles & Sauce, the product I purchased then was Tomato Basil Noodles (made with shells); actually a far better product!  They have since changed them to the Tomato Parmesan, which is good, but not as good....One trick to try if you remember & love the original Tomato Basil is to use all water instead of milk-it makes the flavor more like the old style :) Many of the other flavors are big hit with my children as well.
+
+product/productId: B0009INHQM
+review/userId: A2PJ32F3FQLEKW
+review/profileName: Tianna R. Milagro
+review/helpfulness: 18/18
+review/score: 5.0
+review/time: 1157587200
+review/summary: Fabulous!
+review/text: I bought this for Mother's Day for my Mother and Mother in law and they both have said that they are still going strong.  I was a little skeptical at first but they came though.  Oh and for the other reviewer who wrote they are cheaper on Wal-mart is correct but shipping is almost $20, so this is a better deal by far!  I liked this so much i am sending it to someone else!
+
+product/productId: B0009INHQM
+review/userId: A2USTIH9WRLNMH
+review/profileName: Sonia Williams
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1186185600
+review/summary: What a fantastic buy!
+review/text: I recently bought this plant as a gift for a friend and she said it was the best gift she'd gotten in years!
+
+product/productId: B0009INHQM
+review/userId: A1ADMN7EY9STCO
+review/profileName: B. V. Michael
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1156636800
+review/summary: Magnificent aroma
+review/text: This is a very beautiful flower which has wonderful aroma. I am very satisfied with this purchase and highly recommend it to all people who value charming plants. It would make a great gift as well.
+
+product/productId: B0009INHQM
+review/userId: AGIQL3ELUETLO
+review/profileName: Ruth A. Latva
+review/helpfulness: 9/11
+review/score: 5.0
+review/time: 1143504000
+review/summary: Windowbox-Gardenia
+review/text: Sent to my daughter in CA for her birthday. She loves the gardenia. The service was excellent. Thanks to Frances, Emily and My-An.
+
+product/productId: B0009INHQM
+review/userId: A26OPMU8YTWVOM
+review/profileName: M. Janosi "Jmissyleigh"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1279324800
+review/summary: Beauty and Joy, and all one!
+review/text: My Gardenia arrived beautifully and carefully packed, and got here extremely fast!  The deep green luster of the leaves is beyond compare, and the plant is loaded with buds ready to bloom!  I have had the plant for four days, and already four fragrant and lovely flowers have opened and are just lovely!  The wicker basket is a perfect accent to this plant.  It is arrived well cared for and beautifully potted.  It responds well to morning (soft) sunlight, moist but not soaking wet soil, and seems to thrive on morning and evening misting!  I will be buying more of these plants from this seller for Mother's Day and House-warming gifts to share this pretty smelling masterpiece (I am NOT giving mine away - although I have been asked several times already since it first arrived!!).  I would suggest this plant and this seller again and again!!  I did have one SMALL problem - the wicker basket was unraveling at the bottom.  I contacted the seller, and they replaced it RIGHT away - no questions asked and extremely apologetic for the 'problem'.  Great product, great customer service!
+
+product/productId: B0009INHQM
+review/userId: A10QG18NSZTSUI
+review/profileName: Pamela A. Davis "Pamela"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1210723200
+review/summary: Beautiful plant
+review/text: My gardenia arrived in wonderful shape.  Even has buds on it already.  Seller is easy to work with and follows through.  My plant even came 2 days earlier than expected.
+
+product/productId: B0009INHQM
+review/userId: A237W2TMB5S09J
+review/profileName: net 10 user
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1343174400
+review/summary: Gorgeous Plant, Awesome customer service
+review/text: I needed a gift for my mother on short notice.  I called the windox to see exactly what time frame I was looking at for delivery.  They were so friendly & helpful and took patience with care to answer all my questions.  I spoke w/ several people, one for delivery (it got there the next day), someone for plant questions, i was told it was beautiful w lots of buds, & someone to make sure they had my order & it was going out the door.  My mother loved it,said it was stunning, she has to touch it to make sure it was real.  Fabulous! Thank u WIndowbox.<br /><br />Just an UPdate:  My mother still loves her plant.  She said she takes care of it per instructions.  She has had it almost a month, she said the blooms were endless.  Just a few days ago we were talking on the phone, and she was commenting on it, and while we were talking she counted 15 blooms and she said maybe a dozen more in a week or so.  I am so pleased, it was worth every penny and she just loves it.
+
+product/productId: B0009INHQM
+review/userId: A2Q4VEVTJNLJ2M
+review/profileName: SB
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1291593600
+review/summary: Gardenia plant gift
+review/text: This blooming Gardenia plant is  just as the picture shows.  It came loaded with buds that keep opening and sending out their lovely fragrance.  I keep it moist and in a east window.
+
+product/productId: B0009INHQM
+review/userId: A1Y0Z9M5Q0WKN1
+review/profileName: J. Alberty
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336435200
+review/summary: Exceeded my expectations
+review/text: I was quite a bit nervous about ordering a live plant for a gift from online. But as I live in Europe and wanted my Mother to have a lovely Gardenia that would bloom because she loves the fragrance I had little choice.  I went with this one based on the mostly good reviews.  While it's a trifle overpriced compared to what you could get at your local big box home store, again I live in Europe, so not an option.  At $40 this is very competitively priced compared to other offerings on the web.  Most importantly though my Mother is thrilled with this plant.  It arrived in good time, well packaged with flowers on it, and LOTS of buds for flowers to come.  I am very pleased, my Mother is as well, and I would highly recommend this product from Windowbox.
+
+product/productId: B0009INHQM
+review/userId: A31TYMB6D2OLT5
+review/profileName: Stacy Weber
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332115200
+review/summary: Gardenia
+review/text: This was a gift for my brother that had surgery. It kept flowering and flowering. It was also very fragrant.  He really enjoyed it.
+
+product/productId: B0009INHQM
+review/userId: A2W5DV8WKN0MF5
+review/profileName: New Yorker
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302220800
+review/summary: Great!
+review/text: The gardenias came within a few days.  They packaged the gardenia nicely and it came in one piece.  There are blossoms and about 7 will bloom in 2 - 3 days.  Great house plant or gift!
+
+product/productId: B0009INHQM
+review/userId: A1OHRKYKZFWTB1
+review/profileName: Steelkat
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300838400
+review/summary: Shipped quickly! One blossom on arrival but many buds!
+review/text: I am very happy so far. I'll let you know how it proceeds. It's a gift for my 85 yr old mother's birthday.<br /><br />I hope that this link shows up. I just took the photo a few minutes ago.<br /><br />The plant appears to be fairly healthy...some minor leaf damage (insect perhaps?).<br /><br />I read online that keeping your newly arrived plant between 60-65 F at night and 65-70 F during the day would be advisable to prevent shock. After the plant acclimates, then tempertures between 70 and 85 F would be best (from spring to fall). These plants can handle down to 45 F ...which means it must come indoors here up north for the winter.<br /><br />[...]
+
+product/productId: B0009INHQM
+review/userId: A638SMGTVP5IL
+review/profileName: M. Klukos
+review/helpfulness: 6/9
+review/score: 1.0
+review/time: 1181865600
+review/summary: no gardenia, no respose from Windowbox, does it get worse?
+review/text: I ordered a gardenia for my mother for motner's day and she got a peacelily instead.  I cannot get any response from the seller and am extremely displeased.
+
+product/productId: B0009INHQM
+review/userId: AT6L0205H9N7Y
+review/profileName: Eleanor Rigby
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1290729600
+review/summary: Nice gift, but not super hardy
+review/text: I sent this as a gift to someone in Los Angeles. She really liked it, but it eventually died. It was pretty finicky, but the one year she had it the blooms were very nice. It's supposed to be good for her zone, but she's not a great gardener or anything. I'm just saying if you aren't a good gardener, it might not live.
+
+product/productId: B0009INHQM
+review/userId: AQZH7YTWQPOBE
+review/profileName: Enjolras
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1241568000
+review/summary: Great plant, some branches dry
+review/text: We just got this in today. It's actually a decent-sized plant, but doesn't come with flowers (although I understand those will grow). They shipped very quickly (we got ours in 4 days of ordering). A few of the branches seemed a bit dry, so we are a bit worried about the plant's health. However, we immediately watered it and will monitor the situation. Other than that, these are great gifts.
+
+product/productId: B0009INHQM
+review/userId: A2KXO0K7DT2N17
+review/profileName: Mike Grigg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: good pick
+review/text: I ordered this twice for my dad when he lost family members.  It smells fragrant and can be transplanted to a garden.  Lasts for 10-15 days.
+
+product/productId: B0009INHQM
+review/userId: A30U7A1UKSF3LD
+review/profileName: Melody from the Valley "Melody"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1212796800
+review/summary: Very Pleased!
+review/text: Potted Gardenia in Basket<br />This plant was a wonderful gift for Mother's Day to our Mom's far from us.  We were able to visit 1 month later and the plants are beautiful and fragrant.  Both Mom's really happy with this gift.
+
+product/productId: B0009INHQM
+review/userId: A2KU3O3007MASM
+review/profileName: K. Ververs
+review/helpfulness: 4/14
+review/score: 3.0
+review/time: 1145232000
+review/summary: Nice plant, but Walmart online has it cheaper
+review/text: This is a nice plant but Wal-mart online has it for $29.97 (on April 17, 2006)
+
+product/productId: B00445R6DG
+review/userId: A3Q0A9XA59MTCX
+review/profileName: LIONESS
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1293062400
+review/summary: excellent value
+review/text: Arrived very quickly.  Received a total of 270 sticks of gum - five sealed packages with 3 boxes of 18 sticks of gum in each.  Excellent value.
+
+product/productId: B001ABTGQW
+review/userId: AQ25G75YJU9OH
+review/profileName: Melony
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: So yummy, finally iced chai lattes at home!
+review/text: Chai lattes are my favorite drinks to order at coffee shops, especially iced ones.  I ran into this brand through a friend, and I was so impressed with the flavor & quality, I decided to research it.  I originally had the mocha frappe mix.  While researching, I saw the chai mix & said... I've got to try it.  Despite the directions to make it, I tossed two scoops of mix, a cup of water/milk, and a tray of ice cubes into my blender & hit frappe.  Yum yum yum.  My 3 lb bag is already gone (after a little less than a month), & I'm left wanting more.  I highly recommend!
+
+product/productId: B001ABTGQW
+review/userId: A3TDS1GQZETZLZ
+review/profileName: Andrea Acailawen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330992000
+review/summary: Best spiced vanilla chai!
+review/text: Once I tried MOCAFE Precious Divinity Spiced Vanilla Chai, I was hooked. It is incredibly creamy and the vanilla is very present, but not overpowering. Most importantly, there is also a nice hint of spice to balance the vanilla taste - something you tend to expect from chai, but that is missing from most vanilla chai mixes. It's definitely worth trying!
+
+product/productId: B001ABTGQW
+review/userId: A2UGM9NWTN09KF
+review/profileName: BB
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1314144000
+review/summary: Delicious and cheaper than the 4-pack
+review/text: Precious Divinity Chai is the most delicious beverage mix I have ever purchased. It's addictive. Buying the three-pound single bag provides the same amount of chai mix as the four-pack but for $4 cheaper. Only downside is I wish I had kept the old containers so that I could keep one at work and one at home!
+
+product/productId: B001ABTGQW
+review/userId: A1U16JDJEPEP0G
+review/profileName: techman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313280000
+review/summary: Chai
+review/text: I enjoy this Chi more than any other! Tastes great and easy to make just adding hot water. Being able to pu vase at amazon in larger quantity with a subsciption service is a big plus for me as well.
+
+product/productId: B001ABTGQW
+review/userId: AS9TCRNBTI1I2
+review/profileName: Lennie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310774400
+review/summary: The cool refreshment, with alot of flavor,
+review/text: I like to have a cool refresing vanilla spiced chai tea drink every day.  I share with my husband, as he likes it also.  Ordering this drink mix from Amazon makes it more affordable.
+
+product/productId: B001ABTGQW
+review/userId: A15VKVV8Q4VS9
+review/profileName: Barbara K.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310256000
+review/summary: best chai mix out there!
+review/text: I found this chai mix at a local coffee shop and loved it!  Then I was able to buy this online at Amazon and have been delighted! The auto ship works great for me.  B
+
+product/productId: B001ABTGQW
+review/userId: ANOA9A61DMUJK
+review/profileName: Monideelite
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1302825600
+review/summary: Smooth Chai
+review/text: I order the vanilla chai every couple of months.  It is very economical (not $4 a cup!) and it tastes great.  I would have given 5 stars, but the decaf is never in stock.
+
+product/productId: B001ABTGQW
+review/userId: A1U5NU0OIC23TT
+review/profileName: Chai Lover
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267488000
+review/summary: MOCAFE VANILLA CHAI
+review/text: Product is superior in taste to most chai beverages.<br />Product comes in convenient packaging (bag or canister)for easy storage or take along.
+
+product/productId: B001ABTGQW
+review/userId: A1EZBT3ST3HR2G
+review/profileName: Jay Comiskey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265500800
+review/summary: MoCafe Precious Divinity Vanilla Chai Spiced Tea Mix
+review/text: A wonderful comfort drink...delicious and calming to the scenses.  Smells delicious and is delicious.  A bit pricey...and worth it.
+
+product/productId: B001ABTGQW
+review/userId: AZG438ZR5Y51J
+review/profileName: S. Ferguson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1264809600
+review/summary: Mocafe Vanilla Chai
+review/text: I love chai tea; however, finding a product that is the "best" has been a task. After trying the regular MOCAFE Precious Divinity Chai some years ago [purchased from TJ Maxx], I found it to be very good, but missing something. Since buying an espresso maker, I started adding some Torani syrup to give it a vanilla flavor. So, I decided to buy the MOCAFE Vanilla Chai to eliminate the syrup.<br /><br />I will agree with the the other review about the powder being sweeter, but I think it is well balanced when using steamed milk and froth the top. When frothing the milk [skinny], the drink is a sweet, creamy vanilla chai drink. I haven't drank a better chai powder up to this point.
+
+product/productId: B001ABTGQW
+review/userId: A2YJPB60BH6XYN
+review/profileName: Sprint180
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1253232000
+review/summary: great tasting tea
+review/text: I am usually not one for hot drinks other then regular hot cocoa but I think this is wonderful.  There is just the right mix of spices, not too strong.  Definately try it if your looking for a smooth warm drink.
+
+product/productId: B001ABTGQW
+review/userId: A3KPKBJJX5X8GY
+review/profileName: D. Nicolds "blessed"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1249344000
+review/summary: MOCAFE
+review/text: Did not like this at all.  Way too sweet, not enough spice (and I am not a very spicy person ).  Definately like Big Train brand better.
+
+product/productId: B001ABTGQW
+review/userId: A22IG867NU6JIT
+review/profileName: Pamela
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1230076800
+review/summary: High Five for Vanilla Chai
+review/text: This product is one of the best tasting chai mixes available on the market at a moderate price.  It is easily transported for a quick and hot drink on the go; or for breakfast and after dinner.<br />I'm so glad I found it!
+
+product/productId: B001QKLF34
+review/userId: A2MUGFV2TDQ47K
+review/profileName: Lynrie "Oh HELL no"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1286755200
+review/summary: Riding the Fence...
+review/text: ...recently had Colavita Whole Wheat Spaghetti at a friend's home and I liked it. Considering it a healthier addition to my meal plans I came home to see if Amazon had it at a decent price with FREE SHIPPING. I was lucky to find a wide range of pricing choices from different sellers BUT the shipping charges negated any savings. Luckily this purchase was an Amazon super-sale item, I'm not sure when these 20 bags are gone I'll purchase again unless there is a sale of some sort.<br /><br />Having grown up on the East Coast eating lots of pasta in many shapes and sizes, the sauce ingredients always took precedence over the pasta. Spices, meats and veggies were the premium items and the pasta was the vehicle for the ride. So moving toward paying a premium for pasta is a new experiment. The Colavita Whole Wheat Spaghetti is good, I'm not sure better than freshly made when available at comparable price, so I'm riding the fence.
+
+product/productId: B0038KDPJM
+review/userId: A1RBPJO4C0U32C
+review/profileName: Jack Flack
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1282003200
+review/summary: Tastes just like any other common honey you might eat
+review/text: The description of this honey says it has a rich unique flavor. Mine certainly didn't. It tasted just like the cheapest honey you might find in gallon jugs at your local grocer.<br /><br />And by the way, this jar is only 2oz so it's also very pricey for its size.
+
+product/productId: B001SB1A2W
+review/userId: A1O2KQ6ZDTL1BD
+review/profileName: Linda W. Lindert "wastetire"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271980800
+review/summary: Delicious curry paste
+review/text: I have used other curry pastes by this company and I wanted to try this one, which is not available in local supermarkets.  I ordered a 6 pack and gave some containers to friends.  We all agree that we like it a lot in stews, soups and main dishes.  It is easy to mix with hot food and keeps well in the refrigerator.  Yummy addition to spices.
+
+product/productId: B001SB1A2W
+review/userId: A1AIPX98H6J1SJ
+review/profileName: H. Bock
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267574400
+review/summary: Pataks is simply the best!
+review/text: We've used Patak's Curry paste for years now and have been big fans... It delivers terrific, complex curry flavor that is far superior to any powder that we've used. I found Patak's Biryani curry paste recently and decided to try it, and it is fantastic! Delicious, complex, and we've almost used up the jar. We can highly recommend it!
+
+product/productId: B000LLKC8S
+review/userId: AUUUWS9MPKVM5
+review/profileName: Rebecca L. Walker
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1339891200
+review/summary: Makes the best pickles ever!
+review/text: I bought a bunch of these at my Mom's request. She has been making her own pickles for years, but only recently discovered these. She swears this mix makes the best dill pickles ever.
+
+product/productId: B001EO64NS
+review/userId: A2J91OKWITQ4AY
+review/profileName: Karen Vose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1279065600
+review/summary: Love Em - why can't we get em?
+review/text: My husband really love's these.  I was able to buy them from the Hoodys website - but not anymore.  Why doesn't anyone sell them????
+
+product/productId: B001EO64NS
+review/userId: A3GJCUMC5EU1LY
+review/profileName: NH
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270684800
+review/summary: Excellent snack!!
+review/text: I received these almonds as a corporate Christmas gift this year.  They are a delicious and healthy snack!!!  The cinnamon flavor is wonderful, and it is just sweet enough to serve as an alternative to dessert at times.  I have been looking all over for these at local stores with no luck. I hope it will be available soon for purchase from amazon.com.
+
+product/productId: B001EO64NS
+review/userId: A18TST0YO1NN2
+review/profileName: M. Copeland "puddykat"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1240704000
+review/summary: Excellent
+review/text: These are excellent.  I like to eat them with apple slices.  Gets me to eat more apples!  Very good cinnamon taste.  Good quality products.
+
+product/productId: B001LM5UMO
+review/userId: A273Q1O73NER22
+review/profileName: T. Trude "tltrude"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346976000
+review/summary: Good stuff!
+review/text: Tastes very good. It arrived intact in a small styrofoam cooler which may have started out with dry ice. It was still cool to the touch.
+
+product/productId: B0009F3SE6
+review/userId: A1A4Z0FN3BRSPC
+review/profileName: Carol Grey
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1245456000
+review/summary: Yogi Green Tea is the Best!
+review/text: My husband and I love this tea.  We drink several cups a day of this and Yogi Green Tea Energy.  I start each day with Yogi Green Tea Energy. I find it is a wonderful way to wake up and help me think clearly in the morning (and throughout the day).  Drinking the Pure Green tea has also had a beneficial effect in reducing the knee pain I was having. I had read that drinking green tea could be beneficial in helping build strong bones and reducing arthritic pain, so I looked for a tea that was organic and chose this brand.  After about 2 weeks of drinking 2-3 cups a day I discovered I could easily walk up stairs without knee pain.  This was the only change I had made in my diet.  My chiropractor was amazed!  I truly believe this is a greatly beneficial tea and the added bonus is that it is great tasting!
+
+product/productId: B0009F3SE6
+review/userId: AN2ILYA7DBQ56
+review/profileName: lindsay_naomi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1283126400
+review/summary: My favorite green tea EVER!
+review/text: This is by far, the best tasting green tea I've ever had. It is a staple for me at the office, and at home. It's smooth and has just the right amount of caffeine for me. :)
+
+product/productId: B0009F3SE6
+review/userId: A2M9D9BDHONV3Y
+review/profileName: A. Bennett
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1163030400
+review/summary: Green Tea is excellent for everyone!!
+review/text: This is a minimally processed, 100% organic green tea which preserves the antioxidant and polyphenol content of the leaves.  The flavor is very mild but pleasant.  It's a refreshing hot cup of low caffeine tea.  I highly recommend it to everyone but especially those wanting a healthful drink for any time of the day.
+
+product/productId: B0009F3SE6
+review/userId: A2F17MP7MF5NBZ
+review/profileName: nature lover
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1287360000
+review/summary: Best Green Tea
+review/text: This has been my daily tea for years. I like a number of other Yogi teas as well, but I can't imagine not having at least one cup of this every morning. Mild and never bitter (no matter how long the bag stays in). I've tried every green tea readily available and this is the best tasting hands down. Excellent product!
+
+product/productId: B0009F3SE6
+review/userId: AY3AVLL5IWW9
+review/profileName: Russell Fanelli
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1265932800
+review/summary: Recommended with orange slices
+review/text: For purposes of this review, I made a cup of Yogi Green Tea (Pure Green 16 Count Box) and now present my findings.  I used Chrystal Springs Distilled Water, which I brought to a rapid boil and then poured over the tea bag in a medium sized mug.  I dunked the tea bag ten times and then covered the mug with a plate for the three minutes recommended on the tea box.<br /><br />The freshly brewed tea has a faint, grassy smell.  The taste is mild, with a slightly bitter after taste.  The taste reminds me of the green tea served in Chinese restaurants.<br /><br />Next I brewed another cup of the Yogi Green Tea, added a teaspoon of orange blossom honey, and two slices of a honey-bell orange.  This is a delightful beverage.  The mild green tea allows for the full flavor of the honey and orange slices to be experienced.  This last cup of tea is the one I recommend.
+
+product/productId: B0009F3SE6
+review/userId: A2NZ0KFGRJ7KXI
+review/profileName: S. Sultan
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1232496000
+review/summary: Great Stuff!
+review/text: Actually a great tasting green tea. I first found it at Jason's Deli, and knew that it must be good then. Its much better than the stuff you find in most grocery stores.
+
+product/productId: B0009F3SE6
+review/userId: A2E3E0ILSXA25Z
+review/profileName: Jenni Robinson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1165622400
+review/summary: I wouldnt buy it in this large amounts but...
+review/text: This is really good tea..and unless you drink several cups a day I dont suggest buying this much! It's really a clean taste, not bitter or grassy and is healthy.
+
+product/productId: B0009F3SE6
+review/userId: A29RS33N281XNJ
+review/profileName: Twain Mark "Jon"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345248000
+review/summary: Nice taste
+review/text: This is good tasting tea at a decent price.  My only problem is not really with the tea but probably me, if I drink green tea on an empty stomach, sometimes I turn green myself.  Nausea eventually goes away, just have to remember not to drink it on an empty stomach.
+
+product/productId: B0009F3SE6
+review/userId: A3DKSVPERS1IYY
+review/profileName: Kevin B.
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1329955200
+review/summary: Doesn't taste at all like green tea
+review/text: Did I get a bad batch?  People here seemed to rate it so highly?  Very bland taste for me.  Strangely enough, whatever aroma is there almost more of chamomile or peppermint than actual tea.  Yes I tried a few different times -- steeping longer, less water, different temperatures.  Does a better job at replicating the color of tea than the flavor.  Don't know what else to say.
+
+product/productId: B0009F3SE6
+review/userId: A1ZMQIU56KFEX1
+review/profileName: Richie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323993600
+review/summary: Delicious
+review/text: I was looking for an organic green tea for the health benefits and natural source of caffeine.  I found this tea at Vitamin Shoppe, although I'm pretty sure I've seen it in most super markets.  This is one of the best tasting green teas I've ever had.  I steeped two bags in about 12 oz of boiled water for 3 minutes.  A little while after drinking the tea, I got really relaxed, almost tired, but my brain felt more alert.
+
+product/productId: B0009F3SE6
+review/userId: A3TJ7F8JES770A
+review/profileName: Bombur's Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318118400
+review/summary: Best Green Tea Ever!
+review/text: This has got to be the best green tea on the market today.  Excellent flavor and a bargain thru Amazon.com.
+
+product/productId: B0009F3SE6
+review/userId: A1MI6MRYWSCH33
+review/profileName: Nancy J.
+review/helpfulness: 0/5
+review/score: 5.0
+review/time: 1168905600
+review/summary: Oops, a mistake
+review/text: A mistake was made in the order, but it was quickly rectified.  So I give you folks a B+ for your delivery.
+
+product/productId: B0037X9LTI
+review/userId: A35R32TA60XD57
+review/profileName: M. Torma
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333411200
+review/summary: Sheldon's favorite!
+review/text: We were having a terrible time finding a food that our little shihtzu, Sheldon liked and liked him back.  I tried a few of the Castor & Pollux foods and he loved them all!  Plus, there wasn't any adjustment time with his system.  Within 2 days he was eating it completely without any digestion problems.  I have found that to be true with finding pets the food that agrees with them...if it does, it does quickly and if it doesn't, it never will.  At least that has been my experience.  This one and the turkey vegetable flavor are a firmer consistency that make it easier for me to cut up and for him to eat.  I tried Wellness and Natural Balance as well as Nature's Variety Instinct and Blue Buffalo and none of those agreed with him and even a small amount (a tablespoon) added to his regular food made his stool soft.  Not so with these foods.  I have talked with Debra Guenther at Castor & Pollux too and the company has excellent customer service.  This is a keeper in his rotation.
+
+product/productId: B0037X9LTI
+review/userId: A35B9KZ1E4EXDN
+review/profileName: Deborah L. Hildebran "GarthBnut"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320192000
+review/summary: My Chihuahuas Love it!
+review/text: Both my chihuahua love this...they are so excited every morning when its breakfast time...This is a great product, and the price is great too :)
+
+product/productId: B0037X9LTI
+review/userId: A2SEMQS6880ATU
+review/profileName: Charles Hoover "CnGz808"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340668800
+review/summary: Very picky dog likes it and so does the cat!
+review/text: Our dog is very picky when it comes to dog food. I have bought cases in the past that she wouldn't even touch. So glad that she liked this brand and that I have it on subscription. The cat even tried to snake it from the dog! Will check to see if they make cat food.LOL.
+
+product/productId: B004AIZT5E
+review/userId: A1CF7RV3FY213U
+review/profileName: Om Ah Hum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317168000
+review/summary: Great Aromatic Instant Coffee
+review/text: Best Instant Coffee. These are great when served hot or as iced Latte.<br />But I find much better prices for this product on eBay.
+
+product/productId: B004AIZT5E
+review/userId: AT9NK0T7V6EH9
+review/profileName: sharon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314835200
+review/summary: coffee
+review/text: Never had a problem with this seller. I love this coffee. I don't have time to wait for a coffee pot or for a barista to make my coffee.this little package was the perfect fix. Try it you will like it..its a little strong for instant coffee.
+
+product/productId: B000LRKOSK
+review/userId: A3AXFVUMQM3IVK
+review/profileName: Michael Lipsey
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1265241600
+review/summary: Tastes like mayo.
+review/text: I love Krinos Taramosalata and we buy it often. So when I saw it at Whole Foods I grabbed a jar. Later, eating it on some French bread something seemed horribly wrong. I looked at the jar and it turned out to be this awful "Lite" version. Tastes nothing like the real thing. Tastes like nothing at all, and there is an unpleasant aftertaste.
+
+product/productId: B003V32N4E
+review/userId: A1IBAXVEJ38KQD
+review/profileName: bobthedog
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1299456000
+review/summary: Delicious!
+review/text: This is a very excellent mildly-fiery addition to just about anything. Sprinkle it over traditional Japanese fare such as udon, omurice, or okonomiyaki - or on such treats as hamburgers, salmon steaks, or BLTs! It gives a wee 'kick' to just about anything savoury, and in the econo-pack available from amazon you can have a bottle about as ubiquitously as in any Japanese diner.
+
+product/productId: B00556L9SQ
+review/userId: A1HOXKR7OKJ1X1
+review/profileName: L. R. Dana-kirby "Leslie Dana Kirby"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Tea-licious!
+review/text: I love Arizona iced tea, especially this flavor, which offers the perfect combination of lemony sweetness.<br /><br />This review is specific to the product, not the price, but this product usually retails for three to four dollars at my local store so the price is reasonable . . . one would just need to decide if the shipping costs made it worthwhile.
+
+product/productId: B0029T77HY
+review/userId: ADC9AM77XD6R7
+review/profileName: Diane
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1261094400
+review/summary: I think they're great
+review/text: I'm just finishing up my first three boxes of these and ordered three more. (I had to order directly from Melitta because for some reason these folks won't ship to Hawai'i. This little snub took away one star.)<br /><br />Personally I think the bamboo filters impart less of a taste to the coffee than the wood-based paper, especially the brown paper. I haven't had any trouble with my filters coming apart or grounds spilling over the top.
+
+product/productId: B0029T77HY
+review/userId: AF0JFEOFFQEQK
+review/profileName: M. Janczak
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1281052800
+review/summary: Great Coffee Filter!
+review/text: At first I hesitated buying these because of the negative reviews.  However, supporting a sustainable fiber product motivated me to at least give it a try.  I was very impressed and you will be too!<br /><br />The filters are solid and I have not noticed any filters breaking.  I have even tried to damage these and make coffee and surprisingly I found they withstood the damage better than regular paper filters!  As for the taste I find that there is a small improvement in taste, but that might also be caused by the special Melitta style of filter (small pips throughout the filter that increase the filter surface area).<br /><br />When it comes to a name brand like Melitta's, you really cannot go wrong.  I am very happy with these filters and I am certain you will be happy as well!
+
+product/productId: B0029T77HY
+review/userId: A1VXM7AHLU66GR
+review/profileName: Michael Martin
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1274832000
+review/summary: Looks, feels, and works as well or better than the paper ones.
+review/text: I initially purchased these bamboo filters while trying to order in quantity for my office. Amazon was out of stock on the regular paper filters, so I crossed my fingers, and tried these instead.  I was immediately impressed by their performance, and received not a single complaint from the dozen or so fussy coffee-drinkers in our little club.  I have since purchased two more of the six-packs for the coffeemaker here at the office.  We easily brew 6 pots a day in our Krups dual-carafe machine, and have never had a problem.<br /><br />They work just like the "real" thing, and are made of sustainable fibers.  These *are* the filters you are looking for.
+
+product/productId: B0029T77HY
+review/userId: A22NC4422UQV1F
+review/profileName: tzara "yoyodyne_recycled"
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1257292800
+review/summary: Avoid
+review/text: I bought these thinking that using bamboo was a great idea as it's highly renewable.  But these filters do not do a good job at keeping the grounds in the filter, which obviously is all important.  I tried using these four separate times and each time the filter leaked at the seam.  And it wasn't just the seam splitting.  They actually deteriorated at the seam's edges.  The combination of bamboo and paper pulp does not seem to be able to withstand the flow of hot water.  I use a pour-over method when making coffee, and I never have a problem with paper filters, so I'm confident that it's not what I'm doing.  It's the composition of the filters.  Maybe I got a bum batch, but maybe not.  I won't be using the 76 filters that I have left.  It's back to all paper for me.
+
+product/productId: B0029T77HY
+review/userId: A2YAHDOYQK3JJJ
+review/profileName: Roger D. Lauzon "coaterfreak"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304899200
+review/summary: great coffee filters
+review/text: these coffee filters are very good. and they are 100% sustainable made with 60% bamboo makes an excellent cup of coffee buy it you'll love it.
+
+product/productId: B0029T77HY
+review/userId: APMYPD97EHUUZ
+review/profileName: John H. Gruver "brainactiv"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1278979200
+review/summary: I'm happy with these
+review/text: On my second box. No problems. They filter as hoped. I also use them to filter my red wines (no, even my most discriminating wine-loving friends do not know that my wine has been filtered) and they work great for that also.
+
+product/productId: B0029T77HY
+review/userId: A10LIGIT9EGCM9
+review/profileName: cocopupu
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1257724800
+review/summary: What can you say about coffee filters?
+review/text: I bought this product due to its eco friendly paper.  Big time coffee drinker so I could be a big source of deforestation if I don't watch it.  It does the job it is intended to do.  Have to say I noticed some crumpling at top edges that I need to smooth before brewing.  A few times coffee has leaked over the sides of the filter resulting in grounds getting in the pour and leaking.  Making sure the paper is open all the way and smooth around the top edges has taken care of the problem.  Can recommend bamboo based paper vs white chemically treated paper!
+
+product/productId: B00473K7T0
+review/userId: A3KUTFMKFYSU
+review/profileName: Amy
+review/helpfulness: 4/6
+review/score: 4.0
+review/time: 1318550400
+review/summary: Mole Love!
+review/text: This is a pretty nice mole.  In comparison to restaurant moles, it will work.  We don't know how to make mole, and we live in a remote location so having this makes us happy.  I disagree with the other reviewer about taste.  It has a lovely, rich taste that adds a lot of flavor to enchiladas.
+
+product/productId: B00473K7T0
+review/userId: A3JKI7AWYSTILO
+review/profileName: Robert Ward
+review/helpfulness: 4/10
+review/score: 2.0
+review/time: 1311984000
+review/summary: Pretty tasteless
+review/text: The color is right.  It's wet and the texture is rich.  Utterly devoid of taste.  Adds nothing to any dish except moisture.
+
+product/productId: B0005ZVON2
+review/userId: A9QR7MTWCDZ5J
+review/profileName: William D. Bailey "Friend of the Great Khan"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1142640000
+review/summary: Super seasoning for plenty of different foods.
+review/text: Don't be fooled by the simple packaging of this mixed spice. This is not a simple flavor.<br /><br />If you like the steaks served at a certain "Australian" styled steak house you may well like this seasoning. A friend of mine introduced it to me at a little cook out, where he rubbed a generous amount on some new york strip cuts and grilled, and I fell in love. He then told me that this was the above mentioned steak house's secret seasoning for it's steaks, him claiming to know this by having worked their for a time. I know he had worked at just about every chain restaurant at some point, but that's about all I can confirm in regards to this rumor one way or the other as I've never had a steak there, nor worked at one. Regardless of the truthfullness of that statement, I can firmly attest to fact that this is an excellent mixed spice.<br /><br />I've used it on just about every type of meat except sea food, though I suspect it would be good on that too, with a noteable preformance on eggs. It is mildly spicey and fairly salty, but not overpowering unless you really load up.<br /><br />Reminds me of cajun seasonings in simular packaging, but is not as "hot". I highly recommend a good cut of beef, pan fried in olive oil with a generous amount of Cavender's Greek Seasoning rubbed in.<br /><br />It is also priced very well, and one container is more then enough to last a while. If you for some reason don't love it, you won't be out very much money and if you end up loving it as much as I do, you'll have plenty of it to last you a long time. A seasoning every kitchen should have!
+
+product/productId: B0005ZVON2
+review/userId: A3LWOQLJDZ2KSH
+review/profileName: Domestic Goddess "Jane"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1214524800
+review/summary: Wonderful grilled chicken
+review/text: You can create your own secret recipe with this seasoning and make people think you are a true grilling champ.  Wonderful flavor and just the right amount of spice on grilled chicken.  I ordered from the company because I could no longer find this product at my local grocery store.  I was absolutely amazed at how quickly the company shipped my package.  Won't hesitate to order from them again!
+
+product/productId: B0005ZVON2
+review/userId: A1SW4H047XA7QQ
+review/profileName: Robert M. Stapp "thetinner"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315180800
+review/summary: Excellant Product
+review/text: Purchased this product to make "Gumbo" for the first time. The flavor I had been looking for was there. Perfect!
+
+product/productId: B0005ZVON2
+review/userId: A2H50T0SKE9PW1
+review/profileName: srrecords "srrecords"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296259200
+review/summary: A secret, yet delicate, ingredient
+review/text: This spice blend is very useful in all sorts of situations, not many of them "Greek."  It is easily added to steak, chicken, spaghetti sauce, burgers, etc.  I've used it when I did not have pepper.  I've used it when I did not have garlic (in fact, it has both).  It is never a terribly overpowering blend, which is why it can be used anywhere, and (for some reason) wherever it is used, it seems to yield success.  It's very cheap, so it is advisable to keep it around...it's advisable to keep it around anyway, since it will do you wonders, when you are in a bind.  This is an ideal product.
+
+product/productId: B0005ZVON2
+review/userId: A2YKXCEYQKML3N
+review/profileName: AMY
+review/helpfulness: 6/9
+review/score: 2.0
+review/time: 1301616000
+review/summary: Good but SALTY, SALTY, SALTY!!!!!
+review/text: Very good seasoning blend, but sooooooooooooooooo salty!!! Way over the top salty for my tastes. And the salt free version uses something in place of the salt which seems to make it really bitter. Apparently no happy medium. Make your own greek seasoning, lots of recipes all over the web.
+
+product/productId: B0005ZVON2
+review/userId: A3OZC8ZFZR1G41
+review/profileName: Freddy Aubuchon
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1348444800
+review/summary: it was amazing!!
+review/text: Have been putting this on any beet whether i grill or fry and it is amazing. Took to deer camp last week and put on some fresh deer steaks and wow it was amazing!!!  Even better when you sprinkle a little bit over your salads!
+
+product/productId: B0005ZVON2
+review/userId: A34QSBSSKMG251
+review/profileName: j10012 "j20825"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Rocks a filet of fish
+review/text: Sprinkle on both sides and fry in high heat w butter...an instant gourmet meal! I tried it on dolphin fish but choose your own
+
+product/productId: B0005ZVON2
+review/userId: AD6XJTP1AI8OS
+review/profileName: thebauble
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330214400
+review/summary: Wonderful for healthy eating
+review/text: I sprinkle a little on my broccoli after steaming it and my entire family loves it.<br />I've also used it on stir fry, sauteed chicken, and hamburgers.<br />I've talked a lot of people into buying this product and they love it!<br />I'll definitely buy it again.
+
+product/productId: B0005ZVON2
+review/userId: A1K6WU5073QX82
+review/profileName: Jack
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311724800
+review/summary: Great seasoning
+review/text: This is made locally at a near by town, and everyone around here always uses it, so I was surprised to find out that a lot of people have never heard of it. It's a great seasoning for just about everything and can definitely make your barbecue much better.
+
+product/productId: B0005ZVON2
+review/userId: ALKUHG3DWXJV1
+review/profileName: Pat Christie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308009600
+review/summary: Delish!
+review/text: This a great spice for salads-- especially for one that involves, feta, tomatoes, green peppers and olive oil.  Add a couple tablespoons of this and it's a delicious dip. It adds such great flavor!
+
+product/productId: B0005ZVON2
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1339718400
+review/summary: No kitchen should be without this.
+review/text: First of all, to the fraidycats that say this contain a "dangerous neurotoxin"....thats<br />hilarious. Most people are smart enough to do their own research on MSG if they have any<br />concerns, and they will find that is a pure myth and all this MSG hysteria is nothing but<br />a manifestation of gastronomic xenophobia. Glutamate is naturally occurring in dozens of<br />foods, the list is long and also includes breast milk. Yes, you heard me.<br /><br />Anyway, I've used Cavenders for years and its my secret weapon for boiled shrimp and also<br />Low Country Boils. Its great on steaks and pork, and also perks up any green veggies. It<br />does contain salt so if you're sensitive to that then be judicious with its use.<br /><br />This is the original and its still the best from all the copycats out there from Konriko<br />and others. You wont regret having a can of this in the pantry. Now I'm off to write a<br />review for Morton's Salt...my header is going to be "Too Salty!" LOL
+
+product/productId: B0005ZVON2
+review/userId: A1H21NETO4N18B
+review/profileName: Roland J. Plasser
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1314662400
+review/summary: Good, but salty.
+review/text: I can't get the greek flavor to the food because it would be too salty. I combined it with other spices, but what's the sense if you can't use a lot?
+
+product/productId: B0005ZVON2
+review/userId: A1P7U5Z4Z0C65K
+review/profileName: P. Richey
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1338076800
+review/summary: BEWARE!  This contains MSG a dangerous neurotoxin!
+review/text: I bought this product and was very happy with it until I realized that it contains MSG a very dangerous neurotoxin.  Please check this out before using it again, you may want to find something safer.  [...]
+
+product/productId: B001SBD3RM
+review/userId: ADNT1HCLO60ZL
+review/profileName: N. Geimer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1319328000
+review/summary: Not for the faint of heart!
+review/text: This is something that my husband LOVES (which is too hot and weird for my taste.) First discovered by him in Indian restaurants, it has been a quest to always have some around the house. We can't buy it locally any more.
+
+product/productId: B001SBD3RM
+review/userId: A10F6NXVEUH70B
+review/profileName: chilipickle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289865600
+review/summary: I await the precious package!
+review/text: I started using this years ago when it was in the condiment section of our health food stores. Having had Indian mixed pickle, lime and mango pickle in India, I was happy to find this in the states. My favorite by far is this Chili Pickle, now called relish. I add it to lots of quick meals for a taste treat. At some point the stores gradually stopped selling it and I assumed others did not share the delight (we have found it in Indian groceries in large city areas).  Anyway, even as my mouth waters in anticipation, I am grateful for the internet for helping me find a way to bring it home.
+
+product/productId: B001SBD3RM
+review/userId: A1A7977716YE3V
+review/profileName: Mike from Charlotte
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271808000
+review/summary: Addictive, perks up dull dishes, not just for Indian food
+review/text: Simple ingredients combine for a mouth-watering, spicy condiment that I keep finding more and more excuses to use.<br /><br />This is not just for Indian food. In fact, I don't eat a lot of Indian food. But I find myself putting it on pasta, Mexican dishes, salads, stir fries, fried rice, pizza, anything with tofu, vegetables, omelettes, etc.<br /><br />I'm a vegetarian these days, but I literally salivate remembering what it tasted like on a turkey sub. Luckily for me, this condiment also makes it easier to remain a vegetarian.<br /><br />The ingredients are simple -- Chile Peppers, Canola Oil, Salt, Ginger, Mustard, Fenugreek, Spices, Acetic Acid, Citric Acid -- but the blend is perfect. The heat isn't overbearing and there's no unwanted sugary taste, which ruins so many relishes for me.<br /><br />Everyone's tastes are different, but you should give it a try.<br /><br />I'm so happy I've found Patak's Chile Relish.
+
+product/productId: B001SBD3RM
+review/userId: ADQKGGVAHVWK8
+review/profileName: Cruser
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1332979200
+review/summary: Hotjamama
+review/text: This fantastic hot chile relish is comprised of pickled string beans mixed with chiles. If you want to liven up a sandwich then its for you. Be careful though, since a little goes a long way.
+
+product/productId: B001ELL5IK
+review/userId: A3BS9NFPQQ739N
+review/profileName: RoN4WRGA
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1186617600
+review/summary: Best ever Pancake (& Waffle) mix
+review/text: We were introduced to Robby's pancake mix by a friend several years ago.  Of all the many prepared and scratch mixes we have tried in the past, Robby's is by far the best we have ever had.  Although when prepared with milk Robby's tastes excellent, it is by far better when prepared with buttermilk! We use the same Robby's mix (prepared with buttermilk, of course) for waffles with the same wonderful taste experience.  You will not be disappointed.
+
+product/productId: B001ELL5IK
+review/userId: A87EKDKFDHH6L
+review/profileName: Gadgetgal
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1196121600
+review/summary: Have Restaurant Pancakes At Home
+review/text: If you love having those famous pancake house pancakes but don't always feel like leaving home early on a weekend morning, this is the answer.  Easy to make and so delicious, there is no comparison to the store  mixes.  All you need is some buttermilk, an egg and cooking oil and you're ready to have the pancake house in your own kitchen. My kids always make sure I'm well stocked on my Robby's.
+
+product/productId: B001ELL5IK
+review/userId: APD719S590F2U
+review/profileName: Erin E "tornado"
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1258243200
+review/summary: Tasty!
+review/text: I just tried this mix for the first time today, as it took awhile for me to remember to buy buttermilk. It's quite tasty, but you can really taste the salt! I made it on my Villaware Belgian wafflemaker on setting 6, using 1/8 cup butter and 1/8 cup oil (recipe calls for 1/4 oil), and it came out dark-brown and crispy on outside and very moist on the inside - just delicious. Using two cups of the mix, I got about 5 waffles.<br /><br />I've also purchased the Carbon's Golden Malted waffle mix, which I've like, but I prefer Robby's because it's so much more flavorful - perhaps I should try buttermilk with the Golden Malted as well. The downside is Robby's calls for 1/4 cup of oil, while Golden Malted requires 2 tbs of butter - so if you're looking for something lower fat, you may want to look at the Golden Malted. By the way, I was surprised to see that the folks who make Carbon's Golden Malted make the Robby's mix as well.<br /><br />Tip: You can freeze buttermilk (just measure the correct amount and put in ziplock bags for the next go-around) to avoid wasting the leftover buttermilk....
+
+product/productId: B001ELL5IK
+review/userId: A3737XZNHZ5EL6
+review/profileName: Heidi
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1214265600
+review/summary: Delicious-for snacking too!
+review/text: These are by far the best pancakes I've ever made at home.  The whole family loves them.  Our weekend tradition is to have these with maple syrup, warm strawberry sauce and whipped cream.  The buttermilk lends a tangy delicious flavor to the pancakes.<br />These are great for snacking from the fridge, too.  They are great without syrup or whipped cream.
+
+product/productId: B001ELL5IK
+review/userId: A1C9P21Z1H3Y9N
+review/profileName: Jan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1307836800
+review/summary: The best pancakes.
+review/text: The pancakes are light and delicious. Ever since I discovered Robby's pancakes I don't buy anything else.  Amazon offers a great price for the set of 3 or 6 cans.
+
+product/productId: B001ELL5IK
+review/userId: A1NRVJTV4CXVO4
+review/profileName: Ants
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1303603200
+review/summary: Greatest Pancake Mix
+review/text: I love this product. I used to go to the Robby's Pancake Houses in Florida where I grew up as from teen to my adult years and even up to a few years ago when they closed. I'm glad I am able to purchase this and continue to enjoy my favorite pancake.
+
+product/productId: B001ELL5IK
+review/userId: A3RVZ1KHS48INH
+review/profileName: A. Ward
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1199491200
+review/summary: Best pancake miz
+review/text: Our family has tried many pancake mixes and this BY FAR makes the best tasting pancakes.  You hardly need butter and syrup.
+
+product/productId: B001ELL5IK
+review/userId: AO9SULMU9LL18
+review/profileName: Dead_Cow
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296172800
+review/summary: Hands down, THE BEST pancake mix on the planet.
+review/text: This makes the best pancakes in the world - better than my Mom's pancakes from scratch. Seriously, and sorry, Mom. I bought this mix as a stocking stuffer for Christmas from Williams Sonoma (impulse purchase), and I will forever buy these with buttermilk and blueberries. Awesome awesome awesome!
+
+product/productId: B001ELL5IK
+review/userId: A34CTOMO3W22S
+review/profileName: Kusum John "maji"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1245974400
+review/summary: Robby's buttermilk pancakes, breakfast worth waking up to
+review/text: I have bought several of these pancake mixes to share with my friends after I got to taste them.<br /> They all agreed that this is the best pancake they have ever tasted. There were times when this item was  not available due to demand. That shows how convinced the consumers are about the quality of this product.
+
+product/productId: B001ELL5IK
+review/userId: A3GPOUU5EMP2SE
+review/profileName: Mrs. Carol R. Deegan "love to eat"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1240272000
+review/summary: Wonderful Mix
+review/text: I first found this product at a small grocery store and thought the ingredients were healthy.  Our family has made wonderful buttermilk pancakes every Sunday since my initial purchase.  Adding buttermilk to the mix increases the buttermilk flavor.  The pancakes are light and fluffy.  No heavy, fat belly after eating.  Have had to search high and low for this product until I found it on Amazon.
+
+product/productId: B001ELL5IK
+review/userId: AQ0WQWC1BDEHV
+review/profileName: M. Sullivan
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1218931200
+review/summary: Awesome buttermilk pancakes!
+review/text: I've used this pancake mix for some time and with good reason. When used with buttermilk, these pancakes are the yummiest!
+
+product/productId: B001ELL5IK
+review/userId: A2VQLMIJY8DP09
+review/profileName: Matthew P. Miraglia "Matt M."
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1270512000
+review/summary: Not what we expected in taste.
+review/text: When we tried Carbons Malted Pancake and Waffle mix, we were pleasantly surprised. The waffles are great, crisp and tasty just like the reviews stated. We always keep the waffle mix in stock. We tried making pancakes with the waffle mix and didn't like the results.<br /><br />That led us to try Robby's buttermilk pancake mix. What a disappointment. Now it could be us as we are used to Aunt Jemima and those are hard to beat. Robby's was definitely saltier, flat and had a strange taste. They seemed to be oily too, which the 1/4 cup of oil might be the cause I guess. We used real buttermilk but milk can be substituted. On the can, it's not recommended.<br /><br />I wouldn't steer anyone away from giving Robby's a try but I wouldn't order a 3-pack just in case.
+
+product/productId: B001ELL5IK
+review/userId: AY3OGWWGPJ8I2
+review/profileName: J. Lai
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347321600
+review/summary: great pancake mix
+review/text: This mix is one of the best recipes for pancakes.  Have to try!  Cook it slowly so the texture will be soft and moist.
+
+product/productId: B001ELL5IK
+review/userId: A1W7HIX3A775FA
+review/profileName: Motherbear
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346112000
+review/summary: Delicous mix!
+review/text: I have to admit it is a pain having to buy buttermilk but this is a great mix! The pancakes come out light and fluffy and taste amazing. Highly recommended.
+
+product/productId: B001ELL5IK
+review/userId: A3SMNNFF78CJ1W
+review/profileName: webrand "webrand"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337299200
+review/summary: Too bad I can't ask Amazon for Tokyo delivery
+review/text: This makes really very good pancakes.  It is a favorite of my youngest son who currently lives in Tokyo.  Now, I either have to ship it to him, or he takes some home with him when he comes to the US in the summer or for Christmas.  It would be nice if Amazon could ship this to Tokyo for me.<br />One of my daughters  has a very good recipe to make pancakes from scratch but I haven't yet  persuaded her to share it with me.  However in any event it is probably more time consuming and would not beat having the ingredients already mixed except for the egg, oil and buttermilk that one adds to this product.  I try to avoid using low fat buttermilk but nowadays all you often can find is those tasteless low fat or no fat products that serve to increase your appetite.  No wonder we are turning into an obese society.
+
+product/productId: B001ELL5IK
+review/userId: A33UGEHR2BFCO8
+review/profileName: Punchinello
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329782400
+review/summary: It's true pancake house flavor
+review/text: After trying unsuccessfully to buy commercial mixes from pancake houses whose pancakes were superb, I tracked down the miller of Robby's mix who originally sold only to institutional customers. I bought directly from the miller in bulk until they decided to outsource their direct-buyers to worldpantry.com who now sells Robby's for more $. That's when I started buying from Amazon for less.<br /><br />Be careful not to over-mix the batter. It's better to FOLD the dry ingredients gently into the liquid ingredients rather than mix vigorously -- it's ok to leave small pockets of undissolved solids. Then let it sit for at least 15 minutes to allow the reaction of the ingredients to generate bubbles. Resist breaking the bubbles and dissolving every small pocket of powdery mix. Leave some lumps.This will ensure a light fluffy pancake.<br /><br />Breaking all the bubbles and dissolving all the solids completely, so that the batter is completely smooth like frosting, will cause thin, heavy pancakes.<br /><br />To the 3 out of 16 people who hated the taste, all I can say is that you may have developed a taste for blander, less authentic batters in childhood, which has become your standard. There's nothing wrong with that, any more than those who grew up on Vermont Maid imitation maple syrup who still prefer it to pure 100% maple syrup.<br /><br />But for those who know and appreciate the more complex flavor profile of the real deal (a bit salty, light and fluffy with a buttermilk tang, a bit yeasty), then Robby's will probably exceed your expectations.<br /><br />I noticed that some are reporting good results using the mix for waffles. Years ago, I asked the miller why it's not called "pancake and waffle mix." His answer: "We don't recommend it for waffles. It's a pancake mix."
+
+product/productId: B001ELL5IK
+review/userId: A1AHURJ0D3WU3V
+review/profileName: Bonnie Lynne Engel "Bonnie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294444800
+review/summary: New packaging...old favorite !
+review/text: The absolute best. Has no biscute (bisquick) after taste.  It is made with buttermilk and is wonderful and light.<br />More like desert!
+
+product/productId: B001ELL5IK
+review/userId: ADRQ5WAJHLLDO
+review/profileName: Gatibi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294012800
+review/summary: Yummmmmmm!!!!
+review/text: I got this pancake mix in time for Jan 1st brunch. I did like the other reviewers advised and used buttermilk. We made plain, blueberry, and chocolate pancakes. They were tasty, fluffy and just plain YUM. My mom made pancakes from scratch (even sifting the flour) every Sunday morning for as long as I can remember - and Robby's are better!!!
+
+product/productId: B001ELL5IK
+review/userId: A2ZEQO16A8DRRH
+review/profileName: Dealserfer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244592000
+review/summary: Best Buttermilk Pancake Mix!
+review/text: We love this brand!  We use it to make waffles - they turn out slightly crunchy on the outside and fluffy inside.  The flavor is excellent.  We like it so much we are on auto-order refill!!  FYI - fresh buttermilk is needed in order to make them.
+

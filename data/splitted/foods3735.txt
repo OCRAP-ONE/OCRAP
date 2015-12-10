@@ -1,0 +1,1143 @@
+product/productId: B007OXJKCK
+review/userId: A136ONZPRXT76S
+review/profileName: Jellyt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326931200
+review/summary: We love this coffee.
+review/text: We love this coffee. It is the best K cup we've found. We like strong coffee and struggled at first to find one that we enjoyed. The prices on Amazon can't be beat and the shipping super fast.
+
+product/productId: B007OXJKCK
+review/userId: A2AM935YUELTVQ
+review/profileName: Brenda
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325808000
+review/summary: A bit too strong for me
+review/text: My husband enjoyed this coffee. We usually use Newman's Extra Bold but thought we<br />would try something different. It was a bit too strong for me; I prefer Newman's. But it was<br />still good.
+
+product/productId: B007OXJKCK
+review/userId: A3MYNUIK9ZZHHZ
+review/profileName: L. Everhart
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325376000
+review/summary: not my cup of coffee
+review/text: This coffee is inoffensive, but not strong enough for my tastes.  I do use cream, and I'm sure that makes a difference.
+
+product/productId: B007OXJKCK
+review/userId: A1BQDW64U8VMPW
+review/profileName: Telcomguy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323561600
+review/summary: Nice balanced taste
+review/text: I like strong coffee, but I don't want it to taste burnt or have an acidic after taste. Caribou Coffee's Mahogany is full bodied with a nice balance of dark notes and acidity.  It's one of my "go to" coffees when my favorites like Coffee People's Wake Up Call are out of stock.
+
+product/productId: B007OXJKCK
+review/userId: A288G5GZV0A3PN
+review/profileName: Godivaobgyn
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1323475200
+review/summary: Great taste. Not bitter.
+review/text: I like my coffee strong. This is the first brand that I have tasted that provides the kick I need without the bitterness. I keep my pantry stocked with Mahogony and I do not share!
+
+product/productId: B007OXJKCK
+review/userId: AGKAZN550SIKA
+review/profileName: connie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323388800
+review/summary: caribou
+review/text: love to order my coffee on amazon.  easy and shows up quickly.<br />This k cup is great coffee.  dcaf is very good as well
+
+product/productId: B007OXJKCK
+review/userId: A4IYV8URADHYS
+review/profileName: JennC
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321142400
+review/summary: Mahogany k cups
+review/text: One of the richer coffee for k cups! We typically grind our own even for the Keurig but the Mahagoney from Caribou is a great alternative. Order was shipped very quickly.  Will definitely buy again.
+
+product/productId: B007OXJKCK
+review/userId: APWK2EKIA0PVN
+review/profileName: Fiona's Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316736000
+review/summary: Lives up to its appealing name
+review/text: This is my favorite K-cup coffee (I've tried about twenty different types) and, so far, everyone I've served it to really likes it a lot. Even the pickiest coffee connoisseur I know thought this k-cup made an excellent cup of coffee. Two non-coffee drinking friends wish they liked coffee because they love the sound of Caribou Mahogany.
+
+product/productId: B007OXJKCK
+review/userId: A3N7T3Q56NR6UG
+review/profileName: Peter N. Deweese
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315958400
+review/summary: Yum
+review/text: This is a great coffee.  Its dark but not bitter, a little chocolaty, and it reminds me of an Adirondack lodge.  I can get them for a better price in a Caribou Coffee store, however.
+
+product/productId: B007OXJKCK
+review/userId: A2LCOP87YZSFJG
+review/profileName: Eric R. Spitler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308268800
+review/summary: Great simple coffee
+review/text: I've tried quite a few coffees and many end up tasting the same. However, this and the Italian Blend by Timothy's are two that are very good black or with cream/sugar. If you're looking for a simple coffee without all the flavors, this is the one for you.
+
+product/productId: B007OXJKCK
+review/userId: A3ARWF586TVLWB
+review/profileName: Susan Macpeek "Coffee Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305504000
+review/summary: I love Caribou Mahogany!
+review/text: I've tried over a dozen varieties of K-Cups and this is, by far, my favorite!  It's strong but not bitter and just has a great flavor.  This will be my choice from now on.
+
+product/productId: B007OXJKCK
+review/userId: AP4N2279BZFG2
+review/profileName: NCSoxfan "NCSoxfan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304380800
+review/summary: Mellow, full bodied
+review/text: Without beating it to death - If you like a full bodied, but mellow brew this might be for you.  It is hearty, but not at all bitter.  It holds a nice full body, even when the Keurig is set to the oversize setting.  It's now my favorite blend.
+
+product/productId: B007OXJKCK
+review/userId: A1857CFZ2N5LWG
+review/profileName: Gizmoqt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304208000
+review/summary: SMOOOOTH!
+review/text: I go for the bold varieties of coffee and this Mahogany is not only bold but very smooth.  My all time favorite!
+
+product/productId: B007OXJKCK
+review/userId: A163RZETDROJL5
+review/profileName: D. Johnson "Dr. Duck"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303862400
+review/summary: Best K-cup out there.
+review/text: So Far this is the only K-cup I've found thats tastes great with a normal brew!  It's not watered down like the regular stuff, and dosen't taste burnt like the bold stuff. They only K-cup i'm buying from now on!
+
+product/productId: B007OXJKCK
+review/userId: A14FO1VXLQ74WW
+review/profileName: KnightlyScribe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302825600
+review/summary: Really excellent
+review/text: We've tried every coffee brand available for the Keurig, and this one is, by far, the best.  It's extraordinarily smooth and rich - the closest to Starbucks, if that's your thing.  I add to it a healthy splash of Bolthouse coffee/mocha - very good.
+
+product/productId: B007OXJKCK
+review/userId: AVN3JX894CEZC
+review/profileName: Zugg Zugg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301616000
+review/summary: Caribou Coffee's Mahogany Review
+review/text: The Mahogany has a smooth full bodied character.  I highly recommend this coffee to drinkers looking for a bold but not overpowering taste!
+
+product/productId: B007OXJKCK
+review/userId: A2491PZ4O3IRRE
+review/profileName: chezsan "chezsan"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1319241600
+review/summary: Good coffee
+review/text: This coffee is not really bold in my opinion - it falls more along medium roast flavor. It's a decent, smooth coffee, but I didn't think really bold. Like all k-cups though seriously overpriced!
+
+product/productId: B007OXJKCK
+review/userId: A34Q9ELBWNHOEK
+review/profileName: Strong coffee lover
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1335139200
+review/summary: Disapointed
+review/text: If you like strong coffee, as I do this coffee is over rated. I found it weak, with a sickening after  taste.
+
+product/productId: B007OXJKCK
+review/userId: A382TASR3P6LTR
+review/profileName: Aodhan51
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1327363200
+review/summary: Full bodied but bitter
+review/text: This coffee is very full bodied, and has a great aroma; however, it is the only K-Cup coffee I've had that has a bitter aftertaste. I would still drink it if someone offered me a cup, but I won't buy it again.
+
+product/productId: B007OXJKCK
+review/userId: AP6VFQES99HAY
+review/profileName: K cup lover
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1324080000
+review/summary: Best coffee
+review/text: This was sold out at Cafe Express site.  Thrilled to<br />Find it here. Quick delivery and great service!  Happy to know that I can find it here.
+
+product/productId: B007OXJKCK
+review/userId: A18K14K26PMZTF
+review/profileName: Nick
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1323475200
+review/summary: Best coffee ever
+review/text: My favorite blend of my favorite coffee.  Used to have to smuggle a few pounds of the stuff back in my suitcase everytime I went out to the midwest! Now I can get in k-cups.  Yay! Good price on amazon, but super saver shipping takes forever! Fedexing it to the post office makes no sense.  just fedex it to me and shave 2 days off the wait already!
+
+product/productId: B007OXJKCK
+review/userId: A15WR69VD5E5I1
+review/profileName: Joel OConnell "PhantomJoel"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1318032000
+review/summary: Smooth But Flat
+review/text: This coffee is very smooth but rather flat compared to Starbuck's brews.  It doesn't have any bite to it.<br />If you like a mild coffee, you will enjoy this one.
+
+product/productId: B007OXJKCK
+review/userId: A1R7E9MD733HX
+review/profileName: J. Douglass
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1339632000
+review/summary: Didn't like it
+review/text: Honestly, I'm not sure why so many folks like this coffee in their reviews.  It's a little weak but mostly just doesn't have a rich flavor.  It is really missing something.  I drink coffee black.  Maybe it tastes better with cream and sugar?  Before buying this coffee, I had been drinking Starbuck's French Roast and Folger's Black Silk, both of which taste SO MUCH better than this coffee.
+
+product/productId: B004XTDNCQ
+review/userId: A2893QB2SBKJON
+review/profileName: writer443
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347926400
+review/summary: ginger
+review/text: this is really good ginger. Has some tumerick in it, so wear gloves when chopping it up or your hands will get yellow. I love making spicy salads with it, or indian dishes.
+
+product/productId: B001KWZL24
+review/userId: A18AEOSTEDAVK6
+review/profileName: James R Clowers Sr.
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1252713600
+review/summary: so this is what oolong tea is suppost to taste like
+review/text: If you want the best Oolong tea that comes in a bottle buy this!!<br /><br />Once you have drank this tea you will know what real quality is.<br /><br />Great taste and flavor.  This is what teas are all about.<br /><br />BUY THIS TEA.
+
+product/productId: B001KWZL24
+review/userId: A2CV12QOHGV93E
+review/profileName: D. Rose "Major Consumer"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1324771200
+review/summary: Bad Odor
+review/text: I like the convenience of these bottles of tea, but the odor of Oolong is so strong it started coming out of my pores.  It is cool and refreshing tea in easy to hold bottles, but I stopped buying Oolong and went back to black.
+
+product/productId: B001KWZL24
+review/userId: ADX80DAN39NB7
+review/profileName: Jason S
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1314662400
+review/summary: Eehlong
+review/text: I've been looking for a good low calorie tea as I've been trying to drink less soda. I thought I'd try to find something a little different on Amazon and came across Anteadote. I read the reviews on Oolong, which were generally positive, and gave it a shot. After trying it, all I can say is "Eh," as in it was okay. I drink a fair amount of unsweetened tea and I will say that Anteadote Oolong does have a slightly off taste. Not bad, just off. All in all, it wasn't horrible but probably won't order again. Still looking for something a little better tasting.
+
+product/productId: B001KWZL24
+review/userId: A22BXXSKEDW1I4
+review/profileName: tintintoo
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1296086400
+review/summary: Taste could be better
+review/text: I like the fact that this tea is organic, but compared to the taste of Ito-en's Oolong shots (which are not organic, unfortunately), the Anteadote teas lack a freshness and purity that the Ito-en has. Too bad. I'd like to have organic + great tasting tea with no sugar. Will keep looking.
+
+product/productId: B001KWZL24
+review/userId: A1MUJXXQDN7ZYI
+review/profileName: ihrmc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1262131200
+review/summary: Great bottled tea!
+review/text: This is the first product that has compelled me to leave a review.  It is a really tasty, smooth oolong tea that is organic and affordable!  It is great to have around when I need a pick up or to throw a few in my bag on my way to work.  It is probably the best bottled oolong teas I have had - I like Ito-En but I think this is smoother.
+
+product/productId: B0017WG1J4
+review/userId: ALGN3WUFBHOZR
+review/profileName: Ann Sieber
+review/helpfulness: 17/17
+review/score: 5.0
+review/time: 1291161600
+review/summary: A pound of stevia!
+review/text: I never thought I'd go thru a pound of stevia, but here I am, just ordered my second pound, after taking about 2 years to go thru the first. I love having such a bounty of good quality stevia available, and it is sooooo much cheaper than any other way I've found to buy it. I put some in baggies for friends to try out to see if they like stevia - it's so cheap, it's no great expense if they don't like it.<br /><br />This stevia is great quality, unlike some of the "green"-ish cheaper stevia. Also know that this is the uncut pure stevia - oftentimes companies will mix in some maltodextrose or other mixer to make it less strong and more comparable to sugar in volume. Because stevia is VERY strong - serving size is 1/32 teaspoon, which equals one teaspoon of sugar. On the Now container, they say that it contains 16,214 servings - that cracks me up.<br /><br />I used to buy it at Whole Foods in bulk at $150/pound, and I'd just take the smallest little amount. Then they discountinued selling it bulk because it was so expensive that when moisture got in and ruined it, it was just too expensive for them. So I asked my Whole Foods buddy who the supplier was of their bulk stevia, and he told me it was Now.<br /><br />I use stevia in my tea, my kefir, and in some recipes as a sugar replacement. Often I'll cut the sugar by 1/4 and add in a small amount of stevia. If it is all stevia, it doesn't always taste that great, but when it is blended, one can hardly tell.<br /><br />I also use lakanto, which is better for baking. But unlike stevia, it is not inexpensive. The only place I know to buy it is thru Body Ecology (which is my preferred eating system BTW)[...]
+
+product/productId: B0017WG1J4
+review/userId: A2K2HEUWW7LB4F
+review/profileName: lda
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1305417600
+review/summary: A really great deal
+review/text: I am very happy with this product.  The 1 lb container will likely last for years because it takes so little to sweeten my food.  Both my husband and I use this in place of sugar in everything that doesn't require sugar for structure, (like some baked goods).  At first we felt that the sweetness was a little different than sugar but after 2 weeks, we cannot really tell the difference and find on fruit, like berries, it is enhances the fruit flavor in addition to adding a little sweetness, making it better than sugar.  We even had some watermelon that didn't have much flavor or sweetness and once I cut it up and sprinkled a pinch of stevia on it, it tasted like good watermelon.
+
+product/productId: B0017WG1J4
+review/userId: A31GN10OIYG5UX
+review/profileName: Belle Voce "I'd rather be singing"
+review/helpfulness: 9/11
+review/score: 2.0
+review/time: 1318723200
+review/summary: Not worth it
+review/text: I have been using KAL stevia powder for some time now, but thought I would try a lesser expensive brand. I have used NOW products, and had good experiences with them, and due to the reviews, I decided to give this a try. What a disappointment.<br /><br />Serving sizes and # of servings is exactly the same, weight for weight. However, I have to use 2 to 4 times the amount of NOW in order to get anywhere near the sweetness of KAL. So, I didn't save any money, and it is evidently not the same grade as the KAL. It has a larger particle, which may be one of the factors in the amount needed. The KAL is a very fine powder. Back to the KAL as soon as I can afford to buy more. This is too much money to waste, and non-returnable, so compare before you buy.
+
+product/productId: B0017WG1J4
+review/userId: A19DYBGMTS70ZC
+review/profileName: Wisdom Seeking Sue
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1342656000
+review/summary: VERY ECONOMICAL
+review/text: I had been using two packets of Wholesome Organic Stevia per<br />cup of coffee and liked the taste but not the cost.  So I<br />tried the NOW Better Stevia organic powder. It did have a bitter<br />aftertaste if I used too much of it, but if I use just a tiny amount<br />-- around 1/8 t., maybe less -- per cup of coffee, my tongue registers<br />the sweetness while the bitterness is barely there. Obviously,<br />one pound of the NOW Stevia is going to last a long, long time!<br /><br />However, it would be better if it had no bitterness at all, so<br />I gave it only 4 stars.
+
+product/productId: B0017WG1J4
+review/userId: AJ8CBMFSPRKQU
+review/profileName: &#60;/&#62;&#60;
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329350400
+review/summary: Cannot beat the price!
+review/text: All the store brand Stevia is 85% FILLER. This is pure Stevia and will last a LONG time. About 1 Teaspoon equals 1 Cup of sugar.  About the "after-taste"? Atfer making a Gallon of Cherry KoolAid with it (using 2 full teaspoons of Stevia) I can taste NO Aftertaste! Maybe NOW Foods earlier stevia had an after tatse, but this "Better Stevia" to me is very smooth. So why should you buy this version of Stevia: the price you get on this this pure Stevia, plus it beats FILLER ADDED store brand Stevia! My only beef is the new container thye use is so big that it's only half filled, why not sell me 2 LBS in this jar? I'd buy it.
+
+product/productId: B0017WG1J4
+review/userId: A2FR7C7ITYQCRG
+review/profileName: W. Jackson "bookmaven"
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1316649600
+review/summary: Finally!
+review/text: To be sure, this is STILL Stevia. However, this is VERY palatable.  There's still a hint of the Stevia taste, but it doesn't overpower whatever it sweetens and the best part is that it does NOT HAVE THAT HORRIBLE, LINGERING AFTERTASTE!!!!! That's really the best part of it in my opinion.  It's palatable.  For all the health benefits touted about Stevia, this is the first product version of it I had that I can actually live with.  Too bad it costs a fortune (albeit cheaper here than retail stores!)
+
+product/productId: B0017WG1J4
+review/userId: A3VSWUZEPJFACY
+review/profileName: W. Redmond "tech maven"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343001600
+review/summary: It really is Better Stevia!
+review/text: This stevia is a highly concentrated white powder that requires very little to sweeten my ice tea.  I once used sugar, then switched to my wife's artificial sweetener, however upon reading about stevia, I decided to try it.  I went through a number of brands and packages, most of which were pretty good, but then I found this.  This has the best flavor of all the different stevia formulations I have tried.  If you use the right amount, it is very hard to tell the difference in taste from actual sugar.  I drink from a very large insulated tea container (28 oz.) and with this stevia, it takes less than 1/4 teaspoon to sweeten my tea.  That means that a little 4 oz bottle of this powder lasts months (it is even more economical in the 1 lb jar).  Now Foods has hit a home run with this product.  By the way, they make several stevia products.  Just make sure you get the one labeled "Better Stevia", because it truly lives up to its label.
+
+product/productId: B0017WG1J4
+review/userId: A2Y8IDC1FKGNJC
+review/profileName: L. A.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341878400
+review/summary: Best Stevia ever!
+review/text: With over 10,000 servings, this container will last quite a while. The flavor is superb compared to many other stevia products. There is no aftertaste. The great thing about this stevia, you dont need to use very much. Other brands are not pure and are usually cut with other ingredients. This is certified organic and pure. Great buy!
+
+product/productId: B0017WG1J4
+review/userId: A3HNXW2ZTNRFAG
+review/profileName: T. Wagoner "FL reader"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341532800
+review/summary: Great buy
+review/text: This is a very inexpensive way to buy straight stevia.  It does take some getting used to since it is so much sweeter than sugar.  For baking I usually mix it with a small amount of honey and my recipes have turned out great.
+
+product/productId: B0017WG1J4
+review/userId: A37MH7ICH80QOX
+review/profileName: Kate McMurry "Young Adult Author"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340668800
+review/summary: High quality stevia
+review/text: I've used stevia for close to 20 years now. I put it in tea, coffee, on fruit salad and in baking. Some people claim that stevia has a bitter aftertaste, and some brands can have that problem, but not this one.<br /><br />This stevia is finely ground and exceptionally pure. The label states, under Supplement Facts:<br /><br />Stevia Extract Powder (leaf) (stevia rebaudiana, min. 80% glucosylsteviosides). Other ingredients: None. Stevia Extract is hypoallergenic and contains no sugar, salt, starch, yeast, wheat, gluten, corn, soy, milk, egg or preservatives.<br /><br />Some people claim that stevia is 200 times sweeter than table sugar. In my experience, it is about 8 times as sweet. If you have never used it before, I wouldn't start with a 1 lb. container. I'd start small, such as the <a href="http://www.amazon.com/gp/product/B002LIGPR6">one-ounce size</a>.<br /><br />As for baking with stevia, for puddings and pies, you could probably get away with using it as your only sweetener. But for cakes, cookies and muffins, it won't give you the same texture as sugar and doesn't work for that except as a supplement to other natural sweeteners such as <a href="http://www.amazon.com/gp/product/B002UGMH9Y">coconut palm sugar</a>.
+
+product/productId: B0017WG1J4
+review/userId: A38W01B6JITBLB
+review/profileName: Jimmy G
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339545600
+review/summary: NOW Foods Stevia Extract
+review/text: I love this Stevia. It is sweeter than the previous stevia product I purchased at a local health food store.
+
+product/productId: B0017WG1J4
+review/userId: AJ9CUZ25B4H9J
+review/profileName: Handyman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335139200
+review/summary: Finally
+review/text: After buying other Stevia products I have finally found one that is just Stevia. You use a very small amount of this to sweeten your drinks or anything that has liquid to spread the sweetness. Haven't tried it for baking but so far in drinks soups or sauces it works well just don't add very much a little bit goes a very long way.
+
+product/productId: B0017WG1J4
+review/userId: A1LLTN59TUDU0H
+review/profileName: Julie Sendrowski
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335052800
+review/summary: PERFECT!
+review/text: I had been using Now Stevia packets for ages, when it occurred to me to try to find the same product without the added ingredients like maltodextrin. THIS IS IT!!! Not only does it taste better, but less goes a LOT LONGER WAY!!!! I LOVE IT!!! I have tried several stevia brands over the years, and in my opinion, Now brand tastes the best by far!! Now that I have this pure version I am ever so happy!!! I even use it in foods that I previously didn't like to use stevia in, it's THAT good!! Well worth the money!!
+
+product/productId: B0017WG1J4
+review/userId: A3HIAO1FC2U6M7
+review/profileName: Faerl31
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329091200
+review/summary: Now Better Stevia
+review/text: Great product, I use this to bake with cook deserts, in coffee and tea and on frest fruit, i like it as much as i did sugar.
+
+product/productId: B0017WG1J4
+review/userId: A1J5LWB30M4W3A
+review/profileName: Michael P
+review/helpfulness: 6/9
+review/score: 2.0
+review/time: 1320019200
+review/summary: Not such a sweet deal
+review/text: Have to agree with bella voce. I've been using the KAL Stevia very happily for a couple of years. Saw this and did the math, and instead of 6 dollars (approximately) per ounce for the KAL, this worked out to a little more 3 dollars per ounce. Sounded good.<br /><br />Well, using the same small spoon that comes with the KAL Stevia (one of those nicely sweetens a good sized Cafe Americano or double shot of espresso), this Now brand Stevia was NOWHERE near as sweet. Had to use 2.5-3 times as much to get the same flavor. Also, and this is subjective, the flavor of the KAL tastes better to me.<br /><br />Still, it's Stevia, and not sugar or one of the artificial sweeteners, so it's got that going for it. But if you're looking at this as a bargain compared to the KAL, it's not: You get what you pay for.
+
+product/productId: B0017WG1J4
+review/userId: ARD8TYFKSNJCU
+review/profileName: Bizzy Me "Bizzy Me"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316390400
+review/summary: Perfect healthy sugar replacement
+review/text: This is my second pound jar of stevia. We love it for everything except baking and it takes such a small amount to get just the right sweetness. My husband likes to take a zero calory drink for his lunch and just a half teaspoon of this product replaces a cup of sugar to sweeten a package of Kool Ade. This was a quickly shipped item and is concentrated 100% stevia extract powder.
+
+product/productId: B0017WG1J4
+review/userId: A3LLPB38PB8EYU
+review/profileName: carly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296950400
+review/summary: Good Deal.
+review/text: This big bottle of sweetness is a much better deal than packets or droppers. I liked the taste of Erba Dolce brand a bit better but when it comes to the price this product is definitely acceptable.
+
+product/productId: B007KIX20K
+review/userId: A9GCKKUIISRZI
+review/profileName: Tallnhansome
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335571200
+review/summary: My dog loved them
+review/text: My dog just loved these treats, she hasn't been this excited about a treat since she was a puppy. Chubby Chews are great!
+
+product/productId: B000O1O3XK
+review/userId: AXJ484JYECGEY
+review/profileName: Deborah
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: Fantastic
+review/text: Caused a fight over who was getting what lol. Perfect gift and have told many others to check out this box and the others they have available. Very quick delivery
+
+product/productId: B0002IPXDY
+review/userId: A3A0TU9NQCJ43F
+review/profileName: Creative Shopper "Creative Shopper on Amazon ...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295827200
+review/summary: Oh my goodness!  Deliziosa!
+review/text: This pasta was heavenly!  I boiled it as directed and then added the cooked pasta with 2 cups of sour cream, 2 cups of asiago, 1 cup of parmesan, and a cup and a half of the boiled pasta water.  I baked it in the oven at 350 for about 30 minutes.  It was absolutely divine.<br /><br />This pasta is great and I will order it again.  The company has a special promotion of free shipping with a $50 order--not sure how long the promotion lasts but I suggest that you take advantage of it.  I can't wait to try the other pastas I ordered.
+
+product/productId: B003FCQ2R0
+review/userId: A1CN86R2ZA6P8P
+review/profileName: Pasco
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1348704000
+review/summary: Didn't get what I saw.
+review/text: Images for this item displayed a much coarser salt than that which I received. It's not the end of the world<br />but a picture is worth 1000 words and I'd much rather get what I see.
+
+product/productId: B003FCQ2R0
+review/userId: A1EGVIZ11J3EKL
+review/profileName: Judy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341273600
+review/summary: my fave salt and vendor
+review/text: This salt is fabulous.  Adds a level of flavor like nothing else.<br />Great seller with a wonderful customer service.<br />Highly recommend.  I'll buy again and again.
+
+product/productId: B003FCQ2R0
+review/userId: A95PKRD4T3RUG
+review/profileName: Candy Rayne "~Candy Rayne~"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326153600
+review/summary: Love this salt!!
+review/text: I make bath teas and I am proud to use this salts to provide my clients with the best avaliable and Himalayan salt provides 84 vital nutrients and minerals.  I am very happy with this product
+
+product/productId: B003FCQ2R0
+review/userId: AIBDQP3DS7GT2
+review/profileName: T.W.A.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326067200
+review/summary: Great Flavor
+review/text: This salt has very good flavor and works very well in our salt grinder that we use on the dinner table. I've been looking for some time for course salt for our grinder and I'm glad that I found this.
+
+product/productId: B001370XCO
+review/userId: A1OK3W21PLRF3Y
+review/profileName: Cyn1 "Cyn"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349049600
+review/summary: Childhood Memories!
+review/text: I can't believe I found this! My mom used to use this all the time and it was SO good! I thought about it and came on Amazon, and sure enough here it was, I couldn't believe it! As soon as it had arrived, I made it for dinner that same night and it was just as I remembered...AWESOME!  Since the directions on this bag are in bulk, to make a large quantity, I had to research a bit to find the correct amount to use for home use. I hope this helps you!<br />1 Envelope (the way it used to be sold) = 2 Tbsp + 2 tsp.<br />Here are the directions that used to be on the old boxes, since it will not be on this large bag.<br /><br />In medium saucepan, combine 1 envelope, 1 Tbsp Oil, desired tomatoes & water (see below). Bring to a boil, then simmer stirring frequently. Makes 1 pint of sauce (Four-1/2 cup servings)<br /><br />1 can (15oz) tomato puree & 3/4 cup water<br />OR<br />2 cups crushed tomatoes (16oz) & 1/2 cup water<br />OR<br />1 can (6 oz) tomato paste & 1 1/2 cups water<br /><br />I hope I have helped! ENJOY!!!
+
+product/productId: B001370XCO
+review/userId: A30RFYRNWENK6K
+review/profileName: Sandi
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327795200
+review/summary: So hapy I found this!
+review/text: Been looking for Spatini for a long time. Use to be able to get it out east but it got sold and was gone. My friends and I are so happy we can find it again. It's so yummy.
+
+product/productId: B001370XCO
+review/userId: A3TL5574I0D6LH
+review/profileName: brendatwin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317254400
+review/summary: Spatini Love
+review/text: I am thrilled that I was able to find it again...brings back so many wonderful memories....this also has helped me with my Christmas shopping...I will be giving this to friends who also have not been able to find it, but love it...
+
+product/productId: B001370XCO
+review/userId: A2UXOSEPEBZ9N6
+review/profileName: Bonnie L. Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350604800
+review/summary: great sauce mix
+review/text: love the mixture of spices used in this mix - glad I was able to get this since it is no longer sold in the grocery store
+
+product/productId: B003AAIRHK
+review/userId: A2TDW5OATXCKWI
+review/profileName: B. Carr "gogirlusa"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334880000
+review/summary: Pup loves them!
+review/text: I have looked at every dental bone on the market, and these have the healthiest ingredients in them. They have no gluten or potato starch in them, which I love. My dog is very picky, and he always loves these. I definitely recommend these because I really feel they help to keep plaque from sticking to my dog's teeth. Mercolahealthypets have a bone similar to this one, so I alternate between buying those and these.
+
+product/productId: B003AAIRHK
+review/userId: A2UYV1URWB9DCU
+review/profileName: Barry Rubin "penman"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313798400
+review/summary: Dogs Go Crazy!!!!
+review/text: I have 3 English Cocker Spaniels all 9 years old. I decided they were getting too old for rawhides (with the help of my veterinarian). I found these at the pet store and the dogs were wild for them. I bought one bag at the store. I went online to Amazon and found them way cheaper. Then I was offered a "subscription" to them where I could save even more money. I chose two packages (the subscription required two packs) once a month. Wasn't enough. I now get two packs twice a month. These are just sensational. Only one problem---dogs get up an hour earlier now to get one!!!!
+
+product/productId: B002GWH7O2
+review/userId: A3N2L3BIDKIC79
+review/profileName: Marc Spitzer
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1267574400
+review/summary: Makes good peppermint tea
+review/text: It is good quality peppermint and makes very good tea.  For thew price you can not beat it.
+
+product/productId: B002GWH7O2
+review/userId: A3A962XT7OJOVW
+review/profileName: obie1somebody
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1294963200
+review/summary: Tastes great!
+review/text: I've been drinking peppermint tea for about 25 year. In fact my family used to grow and harvest peppermint tea from our own patch. To me, this tea tastes great, and has a good minty kick to it. I'd certainly purchase this again. I use a little mesh tea ball infuser and pack it full regardless of the size cup I use. At this moment I am drinking a 20oz cup and the strength is good. I declare this a phenomenal value!
+
+product/productId: B002GWH7O2
+review/userId: AGRFV3ALY2FEI
+review/profileName: Mariela
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1287014400
+review/summary: Excellent Buy
+review/text: Excellent value, makes delicious peppermint tea.  I have to use 2 spoons of tea leaves per cup rather than 1 as in the directions, since I do not like weak tea, but smells fresh and minty and has a good flavor.  Huge package, great buy.  It comes in packaging made of paper which does not seem substantial enough, so I put the package inside a ziploc bag to keep it fresher.
+
+product/productId: B002GWH7O2
+review/userId: A1CF30DJ6LX6BA
+review/profileName: D. Henderson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317513600
+review/summary: Peppermint Tea
+review/text: This is quite possibly the best peppermint tea we have found.  The surprise was that we ordered it in a hurry and received two pounds rather than two ounces!  Two pounds of tea is an amazingly large amount.  However, we have shared with many friends and would not hesitate to order it again.  Having such a surplus amount allows us to be liberal with the amount used per cup and the taste is wonderful.  We highly recommend it!
+
+product/productId: B002GWH7O2
+review/userId: A2QW07MTFS999V
+review/profileName: Teri W. Leibforth "Ms. Esq."
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1316131200
+review/summary: You Have to Really Love Peppermint Tea...
+review/text: ...if you order the 2-pound bag as I did! We got this loose tea to use in our Keurig brewer. The tea is really wonderful -- so aromatic and flavorful. But 2 pounds of tea leaves is a huge amount! Although it is light in weight, the bag it comes in is bigger than a 5-lb. bag of Coffee Bean coffee, also available here from Amazon. We keep this in an air-tight glass canister in the pantry, but there's still so much to use. So, we wonder: will it lose its flavor like the spearmint gum on the bedpost overnight...? ;-)
+
+product/productId: B002GWH7O2
+review/userId: A1K32UYYM4Q3GQ
+review/profileName: Jesse Wright
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1292716800
+review/summary: good tea
+review/text: I am happy with this tea, it is flvorful and fresh. You get your money's worth and I would buy again. It comes  brown bag, not the black  one pictured.
+
+product/productId: B002GWH7O2
+review/userId: A3PNBZ60XRKZFP
+review/profileName: Ekat
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1351209600
+review/summary: pepperminty tea!
+review/text: This is very pepperminty, almost spearminty tea - you need very little for a good refreshing kick :) The bag is huge and the price can't be beat. However the leaves are crashed, they are not full tea leaves as advertised. There are also some white flakes here and there - stems or may be flowers? So 4 stars for that.
+
+product/productId: B002GWH7O2
+review/userId: A3SPRSLV03DT6Y
+review/profileName: t49y
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: So Good !!
+review/text: Upon quick delivery of my big brown aluminized inside bag which had a peppermint strong odor. Once inside this tough bag it was really peppermint  intense. So clean and fresh, Consuming the tea and the leaves is so soothing on the tummy, all fun and refreshing ! My roomy can't stand peppermint ! He's allergic ! But I love it ! Thank You !!
+
+product/productId: B002GWH7O2
+review/userId: A2XS5EYY3V8KZH
+review/profileName: BeYouTful
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332633600
+review/summary: STRONG and excellent!
+review/text: LOVE this tea!!  It's a LOT of tea!  I shared with my daughters and will still have enough for a long time!  It's very very good and very strong peppermint which is what I wanted.  I love the loose tea because I don't have to worry about chemicals in tea bags.  I am so pleased and I am sure you will be too!
+
+product/productId: B002GWH7O2
+review/userId: A2UR44HF5K9FE5
+review/profileName: A. Berger
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327968000
+review/summary: good nana tea
+review/text: 2 pounds is a lot of peppermint unless you REALLY love this kind of tea.  other drinkers looking only to sample here may want to keep most of your leaf stored in a <a href="http://www.amazon.com/gp/product/B003UEFMWE">Ziploc Vacuum Bags, Gallon, 8-Count(Pack of 3)</a>.  I suggest you use this leaf to mix 50/50 with Green or White leaf to help dull any unpleasant leafy taste you may like to avoid with those teas.  this peppermint tea also makes a great addition to popery, though a peppermint oil would probably hold it's smell longer.  Coffee Bean Direct impressed me by shipping 2lbs by weight, not by volume.  the leaf are small 3mm bits, so large hole steepers may not work well - you may need a strainer or paper filter to brew this clean.
+
+product/productId: B002GWH7O2
+review/userId: A9QPAY95AMKPX
+review/profileName: G. Scales
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325462400
+review/summary: Very fragrant tea, well worth the price
+review/text: I had accidentally ordered this tea for use during the Lemonade Master Cleanse, but gave it away because it was not organic. When my friends and I tried it, the aroma from opening the bag was intensely pepperminty. This tea is more flavorful than Wegman's organic peppermint tea, but that might be because Wegman's teas have been exposed to a lot more air.<br /><br />The minty taste was very strong but not overpowering or bitter, and I think I used about a Tbsp for 10 ounces of hot (not boiling) water. My vegan organic friends stated that it was a very good tea. So if you don't care whether a tea is organic, you can't beat the value.<br /><br />As a non-organic tea, I give it 5 stars.
+
+product/productId: B002GWH7O2
+review/userId: A1MFG9E45RX5OW
+review/profileName: dolphins
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325030400
+review/summary: Great.
+review/text: This tea has excellent flavor.  I enjoy  2-3 cups a day and am very pleased with the quality and price.
+
+product/productId: B002GWH7O2
+review/userId: A10ZK1IH0PDGJU
+review/profileName: Dragoneer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315958400
+review/summary: Super bargain!
+review/text: I ordered two 2 lb bags of tea. The first one looked like a standard 2 lb bag but I couldn't understand why the shipping carton was so big. Then I removed the peppermint bag and all was revealed: By measurement, the 2 lb peppermint bag was 4-5 times the volume of the other 2 lb bag. In other words, you are going to get a lot of tea for your money. I experimented with amount needed to brew a good tasting batch and I found that I should use the same amount (volume) I would of a heavier tea. Therefore, you are getting 4-5 times the amount of brewed tea for the same price. The tea tastes very good, about four and a half stars. I made it five stars because of the super bargain. The taste is very minty with a subtle bitter tea back taste. I don't use sweetener but this is one tea that might improve with a little.
+
+product/productId: B002GWH7O2
+review/userId: A1FA8R1X67TZ5N
+review/profileName: Charlie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314316800
+review/summary: Good product
+review/text: This is good tea, but be prepared to share it with your neighbors. Two pounds of tea is an awful lot of tea. BTW: My neighbors enjoyed it too.
+
+product/productId: B0019SP8UO
+review/userId: A2AC2R7X56JLWO
+review/profileName: A. Sayre
+review/helpfulness: 9/10
+review/score: 4.0
+review/time: 1225238400
+review/summary: Delicious!
+review/text: I found this to be a delicious, subtly chocolate coffee. I added a bit of sweetener and some cream, and thought it was delightful. I'm not usually a flavored coffee drinker, but picked this up because of the Godiva name. I'm put off by very strong flavors, so I found this to be just my taste. If you like mocha lattes from the coffee shop, give this a try. I subtracted one star because it was not as foamy on top as I'm used to from Senseo pods.
+
+product/productId: B0019SP8UO
+review/userId: A2OLDLTSWVZBZH
+review/profileName: Jay
+review/helpfulness: 5/5
+review/score: 1.0
+review/time: 1236556800
+review/summary: Smell it, don't drink it.....
+review/text: Talk about resting on your laurels, the only thing this coffee is good for is adding a nice aromatic accent to the kitchen in the mornings.  It has no real coffee or chocolate taste - just a bland nothingness.  You'd be better off squirting some Hershey's syrup into a cup of Folgers than drinking this bilge water.  Save your money...
+
+product/productId: B0019SP8UO
+review/userId: A2C93XKIN7ITOK
+review/profileName: Sharanne
+review/helpfulness: 7/8
+review/score: 2.0
+review/time: 1221004800
+review/summary: Will not Repurchase
+review/text: I hoped with Godiva's reputation for excellent chocolate, that this coffee would have a rich chocolate taste.  I found it bitter and the chocolate tasted artificial.  For this reason, I'd rather buy Senseo's Vienna flavor next time.
+
+product/productId: B0019SP8UO
+review/userId: AGBIHNVNPS2T2
+review/profileName: IdeaGames
+review/helpfulness: 5/6
+review/score: 2.0
+review/time: 1236816000
+review/summary: Weak Coffee or chocolate flavor
+review/text: I figured I'd really like the Godiva Chocolate Creme Coffee pods for my Senseo because I like both coffee and chocolate. Having used these over a few weeks, I now feel that the coffee is fairly weak and so is the chocolate aspect. It's definitely drinkable, but won't leave you with a taste you can remember. If you're looking for a stronger coffee or chocolatey taste, this is likely to be disappointing.
+
+product/productId: B0019SP8UO
+review/userId: A3KVXO54S1TGM6
+review/profileName: Stephen "SAinCA"
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1231286400
+review/summary: Weak is an understatement
+review/text: Tried it, retried it, wife tried it, conclusion: insipid.  The only barely acceptable way to prepare it, in my opinion, is to run two pods at single-pod followed by a single-pod Sumatra.  Godiva is highly overrated and with absolutely NO returns, we're stuck with two more undesirable packs.<br /><br />Avoid if you like coffee and avoid if you like chocolate.  This ain't no mocha by a long stretch and it's a very poor choc creme.
+
+product/productId: B0019SP8UO
+review/userId: A3JX482I1UYE5R
+review/profileName: S. "sara129"
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1230681600
+review/summary: it's not chocolate, it's not coffee
+review/text: Sigh.  The smell is very strong, but I can't describe it as either chocolate or coffee.  It sure doesn't taste like either.  I love mocha, I simply can't call this mocha.  I'm easily affected by the caffeine in coffee.  This doesn't do a thing to me.  As for the chocolate, some other reviewer said it tasted artificial.  I totally agree.
+
+product/productId: B0019SP8UO
+review/userId: A1A87HM0OUATWR
+review/profileName: Anya
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1308787200
+review/summary: Smells bad
+review/text: We didn't like this at all. The rich chocolate flavor? Nope. Just a smell that I think smells like moldy socks. Everyone perceives taste differently but our family, at least, agreed this was not a good one.
+
+product/productId: B0019SP8UO
+review/userId: ABL4DVEWGA6PP
+review/profileName: H. Chen
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1255305600
+review/summary: Taste nothing like Godiva and everything like Senseo
+review/text: I'm very disappointed this this product.  The coffee taste bland.  I'm surprised Godiva collaborated with such a poor product.  Had I known that this is a Senseo product I would never have bought it.  The flavor isn't rich even when I brew the 7 oz cups.  There a slightly sour after taste.  All in all, its a great deal for the money.  But if you're into coffee, its probably not something you would want to put yourself through.
+
+product/productId: B0019SP8UO
+review/userId: AH3QJ7OIZD4LS
+review/profileName: N. Marshall "NMarsh"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1254873600
+review/summary: Godiva Coffee--not as sweet as you'd think
+review/text: I was disappointed with the taste and price of this coffee.  I don't recommend it unless you're looking for a VERY subtle flavor of chocolate only.
+
+product/productId: B0019SP8UO
+review/userId: A2OU2CUX7V37KQ
+review/profileName: OMA PAM
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1241740800
+review/summary: Godiva Chocolate Creme-Unimpressive
+review/text: Weak, unimpressive, tasteless and way overpriced.  Tastes like a coffee for little children.  I will not repurchase!
+
+product/productId: B0019SP8UO
+review/userId: A1T55XQ0HHIKDL
+review/profileName: Trouble Maker
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1236643200
+review/summary: Yuck!
+review/text: I am a HUGE Godiva chocolate fan, so you can imagine how thrilled I was to find these for my coffee maker. Unfortunately these really disappointed me as far as the flavor goes. It's very strong, and just doesn't live up to what I would expect from Godiva.
+
+product/productId: B0019SP8UO
+review/userId: A3N1U5FR3JE755
+review/profileName: Mike In Mass.
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1224288000
+review/summary: Average at best
+review/text: We love the aroma and taste of flavored coffee and were looking forward to this given the name that Godiva has in chocolate!  But what a disappointment we had.  The coffee was weak and had very little aroma and even less taste.  Why is it that we can't get the same nice aroma and flavor from our pod machines as friend can get from their cup machines?  Anyway, we had set this up for automatic delivery and will cancel future orders.  Not worth the premium price, Godiva needs to go back to the lab on this one!
+
+product/productId: B0019SP8UO
+review/userId: A110MOPBC4F57
+review/profileName: M. Harbst "muzicfan@yahoo.com"
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1222560000
+review/summary: Not bad, but had better
+review/text: I tried this out, because I love mocha's and Chocolate in my coffee.  This is good, but I like a much bolder coffee.  Great if you want a dessert coffee, or love chocolate.  I will stick with my bolder blends however.
+
+product/productId: B0019SP8UO
+review/userId: ACYX2Y70XIYSL
+review/profileName: DK
+review/helpfulness: 4/6
+review/score: 2.0
+review/time: 1223251200
+review/summary: Godiva coffee pods
+review/text: These coffee pods might make delicious coffee, but they are too small for the Senseo coffee maker. They hold less coffee than Senseo's own pods therefore the coffee comes out watery. I was very disappointed since i enjoy flavored coffees as a rule.
+
+product/productId: B0019SP8UO
+review/userId: A2KEEVFDE2UCQK
+review/profileName: Linda L. Paiva
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1231200000
+review/summary: Godiva Chocolate Cr&iquest;me Coffee Single Serve, Coffee Pods
+review/text: Smells great.  Was not what my husband was looking for.  He had tried a chocolate pod from France that he really enjoyed and was hoping this would be more like that.  It wasn't.
+
+product/productId: B0019SP8UO
+review/userId: A1CRIZ7FCVX1HT
+review/profileName: Tammy
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1227312000
+review/summary: Very nice change.  Tasty.
+review/text: This coffee is very good. It is a nice change from the other Senseo pods. I have been buying more pods from Melitta and others just to change it up.  It was nice to try one from Senseo.  The chocolate is subtle, as others have mentioned.  But you can tell its there. I recommend it!!
+
+product/productId: B0019SP8UO
+review/userId: A1JY64GQC3B8WV
+review/profileName: R. Davis
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1222473600
+review/summary: Coffeelicious
+review/text: Great flavor ot quite as foamy as regular Senseo coffee. No detailed ingredients listed is the only real negative.
+
+product/productId: B0019SP8UO
+review/userId: A2MINF3RW59J5A
+review/profileName: Sarah
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1263859200
+review/summary: Irresponsible Seller
+review/text: Don't buy this product, they'll cheat you out of your money.  You'll just waste the shipping charges, and your time.  They sent me the wrong flavor pods, for the wrong machine.  Now I have a bunch of Tassio coffee pods that I can't use, and I have to find the time to send it all back, and then get them to refund me the shipping because I refuse to pay for their error.  In fact, it wasn't even from the listed seller, it was sent from Bed Bath & Beyond!  I don't know what's going on here, but these people are liars and thieves.
+
+product/productId: B0019SP8UO
+review/userId: A2YA86VX2K747A
+review/profileName: Sunshine 80
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1229212800
+review/summary: Godiva Coffee pods
+review/text: Godiva Chocolate coffee pods smell delightful, but they are not as flavorful as some other pods.  Perhaps more suitable for an 8 ounce cup, rather than the 10 mugs.  Quick and easy to use for those of us in a hurry.
+
+product/productId: B0019SP8UO
+review/userId: A2EF4G3R1FFT1H
+review/profileName: Zelda J. Colville "zjc"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1221955200
+review/summary: Dessert in a cup of Coffee
+review/text: Decadent rich wow sit back and dream while you enjoy this fabulous cup of coffee truly wonderful and smells fabulous, no chemical taste just rich and delicious
+
+product/productId: B0019SP8UO
+review/userId: A3SCYUEOIXJ2H2
+review/profileName: Kimberly Ripley "stoopidgerl"
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1223683200
+review/summary: This coffee makes me happy
+review/text: I am in love with this coffee! Perfect for the Senseo machine. When I start the day with this coffee I start the day with a smile on my face. It's so yummy and sweet. It goes really well with Coffeemate Chocolate Raspberry cream.
+
+product/productId: B0019SP8UO
+review/userId: AQHPTH38PWSYI
+review/profileName: Lisa Dombrowski
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1253750400
+review/summary: Would Recommend.
+review/text: This coffee isn't that bad I would recommend it to anyone because if you put some hazelnut liquid coffee creamer in it, its the best cup of coffee you have ever had. I plan on purchasing some more when i run out,just using regular milk makes it kind of plain, but with flavored coffee creamer its the best.
+
+product/productId: B0019SP8UO
+review/userId: ARCQ16YNPDTD7
+review/profileName: A. Help "DrMAL"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1252454400
+review/summary: Surprisingly good for flavored coffee
+review/text: I am an espresso purist and rarely imbibe "fru-fru" flavored coffee.  I had bought this for women friends and when I tried it...wow!  It is really an excellent brew.  Use only a real (Senseo or other pump-type) espresso machine, there are other AWFUL pod machines that churn out colored water(see my other reviews).  Thank Godiva for Godiva, they came through again.
+
+product/productId: B0019SP8UO
+review/userId: A2XMTPS4MJVM4M
+review/profileName: MusicGal101
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1239753600
+review/summary: Excellent
+review/text: Probably my favorite Senseo coffee pod. When combined with the Coffee-mate Creamy Chocolate cream and sugar, this is an excellent way to start my morning. I like the flavor added in the coffee better than the Medium Roast coffee for the Senseo coffee maker. It tastes and smells better.
+
+product/productId: B0019SP8UO
+review/userId: A3KUC5K5VSJNU9
+review/profileName: Grranimal "Fuerkraft"
+review/helpfulness: 3/6
+review/score: 5.0
+review/time: 1231718400
+review/summary: Even Starbucks people will find these pods DELICIOUS A++
+review/text: The Godiva pods have an excellent flavor for both arabica coffee lovers and chocolate lovers.  We've drunk our 3pm coffee with chocolate for years, since discovering the rather fattening Starbucks mocha coffee. (It's <a href="http://www.amazon.com/gp/product/B000EM6PS0">Lipton Green Tea, Mandarin Orange, Premium Pyramid Tea Bags, 20-Count Boxes (Pack of 6)</a> green tea in the morning for us now, as no 11 o'clock droop with it.) The Godiva coffee is a delicious arabica medium roast similar to the great <a href="http://www.amazon.com/gp/product/B000UBJ3U2">Senseo Douwe Egberts Colombia Blend Coffee Pods, 16-Count 3.92-Ounce Packages (Pack of 6)</a> you can only get on Amazon.  I use 2 pods per cup, but we're chickens so I make this with 25% <a href="http://www.amazon.com/gp/product/B000UBH9YE">Senseo Douwe Egberts Coffee Pods, Decaffeinated, 18-Count 4.41-Ounce Packages (Pack of 6)</a> and it tasts great and lowers the buzz level to manageable.  If you want a different taste you can make it 25% dark with a pod of <a href="http://www.amazon.com/gp/product/B0013A0QXC">Senseo Espresso Coffee Pods, 16-Count, 3.92-Ounce Packages (Pack of 6)</a>.  Any way it is great by us.  We like it with a little Starbucks mocha powder added (1T rounded/cup) + a dash of Starbucks Carmel Sauce.  I avoid some white sugar by sweeting to taste with <a href="http://www.amazon.com/gp/product/B001EO5T52">Emerald Forest  Xylitol Sweetener, 2 Pound Composite Containers (Pack of 2)</a> which also saves your teeth.  The taste is the same as table sugar.<br /><br />Avoid the fat of the Starbucks mocha drinks by making frothy milk to pour over your coffee with a <a href="http://www.amazon.com/gp/product/B000WCXOTA">BonJour Caf&eacute; Latte Frother, Battery Powered, White/ Gray</a>.  The taste is just like whipped cream without the calories.  You will be amazed.<br /><br />Big Secret:  you do not even need a Senseo Coffee Machine to use these pods.  Just brew them in hot water for 5 minutes to taste before you add milk.  The machine just does a little finer extraction and puts some tasty foam on top.  You can put your own frothed milk on top instead if you take it.
+
+product/productId: B0019SP8UO
+review/userId: A14N994EM3H18B
+review/profileName: C. Edwards "Almost skinny"
+review/helpfulness: 1/3
+review/score: 4.0
+review/time: 1226793600
+review/summary: Yummy coffee!
+review/text: Nice change from the regular pods. The coffee smells and taste yummy. A nice treat after dinner.
+
+product/productId: B000XE7MU4
+review/userId: A3GFLPSV6QEO4E
+review/profileName: Electic Chef "Eclectic Chef"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1207785600
+review/summary: Pink Salt is Perfect
+review/text: I had this salt at a friends today. It a perfect salt as it had no fillers and comes in the form of flakes. I used it on browned potatoes and it made the potatoes jump. I thought I had sprinkled on too much but since it's thin flakes I had to put a bit more. I loved the way it made my potatoes taste. I'm ordering some now.
+
+product/productId: B003AO97YS
+review/userId: A3HNX4TF5F0W2A
+review/profileName: D. Christofield
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1308873600
+review/summary: Where's the taste?
+review/text: I thought I couldn't go wrong with orange flavor, but I was mistaken! This has no orange flavor at all.
+
+product/productId: B005KCCJV6
+review/userId: A22UFY0LARARDQ
+review/profileName: David
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315180800
+review/summary: Awesome
+review/text: This stuff is the best pizza/pasta topping I've ever had. This can be added to so many foods and makes them taste so much better. Perfect for spice fans.
+
+product/productId: B001HNXSW6
+review/userId: AY8I6RX4MY18
+review/profileName: A. L. Sanchez
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298332800
+review/summary: Best pimenton in the world
+review/text: I like to use pimenton in a wide variety of foods and my first contact with this smoked sweet pimenton De la Vera, was because a friend give me one can about 3 years ago, and I felt that he was giving me that can even with pain, like if he was loosing something very valuable. When I tried the first time in an omelette I discover that: is not an excellent product ...is a treasure. There is no dish or preparation that don't get better using this product. I highly recommend to everybody who likes flavoful dishes . It's really amazing, even when you only smell it. Thanks for this product beyond all expectatives
+
+product/productId: B002U56LE2
+review/userId: A3S54RYAS7SVN0
+review/profileName: James Allan
+review/helpfulness: 6/6
+review/score: 2.0
+review/time: 1331078400
+review/summary: uhh, 99 cents more than at the store.
+review/text: Its my understanding the the idea to buying bulk is that the per unit cost decreases versus going to the store and buying one unit. Its this principal that lets stores make money. Now. I've done the math and 45.99/12=3.83. Something look wrong to you? I buy a can or two every day, and at 7-11, quick-chek, wawa, etc,they cost 3.00 or 3.50 if they feel expensive that day, sometimes a deal 2 for 4. Amazon is the only seller of these bulk on the web (besides the starbucks supplier stores use) so they know they can gouge pries. My recommendation is to go to the nearest 7-11 and buy 12 for 36 dollars and avoid amazon all together.There are things they are great for, buying energy drinks in bulk isn't one of them.
+
+product/productId: B002U56LE2
+review/userId: A1BEB85K72UXXC
+review/profileName: Movie Man "DVD Fan"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1337731200
+review/summary: Great Product - Too High Price
+review/text: I love this stuff.  I could drink 3 or more cans every day.  It has that perfect blend of coffee and chocolate and gives me a boost.<br /><br /> What I find odd is the price here.  I got excited discovering that I could buy in bulk as compared to 1 can at a time at local gas stations.  As others stated, I assumed the price per can would go way down because of the quantity.  Well, at $50 per 12 pack it's well over the cost of my 1 can-at-a-time cost at gas stations!  I pay from $2.29 to $2.69 locally while this Amazon cost is $4.11 per can.  What's the point in buying in bulk if the price goes up??  And I'm not even considering shipping cost.<br /><br /> As a price threshold, for me if the price exceeds $30 for a 12 pack, I say forget it.
+
+product/productId: B002U56LE2
+review/userId: A153Z14M79BKXB
+review/profileName: Shaiya
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1308700800
+review/summary: Expensively delicious for Starbucks Fanatics
+review/text: Starbucks is known all over the world for producing quality coffee but with a price of $79.99 for a pack of 12 I believe this is too much to ask for. Other brands can offer the same quality of taste and energy boosting effect but at a cheaper price. If name is all we are buying in this product then I hope Starbucks should better think about it soon.<br /><br />There are different reasons why men and women purchase a cup or a can of coffee. Some want it for the sake of leisure while others wish to have an additional energy booster. But many have grown accustomed to the taste of quality coffee beans so they stick with popular brands like Starbucks.<br /><br />Starbucks Doubleshot sure comes in handy since you can carry it around wherever you may go. You can instantly have that needed jolt of energy so you can finish your pile of office paperworks or school assignments. Instead of walking over to a starbucks cafe then you can readily cool it in the fridge so you can readily enjoy it anytime.<br /><br />The problem with caffeinated drinks is that the energy effects will not last for so long. Most of the time the mental alertness will only keep you going for a maximum of 12 hours. I have personally tried it and no matter how much I wanted to sleep the amount of caffeine was not yet used so was awake until 12 noon. Soon after, my eyes felt tired and I was off to sleep.<br /><br />I had no problems like this with my regular Gene Eden Vir 101 supplement. It gives me longer lasting energy without any side effect. I take it three times in a day and can feel how it helps my body work efficiently without any complaints.<br /><br />Choose the coffee drinks you will take but if you are indeed a fan of Starbucks then having a pack of Doubleshot in your fridge will definitely be a delight not only to you but also to your coffee buddies.
+
+product/productId: B0001V0QZ2
+review/userId: A3JCI9LFFWORLS
+review/profileName: Diane Sultzbach
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1168473600
+review/summary: Junk Food Junkie disappointment
+review/text: When I received this basket I was disappointed at its size.  When I looked at the picture and read the description I expected a bigger gift.  However, when I called and let them know my feelings I was told that there had been a mistake in the size of the product that was sent to me.  Apparently they had a larger size that I should have gotten.  They let me keep what I had and gave me a full refund.  I felt that this shows the company stands behind it's product and I would buy from them again.
+
+product/productId: B003VN71VE
+review/userId: A1MCCT4YZ11YJI
+review/profileName: Mick
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332115200
+review/summary: Maxell House Coffee
+review/text: Product arrived as scheduled.  No problem with merchandise as I purchase this product at my local grocery chain as well as from Amazon, which is cheaper.  Have scheduled regular shipments of this product.
+
+product/productId: B0015DA1MS
+review/userId: A3CXV6WC803A8Q
+review/profileName: Donna G. Renkel "Music Lover"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1233532800
+review/summary: Fresh and DELICIOUS!!
+review/text: By far the most fresh licorice mix I've ever eaten!  Obviously wasn't sitting on a shelf for months!  I just ordered two more.  You won't be disappointed if you love the freshest licorice!
+
+product/productId: B0015DA1MS
+review/userId: A3RF0TJB8HU7FB
+review/profileName: D. perkins "craft a holic"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285718400
+review/summary: Licorice bridge mix the very best
+review/text: You can't beat this for flavor and freshness the quality is the very best coming from a Licorice Lover I wish my grandfather was still around to enjoy his favorite treat.
+
+product/productId: B0015DA1MS
+review/userId: A1UG345M7SSTGH
+review/profileName: K. Orr
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337040000
+review/summary: YUMMY AND FRESH
+review/text: Definitely would order again.  Each time I get it, it is fresh.  If you like licorice, you will like this mix.
+
+product/productId: B0015DA1MS
+review/userId: A1K4ILLIKC5V1G
+review/profileName: Jacquelyn T. Olsen "Sunnybooks"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316649600
+review/summary: Bridge Mix Licorice
+review/text: I LOVE Licorice Bridge Mix.  It's very expensive, so I won't be ordering it very often.  The only place I have found it is Betty's Country General Store in Helen, GA.  Anyone who likes licorice will love this bridge mix.
+
+product/productId: B0015DA1MS
+review/userId: A1NHLDPNYG17ST
+review/profileName: LindyLou
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1280448000
+review/summary: Licorice Bridge mix
+review/text: The licorice was fresh and excellent as usual. This was the second time I had ordered from this vendor. I ordered four pounds, which were shipped in four individual hard plastic containers in a cardboard box. Each container was about 3/4 full. During shipping one of the boxes came open and a couple handfuls of licorice went everywhere in the shipping box. I had sent the package to a friend's house and fortunately the kids weren't too particular about searching for the loose candy in the folds of the box, although I'm not too sure how healthy that was. I'd recommend a different size or type of container for the future. Also, I didn't know if I should have reported it to the shipping company. I live outside of the US and don't know the expectations or allowances for this type of problem. In addition, it seemed to take a while to reach the address in Portand, Oregon - maybe eight days or more. Perhaps that's normal for the US. I would order again from this vendor.
+
+product/productId: B0015DA1MS
+review/userId: A2GYT1T5KQAUJ
+review/profileName: Diana Green "frequent buyer"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1275609600
+review/summary: yum
+review/text: loved the candy, did not like the price, I love good licorice, so it was worth it
+
+product/productId: B0006VB3W2
+review/userId: A19MXYAHMAC99A
+review/profileName: Daniel F. Bowen
+review/helpfulness: 12/15
+review/score: 1.0
+review/time: 1292112000
+review/summary: Solid God Katz-N-Flocken Dry Cat Food
+review/text: I ordered this discounted food knowing the discount would off set the shipping.  My cats LOVE this cat food, I've fed it to them for years and will keep buying it.  Solid Gold is an excellent brand, never had any of the cat food recalls.  So I felt I made a wise decision even though the product listed didn't include the size bag.  Turns out the size was a 4 lb bag, still a savings with the discount.  I've also ordered through PetFood Direct, never had a problem with their service or with their products.  The drawback was the bag was expired.  Ordered 12/10 and expired 2/10.  I am very disappointed I spent the money on expired food which I will not feed my pets.  There is a reason why a manufacturer puts an expiration date on their food.  So no, I won't order this product again and I wonder if that was what the discount was all about - Getting rid of expired food the only way they could.  I won't order dry cat food on line again, not through PetFood Direct, not when their people do this to a customer.
+
+product/productId: B0001G6VB0
+review/userId: ARTES5KUBVNXL
+review/profileName: D. Thomas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294790400
+review/summary: Happy Customer
+review/text: Thank you so much for making this product .it is hard to find items made with flax i wish more could be made. the flax provides the fiber I need thanks a billion.
+
+product/productId: B0049TC128
+review/userId: A1P05GMROWBWRL
+review/profileName: T. M. Guerriero
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1299888000
+review/summary: nothing beats small egg bows for lentils and bows meal
+review/text: I have always loved Ronzoni's small egg bows. While growing up we used them for lentils and bows meals and you just can't beat the flavor. I recently found out Ronzoni has discontinued the product so I am surely disappointed in that but I will keep ordering them until I can't get them anymore.. and I also found out De Cecco sells them now too so one one supply ends I'll have another.
+
+product/productId: B001BKLA4I
+review/userId: A2SZLNSI5KOQJT
+review/profileName: Carrie, "Formerly &#34;Sister Carrie&#34;"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1288396800
+review/summary: Cats Initially Goobled Up This Food. Interest Waned ater a Month.  Wish I Could Pronounce Some of the Ingredients.
+review/text: Since my cats are getting older, I decided to supplement their dry food with a daily can of wet food.  I orginally had them eating Friskies Special Diet canned food because of a friend's recommendation; however, one of my cats had an allergic reaction to the Friskies.<br /><br />My cats are already eating <a href="http://www.amazon.com/gp/product/B001BCUBZ0">Castor & Pollux Ultramix Indoor Feline Fomula Dry Cat Food, 15-Pound Bag</a>, so I tried out this Organix Turkey and Seafood as well as Castor and Pollux Natural Ultramix Chicken and Vegetables Casserole Adult Feline Canned Formula.<br /><br />All of our cats, young & old, like this Organix food. Even the allergy cat seems to tolerate this canned food.  It is a typical canned cat food consistency (no chunks of meat - kind of a mush - easy to remove from the can).  My only hesitation is that the ingredients do not seem to be completely "organic", and I cannot pronounce some of the ingredients.  However, with any commercially manufactured pet food, I believe you have to "settle", and this food seems to be of a higher quality than other similarly priced cat food which contain meat by-products.<br /><br />NOTE: after about 1 month of eating this food on a daily basis, only 3 of my 5 cats will eat all of their food.  The other two nibble at the food & then walk away.<br /><br />Ingredient list:<br />Organic Turkey, Salmon broth, organic chicken liver, organic brown rice, organic chicken, shrimp, organic guar gum, calcium sulfate, tricalcium phosphate, organic flaxseed meal, salt, potassium chloride, minerals (iron amino acid, chelate, zinc amino acid chelate, cobalt amino acid chelate, copper amino acid chelate, manganese amino acid chelate, sodium selenite, potassium iodide), vitamins (vitamin E, A, D3, B12 Supplements, thiamine mononitrate, niacin, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, folic acid, biotin), taurine, choline chloride.<br /><br />Guaranteed Analysis:<br />crude protein (min) 8.0%, crude fat (min) 6.0%, crude fiber (max) 1.0%, crude moisture (max) 78.0%, ash (max) 1.8%, magnesium (max) 0.03%, taurine (min) 0.05%<br /><br />Made in the USA.
+
+product/productId: B001BKLA4I
+review/userId: A1QXEHVHJJQCNP
+review/profileName: J. Lee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308787200
+review/summary: Feline Tested, Mother Approved
+review/text: I love the ingredient listing. I love that I can see the bits of shrimp that are in there. And I love that my kittens cry as soon as the cans clink when I get them out.<br /><br />Wherever they are in the house, they come running and cry cry cry until I set the food down.<br /><br />They usually gobble up a bit, and then leave some in the dish to save for later. They always finish their portions before the next day.<br /><br />With the 3 oz I feed 1 can per cat for dinner usually. Then after it's done I free feed dry, which they nibble at but don't eat a ton. I used to have set feeding times with measured amounts, but found them to gorge. Now that I free feed they eat more sparingly and throughout the day.<br /><br />Love this, love the can size, and love that it's subscribe and save ready - makes it affordable for mom.
+
+product/productId: B000GZY910
+review/userId: A1YDDXFOUIBJSX
+review/profileName: Le Roy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: For a quick fix...try some couscous!
+review/text: This is one of the great way to fix a meal if you're cramp for time or lazy to cook. For a guy, one packet is good enough to fill you up. Goes great with salad or fried egg on the side. I like that you can buy a box of 12 and does save you some money.
+
+product/productId: B008TAWJ5C
+review/userId: A3GKE33FI1QKA
+review/profileName: The Barb Knows Best
+review/helpfulness: 17/17
+review/score: 4.0
+review/time: 1322697600
+review/summary: Best Coconut Milk - But Buy It Locally
+review/text: This is the best brand of coconut milk/cream I have found.  I am still exploring other brands, but this is better than Thai Kitchen, Roland, etc.  It makes delicious curry sauces and soups.  But $6.95 a can is outrageous.  You can get it at your local Asian market for about $2.00 a can.  (I have paid between $1.69 - $2.29 a can).  $6.95 a can is outrageous.
+
+product/productId: B008TAWJ5C
+review/userId: A2Q22LLWEKJSAN
+review/profileName: Daniel B. Hewitt "dbhewitt63"
+review/helpfulness: 17/17
+review/score: 5.0
+review/time: 1264809600
+review/summary: Search for this!
+review/text: If you are looking for coconut milk for making curries, this is the brand to buy. Mae Ploy brand is highly recommended also. Do not settle for less. Please search either of these two out! Warning: Shake the can before purchase. If it sloshes around like water - put it back. Chaokoh and Mae Ploy both are uniformly thick and creamy. Try to find the 19.5 oz can.
+
+product/productId: B008TAWJ5C
+review/userId: A165FYD1GPZNY4
+review/profileName: H. Murphy
+review/helpfulness: 17/18
+review/score: 5.0
+review/time: 1246492800
+review/summary: Thick, rich and delicious!
+review/text: I have tried many brands of coconut milk and Chaokoh is my hands-down favorite. It's thicker than most brands--almost like whipped cream--and has a uniformly creamy taste and texture. It makes an excellent dip for fruit and adds delicious creaminess to smoothies and soups. The Chaokoh brand is recommended by many Thai cooking experts, as well as by Food & Wine magazine and Cook's Illustrated. Be warned: it's addictive!
+
+product/productId: B008TAWJ5C
+review/userId: A3A4NDG2EHEMME
+review/profileName: John F. Winters "Kartoon Kop"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1297555200
+review/summary: Excellent Product
+review/text: This is my favorite coconut milk. I used to buy it at my local safeway, but they have been out of it for weeks. My order was received in a timely matter.
+
+product/productId: B008TAWJ5C
+review/userId: A2OV0XC72M15SW
+review/profileName: rosie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336435200
+review/summary: THE BESTTTTTTTTT
+review/text: THIS STUFF IS AMAZING, I LOVE IT. I DO NOT HAVE TIME TO GO TO THE STORE AND GET THIS (I DONT EVEN KNOW WHAT STOES SELL THIS) ANYWAYS THIS SMELLS GREAT AND TASTS GREAT
+
+product/productId: B000ICPUYQ
+review/userId: A3LXM71VMV398B
+review/profileName: T. J. ROBERTSON
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1274227200
+review/summary: way too weak, hardly tastes like coffee
+review/text: way too weak, hardly tastes like coffee.  I wish that Starbucks or Seattle's Best would produce a decaffeinated T-disc.
+
+product/productId: B000ICPUYQ
+review/userId: A30529V6QZZA64
+review/profileName: Robert D. Needleman
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1189900800
+review/summary: Delicious coffee/cappucino
+review/text: The decaf Gevalia coffee and cappucino are delicious and come out perfect every time in the Tassimo. Unfortunately, they're the only 2 varieties of decaf coffee they have available currently, but both are excellent and come very close to coffee house quality.
+

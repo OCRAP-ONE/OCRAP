@@ -1,0 +1,1143 @@
+product/productId: B001D0GV7M
+review/userId: AOWWFPTR60ZJN
+review/profileName: Kelly Eriks "Kelly"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1186358400
+review/summary: little disappointed
+review/text: A bit disappointed in this one. Was hoping for more of a taste here. pretty boring.
+
+product/productId: B001D0GV7M
+review/userId: A3OT61DL0DY283
+review/profileName: busy one "cappuccino lover"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1182816000
+review/summary: bold taste, but don't taste mocha
+review/text: I bought it for the mocha taste, but I don't taste it at all.  It's overall a good coffee, but I was disappointed that it didn't have more of a powerful mocha taste.
+
+product/productId: B001D0GV7M
+review/userId: A16AKITMSXAXWL
+review/profileName: H. LEWIS "LawStudent10"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1301875200
+review/summary: Not the flavor I expected
+review/text: I thought since the title of the product was "Mocha Java" it would have a chocolate taste - but it mostly tasted like plain coffee to me.
+
+product/productId: B001D0GV7M
+review/userId: A2C6V451SLC1PE
+review/profileName: East Coast Geek
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1216425600
+review/summary: Good, but where's the mocha?
+review/text: As another previous reviewer has already mentioned, don't buy this coffee expecting the mocha; you'll be disappointed.  The taste is good so don't think it's horrible, but I just wish Timothy's had flavored it more with mocha as is stated in it's name.
+
+product/productId: B001D0GV7M
+review/userId: AF5U6FIT1DB74
+review/profileName: Alissa Tauriello
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1193788800
+review/summary: Mocha...
+review/text: not a bad cup of coffee.. would have liked it to have more of a Mocha taste though.
+
+product/productId: B001D0GV7M
+review/userId: A1U04PL8TVQ5UU
+review/profileName: SWL
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1189382400
+review/summary: Good coffee
+review/text: Good coffee but did not taste like mocha. Not a strong mocha flavor but a good coffee overall.
+
+product/productId: B001D0GV7M
+review/userId: A391LVMY75659W
+review/profileName: FoxtrotU
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1297555200
+review/summary: Just Weak Coffee, No Mocha To Be Had
+review/text: I purchased Timothy's Mocha Java because of the price and I wanted to have a nice cup of mocha coffee.  What I got was a cup of weak coffee.  There is no mocha in this k-cup whatsoever.  I don't know how Timothy's defines "mocha", but is sure doesn't have anything to do with chocolate.  Do not waste your time and money purchasing this product!
+
+product/productId: B001D0GV7M
+review/userId: A2TNKIV2CL6ZWF
+review/profileName: Jeff
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1191974400
+review/summary: Where's the Mocha?
+review/text: I have given all positive reviews for K-cup flavors except this one, where's the mocha?  Doesn't smell or taste like mocha, not sure what they were going for here but Mocha doesn't seem to be it.  It's not even really that good a cup of coffee, whatever they added in to try and be mocha just adds some bitterness and not much else.  I tried to drink them but ended up tossing most of them away.  Too spoiled by so many other good flavors to waste time drinking this one.<br /><br />Best Timothy's flavor is their Rainforest Espresso, oh wow that's good, and best flavored k-cup overall is Green Mountain Caramel Vanilla, you haven't lived until you've tried that one.  This Mocha, ehhhh, keep looking.
+
+product/productId: B001D0GV7M
+review/userId: A2MRFTK6WX61VN
+review/profileName: Barbara L. Ruppert
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1267660800
+review/summary: Mocha Java - Timothy's coffee
+review/text: Did not have a hint of "Mocha" - just plain coffee.  I will drink it, but will never buy again :(
+
+product/productId: B001D0GV7M
+review/userId: A174SU45XQ33DA
+review/profileName: J. Makel
+review/helpfulness: 0/5
+review/score: 3.0
+review/time: 1245196800
+review/summary: Mocha???????? Coffee=Yes, Mocha=Not so Much
+review/text: I had a few cups of it. Decent coffee but I bought it because it was supposed to be a Mocha Coffee. I'm a little disappointed, not to say that I won't drink the rest of them. If you want Mocha, you better bring some with you.
+
+product/productId: B000EN18NG
+review/userId: A2OGMCO83YXIVZ
+review/profileName: K. Thomas
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1167868800
+review/summary: Tasty treat
+review/text: I love Sahale snacks and this one hits the mark.  It's got a little kick that is very satisfying. One thing that separates Sahale from other snack products is the variety of textures and flavors you get in every bite.  I highly recommend Sing Buri blend.
+
+product/productId: B000EN18NG
+review/userId: AUNTU9P86WJJP
+review/profileName: L. Thorson
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1217462400
+review/summary: spicy crunchy deliciousness
+review/text: This is an especially felicitous blend of crunchy pecans and chewy cranberries, spiced up with a little black pepper and orange zest. Good to eat out of hand, and also good to toss into a salad for some extra flavor and texture.
+
+product/productId: B000EN18NG
+review/userId: A1WF9BHK53UVX6
+review/profileName: Mary Lou Mcgregor "The 5 L's"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1170720000
+review/summary: The best
+review/text: Just get them! We absolutely love this snack! The flavor is unique and refreshing. We even hide the bags from eachother so we get our own stash! The other flavors are good too, but this is Sahale shinning STAR! Thanks for such an "out of the box" snack!
+
+product/productId: B000EN18NG
+review/userId: A1XYKO38JK6N8K
+review/profileName: northkona
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1153958400
+review/summary: Exotic & Delicious but Amazon product info needs editing
+review/text: Great snacks, but look at the image of the product to see the ingredients.  Amazon has errors in the information they're posting;  try to see what's in the photo of the product -- the nuts and spices are visible on the package.  Amazon has mixed this one up with the description of another from this same line.
+
+product/productId: B000EN18NG
+review/userId: A32BB93M3NU59K
+review/profileName: Sarah Thompson "Particular about products!"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1306627200
+review/summary: What L.Thorson said--spicy crunchy deliciousness
+review/text: I really don't know how to describe Sahale's Valdosta Pecans better than L. Thorson did: "This is an especially felicitous blend of crunchy pecans and chewy cranberries, spiced up with a little black pepper and orange zest. Good to eat out of hand, and also good to toss into a salad for some extra flavor and texture."<br /><br />After trying this snack I'd purchased away from my usual shpping spots, I couldn't remember the name of it and bought various nut snacks of other brands that I thought may have been the same, but was repeatedly sadly disappointed. Just yesterday I found the real thing again and decided to see if I could get it from Amazon. So glad to see I can. And very happy to see the 2oz size bags. Like another reviewer mentioned, it's hard to stop before eating the entire 5oz bag!
+
+product/productId: B000EN18NG
+review/userId: A36GEDLB5A5MJ
+review/profileName: RevDorothyL "DorothyL"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1271376000
+review/summary: slightly stale-tasting, and sometimes tough to chew
+review/text: I got a good price on these, so I gave them a try, and as a quick snack they're not BAD, but they have a slightly stale flavor (in spite of being nowhere near their 'use by' date), the dried fruit bits tend to be VERY small and hard, and over-all they're blander-tasting than I'd expect, considering the wonderful and flavorful ingredients that went into them.<br /><br />I can eat them for a quick emergency snack, and wouldn't hesitate to offer them to a guest, but I won't re-order.
+
+product/productId: B000EN18NG
+review/userId: A3F2VVIQIY6U64
+review/profileName: Armando N. Roman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1321142400
+review/summary: Dang that's good.
+review/text: I tend to have good luck when it comes to vending machines, and always come across one that has something stuck in a rung, free for the taking once I shake it a few times. Recently I spotted a pack of these almonds in one, shook it out, and gave it a shot. I hadn't tried them before since they were in the 'healthy' vending machine where the cheapest thing is a fiber cookie for nearly one Abe Lincoln. But hey, when almonds are free, I won't turn them down. Almonds are already great on their own, and these suckers add other great ingredients to the mix, making for an excellent snack.<br /><br />You get the usual crunchy almonds, apples, flax seeds(!), balsamic vinegar, sea salt and red peppers. Flax seeds make everything better, in more ways than one, and I'm really glad that snack foods are starting to feature these more. The apple taste is faint but you definitely get it as soon as the almonds hit your tongue, and the red peppers...something that I've actually never had in my life, aren't strong at all. That was my only real concern with this snack when I was opening it. Despite my heritage, I've never had any kind of spicy foods, but I bit the bullet and I absolutely love these.<br /><br />As usual with great snacks, the only bad thing is the price, but Amazon has a pretty good deal on them. While 'soledad' might mean 'loneliness' in Spanish, you'll be able to overcome that feeling as long as you've got a pack of these babies around. Buy some immediately...or shake 'em out of a vending machine.
+
+product/productId: B000EN18NG
+review/userId: AO3XTRSGL4PSY
+review/profileName: Karen E. Light "KL"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1271203200
+review/summary: Taste wonderful!
+review/text: The Valdosta Blend is by far my favorite.  I love all nuts, but these are really outstanding!
+
+product/productId: B000EN18NG
+review/userId: ATYZ2HQOWKEIF
+review/profileName: Pamela Kleba "puppet"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1253923200
+review/summary: Great snack
+review/text: this is a wonderful snack. Has a sweet-sour thing going and is a must-try for nut lovers.
+
+product/productId: B000EN18NG
+review/userId: A1CVZCQBAHJYNE
+review/profileName: charjere "charjere"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1157328000
+review/summary: Only if you like spicy...
+review/text: I bought the variety pack and tried this flavor second (see my review for Socorro). I buy natural snacks for my kids (freeze dried fruit etc with no added sugar), but I find them bland. So I ordered these and loved the Socorro, but this one was much more spicy. My 4 year old did NOT like this one - too spicy for her and for me.
+
+product/productId: B000EN18NG
+review/userId: A1W31W7O8D5EW
+review/profileName: Annie T
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350086400
+review/summary: Not so good....
+review/text: I LOVE Sahale snacks!  Especially the black peppered pistachio/almond/dried cherry mix (which is about impossible to find now)<br />I ordered several different flavors of these snacks recently thru Amazon.<br /><br />This one I can't stomach, though.  It reminds me of B.O. (Body Odor)<br />Sounds crude, but it's that bad, in my opinion.  I'll continue to buy Sahale brand where ever I can.  Top notch products!  This one just has a putrid taste to me...
+
+product/productId: B000EN18NG
+review/userId: A17XF2H8D0A8R2
+review/profileName: JohnF
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338681600
+review/summary: Awesome snack
+review/text: Stumbled upon this snack in Charlotte Int'l Airport - Didn't want to have a big lunch, so grabbed a personal size of this pecan mix.  I read the label and figured I'd give it a try.  Unbelievable snack.  The taste was so awesome that I logged onto my laptop in the terminal to email my wife the link so we could find where to buy them.  You've got to try this snack.  Perfect balance of sweetness and just a little spice to throw you off.  Addictive.  Just ordered some and cannot wait to receive.
+
+product/productId: B000EN18NG
+review/userId: A3LV90MCHJUGT5
+review/profileName: S. Adler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338336000
+review/summary: Really, really great snack
+review/text: I find that this product fulfills my cravings when I want to snack.  It isn't too salty or spicy, just the right amount of both salt & pepper and the cranberries take care of sweet & sour, all in one pouch.  Of course, the pecans aren't too bad as a base for all of this goodness.  I originally discovered Sahale snacks at Costco, but it was only a one-time sampling.  I was very pleased to find them on Amazon.
+
+product/productId: B000EN18NG
+review/userId: A22RMTV5AHAC84
+review/profileName: Sherri L. Pierce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Delicious!
+review/text: These are so tasty. The perfect blend of sweet ant spicy heat.  I will be buying more.  Soledad is my favorite.
+
+product/productId: B000EN18NG
+review/userId: A3382JHIWF0D1R
+review/profileName: bobiscute
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336003200
+review/summary: A delightful obsession
+review/text: Valdosta snacks are heaven.  All Sahale snacks are heaven, but this one really rocks.  The combo of the crunchy pecans and chewy cranberries would be delightful enough -- add the pepper and oh!!  Anyone who loves these should order the sampler pack to try the Maple Pecan which is currently only available in that selection.  I'd have to say those are the only ones better than these.  Oh, and if you try them and love them, bug the Sahale guys to make more on their Facebook page.  I do!  *Joy*
+
+product/productId: B000EN18NG
+review/userId: A1PLMRN5VAGQJA
+review/profileName: LG "sparklytwink"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334707200
+review/summary: Really good
+review/text: The mix of pecans, dried cranberries, salt, pepper, and touch of sweetness is an interesting mix. At first my reaction was just, "Meh" but after trying the third or fourth little bag I was hooked. Crunchy, chewy, salty, peppery, and a little sweet sounds odd, but it works.  I will be ordering these again!  They were fresh, nicely packaged, and the 2 oz. serving is just right for a snack. YUM.
+
+product/productId: B000EN18NG
+review/userId: A1FY0BY0KYZGV9
+review/profileName: Larry R. Saulness "Seattle Shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333065600
+review/summary: Love These Snacks.
+review/text: Tried this product at Costco and of course they did  not have them available when i went back to get them. Found them here in the individual size, great find.
+
+product/productId: B000EN18NG
+review/userId: A291HTT117RVS9
+review/profileName: MadisonVeggie "Lynette in Wisconsin"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324512000
+review/summary: Best nuts I've ever tried
+review/text: I love nuts and have tried at least a hundred different varieties and preparations. These are my favorite. Warm, spicy nuts with tart dried cranberries. You have to be a black pepper lover, but if you are you really need to try these!
+
+product/productId: B000EN18NG
+review/userId: AWQBC9M42739P
+review/profileName: Tigers2000
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287446400
+review/summary: GREAT snack!
+review/text: LOVE, LOVE, LOVE this snack and so much more affordable here, than buying them at Starbucks (which is where I "found" this little treat).
+
+product/productId: B000EN18NG
+review/userId: A3NSV9KZOGKIUT
+review/profileName: T. Hibbits
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283990400
+review/summary: Best snack ever!
+review/text: These are some of the best nuts I've ever tried! Love them! They are unique - slightly sweet with just a hint of spice and the dried apples make a really nice touch.  Wish I could buy them at my local grocery. Awesome! I've tried other Sahale varieties and all of them are absolutely terrific, but these are my favorites.
+
+product/productId: B000EN18NG
+review/userId: A1VUNJ4LQ1PHET
+review/profileName: Dena
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1275696000
+review/summary: best flavored nuts i've tried
+review/text: the soledad blend is the perfect mix of sweetness and kick. i discovered them while on a business trip after missing breakfast... stopped by the terminal store and scanned the aisles for something nutritious with a reasonable amount of cals. then i spotted these - major yum! i started picking them up at starbucks but after a few bags glad i thought to see if i cld order them and never be without. amazon shipped them quick and they tasted fresh. i prefer the 2 oz bags bc i keep a few at work, in the car and take a few when traveling. the size is perfect for tying you over between meals or for those days you're too busy to grab a bite. i've tried other sahale flavors and varieties, but i find these are the best.
+
+product/productId: B000EN18NG
+review/userId: A2LLFU81UNPHT8
+review/profileName: K (or D) "K (or D)"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1248134400
+review/summary: Crunchy sweet salty goodness
+review/text: Sahale makes quality snacks, and I think this is the best of the bunch.  The pecans are salty with a little peppery kick, and the orange zest/cranberries add the right sweetness.
+
+product/productId: B000EN18NG
+review/userId: A24GJL613NNCBH
+review/profileName: pete "nut crazy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1248048000
+review/summary: must eat more
+review/text: i first seen this product at my store and i grab one bag i give it chance omg when i got home i open the bag and could not put it back finish the whole thing when back to store and bought all the varietys they had can clomplain i love them all
+
+product/productId: B000EN18NG
+review/userId: AP02LPAP45SO6
+review/profileName: BJW
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1242864000
+review/summary: The best snack blend ever!
+review/text: These are so good. I bought some in a store to try and then loved them so much I bought a case online. They are delicious. They're different than any other nut blend I've had and everyone who I've shared them with has raved how yummy they are.
+
+product/productId: B000EN18NG
+review/userId: A31BZEQMPKS5MY
+review/profileName: VeggieTart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1239494400
+review/summary: Oh, yummy--with a bit of a kick
+review/text: I first saw these at my local Whole Foods, and as I am a vegan nut fanatic (they make for great snacking), I had to try them.  I love how there are no mysterious ingredients, no preservatives, just wholesome fruit and nuts (with a little sweetener).  The Soledad mix has spices that give it a bit of a kick, which is mellowed by the sweeteness of the apples, the brown rice syrup, and the date juice.<br /><br />My only complaint is that when I'm done snacking, many of the flax seeds wind up on the bottom of the bag.  Flax is very good for you--an excellent source of omega-3 fatty acids, but it's hard to eat a handful of tiny seeds.<br /><br />However, if you are looking for a healthy wholesome snack, Sahale's Soledad is a great option.
+
+product/productId: B000EN18NG
+review/userId: AUNTU9P86WJJP
+review/profileName: L. Thorson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234310400
+review/summary: not just another boring "trail mix"
+review/text: This mix has a lot going on, and it all works. Perfectly toasted/glazed almonds, chewy little bits of apple, balsamic for tang, and flax seeds to make it officially "healthy". Great for between meals...or even for "the trail"!
+
+product/productId: B000EN18NG
+review/userId: A29DMAEUU89DHH
+review/profileName: F. Chasson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231718400
+review/summary: Snacks
+review/text: My son loves these Sahale snacks.  He is a hay rancher and always has them handy while he is working in the hay fields.Sahale Snacks Soledad Blend 5 oz. 6-Pack Bulk
+
+product/productId: B000EN18NG
+review/userId: A3JZOD6BJBJ2XH
+review/profileName: Miriam "Mircat"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1215734400
+review/summary: incredibly delicious and unexpected!
+review/text: Soledad is an AMAZING mix--I love how low sugar and high protein it is. My husband loves it to (and he's a junkfood junkie).<br /><br />The cayenne definitely gives it a little kick/heat, but it's not unpleasant (in fact, it's my favorite part of this blend) and I noticed that the heat is strongest with the first couple of bites and then mellows out. It IS a surprising amount of heat compared the wimpy, over-sugared trail mixes/nut blends that are on the market, so be prepared. :)<br /><br />The almonds are whole, high quality, and gorgeous, and the apples are tiny, diced pieces so they're easy to eat, not too sticky, and not leathery. One thing that I thought was weird when I picked up the bag (I got it at Costco) was that the mix felt like it was congealed into one big piece. This is just how it is--the small amount of brown rice syrup makes everything stick together (no, it's not sticky to the touch), but it's very easy to break off chunks or individual almonds.<br /><br />Enjoy! I HIGHLY recommend this mix for any adult who loves delicious, high quality, satisfying, healthy snacks! :)
+
+product/productId: B000EN18NG
+review/userId: AYEQ9O93CV24D
+review/profileName: Snack Eater
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1207526400
+review/summary: Great, healthy snack
+review/text: I did not actually try the product, but I ordered them for my pilots and passengers.  From what I have heard from them, they are GREAT!!.  This is a snack for you take on the road instead of eating potato chips and stuff.  Good snack!!
+
+product/productId: B000EN18NG
+review/userId: A3N5JW15ZRTG3K
+review/profileName: Scott M. Struessel "Organic Mama"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1205971200
+review/summary: Ksar-aholic
+review/text: Yum, yum, yum. The Ksar pistachios are sweet and pleasantly spicy, but TOTALLY healthy! I am allergic to oats, so I can't take regular granola trail mix hiking. This is a perfect alternative!
+
+product/productId: B000EN18NG
+review/userId: A1GAPWHDFVGJLE
+review/profileName: Joan B. Hillo "farmerjoan"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1194566400
+review/summary: Healthy, flavorable and unusual
+review/text: I have all of the flavors and never remember which is best, but they are all good.  Different nuts dominate each blend, e.g. walnuts, almonds, pecans, macadamias, etc.  They have a bit of dried fruit in each variety, again, all different, and an unusual kick to each.  One has notes of black pepper, another chili, but none are overpowering and/or "hot."<br /><br />One caveat, if you are like me and lack willpower, order the 2oz varieties.  I started with the 5 oz. packs and kept on eating until the bag was empty.  Way too many calories for me.<br /><br />Try the assorted product first and see if you have a particular favorite.  I enjoy them all.
+
+product/productId: B000EN18NG
+review/userId: A3RPSWV61DH2VU
+review/profileName: Aleisha G. Hudson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1193788800
+review/summary: You won't believe how good this unique snack is!!!!
+review/text: I am a flight attendant for a major airline. I was turned on to this delicious snack by a friend of mine as we headed back to Philadelphia from San Francisco over a month ago. She told me she got the Sahale Soledad Blend Almonds from Whole Foods before we left for the airport. After a few moments of her urging me to try the almonds, I gave in. The spiciness from the red pepper flakes, the sweet, chewiness of the apples and dates, and the crunchy almonds sprinkled with flax seed and the touch of balsamic vinegar was delightful. Though the ingredients mixed together provide a unique flavor for the almonds, none of the ingredients are too overwhelming as to disturb the enjoyment of the snack. The Sahale Soledad Blend Almonds are so much healthier than the candy bars, chips, or cupcakes I normally pack as a pick-me-up snack while I'm flying. I've already gone through two boxes of the almonds and will be ordering more soon.
+
+product/productId: B000EN18NG
+review/userId: A1TUZFIPNAX3IU
+review/profileName: Julie "Mom of 2"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1185235200
+review/summary: YUMMY  Great on the go snack for the car
+review/text: I keep several of the Valdosta packs in my car for when I get hungry.  It is  my favorite Sahale Snack; I have tried them all.  I love the flavor surprise with the slight orange and pepper taste.
+
+product/productId: B000EN18NG
+review/userId: A354ZIB8AFOLSH
+review/profileName: SavvySam "sam"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1181606400
+review/summary: Soicy and yummy
+review/text: Best snack food I have ever had.  Completely delicious.
+
+product/productId: B000EN18NG
+review/userId: AS8TMY5QHK7Y9
+review/profileName: Carol J. West
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1175904000
+review/summary: A Richly Satisfying Healthy Gourmet Snack
+review/text: When I stumbled upon Sahale Valdosta Blend, I was in heaven.  It's healthy with a wonderful combination of flavors.  It's high in antioxidants and low in sodium and I can actually eat it (with all of my<br /><br />sensitive GI issues).  I actually eat it for a meal when I'm on the road.<br /><br />You've got to try it!
+
+product/productId: B000EN18NG
+review/userId: A1UASXJKH475MV
+review/profileName: J. Withers
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1314144000
+review/summary: Got these in a variety pack....
+review/text: These were good. Kinda sweet and salty.  There is a very distinct flavor of cumin to me.  I am not sure if that is something else causing the flavor, but it is overpowering.  These aren't hot spicy, just very flavorful  if you like cumin and sweet crystallized fruit, this is for you. If not, get the variety pack from Amazon and try them before you get a 12 pack.  This is a very good product as I have tried four flavors and loved them.  I just wanted to mention the CUMIN flavor screaming through these.  I just don't like cumin a huge huge ton.
+
+product/productId: B004S67GUO
+review/userId: A1ACO2HJ42XOCZ
+review/profileName: E Burke
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339545600
+review/summary: Great Flavor, Very Flawed Pods
+review/text: I bought Timothy's Decaf Colombian pods, and 90 percent of the pods virtually exploded in my Keurig coffeemaker.  Grounds all over the counter.  I had to strain the coffee through a coffee filter so as not to waste it.  Too many grounds to be drinkable otherwise.  I like the coffee's flavor, but I won't use Timothy's.  Every other brand of pods worked fine.  I checked my brewer, and it was working fine, too.  I cleaned out the needle and did recommended maintenance, then tried again: coffee was full of grounds again.  My brewer is new, had it less than 6 months.  I checked the pods, too, and they were not damaged; just unable to make coffee without spraying out grounds.
+
+product/productId: B004S67GUO
+review/userId: A24XAFP11GD717
+review/profileName: TERRIE MIXER
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319241600
+review/summary: very good, will probably purchase again
+review/text: i love my keurig coffee maker because of the  variety of coffee i can get.this is one of them and will more than likely order more in the future.
+
+product/productId: B005DM5CP8
+review/userId: ALH6XSBGH27AK
+review/profileName: Andrew De Volder
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321142400
+review/summary: Best Pancakes ever
+review/text: These are the best ever, its hard to eat the other mixes after trying this one.  Great flavor, crispy edges, yummy!
+
+product/productId: B005DM5CP8
+review/userId: A3OOS8AQAOT7S5
+review/profileName: Barry J. Mallory "snowdog"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: A RAGIN' YES FOR "ARETHA FRANKENSTEIN" PAN CAKES
+review/text: Just had these "PANCAKES" this weekend at some friends house and my comment to them, after breakfast, was...."Those are the best pancakes I have ever had. Where did you get them?"<br />They don't have the "doughiness" of most pancakes....you know the doughiness that sits in your stomach way after breakfast is over. They have more of a crispy-like characterness to them with a wonderful hint of corn bread. ORDER SOME....TRY SOME....YOU'LL LIKE IT.<br />I just placed my first order......CAN'T WAIT !!!<br />  SnowDog
+
+product/productId: B001HTKY86
+review/userId: AYI6ZBGMR1TJY
+review/profileName: Jennifer Thomas
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1344211200
+review/summary: yummy, and safe!
+review/text: my husband loves these, and i purchased them for him. they are nice and crisp, and not overly salty. best of all, they are safe. cukes are on the "dirty dozen" food list, and should only be consumed if organicly grown. we will definitely reorder this product.
+
+product/productId: B001HTKY86
+review/userId: A30E2GIGGZPBLI
+review/profileName: DebtotheC
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1346976000
+review/summary: These are not "true" kosher dill pixkles
+review/text: Just to let you knpw - a "true kosher dill picle NEVER contains vinegar in the brine. I know this because  I grew up with my Jewish Grandma living with us. She let us know that a kosher "half dill" is never made w/vinegar because it is not the "real deal"  I miss her and the wonderful pickles and all the marvelous baking she did for our family!!!
+
+product/productId: B000J0IULW
+review/userId: A1GNBYG79PDP57
+review/profileName: Denvas
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1184198400
+review/summary: Ehh. So, So....
+review/text: This was ok. Nothing to go crazy about. Pretty bland tasting brownie. Tastes better if you add a lot of Splenda to it.<br /><br />Caramel wasn't a saving grace.
+
+product/productId: B0004LZSYS
+review/userId: A3PZ4AXTY9J1DZ
+review/profileName: Jason Ralsky
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1300492800
+review/summary: An all natural hot sauce that compliments not overpowers..
+review/text: When it comes to adding a little kick of heat to some wings, or seafood, pizza or even a burger I turn to a brand of hot sauce that has not let me down in over 20 years of using it.  TABASCO.  What makes me stick to TABASCO pepper sauce, for some added heat, is how it adds the heat.  This hot sauce does not come across overpowering which will destroy the natural flavor of the food.  Instead it adds a sweet "kick" to your food, giving it added flavor while spicing it up a few notches.<br /><br />This product contains Distilled Vinegar, Red Pepper and Salt.  It is a very simple product that is all natural.  TABASCO "Ages" their Hot Sauces in wooden barrels like one might age a wine.  They re-use the barrels after a batch is done so with each batch the flavor continues to stay bold and get better and better.<br /><br />Is TABASCO for everyone? Probably not as it does have some nice kick to it.  However if you are a fan of spicing up the food in your life there is no better brand to have sitting around the house.  It works for almost every food product out there and I personally would say it has about a "MEDIUM" heat to it(2500-5000 Scoville units).  5 stars for a product that has stood the test of time for over 150 years<br /><br />**NOTE: If you are looking for a more "MILD" spice you should try the Green Pepper sauce.  A nice sweet green pepper flavor with very little kick (600-1200 Scoville units)<br /><br />**NOTE: If you want a more smokey flavor with your spice, try the Chipotle pepper sauce.  It goes great with BBQ or meats with a soft kick.  "MILD-MEDIUM" heat (1500-2500 Scoville units)
+
+product/productId: B0004LZSYS
+review/userId: A2ACUGNVT36JYX
+review/profileName: Lyannah
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329091200
+review/summary: Fast, Safe Shipping - Amazing (as always) Tabasco Sauce
+review/text: First of all, I'd like to mention how impressed I was with the packaging! I received a box that contained padding to keep the Tabasco box from shaking around. Within the Tabasco box was the bubble-wrapped bottle of Tabasco sauce, packed so securely I actually had to pull it out with a bit of force. I was worried the bottle would come broken, to be honest, so this was a huge relief.<br /><br />As for the Tabasco, it's my go-to hot sauce. At somewhere between 2,500 and 5,000 on the Scoville scale, the original red has just enough heat for my taste buds. Its flavor is so smooth that I can add a few dashes to almost anything I want (sweet treats excluded) without disrupting the dish's taste.<br /><br />If you've never tried Tabasco sauce, buy a smaller bottle to ensure you like it. However, if you are a fan of Tabasco and want a bigger bottle for all of your cooking and dining needs, this is the product. It gets to you quickly and safely with Amazon shipping and the Tabasco is tasty, as always!
+
+product/productId: B0004LZSYS
+review/userId: A3MQ672FYFNM7B
+review/profileName: JGC
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1277251200
+review/summary: there is "hot sauce" and then there is TOBASCO
+review/text: I have been a longtime user and a huge fan of Tobasco sauce for at least the past 13 years. I cannot get enough of it, it is flavorful and spicy and makes everything taste excellent. I use it for cooking and as a general condiment, it's also a perfect salt substitute because this adds a punch without as much sodium as table salt. Tobasco is especially great with chicken, seafood, beef, barbecue, Italian food, Asian foods, Tex-Mex, eggs and in sauces, casseroles and ground beef recipes. I always keep at least 2 large jars in my kitchen (a 12 ounce and 5 ounce one) that are literally used multiple times each day. It doesn't make foods "hot," instead Tobasco just adds to the natural flavors by enhancing what you're preparing. I will never touch or try another hot sauce because nothing can compare to the rich and full flavor of Tobasco. Tobasco is absoltely the best condiment that will ever enter your kitchen and mine.
+
+product/productId: B0004LZSYS
+review/userId: A6KFYT07RG5GA
+review/profileName: Burny
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338854400
+review/summary: greatest hot sauce in the world
+review/text: I tried many hot sauce out there but none can get close to tabasco hot sauce. This one has perfect taste, heat and flavor. I use it on most of my food even spaghetti. It adds that extra kicks in a boring and average dishes and keeping you wanting more.  My favorite is eating this with KFC crispy fried chicken.
+
+product/productId: B0004LZSYS
+review/userId: A3R9NUZTNBPDNZ
+review/profileName: Athlete
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1320624000
+review/summary: TABASCO  Sauce > Hot Sauce
+review/text: TABASCO sauce was the best mistake my mother has ever made. She somehow accidentally purchased it instead of our normal "hot sauce" , and in the absence of "hot sauce" we had to use this wonderful concoction know as TABASCO sauce instead. I was skeptical at first when applying it to my food. Initially the TABASCO sauce seemed watery to me, it is definitely not a thick sauce, it appears diluted when compared other "hot sauces". I was worried it would not provide the same kick as my everyday "hot sauce", boy was I wrong. The TABASCO sauce provided more of a "kick" than my normal "hot sauce", this was a pleasant surprise, but that's not all. The thing I like most about TABASCO sauce is it taste amazing on food. I first tried my TABASCO sauce on fried fish, it was great, then the next thing I knew I was putting it on hamburgers. I have never put a hot sauce on a hamburger, but I figured why not - this stuff is amazing. TABASCO sauce blends perfectly with any food you would normally put any other "hot sauce" on. Another thing I like about the sauce is, if you eat a piece of food with hot sauce on it, you don't immediately taste the hot sauce. The heat slowly builds in your mouth. Which is how hot sauce should be.<br /><br />Pros<br />* Great Taste<br />* Not Very Acidic<br />* Heat Slowly Builds<br />Cons<br />* Pricy  It is worth it )<br />* Small Bottle  This stuff vanished in my house )<br /><br />Verdict : BUY this hot sauce, at least once to try it out. I guarantee you will not regret it.
+
+product/productId: B0004LZSYS
+review/userId: AJ5G7QANLQGH9
+review/profileName: Helen Whitten Prokos "ann arbor mi"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319587200
+review/summary: Great as usual
+review/text: I only use Tobasco brand hot sauce.  I could not believe it when I saw the price on this..my husband who is a chef did not believe the price until he saw the bottle... Thank you Amazon!
+
+product/productId: B0004LZSYS
+review/userId: A3NVZTGPORNPRW
+review/profileName: B. Pearce
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314489600
+review/summary: Cheaper than buying in grocery store.
+review/text: Even with high shipping charges, it ends up being cheaper than the local grocery stores if you eat a lot of Tabasco sauce!  I order them by the dozen which is perfect because then they come in a nice case of 12, perfect for storing in a pantry.
+
+product/productId: B0004LZSYS
+review/userId: A1X0VFG4KTSDLS
+review/profileName: Jeffery D. Chapman
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1299888000
+review/summary: Some Tings Never Change
+review/text: TABASCO - I've grown up using it on just about anything that needed a little "help" in the taste department.  And also on things that didn't need any help at all.  Tabasco is either loved or reviled, but you gotta give credit where credit is due - they haven't changed the recipe in forever!!
+
+product/productId: B0004LZSYS
+review/userId: A2UCB92JD134SO
+review/profileName: D. Purciel
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1347062400
+review/summary: Love this stuff
+review/text: I get this same size bottle about every six months. Never let me down. Never had a bad bottle. I even use this one to refill my small bottle that I take to work. Requires a turkey baster to do refills.
+
+product/productId: B0004LZSYS
+review/userId: A39NZZSQG376FX
+review/profileName: Marcus Murray
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1328313600
+review/summary: Love it!
+review/text: Excellent original tobasco sauce!!!  I have a crave for this sauce!  Buy, Buy, Buy!!!  Great on everyfood you can think of!!  Great price as well.  Will buy from again! Thanks Tobasco!!
+
+product/productId: B0004LZSYS
+review/userId: A34PAZQ73SL163
+review/profileName: Bernard Chapin "Ora Et Labora!"
+review/helpfulness: 4/7
+review/score: 5.0
+review/time: 1168732800
+review/summary: Timeless Classic.
+review/text: There are a great many products which are vastly superior to ye olde Tobasco, but I still make use of it for a couple of reasons. First, it's cheaper than most of the other stuff out there and you can get a huge bottle of it for a cheap price (like you can here). Second, it has a nice kick to it heat-wise so what it lacks in flavor is compensated by its punch. I use it for in chili, soup, beans, dips, and with other recipes where taste is secondary to bite. This classic still has a lot to offer.
+
+product/productId: B0004LZSYS
+review/userId: A1T4MLZCIONIEQ
+review/profileName: E.C.
+review/helpfulness: 4/12
+review/score: 4.0
+review/time: 1335052800
+review/summary: it's a good wash
+review/text: i like to wash out my vagina with this stuff. It's not that hot and just hits the spot. Keep the scrubbing going!
+
+product/productId: B000I6HV0I
+review/userId: A2AZZ646J8IW0O
+review/profileName: Terry W. Mccammon II
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1160179200
+review/summary: An eye opening blend
+review/text: Really a good breakfast tea, although Ive found myself liking it for late nights as well.  A black tea with some indian and with a very floral flavor, moreso then their Earl Grey Supreme.  A very flavorfull blend...
+
+product/productId: B001BM3PIK
+review/userId: A1OL6OBZGR6RGB
+review/profileName: allierw26
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1318636800
+review/summary: Good but not condensed
+review/text: I wanted a classic cream of chicken soup to use in casseroles, so I thought I would try this soup.  Gluten isn't a concern for my family, and I definitely prefer the ingredients over something like Campbell's.  However, it is important to note that this is NOT a condensed soup, like most cream of chicken varieties you would find in the store.  That makes it difficult to use for some casserole recipes (makes it too watery).  I wish I had realized this before I bought it.  I did find a use for all 12 cans, though!  The taste is good, though I don't usually eat it as a soup.  3.5 stars overall.
+
+product/productId: B001BM3PIK
+review/userId: A2J1MM9A9F9LX9
+review/profileName: Lisa S
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1226880000
+review/summary: Wonderful for gluten free cooking!
+review/text: When I was diagnosed with Celiac Disease a year and a half ago I had to not only change the way I ate, but how I prepared my feeds. Since my diagnoses there have been many favorite recipes I've stopped preparing because I had no gluten free creamed soup and making the soup to use in a recipe was way to labor intensive for me.<br />I was thrilled to find this soup to use in cooking. The consistency is a thinner than mainstream creamed soups, so the amount of liquid has to be adjusted. A small price to pay!
+
+product/productId: B001BM3PIK
+review/userId: A205CNLBLCLIPO
+review/profileName: jeanette lunnen
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321401600
+review/summary: great soup
+review/text: I bought this soup because I have celiac and needed a gluten free cream soup. Its great soup, a little thin, a little spicy, but its overall good. I just changed up the liquid I put in recipes and the spices and its great>
+
+product/productId: B001BM3PIK
+review/userId: A6TXSR3XXEKE0
+review/profileName: Audie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308528000
+review/summary: AWESOME!!!!!
+review/text: Excellent!  Hard to find good gluten food - this has opened doors.  Friends & family don't even know it's Gluten Free.  (You can use this soup for regular cooking - it's about time someone made something that didn't taste like cardboard!)<br />Thank you, thank you, thank you!!!
+
+product/productId: B001BM3PIK
+review/userId: A8IKK5B480HXN
+review/profileName: Stacie M. "Stacie M."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294099200
+review/summary: Awesome!
+review/text: I have been on a gluten free diet for eighteen months and while some reviewers aren't so sure Celiac's should use this product I have had no problem with it the four times I've used it in cooking. It is really tasty, best thing I've found that compares to your standard cream of chicken. If you're using it in a recipe that you would normally add water to you will need to omit the water and just use more soup. So to make a casserole (or hotdish as we Minnesotans like to call it) you need to use quite a bit of soup making for a 'spendy' little hotdish. Enjoy!
+
+product/productId: B001BM3PIK
+review/userId: A91EVL80ZB9U
+review/profileName: Mindy Vande Griend
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1264464000
+review/summary: Not GLUTEN FREE
+review/text: This item is not Gluten free.  I also called the company and it is NOT GF.  Wish they would make it so it is!  It is a good product if you don't have celiac disease.
+
+product/productId: B001BM3PIK
+review/userId: AXYP8WFW2JB6D
+review/profileName: SeekSanity
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1302307200
+review/summary: not ok IMO - picky about ingredients
+review/text: This product has canola oil and "autolyzed yeast." As for the first, how canola can ever be called organic is beyond me as it is a genetically modified plant in the first place. Not even edible in its original form (rapeseed). And the yeast, well I think that is a version of MSG and also inappropriate for a product promoted "organic." Buyers who truly scrutinize the organic field of products would not likely choose this or similar items.
+
+product/productId: B001BM3PIK
+review/userId: AVDAXO4AKFE4Z
+review/profileName: beaglebaileysmom "Diane"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1276819200
+review/summary: Don't know what I'd do without it
+review/text: I don't agree that this is yummy.  Quite the contrary, I think it is awful.  However, it is gluten free (to the extent I require it to be), which allows me to make so many recipes that I otherwise couldn't.  Those recipes don't taste as good as they do with flour-based soup, but if you can't eat flour, this is a great option.
+
+product/productId: B001BM3PIK
+review/userId: A1JOPPC0CSUQ3K
+review/profileName: B. R. Fox
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1272931200
+review/summary: Delicious Soup
+review/text: This is really yummy soup.  I've been using it to make chicken casseroles for quite a while now.  I hate to see it get such bad reviews just because it is not gluten free.
+
+product/productId: B001BM3PIK
+review/userId: A3F75F1Z5FUIY8
+review/profileName: Lucky Mom of 5
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1256860800
+review/summary: NOT GLUTEN FREE
+review/text: I spoke with the manufacturer.  This is NOT certified gluten-free.  It contains "Natural Flavors" that they could not assure me were free from gluten.  It also contains "Yeast Extract" which can pose a problem for some.  I have seen conflicting information about whether or not Yeast Extract contains gluten (from barley).  CELIACS BEWARE.
+
+product/productId: B000LKZ9Q4
+review/userId: A1495J16V6049E
+review/profileName: LaurenA432
+review/helpfulness: 21/21
+review/score: 5.0
+review/time: 1299801600
+review/summary: Now BPA-free!
+review/text: Just wanted to follow up on the last post. Muir Glen recently announced that they no longer use BPA in their can lining, starting with the fall 2010 harvest! Cans without BPA are being shipped now, so cans you find in stores now may or may not contain it. I am so happy to see a brand that I can actually find in my grocery store commit to not using BPA. Plus, I really like their canned tomatoes and think the quality is better than Hunt's. Their crushed tomatoes with basil actually contain whole basil leaves, not just basil "flavor."
+
+product/productId: B000LKZ9Q4
+review/userId: A194D0XS8WA2EW
+review/profileName: PY
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1307923200
+review/summary: BPA? Yes and no...
+review/text: I contacted Muir Glen directly and asked whether or not their cans contained BPA. You can see their response below:<br /><br />"Thank you for contacting Muir Glen about bisphenol-A or BPA.<br /><br />Bisphenol-A is a component of protective coatings in metal food packaging, and provides an important food safety and quality function in canned foods. Scientific and governmental bodies worldwide have examined the science many times and have concluded that the weight of evidence supports the safety of BPA, including recent comprehensive assessments in Japan and in the European Union.<br /><br />In January 2010, the U.S. Food and Drug Administration announced another review of BPA. This review in expected to take 18-24 months, and Health Canada and the World Health Organization (WHO) will participate.<br /><br />Most metal cans in the food industry utilize BPA in the can lining or can lid. Some of our products do, and many competitors' products do as well.<br /><br />Muir Glen continues to believe BPA is safe. However, we know that some of our consumers have wanted us to pursue alternatives. We have been working with our can suppliers and can manufacturers to develop and test alternative linings that do not use BPA for some time.<br /><br />One alternative has proven safe and viable in our processing of tomatoes - and Muir Glen is in the midst of transitioning to cans with liners that do not use BPA. It is an approved non-epoxy alternative. Can coatings used by Muir Glen also comply fully with all applicable U.S. Food and Drug Administration requirements for safe use in food contact applications.<br /><br />Your views are important to us. Again, thank you for contacting Muir Glen, and thank you for your support of our products.<br /><br />Sincerely,<br /><br />Consumer Services"
+
+product/productId: B000LKZ9Q4
+review/userId: AZ2NZWEEPJ1JZ
+review/profileName: ChiliPep123
+review/helpfulness: 26/33
+review/score: 1.0
+review/time: 1255478400
+review/summary: Contains BPA!!!!
+review/text: I love Muir Glen tomato products but sadly I had to give them up due to their can liners containing bisphenol A (BPA). I will not feed anymore BPA to my kids! It makes me sick that I fed them with BPA laden baby bottles before I knew better. We already have enough cancer in our family. I don't know why anyone is surprised that BPA acts like a synthetic estrogen therefore an endocrine disrupter--BPA was ORIGINALLY developed in the 1930s as a synthetic estrogen drug for women. Shortly after it was developed, a new synthetic estrogen drug came out (DES) so BPA fell by the wayside until someone figured out it could be used in plastics and can liners to help make them harder.<br /><br />I wrote to Muir Glen (now owned by General Mills) to see if they have any plans to remove BPA from their cans but they did not respond to me. I would be happy to pay a bit more for jarred tomato products if they can't come up with BPA free cans. Or how about tomatoes in cartons or frozen?<br /><br />Please write to the companies that you buy canned tomatoes from and ask for BPA free products. Let me know if anyone finds BPA free tomato products, such as tomato paste, diced tomatoes, whole tomatoes...by responding to this comment--I will get an email.<br /><br />I have young children and I will not feed them anymore BPA!!!
+
+product/productId: B000LKZ9Q4
+review/userId: A2H8F0HPT5EP3A
+review/profileName: Chris Daum
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1205107200
+review/summary: Tasty, no salt tomato sauce,
+review/text: My husband has high blood pressure, and it's difficult to find no-salt foods.  Muir's organic no-salt tomato sauce is great; now I can cook our favorite foods again.
+
+product/productId: B000LKZ9Q4
+review/userId: A1M1XX2VR4BWK6
+review/profileName: Sverre Amundsen
+review/helpfulness: 19/26
+review/score: 2.0
+review/time: 1213315200
+review/summary: Good tomato sauce, but can linings are toxic
+review/text: First I have to say, this is one of the best tomato sauces out there. However, the cans are lined with a Bisphenol A liner, something Muir Glen has admitted. Until Muir Glen change their canning methods, I will not be buying any more of their canned products.
+
+product/productId: B000LKZ9Q4
+review/userId: A1R6PBUJB8LBGC
+review/profileName: Stretch "Stretch"
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1266451200
+review/summary: NO MORE BPA CANS! I AGREE.
+review/text: Muir Glen cans are lined in plastic and leach Bisphenol A. Too bad because this was a great product and was a standard in my household. My initial conversations with them they contradicted this fact, which to me was misleading. General Mills owns Cascadian Farms as well and now I don't buy there either.<br />Now we use BioNature in jars or Pomi products in Tetra Pak cartons. All canned tomato products use BPA and so do many of the lids of jars used in food containment.<br />Now I also just make from scratch which is made simple by chef Andrew Carmellini in Urban Italian. Lydia Bastianich is another favorite chef that deserves mention for simple yet big flavors.<br />Boil, peel, freeze and store. Can manufacturing companies that I corresponded with said they were working on a solution for later this year or next year.
+
+product/productId: B000LKZ9Q4
+review/userId: AI7KNSI036H3I
+review/profileName: Mickey52
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347840000
+review/summary: YOU'LL NEVER MISS THE SODIUM!!!!
+review/text: I'm always on the lookout for products with low--or NO-- salt, because I have Meniere's Disase which requires an EXTREMELY low sodium diet. I found this tomato sauce in a local 'gourmet' type store, and decided to try a can. (The price was REAL scary, but it's SO hard to find good things...)<br />Well, folks, let me tell you - you'd never know this sauce is low-sodium!  It's perfectly seasoned and tastes delicious!!  A friend suggested I check Amazon.com, and was thrilled to find it; and at a significantly lower price.  I'm partway through my first 12-pack, and will definitely continue to order it. (I'm pretty sure I'm going to do "Subscribe & Save", and save even more next time.)<br />Just FYI, it's great on more than just pasta -- I've used it on both chicken and pork; eggplant and zucchini, and rice.<br /><br />As Julia Child used to say -- "Yum!"
+
+product/productId: B000LKZ9Q4
+review/userId: A2U77Z3Z7DC9T9
+review/profileName: Ronald M. Chavin "rmchavin"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339286400
+review/summary: Has twice the calories of Muir Glen's canned diced tomatoes
+review/text: Muir Glen Organic Tomato Sauce, No Salt Added, has 175 calories per can.  Muir Glen Organic Diced Tomatoes, No Salt Added, has 90 calories per can.  Muir Glen's canned diced tomatoes taste surprisingly good - almost as good as Muir Glen's canned tomato sauce.  As of June, 2012, the inner lining of Muir Glen's canned tomato sauce is shiny, metallic brass.  As of June, 2012, the inner lining of Muir Glen's canned diced tomatoes is white plastic, probably BPA.  Both of these Muir Glen canned tomato products have no sugar added.  Apparently, the high calories in the canned tomato sauce results from natural sugars in the tomato fruit.  I've decided to go with Muir Glen's canned diced tomatoes because it's lower in calories and higher in fiber.  However, I prefer the shiny, metallic brass inner can lining to the white plastic (probably BPA) inner can lining.
+
+product/productId: B000LKZ9Q4
+review/userId: A2KUQ5F0KXSRRY
+review/profileName: Shopping Shrew
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1202688000
+review/summary: Muir Glenn is excellent
+review/text: this brand has been a favorite of mine for years now. Everything they make is very good.
+
+product/productId: B000LKZ9Q4
+review/userId: A3V1A3C9DTLPME
+review/profileName: Peter Faden
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333843200
+review/summary: Very tasty
+review/text: This is really just some good, clean tasting, hearty tomato sauce. The fact that it is organic is important to me, and it is also BPA free, so if you are concerned, dont be. Top notch product in my opinion, and one that i use at least twice a week in pasta and on pizzas.The s&s price in particular blows away normal grocer prices for this same can size.<br /><br />Enjoy!
+
+product/productId: B000LKZ9Q4
+review/userId: A2CGORRQGDEL37
+review/profileName: T.C. Owens
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311033600
+review/summary: Dent problems and BPA for many cans with use by dates of 2013 (formerly "no problems")
+review/text: Original: The cans arrived in great shape unlike some past orders of another product.  The packaging was very good.  The tomato sauce itself is excellent.  I will buy this product again.<br />---------------------------------<br />Back in 2011, the last time I ordered this product from Amazon.com, the case of tomato sauce cans had no dents and were BPA free.  Unfortunately, prior to that there were several dented cans in each case.  Because Amazon was out of this product when I ordered, last week (8/22/2012), I received a case from another reliable dealer in which half of the case contained dented cans and all contained BPA.  I wrote Muir Glen, which is a div. of General Mills, and a customer rep. called me today.  The cans are packaged by them in case lots by automated equipment.  She's sending the info on the dented cans to quality control.  As to the BPA issue, she advised that 2 seasons ago they stopped using BPA cans but some pre-2014 use-by-date cans may still contain the white lining/BPA in the cans.  About half of the cans that expire in 2013 contain BPA.  So, please check the "use by date" on the can.  My case lot had a use-by-date of 23Feb2013, the bar code number is (small 7) 2534228571 (small 4).  FYI, I'm not buying this product again unless I can see the "use by date."  It's still a great tasting, no-salt-added tomato sauce.  (Revised 8/27/2012)
+
+product/productId: B000LKZ9Q4
+review/userId: A2YMCPP3KW9IXU
+review/profileName: USMC85
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1279843200
+review/summary: Excellent taste with little salt
+review/text: I use this tomato sauce for my homemade pizzas. I don't miss the salt from other pasta sauces at all. It tastes natural and healthy. And what a bargain with subscribe and save!
+
+product/productId: B000LKZ9Q4
+review/userId: ATKLOMDBJL0QM
+review/profileName: Bay Wife
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213574400
+review/summary: Great low sodium sauce....
+review/text: Canned tomato products usually contain such high sodium content.  I was very glad to find this "no salt added" sauce from Muir Glen.  I don't miss the salt at all, and can add it to other sauces to cut the sodium.  Muir Glen products are always fresh and great tasting and are organic so we don't have to worry about chemicals.<br />Amazon's price makes it even better!
+
+product/productId: B000LKZ9Q4
+review/userId: A2I66ZBVVSKU9W
+review/profileName: T. Squillario
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1288656000
+review/summary: Use BPA-Free Canning Products!
+review/text: I was a huge fan of this sauce until I learned they use BPA in the can linings. Thanks to the other commenters for enlightening me to this fact. I am going to be looking for alternatives from this point forward.<br /><br />Here is the contact info listed if anyone would like to contact them to complain, I did.<br /><br />By Telephone:<br />1-800-624-4123 between (7:30 a.m. - 5:30 p.m. CT, weekdays)<br /><br />By Letter:<br />Small Planet Foods<br />P.O. Box 9452<br />Minneapolis, MN 55440
+
+product/productId: B003M7RY9I
+review/userId: A2P2GK46TMJO61
+review/profileName: EvK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297814400
+review/summary: The best black olives in the world.
+review/text: We have eaten olives all over Europe and the Mediterranean - and these are without doubt the best ever. The texture is firm but soft -  neither too hard nor too mushy. The herbs used are perfectly balanced and they are not overly salty nor briny tasting.They are a perfect accompaniment with red wine and we love adding them to a tomato, mozzarella and avocado salad. Whenever we have served them to dinner guests they remark that they are the best olives they have ever tasted!
+
+product/productId: B000E1Q2RK
+review/userId: A1S1A51KSFCEC5
+review/profileName: Beans-N-Toast
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1287705600
+review/summary: Smaller than stated. Did not hold up.
+review/text: This product seemed less sturdy than the other Vermont style toys. Our small dog pulled it apart in a matter of a few minutes of chewing. Also, the product is not 8 x 8 x 2. What we received was at best 6 inches long, maybe 1.5 inches wide, and perhaps 2 - 2.5 inches high. Overall, it was a disappointment.
+
+product/productId: B000E1Q2RK
+review/userId: A1MIW49JL2LFM8
+review/profileName: Sharon M. Jones
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1227225600
+review/summary: destroyed within a day
+review/text: We used to buy Vermont Chew man products for our black Lab and they lasted well.  Not this one.  the puggle destroyed it within a day.
+
+product/productId: B0000CGFH6
+review/userId: AXURSSIVIM4US
+review/profileName: C. Apsley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1241913600
+review/summary: Cinnamon Plum Tea
+review/text: My sister-in-law loves this tea, and we can't find it anywhere locally.  I bought it for her as a gift and she was thrilled to find a source.
+
+product/productId: B0000CGFH6
+review/userId: A2M0OQIZQWMV8I
+review/profileName: B. Fleming
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319932800
+review/summary: WOW -and thank you, again, Lynn!
+review/text: A dear friend sends me these wonderful packages of treats and the last one contained Ashby's tea.  Fantastic product.  Right now, I am sipping the cinnamon plum and it is probably my all time favorite tea (this is coming from a tea lover, probably a tea addict.  Really smooth, great blend of flavors, it qualifies as a dessert, it is THAT good.
+
+product/productId: B0000CGFH6
+review/userId: AMTWDQXLD699S
+review/profileName: Nancy A. Mitchell "Ludlam Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1269043200
+review/summary: Best tea I have ever had
+review/text: I received this tea as a gift....omg...I love it, it is absolutely the best tea I have ever had.  I can't get it locally so i try to order enough for 6 months.  I do have a couple other teas I like that I can get locally so I can make it last.  Wish I could get it locally, but Amazon makes it really easy!  The cinnamon is not too strong, and the plum is delish....if you like flavored tea, you will like this!  Have a cuppa!
+
+product/productId: B0000CGFH6
+review/userId: A2SID7I4EKB6SF
+review/profileName: C.M.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1261180800
+review/summary: Absolutely the best tea ever!!
+review/text: If you like flavored tea, this is by far the best I've ever had. I've tried other brands (of the same flavor) and Ashby's is the best. I think it tastes delicious with a little milk and sugar. It's more expensive than regular teas and other flavored teas, but it's worth it if you really love hot tea.
+
+product/productId: B003TQV3T4
+review/userId: A236HMH7B70NB9
+review/profileName: Bigdog
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1335312000
+review/summary: A tin of fragmented delicious cookie
+review/text: If you enjoy eating crumb and fragements of an otherwise delicious cookie, purhcase unlimited quanities of this one and enjoy!
+
+product/productId: B000EZSF08
+review/userId: A2RY04CFSJ4SQS
+review/profileName: David C. Dannelly
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1310688000
+review/summary: Paid WAY too much!
+review/text: No troubles with the product.  I had used it before and could not find it locally....so....ordered it here.  Well now that is is stocked locally for pennies over $8.00, I realized I paid TWICE that to get it on line.  FEEL ripped off for sure.....
+
+product/productId: B000EZSF08
+review/userId: A64QYHD9QN5K4
+review/profileName: GPG "GPG"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302652800
+review/summary: Garlic seasoning supreme
+review/text: I found this originally at Sams Warehouse and tried it.  In a word, WOW.  It is simply the best garlic seasoning around and I do love garlic in my food.  The extra spices blend naturally with the garlic and add extra sonsoning that truely enhances flavor.  Definitely a plus in Cajun, mexican, Italian or whatever recipes you have that you want good spice for. Five *s.
+
+product/productId: B000EZSF08
+review/userId: A35W3JQYP0M655
+review/profileName: Ambergris "John Thomas"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302566400
+review/summary: Really Good.....And Different
+review/text: I am a self confessed spice nut.  I love owning and experiencing all kinds of spices in an attempt to create tjat absolutely perfect taste.  As most people are aware, there are certain herbs and spices that are better suited for pork, than fish, or chicken than steak.  This really robust blend of garlic and herbs from Tones is one of the most universal spices I have ever used.  I regularly add it to pasta sauce, chicken, steak, hamburgers, roasts, pork, you name it and it tastes great on anything.  One thing I can promise you is that it has a very different flavor to it than you have probably ever experienced from any other common spice, or blend in your kitchen.  It's garlic taste is distinctive, but far from overwhelming.  The herbs come through in its aroma, and more importantly, in the final product that you are using.  This brand and blend is hard to find in stores in any size.  I buy it here regularly on Amazon and highly recommend it for your own kitchen adventures...
+
+product/productId: B000EZSF08
+review/userId: A2UPE7OTFZS84O
+review/profileName: Th�m Frost
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266364800
+review/summary: use this on everything
+review/text: i use this in and on everything just about.<br />i put it in spaghetti sauce, use on garlic bread.<br />made steak the other day and i blacked it with this and it was great.
+
+product/productId: B000EZSF08
+review/userId: A2B5IPAT1MQWVP
+review/profileName: A. Sanders
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259798400
+review/summary: Excellant choice of seasoning
+review/text: This is a excellant seasoning for many different meats, soups, ect. when BBQing.<br />I just can't say enough good about Tone's Garlic & Herb Seasoning. If you havn't tried it, give it a try.<br />Thanks.Amy<br /><a href="http://www.amazon.com/gp/product/B000EZSF08">Tone's Garlic & Herb Seasoning (20 oz) Large Restaurant / Food Service Shaker Top Size Container</a>
+
+product/productId: B000EZSF08
+review/userId: A26OER7PXQ3X3D
+review/profileName: J. Heromin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1173571200
+review/summary: The Best Seasoning!
+review/text: I love this Garlic Seasoning and could only find it at Samms Club (which I no longer belong to) I looked everywhere and finally found it on Amazon.com. This is fabulous on anything and what's very important to me is that it has No Salt or MSG.! I received it very quickly and will be back for more. This blend of Garlic and Herbs is excellent!
+
+product/productId: B000EZSF08
+review/userId: A340X73A5U93Y
+review/profileName: Protected Pad
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1327104000
+review/summary: Not good!
+review/text: This seasoning is not good please don't purchase. You will have to add another seasoning to this its not good.
+
+product/productId: B000LGIT42
+review/userId: A39YGRFQSRYM5H
+review/profileName: Marnierc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316131200
+review/summary: Yummy with Latte!
+review/text: I have purchased & eaten this product over a period of many months.  I have found the bars to be an excellent source of energy, especially in the afternoon - with my Latte. I can keep going with my work until I have finished for the day. Thanks Amazon for providing me with them!!
+
+product/productId: B004H4SHI2
+review/userId: A3LJZEAE8W1Y4N
+review/profileName: toddkim
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331596800
+review/summary: two sets of the same princesses ...
+review/text: I just got my set of 6 princess pez for my daughter as an incentive for potty training.  We were excited to get them, but opened the package to find: 1 Tiana pez, 1 Cinderella pez, 2 Belle pez, and 2 Ariel pez.  I am not happy that we have two of Belle and Ariel, and would have liked to see all six different princesses.
+
+product/productId: B0077BVMLQ
+review/userId: AERX4GREVM30T
+review/profileName: KirkoHotSauce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342483200
+review/summary: Great stuff
+review/text: This is hands down the best wing sauce I've ever had, I use this on everything.<br />Buy it and try it!!
+
+product/productId: B0077BVMLQ
+review/userId: A1BYOCK18QPU2M
+review/profileName: HotgarliC
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: This may be their best sauce.
+review/text: Have put down countless pounds of wings from LL's, and this is my favorite.  Perfect blend of taste and just the right amount of heat.
+
+product/productId: B0045GX6J2
+review/userId: A1N5UBITZVKYDJ
+review/profileName: E. Gjergji
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1303257600
+review/summary: Simply delicious.
+review/text: I am very particular about the flavor, color and aroma for high calorie foods, like honey.  If I am going to have honey, I am very picky.  This right here is definitely a 5 star product based on quality of the product.<br /><br />I wish the squirt bottle had a better cap, like Busy Bee, which only pours the honey when squeezed.  Otherwise, the quality of the product completely overshadows this small detail.  Amazon does a great job packaging this product so that nothing is spilled, and if it did, it would easily be contained.<br /><br />Excellent honey!
+
+product/productId: B0045GX6J2
+review/userId: A1TDR47HOR9ZP3
+review/profileName: S. E. Ray
+review/helpfulness: 11/11
+review/score: 4.0
+review/time: 1317168000
+review/summary: Excellent Honey, but Be Wary of Shipping
+review/text: The Orange Blossom "juicy" honey flavor is every bit as awesome as the other reviews rave. Much better than Clover honey. Overall, the flavor has a unique hint of citrus.<br /><br />The only con in this purchase (Why four stars after so many complaints), as mentioned by others, the seal on the bottle is not sufficient, and the honey was sticky-coated across other items packed by the Amazon fulfilled shipment. The bottle was inside a plastic bag, albeit not designed to properly seal, which is not sufficient. If you order this, make sure it is not fulfilled by Amazon or at least order by itself so that any spills will not affect combined items.<br /><br />If the shippers would wrap 1 inch clear box tape around the cap to secure it to the bottle as other vendors do, it would offset leakage.  Apparently they haven't had sufficient experience in logistics to discover this shipping method.<br /><br />Update 02/28/12: Amazon logistics took my packaging request seriously, and now ship honey bottles with lids taped tight.
+
+product/productId: B0045GX6J2
+review/userId: A14PCSZ0TA02BD
+review/profileName: MsB "mamapat134"
+review/helpfulness: 12/13
+review/score: 5.0
+review/time: 1296086400
+review/summary: Delicious
+review/text: Bought it because I remembered getting orange blossom honey as a kid in Florida.  It is WONDERFUL - even better than I remembered.
+
+product/productId: B0045GX6J2
+review/userId: A2U0LY01LK9C3E
+review/profileName: EddieE
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1326844800
+review/summary: Superb product.
+review/text: Excellent product with great color, aroma and taste. It is a good value for this quality of honey and I would definitely recommend this item.
+
+product/productId: B0045GX6J2
+review/userId: A3IOW6AXC8P8TY
+review/profileName: Kim Gilreath "Kimmie G."
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1304899200
+review/summary: Taking doses by the spoonful
+review/text: This honey is delish.  I have to up my order to get more, I had no idea that orange blossom honey taste so great.  Clover honey nevermind and move over for Tropic Bee Orange Blossom Honey.  Oh yeah, and the price is so right.
+
+product/productId: B0045GX6J2
+review/userId: A1BTHZO04GVCS6
+review/profileName: HB
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1299542400
+review/summary: Delicious!!!
+review/text: I love orange blossom honey and have a hard time trying to find it... this stuff is DELICIOUS!! Good price, fast shipping. I am very happy with this purchase.
+
+product/productId: B0045GX6J2
+review/userId: A2HZ44YM0S9W6E
+review/profileName: pond-jumper
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1336521600
+review/summary: Orange Blosson? Clover is more likely.
+review/text: I guess I got a bad batch from bees that went far afield of the orange trees. Mine is a medium to medium-dark honey and is definitely lacking the citrus taste I'm used to in other brands. Nothing light, fragrant or delicate about my bottle. This is typlical clover honey. Very dissatisfied and will never buy this brand again. I was looking for an alternative to the two brands available locally, which are very expensive. This was certainly cheaper but definitely not worth the money. I'll keep looking.<br /><br />But, for those who aren't picky about orange blossom honey being from orange blossoms, this is an OK clover honey. Depending on where you live, this might be cheaper than clover honey you can get locally and I'm sure you'll like it.
+
+product/productId: B0045GX6J2
+review/userId: A2R8QRDT7OY7D6
+review/profileName: littlejohn252 "jlj"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327881600
+review/summary: Yum-Yum
+review/text: This Orange Blossom Honey has an excellent taste and especially good drizzled over my morning toast. I want to commend the seller for the great way that the jars are sealed. It prevents any kind of leakage during shipping. I highly recommend this honey; you will not be disappointed.
+
+product/productId: B0045GX6J2
+review/userId: A3CNV5SLYTMV0I
+review/profileName: J. Paljasma
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1322006400
+review/summary: So delicious!
+review/text: Love the color, aroma and the taste of this honey. It is just perfect with waffles or pancakes! And price is good, too!
+
+product/productId: B0045GX6J2
+review/userId: A2JZ1LA3IQIOIJ
+review/profileName: MV
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1319587200
+review/summary: good, simple clean taste
+review/text: Good honey with a mild, simple taste. I would have liked it to be a bit stronger in flavor. Great on a bit of goat cheese.  Plastic lid was broken when it arrived, but none of the honey had leaked out.
+
+product/productId: B0045GX6J2
+review/userId: A2BTQUR2542TB1
+review/profileName: Techick
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1316563200
+review/summary: Nom Nom.
+review/text: Excellent flavor, texture and color.  Love everything about this honey, especially the price!  If you like Orange Blossom (or orange ANYTHING) get it, you wont be disappointed!
+
+product/productId: B0045GX6J2
+review/userId: A3UN6US3W70IE6
+review/profileName: amazon fan
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309910400
+review/summary: orange blossom honey
+review/text: Yum yum !  I once bought orange blossom honey at a shop when I was in Florida, and have been looking for it again, ever since. Thank goodness for Amazon offering it.  Try it.  It is the best honey flavor I've ever tasted
+
+product/productId: B0045GX6J2
+review/userId: A3TCSIU8NC8BNY
+review/profileName: Diva Dog
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330560000
+review/summary: Best Honey
+review/text: This is absolutely the best honey on the market.  Great for use in cooking, sweetens coffee and tea to perfection!  Will not purchase any other brands.  This is the best as it is not bitter, not tasteless as some honey on the shelves are.  Once you purchase and taste this brand, you will never purchase any other honey products.
+
+product/productId: B0045GX6J2
+review/userId: AUOJEXT54C9TS
+review/profileName: frogladysmiles
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1330300800
+review/summary: Love the honey
+review/text: <a href="http://www.amazon.com/gp/product/B0045GX6J2">Tropic Bee Orange Blossom Honey, 32-Ounce Bottle</a><br />I use Honey in place of sugar-- it seems better for me.  Love that I can get a bigger size like this and not pay as much as at a store.
+
+product/productId: B0045GX6J2
+review/userId: A17BKWISY8YNOY
+review/profileName: French Lavender
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1329609600
+review/summary: Tropic Bee Orange Honey
+review/text: This is good mild (not too sweet) honey.  I like the hint of orange flavor.  This one is good added to my fruit smoothies.  I like a sweeter, richer honey added to coffee like; Ambrosia Honey from Colorado's Western Slope, YS Organic Bee Farms or YS Royal Jelly Honey, all from Amazon.  I prefer these sweeter honey's, but Tropic Bee Orange Blossom is good too.  It's all a matter of personal taste.
+
+product/productId: B0045GX6J2
+review/userId: A3NP21JO5GF56O
+review/profileName: RATIONAL DRAMATIST "BOOK HUNTER"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315958400
+review/summary: 3 Words...
+review/text: It's easy to go on and on about something you like. I have only a little bit to say about this product and I'm going to sum this review up with these three words...SUPER YUMMY HONEY!
+
+product/productId: B0045GX6J2
+review/userId: A11K76R8K2ELAM
+review/profileName: charles
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315785600
+review/summary: Tropic Bee Orange Blossom Honey, 32-Ounce Bottle
+review/text: Honey is very good.  Fast shipment and fair price.  Packed very well. I use this honey on my waffles every morning. Would buy again.
+
+product/productId: B0045GX6J2
+review/userId: A2YMZM2WJS9C0L
+review/profileName: Sue E. Ramsey "Sue E. Ramsey"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1312848000
+review/summary: Very tasty with a pure taste of honey.
+review/text: I haven't used the honey in my granola yet which is why I purchased in the first place.  I did taste and try it in my spaghetti sauce and felt that it tasted very good.  The one thing is that it has a very strong honey taste which makes it have that pure taste to me.  My store bought honey was good but until I tried the Tropic Bee did I realize the difference was in the strength of the honey taste.  It's mild as far as not having that after taste of foods that are stronger in intensity from being a pure source of whatever it was taken from.  A good buy as far as I can tell.  I can't wait to make my granola bars to see if I get a sweeter taste than what I was getting with my store bought honey.
+

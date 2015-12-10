@@ -1,0 +1,1143 @@
+product/productId: B0000WATW2
+review/userId: A2JBZHQVQF7MV0
+review/profileName: Sherry
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1223856000
+review/summary: Wonderful!
+review/text: The best sugar free candy I have ever eaten. It is hard to get good sugar free lemon candy. (I bought mine at Walmart for $1.00.)
+
+product/productId: B0000WATW2
+review/userId: A24ZHH4VT3DGKF
+review/profileName: D. Rudolph
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1189728000
+review/summary: Hard to believe it's sugar free
+review/text: I bought this candy after a long search for sugar free lemon flavored candy. My doctor recommended I use it to help with a dry mouth in preference to other flavors. This is great stuff. It really does relieve dry mouth, even after finishing it. Tastes great too.
+
+product/productId: B0000WATW2
+review/userId: A35WS3916WIXN4
+review/profileName: Felicia Johnson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1262822400
+review/summary: Sugar Free Treat
+review/text: This is a great treat for those that are trying to limited sugar from their lives.  I wish there were more flavors to choose from.  Lemonade is my favorite.
+
+product/productId: B0000WATW2
+review/userId: ACMI349IL86DB
+review/profileName: Mary Young
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1245110400
+review/summary: The Sweet that Satisifes
+review/text: I happened upon this product at Wal Mart while looking for something else.<br />I bought two packages of lemon and assorted flavors. They are great! The<br />sugar does not taste fake and no aftertaste. They are great when you want a little something sweet but not too sweet to get you into trouble........
+
+product/productId: B0000WATW2
+review/userId: A3OXHLG6DIBRW8
+review/profileName: C. F. Hill "CFH"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244937600
+review/summary: Really Very Good Sugar Free Hard Candy! Highly Recommended!
+review/text: The Sorbee Crystal Light Lemonade Flavor Hard Candies actually provides a satisfying candy flavor!<br /><br />Being diabetic (Type 2), I am always looking for sugar free snacks that come close to the "regular" treats and these candies hit very close to the mark.<br /><br />A serving size is 4 pieces, contains 25 calories and 0 net carbs. Not bad at all!<br /><br />Highly Recommended!
+
+product/productId: B007QH7JKE
+review/userId: A1HLXZAJVAWLQ1
+review/profileName: Carol E. Miller "christmas carol"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350864000
+review/summary: Lipton To Go Stix Black Tea Mix
+review/text: I love the Lipton To Go Stix as it is such a convenient and fast way to have refreshing iced tea.  As a tea lover versus coffee lover, though I do drink coffee on occasion, it is nice to have this product on hand for a nice glass of iced tea and the flavor is delicious.  Am wanting to try all flavors in Lipton's line of To Go Stix.
+
+product/productId: B004AK5GAK
+review/userId: A15CQ7CG019ORH
+review/profileName: Shauna
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331683200
+review/summary: Perfect hibicus tea
+review/text: Ordered this for my husband and I to try.<br /><br />Fair warning: It smells SO STRONG and SO SWEET when you first open the tin that we thought it was going to be terrible to drink!<br /><br />We brewed up a pot and I found the tea to be pretty mellow, slightly sweet from the dried berries with a subtle hibiscus undertone. It was fantastic! We decided it will probably make a better iced tea than hot but still, very good. I love that the Rishi brand comes in it's own sealed tins with instructions. Highly recommended for anyone who likes floral teas!
+
+product/productId: B004AK5GAK
+review/userId: A6DYU2I6Y2UUI
+review/profileName: Jhette "Insanity Makes Life Bearable"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1315785600
+review/summary: Great Tea and Great Price
+review/text: Taste better than other brands and I think it has more hibiscus than other brands. I don't where to get 100% hibiscus anywhere -- so. Amazon has the BEST price. Go for it!
+
+product/productId: B00644ER3C
+review/userId: A1DYAE26W3KAMB
+review/profileName: Ping
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347580800
+review/summary: If you like a plain oatmeal this is perfect every time
+review/text: Maybe because I grew up in China with rice porridge and savory sides for breakfast, I found this a welcomed relief from the "apple cinnamon" "maple" "raisin" 14g of sugar stuff you typically get in an instant oatmeal multipack. I pour it in a mug and top it off with the hot water available at work, wait, stir, and it comes out creamy and smooth without any microwaving. As another reviewer noted, there is a slightly salty taste, so if that's not what you want in an oatmeal, then this would not work for you.
+
+product/productId: B00644ER3C
+review/userId: A15CB75ESV373W
+review/profileName: Matt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Great product. No Gluten!!!
+review/text: I use the hot water from my kuerig machine to make the instant oat meal and it works great. It's a fast way to get breakfast in the morning before work. Great customer service and a tasty product. Give it a try!
+
+product/productId: B00644ER3C
+review/userId: AO5EOEHZ7N1VZ
+review/profileName: A. Mangum
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340150400
+review/summary: Amazing Oatmeal!
+review/text: I love the texture--it is not mushy, but has a consistency of slow cook but it is instant!  This is the only oatmeal I like eating plain, but sometimes I add berries and that is great too.  I won't buy any onther oatmeal ever again, this is "simpli" the best---also gluten free for those who are sensitive to gluten!
+
+product/productId: B00644ER3C
+review/userId: A1QR76SYGTXJN5
+review/profileName: Adam "ashaef"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1340150400
+review/summary: Wow that's salty
+review/text: No matter what kind of sweetener I add, or how much I add, the overpowering flavor of this oatmeal is salt. Salt. Salt Salt. If I add raspberries? It's still salty. Blueberries? Salty. Agave syrup? Salty. Coconut sugar? Salty. There's no getting around it.<br /><br />I definitely won't be buying these packets again.
+
+product/productId: B004AH72R8
+review/userId: A1VRTT1OEIX23Z
+review/profileName: kayakgirl
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322092800
+review/summary: my favorite
+review/text: Want to start your day with a bang?<br /><br />This is the coffee for you! Consistently super strong, I disregard the serving suggestions and use 5 teaspoons of coffee with 3 teaspoons of sugar in an 8 ounce mug, fill it 75% full with boiling water and top off with So Delicious Coconut Milk.<br /><br />My high school students think that I am naturally happy and enthusiastic. A student from another class told my kids, "If my teacher was that happy every morning I'd have to smack her!" High praise indeed.<br /><br />If you need a caffeine rush, try this.
+
+product/productId: B002ZCZZ5G
+review/userId: A10DNB08BPIJ2C
+review/profileName: ANA
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296864000
+review/summary: AWESOME
+review/text: I purchased a bonsai from Bonsay Boy and I'm completely satisfied with the product and services.<br />I received my bonsai 2 days after the purchase, very well packed and was beautiful.<br />I'm def buying more :)
+
+product/productId: B001CERYEI
+review/userId: A2XQWXRSJ0Q04I
+review/profileName: G
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304726400
+review/summary: Don't Ever Stop Making These!!!
+review/text: The best taste and I don't have to feel guilty.  Only 35 calories and fat free!!  I can't live without my fat free cappuccino.  It tastes just like the other version only without the guilt!!!  I love it!
+
+product/productId: B001CERYEI
+review/userId: AH9F736X4RF0A
+review/profileName: Brenda Zimmerman
+review/helpfulness: 7/10
+review/score: 1.0
+review/time: 1328745600
+review/summary: Misleading Pricing
+review/text: The way this item was displayed in Amazon made it look like I was getting a 3-pack of the cappuccino for $25.00.  Instead, I was charged $25.00 each for a total of $75.00!  This is way too much for the product and I am highly disappointed that Amazon allowed this kind of misleading information.
+
+product/productId: B001CERYEI
+review/userId: A1WTP99BOA0PGA
+review/profileName: J. Mullally "booklover4ever00"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345852800
+review/summary: Saves a lot of calories and money
+review/text: This might not be as great as the coffee down at your local cafe or Starbuck's but it is the next best thing, low in calories and fat. With all the calories you save, you can dress it up with your own cocoa powder on top and still be ahead of the game. Buying in bulk means saving even more money. Just keep in mind that the pack will be half milk discs and half coffee discs so it will be more expensive than buying just straight coffee. You might want to use only half the milk disc by brewing two cups and then splitting it.  Some people find Gevalia bitter, but it is certainly better than Maxwell House. I love the House Blend Starbuck's discs myself, with one of these creamers. Still a fraction of what you have to pay in a shop. Enjoy!
+
+product/productId: B001CERYEI
+review/userId: A2CYBA3ISIU2AM
+review/profileName: J. Baron
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1325203200
+review/summary: Ok
+review/text: Even though the picture shows "Gevalia" brand coffee discs, and even though that's what the product is called, it's actually Maxwell House Brand. The seller at least emailed me to let me know that (after of course the product was already on its way).<br /><br />The product itself isn't that great. The milk discs don't always work correctly and it doesn't taste nearly as good as most of the other Tassimo drinks.
+
+product/productId: B001CERYEI
+review/userId: A3MLG9CJPNZKHL
+review/profileName: Jo Ann Houghton
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1299715200
+review/summary: Not very friendly in my machine
+review/text: I've tried numerous creamers in my Tassimo and thought why not save a few calories.  Well I won't try it again.  Every time I used it there was at least 1/3 of it left in the disc, it didn't 'foam' and created a mess when you remove it.  I don't know why because all the other creamers I've tried worked fine.  I won't be buying this again.
+
+product/productId: B001CERYEI
+review/userId: A2LTVG7B5EW6C2
+review/profileName: Steve from St. Paul
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1263859200
+review/summary: BIG DISAPPOINTMENT
+review/text: I ordered the skim version of this product thinking it would cost me less Weight Watchers points. Well, it certainly accomplished that goal but the product is almost undrinkable. Thin and watery to an extreme. I find it hard to believe that they can't come up with a skim product comparable to the excellent skim cappuccino's available at Starbucks and Caribou. I would return this product if it wasn't such a bother. I can't believe this product made it through product development. Do yourself a favor and don't repeat my mistake in ordering this product.
+
+product/productId: B001CERYEI
+review/userId: A2Q7AFXX5A26VX
+review/profileName: Jennifer Butch "JLB"
+review/helpfulness: 1/3
+review/score: 5.0
+review/time: 1249862400
+review/summary: Awesome product
+review/text: I was so excited when I saw the "skinny" version of these.  Now I am waiting for them to make skinny lattes!
+
+product/productId: B0000CNU59
+review/userId: A36VBZNHLVXF3S
+review/profileName: Adam Powell
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1142121600
+review/summary: An Essential Condiment
+review/text: Any decent Chinese or Vietnamese restaurant or food truck provides its customers with a botttle of Sriracha. Tuong Ot Brand Sriracha, easily identifiable by the rooster on the bottle, is by far the most common brand. Tuong Ot Sriracha is like the Heinz Ketchup of Asian food.<br /><br />What does it taste like? Purely spicy. Whenever I use Sriracha, I find that it doesn't really add any flavor to my food. The flavor comes from whatever spices were in the food to begin with. Instead, the Sriracha merely amplifies the spicyness. It really helps out with bland cafeteria food.<br /><br />Why should you buy it? You can use it to make anything spicy. It's pretty cheap, and you will use it far more slowly than ketchup. Also, it doesn't really seem to go bad. Most restaurants keep it unrefrigerated. I've had an unrefrigerated bottle for over a year, and it still seems fine.
+
+product/productId: B0000CNU59
+review/userId: A3QMZ2JBZDS48U
+review/profileName: aishanicole
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345939200
+review/summary: Red Hot has nothing on Sriracha!
+review/text: It's so good. You can put it on everything. I'm almost done with the bottle & I got it a week ago. I can eat a fresh jalapeno with little to no feeling of heat so I personally wouldn't it consider it that spicy.
+
+product/productId: B0000CNU59
+review/userId: A13ZGN1SEYQW7G
+review/profileName: R. Saulnier
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343347200
+review/summary: wow .... use it just about every where
+review/text: Mix the following ingredients to taste - experiment and come up with the perfect mix!<br /><br />Ingredients<br /><br />A lot of ice!<br />V8 Vegetable Juice<br />Vodka<br />Sriracha Hot Chili Sauce<br />Worcestershire Sauce<br />Cream Hot Horseradish<br />Celery Salt<br />Ground Pepper<br />Lime/Lemon Juice<br />Olive Juice (little bit)
+
+product/productId: B0000CNU59
+review/userId: A25PCMG01UMWXR
+review/profileName: Michael S. Vaught "Mike"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325721600
+review/summary: Spice your ramen!
+review/text: Whether you eat Ramen noodle, mashed potatoes, couscous, mac-n-cheese or plain chicken breast, rooster sauce will warm it in a delightful manner. I consider it an essential staple and always have some available - be it at home or on deployment.
+
+product/productId: B0000CNU59
+review/userId: AFJEUUBKGMI83
+review/profileName: MWS "Green Person"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251849600
+review/summary: Hot Sauce for the Hard Core
+review/text: Ow.  Rooster very hot.  We don't use this straight.  It goes into bland dipping sauces and, of course, chili.  Nice and garlicky, not sweet at all.  Would be good on hot wings.<br />Best all purpose hot sauce we've found so far.
+
+product/productId: B0000CNU59
+review/userId: A22YWB20PU37LL
+review/profileName: formosus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1224633600
+review/summary: Amazing
+review/text: Good lord this sauce is good. I remember when i was very young, and would always see this on the table when we went to get Asian food. I tried it once, but it was much too hot for me.<br /><br />And now here I am, and I love it. It makes any meat you put it on taste much better, and that is an indispensable quality for someone living out of a college dining hall.<br /><br />You will not be disappointed. However, like the previous poster said, it's more expensive on Amazon than it is retail. I suggest checking grocery stores and even Wal-Mart, as they are beginning to carry this awesome sauce.
+
+product/productId: B0000CNU59
+review/userId: A39CJHKYT0CUBJ
+review/profileName: buckeye jack "centerville jack"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206921600
+review/summary: tpo shelf hot sauce
+review/text: Absolutely the best hot sauce made I am a addict I want to use this for chicken wings would be awesome
+
+product/productId: B0000CNU59
+review/userId: A1U1NB2CUFN41Z
+review/profileName: Ben
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1150070400
+review/summary: Sauce of the Gods
+review/text: This is good on anything.  I use it just as a condiment and to cook.<br /><br />Try this sauce before you die.
+
+product/productId: B0000CNU59
+review/userId: A16H7JWWVBGRVK
+review/profileName: El Gringo
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1147824000
+review/summary: Where have I been!!!
+review/text: I can't believe after all the chinese/oriental food I have eaten in my life I just discovered this stuff! This is the king of all sauces. You can actually put it on just about anything and it will make it better.
+
+product/productId: B0025UMC86
+review/userId: A3IY2G9DEJXZ7X
+review/profileName: J. Sherrouse
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293494400
+review/summary: Good product, excellent price
+review/text: Our favorite enchilada sauce, but not available in grocery stores in our area. I have purchased this sauce from other vendors, but Amazon has the best prices and quick delivery.
+
+product/productId: B001ASTM8W
+review/userId: A383J4IDZAQNIE
+review/profileName: Peaches
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318291200
+review/summary: Gooseberries
+review/text: Nice crop of gooseberries, some are really dry, but thats to be expected!  The plump gooseberries are absolutely wonderful.  These came in one large plastic bag inside a box.  I separated them into smaller freezer bags, worried about this item drying out more!  I'm not sure how to properly store them, no one else in my family likes a tart dried fruit.  I love the small seeds I can grind up with my teeth...
+
+product/productId: B00375LB30
+review/userId: A2BPB05QNCE00B
+review/profileName: Stacey B.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347580800
+review/summary: Great for crafting
+review/text: I'm using these sprinkles for resin so I cannot comment on the taste or how they would stand up in baking.<br /><br />I use these inside my resin pieces to add cuteness and they work great. They are brightly colored and I love that they come in such a large package. These will last me a while.
+
+product/productId: B00375LB30
+review/userId: A3EX8ZFNVDHGPM
+review/profileName: S. Mitchell "samintx"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: Just what I wanted for my 4th of July cupcakes!
+review/text: I could not find red or blue locally. I wanted more than little bottles anyway because I decorate mucho cupcakes and cakes. Great to have a nice big sack for Christmas and other baking projects.
+
+product/productId: B001714V1U
+review/userId: A15XEQBUTDI4SJ
+review/profileName: B. Trainor "bjtnj"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1327622400
+review/summary: Shipped Fast, Tastes Great!
+review/text: Japanese Sencha is one of my favorite teas, and it was especially nice to see it on my doorstep so soon.  This is by no means top-quality tea, but is rather a middle of the road tea with many of the same health benefits and flavor.  For the price it's hard to beat.
+
+product/productId: B001714V1U
+review/userId: A712BGSEHNTEC
+review/profileName: Leo Rising
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334016000
+review/summary: Love this freakin' tea!
+review/text: Such an awesome deal, and great quality. Good quality tea will induce a strong calming effect in the body due to active L-Theanine amino acid levels. The feeling of tranquility is quite potent from this bright green, not-oxidized tea. Great job guys.
+
+product/productId: B001714V1U
+review/userId: A1MESYC7PFLX5F
+review/profileName: MC
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349913600
+review/summary: Weak and over-priced considering the taste.
+review/text: I tried this tea, based on the 5 star reviews of the other reviewers. Perhaps none of the other reviewers have been to Japan or tried real Sencha.<br />I was severely let down. This tea is weak at best, and not a good representative of Japanese Sencha bagged tea.<br /><br />Instead I would recommend Maeda-en, Yamamotoyama, and MyGreenTea as better tasting and more authentic Sencha. Amazon sells all of those 3. Considering the price of Harney & Sons tea, spend your money on a better tea. Even Kirkland brand green tea has more flavor vs. Harney & Sons.
+
+product/productId: B001714V1U
+review/userId: A33MIT7FA8P9MR
+review/profileName: F.Y.I.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: Outstanding Quality
+review/text: Green tea was a hobby of mine for a while, and having ordered the best of the best directly from a small Japanese company (O-Cha), I can say with some experience that this tea is exceptionally good. Nice flavor, good viscosity, and excellent value.
+
+product/productId: B001714V1U
+review/userId: A1AHOSRGE5FML2
+review/profileName: P Kotheimer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345593600
+review/summary: First Sencha but I'm hooked
+review/text: I was extremely pleased with this, my first sencha ever. I just thought it smelled delicious, but my friends thought it smelled like edamame. I agree. This is a great great tea, if brewed properly. I'll try some more senchas now, but this is a very nice one, no matter how good the others are.
+
+product/productId: B001714V1U
+review/userId: A3CGZE3WU9FFML
+review/profileName: kinggo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: Great Tea
+review/text: Great Japanese Green Tea. I love it. Stay green color most of the time and test nature sweet green tea.
+
+product/productId: B001714V1U
+review/userId: A1DHS9RCQQNWPH
+review/profileName: Shelley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327363200
+review/summary: Harney & Sons Japanese Sencha
+review/text: Usually if you're a coffee drinker, you may like green tea that is roasted, such as the Hojicha variety. If you usually drink just water or light drinks, you'll want something crisp and fresh, such as a Sencha. Harney & Sons Japanese Sencha is one of the best tasting green tea around. It is my favorite! The flavor is soft and light. It has a very pleasant aroma, and the color of the tea is a beautiful light green. Plus the added benefits of anti-oxidant in green tea, I would recommend this product.
+
+product/productId: B001714V1U
+review/userId: A1UOWSXI0X6OM5
+review/profileName: M. Yoakam
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Great Tea!
+review/text: I'm no tea expert but my favorite tea is Japanese Green Tea.  This is the best I've had so far.
+
+product/productId: B001717U4U
+review/userId: AEM903KHBVJRZ
+review/profileName: Mom of twin girls
+review/helpfulness: 7/14
+review/score: 2.0
+review/time: 1297814400
+review/summary: Not what the picture describes
+review/text: I bought this steak for my father in law for Christmas because he had always wanted to try Omaha Steaks, and I heard good things about it. I purchased the private reserve because it is a higher quality of meat than the regular cuts and wanted to get him something extra special, but was I in for a surprise. I should have stuck with the cheaper meat.<br /><br />The meat came with extremely large amounts of fat all around. We had cut off a significant amount of fat prior to cooking,and the steak was still fatty once it was cooked. I was very dissapointed and so was he. We were going to call Omaha Steaks to complain, will never buy this brand again. Very unhappy with it. The taste wasn't even something that was worth raving about either. I could have went to the supermarket and bought a prime rib on sale that tasted better than this was, which i have in the past, and didn't spend nearly as much as they charged.
+
+product/productId: B004YGE1KQ
+review/userId: A3UO7TPKCH3D4
+review/profileName: M. Anderson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: It Works
+review/text: My wife and I have been using this product for a few months now. It tastes great and gives you a little kick of energy to get you started in the morning. Both of us have lost weight using this product. We have also bought the mocha flavored product also and like the mocha flavor a little better but both products seem to work as advertised.
+
+product/productId: B005DXTGOU
+review/userId: A392WRL39W82ZS
+review/profileName: M. K. Tarbrake
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Best panko ever
+review/text: If you like to use panko crumbs these are perfect. They stay crisp and I use them often. Rather than the round hard shape of other panko these are longer and crispier. Thanks Amazon!
+
+product/productId: B005LURG7O
+review/userId: A2D7GD7SXGA29T
+review/profileName: Anthony.O
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1344816000
+review/summary: Rip off
+review/text: This is way to much for this item.  I can buy 10 boxes at wal-mart for 10$.  Do not buy this online!  Much easier to buy in store.
+
+product/productId: B0037AF0ZU
+review/userId: A2XT5XQU9D1Q01
+review/profileName: Ivette Velazquez "Ivette Velazquez"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322697600
+review/summary: Badia food coloring
+review/text: Normally I like this product, but I haven't received it yet. I will have to contact company asap. Not really certain what the delay is.
+
+product/productId: B002GC9HKE
+review/userId: A6ONBR885M27S
+review/profileName: Patricia Robinson
+review/helpfulness: 11/13
+review/score: 5.0
+review/time: 1282867200
+review/summary: Red Miso paste
+review/text: Wonderful, quickly delivered, not as pictured, but it is 2.2 lbs and so good. No complaints
+
+product/productId: B0088Q299I
+review/userId: A37SICXE18029G
+review/profileName: Ali
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: Feed Adam Bulk Organic, Naturally Gluten-free Quinoa Flour, 25 Pounds
+review/text: I would recommend this flour it is very heathy and a neutral produckt.I will buy it again,as soon as I run out of this bag.
+
+product/productId: B005JCQIPK
+review/userId: A1HH53MJ15KATM
+review/profileName: William M. Klepper "BK"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1323648000
+review/summary: Unflavored "Cream of Wheat" Substitute 5-star Winner
+review/text: Go to any grocery store and peruse the cereal aisles.  What do you notice?  There's an unFlavored Oatmeal but Wheat-meal is flavored Maple/Brown Sugar and Apple/Cinnamon.  And all they have are boxes that allow the contents to get dry, stale, and allow flies and moths to lay eggs ... uggh.<br /><br />I'm a simple person with simple tastes, but I still don't like maggots crawling in my oatmeal and wheatmeal or picking them out with a spoon. Hurrah for Sturdiwheat.  Oh, they got the many flavors the other have, but no maggots and moths.<br /><br />So, the few weeks between bowls of wheatmeal doesn't subtract from the flavor.  I stay happy.
+
+product/productId: B004YN7YLC
+review/userId: A2KQITXOUD80U8
+review/profileName: Eline
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Great lasagne noodles
+review/text: The best tasting low carb noodles I have found.  You do not detect any difference in flavor.  I have found all of their products to be equally great. Shipping and delivery were fast and the package arrived in good condition.  To make the shipping cost worth it, I purchased six boxes and gave some to my daughter since I would not be able to use so many boxes in a reasonable period of time.
+
+product/productId: B004YN7YLC
+review/userId: A1TA1AKIIQRGBY
+review/profileName: John D. Hartley
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1342051200
+review/summary: Dreamfields Lasagna
+review/text: Great product.  Low carbs.  Only problem is that during shipping evidently tossled around as a lot of the lasagna pieces were broken, so had to be creative in laying cooked lasagna pieces in the baking dish.  More like a jigsaw puzzle.
+
+product/productId: B000634LGU
+review/userId: ARKNRQ6TM3D2F
+review/profileName: Angela H.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1256342400
+review/summary: Fantastic. The only dog food my Doberman will eat.
+review/text: I have a 6 year old Doberman who is UNBELIEVABLY picky about her food. She would rather go hungry than eat most dog foods - literally, if I try to change her food, she'll refuse to eat. I've used other Nutro products (ONLY various dry foods) before and whe enjoys those as well. I have even reviewed some of the others.<br />About a year ago, I came across this specific product when they were out of the Nutro I normally purchase for her. I brought it home concerned she'd turn her nose up at this as well, but I was stunned when she just went right to it and completely cleaned her bowl. She never does this. It's always a battle to get her to eat, but not with this food. Of course, she would pick one of the most expensive dog foods out there, but if it makes her happy I'm happy.<br />Ultra cuts down on the amount of waste that she leaves outside, which is great because my yard isn't that big. The food obviously tastes good to her. It also cuts way down on her shedding. Her coat is now very shiny and extremely soft. When people see her, they always think she's just been groomed. So far (I've been using it for about a year,) she's maintained her ideal weight as well as plenty of muscle tone. It keeps her energetic without becoming hyper.<br />My doberman is my baby and completely spoiled. I take no chances with her health and well-being.  At this point, I've been nothing but thrilled with the results I've gotten from feeding her Nutro Ultra, and to me that's worth the price.<br />My advice, try one of the small 4.5lb bags first. I started to notice a difference in her coat, stool, and energy level in about a week. A small bag SHOULD be enough to see if it's going to work for your dog or not.<br /><br />***NOTE*** FDA RECALL OF NUTRO PET FOOD - APRIL 2009<br />After the hundreds of pet illnesses and deaths attributed to Nutro's canned food in North America, I permanently changed her food to Blue Buffalo. I have a new review posted of that product. I no long recommend ANY Nutro product, nor do I have any plans to purchase anything they produce in the future.
+
+product/productId: B002YZXVLO
+review/userId: A3CVK075Q89BPI
+review/profileName: D. Clark
+review/helpfulness: 9/9
+review/score: 4.0
+review/time: 1283385600
+review/summary: More "cool" than "honey"
+review/text: The peppermint flavoring almost completely overpowers the honey. Not bad, just not what I was expecting, given that peppermint Altoids taste like peppermint; cinnamon Altoids taste like cinnamon; licorice Altoids taste like licorice; ginger Altoids taste like ginger... I expected to taste honey, with some mint, rather than overpowering mint and a mere hint of honey.<br /><br />Still, they are pretty good. They don't have as much of the bitter note as peppermint Altoids. But they'll have to call the recipe something other than "Cool Honey" to get that last star.
+
+product/productId: B002YZXVLO
+review/userId: A1O1HYE09ZY9RI
+review/profileName: William A Rogers
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1311120000
+review/summary: Curiously Unique
+review/text: These cool Honey mints are not as strong as the cinnamon and peppermint flavors.  (I like this fact)  They still have a nice cool, fresh breath feeling though with a hint of honey.  I was having a hard time finding them at the retail stores, so of course I came here to Amazon, where I can find anything.
+
+product/productId: B002YZXVLO
+review/userId: A363IZN7QH8CIN
+review/profileName: Panda's Heart
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1311811200
+review/summary: Something for the rest of us
+review/text: Regular Altoids pack a bit too much punch for me to use them regularly. The Cool Honey flavor is delightfully refreshing without assaulting my taste buds. While I wish they had a bit more honey flavor, they are wonderfully unique and we enjoy them regularly. Indeed, we make sure each vehicle has a tin that is readily available. A bit hard to find in local establishments, ordering a case via Amazon proved to be a good deal.
+
+product/productId: B002YZXVLO
+review/userId: ANL4FGMVWPQ6K
+review/profileName: Leopard726
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345507200
+review/summary: I love these!
+review/text: My dad had these sitting in his drawer for about a year or so and was about to throw them out.  He asked my mom or I if we wanted them and my mom didn't but I thought I'd try them to see what it tasted like since I'd never heard of Cool Honey Altoids before.  I LOVE THEM!  I'm sucking on one right now and I love the peppermint in it but it's not too overpowering.
+
+product/productId: B002YZXVLO
+review/userId: A2UTZ7HH4UKDZW
+review/profileName: D. Nakao
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330128000
+review/summary: Altoids cool honey
+review/text: I found these mints to seem more lemony than tasting like honey, but I like them even more because of that--that they taste unique compared to other mints. And they have that strong, cool aftertaste that's characteristic of Altoids.
+
+product/productId: B002YZXVLO
+review/userId: A2SR3H36YAP978
+review/profileName: Keith Volk Lachance "Keith LaChance"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329436800
+review/summary: Nice Change
+review/text: Not bad, These have a little bitter taste to them.  They are a good change from the norm though and will be picking them up here and there.  I like mints :) little ocd thing going on here.
+
+product/productId: B002YZXVLO
+review/userId: AENPASK3TQMF4
+review/profileName: Lyn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: Love these mints!
+review/text: Altoid makes some great mints and I really like these a lot. They may not be as intense as the other flavors, but they are really good. My grandkids will eat these. They won't touch the ones that aren't 'yellow'. I was really disappointed when they quit selling them in the stores. Hope they come back again next spring!
+
+product/productId: B002YZXVLO
+review/userId: A3DM5RBBE3K01Z
+review/profileName: Droppin 'doze billz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318636800
+review/summary: Favorite flavor
+review/text: I love altoids but I got bored of the regular mint flavors (original, wintergreen).  Cool honey is my favorite of the crazy flavors (ginger, cinnamon, cool honey, etc.).  This was a good price per package compared to buying individually at the store.
+
+product/productId: B002YZXVLO
+review/userId: A3MCJ1Q5J3WIV9
+review/profileName: motheriowa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315180800
+review/summary: best candy ever
+review/text: These mints are great !!!!  I am addicted to them big time. If I hadn't read the ingredients I would have to assume there was crack in them.
+
+product/productId: B002YZXVLO
+review/userId: AWE5GUGIMH9Q0
+review/profileName: L. Looper
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1313625600
+review/summary: Not Too Strong, Not Too Sweet
+review/text: I'd never tried this flavor before ordering them from Amazon, but I'm glad I did! The honey flavor isn't too sweet or overpoweing, with the cool flavor I've come to enjoy with peppermint.
+
+product/productId: B002YZXVLO
+review/userId: AVHZ3ZFGXHX7B
+review/profileName: aputerlady "aputerlady"
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1275264000
+review/summary: not too sweet not too powerful - just right
+review/text: These combine the power of altoids with the buffer of honey. Fresh tasting without being sweet.
+
+product/productId: B002YZXVLO
+review/userId: A1XX4535B40B0A
+review/profileName: heather. "heather."
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1314921600
+review/summary: Super tasty.
+review/text: These mints are so good. They have a very slight honey flavor, and they are less potent in mint flavor than your usual Altoids. Super tasty.
+
+product/productId: B002YZXVLO
+review/userId: ASOOYVBM0UTF1
+review/profileName: Mark Heffernan "Mark Heffernan"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1331769600
+review/summary: Great product if you like the taste
+review/text: If you love the cool honey then this is the cheapest route to get them - I had tried them before and thought I loved them, but was wrong.  They are a bit too "medicinal" for me.<br /><br />Love me the ginger ones though.
+
+product/productId: B007NOJ58E
+review/userId: A3NABEOMI286JC
+review/profileName: Mrs. Morales
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346198400
+review/summary: recommended by the dentist
+review/text: Not a good a Sweet-n-low candy but is much better for your teeth. Orange and yellow flavors are the best tasting
+
+product/productId: B007NOJ58E
+review/userId: A1MZQEH2WQN1CU
+review/profileName: Susan Turley
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345766400
+review/summary: DO NOT BUY THESE CANDIES
+review/text: I purchased these on July 14, 2012.  They are awful.  They do not do what they are supposed to,  they have no flavor and they don't last long.  At the time I purchased them they were $11.99 plus shipping.  Buyer beware because if you don't like them you cannot return them, so I am stuck with this bag of candy and they are not even worth handing them out to people in my church or anyone else!!!!
+
+product/productId: B000AF0A78
+review/userId: A10FT0YE5WTAKG
+review/profileName: CathyB
+review/helpfulness: 23/23
+review/score: 5.0
+review/time: 1302739200
+review/summary: By the end of 1 cup my bloated belly was half its size!
+review/text: I have been suffering from a bloated stomach--looking like I was ready to deliver any minute--for going on 2 yr.  I have had MRIs and blow-in-the bag tests and gastric emptying tests and upper GIs and on and on and none showed a reason for the bloating.  Even had my gallbladder out since everyone (me too) thought that was the fix, but the bloating remains long after the gall bladder is gone.  So here I was bloated like a pig with pressure and pain and general misery, searching for yet another solution. Doctor had none. I ordered the fennel tea thinking yeah, sure, but what the heck--a total skeptic.  It arrived this morning. By the time I finished the first cup at least 70% of the bloating was gone, taking the pressure and pain with it. A couple of hours later I am practically "normal." So I am a believer (although I need to see if it continues to work) I am not good at putting things in my mouth that taste "funny" but this is not a bad taste at all (as in I didn't have to gag it down).  I am going to be excited to see if this really continues to work.  Right now I am thinking it is magical. Oh as an extra bonus--their customer support person was terrific, competent, kind, and American.
+
+product/productId: B000AF0A78
+review/userId: A2Z84ME11UTVHW
+review/profileName: L. Long "Lisa K"
+review/helpfulness: 21/21
+review/score: 5.0
+review/time: 1163030400
+review/summary: Fennel Tea
+review/text: I love this tea.  It is mildly sweet. It certainly calmed my system down.  I have IBS-D for 20 years. It isn't a cure and won't stop a bad attack but it relaxes the spasms and is calming. They only con that I have is that you have to let it steep for 10 minutes or more to get a good strong cup.
+
+product/productId: B000AF0A78
+review/userId: A1YIWCDQZI1FIP
+review/profileName: Levon Shahbaghyan "lyoff"
+review/helpfulness: 13/15
+review/score: 5.0
+review/time: 1155600000
+review/summary: Great for colicy baby
+review/text: This natural cure was hard to find, but ultimately helped us resolve a lot of gas issues our 1 month old son had.
+
+product/productId: B000AF0A78
+review/userId: A3T5FTKZ9UA12I
+review/profileName: J. Rolston
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1167868800
+review/summary: great tea
+review/text: it tastes like licorice! very good tea.  doesn't really do all that much for my stomach thoough.
+
+product/productId: B000AF0A78
+review/userId: A2CTJY3BTQXF06
+review/profileName: JL
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1307404800
+review/summary: Excellent Product...Love It
+review/text: Fortunately, I do not suffer from IBS (my sympathies to those who do); however, minor health issues and a diet that includes sugar-free products and a lot of fruits and veggies often lead to uncomfortable bloating and an upset tummy.  Further, I've been trying to lose weight and haven't had much luck with a few stubborn, remaining pounds.  So, when I stumbled across a website that heralded "Heather's Tummy Tea Fennel" as beneficial for bloating, it tweaked my interest.  After further research revealed fennel's usefulness for tummy pain and, possibly, weight loss I decided to give this product a try.<br /><br />So far, I love this tea.  It works like a charm on stomach problems and my tummy has felt much better while on my current diet.  Although I've only used this tea for two  or three days, I've already noticed slightly less tummy bloating and the scale was down a couple of pounds this morning.  So, for my money, this product has been doing exactly what users claim it does.<br /><br />In fact, it also yielded a very unexpected benefit in my case.  I've suffered with chronic muscle pain for 8+ years following an on-the-job injury.  I've been having an especially bad flareup with my shoulder for the last several days.  The usual treatments--heat, massage, painkillers, stretches, etc--have not been helping so I've been in agony.  Then, yesterday, I drank a cup of this tea for my tummy and promptly forgot about it on my way out the door to do errands.  About an hour later, I suddenly realized that my shoulder and neck weren't hurting anymore.  Since I hadn't done anything else to help the pain that day and had not taken any pain medication, I can only assume the fennel must have helped relax the spasm in my shoulder and neck.  Whatever it did, I was most grateful.<br /><br />Anyway, even if Heather's fennel tummy tea didn't do anything at all to help my various pains and discomforts, I would still love it because it tastes fantastic.  I steep it for 10 minutes--as the package directs--and then add Splenda sweetener and a bit of milk...it is sooo tasty and is a real treat for someone who can't eat sugary goodies.  I also love that it's all natural and uses whole seeds.  When the majority of products these days are overly-processed and/or have sugar and other crap added, it's really nice to find something that has been left the way Mother Nature intended.  I very, very highly recommend.
+
+product/productId: B000AF0A78
+review/userId: A23XF7KT6AKIC6
+review/profileName: ethereal girl
+review/helpfulness: 7/8
+review/score: 2.0
+review/time: 1257638400
+review/summary: Not that great
+review/text: I don't like the taste of this tea, and it wasn't as helpful for digestive symptoms as I would have hoped. Trader Joe's makes a cheaper (but still very high quality) organic tea with fennel that tastes better.
+
+product/productId: B000AF0A78
+review/userId: A2OLNROT1FKPOC
+review/profileName: Very pleased
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1315699200
+review/summary: Like a miracle!
+review/text: I had gone through a very stressful year, with a divorce, a move, and also the death of my father. I had lost about 20 lbs, which for me, was a lot, because I was pretty thin to begin with. I was then diagnosed with anemia. To try to boost my iron level, I totally modified my eating regime, to include red meat and wheat. Not sure if this was the cause, but not only did I get back to a normal weight, I was EXTREMELY bloated. At first I thought it was just weight gain, but it was all in my lower abdomen and no where else on my body. I looked pregnant. I walk several miles a day, so I really didn't think I had just gained weight. Even though I don't have full blown IBS , I have been known to have digestive issues, so I thought I would give this a try. Not only did the bloat completely go away in about 2 days, I feel less hungry and just overall better. I drink a cup before each meal. Don't experience any side effects. I am so thankful I found this!!
+
+product/productId: B000AF0A78
+review/userId: A2O4POX13LFTWG
+review/profileName: Wendy Heilman
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1259539200
+review/summary: Great Stuff!
+review/text: I just love this stuff!!!  This is my second purchase of it and I drink it like there is no tomorrow.  Although I don't suffer from IBS, I fly alot and tend to bloat and this helps to regulate me!  I would definately recommend it to anyone who has tummy problems!
+
+product/productId: B000AF0A78
+review/userId: A1QYB7F590SZUX
+review/profileName: Michael Carey "KYAus"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1204329600
+review/summary: High quality fennel tea
+review/text: I agree with "splendidcakes" - this is a much better tea than seelect. I would recommend this product, especially those who are drinking this for controlling their IBS
+
+product/productId: B000AF0A78
+review/userId: A3MHXIY8KFE6HY
+review/profileName: Angie
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1326240000
+review/summary: I.B.S. Tummy Tea
+review/text: Buy this product! As a person who has suffered from I.B.S. since 1997, I can speak from experience in using this tea! It has settled my stomach, gut area, and colon a great deal! I've wanted to do a review for a while now, in order to help others who might be hesitant to try items that are designed to help I.B.S. symptoms. This is my fourth purchase of this tea, and I will plan to buy more when I get low!
+
+product/productId: B000AF0A78
+review/userId: A2IKB2CPQ340O0
+review/profileName: drosophila
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317427200
+review/summary: i love this tea
+review/text: I have been suffering from IBS for a while now and this tea is the only thing that works for me when I am having cramps. I think IBS is a very personal problem and non of us have the same issues and solutions as the next person. For me fennel in general has been a great relief and I like Heather's tea bags because they taste good, they smell good and there are enough seeds in each tea bag to prepare tea in a big mug. I also tried their soluble fiber and that was a great product as well. Overall I recommend Heather's products and especially this tea if you are on the d-IBS side and need relief from cramps associated with it.
+
+product/productId: B000AF0A78
+review/userId: A1KY15Q238DSLI
+review/profileName: Mom to 4
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1306800000
+review/summary: Nice compliment to healthy digestion!
+review/text: Although I am not an IBS sufferer I am gluten intolerant and have had many digestive issues. This tea really helps!  I actually enjoy the taste and usually make a second cup with the same teabag right after I finish the first cup.
+
+product/productId: B000AF0A78
+review/userId: A1MNILAY3860SC
+review/profileName: S. Ronnberg
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1305590400
+review/summary: Very fresh. Quality tea.
+review/text: Fennel has so many health benefits, but the main reason I purchased it was the help with congestion and loosing phlegm that I started having problems with after quitting smoking. These symptoms are getting better as my lungs are healing, but this along with drinking Nettle tea are a big help. I have noticed it really helps me with water retension and bloating also. I havent tried any other brand of Fennel tea but as an avid tea drinker of all sorts, I can say this is of very good quality and I will purchase it again.
+
+product/productId: B000AF0A78
+review/userId: A3AOQXR2IXDAKA
+review/profileName: TBL
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1212796800
+review/summary: Infant and Gas
+review/text: Infant and Gas....my baby had a lot of gas.  I breastfeed and this seemed to help....
+
+product/productId: B000AF0A78
+review/userId: A2SE3DOCP1ZBOO
+review/profileName: splendidcakes "splendidcakes"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1195948800
+review/summary: Excellent producct
+review/text: This product is stronger to aid with IBS, please disregard the reviewer who unfairly gave 1 star.
+
+product/productId: B000AF0A78
+review/userId: A32G6EWM9QD2LL
+review/profileName: MiddyBlue
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1344297600
+review/summary: I didn't like it
+review/text: I really didn't like the taste of this tea. I am not sure it did anything for my stomach troubles either. I had read the reviews with folks saying the taste was off putting, but I was desperate for relief. So I tried it and lesson learned. I should really pay attention to other reviewers!
+
+product/productId: B000AF0A78
+review/userId: A1009L47IQR00Q
+review/profileName: Alexia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340323200
+review/summary: Great product, a life saver for people with IBS
+review/text: If you have digestive problems and have tried anything modern medicine can make for you this is your life saver!! I have IBS and  I am gluten intollerant as well. After seeing doctors and  took all kind of prescriptions (which it helped a bit) I decided to go the old fashion way and try fennel tea. This is the good stuff!! the package came quickly, the tea is real seeds very fresh and organic. I can finally have a peacful meal without dreading the consequences. My tummy is calm and my digestive system is back on track. Its like pouring water on fire :-)  For best result follow the instruction.<br />I looked every local food store and could not find a decent organic fennel tea .  I was also impressed by the quantity you get for the price.<br />Thank you Amazon !
+
+product/productId: B000AF0A78
+review/userId: A1X8YRYS8MBDWX
+review/profileName: anthony magnavita
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1329177600
+review/summary: Heathers Tummy Tea
+review/text: The tea was at my house faster than I had expected. It tastes good and was a good price for the amount of tea that you get.
+
+product/productId: B000AF0A78
+review/userId: A2IR6SU646D56S
+review/profileName: Ann Fitzgerald "mom of 3"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318464000
+review/summary: best thing I've found for tummy bloating
+review/text: I would say I have very mild IBS, with the primary symptom being feeling bloated and gassy some of the time.  I have tried otc medications, herbal teas, stress relief, and diet changes to ease my discomfort, but nothing seems to work as well as the fennel tummy tea.  Sometimes, one cup gets rid of the problem.  Other times it takes double-bagging or several cups in a row.  The tea tastes quite pleasant, too.  Recently I have concluded that Culturelle helps lessen the frequency of these episodes, and the fennel tea helps to lessen the length of the episodes.  I highly recommend it.
+
+product/productId: B000AF0A78
+review/userId: AI9C79M0K898F
+review/profileName: felicity77
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1310256000
+review/summary: Great for the Digestive System
+review/text: I do not have any definite diagnosis of IBS, but since late last year (around December), I began having symptoms of bloating, constipation, which I attributed to weight gain (from a size 0 to size 2), though no matter how hard i tried to change my eating habits and lifestyle, which included adding probiotics and prune juice to my diet to address the symptoms, my waist line remained the same (though i lost two, three pounds in 4 months). It seemed that no matter how conscious i was of how i ate, my tummy still was huge. i knew my digestive system wasn't working properly.  I didn't like the way i felt after every meal, no matter how small the portion is, i felt like my tummy was about to burst! I chanced on Heather's Fennel tea while doing an online research of my symptoms, out of frustration. I ordered it, and have been enjoying the benefits of this tea for a month now. I am so glad I gave this product a chance. I drink it thrice a day during meals, and my tummy is a lot flatter now, not bulging as much, and my waist line is getting smaller every week, no more constipation. Another pro that I noticed, and I hope that this will continue, is that my PMS is not as bad. Try it, you won't be disappointed.
+
+product/productId: B000AF0A78
+review/userId: A1I8TQ8PP89JXU
+review/profileName: Linda O
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1293753600
+review/summary: It got me through Christmas!
+review/text: I have had mild IBS all of my adult life...  I drink this tea all day and it has eliminated the bloated feeling and gas.  It is the ONLY thing that got me through Christmas. With all the holiday foods around, it allowed me to indulge a little and survive without having to "pay the piper". It is certainly an acquired taste, which you might not like if you do not favor licorice.  It really helps bloating if you use it on a regular basis even if you don't have IBS...
+
+product/productId: B000AF0A78
+review/userId: A3EFYUJ1MI2NJ3
+review/profileName: Joseph Sefcik
+review/helpfulness: 5/7
+review/score: 5.0
+review/time: 1291334400
+review/summary: PLEASE READ !!! :):):)
+review/text: I am a published Author, and have been searching for something to "destress" the tummy, and when I discovered Heathers Tummy Teas, I was delighted to try it.  After using it for only 3 days, my feelings of bloating, and irritability have ALL gone.<br />  It is nice now, to finally sit and write my next book without worrying about the feelings of indigestion and bloating.  It tastes wonderful, and soothes you to the very core.  Undoubtedly, and without question, a fantabulous product!!! A+++++++<br /><br />  Blessings,<br /><br />  Joseph<br /><br />Ps: Any questions, feel free to contact @ daag1981@yahoo.com
+
+product/productId: B000AF0A78
+review/userId: A2ZHWKXUIVJRY9
+review/profileName: Kathy-In-Miami
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345507200
+review/summary: Works for Gastroenterologist
+review/text: I rarely leave comments on a product. That being said, I can not say enough about this tea. I work for a gastroenterologist who was looking for an alternative to the traditional medications for IBS. We use it in the recovery room after colonoscopies and give a sample to the patients to take home. Every patient that has been back to the office for a follow-up appointment has nothing but praise. If you suffer with IBS, give it a try.
+
+product/productId: B000AF0A78
+review/userId: AK5YE40E7M1YM
+review/profileName: suzy q
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343174400
+review/summary: Helps IBS!
+review/text: This tea is great but....it said it was the jumbo bags and it isn't! These are the extra large bags! You need to use two if you want the same strength as the jumbos!!! I ordered them because they were suppose to be Jumbo bags!!!!
+
+product/productId: B000AF0A78
+review/userId: A1RGCVTG102XW
+review/profileName: Jane Austin "sukha"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341705600
+review/summary: Tummy Tea
+review/text: I'm not sure how well this tea will be for my tummy, but so far, I'm enjoying it very much. If you like the taste of licorice, you will love this tea. If you don't, then don't buy it!<br />I add a pack of Truvia sweetener to my cup for more sweetness and it is perfect! Soothing and flavorful....and it does give you a full feeling so I think drinking it before dinner might help in eating less. I like it afterwards though,,,,takes the place of dessert for me and supposedly helps with digestion.<br /><br />I love the canister the tea bags come in and they smell very fresh and are larger than the normal sized tea bag.<br /><br />I highly recommend this product.
+
+product/productId: B000AF0A78
+review/userId: A1TW4TT5BH92L3
+review/profileName: tealover
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341100800
+review/summary: Love It!!!!!!
+review/text: I have IBS and suffer from terrible gas and pressure along with the other lovely symptoms. I am uncomfortable all the time and my stomach is always large and bloated.  I drank the tea and am completely amazed.  The bloating and gas are gone, my stomach feels great, and is actually flatter!!!  Fennel has a very distinct taste.  I add honey to my tea and it tastes great.
+
+product/productId: B000AF0A78
+review/userId: AETFC9DA145O5
+review/profileName: DM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327104000
+review/summary: Heathers Tummy Teas
+review/text: This product along with fennel tea and peppermint capsules from heather stopped the nausea that the Drs couldn't!!!<br />Thank you soooooo much Heather for phenomenal products.
+
+product/productId: B000AF0A78
+review/userId: A3TFLPLDHHZ8Q3
+review/profileName: janath
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324944000
+review/summary: Tea
+review/text: It has a good taste and stomach problems are solved after drinking and I need to continue drinking it. I would like to recomend this to any one who has problems in irritable bowel syndrome
+
+product/productId: B000AF0A78
+review/userId: A87VAD1U3U09Z
+review/profileName: mr.fluffy97
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321142400
+review/summary: I will keep buying this excellent tea
+review/text: I drink this with hot water at work all day long and feel great.  My tummy used to be bloated and achy from cold drinks and now it feels calm all the time.  Wonderful flavor and soothing to drink.
+
+product/productId: B000AF0A78
+review/userId: A2UBTMZRMMIVKB
+review/profileName: Kathy D. Wolf "MEMEMAY"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305936000
+review/summary: love it
+review/text: i buy this all the time i really like it . it does what it says will continue buy it.
+
+product/productId: B000AF0A78
+review/userId: A13JQ1RII5OIVN
+review/profileName: The Shopper "shopaholic"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303862400
+review/summary: Great Tea, Good for Tummy
+review/text: I ordered this tea because I have stomach issues and it does calm the stomach and almost acts as a detoxifier. I would highly recommend.
+
+product/productId: B000AF0A78
+review/userId: A2MBKB924STYRC
+review/profileName: M. Anderson
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1245110400
+review/summary: Not too bad
+review/text: This product works some, but it by no means totally eliminates flatulence. It may calm it down a bit, but you can still feel it. It does have a mild, pleasant taste, though.
+
+product/productId: B000AF0A78
+review/userId: A1U9FFJZABRRJG
+review/profileName: jp
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1319241600
+review/summary: Works great
+review/text: I constantly have stomache problems...this stuff works. I try to have it at least after lunch and dinner. I have definitely noticed a difference in that bloated feeling. I would definitely recommend this product.
+
+product/productId: B000AF0A78
+review/userId: A2QUM5EJ3FJ9IF
+review/profileName: Heike Doerr
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1330992000
+review/summary: Bland
+review/text: I don't usually leave low ratings on items, but I was really disappointed with the taste of this tea. It smells really great, but the taste of the brewed tea is really bland, and does not correlate with the aroma of the tea bags in the box. I love fennel tea, and usually buy mine overseas. When I ran out, I purchased this product instead. Sadly disappointing.
+
+product/productId: B000AF0A78
+review/userId: A3TUHV6ZIVH5JO
+review/profileName: Lillian A. Robinson
+review/helpfulness: 3/7
+review/score: 5.0
+review/time: 1273190400
+review/summary: Get Rid Of Belly Fat!
+review/text: I Love This Tea!  Every night I have a cup of this tea in boiling spring water and it relaxes me, controls my ibs and I'm losing belly fat weekly.  I'm looking good for this spring/summer.  Enjoy!
+
+product/productId: B000AF0A78
+review/userId: AJSTGUC7GWMWD
+review/profileName: E. Behling "dutch"
+review/helpfulness: 3/14
+review/score: 1.0
+review/time: 1190937600
+review/summary: Strong Fennel
+review/text: These are larege tea bags, with about twice as much in them as in Alvita or Seelect fennel tea bags.  When I brewed up a cup according to the instructions, it was just too strong for my taste.  Maybe you like your tea strong or need it that way for your condition.  After trying it several times, I concluded it was just too much for me and went back to other brands.  They leave me feeling much better than this does.  For those who would need or enjoy it, I'm sure it would be very good.
+
+product/productId: B0000CNU58
+review/userId: A29ZPQID077L4A
+review/profileName: Ken  Coumerilh
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332547200
+review/summary: Very good Oyster Sauce
+review/text: I'll order this again instead of buying oyster sauce from the store.  I think it is better, but not dramatically better. I use oyster sauce in what are probably unusual ways, like to add a bit of umami to meat or to flavor a broth.  The shipping was fast and it was packaged well.
+
+product/productId: B0000CNU58
+review/userId: A2P8AVWJO0CVGL
+review/profileName: Dipper Lips "DIP"
+review/helpfulness: 0/19
+review/score: 5.0
+review/time: 1134345600
+review/summary: Pup Tents!!!  Acres and Acres of Pup Tents!
+review/text: What rhymes with Dipper? Pipper!!! And Ol' Dipper's pipper has found the oil it needed in Lee Kum Kee Premium Oyster Sauce! The Dipper's pipper is hipper, no longer the dripper! Yip yip yipper shouts the Happy Dipper!!! Buy it for love!!!
+
+product/productId: B001E8INBU
+review/userId: AHT0YM6IM3B01
+review/profileName: JHARRI "MILL$$BABY"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346544000
+review/summary: Love this tea...
+review/text: Not meant to replace your BP script, but when used on conjunction with diet, exercise and stress management techniques results can be positive. It does not taste bad w/a teaspoon of honey. My BP med dosage was lowered...I'm just saying :-)
+
+product/productId: B001E8INBU
+review/userId: A33S1KUA5WNAVC
+review/profileName: tgivaughn
+review/helpfulness: 3/5
+review/score: 1.0
+review/time: 1308009600
+review/summary: Not much good on taste nor blood pressure
+review/text: Was determined to test this whole box, thinking regular use would eventually produce results.  SUffered through the taste, not repulsive but not attractive.  No blood pressure effect.  Perhaps it should be used in combination with other herbs?  Who knows?  Not trying another box at these prices.
+
+product/productId: B00452DJYI
+review/userId: A3PYJA6KCKYO22
+review/profileName: Tammy S. Lyons
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1311811200
+review/summary: Mixed opinions
+review/text: I was very excited to try a new flavor of licorice. I am a licorice aficionado - I truly try every flavor and shape I can get a hold of and love most of it. I can't say that I was overly impressed with the flavor of this brand, though. It had somewhat of a medicinal taste. While licorice was originally intended as a medicine, I don't think it should taste like it. I had a few pieces, then shared it with my family. Out of 6 other opinions, three said they did not like it, two really loved it, and one is just a candy addict so pretty much likes anything. So the vote is pretty much split, but all said it did taste a little like medicine. The flavor was not unpleasant, just a little strong. I love that it is made from organic sugar, and the texture is quite soft, but not gummy. Overall a good product, just not something I would seek out to buy again.
+
+product/productId: B003WGNG2S
+review/userId: A28KOHW2SX82FD
+review/profileName: Conchie Fernandez
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1322265600
+review/summary: Beautiful little spoons for any caviar server
+review/text: With their handmade irregularity and singular mother-of-pearl appeal, this duo of caviar spoons is a must-have for any caviar server. And even if you forego the server, dip right into your caviar with these wonderful little spoons.
+
+product/productId: B003WGNG2S
+review/userId: A3NBDOZMQ2DV97
+review/profileName: M. Connors
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338336000
+review/summary: This is the spoon I eat my Caviar with.
+review/text: I ordered eight of these lovely spoons for eating Caviar. I have a 4" server mother of pearl spoon that goes into the glass server and 3" spoons for each of my guests. Usually there are 6 of us enjoying the caviar with these beautiful spoons. Since the spoons are Mother of Pearl they will not alter the taste and actually feel smooth to the touch on your lips and tongue and remind me of the sea. Another great product fond on Amazon.
+
+product/productId: B003WGNG2S
+review/userId: AEZIP7AZ70ZTZ
+review/profileName: Tech Buyer for Family
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342656000
+review/summary: Caviar spoons!
+review/text: If you are looking for mother of pearl caviar spoons, as a proper restaurant would use, these are what you want. Great quality, good service and price. Enjoy!
+
+product/productId: B005NPEAUS
+review/userId: AW6AFZZH66H5A
+review/profileName: Pierre Zeitoun "Electronic Heaven"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1329868800
+review/summary: Just like remember !
+review/text: Being French I grew up knowing how important it was to use a good unrefined salt. The one from Brittany being the very best. No! It's not foolish to spent money on a  basic spice. It has a very delicate flavor (almost floral) and you don't need a lot. Will taste great on salads. A clear healthy winner.
+
+product/productId: B005NPEAUS
+review/userId: A31AS7L29JTV6H
+review/profileName: G. Baker "nJoyLife"
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1314921600
+review/summary: Wow
+review/text: Not really sure if I can describe this salt properly. Yes, it has a wonderful flavor without too much of a salty flavor. It's very clean tasting. Mostly, though, I think it seems "creamy". Yea, I know that sounds weird, but the moisture with the salt gives it a creamy-salty embodiment. I use this for special dishes to add a delectable flavor to a dish...also knowing that I'm serving food with a healthy salt with tons of minerals.
+
+product/productId: B005NPEAUS
+review/userId: A1C2GFOPBDFM8L
+review/profileName: David S. Lott
+review/helpfulness: 9/10
+review/score: 4.0
+review/time: 1312761600
+review/summary: Good Product Well Priced
+review/text: This is good, briny large crystal grey sea salt, which for most uses I prefer to the more expensive white.
+
+product/productId: B005NPEAUS
+review/userId: AUOJEXT54C9TS
+review/profileName: frogladysmiles
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1323734400
+review/summary: Love it
+review/text: <a href="http://www.amazon.com/gp/product/B004VEQUIW">1 Pound - French Gray Sea Salt - Light Grey (Coarse) - Bag -"Sel Gris De Gu&eacute;rande" French Sea Salt</a>  Don't know why, but when using this - there is a something special flavor added.  Never used anything but regular table salt.  But I am hooked!!!
+
+product/productId: B005NPEAUS
+review/userId: A19THLC5ICNIKV
+review/profileName: artlady
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1331596800
+review/summary: salt of the earth
+review/text: This wonderful sea salt is both beautiful and healthy for you. It takes less to season. Anyone who is concerned abot salt and diet will love this product
+
+product/productId: B005NPEAUS
+review/userId: A2N9W653IF2ATM
+review/profileName: 2cents
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1331424000
+review/summary: Yumo!
+review/text: Man, this salt is really good!  Love the flavor, and that it's a much better/wiser choice vs regular table salt.  Good Stuff!
+
+product/productId: B005NPEAUS
+review/userId: AI5SG3N6F0RMN
+review/profileName: John Ron-Je'
+review/helpfulness: 8/10
+review/score: 5.0
+review/time: 1314316800
+review/summary: Great stuff,and a must to have
+review/text: I got into salts, the more I learned to cook.  Firstly all salt is salt,  but different textures appeal differently on your palate.  They seem so anyway.  Now the darker shades of salt do have different minerals, depending where they're from.  You need to be careful though , remember these gourmet salts do not have iodine, so make sure you continue to use table salt, though it is hard to do so.  Love this salt on salads and steak,  trust me.
+
+product/productId: B005NPEAUS
+review/userId: A2NHZN41OXJBNP
+review/profileName: M. fletcher "Angelsongsilove"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334966400
+review/summary: FAMILY LOVES IT!
+review/text: Got this stuff and it looked like they just swept it off the beach . I think its still wet actually. We got the course and we grind it ourselves. We love it. We even took a taste test, first this French gray , then Mortons salt. Hands down we could taste the difference and we could taste how much better the French Gray was. I would get the fine salt next time. I wanted that but must have hit the course by accident. We still like it! You will too. Worth every dollar. And now im spoiled.
+
+product/productId: B005NPEAUS
+review/userId: A9TPV4O2YQJXO
+review/profileName: loves purses
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334534400
+review/summary: mm mm good
+review/text: Love this salt.  It has a really nice flavor, not too salty, has a mineral taste that is very good.
+
+product/productId: B005NPEAUS
+review/userId: AYNH2BHO8SO52
+review/profileName: Nicole
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346112000
+review/summary: Tasty
+review/text: I never realized this, but the salt and mineral concentration of seawater is different in each part of the world, and therefore the taste of sea salt varies based on where it comes from.<br /><br />To me, "French gray" sea salt is delicious - the flavor is more gentile than regular salt and has a slightly tangy taste with just a hint of minerals.  The price may seem high compared to table salt, but Amazon's price is low compared to other places I've bought it. Definitely worth it, in my opinion.<br /><br />One thing to note is that this sea salt is very moist, so it doesn't work well in a grinder or shaker.  Sometimes I'll serve it in a salt cellar, but generally I just keep it in a glass jar by the stove for cooking and use regular salt at the table.
+
+product/productId: B005NPEAUS
+review/userId: A3N0XT43RFEJLD
+review/profileName: Andrea N. Fleuren "Doctor 72"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345334400
+review/summary: loved it
+review/text: great product.  actually we've used it all now.  great to scatter on veggies, as well as cooking in meals. highly recommends.
+
+product/productId: B005NPEAUS
+review/userId: A3GQP16J109A3F
+review/profileName: Homer Jay Simpson "Homer J."
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1339200000
+review/summary: why is it wet?
+review/text: the salt is wet and i dont like that. it's not dripping or anything, but it's moist and it is clumping. i had to put it in the oven and as i type it's baking to get the moisture out.<br /><br />i did not know that it would be damp.<br /><br />it has a nice flavor, quite salty. if it was not damp/wet, i'd buy it again.
+
+product/productId: B005NPEAUS
+review/userId: A2U1BYEK28NS3F
+review/profileName: Auntie Sandy "Hooked on Books"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1342137600
+review/summary: Yummy!
+review/text: Yeah, I know that salt is salt, but I like the taste of this salt. It wasn't as costly as many of the gourmet salts, so I use it to make my own seasoned salts for myself and for gifts.
+
+product/productId: B000634CO6
+review/userId: A2ZIRJSSMRHTGS
+review/profileName: goDolphins
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1306195200
+review/summary: Does its job
+review/text: I bought this food for my young cat which used to suffer from urinary tract issues. After going to the vet and getting very expensive food from them, i decided to give this purina One a try. It did a great job at keeping my cat healthy, and never had a problem with urinary tract again while on this food. The only reason i give this 3 stars and not five, is because my cat doesn't like it(he is not really a picky eater, he eats a wide variety of things). He will only eat it when absolutely starving or when mixed in with other dry or canned foods. Right now i am feeding him friskies special diet canned food, as well as iams proactive health original with chicken. This combination he really enjoys and it has given great results with his UTI problem (which has not reoccurred in over a year). Since i still have about half a bag left of PurinaOne, i just leave out a bowl for him at night so he can eat if really hungry, but half a cup usually lasts about 4 or 5 days before he eats it all. It is a very good product which does its job wonderfully, it is just not for my particular cat.
+
+product/productId: B000634CO6
+review/userId: A1CJJ99IZDH8BL
+review/profileName: Nicky Blue
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1345680000
+review/summary: Works good for our Cats
+review/text: I have 2 cats and one developed crystals in his urine - after hundreds of dollars in vet bills and the expensive food (which you can only get a Petsmart if you have a prescription) I thought there had to be an alternative food for my cats. We've been feeding this to both our cats (one is prone to Urinary problems and the other isn't) - seems to be working fine for the past...4 years about. Our cats have never been picky eaters, so it was an easy switch and no my issues.<br /><br />My only gripe with Amazon is that - Walmart sells the 16 lb bag for $21-$22 and it's sold on here for $29. Not really a deal, so I do buy this cat food elsewhere.
+

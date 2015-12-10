@@ -1,0 +1,1143 @@
+product/productId: B001EPQNTC
+review/userId: A25OGYCSVUS5IJ
+review/profileName: S. Bacon "quansoo"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1261440000
+review/summary: Adequate, no more...
+review/text: This is OK, but it is not better than that.  The flavor is nothing special. If you are using it in some dip (caviar/egg sort of thing) you will probably be OK.  Frankly, you can find better deals.
+
+product/productId: B001269FJS
+review/userId: AHSYTKCN56M7E
+review/profileName: Long Island George
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330128000
+review/summary: Breafast at its Best
+review/text: There is nothing better than travelling and having that first breakfast on the road! Cook this up in your kitchen, close your eyes, take a bite and remember that vacation when the day started off with a delicious breakfast!  It did it for me and i bet it does it for you! Enjoy!
+
+product/productId: B000UXA0KM
+review/userId: A2Z3XISQAQS394
+review/profileName: hocadobi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1254700800
+review/summary: Awesome Sea Salt
+review/text: We are learning that sea salt is better for us because of the reduced sodium content. This brand of sea salt has 400mg per 1/4 teaspoon which is even less than some other sea salts.  I find that the saltiness in Roland seems more intense than regular table salt, so am able to use even less of it and still have all of the flavor enhancement.
+
+product/productId: B000UXA0KM
+review/userId: ASHE15M0G2YJD
+review/profileName: retired early
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1243641600
+review/summary: Ultra fine sea  salt
+review/text: It's hard to review salt but I will try. Yes, this is sea salt from Italy and sea salt you know is very good for you in moderations. The quality of this brand goes outside the box. Food salted with sea salt taste so much better than regular rock salt that has been used here for years. Just look what rock salt can do to the highways and your driveway after a snow storm.  Got the picture. Stay healhty, Retired Early
+
+product/productId: B000UXA0KM
+review/userId: A1LFSTBR7L7PUT
+review/profileName: V. Wiedemann "2 avid readers"
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1256515200
+review/summary: I've had better sea salt
+review/text: The product description did not include the fact that this salt also contains magnesium carbonate.  Despite that, it seems "moist".  The crystals don't make hard lumps but they also don't flow freely like some other brands of sea salt that I've had in the past.  It is difficult to use this salt in a salt shaker.<br /><br />This is the only Roland product I've purchased that has been less than satisfactory. I do not believe I would order it again.
+
+product/productId: B0000DF3FA
+review/userId: A3CW1KFX8CT9PF
+review/profileName: Allen R. Beecham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1209513600
+review/summary: Yummy stuff.
+review/text: It's oregano and it's ground.....what else do you need to know?  It tastes great when I put it in the water to boil my artichokes.  I ordered this on Amazon because I couldn't find the finely ground stuff at my local grocers.  No regrets....will order more when this one is gone.
+
+product/productId: B001G0MFVK
+review/userId: A1YOA207J3M531
+review/profileName: Mom "Mother of Six"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1227398400
+review/summary: Wonderful fun making homemade candies for Christmas!
+review/text: This chocolate is so easy to work with for making homemade molded chocolates.  We have used it for years for our traditional chocolate making at Christmas.  It melts easily in the microwave, and it molds beautifully.  The molded chocolates have a nice shine and a crisp bite.  I was very disappointed when I could not find it locally, so hurray for Amazon.  And this price is great. Direct from Ghirardelli's, it's $10 a box!!<br /><br />For a great chocolate treat, mix some rice krispies in some of the chocolate and fill a nice-sized mold halfway.  Lay a small piece of caramel apple wrap in the mold and then fill the remainder with plain chocolate.  Voila!  a home-made $100,000 bar.  These are our favorites.
+
+product/productId: B000KABMUW
+review/userId: A169LQ0J9D74V8
+review/profileName: Jane Eyre "Teresa"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1174521600
+review/summary: Low carb chicken noodle soup
+review/text: This soup is pretty good, it doesn't have many "noodles" in it at all, they are tiny, and look more like parmesan cheese shavings than noodles, it is mostly broth and flavorings. Its pretty good, but I would highly recommend the Chicken Cheese Enchilada soup in the same line instead.
+
+product/productId: B000KABMUW
+review/userId: A3JTRV5DXHAQVT
+review/profileName: N. Hull
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1241740800
+review/summary: NOT Gluten Free
+review/text: I don't know what it tastes like. I just know that that this item came up on a gluten free search but it is not gluten free. It contains semolina and semolina is wheat.
+
+product/productId: B001M22T5Y
+review/userId: A1GLDG948JBYJ3
+review/profileName: CoffeeMD
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331942400
+review/summary: not as bad as Dilmah
+review/text: OK, I wrote a damning review of the Dilmah Green Sencha tea, which I described as tasteless and weak and no relation in any way to Japanese Sencha, so here is a cheaper tea that at LEAST has a minimal taste of something and a subtle flavorful after taste in the back of the throat. It is also, to me, fairly stimulating so there is definitely a fair amount of caffein or caffeine like substance in it. But still not sencha as we know Japanese Sensha.
+
+product/productId: B005DZIKJK
+review/userId: A21YS2PSI5APWP
+review/profileName: Denny Bissell "Denny Bissell"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: No arguing with your healthcare people
+review/text: What a blessing it is to have these natural products to help with things that not just any ole herb can handle.<br />A very fine grind, to make it easy to use, steeping quickly in warm water or alcohol and filling quick and easily.
+
+product/productId: B0017OTL1W
+review/userId: ANLQIKDJM1C60
+review/profileName: C. J. Moody "Visionary"
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1232928000
+review/summary: Childhood candy favorite
+review/text: After years of thinking these weren't made anymore my wife saw a program on TV that mentioned Squirrel Nut Zippers.  Well, needless to say, I immediately went to our friends Amazon and did a search and found these delights once more.  Made sure that I order two tubs of 240 pieces each (can never have enough backup of a favorite).  They're good but seem to have less nut pieces than I remember.  That's why a four rating rather than a five.
+
+product/productId: B0017OTL1W
+review/userId: AI39ULNHIQL0T
+review/profileName: Favorite Nephew
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1340323200
+review/summary: Wheres the nuts?
+review/text: I agree with the other reviewers, Necco has totally ruined a childhood favorite.  Squirrel Nut Zippers are now no more than run-of-the-mill caramels.  Also the 240 count are sticking to the wax paper.  I wasn't going to mention that since I need the fiber but I thought you might want to know. BRING BACK THE NUTS.
+
+product/productId: B0017OTL1W
+review/userId: AVX9ATDLCL53N
+review/profileName: J. Kriebel "enajk"
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1226188800
+review/summary: Used to taste better
+review/text: I ate these as a child and there were a lot more peanuts in them then. I still enjoy them but bet they's sell a lot more if they hadn't cheapened them up.
+
+product/productId: B0017OTL1W
+review/userId: A13Y62FZM2N40S
+review/profileName: James M. Radzienda "Jim Radzienda"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1259539200
+review/summary: squirrel nut chews
+review/text: The squirrel nut zippers are just like I remember them with a new name.  I'll pick up a box for each hunting season.  Good price, fast shipping.
+
+product/productId: B0017OTL1W
+review/userId: A1SX174IVN7SS1
+review/profileName: C. Stephens "The Truckist"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349049600
+review/summary: Squirrel Done Stole The Nuts
+review/text: I well remember these Squirrel Nut Zippers in their original form from my childhood. Thought I would try them again since I still have a few of my own teeth remaining. The bits of nuts made a great difference between this candy in the 60's and this castrated recipe today. But it is a light, sweet and chewy caramel even if it has been altered, but it would be more descript to name them Eunuch Caramel Chews and let the customer know.<br /><br />And...who names a band Squirrel Nut Zippers? ? You're screwing up Google searches for my fav treat.
+
+product/productId: B0017OTL1W
+review/userId: ACR4PJCEL2UMD
+review/profileName: Michael potter
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339113600
+review/summary: just as I remember but with less peanuts
+review/text: I bought this item at least three time.  I enjoy the tasty treat but the one compliant I have is that I wish it had more peanuts like yesteryear.  It is still a great candy and it is addictive.  I will most definatly buy more when my five pounder is done.
+
+product/productId: B0017OTL1W
+review/userId: A27TWUGGYJ1GG9
+review/profileName: Ms. J "Addicted to Reading"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: Sweeet!!!!
+review/text: My order was received promptly and the candy was very fresh and sweet.  The quantity was right on time, enough to share and have on hand,
+
+product/productId: B0017OTL1W
+review/userId: A2SVTU305IQT0U
+review/profileName: Edward F. Winters "Big Ed"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337817600
+review/summary: Just Like I remember
+review/text: If you are a Squirrel Nut Zipper fan, you have found the right ones to buy!  I received them within two days of ordering and they were super fresh.
+
+product/productId: B0017OTL1W
+review/userId: A1F1P0X6M058OA
+review/profileName: Gift Recipient "krashdog"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223251200
+review/summary: I LOVE CANDY ....
+review/text: good stuff .... not a lot of peanut in it but it i good and chewy
+
+product/productId: B003JA5KDU
+review/userId: A2E17VAJ2E7KHF
+review/profileName: TheDecider
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1290470400
+review/summary: This is not a miracle health cure!
+review/text: This is not a miracle health cure!<br /><br />I think some people have unrealistic expectations when it comes to products like this. They expect a sachet of powder  to be the basis of their nutrition regimen.<br /><br />I first experienced EBOOST when flying on Virgin America a while back. This product is available from the in-flight menu. I tried it a couple of times and found it to be a sweet pick-me-up. Did it have a health benefit? Maybe. It can't hurt to get the extra vitamins listed on the packet can it?<br />I take a range of supplements and while EBOOST is not as comprehensive as some others it does contain a decent amount of vitamins.<br /><br />I like the convenient sachets - I keep one or two in my carry bag and then shake it up in a bottle of water when I want a sweet taste. The taste reminds me a bit of Tang I used to have as a kid.<br /><br />I like this product - but please don't think it is the key to good health...
+
+product/productId: B003JA5KDU
+review/userId: A24RT6AVJXJZHF
+review/profileName: John P. Thiel "John T."
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1289952000
+review/summary: Performance and Flavor--both are equally important
+review/text: Now matter how effective a sports drink is, if you're riding a bicycle for five or more hours over a hundred mile course, whatever is in your water bottles has to taste good too.  I generally use Gatorade, not because it's the most effective but because it's more effective than just plain water AND it tastes good.  For comparison, the most effective sports drink I've ever used is Accelerade, but I wont put it in my water bottles because I can't stand drinking it hour after hour as I'm cycling up and down mountains over a 100 mile course.  Accelerade isn't bad, I just don't want to drink a gallon of it, all day long, in 90F+ heat.<br /><br />EBOOST has all the qualities I look for in a sports drink--for doing actual sports--which is simply that it's palatable (so I'll actually want to drink it) and effective at maintaining my endurance.<br /><br />Besides that, EBOOST comes in single serving packets which I can put in a jersey pocket and use throughout the ride when I visit water stations at rest stops rather than starting the ride with something I like and then having to drink whatever is available that I can tolerate.<br /><br />Flavor alone makes the difference between consuming enough fluids during an all day effort and energy-zapping dehydration.
+
+product/productId: B003JA5KDU
+review/userId: A2PD27UKAD3Q00
+review/profileName: Wilhelmina Gaudy "coolartsybabe"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288137600
+review/summary: Gives The Right Kind of Boost
+review/text: EBOOST gave me the right kind of boost. It made me feel energized, alert, focused, and ready to get through my day. What it didn't do was make me feel anxious or jittery like many other energy drinks.<br /><br />Full of B vitamins, Vitamin C,and other essential nutrients, EBOOST gives your body what it needs to enhance your immune system and keep you going in a good way.<br /><br />The taste is ok. It tastes a lot like an orange drink with a dash of salt. The salty taste most likely comes from the bicarbonates. But, it's really not that bad at all. Getting the desired effect far outweighs the slight salty taste.<br /><br />A cool glass of EBOOST will clear your mind and make you feel more refreshed than you've felt in a long, long time. Definitely a healthier choice than one of the popular canned energy drinks.
+
+product/productId: B003JA5KDU
+review/userId: A3PPXVR5J6U2JD
+review/profileName: Michael J. Tresca "Talien"
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1288224000
+review/summary: I hope you're happy.
+review/text: I recently gave up drinking soda and have been searching for a calorie-free alternative.  I'm a big fan of Tea2Go, but like most sweet-tasting mixes it has Splenda in it.  So even though I've replaced my Diet Pepsi addiction with watered down tea, I still feel a little guilty about it.<br /><br />So when EBOOST came along I thought it was a perfect opportunity to inject some vitamins into my diet.  And, let me tell you, EBOOST sure did.  I just didn't expect it to blast those vitamins through my tongue and out the back of my skull.<br /><br />You see, the folks who produce EBOOST believe that more is better.  And therefore, something that's good for you in large quantities is even better.  And while we're at it, why not just multiply the good stuff by a THOUSAND, because hey, how can it hurt, right?<br /><br />I take a daily multivitamin already and even the efficacy of a multivitamin is questioned by the FDA.  The reason being that different minerals are absorbed by the body differently, and often require fat in your diet (usually at the time of consumption) to be absorbed along with the vitamin. In other words, just sucking down a vitamin with water isn't going to do you much good.  And, in case it's not clear that this review is going down the toilet, dumping thousands of milligrams of certain vitamins into your system is going to pass right through you.<br /><br />Don't tell EBOOST that.  EBOOST has 1,000 mg of Vitamin C, which is 1,667% the daily recommended value.  Let me repeat: one thousand six hundred and sixty seven percent of the daily recommended value.  And here I thought I was okay drinking a glass of orange juice in the morning! I drank a full eight ounces of water with EBOOST and I'm surprised my head hasn't exploded already.<br /><br />In fact, the only vitamin that EBOOST doesn't include insanely high amounts of is potassium at just 14% of the daily recommended value, because that would reduce the efficacy of the 2,500 mcg of Vitamin B12.  Do you know how much of the recommended B12 daily value that is?  41,667%.  I read the label twice: FORTY ONE THOUSAND SIX HUNDRED AND SIXTY SEVEN PERCENT of the daily recommended value.<br /><br />A quick search of several health sites explains how ridiculous this amount is. "Vitamin B12 supplements do not appear to improve energy or athletic performance, except in people with a vitamin B12 deficiency."<br /><br />Please folks - if you want to take care of these fragile bodies of ours, drink plenty of water, eat healthy, and exercise. There is no magic formula that will make you healthier except a healthy lifestyle.  There are plenty of other ways to get your vitamins, but EBOOST isn't it.<br /><br />Also, it tastes like metal shavings off a dirty muffler mixed in with an orange rind. But I have only myself to blame -- EBOOST fizzes when you pour it into water.  That's Nature's way of telling you not to drink it.
+
+product/productId: B003JA5KDU
+review/userId: A2NA4NHE5QRLZ7
+review/profileName: marymuse
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1317254400
+review/summary: boost the flavor, please?
+review/text: I'm a big water drinker, and I love using mix-ins for my water. However this simply did not work. Clumpy. Didn't taste good. I struggled to drink it and don't think it's something that I'd be able to recommend. Ugh.
+
+product/productId: B003JA5KDU
+review/userId: A3RU2P4FAACQ1J
+review/profileName: Elton Pinto "Eptiger"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1300320000
+review/summary: Not Really Worthwhile
+review/text: If this tasted good, I think I'd be more supportive of it, but it tastes terrible. I didn't feel a huge energy boost from it, but maybe I just didn't notice it because I generally draw energy from exercising and being active. I think you're better off getting multivitamins from your local drug store.
+
+product/productId: B003JA5KDU
+review/userId: A4G402ORCHSXJ
+review/profileName: Ellen W. "Ecclectic Student"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1298851200
+review/summary: Blargh! Undrinkable!
+review/text: I took a long time to try EBOOST after I received it, because I was worried it might be bad to take it with a multi-vitamin (I hadn't considered this when I ordered it). But today I was feeling a bit tired, so I thought I'd go ahead and try it. There were no warnings on the package, so I figured it was probably ok.<br /><br />I sound like I'm building up to some kind of terrible reaction, but nothing happened. There was no effect at all, good or bad, because I just couldn't drink the stuff. I tried, but it was so nasty. It's very sweet on the surface, like artificial sweetner. This didn't bother me so much, though. What bothered me was the bitter, flat under-taste it had. It tasted like the lemon-lime laxative doctors force you to chug when they want to clean you out. Really awful. And it didn't go well with the artificial sweetner. It was bad enough to make me shudder.<br /><br />I'm sorry I can't write about how beneficial I found this drink mix. But it can't do me a lot of good if I can't drink it in the first place.
+
+product/productId: B003JA5KDU
+review/userId: A55PK06Q6AKFY
+review/profileName: ephemeral
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1291593600
+review/summary: good source of vitamins, but could taste better
+review/text: Orange-flavored EBOOST is a fairly standard energy/vitamin drink.  It has 50% our the daily recommended value of zinc, 1667% of vitamin C, 100% of B6, 41667% of B12, 75% of niacin, as well as several other vitamins and nutrients, with only 5 calories per serving.  The B12 amount in particular is very high, and I'm not sure how if that is really necessary.<br /><br />It is supposed to be orange-flavored, but it also contains green tea extract, and I didn't think the orange taste was very authentic.  In fact, I found this drink to be overpowering and unpleasantly bitter.  The first time I tried it, I followed the directions and added 1 package to about 8 oz of water.  However, I found this unpalatable and had to dilute it until I had used 4 times as much water as instructed.  Because the vitamin levels are so high, I don't really have a problem diluting it to such a large extent, but other people might prefer something that is drinkable after following the directions.
+
+product/productId: B003JA5KDU
+review/userId: AWAB7PKBO3BBT
+review/profileName: H. Lee "Amazon junkie"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1290038400
+review/summary: Meh
+review/text: I didn't get much of any energy boost.  it doesn't taste that great either.  It was very foamy from the carbonation it creates.  A little bit of bitter finish.  I don't think of it much more than a vitamin C pack.
+
+product/productId: B003JA5KDU
+review/userId: A39Q9G7J70A056
+review/profileName: Anna "Anna"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1289606400
+review/summary: Fizzy & tasty orange
+review/text: The review title about says it all.  It was fizzy, tasted like an orange drink made popular by important travelers of the 20th century, and didn't disagree with my stomach like orange juice does.  The plus was definitely the taste; I have used another vitamin C loaded product which is almost bitter in comparison.  I don't recall feeling any extra energy, although I felt good each time I took the product.
+
+product/productId: B003JA5KDU
+review/userId: A15OAS39003U5R
+review/profileName: Bradley J. Brisco "Brad Brisco"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1289347200
+review/summary: Good dietary supplement
+review/text: I recently tried EBOOST for a four day trial period, with what I would consider "mixed results." The product provides a good orange/citrus flavor and I really like that it also provides the essential vitamins of Vitamin C, B6, B12, Zinc, Green Tea Extract to supplement a person's dietary requirements. However, as far as the "energy boost" that is suppose to accompany the use of the product . . . well I am more than a little skeptical. Overall I think it may be a helpful/easy way to supplement your diet, especially if you are not receiving the appropriate and necessary vitamins/minerals, but I am not convinced it will add to a person's vitality or daily energy level.
+
+product/productId: B003JA5KDU
+review/userId: A2H2I5FY1PUHP1
+review/profileName: Boilermate
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1288915200
+review/summary: Where's the Boost?
+review/text: This product describes itself as a "Daily Health Booster." I'm not so sure about that, but it does have an array of vitamins and minerals, and an insane amount of B12. Since it is billed as a "dietary supplement" they don't have to substantiate any of the "health" claims. Like many "dietary supplements," it is overpriced.<br /><br />I'm not sure what the effervescence is all about. You pour the powder into a glass of water and it foams up, but doesn't seem to add anything to the resulting drink. The powder does dissolve completely, leaving no residue after mixing and drinking.<br /><br />The drink itself tastes like Tang (which is not necessarily a good thing) with a slight artificial sweetener aftertaste (which is definitely not a good thing). I got about the same "boost" from this as I did from drinking Tang, which is to say, "not much."<br /><br />If you need a "health boost" save your money and buy a bottle of multi vitamins. If you need effervescence, take the vitamins with a glass of orange soda.
+
+product/productId: B003JA5KDU
+review/userId: A2CV33795L4KHH
+review/profileName: A. Davis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1288483200
+review/summary: Tasty with a reasonable energy effect
+review/text: "Boost" may be the wrong word. When I took this in the middle of a bike ride, I didn't suddenly feel more energetic, but my energy level definitely did not decline. It has roughly the same effect as Gatorade without the sugar. It tastes good and does a reasonably good job of keeping me going when exercising.
+
+product/productId: B003JA5KDU
+review/userId: A3SQQYS79AV13M
+review/profileName: Terri J. Rice "ricepaper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288137600
+review/summary: Tang + Green Tea + Fizz= EBoost
+review/text: I handed out the packets to all ages in our house for their opinions.  My reaction was that it tastes like Tang with a fizz, my 12 year old said it was Tang + fresh, "Can't you taste the green tea at the end?" he asked.  I could and it does leave a pleasant lingering green tea taste.  My thirteen year old liked it equally well.<br /><br />We used smaller juice size glasses and filled with water and ice.  The EBoost fizzed and tasted great.<br /><br />My older son took a packet to college and during lunch drank EBoost instead of soda for a much healthier and still refreshing drink.<br /><br />With only 5 calories and no sugar, you get all the Vitamin C, B6, selenium, chromium you need for a day.  You get 50- 75% of niacin, folate (great for pregnant women), zinc, and 14% potassium.<br /><br />Here's what the packet tells you: EBoost's naural proprietary blend delivers energy that is unyielding, focus that is unclouded, immunity that is derived from vitamins and minerals, and a means of recovery that is not only sugar-free but delivers essential nutrients.  EBoost gives all those who rely on it a healthy comptetive advantage.  At work, at play, at life.<br /><br />Whew!  I don't know about all that but if it is true my son is sure to ace the physics test today!<br /><br />The taste is good enough to make a regular appearance at breakfast.
+
+product/productId: B003JA5KDU
+review/userId: A1W60EW7Q6A75C
+review/profileName: Niki Collins-queen, Author "author"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288137600
+review/summary: Beats taking a bunch of pills
+review/text: I love the EBOOST healthy energy drink mix! It not only tastes great but it's rich in vitamins and minerals to increase energy levels, support the body's immune system, aid in recovery and electrolyte replacement and boost focus and performance. The vitamins and minerals include vitamin C, B6, B12, zink, niacin, folic acid, selenium, copper, chromium, potassium, green tea extract, glucuronolactone and 5-HTP.<br />Getting your vitamins and minerals in a delicious effervescent drink beats taking a bunch of pills. The preparation is easy too. Just add the powder to a glass of water.<br />Best of all EBOOST has only five calories and is sugar-free. There's no harsh crash afterwards.<br />The drink comes in three delicious flavors ACAI POM, orange and pink lemonade. I chose the orange flavor and highly recommend it. Proceeds go to National Breast Cancer Research.
+
+product/productId: B003JA5KDU
+review/userId: A3NYTSAEPZDJ7Y
+review/profileName: Elizabeth Ray
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1288828800
+review/summary: Convenient change of pace
+review/text: Dissolving Eboost Orange in a glass of water results in a mildly carbonated beverage with a Tang-like taste.  Although it is supposed to be an energy drink, it is not fortified with caffeine beyond what is in the tea extracts it contains, so I would not say that I felt an 'eboost,' but nor did I get the caffeine jitters.  It has amazingly high levels of vitamins C and B, most of which will likely go out in your urine.  However, since it is a powder Eboost is convenient to keep on hand and transport, unlike other sports and energy drinks with the water already added.
+
+product/productId: B003JA5KDU
+review/userId: A2A1HDK1NXG1S2
+review/profileName: turtlex "turtlex"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1288742400
+review/summary: Excellent Taste - No Jittery Energy Burst
+review/text: First, the most important thing in my mind - taste. These orange flavored packets punch a wonderful citrus/orange flavor. Not too tangy, and not tart at all, they convey a perfect orange flavor. While not supplying a huge energy burst, they do make a noticeable difference. What they do NOT do, is give you that jittery feeling a lot of energy drinks do.<br /><br />Each packet contains a powdered flavor that completely dissolves in water. Each packet also contains the following - supplied by the company website :<br /><br />Anhydrous Caffeine<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Chromium<br />  * Increases Energy<br />  * Regulates hunger<br />  * Reduces cravings<br />  * Helps protect DNA and RNA<br />  * Important to heart function<br />  * Helps control fat and cholesterol levels in the blood<br />  * Compliments of Suite101.<br /><br />Copper<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Glucuronolactone<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Potassium<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Selenium<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Sodium<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Vitamin B12<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Vitamin B6<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Vitamin C<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />Zinc<br />  * Increases Energy<br />  * Aids in Focus<br />  * Augments muscle strength<br />  * Raises metabolism by increasing muscle activity.<br /><br />And all of the above come in a wonderfully flavored drink mix.
+
+product/productId: B003JA5KDU
+review/userId: AFJFXN42RZ3G2
+review/profileName: R. DelParto "Rose2"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1288137600
+review/summary: A Boost of Energy
+review/text: EBOOST:  Daily Health Booster provides the essential vitamins of Vitamin C, B6, B12, Zinc, Green Tea Extract to supplement one's dietary needs for the day.  As the label suggests:  energy, immunity, recovery, and focus are the necessary elements as well as the tangy, natural orange flavor that one packet possesses that is not quite as Crystal light or powdery as Tang but tasty enough to drink with as much as 5 calories.<br /><br />The packet is convenient and easy to mix into a water bottle or a full glass.  However, when dispensing the item into a water bottle, make sure to slowly pour the contents rather than quickly because what may result is an overflow of an orange colored mess that almost looks like a lab activity gone awry.<br /><br />Overall, EBOOST has a desirable taste that is satisfying and healthy.
+
+product/productId: B000EIE20M
+review/userId: A25RJN35V9Z12L
+review/profileName: pokohoho "book lover"
+review/helpfulness: 18/18
+review/score: 5.0
+review/time: 1155254400
+review/summary: the best!
+review/text: My cousin-in-law is Thai and she cooked an amazing curry for us.  I had to have the recipe and she said it was really very simple.  Just get the green Mae Ploy curry paste, some Asian basil, and some coconut milk.  A little salt, sugar, chicken, some bamboo shoots and rice were the only other things I would need to make it.  Well, I couldn't believe it was really THAT simple, but it was!  The paste imparts several subtle and delicious flavors to the curry.  Tastes like you slaved for hours.  I never have leftovers when I make this curry.  The paste is so low priced I plan to stock up so I'll always have some on hand.  Plus-- no preservatives, no wierd ingredients.  It's all food stuffs, albiet some of the ingredients I don't recognize... what is a galangal?  Whatever it all is, sure tastes good!
+
+product/productId: B000EIE20M
+review/userId: ARO01YW98I9ZW
+review/profileName: C. Smethers "shebbie"
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1239580800
+review/summary: So good and easy to prepare
+review/text: My husband and I love Thai food,but I'm not that good at cooking Asian dishes. This product was easy to prepare and the flavor was tremendous. It is tastebud hot, so the first time making, be conservative with the measurement of the paste. I would recommend this product.
+
+product/productId: B000EIE20M
+review/userId: A27IF87J5OSL9Q
+review/profileName: D. Fink
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1263168000
+review/summary: Fantastic!
+review/text: If you're looking for authentic, Thai curry, this is it.  After you've made the dish a few times, you can tailor it to your liking.  We like it VERY spicy, so we're generous with the portions, and add chili flakes and a little madras curry powder.<br /><br />Buy with confidence, and keep your pantry stocked!
+
+product/productId: B000EIE20M
+review/userId: A12FQR26O65H4M
+review/profileName: K. Aley "Chickpickaholic"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1260576000
+review/summary: Great product
+review/text: I live in Puerto Rico and cannot find Thai food here, let alone ingredients.<br />I bought this and the red curry paste too. I had never made my own curry<br />before, but with the help of this, I made restaurant quality curry!  There is quite<br />a bit of product in the container, so it will last if refrigerated.  Watch the shipping<br />costs from outside vendors. They will not combine shipping in some cases.
+
+product/productId: B000EIE20M
+review/userId: A1HHGJPZIA3SO4
+review/profileName: Nervous Pervis
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1177372800
+review/summary: This is awesome stuff
+review/text: Authentic taste, long shelf life in your fridge, easy to use, and the price is right.  How can you go wrong.  When I prepare a curry with this I don't go crazy with a lot of Thai ingredients other than the curry paste.  Just some veggies from the super like bell pepper, scallions, carrots, jalapeno and serrano chilies, and some sliced pork or chicken or beef.  So easy and so delicious.
+
+product/productId: B000EIE20M
+review/userId: A2JKU9VP5MCQBU
+review/profileName: Jon Atwood "Computer Geek and loving owner of...
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1331769600
+review/summary: YUMMO!
+review/text: Curry has officially become my FAVORITE food over the past year. I can't believe I waited 35 years to try it.<br /><br />We went through all of the grocery store curry pastes and never could find one that had great flavor and spice.<br /><br />Mae Ploy knocks it out of the park! We always have 3 or 4 of these in our fridge & pantry. These make super yummy curry with or without coconut milk (we've recently started using chicken stock instead of coconut milk to cut down on the calories)<br /><br />A definite MUST HAVE for curry lovers<br /><br />Add some <a href="http://www.amazon.com/gp/product/B00016UX0K">Mae Ploy Sweet Chili Sauce, 25-Ounce Bottle (Pack of 2)</a> to your pantry too!
+
+product/productId: B000EIE20M
+review/userId: AHYSDQTWJMZB4
+review/profileName: J. Preston
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1314662400
+review/summary: Yes, it's better than the rest
+review/text: Agree with most posters that this is really the best. I don't know if the price is right, but considering this might be a 4-6 month supply for me, I'm satisfied. Just don't buy the little jar of "Thai Kitchen" green curry, whatever you do. I will be throwing it away now that this Mae Ploy has arrived.
+
+product/productId: B000EIE20M
+review/userId: A3SIUJ78CZP1YS
+review/profileName: Rachan Jaroen "Amazon.com manager"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1186963200
+review/summary: Good product
+review/text: Mae Ploy curry paste is always delicious.  Directions are on the label.  Easy to cook.  Saves a lot of cooking time.
+
+product/productId: B000EIE20M
+review/userId: A2ANBEX40KLY4O
+review/profileName: TrishS "TrishS"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1310601600
+review/summary: Tasty and fast
+review/text: I have both the red and green curry paste.  The green is milder.  I use both of them in variety of dishes and often spice up soups and stews that need a little zing.  It is so convient to have them in the frig.
+
+product/productId: B000EIE20M
+review/userId: AB4OJHV7HLFEU
+review/profileName: Lisa Leong Soke Leng
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1298678400
+review/summary: Delicious Curry paste.
+review/text: I have been using this curry paste for 10 plus year. It makes very delicious curry, if time is available I will add some raw ingredients on the list to enhance the flavour of the curry. Very good buy and recommended to everyone. Lisa, [...]
+
+product/productId: B000EIE20M
+review/userId: A1HPPYO919W3VM
+review/profileName: Derek Haas "Derek"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295395200
+review/summary: Spicey
+review/text: This is real potent.  It doesn't take a lot to make it firey.  This tub should last a long time
+
+product/productId: B000EIE20M
+review/userId: A10XU998SZBNJG
+review/profileName: Cool Life in AZ "Nuts for Brussels Griffons"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338163200
+review/summary: I don't have to beg my son to cook for me anymore....
+review/text: Everyone who has had the opportunity to eat this loves this - I like this a lot with green and yellow zuccini, carrots and bamboo shoots with thin sliced turkey breast. Living too far from any real good oriental restaurants is no longer such a bummer...just came back to order more... price went up a bit but it's still well worth it.<br /><br />I see some complaints about too salty - I don't think it is salty and I do NOT use any salt when cooking nor do I eat any salty snacks so my taste buds would complain if this was too salty. Too hot? The way we make it, it's at most medium hot while the flavor is excellent (not diluted with coconut milk)...the hot sensation goes away very quickly...we love hot food - almost to a point of burning lips, eyes and nostrils hot but this is medium hot. Maybe it's less hot for us because we use a lot of veggies and eat it with white rice which always turns down the heat.
+
+product/productId: B000EIE20M
+review/userId: A75W2AMTMEJWA
+review/profileName: SON
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1335484800
+review/summary: Good but salty
+review/text: I thought the flavor was really good, just the right balance of flavor and heat. So much better than the stuff you buy at the grocery store. The only complaint I have is the saltiness, you can definitely taste the 25% of your daily sodium in every serving.
+
+product/productId: B000EIE20M
+review/userId: A39QHSDUBR8L0T
+review/profileName: halfabusa
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1351209600
+review/summary: Just ok
+review/text: I bought this brand because it was all they had at Ranch 99 near us. I find it spicy (hot) but not enough flavor. I would have rather bought Maesri Thai Green Curry Paste. It is much much more flavorful and spicy.
+
+product/productId: B000EIE20M
+review/userId: A945RBQWGZXCK
+review/profileName: Cheryl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Great flavor
+review/text: I've purchased different curries in the grocery store and was never completely happy with the flavor. I read a recipe that recommended this brand and after using it I can see why they recommend this specific brand. Great flavor - I purchased all 3 - Green, Red, and Yellow curry paste and have enjoyed all 3 types.
+
+product/productId: B000EIE20M
+review/userId: A37SXUK3NI5H5P
+review/profileName: culinary pilgrim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: the secret ingredient
+review/text: after FAR too long seeking to mimic the cuisine of the local thai restaurateurs(without seeking help online or simply asking) i discovered mae ploy by accident in some hippy dippy food shop. this paste is all that stands between a bizarre amalgamation of food and authentic thai goodness. buy it add some veggies some coconut milk serve with rice on side. you will not regret it.
+
+product/productId: B000EIE20M
+review/userId: A2PUSR7ROG0Z6T
+review/profileName: Terry Bisgrove "Mr.E.Man"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1344297600
+review/summary: OK Product
+review/text: I like other styles of Mae Ploy curry paste, but the green just doesn't work for me. Overwhelming garlic, no heat, and very bland. I would not purchase this product again.
+
+product/productId: B000EIE20M
+review/userId: ANDN9BU8C5XWN
+review/profileName: Noell Rose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344038400
+review/summary: My new signature dish!
+review/text: Because of Mae Ploy Thai Green Curry Paste, green thai curry has become my signature dish. I am always being asked to make it. Remember that it is very spicy so a little goes a long way. The flavors in this paste are complex and varied and make for a delicious curry. We are living overseas (not in Thailand) so I am happy to see that it is available on Amazon!
+
+product/productId: B000EIE20M
+review/userId: A5S4PJHP7BS45
+review/profileName: Jesse
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340928000
+review/summary: Mae Ploy Thai Green Curry
+review/text: Not the best tasting curry paste. It is good, but it still requires alot of work to throw together a good curry. The taste is salty and spicy, not exactly what I look for when it comes to green curry. It takes alot of sugar to even out the flavor and make it edible.
+
+product/productId: B000EIE20M
+review/userId: AX6NBN16WYTRJ
+review/profileName: howie simon
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1350259200
+review/summary: just packaged curry paste quality; nothing to rave about
+review/text: Many people are unnecessarily intimidated when it comes to making curry paste.  I am always disappointed by the people who are impressed with the taste of curry paste manufactured between 6 months and 18 months ago.  Its not hard to find the fresh ingredients and make it fresh.  It takes me less than 15 minutes to make something that is far superior in taste and nutrition to this product.  This product is widely used in Thai restaurants where the cooks don't want to cook, and don't want to invest the time in training workers who change restaurants every 6 months...they just want to hire untrained laborers who can open cans and scoop pre-made mixes out of containers.  It takes a bit of time and practice to make curry paste, but do it a few and you can master the art of working with the spices.  You will never go back to the cheap, low quality substitutes used in most Thai restaurants and sold in Asian grocery store. If you want the real thing, learn to make it or find a restaurant to support that makes their pastes from scratch.
+
+product/productId: B000EIE20M
+review/userId: A1Y80MB10WNI7F
+review/profileName: To the Point "Ro"
+review/helpfulness: 3/6
+review/score: 3.0
+review/time: 1310774400
+review/summary: Hot Stuff
+review/text: I was so excited to get this curry paste. The flavor was good if you can get past the heat. Wow, it is hot. My boyfriend goes to Thai resturants and orders Thai hot and then asks for some more hot sauce. He even said it was hot. The next time I make it I'll try adding less paste and additional coconut milk.
+
+product/productId: B000FF8X18
+review/userId: A1B0S71V21VW0D
+review/profileName: D. Hall "fooddude"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336608000
+review/summary: Handy Xylichew packets
+review/text: Xylichew is the only gum I use. It tastes better than any other gum I've ever had. And then, there is the added benefit of xylitol which is good for teeth.  And these packets are perfect for carrying Xylichew with you on the go!
+
+product/productId: B005ZF9YAW
+review/userId: A1GMCA1F4P6ILB
+review/profileName: K
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347753600
+review/summary: NO CHIPS FOR ME, THIS IS MY FAVE!
+review/text: I have sworn off chips and soda for many years now. When I do crave for salty snacks, this is what I get. Garlic and Adobo is my favorite. I live close to an Asian Store and recently found out that Amazon does have better prices for a 3-pack.
+
+product/productId: B000KABMUC
+review/userId: A169LQ0J9D74V8
+review/profileName: Jane Eyre "Teresa"
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1174521600
+review/summary: Best soup Ive ever had
+review/text: I ordered this soup from an online low carb retailer, and I love it. Its the best soup I think I've ever had. It doesn't taste low carb or diet at all. If you like cheese,and you like Mexican, you will love this soup. I've been eating it everyday and I never tire of it. It is smooth, creamy, delicious.
+
+product/productId: B000P6MSOU
+review/userId: A3SPK1WPUE53HS
+review/profileName: M. M. JETT "writer of prose"
+review/helpfulness: 16/18
+review/score: 5.0
+review/time: 1273536000
+review/summary: survival kit
+review/text: I send the Austin-Cookies & Cracker Variety pack to my son in college. This is perfect for the dorm room and he does not have to keep running to a vending machine. He likes the variety, I like the convenience and know that the product is good and more nourishing that cany bars.
+
+product/productId: B000P6MSOU
+review/userId: ADQ7ANPQNGY5Z
+review/profileName: Joe Z.
+review/helpfulness: 14/16
+review/score: 5.0
+review/time: 1227916800
+review/summary: Austin Cookies & Crackers Veriety Pack
+review/text: Good selection of single-serve cookies and crackers...handy to have around because there's something to please everyone. Good price and the product shipped quickly...
+
+product/productId: B000P6MSOU
+review/userId: A30IXLV8DF0WDO
+review/profileName: J. lee
+review/helpfulness: 12/14
+review/score: 5.0
+review/time: 1286928000
+review/summary: variety, yummy, and lots lots more!
+review/text: This box is absolutely a bargain! There are so many different flavors and they are all delicious! You NEED to buy these! They are seriously delicious and addicting! Plus, they are really filling and already in great portions! Just grab-and-go!!! Love love love these!!!
+
+product/productId: B000P6MSOU
+review/userId: A1QJ0UMSIE1MCP
+review/profileName: David Alexander
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1274227200
+review/summary: Decent cracker snacks
+review/text: These things are fairly tasty, but really I get them more for their low price than their great flavor. It's nice to have something like this handy when you need to eat on the run or in the car.
+
+product/productId: B000P6MSOU
+review/userId: AUO73JW4FJFCN
+review/profileName: princeadvantage
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1293580800
+review/summary: The price is right and the crackers are fresh
+review/text: I am very happy with these crackers and cookies. Why? Because they where shipped right which means no broke cookies,,,they are fresh and taste great and the big excitement is the price. Let me explain that. If you go to the store and pick up and buy one of thes crackers or cookies one at time you will pay between .60 and .75 cents but this product cost .33 cents a piece and you always have some to eat when you want a snack. Great price and great product.
+
+product/productId: B000P6MSOU
+review/userId: AVRBXEQPA02C4
+review/profileName: K. Cykes
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1305504000
+review/summary: Great price, variety, and taste
+review/text: This was my first time ordering any produce off the internet, so I assumed it would not come in top quality. When I received it and opened, I noticed a perfectly packaged box with 0 cracked cookies. There are 6 flavors, most being peanut butter or cheddar, and some chocolate, vanilla, and lemon flavored ones. They all taste great, not stale like said in some of the other reviews. While I may just have gotten a good batch, it was good, and I recommend these to other buyers.
+
+product/productId: B000P6MSOU
+review/userId: A3TTB209FM9EVP
+review/profileName: Linda Odom
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1301356800
+review/summary: Austin Cookies & crackers
+review/text: I try to keep treats for the great grandbabies when they come to visit. They know right where the container is and go straight to it and look at me to see if they can have.Of course they get one and some to take home.
+
+product/productId: B000P6MSOU
+review/userId: A2GA55P7WGHJCP
+review/profileName: domino113
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1295395200
+review/summary: Nice assortment, fresh, sent as gift
+review/text: Sent this as a gift to a man. He is pleased to have them in his pantry, but is not raving about how grate they are. No complaints. Price was good.
+
+product/productId: B000P6MSOU
+review/userId: A1XJ3XYKIULFGL
+review/profileName: J Heezy
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1291593600
+review/summary: Austin Cookies & Crackers
+review/text: Pretty good stuff, beats running to the vending machine. Alot of variety though i wish there were more cookies to crackers ratio.
+
+product/productId: B000P6MSOU
+review/userId: AVLJV4ZX3NFX6
+review/profileName: Squashbug
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1284940800
+review/summary: Great deal
+review/text: The Austin-Cookies & Crackers Variety Pack is a wonderful product not only for family snacking but also for sending in care packages.  I sent this to my son in college and he was thrilled.  He liked the variety and the handiness of grabbing a snack between classes.  I will be buying more of this variety pack.
+
+product/productId: B000P6MSOU
+review/userId: A3FNOVQYSXT5BB
+review/profileName: Paul G. Eversole "mobyyy"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1331596800
+review/summary: cookies
+review/text: this came with only three packs of cookies one of each type in top layer not five each no big deal but I wanted them
+
+product/productId: B000P6MSOU
+review/userId: A2XOLHKX8FTFYL
+review/profileName: Elliott C. Musial
+review/helpfulness: 8/12
+review/score: 4.0
+review/time: 1251158400
+review/summary: Product variety and allocation
+review/text: These 45 count packages are inefficient in that there are far too many crackers compared to the cookies.  The cookies sell quickly and you're stuck with all the crackers that don't sell as well.  Then I can't restock additional cookies (resulting in lost sales) until the crackers are sold.  The product mix in these packages should be closer to 10 vanilla, 10 lemon and 10 chocolate with the balance in the crackers.  I have half full cases of crackers sitting in the store room and the customers are screaming at me because I don't have any cookies on the shelf.  Kellogg's....are you listening?  Time to wake up!
+
+product/productId: B000P6MSOU
+review/userId: A2908U1H9L3NGJ
+review/profileName: Brian J. Aldridge "gaming geek"
+review/helpfulness: 4/6
+review/score: 2.0
+review/time: 1310342400
+review/summary: Bland Flavor, Poor Quality
+review/text: I bought this because I am on a diet and I like to buy things in small packages to control portions. Once I got them and read the nutrition information I discovered that these are very high calorie for their size (around 220 calories). I am going to stick with Ritz Crackerfuls, double the flavor and half the calories (120 calories). The flavor of all of these Austins was bland and boring and there was never enough filling between the crackers or cookies. Most of the packets I opened had crushed pieces which spilled cracker dust all over the place. I tried one of each variety in this package and took the rest to work to give away to co-workers.
+
+product/productId: B000P6MSOU
+review/userId: A13M4BBX9MH82Q
+review/profileName: ramjoe "joseph wesley"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1295481600
+review/summary: just as i remember
+review/text: i always put a pack of these in my lunch box for a snack during the day.....this is an amazing package and the taste just like i remembered
+
+product/productId: B000P6MSOU
+review/userId: A1TE1MZMZK7UZE
+review/profileName: John
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350345600
+review/summary: All Crackers Smashed
+review/text: Every last sleeve of crackers was damaged. The majority of them were smashed so badly that they were just dust. Horrible packaging.
+
+product/productId: B000P6MSOU
+review/userId: A2BOGWVZ40AKPO
+review/profileName: J. Burgett "Mrs.Jenn"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319760000
+review/summary: Variety Pack
+review/text: Not bad but not great either. My children of course love the cookies but when it comes to the crackers they just tell me they are extremely dry and pasty. You def. get a lot food for the money but when the children turn to them as the last resort snack when everything else is out... just doesnt make me want to repurchase.
+
+product/productId: B000P6MSOU
+review/userId: A8BNHPZQF4IAR
+review/profileName: A. mickles "doctorw2"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318809600
+review/summary: say yum
+review/text: This was the ultimate snack pack which was so delicious i had to make myself curb my cravings for these delicious crackers and cookies these are fantastic for late night snack urges.
+
+product/productId: B000P6MSOU
+review/userId: A2629HALQ3TBTS
+review/profileName: John G. Terino
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1334102400
+review/summary: Great For The Kids School Lunch Bag
+review/text: Trying to provide the two grade school kids in our house with something they like every day for their lunch bags is tough. These give us a variety of choices that are prewrapped, compact, and, most important of all, something they love to eat.
+
+product/productId: B000P6MSOU
+review/userId: A1JNCUQ9EGC0HV
+review/profileName: nikyob2004
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1323475200
+review/summary: austin cookies & crackers 45 ct what a deal
+review/text: This is such a deal for the cost and taste, put in lunches carry for snacks such a deal! There excellent to carry if your hypoglycemic like me, the peanut butter and cracker ones!
+
+product/productId: B000P6MSOU
+review/userId: A24X8P2TG2AR02
+review/profileName: Cody
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1322784000
+review/summary: Great Bang for Your Buck!
+review/text: Excellent assortment, just the right amount of each, lasts a long time! None of the crackers were broken or crushed like some might expect to happen during shipping. My favorites are the round crackers with peanut butter. Great anytime snack or with a sandwich for lunch or sensible dessert.
+
+product/productId: B000P6MSOU
+review/userId: A31E69VSWGKYT0
+review/profileName: T. Yang
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1340755200
+review/summary: Great!
+review/text: I really like the variety. Hence, it is a variety pack. I grew up with this stuff as a kid so it was a good natural buy off of amazon. I would purchase these again once I run out.
+
+product/productId: B000P6MSOU
+review/userId: A1Z4LX3Q1YMF84
+review/profileName: Cindy A. Osterhout "Cindy O"
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1334966400
+review/summary: Great cracker and cookie snacks. Gets you through Chirstmas, Easter or Finals
+review/text: I ordered my first set of Austin cookies and crackers right before Christmas time: Cards to write; presents to buy; presents to wrap; presents to deliver; gotta get decent clothes fixed up to go; shoes need to look nice; Pandora Christmas Bracelet Must be ready:<a href="http://www.amazon.com/gp/product/B005PIGUS8">Authentic Biagi Decorative Cross Bead Sterling Silver European Charm</a><a href="http://www.amazon.com/gp/product/B0044B1HGC">Swarovski GREEN and PINK Flowers Crystal Pave European Charm Bead AFTER CHRISTMAS BEAD SALE</a><a href="http://www.amazon.com/gp/product/B007IY276G">(Free Shipping!) " Jesus Raised Letters " Antique'd Silver Bead Charm Spacer Pandora Troll Chamilia Biagi Bead Compatible</a>. I snacked away as I did all the important things, slipped the beads and charms on my bracelet and went out to celebrate Christmas. The 26th (my birthday)...not a single cookie or cracker left to quench my hunger. All gone. Must have been good.<br /><br />I was celebate until Easter drinking only Muscle Milk <a href="http://www.amazon.com/gp/product/B002DUD7JG">CytoSport Muscle Milk Light, Ready-to-Drink Shake, Chocolate, 14 Ounce, (Pack of 12)</a> until then, but the Holidays once again: Got to cook dinner for all 28 of the family members who will be in Phoenix for that big day; got to get a nice Easter outfit; get to church early to save 28 places; send out Easter Cards, and get the Easter Lilly. Better get some AUSTIN COOKIES AND CRACKERS FROM AMAZON BEFORE I start these tasks plus get the Pandora Easter Bracelet ready. <a href="http://www.amazon.com/gp/product/B006YJUG8W">Antique Silver " Easter Egg " Charm Spacer Beads fits Pandora Troll Chamilia Biagi Bracelet</a><a href="http://www.amazon.com/gp/product/B005DLEVNS">Sterling Silver Bunny Bead</a><a href="http://www.amazon.com/gp/product/B0077L0X0W">Jesus On Cross Against Flower Beads Fits Pandora Charm Bracelet</a>. Bracelet is ready, cards are sent, time for church, lets all have a snack of AUSTINS so we will hold out til dinner. Drat...not one left for me!<br /><br />Ok, It is time for Finals. There are not cards to send, meal to fix, or presents to buy. Will have to get a bracelet ready. It is tradition. But now so is AUSTIN COOKIES AND CRACKERS. But there are books to study; nights to be up reading all those books; now where are my class notes; where are my friends? Time to all pull together and get thru this Trig and this Chem. I will haul out the Austins, I know we will be up all night. Get the coffee pot on and the soda is ready also. Here we go guys: it is Engineers or bust: Pass me the cheese crackers.<br />Two days later we are all studied up. Engineers we will be, no worries there, but gotta order more Austins and do the bracelet thing:<a href="http://www.amazon.com/gp/product/B004PAFUO2">Bling Jewelry 925 Sterling Silver Wise Owl Scholar Books Bead Compatible with Pandora Bead Charms</a><a href="http://www.amazon.com/gp/product/B002OSQSVQ">Zable(tm) Sterling Silver Graduation Cap Bead / Charm</a>.<br /><br />Well, a girl who is an engineer has to be graceful and wear her charm braclet to all important occasions. Also gotta provide the best Snack Foods whether it be time to get ready for Chistmas or cramming for finals. I found this huge box of snackers on Amazon and the are like "comfort food." I have eaten them since I was a kid. I do not imagine they are packed with good things for the body, but they make the body happy because they taste fine and bring back good memories. In fact, the crackers never contained much filling and today there is less than when I was a kid. The cookies certainly do not taste fresh baked, or anything like Mom's (Or today Mine) but they are sweet when sweetness is wanted. I would say that mostly these bring back good memories, taste pretty OK in the cracker line because of the salt not the fullness of filling which is actually spare. And the cookies are sweet. That is about it for the cookies. Filling and sweet. But good comfort food, and with those good memories, they get 4 stars.
+
+product/productId: B000P6MSOU
+review/userId: A2VK0SKAFDG8HM
+review/profileName: Pattijo4u
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1327622400
+review/summary: Same page for $ 12.58 !
+review/text: What is going on , I found these for $ 12.58 on the same page as these ?<br /><br />Is this a double pack ? Then I could understand the BIG price difference !
+
+product/productId: B000P6MSOU
+review/userId: A3U7JXTZJWRQFL
+review/profileName: Guoan Jiang "WenJ"
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1344902400
+review/summary: Hei, Customers. This is not a fake comment. Please read this before you order this cheap junk
+review/text: You will receive 30 packs of cracker all for red dye. Don't trust the photon!<br />They are neither cookie nor cracker.<br />If you want the fat and color additive melt right inside of your mouth, this is the product for you.
+
+product/productId: B000P6MSOU
+review/userId: A1JJCLPCDHF13X
+review/profileName: MSKWC
+review/helpfulness: 1/6
+review/score: 1.0
+review/time: 1341792000
+review/summary: Worst unhealthy snack
+review/text: This stuff will survive the apocalypse with spam and cockroaches. Voted one of the worst snacks by The Wall Street Journal, Fitness Magazine, and MSNBC, just to name a few, I can't recommend this for anyone.
+
+product/productId: B000P6MSOU
+review/userId: A2R60EE0TAK6ZW
+review/profileName: R. Morrison "random geek"
+review/helpfulness: 5/27
+review/score: 2.0
+review/time: 1274659200
+review/summary: Way too many peanut butter crackers!!
+review/text: I added this to my grocery wishlist as an Amazon recommendation which popped up after I had added something else. I really should've taken a minute to look at the product page, or to realize what would happen before it was too late and someone bought this for me:<br /><br />Nearly HALF THE STUFF IN THIS THING HAS PEANUT BUTTER.<br /><br />To which I am deathly allergic.<br /><br />Peanut allergies are fairly common, so why the hell is half of this thing peanut butter crackers? I can see putting 10 packs of peanut butter crackers in here, maybe 12, but TWENTY?! WHY?!<br /><br />Let this be a warning to people with peanut allergies -- AVOID this product. You'll be stuck with a massive pile of crap you can't eat.
+
+product/productId: B001EO5PDI
+review/userId: A360VSXKUVOJ0H
+review/profileName: Nancy
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1214870400
+review/summary: Great Cereal at a fraction of the cost
+review/text: I have food intolorances and this is one of the cereals that I can eat.  No wheat or refined sugars.  I was paying over $5 a box in my local stores which meant I could only have it now and then.  I love the cereal, the price and free shipping to get it to my house.  Thanks
+
+product/productId: B001EO5PDI
+review/userId: A3K98GERRFRE07
+review/profileName: Mom of Three
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1203206400
+review/summary: Best One So Far...
+review/text: This is excellent.  The cherry taste isn't very pronounced though.  My teenage son is happy about that as he dislikes cherries ever since the cherry flavored cough medicine he had when he was little.  My kids all love this.  We eat it plain, with kefir, and with milk.  The peanut butter granola is good too, but I prefer this one with kefir.  We've tried the pumpkin/flax granola and the peanut butter.  While the others are good too, this one has the best taste according to my family.
+
+product/productId: B001EO5PDI
+review/userId: A26MRR5KRZ486
+review/profileName: L. Bogdon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1216080000
+review/summary: Tasty and filling
+review/text: My favorite way to eat this cereal is to sprinkle it on top of my yogurt in the mornings.<br /><br />Amazon, you rock! Thank you for selling it at a great price compare to my local grocery store!
+
+product/productId: B001EO5PDI
+review/userId: A21IMO4TXXSBZ0
+review/profileName: Absinthe
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326153600
+review/summary: Where are the cherries? (plus, it isn't real granola)
+review/text: Bought this "granola" because it looked good on the box with the dried cherries in it.  It turns out it is "granola" in only the loosest sense because it has just a bit of real granola (ie; rolled oats) mixed in with a whole bunch of rice crisps.  Cheap.<br /><br />The worst part though was the complete lack of cherries.  The photo on the box shows dried cherries interspersed in the spoonful of cereal depicted.  But when I poured out my first bowl of cereal no cherries whatsoever were visible.  I wondered if maybe they had all settled to the bottom, so I took the bag out of the box to look... no cherries at the bottom either.  I poured the entire contents into a mixing bowl and eventually found a single chunk, about 1/8 the size of a pea, that might have been a tiny chip off of a cherry at one point.  That was it.  Putting "cherries" in the name of this cereal is thus a total lie.  It should read "there might be a remote chance that you'll find a tiny chunk off of just one cherry in this cereal".  What a ripoff.
+
+product/productId: B001EO5PDI
+review/userId: A697WSC7EN7VH
+review/profileName: O. Hassanain "meems"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1179705600
+review/summary: not so tasty
+review/text: The flax granola is better. this is kind of mixed in flavor. didn't like it so much
+
+product/productId: B000LKZLQ2
+review/userId: A1LZJZIHUPLDV4
+review/profileName: vegancompassion "anattanupassana"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1191369600
+review/summary: Vegan Organic Kosher Choice
+review/text: Vegan. Organic. Kosher. Great for bean salad. Just add your favorite organic vinaigrette salad dressing and serve. Wonderful and easy for potlucks or dinner parties. Garbanzos (chickpeas) with pintos and kidney beans is a great combo. 375kcal and 26g protein per can. Made with only organic beans, sea salt, and water. Labeled "vegetarian," but is vegan also. This review is out there for those for whom this makes a difference. See all of my reviews for more great choices. Check out "Vegan Grocery Favorites" and "Vegan Grocery Top Ten" in Listmania. Your "helpful" votes count and will be greatly appreciated to benefit the search of others. Thank you.
+
+product/productId: B000LKZLQ2
+review/userId: AG1JWQCP2UKI7
+review/profileName: KGS
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1233273600
+review/summary: Content not as described
+review/text: Ordered in November 2008 and have opened 6 cans.  So far, inspite of the product "content" and label, all six have contained almost all pinto beans, only a few kidney beans, and absolutely NO garbanzo beans.<br /><br />I can only assume this is so because pinto beans are the cheapest of the three and garbanzo the most expensive.<br /><br />Very disappointed in Westbrae, and won't purchase this product again.
+
+product/productId: B000LKZLQ2
+review/userId: A2Q4P6TGQIGLFD
+review/profileName: John Donaldson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307836800
+review/summary: So delicious and versatile
+review/text: There are so many ways this can of natural goodness can be served. I find more ways as time goes along, but I fall back on my favorite. I open the can, drain the liquid in a cup, drink it, yum, pour the beans in a bowl with the bottom lined with crushed organic saltine crackers to absorb moisture, fork on organic sweet pickle relish and chopped ginger (from a jar) and chow down. I don't heat it up, I like it room temp with the relish and ginger cold or just out of the cabinet. I buy as pack of 12, 15-ounce cans a month from Amazon. I used to buy 4 packs of 12 (48 cans - so I wouldn't every run out), but I have found other treats to fill in and I was liking them too much I think. :)
+
+product/productId: B000F6UOPK
+review/userId: A136O4612RPE5S
+review/profileName: Drew
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1242432000
+review/summary: Great Chai Tea
+review/text: An outstanding chai tea. Make an easy chai latte, take one tea bag, fill your cup about 1/4 full of water and microwave for a couple of minutes and let sit for a few.  Then add a teaspoon (or two) of sugar and top off with milk and heat up.
+
+product/productId: B000F6UOPK
+review/userId: A3JB65L9SSXRLJ
+review/profileName: Patrick Tulskie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1263859200
+review/summary: Delicious
+review/text: I had tried this a while back and though it was pretty good.  Only problem is, it's been difficult to find locally for some reason.  Glad to see it on Amazon and in bulk too.  You really can't go wrong with GoodEarth teas if you are looking for a bagged tea.  Every bag so far has been fresh and consistent.
+
+product/productId: B000F6UOPK
+review/userId: A16PSCT744EM59
+review/profileName: Average Joe Squared
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307577600
+review/summary: Good tea, good price
+review/text: My wife loves this tea.  Sometimes, the local grocery stores are sold out and/or the price per box will hit $5+.  Buying through Amazon makes for an easy alternative.
+
+product/productId: B000F6UOPK
+review/userId: A1XBUHT0JKF82F
+review/profileName: K. Walker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302912000
+review/summary: Outstanding Vanilla Chai Tea
+review/text: My wife loves this tea!  It is one of the best vanilla chai teas she has tried.  I like the price. Getting it in bulk and having it delivered - without paying for the fuel to drive to the store - is great!  Cheaper than in stores too.
+
+product/productId: B000F6UOPK
+review/userId: A9WLH70P1RNS2
+review/profileName: Wesley Golangco
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302048000
+review/summary: Great tea! use a lot of bags.
+review/text: This tea is awesome. it's flavorful, aromatic and best of all, each tea bag is individually packaged! that means every tea bag will be fresh!<br />if you want a strong chai, i do this: 4 tea bags in 1 cup of water, heat on stove til boiling, add 2 cups milk and sugar, heat to almost boiling. very tasty.
+
+product/productId: B000F6UOPK
+review/userId: A3H18QWEFM3JC5
+review/profileName: Joyce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1285372800
+review/summary: absolutely delicious!
+review/text: The flavor of this tea is comparable to a loose vanilla chai tea I once purchased at a much higher price.  This is very good served with sugar and a little milk/cream cold or hot - delicious!
+
+product/productId: B000F6UOPK
+review/userId: A1BZGB3AS3HFX9
+review/profileName: Eleni Skordi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1248307200
+review/summary: My Favorite Tea
+review/text: I'm so happy this tea is available on amazon now.  I love it but I'm not always able to find it at stores.  I'm so glad I can put it on standing order.
+
+product/productId: B002ZOSJ34
+review/userId: A1MWUA0QGFIAPJ
+review/profileName: L. Gulley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308355200
+review/summary: FINALLY!!! Delicious healthy candy with a good cause
+review/text: I absolutely love these gummy worms (and the gummy bears). The texture is super yummy, and they are not overly sweet (since they are made with natural sweeteners) which doesn't give me a stomach ache like conventional ones. These fulfill my craving for chewy candy without the guilt, and they are fair trade and organic- which both support good causes. I can't see where you can go wrong with these! Also, the slightly higher price is worth it since (like i previously mentioned) they are healthy, yummy, and for a good cause!!
+
+product/productId: B002ZOSJ34
+review/userId: APHUR0PS05DZK
+review/profileName: Annie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1308096000
+review/summary: SO DELICOUS!!!
+review/text: The flavor and texture of these are so delicious!!!  Of course they aren't like the standard gummy worms you buy in stores because they are free from all of that junk. I crave these!!  They taste BETTER than other brands found in stores.
+
+product/productId: B002ZOSJ34
+review/userId: A3H8288VHL1607
+review/profileName: Nicole Brown
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344384000
+review/summary: Great healthier candy option
+review/text: Yummy Earth has made a much healthier version of the conventional gummy worm. Regular gummy worms contain chemicals and tons of high fructose and other sugars that aren't very desirable. The Yummy Earth Gummy Worms are made from real fruit juice and nothing artificial. The flavor also tastes unprocessed, almost as if you are eating real ingredients! The sour coating is just right -- not too sour. The worms are smaller in size than most conventional worms but that doesn't bother my kids one bit.
+
+product/productId: B002ZOSJ34
+review/userId: A3L3K6KNN33L0V
+review/profileName: customer21
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1293148800
+review/summary: horrible.
+review/text: I thought that there was suppose to be 12  5 ounce bags but there is only one! This is a rip off price when you include shipping price! How are you saving 29 dollars when there is only one bag? Not to mention the gummy worms are really fat and not long as normal gummy worms. I am highly disappointed.
+
+product/productId: B0042GZTB8
+review/userId: A1A1AJ6ZU9F0EC
+review/profileName: Trevor E
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1325462400
+review/summary: Stale See's Chocolate
+review/text: I ordered two boxes of candy for my wife. In one box the candy was old, beginning to turn white and had many crumbs. A complaint resulted in a replacement box of candy with the exact same date on it and worse than the first box. A $3.00 box of drug store candy would have been fresher.
+
+product/productId: B0042GZTB8
+review/userId: AR89H8T4PVWSL
+review/profileName: Linda
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1297641600
+review/summary: See's Candy
+review/text: I have always enjoyed See's Candy in the past.  However, this candy seemed old.  The color of the chocolates had a whiteish color like they have been packaged for a long time.  I was really disappointed with it.  Linda
+
+product/productId: B0042GZTB8
+review/userId: A2LN7OLQRVWQH3
+review/profileName: Patrick J. Foy
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1299196800
+review/summary: Wow.
+review/text: I wanted to do something different for my wife for valentines day but she loves chocolate so I went looking for something new.  Turns out her family had a history with See's.  It was a special treat at holidays when she was a kid.  Not only was the candy delicious, but I got a bonus for bringing back good memories.
+
+product/productId: B000U9WZ72
+review/userId: A3AJDID6Q2M7HZ
+review/profileName: B R
+review/helpfulness: 7/7
+review/score: 2.0
+review/time: 1250035200
+review/summary: Bad Tasting
+review/text: When I first opened the bottle it smelled medicinal. I added it to some iced tea and it tasted just like it smelled, very medicinal and only a trace of fruit flaver. I ordered 2 other flavors and they're the same. I gave it an extra star because service is good, but I can't recommend the extract.
+
+product/productId: B000U9WZ72
+review/userId: A1MNQYPJ2BCC05
+review/profileName: Christiana Hancox "Tegwan"
+review/helpfulness: 5/5
+review/score: 1.0
+review/time: 1289260800
+review/summary: Ughhh!  Be warned - don't buy if you want something natural.
+review/text: If I could give this no stars - that is how I would rate it.  Called extract, but is, in fact, artificial.  Misleading information - no indication in the detail that this is an artificial flavoring - be warned.  Only realised when I actually received the item.  Learn by my mistake.
+
+product/productId: B000U9WZ72
+review/userId: AUCT9XV9URMG5
+review/profileName: Noel G. Christoff "NoelC49341"
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1280188800
+review/summary: Little PEACH flavor
+review/text: I ordered primarily peach(16oz) bottle to make ice tea. It had very little peach flavor, and smelled like propylene glycol(the agent they use to carry the flavor.) I added an ounce of flavoring to 1 gal and still didnt get a peach flavor to the tea.The other 3 flavors were also very poor quality. They definitely are not"extracts", so I returned them all.
+
+product/productId: B000U9WZ72
+review/userId: A2E9YR1NPPK7IW
+review/profileName: Marylander
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1257033600
+review/summary: Peachy Keen
+review/text: This product arrived quickly and in good condition.  The flavor is definitely peach and I use it to flavor my tea.
+
+product/productId: B000U9WZ72
+review/userId: AIS8QGSG6NXV7
+review/profileName: BCJ
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1245715200
+review/summary: Peach Flavor Extract
+review/text: This product worked out so good for me!  I was making Peach Butter and need a little more peach flavor ... fantastic!
+
+product/productId: B000U9WZ72
+review/userId: A2685FKVBGU73L
+review/profileName: Carol S Smith
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1312502400
+review/summary: peach extract
+review/text: It wasn't what I expected, but that was probably my fault.  I just want to flavor non-carbonated water.  I didn't like the flavor when I did that.  I'm sure I'll find another use for it.
+
+product/productId: B004FRYPN2
+review/userId: A22S7ULL2GTEHA
+review/profileName: David A. Conti
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340323200
+review/summary: New diet
+review/text: The best diet foods ever!!!  I have lost ten pounds with that program so I have to developed learning how to balance my diets with the program so recommend this to anyone.
+
+product/productId: B004FRYPN2
+review/userId: A1CRKFCLZMGC3K
+review/profileName: Gary Timmerhans
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1321488000
+review/summary: Tastes like cardboard.
+review/text: I have tried their cookies and they are pretty good so i thought this product sounded  even better than the cookies. I was wrong.
+
+product/productId: B002ZNL43W
+review/userId: A1DLS9LZWONFA2
+review/profileName: Gerald W. Stump
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: The Best of Ginger Beers
+review/text: The finest ginger beer I've discovered anywhere. It is strong and leaves others behind in taste tests. I'd recommend it to all ginger beer lovers.
+
+product/productId: B002ZNL43W
+review/userId: A33KLJRTO8ETKC
+review/profileName: Andona
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336867200
+review/summary: Best Dark n Stormy ever
+review/text: I ordered this brand because I like a real bite in my ginger beer. Supermarket brands like Reed's or Barritts are syrupy and sweet with no ginger bite and Fever Tree has the perfect balance.
+
+product/productId: B001LO4X2K
+review/userId: AXYP8WFW2JB6D
+review/profileName: SeekSanity
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1302307200
+review/summary: Can do better
+review/text: I like that this juice is organic but it is weak on the actual cranberry content due to the "blend." Too diluted by apple juice. I can buy pure organic cran juice at my supermarket for less per bottle. Take that, splice with some water, add a splash of orange juice for a nice mix, and you have a better value per ounce.
+
+product/productId: B00702DYSQ
+review/userId: A2J6PLEV8DI5DG
+review/profileName: herodotus "lost in books"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327104000
+review/summary: Happy Dog
+review/text: Got these for my dog as they were made in the USA and he loves his little treats.  They are a nice small size and he seems very happy with them.
+
+product/productId: B00702DYSQ
+review/userId: A7I09LPMR2BUB
+review/profileName: Sandra K. Stiles "sandra_s"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350691200
+review/summary: Great product but beware expiration date
+review/text: My dogs LOVE these treats.  They're soft, chewy, smell wonderful, they're low cal and seem to be a very healthy choice compared to a lot of other dog treats on the market.  I break them in half and use them during dog training class.  I give the product itself 5 stars.  But overall I'm only giving a 3-star rating because I ordered 6 packs of these treats in mid-Oct, shipped via two day shipping, and three of the six packages expire at the end of Oct.  Very disappointed with the vendor who fulfilled this order.  Definitely will NOT order from this store ever again.
+
+product/productId: B00702DYSQ
+review/userId: A1KGA4YMN8IRWB
+review/profileName: Nashnut
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Dogs go wild for them
+review/text: The dogs just love them and actually start barking after dinner just to get them.  They love all the flavors.  Having very few teeth, the puppy mill rescue especially loves the softer ones.
+
+product/productId: B00702DYSQ
+review/userId: A1UAQ8W6YHF0QO
+review/profileName: Penconi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350604800
+review/summary: awesome
+review/text: These (and all the fruitables) have got to be the yummiest smelling dog treats ever!  They have great ingredients and the dogs love them!  They are a little on the pricey side though.
+
+product/productId: B00702DYSQ
+review/userId: A19XFJFZ7PRSD2
+review/profileName: Pamela D Mares
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Nice small snack
+review/text: Both of my dogs (chihuahua & corgi) love these snacks.  When they see me grab the bag, they start whining for one.  These snacks are small enough to give a few to your dog each day.  I think they are a little too large for training snacks.  They smell absolutely wonderful, just like blueberries.  I will reorder for my little guys.
+
+product/productId: B00702DYSQ
+review/userId: A3UPCYOO9LU726
+review/profileName: Weinroth "Music seeker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339459200
+review/summary: Good enough to eat!
+review/text: I've been buying regular Fruitables Cookies for awhile and intend continuing.  And now, I'm in love with the minis.  At a little over 3 calories, and with a fragrance that draws our dogs into the room, I see these as perfect training treats, especially if you are working to teach a good habit, like "Stay" and need to give several rewards.<br /><br />My four dogs love them.
+

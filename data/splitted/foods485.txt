@@ -1,0 +1,1143 @@
+product/productId: B001E5DRWI
+review/userId: A2AJNKK1S0W8F0
+review/profileName: James R. Kelley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313452800
+review/summary: Tasty Sesame Seeds
+review/text: This is the second 2-pack I've purchased.  Large container, and the seeds are tasty.  I'll probably buy again.
+
+product/productId: B001E5DRWI
+review/userId: A3QFA17HLH0KG1
+review/profileName: Dawn Garini
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308009600
+review/summary: YUM
+review/text: Couldn't find these anywhere in the stores.  Just toast them up a bit and they will make your meal be wonderful.
+
+product/productId: B001E5DRWI
+review/userId: A10JNC7TDWUZK3
+review/profileName: Bruce Kohrman
+review/helpfulness: 5/14
+review/score: 3.0
+review/time: 1218931200
+review/summary: a whole lot of sesame seeds
+review/text: excellent price for a whole lot of seeds.  the individual seeds are smaller than expected.
+
+product/productId: B002QTWTA2
+review/userId: A1KU110KO2ILWG
+review/profileName: H. Rao
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1288569600
+review/summary: Great product for vegans
+review/text: My wife and I are vegetarian so we don't eat anything that has gelatin in it (i.e., most gummy products).  I'm fine with that but my wife struggles because she loves gummy bears.  We've tried vegan gummy products, but they usually taste like cough syrup.  The Annie's fruit snacks are the exception.  They taste great, even better than other gummy products.  The sunny citrus is my wife's favorite flavor.
+
+product/productId: B002QTWTA2
+review/userId: A2VYLXYG3H6TYN
+review/profileName: Aundrea
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1338681600
+review/summary: Would rather buy the brands that don't use added sugar
+review/text: These are extremely yummy fruit snacks! I am always on a quest to find organic, easy, yummy foods for our busy family. I was excited to find these and quickly bought a box, I've been impressed with all the Annie's products I have bought. They didn't disappoint in the taste department, but.... I am a little disappointed about the ingredients in these.<br /><br />Ingredient #1: Organic Tapioca Syrup-this appears to be a great alternative to high fructose corn syrup and other sugary additives. Here's what I pulled up about this ingredient-" Tapioca syrup provides the sweetness needed in a natural way. Produced from tapioca starch using a natural fermentation process, tapioca syrup is a gluten-free and non-GMO (genetically modified organism) alternative to corn syrup, sugar, honey, maple syrup and molasses."  [...]<br /><br />Ingredient #2: Organic cane sugar-this is just sugar. It's organic, so it wasn't grown using pesticides or anything, but sugar is sugar and I try to limit it as much as possible. I'm bummed that this is the 2nd ingredient.<br /><br />The rest of the ingredients aren't really a big deal to me, but here they are: organic tapioca solids, organic white grape juice concentrate, pectin, citric acid, ascorbic acid, colors (tumeric, black carrot juice concentrate, annatto), natural flavors, sodium citrate, organic sunflower oil, and carnauba wax (from palm leaves)<br /><br />So why am I let down by this product? There are tons of great tasting fruit snacks out there that don't use any extra sugar to sweeten them. Stretch Island Origional Fruit Leathers don't use any extra sugars, here's the ingredients of their summer strawberry fruit leather- "Apple Puree Concentrate, Pear Puree Concentrate, Strawberry Puree, Organic Natural Strawberry Flavor, Lemon Juice Concentrate. All Sugars Are Found Naturally In The Fruit." Clif sells their Twisted Fruit rope that has no added sugar. Archer Farms sells a fruit snack for a great price that has no added sugar.<br /><br />So the Annie's Organic Fruit snacks are a great tasting snack that is far above those icky artificial brands that are loaded with artificial dye's and sugar, but I still think there's some room for improvement by using only fruit to sweeten it, rather than cane sugar.
+
+product/productId: B002QTWTA2
+review/userId: A36MP37DITBU6F
+review/profileName: Enchanted  In  Dixie "Enchanted"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1274745600
+review/summary: AWESOME ORGANIIC REAL FRUIT SNACK FOR ALL AGES! MY WHOLE FAMILIE LOVES THESE! SOFT AND CHEWY NOT HARD!
+review/text: Everyone in my family loves these delicious real food gummies. Annies has went above and beyond with the creation of this delicious flavor. My grandkids ages 1 to 5 and my kids 9 and 12 ask for these constantly. They love them so much, that I have to get me a pack when I first open a box ,or I will not get any.  All the Annie gummy bunies are great.
+
+product/productId: B002QTWTA2
+review/userId: A31EN7I9OB5L6O
+review/profileName: T. Swanby "Zach's Mom"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1280707200
+review/summary: Annie's fruit snacks
+review/text: Our son loved these fruit snacks and it was nice knowing they are made from real fruit juices, etc.
+
+product/productId: B002QTWTA2
+review/userId: A2R0N2SHA9PTBK
+review/profileName: OregonMomOf3
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1278374400
+review/summary: All around excellent!
+review/text: I am extremely happy with these fruit snacks.  My children love them and are a healthier alternative to other "fruit" snacks out there.  Plus, getting them from Amazon is super easy and I'm going to sign up for auto-delivery so we never run out!
+
+product/productId: B002QTWTA2
+review/userId: A3LEVHGX15O0EQ
+review/profileName: Caitlin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322697600
+review/summary: Delicious!
+review/text: One of my favorite snacks! So easy to carry around and the flavours are great. I had only ever had the berry ones before, but these are also really yummy  : )
+
+product/productId: B002QTWTA2
+review/userId: A15OXFTNW9BFYX
+review/profileName: annietone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313884800
+review/summary: Daughter loves them!
+review/text: These little bunnies are a great alternative to gummies with artificial flavors and colors.  Thanks, Annie's, for giving all moms and families a choice.
+
+product/productId: B002RKAWNQ
+review/userId: A3M6KDSFK7TWXH
+review/profileName: Janice L. Sheridan
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1298332800
+review/summary: Bad taste!
+review/text: I left positive feed back, the seller was prompt in getting me the tea, the problem is that the taste it TERRIBLE!!!  I compared this tea to another brand and there is nothing simular in the smell or flavor.  This tea is really bad, unless you like moldy pond scum flavor.  I had my sister try it, and she had very simular comments.  Neither me nor my sister could possible drink this tea.  I have since tried to contact the seller two times, and has never responded.<br />Always, taste the product before leaving a review.
+
+product/productId: B001M0YDVY
+review/userId: A2D299PW8TL6Z3
+review/profileName: CSShopper
+review/helpfulness: 6/12
+review/score: 3.0
+review/time: 1301270400
+review/summary: $.31/oz?
+review/text: the price is listed as 24.99<br />there are 24 bags of chips containing 1.5 oz each for a total of 36 oz<br /><br />24.99/36=.694  not equal .31 as listed. Please correct this amazon
+
+product/productId: B000HQR0NC
+review/userId: A3RWM2GF7M1DPS
+review/profileName: Sherry Shachter
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1279584000
+review/summary: Delicious
+review/text: I ordered this product because I didn't see it locally, and I have a very easy recipe that calls for adding tuna to caponata with some garlic, parsley, lemon juice and crushed red pepper and serving it over pasta. The caponata makes the quick dish very special. The cans are tiny so a case doesn't take up much room and because it keeps so long, it makes sense to have so many on hand. Very pleased with the purchase.
+
+product/productId: B000HQR0NC
+review/userId: A32OPTFKGK3DVA
+review/profileName: Timothy C. Mills "Le Grenouille"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297900800
+review/summary: An appetizer you better not refuse!
+review/text: Being an old Sicilian and having experienced a lotta caponata, I keep coming back to the Cento version. The old Gaetanos restaurant in Denver had the best and it was fresh. But around the world, this stuff is what I keep coming back to.<br /><br />My wife is a chef and she hungers (sorry- no, not really) to make her version of this. But hey, fogeddaboudit, Cento has it done.<br /><br />I love the sweet balance of flavors and tenderness of the ingredients. Buy it at the local wop-shop and you gonna probably pay twice the price. So what do they get it for? Don't ask. Ask me, Tino Mazzola. You gonna like!
+
+product/productId: B000HQR0NC
+review/userId: AACJX2ZYTQATW
+review/profileName: Normynne
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329436800
+review/summary: Delicioso!
+review/text: This product is delicious, just like from the old country. And good for those who watch their weight. I'll soon order more.
+
+product/productId: B000HQR0NC
+review/userId: A1UYSEGO1IYT1K
+review/profileName: Mary M. Jenkins
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: Just like I remember
+review/text: I hadn't eaten caponata since I was a kid and my cousin mentioned she was buying it on line. I said I had never thought of that so I checked it out.  I ordered a 12 pack and I must say it is just as I remember....delicious! I am stingy with my Cento Caponata and find it difficult to share. I will be continuing to order this product.  Truly delicious and the price it great.
+
+product/productId: B000HQR0NC
+review/userId: A2N7BBP5Y52YVZ
+review/profileName: mangione
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325289600
+review/summary: best caponata around
+review/text: used as a appetizer or just eating with a crusty italian bread its being home all over again. using it in main dishes sauces its the talk of the table. im glad i found caponatina we called it "bon pranzo".
+
+product/productId: B000LRKN86
+review/userId: A22KUBK8DKJ34T
+review/profileName: amazon user
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1324598400
+review/summary: MAK - poppy seed
+review/text: I was excited with the arrival, quick to deliver however and unfortunatley the poppy seeds received were stale. Sorry! Perhaps next time :)
+
+product/productId: B001HX59ZU
+review/userId: A22OAR7AM9A703
+review/profileName: Doc Campbell
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329264000
+review/summary: This is by far the best Earl Grey in K-Cups and at the right price!
+review/text: I brew this Bigelow Earl Grey tea using the 6oz setting on my <a href="http://www.amazon.com/gp/product/B004KJXSHO">Keurig� Platinum B70</a>. It is by far the best Earl Grey for the Keurig systems and I have tried them all. I went through several of the "Tea<br />Packages"; random assortments of various teas packaged together available here on Amazon. Most seemed artificial, bland, or simply didn't compare to their bagged counterparts. This was not only my favorite Earl Grey but also one of my favorite teas in general available in K-cups.<br /><br />For a little more perspective, I am an avid tea drinker. I consume 10-15 cups of tea a day. A majority of the tea I consume is Matcha or Hunmatsu-RyokuCha. I never mix sugar or milk into my tea. As such, I am particularly interested in teas that are robust and flavorful and not bitter. The bagged Bigelow is very good, not my favorite bagged Earl Grey but very good none the less. The K-cup variety is very close to the bagged version. For this I applaud them as few others can say this.<br /><br />That being said, our machines are perfectly capable of providing hot water for bagged teas. So why the K-cups? Convenience. Regardless of how good this and other K-cup varieties may be, nothing compares to a slow steep. Be it a bag, steeper or infuser they will always win over the instant cup varieties. However, nothing I have found beats the convenience of the Keurig system when it comes to guests and a good cup of coffee/tea. The Keurig system is so easy to use it takes little to no effort on the hosts part to provide a guests favorite beverage as our guests can brew a cup themselves! It's for this reason alone that I have gone through so many varieties of both to ensure an adequate selection of what I consider a good cup of joe and a great cup of tea.
+
+product/productId: B001HX59ZU
+review/userId: AILEWG5QUYUQN
+review/profileName: LATad
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348358400
+review/summary: Good Tea, just not Earl Grey
+review/text: Good quality tea, but does not have the flavor profile of a classic Earl Grey tea. Celestial Season's Earl Grey tea has the flavor profile of a classic Earl Grey tea.<br />This is a good tea, but you will be disappointed if you are expecting a traditional Earl Grey.
+
+product/productId: B001HX59ZU
+review/userId: ASJC83OQ5H16
+review/profileName: daveG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339804800
+review/summary: good product - good price
+review/text: I selected this item for the price per unit, and got the same quality bigelow tea i am accustomed to. a satisfied customer!
+
+product/productId: B001HX59ZU
+review/userId: AWKA8J42G9YWX
+review/profileName: Anne Jahares "A.J."
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1336608000
+review/summary: Keurig's Bigelow Earl Grey Tea
+review/text: Doesn't seem to be as full bodied as the standard, ready for-the-teapot bag of Bigelow Earl Grey. Would not order it again.
+
+product/productId: B001HX59ZU
+review/userId: AEBK6CTXMBCFY
+review/profileName: Sherry A. Merriman Budge "SamB"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317600000
+review/summary: Bigelow Early Grey K-Cups
+review/text: WONDERFUL TEA!  Much better than their tea bags.  This is a MUST HAVE in our home as we both enjoy a cuppa to start and end most days.  We were using the actual tea bags for years.  We didn't think that we'd change as it was so inexpensive as we each reused a tea bag for our days cuppa.  While using the K-cups is not as cost effective, IT CERTAINLY DOES MAKE EACH CUP A PERFECT EXPERIENCE!!!!
+
+product/productId: B001HX59ZU
+review/userId: A3RWSBAUE0DS7
+review/profileName: CDoodle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313539200
+review/summary: Perfect start to my day.
+review/text: This Earl Grey tea is perfect. The K-cup is so easy. It really is the perfect way to start my day. The shipping is speedy too!
+
+product/productId: B001HX59ZU
+review/userId: A19Z4A1XLJP52Y
+review/profileName: S. Hunnicutt "Happy Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313020800
+review/summary: My Favorite Tea
+review/text: I know most people love the more expensive brands of tea....but this is my favorite.  It's also cheaper to order from Amazon that Kuerig.
+
+product/productId: B001HX59ZU
+review/userId: A1PDR0RH5HQ1UB
+review/profileName: houtex73
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303084800
+review/summary: My favorite tea K-Cup
+review/text: This is now my favorite tea K-Cup, and I've tried many in Earl Grey and other flavors.  Highly recommended!
+
+product/productId: B001HX59ZU
+review/userId: AJ0N0VRA57AD9
+review/profileName: Glenn Watkins
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297209600
+review/summary: The best Earl Grey I have tasted (so far)
+review/text: When I first tasted Bigelow's Earl Grey Tea (K-Cups), I couldn't believe how good it was. I'm not a hot tea drinker and this tea has converted me. When I ran out, I decided to try another brand of Earl Grey Tea (Twinings). BIG, BIG difference! The Twinings has a funny smell, taste and aftertaste. I'm trying to figure out what to do with 2 boxes of it. I guess I should have tried a small sample box instead of buying 2 boxes (50 K-Cups). Not all Earl Grey's are created equal.
+
+product/productId: B001HX59ZU
+review/userId: A7K3DTMCZ3E66
+review/profileName: Nita J. Inman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296777600
+review/summary: Tea
+review/text: Love, love, love my new coffee one-cup machine!  This is excellent tea--my daughter, grandson, and I all enjoy a soothing cup of tea.
+
+product/productId: B001HX59ZU
+review/userId: A2Y67JK3K27IPR
+review/profileName: AR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293580800
+review/summary: Love this Early Grey Tea
+review/text: I read a few reviews of people complaining about ending up with tea dust in their cups, but I can honestly say I never experience this once out of the 48 times I made tea using these k-cups.<br /><br />Pros:  great tasting tea<br />Cons:  none
+
+product/productId: B001HX59ZU
+review/userId: ARPP4T1VU3V8P
+review/profileName: Julie H
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293062400
+review/summary: Delightful!
+review/text: Love the Bigelow Earl Grey in the bags and thought I would try the K-cups.  Wow!  The smell is divine and the taste is even better than the bagged sibling tea.<br /><br />I don't think you'll find a better Earl Grey.
+
+product/productId: B001HX59ZU
+review/userId: A2NBWUBL7MJ8MJ
+review/profileName: Terry Kennewick "online is easier"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291161600
+review/summary: Put on an automatic shipment
+review/text: My roommate, an avid coffee lover has taken to this and asked I put it on automatic shipments for him.  Likes it enough that I'm going to order the decaf version to see if I can rekindle the Brit in me.
+
+product/productId: B001HX59ZU
+review/userId: A3UEOUO1YYQOG8
+review/profileName: Rebecca A. Keyerleber "ladybug"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289520000
+review/summary: Excellant Tea and Superior service!
+review/text: I Love the tea and the company is fantastic! Had my tea in a day! Thanks for such excellant service! Becky
+
+product/productId: B001HX59ZU
+review/userId: A2SE2I7JPCJCFL
+review/profileName: Chris Towry
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1284422400
+review/summary: Good tea, bad packaging
+review/text: I must say I was dissapointed in the last batch of Bigelow Earl Grey tea.  The tea itslef was fine, good flavor.  But the tops would come un-sealed on several of the k-cups and make a mess while brewing.  I still love my Keurig and will continue to enjoy other brands of k-cup teas.
+
+product/productId: B001HX59ZU
+review/userId: A3OXHLG6DIBRW8
+review/profileName: C. F. Hill "CFH"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1283126400
+review/summary: Good Earl Grey Tea - Recommended
+review/text: These Bigelow "Earl Grey Tea" K-Cups are quite good when made in our <a href="http://www.amazon.com/gp/product/B000AQPMHA">Keurig B-40 B40 Elite Gourmet Single-Cup Home-Brewing System</a>, on both the Small and Large cup settings. While I have had better Earl Grey tea, the speed and convenience more than compensates.<br /><br />Recommended!<br /><br />CFH
+
+product/productId: B001HX59ZU
+review/userId: A25864T3A6RQIC
+review/profileName: Reading Raven "Book Adventurer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281052800
+review/summary: Best Earl Grey tea ever.
+review/text: The taste and aroma of this tea out beats many others. delicious and very tasty.
+
+product/productId: B001HX59ZU
+review/userId: A1F7YU6O5RU432
+review/profileName: Angela Streiff
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1278288000
+review/summary: Bold flavor Earl Grey from a K-Cup!
+review/text: I have purchased other teas for my Keurig, but none have produced as strong of a flavor as this Bigelow Earl Grey. I have tried all kinds  of brands and blends of tea K-Cups, but none can compare to these. I drink tea rather than coffee, and I like my tea BOLD. I also have found with certain other brands, I ended up with a muddy watter appearance from the K-Cups, but never with Bigelow's. I have never once had a problem with tea leaves in my cup, and never get the "tea dust" at the bottom of my cup like with other brands.<br /><br />I would say if you have been disappointed in the past with other Brands of K-Cup Earl Grey, try these. They are the best out there.
+
+product/productId: B001HX59ZU
+review/userId: API37C59PND0C
+review/profileName: theworldhadteeth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271808000
+review/summary: Great Tea, Fast Delivery
+review/text: I have ordered this tea from Amazon multiple times. I just can't find the Bigelow Earl Grey kcups anywhere local. That's fine though, because they get it delivered so fast! I just got another shipment yesterday and it only took two days. I ordered it late Sunday night and it was on my doorstep by Tuesday at noon. That's 48 k-cups for about $20. Not bad at all!<br />I can find twinings earl grey locally at a store, but it's just not as good as the Bigelow Brand! Love this stuff!
+
+product/productId: B001HX59ZU
+review/userId: A3O68SFGZ7OUI3
+review/profileName: bunnymama
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1270512000
+review/summary: Perhaps I am spoiled by loose-leaf tea...
+review/text: I received this Earl Grey in my starter variety pack that came with my new Keurig.  I drink a lot of tea, so was excited to taste how the brewer handled teas.  I was disappointed with this blend.  It was very bitter, which is surprising to me, since I usually only get bitter tea when I forget that I have been steeping leaves.  The water is not in contact with the leaves very long, so I don't understand how the tea got so bitter.  I will be sticking with brewing coffee in the Keurig, and just using the hot water when I feel like tea.
+
+product/productId: B001HX59ZU
+review/userId: A2UH8DCW0MW6Y2
+review/profileName: G. Miller "Givey"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1270080000
+review/summary: Smooth & Tasty
+review/text: I like the Bigelow Earl Grey K-Cup over the other brands of Earl Grey k-cup for its flavor. There is a stronger but not overpowering bergamont flavor in the Bigelow. Lovely blend.
+
+product/productId: B001HX59ZU
+review/userId: A2FKSMR4Q6EXFY
+review/profileName: Duane E. Crawford
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1268697600
+review/summary: Tea Purchase
+review/text: I received the tea close to the date it was to arrive. It was in fine shape but I think I ordered the wrong brand - that is my own fault. I was looking for an Earl Grey Tea K-Cup that was in a green covered K-Cup. My mistake - I guess I will have to use what I got even though I don't care for it. Wish I could have returned it.
+
+product/productId: B001HX59ZU
+review/userId: A3BR5O7EXQGOSA
+review/profileName: CLFrench "CLFrench"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1267920000
+review/summary: Way too floral for me
+review/text: I love Earl Grey tea and was looking for a good one in a k-cup.  The Bigelow name is a solid one so I thought this would be a good one to try (the Twinings I had tried and liked before wasn't available).  Unfortunately, I really don't like it at all and now have two boxes of them to use.  I enjoy an Earl Grey with a subtle Bergamot and hint of floral but the floral in this is very strong and really overpowers the tea.  I'm still looking for a good substitute for the Twinings but may have to stick to loose tea/steeping until I find one.
+
+product/productId: B001HX59ZU
+review/userId: A2SQX0GWCDS76L
+review/profileName: Jill M.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267920000
+review/summary: Delish
+review/text: Very good tea. I tried several other brands of Earl Grey, but this is definitely my favorite.
+
+product/productId: B001HX59ZU
+review/userId: A20J12AQAFPG8Q
+review/profileName: Von Halford
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1321488000
+review/summary: If you like spending a fortune for 2 dollar tea
+review/text: Honestly I love a cup of Earl Grey. But When the SAME brand of tea comes in a box of 120 for 17 dollars, you have to see past the gimmick. Without a K-Cup in the dispenser.. the Keurig machine dispenses hot water.. Just put a tea bag in your cup and press brew and you'll have a cup of earl gray. Don't go out of your way to blow all that money for what? 1 minute?
+
+product/productId: B001HX59ZU
+review/userId: A28N8BMNCUANPW
+review/profileName: One Firs
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1264896000
+review/summary: Great tea
+review/text: My husband likes the Earl Grey tea and the K-cups make it so easy to fix just one cup. If he wants iced tea, I put some sugar in a heavy glass or old jar, brew the "small cup", fill with ice and DONE. We will continue to buy these.
+
+product/productId: B001HX59ZU
+review/userId: AV0TEK8R7E7PM
+review/profileName: MDPantherfan
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1267056000
+review/summary: It'll do in a pinch
+review/text: We found this at BJ's before I started shopping on Amazon.  My wife and I were disappointed with it after having tried the Twinings in the sample pack that came with our brewer.  The Twinings is much smoother and balanced than the Bigelow.<br /><br />When I wrote this, Amazon was out of the Twinings and only one vendor was selling it at nearly double the normal price.<br /><br /><a href="http://www.amazon.com/gp/product/B001EO5WZ4">Twinings Earl Grey Tea K-Cups for Keurig Brewers, 25-Count Box (Pack of 2)</a>
+
+product/productId: B001HX59ZU
+review/userId: ACGK97YX1SY6N
+review/profileName: J. Gilday
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1276992000
+review/summary: Never again!
+review/text: Recently I purchased 96 k-cups of Bigelow Earl Grey Tea.  Subsequently, I went out and bought a box of Bigelow Earl Grey tea BAGS which is what I am currently enjoying.<br />The reason I'm using tea bags instead of the k-cups is that I don't particularly like<br />swallowing tea leaves.  With this batch of k-cups I have had loads of tea leaves in<br />my mug.  I tried using a small strainer which I placed over my mug during the brewing process.  The tea leaves still ended up in the mug.  So, now if I use a k-cup<br />I have to use a strainer with a paper coffee filter inside of it.  This is much too<br />much trouble.  I will NEVER buy tea k-cups again.  I will never buy any k-cups from<br />Amazon again.
+
+product/productId: B003SLTETG
+review/userId: A2I41NCZG9OR58
+review/profileName: Clay
+review/helpfulness: 41/41
+review/score: 1.0
+review/time: 1325030400
+review/summary: Having some issues with this door
+review/text: I'm happy to hear that others are having good luck with this product.  Unfortunately, our experience has not been quite as positive.<br /><br />First, I was a bit disappointed at the construction.  For this price point I would have expected something other than flimsy plastic.<br /><br />Second, within a month of buying the door the retractable plastic piece started randomly going up and down.  I called their customer service department to inquire.  The rep described it as a known issue.  The solution was to disable the auto-retract safety feature.  I asked when a permanent fix was forthcoming and she told me that disabling the safety feature WAS the fix.  Baffled, I asked if she thought that was a good solution.  She told me I could return the product for a refund if I wanted to (after having cut a hole in the side of my house) in that pseudo-polite, passive-aggressive manner that makes me want to rub broken glass in my eyes.  I hope that she was simply someone who needs to be fired rather than a typical representation of the company.<br /><br />Third, as others have noted,the collar and "fob" are extraordinarily flimsy.  My standard poodle destroyed hers within a few weeks.  Compared to other dogs, she is very gentle so I was surprised when it just fell apart.  I was able to click it back together a few times and get it working, but this last time I saw some sort of yellow-ish corrosive looking goo inside it.  My wife called their customer service and they are sending a replacement.  Meanwhile,the poor dog is very confused.  :)<br /><br />Fourth, the fob is NOT directional.  We have fought with sensitivity settings until we are cross-eyed and whenever the dog is close to the door, it opens.<br /><br />Had we paid $50 or $75 for this product I wouldn't have even bothered with this review.  But, at ~$400.00 (including wall extension, extra batteries, shipping, etc) I am fairly disappointed.<br /><br />I hope others find this helpful.
+
+product/productId: B003SLTETG
+review/userId: A1QFXYVO0CB1SU
+review/profileName: NRM
+review/helpfulness: 14/14
+review/score: 5.0
+review/time: 1314835200
+review/summary: Outstanding Product
+review/text: This is the device that has allowed my 81 year old mother to keep her 60 pound collie. I thought it would take days to train this dog how to use this and it took less than three minutes. The door was installed in room just out side the main door to the house. Some call it a mud room or breeze way. We had a carpenter do the install. The dog is able to let himself in and out all day long. If my mother leaves the house she puts the dog in the breeze way and he is set to go out to his pen and back in again. She can leave all day long and not worry about letting him out. This is just a fantastic product. The dog loves the freedom and we enjoy watching our mother with her cherished pet. I would highly recommend for most families and especially elderly pet owners.
+
+product/productId: B003SLTETG
+review/userId: A2NXH0J6I9PUGR
+review/profileName: W Patterson "Dr Pat"
+review/helpfulness: 12/12
+review/score: 4.0
+review/time: 1317945600
+review/summary: Great Door
+review/text: We purchased this door because our cat wanted to defend its territory.  We also had 3 dogs, a 90+-pound Lab mix, an 80+-pound Lab mix and a Sheltie.  The door installed easily, and the dogs learned to use it within minutes.  We had visiting dogs (2 more large Lab mixes) and they learned to use the door as quickly.  Our only problem was with the collars, until I used small cable ties to keep the case together.  Since that time not problems with losing the case top and inside electronics, we had had the door about three years.  Recently a problem developed with the mechanism, it did not respond at all unless someone struck a blow on the door adjacent to the pet door.  Checking with the manufactures web site indicated this failure require a replacement of the main circuit board.  The manufacturer will rebuild the door for about half the cost of a replacement with a new door and provide a new warranty.  Shipping time is the only consideration in all this, leaving the door non-functioning whether ordering parts, a new door or refurbishing the old door.  We have had excellent success with the door for several years, and in spite of the current problem, I would recommend this door to everyone.<br /><br />I do however want to warn potential buyers of a specific vendor "Better Life 24/7" that is a non-responsive vendor.  I was told to expect my door no later than October 21st.  On October 24th I queried the vendor and did not receive any response from my inquiry.  I know that vendors have little control over the USPS or UPS/FedEx services, but a simple acknowledgement of my email to them (thru Amazon)would have been nice.  I can not recommend anyone purchase anything from "Better Life 24/7".<br /><br />It is now November 8th, I have yet to hear anything from "Better Life 24/7".  I have the greatest respect for Amazon, they filed a claim for the damaged product and I received a full refund.
+
+product/productId: B003SLTETG
+review/userId: A2USKPJYPFW7UT
+review/profileName: Janna Jennings
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1334102400
+review/summary: Not what I expected.
+review/text: We bought this with the hope of preventing cats from getting out.  They are smart enough to bait the dog to come near the door and let them out or in as they wish.<br /><br />I think this door is overpriced.  It does not come with a battery or charger, and you really need 2 batteries so you can charge one while using the other.  We installed it into a door, so using the ac power cord is not a good option.  Also, our puppy chewed through the wire connecting our computer to the Internet the first week we got him, making us nervous about a power cord in his space.<br /><br />We got a 2nd puppy.  A few days later we found the cover of his collar transmitter in the yard.  I guess the two dogs played too roughly and the transmitter came apart?  The button battery from the inside was missing, and it was 5:30 pm.  We looked in the grass for it til it got dark but never found it.  Swallowing a button battery is a medical emergency, kind of like appendicitis, only it can affect any part of the GI tract.  So we had to take both dogs to the emergency vet to get x-rayed to see if either had eaten the battery.  No battery in either dog, thank goodness, but we spent a bit more than $250 for that information.  The collar transmitter should have a screw or something to hold it together better.<br /><br />I am currently writing this from my bedroom, and I hear the door opening and closing over and over.  A dog must be sitting too close.  Guess that means we will be charging the battery again in the am.  I'm annoyed by the sound, though it is not horribly loud.  I really wish we had gone with a heavy duty magnetic type door.
+
+product/productId: B003SLTETG
+review/userId: A21U6OY3W0YPTM
+review/profileName: Lorraine
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1325030400
+review/summary: Very expensive pet door - but only one of its kind!
+review/text: I bought a medium automatic pet door in October 2011. Very happy with the door and my dogs quickly took to it. I paid $330 for the door + another $200 on collars and replacement collars. My door did malfunction about 2 months after the 1 year warranty (of course). I was originally very frustrated for a few reasons. First, I spent so much money on their product and couldn't believe it went out so soon ... and second, I was frustrated with the initial customer service person on the phone. They have an amazing follow up team that I spoke to a few days after I called about my broken door ... they were extremely helpful and they stand behind their claim of "engineered to last a lifetime". Perhaps I just got the 1 door that went out too soon?? Only time will tell. However, they have sent me a replacement door with an extended warranty. This really proves to me that they stand behind their product. It really makes me feel good about their product AND the fact that I have spent so much on their product. I knocked out 1 star only because these doors and collars are super expensive. A downfall ... however you get an awesome door that you can't find anywhere out there!<br /><br />A note on their waterproof collars ... not really waterproof so I wouldn't spend the extra money on them. Mine have gone out with just a simple drizzle outside. Instead I recommend the regular collars and buying a few back ups.
+
+product/productId: B003SLTETG
+review/userId: A1ISVL5EVHMKXF
+review/profileName: H. Downs
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1319500800
+review/summary: The Best Overall Solution
+review/text: We have 2 dogs, both mini aussies, 30 and 50 pounds.  We were going crazy letting them in and out, and the last time we went on vacation and had a pet sitter come over, they chewed things all over the house waiting for her to come by to let them out.  So, my wife said, "We have to get a doggie door."  I began researching the field.<br /><br />We didn't want a traditional "flap" door because of the likely HVAC leaks and the potential for animals to enter our home.  So, I decided we needed something with an electronic sensor and lock.  The only other electronic door that has any sales volume is the Pet Safe door, but reviews for it were not at all favorable.  That left the High Tech Power Pet door as the only good option.  We had to buy a new patio door to install it (because our existing one was all glass), but decided it was worth it based on reviews.<br /><br />The reviews are correct (you can read many, many at[...]). This is the best solution for anyone wanting to let their pet out when it wants to go out.  Our dogs learned immediately how to use it.  Now we can go to bed at night knowing that if Pepper or Dusty want out, they can go out.  And squirrels, etc. won't be able to get in.  The only problem is our two cats feel left out.  But they lose their collars, and the sensors are expensive.<br /><br />The only negative is the sensor.  I know we are going to have to buy more of these, and at $35 a shot, that is going to add up.  Also, they come with a simple thin strap that goes around your pet's neck.  There is no easy way to attach it to a traditional collar.  They should make an attachment that permits this.  The good news on sensors is they are light weight. They are also directional, so if your pet walks by the door but doesn't face it, the door most likely will not open.  If your pet stands there in front of the door, it will stay open, waiting for the pet to go through.  It's basically a Star Trek door for your pet.<br /><br />The best part was Amazon Prime.  Not only was the door cheaper than ANY PLACE else, we got it in 2 days.  I love Amazon Prime!
+
+product/productId: B003SLTETG
+review/userId: A10ZS166LK5OXE
+review/profileName: SHOPPING DIVA "Shopping Diva"
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1320451200
+review/summary: A MUST HAVE !!
+review/text: I purchsed this door about a year ago.  I dont know how I lived without it.<br />Since the purchase neither My 8yr old German Sheppard or 5 yr old Husky have<br />made one "mistake" inside. It took less than a minute to train them to use it . The<br />door is transparent yet is tinted to add privacy.<br /><br />I had this professionaly installed / hardwired so I didnt have to fuss with battery charging<br />every month, but do have the battery backup as well.<br /><br />The only reason I gave this 4 Stars , not five is because I have run into just one issue the transmitter<br />collar is prone to snap apart when the dog scratches neck area xtra hard and the foot hits the transmitter<br />cover causing both the cover & battery to fall off. Between the two dogs it has happened only 3x total / in the past year<br /><br />Other than that I have not had one problem.  It is about as attractive as it could be for a dog door.<br />It gives me the freedom as well not having to  rush home knowing my dogs are doing the potty dance.<br /><br />see my 3 customer pictures attatched to item.
+
+product/productId: B003SLTETG
+review/userId: AXZXOEX0PA48K
+review/profileName: cdski25
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1339372800
+review/summary: Good door, but collars need work
+review/text: Overall the door works well, and our main complainy is with the collar.  The first collar was the standard one that came with the unit, which managed to fall apart within a week.  The company allowed me to upgrade to the more rugged collar for $10, which I did.  I also added a piece of electrical tape tightly around the seam of the plastic to make it more difficult for the transmitter to pop open, which has worked out well.<br /><br />The problem with this collar unit is that it needs to stay directly under the dogs neck, due to the directional sensor.  If it moves to the side of their neck or on top of their neck it won't work.  For our dog this happens about half the days that he wears it, rendering the door completely useless while we're at work, which is the reason we got the door to begin with.  I'm also concerned that he may get locked out of the house on a cold day when the collar gets repositioned.  We've tried attaching the unit to other collars (including his invisible fence collar that has prongs), but they all seem to rotate on his neck.<br /><br />I called the company to see if they had any tips on how to fix this issue, but they had no recommendation for me.  If anyone else has experienced a similar problem and figured out a way to fix it, please let me know!
+
+product/productId: B003SLTETG
+review/userId: AIG73L7GYIBIR
+review/profileName: Jay K. Din
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1311811200
+review/summary: Needs to be bigger
+review/text: It works great but my rottie couldn't fit thru it.  Pls mk a bigger one.<br /><br />JD
+
+product/productId: B003SLTETG
+review/userId: A1TI4GMH2OVK58
+review/profileName: N. Pohowsky
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1347408000
+review/summary: Your dog may die plus horrible customer service.
+review/text: The door comes with the MS-2 ultrasonic collar.  After several months of use the top popped off the MS-2 ultrasonic collar and the battery fell out.  My dog was trapped outside all day in the Florida heat.  I'm lucky she didn't die from heat stroke.<br /><br />I called customer service. They told me that my dog had removed the lid!!  I explained that my dog was unable to remove the cap/lid.  The lady in customer service said to me "Are you saying the lid jumped off".<br /><br />Perfect.  I have to hear that when my dog is panting and drinking water like crazy due to a flaw in their product.
+
+product/productId: B003SLTETG
+review/userId: A1Y2XWD40F0T3P
+review/profileName: Headhunter 6
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1342828800
+review/summary: Works well 95% of the time
+review/text: The previous owners of our house had installed an earlier version of this door that finally failed after several years of hard use. We loved that door so much that we decided to replace it with this version, despite the high cost. First lesson, the dimensions between the old (mostly metal) door and the new (totally plastic) door are not the same, so I had to widen the opening by sawing a larger hole through my house. That done, the door has generally performed magnificently. This one is much quiter and has more features, including the ability to adjust sensor sensitivity, selectively turn off sensors, and use a battery back-up. As other reviewers note, the collars are the weak link, with crappy build quality and spotty reliability. The batteries seem to last about 4-6 months for a mostly indoor dog, and can sometimes be hard to find locally. The door also seems to malfunction on very hot days--my door is on the side of my house that gets direct sunlight in the afternoon. But that malfunction is, thankfully, a fairly rare occurrence. The other occasional issue, as other reviewers note, is sometimes odd directional issues with the collar that I have never quite managed to figure out. All in all, however, the door works perfectly 95% of the time and we do very much love the thing despite its quirks. I really fear the day that they quit manufacturing it, or change the dimensions again--I'm not sure I can make the hole in my house smaller!
+
+product/productId: B003SLTETG
+review/userId: AX4KTVL2JT9J0
+review/profileName: Pam
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1340841600
+review/summary: Worth Every Penny !
+review/text: We have had this door for over a year and it has been one of the best things I have ever purchased! We have three dogs, two large older dogs, and one small. We used to spend our day letting them out 100 times to chase squirrels only to let them back in two minutes later. The barking to go in and out was constant. Now their behavior is completely different. They let themselves in and out, no more barking, and freedom for us! When we are at work or gone long periods of time, we no longer worry about getting home to let them out. The only problem we have had with the door is that when it is really cold (teens or below), the door sometimes goes up and down a few times before it finally closes. Keeping in mind that it has probably opened and closed 600,000 times in the last year, I am happy with it's track record. One of our older dogs is afraid of everything... cameras, phones, etc. I was afraid she would be too afraid to use it. With some treats she learned to use it in about 15 minutes and has had no problem since. Great product!
+
+product/productId: B003SLTETG
+review/userId: A3Q1LACK9552LD
+review/profileName: Mike
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1325808000
+review/summary: Ultimate Dog Door
+review/text: This is a great product.  We just got new doors and windows in the house so I figured the old flappy dog door needed to go.  This one works great.  Air tight seal so no more drafts.  It took our poodle (not a particularly smart one) about a week to get completely adjusted and now she prances in and out at her pleasure.  Also, it's nice to know that no other critters can come in, just our own adorable poodle critter.  It was pretty easy to install but I didn't have to cut a hole in the wall as I was just replacing our old dog door with this one.  I also decided to get the backup battery with the door in case of a power outage.  It's a bit on the pricey side, but worth it to me.
+
+product/productId: B003SLTETG
+review/userId: A26S5EKLO7X6PT
+review/profileName: Shylo
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1301097600
+review/summary: Pet door
+review/text: The door is pretty cool. But the collar didn't last a day, we failed to see that they cost $30 each. Door is great. It is nice that it doesn't close on the dog, will open back up if it is closing.
+
+product/productId: B003SLTETG
+review/userId: A1T4D30PQ0H6KS
+review/profileName: Mike Morley
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1349481600
+review/summary: Good product except for the transmitter collar
+review/text: This remote control pet door works as advertised: a pet with a transmitter approaches the door, the door opens, the pet<br />goes through, and the door closes behind the pet. However there are several issues: (1) the lower-end collar is not water<br />resistant--if it get wet the transmitter shorts out. (2) Both the low-end and high-end transmitters are flimsy--the battery<br />lid easily pops off, sometimes breaking the transmitter in the process (I'm on my sixth transmitter); the solution here is<br />simple: I wrap the transmitter with two winds of strapping tape and this solves that issue. (3) The transmitter mounting collar<br />itself is flimsy nylon that uses a dual ring rather than a snap or buckle: my cat shredded his collar in a few days, and I have<br />been unable to reuse the transmitter--the transmitter attachment point is too narrow to accommodate a strong collar. I would<br />like to see a transmitter with a real mounting ring.<br /><br />The last issue is more of a design challenge rather than a problem: my female labrador needs access to the outside. My indoor-only<br />cat quickly figured out that if he could get the Lab near the door, he could use the door as well. Cats are smart that way. What I<br />would like to see is a reverse-polarity transmitter that I could put on the cat that would force the door to close on approach.<br /><br />I recommend this remote-control access system to those folks willing to deal with the issues noted in the preceding paragraphs.
+
+product/productId: B003SLTETG
+review/userId: A2REGP7ATI4FTB
+review/profileName: JohnInBelmont
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1344124800
+review/summary: Cheaply made and NO customer service
+review/text: I bought the large high tech pet door 8 months ago. From the beginning, it took buying 5 collars before I could get 3 that worked. The collar radios are cheaply made, they fall apart. The nylon collars themselves easily come unravelled and are virtually impossible to find replacements.<br /><br />The door itself worked perfectly for 6 1/2 months. Then it began sticking in the open position. I have reached out the manufacturer several times, but have NEVER received a response. After reading their website FAQ, I decide to replace the motor assembly. This requires completely removing the door from the wall, removing no less than 28 different screws, prying the fly wheel from the old motor, attaching the new motor assembly to the fly wheel. Next, I wanted to test the new assembly, but you can't set the door upright without reinserting the majority of screws. Thankfully, the door worked perfectly. I reattached the back completely, then reattached the door to the wall... All for the tidy sum of 90.00 with shipping.<br /><br />One week later the door began sticking again. I contacted the company again... Still no response... The symptoms this time were a bit different. The door opens, then attempts to close 5-6 times, before successfully closing... AND this only happens as the day goes on... Not early in the morning or after several hours of non-use... I re-read the company website FAQ... They suggested replacing the motor assembly AND motherboard... After several days of no response from the company, I was getting desperate. So I ordered the motherboard... 60.00 later, the door is still acting the exact same way... Working perfectly in the morning, but sticking as the day wears on... I have spent almost 700.00 with this company and they have failed to respond to a single email or phone call... They suck!
+
+product/productId: B003SLTETG
+review/userId: A3JAWZ42NIB5TR
+review/profileName: Cheryl Frank
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1341878400
+review/summary: Love it!
+review/text: We installed our pet door about 2 weeks ago and so far it works great! Our two dogs are taking awhile to get used to it. At first they were scared of it, now they both use it but one of the dogs doesn't realize yet that I don't have to be right there for him to go out. I'm sure he will figure it out as time goes on.<br /><br />My only advice would be to not necessarily follow the instructions on what height to put the door at (it says to put the bottom of the door an inch lower than your dog's chest height). We followed the directions on the height to install it at, and our 40 and 50 lb dogs practically have to leap out the door rather than calmly walking out. Other than that, I love it!<br /><br />We did go on the High Tech website and ask a question before we bought it and never got a response, so it seems like most people's reviews about bad customer service are true...
+
+product/productId: B003SLTETG
+review/userId: A3QEMJLJSJ445R
+review/profileName: lar
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335830400
+review/summary: LOVE! LOVE! LOVE this door!
+review/text: I could not live without this door! One of the best investments that I have ever made. I was hesitant due to the cost but it is worth every penny. I have 6 dogs and never have to let them in or out. Our home is in a wooded area and we never have to worry about unwanted critters coming in. The collars aren't the best of quality so i took the sensor off and put it on their regular collar. Once i had three of my dogs try to get through at once and it jammed the door but i contacted Better Life 24/7 and they sent a new door out right away! It' a must have!!!!!
+
+product/productId: B003SLTETG
+review/userId: A2HDFSRGTATJ0E
+review/profileName: C. Patterson
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1334966400
+review/summary: Collars don't seem to last
+review/text: I purchased this door with three "waterproof" collars that are also to work with an invisible fence type of containment system ($100 each). I don't know why, but whenever I put a colar on my Siberian Husky, the collar only works for about a day. The company has been good about replacing the collars (3) so far, but I don't know how much longer I will using this door. I had a single flap door and I will likely be replacing it with a manual double flap door, as between keeping the collars charged and replacing them, my dogs are back to asking to be let out multiple times per day and night and are driving us crazy. Sure the automatic powered door is more energy efficient, secure, and keeps out unwanted pests, but I think I would rather have a little draft and an occasional rodent get in rather than going through what we are going through now. It does work fine for the other two dogs, so I am still giving it 3 stars, but since I can't figure out why the collars stop working, it is hard for me to reccomend it any higher.
+
+product/productId: B003SLTETG
+review/userId: A3DYNRD3FWX19F
+review/profileName: G. Swetow "Porkysgirl"
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1329955200
+review/summary: Electric doggie door
+review/text: I purchased this product about 4 months ago. The customer service stinks and it's almost impossible to reach a human. My do just fell in the pool and now the collar doesn't work? Thought it was waterproof. I just might contact the BBB on these guys. I hate poor customer service! there is another company called Better LIfe 24/7 and I cannot figure out if they are one and the same?
+
+product/productId: B003SLTETG
+review/userId: A2AW6MT90TDI69
+review/profileName: D Redding "Harmony"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Couldn't do without this door!
+review/text: We have had this door for about four years now and I don't know how we would get along without it.  We have two dogs and two cats and I truly believe this door must go up and down at least 100 times a day.  The first door quit working right at one year.  When I called Hi Tech Pet they agreed to send me a new door since I was so close to the warranty period.  Whew!  Then that door worked for three years with no problems at all.  A few days ago it would not go up and down.  We immediately headed to Amazon to see if they carried it.  They did and it was on prime!  Hi Tech Pet said it was probably the motor, but since the door is used so many times a day my husband opted for a new door.  Since the hole was already cut in the wall it was an easy fix to install this one.  It fit exactly as the old one did.  I ordered the door on Tuesday afternoon and it arrived by UPS on Thursday at 10:00 a.m., so we had the door from Amazon in less that 48 hours(but it was a long 48 hours for the human doormen!).<br /><br />I love this door.  The pets are so used to it that they didn't understand when they couldn't get in or out without us opening the door for two days.  I was not happy about that either.  I love the fact that it locks down securely when it closes.  I don't know how directional it really is because ours usually are just headed in or out, not hanging around the door.  We keep it on max most of the time since the puppy tends to go through at breakneck speed.<br /><br />We are in a rural area and would probably see many different critters in the house if we used the magnetic flap type of door.  This is stylish, secure and used to the max in our house.  Worth every penny for the aggravation it saves us.
+
+product/productId: B003SLTETG
+review/userId: A1S9OSVFBBGKNU
+review/profileName: Kurt Ski
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349222400
+review/summary: very Good
+review/text: Love the door the dog uses it every day. The only issue is with the house alarm and the dog going in sets off the alarm.  I need to change to a differnt type of sensor on the Alarm. Why do I need a Alarm system and a dog?  Ask the wife, I have no idea.
+
+product/productId: B003SLTETG
+review/userId: AI8KG1PAKSU85
+review/profileName: Tom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: high tech!
+review/text: I work nights and sleep during the day. This door allows my dogs to go outside and back in on their own!!! Thus, no more lost sleep letting them out! It also keeps other unwanted critters out. You would not want a skunk or raccoon following them back in, trust me on this!!! Ive been there!!! The door is a bit pricey but in my opinion well worth the price! You wont be disappointed............
+
+product/productId: B003SLTETG
+review/userId: A2JDARW816E00R
+review/profileName: Rob M "Rob M"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343692800
+review/summary: Good dog door
+review/text: We've had this door for over a year and a half now, and it has worked well the whole time.  It's a bit noisy; not too bad, but I wouldn't want to be trying to sleep too near it.  Also, be aware that a six foot man can get through the opening.  We had paramedics come to the house with an incorrect address for a call.  Our dogs happily escorted one of them to the door, it opened, and he was able to crawl in and look for the victim. Otherwise, the door is locked from the outside and it would take considerable noise and effort to get it open.  Anyway, I'd buy this again.  I'll write a separate review for the collars/receivers, but the short version is, don't bother with the (even) more expensive version.
+
+product/productId: B003SLTETG
+review/userId: A1J79T1EHKGNO3
+review/profileName: Laurie Petronis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343692800
+review/summary: Excellent housebreaking tool
+review/text: We love this door. My husband is very high tech and when he saw this product during our home reno, he purchased it and had the new wall built to spec, to fit this door.<br />This was before the puppy even arrived. We used the door to teach Hazel to go outside. Often, she just sits there and looks out the window,.<br />The installation was smooth, and the only trouble shooting we did was to play with the tightening of the screws so that the door raised and lowered without sticking.<br />This is the best solution for our home, as Hazel ( a 30 pound labradoodle) can come and go as she wants.<br />One suggestion I would make is to purchase several collars- not because they are not sturdy, but our dog is a VERY active dog and has mangled two collars.<br />I highly recommend this door.
+
+product/productId: B003SLTETG
+review/userId: AE6R5O7JPA268
+review/profileName: Shirley
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1345334400
+review/summary: For small dogs?
+review/text: I have a question. Are these collars with the sensors going to be too big abd bulky for my 6lb dogs ? I want to order but am worried the collars will be uncomfortable.
+
+product/productId: B0007XNYAS
+review/userId: A1F0S2EYC58US4
+review/profileName: P. Patrick "PPat"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1254700800
+review/summary: SUPERB
+review/text: I love Market Spice green and black teas they are second to NONE!  The unique cinamon/orange flavors are very soothing and at the same time stimulating w/o the harmful types of more common energy drinks.
+
+product/productId: B0007XNYAS
+review/userId: A2OOBHJSBH1VBM
+review/profileName: Jim Watson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1231286400
+review/summary: Best Tea Around
+review/text: I really enjoy this brand of tea. To put my comment in perspective, I'm not a coffee drinker and do not care for many teas. So, die hard tea drinker may not appreciate the flavor in this tea that I so like. Add a little honey and I could drink this tea for hours. It also makes great ice tea.
+
+product/productId: B0007XNYAS
+review/userId: A2593YB6UBYT58
+review/profileName: N. Cooper "N. Cooper"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1266883200
+review/summary: Hooked on First Sip
+review/text: Was looking for something warm to wash down lunch while at a client's office and this unfamiliar tea was the only option beside's coffee which I had had my daily fill of. The flowery aroma caused me to question the choice, but the first sip confirmed that I had stumbled on something truly wonderful. Am putting in my order as I write this review. <a href="http://www.amazon.com/gp/product/B0007XNYAS">MarketSpice (cinnamon-orange) Green Tea 1# Bag</a>
+
+product/productId: B0007XNYAS
+review/userId: A1CQTNCFZ1XF9S
+review/profileName: Mary M. Brewer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1234915200
+review/summary: tea time!
+review/text: I got hooked on Market Spice tea when I lived in Washington state.  It is still the best.  Great tea, great service with my order.
+
+product/productId: B0007XNYAS
+review/userId: A15WELHM9IWKJR
+review/profileName: Ruben Garcia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1208995200
+review/summary: Sugar NOT Required
+review/text: This product is delicious. I took a Savory Seattle tour and learned that their products uses fresh herbs with with natural and artificial flavors (most likely from oils) and contains and requires NO SUGAR. Sweet enough on its own and healthy. Try there spices as well. Market Spice alone is a five start store.
+
+product/productId: B0007XNYAS
+review/userId: AH05C5R5T6N3D
+review/profileName: Katsat
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1171152000
+review/summary: A wonderful tea
+review/text: A tea that's sweetish and flavorful in a natural and spicy way.
+
+product/productId: B0007XNYAS
+review/userId: A1EA4O0W9BNE1
+review/profileName: Peggy Rice "foody bear"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1170028800
+review/summary: MarketSpice Green Tea
+review/text: Much to my amazement, this is even better than the original MarketSpice Tea.  Has a different, very subtle flowery note in the background.  Very good.
+
+product/productId: B0007XNYAS
+review/userId: A2NS2UMX10CLR6
+review/profileName: gary dzurny
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1349740800
+review/summary: not the real thing
+review/text: Thought I would be thrifty and buy a 1# bag instead of the tea bags.  Bad move on my part.  This is no where near the quality and flavor of what I have come to expect from the the Marketspice tea bags.<br /><br />I am now back on amazon to order the teabags.  :-(
+
+product/productId: B0007XNYAS
+review/userId: A3O0Z6BOV9Y2ZP
+review/profileName: Liesle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330905600
+review/summary: exceptional naturally sweet green tea!
+review/text: I have always loved this tea.  There is one thing i wonder about, though.... sometimes the orange is so strong that it burns my mouth when drinking it.  So I figure maybe i am steeping it too long....or squeezing out the water from the leaves too much and thus getting the orange oil....and if i dilute with water...then the tea just tastes bland....so i don't think the problem is that it's too strong.<br /><br />At any rate, I make sure to have this tea on hand and drink two cups just about every day!<br />Thank you, Market Spice for offering it in Green tea....which tastes sweeter then the regular black tea Market Spice.
+
+product/productId: B0007XNYAS
+review/userId: A2LR4X8X3G5I2E
+review/profileName: terence
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1271462400
+review/summary: Nice tea. Could hardly make the difference with the traditional black tea version
+review/text: OK, to me it just tastes like the "traditional" black tea version of the MarketSpice Tea. But I can't tell why I'd prefer this green tea version.
+
+product/productId: B00483KF4G
+review/userId: A26OF61N4YWNM4
+review/profileName: Jessica
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1331164800
+review/summary: Seller Lies
+review/text: I saw the other review and hoped that it was a fluke. My dog adores these treats, and my local pet shop no longer carries them.<br /><br />At the time I ordered, this product listing was quite clearly for 15 packs of five. Instead of the 15 packs the product listing stated, I got one, and now the seller has edited the page. (My order history still shows "15 packs"--I'm not inventing this.) The price is fair for one pack, but for nearly $6.00 in shipping, I could have ordered these from any number of other places online that have ethical standards.<br /><br />The treats are a total 5 star, by the way, but don't buy them here.
+
+product/productId: B004UB6WES
+review/userId: A1NTL1QGME56YK
+review/profileName: Elliott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: one of my fav juices
+review/text: This juice is tart...for me that's what I like..its like a cherry tart in a bottle..plus add that there's so many cherries per bottle
+
+product/productId: B002UQEKSU
+review/userId: A2BC8OPQW0ATW
+review/profileName: Nancy E. Unger
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295308800
+review/summary: Tea
+review/text: All the teas I ordered have been great.  This is a little stronger so I tend to use less of it when making a pot or cup of tea.
+
+product/productId: B002UQEKSU
+review/userId: AVX7CC2UTFU1Z
+review/profileName: Tracy L. Needham "Marketing Copywriter & Stra...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325289600
+review/summary: Happy to Enjoy Zhena's Again!
+review/text: I have long loved Zhena's Gypsy tea since I discovered it at a Green Festival and my favorite has always been the Ginger Peach, but for some reason stores near me don't seem to carry this flavor anymore.<br /><br />At first, I was a little put off by the price. But since you can make a lot more tea with loose tea instead of bags (and I use a bigger than normal tea ball for my 20 ounce cups),it really is a good deal. And the resealable bag helps keep it in good shape!
+
+product/productId: B009C16ZP2
+review/userId: A22H0NAS6G66ZI
+review/profileName: A. Feucht "miss-tenacity"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348012800
+review/summary: Better than the sum of its parts and worth the price
+review/text: I rarely buy spice blends - I mean, why would you buy 2 ounces of spices for 6 bucks? That's crazy! I have most of the spices at home already and I could combine them in the same way. But. This company (recently renamed but the same stuff) has a way with how they combine the flavors. Heat Wave is one of the best, but the other salt-based varieties are also amazing, like Oh Zone and Splash.<br /><br />After I've bought and used them up, MAYBE I would take the grinder and add back in my own raw spices and take it from there. But I doubt it. I just don't think it would have the same effect.
+
+product/productId: B001ELL4PE
+review/userId: A2AFP1SSX0C5G2
+review/profileName: Doc Pepper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Better Spicing Than Any Restuarant!
+review/text: <a href="http://www.amazon.com/gp/product/B001ELL4PE">Blue Crab Bay Co. Steaming Spices, for Crabs & Shrimp, 1.8-Ounce Container (Pack of 6)</a>I love my seafood and so does my family. I stumbled upon this in one of those little boutique shops that there for the summer and never return. Steaming anything with this combination of spices just makes everything taste better. Lobster, shrimp, vegetables all taste great. For years I hadn't found any thing better than Old ... Enjoy
+
+product/productId: B0048KK8JQ
+review/userId: AY12DBB0U420B
+review/profileName: Gary Peterson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334188800
+review/summary: Five Stars! This Stuff Is Just Sensational!
+review/text: Last week I picked up a four-pack of Virgil's Cream Soda. It was excellent! In fact, it was so good that I went back to the store and picked up a four-pack of Virgil's Root Beer which I had noticed on the shelf next to the cream soda. Yesterday, I had a couple, one in the afternoon and a second late at night. Well, what can I say? This is simply the best root beer I can ever remember drinking. It's nice and rich and creamy and wonderful tasting. They say it's micro brewed and is made of all natural ingredients. It's evident that the brew has had quite a lot of attention, quite the contrast to those mass-produced things that most people drink. It's expensive, but I'd estimate it to be only about 50 cents a bottle extra and I can afford that for the really exceptional taste. They list about 10 individual spices that are used and that's what it tastes like. You might recognize some of the individual flavors, such as the vanilla and licorice I could pick out. Of course, cane sugar syrup is used as a sweetener. This stuff is just sensational!<br /><br />Gary Peterson
+
+product/productId: B0048KK8JQ
+review/userId: A108GOZ37A7B75
+review/profileName: Dillon Welch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341792000
+review/summary: Best root beer I've ever had
+review/text: I can't get enough of this stuff! This is the first root beer that hasn't left a stale taste in my mouth afterwards, no doubt because of the radically different ingredients lists (If you want to test it, I'm sure somewhere there are either single bottles or 4 packs available.)<br /><br />I definitely have no problem paying $23 ($45 with S/H) for a 24 pack, and next time I'm preparing a party, I'm going to buy the 2-pack of 5-liter kegs.
+
+product/productId: B001EO5Y7A
+review/userId: A1P7WM8204UNQZ
+review/profileName: Hannes Fischer
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1261353600
+review/summary: Good, but missed the nuts!
+review/text: I was kind of disappointed with my order, hope it was just me, but many peaces didn't had any nuts... could be that i was the lucky on to get a package with few nuts inside... but the few parts that had nuts... yummy!!
+
+product/productId: B001EO5Y7A
+review/userId: A3JUMRO0RPZECQ
+review/profileName: Ammoura
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1330992000
+review/summary: Good but not perfect
+review/text: It is not fair to review this item without comparing the contents to that of different boxes of the same name and content.  I found the contents of the box I opened to have dry edges and not too much flavor.  Not bad overall, but I expected softer, tastier morsels.  Again, this is not a fair review without a same product comparison.
+
+product/productId: B001EO5Y7A
+review/userId: A3KYOG9OS034LN
+review/profileName: Irianna
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326844800
+review/summary: Fresh & delicious!
+review/text: Yum! These are fresh and delicious. It's real hard to eat just one piece! Wish there were more nuts in them, but all in all, we are very happy with the purchase.<br />The price is great too. We would definitely recommend this brand.
+
+product/productId: B001EO5Y7A
+review/userId: A1TSSSHST9M1YB
+review/profileName: crafty12
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1200441600
+review/summary: Candy is delightful!
+review/text: The Turkish Delight is authentic, not the imitations  you can buy in a regular B & M discount store. It is exactly what it says, small soft nut candies, covered in powdered sugar, delicious.
+
+product/productId: B0032JUCV8
+review/userId: A2NFITJIKPYQWW
+review/profileName: Janetsflash
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337817600
+review/summary: Berrylicious!!
+review/text: What a treat, this is one of the best fruit teas ever. Healthy and flavorful, great gift that goes well with homemade jams and jellies!!
+
+product/productId: B000BLNU6E
+review/userId: A16FJSH8DGHRN1
+review/profileName: M. ODonnell "Amazon Safety Chick"
+review/helpfulness: 30/32
+review/score: 5.0
+review/time: 1167696000
+review/summary: Perfect!
+review/text: I ordered this online for a coworker who loves chocolate. The basket arrived very fast, was packed great, and the presentation and variety in the basket was the best! If you are looking for a great chocolate gift basket...I recommend this one.
+
+product/productId: B000BLNU6E
+review/userId: A2CS2R3ZJCILMF
+review/profileName: Tim Clarke
+review/helpfulness: 23/25
+review/score: 5.0
+review/time: 1161820800
+review/summary: Very good gift
+review/text: I have sent this basket a number of times to family and friends.  I always receive wonderful responses, and have often shared these wonderful chocolates.
+
+product/productId: B000BLNU6E
+review/userId: A11U9NIKA57TU8
+review/profileName: J.J. Massa "J.J. Massa"
+review/helpfulness: 17/19
+review/score: 5.0
+review/time: 1173312000
+review/summary: Great gift
+review/text: I got this for a friend. She loved it. It arrived quickly and in good shape. Very good purchase.
+
+product/productId: B000BLNU6E
+review/userId: A30SFOOWLUGX5L
+review/profileName: Linda Pyfrom
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1190851200
+review/summary: a great gift for any occasion
+review/text: I sent this gift to a friend, she just loved it, and the basket was expecially beautiful too.
+
+product/productId: B000BLNU6E
+review/userId: A1LBB6NJO9WZEZ
+review/profileName: Shyam
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1211932800
+review/summary: Good Product, a bit slow on shipping..
+review/text: I had sent this as an Anniversary gift for my brother and my sister-in-law, The gift was well appreciated and the assortment was good, with the gift basket being decorated well and no transit damage or defects observed.<br />I would have given this 5 stars had it not been for the fact that the time to customer, took nearly 2 weeks, which i felt was a bit on the higher side even by regular shipping mode.<br />This is more like 4.5 stars, its a great gift item, but remember to order well in advance, so that it will arrive on the date (time frame) that you intend.
+
+product/productId: B000BLNU6E
+review/userId: AX9UTT1WPZ5YT
+review/profileName: johnnie
+review/helpfulness: 6/6
+review/score: 3.0
+review/time: 1297814400
+review/summary: little for the prie
+review/text: I purchased this for my wife for Valentine's Day, my wife loved it, she is a chocolate fan, however, I was very disappointed in the amount received.  VERY SMALL
+
+product/productId: B000BLNU6E
+review/userId: A3QGMKGVFHY2N6
+review/profileName: RJL "RJL"
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1188000000
+review/summary: wonderful
+review/text: It was a huge hit for staff to receive this for a job well done. Everything arrived in good shape despite the summer heat! Can't go wrong with this gift.
+
+product/productId: B000BLNU6E
+review/userId: A28C2NUKWIAXVK
+review/profileName: P. P. S. CORR
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1320364800
+review/summary: Great gift, but they forgot the CARD!
+review/text: The chocolate is yummy, the basket beautiful, but the recipient didn't know who to thank because the seller forgot to attach the CARD! Major mistake.
+
+product/productId: B000BLNU6E
+review/userId: A44OT63BAHCV0
+review/profileName: Terry W. Smith
+review/helpfulness: 20/27
+review/score: 1.0
+review/time: 1198022400
+review/summary: Pissedoff
+review/text: I ordered two of the Grand baskets and although they arrived within a few days, one of the baskets was completey destroyed! I e-mailed the company to see if they could reship a new basket before Christmas which was now about a week away. When the new basket arrived it was about 1/4 the size of the first and had very little selection. Needless to say I will not recomend this company or buy from them ever again.
+
+product/productId: B000BLNU6E
+review/userId: A3SJVNWWD17Z6E
+review/profileName: M. Brink
+review/helpfulness: 8/10
+review/score: 5.0
+review/time: 1184889600
+review/summary: recipient was thrilled
+review/text: My now-fiance proposed to me at Lucas Vineyards in New York, and they were so great, coordinating the whole thing...we sent them this as a thank you gift. We got a very enthusiastic thank you letter from them...apparantly, they loved this basket! I'd get this again.
+
+product/productId: B000BLNU6E
+review/userId: A345HTGAECQOVA
+review/profileName: R. Cicala
+review/helpfulness: 22/30
+review/score: 1.0
+review/time: 1262044800
+review/summary: HORRIBLY DISSAPOINTED!!!!
+review/text: I WOULD NEVER RECCOMEND THIS TO ANYONE.. I OREDERED ON DEC 16 AND IT ARRIVED ON DEC 29TH. IT DOESNT EVEN LOOK ANYTHING LIKE THE BEAUTIFUL BASKET THAT IS DISPLAYED AND THERE ARE MANY THINGS MISSING/. NOT ONLY WAS I SO EMBARASED THAT I COULD NOT GIVE MY NEIGHBOR HER PRESENT FOR CHRISTMAS , NOW I HAVE THIS PUNY THING TO GIVE , WHICH IS NOT WORTH $40... IM GONNA TRY TO GET MY $$$ BACK... THIS IS THE LAST TIME I EVER ORDER FROM THIS COMPANY AGAIN.!!!!
+
+product/productId: B000BLNU6E
+review/userId: A2LRRBZUU36B6B
+review/profileName: Paul
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1323561600
+review/summary: Looks are deceiving
+review/text: Arrived on time and in good condition. A gift for the grandkids and family - kids loved the contents, but when I came to their house, the basket & contents looked a lot smaller than the online photo. Amazing what a wide angle lense can do!
+
+product/productId: B000BLNU6E
+review/userId: A1MVS4XDJLCDY3
+review/profileName: Retired "Sunfan"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1295222400
+review/summary: Good Product - Confusing Delivery
+review/text: Ordered this for a sister - a true chocolate freak - for Christmas. The basket was as advertised, but there was absolutely no indication in the packaging as to who had sent the gift. My sister called Wine.com to see who had sent the basket and they refused to tell her. I'm fairly certain I had checked the box indicating this was a gift, but that was apparently ignored. Wine.com did send me an e-mail saying someone had called them to see who had sent the gift, but we both found the whole thing a little disappointing and something that didn't add anything to the Christmas experience. Wine.com, you should do better.
+
+product/productId: B000BLNU6E
+review/userId: A27U2869EWEWXE
+review/profileName: Sandy
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1333929600
+review/summary: SandyS
+review/text: I was very disappointed with this item. With a famous name like Ghiradelli I would have thought it would be of better quality. It was very ealily returned through Amazon, as they make it easy with a printable return label. I purchase something in it's place again through Amazon. Thank you Sandy S
+
+product/productId: B000BLNU6E
+review/userId: A1GCDRY6WGELXR
+review/profileName: Don C. Michel "donmichel"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300147200
+review/summary: beautiful and delicious gift package
+review/text: We ordered this beautiful gift package and hoped it would arrive in time for our daughter-in-law's birthday.  Since there was not a "second day" option, I followed up and queried the seller as to a more precise expected delivery date.  To my surprise Wine.com came back and voluntarily upgraded it to a 2-day delivery status without any extra charge.  It arrived today, nicely protected in the packing and beautifully presented.  It is in ample time for us to put a little something with it and ship it on to Dallas where it will arrive ahead of the birthday.  Outstanding service! And a good deed from the supplier, Wine.com!
+
+product/productId: B000BLNU6E
+review/userId: A3A95IRNVQDZAI
+review/profileName: Peary Perry
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1279238400
+review/summary: great gift package
+review/text: always at a loss as to what to give the nurses at my doctors office or the folks who take care of our dogs......I've sent out a dozen of these and haven't had a complaint yet...even our dentist loved it...so if you're looking for a great gift that's won't kill you price wise and that everyone enjoys...this is it....
+
+product/productId: B000BLNU6E
+review/userId: A15NLH9YDQ4Y87
+review/profileName: David Priol "Svengali46"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1265846400
+review/summary: This made my baby happy
+review/text: This item arrived quickly, and my baby told me it was jam packed with heaps of great chocolates and she enjoyed them very much. If my baby is happy then I am thrilled. I would use this company again...and I ordered it from outside Sydney, downunda....AAA+++
+
+product/productId: B000BLNU6E
+review/userId: ANBWHWHZD8QPP
+review/profileName: Mom in SoCal
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1265673600
+review/summary: Quick response by merchant
+review/text: As a follow up to my review below - I emailed and called the merchant through Amazon's website and the merchant promptly emailed and called me back to apologize for their mistake and to immediately send me a replacement item. Apparently it was a mistake from their warehouse and not a third-party that put the items together. Kudos to the merchant for their fast and personal response to my issue!<br /><br />So I meant to buy this basket for my sister for her birthday, but mistakenly shipped it to myself because of Amazon's easy one-click purchasing that I didn't even think about putting in the correct address. Once I figured out my mistake, the basket was already on the way to my house in California and rather than delay the basket further since it was for her birthday, I sent another one to her in Indiana.<br /><br />When I received my "basket" it was a gift box with all the stuff in it wrapped in plastic wrap and NOT a basket. When my sister got her gift it was actually a wrapped basket with a bow and looked very much like the picture on Amazon. Totally weird but I guess [...] farms out the work to local merchants to put together. NOt sure why otherwise I would get a box and she would receive a beautiful basket for the same item ordered. I'm happy SHE got the pretty basket though.
+
+product/productId: B000BLNU6E
+review/userId: A3W1UMKBBKI114
+review/profileName: Matt S.
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1323302400
+review/summary: Disappointing
+review/text: I was disappointed at this item when it arrived. It's really a very small gift basket and not worth $40.00 (maybe $25.00). I expected more - I'd recommend avoiding this.
+
+product/productId: B000BLNU6E
+review/userId: AKMEY1BSHSDG7
+review/profileName: J. Arena
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1215907200
+review/summary: When you care enough to send the very best CHOCOLATE!
+review/text: Would you like to be very, very, very popular?<br /><br />Well, you can just do what I've done and send a basket chock full of these top-of-the-line Ghirardelli Chocolates. The gift is packed with a delightful assortment of chocolates and the recipient will be thankful forever... Well, at least until that last delectable chocolate is eaten.<br /><br />Great gift!
+
+product/productId: B000BLNU6E
+review/userId: A1T7YG7G0T0C7I
+review/profileName: J. Staley
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1325030400
+review/summary: VERY DISAPPOINTED
+review/text: DOES NOT LOOK LIKE PICTURE, AND DOES NOT INCLUDE THE SAME ITEMS PICTURED.  DO NOT BUY THIS AS A GIFT, AS RECIPIENT WILL BE DISAPPOINTED.
+
+product/productId: B000BLNU6E
+review/userId: A8X6K9FTWVPZ3
+review/profileName: babyjmommy01
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1324166400
+review/summary: Not as advertised
+review/text: Received the basket quickly but was very disappointed with the product. The basket I received is much smaller then the one pictured and is missing many of the items pictured. Not worth the $40 I spent.
+
+product/productId: B000BLNU6E
+review/userId: A353UNLSYSAR17
+review/profileName: Aarash
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329177600
+review/summary: every thing was perfect,
+review/text: every thing was perfect, but only thing i didn't understand i charged more than actual pries,here in EU charge you exact pries. thanks
+
+product/productId: B000BLNU6E
+review/userId: A39VMG886F8N39
+review/profileName: qmy1985
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328918400
+review/summary: Great gift
+review/text: This is a gift for my dear friend. She likes this basket so much. And the speed for deliver is fast too.
+
+product/productId: B000BLNU6E
+review/userId: A2PK5PMU5AEP2K
+review/profileName: Justin Racz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327795200
+review/summary: Great gift!
+review/text: Great business gift. My agent was very excited to get such a sweet surprise. I recommend this gift to anyone looking to impress!
+
+product/productId: B000BLNU6E
+review/userId: AFW89M20ZRMZT
+review/profileName: Elizabeth S. Griffith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294531200
+review/summary: chocolate gift basket
+review/text: This was a Thanksgiving gift to my grand daughter.  She loved it.  Who wouldn't?  Arrived in time and perfect condition.  I'm happy.
+
+product/productId: B000BLNU6E
+review/userId: A3C5XZ1V8TP9IE
+review/profileName: Keith F. Rist "Dlist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1215993600
+review/summary: Great Service
+review/text: Super fast shipping. Nice presentation & packaged well. My in-laws loved it! Highly recommend.  Enjoy!
+
+product/productId: B000BLNU6E
+review/userId: A3IJDTZYY867QU
+review/profileName: J.J. Langr
+review/helpfulness: 9/14
+review/score: 4.0
+review/time: 1185408000
+review/summary: nice gift
+review/text: I've purchased this as a gift twice; it arrived in a timely-enough fashion both times. While I haven't seen the item, I've been told it's a very nice basket. Ghirardelli chocolate is just fine, and there seemed to be enough of it in the package.
+
+product/productId: B000BLNU6E
+review/userId: AHIXULXX085UQ
+review/profileName: Mary N. Detto
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1324944000
+review/summary: She loved it
+review/text: Got this for a friends daughter after surgery. She loved it and had to hide it from the rest of the family!  My only, minor, complaint is that it took longer than I thought for delivery. It may have even said it on the site, but I didn't pay attention so I can not fault them. I am used to having ANYTHING I buy on Amazon come pretty much immediately, but this took almost a week. (including the weekend)  Just remember to order it a good week in advance of when you need it and it'll be fine.
+
+product/productId: B000BLNU6E
+review/userId: AEQ2UAPR44112
+review/profileName: animelover
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1324425600
+review/summary: gift basket sucks!!
+review/text: ughh!!!i regret buying this gift basket.it is not what the picture shows.and it is over price!i should have bought the goduva chocolate set rather than this!!!
+
+product/productId: B000BLNU6E
+review/userId: A1G031STOVCHYF
+review/profileName: kevin lowther
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1326499200
+review/summary: easy transaction
+review/text: thank you for a fast and easy transaction.living overseas made this very easy for me to get the right product for my loved ones
+
+product/productId: B001AT4A1K
+review/userId: ATHUN0PJ0MG0P
+review/profileName: R. Cross "LVWolfman"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1308787200
+review/summary: Good for big chewers
+review/text: My mother's dog (a black German Shepherd mix) will go through a "normal" sized rawhide chew in one night.  So I got him this one.  Weeks later one knuckle is still left and well chewed.  So I think this is good value for the money.  Warning, it IS very large.  Give it to a Chihuahua and have your camcorder ready so you can post to YouTube. LOL
+

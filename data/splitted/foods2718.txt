@@ -1,0 +1,1143 @@
+product/productId: B00023T3IA
+review/userId: A34GCU92C2U43B
+review/profileName: Ask Mr. Ed
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1271289600
+review/summary: Like "Best Foods" only better.
+review/text: Rich and creamy, you wouldn't think it's a product of Asia if you didn't see the package.  A bit expensive compared to our western brands but very delicious.
+
+product/productId: B00023T3IA
+review/userId: AT53SEYDV85ZU
+review/profileName: Allen Larson "THX1138"
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1310083200
+review/summary: Tasty
+review/text: I use this for sandwiches, salads, and of course sushi.  Great stuff.  Love the ook on someones face when they try to guess whats different about that ham and cheese.
+
+product/productId: B00023T3IA
+review/userId: A3NID9D9WMIV01
+review/profileName: Louie Arrighi "Lou da Joo"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290211200
+review/summary: Popcorn and Kewpie
+review/text: <span class="tiny"> Length:: 0:26 Mins<br /><br /></span>
+
+product/productId: B00023T3IA
+review/userId: ATVDL7PQG26WE
+review/profileName: K. Conrad
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336953600
+review/summary: Way better than American mayo.
+review/text: Best Mayo I've ever had. It's so creamy and delicious, and not gelatinous like American mayo is. There's a delicious tang to it, and it is really balanced in flavor.
+
+product/productId: B00023T3IA
+review/userId: AEHPDO1PG6P9U
+review/profileName: Low
+review/helpfulness: 2/5
+review/score: 3.0
+review/time: 1323302400
+review/summary: I Expected Better
+review/text: By all these positive reviews I was expecting some magical mayonnaise taste but in reality it just tastes like mayonnaise.<br />It does have MSG in it, I didn't care, I'm not allergic to it so it doesn't matter.<br /><br />I'll stick to Hellmanns real.
+
+product/productId: B00023T3IA
+review/userId: A14U6JXPWUYG02
+review/profileName: SWT "Bargain Shopper"
+review/helpfulness: 3/7
+review/score: 4.0
+review/time: 1282867200
+review/summary: Good People
+review/text: My shipment did not arrive on the date that I expected BUT these people sent me a very apologetic email and offered to make it right for me.  I was so impressed with their customer service that I declined their offer to give me something to change my initial review.  Their explanation for the delivery delay was totally satisfactory to me and I would not hesitate to order from them in the future.  By the way, the product was exactly what I expected and I could not be happier.
+
+product/productId: B00023T3IA
+review/userId: A1ZQI0ZOZ2AON9
+review/profileName: Honest Reviewer "James A. Dobson"
+review/helpfulness: 8/16
+review/score: 3.0
+review/time: 1316995200
+review/summary: BEWARE: Hidden Ingredients Include Soybean Oil and MSG
+review/text: I took a chance on this mayonnaise, hoping that it would not contain soy oil --- because the ingredients are not listed in the description of this product.  So much to my dismay, I found out after the mayonnaise arrived that it does indeed contain soy oil  --- and worse, it contains MSG.<br /><br />The product may, in fact, be wonderful for some people.  But you should be aware that this product contains soybean oil and MSG --- which some people, cannot tolerate for medical reasons.<br /><br />Downgraded to three stars for hiding the ingredients.<br /><br />The ingredients only show up on the cello wrapper and do not appear on the plastic container itself.  So here is a the list of the ingredients so thoughtful buyers can make an intelligent decision without guessing or having to take a chance:<br /><br />  ***** Ingredients: Vegetable Oil (Canola Oil, Soybean Oil), Egg Yolk, Vinegar, Salt, Monosodium Glutamate (MSG), Spice, Natural Flavor, Contains Egg. *****
+
+product/productId: B00023T3IA
+review/userId: A25DMZULPFMQRB
+review/profileName: Pigumon
+review/helpfulness: 4/59
+review/score: 2.0
+review/time: 1272672000
+review/summary: Not really mayo
+review/text: If you like real mayonnaise, you're not going to like this.  This is more of a flavored oil "mayo".  Might as well get Miracle Whip.<br /><br />Really, it's a different taste and texture, it's just not Mayonnaise.<br /><br />So like the other reviewers, if you hate real mayo, try this or Miracle Whip.
+
+product/productId: B001EQ4O38
+review/userId: A1NS17JWSTQ1CW
+review/profileName: Coleen Krajniak
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288569600
+review/summary: great coffee
+review/text: My husband and I originally saw this coffee on TV and thought we try it.  I found it for less on Amazon and ordered it.  I now order it very regularly as it has become our favorite coffee. My sister and husband are using it, as they enjoyed it when they were staying with us.  I would highly recommend this coffee if you want a smooth, flavorfully coffee that doesn't bite back.
+
+product/productId: B001EQ4O38
+review/userId: ARRF4I98K0BQ6
+review/profileName: B. Washburn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1259452800
+review/summary: Incredible Coffeee
+review/text: I used to live in Watertown, WI where this company is located. I fell in love with their coffee 10yrs ago, and my fondness for it hasn't lightened in the least. When I go home to visit family in WI a pound of this coffee is always in my bag on the trip back. It can be purchased directly from the website, but this is a better deal. All their coffee is superb.
+
+product/productId: B001EQ4O38
+review/userId: A2K2QO98UM5ZMV
+review/profileName: Micah
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1245888000
+review/summary: Best Coffee for the Price
+review/text: This is the only coffee that we order.  If you haven't tried Berres Brothers then you are definitely missing out!
+
+product/productId: B001EQ4O38
+review/userId: APKSXO2JYRYV9
+review/profileName: Prophetic_Joe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1237161600
+review/summary: Favorite Decaf
+review/text: I simply love this coffee, nice solid flavor with some butterscotch notes. Great for making a nice latte or cappuccino late at night. I have seriously become addicted to this.
+
+product/productId: B001EQ4O38
+review/userId: A15WP8GVOPBU9I
+review/profileName: mooster3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325289600
+review/summary: Nice change of pace coffee flavor
+review/text: This makes the kitchen smell wonderful while it's brewing, and we have been enjoying the flavor.  It's especially nice around the holiday season.
+
+product/productId: B001EQ4O38
+review/userId: A308X7ETJZNSAS
+review/profileName: Java Queen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323820800
+review/summary: Addictive
+review/text: This is the BEST coffee I've ever had and I'm pretty picky. The flavor and aroma is outstanding. It makes you want to eat the beans right out of the bag. It's my go-to coffee on the weekend when I just want to relax. The flavor is not real weak or perfumy like some others. You won't be disappointed. I'm reordering now. My daughter got me hooked. Give it a try!
+
+product/productId: B001EQ4O38
+review/userId: A1CO5ORHMAECLH
+review/profileName: cp from Michigan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312243200
+review/summary: Berres Brothers Flavored Coffee
+review/text: Once you try the buttery, caramelly (is that a word??!!) flavor of the Berres Brothers Highlander Grogg coffee, you will be hooked!  Highlander Grogg is actually a Scottish whiskey; this coffee emulates the flavor of that brew!<br /><br />Ordering was easy (although I would have preferred GROUND instead of whole bean) and delivery timely.  I have ordered multiple bags in the past, and will continue to order my Berres Brothers coffee through Amazon.<br /><br />TRY IT - YOU WILL LOVE IT!!!!
+
+product/productId: B001EQ4O38
+review/userId: A26LX5ITR09I3
+review/profileName: Charles Hunter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298332800
+review/summary: Delicious Coffee!
+review/text: I don't typically drink flavored coffee.  One of the few flavored coffees I do enjoy is Santa's White Christmas, from Barnie's.  It's delicious, but since Starbuck's bought out most of the Barnie's locations, it's not as easy to find.<br /><br />I tried Highlander Grogg after seeing Berres Brothers coffee highlighted on "Unwrapped" on The Food Network.  It sounded good so I ordered some.  I have to say, it is every bit as delicious as Santa's White Christmas.  This is Berres Brothers' top seller, and I can see why!  A delicious blend of caramel, butterscotch and hazelnut... It's perfect!<br /><br />I'm now on my second three-pack, and I definitely will be ordering more!
+
+product/productId: B000PL69A4
+review/userId: AQGLLL5A6PQQC
+review/profileName: Bill L. Matthews
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1345939200
+review/summary: Why Did I Buy This?
+review/text: Don't bother. Stick with pasta! I'm not upset with Amazon. Just upset with myself for buying the product. Once cooked, the product tastes like what I imagine a mouthful of sawdust would taste like. Not pleasant!
+
+product/productId: B001D04BME
+review/userId: A133A448QTU7X
+review/profileName: Evelyn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335916800
+review/summary: my four legged friends opinion
+review/text: I really like Whisker Lichin's treat, my mouth waters just thinking about the treats  My mother gives it to me every morning after she gets dressed for the day.  I love her for getting it for me.
+
+product/productId: B0026LIQ3E
+review/userId: ATPWH4B20FB0N
+review/profileName: Judy11
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346112000
+review/summary: Good deal, but....
+review/text: I like the price for this dog food plus free shipping. It seems to have good ingredients. All very good EXCEPT my dog doesn't like it, so back to Pedigree which is also sold on Amazon. Hope this helps.
+
+product/productId: B0026LIQ3E
+review/userId: A1PBGRP6N5RYPK
+review/profileName: MsWano
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1312675200
+review/summary: good mixer
+review/text: I use this to make sure my dog eats her more healthy kibble (Taste of the Wild--which I also buy from Amazon.com). I would not feed her a diet of this, but a large tablespoon mixed in with the kibble and a bit of water makes a great meal for my somewhat fussy dog. She eats it right up!
+
+product/productId: B0002ASCR6
+review/userId: A8WEXFRWX1ZHH
+review/profileName: Goldengate "Goldengate"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1269820800
+review/summary: My cat loves this stuff
+review/text: Despite the negative reviews, I decided to go ahead and try this as it was the only catnip that was in stock on Amazon.  My cat loves it and goes crazy when he smells it.  The bag is resealable to keep it fresh.  I didn't find any sticks or debris - it was just good pure catnip.<br /><br />Definitely recommended, but your mileage may vary given that no two cats are alike!  (which is why we like them...)
+
+product/productId: B0002ASCR6
+review/userId: A3M7F4SI4XF972
+review/profileName: D. Phillips
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1265328000
+review/summary: Not What It Used To Be
+review/text: I have to totally agree with the people that say this isn't NEAR the quality that Cosmic Catnip used to be.  My cat always went wild for this brand, but I could smell absolutely no scent & the cat completely ignored it.  He's a catnip junkie, so I purchased another brand & he's happy now.  This went in the garbage.  It wasn't worth returning, so I just dumped it.  I'm really glad I didn't spring for a larger size.  "And Yes, my bag also had rough sticks in it too"
+
+product/productId: B0002ASCR6
+review/userId: A3EBTNDCOJWWS2
+review/profileName: Dwight Anderson
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1264464000
+review/summary: She didn't like it :(
+review/text: After reading rave reviews about Cosmic Catnip I decided to give it a try. My cat loves Petsmart(store)brand catnip but I couldn't get to Petsmart so I decided to give this a go. She didn't respond in the slightest to it. When I sprinkled a little on the carpet she sniffed and walked away:(<br />I'm sure this might be a very good brand,afterall many other's have said how much their kittys enjoy it,but it wasn't the right one for "HRH" Maiza.
+
+product/productId: B001GVIT6E
+review/userId: A1NYL1IDBBLMOJ
+review/profileName: Chris A.
+review/helpfulness: 15/16
+review/score: 4.0
+review/time: 1318896000
+review/summary: Bold, rich coffee but not as advertised
+review/text: The coffee itself was great, and at less then $15 for over 3lb's it is a incredible bargain. The main thing you should know if you buy it though is that although it is categorized under whole bean coffee, it is ground. It is also ground extremely finely to the point that a good amount of the grounds pass straight through my Bodum Classic french press' filter. It's more suitable to be drip brewed then made in a press.<br /><br />Edit: Apparently is categorized properly under ground now.
+
+product/productId: B001GVIT6E
+review/userId: A1EW1SXZRW02J4
+review/profileName: Krish A. Lalu "Krish"
+review/helpfulness: 18/20
+review/score: 5.0
+review/time: 1276992000
+review/summary: Excellent tasting coffee
+review/text: I've been drinking Kronung since 1999 when I was stationed in Germany.  It has a wonderful taste that is distinct and tastes premium.  My friends would beg for coffee whenever they came over.  Usually I buy it at the DECA Commissaries but they were out this time and I cannot drink another brand at home.  Now I live in the coffee capital, Seattle, and they don't have anything that can compare to Kronung.  If you are curious, give it a try and you will be hooked.
+
+product/productId: B001GVIT6E
+review/userId: A2CEFY1LCAA3H3
+review/profileName: CoffeeLover
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1318464000
+review/summary: GREAT Kaffe
+review/text: A friend gave me a bag of this German coffee to try, and I loved it! That was a year ago, and I have been ordering it from Amazon and drinking it ever since! It's the best, it really is. I love the way it smells and tastes, so flavorful.  And as the Germans would say ... Das ist sehr gut!
+
+product/productId: B001GVIT6E
+review/userId: A2PKOL7RVV0WFO
+review/profileName: AnnaB
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1301011200
+review/summary: A Favorite
+review/text: I hadn't tasted Jacobs Kronug in Germany like so many here and was wondering if I'd enjoy the taste as much as my fellow reviewers.  This coffee *is* absolutely fantastic, and I high recommend it.
+
+product/productId: B001GVIT6E
+review/userId: AV71JMGA4VSBI
+review/profileName: K. L. Miller "ordinary person"
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1276992000
+review/summary: Best coffee ever!
+review/text: The coffee is smooth, not acidic or bitter like most American coffee, it's ground finer than American coffee also so it's trial and error until you get it perfect. The caffeine doesn't make me jittery like other coffees do which is a bonus for me. It's perfect as a breakfast or dessert coffee as it pairs well with food.
+
+product/productId: B001GVIT6E
+review/userId: A1JDKVO1SQK45E
+review/profileName: D. Wells
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1317254400
+review/summary: Strong & Smooth
+review/text: We use a Keurig machine and the re-usable filter cup. This coffee is a finer grind which makes it perfect for the Keurig. Strong flavor without bitterness. Will continue to purchase through the sub & save program. Packaging was great with no problems.
+
+product/productId: B001GVIT6E
+review/userId: AVF37Z7R023GV
+review/profileName: Petra Densborn
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1309564800
+review/summary: best coffee deal
+review/text: i am recommending this coffee deal to all my friends. i have a subscription for the 3pack to be sent once a month, free shipping for less than $18....this is only $6 per 500gr of coffee....compared to the specialty coffees in the stores this is a steal......starbucks coffees cost as much as $10 for a 12oz bag.....(these here are 17.6oz each) and anyone who ever spend time in europe and had german coffee will never touch the american stuff again......thank you very much amazon for selling this!
+
+product/productId: B001GVIT6E
+review/userId: ADI3HAWD97RZH
+review/profileName: Martha Jerrim "Mommy J"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1322265600
+review/summary: Jacobs
+review/text: I love Jacobs coffee, I got hooked on it while living in Germany. The suscribe feature is wonderful, the coffee just shows up when I need it and it is so much less expensive than buying through any local import shop!
+
+product/productId: B001GVIT6E
+review/userId: A28R6K8YU4IISN
+review/profileName: Manuela Espinosa-Gartzke "Mespinosa"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1320883200
+review/summary: Coffee Review
+review/text: Addicted to this coffee - best price I have found!  100% satisfied with order, shipment and product.  I will definitely be a repeat customer.
+
+product/productId: B001GVIT6E
+review/userId: A2LWH1O3WXZXHD
+review/profileName: Richard W.
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1319241600
+review/summary: Wow!
+review/text: I am always a little unsure about getting coffee online, but this was wonderful.  I look forward every day to my cup (or two or three...) in the mornings.
+
+product/productId: B001GVIT6E
+review/userId: A1IBEDPPRC7YET
+review/profileName: steve42
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1325203200
+review/summary: whole bean grind yourself soooo much better than this.
+review/text: I quit coffee some months ago due to atrial fib. but the great sale price & rave reviews seduced me.  One morning of this stuff & I'm twice as quit now.  Don't let the reviews fool you, this is Folgers quality.  If you are a  whole bean kind of person this stuff is a disappointment. Upside is I can happily go back to abstinence, for a couple more months anyway.
+
+product/productId: B001GVIT6E
+review/userId: A18YVG8O3Z25W9
+review/profileName: Oana
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319846400
+review/summary: AMAZING as always
+review/text: This is the BEST coffee I can find here in the US. Not like all the other overburnt crap around, it has distinct flavor and amazing taste. I had actually given up on coffee for the past three years, but now I'm back. I was SO happy when I discovered that Amazon sells it.  Thank you Amazon.
+
+product/productId: B001GVIT6E
+review/userId: A27Y4OEC9MD9PA
+review/profileName: George Wey
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319500800
+review/summary: Jacobs Kronung Coffee
+review/text: Jacobs Kronung Ground Coffee comes in stay fresh vacuum packs. Great aroma and flavor. Anytime coffee at a reasonable price compared to local stores.
+
+product/productId: B001GVIT6E
+review/userId: A2JPBC58LX0HHL
+review/profileName: Bonnie Schmidt "AmeliaIsl"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319500800
+review/summary: The Best Coffee Available and at the Best Price
+review/text: I have been drinking this coffee for years since living in Germany back in the 80's and I cannot say enough about its flavor. I have tried every main American coffee brand known and NOTHING comes close to Jacobs. Also,  this is a new low price for Amazon and I am stocking up.  I just cannot believe how inexpensive it is.  My husband just returned from two weeks in Germany and told me that the coffee is cheaper here than there - amazing!
+
+product/productId: B001GVIT6E
+review/userId: A17NHWX33YQJKI
+review/profileName: Davey-O
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1319414400
+review/summary: Smooth and Flavoricious
+review/text: Really like this coffee. At this price point, it might be the best coffee you can get on Amazon or almost anywhere. I mean, look at the price per ounce...so cheap. If you love a good cup o' joe, and it's so much a part of your life that you realize you need to save a few bucks, because you're drinking up too much money and your love for coffee is such that you're OK with something less than the very best, then this coffee is my go-to recommendation for you. If you're made of cash, there's a very famous local roaster who will knock your socks off starting at $1.70/oz. There are local roasters everywhere who will give you an awesome bag of beans for about $1/oz. But for less than 30 cents/oz, you can get some perfectly good Kronung and be satisfied each morning, while also saving some figurative beans.<br /><br />I think the flavor is that Northern European mellow coffee taste (think Ikea coffee), but stronger and more flavorful, while still maintaining a low level of acidity. If you like your coffee with a bit of bite or sting, then this is not for you. My other cheap coffee alternatives are the 8 O'Clock Columbian and the Yuban dark, but this Kronung, at least right now, beats both. I use an Aeropress, a Delonghi espresso machine, and a Bunn or Cuisinart drip. Honestly, I say skip those occasional sales on big name brands. If you're cost-conscious enough to perk up to a sale, then know that even after the discount, they're still not better tasting nor cheaper than this Kronung.
+
+product/productId: B001GVIT6E
+review/userId: A3OLLKWNHTTXN
+review/profileName: armymommy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323216000
+review/summary: jacobs coffee
+review/text: I started drinking coffee in germany when my dad was stationed there. Luckily after we left we were able to continue to get jacobs on post. The only problem is sometimes they're out of stock so were would always buy n bulk to make sure we wouldn't run out.<br />The vacuum seal bricks makes all the difference. Other coffee u buy that isn't vacuumed seal doesn't stay fresh. If u r a true coffee drinker and like a smooth flavor and great taste without the burnt taste then this is the coffee for you.
+
+product/productId: B001GVIT6E
+review/userId: A1DXGH2ICD87Y
+review/profileName: aroberts
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318464000
+review/summary: LOVE THIS COFFEE!!!!
+review/text: My company is German-owned and I discovered this coffee on a business trip to Krefeld.  I love this coffee so much that I've gone to a grocery store near my hotel to buy Jacobs and stuffed my luggage for the trip home.  SO glad to know that I can now get it in the US and Amazon's subscription makes it totally easy.  I can now have this incredible coffee delivered right to my door every three months...and I won't have to worry about leaving extra room in my suitcase on my next trip to Germany!
+
+product/productId: B001GVIT6E
+review/userId: A23RZ9J7TBGH6C
+review/profileName: Teressa K. Shoreland
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1318204800
+review/summary: Jacob's Kronung Coffee
+review/text: I've been drinking this coffee since I lived in Germany, and I'm thrilled to find it at such a good price on Amazon!
+
+product/productId: B001GVIT6E
+review/userId: A2T71TNID2N401
+review/profileName: C. Wenger "bodyworker student"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1317168000
+review/summary: Grew up on this coffee!!!!
+review/text: I love Jacobs Kroenung. Having been born and raised in Germany I was so happy to find this coffee at amazon.com at such a great price:)
+
+product/productId: B001GVIT6E
+review/userId: A4DUKJZV5CKP2
+review/profileName: selective
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310947200
+review/summary: Umm Coffee!
+review/text: The Jacobs coffee was delivered quickly and without damage to the packages. Fresh coffee. I am unuble to find this in the stores and to see it online was a nice surprise.
+
+product/productId: B001GVIT6E
+review/userId: A54GEMB5YLQ1V
+review/profileName: 1
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306627200
+review/summary: Great coffee for great coffee drinkers.
+review/text: I purchased this coffee for some people who "only drink great coffee" and they universally loved it.  I drink my fair share of coffee too and have to say that this is some of my favorite stuff now.  Definitely not brown swill.
+
+product/productId: B001GVIT6E
+review/userId: ADVMEQOCNA70Q
+review/profileName: Marius O. Fratila "frantro"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1278979200
+review/summary: THE BEST!
+review/text: Got hooked on this about 10 years ago and can't get rid of this "addiction" despite numerous decaf attempts...
+
+product/productId: B001GVIT6E
+review/userId: A3KUT0KMWU9IGO
+review/profileName: ha-evolution
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1272758400
+review/summary: My favorite coffee
+review/text: I first had this coffee years ago while serving in the Army in Germany.  It was the best I had tried then and it is still the best now.  Strong and smooth - a superb blend for real coffee lovers.
+
+product/productId: B001GVIT6E
+review/userId: A1VJS5J9RWVQ5K
+review/profileName: Puff n Fluff* �� "Puff*"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1306108800
+review/summary: Interesting Extra Fine Ground Coffee
+review/text: A package of coffee that's LARGER than 1 pound, imagine that! And you get 3 of those nice large bags in your order.  Plus the price is extremely reasonable especially for an import.<br /><br />The first thing I noted about this coffee is that it is very tightly vacuum sealed - no air in the bag.<br />When you open the bag you get a lovely waft of fresh ground coffee.<br /><br />The coffee itself is ground extra fine to what is very much like a powder, quite dark in color and even though ground to that gauge is nice and moist with an acceptable amount of oiliness.<br /><br />The extra fine grind makes using a paper filter a necessity - you can use a gold tone filter but it will clog with grounds so must be scrubbed after use and you will, most likely, find grounds in the bottom of your pot.<br /><br />No matter what coffee we brew in our auto drip pot we start the brewing process and then pause it for a short time allowing the grounds to 'bloom' and then restart the brewing until completion.<br /><br />We have found that this coffee as most of the Made in Germany coffees we've tried has a slight acidity and an earthy undertone in the flavor. Not a negative if that appeals to you. We enjoy it after dinner but prefer a lighter roasted bean for our morning cups.<br /><br />As with any coffee, liking this coffee very much or disliking it comes down to personal taste.<br /><br />At the price it's certainly worth trying.
+
+product/productId: B001GVIT6E
+review/userId: A192B2YS00J2ZG
+review/profileName: R. Swain "coffee adict"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1274140800
+review/summary: Coffee
+review/text: Exactly what I expected when I ordered this product. This coffee is so much better than anything you can find anywhere else.
+
+product/productId: B001GVIT6E
+review/userId: A2XN35M4REROMM
+review/profileName: rumeysa
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1291852800
+review/summary: the best
+review/text: jacobs Kronung Coffee is the only coffee we brew in our house, because it is the best.  If you try it, you will not regret.
+
+product/productId: B001GVIT6E
+review/userId: A37QM7LC9MXE1O
+review/profileName: Marienfelde76
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Jacobs Kronung Coffee 17.6 - Ounce
+review/text: Excellent coffee at an excellent price!  Lived in Europe and this is very popular there for its smooth full flavor and rich taste.  Very smooth and the grind works in our regular coffee pot and our espresso maker too.<br /><br />We get often get requests from our friends for the name of our coffee, so we just give them a package!<br /><br />The subscription feature is terrific, we never run out and it makes the price more than competitive!<br /><br />Highly recommend Jacobs coffee and the subscription plan.
+
+product/productId: B001GVIT6E
+review/userId: A3RPHXQZSAEFDZ
+review/profileName: MK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349827200
+review/summary: Best JACOBS ever!!!!!!!!!
+review/text: Jacobs Kronung Coffee!<br />Amazing taste. I can only recomend that Brand.<br />AWESOME!!!<a href="http://www.amazon.com/gp/product/B001GVIT6E">Jacobs Kronung Coffee, 17.6-Ounce Vacuum Packs (Pack of 3)</a>
+
+product/productId: B001GVIT6E
+review/userId: A3RWAE003YXB7T
+review/profileName: CHopwd
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Jacobs Kronung- great coffee
+review/text: We have tried many coffees over the years, but none have the remarkable aroma, balanced taste and eye-opening qualities of Jacobs Kronung. We first fell in love with it in the mid-eighties, while living in Germany, and in the course of time, have found it to be consistently great. Does not get bitter if you make it strong...only gets richer in taste. Flavor also stands up to cream, and makes great ice coffee  Fine grind which can take a very light tamping (or not) for added richness. Honestly one of the very few coffees that tastes as delicious as it smells.  (Note:  Always use spring water or other non-chlorinated water- you won't be disappointed!)  The cost savings of the subscription service from Amazon provides it to my door at an amazing price...and times out perfectly for us (3 bricks/month).
+
+product/productId: B001GVIT6E
+review/userId: A3K86226JJOCRP
+review/profileName: JKronung
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347408000
+review/summary: Jacobs coffee
+review/text: Discovered this through a co-worker who is going back to Germany. She brought this coffee and I made some. I got hooked after that. When I ran out, I googled where to get it and found it here in Amazon. This coffee is very smooth. I like my coffee strong and this has no bitter taste at all. I highly recommend. Excellent coffee at a fair price.
+
+product/productId: B001GVIT6E
+review/userId: A19VPQUXLUT46J
+review/profileName: Tim F
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345680000
+review/summary: Wonderful coffee
+review/text: I remember buying this coffee when I was stationed in Frankfurt Germany in the mid 80's and still love it. It's very rich and smooth without any bitterness. I only wish my local grocer carried it.
+
+product/productId: B001GVIT6E
+review/userId: A25FZ8NWWAK5S2
+review/profileName: D. Mossor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Simply awesome coffee
+review/text: We discovered this coffee while living in Germany. We tried all of the local brands - Dallmayr, Tchibo, and more I can't recall, and Jacobs turned out to be the smoothest, least bitter brew available.  We now drink this exclusively, and go into withdrawal when we run out before the next subsciption shipment.  I was purchasing this from an online German grocery store, but the subscription price was lower than anything the other store could do except when it was on sale for $6.99 a bag.  A tip: use the gold-tone permanent filters, and use 1 tablespoon of coffee per cup marking on your carafe - our weekday morning brew is 6 cups in the carafe, and we use 6 tablespoons of the ground coffee.  Absolutely perfect!
+
+product/productId: B001GVIT6E
+review/userId: A29XEI9M53DGPW
+review/profileName: David
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344556800
+review/summary: Great Coffee
+review/text: This is the same coffee we drank in Germany.  We loved it there, and we loved it here.<br />This is a great tasting coffee without a bitter after taste.
+
+product/productId: B001GVIT6E
+review/userId: A11WKHP13EIFP7
+review/profileName: Michael Nelson
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1343779200
+review/summary: Great, but bad
+review/text: Great coffee, have been very pleased.  Package however came with the middle one having rips and tears.  Coffee leaking everywhere.<br /><br />Someone should have caught this?
+
+product/productId: B001GVIT6E
+review/userId: A1OVIZ9VWVW16D
+review/profileName: tyler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Coffeee
+review/text: I love this coffee.  I signed up for the subscription and the shipper is always on time with my orders.
+
+product/productId: B001GVIT6E
+review/userId: A2KTI6EAP4T3L9
+review/profileName: Jan McAfee
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1342224000
+review/summary: Not strong enough for me.
+review/text: I like my coffee strong, but not dark and bitter. I started using German coffee a few months ago because it's easier on those of us with acid reflux. This coffee was very good when I first opened the bag, but within a few days, I could not get it to brew strong enough for my taste. It was always weak, even after adding more coffee, and/or percolating it for a longer period of time. Perhaps beans would not be so weak, but I haven't been able to find those here. I ended up purchasing the whole bean Dallmayr and am very happy with my choice.
+
+product/productId: B001GVIT6E
+review/userId: A32IA1NQR78LW7
+review/profileName: Friedhelm Dohmann "VideoGuy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342224000
+review/summary: The best Coffee out there ...
+review/text: Obviously, Jacobs Kr&ouml;nung is the best Coffee out there! Just returned from six weeks in Germany. Considering the falling Euro (from $1.35 down to $1.22 today),I wonder why the "Subscribe & Save" price for the 17.6-Ounce Vacuum Pack of 3 was raised from December 30, 2011 to July 2012 by nearly 80%, from $13.12 to $23.54! Dumbfounded.
+
+product/productId: B001GVIT6E
+review/userId: A1RR3POSYUWRSG
+review/profileName: Lino "Pat"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1337126400
+review/summary: No Longer A Bargain
+review/text: <a href="http://www.amazon.com/gp/product/B001GVIT6E">Jacobs Kronung Coffee, 17.6-Ounce Vacuum Packs (Pack of 3)</a><br />Looks like the price has gone up.  It used to be a good cup of coffee for the money.  Now, there are other coffees that I'm going to try.  There's no way that pre-ground coffee will ever taste as good as whole bean.  Now that I can find whole bean at this price, bye bye Jacobs.
+
+product/productId: B001GVIT6E
+review/userId: A3PAB8LYRDB2Y2
+review/profileName: Hobbyhobbit
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1336348800
+review/summary: Does not meet expectations
+review/text: Not what Jacob's used to be!<br />This in OK coffee, nothing special.<br />The roast is very mild and mellow, if not somewhat bitter. Not particularly tasty either.<br />Jacob's used to be excellent coffee, and I always enjoyed it in Europe.<br />However, times have changed and so has this coffee. It is now apparently marketed by Kraft foods.<br />Melitta offers a better product in my oppinion.
+
+product/productId: B001GVIT6E
+review/userId: A2VEGKASEK120S
+review/profileName: Terry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335398400
+review/summary: Great Coffee!
+review/text: The coffee is very good and I would purchase more but at a descent price like this one.  It seems like everyone is pricing way too high now.
+
+product/productId: B001GVIT6E
+review/userId: A1VJ3JGGLSL40M
+review/profileName: lkuchi
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1334880000
+review/summary: Too Acidic For My Taste
+review/text: I took a chance and bought Jacobs Kronung Coffee (ground) because of the positive remarks left by other reviewers and because of the price (coffee was on sale at the time).  I was very disappointed.  I like bold coffee (dark roast) because I find that the lighter blend tend to be acidic and not as flavorful. For point of reference, I like Peets and a few Starbucks blend(i.e. Sumatra). That being said,I have come across some medium roast that I've enjoyed but this was not one of them.  Jacobs Kronung is a light/medium roast and the taste reminds me of the typical grocery store coffee-Folgers/Maxwell House. Too acidic for my taste.
+
+product/productId: B001GVIT6E
+review/userId: A20EEWWSFMZ1PN
+review/profileName: bernie "webviator"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334707200
+review/summary: I am addicted to this animal
+review/text: When I was working for AAFES I came across this in the Base Exchange. Later I joined the reserves and lived on this stuff. I had withdrawal symptoms when my reserve time came to an end. There is just no substitution.  It does not taste burnt like Starbucks.  The vacuum pack seems to last forever. When you open the pack you have to restrain you self from sniffing it up your nose. I keep the open pack in the frig; not like I have to as the family plows through a pack a week. For store bought coffee this rivals some of the more exotic sourced coffee.
+
+product/productId: B001GVIT6E
+review/userId: A24ST9A3D50T9S
+review/profileName: GBB "GBB"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334361600
+review/summary: Jacobs Kronung Coffee
+review/text: Jacobs Kronung Coffee (the green package with the picture of a steaming hot cup of joe on the front) is smooth and rich.  It's hard to find in any stores where we live, so I always order from Amazon.  I'm a coffee snob when it comes to Espresso or regular coffee, and I've always found German coffee to be some of the best.  This coffee has been ground extremely fine, so you may need to use less coffee than the usual coarser coffee.
+
+product/productId: B001GVIT6E
+review/userId: A1O58ZG4MWILBH
+review/profileName: DJJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333497600
+review/summary: Always great coffee
+review/text: Jacobs makes a great coffee.  They are nice, hearty German coffees that are not weak like many American coffees tend to be.  All of the packages were sealed well. I have ordered from Amazon where one of the packages was soft, as it had somehow become unsealed, but so far so good with these shipments.  It's also good to have them on auto-ship so we don't have to worry about running out.  This is also a great value.  In the grocery store, I pay the same amount for half the coffee.
+
+product/productId: B001GVIT6E
+review/userId: A204YU77NGVQN
+review/profileName: Sirshrinksalot "Socrates"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1333411200
+review/summary: Meh..no wonder germans are always angry. Bitter
+review/text: This coffee tastes decent but is too bitter for the taste that comes with it. I've been using Amazon to try coffees from all over the world and thus far it's been one of my least favorite coffees. Not terrible, but not great either.
+
+product/productId: B001GVIT6E
+review/userId: A4C7IWS4D0KOL
+review/profileName: WM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332979200
+review/summary: Very Good
+review/text: I really enjoy this coffee. It was $19.60 when I bought it around first part of March 2012. This is the first time I have had German coffee.<br /><br />I make this coffee in my Bunn coffee machine. It is very finely ground coffee. So I use less of it than I would normally use. Otherwise the filter basket will overflow. Again this Coffee is very good and I will get this coffee again.
+
+product/productId: B001GVIT6E
+review/userId: A3VPLG0YUWL5YX
+review/profileName: C. Vocaturo
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332806400
+review/summary: smooth
+review/text: coffee is VERY smooth, but I personally prefer a darker roast, so I use half Jacobs and half French Roast
+
+product/productId: B001GVIT6E
+review/userId: A20O812AKS3RCM
+review/profileName: mel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332288000
+review/summary: the best
+review/text: We've been drinking Jacobs for years, and it continues to be the house favorite, hands down, beating all other coffees available.
+
+product/productId: B001GVIT6E
+review/userId: A1SQBHTZ2DWL9I
+review/profileName: buni911
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331683200
+review/summary: jacobs
+review/text: this is an excellent coffee, very strong with excellent fragrance, you can make very strong or mild coffee. Even mild coffee has strong coffee fragrance.
+
+product/productId: B001GVIT6E
+review/userId: A3JEJHQCPP9KIJ
+review/profileName: Secret Squirrel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330732800
+review/summary: This Coffee Rocks!
+review/text: I believe that this is the best coffee that I've ever had.  Very smooth and tasty!  We had it while on a trip to Germany and were hooked.  Luckily for us, we are able to purchase it through Amazon, and we couldn't be happier about it.  My husband is a coffee lover but I've not been one as much.  I like it, but it normally bothers my stomach.  However, this coffee has not upset it once.  Ample caffine too!  Yay!
+
+product/productId: B001GVIT6E
+review/userId: A2Q3WSU5PS2MZO
+review/profileName: outwest
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330473600
+review/summary: Mellow option for Moka pot
+review/text: After shelling out for Illy and Lavazza Gold for a few years, the deal on Jacobs Kronung here made it tempting to try.  The grind is perfect for a Moka pot (and for those who haven't tried one yet, you will be glad when you do!).  The flavor is a bit rounder and milder than Lavazza Gold or Lavazza Crema, and the aroma really is nice.  The Germans certainly know their craft as to smooth coffee, and this is perfect for the morning wake up.  At Amazon's incredible price, it's easily worth it.<br /><br />As to folks concerned with dealing with vacuum packs, my solution was to use one of my old cans of Lavazza and pour the opened vacuum pack into the can.  The vacuum packs are a pain, but the cheaper cost is worth it.
+
+product/productId: B001GVIT6E
+review/userId: ALJEHFP64QXZA
+review/profileName: TimexVA
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328572800
+review/summary: Great Coffee
+review/text: Jacobs Kronung coffee has a great favor and is very smooth.  This coffee has become my favorite.  I have recommended it to all my friends.  Give it a try, you won't be sorry.
+
+product/productId: B001GVIT6E
+review/userId: A3NKM99THVFU16
+review/profileName: Josh Nicolson "drifter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326326400
+review/summary: No bitterness whatsoever
+review/text: I'm no connoisseur but this coffee was excellent. Absolutely no bitterness at all. I'm a "likes a little coffe in my cream and sugar" type of coffee guy. However, I tried this sans creamer and sugar and couldn't believe how great it was. I'm now hooked. I drink this coffee black everyday.<br />One note: I gave a bag to my inlaws and they are connoisseurs, they didn't like it because it didn't have enough "aroma".<br />If bitterness is aroma. I'll take my coffee sans aroma any day.
+
+product/productId: B001GVIT6E
+review/userId: A3RSGFSELI2MPV
+review/profileName: museumgirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325116800
+review/summary: Great coffee, great value
+review/text: We drink a lot of coffee in our house, and this is about the best value for great coffee you will find. It is very mellow, rich and flavorful. And at the subscribe and save price, it's cheaper than grocery store coffee-plus, I'll never run out!
+
+product/productId: B001GVIT6E
+review/userId: A1Q7WU41H69MGT
+review/profileName: keith broe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325030400
+review/summary: border hills
+review/text: great value for the price, good flavor, very fine grind, not bitter, and I like strong coffee. The price was right also.
+
+product/productId: B001GVIT6E
+review/userId: A3QLS4UG11LJ0P
+review/profileName: dottie12
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324771200
+review/summary: TOTALLY LOVE THIS COFFEE
+review/text: I am a true coffee lover.  Nothing added - just coffee and water - but it has to<br />TASTE like coffee - no colored water, weak brew for me - and this fits the bill<br />completely.  I was reluctant to try this but am glad I did.  I have been subscribing<br />to coffee delivery from that company that begins with a G and paying about $36<br />including shipping for TWO pounds!!  After receiving this coffee, I have cancelled<br />that subscription.  I use a Braun machine and unbleached filters and have had no<br />problems.  I like the fine grind because you get more of the coffee's flavor w/o<br />having to use an enormous amount of the product.  I'm so glad I took a chance and<br />tried this and even more glad that I put it on Subscribe and Save - I know I will<br />have delicious coffee every morning from now on with no more effort on my part.<br /><br />Thank you, Amazon, for having this product available.
+
+product/productId: B001GVIT6E
+review/userId: A2YY2V1WU0L0BA
+review/profileName: ibereesecup
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323648000
+review/summary: Delicious!
+review/text: I've had jacobs Kronung before, love it because its such a smooth rich taste! The price is awesome making this purchase an automatic win win!
+
+product/productId: B001GVIT6E
+review/userId: A1SH943YI61BV3
+review/profileName: Rodney Jones
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268265600
+review/summary: Great Coffee
+review/text: Lived in Germany for 15 years.  Working at Ramstein Air Force Base & started drinking Jacobs Gold the day I arrived.<br />Quality never changed - always good - No... excellent!<br />If you like a really good cup of coffee and you can make it strong or less so with practices.  It takes less than the American drip feed coffee to get a really good cup. It will last you and make your day.  My wife came out to Germany when we got married and she was converted in all of 10 minutes :)  Have missed it ever since returning home and now I have found a good source, it will be a regular in our budget.<br /><br />It comes  vacuum packed so it is like a brick and fresh as the day it was ground.<br /><br />If you have not tried this coffee,  You will not be disappointed.  Just go easy on the quantity for your first few cups. Once you try it you'll be hooked<br /><br />Go on - Spoil yourself  :)
+
+product/productId: B001GVIT6E
+review/userId: A368SKXXNF0JE9
+review/profileName: Katya Podin "nursing67"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1261612800
+review/summary: change advertising
+review/text: The advertisement was not clear about if it is beans or grounded coffee. It is grounded.
+
+product/productId: B001GVIT6E
+review/userId: A1N44F2VXUW0QZ
+review/profileName: TV and movie fan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259539200
+review/summary: wonderful coffee
+review/text: A friend once sent me a package of Jacobs coffee from Belgium and I fell in love with it.  It is a wonderful mild but rich coffee, not bitter like so many popular coffees.  I was thrilled to find it available on Amazon.  I have another friend who can purchase it at the army commisary and said I paid close to what she pays.  Good deal for the best coffee I have had.
+
+product/productId: B001GVIT6E
+review/userId: A37OC6HOW68W1A
+review/profileName: V. Cipriano "Gio's Dad"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254873600
+review/summary: BEST COFFE
+review/text: My Mother in Law told me to try this coffe and I was sceptial. I tried it and it is the BEST COFFE I have ever had HANDS DOWN. It dosent matter how much you put in the filter or how strong you make it. It is always smooth. Never acidy or over berring.
+
+product/productId: B001GVIT6E
+review/userId: A1JFOQKALAXP4P
+review/profileName: magab55
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251676800
+review/summary: jacobs kronung
+review/text: I love this german coffee. It does not take as much in the coffee maker as regular coffee. Strong and rich flavor. I never would order it before, because shipping was too high. but i found it for free shipping and was very happy. I grew up in germany and this was our #1 brand.
+
+product/productId: B001GVIT6E
+review/userId: A2LPVPT97VQGIA
+review/profileName: alius
+review/helpfulness: 3/5
+review/score: 1.0
+review/time: 1292889600
+review/summary: Disappointed in THIS batch for DRIP brew
+review/text: DEC. 21, 2010<br />Since the "coffee revolution" spread from Seattle and captured almost every county in the U.S., there is no shortage of well-roasted coffee beans in regular and decaf for nearly every taste, provided by the larger roasters as well as by small operators. I hang out at a Starbucks with a terrific view and with the "Cheers" effect, and I currently like their Sumatra blend for decaf and Komodo Dragon Bold blend for regular.<br />Any coffee connoisseur will buy whole beans and grind just enough, in a BURR grinder, to brew. I use a (Braun) drip grinder with unbleached filters.<br />I "grew up" with low-acid, aero-therm roasted Heimbs coffee in North Germany and still like it when I am over there visiting. I also enjoyed the Jacobs blend that I discovered on ICE trains, in many restaurants or on the airplane(s) on trips in recent years.<br /><br />I ordered a batch of Jacobs Kr&ouml;nung recently for sentimental reasons and in order to get a large enough combined order that qualifies for free shipping. I was aware of the "ground" label.<br /><br />What I received was close to a powdered consistency, definitely NOT SUITABLE for DRIP brewing nor for French Press. I actually had particles penetrating the filter paper and ending up in my cup. Ridiculous. I was not excited about the TASTE either but realize that could be tweaked by varying the quantity and perhaps by using different water. I am not planning to do so and will probably give the remaining three packages away.<br /><br />Unless amazon.com offers whole-bean Jacobs, I will not order this product again nor will I recommend it to anybody.<br />Amazon should label this product as "not suitable for drip brewing".
+
+product/productId: B001GVIT6E
+review/userId: A37OF5RRB82UTD
+review/profileName: Scott "Scott"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1319155200
+review/summary: WOW! What a deal!
+review/text: Love this coffee! This has got to be the best deal on coffee in the United States. Packages arrived well packed, and sealed. I thought the low price meant I was going to get coffee with a close expiration date, but this stuff is good until February 2013!<br /><br />Yes, it comes in a very fine expresso grind, but I have not had one problem with it. (Can't believe the people whining that a few grinds made it through their filter. Hint, it won't kill you!) I use a Mellita #4 filter cone, and have never noticed grinds in my coffee.<br /><br />It's on sale now too, just in time for the holidays. Am ordering another 3-pack at this unbelievable price.
+
+product/productId: B001GVIT6E
+review/userId: A2DXJKT2E7GZRI
+review/profileName: Jacobs coffee
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1292716800
+review/summary: Jacobs coffee
+review/text: is the est coffee. Thanks to Amazon.com offer the chance to deliver it. Unfortunely 2 of 9 bags was unsealed.
+
+product/productId: B001GVIT6E
+review/userId: A2E6R5K2VZ0N5Q
+review/profileName: Pat Patterson
+review/helpfulness: 4/7
+review/score: 3.0
+review/time: 1280016000
+review/summary: Very Good Coffee, Only One Problem
+review/text: I have used the whole bean Jacobs Kronung coffee and liked it a lot, but have been unable to find it lately, so I decided to try the ground from Amazon. When I got it and opened it up, I discovered that it is a very fine grind, almost like a powder in consistency. The coffee still has very good flavor, but it has taken a lot of experimentation to find the right amount to use.<br />Maybe there was some mention of how fine the grind was somewhere in the description, but I don't remember seeing it. There are some comments about it in some of the reviews, but this is still a much finer grind than any other fine grind I've tried. The lack of information about how fine the grind is was the only reason for the 3 star review and has nothing to do with the quality and flavor of the coffee. I wish I could find the whole bean.
+
+product/productId: B001GVIT6E
+review/userId: A2BXEQK0PU8LIN
+review/profileName: Debra Vincent
+review/helpfulness: 3/7
+review/score: 1.0
+review/time: 1317600000
+review/summary: Yuck
+review/text: Dont waste your money because its a good deal. Packaging is in german. Coffee is stale, bitter, and leaves a horrible aftertaste. One of the worst that I have had.
+
+product/productId: B001GVIT6E
+review/userId: A2TUZQT95PET6D
+review/profileName: J. E. Taylor
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1325289600
+review/summary: This is not great coffee.
+review/text: I've recently been spoiled by fresh roasted coffee from a local roaster and was intrigued by all of the positive reviews.  Anyway, this stuff was no better than what sits on grocery shelves for months and months, waiting and waiting and going stale with every passing day.  Do yourself a favor and buy FRESH whole bean coffee like <a href="http://www.amazon.com/gp/product/B002GWMD2I">Dark Brazilian Santos, Whole Bean Coffee, 5 Pound Bag</a>.  Grind it with a burr grinder, brew it with any of the manual methods, and you will be in coffee nirvana.  And you will never buy this stuff again.
+
+product/productId: B001GVIT6E
+review/userId: A1NW1JE9ITZQON
+review/profileName: Kris Ewing
+review/helpfulness: 2/6
+review/score: 1.0
+review/time: 1318636800
+review/summary: Not wholebean coffee
+review/text: Why is this coffee tagged as whole bean?  Amazon classifies it as whole bean, but it is ground.  Don't order it if you aren't looking for ground coffee.
+
+product/productId: B001M1Z1ZA
+review/userId: A2UJFGPCX5F1NI
+review/profileName: melikee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328659200
+review/summary: OBSESSED
+review/text: I have seriously developed an obsession for Melba toast!  I really enjoy this Sesame version even more than original Melba toast.  Melba toast can sometimes have a bitter after taste and this particular one has absolutely NONE of that, the sesame really adds to the experience, if you enjoy Melba toast!  I eat this for breakfast every morning with one wedge of Chipotle laughing cow cheese and a cup of coffee and every morning I enjoy it even more than the last time.  I also highly recommend the Tomato and Herb Melba toast from this same brand!!  Melba Toast Lovers, you will LOVE!!
+
+product/productId: B006VH489K
+review/userId: A8UGS5XUADCJP
+review/profileName: gc123
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Fun assortment!!
+review/text: I got this for my daughter for Easter.  Great assortment and enough to share. Plus just fun and good to eat!! No complaints on shipping or how it was packaged.
+
+product/productId: B006VH489K
+review/userId: AXQNEMI9N0Z2D
+review/profileName: M. Thompson "M. T."
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335398400
+review/summary: Disappointing
+review/text: This bag was a real disappointment.  It was tiny.  Not just small, but tiny.  It did not have a whole lot of candy in it and that seems ridiculous considering the price.  I paid $15.83 for both the candy and shipping together (8.49+7.34S).  At the local store I could have gotten the same bag for $2.75 (at Vons) and at another store (Albertsons) I could have gotten TWO 48 oz bags (5 times the 18oz size) for the price available here.  Do yourself a favor and get something else.  This is just not worth the price Candy Corner is asking.<br /><br />As for the candy itself, this particular mix was disappointing.  No Nerds, which is the favorite among all the kids.  No Pixie Stix, no Fun Dip, no Runts.  It did have a couple of nice ones, but also a couple that no one wanted.  And the bottle caps did not taste right and certainly not how they usually taste.  If they haven't changed the way they make them, then it is possible they were stale.<br /><br />I hope this helps you avoid overpriced candy.
+
+product/productId: B001FA1RUQ
+review/userId: A56JFSLUCHI4J
+review/profileName: Chi "Who loves to find bargains and lives a g...
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1237939200
+review/summary: They are so good that you can't stop eating them
+review/text: Every bite you can taste like they are just freshly baked and so much chocolate chucks in each cookies, it is hard to believe. This is not your store brand bought cookies. Seriously, I bought 3 boxes from the local store, they were gone in one week. They are a little pricey but you do get what you pay for! Try them, you'd be hooked like my family are.
+
+product/productId: B001FA1RUQ
+review/userId: A3IXHHF6H02CS2
+review/profileName: Violet M. Sandru "Happy flower"
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1242086400
+review/summary: Better Than Homemade!
+review/text: These cookies are the best chocolate chip cookies I have ever had and are free of preservatives, flavors and colors as well as free of high fructose corn syrup and hydrogenated oils. I order these cookies in the case of 6 and have given them to may friends to try.They all call and ack me where they can obtain them. Not only are they delicious, your price is the lowest and your service is wonderful.
+
+product/productId: B001FA1RUQ
+review/userId: A32EOVI5A4DAK
+review/profileName: aerh
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1254009600
+review/summary: Awesome, but not always
+review/text: I have bought two orders of these cookies and here's my experience.<br /><br />The first order: The cookies were awesome, very good and very few broken pieces.<br />The second order: The cookies tasted a bit stale and had many broken cookies.<br /><br />I guess it's the luck of the draw, but overall, I still really like these cookies compared to other ones that have much more saturated fats like keeblers (those are good too, but too much fat)<br /><br />But these should not be seen as a healthy snack, as they still do have a good amount of fats in them and nothing that's really good for you.
+
+product/productId: B001FA1RUQ
+review/userId: AQX5VO27FDB5F
+review/profileName: NCM
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1264291200
+review/summary: Addicting!
+review/text: These cookies are made with all natural ingredients, they do not contain trans fats or high fructose corn syrup and they taste great.  Only downside - we can't stop eating them!
+
+product/productId: B001FA1RUQ
+review/userId: AOO15UCHWR39I
+review/profileName: Kathy Hawken
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1241136000
+review/summary: Like these very much
+review/text: I've been purchasing these the last few years, this variety my favorite. Amazon pricing along with delivery can't be beat.  Thank you!
+
+product/productId: B001FA1RUQ
+review/userId: ABK35DMO3QYNT
+review/profileName: cKsG "Online Shopper!"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1237507200
+review/summary: The best ever!
+review/text: These are the most addictive chocolate chip cookies i have ever had. They are extremely crispy with the perfect chocolate chucks in them.
+
+product/productId: B001FA1RUQ
+review/userId: AUFO5GFCYNRD5
+review/profileName: Kevin Harper
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1257465600
+review/summary: good and healthy
+review/text: (updated - Jan. 11, 2012:  I'm lowering the stars from 5 to 3.  These cookies are ok.  I'm noticing the crunch is a bit too much and it has a slight burnt taste.  I prefer the softer, more crumbly feel of their fudge striped and mint cookies.)<br /><br />These cookies are just about as good as Famous Amos and Chips Deluxe chocolate chip cookies, but they use safflower oil which gives them half the saturated fat.<br /><br />They have a great crunch, good texture and good all-around taste.<br /><br />These are the best chocolate chip cookies I've ever had when considering taste AND healthfulness.
+
+product/productId: B001FA1RUQ
+review/userId: AZV26LP92E6WU
+review/profileName: M. Hammond "ColemanFlGuy"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1248998400
+review/summary: Back To Nature Chocolate Chunk Cookies
+review/text: Delicious crunchy cookies. Highly recommended. I have no regrets buying them on subscribe. They are fresh and they taste good to me. They melt right in your mouth. One of the most delicious cookies I have ever eaten. They really are!
+
+product/productId: B001FA1RUQ
+review/userId: A1VUBZ4JLKTM44
+review/profileName: Sub-Zero
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1239840000
+review/summary: Chips AWho?
+review/text: I've eaten these cookies for years, and they are the best by far. After eating these cookies, all others are sub-par. You don't get as much in a box as you would with the typical store brands, but the quality is top notch. Plus, you don't have to worry about putting all of that garbage in your body from the common big name cookies.<br /><br />Nothing else compares.
+
+product/productId: B001FA1RUQ
+review/userId: A2XNJJ9TF70P4J
+review/profileName: Angie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1302652800
+review/summary: Delicious and natural
+review/text: These are very good cookies. They are in no way comparable to homemade though, whoever said that is smoking crack. But for store bought, these are excellent.
+
+product/productId: B001FA1RUQ
+review/userId: A1CNMOTETPJVC7
+review/profileName: Stephan J. Gold
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1291075200
+review/summary: Best for taste and ingredients
+review/text: Very good for texture (crispy) and taste. Chocolate seems to be of a good quality and the cookie itself has a nice chocolate flavor. General overall sensation is a rich satisfying mouth feel without all the dangerous hydrogeated oils and/or palm and coconut oils that most manufacturers add to their cookies. Looking for a good commercial cookie, this is it.
+
+product/productId: B001FA1RUQ
+review/userId: A2M687HYOW9JFW
+review/profileName: dream factory
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1309910400
+review/summary: The're not bad cookies
+review/text: And the're not good cookies.  They are just cookies.<br />The chocolate chunks are not big.  Well that's because the cookies are not big.  Just this side of bite size.<br />Our batch was over baked.  Dark bottomed and dry.  Well that's only one batch out of 100's.<br />They are not organic.  They are not gluten free.<br />The ingredients are basically what Chips Ahoy have.  Except these have been given the rainforest alliance certification seal of approval.  What?<br /><br />I'll tell ya, I've never had a bad batch of them thar Chips Ahoy I tell ya.<br />So iffin I'm a gonna splurge, I'm not gonna force down these little dry cookies.  I'm gonna get me one of those 4" big moist chocolate filled hockey pucks down at the bakery.
+
+product/productId: B001FA1RUQ
+review/userId: A39Y59C6FTC0GL
+review/profileName: Christine
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1246406400
+review/summary: Good tasting
+review/text: If I could, I would give these a 3 1/2. They do have nice big chunks of chocolate and they are "healthier" than a Chips Ahoy. However, these aren't the best chocolate chip cookies ever (some other reviewers that imply this). The best chocolate chip cookies are the refrigerated Immaculate Cookies.<br /><br />For a boxed cookie, these are fine but not anything out of this world.
+
+product/productId: B001FA1RUQ
+review/userId: A3UC586EDL2M96
+review/profileName: dj
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: back to nature chocolate chunk cookies
+review/text: try these cookies you wil love them ...they are healthier for you and taste great ...you wont go wrong buying this brand ...kid tested and taste approved ...and the healthier for you is the iceing on the cake ..i love a company that cares about what their customers eat ..i can only put out a box of these cookies a day because if you put out more they will alll be eaten ...try these ...you will love them and love the fact that they are healthier for you !!!
+
+product/productId: B001FA1RUQ
+review/userId: A188S2HH77HKAN
+review/profileName: AdamDZ "AdamDZ"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338681600
+review/summary: Crunchy, tasty cookies
+review/text: These are indeed very crunchy so if you prefer the soft, chewy type you won't like these. But since I like crunchy, I like these a lot. Generous amounts of large chocolate chips! Very tasty and not as sweet as most chocolate chip cookies found in supermarkets. If you believe the print, they're healthier too. I will definitely be ordering more of these.<br /><br />Added on Oct 26th, 2012:<br /><br />I had my gallbladder removed 4 weeks ago. I was in despair that I won't be able to eat chocolate chip cookies since they're too fatty. Since these have a lot less fat than a typical CC cookie I can still have 3 or 4 for desert without any nasty consequences! But check with your doctor, as they say: your mileage may vary.
+
+product/productId: B001FA1RUQ
+review/userId: AF2YPL5HGF9E9
+review/profileName: PhotoExpert "science2000"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1337472000
+review/summary: Not really good.  Sorry. After several order they were terrible
+review/text: I've had this product several times.<br />When they're fresh and one is hungry they taste 'pretty good' but<br />reality sets in:<br /><br />They're greasy to the point of a scum of grease the roof of my mouth.<br />That's when I began to notice I really didn't like them.<br />They're really not tasty.<br /><br />I thought I liked the chocolate and the cookie but realized it's really<br />a terrible taste. It's thin (tasting) and simply lacks what you spend money<br />for.<br /><br />As another reviewer<br />said, "The second order: The cookies tasted ..stale and had many broken cookies.<br />..these should not be seen as a healthy snack, as they still do have ...fats in them ..<br />nothing that's really good for you."
+
+product/productId: B001FA1RUQ
+review/userId: A1X40CC4TE4BBJ
+review/profileName: wsabi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336262400
+review/summary: cookie monster
+review/text: I love these cookies! If you like crunchy chocolate chip cookies, you'll like them. I ordered the 6 boxes and ate them in about 2 wks so I'm going to hold off ordering them for awhile. They remind me of a healthy chips ahoy but better tasting. I don't think they taste like homemade but they are really good and I recommend them!!
+
+product/productId: B001FA1RUQ
+review/userId: ABYT3T74QDCW5
+review/profileName: Lisa A. Eyckmans "msmanynames"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331510400
+review/summary: Delicious
+review/text: Wonderfully fresh and full of chocolate chip chunks.  Hard to stop after just 3 cookies!  My kids love them also.
+
+product/productId: B001FA1RUQ
+review/userId: A2YS02267Q1QL7
+review/profileName: ThatGirl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327536000
+review/summary: Yummy!
+review/text: These are really tasty!  Kids and adults loved these!  I like most Back to Nature products and we were not disappointed with these.
+
+product/productId: B001FA1RUQ
+review/userId: A3J6U4DRKLO2C9
+review/profileName: Philly Girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318982400
+review/summary: Love These Cookies
+review/text: My family loves these cookies. Much cheaper purchasing them this way than buying from the supermarket.<br />I get them via subscribe and save.  But remember that there is still sugar in them.
+
+product/productId: B001FA1RUQ
+review/userId: A3U6ATY2NVBAR6
+review/profileName: Lenore Poe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316390400
+review/summary: Delicious!
+review/text: I bought these cookies as a treat for my son because I liked that they have no artificial flavors, colors, or preservatives.  They use Rainforest Alliance Certified cocoa, and their packaging is 100% recycled paperboard (minimum 55% post-consumer content) printed with vegetable-based ink. He loved them so much that I tried one - I was surprised at how good they are. If you like a crunchy chocolate chip cookie, as opposed to a "soft bake" style, you will like this cookie.
+
+product/productId: B001FA1RUQ
+review/userId: A2FO8KY6GGUZ3P
+review/profileName: Nikk Nikk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310428800
+review/summary: Best cookies next to pepperidge farm verona cookies
+review/text: I love these cookies and they always make it into my grocery cart. They are not soft and gooey, but aren't kibble. They are slightly bigger than the the rim of the paper towel cardboard lining. The key to these cookies are storage. If they are not stored properly you he will end up with stale, dry, cookies that appear like the chocolate chunks are burnt b/c they darken w/ improper storage. I've been eating these cookies for almost a year and my experiences were not consistent. When I got a good fresh box I was in love with the semi sweet taste of cocoa. But, when I got a box that wasn't I ended up with a kibble like texture that had a bland taste with chocolate chunks so hard and dark they looked like rat poop. If they are fresh the chocolate chunks "should" melt slightly to your hand/fingers when you're eating them. I love the rich taste and I am not usually a chocolate fan since my love is gummy snacks. But, this is fresh and the antioxidants one gets from cocoa makes this a great buy. I also like that it's fair trade so no slum dog millionaire stuff w/ over worked, mistreated people living in slums for the sake of my snack. They are very rich and filling I believe one cookie is considered one serving. No grittyness or aftertaste. I of course will buy again. I am trying out amazon and ordered the 6 pack of the 9.5 oz box so hopefully amazon has their stored right!.
+
+product/productId: B001FA1RUQ
+review/userId: A34VZ0FDCEBN8D
+review/profileName: MSHall "Musician"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297900800
+review/summary: My Favorite Snack!!!
+review/text: LOVE these cookies. They taste great!!!<br /><br />I was looking for a natural and organic snack and these Back To Nature chocolate chip cookies are just what i needed. The only issue i have is the amount of calories (130 calories for 2 cookies), but the cookies are a good size. If you eat 4 cookies like i do somtimes its still not that bad calorie wise (260 cals.)<br /><br />Buying them in bulk from Amazon really helps. Somtimes there is a little breakage but for the most part the cookies arrive intact and ready to eat! Dollar for Dollar its the best deal you are going to find. I say buy them and stop eating all those artificial chocolate chip cookies loaded with Junk!..... Lets eat healthy AMERICA!!!
+
+product/productId: B001FA1RUQ
+review/userId: AVFA1JB08RG8G
+review/profileName: Wile E. Coyote "^. .^"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1272240000
+review/summary: Pretty Fair Toll House
+review/text: This is a fairly decent chocolate chip cookie...certainly a notch ahead of store-bought, which is primarily why they got four stars. However, I found them to be more crumbly and mealy, rather than crunchy. Moreover, I prefer some pecans and brown sugar in my Toll House cookie. The chocolate chunks were more than adequate and quite tasty. If you want an upgrade to five stars, check out the Absolutely Divine line by CVS. Yes, you can order them on-line, with free shipping for orders over $49.
+
+product/productId: B001FA1RUQ
+review/userId: A1X69RZ08LRNGL
+review/profileName: steve_oakland
+review/helpfulness: 2/6
+review/score: 1.0
+review/time: 1285459200
+review/summary: Greenwashed "Chips Ahoy"
+review/text: These are low-quality crunchy cookies, similar to Chips Ahoy. I don't know how anyone could confuse these with "home-made" cookies. Brown packing doesn't mean it's healthy or any better for you or the environment. These are still factory-made sugar and fat bombs, "natural" ingredients or not. Buyer beware.
+
+product/productId: B001SAYANO
+review/userId: A8PUFEY0XLEVL
+review/profileName: K. Bruce Florence "Critical Reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301875200
+review/summary: Quality Counts
+review/text: So many times one discovers a product that works beautifully with my style of food prep and the family's taste, only to find later that the store no longer stocks it. This happened with The Tabasco Sauce, 7 Spice Chili.<br /><br />There is no measureing or guessing with product and the chili is perfect everytime. Thank you for making this available and even though I am quite sure it is not your leading product, those of us who count on it would be very sad if it disappeared. Amazon and McIlhenny is providing a super service.<br /><br />Bruce Florence <a href="http://www.amazon.com/gp/product/B0000TW1O4">TABASCO Original 7 Spice Chili Recipe</a>
+
+product/productId: B004C384X6
+review/userId: A15TN4GCH7DBXR
+review/profileName: mr smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Good quality espresso
+review/text: This is an assortment of three types of Italian espresso pods for ESE compatible machines. The three varieties are: Mr. Exclusive 100% Arabica; Exquisit, a 90/10 arabica robusto blend; and Blucaffe, an arabica blend that my wife and I found to be far and away the best of the three. That's not to say the other two are bad; all three are very nice, but the Blucaffe is something special.<br /><br />One thing to be aware of if you're unfamiliar with Lucaffe is the artwork on the package labels, which features subtle and not-so-subtle racial caricatures reminiscent of Black Americana. It might not be everyone's cup of tea, so to speak.
+
+product/productId: B000IDUW8E
+review/userId: A2IC4NDC6ND695
+review/profileName: Kim English
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350086400
+review/summary: Dr. Smoothie Bio Bars
+review/text: I've been purchasing this product for several years after my mom discovered them at a local nutrition store.  I am allergic to soy and wheat, so my choices in protein bars are very limited.  I also prefer raw and organic foods to processed.<br /><br />These bars are a good source of protein without soy, wheat, or gluten which I am deeply grateful for.  As far as protein bars go, they are healthier than most I've found with many organic ingredients.<br /><br />I've given Dr. Smoothie 4 out of 5 stars because in my humble opinion, the sugar content is a bit excessive - 9gms for a 2 oz bar.  It also includes maltodextrin which is a highly processed food additive derived from corn.  And, it contains natural vanilla and carmel flavors, which are not natural foods.<br /><br />I would love to see Dr. Smoothie clean up the bars a bit more to make them raw and organic with less sugar. However, even with these ingredients, they are by far a better bar.
+
+product/productId: B0001KH58O
+review/userId: A2XCB5T46Z0IVO
+review/profileName: nannyjo3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297296000
+review/summary: Raspberry/Jalapeno Jam
+review/text: I was so surprised to find this product.I had been looking for this jam at many sites and this company was great!! The jam was fantastic and the company was great. They shipped it out quickly and in very good shape..I have been really satisfied with this product and will order again!!
+
+product/productId: B008CJ7B0S
+review/userId: A1O8CFOBSGB85A
+review/profileName: ElaineHyde
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348790400
+review/summary: Wow!  This is Great!
+review/text: Tried this last night and it was so delicious I could not stop thinking how good it was (savoring it I guess you could say).  I have used green curry paste before (May Ploy brand) and loved it.  But the flavor of this curry paste was incredible.  I made it according to the package directions, using beef (top sirloin sliced thinly) and it turned out perfectly.  Served it with Basmati rice.  It is spicy but not too  hot.  If you like Thai food I think you will love this.
+
+product/productId: B000IDUW8O
+review/userId: A2IC4NDC6ND695
+review/profileName: Kim English
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350086400
+review/summary: Dr. Smoothie Bio Bars - Peanut Butter
+review/text: I've been purchasing this product for several years after my mom discovered them at a local nutrition store. I am allergic to soy and wheat, so my choices in protein bars are very limited. I also prefer raw and organic foods to processed.<br /><br />These bars are a good source of protein without soy, wheat, or gluten which I am deeply grateful for. As far as protein bars go, they are healthier than most I've found with many organic ingredients.<br /><br />I've given Dr. Smoothie 4 out of 5 stars because in my humble opinion, the sugar content is a bit excessive - 9gms for a 2 oz bar. It also includes maltodextrin which is a highly processed food additive derived from corn. And, it contains natural vanilla and peanut flavors, which are not natural foods.<br /><br />I would love to see Dr. Smoothie clean up the bars a bit more to make them raw and organic with less sugar. However, even with these ingredients, they are by far a better bar.
+
+product/productId: B000IDUW8O
+review/userId: AITOV1497G6WY
+review/profileName: Randy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297382400
+review/summary: excellent nutritional numbers and ratios
+review/text: Love the product...continue to re-order in site of the price.  Great content inclusive of fiber content lacking in so many competitors.  Wish some one would offer similar at reduced cost.
+

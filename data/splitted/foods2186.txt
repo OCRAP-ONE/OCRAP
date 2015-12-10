@@ -1,0 +1,1143 @@
+product/productId: B0025UONWO
+review/userId: A29P7ROV7P7JGA
+review/profileName: Andreas L. Bazos
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301788800
+review/summary: Nice and spicy!
+review/text: It has just the right amount of spicy.  Ofcourse you can always add more to make it even spicyer
+
+product/productId: B000FGZKWM
+review/userId: A3Q1JOOF9VENQM
+review/profileName: A. Brett Breitwieser "ISP Tech"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1168300800
+review/summary: good tea
+review/text: A most enjoyable, if somewhat faint, tea. My daughter just came back from China and she said it was the best tea she's had since China. Somewhat to the whie tea side (2 buds) of green tea (and a leaf), I prefer a greener tea that tastes more like spinach, but then again I am somewhat of a western peasant.
+
+product/productId: B000FGZKWM
+review/userId: A3S9AXOHUZHCSS
+review/profileName: J. Thompson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1189728000
+review/summary: Very nice, but not the tea in Japanese restaurants
+review/text: This is a very nice green tea with great flavor, but the description makes it sound a bit like the REALLY green-colored tea found in sushi restaurants.  It is not - when brewed, it comes out a light brownish-green, similar (oddly) to the color of the cardboard box in the picture.  It also is not as "grassy" as that green tea - the flavor is definitely bolder.  Brew at about 180 for best results - if you brew in boiling water it can become bitter.  This is a great deal for green tea of this quality in this volume.  Each bag is individually sealed, which is nice although it does involve some waste of plastic.<br /><br />If you're trying to switch from coffee or black tea to green, it's hard to go wrong with this stuff.  If you are a lover of "flavored" teas you will probably not like this - it is JUST tea, no flavors, pure and very simple.  Also, for those who care, green tea can stain your teeth even more than coffee, strangely - be warned if you plan to drink a lot of this.  On the positive side, it won't give you that wretched coffee breath that is the bane of my office existence.
+
+product/productId: B000FGZKWM
+review/userId: AEXJ8BOPLZJV4
+review/profileName: Thian Schiffhauer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313366400
+review/summary: great green tea
+review/text: This proved to be an excelent green tea.  It is low in caffeine so having 2 or 3 cups before work doesn't leave me shaking but it certainly wakes you up.  A light bitter following refreshes each swallow and leaves the tongue craving more.  Perfect with honey and a touch of lemon.
+
+product/productId: B000FGZKWM
+review/userId: A3DYOE2U6VL3SF
+review/profileName: R&amp;J
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1296345600
+review/summary: Tastes like the dregs at a bad chinese restaurant
+review/text: weak, unpleasant flavor.  Won't be ordering again.  Disappointed, because we love the other varieties from two leaves and a bud.
+
+product/productId: B000FGZKWM
+review/userId: A2WZ0FFR3TT8WH
+review/profileName: harmeyes
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1250899200
+review/summary: Best Tea Ever
+review/text: I've only been drinking green tea for a couple years, but this is the best green tea that I have tasted. It instantly became a favorite. While this has been in the cupboard, all other teas bags have sat gathering dust.<br /><br />Is it worth the price? Yes.
+
+product/productId: B000FGZKWM
+review/userId: A39P4WW9N7W95C
+review/profileName: katie did "kt"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1244678400
+review/summary: great green tea
+review/text: This is a great green tea.  Mellow, smooth, conveniently wrapped.<br />It's the best bagged tea I have had so far and I drink it daily.
+
+product/productId: B000FGZKWM
+review/userId: A3R2OZV850X1OE
+review/profileName: F. Lim "Pumpkin"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1182988800
+review/summary: Smooth with a hint of grass
+review/text: My fiancee says that Japanese tea is "grassy," and that aspect certainly comes out in this tea, although it is exceptionally smooth.  It's great as an iced tea with Splenda, but much lighter than your black teas.
+
+product/productId: B000FGZKWM
+review/userId: A2SPL8M51OUXEZ
+review/profileName: kinojay33
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1263168000
+review/summary: Not Good Tea
+review/text: While this is decent for mass produced bagged tea, the cost is not at all justified.  I've had my fair share of Japanese greens, including many Tamaryokuchas, and this is not a good Tamaryokucha.<br /><br />Not only is the aroma and flavor lacking (this almost tastes and smells like a bad vegetal oolong more than a Japanese green), the color is completely off.  Instead of the emerald green you'd expect from a steamed Japanese green, it produces a muddy yellow color.  The lush mango aftertaste you'd expect from a Tamaryokucha is almost completely missing from this tea.<br /><br />If you want a true Japanese tea experience, go to a local tea shop and buy some high-grade Tamaryokucha, Gyokuro, Sencha or Matcha and a cheap kyusu to brew it in.  The initial cost will be higher, but you will save money over the long run brewing in this method, and the quality of your tea will be considerably better.
+
+product/productId: B000FGZKWM
+review/userId: ANE9A6H7XSP8
+review/profileName: Pamela S. Alexander
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305331200
+review/summary: Excellent Green Tea
+review/text: From the first time I had a cup of this tea I was convinced...it is the best green tea I have ever had.  Every time I have a cup I say (to myself) "I love this tea".  A definite thumbs up recommendation.
+
+product/productId: B000FGZKWM
+review/userId: A1KED9UTGDZHSW
+review/profileName: Alpha Centauri
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1292716800
+review/summary: Poor excuse for Sencha!
+review/text: This does NOT taste at all like sencha -- not even a bad sencha.  Instead, it tastes like a bad version of the mass produced standard green tea.  If you're looking for a sencha flavor or even a good green tea flavor, avoid !
+
+product/productId: B008B7FBD0
+review/userId: A1Z8SU4BY11JB5
+review/profileName: S. Ott "thekiboy"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340323200
+review/summary: Better than Best for the Buck
+review/text: I bought this on a whim and was amazed at the quality of the coffee. It's rich, complex and very tasty. And by the way, this comes from a gringo who has traveled to Colombia and tasted the real thing in its natual environment.<br /><br />Definitely a well kept secret. It's going to be my home brew from now on.
+
+product/productId: B008B7FBD0
+review/userId: AXDN2UAUPNVB2
+review/profileName: yesantale
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339545600
+review/summary: For  coffee lovers only
+review/text: We were in New York visiting a friend and she left for us in the refrigerator this Costa Rican coffee. I made the coffee, and was very good.  Before we left New York, I went to the store a got two bags to bring back home.  I look all over Florida to see if I could fine this coffee. Finally went online an got in contact with the importer. I have purchase for almost a year Fair Trade Certified Gourmet Coffee.  It is a full body coffee, great for Capuccino or a Latte, but you also can make it lite for black coffee.  I totally recommend this coffee, and the distributor is very<br />reliable.
+
+product/productId: B002OMV09W
+review/userId: AM45SEDUILCHI
+review/profileName: C. Fugate
+review/helpfulness: 86/86
+review/score: 5.0
+review/time: 1299024000
+review/summary: Hot Peppers Need Hot Weather
+review/text: I bought these from Think Geek instead of Amazon, and they're amazing.  However, I've seen several reviews with low ratings claiming that they never grew, so I thought I'd add my review with a few tips and tricks to growing these mind-blowing peppers.<br /><br />1) Ghost Chili's require hot temperatures to grow in.  More specifically, these pepper seeds will not germinate in soil that is under around 75 degrees Fahrenheit.  This means you need to grow them starting in late spring or even early summer if you don't want to use artificial means, to make sure its hot enough for them to sprout.  If you want to grow them earlier or in the winter, you may need to heat the soil yourself.  A simple heating pad wrapped around the pot set on low is typically sufficient.  Ideally they like 75-95 degree temperatures.<br /><br />2) You can affect how hot the peppers will be based on how you care for them.  The more stressed the plant is, the hotter the peppers will be.  Make sure you plant and feed your peppers while growing, but once they start producing fruit, cutting back on their water from time to time will make them hotter.  Also, if you cut back on the fertilizer (Nitrogen, specifically) while they are fruiting, you'll get hotter peppers as well.  Humidity also affects heat.  The higher the humidity, the hotter the pepper (good news for people in the South!).  And finally, the air temperature when the chili's ripen affect how hot they are as well, hotter it is outside, the hotter the peppers will be on the inside!  If you keep them unstressed and in a dry climate, the peppers will end up being sweeter.  They'll still be the hottest thing you ever put in your mouth though, so if you're not used to stressing plants without actually hurting them, its better to be kind to them than try to maximize their heat.  Its not like your tongue will know the difference between 850k and 1 mil scovilles anyway.<br /><br />3) Ghost Chili's like neutral to slightly acidic soil.  A PH of 5-6 is ideal, but your standard 6.5 potting soil will be just fine.  If you're not experienced with mixing your own soil, don't try it (you'll just kill the plants), use whats in the can and get regular mix from Walmart when you're ready to transplant.<br /><br />4) Don't grow these in the can.  Not that there's anything wrong with the can per say, it is rather small (picture looks like its coke can sized, its not, its maybe half that size).  You'll need to transfer the peppers to something bigger sooner than later, and they'll be rather young when they start to outgrow the can.  Moving them at that age is stressful, better to avoid it altogether by just starting with a larger pot to begin with.<br /><br />Ghost Chili's can be a little particular when sprouting, but they grow very well once started and they provide you with a once in a lifetime experience (because you'll never be dumb enough to bite into one a second time!).  For $10, you can't go wrong with these things.  And on the up side, after slipping a few of these into your cooking, you'll never be pressured to bring a side dish to a dinner ever again! ;)
+
+product/productId: B002OMV09W
+review/userId: AR3492JHSGRD4
+review/profileName: Wesley Wong
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1313539200
+review/summary: 3 plants from one pot
+review/text: I actually got this item as a gift and it's worked out great. I watered my can during the winter and kept it on south facing windowsill for a few months. The initial growth took about 6-8 weeks to show up for me. Eventually I had 13 sprouts show up, but most eventually died off and I was left with 3 pretty hardy plants. When the plant got to be about 4-5 inches tall, I repotted them and put them outside in direct sun once the weather got warmer. They grew quite well and as of this moment, one plant has about 7 ripe chiles on them while the other two are putting out green ones. They stay green for a long time it seems and then transition to red practically over night.<br /><br />I see quite a few negative reviews on this product and I'm pretty surprised since I've had GREAT results from mine. I'd imagine some if it might be user error (though we obviously never like admitting that) and some of it might be legitimate dud products. Results may vary of course.<br /><br />Also, since positive reviews amongst a sea of negatives are oftentimes greeted with a little skepticism, I've uploaded a few customer photos to show my results.
+
+product/productId: B002OMV09W
+review/userId: A3TA05EXOE2ZYY
+review/profileName: chilipro
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1323043200
+review/summary: Ghost chili in a can, great item
+review/text: Please do not listen to the writers who had bad experiences. These seeds in cans are a good product, but additional information will help you to be successful. I have purchased a dozen of these cans and I have gotten plants from every can. You must be patient and keep the cans in a warm area of your house. I keep the can under a grow light and near a heat vent to keep it warm. The seeds do not need light to sprout but warmth helps a lot. Experts say ideal is for the dirt to be 80-90 degrees F. Germination can take 1-6 weeks so do not throw your cans away. Be patient! I have gotten 3-6 seedlings from every can. Water the seeds, then re-water when the top of the planting material is dry. The last can I bought I successfully got 4 plants started, and my current can just sprouted a plant after a week because I concentrated on keeping it warm.<br /><br />After the seedlings sprout let them grow for a time in the can. Water when the material they are growing in is dry on the surface. They hate too much water and will die quickly if over-watered. Wait until the seedlings have 4 leaves before transplanting. Dig deep when getting the seedling out of the can to transplant because the roots go straight down. Scoop down twice as deep as the plant is above the ground. They need to grow inside for 8-10 weeks before planting outside, and they take 160-180 days from planting to harvest. So calculating the time needed for germination and inside growth you need to start 12-16 weeks before you plan spring planting, then an additional 5-6 months for harvest. Total time can be 9-10 months start to finish. So if you plan to plant March 15th you need to start now. These chili peppers take a long time but are definitely worth it if you like hot chili peppers. Good luck, have fun.
+
+product/productId: B002OMV09W
+review/userId: A2UVE2DWWQBCKG
+review/profileName: reader1
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1303084800
+review/summary: chilligrower
+review/text: I purchased this product for my husband.  Him and his friends had heard about the Ghost Chilli and had all wished to see who was the bigger man by eating one.  Anyway I read the reviews for this product and was a little sceptical, but bought it anyway thinking that it was about 50/50 chance something grew.<br /><br />I bought this product in February of this year and we live in Wyoming so it wasnt the warmist time of our year, but now in April we have several leafy sprots coming in.  I will say that my husband has been dilligent with the temperature.  He would check the soil with a therm. every so many days as well as checking the water level to make sure it had just enough water.  He placed it in the sunniest part of our house that gets direct sun light all day long.<br /><br />As for some of the comments that there were no instructions with their product.  Our's did.  It was a small portion of the cardboard wrap around packaging.  It tells you how to open the product, what kind of sunny light and soil temp. it needs, and how to water it.  We followed this little directions religiously and we are seeing things happin.
+
+product/productId: B002OMV09W
+review/userId: A3M5J4FGJ95F37
+review/profileName: hancockld
+review/helpfulness: 7/9
+review/score: 1.0
+review/time: 1278374400
+review/summary: Pepper In A Can
+review/text: The can came fast, watered per directions for one month and nothing grew.  I would not buy one of these, should have read all the reviews before I bought one.  Seems like a scam.
+
+product/productId: B002OMV09W
+review/userId: AON62QL3IQBYC
+review/profileName: John S. Burnett "Mrdocjb"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1322611200
+review/summary: JSB
+review/text: I was at first skeptical about purchasing these seeds. It seemed a little too unusual. I was not very familiar with the ghost chili peppers.<br />However after buying the product and using it I was surprised at how well the peppers grew. I got 3 very healthy plans out of these seeds with multiple very hot peppers! I transplanted 3 plants only because I had limited growing space and did not use all of the seedlings (next year I am expanding!).<br />With patients I was able to produce very hot peppers.<br />I am looking forward to purchasing the seeds again.<br />Would recommend that you find a sunny spot that is not 'cold' and not 'too hot'.  Water frequently but don't drown them either.  Also if you live as far north as I do, start early!!<br /><br />Be careful - they are hot.
+
+product/productId: B002OMV09W
+review/userId: ASIV8GKC6W81U
+review/profileName: Manu Thomas "Manu"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317772800
+review/summary: Disappointed
+review/text: Please don't let my title fool you....my plant grew perfectly and the color on my peppers are a bright orange. I'll get to why i'm disappointed later.<br /><br />1. As a previous reviewer wrote you have to plant these in late spring. Follow the instructions with the can and it will be fine.  I kept it in the can until it actually grew over 4 stems. Getting it out of the can witout destroying the root was not easy in anyway.<br /><br />2. Plant in a large pot. My plant was on my balcony with FULL SUN and i watered it everyday.  I used Mircale Grow Soil with food. As the plant continued to grow i added used EGG Shells to the soil. I continued to water it when the soil got dry as it got bigger. I wish i could add a picture of my peppers but i don't feel like adding a video review. The color is beautiful<br /><br />3. Full SUN all the time.<br /><br />4. Pull the plant back inside if the weather drops below 50.<br /><br />the reason why i am disappointed. It wasn't as intense as i thought it would be. I guess i built up the pain index thinking it was going to be insane heat requiring gallons of milk to be spread on my face. I thought of Homer Simpson and Guatemalan Insanity Pepper....but it didn't happen that way. I did eat it raw...don't know if that had anything to do with it.<br /><br />Plant rocks...don't be fooled. People may have gotten bad plants. I was scared when i first got it because i thought it was a dud. Give it time, water & sun (basic plant stuff) and it will grow painfully slow.
+
+product/productId: B002OMV09W
+review/userId: A1A7YAQVAWP0XK
+review/profileName: John R. Larsen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1309478400
+review/summary: Bhut Jolokia / Ghost Chili
+review/text: I thought I had ordered more seeds than just one but this is a self contained growing system. On our window sill in this mild spring and summer, the aluminum growing container helps give the pepper plant the warmest soil condition for optimal growth. Although the package says one seed, five sprouts did start in the container. I just carefully scooped out three of the sprouts and transplanted them into other containers. As long as these are true bhut jolokia plants, I am quite happy with the results.
+
+product/productId: B002OMV09W
+review/userId: A2ERWJRPRDGMF3
+review/profileName: ARTHUR LANDAU D
+review/helpfulness: 17/24
+review/score: 1.0
+review/time: 1277683200
+review/summary: Very Unhappy
+review/text: Nothing Grew, I have a can full of wet vermiculite. No seeds no plant. Nothing
+
+product/productId: B002OMV09W
+review/userId: A3EU7N7S6MLZ1A
+review/profileName: J-Fo82
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1317686400
+review/summary: Save Your Money
+review/text: I bought this not even 3 weeks ago from Pepper Palace for around $10.  Although it seemed like a good idea at the time...it's a waste.  Within 1 week, 2 sprouts came up and everything seemed okay.  I took care of them and everything...Now...they're both dead.  You're better off purchasing seeds from an independent grower for WAY less than what this thing is worth, or purchase the peppers themselves, take out the seeds and store them in your freezer in a plastic bag until planting season.
+
+product/productId: B002OMV09W
+review/userId: A3TMHW9T2VA0Y8
+review/profileName: Dinguscirc
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1309651200
+review/summary: No seed in can!
+review/text: I followed the instructions and placed the can outside in Summer Desert heat.  The plant never sprouted.  I sifted through the can and there was no seed in the can.
+
+product/productId: B002OMV09W
+review/userId: A1OZ3U2RME8MKV
+review/profileName: G. Weiss "Paradise"
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1280102400
+review/summary: Cool Idea - Two Sprouts Came Up Shortly After 1 Month
+review/text: I originally posted a 2-star review stating 'nothing happened and it's been a month'.  One week later two sprouts popped up and they've been growing great since!
+
+product/productId: B002OMV09W
+review/userId: AZHSOM02NLVT0
+review/profileName: Carlos R. Sanchez
+review/helpfulness: 6/8
+review/score: 5.0
+review/time: 1274659200
+review/summary: Host chilie grow kit
+review/text: My 10 year old son saw the cooking channel and they used a ghost chilie which is to be the hottest pepper in the world. I tried finding it in several grocery chains in San Antonio to no avail. I then found this kit available for sale on Amazon and ordered it right away.  It arrived within days and made for a great gift. He has followed the easy instructions and it has begun to grow. We are so delighted to see it's progress and I'm am happy it was availabe to purchase as it also helps to spark the interist of a child. Better this than anything video game related. Hery happy about this product.
+
+product/productId: B002OMV09W
+review/userId: A2QCRSXUF1Y4GK
+review/profileName: Heather Tallman "Zelda Freak"
+review/helpfulness: 10/14
+review/score: 2.0
+review/time: 1275782400
+review/summary: Cool idea----if it had worked.
+review/text: I got the pepper for my mom and she got it REALLY fast.  It came way earlier than expected which was awesome.  However Nothing ever grew!! The nifty pepper-in-a-can was watered according to the directions, carefully and diligently.  However after a month, and still no sprout, my mom dumped everything out looking for a buried plant.  However there was nothing to be found.  Perhaps ours was just a dud.
+
+product/productId: B002OMV09W
+review/userId: A2HH8PIVQ0CAR2
+review/profileName: Juan G
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1329782400
+review/summary: No seed in the can
+review/text: I can't recomend this product. I was waiting for 20 days and nothing happened...<br />Yesterday i was looking for any seed inside the can, but i couldn't find anything
+
+product/productId: B002OMV09W
+review/userId: A1KN27H6K0SDOA
+review/profileName: Woojin Han "WMH"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329091200
+review/summary: Germinated in 2 weeks
+review/text: 2 seedlings appeared in 2 weeks. Give it a little bit of patience and it'll grow!! I will give an update as it grows more.
+
+product/productId: B002OMV09W
+review/userId: A20FWCIY7HIAQ
+review/profileName: Ryan L. Wilkinson
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1312329600
+review/summary: 3 cans purchased, 4 plants yielded
+review/text: These were given as a gift and so far they have been outstanding. After the sprouts grew to about 3 inches, I repotted them. 3 of 4 are now waist high.  I haven't gotten any peppers yet, but they should be coming soon.  I keep them on a screened in porch with direct sunlight for about 4 hours a day. They need to be watered regularly to keep from wilting.<br /><br />I'm not sure about the other reviews stating that they didn't receive a seed. I got 4 plants from 3 cans and could not be happier with this gift.
+
+product/productId: B002OMV09W
+review/userId: A2ZWQKPUJPKWP
+review/profileName: Greg
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1304812800
+review/summary: Have a little patience people
+review/text: Like other people have said, these peppers need hot weather and need time to germinate. Mine sprouted in about 2-3 weeks. When it was warm outside I used a 20oz plastic soda bottle with the bottom cut off to act as a makeshift greenhouse for the peppers. It fits perfectly around the small planter and keeps the seeds hot and humid, especially during the night. The average temp was 70s-80s during the day and 50s-60s at night. Then when we had a few cold days I just kept it inside around 70 degrees. After a couple of weeks I finally have two small sprouts appearing.<br />Just have patience people. Don't discount your plant before you give it time.<br />Thanks for creating an awesome fun and simple product Magic Plant!!!
+
+product/productId: B002OMV09W
+review/userId: A3QXBZYL9PJRB9
+review/profileName: Colin R. Fitzpatrick "arizona"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303430400
+review/summary: They Stand by Their Product!!!!!!!!
+review/text: "The Magic Plant" stands by their product. The first plant I ordered did not grow at all. I followed the directions to the "T" supplied with the product. I was so mad I gave them a poor review on Amazon. They contacted me immediately to find what the problem was. Without hesitation, they refunded my money that included shipping. To my surprise I found a small box in my mail the other day. As I opened it I noticed another plant that I was not charged for. I'm in process of trying grow it now, and do not know if it will grow or not. Neither the less, The Magic Plant gets a 5 star rating from me!
+
+product/productId: B002OMV09W
+review/userId: A1Z8C9V0XTHG6O
+review/profileName: tmarm
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1291075200
+review/summary: mine has began to grow
+review/text: we are growing ours indoors since its super cold in ohio. i got mine for a friend to grow. he left it in his windowsil starting the middle of october (20th i think).  it is now nov 30th and it has just began to sprout up thru the vermiculite.  i think the can said it would be sprouted in less time...but so far its doing great!
+
+product/productId: B002OMV09W
+review/userId: A2UPMGGSGZ01HD
+review/profileName: dale 1
+review/helpfulness: 6/9
+review/score: 1.0
+review/time: 1278460800
+review/summary: ghost chili
+review/text: i bought the ghost chili package and water as needed but got no plant i had two of them and neither one came up?
+
+product/productId: B002OMV09W
+review/userId: A183EQJQET4ZFK
+review/profileName: Tall Tales "NC Guy"
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1312761600
+review/summary: Not Really A Plant
+review/text: To call a seed a plant is like calling an egg a chicken.  This is an overpriced single seed in a drink can. I hope it grows, but based on the reviews (...which I wish I had read before purchasing) the chance of this "plant" producing peppers is not so hot. (pun intended). Now I wish I had the drink in the can instead.  That would have been more useful.
+
+product/productId: B002OMV09W
+review/userId: A1PPODPHT4YV6W
+review/profileName: Clyde Fulton Mallard "xlduck"
+review/helpfulness: 4/6
+review/score: 5.0
+review/time: 1273795200
+review/summary: pepper in a can
+review/text: the seeds just sprouted about a week ago. it took them two weeks to sprout
+
+product/productId: B002OMV09W
+review/userId: ACU1ATBMCE3OS
+review/profileName: Christopher J. Sofia
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1315440000
+review/summary: Waste of money
+review/text: I opened/planted the Bhut Jolokia plant at the beginning of the summer. I followed the instructions that it came with and here I am in the first week of September with no peppers. NOTHING grew, not even a little sprout of what could have been a pepper. It was a waste of time and money.
+
+product/productId: B002OMV09W
+review/userId: A3T98O0L3DIWKE
+review/profileName: Steve
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1278460800
+review/summary: Ghost chile in a can
+review/text: Plant arrived very quickly. However I was expecting a plant, not seeds in a can. and got no instructions with it . I assumed you pull the pop top [or bottom], put the plastic cap over it and water. Anyway it worked. Seeds sprouted in a week, . Weather has been warm, with lotsa rain  in SW Florida which is maybe why mine grows and others don't.<br /> I emailed the company but have not heard how to transplant a metal can of vermiculite . When big enough I will pull all but one sprout, wait for peppers to ripen, and gather seeds for the next one to plant in soil.<br />I have to admit is is a novel idea
+
+product/productId: B002OMV09W
+review/userId: A118S9E0HNJBGZ
+review/profileName: Harrison T. Stearns
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: Have 2 plants sprouting now
+review/text: there are a number of negative reviews on here, but they probably didnt do it right.  i used a heating pad to keep soil warm and kept under a light for a while and now after 7 days i have 2 plants coming up.  do it right and you will have no problem
+
+product/productId: B002OMV09W
+review/userId: A3ACZXZUM29DQS
+review/profileName: Bill D
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1348358400
+review/summary: ghost pepper
+review/text: a novelty item, my son bought two and neither produced a plant, I then bought two more and it appears I may have one growing. whether it will ever produce a pepper remains to be seen.
+
+product/productId: B002OMV09W
+review/userId: A36HJWHBQ0ICQI
+review/profileName: B. Hayes
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1345939200
+review/summary: HOT
+review/text: This did exactly what it was supposed to. My only complaint was that it was a little difficult getting the seedlings out without damaging the roots. I did accomplish it though, and the peppers were not only HOT, but also had great flavor. I still have some hot sauce I made with them.
+
+product/productId: B002OMV09W
+review/userId: A11307FA162PN2
+review/profileName: SS
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343088000
+review/summary: nothing grew
+review/text: Nothing grew i purchased 2 of these and both did not grow anything, i dont even know if seeds were in it since its packed with a bounch of stuff.
+
+product/productId: B002OMV09W
+review/userId: ASKBCORUSJ1G4
+review/profileName: Ian Ayers
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1342483200
+review/summary: Not Ghost peppers
+review/text: Got my peppers from ThinkGeek, the ones that came in my can were not Ghost Peppers, they were Capsicum Annuum. Same can tho.<br />The plants are quite healthy tho, got them in a gallon pot.
+
+product/productId: B002OMV09W
+review/userId: A1329WUV44NF5F
+review/profileName: J HASKELL
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338163200
+review/summary: Not for everyone.
+review/text: While I did not buy this item online I did buy it at a local shop while out and about a few months back.  I see a lot of negative reviews about this product from people who claim to have followed the directions of just went ahead and immediately put the packet in a planter.  Peppers can be tricky to grow and with this particular setup (I've purchased the various other 'magic' plant's over the years and never had a bad one) you have to understand that these are NOT native to the america's so the growing conditions need to be taken into consideration.  It says on the package itself to rest the item in 50% sunlight (meaning to put it on a windowsill where you don't get much direct sunlight through.  My bedroom only receives direct light until about 10:00a.m.) and then when the plant has grown large enough to transfer it into direct sunlight.  My particular pack had 4 sprouts come out (higher than normal) and I transplanted them early and lost two of them to the sun.  The other two are growing fine in a planter where I eagerly await my ghost chili's to improve my hot sauce recipes.  If you REALLY follow the directions and know just a little about gardening this WILL grow for you.  If you look for the seeds you will not find them as pepper seeds can be VERY small and blend in well with planting material.
+
+product/productId: B002OMV09W
+review/userId: A1GQHAXMXPBE9E
+review/profileName: Claudia Rudolph
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335744000
+review/summary: Grew for me in a week!
+review/text: Yes, I read the product information but I decided to take a chance on a faster germination.  I used a 2" deep pan and put 1" of Miracle Grow potting soil in the bottom.  Then I mixed the ghost pepper plant potting mixture with 1/3 equal volume of Miracle Grow potting soil.  Put it in a warm place and got the sprout up in 7 days!<br /><br />It has only popped up through the soil for 2 days now but it looks healthy and is growing well.
+
+product/productId: B002OMV09W
+review/userId: A2IW78XPX0EDUW
+review/profileName: Uncle Malice
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332460800
+review/summary: It really does work, and I have no experience.
+review/text: I ordered this product on a whim because I am a fan of different hot sauces and hot peppers. I have ZERO experience growing plants. After reading some of the reviews on here, I was a little nervous, but for the price I didn't have much to lose. The current top comment does a great job of explaining why many people apparently had issues with this product. I'm growing mine at work in our server closet until it gets large enough to transplant and move outside. Some people said it took months for their seeds to sprout. I followed the directions and kept it in a warm place (on top of an electrical transformer in the server closet) with enough moisture. After only 3 1/2 weeks I have 4 small sprouts coming up. That's where it's at currently, but everything from here on is up to me. The product did what it was supposed to do. I look forward to seeing if I can keep these plants alive! :-)
+
+product/productId: B002OMV09W
+review/userId: ABO47STCMBARC
+review/profileName: Zygo
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1330300800
+review/summary: Ghost Pepper
+review/text: The package arrived a full day early which was great.  The plant itself took about three weeks for it to start growing so be patient.  The only slightly negative thing about it is the can they give you to grown in is very small, other than that everything was great.
+
+product/productId: B002OMV09W
+review/userId: AFQB51DYDC2PS
+review/profileName: J Rae
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329091200
+review/summary: Awesome
+review/text: Item arrived flawless and very well packed. Clear instructions - I can't wait to start growing my own Ghost Chili Pepper plant! This is a very cool product that any "hot & spicy" lover will enjoy.
+
+product/productId: B002OMV09W
+review/userId: A3LAGXH2174TW4
+review/profileName: Jmarie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317168000
+review/summary: Cute idea, but toss the can!
+review/text: I let these germinate and grow in the can. I had 5 ghost chili sprouts after about a month or so of germination (maybe more, like a month and a half). I thinned it down to 3, thinking 5 would be too much for the can. Then I took 1 seedling out and planted it in my garden - it's now 3' high but no peppers, just buds. The other two seedlings got to the point where watering them every 5 hours in the can wasn't enough. I put them in a garden box instead, and tossed the can. Seriously, toss the can from the start or just buy the seeds. The can MIGHT be able to support 1 plant - then, of course, you won't get peppers (or at least not good ones) without cross pollination. I have already had 1 marble-sized red pepper and I have 2 more quarter-diameter peppers on the plant yet to turn red from the 2 in the garden box. The marble-sized one was a mild ghost, compared to ones I've had in the past, but still much hotter than a habanero! If the peppers aren't germinating, make sure to keep the lid on the can and keep the can in a warm to hot area with lots of sun (75+ in the can) for at least two months before giving up. I grew ghosts from seed and they sprouted in 3 weeks, but these seeds in the can just took that much longer.
+
+product/productId: B002OMV09W
+review/userId: A2C1LD5228MIGE
+review/profileName: Darwin
+review/helpfulness: 11/17
+review/score: 1.0
+review/time: 1278115200
+review/summary: another dud
+review/text: one more can with no seeds, no plant, should have just purchased bag of seeds for $3
+
+product/productId: B002OMV09W
+review/userId: A34SV3A4VX0QUT
+review/profileName: Joseph Miller "Stix"
+review/helpfulness: 7/11
+review/score: 3.0
+review/time: 1268870400
+review/summary: Great Idea but not easy to do.
+review/text: Revisited this review and just wanted to say you need this in a hot area.  Mine sprouted and I tried to move them from inside the house to outside and they wilted and died.  The product is fine and works but these peppers are very hard to grow.  I did get another to grow but need very high temps 85F and very little water.  To much kills them aswell as they will rot.  The peppers are hotter than most.  They are very edible but they are very different from most you may be used to.  For one they smell very smokey almost BO like.  Yet they taste fruity at first and a slow rolling mack truck sneaks up and hits ya.<br /><br />  The heat eating by itself is pretty intense.  Not like the morons on youtube but it will make ya sweat and if on an empty stomach it could make ya ill for a bit.  Other than that just a buyer beware that these are very hard to grow,
+
+product/productId: B002OMV09W
+review/userId: A3LFYKCKHKCTPM
+review/profileName: K. Bishop "buy the ticket, take the ride"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1326153600
+review/summary: it worked, it really worked
+review/text: Can I just say that I was a bit skeptical that this would work. I saw some reviews from people who said it didn't come up but I decided to risk it. I needed a couple of coworker gifts for people who brag that there is no such a thing as too hot of a salsa. I thought it would be a funny gift and a cute little package. I got one for myself because I thought it was cool and pretended it was a gift from the dog.<br /><br />So I started it Christmas day. It was very simple. For a long time nothing came up. I looked it up and saw that it needs to be kept warm, and it does mean WARM. The house is around 65 at night so clearly that's too cold for it. I put it under a plant lamp and two days later I had seedlings.<br /><br />The only problem is that I sort of stirred the dirt around with my finger looking for signs of life. Thanks to that the plants are all coming up around the edges and they're so small I'm afraid to do anything about it right now.<br /><br />ps. I am SO not eating these if I actually get peppers.
+
+product/productId: B002OMV09W
+review/userId: A2TRWJGAD3YZLI
+review/profileName: Marco
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1306454400
+review/summary: Save your money
+review/text: Followed instructions to the letter and nothing.  It's been a couple of months and it looks like all I received was a cup of dirt. Save your money.  I tried to contact seller but no link, could only return through Amazon but my item wasn't "unopened" as I had to water it and wait for "something" to happen.
+
+product/productId: B002OMV09W
+review/userId: A1OMLEX84GBL2W
+review/profileName: new2thegame
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1299542400
+review/summary: 5 stars since it grew
+review/text: Bought this through thinkgeek.com  Followed directions, watered it fully and drained, sprinkled some water on day 8 cuz it seemed dry.  Then fully watered and drained again on day 12.  The thing is sitting on my desk at work where the temperature is climate controlled and stays about 75 year round.  I was worried it was too cold because they are supposed to germinate in 80 - 90 degree air.  There is zero sunlight in my office, just bright florescents that stay on about 14 hours a day.  Day 12 was a Friday, came in on Monday and there were 2 little sprouts!<br /><br />The internet tells me that it probably won't get huge and make tons of peppers unless it gets real sunlight, but we shall see.  Fun 4 bucks to spend.
+
+product/productId: B002OMV09W
+review/userId: A1UVXI59VF2B07
+review/profileName: ace
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1279670400
+review/summary: fairly simple great plant
+review/text: i got the can in january...it took afew weeks too sprout, hwever the plant grew very strong and hearty, since january my dog has bitten it and even uprooted it...but with a little tlc, it quickly revived....it is now 3ft tall and 3ft across
+
+product/productId: B002OMV09W
+review/userId: A1OGSEJ3AEUSLY
+review/profileName: Pip
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1323734400
+review/summary: Waiting to hurt myself
+review/text: I bought this a last month sometime. I have one tiny little sprout growing in. At this rate it should be a year or so before I can make Death Tacos.
+
+product/productId: B002OMV09W
+review/userId: AJPUL6XWT7DYM
+review/profileName: John
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1310601600
+review/summary: This is HOT!!
+review/text: You think Habanero is hot??  It's NOTHING compared to this pepper!  If you like hot, this is the pepper for you.  Adam from Man vs. Food first introduced me to this pepper.  Trust me, this is the hottest pepper you will ever have.
+
+product/productId: B002OMV09W
+review/userId: A2QU5MH7VVSKCI
+review/profileName: Dustin S. Mace "Mace"
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1305849600
+review/summary: What the heck
+review/text: I have had peppers grow just fine in the past. I thought this product looked neat so I got it on Amazon. The pepper sprouted and grew OK. Once big enough I re potted them in great soil with enough water and heat. The three sprouts wilted and died in about a week. :(
+
+product/productId: B002OMV09W
+review/userId: A11R9ZGWEEBM1
+review/profileName: gamestar911
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1304726400
+review/summary: sucks
+review/text: i planted it 0n 4/15/11 and its now 5/7/11 and still nothin and i used advanced growing techniques.this may be a bad product
+
+product/productId: B002OMV09W
+review/userId: A382HQJM1U7UGO
+review/profileName: Walt
+review/helpfulness: 8/14
+review/score: 1.0
+review/time: 1269648000
+review/summary: expensive for just a seed
+review/text: if i would have read further i would not have ordered can with seed in it. Should say seed in their title line, not plant!
+
+product/productId: B002OMV09W
+review/userId: A235BXY8RSR9N7
+review/profileName: 1350
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1326672000
+review/summary: ghost peppers
+review/text: all dead in one month as told to do even in house gave as gifts will not buy again try to reach sell not answer
+
+product/productId: B002OMV09W
+review/userId: A1M29HH1K1P4OW
+review/profileName: Mark Breen "jolokia"
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1311638400
+review/summary: Don't try growing the Bhut Jolokia in Northern New England
+review/text: I purchased this item on Amazon in May because I love eating super hot peppers, but the result has been a huge disappointment. For the cheap price it was maybe worth trying as an experiment...but never again. Not having a particularly green thumb, I should have listened to all the other negative reviews. I followed the instructions exactly and the seeds never sprouted at all. I read that this chili needs constantly warm temperatures, above 75 degrees F to grow. That may explain why I haven't seen anything yet. We had a cold, wet spring and a cooler than normal start to summer. If I try an experiment like this again, it will be with plants that have already sprouted.
+
+product/productId: B002OMV09W
+review/userId: A1EMYLSWA0AEO1
+review/profileName: GFD
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1309392000
+review/summary: Do you feel lucky??
+review/text: I figured by reading other reviews this was a crapshoot.  And I lost.  I followed the directions and nothing grew.
+
+product/productId: B002OMV09W
+review/userId: A22WDVZ0X0WSC2
+review/profileName: T. Donovan
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1334102400
+review/summary: Waist of Money
+review/text: I bought two of these from local stores and had to germinate the seeds in a different container after picking them out of this one. One started to germinate so i put it back in this container. I overwatered it and lost it. The second can didn't work as per the instructions either. I got four to germinate and planted the four. The died as soon as I transfered them.
+
+product/productId: B002OMV09W
+review/userId: A3U6AAJ5TCCB2M
+review/profileName: Terry
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1319760000
+review/summary: ghost is right...because i havent seen it
+review/text: I bought this novelty plant about 2 months ago and I've got to say it sucks. Don't waste your money. I've read a lot about growing these chilis and I am doing everything perfectly including keeping the seeds/soil warm. I live in Arizona so warm temperatures aren't a problem. After a month of trying to grow the plant I contacted the magic plant company. They sent me more seeds which looked like the flakes you put on pizza minus the seeds. I planted them anyway. Another month later...and still nothing. I wouldn't waste my time with this. Go on eBay and buy the whole live plant if you want to have a ghost chili plant.
+
+product/productId: B002OMV09W
+review/userId: AAIJELL9Q3ST8
+review/profileName: Mikael
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1319587200
+review/summary: didn't grow
+review/text: watered per instructions and nothing ever happened.  What a rip off for 15 dollars.  I would not recommend buying this item.
+
+product/productId: B002OMV09W
+review/userId: AKOQOXY0AQW8U
+review/profileName: JDear
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1306800000
+review/summary: bad buhtjolokia buy
+review/text: I thought I was buying a plant, not a kit to grow. Should have been clear about the product, and it did not even grow.
+
+product/productId: B002OMV09W
+review/userId: AS3BCE9K9K8II
+review/profileName: Tuy
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1297468800
+review/summary: Nothing grew
+review/text: After 2 months of no activity, I dug into the soil and found 1 seed.  Have they ever heard of the law of large number?  How stingy do you have to be to just have 1 seed.  How much would have 5 seeds cost them???? I would have given it a 1 star but it was delivered, looks genuine.  Great idea.  Horrible implementation.
+
+product/productId: B002OMV09W
+review/userId: A1YL6ONXRRYY11
+review/profileName: Dave "Dave"
+review/helpfulness: 0/3
+review/score: 2.0
+review/time: 1313971200
+review/summary: Not the worlds hottest pepper
+review/text: The Ghost Chili was recorded in 2007 as the world's hottest pepper, but was replaced in 2010 by the Naga Viper pepper.
+
+product/productId: B002OMV09W
+review/userId: AL29G6YNSNW4H
+review/profileName: The Buffer;
+review/helpfulness: 4/12
+review/score: 1.0
+review/time: 1272153600
+review/summary: Ghost Chili, A Real "Ghost"
+review/text: Dear Ladies/Gentlemen; As the title implies, this "product" is really a ghost.  A tincan with nothing in it; (not even a seed.)  I have been gardening for 50yrs and should have known better than to purchase something on the internet.  I'll stick to my local sources for garden plants from now on.<br />Sincerely; Tom J
+
+product/productId: B002OMV09W
+review/userId: A3A2E86JHAPGIZ
+review/profileName: mispolomino13
+review/helpfulness: 2/9
+review/score: 1.0
+review/time: 1278892800
+review/summary: False Advertising
+review/text: I paid a much higher price for these plants, thinking I would get the best.  What was received was a can telling how to sow the seeds til they sprouted.  And, they have not sprouted yet.  This company advertised PLANTS, and send SEEDS
+
+product/productId: B00538CHKU
+review/userId: A27JJ8W54LOESC
+review/profileName: M. Hallberg "lurch69"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1337126400
+review/summary: Lurch
+review/text: I didn't buy my gum from Amazon, but I believe you should use caution before buying in large quantities. The gum tastes OK, but the aftertaste is horrific. I tried mints and drinking pop (at work) but the lingering taste remained. I had to wait until I got home - where I ate dinner, brushed my teeth and rinsed my mouth out - before I could rid my mouth of the aftermath.
+
+product/productId: B001ACPNYU
+review/userId: A3FHRVTY4M1336
+review/profileName: D. W. Frost
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1322179200
+review/summary: a very suitable gift
+review/text: I have not personally seen this product<br /> but have given it to very discerning couple<br />-as a thank you.<br />I have had rave reviews-<br />and I rather imagine these people have seen many lovely gifts-and probably don't really need anything.<br />So- I feel this is a gift I will purchase for others and feel confident in so doing!
+
+product/productId: B000633UNU
+review/userId: A26LY3CHS64N85
+review/profileName: S. Charmian
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1295395200
+review/summary: Training Treats from Healthy Dog Food
+review/text: If you want a training treat that will have your dog eager to learn, try cutting these rolls into small chunks.  Given to dogs in small doses for good behavior, you will have them paying rapt attention to whatever you ask of them. And, because it's a balanced dog food you are not giving them an unhealthy snack.<br /><br /> I personally don't like highly nitrated "hot dog" pieces that many trainers recommend or many other commercial treats. Some I've tried that are "healthy" don't really excite my dog.  I am concerned about what my dog eats, fortunately, he is pretty fussy,- so if you are too, your dog will most likely love this healthy treat and you can feel good about giving it to your dog. My dog also loves the Duck/Potato combo.<br /><br />Keep some in a plastic bag in your pocket or pouch and reward your dog for their good behavior.
+
+product/productId: B000633UNU
+review/userId: A222AFPVSGC98L
+review/profileName: BonnyBlue22
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: I am never without this product - a must-have!
+review/text: Healthy, not expensive, and according to my dogs, irresistible!  I store mine in the fridge and every time I open the door I get an audience of tail-waggers waiting for a piece of this dog food roll!  I use this as a treat or as a supplement in their kibble.
+
+product/productId: B0040PYS6I
+review/userId: A137OOBMF8P43D
+review/profileName: H from SPhilly
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1321574400
+review/summary: Too Pricey
+review/text: I ordered this item about two months ago and the price has sky-rocketed.  It's actually cheaper to purchase it from the neighborhood corner store.  It's a great product, and I notice the difference when I don't drink it.
+
+product/productId: B0055ZB0KO
+review/userId: A1H4R7TY2G50DH
+review/profileName: Max Power "Max Power"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1328918400
+review/summary: over 90% germination rate
+review/text: These are all medium sized seeds, between the size of radish and garbanzo, with a very high germination rate. I use the SproutMaster which makes growing sprouts a breeze. These are all mild flavored sprouts (unlike radish sprouts for example which have a bit of a radishy bite to them).<br /><br />If you don't know much about this kind of sprout, beans and peas are a good source of vegetarian protein. Sprouts, as they grow produce enzymes, which can play a number of roles in digestion and even immune system function, because most of your immune system is in your gestational tract. Sprouts are also a great source of fiber, and antioxidants. During the winter it is great to be able to grow a fresh, live food, because veggies at the grocery store are usually quite wilted or picked well before their peak. Sprouts, eaten fresh, are a plant that on a per-size basis, is pretty much the most potent and healthy thing you can feed yourself.
+
+product/productId: B0055ZB0KO
+review/userId: A2Z65Z4XXCFLCO
+review/profileName: Rita S. Reames "wanderer"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1337990400
+review/summary: Fabulous
+review/text: These seeds sprout quickly and easily.  Delicious, organic and healthy.  What more could you ask?  We're addicted!  Highly recommended and we will be ordering more.
+
+product/productId: B0055ZB0KO
+review/userId: A2FBO0XZWBJK6E
+review/profileName: bugZilla
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1328486400
+review/summary: Tasty mix
+review/text: I like this kind of mix with the lentils and mung peas.  There are more seeds than that in there and when one adds it all up it comes to a nice crunchy mix that tastes great!  No problem recommending this one.
+
+product/productId: B0055ZB0KO
+review/userId: ALUQSMPW5HU0E
+review/profileName: Athena
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340582400
+review/summary: Love these sprouts
+review/text: I forgot how much I love sprouts in my salads and on my sandwhiches. These sprout quickly and are tasty.  Affordable, fast, and easy - my favorite combo.  Will order again :)
+
+product/productId: B0055ZB0KO
+review/userId: AGTFHB9IY7MTY
+review/profileName: M. Banik "Mat Banik"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1321488000
+review/summary: Excellent source of protein.
+review/text: The sprouts grow nice and taste very good. I both two bottles to try them out and I'm happy I did.
+
+product/productId: B0055ZB0KO
+review/userId: A165FY0KB88P7B
+review/profileName: Ron Camp
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Love these sprouts.
+review/text: One of my favorite blends of sprouts.<br />Great product at a very economical price.<br />I have a constant supply of fresh sprouts.
+
+product/productId: B0055ZB0KO
+review/userId: AK2MIZPBOYMR5
+review/profileName: Mary "Hybrid"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Great quality, great sprout rate.
+review/text: I bought these sprouts for my parrot, along with the Victorio Kitchen Seed Sprouter.  To be honest, if you're just doing a small amount every few days, you can sprout these seeds without a sprouter.  They are great quality & very clean and there are very few seeds that don't sprout.  I've even started munching on them as I walk by the container each day, lol.<br /><br />The success rate with each batch is very surprising to me.  I expected a 50/50 sprout/spoil ratio, but it's well over 90% that sprout each time. A+++
+
+product/productId: B0055ZB0KO
+review/userId: A5X6PJANY4XW4
+review/profileName: Tcat Houser "A Customer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Now I know why this was 100% 5 star rating
+review/text: I ordered this with the Easy Sprouter.<br /><br />Yeah, BABY!<br /><br />2 days of soaking, 3 days of quick rinse (No effort with Easy Sprouter).<br /><br />So much fresher then store bought and save money too.<br /><br />Great shelf life if you want to have a large variety of different seed spouts.<br /><br />No chasing fresh veggies in winter!<br /><br />Tasty,  healthy, cheap and easy.  Nothing wrong with this picture!
+
+product/productId: B0055ZB0KO
+review/userId: A3F4RFA6MTRQBU
+review/profileName: Renee Cooks "S Desmond"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Organic sprout seed mix
+review/text: I must say I was very pleased with my results using this  organic sprout mix. I 'm new to sprouting & purchased a Kindle book that gave me a lot of resource's to help me get started called "How to sprout raw food by Ruppenthal,R.J. I harvested my sprout's 4 day's later. I also ordered more organic sprout mix from the same company. I love having fresh sprout's to use for salad, on sandwich's & so much more. The is the best way to get live sprout's to enjoy all year long at a modest cost. I'm sure you won't be disappointed.
+
+product/productId: B0055ZB0KO
+review/userId: A1UC2PL7FYU6S2
+review/profileName: F. Drew Leyda "FDLeyda"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346457600
+review/summary: Good for you .
+review/text: I sprout these using an <a href="http://www.amazon.com/gp/product/B000EJ11X2">Easy Sprout Sprouter - 1 set,(Easy Sprout)</a>. I soak 3 teaspoons of beans for a day then rinse for 2 or 3 days.<br /><br />Then a put them in a <a href="http://www.amazon.com/gp/product/B0007ZK8LO">Progressive International Microwaveable 6-Cup (Cooked) Rice Cooker Set</a> with 1/2 cup of <a href="http://www.amazon.com/gp/product/B003ZXCE7G">Koshihikari Premium Sprouted Brown Gaba Rice, 2.2-Pound Pouches (Pack of 2)</a> and a little more then 1 cup of water and add seasoning.<br /><br />I let the beans, rice, water and seasoning set in the bowl for about a hour. Then I put the bowl in an 800 watt microwave and cook for 15 minutes at 70 percent power. Then I let bowl set in the microwave for a hour or so.
+
+product/productId: B007GPARJG
+review/userId: A3M0C7UEQXBYX2
+review/profileName: Eliza
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1336348800
+review/summary: Delicious Stove-top Popcorn!
+review/text: This popcorn is delicious! I love how it tastes and that I don't have to worry about the hulls being stuck in my teeth when I eat it! It really is virtually hulless! It pops quickly and easily on the stove-top by following the directions on the back of the bag! Perfect for those who prefer an alternative to microwave popcorn or popcorn without the hull! It's snack-tastic!
+
+product/productId: B007GPARJG
+review/userId: A17M41UQ5XKENE
+review/profileName: Erin K. Hanson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1334102400
+review/summary: customer beware! you'll never buy another popcorn!
+review/text: as a long time popcorn fanatic, i was excited to try tiny but mighty and i'm so happy i did. it is the most delicious popcorn i have ever tried. i recommend everyone try it.<br /><br />i make popcorn almost every night and now i will not buy any other popcorn. thank you Tiny But Mighty for being so delicious!<br /><br />happy popping!
+
+product/productId: B007GPARJG
+review/userId: A3N8R67RY6P586
+review/profileName: Tommy T
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330905600
+review/summary: Great Popcorn!
+review/text: Great popcorn - way better than the 'normal' stuff I've been buying from the supermarket for years. The popcorn comes out sweet - just add a little salt and you're good to go. My girlfriend and I love it!
+
+product/productId: B007GPARJG
+review/userId: A3TYKFDYE5A9DV
+review/profileName: Meal_how89
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1331856000
+review/summary: Great quality popcorn
+review/text: Tiny But Mighty Popcorn or "TBM" is the best popcorn I have ever had. Being adventurous I've tried all sorts of Popcorn, kettle-corn, cheddar, butter, sugar, even marshmallow popcorn.  So with my "experience" in the popcorn world I can truthfully say I will always come back to TBM Popcorn.  It's the most healthy popcorn out there on the market and it even taste better then every single microwave variety out there.  I have been eating TBM Popcorn for years, recently they have totally redesigned the bag the tiny popcorn comes in.. WOW!!! It looks classy, elegant, sophisticated AND it even gives you guide lines on how to prepare the product to its best results when popping -Not to mention a little history on the ancient heirloom popcorn.. Well done TBM Popcorn Well done! As an avid popcorn lover I cannot wait to see what your next big move is! Keep up the good work Farmer Gene!
+
+product/productId: B007GPARJG
+review/userId: AQG00L994Q6RF
+review/profileName: Patrick Walsh
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1330905600
+review/summary: Love it!!!
+review/text: This is great popcorn my two year old daughter loves it as well, it is the only kind she will eat!
+
+product/productId: B007GPARJG
+review/userId: A2DXE88UZILCSH
+review/profileName: Chicago Book Dispatch "MM"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345852800
+review/summary: Love Tiny But Mighty
+review/text: I recently moved out west, and was devastated to find Tiny But Mighty unavailable in stores. Three whole days on 'the big stuff' organic yellow popcorn, and my tiny body felt bloated  and backed up, my teeth and head ached from all the hard fluff on the larger corn. Thank goodness 10 pounds of Tiny But Mighty Heirloom Popcorn came in the today. It is my favorite food, perfect for a late night snack without hurting your body.<br /><br /> My posture and attitude are ranked among fantastic, now that I am reunited with this amazing product. Thank you Tiny But Mighty Heirloom Popcorn, I'll never eat big popcorn again!
+
+product/productId: B007GPARJG
+review/userId: AX6OPOYBTILIH
+review/profileName: Linda S.
+review/helpfulness: 2/4
+review/score: 2.0
+review/time: 1337558400
+review/summary: Disappointed
+review/text: I ordered a small bag of this to try out as we like popcorn occasionally.  Received it and followed the directions to pop it stovetop.  Lots of kernels left unpopped, but not an overly unacceptable amount.  Sprinkled some salt on it, and tried it.<br /><br />Not only ARE there hulls left on the popcorn, the popped amount is so small that all you can taste are the hulls!  Other reviews stated that this tasted sweeter than normal popcorn, and we have to disagree.  It tasted plain, and the hulls really bothered me.  Harder than normal popped corn, it was very disappointing.<br /><br />I'm very glad that I only ordered a small bag of this, as it will probably get thrown out.  Unacceptable to us and a waste of money.  Everyone's taste may vary, but we'll take normal-sized popcorn for our snacking needs.
+
+product/productId: B007GPARJG
+review/userId: A17HEDTG26691K
+review/profileName: Sheepish Jen "Sheepishwoolly"
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1339718400
+review/summary: Not So Hulless
+review/text: This is a nice little popcorn, but besides the fact that the kernels are smaller than other popcorn, I didn't notice any great difference. The batch I popped was definitely not "virtually hulless" as they say in the promotion.
+
+product/productId: B007KPWA8S
+review/userId: A1K36U9PF3DGO5
+review/profileName: William R. Pratt "Bill Pratt"
+review/helpfulness: 12/14
+review/score: 3.0
+review/time: 1341360000
+review/summary: Who is going to offer a NO DECAF sampler?
+review/text: The coffee is fine, but I'm really tired of getting a sampler pack with literally half the cups being DECAF or teas. I'm collecting dozens of cups of Decaf coffee that I do drink eventually (in the evening), but I am running out of caffeinated coffee cups already. The only option seems to be to pick one flavor and buy it, but do like to choose among a variety. Whoever comes up with a good ALL caffeinated sampler pack will have a dedicated customer.
+
+product/productId: B007KPWA8S
+review/userId: A2S57B4MM9XR12
+review/profileName: xteena
+review/helpfulness: 6/6
+review/score: 1.0
+review/time: 1342051200
+review/summary: meh
+review/text: I only purchased this sampler bc I wanted to try the pumpkin spice, gingerbread, golden french toast and eggnog.  They were advertised as being included in the sampler and were not included in the box I received.
+
+product/productId: B007KPWA8S
+review/userId: A1TFORXZCO9ERO
+review/profileName: Wayne Wilkinson
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1343347200
+review/summary: Samplers
+review/text: A good selection ,my only question is why must all samplers contain Decaf,hafcaf . I have a drawer full, and a bunch of tea which i will never use. I willnot buy more until i can find STRAIGHT COFFEE ONLY.
+
+product/productId: B007KPWA8S
+review/userId: A25T2GMXL7527I
+review/profileName: Maria Kostrencich
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1343174400
+review/summary: Not exactly coffee only
+review/text: This product was listed as coffee only sampler pack.  Seven of the K-cups were not coffee--cocoa, apple cider and cappucino.  I enjoy the variety of different coffees from different brands, and was looking forward to coffee only.  Most of the coffees are good, but I'm not sure if I'd order this variety again.
+
+product/productId: B007KPWA8S
+review/userId: A2N6Y6FIANRL3G
+review/profileName: Mark A. Tetrick
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1337990400
+review/summary: Good Variety
+review/text: One of the advantages of the Keurig -K cup type brewers is the ease of trying different varieties of coffee cup by cup.  This variety pack arrived with 12 flavored coffee varieties, 12 "regular", 6 extra bold, 9 decaf and one Revv with Ginseng and Guarana.  There was one duplicate in our package- we had two Donut Shop coffee k cups.  That was the only duplicate.<br /><br />The packaging was not fancy but the coffee came well packed.  The k cups were in a 5x5x12 inch box which was packed inside a larger box for shipping.  All k cups were in good shape.  This was purchased in May 2012 and most k cups had expirations in November/December 2012 or January 2013.  One k cup was past it's best use by date by about a month.  There were 3 other k cups that had best use by dates that were within 2 weeks of purchase.<br /><br />All in all for getting close to 40 different varieties of coffee and compared to reviews for other sources of similar variety packs this was a good value for us. The vast majority of the k cups had best use by dates that were 6-8 months away with only 1 that was past date and only a couple that were short dates. I'd definitely purchase again in the future.
+
+product/productId: B007KPWA8S
+review/userId: AKIPWQRDHTMJF
+review/profileName: S. Williams
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1348531200
+review/summary: Duplicates and Decaf
+review/text: I did receive 40 k-cups, however they were mostly Green Mountain and there were 3 sets of duplicates.  In addition, I also got 10 decaf k-cups.  Although this does seem like a great way to try different k-cups, I wish that there was a little more variety.<br /><br />As other reviewers noted, of the cups that had expiration dates - most are within the next 2 months.  (Most of the cups don't have printed dates.)
+
+product/productId: B007KPWA8S
+review/userId: A2STPDNR3VV5OD
+review/profileName: asd121
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1342656000
+review/summary: Says coffee only, but it is not
+review/text: I love the variety, but the description says coffee only. It was not coffee only.  There was cider in it. It isn't the end of the world, but I would expect that it would have been coffee only!
+
+product/productId: B007KPWA8S
+review/userId: A20EZ6Z2RVSCZ8
+review/profileName: B. Michalek
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1349136000
+review/summary: Too much decaf
+review/text: Finally found a sampler without tea or cocoa and I end up with a ton of decaf cups I don't want.
+
+product/productId: B007KPWA8S
+review/userId: A99OF8YOXTTEL
+review/profileName: LindsayM
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1348272000
+review/summary: Not great, but not horrible.
+review/text: The coffees came packaged in a plain brown box; none were broken.  I received 40 cups, but only 38 different varieties (could have been worse).  However, 4 of the cups had an expiration date of 6/2012 or sooner.<br /><br />Here is what I received:<br /><br />GREEN MOUNTAIN COFFEES<br />Our Blend (x2)<br />Vermont Country Blend<br />Nantucket Blend<br />Island Coconut<br />Colombian Fair Trade Select<br />Wild Mountain Blueberry<br />Caramel Vanilla Creme<br />Dark Magic<br />Southern Pecan<br />Breakfast Blend<br />Lake & Lodge<br />Sumatran Reserve<br /><br />Donut House<br />Newman's Own Newman's Special Blend<br />Emeril's Big Easy Bold<br />Jet Fuel<br /><br />STARBUCKS<br />Veranda Blend<br />House Blend<br />Caffe Verona<br />French Roast (expired)<br />Pike Place (expired)<br /><br />WOLFGANG PUCK<br />Breakfast in Bed<br />Chef's Reserve<br />Jamaican Me Crazy<br /><br />TULLY'S<br />Italian Roast<br />French Roast<br /><br />GLORIA JEAN'S<br />French Vanilla Supreme (x2)<br />Butter Toffee<br /><br />DUNKIN DONUTS<br />French Vanilla (expired)<br />Original Blend (expired)<br /><br />DECAF<br /><br />Donut House Decaf<br />Newman's Own Newman's Special Decaf<br />Chef's Reserve Decaf<br />Tully's French Roast Decaf<br />Donut Shop Decaf<br /><br />GREEN MOUNTAIN DECAF<br />Breakfast Blend Decaf<br />Vermont Country Blend Decaf<br />Dark Magic Decaf
+
+product/productId: B007KPWA8S
+review/userId: A111CZ5PU88AM9
+review/profileName: Alyssa
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1347667200
+review/summary: Great selection
+review/text: I love the variety of coffee I received in this package. All different brands so I can sample and see what I do and do not like. The only disappointment was the packaging. It arrived loose inside a brown paper bag which was stapled shut. Not impressed by that but overall very pleased with the coffee.
+
+product/productId: B007KPWA8S
+review/userId: A33UA9TL9I1AYC
+review/profileName: jason
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1345420800
+review/summary: A little disappointed
+review/text: I ordered this sampler because I wanted ALL coffee. The name of the sampler is "Keurig Coffee Only Sampler Pack", so I think my expectations were reasonable. However, I ended up with apple ciders and hot chocolate. The other problem is that I only got 1 decaf k-cup in the entire pack. The coffee that was in the sampler was top-notch, but unfortunately it wasn't a 5-star experience.
+
+product/productId: B007KPWA8S
+review/userId: A1MBGLCPFLX3UP
+review/profileName: AmberBug
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1344384000
+review/summary: Only okay for a variety
+review/text: Funny, someone just this month wrote a review saying they were sick of getting half the variety in decaf. Mine was exact opposite, we only have 2 decaf cups from the entire lot of 40! I was hoping for more than 2 decafs which is why I'm giving the seller a 3 star review. Also, the brown paper bag was a little tacky and some of the cups came with dents in them. I'm being forced to buy a 30 pack variety of decaf for the same price as the 40! I do wish they would specify at least that in the description.
+
+product/productId: B007KPWA8S
+review/userId: AP1UAXQK9G3AT
+review/profileName: Emma617
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1343433600
+review/summary: NOT a "coffee only" sampler pack
+review/text: While I am pleased with most of the product ordered, I specifically ordered a "coffee only" sampler pack and received many non-coffee k-cups (ciders, hot chocolates, cappuccinos, teas) which will end up thrown away. So I'm throwing away about 25% of what I ordered. Not happy! Please either change the details of this item listing or pack only coffee. I won't be ordering from this seller again.
+
+product/productId: B007KPWA8S
+review/userId: A25TECXGLUUPYY
+review/profileName: pmc
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347580800
+review/summary: great selection
+review/text: I cant say anything bad about the selection of coffee I receevid.  I am having fun every morning deciding what flavor should I have today
+
+product/productId: B007KPWA8S
+review/userId: A2NSVVC81E1IET
+review/profileName: Lilly's Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347235200
+review/summary: Great bargain!
+review/text: I was leary to order this item but I am glad that I did.  Nice selection of coffee at a great price.  I will definitely order again.
+
+product/productId: B007KPWA8S
+review/userId: A6UCC4RRQTEL2
+review/profileName: M. PACHTER
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346025600
+review/summary: Great variety
+review/text: There was a wide variety of coffees flavored and regular.  I was not pleased when I first opened the box and there were 10 decafs.  As i got deeper in the box, there were no more decafs and a good variety of flavored and unflavored coffees.  I will order from this seller again.  Great way to try a wide variety of coffees!
+
+product/productId: B007KPWA8S
+review/userId: A31YQGZMQTN8VM
+review/profileName: katrina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340496000
+review/summary: Nice Variety
+review/text: The Coffee Only Sampler Pack was a really good choice for me.  I enjoyed the different flavors (even the wacky ones) because they were subtle.  My husband zeroed in on the more common types of coffee and the decafs, of which there were many.  I also liked the fact that there were several bold choices in the mix.
+
+product/productId: B007KPWA8S
+review/userId: A33TE1ROXWDMJH
+review/profileName: reedfamily
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340150400
+review/summary: Wow!!!
+review/text: What a great selection...  not a single duplicate!  There are bolds, flavors, decafs, Newman's, Donut Shop, W Puck, Tully's - everything you can imagine.  Some folks have mentioned quickly approaching use by dates, but my selection doesn't expire for 6 months...  They'll never last that long!  I'll order again.
+
+product/productId: B005GNXMVK
+review/userId: A3EBHHCZO6V2A4
+review/profileName: Amaranth "music fan"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1317600000
+review/summary: Berkeley Brew
+review/text: Peet's Coffee got its start in Berkeley, California, and in the honor of its founding, there is now this blend as well as <a href="http://www.amazon.com/gp/product/B005GBXKAK">Peet's Ground Coffee, Caf&eacute; Solano, 12-Ounce</a> It was Peet's Coffee that was first brewed when Starbucks was started (<a href="http://www.amazon.com/gp/product/1605292885">Onward: How Starbucks Fought for Its Life without Losing Its Soul</a>) Starbucks tried to expand into a lifestyle brand with food, CDs, its own record label--while Peet's has stayed small. Their coffee shops smell of brewing coffee as refined classical music plays.<br /><br />Cafe Domingo has a nice, smoky flavor. It's got vigor and depth. Starbucks tends to taste burnt... but with Peet's, it's smoky. Cafe Domingo has an amazing depth of flavor and smokiness. A perfect way to jumpstart the day!
+
+product/productId: B005GNXMVK
+review/userId: AAOXZBGDBR37B
+review/profileName: Mark
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1347148800
+review/summary: An excellent medium roast
+review/text: Peet's Domingo  is a perfect medium roast.  As I get older the taste of the dark roasts are not as appealing as they once were but not quite ready for the weaker light roasts.  This roast is not bitter and has a nice after taste. I find this roast slightly better than Starbucks Pike roast. I highly recommend this coffee.
+
+product/productId: B0002AS5FA
+review/userId: AR5SY32T76DBM
+review/profileName: Hugo D. Hackenbush
+review/helpfulness: 8/8
+review/score: 2.0
+review/time: 1317168000
+review/summary: Bowl is fine, but sticker packaging is crap
+review/text: This Stainless Steel MIRROR PET DISH 1QT 144 is exactly what it says it is, and is fine in and of itself. However, the huge advertisement sticker that covers the entire inner bottom of the bowl is impossible to remove without spending a good hour or so scrubbing it off. I actually had to soak it in nail polish remover, then scrub it no less than 12 times to fully remove the sticky residue. What a pain!
+
+product/productId: B0002AS5FA
+review/userId: A30RXH3H7MZX4K
+review/profileName: KLG "yogamama38"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1330819200
+review/summary: 4 out of 5 not bad
+review/text: Great bowls, good quality, dishwasher safe, Only complaint is the fact that they came with stickers on them which were difficult to remove. Would recommend investing in "goo gone" before purchasing.
+
+product/productId: B0002AS5FA
+review/userId: A3E49QTXC5A6QJ
+review/profileName: Kathrine Fiedler
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1290124800
+review/summary: thin wall bowls
+review/text: These bowls are a good price but as the old saying goes "You get what you pay for."<br />My new bowls are already denting and they don't dry unless you wipe them (some kind of residue on them from stamping them out I would guess.)<br />My older bowls are thicker and though I've had them for over 12 years - they have no dents and dry on their own.<br /><br />It's like I said - if you want bowls cheap and don't care what they look like - these are fine for you.<br />But if you want something that's going to last and doesn't look like it's been dragged behind your car, get something with a higher thickness.<br />It's your choice.
+
+product/productId: B000633UNA
+review/userId: A1DVWA4TVJAMJK
+review/profileName: susan bolster
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289606400
+review/summary: Picky Eater
+review/text: I grate this over my dogs dry food & she loves it...mostly she eat this food and leaves the dry...
+
+product/productId: B000633UNA
+review/userId: A84OTT96ES9B6
+review/profileName: Tayler'smomma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288051200
+review/summary: moregimmemore
+review/text: I gave this a try and my very picky little dog loves this!!! and it does smell good - like a smoked smell,  I'm now out and "fifi" wants more - i used it as a treat mainly.  My dog did beg for this more than normal, now its like her breakfast sausage,  the only other treat my dog will eat is pupperonie and it seams from all the dancing around and begging she does for this stuff it must be good! seriously my dog won't even touch real fried bacon but we love this and will be ordering more soon.
+
+product/productId: B000VK4AXC
+review/userId: A1H6V81PJZODAI
+review/profileName: The fisherman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1311206400
+review/summary: Galaxy Granola Raspberry--Great taste, Very low fat
+review/text: I have been unable to purchase this cereal anywhere else, so the price is little higher than I would like, but I really like the cereal since I am on an Ornish low fat diet.  Where I live I can not buy this cereal in stores and can not order it thru health food stores.
+
+product/productId: B000VK4AXC
+review/userId: A19LQ6JRF9UUND
+review/profileName: G.I. JOE
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302134400
+review/summary: Best Granola Ever
+review/text: It tastes great in milk or dry. The fat to flavor ratio is unbeatable. Galaxy has a couple of different flavors, but this is by far my favorite. Almond Vanilla Munch is second, though it is my wife's favorite. When I run low on the Raspberry sometimes I'll cut it with her Vanilla Almond until I can get to the store.
+
+product/productId: B0016OGUMG
+review/userId: A1RVDOTX8A2EQR
+review/profileName: me
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1312070400
+review/summary: One of the best choices in commercial cat foods
+review/text: This food contains meat and the vitamins and minerals your cat needs - no fruits, vegetables or grains. It's ideal for cats who need a limited ingredient diet but whose owners are not willing to prepare a home made diet. All canned food contains thickeners such as guar gum or carrageenan which can also be allergens. However dry food contains a high level of starch (from grain or potato) to make it bake like a cereal, and starch is completely unsuitable for cats.<br /><br />I feed my own cats a home made raw meat diet, but I have fostered cats and I fed them Evo 95% meat. The rabbit and the chicken seem to be favorites.
+
+product/productId: B0016OGUMG
+review/userId: A1108V3NFRZHQK
+review/profileName: Don H "Don H"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323475200
+review/summary: I T WORKS!
+review/text: The EVO 95 has been the one thing that has stopped my cat from bleeding when he uses his litterbox...in other words, it stopped his colitis/internal allergies and he's been a healthy, active, loving cat since.  I couldn't get over the difference simply changing from a diet of hard/soft mix...which I was first on Royal Canin for him and then tried SD z/d...then went to this.  It worked...period.  To those bashing the company, quit the hysteria!  IT WORKS...and now both my cats are on it and doing well.  I lost two cats last year, and mine are doing well on this diet...and I'm thankful to have it!
+
+product/productId: B0016OGUMG
+review/userId: A3QKXTYYIQJJJN
+review/profileName: Indignant Hen "Everything sucks!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349395200
+review/summary: Good stuff
+review/text: The cats like it.  I like the larger cans since I have 8 cats. Evo has good ingredients so I will continue to buy it. Thank You Evo. Thank You Amazon.
+
+product/productId: B0016OGUMG
+review/userId: A3BUGCB190CCM4
+review/profileName: John B.
+review/helpfulness: 4/9
+review/score: 2.0
+review/time: 1274572800
+review/summary: Not For My Cats
+review/text: My cats wouldn't touch any of the four flavors of EVO in this variety pack. They do eat canned Instinct from Nature's Variety.
+
+product/productId: B001HTITEW
+review/userId: A4ZPXDPHCPIRC
+review/profileName: Mary Sleger
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1255737600
+review/summary: Works Great in Corn Bread
+review/text: I purchased this corn flour so I could make the gluten-free corn bread recipe from the Babycakes Book.  It made delicious corn bread with a good consistency (not grainy).
+
+product/productId: B008QS89UG
+review/userId: A3LYTRS6M0U109
+review/profileName: Sarahg2203
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: Bar-b-que!!!!
+review/text: This bbq sauce is truly some of the best flavor blend of spices I have tried!!!!  Its smoky, sweet, tangy, just great!!!  Its hard to believe it has no sugar in it!  My 4 year old son dips his chicken nuggets in it!!!  We have the Ketchup also through Alterna sweets which is equally awesome!  A must try for sure!!
+

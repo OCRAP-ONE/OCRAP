@@ -1,0 +1,1143 @@
+product/productId: B000KSPX7C
+review/userId: A97VA85OFZMAZ
+review/profileName: L.M.T. "Lisa"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1269043200
+review/summary: Just "ok"
+review/text: After all the rave reviews, I was a bit disappointed in this coffee.  I'm cancelling after my second order.
+
+product/productId: B000KSPX7C
+review/userId: A37187ZFJZKUPY
+review/profileName: Otto
+review/helpfulness: 1/3
+review/score: 4.0
+review/time: 1295568000
+review/summary: Good coffee but not great
+review/text: Good coffee but nothing great.  Price is good though and I can't justify spending a lot of $$$ on other beans.  Better then any Folgers ground coffee.  I am still looking for a better, stronger coffee bean though.
+
+product/productId: B000KSPX7C
+review/userId: A3RAZ16FFW39ME
+review/profileName: Mark
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1254268800
+review/summary: Not what i expected
+review/text: One of the great things in life is the aroma of a newly opened bag of coffee.  This bag doesnt smell like coffee, it smells burnt.  Fortunately it doesnt taste burnt, but it doesnt taste that great either.
+
+product/productId: B000KSPX7C
+review/userId: A30BXHKW0E52HN
+review/profileName: Connie Morrison "coffee lover"
+review/helpfulness: 2/22
+review/score: 1.0
+review/time: 1261872000
+review/summary: tasteless and bland
+review/text: I got this as a Christmas gift and wow, what a disappointment!  If you enjoy a strong, full-bodied coffee, for heaven's sake, get yourself to Starbucks and buy one of their expressos instead of this. The script on the bag was full of hype, none of which added up to high-quality coffee. I'm donating most of the bag to my church, where they will eat anything.
+
+product/productId: B000F70RC4
+review/userId: A2OFNK7MFPPFN
+review/profileName: E. Wolf "meddygirl"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326499200
+review/summary: delicious low-cal comfort on winter days... or any day!
+review/text: This fantastic chai is the real deal. Even my Indian friends love it and asked me for the brand name! It has a rich, soothing taste that is perfect in times of stress or on cold winter days. I keep a box at work and several boxes at home, so I'm never without it.<br /><br />Try it with a high quality french vanilla creamer, such as Hershey's (made with real whole cream). Only 35 calories per serving.
+
+product/productId: B000F70RC4
+review/userId: A311YKH6RB7AWY
+review/profileName: chiot "chiot"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325116800
+review/summary: very good milky tea
+review/text: As an avid milky tea drinker, I find a tea I like, drink it 3 -5 times a day for years then tire of it suddenly and change.<br /><br />I can only review flavor.<br /><br />For years, I varied between Earl Gray, Lady Jane Grey and Constant Comment.  Then I fell in love with Chai, but found some chais too strong.<br /><br />This chai was a good introduction for me.<br /><br />One benefit of chai is less sugar is required.  The vanilla helps to soften the cinammon flavor.
+
+product/productId: B000F70RC4
+review/userId: A281NPSIMI1C2R
+review/profileName: Rebecca of Amazon "The Rebecca Review"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319587200
+review/summary: Soothing and Spicy
+review/text: I was looking for a decaf chai tea and found this Decaf Vanilla Chai Tea which was even better. The addition of vanilla really enhances all the other spices and makes this tea sort of soothing. The ingredients include: decaffeinated black tea, natural flavors, chicory root, cardamom, ginger root, nutmeg, black pepper, star anise, cloves, panax ginseng leaves and vanilla extract. I like that I can drink this in the evening and not be awake all night. I think it is perfect with two tablespoons of dry milk and a packet of stevia. You could also use milk or cream to make a more authentic chai tea.<br /><br />~The Rebecca Review
+
+product/productId: B000F70RC4
+review/userId: AT05WODGZG5RO
+review/profileName: Diane Sklensky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305331200
+review/summary: Fabulous chai
+review/text: This is my favorite chai - and I love that it's available in decaf.  I grew up in Good Earth's neighborhood in CA and it can be harder to find in places such as Ohio and Tennessee.
+
+product/productId: B000F70RC4
+review/userId: AGX53TCAL4ESA
+review/profileName: Brian Bugbee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292025600
+review/summary: This tea is delicious but is it gluten free
+review/text: This tea is delicious and I put honey and lactaid milk in it. I am intolerant to gluten so before I continue drinking this I have to know if this is gluten free. Most tea companies are now putting gluten content on their packages because there are so many people with this problem.I recommend that Good Earth do the same.
+
+product/productId: B000F70RC4
+review/userId: A39H5JHAFVN0YE
+review/profileName: Grinch51 "Retired enthusiast"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1272153600
+review/summary: Great tasting tea
+review/text: I've been drinking different types of Chai Tea for a long time and this Vanilla Chai Tea is very pleasing great tasting tea. This particular blend in Decalf is kind of hard to find in our local supermarket and I'm glad amazon has it for sale. I will continue to purchase this Vanilla Chai Decalf for as long as it is available. Many good comments from family and friends on this tea.
+
+product/productId: B000F70RC4
+review/userId: ABRDDFYSD9HNY
+review/profileName: Thoughts-And-Words "Addicted To Amazon"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263945600
+review/summary: Luv, Luv, Luuuuuuv this tea!
+review/text: Okay, you know this tea has to be good to look at buying it online!  So, if you like the flavors of chai & vanilla, then this is a no-brainer... your only surprise will be the smooth robust taste... equally good by itself or with milk and honey.  If you're new to chai teas and are looking for a calm, delicious (I can't believe it's tea!) experience than again... this is the winner! Bonus story: over the holidays I wound up with a terrible head cold, this is the only food (if you can call it that?) that I LOOKED FORWARD to ingesting. Even with infirmed taste buds I could still taste these comforting flavors and knew I was at least able to "treat" myself to something enjoyable to keep hydrated. So, TRY IT... YOU'LL LOVE IT TOO! P.s It's decaf-good-for-you-too! Enjoy!
+
+product/productId: B001SAVLL8
+review/userId: AH2A0VQQ4ROXV
+review/profileName: P. Myren "eshopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1275609600
+review/summary: best of the best
+review/text: Every item in this jar is delicious! Its one of my favorite products on the market.
+
+product/productId: B007CK0EAC
+review/userId: A3B5YEXQTV4TZF
+review/profileName: Blind Woodcrafter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Awesome Plant
+review/text: I received this Aloe plant just a few days of ordering it.  It was already a healthy and happy looking plant.  The product details say 4" tall; mine was 7-5/8" from base to tip.  4 of the stems 3" above the base were 3/4" & 7/8" wide.  I placed it in a planter I built especially for aloe plants with organic soil for the cactus family plants.  This plant is kept inside on a East facing window and gets a shot glass of water every Saturday at the base of the plant so the root system becomes deeper.  Now 4 1/2 months  later I now have 5 Aloe pups growing like crazy.  The smallest one has 3 stems 3-5/8" tall.  Obviously you can tell I am very pleased with this purchase & the high quality of this Aloe Vera Plant.  When it comes time to purchase plants I will be going to Angel's Garden of Eden.  I've seen there quality and care.<br />Happy Growing.<br /><br />Oh Yeah!  The box it was shipped in was really cool.  You could tell it was designed for shipping plants.  UPS, FED-EX or UsPs couldn't hurt this puppy without driving over it several times.  Jim Cary - The Pet Detective couldn't destroy this package.
+
+product/productId: B000HQPG4W
+review/userId: A22TJMKV8DWOJ0
+review/profileName: Taz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326672000
+review/summary: Simply Wonderful
+review/text: I bought this at my local Safeway and the Thyme is so good and fresh and just extraordinarily special, that I am here looking for a better price so I can buy more.  Most dried herbs from the grocery store and even our local health food, organic store where you can buy in bulk,  have an off flavor that only faintly resembles the fresh.  This, on the other hand, is just superb.  It has a lovely fragrance and gives an incredible fresh thyme flavor to soups and other foods.<br /><br />I am going to spend the money and start buying Morton and Bassett herbs and spices.  I already love their peppercorns and now the thyme is just exceptional.  I have to try more of them.<br /><br />Buy this.  You will not be sorry.
+
+product/productId: B0029JW07G
+review/userId: A1UCPXUBSESD65
+review/profileName: mzglorybe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1312243200
+review/summary: Our family loves these!
+review/text: If chips are your downfall you have some help coming!  The Great Plains Multi-grain toasted chips from Wheat Thins are now our favorite chip, and there are other flavors to try, however the multi-grain are the ones we like best.  They come in a bag like regular potato chips... an 8.1 oz bag.  They are made with 100% whole grain, no high fructose syrup or high sodium content. They are toasted, not fried. Calories are 130 p/s and only 5 grams total fat.<br /><br />Best of all is the TASTE -- wonderful!  Just right in saltiness, crisp and satisfying.  It will be easier than you think to give up fattening and greasy potato chips for these. Highly recommended.  Put some in a baggie for your kids lunches and help train them to make healthy choices in snack foods.<br />Love 'em!
+
+product/productId: B000NMFY24
+review/userId: A2FFMXCTF7TCWV
+review/profileName: M. E. Sheets
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1231891200
+review/summary: Hard to find...
+review/text: These candy bars are hard to find in our area.  I use them in trifle bowl recipes for the holidays and the recipe calls for 8 of the bars.  It's easiest to order them this way, although I notice someone is sneaking in the kitchen and eating them!!
+
+product/productId: B000NMFY24
+review/userId: AC0KUSLV2Z765
+review/profileName: Kansas Boy
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1194307200
+review/summary: Delivery was very fast
+review/text: Product was fresh and arrived fast.  Packed w/ice tightly to prevent crushing during transportation. I was quite surprised at how when I received the package.  THANK YOU!!!
+
+product/productId: B0029XEY26
+review/userId: A3A7WKD6XMYWWO
+review/profileName: Cheese Lover
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1282089600
+review/summary: Perfect
+review/text: I recieved this Cheese in 2 days, it was cold and wrapped in double foil. It is wonderfull for pasta and lots of other great receipes.<br />I am very satisfied with Amazon, And my CHEESE!!
+
+product/productId: B0029XEY26
+review/userId: ALZE80KD85PPW
+review/profileName: Karen McArdle
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1278201600
+review/summary: A little bit of home
+review/text: Family have difficulty getting Greek products in their city. It arrived twice -- apparently it did not ship prior to the w/e when promised and they shipped another one on that Monday. Both arrived in great condition and family have been enjoying Greek spaghetti with browned butter. They are thrilled. Thanks!
+
+product/productId: B0029XEY26
+review/userId: A2IDDMRAZ77UVO
+review/profileName: Cynthia A. Hampton "Cyndiloohoo"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1319155200
+review/summary: Tastes good, not quite a lb however
+review/text: I ordered from this company another mizithra cheese that was not good. This one tastes good but is not a pound...states on the wrapper .89 so just be aware.
+
+product/productId: B0029XEY26
+review/userId: AQL79C6FBRANA
+review/profileName: F. Hamilton
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1293408000
+review/summary: Too expensive
+review/text: I love this cheese.  However, it is far to expensive.  I found I can have my local store get Mizithra Cheese for me at about a quarter of the cost of ordering it here.
+
+product/productId: B0010TADEI
+review/userId: A2BBGFDMB1HBCO
+review/profileName: HighAltitudeRockStar
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1263772800
+review/summary: Best tasting protein bar ever
+review/text: Ive tried seemingly all protein bars on the market and this one is my favorite purely in terms of taste.  Its like a super heavy reese's candy.  Another reason I love it is the high calories.  Alot may be from fat, but I have a ridiculous metabolism and lift weights, mountain bike and hike 6 or 7 days a week so the more the better.  For those exercising and dieting, I'd steer clear because of the fat and sugar content but for skinny people like me, chow down!
+
+product/productId: B0010TADEI
+review/userId: A1HGG2IMGAZQF
+review/profileName: Diana Lovejoy "word hound"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1244851200
+review/summary: Tasty dessert or workout recovery bar
+review/text: Honey Stinger's "Peanut Buttah Pro" bar is 2 things: full of protein, and tasty! (Those 2 don't always go together.) It's a bit sweet (high in sugar) for general consumption, but I love it for after a hard workout or as a dessert alternative after lunch or dinner. It's an easy way to squeeze in another 20g protein, and my muscles thank me.<br />The slight drawbacks are the high sugar, and some unnecessary ingredients in the chocolate coating (probably added for texture). I prefer a very pure chocolate w/no modified oils in it! That said, the whole thing still tastes great, and the coating is a small percentage of the bar.
+
+product/productId: B0010TADEI
+review/userId: A2IT7S59GSASN7
+review/profileName: Mark Taylor "markdtaylor"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1236643200
+review/summary: Almost a Meal Replacement at 300 plus Calories
+review/text: Warning! Do not eat these without working out ;-)!<br /><br />They taste great, they have 20 grams of whey only protein.  The sugar count is high and I would not recommend using them as a meal replacement.<br /><br />They are great as a pre or post workout treat.  If pre, make sure to also drink 16 oz of water to help quickly process the food.<br /><br />The other versions of the bar taste too sweet, and have a few more calories.
+
+product/productId: B0010TADEI
+review/userId: AYSP91KV5YM3W
+review/profileName: RobertSheaO
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305590400
+review/summary: Simply Amazing, Tastes Delicious!
+review/text: This simply is delicious. If you've ever enjoyed a Reese's Peanut Butter Cup you'll love this, it tastes the same. I've got my own theory of why it tastes so good, and I suspect it's the Chocolate Liquor used to make the milk chocolate! This bar is also Gluten Free if that's a concern to you
+
+product/productId: B0010TADEI
+review/userId: A2K7FOYHMZHK63
+review/profileName: L. Hanes "doggiewalkerX2"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1270166400
+review/summary: SIMPLY THE BEST!
+review/text: I have sampled, tasted and stayed with many different types of protein bars until I found Honey Stinger Peanut Butta Pro Bars...Now, I will eat no other bar.  These are quite simply the BEST tasting...as another reviewer said, "like Reese's Peanut Butter Cups" only not as sweet, thankfully, and they satisfy my craving for chocolate.  I find that tasting real chocolate candy bars now are revolting. I will go a step further to say that I actually almost live on these bars...probably not the best idea, but at this time in my life, when real food from grocery stores, except for fruits, veggies, yogurt, soy milk, and a few other things, does not have a satisying or appealing taste for me, these bars are my sole source for protein.  I eat at least 2-3 a day, never get tired of the flavor, will drive out of my way to find them if I run out of my shipment before the next one arrives.  I feed these to my grandkids and they open their little mouths like birdies waiting for the next bite...great for a substitute for candy, plus it is nutritious, and as I said, my grandkids think they are the best, pure and simple.  As for the sugar content, I am not worried about it...mostly oganic honey and evaporated cane juice...better than sucrose in my book.  All I can say is, I believe in this product, will continue to use it every day and hope they NEVER change the formula...I don't think I could live without them.
+
+product/productId: B0010TADEI
+review/userId: A33R5P618X7MG7
+review/profileName: J. Piper
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1248480000
+review/summary: Holy Cow - these are really...too good
+review/text: The Peanut Butta Protein bar is incredibly good tasting... packs a whalloping 350 calories and a hefty amount of saturated fat...but, I will eat them for two reasons - because I'm hungry for a tasty snack and pumping up the protein (20g per bar).  I also eat PowerBar Protein bars which have fewer calories but don't taste nearly as good as this one.  The chocolate is of amazingly good quality, and..watch out - it will melt in your hands.  You must love Peanut Butter (which I do) and it has nice taste of honey (of course) in every bite.  Very filling....thankfully, or I'd probably eat another right after!
+
+product/productId: B004JGQ15Y
+review/userId: A1X2LENOF84LCQ
+review/profileName: D "D"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301356800
+review/summary: good flavor
+review/text: These don't taste like oreos at all. They have a single oreo cookie, on top of that is the creamy peautbutter and then they are covered in a fudge type covering. The peanut butter over-shadows the other flavors, I can't really taste the chocolate or the oreo. While these are good, it is not something I would buy often, they just aren't habit forming like some cookies are. They are almost too sweet. I think they would be better with w reeces type of peanut butter instead of the creamy. Don't buy a lot of these until you try them. We got tired of them before the package was empty.
+
+product/productId: B004JGQ15Y
+review/userId: A25EEG54MEC77T
+review/profileName: Umm Lila "Umm Lila"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301356800
+review/summary: Okay but not too much like oreos
+review/text: The cookie in these is thinner than a regular Oreo and more crunchy. The amount of peanut butter and fudge substance is more than the amount of cookie, which makes the overall product a little too gooey for my taste.
+
+product/productId: B004JGQ15Y
+review/userId: A2KMY4RVMJ1EP6
+review/profileName: faeriemyst
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301356800
+review/summary: A delectable, if slightly imperfect, treat
+review/text: This is actually a review for the Peanut Butter Fudge Cremes, NOT the Golden Oreo Fudge Cremes.<br /><br />I love peanut butter and chocolate together, so was delighted to find out I actually got to taste test these instead of the Golden Oreo Fudge Cremes. I set out experimenting the best way to devour these sweet treats: room temperature, refrigerated, and frozen. At room temperature, they're good but left a weird aftertaste, and I was surprised by how creamy the peanut butter was inside. Eaten this way, they remind me of those Girl Scout cookies, Tagalongs. Next up was refrigeration, which made the cookies even better tasting, with less of that aftertaste I mentioned before. I like that the peanut butter is more solidified, which fits better with the crunch of the cookie inside. So the last experiment left was freezing, which has been my favorite way to eat these cookies. They are simply delectable this way! Of course, that doesn't mean I don't have some faults with the product. Mainly the peanut butter and chocolate could both have a stronger flavor; the peanut butter doesn't taste as peanutty as it could be and the fudge doesn't taste too chocolate-y to me. Then there's the fact they are a bit sweet, but I usually find most dessert-types too sweet, so that's just a preference. Those are really minor nitpicks and I would get these again, but prefer the regular peanut butter Oreos to the cremes.<br /><br />As far as calorie count, it's not bad for a sweet treat: 170 calories, 80 from fat, for three cookies (of which there are 28 in the package), but I do fine with only two cookies. The sugar and saturated fat are rather high, 17g and 4.5 grams respectively, but I doubt anyone eats Oreos for their health benefits, the first ingredient is sugar afterall. I'd say give them a try if you're interested, they make a good alternative to Tagalongs and are available year-round at a cheaper price.
+
+product/productId: B004JGQ15Y
+review/userId: A1B4MIXYVIKMU2
+review/profileName: D. Truong "Duke of New Mexico"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301270400
+review/summary: If you're a fan of fudge & peanut butter, this one's for you
+review/text: There are things that undoubtedly go great together... for example, chocolate & coffee, chips & salsa, cinnamon with pretty much anything :) Fudge and Peanut Butter are another such example. If you're a fan of other fudge (or chocolate) & peanut butter snacks, chances are that you'll enjoy these new Oreos.  It is exactly what you'd expect and tastes pretty much exactly the way you'd think it'd taste too.  I found these to be very delicious and will probably buy more of these soon at my supermarket.  As with anything though, I think these are definitely "good" but not "amazing".  One thing that I thought would've made it more delicious is if they had used semi-sweet (let's say about 60% Cacao :) chocolate instead of the low content chocolate fudge that was used.  This can be verified by checking the ingredients... chocolate is near the bottom of the list.  I'm a big fan of dark chocolate, and this fudge covered peanut butter Oreo just didn't have enough chocolate taste to motivate me to give it 5 Stars.  If you're more into 'milk chocolate' than the 'dark' variety, you may disagree with me.<br /><br />All in all, I think it's a delicious concept... and one that I hope they will keep.
+
+product/productId: B004JGQ15Y
+review/userId: AP8D74QD9LUUL
+review/profileName: L. Steiner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301270400
+review/summary: creamy, tasty addicting cookies
+review/text: I have to admit I didn't look carefully at the picture on the package of these cookies, and expected regular oreo cookies covered in peanut butter and chocolate.  Well, not so but that's ok, these cookies are delicious! I also was happy when I first noticed that 3 cookies had only 170 calories, only to find out that they are three very little cookies!  But they are so full of flavor that I was happy after nipping at these as slowly as possible.  They left a very nice taste in my mouth, and were fresh tasting, with a crisp cookie and soft coating.  I loved them!
+
+product/productId: B004JGQ15Y
+review/userId: A1EVV74UQYVKRY
+review/profileName: K. Groh
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301270400
+review/summary: Pretty Good Cookie but Not Great
+review/text: This is a review for the Oreo Peanut Butter Fudge Creams. The cookies are pretty good, a little waxy in taste. They remind me of the peanut butter Girl Scout cookies.<br /><br />The peanut butter filling could be a little more nutty. It seems to be a lot of filler and not as much flavor. I like the crunchy cookie in the middle.<br /><br />I have a close-up in customer images to show you how it looks cut in half.
+
+product/productId: B004JGQ15Y
+review/userId: A35BVGH5X6Z4QH
+review/profileName: Marino Shauye
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1300924800
+review/summary: Not what I expected.
+review/text: This might sound weird, but if these cookies were marketed without the Oreo name, they might taste better. Or, if they were called "Oreo Crisps," I wouldn't have been hoping for that classic Oreo taste.<br /><br />My first impression was that these are "weak-sauce Tagalongs" (Girl Scout cookies). They're thinner, and don't taste super peanut buttery. The package clearly says "Peanut Butter" with "Creme" in small letters next to it, so I've theorized that the "creme" part means it's the familiar Oreo creme that has *some* peanut butter flavor added.<br /><br />The cookie texture is nice. Very crisp and tasty. It's just when everything is put together that it's kind of disappointing. I have hope for the original flavor, <a href="http://www.amazon.com/gp/product/B003XV1TAS">Oreo Fudge Cremes, 8.5-Ounce Boxes (Pack of 4)</a>, but have yet to try them.<br /><br />That said, I do keep eating them. They kind of grow on you, but they're not as amazingly delicious as I like my snacks to be. I think I'll stick with regular sandwich Oreos.
+
+product/productId: B004JGQ15Y
+review/userId: A2C5VLIJMDPWHI
+review/profileName: Shamontiel L. Vaughn "I'm boycotting Amazon's...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300924800
+review/summary: Girl Scouts everywhere should be nervous
+review/text: These cookies are phenomenal. I was a Girl Scout for five years in my younger days, and I used to tear apart Tagalongs. I got to the point where I stopped eating them because I was eating them so much and needed a break, but I still enjoyed them. This is the first time I've ever tasted a cookie that compared to those. The peanut butter is soft. The fudge is moist. The cookie is just the right texture for crunchy. I'd strongly recommend getting a handful and hiding the cookies from yourself. Otherwise, you'll end up with a plate of cookies, a glass of (soy) milk and a big smile on your face, feeling guilty about how you now need to exercise these things off.
+
+product/productId: B004JGQ15Y
+review/userId: AEL6CQNQXONBX
+review/profileName: Cute Chihuahua
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300924800
+review/summary: My favorite style of Oreo, I bet you can't just eat one!
+review/text: I have always liked Oreo cookies and I love chocolate and peanut butter. So I was excited to try this new style of Oreo that includes all three.<br /><br />These cookies are a bit more expensive than regular Oreo cookies and the package contains less as well. However I think these taste a lot better and are worth the extra cost.<br /><br />These aren't your typical Oreo cookies. They start with an Oreo cookie wafer, add some peanut butter filling and then dip it in chocolate. If you like chocolate and peanut butter then I think you will love these. I love the taste of normal Oreo cookies but I normally dip them in milk because they are rather dry. That is not the case with these cookies, they are moist and creamy. I have a weakness for chocolate and I find these addictive and difficult to stop eating them. I have also tried the <a href="http://www.amazon.com/gp/product/B004RGZN4Q">Oreo Mint Fudge Cremes, 11.3 oz. (Pack of 3)</a> and they are very good as well.
+
+product/productId: B004JGQ15Y
+review/userId: A29CK3R8EIDEJG
+review/profileName: JJ Stark
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1300838400
+review/summary: Very Sweet, Not Enough PButter
+review/text: I was expecting another flavor and recd these by mistake.  I don't think I would have made an effort to buy these, but since I received them I gave them a try.  I doubt I would ever purchase them.  They are very similar to the Girl Scout Peanut Butter Patties except they have a lot less peanut butter.  The fudge topping and cookie wafer crust are so sweet & rich, that when combined with the peanut butter, the cookie has an extremely sweet, sugary taste to it.  One cookie was more than enough (no way I could ever eat more than two at one sitting).  I think Oreo should stick to what they do best - chocolate cookies with creamy centers.  These just taste like imitations of other brands, and not very good ones at that.
+
+product/productId: B004JGQ15Y
+review/userId: A1ITRGMT80D5TK
+review/profileName: ThisThatNEverything "thisthatneverything"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1300838400
+review/summary: Pretty Good...
+review/text: Oreo makes these Fudge Cremes in a few different flavors.  Mint (which I loved), Regular, Golden Oreo and these Peanut Butter Creme ones.<br /><br />The Peanut Butter Creme Oreo Fudge Cremes are really good.  Take a chocolate oreo flavored wafer cookie and put a thin layer of peanut butter on it and then dip it in a yummy chocolate fudge.  That's what these cookies are.  They are a bit on the thin side but you can eat the serving size of 3 of them for 170 calories.<br /><br />I'm not a huge Oreo fan but I absolutely loved the Mint Fudge Cremes.  I'm a big fan of peanut butter and chocolate so I thought I would love these more but to me they aren't as flavorful as the Mint ones.  I wish the peanut butter flavor would've been a bit stronger than it is.  That's my only complaint.<br /><br />Overall these cookies are really good and I'd recommend them.
+
+product/productId: B004JGQ15Y
+review/userId: A22CW0ZHY3NJH8
+review/profileName: Noname
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1300838400
+review/summary: Not the best Oreo
+review/text: I like Oreos, but I didn't care for this incarnation.  The Peanut Butter Fudge Creme Oreo has only one very thin cookie, not the sandwich we associate with traditional Oreos.  On top of that is peanut butter and the whole thing is dipped in chocolate.  Peanut butter and chocolate usually blend well for me, but this was just too sweet and I needed more of that cookie bite.  I shared it with a large playgroup yesterday and got some positive comments but no wows.  My husband says he'll eat them if they're there, but he wouldn't go out of his way to buy them.
+
+product/productId: B004JGQ15Y
+review/userId: A2GHU8I0P3HFRW
+review/profileName: Wandrwoman "Wise as Aphrodite, Beautiful as A...
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1301961600
+review/summary: More Candy Than Cookie and Oh So Sweet!
+review/text: If these Oreo fudge coated, peanut butter cr&egrave;me cookies were a building they would be the Fontainebleau Hotel in Miami Beach. Ostentatious and overblown, they leave nothing to the imagination. The first taste is gooey chocolate, then rich peanut butter, a little crispy something and then just full-on sugar explosion.<br /><br />What happened to the good old Oreo? Did it really need improving?<br /><br />The original Oreo would be Thomas Jefferson's Monticello, rational and balanced with clear tastes of crispy chocolate wafers sandwiching sugar cr&egrave;me filling. A classic, Oreos are always appropriate, satisfying and never let you down.<br /><br />I ate two Fudge Peanut Butter Cr&egrave;me cookies and was overcome by intense sweetness and the slight headachy feel of a sugar rush. Three of these little things are 170 calories! Yuk! I quickly locked the package of cookies in the closet, afraid of easily losing a battle with sugar addiction.<br /><br />These cookies are mean beasts! Beware!<br /><br />PS. My family liked them a lot.
+
+product/productId: B004JGQ15Y
+review/userId: A2KVUYPLEW4LXT
+review/profileName: Strategos "The Guardian of Time"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1301702400
+review/summary: In Search of The Peanut Butter Oreo...
+review/text: I used to eat snack foods like this all the time, constantly trying new snacks that I would munch on whilst playing board games and watching sci-fi with my teen friends. Alas, I am almost 30 years old now, and I have...different sensibilities.<br /><br />Take half an Oreo, add peanut butter, dip in chocolate, and that's what this is. Does it taste good? Yes. If you like Oreos or just crave a novelty occasionally in your snack food this ought to do the trick. It tastes like a typical Nabisco chocolate-covered snack, but with a peanut butter taste that tastes a lot like a Butterfinger (alas, it does NOT taste like a Reese's).<br /><br />If you are even READING the nutritional information you are eating the wrong snack-food. This cookie contains RAPESEED oil (brain damage, loss of memory, headaches) CORN-SYRUP (diabetes, kidney problems), and enough artificial and highly processed things devised to be filler and poison your innards to probably get it banned in enlightened countries.<br /><br />If you eat this junk occasionally (as I do), and KNOW that eating it even in moderation is going to drastically shorten your lifespan, be my guest, it tastes great. I would mention however, that OBVIOUSLY you don't want to eat it on an empty stomach because...it isn't really food and will make you sick. Now and then won't kill you....immediately.<br /><br />The cookies get four stars for taste ect (not five because they still don't leave you feeling so hot afterwards unless you have like...one, due to all the garbage ingredients).<br /><br />The subtracted star is because in this day and age...Nabisco has no excuses not to TRY to eliminate at least THE MOST HARMFUL ingredients. Rapeseed. RAPESEED? REALLY? As a 12-year-old that stuff made me start to act like I had Alzheimer's. I wouldn't even THINK about feeding it to kids. And why can't they at least use real sugar and eliminate the toxic oils? Hey, it's their product and people still buy it, but when you can buy kettle-cooked Lay's and 7up has no artificial ingredients, there are no more excuses.<br /><br />As it is, I would buy these...just not often.
+
+product/productId: B004JGQ15Y
+review/userId: A3D5B2CBFNJB0K
+review/profileName: ut158
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1301356800
+review/summary: Taste is fine, mouth feel is gross
+review/text: I only ate a couple of these, but I didn't like how it left my mouth with a greasy feeling after eating it.  The taste was fine, but not something I would go to a great deal of effort to obtain.  I liked that there was only 1 cookie--the 2 cookie "classic" Oreo design is a little hard to eat without making lots of crumbs, but this was pretty much mess free.  The cream filling was spiked with peanut butter and the whole thing is dipped in chocolate.  DISCLAIMER: I'm not a big store-bought-cookie fan, so take my review for what it's worth.
+
+product/productId: B004JGQ15Y
+review/userId: A209D61DH0HZMA
+review/profileName: Agatha Kristy "&#8226;The secret of getting a...
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1301529600
+review/summary: waxy tasting
+review/text: My kids loved this cookie. It is a graham cracker covered in Oreo cream, peanut butter and chocolate. All aspects of this cookie are things that make most taste buds go yum! And it did for my kids, however I found the chocolate to be a bit waxy and not chocolaty enough for my taste buds.
+
+product/productId: B004JGQ15Y
+review/userId: A3MLKJ1HHA2SX0
+review/profileName: Robert L. Stinnett
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1301356800
+review/summary: Where's the Peanut Butter?
+review/text: I am a big peanut butter fan.  In fact, if I were ever deserted on a island I would want a couple of cases of peanut butter with me and I'd be content.  So when I saw these new peanut butter fudge cookies from Oreao my first thought was "The goodness of Oreos with peanut butter - score!"  However, my excitement was short-lived.  To put it nicely, any resemblance in taste between peanut butter and these cookies is purely coincidental.<br /><br />Don't get me wrong, they are decent cookies - I'd say they rank up there with generic grocery store brand cookies.  However, there isn't anything WOW about them - and there certainly isn't any of that peanut butter goodness.  In fact, there really wasn't any taste of Oreos either.  The fudge chocolate coating drowns out any taste of cookie that may be there.  The peanut butter filling is so thin, and so bland, it's really hard to tell it is even there.<br /><br />If you are looking for a peanut butter treat, steer clear of these guys.  If you want a cookie to give the kids or snack on then these are decent - but honestly, you could find much better and probably for a lower cost.
+
+product/productId: B004JGQ15Y
+review/userId: AUITG1DJ3QUGK
+review/profileName: E. Swope
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1301788800
+review/summary: Not just ":not healthy", genuinely harmful
+review/text: My original review for this product was deleted as it appeared under the wrong category due to having received the wrong product.  If I had seen the list of ingredients prior to ordering, I would not have (but understand that Amazon will be listing more nutritional information soon).<br /><br />To start, 2 cookies, less than one ounce contain 23% of the fat (max) recommended as the usrda, all of it saturated.  It contains hydrogenated fat (though stating 0 grams of trifat, it is higher on the list of ingredients than anything but sugars).  It also contains palm oil, once considered suitable only as lamp oil and now frequently used in cosmetics (but seldom in food).<br />I found some irony in the warning regards peanuts and wheat (the only real food in here) though I do understand that it is for people with allergies.  I do not understand how the comanpy: kraft/ nabisco can even sell these with the hydrogenated fat ban in NY and California.  Do they have a separate line which they produce for those states, or do they just not sell them there?<br /><br />This is a product which I would actually go out of my way to avoid.  it is not as though there are not other good cookies out there (and these were not that good... unless you really like overwhelming amounts of artifical fat and sugar).  Really they should add a he4art failure warning to the label in addition to the peanut & wheat warning, and maybe deny health insurance to people who eat these.  They are bad enough that they could be considered a pre-existing condition.<br /><br />It looks like Amazon may have stopped carrying these, in my opinion a wise choice.
+
+product/productId: B004JGQ15Y
+review/userId: A3TIL1PC2ZE97B
+review/profileName: J. M WILINSKY
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1301529600
+review/summary: Not fit to eat!
+review/text: I am outraged that in these hard economic times, companies think they can succeed by offering products that contain hydrogenated vegetable oil, as this one does. I will not eat products that contain such things. Companies that do this are the ones that should go bankrupt!
+
+product/productId: B004JGQ15Y
+review/userId: A30YCQ4MOZAI6Y
+review/profileName: Michelle R
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1301529600
+review/summary: No one in my household wants them.
+review/text: Three people in my household, two of them chocolate junkies, all three of us unimpressed and no one over a period of days wanted more than a couple, and these are tiny cookies. Comments include: "Blah," "bland," "Too much chocolate, not enough peanut butter," "You know I like a good cookie, but I don't want any more of those." My husband who maintains he literally needs sweets every night, and has eaten some pretty dubious desserts out of the belief that if it's sweet then it's better than nothing, has stated he won't eat these. I just put them in a big baggie and told him to take them to work and let his co-workers finish them.<br /><br />I tasted them a couple days ago and felt I needed to try them again a little while before reviewing and there was no real pleasure to it. They were neither revolting nor delicious. I can't call them three stars because that would indicate okay, and since no one in my household wants to eat them and we all spent time trying to pin down why no one likes them, I think three would be too high. Three, to me, would be: "I'm not crazy about these, but I'll eat them, just not gobble them down," but the reaction is more a universal, "I won't eat those." Therefore, I have to call them 2 stars, maybe 2 1/4.
+
+product/productId: B004JGQ15Y
+review/userId: A3QVAKVRAH657N
+review/profileName: Orrin C. Judd "brothersjudddotcom"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1301356800
+review/summary: The peanut butter version of thin mints
+review/text: The product retains the chocolate wafer of an Oreo cookie, but other than that hasn't much to do with the original.  It's better thought of as a peanut butter version of the classic thin mint and just as good.
+
+product/productId: B004JGQ15Y
+review/userId: A1C139F5C7Y38P
+review/profileName: The Matrix Fan "Video Gamer since 1979."
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1301270400
+review/summary: Oreo's answer to the Girl Scout Tagalong.
+review/text: <span class="tiny"> Length:: 3:43 Mins<br /><br /></span>There's nothing quite like a glass of milk and an Oreo cookie.<br /><br />Enjoy!
+
+product/productId: B004JGQ15Y
+review/userId: AFM7DWQ762149
+review/profileName: S. Hughes "s_hughes"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1302048000
+review/summary: Think nutter butter with less cookie and covered in chocolate
+review/text: I have to say, when I first saw the package, I cringed a little. These didn't look too tasty, and I expected them to be overly sweet. I opened the package to find the chocolate a little melted, which made me even more hesitant.<br /><br />When I popped one in my mouth, I was very pleasantly surprised. There's a lot of peanut butter in this cookie - a perfect amount in my opinion. The chocolate coating isn't overwhelming, and there's just enough cookie to give it some texture. They're not as sweet as I expected, but still pretty sweet, and they're pretty filling. They taste nothing like Oreos, so don't expect an Oreo sandwich with peanut butter instead of creme. The best way to describe them is like a Nutter Butter with less cookie and covered in chocolate. If you like crunchy with creamy, chocolate, and peanut butter, you'll likely enjoy these.
+
+product/productId: B004JGQ15Y
+review/userId: A2KQT4D0OZR569
+review/profileName: L. Staley
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1301616000
+review/summary: The chocolate and the peanut butter don't mesh.
+review/text: I decided to try these because I love, love, love the original, regular Oreo cremes. These are essentially the same cookie with peanut butter cream instead of the regular cream. However, I did not like the taste of these. The chocolate and peanut butter don't really mesh well together. I thought the peanut butter overpowered the chocolate. And, I didn't really like the taste of the peanut butter. It just didn't have a good taste.
+
+product/productId: B004JGQ15Y
+review/userId: A36K2N527TXXJN
+review/profileName: Dr. Bojan Tunguz
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301616000
+review/summary: Good, but not as good as you might think from the description
+review/text: I like <a href="http://www.amazon.com/gp/product/B000LUC9DK">Oreos</a>. OK, I love Oreos. I am one of those people who need to hide them from myself because it is way too easy to go through a whole bunch of them before I realize that I've just surpassed my weekly caloric intake. I also love peanut butter, and am definitely not impartial towards fudge. So when I read the ingredients of these little cookies I was really excited. When I got my package in the mail form Amazon, I couldn't wait to try them. Overall, I like the way they taste, but they didn't live up to my expectations.<br /><br />The cookies are much thinner than the regular Oreos. They are essentially "half of an Oreo" covered with fudge, although the crispy part may be even thinner than that. The peanut-butter cr&egrave;me filling is tasty, but it doesn't have as much of the peanut-butter flavor as I had expected. It is certainly not on par with <a href="http://www.amazon.com/gp/product/B001GVIRYI">Reese's Peanut Butter Cups</a>. The fudge covering is very tasty as well, but again nothing spectacular.<br /><br />When it comes to nutritional content, these cookies are definitely inferior to the regular Oreos. They contain 9 g of fat, 4.5 g of saturated fat, and 17 g of sugar as opposed to 7 g, 2 g, and 14 g respectively in regular Oreos.<br /><br />These cookies are very tasty, but not as tasty as you would have suspected based on the list of ingredients. I certainly prefer the regular Oreos taste, and when it comes to similar fudge-covered cookies I think they are better alternatives out there.
+
+product/productId: B004JGQ15Y
+review/userId: A3OC42X7H74D1Y
+review/profileName: J. Friedman "J-F"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301616000
+review/summary: Suprisingly good but bet you can't eat just one!
+review/text: My wife and I were shopping in our favorite supermarket last week, and we found ourselves strolling down an aisle we usually avoid: the packaged-cookie aisle. (No way you can avoid all the fresh stuff in the bakery section, which is always conveniently placed in one of the first walk-through areas when you get in the store!) I pointed out all the space being taken up by all different varieties of Oreo cookies. We grew up knowing just one Oreo, the original, but we were aware that new varieties had come to market because our kids sometimes asked for them when they were growing up: double-stuff, especially.<br /><br />The next day I was here on Amazon and saw the opportunity to try this new variety, the Oreo Fudge Cremes, Peanut Butter creme style, and I just had to have it. It got here quickly, and I just couldn't wait to have a good old Oreo snack. I ripped open the pinched end of the outside wrap, pulled out the tray, and saw chocolate. Nice milk chocolate coating. I popped one of these new Oreos in my mouth and was very pleasantly surprised. I don't usually love peanut butter in anything except sandwiches--not even in Reece's Peanut Butter Cups or even Reece's Pieces--but this was a very delicate peanut flavor with a good amount of milk chocolate around it and, of course, one thin Oreo wafer to give it the crunch (and the justification to label it an Oreo brand!).<br /><br />Hmm. Mmm. I popped another. Then another. And another. I had to reach into the bag, because the cookies were in a plastic rack to keep them in place, or so they wouldn't melt into each other in transit, but the bag is a bit oversized for the tray and so many of the cookies flipped over and back further into the bag. (Wait, more on this later.)<br /><br />Anyway, four quick cookies, small and light, but tasty. Just over 200 calories--not so great for people watching their weight. But tasty.<br /><br />I worked through the bag over the next few days, always having to reach in over the rack to get to the cookies piled up in the back, but then yesterday I suddenly realized that there was a lift-back, "easy open pull tab" right across the top of the package that exposed the whole tray and that you could easily bring back down to seal the package with a lightly glued seal--very lightly, I might add. Think Post-It Note kind of stickiness. But very convenient and good thinking!!<br /><br />Duh!<br /><br />I peeled it back, and it works great to allow easy access to the cookies wherever they happen to have fallen inside the tray/wrapper.<br /><br />I recommend these for a convenient taste treat, but be aware that they pack a lot of calories and saturated fat.<br /><br />Serving size: 3 cookies (each a fairly small coated wafer)<br />Per serving:<br />170 calories<br />9g total fat, of which:<br />4.5 g saturated<br />1 g polyunsaturated<br />2.5 g monounsaturated<br />100mg sodium<br /><br />Have a couple, but then lock them up for at least 24 hours and then dip in again!
+
+product/productId: B004JGQ15Y
+review/userId: A26U7D0N4PCTNT
+review/profileName: Shane Tiernan
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301529600
+review/summary: A melted mass of mouth-watering munchies
+review/text: Let me start this by saying I live in Florida.<br /><br />So when I joyfully opened my OPBFCs I was greatly disappointed to find them melted and tossed about in their package like some kind of fudgey massacre had taken place in transit.<br /><br />In an effort to save my demolished delicacies I hurriedly rushed them to the refrigerator where they sat, for the most part untouched, for a number of hours. Hoping against hope that my tortured treats might recover some semblance of edibility I opened the package once again.<br /><br />Too my horror, what had previously been cookies had coalesced into a semi-anthropomorphic mass of cold-hardened fudge.<br /><br />But that didn't stop me from eating the entire package in 2 or 3 days. Good stuff. If you've ever tried peanut butter twix then you know what these taste like.
+
+product/productId: B004JGQ15Y
+review/userId: A1FDV3WPOHREY9
+review/profileName: C. Scanlon "least helpful reviewer"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301529600
+review/summary: OREO NOT JUST FOR SPLITTING AND FUSING WHITE CREMEY FILLING ANYMORE
+review/text: now in peanut butter.<br /><br />Ok. So I admit it. I submitted this package to an elite board of taste testing, not my own taste buds. I am far beyond the age of reason.<br /><br />The Board gave her approval, and how!<br /><br />Oreo. Not just melt in your mouth white filling anymore. Not even the monster super-thick filling variation anymore. Now, in peanut butter fudge.<br /><br />Can you really keep your hands off of these?<br /><br />Get a bag, and see!<br /><br />Passed the board.
+
+product/productId: B004JGQ15Y
+review/userId: A3EPHBMU07LZ50
+review/profileName: Penmouse
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301529600
+review/summary: Peanut butter and chocolate oh my!
+review/text: What can be wrong with a peanut butter and chocolate cookie? Nothing. The Oreo cookies are much like their mint flavored cousins except your taste buds will be enjoying a yummy peanut butter filling. The cookies will remind you of a favorite candy made famous for the peanut butter chocolate flavor or perhaps a chocolatized version of a famous girl's organization cookie. Either way you will find these cookies absolutely delightful in taste, especially when washed down with a tall glass of cold milk.<br /><br />THIS REVIEW WAS WRITTEN AS PART OF THE VINE PROGRAM. I RECEIVED A FREE BOX OF COOKIES TO TASTE AND REVIEW.
+
+product/productId: B004JGQ15Y
+review/userId: A3Z9QN0RCOHEY
+review/profileName: Bibliophile By the Sea
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301529600
+review/summary: Mixed Opinions Here
+review/text: Our fudge covered, peanut butter Oreo cookies arrived today so we were eager to crack open the package.<br /><br />My husband LOVED them, and said that they reminded him or Reese peanut butter cups. I, on the other hand, thought they were just okay; (2) were perfect (3) were too too sweet for me. I disagreed with my husband, and felt that there was no comparison to Reeses Peanut Butter cups, which we both love. Too sweet for my taste, and (3) cookies were 170 calories (and they are very thin; about the thickness of the Girl Scout Thin Mint cookie). Personally, I would not buy these in the future.<br /><br />My rating 3 stars; Husband's rating 5 stars, so we gave the product a 4 star rating.
+
+product/productId: B004JGQ15Y
+review/userId: A3GFK7F5IUF60X
+review/profileName: Myra Schjelderup "Ignolopi"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301529600
+review/summary: Peanut Butter Fudgy Goodness
+review/text: This cookie is basically a single Oreo wafer topped with a thin layer of peanut butter creme and dipped in fudge. Not your typical Oreo, but a good idea!<br /><br />The entire thing is thinner than the original Oreo cookie and a little chocolatier. My little sister is an Oreo fanatic and I am the type of person who likes the Oreo flavor, but not the cookies by themselves. We both agreed that these cookies were a good addition to the Oreo family. I personally thought that the peanut flavor was a little bit strong, but I tend to prefer a weaker peanut flavor.<br /><br />I really like the design for these cookies and am looking forward to trying the Mint version!
+
+product/productId: B004JGQ15Y
+review/userId: A3OO4WIO4SKD55
+review/profileName: I'm hungry. feed me
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1301529600
+review/summary: They taste like Diet Girl Scout Tagalongs but sweeter
+review/text: When I saw these Golden Fudge Creme Peanut Butter oreos, I was very glad to try them.<br /><br />Sadly, I can't say they were that good. Don't get me wrong, they weren't terrible but They basically tasted like n over-sweetened Girl Scout Tagalongs with a diet soda/aspartame after taste<br /><br />And When I read the nutrition facts, I see why they taste so swet. 3 cookies have 170 calories. That's 56 and 1/3rds calorie per cookie.<br /><br />The Fudge part was fine. It's just the peanut butter. That's where the bitter aftertaste comes from because I tasted it in the original original Oreo peanut butter (Double stuff) many years ago. I could swear a few years ago those came out as 'new and improved'.<br /><br />just stick to nutter butters. If you want fudge, just dip them in a fudge ice cream topping sauce. at least you won't get the after taste.<br /><br />These would probably be much better with different peanut butter
+
+product/productId: B004JGQ15Y
+review/userId: A39H1GO9E3YQIB
+review/profileName: a
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1301529600
+review/summary: A delicious, but messy, snack
+review/text: There is no denying that these cookies are delicious, incredibly rich, and wonderfully creamy.  That said, they taste more like Girl Scout Cookies, specifically Tagalongs for the peanut butter flavor I received, more than Oreo cookies.  This is not a criticism, and I suspect that this peanut butter flavor will help satisfy yearround cravings for Girl Scout Cookie fans.<br /><br />On the downside, they are higher in both calories and fat than regular Oreos, and an entire bag could easily blow someone's diet.  There are 4.5 grams of saturated fat for just three cookies, but fortunately, due to the richness of the product, the recommended serving size of three cookies feels just about right.  Any more would be chocolate overload, at least for me.  Secondly, they are very messy.  Each cookie comes in its own slot in a plastic tray larger than regular Oreo bags, but if left at room temperature more than an hour or so, the fudge coating starts to melt a little.  Prepare for very sticky fingers, and you'd best have some napkins around!
+
+product/productId: B004JGQ15Y
+review/userId: AKT8TGIT6VVZ5
+review/profileName: John Kwok
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1301011200
+review/summary: An interesting take on Oreo Cookies
+review/text: I've always been a fan of Oreo cookies and these new Fudge Cremes are intriguing updates on an old classic. However, having peanut butter mixed with Oreo cookie crusts and drenched in milk chocolate isn't quite what I had hoped when I tried these. The peanut butter flavor tends to be so overwhelming that I thought I was eating a Reese's Peanut Butter Cup, not an Oreo cookie. I wished that Oreo had created a cookie with more of a chocolate flavor than what I tasted. However, this is just my conceit and others may believe, with ample passion, that Oreo has stumbled upon a winning combination. Unfortunately, I am not one of these.
+
+product/productId: B004JGQ15Y
+review/userId: ALDAF4VVLFRHP
+review/profileName: Patricia L. Brouillette
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1300838400
+review/summary: Very enjoyable
+review/text: Both my 4 1/2 year daughter and I really enjoyed these cookies. I love the combination of chocolate and peanut butter. You are not dominated by one or the other. I think they are the perfect match.<br /><br />My daughter really enjoyed them, she keep asking for more.
+
+product/productId: B004JGQ15Y
+review/userId: A3UJRNI8UR4871
+review/profileName: Wulfstan "wulfstan"
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1301356800
+review/summary: Not bad, but not what I expected
+review/text: I had thought these were going to be the Golden Oreo version, but I got the Peanut Butter Version. Oddly, although I love chocolate and I love peanut butter, I don't much care for the combo in one product. So, perhaps I wasn't the best judge. Anyway, I tried them myself and had a number of friends, at least one of whom is a chocolate professional try these.<br /><br />The overall verdict is= not bad at all. Several mentioned they were quite a bit like a product sold by a certain non-profit org around this time of year. So, if you really like those, and want them year around, this seems to be a excellent choice.<br /><br />If you do like the combo of chocolate & peanut butter, you should give these a try. Myself, I am going to try to find the Golden Oreo version. I used to love the Mint version of these.
+
+product/productId: B004JGQ15Y
+review/userId: A2RVD8SJRFM5HZ
+review/profileName: L. M. Jones
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1331596800
+review/summary: Pretty good!
+review/text: I was in the mood for a peanut butter and chocolate treat, but not a peanut butter cup. Being hungry for sweets, I hurried in the store and down the cookie aisle and noticed "New" Oreo Peanut Butter Fudge Cremes; just what the doctored ordered!  When arriving home, I tore into the package and tried a couple and, to my surprise, they were quite good!  They kind of remind me of the Girl Scout Peanut Butter Tagalongs. When first biting into the cookie, there is a very sweet peanut butter taste and then the chocolate seems to over-power it is some.  More peanut butter taste would be nice, but they did the trick for my sweet tooth.  A friend of mine tried one and didn't really care for the cookie, but we all have different taste.  :)
+
+product/productId: B004JGQ15Y
+review/userId: A3HREGZ51J1Q9J
+review/profileName: Sharon Michaels "SharonMichaels"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1307577600
+review/summary: What a treat!
+review/text: What a treat! It's like eating candy, peanut butter and an Oreo cookie all rolled into one.<br /><br />They are the same Oreo cookie bottom but with creamy rich peanut butter in the middle and a great tasting chocolate covering. It's amost a "candy" instead of a cookie.<br /><br />I'm very impressed with the favor of the milk chocolate. I love my chocolate and feel I know good tasting chocolate. Some chocolate leaves an almost bitter after-taste - this is a sweet pleasant taste that has you reaching for the next cookie.<br /><br />If you are looking for a treat that will satisfy your craving for a piece of candy combined with a good peanut butter cookie - put the Peanut Butter Oreo Fudge Creme Cookie on your grocery list.<br /><br />A caveat: You must like peanut butter.
+
+product/productId: B004JGQ15Y
+review/userId: A37RIRXE3WECZ
+review/profileName: April Blake
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1304985600
+review/summary: All Sugared Up With Noplace To Go
+review/text: I tried the Peanut Butter variety of Oreo Fudge Cremes, and they are definitely delicious- and RICH! When I first opened the pack, I was a little disappointed by what looked like a very meager number of cookies in the 11.3-ounce package.  The recommended serving size is 3 cookies.  Now, with a regular Oreo, I laugh at the regular serving size and proceed to obliterate an entire package in one or two sittings sometimes.  So I was ready to yell "What a rip-off, Oreo!" and be done with it.<br /><br />Then I tried a cookie.  I expected the fudge on the outside to be a little waxy and not very flavorful.  That's not the case with the Oreo Fudge Creme.  That fudge flavor was almost overpowering as I popped the whole cookie in my mouth - they're small enough to do that!  Then came the crunch of the thin Oreo, and the distinctive Oreo creme texture but VERY potent peanut butter flavor of the filling.  Imagine a piece of peanut butter creme pie with an Oreo crust exploding in your mouth, and that's close to the experience of these cookies.<br /><br />Back to my initial impression that Oreo's ripping us all off, putting so few of these cookies in a package.  People, it's a public service that they don't put more in.  At first I'd scoffed at the serving size, and while I had to try two of these cookies in pretty rapid succession (a conditioned response to an open package that says "Oreo" on it), I admit as I ate the third, I was slowed down considerably, more to a civilized three-bite per cookie pace.  That's when the richness and sugariness of the first two started hitting me.  I poured a glass of milk and enjoyed the rest of the third cookie, and had a fourth out of obligation to the remainder of my milk, and have decided that's the way to enjoy the Fudge Cremes- at least the Peanut Butter flavor- with a glass of milk.  I'd still rather have a package of original Oreo Cookies, or Double-Stufs, but I do like that the Peanut Butter Oreo Fudge Cremes encourage drinking a glass of milk, and I do think that three of them is quite a generous serving if you're enjoying a glass of milk and taking the time to enjoy each bite, instead of wolfing down a handful.  They're a fun treat I think even Cookie Monster would approve of... in moderation.
+
+product/productId: B004JGQ15Y
+review/userId: AXAJXJZUL2J5P
+review/profileName: D. Scott
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1303689600
+review/summary: Greasy and disappointing
+review/text: Note:  I received my package of Oreo Peanut Butter Fudge Creme cookies for free as part of Amazon's Vine program.<br /><br />The cookie portion is thinner and more delicate than a regular Oreo, and it is only on the bottom (it's not a sandwich cookie).  On top of that, there is a surprisingly skimpy layer of peanut butter-flavored "cr&egrave;me" (much thinner than it appears in the picture on the package), then the whole thing is covered with "fudge."  I'm not a fan of Oreos, and I like these even less, though these are really nothing like an Oreo.  The filling is much creamier than Oreo filling, which sounds good, but it's not.  The texture is reminiscent of a mouthful of grease.  The "fudge," too, has a soft, greasy feel.  Don't get these for eating in the car . . . they melt quickly on your fingers.<br /><br />I'm a cookie (and candy) hound, so a product has to be pretty bad for me to not like it.  I didn't dislike these enough to not eat them (being a hound and all that), but I'd never buy them or accept an offer of one again (and that's saying a lot).  However, a lot of people seem to like these, so if my description didn't put you off, you might be one of them.
+
+product/productId: B004JGQ15Y
+review/userId: AYNAH993VDECT
+review/profileName: bsg2004
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1303344000
+review/summary: Lots of calories and sweetness (not a proper Oreo)
+review/text: As you can expect when eating an Oreo Peanut Butter Fudge Cr&egrave;me, you get lots and lots of calories per bite, and you get a lot of sweetness. Great if you have a sweet tooth, but unless you have an iron will or a timer-controlled food dispenser, it is hard to eat just one cookie at a time. There is peanut butter in the taste, and chocolate too, which is what they promised.<br /><br />On the other hand, if you are an Oreo purist, this is not a "proper" Oreo cookie! It's like Oreo - the Next Generation :)
+
+product/productId: B004JGQ15Y
+review/userId: A2LXX47A0KMJVX
+review/profileName: M. Erb
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1302912000
+review/summary: Tasty little cookie
+review/text: This is a review for the Peanut Butter Creme, Oreo Fudge Cremes, Fudge Covered Chocolate Cookies.<br /><br />New from Nabisco is this peanut better creme, fudge covered chocolate cookie. Otherwise know as Oreo Fudge Cremes, this is a tasty little cookie with what I would describe as a mild peanut butter creme. The peanut butter taste was not overwhelming and the combination of crunchy oreo bottom along with the soft creme and fudge resulted in nice sensation in the mouth.<br /><br />They go down real easy and before you know it, you've eaten more than you probably should have. Oh well, the perils of cookies.<br /><br />I like the easy-open package. It is easy to keep the cookies sealed when you're done munching.<br /><br />I'd buy these again but I'd shop around as you can find these cheaper elsewhere.
+
+product/productId: B004JGQ15Y
+review/userId: A2ECTCPBTOGW4H
+review/profileName: A.C.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302825600
+review/summary: Peanut Butter Lovers--This Cookie is for You!
+review/text: Don't expect an oreo covered in chocolate--<br />This is a different cookie altogether. It consists of a thin chocolate wafer topped with a layer of creamy peanut butter. Then the whole cookie is covered in a layer of chocolate fudge.<br /><br />I enjoyed the cookie. Even though it was rich and delicious, the cookie itself seemed like a lighter snack than the typical heavy Oreo sandwich cookie. (Plus not as crumbly). It had the perfect combination of softness and crunch. The taste was similar to a peanut butter cup candy with an added crunch.<br />Next time I'll try the Mint Fudge Creme. It sounds divine!<br /><br />These are great for an indoor snack; however, I'd be cautious taking them to an outdoor picnic. I haven't tried it, but they may just turn into a melted mess!<br /><br />When I opened the box, a few of the cookies had shifted and broken in transit, but it was just a few in the middle row. Not enough to bother me, but just be aware of this when ordering online.
+
+product/productId: B004JGQ15Y
+review/userId: A73DFWJE0CGY6
+review/profileName: Flight Risk (The Gypsy Moth) "Exiled Yankee"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1302652800
+review/summary: "It isn't an Oreo."
+review/text: The quote is from a friend, who while saying this, still ate several in quick succession.<br /><br />I started the bag going before taking the rest to work (I don't need a lot of cookies sitting around in the house). Upon getting them to work, I told everyone they had to give me an honest assessment if they ate one. The consensus was:<br /><br />"Excellent!"  "Mmmm, Girl Scout cookies."  "Can I have more?"<br /><br />The final word on them came the next morning, when one of my co-workers came in, made a beeline for where the cookies had been the night before, and expressed much regret upon finding they had been completely consumed.<br /><br />I will try the fudge-covered Oreos next. The peanut-butter Oreos were universally enjoyed, and are tasty and addictive. Four-star; I'm glad I brought them to work to spread the calories.
+
+product/productId: B004JGQ15Y
+review/userId: A1Z0LTKUA6F94D
+review/profileName: J. Miller "smurfybabe"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1302480000
+review/summary: Not enough oreo!
+review/text: At first taste they remind me of the Girl Scout peanut butter cookies, Tagalongs I think they're called.  They have a sort of fakey peanut butter taste and the Oreo is so thin that you can't really taste it at all.  Maybe if it had two oreos with the PB in the middle it might have been better, but it just really didn't grab me.  If you want chocolate and PB there are better options and if you want Oreos, just go with the orignal (or double stuffed which are my fav!) because you won't get much Oreo taste here.
+
+product/productId: B004JGQ15Y
+review/userId: A2HTPS0JV3Q8ZD
+review/profileName: Michael D. Briggs "Dark_Psion"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1302307200
+review/summary: Different but not as good as just-plain Oreoes
+review/text: These are a variation of the basic Oreo cookie, basically they are a single cookie with peanut butter creme and then covered in chocolate. While I love the easy open package that can be resealed to keep them fresh, these cookies are in a different type of tray than the basic Oreo that keeps each cookie separate. As such there are fewer cookies than you would expect in the package.<br /><br />As to the taste, I would say the chocolate and peanut butter overwhelm the Oreo cookie. I still like them, but when you are buying Oreos, you should be able to taste the Oreo cookie.<br /><br />Also, they don't ship to well. Mine were almost all out of their tray slots and several were broken.
+
+product/productId: B004JGQ15Y
+review/userId: A34W7QA4J5UTOR
+review/profileName: K. Hill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302220800
+review/summary: Surprisingly Good
+review/text: These were surprisingly good. I don't usually like fudge or chocolate Oreo cookies. And I definitely don't care for peanut butter in my desserts. These didn't have a strong peanut butter flavor though. The Oreo cookie on the bottom was very thin and crispy. I really liked them. My only complaint is that the cookies are the same color as the tray they come in. I almost threw away a cookie because I couldn't see it the package. And as good as these are, that would have been a crime.<br /><br />No stars deduced for fat, calories, etc. They're cookies. It's expected.
+
+product/productId: B004JGQ15Y
+review/userId: AHFGCH8LANEZK
+review/profileName: Dana G.
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1302048000
+review/summary: Tasty, but probably not something to order via Amazon
+review/text: I received a box with a package of these tasty Oreos - they are chocolate-like coated, with a peanut butter creme filling, and the usual Oreo cookie for the bottom. When I pulled the package of Oreos out of the box, it looked strange. Unfortunately through delivery, sitting in a hot UPS truck/ other, these things melt and change position in their little plastic slots. I immediately put the Oreos in the refrigerator, just on a hunch. It's not even hot yet here in South Texas, it was maybe 80 degrees yesterday. After these cookies had been in the fridge for a few hours, I pulled back the front of the package and saw what happened to my treats! All of them were melted and stuck to other cookies, etc., it was a mess. I shudder to think of what these cookies would look like if it were the usual temperature around here.<br /><br />As far as how these cookies taste, yes they are yummy. They are also very messy, even if they weren't all melted and re-solidified.  I am not a huge fan of Black Oreo crumbs all over my flooring.  I felt like I had eaten something similar to it before, but still can't quite put my finger on it. These things are way too easy to eat, kinda like Girl Scout Thin Mints. Before you know it, half the package will be gone. Definitely not good at this time of year if you are trying to figure out how to shed some of those extra winter pounds.<br /><br />I stopped by Walmart today and saw these very cookies on the shelf there for under $3. My advice has to be to get them at a brick & mortar store if you want your cookies to be in any kind of condition to eat.
+
+product/productId: B004JGQ15Y
+review/userId: AAPPWNP9FWVWS
+review/profileName: Kathlyn Storey "Kathlyn A Storey"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302048000
+review/summary: Oreo has outdone itself
+review/text: First, if you don't like chocolate and peanut butter, just stop reading right here. Second, there are cookies, and then there are Cookies. There are three layers: the bottom is the chocolate cookie that defines Oreo, the middle is a creamy peanut butter, and the top is creamy chocolate, with the entire cookie being covered in chocolate. This cookie blurs the line between cookies and candy. Oreo has done a great job of balancing the chocolate and peanut butter tastes, somewhat reminiscent of Reese's Peanut Butter Cups.<br /><br />They are about 55 calories each. My husband and I have been trying to lose weight but not give up everything good tasting in the process. He is addicted to a late evening snack after dinner; after 20 years, I've given up on trying to break this habit. What I have done is replace the ice cream or pie with two of these cookies and half of a sliced granny apple. He's going for it. Also, I never thought I would ever say that I would offer an Oreo cookie to company; these cookies are that good.<br /><br />Cost wise, it works out to about $4.77 a package on Amazon, including the super saver shipping option. In my opinion, they are worth it but frankly, I'm going to look for them in the grocery store and update this review later.
+
+product/productId: B004JGQ15Y
+review/userId: A1YAGM2QOSAAOT
+review/profileName: Personal Robot
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301961600
+review/summary: Another Girl Scouts rip-off? But delicious!
+review/text: Just like the Mint Fudge Creme Oreos are a doppelganger for the much-loved mint Girl Scout cookies, so too are these peanut-butter variants.  And, like those mint versions, they are excellent, if small.  Soft chocolate coats a small portion of peanut butter and a very crunchy cookie reminiscent of the original Oreo but obviously thinner and lighter.  If you are like me, you will eat too many too quickly.  It is far too easy to overindulge with these.<br /><br />The only real disappointments here comes only in that these cookies are *small* for the current Amazon price - very thin and not very large in diameter for something that costs so relatively much - and the fudge is so soft that they had to be kept in the fridge at our house lest they melt right onto your fingers, making for a tremendous mess.  Upside: they are excellent cold.
+
+product/productId: B004JGQ15Y
+review/userId: A1MCH5RXDOH87H
+review/profileName: Keith Blodgett "Hawk"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301961600
+review/summary: Consider your shipping location carefully!
+review/text: These cookies are pretty good. A little too sweet and I'd have liked a bit more actual peanut butter taste. The cookie part was nicely crisp and crunchy and the chocolate was flavored well.<br /><br />My main concern is melting during shipment. I received these cookies in Central Florida via US Postal mail at the end of March. The package was brought to the door so it spent no time heating in the mailbox. Just the few days in transit caused every single cookie to melt to some degree and stick quite badly in the plastic dividers they rest in. It took several hours in the 'fridge to cool them down and even then a not insignificant portion of the chocolate coating was left behind on the packaging.<br /><br />I would hate to see what these would have looked like or the mess that they would have made in July or August. I like these cookies and will probably buy them again but I'll do so at the local grocery store. Think before you order. Chocolate melts!
+
+product/productId: B004JGQ15Y
+review/userId: A19XE6G6NDZFPS
+review/profileName: Joanna Mechlinski
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301961600
+review/summary: Super!
+review/text: If you're a fan of chocolate and peanut butter, you'll love these cookies! They have just the right blend of both, and go super with milk or coffee.<br /><br />I took some in my lunchbag to work, and they accidentally became a little melty. No problem - it's possible they taste even better this way.<br /><br />One thing, however, is that they may be a little rich for some people. This, of course, depends on your individual palate.
+
+product/productId: B004JGQ15Y
+review/userId: A8KJS2P6E5DCB
+review/profileName: T. Distaso
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301875200
+review/summary: A big hit with the kids
+review/text: We received the chocolate version with the Peanut butter creme.<br />my older 2 kids really enjoyed these. The 3 year old not as much but he does not eat much peanut butter.<br />I also thought these were a nice chocolatey snack. The peanut butter creme filling had a nice light flavor that complimented the chocolate well.<br />The cookie crunch inside was also a mix. Overall definately a treat the kids will want to have again.
+
+product/productId: B004JGQ15Y
+review/userId: A3A4ZAIBQWKOZS
+review/profileName: Stephen M. Lerch
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301875200
+review/summary: Good, not great.
+review/text: Disclaimer: I received these cookies as part of Amazon Vine, which means I received them for free. I review everything I receive through Amazon Vine as if I actually paid for them.<br /><br />These cookies just arrived at my doorstep, so let's start there. Once I opened the box, which was well packed as is typical for Amazon, I opened the package of cookies. As other reviewers have stated, I don't believe even 1/3 of the cookies were still in their individual slots. To give an idea of what this looks like, the package is the typical Oreo style "peel to open" package. Inside is a tray that has slots in it in which to hold the cookies. Have you ever heard the saying "some settling may occur during shipping?" Well, in this case it was a LOT of settling. Had I received a four pack perhaps they would have been in better condition? I don't know.<br /><br />As for the cookie, it is a thin Oreo chocolate cookie wafer, much thinner than a typical Oreo cookie wafer (one side of an Oreo I mean), covered in rich chocolate. Between the chocolate layer and the wafer is a small smudge of peanut butter.<br /><br />My first idea was dipping. I am one of those people that likes Oreos, but only if they are dipped in milk. Given the Oreo wafer is encased in chocolate, none of the milk would get to the wafer, so dipping it would have proven pointless. Instead I started chewing one of the cookies and drank a little milk. That didn't really do much either as it seems the cookie is immune to milk. The flavor of the cookie was pretty much the same, whether in a mouthful of milk or not.<br /><br />The flavor itself is over powered by the chocolate coating. The flavor of the wafer, let alone the peanut butter, was all but blotted out by the chocolate. You could taste hints of the wafer and the peanut butter, but over all the impression was one of chocolate with a little distraction included.<br /><br />I don't know. The cookies aren't bad, but at the end of the day, if given the option between one of the Oreo Fudge Creme cookies and say, a standard Oreo, so long as milk was an option, I'd take the Oreo in an instant.<br /><br />3 stars because quite simply there are many, many other cookies I would rather have than one of these. And I won't be spending my own money to purchase a package of these cookies, so that probably says something as well.
+
+product/productId: B004JGQ15Y
+review/userId: A1BXVZSQOJE6UE
+review/profileName: Ctwink
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301875200
+review/summary: Awesome cookie, but could have been much better
+review/text: Unfortunately a previous reviewer stole my thunder, but the Oreo Peanut Butter Fudge Creme is basically a knockoff on the Girl Scouts' "Tagalongs" since both have a hard cookie base and peanut butter center, all dipped in fudge.<br /><br />When you have perfection, a copy usually pales in comparison and Oreo's Peanut Butter Fudge Creme does pale in comparison to the Tagalong - namely they skimped on the peanut butter. Also I think they'd taste even better if they had had a double layer of cookie - rather than just the single. Both together leave the cookie rather thin - thinner than your standard Oreo cookie and obviously much thinner than the fat, double-stuffed, variety. Also the packaging does not include very many cookies. Open it up and there are 5 rows of seven cookies with packaging making up maybe 50% of the area - very unlike your typical Oreo package where you have wall to wall cookies. I know that prices are going up and manufacturers are cutting portions in order to keep prices down, but this seems like a colossal waste to have this huge package and only 35 cookies... I'd also like to say that they are cheaper than Tagalongs, but at $8.66 a package (at Amazon's market price of 3 for $25.99) these are pretty expensive as well.<br /><br />That said, knockoffs are not always bad, as my wife and I basically ate the entire bag in one sitting. However, as an honest reviewer, I had to weigh the positive with the negative and when you are left wondering about "What If's", then it can't be 5-stars. Still pretty darn good...
+
+product/productId: B004JGQ15Y
+review/userId: ADFLPF6FI3W0O
+review/profileName: ASP
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301788800
+review/summary: Didn't think I was eating an Oreo
+review/text: These barely taste like Oreos.  The peanut butter didn't taste very good.  The Oreo part of the cookie is a thin wafer, probably about a little less than half the thickness of a regular Oreo wafer. It should really be the same thickness as an Oreo cookie so the peanut butter and chocolate is not overbearing.  The chocolate tastes good.<br />The serving size of 3 cookies is about 25% of saturated fat. All that for 3 mediocre cookies is not worth it.  The cookies are individually held in the dispenser, and there's 28 cookies total. Rating: 3 out of 5.
+
+product/productId: B004JGQ15Y
+review/userId: A1XDMYX8QOW07N
+review/profileName: Geoffrey Kleinman
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301788800
+review/summary: Yes But Is It Still An Oreo?
+review/text: Oreo Peanut Butter Fuge is a nice little snack cookie very reminiscent to Girl Scout Cookies. They take one side of a traditional Oreo, add peanut butter and then coat in chocolate.  The result is tasty and less filling than a standard oreo. But as I ate them I had to ask "Is This Still an Oreo".  In a world of brand extension, I understand why Oreo wants to have a wide variety of products and options. But to me an Oreo is iconic. It's two dark chocolate cookies with a creamy center.<br /><br />Had they stuck to this formula, changed out the cream center for peanut butter cream and dipped the whole thing in chocolate, I think you'd still have an Oreo. But by splitting the cookies and having no real "Center", you lose the essence of what an Oreo is.<br /><br />On its own merit, the cookie isn't all that bad.  The idea of chocolate and peanut butter isn't new and it's pretty proven. I thought the peanut butter could have been more peanuty and the chocolate coating better.  All in all it's OK but I'd rather go for a good old fashioned Oreo over this variation.
+
+product/productId: B004JGQ15Y
+review/userId: APOGXH3A74CM3
+review/profileName: Damian P. Gadal
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301702400
+review/summary: Yum
+review/text: Whoever came up with the idea to take an Oreo wafer, put tasty peanut butter on top, and cover the whole thing with creamy fudge is a genius.<br /><br />These tasty cookies are a nice addition to the Oreo family!<br /><br />Writing this review has given me the craving for more of these cookies...  Guess I've got to order some.
+
+product/productId: B004JGQ15Y
+review/userId: A13MKSASQ6YWL7
+review/profileName: Brad Willis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301702400
+review/summary: Pretty tasty.
+review/text: I admit it. I just love snack foods. And amongst my favorite snacks to eat are cookies. I can't think of a year that I haven't ordered Girl Scout cookies and Oreos are amongst my favorite cookies (especially double stuff Oreos).<br /><br />So I was excited to have the opportunity to try the new "Peanut Butter Creme Oreo Fudge Cremes". While I think that they could shorten the name of these cookies a bit, the bottom line is that they are yummy.<br /><br />The only description on the bag is "fudge covered chocolate cookies" so they could probably expand on that a bit. But basically, it tastes like a single cookie wafer with peanut butter creme stuck to the side and then the whole thing covered in a soft fudge.<br /><br />The bag I received was 11.3 ounces, which is a generous size. It is also resealable, so not only is it very easy to get at the cookies without a knife, scissors or your teeth, but it's also easy to reseal the bag and keep the cookies fresh. Of course they probably won't be around long anyway, because you're going to gobble them up. At least, that's what I expect to do.<br /><br />I really like these cookies. If this was a Girl Scout cookie, I'm sure they'd sell very well. I definitely do recommend them. Just try not to eat the whole bag at once!
+
+product/productId: B004JGQ15Y
+review/userId: AG6TX1ZJHLMO7
+review/profileName: W. Dietrich "WD"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301702400
+review/summary: Great Cookies But Not What I Expected From Oreo
+review/text: I have always loved Oreo cookies, splitting them in half and doubling up on the insides (way before Double Stuff Oreo cookies).  Dunking them in milk is also a favorite thing to do.  So when I heard there was a new Oreo product out I decided to give it a try.<br /><br />First of all the packaging is great it is a thin plastic / metallic wrapping that pulls open and than self sticks when you close which keeps the cookies closed.  All though the bag is dark and it is hard to see the cookies inside so I almost threw out the last two.  You don't get as many cookies as a normal Oreo package.  I believe my bag had 27 cookies with a serving being 3 cookies (really 5 is closer to what you will eat at a time).<br /><br />Taste wise they taste like the peanut butter cookies from the Girl Scouts perhaps a tad bit thinner.  The cookies are great but if you gave me a blind taste test and asked if I felt there was any Oreo in the cookie I would say no.  I tried to dunk one in milk and it was not tasty at all so be warned.  Once again a great cookie but it just did not have the Oreo taste to it in any way.
+
+product/productId: B004JGQ15Y
+review/userId: A15LK8DSFQZZ52
+review/profileName: Patricia R. Andersen "redheaded booklover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301702400
+review/summary: a Tagalog twin?
+review/text: Customer review from the Amazon Vine(tm) Program (What's this?)<br /><br />I loved these Oreo Peanut Butter Fudge Cr&egrave;me, 11.3-Ounce (Pack of 3). They aren't your typical Oreo cookie, these are very similar to the Girl Scouts "Tagalog" I believe.<br />This is a thin crispy chocolate cookie topped with peanut butter cream dipped in more chocolate. If you like the traditional <a href="http://www.amazon.com/gp/product/B000LUC9DK">Nabisco Oreo Cookies-America Favorite Cookie, 3 lb 4.5 oz. Box</a>, you will be disappointed in this cookie. It's much thinner and crispier. But personally I'm not a fan of the Oreo sandwich filling, so I like this cookie much better.<br />So if you think that peanut butter and chocolate is the perfect taste combination, definitely buy these cookies. You'll love them. If you are looking for the traditional Oreo cookie, this is probably not the cookie for you.<br />I recommend this cookie to anyone who likes the combination of peanut butter and chocolate with a crispy cookie. It's very good.
+
+product/productId: B004JGQ15Y
+review/userId: A24QB5BF3B5A9S
+review/profileName: Daniel Darling "Christian author and speaker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301702400
+review/summary: Where Have You Been All My Life?
+review/text: These were fantastic. My wife and kids loved them and we quickly polished off the package--within a few days. What is nice is that they are not too heavy. You can eat a few for enjoyment, but don't find yourself too stuffy or full. And it seems there is a perfect blend of fudge and peanut butter, where neither overwhelms the other. My wife and daughter are chocolate lovers, but they enjoyed the nice blend with peanut butter. I'm more of a PB guy, but I enjoyed the mix with chocolate. We love these and will continue to purchase them.
+
+product/productId: B004JGQ15Y
+review/userId: A32T2H8150OJLU
+review/profileName: Alan Holyoak
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301702400
+review/summary: Good, but a bit too "civilized" for me...
+review/text: I pulled a package of these out last night during a movie night when we had family over, and my kids and the nieces and nephews snarfed them right down. There were universal sounds of delight and praise. I was, luckily, able to get my mitts on a couple of these before they disappeared, so I can tell you about them.<br /><br />First of all, the cookies come in packaging that seems to me to be over the top. The plastic liner had individual slots for each cookie - that keeps individual cookies from partially melting and re-solidifying into a large Oreo-chocolate-peanut butter mass, I suppose, but it still seemed like over-packaging to me.<br /><br />The cookies themselves have one thin Oreo cookie layer that is covered with a layer of peanut butter filling one one side, and the cookie with peanut butter filling on top was dipped in chocolate. it was a tasty treat. There was a much higher filling and chocolate covering to cookie ratio than I've had in any other Oreo product. This is not however, an Oreo version of <a href="http://www.amazon.com/gp/product/B001HXQPG2">Hershey Reeses Peanut Butter Cup, 1.5 ounces Boxes (Pack of 36)</a>.<br /><br />This combo of less cookie and more other stuff made for a non-traditional Oreo cookie experience. When it comes to Oreos I'm used to having a cookie-rich and filling-poor experience. These cookies were the opposite. The cookie barely crunched in my mouth before the cookie texture and flavor was swallowed up in chocolate covering and peanut butter filling. That's not bad, just different.<br /><br />I do not recommend serving these to little children. The chocolate covering will melt and they will get chocolate on their hands and then it will end up on everything.<br /><br />I have to say that I will probably not be buying these again. I mean, they are good and all, but I prefer a more traditional Oreo experience. I still like twisting the cookies apart, eating the cookies, scraping a couple of cookie's worth of filling on one side of an Oreo and eating that. This cookie option seemed a bit too, um civilized for me :-)<br /><br />So, all in all, I liked these cookies, but the combination of over packaging and not quite enough cookie to other stuff in the treat lead me to award a 4 star rating. Good, but not great.
+
+product/productId: B004JGQ15Y
+review/userId: A2X2399HZGKQBJ
+review/profileName: Howie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301616000
+review/summary: Girl Scouts "Tagalong" by a different name.
+review/text: The title says it all.  The Peanut Butter variety of this cookie is pretty much the same cookie as the "Tagalong" offered by the Girl Scouts in a "lighter" variety.  The peanut butter flavor is not as strong as in the "Tagalong".  Chocolate is the predominate flavor with a mild peanut butter flavor (not nearly as strong a PB flavor as in a REESE'S Peanut Butter Cup *or* the "Tagalong"). The base cookie is a thin chocolate cookie which is nicely crisp.  It's roughly half as thin as a single Oreo wafer.  The whole cookie is about half the height of the "Tagalong".  I'm not a big fan of the "Tagalong" and as such do not much care for these either.  In all fairness my wife and daughter love them as they are huge "Tagalong" fans.  Their comments were pretty much: "Like a Tagalong with less peanut butter and more chocolate, but good".
+
+product/productId: B004JGQ15Y
+review/userId: A1GNYV0RA0EQSS
+review/profileName: Sl Judge "gatormomz"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301616000
+review/summary: Do NOT think "Girl Scout Cookie" before you try.
+review/text: Overall, it's a good cookie. It's really hard to mess up chocolate and peanut butter.  Unfortunately, I thought it would be MORE like a Girl Scout cookie and it is nowhere near that. That does not make this a bad cookie, it's just different. It has a thin layer of peanut butter with a thin cookie which is dipped in chocolate.  Goes great with milk!
+
+product/productId: B004JGQ15Y
+review/userId: A2KIVODZRTGY4U
+review/profileName: Gwendolyn Dawson "Literary License"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301616000
+review/summary: Love these!
+review/text: Oreo Fudge Cremes come in several different flavors: peanut butter, mint, vanilla, regular. I've only tried the peanut butter variety, but they're great. Since these are Oreos, I was expecting a sandwich cookie, but these are not sandwich cookies. Rather, there is one thin cookie layer topped by a thin layer of flavored cream (e.g., peanut butter), and the whole thing is covered with a thin layer of chocolate. The peanut butter variety reminds me very much of the Girl Scout cookie named Peanut Butter Patties or Tagalongs.
+
+product/productId: B004JGQ15Y
+review/userId: A10YWQ4AAAE29O
+review/profileName: Gayla M. Collins
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301616000
+review/summary: Not Quite as Good As I Dreamed
+review/text: Previously, I had tried the mint Oreo Fudge Cookies and they gave the Girl Scout's brand a run for their money.(especially at $3.50 for two tiers.) But, I can't say the same about Oreo Thin cookie filled with peanut butter and coated with fudge. These would be so much tastier if the filling was peanut butter and there were two normal size Oreo cookies surrounding them. The thin cookie is a bit harsh, the peanut filler bland, and the fudge topping fine. It just wasn't something I would buy again as the flavors don't blend well.<br /><br />Maybe Oreo will take my idea and run with it. I am sure that would sell better than these.
+
+product/productId: B004JGQ15Y
+review/userId: A11EXFO14WEJM1
+review/profileName: Sudarshan Karkada
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301616000
+review/summary: Rich, delecious, and multi-textured Oreos
+review/text: These are not your regular Oreos in that there is no sandwiching of the cream. There is one cracker, topped with peanut butter, and the whole thing is covered with rich chocolate. Very delicious. It is possible to eat just one Oreo and be satisfied.<br /><br />Tastes almost like Reeses, but with a crispy base.<br /><br />Outer chocolate layer could become soft under warm conditions. They were soft and sticky when we first opened the box, but storing in the fridge for just 10 minutes solved the problem.<br /><br />Serving size: 3 cookies<br />Servings per container: 9 (there are actually 28 cookies)<br />Calories: 170<br />Calories from fat: 80<br />Total fat: 9g<br />Sodium: 100mg<br />Sugars: 17g<br /><br />Outer plastic bag is resealable - just like the regular Oreo bag.<br /><br />Tastes great, but I think it is too rich. Children enjoyed the cookies and I think they will consume most of them.
+
+product/productId: B004JGQ15Y
+review/userId: A11XT24G3PZ8CQ
+review/profileName: Dean Redfern
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301616000
+review/summary: OREO PEANUT BUTTER FUDGE CREME - Supremely creamy
+review/text: Put it in a wrapper and call it a new and improved, premium, and supremely-creamy chocolate-fudge peanut-butter cup "candy." It's that good. It's sinfully good. This ain't your childhood Oreo cookie. This "cookie" has a rich peanut-butter center that is covered with a smooth and creamy fudge. But just like those childhood delights, these treats are great with milk. Lots of milk. A bag of these bad boys doesn't last long in our household, and neither does the milk.<br /> Comment | Permalink
+
+product/productId: B004JGQ15Y
+review/userId: A3AW05VYWC3LX8
+review/profileName: Julia Rietmulder-Stone
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301616000
+review/summary: Solves my daily dilemma
+review/text: Both Oreos and Nutter Butters are available for purchase at my workplace. You get 6 Oreos or 4 Nutter Butters for $1. Every day I AGONIZE unable to decide. But that's all over now.<br /><br />These Peanut Creme Oreos solve my dilemma. They taste more like a Nutter Butter or Peanut Butter Cup than they do like an Oreo, but have enough chocolate to sate me.<br /><br />Each cookie is one Oreo wafer that actually seems thinner than a regular Oreo wafer, spread with a thin layer of peanut butter creme, then the whole thing is covered in chocolate. I do wish the wafer were a little thicker, or that there were a second wafer like a regular Oreo, but it's still good as it is.<br /><br />Of note is that the package depicted on this product is NOT the same as what I received. I didn't think I was getting the peanut butter kind, was dismayed when I did, but then thrilled once I tried them.<br /><br />I often receive Vine products and think, well, that's nice, but I'd never actually buy it for myself. But I might start buying these for myself. Obsessively.
+
+product/productId: B004JGQ15Y
+review/userId: A34UVV757IKPVB
+review/profileName: justsomeguy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301616000
+review/summary: Greasy, but addictive.
+review/text: I got the Peanut Butter version of these things. I like how they call it "Cr&egrave;me" - like it's some sort of fancy parisian pastry. C'mon guys, this is America! CREAM. "Cr&egrave;me" is not something I wanna see in my kitchen cabinet!<br />-<br />Let's get down to business. So, what are these things? Well, they are like 1/2 of an Oreo cookie dipped in chocolate. And by half, I mean literally, half. They are composed of three elements: 1) A thin cookie - this is about half the thickness of the standard oreo cookie layer. 2) A thin layer of "Cr&egrave;me". Can I call it cream? No? Well it's literally 1/2 the thickness of the filling inside a normal oreo. 3) Chocolate covering.<br />-<br />I love peanut butter and chocolate. It is like the perfect gluttonous combination. These come close to hitting the mark.<br />These things are thin, overall, so you think "Boy I am not getting too fat eating these" but in reality you at half the box standing there with your milk - so really who are you kidding? But I do like that they are thin. If you posess the willpower, you can have one or two and not feel like you ate a brick.<br />-<br />Taste: I like them well enough. I do personally feel the peanut butter flavoring could be stronger. BUT, they still have that addictive quality we have all come to know and love with Oreo products.<br />Texture: I gotta tell you, I found these things to be slightly greasy. I did not mind it so much, but still they felt a little weird. But this is such a minor point because they are still awesome with milk.<br />-<br />So overall, I did really like them. Addictive, a little greasy, but still a bona-fide Oreo product.
+
+product/productId: B004JGQ15Y
+review/userId: A1S27P7KJO9I96
+review/profileName: Eric A. Hofstetter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301616000
+review/summary: Love peanut butter and chocolate - with a little Oreo crisp
+review/text: Our family loved these cookies.  A nice Oreo crisp layer with peanut butter cream and a chocolate coating.  The cookie has a great flavor.  Chocolate coating is smooth.  If you love the classic peanut butter & chocolate combo, give these cookies a try.
+
+product/productId: B004JGQ15Y
+review/userId: A10G4BPT5MGBHY
+review/profileName: Julie Neal
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301616000
+review/summary: Peanut butter cream worthy of Oreo
+review/text: You'll need a glass of milk with this rich cookie, ideal for those who love both chocolate and peanut butter. This is not a sandwich cookie: An Oreo chocolate cookie -- like one segment from a typical Oreo cookie with vanilla cream inside -- is topped with a dollop of peanut butter cream, then the whole shebang is covered in chocolate. The resulting cookie is thinner than a regular Oreo, but just as rich. The peanut butter cream is very smooth with lots of peanut flavor.
+
+product/productId: B004JGQ15Y
+review/userId: A1HGXLP6WATS4B
+review/profileName: F. D. Gillett "Comparison Shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Half cookie, Half Peanut Butter Creme, Half Fudge.....Huh?
+review/text: How can a product be greater than the sum of it's parts? When it's the newest member of the Oreo Family, the Peanut Butter Oreo Fudge Creme. Oreo has done it right for chocolate lovers for many years and this new cookie-like product is no exception.<br /><br />It tastes like it's half cookie, half peanut butter creme, half rich chocolate fudge and completely delicious. If this cookie can't satisfy the craving for chocolate nothing can. The taste is too good for kids, although I'm sure they will enjoy it, but give them the regular Oreos and save these for yourself. This cookie would be equally good when relaxing with a good cup of coffee or letting the kid in you come out and having a couple of them with a ice cold glass of milk. Stay away from them if you can, but after one bite you won't want to.
+
+product/productId: B004JGQ15Y
+review/userId: A3FA9MUYT5D2C8
+review/profileName: Elaine "Bookish in California"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Totally Addictive!
+review/text: These remind me of the Girl Scout cookies, only better because they have a chocolate cookie. I don't buy a lot of cookies, but I'm a sucker for the chocolate/peanut butter combination and I found these totally addictive. I kept the bag in my desk at work. I also liked the re-sealable package.
+
+product/productId: B004JGQ15Y
+review/userId: A2IMLOJ2Z2QEU2
+review/profileName: Naomi (Storm)
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: Friend liked'em, I did not
+review/text: I got the Oreo Peanut Butter Fudge Creme flavor through Vine and I was not impressed. The Peanut butter flavor seems very muted to me, while the fudge was overbearing. The fudge-y taste was waxy and cloying to me, for the peanut butter all I could do was faintly smell the aroma - I can't say there was much of a peanut taste at all. I had my friend (who's a big peanut butter dessert fiend) try them and he really liked them so I guess it's all up to personal preference.<br /><br />The ingredients list hydrongenated soy or rapeseed or cottonseed listed in the ingredients and according to the Mayo Health Clinic, if the ingredients does not say "fully or completely hydrogenated oil," it is possible that there are some transfats. The nutrition facts do not list transfats but nor does the package have the "zero transfats" advertised - so it's really up in the air.<br /><br />What I can say is that it was about 80 degrees outside at the height of the day and the cookies were partially melted and stuck together by the time I opened the package. So if you're in a hot area, that might be a point of concern. I think what it comes down to is that I highly suggest trying these out in the store before buying a pack of 4 - just saying it's "Oreos with a peanut butter filling" doesn't really describe it in my eyes.
+
+product/productId: B004JGQ15Y
+review/userId: A3CNJR9MD5BFKL
+review/profileName: Suzi Hough "The Fashion Piranha!"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301529600
+review/summary: It isn't Reese's Peanut Butter Cups, but I don't think it was meant to be!
+review/text: (Note: This product was sent from Amazon for the Amazon Vine program.)<br /><br />Note: This review is for the Peanut Butter flavor of the new Oreo Fudge Cremes.  (The product image is of the Golden Oreo package.)<br /><br />The 'oreo' in this cookie comes from the fact that at the center there's a chocolate cookie wafer identical to the ones that frame an Oreo.  A peanut-butter creme center is placed on top of it, and then the whole thing is dunked in chocolate.  Sounds yummy, right?<br /><br />When you bite into the cookie, it has a satisfying crunch.  The peanut butter flavor is strong, but doesn't taste pure...it's definitely mixed with something creamier, maybe the 'normal' Oreo filling?  Each layer - fudge, peanut butter, cookie - is about the same thickness, so they blend together pretty well.  Unlike Girl Scout Tagalongs, the most similar cookie I can think of, there isn't a little 'mound' of peanut butter - the cookie is pretty flat.<br /><br />I'm not a huge peanut butter fan, but I like the flavor well enough.  I thought this was a good blend of chocolate and peanut butter,  although not the best attempt at the combination I've ever had.  I would buy these again, though, and I'm really intrigued now about the mint flavor.
+
+product/productId: B004JGQ15Y
+review/userId: AKJHHD5VEH7VG
+review/profileName: Dominique W
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: If I'm going to pay this much for a cookie I'm going to buy it from a little girl in uniform
+review/text: Well, it's a certain time of cookie season and little girls are sitting at a table in the entrance of my favorite grocery store. I love these cookies, especially a certain chocolate covered peanut butter cookie. I'm trying to save money. Trying to save calories. What do I do? I sneak in the opposite entrance like a coward.<br /><br />Enter Oreo Peanut Butter Fudge Creme cookie. Now, subtract a bit of peanut butter and this cookie and it tastes like a thinner version of the Girl Scout cookie I've loved since childhood. The downside is that the price is higher than those from my favorite annual cookie peddlers.<br /><br />My final verdict. Semi-Delicious cookie. Bad price. Next year I'll go with the Girl Scout version.
+
+product/productId: B004JGQ15Y
+review/userId: A89ZZKNDFQH23
+review/profileName: Delaney
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: trip flip fantastic
+review/text: These are scrumptious and easy to snack, a hold me over to the Girl Scouts have their tag a longs again next year.  (This review is for the Peanut Butter Oreo Fudge Cream).  These were super yummy.  Peanut Butter, Fudge, Cookie a little milk and a slight sugar shock later I was totally at peace with the world and a-okay that my day had been brutal. These are a little chewy so not that crisp snap of a tag a long, but hits all the right flavor receptors.  Thank you oreo!
+
+product/productId: B004JGQ15Y
+review/userId: A2BZ7MYTSNYMEW
+review/profileName: Michelle L. Beck "Always the Devourer of Good...
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1301529600
+review/summary: Interesting concept, but the peanut butter was a little overwhelming! 2.5
+review/text: It's nothing like a handful of chocolate covered oreos (they come out around the holidays) or a reeses peanut butter cup, or even a tagalong girl scout cookie, with a tall glass of milk or a cup of coffee. So, when the opportunity came to try the new the "Peanut Butter Fudge Cr&egrave;me" I jumped all over it. Now, I am thinking I jumped on it a little tooooooo quick. What I was expecting is a "combination oreo holiday cookie with a little peanut butter added for good measure. What I received on the other hand was something very different.<br /><br />First, if you are expecting something similar to those "chocolate (milk or white) covered oreos" that come out around the holidays, with a tab bit of peanut butter you will be GREATLY disappointed. [I envisioned a plain 2 cookie cookie with peanut butter in the middle, dipped in milk chocolate. Meaning a variation on the old, well loved theme of their holiday cookie.] However, this cookie contained a really  slim wafer like oreo cookie, with a layer (perhaps too thick) of smooth peanut butter, covered in dark or fudge chocolate. What makes the holiday cookie (in my mind) a success (it is perfection), is what made this one new oreo cookie fall short. Don't get me wrong, this was not marketed in any form or fashion as the holiday cookie, but that is what I was thinking when I read the description. The main difference is that the holiday oreo (and maybe I shouldn't compare it to that) is a whole oreo dipped in white or milk chocolate. Maybe a better comparison (instead of the holiday oreo) would be maybe the Girl Scout Tagalongs (whose cookie is definitely thicker than this wafer) but closer to the taste. And while I enjoy peanut butter in a Reese's peanut butter cup or a GS Tagalong, I thought this had a little too much peanut butter, almost to the point of being overpowering. You should know that the flavor that lingers the longest in your mouth is the peanut butter, while I think it should have been the chocolate flavor. Maybe it could have been because the cookie is wafer thin, but while a thicker cookie would have masked (or toned down) the flavor of the peanut butter, it probably wouldn't have completely muted it. I also think that a sweeter milk chocolate, versus whatever kind this was....which seemed more of a dark chocolate/fudge, would have made complemented the cookie better. Overall, I guess I was just a little disappointed because I was looking so forward to a tasty treat. This is definitely not that little something that I would reach for to complete my meal (although the last thing I need is a cookie). But my 9 and 12 year olds gobbled them up.
+
+product/productId: B004JGQ15Y
+review/userId: A1KEK09ZA6J9P8
+review/profileName: Colleen M. Schneider
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: For when the girl scouts (and your stash) are gone...
+review/text: When the girl scouts are gone and your thin mints are just a memory, you may be able to find a bit of solace here with these new oreos.  I tried the peanut butter ones.  You get a thin oreo bottom, creamy peanut butter center enrobed in chocolate.  They are basically the same size as a thin mint cookie but with a delicious filling.  I can't speak for all the flavors (yet), but the look of joy when I ate this cookie made my hubby grab the box to make me share.....We agree....this one is a keeper, especially if you love chocolate and peanutbutter flavors together.  Not that you would be looking, but the calorie count on these are 170 for 3 cookies.  I would definitely buy these and would consider trying other flavors, perhaps hubby's favorite flavor....mint.
+
+product/productId: B004JGQ15Y
+review/userId: A14N6TJRP83FCE
+review/profileName: dremin
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: average - not as good as expected
+review/text: package is easy to open. that is probably the best thing about these cookies. they taste more like wafers than cookies. the cookie is too thin and the p-nut butter flavor is too weak for my taste. i expected more from oreo.
+
+product/productId: B004JGQ15Y
+review/userId: A36WTXJBYS3DB6
+review/profileName: N. B. Kennedy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: OK, but not the best buy
+review/text: My son loves peanut butter cups, so I thought he would like these in his lunch. He ate a few and the rest are languishing. Only one Oreo piece (not double), so there's not much to these things. And the chocolate just tastes like wax.<br /><br />AND... the packaging is irresponsible. Each cookie is in an individual molded well in the cookie tray. So, not only is there way more plastic than needed, there's only 28 cookies in the package. That makes these things way overpriced. Not on my shopping list.
+
+product/productId: B004JGQ15Y
+review/userId: AN9J46667D80O
+review/profileName: Chris Swanson "I'm just this guy, you know?"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: So... rich...
+review/text: Oh, dear lord... merely looking at these was almost enough to send me into a diabetic coma. They are so incredibly rich it's insane. I was able to eat about three before I was willing to say "Yep, I'm done!" These really aren't as good as regular Double Stuff Oreos and you don't get very many. I counted, and you get 28 cookies. That's all. For the price you're paying you can find better. Heck, you can do what I suggested with the mint creme Oreos and buy normal ones and dip them into bark chocolate.<br /><br />Overall these aren't bad, but I didn't like them as much as the mint ones. They were way too rich for my tates.
+
+product/productId: B004JGQ15Y
+review/userId: A3CG6YLYZJXQG4
+review/profileName: Tracy Rowan "dargelos"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1301529600
+review/summary: Meh
+review/text: I love Oreos. I mean I really love them. They're my favorite commercially produced cookie and I could probably inhale a whole package in a day or two along with a gallon of milk and a good movie. So when I saw the Peanut Butter Fudge Creme Oreos, I thought "Can't be bad. Must try."<br /><br />Well they're just okay. The best thing about them is the oreo chocolate cookie. (This isn't the golden variety I'm talking about in spite of the photo and the name; this is where the Vine link brought me.) The fudge coating is way too sweet and the pb cream doesn't have a lot of flavor and even has a bit of a bitter after-taste. They come in a large tray with individual compartments which may be to prevent the cookies from sticking together or breaking, but which also is rather misleading since it looks as if there are twice as many cookies in the package as there really are. The package itself is resealable, and that's handy.<br /><br />Mostly I think these cookies can be summed up with a "meh." Don't mess with an iconic cookie.
+
+product/productId: B004JGQ15Y
+review/userId: A1D2FXEWRIV1YV
+review/profileName: Anne Masterson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301529600
+review/summary: If you like tag-a-longs, you will like these
+review/text: I must confess that I love Girl Scout tag-a-long cookies.  The only thing I don't like is that they are not available all year.  These cookies, while not replacing them, will hold me in between.<br /><br />The bottom of the cookie is a chocolate oreo cookie.  This is covered in a thin layer of peanut butter.  They entire cookie is then covered in chocolate.<br /><br />If the cookie had a slightly thicker layer of peanut butter, I would have given it five stars.  But they are very yummy and I will have a hard time passing them by at the supermarket.  I have a feeling some may be coming home with me, especially on one of those "I need chocolate" stressful days.
+
+product/productId: B004JGQ15Y
+review/userId: A5Q1FK0FWU7DH
+review/profileName: reviewer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301529600
+review/summary: Good--Not Great
+review/text: I like peanut butter cups so i liked these as well. 7 of us in the family tried these and we all liked it. We were a little hesitant at first, not knowing how "oreo" would taste with peanut butter. But we all though it was great. 5 of us preferred regular oreos to these--with the traditional cream. The other 2 preferred the peanut butter. In reality, though, the two don't really compare as they are completely different tasting from each other.<br /><br />These are thinner than regular oreos with just 1 oreo wafer, peanut butter "filling" and covered in chocolate. A better comparison for these would be to peanut butter cups, but even that isn't a good comparison. It is like eating a peanut butter cup with an oreo wafer--which adds a slightly crunchy texture.<br /><br />If you like peanut butter cups, i highly suggest you try these. If you don't like peanut butter cups at all, the chances of you liking this are probably zero.<br /><br />Hope this is helpful.
+
+product/productId: B004JGQ15Y
+review/userId: A18S2A07LBNVNF
+review/profileName: Bucky
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Delicious, But Not Nutritious...
+review/text: But then, they're not meant to be, are they?  They're meant to be irresistibly yummy, and on this score, they succeed, brilliantly.<br /><br />This is a new variation on the Oreo cookie.  The cookie portion of the Oreo is flattened out to about half the thickness of a usual Oreo, topped with a thin layer of peanut butter and then dipped in yummy chocolate.  It's very sweet, almost teeth-achingly so, and filled with ingredients that will please your fat and sweet loving tastebuds.  Unfortunately, this kind of lip-smacking tastiness comes at a price: the ingredients list is a like a rogue's gallery of bad-for-you stuff, like hydrogenated fats.  These cookies are great for a once in a while treat, and because there are only 21 in a bag, they're more limited in quantity than regular Oreos.  If you are inclined, enjoy in moderation.  Or just go whole hog...you know you want to.
+
+product/productId: B004JGQ15Y
+review/userId: A2SH7OWE8QJYNC
+review/profileName: Kaleidocherry
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1301529600
+review/summary: Typical American junk food
+review/text: First of all I thought these were going to be Oreo sandwich cremes with peanut butter filling, covered in a fudge coating. Well, the inside is not a 'sandwich' creme - it's one Oreo disc with some kind of processed (to the point of no-peanut-flavor) cream inside, and the whole thing is then coated in fudge (which Oreo loosely uses to mean 'chocolate,' but I knew it wasn't really going to be real fudge). Because there's only one cookie inside each unit, the proportions are pretty gross - you get the medium firm texture of the outer chocolate layer, which is fine, but a single interior cookie is not enough crunch to set off the sort of lardy faux-peanut-butter layer. My son (age 10) ate a bunch and probably would have eaten more, but I'm more of a discerning customer when it comes to both chocolate and peanut butter, so I stopped after my 2 experimental ones. I do like plain Oreos, and the plain Oreos covered in the 'fudge' - but this combo just doesn't do it for me. It seems like it's just a typical processed sweet snack food with no real flavor.
+
+product/productId: B004JGQ15Y
+review/userId: A21S26XYPGXJZX
+review/profileName: Jody "bigdumptruckdotcom"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: Thin, sweet cookies
+review/text: At our house, we were split down the middle. My 13 year old son thinks these Peanut Butter Fudge Creme Oreos are great, and I was underwhelmed. They were very thin - about the size of a GS Thin Mint cookie. The peanut butter has an extra-sweet processed taste that I thought was too much, but as I said, my son really liked them. If you are looking for something extra-sweet, these are for you.
+
+product/productId: B004JGQ15Y
+review/userId: A1URXSRV6WDHVY
+review/profileName: Marty Gillis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301529600
+review/summary: Good, but not enough 'Cookie" in the cookie for me...,
+review/text: This review is for the Peanut Butter Fudge Cremes. I love sweets! Chocolates , cakes , pie, ice cream and COOKIES! I was looking forward to trying these. It's a nice package with delicious looking artwork depicting the chocolate covered, peanut butter stuffed specialty Oreo in all it's glory. YUM! I couldn't wait to get it open and chow down on a few! (OK, MORE than a few but who's counting?)<br /><br />Right away I was disappointed by the fact the cookie itself is maybe HALF as thick as a Ritz cracker, maybe even smaller. Not much crunch going on at all and nothing much to chew either. Also, the 'fudge' to me had very little chocolate taste. The 'peanut butter' stuff on the inside was OK, much like the inside of a peanut butter flavored M and M.<br /><br />Overall, I just didn't like this cookie much. It's a fine product but just not my cup of tea. (or cookie)<br /><br />NOW THE REBUTTAL: My father happened to be sitting there watching me "TEST" (yeah testing!) the cookie out and wanted to sample same. HIS opinion was much different than mine and said he LOVED this cookie and it was just right and then he grabbed my bag and made off with them. So as you can see, a good cookie is in the mouth of the beholder, or the muncher as the case may be.
+
+product/productId: B004JGQ15Y
+review/userId: A3GQSZ2RVVXDCZ
+review/profileName: Jon Kreisler
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1301529600
+review/summary: Another Oreo Winner
+review/text: These Oreos begin with a single, chocolate-flavored Oreo cookie. That is topped with a peanut butter creme and the whole treat is then enrobed in chocolate 'fudge' coating. My one-word analysis would be "addictive". Oh, these cookies are good. Oreo uses real peanut butter in the creme. This is sweeter than your typical out-of-the-jar peanut butter, but it is still very tasty. These are the same chocolate-flavored cookies Oreo has been using for years in their sandwich cremes that everyone knows and loves.<br />Oreo has come out with another winner. Just watch the price. Some outlets are charging a fortune for these cookies.
+
+product/productId: B004JGQ15Y
+review/userId: A2EDZH51XHFA9B
+review/profileName: Robert P. Beveridge "xterminal"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: Not overwhelmed.
+review/text: The product ain't bad, not bad at all; crispy cookie, peanut butter layer (that same highly-processed and not-really-peanut-buttery stuff one finds in Reese's and peanut-butter-esque cookies), covered in fudge. With a hint of mint, mostly in aftertaste, which you wouldn't for a second think would go with peanut butter, but it actually works. What I question is the brand association. And I admit, this is probably a personal thing and you can switch me off right now, but come on. If it's an Oreo, it's got two cookies with stuff sandwiched in the middle, not one cookie with stuff piled on top. Yes, I admit that's a petty reason to dock it a star, but come on, is it an Oreo if you can't do the Oreo Twist(TM)?<br /><br />I think these guys are good enough to break from the brand association and go it on their own. Would be a good idea, IMO.
+
+product/productId: B004JGQ15Y
+review/userId: A9I40WFF40R4
+review/profileName: H. F. Corbin "Foster Corbin"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Tasty If Not Healthy
+review/text: Although this is not the Golden Oreo, this addition to the Oreo family is certainly tasty if not healthy. What we have here is what appears to be an original Oreo cookie topped with a layer of peanut butter covered with chocolate. While this little delight is not as peanut-buttery as say a Reese's Peanut Butter Cup, it has a great texture and flavor. It is perfectly fine to like this latest sweetie and still remain loyal to the original Oreo that we have all come to love with a glass of cold milk, in a pie crust or nestled inside a cheesecake. It is not wonder that the original is considered-- I believe-- the world's favorite cookie.<br /><br />If you are avoiding fat and sugar, however, beware as this cookie is high in both.
+
+product/productId: B004JGQ15Y
+review/userId: A1KOYOE8O2F1J4
+review/profileName: J. Miller "Heresy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Delicious!
+review/text: First off these are really nothing like regular Oreos except for the thin cookie. The cookie is thinner and crunchier than regular Oreos and, along with the cookie, the peanut butter cream and chocolate covering mix to make a delicious combination. The only problem is that the thin chocolate covering seems to melt very easily even at mild temperatures and all over your fingers while eating them so I have been keeping them in the freezer (along with my Girl Scout Thin Mints), like this they are just as tasty and not as messy.
+
+product/productId: B004JGQ15Y
+review/userId: A1BJOHHLG0D965
+review/profileName: M.D. Edwards "Avid Aesthete"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1301529600
+review/summary: Not a fan. Can't distinguish one flavor from the other, and the creme, and fudge coating, just taste cheap.
+review/text: All it took for me was one cookie to decide that these just weren't going to do it for me. I love Girl Scout Cookie Thin Mints, and Grasshopper cookies, as well as Keebler Fudge Grahams, so I don't take issue with the fudgy coatings on those cookies. I love peanut butter. Like, LOVE, LOVE, LOVE peanut butter. When I make homemade peanut butter cookies, I DOUBLE the peanut butter the recipe calls for. I LOVE Oreo cookies (even though I'm one of those weirdos that removes the creme half of the time, 'cuz the chocolate wafers are just so daggone good on their own, too)!<br /><br />But I don't love these.<br /><br />The peanut butter creme doesn't have anywhere near enough peanut flavor, and it just tastes cheap. Or, the fudge coating tastes cheap, and it masks the peanut butter flavor. Or, both of them taste cheap, and they totally mask the chocolate Oreo wafer flavor. Honestly, I really can't tell; what I DO know is that I just didn't like these cookies in the Oreo line of creations.<br /><br />Really, growing up, I didn't eat a vast amount of Oreos. Heck, I didn't even KNOW about the whole dunk-'em-in-milk thing until college, and when I DID find out about that, I swear, the Heavens opened up and angels began to sing. I don't even keep Oreos in the house, 'cuz it's WAY too easy for me to go through a whole bag of 'em in two sittings. But these? I think I'll be giving them away to someone else whose taste buds are less selective than mine. Like maybe my First Grade students...<br /><br />Not a win with this product, Nabisco...
+
+product/productId: B004JGQ15Y
+review/userId: A3EK2KTYHJCPB9
+review/profileName: Brian A. Roush
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1301529600
+review/summary: Ok - sweet, but lacking in a distinctive flavor, March 24, 2011
+review/text: Customer review from the Amazon Vine(tm) Program<br /><br />Note: This review is for the Peanut Butter Oreo Fudge Creme's. Amazon's Vine program seems to have mixed up the this product with the Golden Oreo Fudge Cremes.<br /><br />If you're interested, I've uploaded some pictures of these cookies side by side with the Girl Scout Do-Si-Do's.<br /><br />These are good, but the main reason I gave them 3 stars is that they simply have no "signature" flavor. There's not a whole lot of peanut butter in them, so they really don't give you that peanut butter fix. Likewise, to me, they're not even as rich as a regular Oreo, and therefore really don't give much from the chocolate side, either.<br /><br />When you eat a regular Oreo, you know it. The cookie part is rich and has a distinct chocolate flavor different from other chocolate cookies. Unfortunately, with these Fudge Creme's the wafer is slightly different, and the fudge covering more or less masks the chocolate flavor with sweetness. It's kind of like eating a hot pepper where all you taste is hot, not the pepper. Imagine that, but subsitute sweet for hot and chocolate for pepper and you'll know what I mean.<br /><br />I tried them side by side with the Girl Scout's Do-Si-Do's (or Peanut Butter Patties). The girl scout cookies definitely have more peanut butter in them and it has a better flavor. The Oreo is more chocolaty, but the fudge is more waxy and doesn't melt as readily in your mouth.<br /><br />I'll take a regular Oreo, a nutter butter, or a Do-Si-Do over these anyday, but if none of those are available, these would do.<br /><br />On a separate note, my kids loved them. I didn't find them too sweet, just lacking in the ability to represent a signature flavor that sets them apart.
+
+product/productId: B004JGQ15Y
+review/userId: A1W415JP5WEAJK
+review/profileName: Roberta Karchner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Ohhh, WAY too good ...
+review/text: Like the <a href="http://www.amazon.com/gp/product/B003D5TRP8">Oreo Fudge Mint Cremes 8.5 Oz. (Pack of 3)</a>, these have a THIN and wonderful layer of peanut butter (rather than mint), with a chocolate cookie, covered with luscious fudge coating.<br /><br />Unlike the "girl scout" peanut butter cookies, these have JUST the right amount of peanut butter for my taste.  But, I have to confess - I am on a DIET. Only 1200 calories a day. That's just about one package of these wonderful cookies (57 calories per cookie), and when I say wonderful, I really mean it. I finally passed them out to a group of kids I was teaching, just to get them out of my kitchen and out of temptation's way.<br /><br />Since Amazon is having problems with the Vine badge on these, I do want you to know that I received this package to try through the Vine program.<br /><br />Wonderful, WAY too wonderful ...
+
+product/productId: B004JGQ15Y
+review/userId: A1X3ESYZ79H59E
+review/profileName: chaos
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1301529600
+review/summary: Disappointed
+review/text: I love Oreos. I love peanut butter. I love chocolate. Seems like a no-brainer that I should like these cookies, but I didn't. They were ok at best. I thought maybe it was just me, so I had my kids give them a try. One of my sons didn't like them at all. The other son (who has more of a sweet-tooth) liked them a little. He liked them enough that he's going to eat more, but told me not to bring home any more. He'd rather have the original Oreos. If he was in the mood for PB & chocolate, he'd just rather have a Reese's.<br /><br />The other thing I'd like to point out is that I wouldn't really even consider these "cookies". They contain more PB & chocolate than cookie. The cookie wafer is really thin and is just overpowered by the other 2 ingredients. And the peanut butter part had too soft a consistency and not enough of a peanut flavor..
+
+product/productId: B004JGQ15Y
+review/userId: A3BTL4FV6ODKAT
+review/profileName: fredtownward "The Analytical Mind; Have Brain...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: Oreo Versus the Girl Scouts of America
+review/text: If you are like me, chances are that you've eaten a lot of Girl Scout cookies over the years, and if you are like most GSA cookie buyers, your favorites are the famous <a href="http://www.amazon.com/gp/product/B003D7TPZS">Girl Scout Thin Mint Cookies</a>.  If this is true, chances are you have found the occasional thin mint cookie that equaled them but not a thin mint cookie that bettered them,...<br /><br />until now.<br /><br />These <a href="http://www.amazon.com/gp/product/B004JGQ15Y">Oreo Peanut Butter Fudge Cr&egrave;mes</a>, also available in <a href="http://www.amazon.com/gp/product/B003XV1TAS">Oreo Regular Fudge Cr&egrave;mes</a>, <a href="http://www.amazon.com/gp/product/B003XV8XK2">Oreo Mint Fudge Cr&egrave;mes</a>, and <a href="http://www.amazon.com/gp/product/B004JGQ16I">Oreo Golden Oreo Fudge Cr&egrave;mes</a>, are IMHO BETTER tasting than the Girl Scout Thin Mint Cookies so while I might in future be persuaded to purchase fund raising thin mint cookies, they will be for other people.<br /><br />I'll be eating these!<br /><br />Note: As other reviewers have noted, this is not an entirely new concept for Oreo, which has offered limited editions of chocolate dipped whole sandwich cookies: <a href="http://www.amazon.com/gp/product/B004L98AQ2">Oreo Mint Fudge Covered Chocolate Sandwich Cookies</a>, <a href="http://www.amazon.com/gp/product/B00110E15I">Oreo Pure Milk Chocolate Covered Mint Sandwich Cookies</a>, and <a href="http://www.amazon.com/gp/product/B002UQIUA4">Oreo White Fudge Covered Chocolate Sandwich Cookies</a>.  The trouble is that these are by definition limited editions that may not be available when you want to purchase them while the new fudge covered half cookies look to be a regular stock item available year round.
+

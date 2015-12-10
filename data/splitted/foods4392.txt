@@ -1,0 +1,1143 @@
+product/productId: B005HUVJ0I
+review/userId: A10I6CVBTPABO8
+review/profileName: Case
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1287705600
+review/summary: Tully's House Blend k-cup coffee
+review/text: We like this coffee, it is not our favorite, but we do enjoy it. It has a smooth, non-acidic taste, no bitterness. It simply seems to be nothing special, just good coffee.
+
+product/productId: B005HUVJ0I
+review/userId: ADZL883UNIJ4I
+review/profileName: D. Bezelik
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1275177600
+review/summary: Tullys House Blend
+review/text: I was looking for a different type of taste from a coffee, something a little stronger, but it had to go down smooth. This coffee surely filled the bill. I was drinking another brand and it was leaving a nasty taste in my mouth and just didn't seem to go down as smoothly as Tully's. I really recommend you try it if you are looking for a strong but smooth coffee!
+
+product/productId: B005HUVJ0I
+review/userId: A149BDVMF5BIHS
+review/profileName: lappadappa
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1273363200
+review/summary: Good flavor
+review/text: First time ordering this flavor, with excellent results.  Would recommend to others as a smooth blend.
+
+product/productId: B005HUVJ0I
+review/userId: A3VLU5556FROAQ
+review/profileName: R. Eddy "PapaRon"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1271030400
+review/summary: Coffee, coffee, coffee.
+review/text: Just wanted to say that it was a great deal and I won't shop for K-cups anywhere else.
+
+product/productId: B005HUVJ0I
+review/userId: A3570294OPSGY5
+review/profileName: JCPewter
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1217808000
+review/summary: Good coffee, but....
+review/text: This is good, flavorful coffee, but just not quite the right blend for me.<br />There are others I like more, so will not be ordering it again.  Good price from Amazon, though.
+
+product/productId: B005HUVJ0I
+review/userId: A1OFSITKGMFNP2
+review/profileName: WhiteshooZ
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1343260800
+review/summary: Taste great, but jam up coffee maker
+review/text: As many others have stated, the taste of this coffee is fantastic.  Flavor wise, it is by far my favorite.<br /><br />My concern is that these K-cups keep jamming up my coffee maker.  Every time I make this brand of coffee, I have to use a paper clip the next morning to un-jam the Keurig.  I've noticed that these K-cups have a unique behavior about them.  After making a cup of coffee, I go to eject the empty cup.  The empty cup has a large amount of coffee grains on the top of it.  I have never seen this before in my 4 years of using a Keurig.  I am guessing this behavior is directly affecting the coffee maker by jamming it up.
+
+product/productId: B005HUVJ0I
+review/userId: A3T8SD87M8WJWU
+review/profileName: Denise Cat "Wolf Mom"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1342483200
+review/summary: An okay coffee
+review/text: I bought this to attempt to replace Morning Edition which is no longer available. DH and Mom say it's too bitter to drink. I think it's just okay for a medium roast. I wouldn't buy it again.
+
+product/productId: B005HUVJ0I
+review/userId: A1LPOW1MSG5SL3
+review/profileName: kteadoll
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1341360000
+review/summary: Tullys Coffee - Average
+review/text: Not a smooth taste; strong but without the quality taste you would expect. The way the packaging is makes me wonder how long they have been sitting...just doesn't taste as fresh as the normal ones I buy from Donut Shop. Going back to that brand.
+
+product/productId: B005HUVJ0I
+review/userId: A354WONGNT1FOK
+review/profileName: Peter J. Jerszynski
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1335398400
+review/summary: Tully's house blend-Fair
+review/text: Not as smooth a taste as I expected.  Not comparable to Tully's house blend bought at a Tully's coffee shop in Seattle.
+
+product/productId: B005HUVJ0I
+review/userId: A1EVLA0KGQLG3Q
+review/profileName: titeo
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1315958400
+review/summary: Protection Pack
+review/text: Tully's House Blend K-Cups is a very good production coffee , but no protective stuff inside of these pack and that's make some K cups broken when i open it .
+
+product/productId: B005HUVJ0I
+review/userId: AJXCACBCHQCP1
+review/profileName: Night Owl "Meme"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1195862400
+review/summary: More Strength
+review/text: Since I drink my coffee black this didn't have enough deep flavor for me but still is a pleasant cup of coffee.
+
+product/productId: B005HUVJ0I
+review/userId: ABA8MVFMAX582
+review/profileName: Mar "MQ"
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1330646400
+review/summary: Wanted House Blend plain but got Melange
+review/text: I ordered Tully's plain House Blend Extra Bold which is super, but received something different that tastes stronger and not as good.  I received Tully's House Blend Extra Bold "Melange maison" instead.  The carton reads House Blend, but the cups inside have the Melange label.  The plain House Blend is much better.  I'm disappointed.
+
+product/productId: B005HUVJ0I
+review/userId: A2AE712GSK75BG
+review/profileName: MustangPatty
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1320969600
+review/summary: Disappointed in purchase.....
+review/text: First time I purchased from this company and very disappointed as the coffee came all lose in the shipping box..Not even in their original manufacturers Keurig Tully Boxes.. some tops ripped open due to the packaging not to mention there are no expiration dates on these K-Cups.. Maybe this deal was too good to be true.. Do not recommend.. rather pay little more for quality packing and product...:(
+
+product/productId: B005HUVJ0I
+review/userId: A2TTEYA6JL09K1
+review/profileName: Lynda
+review/helpfulness: 1/4
+review/score: 1.0
+review/time: 1328918400
+review/summary: Wouldn't buy again.
+review/text: Like some of you said, I only got 48 also.  Why do they advertise 50 and then send 48?  It seems minimal to us but 2 times the number of orders adds up for them really fast.  I don't like feeling cheated probably won't order again.  The coffee was strong.  I would compare it to Starbucks.  The order information says they have three different strengths and I didn't see where you can choose the strength so they shipped me Extra Bold.  I usually drink coffee black but with this, I make a 10 oz and 4 oz with one k-cup and then add some cream so I guess that knocks down the per cup price.  Still with feeling cheated, I will look for something better.
+
+product/productId: B005HUVJ0I
+review/userId: A6YB5Q2FUWYOF
+review/profileName: Michael E. Smith
+review/helpfulness: 1/4
+review/score: 3.0
+review/time: 1232150400
+review/summary: Good but not as good as Full City
+review/text: This is a good coffee from Tully's, but it is not as bright as Full City.  Seems to be a little strong without the flavor you hope from a stronger coffee.
+
+product/productId: B005HUVJ0I
+review/userId: A2P62HX2E8P6AW
+review/profileName: M. Schuerman
+review/helpfulness: 1/4
+review/score: 5.0
+review/time: 1227052800
+review/summary: Coffee from Amazon
+review/text: I have no problem with Tully's Coffee or any of the coffees presented by Amazon.  I have a problem with ordering coffee through Amazon. The one time I ordered coffee it took forever and a day to arrive.  So I decided that made no sense when there are other websites that get the coffee delivered to your door much faster than Amazon can.
+
+product/productId: B005HUVJ0I
+review/userId: A17U5VLTR8RE6J
+review/profileName: L. Pounds
+review/helpfulness: 3/11
+review/score: 3.0
+review/time: 1306886400
+review/summary: Not crazy about the packaging..
+review/text: Was surprised when I opened the box and saw the k cups just loose, I wasn't expecting to receive it like that I guess. My first concern was seeing that some of the tops of the k cups are indented, so you wonder at first if their sealed. For the price, I thought it was a good deal. The shipping was slow though.
+
+product/productId: B005HUVJ0I
+review/userId: A12BWPJGMPOO3Y
+review/profileName: Susan Johnson
+review/helpfulness: 2/10
+review/score: 1.0
+review/time: 1322697600
+review/summary: K-Cups were BARELY out of date, but tasted very old
+review/text: K-Cup coffee was supposedly barely out of date, but tasted very, very old and I could not afford to order from Amazon as the ones I got were from Moriah Acres.
+
+product/productId: B000YAH1PS
+review/userId: A1110JSFHN4RW4
+review/profileName: Jerimi Paul
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1207180800
+review/summary: Avoderm Is A Hit
+review/text: We recently stocked a new kind of cat food formulated especially for healthy skin and coat. We brought one can home to try out on our three-cat focus group.<br /><br />First impression by the human is that it's really a disgusting looking food. Lumps of seafood and peeled whole shrimp, in a "fragrant" gravy.<br /><br />It is, however, highly palatable to kitty kind. The fragrance is an added bonus for older cats since they often start to lose their sense of smell after a certain age. So a strong smell makes the food extremely appealing.<br /><br />We split the can amongst our three cats, and the vote was unanimous. All three ate the entire treat bowl, not just the gravy, but the meat as well.<br /><br />So while it's not exactly appetizing to humans, cats really love it.<br /><br />Ingredients:<br />Sardine, Fish Broth, Shrimp, Crab Meat, Sunflower Oil, Salt, Guar Gum, Carrageenan, Tricalcium Phosphate, Potassium Chloride, Methionine, Choline Chloride, Taurine, Iron Sulfate, Zinc Sulfate, Vitamin E Supplement, Manganese Sulfate, Vitamin B1 Supplement, Vitamin B2 Supplement, Vitamin D3 Supplement, Folic Acid.
+
+product/productId: B000YAH1PS
+review/userId: AZG0XARYMT82I
+review/profileName: T. L. Youngblood "Scrap Maniac"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1199750400
+review/summary: Vet recommended, Cat approved!
+review/text: I adopted two very undernurished kittens from the Humane Society, whose on-staff vet said that AvoDerm dry and canned food is the best on the market for cats. When I took the kittens for their vet checkup 6 months later, my own vet also agreed that this is the best food available and was so pleased with the health of the kittens. My older cats have also seen a huge improvement in their coats -- much more silky and shiny, shedding is reduced and their weight is easily maintained on this food. I recommend trying this food if you have finicky cats or they have health problems.<br /><br />My cats absolutely LOVE all the Avoderm Select Cuts (chunky-style) flavors AND all the flavors of this pate-style food. The seafood flavors seem to be the most popular among the cats, but many vets recommend avoiding too much seafood for male cats due to the urine crystals it can cause. I started feeding the beef and chicken exclusively and they eat every last drop.<br /><br />Bottom line: It costs more than your average food, but it's worth every penny (buying it by the case can give you a pretty good discount from most vendors). If you consider that it keeps them healthier, which can save you from expensive vet bills in the long run, then it's worth it. Plus, think of the time you'll save not having to clean up after their shedding! Also, I've noticed that this brand does not result in the runny, smelly poo that some other, cheaper brands do. Try this food out on your cats -- you'll be pleasantly surprised.
+
+product/productId: B000YAH1PS
+review/userId: A13QI8AKS89N21
+review/profileName: J B
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1236470400
+review/summary: highly recommended for picky cats!
+review/text: This is my 1 year old cat's favorite food. In fact the only other wet food he'll eat is the other flavor of Select Cuts. I started him as a kitten on Wellness wet kitten food which he always seemed reluctant to eat. Ever since switching to this he will not eat any other brand, especially... gasp the pate style foods. He loves lapping up the gravy and then picking out the real shrimp and chunks of other meat. For a while I was wondering if they add something addictive to this food because he loved it so much.<br /><br />I love this food because it's no more expensive than other premium brands and is healthier than most. I recently also switched from Wellness dry kitten food, to the Avoderm brand and he likes that as well. I feed him both. His fur is shiny and he is active and healthy. That makes us both happy.
+
+product/productId: B000YAH1PS
+review/userId: A256AEHVHCMZR4
+review/profileName: Happy & Mad
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328313600
+review/summary: you can see how good this cat food is
+review/text: My cat gobbles this up.  And the avocado keeps her coat healthy,  When you pop the lid on this, you will see tiny succulent shrimp and crab meat and the fish parts.  You can see the high quality ingredients.
+
+product/productId: B000YAH1PS
+review/userId: AXHQLCGKPH4RQ
+review/profileName: Heng Cai
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1339459200
+review/summary: Cat doesn't like this product
+review/text: I purchased this due to high rating. My cat does not eat this Brand. He likes other seafood offered by whole foods or just tuna and salmon. I don't understand why. I will donate the rest of package to charity.
+
+product/productId: B000YAH1PS
+review/userId: A1YXCQHKK6XF4Y
+review/profileName: N. Rose "Consumer Awareness Advocate"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337644800
+review/summary: Looks like human grade seafood aspic!
+review/text: Cats really enjoyed this food. I give it to them as a treat meal only as I read that lots of fish in kitty's diet is not the best for them. Who knows? Know a neighbor kitty who eats only fish flavor cat food and seems to fine. This seafood is actually identifiable in the can - not just a mish-mash. Cute little tiny shrimp too. If your cat likes seafood - you will have a happy cat!
+
+product/productId: B001EO67NU
+review/userId: AZITOUS21EWG7
+review/profileName: jobakes
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: Tea bags
+review/text: I purchased four boxes of Tetley decaffeinated tea bags. The price was much lower<br />than ZI could purcase Lipton brand at the store. The quality of the tea is excelent.<br />I will purchase the product again.
+
+product/productId: B001BMDERC
+review/userId: A28ZZK3OEJW3ZP
+review/profileName: UVA Mom
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1324512000
+review/summary: Be aware of packaging!!
+review/text: I had ordered the spaghetti & it was wonderful, so I ordered the pasta.  I knew it was coming in a "bulk" order, but I didn't expect it just thrown in a box!  It comes in a large cardboard shipping box.  When I opened it, there was a flimsy plastic bag with the 10 lbs of pasta.  No advertising, no individual boxes.  The bag was ripped in several places and the pasta fell all over like those annoying packaging peanuts!  I like the product, but I just didn't know I was going to have to find several storage bags to keep it in.  Just be aware!
+
+product/productId: B001BMDERC
+review/userId: A23DGRCYD5XDLZ
+review/profileName: Deborah D. Conicelli
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332547200
+review/summary: DE BOLES PASTA SHELLS
+review/text: i Love pasta, but it is fattening.  This pasta is delicious and has no starch to turn to sugar and then fat.  It is made with artichoke flour.  Dr. Oz has said it is the pasta he eats all of the time.  Not only is it good for you, but it tastes exactly like the white flour pasta.  You can eat it with sauce and also butter and parmesian cheese and it is amazing. You can also add it to your soups, and it will be great tasting and less than half the calories of the white flour pasta per bowl.  I will order this again,and again.  I just wish they had it in a smaller box, but the pasta is wonderful.  It also comes in  angel hair pasta and fettachini.  I would recommend this to all the pasta lovers who don't want to get fat.  It arrived on time, was packaged securely.  I will use this vendor again.
+
+product/productId: B001BMDERC
+review/userId: A3B6OPMZQ9DIO4
+review/profileName: SAS Afficionado
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1348531200
+review/summary: Horrible packaging; questionable glycemic response
+review/text: We purchased this on Amazon because we have never found it locally.  Ideally I would have purchased far less than 10 pounds but it is the only size sold on Amazon.<br /><br />As another reviewer noted the packaging was horrific.  We inadvertently opened the bottom of the box.  Inside was a very thin plastic bag - similar to those one finds wrapped around clothing at the dry cleaners.  We tried to carefully pull the bag out of the box but couldn't find the top - was it sealed or tied ?  Of course, it was neither - it is just an open bag!  Half the shells poured into the cardboard box.  Finally got them back into the giant bag and the cardboard box didn't look so good - it had light stains as though it may have gotten wet somewhere in its journey from origin to home.  This is NOT a very appetizing way to receive food.  I wonder if this is a safe plastic.  Sadly, it looks like someone tossed a giant pile of pasta into a trash bag.<br /><br />The photo on Amazon's site is the appealing bright yellow box; it would certainly be far nicer to have these individually packaged.<br /><br />At least the pasta is very good tasting.  All of the De Boles we've tried are similar - very tasty but one needs to watch carefully when cooking.  Al dente is our preference and these cook more quickly than standard pasta.<br /><br />As far as Dr. Oz's endorsement I am skeptical.  This product is not purely Jerusalem artichoke - it also contains wheat flour;  his show stated that one doesn't get the sugar highs and lows but we feel like we do.<br /><br />The De Boles spaghetti that we find locally is very expensive compared to other products so it would be nice to determine exactly how much jerusalem artichoke flour is used and exactly what the glycemic impact is upon one's body.
+
+product/productId: B001BMDERC
+review/userId: A2JOXNB0LZV9HV
+review/profileName: A. Godfrey "Drink Raw Cow Milk"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1289865600
+review/summary: Great Noodles
+review/text: I have these noodles on a set order basis, they are very good, easy to cook, clean and in whole shapes (not broken).  I would highly recommend this product as I have no complaint whatsoever.  I have been getting them for around a year and have been happy with each shipment.
+
+product/productId: B001BMDERC
+review/userId: A2737AE47DKEAN
+review/profileName: Mr Mardi Gras "MG"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351209600
+review/summary: Deee-licious...and NO heartburn!
+review/text: Regular semolina shells give me heartburn that have killed 2 horses, bless their hearts.<br /><br />You won't have the spike in insulin, then drop, causing you to want to sleep for a few hours.<br /><br />The shells come in a large plastic bag inside a non-descript box.<br /><br />Freshness, thanks to putting them in baggies, was as good on the 1st day as on the last day, which, coincidentally, was 2.5 months later!<br /><br />Whole Foods would charge at least twice this much, probably more.<br /><br />No heartburn.  Plenty of shells at my beckon call.  Great price.<br /><br />You're welcome.
+
+product/productId: B001BMDERC
+review/userId: A2FJWOW5S5OJR5
+review/profileName: JC
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332028800
+review/summary: I love DeBoles Artichoke Pasta
+review/text: Jerusalem Artichokes have so many health benefits, so why not get those while getting your pasta fix?  The shells aren't my favorite, but if I need an emergency supply of pasta, I am not going to starve.
+
+product/productId: B001BMDERC
+review/userId: A3S4IE3JH3NP1C
+review/profileName: Old Dan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322006400
+review/summary: Product Was Good for Gluten Free
+review/text: Texture was acceptable.  Not too mushy.  Not to hard.  Taste was OK.  Better than rice, corn etc...  I would recommend it.
+
+product/productId: B0029JZLVI
+review/userId: A2F76FU6INXYQ9
+review/profileName: Bernice
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1268611200
+review/summary: grocery item
+review/text: I was pleased to get this BBQ sauce. I wish I could get more. So disappointed that they quit selling this one. Thanks for having it on hand.
+
+product/productId: B0029JZLVI
+review/userId: A2M3475QHHNKFI
+review/profileName: Cynthia Carol
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1264896000
+review/summary: Best BBQ sauce on the market ... or off!
+review/text: I've used this sauce for years, and it's the best-tasting one I've found (Cook's Illustrated even called it the best pre-packaged sauce available!) Then it suddenly disappeared from all the store shelves in my area (not just the hickory -- ALL Bull's Eye sauces.) Someone in a BBQ review forum speculated that Kraft had bought the brand just to take it off the market, since it was a major competitor against all other Kraft BBQ sauces. If that is indeed the case, BOOOOOO Kraft!
+
+product/productId: B0029JZLVI
+review/userId: A2A76XZQACVMV
+review/profileName: Pamela Babbitt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280793600
+review/summary: Best Barbecue Sauce made
+review/text: This is a very good product it is a shame I can't buy it anywhere I live.
+
+product/productId: B002MXU53A
+review/userId: A1A6KCAXLD61QI
+review/profileName: Matt Running
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1270512000
+review/summary: Old
+review/text: Have purchased this tea and others from this store; they were all old as if they sat on a shelf for a long period of time.  Will not purchase from them again.  Price is OK for the amount but maybe that's why its old.
+
+product/productId: B002MXU53A
+review/userId: A199KUEQR8SVD4
+review/profileName: Kathryn Ringoen "Kat"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1267574400
+review/summary: Russian Caravan Tea
+review/text: This tea smells and tastes like a fine loose leaf tobacco.  I just quit smoking so naturally I love this tea, it is a much healthier alternative to cigarettes.  It does have a very bold smokey flavor, if this taste is not 'your cup of tea' then this is not for you.
+
+product/productId: B002MXU53A
+review/userId: A38GL1KNDJEREL
+review/profileName: M. Bacon
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1264896000
+review/summary: Czar nick Russian tea
+review/text: The tea was good but it was of the "smoked" type and I do not care for this especially.  It did not specify this in the description of the product in the ad.
+
+product/productId: B0000DJDL4
+review/userId: A1Y20KNCR0SZA1
+review/profileName: Dessartfamily "grandmasoven"
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1072915200
+review/summary: The best Kringles ever
+review/text: Others try to make kringles but there is only one bakery that makes them the real danish way. That is O&amp;H Don't be decieved by the dry tasteless garbage others try to pass off as a kringle.
+
+product/productId: B0000DJDL4
+review/userId: A3KDXZ5J4RLQ6Y
+review/profileName: Spartacass
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1325376000
+review/summary: Customer Service Skills Lacking
+review/text: I placed an order for 4 separate Kringle's to go to 4 separate addresses.  One of the orders was never sent by the company.  They basically ruined somebody's Christmas gift.  A couple days after Christmas, all I got was an apology and they said they would refund the one Kringle purchase. You'd think they'd do something to make up for their mistake, especially considering how many orders I placed.  Enjoy the money you got from this years Kringle purchase, because it will be the last time I'll ever place an order there.  There are other bakeries that do mail order.  You apparently want my money more than you want my business.
+
+product/productId: B0000DJDL4
+review/userId: A1GF64SSL6WGJB
+review/profileName: tanstaafl2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293667200
+review/summary: Christmas Kringle
+review/text: These danish pastries arrived as promised and were fresh and tasty as expected. Ordered on a Saturday but made it out the following Monday and arrived as hoped for a party that following weekend. Was concerned it might not make it in time but they did and were a big hit at the party. Interestingly two other Kringles ordered as gifts at the same time did not ship until the following week. Fortunately they were not intended for the party and the later shipment did not cause any problem.
+
+product/productId: B0000DJDL4
+review/userId: ALXRZ6FWRUBW6
+review/profileName: Paula M. Matte "Yorkie Mama"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1261353600
+review/summary: O&H Kringles Yum Yum!!!
+review/text: We've had Kringles many times in the past but this was our first experience with O&H Kringles.  People, these are the best we've ever had. So rich, buttery and full of wonderful filling, not skimpy like a lot of Kringles from Wisconsin.  Try them, you will never order from anyone else.
+
+product/productId: B0000DJDL4
+review/userId: AXU8RH1DEV21H
+review/profileName: John Piquette "John P"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229904000
+review/summary: My Sister Said It Was Very Good
+review/text: I sent this as a gift and the review from my sister was very good. She and her family and all the kids loved it. She said it was sweet but baked very and tasted so good. So maybe I should have sent it to me.
+
+product/productId: B0000DJDL4
+review/userId: AXU3QP607DDVD
+review/profileName: Amber Ellis "squiddyzmom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1228521600
+review/summary: The best kringle EVER!!!
+review/text: My family has been ordering kringle from O&H for over 30 years and it's consistently delicious and always arrives exactly when you request. My all time favorite is raspberry, but cherry and apricot are close seconds. You will NOT be disappointed if you order kringle from O&H...we have been given other kringles in the past and none of them compare!
+
+product/productId: B0000DJDL4
+review/userId: A15SCA1C3F22KW
+review/profileName: Mom2two "sdbartels2"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1067990400
+review/summary: Great Holiday tradition
+review/text: Our family has been giving and recieving Kringle for many years. It is one of our Danish tradtions. Having had family living in Racine, Wisconsin we know first hand that O&amp;H is the best.
+
+product/productId: B001QXZ8ES
+review/userId: A3HJN1WPAPDF4T
+review/profileName: K. Saxena
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1269993600
+review/summary: really good
+review/text: We tried Tortuga Rum cake while vacationing in Bahamas...many told us that Bacardi rum cake is really good...well if you try this one you are not going back to Bacardi Rum Cake..we tried almost 5-6 flavors of Tortuga and most of them are nice..Our all time favorite is Chocolate Rum cake..<br /><br />After coming back from Bahamas, we ordered these cakes through Amazon and whenever we take a bite..it freshened up sweet memories of Bahamas..
+
+product/productId: B001QXZ8ES
+review/userId: A1OLGW6LUM9M5U
+review/profileName: NenetteU
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1289779200
+review/summary: Great as a gift!
+review/text: I bought this as a gift to my mother on her birthday.  She loves sweets, and since I have learned that most of the previous gifts I sent her have been re-gifted (clothing, jewelry, and anything of the kind), I figure this is the best I could give to a very wonderful woman who's not wanting.  I have never seen the actual product as my mother lives quite far from me, but she just enjoyed it a lot she went out of her way to tell me (her compliments are precious).
+
+product/productId: B001QXZ8ES
+review/userId: A23Y03N4J1I15Z
+review/profileName: Ian N.
+review/helpfulness: 6/7
+review/score: 3.0
+review/time: 1276560000
+review/summary: Not Bad
+review/text: I wasn't very familiar with rum cakes but I wanted to pick up a cake off of Amazon. I think that I just don't really like chocolate rum cake so I'm probably being a little too harsh. Still... it was just okay. Not a bad gift idea though.
+
+product/productId: B001QXZ8ES
+review/userId: A1681YJX3SDALQ
+review/profileName: Pighoooey
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1317945600
+review/summary: Good, but not great
+review/text: Overall, a good cake, but not gourmet or great.  If I saw this in a bakery, I would not pay $14 for this cake.<br /><br />Good size - for a family of four, you would get two good servings each<br />Attractive packaging<br />Okay taste - you get the distinct flavor of rum, but the chocolate is missing<br />I missed the dried fruit - A rum cake without raisins?!
+
+product/productId: B001QXZ8ES
+review/userId: A37EZQY4SG9EYS
+review/profileName: Flying Frog
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295308800
+review/summary: Really Delicious!
+review/text: We just had this tonight and it was so good I could have eaten the whole thing!  I wouldn't hesitate to buy it again.
+
+product/productId: B001QXZ8ES
+review/userId: A1GC5KDW33ASB9
+review/profileName: M. Medina "MM"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288569600
+review/summary: Wonderful taste of the Caribbean Islands
+review/text: I just came back from the Bahamas, where I had the opportunity to taste the delicious Bahamian Rum Cake in the Rum Cake Factory. Back in NY, I tried to find a place to buy some unsuccessfuly. When I found it in Amazon, I ordered the package of 6 samples and the flavor is exactly the same, not to say even better. I am delighted and expecting to order more for Thanksgiving and Christmas.
+
+product/productId: B001QXZ8ES
+review/userId: A1O5P6F2FRMAS2
+review/profileName: Cheerful Reaper "Phil"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1269475200
+review/summary: Rum Cakes
+review/text: We had these cakes sent to our son who is in training for the Air Force.  He thought that they were great.
+
+product/productId: B001QXZ8ES
+review/userId: A2L7V3I563GBS7
+review/profileName: GS
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: Good gift
+review/text: I sent this as a gift to my son at his dorm. It was a "congratulations on your great grades" thing. He enjoyed the cake.
+
+product/productId: B001QXZ8ES
+review/userId: A1GGU4VC3RYQJ
+review/profileName: J B
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348876800
+review/summary: Juicy, moist, pleasurable flavor in your mouth!
+review/text: This is a great item to buy! It smells and tastes great! whether you get chocolate or any other flavor! they are all delicious!
+
+product/productId: B001QXZ8ES
+review/userId: A1JFNZ4UAMEZN3
+review/profileName: Joe496 "kittybaby"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346889600
+review/summary: This fruitcake isvery
+review/text: delicious and worth every penny paid for it.  It has extremely good taste and highly recommend it to someone wanting to try something different.
+
+product/productId: B001QXZ8ES
+review/userId: A2AP5AKRAL93UE
+review/profileName: dave
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332979200
+review/summary: AWESOME
+review/text: WOW!!!  This cake is the best cake I have ever had, with or without booze.  Deep chocolate flavor, moist and very succulent.  Ordering more right now.
+
+product/productId: B001QXZ8ES
+review/userId: A1Q7A78VSQ5GQ4
+review/profileName: Nice Lady "a reasonable person"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: Excellent little chocolate rum cake.
+review/text: Personally, like this one better than the Key Lime cake, although both are great. No refrigeration required, making this an ideal little Goody to keep in your cupboard for those unexpected guests.  Nice to have on hand for those special ooccasions when a little treat is desired.  Rich, wonderful taste, great cake texture, and awesome fragrance. Enjoy!
+
+product/productId: B001QXZ8ES
+review/userId: AMBJQQSRCAOHS
+review/profileName: Scott_Andrews
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315180800
+review/summary: Good But Not worth price
+review/text: This cake was really good, but it wasn't worth the amount of money spent on it. Easier to make your own.
+
+product/productId: B001QXZ8ES
+review/userId: A3SV9SC2AD4FKM
+review/profileName: easterk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299542400
+review/summary: Great Gift Idea
+review/text: I am a college student and was away for my mother's B-day and didn't know what do send her. I thought this was cute, inexpensive, and might be fun to try. My family loved it and apparently it tasted quite good and had a pretty strong rum taste. Recommend for an informal gift!!
+
+product/productId: B001QXZ8ES
+review/userId: AH0JS6326668M
+review/profileName: Laura in Alaska
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1348790400
+review/summary: All dough and No Rum!
+review/text: The chocolate might have been good<br />If the cake had been baked proper.<br />Tasted like they started to cook<br />The cake then changed mind. It<br />was so  doughy.If they put<br />any Rum in it must have used<br />An eye dropper.<br />Will never buy again.
+
+product/productId: B004598EUU
+review/userId: A2K7V3G4598QRF
+review/profileName: Sweet Kawaii
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Tastes really good.
+review/text: I don't really like Swiss Miss. I love this brand. I really does taste like milk chocolate to me. I love to put to packets in my coco cup!
+
+product/productId: B004598EUU
+review/userId: A3JLECMNWC4LDY
+review/profileName: Lorinzo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325980800
+review/summary: Yummy!
+review/text: This is my favorite of the inexpensive hot chocolate beverages. I think if they had one with extra mini marshmellows, it would make my day! My mugs are more than 6 oz. I never measure it and sometimes I get more water in there, which means I have to go to a bigger mug and add another envelope! I've tried Swiss Miss and Land-o-Lakes but they just don't taste good to me. Celestial Seasonings makes a Tuscany flavored tea. The grocers where I live, don't carry it anymore. But those two together are MARVELOUS!! It tastes like a cinnamon hot cocoa toddy, without the alcohol AND without the metallic taste due to the packaging. CS doesn't use metallic paper, like Twining and Bigelow do.
+
+product/productId: B000PP0WGM
+review/userId: A2A1XYSB692L6J
+review/profileName: Patricia "A Reader"
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1253664000
+review/summary: N O T......T H E......L I P T O N.......I......G R E W......U P......W I T H
+review/text: THIS TEA PACKAGE, (Lipton Black Tea, 100% Natural, Tea Bags, 48-Count Boxes, (package of 12) equalling a total of 576 tea-bags, SEEMED like a tremendous bargain!  I'd always enjoyed Lipton Tea growing up....  And, though I noticed another type of Lipton Tea was also on sale: Lipton "Yellow Label" Tea...slightly more expensive, but boasting itself to be "better tasting tea", I know I have always enjoyed and been perfectly satisfied with Plain, Regular Lipton Tea.  So, I decided that was what I would buy....<br /><br />"SO FAR, SO GOOD" DEPARTMENT<br />=============================<br />When I opened the package, I was delighted to find that each box was individually wrapped, to keep in the fragile tea flavour.  I had always used the 100-bag box at home, so getting used to this smaller box would, I realized, take a while...<br /><br />I was surprised to find that there was only a smallish picture of Thomas J. Lipton, 19th-century founder of the Lipton Tea Company, on the bottom-right of the package.  Inside, the tea-bags were lined up, just as before, in individual paper wrappers, which UNwrapped to provide, not only a tag, but the entire wrapper, to provide balance, and easily allow the tag not to fall in.  I noticed that, sadly, a picture of Thomas J. Lipton, heretofore proudly placed on each tea-bag wrapper, was no longer on each paper wrapper...  But this was a small matter....I supposed.  I prepared my tea, (I like 2 bags in a 20-ounce glass), and when the colour had reached the correct darkness to my taste, I took out the tea bag, added some sugar, and -- after a few minutes to let the brew cool off -- drank it.<br /><br />"WHAT IS THIS????..! " DEPARTMENT<br />==================================<br /><br />But when I drank it, I scarecely believed I was drinking tea at all!<br />Not Lipton Tea, as I remember it, anyway.  The slight flavour that did come through was bitter.  I was glad it wasn't stronger.  Adding sugar made it only slightly more palatable.  (I don't like milk IN my tea...if I must drink milk WITH my tea, I use a separate cup, nearby).  I remembered the "Yellow Label" Tea, and have come to a startling conclusion.  Is it possible, I wondered, that, instead of "Yellow Label" Lipton Tea being a newly-developed, superiour tasting tea, that "Yellow Label" tea is actually the reglar Lipton Tea I had grown up with, and that this "bargain" tea I had bought, was actually a newer, cheaper variety?  I don't know...I can only suppose....  (As the theme-song goes on the great TV show, 'MONK': "I could be wrong here...but I don't think so.")<br /><br />Going to Amazon to write this review, I noticed yet ANOTHER orange-pekoe variety of Lipton Tea.  The gourmet "Brisk" Lipton Tea,  It boasts that each bag has four brewing sides....but my much cheaper Lipton Tea, here being reviewed, ALSO has four brewing sides to each bag.  It's enough to make a person become tea-ed, (or rather, "keyed"), up.  And confused.  Which tea is the Lipton I grew up with?  If, indeed, Lipton now makes it's least expensive tea from formerly unused, inferiour tea leafs, it should label THIS (new????)<br />as its "Bargain Blend".  And the old, familiar tea, (now called "Yellow Label Tea"?), as the "Original Blend."  Then again, the Lipton's Tea I grew up with, always called itself "the Brisk" tea....as is now in the gourmet blend.  I guess I'm confused here.  Maybe the "blend-switching" hasn't taken place at all -- and it's just mu ageing taste-buds that are at fault?  A little truth in advertising is strongly requested, here!<br /><br />At any rate, after drinking 3 cups of tea, with two tea bags for eah cup, (or 20-ounce glass), I now have 570 tea bags left.  I won't throw them out....but will (sigh!), have to make them into tea. The tea is not unpalatable -- just largely tasteless, with a hint of bitterness thrown in.  I guess I'll just be drinking a LOT of tea, in the near future, so I can use up these 570 bags of tea up, before I buy the Yellow Label or "Brisk" varieties.  Had the tea been more properly labeled, ("Bargain Blend"), I might have paid a little more for the Lipton Tea I (think), I grew up with.  As it is....well, maybe I can make my spaghetti and vegetables healthier, by boiling them in tea, rather than in plain water.<br /><br />Sigh......
+
+product/productId: B000PP0WGM
+review/userId: A3M8R4JD1SIS76
+review/profileName: 'MaryLou Cheatham "The Collard Patch"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1212192000
+review/summary: We like this tea.
+review/text: We like Lipton Tea (<a href="http://www.amazon.com/gp/product/B000PP0WGM">Lipton 100% Natural Tea, Tea Bags, 48-Count Boxes (Pack of 12)</a>).  We drink it iced or hot.  Sometimes we put it in a big jar filled with water and set it outside in the sun all day to make sun tea.
+
+product/productId: B000PP0WGM
+review/userId: A2TBUQDGDDG0VY
+review/profileName: G Leftwich
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1193443200
+review/summary: Good buy
+review/text: This is a good buy after you add the extra ten dollars off that amazon offers now and then. Order enough to get free shipping and you can't go wrong.
+
+product/productId: B000PP0WGM
+review/userId: A2XKJ1KX6XUHYP
+review/profileName: NYFB
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1325808000
+review/summary: Black...
+review/text: I consume few cups of tea on daily basis. This is the most consumed tea all over the world and I consumed this for years but the taste is bitter for me now. I consume Kirkland Signature Ito En Matcha Blend (Green Tea), 100% Japanese Green Tea Leaves with Twinings Earl Grey Tea. If I have any cold or just do not feel well, I add some Cognac or Brandy to the mix and wolla, it is the best medicine out there for revitalization...
+
+product/productId: B000PP0WGM
+review/userId: A2KDJIGQ0FAJQ
+review/profileName: A. J. Krusz
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1234224000
+review/summary: Substandard quality tea
+review/text: The bitterness in this tea is way too strong, and the flavor weak. It leaves a strange, bad taste on the sides on my mouth when I drink it plain. It's only really drinkable with milk and sugar, or iced with sugar.<br /><br />Instead, I'd recommend trying a nice looseleaf black tea. Failing that, try Lipton's Black Pearl if you want a decent bagged tea that is easy to find. Twinings "Prince of Wales" is another good bagged tea.<br /><br />BTW, "Orange Pekoe" does not refer to the flavor of the tea. It refers to the size of the tea leaf pieces. Strangely, Orange Pekoe is used for large pieces, whereas this tea contains smaller pieces - yielding more bitterness. I'm not sure why they use this term.
+
+product/productId: B000PP0WGM
+review/userId: A2JOAZJMVR2JI5
+review/profileName: Samuel D. Thomas "sd thomas"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1225584000
+review/summary: Good buy
+review/text: These are standard Lipton tea bags, like at the super market but at considerably less money.
+
+product/productId: B000PP0WGM
+review/userId: A1XCTN6YEY90TL
+review/profileName: BlueMoon "Julie"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1248825600
+review/summary: Lipton tea
+review/text: I love Lipton Tea, It's the best. I decided to stock up and it paid off, the price was right at the time of purchase and will purchase more by the case. If you love Lipton, get it here by the case. Take that Lipton Plunge.
+
+product/productId: B000VTRESQ
+review/userId: ACP54ME2YI1AI
+review/profileName: K. Burton "Term Limits"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251676800
+review/summary: Best Dog Bones in the World
+review/text: These bones are the best. Our yellow lab gets so excited when we take one out of the pantry. He starts running in circles, wiggling and squirming like a puppy. His favorite flavors are the green apple and cherry.<br />Keep 'em coming!
+
+product/productId: B004PZNEU4
+review/userId: A3L8QYYCE2T9UL
+review/profileName: Dakota3663
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1340755200
+review/summary: The picture should at least be similar
+review/text: This item is a big rip off the picture shown is not the item received it is half the size and unsatisfactory read the description carefully before you waste your money on such a small basket
+
+product/productId: B001BIXJG2
+review/userId: A3D4X61OK55P1W
+review/profileName: Dafoid
+review/helpfulness: 23/24
+review/score: 5.0
+review/time: 1331424000
+review/summary: Excellent, Please Keep Away
+review/text: My friends figured I was a heavyweight when it came to hot sauce. I douse most of what I eat in Tabasco sauce; I snack on jalape&ntilde;os sometimes. You get the idea. So for my birthday recently, I received The Source, innocuously perched on top of a small pile of gifts. I decided to try it the same day and to reassure everyone that my mouth was an impenetrable fortress. 7.1 million Scoville units seemed like quite a challenge, but is the sauce an unstoppable force against an immovable object?<br /><br />I tested it out on some chips and salsa (hot, of course) remaining after we devoured pretty much everything else. Just two or three drops mixed into this half jar of salsa should do the trick, right?<br /><br />I bit down onto the salsa-coated chip and immediately could not comprehend what was going on.<br /><br />My pupils must have doubled in area. My knees buckled. No one around me could understand the agony I went through past my teary blubbering and groans. The first bite had a profound effect on my senses as the world faded around me, but would only become more intense with time.<br /><br />I couldn't think straight. I gagged, I wailed, I pleaded for help. My bowels broke down as the salsa dripped little by little into my esophagus, making a sound like a dragon's gullet before projecting flame.<br /><br />My body had prepared itself for only the mildest of capsaicin encounters. Not even a steel maw could have stopped this. And as if the dragon noises were omens, I returned to my senses and vomited. All over the table, some of the guests, everywhere. It was a travesty. The Source's foul domain flew out in a projectile, but soon followed the cake and pizza. Then everything. I'm pretty sure blood made it in there.<br /><br />I only felt alleviated while breathing again after the ordeal. However, by no means did the unholy taste leave. It coated the inside of my digestive tract like some sort of visceral cinnamon challenge. I, no longer having anything to puke, writhed and rolled around for a moment and relieved my bowels before sensing the darkness take over me.<br /><br />When I came to, I was in a hospital bed and understandably confused. Only an hour later did the head doctor come around to checking me. Apparently I became comatose for several hours as my gut deteriorated. With successive stomach pumps, though, I survived.<br /><br />tl;dr: this stuff works. Please keep it away from me, and if possible, yourselves.
+
+product/productId: B001BIXJG2
+review/userId: A3DH4ZP2L236UW
+review/profileName: J. Eisenhauer
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1267315200
+review/summary: Hot Enough to be "The Source" of the Big Bang!!!
+review/text: I just started "officially" collecting hot sauces / extracts this year...2010. Although I just started collecting as a "hobby", I've been a fan of hot foods for decades. Plus, I've grown many different peppers including but not limited to jalape&ntilde;o, Cayenne, and Haba&ntilde;ero.<br /><br />I thought I knew "hot"...until I tried "The Source Collectors Extract". This extract is rated at a nuclear 7,100,000 Scoville Heat Units (SHU)!! I've tried it both as a food additive and directly on my tongue (DO NOT TRY THE LATTER). This stuff is the hottest of ANY sauce / extract I've ever had...and I've had a lot. There has been a few close seconds but they just didn't quite have the same peak heat or staying power. "The Source" is hot instantly and you think, "WOW, this IS HOT", but then it creeps up on you even more until your reaching for some milk...ice cream...water...anything to make it stop!!!<br /><br />This is my personal favorite and I highly recommend "The Source" to anyone who is a true hot pepper enthusiast.<br /><br />Five Stars!!!
+
+product/productId: B001BIXJG2
+review/userId: APCW996IEJC42
+review/profileName: Bill Hohneke
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1261008000
+review/summary: Don't let the little bottle fool you...
+review/text: ...it will last you a very long time.  I use it almost daily and my last bottle lasted over a year!  I use a drop or two (dropper is included in cap) and mix it up thoroughly with whatever I'm eating but, honestly, I would not recommend that for most people.  Actually, I don't think I could recommend this product unless you have "graduated" through the ranks of chili extracts.  If you've tried Da' Bomb, Dave's Insanity, or Blair's "a.m. series" and you're ready for the next step, then most definitely order The Source.  If not, start with one of those (or a lesser hot sauce even).  Your taste buds, or what's left of them, will thank you.
+
+product/productId: B001BIXJG2
+review/userId: A3BNZ8M9CLWWOA
+review/profileName: R. Reiterman
+review/helpfulness: 9/12
+review/score: 5.0
+review/time: 1256169600
+review/summary: Not for the faint of heart
+review/text: This is my second bottle of The Source now and I must say, if you have never experienced real hot sauce, you are in for a big surprise. This stuff is not to joke with friends about as you can seriously injure someone with it used inappropriately or against the manufacturers' guidance.<br /><br />If this is your first time tasting real hot sauce, one drop per pot of chili is more than enough. This is not the hottest stuff available but it is one of the best "hot to price" ratios you will find. It has a rating of 7.1 million scovial units where I think a habenero pepper is only about 500,000 units. The high end sauces range around 14-16 million I believe.<br /><br />Having a chili cook off soon? One or two drops of this in the entire pot of chili and you'll be a sure fire "hottest!" category winner I bet.<br /><br />Do not eat this stuff directly from the bottle ... do not give it to children and be sure to wash your hands 4-5 times if you get it on them. Keep away from your eyes at all costs!
+
+product/productId: B001BIXJG2
+review/userId: A1JPBW3NF8337O
+review/profileName: Brian
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333843200
+review/summary: Gawd damn!
+review/text: Blood came out where it shouldn't be coming out of and from more than one place. I was like, "shieeeeet!"
+
+product/productId: B001BIXJG2
+review/userId: A12P6W5Y7HUDJU
+review/profileName: Zachattack
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343692800
+review/summary: Fantastic!!!
+review/text: I have had many types of hot sauces including Satans Blood, Da Bomb, Mad Dog and many more. This is by far the hottest sauce(extract) I have ever had; the pure heat packs alot of punch and is not for the weak of heart! When I first tried it on a toothpick the heat immediately numbed my mouth and began burning my throat; soon after my mouth began to burn as well and the heat as well as the burn was the most intense thing I have ever tried or tasted. Well worth your money, and of your a true chile head or sauce enthusiast it is a MUST buy!!! Fantastic product and goes great with all types of foods.
+
+product/productId: B001BIXJG2
+review/userId: A3VD6XVX0HCZVS
+review/profileName: tayfont
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337558400
+review/summary: Made my ears burn
+review/text: Wow I though the ghost chili had intense heat until I came across this bad mother. I used this in a batch of cambodian noodle soup and it punched me right in the mouth with flavor and heat! Be careful!! It is as hot as you think it is.
+
+product/productId: B001BIXJG2
+review/userId: A2BWW1MJTIC182
+review/profileName: shmackle
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336521600
+review/summary: The Source of painful pleasure!!!
+review/text: This stuff is awesome! I add 1 drop to about 2ozs. of my favorite wing sauce and it takes a great flavor to new heights. Be prepared with your best cooling beverage to cool the flames!
+
+product/productId: B001BIXJG2
+review/userId: A8JHSPW2CXXEA
+review/profileName: Txag1986
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322524800
+review/summary: AWESOME
+review/text: This sauce goes on about everything I eat. It makes great wings, and also is fantastic on pizza. I love it!
+
+product/productId: B001BIXJG2
+review/userId: ASCC02NT25GY0
+review/profileName: Limitin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319414400
+review/summary: Hot Stuff!
+review/text: This is one hot item. It tastes fairly nasty, but if you ignore the warnings and try it plain, it is some of the hottest stuff around! The burn feels painful, yet satisfying.
+
+product/productId: B001BIXJG2
+review/userId: A2SI5MRWUYGEXY
+review/profileName: Matthew Corn "YARRR"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301443200
+review/summary: Just ordered it, I am scared....
+review/text: I wasn't always like this... I used to duck and cover when hot came around. Then about a dozen years ago, I tried some fresh cayenne, and got the bug.<br /><br />So, my most recent antics have been dried Ghost Peppers. Ate a whole one (not one of the dark colored, boiled/steamed sanitary weak ones) during Superbowl halftime, and finally felt real pain. But then I made wings with them, made chili with them, added them to my Sriracha chili sauce. No longer do I get the adrenaline rush like before....<br /><br />So... It is hot, very very hot. I like Tapatio for general "saucing", love it's flavor. Now my Tapatio has about 8 drops of Source in it, and it has the delicious flavor, AND the monster heat. After having The Source, Ghost Peppers are a silly kids toy, tabasco is something you hydrate with on race day, and your entire family will stop eating anything you own. It's kinda nice, actually, having an entire plate of hot wings that are both truly hot and delicious, and safe from even my idiot dogs! I have a feeling this bottle is going to last about a year, then I'll get another.<br /><br />Also, I have tried it a few times on a toothpick, and made some red beers and bloody marys with it, even got it in my eye when the cap broke... Soooooo hot. Whole new level compared to normal peppers and whatnot.
+
+product/productId: B001BIXJG2
+review/userId: AGSFAXJ3T0V1Q
+review/profileName: Pen Name
+review/helpfulness: 1/15
+review/score: 1.0
+review/time: 1341100800
+review/summary: Not hot
+review/text: I thought this was supposed to be hot. I took a dab and it was nothing. I ended up with a huge spoonful and all I can say is 'meh I've had better'
+
+product/productId: B001BIXJG2
+review/userId: ALD7WORO881E1
+review/profileName: K.K.
+review/helpfulness: 0/15
+review/score: 4.0
+review/time: 1264291200
+review/summary: Gift
+review/text: My father in law is a REAL hot sauce lover. We bought this for him for christmas. The verdict is still out.....
+
+product/productId: B001BIXJG2
+review/userId: A3KK4VNRZBP4R1
+review/profileName: Spicy Fan
+review/helpfulness: 0/24
+review/score: 2.0
+review/time: 1297900800
+review/summary: Not That Hot
+review/text: The liquid was hot but no where near what anyone on here has said. I went through a bottle in a week on wings and in home made hot sauce. Not worth the money in my mind
+
+product/productId: B000BLNTX8
+review/userId: A2KSP2NXQD7Q6P
+review/profileName: K. COGGINS "DarnRedhead"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332979200
+review/summary: 7 Dog House for Great Treats
+review/text: I have 7 wonderful dogs that deserve great treats!!! This handy bucket with handle is a great little item containing treat favorites of all my dogs! According to them, these treats are a winner!!! I will definitely continuing purchasing this item to keep them happy  ;)
+
+product/productId: B005EOQ5QA
+review/userId: A1GWTBVZL72PDK
+review/profileName: Crystal Landers
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342656000
+review/summary: Pillsbury lemon cake
+review/text: It is no longer available in store.s. I wish someone would bring it back. Your cake is great.more people felt the same way. It is better than all the other cake mixes by other companies. Without you I would not be able to geit them. thanks again I love the funfetti one too.
+
+product/productId: B000EM9E2Y
+review/userId: A2T2ENNHCM8242
+review/profileName: Momof three
+review/helpfulness: 12/13
+review/score: 4.0
+review/time: 1161216000
+review/summary: yummy
+review/text: They taste like those little bits of cheese that melt out of a grilled cheese sandwhich and get a little burnt by the griddle.  I think they taste great...but they do have a bit of sodium in them...
+
+product/productId: B000EM9E2Y
+review/userId: A3BTKWBBIQIQ76
+review/profileName: Joy
+review/helpfulness: 9/10
+review/score: 1.0
+review/time: 1162598400
+review/summary: Ummmm, No thanks......
+review/text: This "snack" (lol) tastes like cheese that had been baked in the oven for about a month. Kinda looks like it too.  Make sure you have a beverage near by when you try them...very very dry.
+
+product/productId: B000EM9E2Y
+review/userId: A1ZJ82I75RBNVE
+review/profileName: California Dreamin'
+review/helpfulness: 6/6
+review/score: 3.0
+review/time: 1181606400
+review/summary: Didn't hate 'em, but didn't love 'em!
+review/text: These snacks are ok, as previously reviewed, but not great.  Alot of them taste, and look, burnt.  They just need to not cook them so long, as the light-colored ones are better. It is a good low carb snack as far as that goes, but I can't eat a whole bag of them at once, either, and the bags are small.  I didn't find them to be overly-dry, as I read before purchase, and they were not too salty.  I did buy the low salt for fear of that, and they were fine.  I won't buy this flavor again, but maybe a different one.  I din't hate these, but didn't love 'em either.  I hope the manufacturer reads these to perfect the recipe, cause they are on to something good.
+
+product/productId: B000EM9E2Y
+review/userId: AXSRCVJSQBJBQ
+review/profileName: I_Got_Stuff
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1180137600
+review/summary: Best Lo-Carb Snack
+review/text: I was hesitant to order these after reading the poor reviews, but am I glad I did.  I give it 5 stars because this is the best lo-carb snack I have found.  The taste is not out of this world but is good for a lo-carb item.  Also, they are filling.  I can't eat a full bag at one sitting like I would have done with many other snacks.  I am buying more today.
+
+product/productId: B000EM9E2Y
+review/userId: A3I1LYDUSZSGUY
+review/profileName: John D. Steere
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1301270400
+review/summary: Great snack food for low carb diet, crunchy, lower salt
+review/text: I can see from the other reviews that this product is either hit or miss.  Here is why I like them:  I love cheese.  I also am the one that grabs that piece of lasagna that has that crispy or even slightly burned piece of cheese in the corner of the lasagna pan.  So give me crispy cheese (and now in this lower salt version) and I am in low-carb heaven.  You can microwave for up to about 25 seconds to give them that just-popped taste and sensation (which I prefer to having them cold right out of the bag).  If you're already on a low-carb diet and eating a lot of cheese, I think you'll find this a pleasant change from cold and clammy cheese strings.  My only complaint is that I wish they were a bit cheaper, but I guess that's the price we pay for cheese nowadays.
+
+product/productId: B000EM9E2Y
+review/userId: A257ZNIC4BJDPF
+review/profileName: fair_and _honest
+review/helpfulness: 5/6
+review/score: 1.0
+review/time: 1159228800
+review/summary: taste burnt
+review/text: I have had parmeson crisps before and thought these would be similar.<br /><br />They tasted burnt and were hard to swallow even after thourough chewing. Not tasty at all.
+
+product/productId: B000EM9E2Y
+review/userId: A1QR76OCGJQ2EV
+review/profileName: Dee Jay
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1295395200
+review/summary: Incredibly salty
+review/text: ...which is probably why I like them so much.  Popped cheese does taste vaguely cheesy, but mostly like salt.  And they're very crunchy, which makes them perfect to replace croutons in your salad.  You get six good-sized bags with your order - if you get to munching you might make it through half a bag before you turn into a pillar of salt.  But really, try them as croutons or float a few in your tomato soup.  As a garnish or eaten with something else, they're really quite good and satisfying.
+
+product/productId: B000EM9E2Y
+review/userId: A1I5X177DVENOH
+review/profileName: L. Longueira "owllover"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1163462400
+review/summary: YUCK!!!
+review/text: I would give this Zero Stars if possible.  Absoutely terrible.  I wish there had been reviews when I ordered.  I was hoping for a good crunchy low carb snack.  These did not fill the bill.  Anyone interested in the 5 unopened bags?
+
+product/productId: B000EM9E2Y
+review/userId: A2ECRLZRMALIKV
+review/profileName: Andrea Tiktin-fanti
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1159315200
+review/summary: Inedible
+review/text: This is the first review I have ever written on Amazon. I wish I had read the reviews before I tossed $14 down the commode. These are the most terrible tasing things I have ever put into my mouth. The texture is gritty, there is no taste except excessive salt. How can cheese, which I LOVE, be made to taste this bad? The only thing good about them is the smell. They smell like butter but taste like %@&#. One handful and the rest were flushed. I will definitely check the reviews before buying any more food products on line.
+
+product/productId: B000EM9E2Y
+review/userId: A2U54ZOTNRZTDL
+review/profileName: Andrea Gold
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1309564800
+review/summary: To each his/her own!!!
+review/text: I LOVE these...they have a good flavor, and most of all (being that there are not a lot of crunchy foods on a low carb diet) the texture satisfies my need for something crunchy.  I've tried the cheddar (my favorite so far) and grilled cheese flavors and like them both.  I am ordering the popcorn flavor because I'm a movie lover and I do miss the buttered popcorn when I'm surrounded by that wonderful aroma in the theater.  The only draw back is that they are fairly high in sodium, so if you are watching your salt intake, these might not be for you.
+
+product/productId: B000EM9E2Y
+review/userId: A2NT6NTYCJ17WP
+review/profileName: j-lsu
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1304035200
+review/summary: Nice product for low carb snacking
+review/text: My only quibble with this product is a poor nutiritional label that is unclear about the carb count.  When you're doing a low carb diet, you can't risk not understanding the nutritional information on the package.<br /><br />As far as taste goes, these are good.  It's a really good low carb snack.
+
+product/productId: B000EM9E2Y
+review/userId: A39OC5VT75P32S
+review/profileName: Jaelle Hanako
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1224633600
+review/summary: Low carbs and low taste...
+review/text: I'm a cheese lover, plain and simple. I love fried cheese and thought these would be as good...<br /><br />No. Ugh. Ew. Gross.<br /><br />They're hard and hurt to bite into and taste like salty cheese flavored cardboard. I like popcorn, too and these definitely do not fill that empty space.<br /><br />If you're watching your carbs, try eating real cheese.
+
+product/productId: B000EM9E2Y
+review/userId: A2W2VYVJLR0JGA
+review/profileName: Karenswolfe
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1195862400
+review/summary: Nasty
+review/text: This was the worst tasting stuff  that I have ever eaten. It did not even taste like cheese. I would not waste my money on this product.
+
+product/productId: B000EM9E2Y
+review/userId: A2BJKB56UFXERR
+review/profileName: Arwen Evenstar "bibliophile"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1174089600
+review/summary: the nadir of this company's products
+review/text: Ugh!  I sure had high hopes and I was bitterly disappointed.  These things were just nasty.  I LOVE their other products ("just the cheese") but not these things.<br /><br />  I even heated them up as suggested but they didn't get better.
+
+product/productId: B000EM9E2Y
+review/userId: A1COUOBBF87QWE
+review/profileName: Tera J. Smith "Tera J. Smith"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1168992000
+review/summary: BEWARE!
+review/text: These are disgusting! I do not recomend this product at all..... Don't waste $19.00 because that is what you'll spend after shipping!!!!!!!!!!!
+
+product/productId: B000EM9E2Y
+review/userId: A1V0AAR65R0LT1
+review/profileName: Roberta Jean Schrader "nannygoat"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1168300800
+review/summary: Surprize
+review/text: Misread ad and thought it was cheese flavored popcorn.  Did not care for the taste
+
+product/productId: B000EM9E2Y
+review/userId: A3RWWUFH2U6RPW
+review/profileName: Pamela Cummings
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1167609600
+review/summary: Finally - Popcorn for the Low Carb eater
+review/text: I love this snack. It tastes like the butter-flavored popcorn you get in a movie theater, but without all the carbs. They have that crunch that is so satisfying and the butter flavor is complemented by a slight cheese richness.  These are wonderful for anyone including low carb dieters or diabetics.
+
+product/productId: B000EM9E2Y
+review/userId: A3JURMMWAPJJI3
+review/profileName: N. Hoffman
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1163030400
+review/summary: Not a winner with me
+review/text: I am a salty snack lover, and I could not eat more than a few of these at a time before I totally lost interest in them. Then the rest of the bag would sit until I threw it away. I like almost anything, but I don't like these.
+
+product/productId: B000EM9E2Y
+review/userId: A31G5E0DC9CG3A
+review/profileName: Michael Thorn
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1157414400
+review/summary: Dry as dust
+review/text: I had hoped that this gluten free item was flavorful and a nutritious tasty snack. I found it dry as dust in your mouth with a burnt cheesy flavor. Some co-workers liked them but if I could send them back I would.
+
+product/productId: B000EM9E2Y
+review/userId: A1NKDOD8ROZY6J
+review/profileName: E. K. Falk "Lilly's mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348444800
+review/summary: Low carb popcorn!
+review/text: I just received my order of the Popped cheese butter flavor and boy are they awesome!! I admit I was skeptical when I first read the reviews and what the product actually was.  See I started Atkins about a year and here recently have found myself really missing chips and popcorn and I mean really missing them to the poin that I have started eating them again and have gained back some of my original weight loss.  That sucks!  Now I think I have found a suitable replacement.
+
+product/productId: B000EM9E2Y
+review/userId: A2UCRX7TIYFDBQ
+review/profileName: Burke
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348099200
+review/summary: Delicious!
+review/text: These are a delicious, low-carb alternative to buttered popcorn. As opposed to the usual semi-spherical shape of other Just-the-cheese products, these are more globular puffs of cheese. I much prefer this form factor to the semi-spherical. There was also much more in each bag, which was awesome.
+
+product/productId: B000EM9E2Y
+review/userId: A30RCXAF6VF6GA
+review/profileName: Ginger
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345852800
+review/summary: Great product
+review/text: This doesn't taste like popcorn, but it is salty, buttery, and very crunchy.  It is very rich so it is easy to only have an actual serving size.  I liked it.
+
+product/productId: B000EM9E2Y
+review/userId: AYXOSXMBUAT1Y
+review/profileName: Elliotte Rusty Harold
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344902400
+review/summary: 4g carb per serving
+review/text: Very tasty, but very misleading packaging and advertising. The entire, small bag is listed as almost 4 servings to justify the false claim that there's only 1g carb per bag. There's no way a quarter bag is one serving. There's really almost 4g carbs per serving.
+
+product/productId: B000EM9E2Y
+review/userId: A1JW7AA3P1UA7L
+review/profileName: Aimee
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1343779200
+review/summary: THESE SUCK!
+review/text: I was SO disappointed with these. They were TERRIBLE!~  I bought a big box of these and really regret it.  I'm using them as dog treats.  They are AWEFUL with a bad after taste.
+
+product/productId: B000EM9E2Y
+review/userId: A1L88BET1SOMRC
+review/profileName: J. Flynn
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341964800
+review/summary: Salty, but pretty good when you need a crunch
+review/text: It's not popcorn.  Once you understand that, these taste a lot better.  LOL  When you are low carbing, these are a good crunchy option.  I'd also recommend Just the Cheese products as well.
+
+product/productId: B000EM9E2Y
+review/userId: A2P64PMUQVHTY
+review/profileName: ValerieZ
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335139200
+review/summary: Disgusting... Wish I could return something I tried
+review/text: I ordered this item at the same time that I ordered the Just The Cheese crunchy chip like snacks.  I was pleasantly surprised by those, and hoped these would be just as good.  I opened the first bag, and unfortunately they were not.  I couldn't even finish the bag.  I threw them out.  I wish there was a way to get a refund for something already opened.  I would advise to steer clear, and order their "chips" instead.
+
+product/productId: B000EM9E2Y
+review/userId: A2ILJYV3MMRS7L
+review/profileName: Garland Ratcliffe
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1332720000
+review/summary: Awesome crunchy little morsels
+review/text: Great smack especially if your on a low carb diet! Crunchy and a bit salty. A perfect chip alternative, use instead of popcorn or for dipping.
+
+product/productId: B000EM9E2Y
+review/userId: A20GJ970LJVU9C
+review/profileName: rls
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1329782400
+review/summary: Nasty taste and texture
+review/text: These popped snacks did not have the texture of being "popped"  They were gritty and had a bad powdery feel on your tongue.  The taste was not that of cheese either.  I have only consumed about three pieces and couldn't stand the texture.  Would like my money back but don't want the hassle of returning something.
+
+product/productId: B000EM9E2Y
+review/userId: A1MSS62Q9GLU3T
+review/profileName: P. Hiteshew "PaulaPeas"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1324252800
+review/summary: A little to salty for my taste
+review/text: I wish I would have tried a diferent flavor the butter/cheese taste to too much for me. And is a tad salty.
+
+product/productId: B000EM9E2Y
+review/userId: AE6BT1EC56EN9
+review/profileName: D. Giddings "davegidd"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1311206400
+review/summary: Way too salty!
+review/text: Everyone else has already said it...these things are dry as a bone, look/taste burnt, plus they are EXTREMELY salty.  The butter flavor tastes very fake, but that's probably to be expected. This is the first low-carb snack I tossed out after one piece.  I'm really surprised anyone finds these acceptable.
+
+product/productId: B000EM9E2Y
+review/userId: A1IDQBC4F76XWC
+review/profileName: D. Novak
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1306713600
+review/summary: Salty!  :(
+review/text: I had such high hopes for these.  I eat low carb and have been really looking for something crunchy.  Unfortunately, these were so salty I could not eat them.  The taste wasn't very good either.  Instead, try Doctor Krackers flatbreads.  They're way better.
+
+product/productId: B000EM9E2Y
+review/userId: A3MNETQ1IMV0E7
+review/profileName: JOANNE L HARRIS
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1295827200
+review/summary: really bad.....
+review/text: I purchased this snack product with an open mind while looking for some variety in my low carb snacking. The open mind didn't help the taste.....
+
+product/productId: B000EM9E2Y
+review/userId: AOF4UWSOLXBSU
+review/profileName: D. Healey "Nursing Student"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1295481600
+review/summary: Eeeeewwww....
+review/text: Although these are low-carb, they are really not low-calorie, and more importantly they taste disgusting!  They look like poop, and taste like cardboard and/or burnt butter.  They're just gross, and I wouldn't recommend them to anyone!
+
+product/productId: B000EM9E2Y
+review/userId: A27RMQ5RNX2VJX
+review/profileName: Conevery
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295222400
+review/summary: YUM
+review/text: I've been eating these for years and they are yummy. Great low carb snack that can be taken on-the-go, without refrigeration. So glad Amazon started carrying and has the subscription option.
+
+product/productId: B000EM9E2Y
+review/userId: A3ACKG66LIMWXU
+review/profileName: Lperes
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1293408000
+review/summary: Taste level
+review/text: Could not eat this product, the taste was horrible.<br />Decided to give to a few friends also on Atkins diet and they could not eat it at all, it taste that bad.<br />Sorry but the truth.<br />Thanks<br />Lili
+
+product/productId: B000EM9E2Y
+review/userId: A1I962KZHMNAOD
+review/profileName: Jean F. Dombrosky
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1270512000
+review/summary: This is awful
+review/text: My shipment just arrived today and it was not worth the wait or the price.  What a disappointment!  Both my husband and I tried them and one piece was enough.  I am hoping my daughter's dog will eat them.  Low carbs or not, this is not worth it.
+
+product/productId: B000EM9E2Y
+review/userId: A2AI0QBUU5UCMS
+review/profileName: A. Nielsen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266624000
+review/summary: I LOVE these!
+review/text: I was pretty put off by the cost initially but my sister bought some and let me try them. They are definitely salty so you probably can't eat a whole bag in one sitting unless you're downing a gallon of water too but it's easy to eat 10 - 15 pieces if you're just snacking on them throughout the afternoon or watching TV.<br /><br />After doing the hCG diet, you are really trying to stay away from carbs in Phase III so anything that has a crunchy, snacky taste was something I was after.<br /><br />As for the taste, there seems to be a lot of disparity about if they're good or terrible. I guess it's just a matter of personal preference.  I really like the flavor. It's very buttery and also very cheesy - sort of like if you left some cheddar cheese in your hot pan and it melted and fried up, which I love.  Cheese is salty as a rule so yeah, it's going to be salty but they've added that extra buttery flavor and I think it's great.<br /><br />Would I eat it in place of popcorn if I could eat carbs at will?  I doubt it but I probably would keep them around and eat them here and there. They're a carb replacement! And I think they do a pretty good job of providing low carb eaters with a good crunchy, salty, butter snack; something that we don't get many other places.<br /><br />BTW, because it's less likely you'll eat an entire bag in one sitting, 6 bags of these cheese pops will last you a lot longer than you think which is why I ended up buying them. I've had a box of 6 bags and it's lasted me a month. I go through a bag a week probably.
+
+product/productId: B000EM9E2Y
+review/userId: A36P9DEEG2RTOH
+review/profileName: TT
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1263340800
+review/summary: YUCK!
+review/text: These do not taste anything like popcorn or even cheese. Makes me think of cardboard with salt sprinkled on top.
+
+product/productId: B000EM9E2Y
+review/userId: A2M9FG3F542QDO
+review/profileName: scootser
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1263254400
+review/summary: tasty but salty and dry
+review/text: For anyone who wants a low carb snack these are a good solution if you are a cheese lover. These little cubes are literally blocks of cheese with the moisture removed. That means they're high in protein and high in fat and, even though these are the "lower sodium" version, also still very high in sodium. One package at only 1.7oz delivers a whopping 800mg of sodium. I really like these but they have a lot going against them. They're VERY expensive. 1.7 oz is almost nothing. They are very high in fat and the sodium is about twice what it should be. That being said, I would still recommend these as an occasional low carb snack if you're not hypertensive.
+
+product/productId: B000EM9E2Y
+review/userId: A38WJ0BDEBR107
+review/profileName: N. Johnson "Pyrochaos"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1260576000
+review/summary: Hey, I like them.
+review/text: These seem to be hit or miss with a lot of people.<br /><br />Let me get one thing straight first:  I love cheese.  I LOVE IT!  So when I was doing Atkins I ate a lot of cheese, and meat products.  This fills your salty cravings, that chips or popcorn might normally if you weren't on a low carb diet.  I recommend these to anyone who likes cheese.  Some slight "burnt cheese" taste, but in a good way.  I like that taste.
+

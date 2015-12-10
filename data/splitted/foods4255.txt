@@ -1,0 +1,1143 @@
+product/productId: B001D0GV90
+review/userId: A3188X8EICVD1E
+review/profileName: anonymous
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1240876800
+review/summary: Good kcup
+review/text: Another one of my favorite K cups. A good full bodied cup of coffee without a bitter taste.
+
+product/productId: B001D0GV90
+review/userId: AKSE7DEH8W1GJ
+review/profileName: P. Scott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1240704000
+review/summary: Bold taste even when stretching the cup
+review/text: Excellent bold "wake me up" even when I stretch the cup size to a full mug.  No bitterness. Good aroma. Would order again.
+
+product/productId: B001D0GV90
+review/userId: A26WKYP7K9JBLQ
+review/profileName: Ed Cochran
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1238630400
+review/summary: A really great coffee
+review/text: I have tried many different coffees for the Keurig and this is my favorite, by far (Caribou blend is next on my list). To be honest, some people may find the Midnight Magic a bit bold, but it is definitely the one for me in the morning. I like to follow up with Caribou in the afternoon and then Timothy's decaf in the evenings.
+
+product/productId: B001D0GV90
+review/userId: A2T08ZUDE14PHG
+review/profileName: mdonn "mdonn2608"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1238457600
+review/summary: good stong coffee
+review/text: I really like this coffee.  I am able to brew a large cup and medium cup and it is now weak at all.  So far this is my favourite kcup.
+
+product/productId: B001D0GV90
+review/userId: A2S6O8PT23NB2T
+review/profileName: chicagofeedback
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1238198400
+review/summary: extra bold, extra good
+review/text: I added Midnight Magic to my list of favorite options for k-cup coffee. It's extra bold and extra delicious.
+
+product/productId: B001D0GV90
+review/userId: A28K6G5NGB1PIC
+review/profileName: H. Shifter "HS"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1238112000
+review/summary: Too storng for me
+review/text: Since they were so highly rated I purchase these although even with the large 12 oz cup it is too strong for me. It does have a lot of flavor and may be good if you like a strong cup of coffee.  Could be my fault since it did say extra bold. I better stick to regular bold.
+
+product/productId: B001D0GV90
+review/userId: A2J8JNUL2X64VT
+review/profileName: Roy V. Maskell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1237248000
+review/summary: Coffee with a kick!
+review/text: As always,"K"-cup consistent! This coffee will start your morning with a real kick! Not for the " watered down" sugar latte drinkers. Serious coffee drinkers only!
+
+product/productId: B001D0GV90
+review/userId: A36POHPGN7YLBR
+review/profileName: D. H. Smith
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1237161600
+review/summary: Good stuff
+review/text: Has a good bold flavor without leaving chalky aftertaste aka Starbucks. I usually brew two k-cups on the mid-size selection into a large mug.
+
+product/productId: B001D0GV90
+review/userId: ANYD7SPA8LM9C
+review/profileName: Robert B. Balderston
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1236211200
+review/summary: Really Extra bold
+review/text: If you like extra bold this is it, just a little too bold for my wife and I.  Great flavor.
+
+product/productId: B001D0GV90
+review/userId: A1I1JRV8SJADK9
+review/profileName: R. Hale "Rich"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1236124800
+review/summary: OK, but very strong flavor
+review/text: I bought this coffee based on everyone's great reviews, and it was fairly smooth, but found it was too strong for my taste. I like bolder flavored coffee to some extent, but this made me want a breath mint immediately after finishing the coffee. (Fortunately, a friend of mine liked it & bought the rest of the coffee from me.)
+
+product/productId: B001D0GV90
+review/userId: A2C0H7HDZ0I0A7
+review/profileName: P. Fiaccone
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1235606400
+review/summary: Whoa, strong!
+review/text: This is really, really strong.  I like strong coffee, which is why I ordered it, but this was too strong for me.  You can use the k-cup twice to make a large mug or travel mug, and it's not quite so strong this way. I love the service from Amazon.  I got my coffee VERY quickly.
+
+product/productId: B001D0GV90
+review/userId: A22POK934HTWV8
+review/profileName: Brandon P. Dipietrantonio
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234396800
+review/summary: STRONG ENOUGH FOR LARGER CUP SETTING
+review/text: THIS COFFEE IS PERFECT FOR ME WHEN I BREW IT ON THE LARGER CUP SETTING. PERFECT FOR TRAVEL MUGS!!!
+
+product/productId: B001D0GV90
+review/userId: A3U2RB2KWUVETV
+review/profileName: Phil
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234396800
+review/summary: My favorite K-Cup
+review/text: Not sure how to rate something as subjective as coffee, but this is my favorite K-Cup.  It is bold with a nice full flavor contrasting with some bold coffee that is just bitter.  Midnight Magic also works nicely when you use the 10/11oz brew size or use it twice on a B30.  Not as strong, but will not taste watered down either.
+
+product/productId: B001D0GV90
+review/userId: A3V7TKKMUI026L
+review/profileName: K. Dahl
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1234224000
+review/summary: the best cup yet
+review/text: After receiving a K-cup coffee maker for Christmas, I have tried many coffees. This is absolutely my favorite so far. Its rich and flavorful, not bitter. I used to roast and grind my own beans, this is so much more convenient and very tasty.
+
+product/productId: B001D0GV90
+review/userId: A2E7A66H7CRBQP
+review/profileName: David Esposito "DigitalSteel"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234051200
+review/summary: Best I've had
+review/text: This is one of the best tasting coffee I have ever had.  Even fresh ground at home from high quality beans seems to be slightly lower on the chain compaired to this.  I was greatly impressed, I thought for sure it couldn't taste as fresh or as bold as fresh ground.  But I was wrong.  This is fantastic coffee.
+
+product/productId: B001D0GV90
+review/userId: ACQKYAJBGJP0Y
+review/profileName: R. Repman "RR"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1233705600
+review/summary: Great Bold Taste
+review/text: This product is definitely for those who like a strong coffee taste.  This K-Cup can be used with the large coffee setting and still have a strong coffee taste.  I definitely think its worth it.
+
+product/productId: B001D0GV90
+review/userId: A2S7Q4IV8RAY8K
+review/profileName: David B. Lori Green "LNDGREEN"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1232841600
+review/summary: Midnight Magic is good coffee
+review/text: I find the Midnight Magic Extra Bold to be a flavorful, bold cup of coffee.  I like to brew the largest of the three cups on my Keurig, and this k-cup gives a strong cup of coffee even on that setting.  Good for coffee drinkers who like their coffee with a little kick.
+
+product/productId: B001D0GV90
+review/userId: A2KALEDR6LY961
+review/profileName: Rat4444 "clear thinker"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1232496000
+review/summary: Good and Bold
+review/text: I like my coffee  dark and bold. So far Tim's Midnight Magic and People Coffee, Tiger, are my favorites.
+
+product/productId: B001D0GV90
+review/userId: A48R7KM0VHHFS
+review/profileName: John J. Higgins "Johnjhig"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1232409600
+review/summary: K-Cups for Keurig
+review/text: Timothy's Midnight Magic is a strong and robust blend of coffee. I buy it for my Wife, as I love a smooth light cup of coffee. To my suprise, I actually love this blend of coffee and my wife keeps reminding me that I am not supposed to like Midnight Magic. Great coffee, for strong or mild lovers.<br />John Higgins
+
+product/productId: B001D0GV90
+review/userId: A2QP6DP13RKEFU
+review/profileName: S. Carlson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1232323200
+review/summary: Great coffee
+review/text: I bought this coffee for my brother-in-law for Christmas. He said he'd tried it and it was really good.
+
+product/productId: B001D0GV90
+review/userId: A2IM726TW69WRK
+review/profileName: Bruno "Mr. B"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231891200
+review/summary: Good Coffee
+review/text: This is less expensive on Amazon than on Timothy's website and you get free shipping.  I ordered this flavor and Rain-forest something or other.  I like this flavor the best.  It even tastes good black and I'm a splenda milk coffee person. It's rich and smooth.  I like strong coffee.  Usually drink french roast or darker.
+
+product/productId: B001D0GV90
+review/userId: A3AJWPGUYT7AHX
+review/profileName: M. Alcser
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1231718400
+review/summary: Best Coffee for Keurig Brewer So Far
+review/text: We have had our Keurig brewer for around 3 months now and my one complaint was that the coffee was not very flavorful and generally weak (and we tried many different kinds of capsules for the brewer).  As other reviewers have stated, Midnight Magic is the best of all.  Great taste and bold.
+
+product/productId: B001D0GV90
+review/userId: A2770CT2B6TDKI
+review/profileName: Trucky
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1231632000
+review/summary: K-Cup coffee
+review/text: Very good coffee if you like it bold, real good flavor and you can bring down the boldness with a creamer.
+
+product/productId: B001D0GV90
+review/userId: A1Y7NL6Y17CHSF
+review/profileName: acciofiddle "The Fiddler's Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229385600
+review/summary: My Favorite Wake-Up
+review/text: I have tried many other Keurig coffees but this one is BOLD! Just the right way to kick-start the morning.
+
+product/productId: B001D0GV90
+review/userId: A189PXJGK7M6SD
+review/profileName: Sharon L. Porter "I am an assistant professor...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229212800
+review/summary: Can't be easier!
+review/text: Timothy's coffees get me out and ready to go each morning. I also love this product for at night when I am up late grading. The convenience is one thing....the taste is another! Rich and smooth! Feels like I am getting the real thing-caffeine-without the side-effects.
+
+product/productId: B001D0GV90
+review/userId: A192KNDX8GMZO8
+review/profileName: J. Roperti "Lead Negotiator"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1227657600
+review/summary: Another good coffee
+review/text: This company gets it right.  This one is a little strong with a slight after taste.  Good stuff.
+
+product/productId: B001D0GV90
+review/userId: A3PWRBN70H2395
+review/profileName: cavalier lady "donna"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1227657600
+review/summary: Good but supply out of stock alot
+review/text: I have really enjoyed the product.  The coffee is very flavorful and rich.  The only problem I have had is that I have it on subscription and it has been very erratic as to whether or not it was in stock.
+
+product/productId: B001D0GV90
+review/userId: A106USEFAD0XDF
+review/profileName: Cookie
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1226188800
+review/summary: If you like bold coffee...
+review/text: If you enjoy a bold cup of coffee, then Timothy's "Midnight Magic" is the coffee for you.  I would compare it to a 'french roast', strong flavor.
+
+product/productId: B001D0GV90
+review/userId: A6O5THEEXHVWZ
+review/profileName: Jacqueline Katz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1225324800
+review/summary: Bold & Strong
+review/text: Timothy's Midnight Magic K-cup coffee is bold and strong.  I enjoy it each morning as I start my day.  It's a terrific "wake me up"
+
+product/productId: B001D0GV90
+review/userId: A366IVBKSNSUS4
+review/profileName: Dano4golf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1217289600
+review/summary: Bold but smooth
+review/text: If you like a cup of bold coffee, then this is the one for you.  I read the reviews and was a bit skeptical but I was surprised.  Anyone who likes Starbucks would enjoy getting this.  A great kick in the morning without the bitter taste.  Enjoy!
+
+product/productId: B001D0GV90
+review/userId: ABLII5SS5RXH8
+review/profileName: Grumpy's wife
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1217203200
+review/summary: Coffe break
+review/text: This one's a winner when you enjoy the taste of coffee. Has a smooth rich coffee taste.
+
+product/productId: B001D0GV90
+review/userId: A2YEJY175VN2CL
+review/profileName: J. Gish
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1216512000
+review/summary: Best coffee for K cups.
+review/text: Timothy's Midnight Magic is by far the best bold coffee.  I've tried other brands and it just doesn't come close to this special blend.
+
+product/productId: B001D0GV90
+review/userId: A31GQ2U36G30IG
+review/profileName: Guitartec "DBF"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1216252800
+review/summary: K-CUP EXCHANGE
+review/text: Hi K-Cup users,<br />I started a User Group on Yahoo called K-CUP EXCHANGE. it's for exchanging unwanted K-Cups. This is simply a site that allows you to sell/trade/give your unwanted coffee flavors to someone else in the group to buy or try. It's your business how it's done. You can also tell everyone your experiences with different flavors, and what to watch out for.<br /><br />This Group is the logical way for us to do this, as no one wants to get stuck with 50 cups of a flavor they totally dislike, right? It also gives you the chance to try a flavor you'd never buy from the description.<br /><br />Anyway, the group is 100% free to join and use, and I'll do my best to monitor it for spam. It's at: [...]<br /><br />Hope to see you there.  Dean
+
+product/productId: B001D0GV90
+review/userId: A2D1VY5E8MLDPT
+review/profileName: ECWMAW "Eileen"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214438400
+review/summary: A good, bold coffee that replaces the morning Starbucks run..
+review/text: We read some of the reviews before ordering and have to agree that the coffee is flavorful and bold, just like promised. The morning run to Starbucks before work has been replaced by the convenience of in-home brewing. Time,gas and cash are all being saved now. Worth purchasing and a good deal for so many cassettes.
+
+product/productId: B001D0GV90
+review/userId: A20XKFP1MCCBOQ
+review/profileName: Jeffery K. Hilburger "Keurig Jockey"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214438400
+review/summary: Perfect Cup of Dark roast
+review/text: Timothy's Midnight Magic Extra Bols makes a perfect cup of Dark roast coffee. One of our favorites to keep stocked in our K-cup Carousel
+
+product/productId: B001D0GV90
+review/userId: A22ONDJR89GGZM
+review/profileName: Cynthia F. Idell "cindy i"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1214179200
+review/summary: best taste for the Keurig
+review/text: I bought the Keurig individual coffee maker after my regular carafe coffee maker broke.  I've tried many of the different brands of coffee k-cups.  The Timothy's Midnight Magic is my favorite.  I like rich, bold coffee.  It's cheaper to buy the two boxes from Amazon.com than buying it from a regular retail store.
+
+product/productId: B001D0GV90
+review/userId: A4J58FLWPQQ7K
+review/profileName: Coffee Maven
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214179200
+review/summary: As good as any of the coffee shops
+review/text: After trying all the coffees that came as samples with my Keurig machine,<br />Timothy's World Cofee, Midnight Magic proved to be the best of a very good group. I found it be as satisfying as any coffee I have had at Starbucks, The Coffee Bean Etc. Even at the weakest brew strength, It had great flavor. I highly recommend it!
+
+product/productId: B001D0GV90
+review/userId: A8NFIDPTGQLTM
+review/profileName: Kay C "kck"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1213833600
+review/summary: One of my favorites!
+review/text: This is one of my most favorite Keruig k-cup coffees.  I like tasty, strong coffee, but not too strong.
+
+product/productId: B001D0GV90
+review/userId: A21LEYEWHDFHMC
+review/profileName: G. Bloom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1203033600
+review/summary: Excellent Flavor!
+review/text: So far this is the very best coffee I have tasted made in kcup form! It has a rich flavor and not bitter and yet is nice and strong. Like it so much, I signed up with Amazon to have it delivered monthly now and save even more money! Having Amazon Prime with the free 2 day shipping already makes this the best price and value.
+
+product/productId: B001D0GV90
+review/userId: AW2B088UFQ3DW
+review/profileName: Misty Ro
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1202860800
+review/summary: A strong morning brew
+review/text: This coffee is very good. If you like your coffee strong, you'll love it. It's a great wake up in the morning. I highly recommend it.
+
+product/productId: B001D0GV90
+review/userId: A1E4ERFN67OMJY
+review/profileName: ahl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1200614400
+review/summary: k-pod coffee
+review/text: good coffee, good company. I don't think I've had a bad cup of coffee from this company no matter which coffee I ordered
+
+product/productId: B001D0GV90
+review/userId: A2J76UO0XBV6PG
+review/profileName: willie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1200614400
+review/summary: really good coffee
+review/text: my husband and I are enjoying this dark, rich coffee every morning. I used to just drink coffee now Ireally look forward to it. no diffence bbetween this and the more expensive one
+
+product/productId: B001D0GV90
+review/userId: A1OP8PB1J9UCTZ
+review/profileName: java luvva
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1200614400
+review/summary: Midnight Magic coffee
+review/text: This is one of the best strong blends available for the Keurig machine. Priced very competitively too!
+
+product/productId: B001D0GV90
+review/userId: A1Q8N5EXHBGO2M
+review/profileName: S. Nelson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1200614400
+review/summary: This is the one you're looking for
+review/text: Good strong coffee, great taste.  I've been drinking it daily for a year and a half now.  It's better to me than anything I can get at the coffee places where I'm paying a lot more.  It is now a regular thing for me to order four boxes (sets of two) at a time when I am running low.  I like it as well if not better than "Dark Magic".
+
+product/productId: B001D0GV90
+review/userId: A317FLC6FFHQH3
+review/profileName: C. Brady
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1199577600
+review/summary: Extra Bold Flavor!!
+review/text: This product is great!  My husband loves the bold flavor of this coffee.  Can't find anything comparable.
+
+product/productId: B001D0GV90
+review/userId: A2CX4X0IIKGSNJ
+review/profileName: Too Tall "Tax & Car Guy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1198454400
+review/summary: The best K-Cup so far for dark coffee
+review/text: So far, Timothy's Midnight Magic brand makes the darkest and best tasting K-Cup coffee we have found. We like strong coffee, and anything other than "dark" is not strong enough for us.
+
+product/productId: B001D0GV90
+review/userId: AUC4RRKAB0PDK
+review/profileName: Estelle Stempler "coffee drinker"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1191196800
+review/summary: midnight magic
+review/text: pods were excellent- strong, flavorful, and rich tasting. I would order timothys midnight magic again- if you like a strong cup of coffee, this is for you.
+
+product/productId: B001D0GV90
+review/userId: AIESH16TE0UJA
+review/profileName: Katherine Koch "Katherine"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1191110400
+review/summary: Excellent strong coffee
+review/text: Timothy's Midnight Magic coffee is the best K-cup coffee I've had.  It's great for people who drink espresso, and it has a wonderfully rich flavor.
+
+product/productId: B001D0GV90
+review/userId: A1SQ4CZN9JF201
+review/profileName: DG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1190332800
+review/summary: A strong, bold, coffee.
+review/text: I almost use this coffee exclusively now as the other k-cups I have seem to be weak compared to this. I can use the large cup setting on the B60 with no problems. It also holds up well to cream and sugar if you are so inclined. This is a strong coffee, but for me is smooth with no bitterness or burnt taste.  Wonderful!!!
+
+product/productId: B001D0GV90
+review/userId: A3AF5WKYWIPEK6
+review/profileName: maggie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1187913600
+review/summary: strongest yet
+review/text: This is the best k cup coffee I have tried yet. i can brew a 7.5 and a 5 ounce from one cup, just right for my travel mug. Doubled and it is still strong. Now do they have it in decaf?
+
+product/productId: B001D0GV90
+review/userId: A2TYHWDDKGBIK0
+review/profileName: Carole from Corona
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1167696000
+review/summary: Love This Coffee!
+review/text: I have tried quite a few of the different brands of coffee put out by Timothy's, Green Mountain and also Dietrich's and I do have to say that this is my favorite so far.  If you like a full bodied, flavorful cup of coffee...look no further this is it!  Not that any of the others aren't good, they are, but this one really hits the mark!  Enjoy!
+
+product/productId: B001D0GV90
+review/userId: A2EY5U2WLPSI6G
+review/profileName: M. Trombley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1165795200
+review/summary: Good stuff!
+review/text: This is a very good coffee by Timothys.  I like very strong coffee and this does it for me in the morning.<br /><br />The best of the Extra Bolds I have tasted.
+
+product/productId: B001D0GV90
+review/userId: AKNY8BPDSAB1A
+review/profileName: vitocera
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1285113600
+review/summary: Taste Great
+review/text: This is about as good a cup of coffee as you can get.  Single serving is great and although it may cost more per pound it saves money in the long run because you don't throw any away.  Always hot and always fresh.  With scheduled deliveries I never run out.  I strongly recommend it.
+
+product/productId: B001D0GV90
+review/userId: A3U4ZQP5EW6VRJ
+review/profileName: Aneda Manion-Williams "&#34;Punch&#34;"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1205452800
+review/summary: Stron Coffee
+review/text: At first I was not happy with the other brands of coffee.  They were too weak.  This one I really like because you have an option on exactly how much/less coffee you want.  I like my coffee stronger than the other k-cups that came with the coffee maker.  The flavor is very good.
+
+product/productId: B001D0GV90
+review/userId: A361PLXEWB9UC1
+review/profileName: *Auntie Lynn* "color & pigment specialist; wa...
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1203984000
+review/summary: Not just bold or dark roast -- a little burnt
+review/text: This is the second k-cup variety I've tried that turned out to be more burnt than just dark roasted.  And again, I'd like to think it's just the batch.  But I've found so many really good k-cup varieties, I'm not likely to try a second box.<br /><br />There are other ways to get a stronger flavor than to literally burn the beans.
+
+product/productId: B001D0GV90
+review/userId: A2CSZ87RO4912T
+review/profileName: M. MCKNIGHT "reviewer"
+review/helpfulness: 5/9
+review/score: 4.0
+review/time: 1172016000
+review/summary: It's dark at midnight...
+review/text: ...but it's always darkest just before the dawn. Midnight Magic lays down a thick approach: you have to brace yourself before the first sip.  It's best served black, so that the bitterness itself can wake you up.<br /><br />I found it to be an adequate substitute for Green Mountain's Dark Magic, but it was not quite it's equal in the realm of metaphysical impact.
+
+product/productId: B001D0GV90
+review/userId: AMUWHRVAFMKRN
+review/profileName: michelle
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1312934400
+review/summary: Not bad but wish I could get a refund for the damaged k-cups I received upon delivery
+review/text: This coffee is one of my favorites but I was very unsatisfied when I received my box of k-cups and there were SEVERAL damaged k-cups in there.  Besides the dented box and spilled coffee grinds everywhere in my kitchen, it was okay!
+
+product/productId: B001D0GV90
+review/userId: A30RE9SVY5QEHP
+review/profileName: Audrey R. Castaneda "audcas"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1263168000
+review/summary: Timothys Midnight Magic
+review/text: Timothy's is great coffee. Especially this one, bold and no bitterness.  I wish the machine was as good as this coffee.
+
+product/productId: B001D0GV90
+review/userId: A3VOG730PV8XNP
+review/profileName: M. Cuneo
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1235001600
+review/summary: Decent, but overall a disappointment
+review/text: For Timothy's Midnight Magic to be the highest rated K-cup on Amazon, I'm thinking 2 things could be off:<br />1) I received a "bad batch" which several reviewers are so fond of referencing.  Or<br />2) The people writing reviews have never been outside of a Starbucks and think a French Press is something you do in the gym.<br /><br />In general I have a low opinion of K-cups, and Tim's didn't do much to change that.  The roast was quite heavy and I found the flavor flat, and lacking character.  I have tried many different types, but Keurig just doesn't deliver quality results.
+
+product/productId: B001D0GV90
+review/userId: A2YKP1JIK5V5UN
+review/profileName: E. Hoffman
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1265760000
+review/summary: Tastest burnt
+review/text: Bottom line - I don't like this coffee.  Tastes burnt to me.  Timothy's Sumatran Gold is the best.
+
+product/productId: B001D0GV90
+review/userId: A144WP29RC8LTH
+review/profileName: Susan A. Carter
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1308096000
+review/summary: Awful!
+review/text: This is a weak, boring, tasteless coffee. 1/2 of the K-cups won't process in my machine, water won't go through.
+
+product/productId: B001D0GV90
+review/userId: A1WF6BO0UIQPE5
+review/profileName: J. Lussier
+review/helpfulness: 0/6
+review/score: 4.0
+review/time: 1214265600
+review/summary: Cancelled my subscription and had the coffee sent anyway
+review/text: I cancelled this subscription before it was shipped, and still got charged and had the item sent anyway.  The coffee is great, however, I am not happy that I received an email saying the item was about to ship and that if I wanted to make changes to the order I needed to do so before it was sent.  I did this and am still going to receive it anyway.  Thanks Amazon for charging my credit card and sending me coffee that I didn't need.  Anyone else using the Subscribe and Save feature should beware that this could happen to you.  I know I will in the future.
+
+product/productId: B001D0GV90
+review/userId: A1TAJZJH9J51QP
+review/profileName: Jeff Lowenthal
+review/helpfulness: 0/9
+review/score: 1.0
+review/time: 1292976000
+review/summary: Not quite what I expected
+review/text: Simply said, this product makes a vile cup of coffee.<br /><br />I have tried a number of K Cups, as well as bean coffees in three alternative holders. Some were better than others (Nantucket Blend), but this stuff is simply terrible, even with extra cream and sweetener.<br /><br />A big disappointment!
+
+product/productId: B001D0GV90
+review/userId: ARYB7XW8CX8P0
+review/profileName: Mom "Momma of 4"
+review/helpfulness: 5/26
+review/score: 1.0
+review/time: 1246838400
+review/summary: unhealthy stuff!!! --MY EXPERIENCE with this stuff
+review/text: Initially we were so happy to find this darkest of the dark roasts. I really enjoyed this coffee every morning for over a year.  However after extended use, I started becoming very irritable in my day, insomnia, ect. After seeing doctors for PMS and everything else, I just got on the web and searched for "caffeine sensitivity".  I learned a little something about coffee from a website,  ineedcoffee dot com.<br /><br />Dark roasts are terribly unhealthy for you! Dark Roasts break down the sugar and oils and burn the coffee bean to a crisp and you are left with ash material. Not many people can tolerate this and will experience unpleasant side effects which lead you to believe your falling apart when really it's an adversion to the dark roasted beans. It only took one cup in the morning to affect my overall health.<br /><br />So as much as I enjoy this super dark roasted coffee, I must make the switch to the light roast.  At least now, I am able to determine if it is a quality coffee bean or not because it is not charcoal.
+
+product/productId: B001D0GV90
+review/userId: ASYVR2GRAF512
+review/profileName: Greenfield Winner
+review/helpfulness: 1/20
+review/score: 2.0
+review/time: 1228521600
+review/summary: Coffe
+review/text: Coffee was delivered quickly but the cost is not much savings from buying it in the store.
+
+product/productId: B001D0GV90
+review/userId: A1A0MBT5LKK8U9
+review/profileName: Lance
+review/helpfulness: 122/124
+review/score: 5.0
+review/time: 1184630400
+review/summary: The BEST extra bold K-cup out there!
+review/text: My wife and I love this k-cup. We've tested all the extra bold dark roasts out there. In fact, we did blind taste tests and pitted Timothy's Midnight Magic vs. Green Mountain EB Dark Magic, Gloria Jeans EB Black Gold, Van Houtte's Eclipse EB, Green Mountain EB Espresso Blend, Green Mountain EB Sumatran Reserve, Timothy's EB Parisian Nights, Coffee People EB Organic, Coffee People EB French Roast, Tully's EB French Roast and Tully's EB Italian Roast. Yes, we honestly tested them all. Many of the other contenders are fine coffees in their own right and without direct comparison to Midnight Magic, they'd be a fine k-cup. But when compared directly with Timothy's Midnight Magic, we found we chose it every time in blind taste tests. It amazed me when my wife picked it every single time.<br /><br />There is no way you'd be let down by this k-cup if you like extra bold, dark roasted coffee. It's just perfect!<br /><br />A must buy for Keurig owners!
+
+product/productId: B001D0GV90
+review/userId: A2L6BT1PVV9YN0
+review/profileName: R. OSullivan
+review/helpfulness: 36/36
+review/score: 5.0
+review/time: 1169769600
+review/summary: Best K-Cup,  Full-flavored and Not Bitter
+review/text: This is excellent and the best I have found for the Keurig maker.  I tried all the assorted flavors that came with the Keurig and they were all weak and horrible.  I didn't know whether to blame it on the machine or the coffee, so I read some reviews and tried the Midnight Magic and the Rainforest Espresso.  Both both make a great cup of nice, strong, flavorful coffee that is good enough to replace my daily Starbucks run.
+
+product/productId: B001D0GV90
+review/userId: A1KZUJ4W0SRAW
+review/profileName: Mike Danseglio "MikeDan"
+review/helpfulness: 32/32
+review/score: 5.0
+review/time: 1200700800
+review/summary: Great K-Cup coffee!
+review/text: This was my first coffee order for my new K-60 that came at Christmas. I read the reviews for virtually all the K-cups that Amazon offers and chose this one based on its consistently high rating. The name scared me a bit, but I had to give it a try.<br /><br />I am very happy with this choice. Midnight Magic is strong but not bitter or harsh. Its smooth and strong flavor comes through the half-and-half and Splenda that I drown all coffee in. I'm not quite the coffee-gourmet that others are so I can't say crazy junk like "hint of chocolate" or "strong notes of bark." I just know it tastes like strong, smooth, non-bitter coffee and I like it.<br /><br />Its caffeine buzz factor is about average for a cup of coffee, so don't let the name fool you into thinking you'll spend all night staring at the wall and shaking. It packs no more chemical punch than the weaker-tasting brews, and you get to enjoy the flavor and complexity much more. I currently have Midnight Magic in the rotation as my wake-up cup and it does well there.<br /><br />I will still try a few other K-cup varieties including the Coffee People selection. But I will always keep a supply of Midnight Magic on hand in the future.
+
+product/productId: B001D0GV90
+review/userId: A2DYSR56EFNYJX
+review/profileName: P.S.
+review/helpfulness: 20/21
+review/score: 5.0
+review/time: 1169596800
+review/summary: Best of K-cup
+review/text: This is the best of the Timothy's K-cups.  It's strong and flavorful.  Closest thing to the Black Magic by Green mountain.  With Amazon jacking up the prices I'd say this is the best deal.
+
+product/productId: B001D0GV90
+review/userId: A3E43CGZ847R52
+review/profileName: Nicky's Mom
+review/helpfulness: 12/12
+review/score: 5.0
+review/time: 1201824000
+review/summary: I finally found my K-cup!
+review/text: This is my favorite k-cup and I have tried many of them.  I like strong coffee and use the smallest cup size.  Midnight Magic makes a perfect strong, rich and flavorful cup of coffee.  Not bitter.  Very tasty and it holds up to half & half.  I have a cup every night after dinner for "dessert".  It also makes a great iced coffee since it holds it's flavor and does not taste watered down.  Love it.
+
+product/productId: B001D0GV90
+review/userId: A32ZQ5DEXBL60Z
+review/profileName: Jeffery Cotton "Jeffery Cotton"
+review/helpfulness: 11/11
+review/score: 5.0
+review/time: 1210032000
+review/summary: Rewarding, not challenging
+review/text: I'm one of those people who feels I should like dark roasts more than I do, as I am always a fan of strong flavors in food and drink. But somehow dark roast coffees have always been more challenging than rewarding for me, and I usually end up retreating to the milder roasts.<br /><br />This is now my third order of Midnight Magic. The first time I ordered it I thought it was really terrific, but what really impressed me was that nearly everyone I made a cup for had the same reaction: they'd look surprised and say, "Wow, this is REALLY good coffee!"<br /><br />Dark roasts can so often just taste burned, but there truly is something different about this roast. It is rich and complex, as you'd expect. But it is never acidic or burned in flavor. I can finally say that I have found a dark roast that rewards rather than challenges.
+
+product/productId: B001D0GV90
+review/userId: AU0GJWWEVFI4
+review/profileName: Eric B. Brownstein
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1203984000
+review/summary: The search is over
+review/text: If you enjoy a rich, aromatic, full bodied coffee with a truly bold flavor, look no further.  I've tried a number of the other "extra bold" k-Cups, most<br />of which should have been more appropriately labeled "medium".  This is by far the best I've tried.
+
+product/productId: B001D0GV90
+review/userId: A2GD6RRLK1I7Y3
+review/profileName: R. Haynes
+review/helpfulness: 8/8
+review/score: 4.0
+review/time: 1168732800
+review/summary: Love this - why isn't it available!
+review/text: Tried many different styles.  This is strong yet a great taste - not bitter love this coffee.
+
+product/productId: B001D0GV90
+review/userId: A1D62KRIRLAXCW
+review/profileName: Sandfire
+review/helpfulness: 10/11
+review/score: 5.0
+review/time: 1177027200
+review/summary: Great
+review/text: I was originaly hooked on Green Mountains "Dark Magic". The only reason I got this one was because I mistakenly thought this was the Dark Magic and ordered it instead. I wasnt to thrilled to try it since I havent had much luck with Timothys brand coffee. But after trying, I was amazed at the flavor. It has a much richer flavor than the GM roast. I think I am sticking with this one.
+
+product/productId: B001D0GV90
+review/userId: A1HBVFI5G2X1G2
+review/profileName: Maggie Mae
+review/helpfulness: 21/26
+review/score: 5.0
+review/time: 1208649600
+review/summary: Gotta Love a Good Cuppa
+review/text: I am a coffee drinker of the first order. I used to drink a couple pots a day, but now I've cut way, way back, so now that I'm not into quantity, I'm into quality. I really enjoy, really savior a good cuppa joe. I've given up my Mr. Coffee and now have a <a href="http://www.amazon.com/gp/product/B000GTR2F6">Keurig Home Brewing System</a> and I make my coffee a cup at a time and I really love it. It only takes a minute to make a cup and each cup is different, depending on my mood.<br /><br />I've been drinking K-cup coffee for a couple years now and have more of these little cups in my house than you can shake a stick at. For awhile I used a <a href="http://www.amazon.com/gp/product/B000JD3C9E">Chrome Carosel</a>, made by Keurig, but I had to keep filling it and also it was kind of clumsy for me. Besides, my coffee affliction is way to huge to be held down to a little spinning coffee merry-go-round.<br /><br />For the first few months my coffee problem went spinning out of control. I had boxes and boxes of coffee in my pantry, refrigerator, cupboards, garage, even in the trunk of my car, but now I've sort of got my gourmet coffee disorder in hand and down to twenty-eight flavors.<br /><br />For Breakfast I have my favorite seven and they are:<br /><br />Timothy's World Coffee, Extra Bold Fair Trade Nicaraguan<br />Timothy's World Coffee, Midnight Magic, Bold<br />Timothy's World Coffee, Kona Blend<br />Tully's French Roast Coffee<br />Coffee People Bold Black Tiger Dark Roast<br />Timothy's World Coffee, Morning Blend<br />Coffee People Coffee, Wake Up Call Bold<br /><br />For Lunch I have my favorite seven and they are:<br /><br />Gloria Jean's Coffees Hazelnut Coffee<br />Emeril's Big Easy Bold<br />Gloria Jean's Coffees Black Gold Extra Bold<br />Timothy's World Coffee, Private Blend<br />Timothy's World Coffee, Extra Bold Parisian Nights<br />Timothy's World Coffee, Colombian La Vereda<br />Gloria Jean's Coffees GJ Special Blend<br /><br />And for dinner, yes I drink coffee in the evening as well, but that's not so bad, considering I don't drink, don't smoke, don't eat sweets and eat very little meat. Sometimes I'll eat meat, but not often, so a cup of coffee with dinner doesn't seem so bad, considering. If it kept me up at night, well then that would be different, but it doesn't. Anyway for dinner I'll drink one of these seven:<br /><br />Tully's Full City Roast Coffee<br />Gloria Jean's Coffee, Mudslide<br />Timothy's World Coffee, Italian Blend<br />Green Mountain Coffee Dark Magic Extra Bold<br />Green Mountain Coffee Nantucket Blend<br />Timothy's World Coffee, San Lorenzo Dark<br />Gloria Jean's Coffee, Classic Reserve<br /><br />And then there is my absolute favorite, number twenty-two and that is <a href="http://www.amazon.com/gp/product/B000HZH8NA">Extra Bold Rainforest Espresso</a>, a Timothy's World Coffee.<br /><br />I keep my little individual cup packages in three large assorted tupperware tubs, marked in <a href="http://www.amazon.com/gp/product/B000I0TZO4">Sharpie</a>, of course, "Breakfast", "Lunch" and "Dinner". So when I reach into the breakfast tub for example, I never know which of the seven flavors I'm going to wind up with.<br /><br />I don't drink coffee during my meal, but afterwards, instead of desert. It's a quiet time for me. I think and reflect over my coffee as I delight in each and every sip.<br /><br />I know for some, having twenty-two different flavors of coffee in my kitchen might seem a bit much, maybe even a bit quirky, well everyone's gotta have their quirks, besides, I've cut way down.<br /><br />Now, about that twenty-second flavor. When I absolutely have to have an extra cup during that quiet, coffee drinking them, then that's the flavor I go for. How often does that happen, when one cup isn't enough? Only about once a day. Still, from two pots a java a day, down to four cups, is a pretty good thing, I'm not as wired as I used to be, but let's face it, I'm still running on caffeine. That's not so bad though, better a coffee crutch than something else.<br /><br />In my opinion these are the twenty-two best cups of joy in the whole wide world. At least the best twenty-two flavors I've come across in the hundreds I've tried. But please don't take my word as gospel, everybody's different. You have to dive right right in, take a chance, try several flavors till you find the one or the twenty-two that you like best.
+
+product/productId: B001D0GV90
+review/userId: A35JP8KSV9281K
+review/profileName: bezoarrn
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1183507200
+review/summary: The one for me!
+review/text: I like strong coffee that doesn't taste like dishwater. This is the one for me. It actually rivals my home brew choices of Starbuck's Espresso and Gold Coast beans. I bought this one for me, because my coworkers like their coffee a bit on the lighter side. This is so good ... I need to get one of these brewers for my house so I can drink it on the weekends!
+
+product/productId: B001D0GV90
+review/userId: A3I4DY4A33N37Z
+review/profileName: javajunkie
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1182038400
+review/summary: best coffee ever
+review/text: We love this coffee! It is better than any gourmet we have tasted. It's our favorite and we hope Amazon continues to carry it.
+
+product/productId: B001D0GV90
+review/userId: A2O8U185BHA3M7
+review/profileName: Hugh D.
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1181692800
+review/summary: Buy this if you like bold coffee!
+review/text: If you like bold coffee shop roasts then this is pretty close to what you are used to. If you like Dunkin Donuts or McDonald's coffee then this is not for you!<br /><br />This has a great bold flavor to jumpstart your day or perk you up when you need it.
+
+product/productId: B001D0GV90
+review/userId: A9GAYJHYXARI2
+review/profileName: Robin M. Lee "Girl-Jock in Charge"
+review/helpfulness: 9/11
+review/score: 4.0
+review/time: 1171670400
+review/summary: Love it or hate it
+review/text: Coffee mess reviews are very mixed for this one - they either love it or don't like it at all. Very strong flavor, but "sharp". Not "smooth" in the least. Not one of my favorites, but I'd drink it in a pinch
+
+product/productId: B001D0GV90
+review/userId: A3NV381E5HM2R4
+review/profileName: Ernest Broe
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1208736000
+review/summary: Timothy's, Midnight Magic, Bold
+review/text: The best strong coffee I have ever tried. I'll buy it again.<br />Green Mountain's Dark Magic is very close in flavor so either one will do for me. I can buy Green Mountain local so price will determine what I buy next.
+
+product/productId: B001D0GV90
+review/userId: A3AXNENEX70Z9M
+review/profileName: Cavatina
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1205884800
+review/summary: Mmmmm
+review/text: Good strong coffee, smooth. This is delicious first thing in the morning or all day. If you don't like a strong coffe, try the breakfast blend.
+
+product/productId: B001D0GV90
+review/userId: A6YN5508K6YBP
+review/profileName: Karen B Mielke
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1192060800
+review/summary: Fantastic Coffee
+review/text: Definately the best K-Cup coffee out there. Thanks to all the great reviews for steering me right.  I love Caribou, in fact I got the Keurig because they offer Caribou K-Cups, but this is better than Caribou Blend.
+
+product/productId: B001D0GV90
+review/userId: A16SB323UKABQF
+review/profileName: Ann F. Lewis
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1182816000
+review/summary: Best coffee
+review/text: This is the best cup of coffee I have had in a very long time.<br />If you like a strong, smoothe cup of coffee, this is it.
+
+product/productId: B001D0GV90
+review/userId: AAI4IPWRQB3ZJ
+review/profileName: B. NADEL "Coffee fan"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1182816000
+review/summary: GREAT BOLD FLAVOR!
+review/text: Of all the Keurig K-cups I buy(and there are many), this is by far my favorite.  It has a rich coffee flavor that can't be watered down with creamers.  I love Timothy's coffees, and this one stands out above the rest.
+
+product/productId: B001D0GV90
+review/userId: A23SMMAHPR5TQ0
+review/profileName: strat54
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1206403200
+review/summary: Midnight Magic in the morning
+review/text: Timothy's World Coffee makes some of the best coffee for the Keurig. Midnight Magic is one of their strongest. I would put it close to Star***** , although not quite as strong or smooth. I wouldn't drink this at midnight. I will certainly buy this again, but after I try some Rainforest Espresso.
+
+product/productId: B001D0GV90
+review/userId: A260OFGL0LC0SJ
+review/profileName: Douglas Baxter
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1223856000
+review/summary: Fantastic coffee
+review/text: I can't believe there hasn't been any reviews for this coffee.  Timothy's Midnight Magic is one of my favorite K-Cups.  It has a bold, rich flavor that is great any time of the day.<br /><br />I'm not a great coffee reviewer, so I don't have any fancy descriptions for this coffee - I just know I love it.  In fact, just to illustrate my uncouth coffee drinking habits, I've been known to put some Hazelnut syrup and/or raw cane sugar in it - obviously something no true coffee connoisseur would dream of doing.  But man, it sure tastes great.<br /><br />I've been drinking more Dark Magic since I've been unable to find Tully's French Roast on Amazon lately.  Or some other great brands...Come to think of it, I can't possibly be the first reviewer...maybe Amazon refreshed (pared-down/right-sized/simplified) the K-cups offerings.<br /><br />Sure seems to be a lot of Timothy's coffes available, though.  And that's not too bad.
+
+product/productId: B001D0GV90
+review/userId: A2USRYG0DDE156
+review/profileName: Realitychk
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1205712000
+review/summary: Aromatic and not for the faint of heart
+review/text: I'm grinning reading the reviews as the only negative comments are the 'strong' flavor.  It is strong, but that is exactly what I was looking for while searching in the 'bold, extra bold' catagories.  This K-cup is my favorite because the taste and the smell are incredibly dense and earthy, not bitter but yes, bold.  If you like your coffee strong, dense, tasty and can handle lots of cream and sugar and still taste like coffee, this is your K-cup.  We gave my Mom a machine for Christmas and she prefers the light or medium blends, this one is way too much for her taste.  If you want to step down and still get a bold taste maybe try People's Donut Shop, they have matched the big donut shop's flavor and smell very well. Enjoy!
+
+product/productId: B001D0GV90
+review/userId: AF1IRI37C8L88
+review/profileName: stook37
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1288310400
+review/summary: Great get up and go coffee!
+review/text: I absolutely LOVE this coffee. It's bold and doesn't have that burnt taste like many intense coffee's can have. I'm a complete caffeine junkie and 3 cups of this stuff definetly no more than 4 is all I can take. I highly recommend this coffee!
+
+product/productId: B001D0GV90
+review/userId: AEHTIXPIIN3UZ
+review/profileName: A. Weddington "Up-and-Coming Chef"
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1211155200
+review/summary: Excellent coffee but....
+review/text: At this price I jumped at ordering two boxes from Amazon. Overall, the taste of this flavor was outstanding when brewed at the higher ounce capacity, however many of the K-cups in my batch produced an awful-tasting brew. Not sure the reason for that since expiration dates were 10/08 and 11/08.
+
+product/productId: B001D0GV90
+review/userId: A1MRDIU32OF5UW
+review/profileName: T. Proefrock
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1173398400
+review/summary: Timothy's World Coffee, Midnight Magic, Bold, K-Cups for Keurig Brewers, 25-Count Boxes (Pack of 2)
+review/text: Tastes great and the price was good.
+
+product/productId: B001D0GV90
+review/userId: A24V40Y5ST65JA
+review/profileName: Already
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1282089600
+review/summary: tasty
+review/text: I enjoyed drinking this midnight magic. - Though I have moved on to bolder coffee drinks now- I believe this to have a great taste- also these cups are so easy to use-- I recommend!
+
+product/productId: B001D0GV90
+review/userId: A1ZW899IYFY3IO
+review/profileName: Chris G. "writestuff2"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1281139200
+review/summary: A Rich, Satisfying Coffee
+review/text: With my Keurig brewer, I enjoy trying many kinds of strong, full-bodied coffees.  The real test is in the ones I reorder.  Midnight Magic is my go-to favorite.  Very rich, true coffee flavor, not acidic or bitter.  When I take the first  sip of it in the mornings, I always say "Wow.  This is good coffee."  Need more be said?
+
+product/productId: B001D0GV90
+review/userId: AYRS87PMQYEDR
+review/profileName: Michael H. Schroeder
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1268438400
+review/summary: A bit too bitter for me, but drinkable at work
+review/text: I tried this one (and still have some left) and feel it is a bit too bitter. I am going back to the Rainforest coffee. That may be too mild for some, but it seemed to have the right balance for me.
+
+product/productId: B001D0GV90
+review/userId: A357V6PKK5FFH2
+review/profileName: Bob-O
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1242086400
+review/summary: Read the reviews but disappointing
+review/text: I read all the reviews and was excited to get the coffee but after brewing my first few cups I must say this is not great coffee.  I love Peet's Major Dickason's and other more flavorfull well roasted coffee but the MM comes off heavy with charcoal, cardboard and a chunk of bitter without good aromatics or a complex pallate of flavors I enjoy in richer coffee.  I now have 46 more K-cups to work through.  Before you take the plunge and get a heap of the MM I highly reccomend a sampler pack, it may not be your favorite cup either.
+
+product/productId: B001D0GV90
+review/userId: A3BJA77CI78TT7
+review/profileName: S. Cole
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1239408000
+review/summary: Disappointed
+review/text: The sampler pack included with my Keurig included Green Mountain dark magic extra bold which was the best coffee in the pack. I bought Timothy's thinking it might be a cheaper equivalent. Have to say I've been disappointed. I'm struggling to get through one box and if I could return the other half of the two-pack I would. Newman's Own is better but I'll have to save my pennies for Green Mountain.
+
+product/productId: B001D0GV90
+review/userId: A1ZB6LZHE81LW2
+review/profileName: John Safranek
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1237420800
+review/summary: Too Much Bite!
+review/text: I like the extra bold varieties for the K-cups because you get more coffee taste.  However, the Midnight Magic offers too much bite.  The Extra Bold Rainforest Espresso is so much smoother.
+
+product/productId: B001D0GV90
+review/userId: A3QNCXNMG1ND0T
+review/profileName: D. R. Gendreau
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1233360000
+review/summary: Glad I bought this one
+review/text: I  got this on a Friday sale and saved!  I am really glad I trusted the reviews on this one.  Very smooth yet bold taste.  No sour or bitter aftertaste that many bold pods provide. I am actually normally a medium/mild coffee drinker, but I can fill a travel mug with this favor (using largest and then the smallest brew cycles back to back with the same pod) and I am still happy with the taste.  This is the primary reason I bought this flavor/strength. I intend on trying another Timothy's next time, maybe Italian blend?  Don't let the low price fool you, this is high quality coffee.  The same or better than Starbucks IMO for much less money.<br /><br />Tips for saving as much as you can.<br /><br />Check on FRIDAYS for sales!<br /><br />Use subscription service.  (You can cancel or change at any time, you can request an immediate shipment if you are about to run out before the next shipment)  you will be glad you did and you will want this coming every X number of months anyways.<br /><br />Enjoy, Enjoy Enjoy.
+
+product/productId: B001D0GV90
+review/userId: A19V49OOK5N7QU
+review/profileName: Customer "wtra"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1230508800
+review/summary: Best extra bold of any brand
+review/text: Have to agree with other reviewers, Midnight Magic is by far the best extra bold dark K-cup, and my favorite. Rich but not bitter, drink it black. Best of Timothy's and best of all brands in the extra bold dark category. There is a good reason that it is #1 seller today in coffee.
+
+product/productId: B001D0GV90
+review/userId: A1RU867I2LP036
+review/profileName: re�nais�sance man
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1213056000
+review/summary: The Best so far 6-10-08
+review/text: I never was a coffee drinker until somewhere in my 40's I tried Starbucks extra bold. I thought, "finally, something decent to drink". I always thought coffee was watery before and never really liked it. I rcvd a Keurig Machine as a gift and the samples seemed watery, so I searched and found the reviews on Amazon. Based on those, I ordered the Timothys Midnight Magic. WOW, PERFECT is all I can say. My wife thinks it is way too bold, (but does agree out of all of my bold coffee's it is #1.) My friend tried it and the next week he had his own Keurig machine and Midnight Magic. I have at least 15-20 different types of k-cups in the cupboard, but my friends come over and always go past them to my Timothy's Midnight Magic. It is ridiculous, I tell them to drink the others so they will get used up before they get old, but to no avail. I will have to HIDE my Timothy's until the rest are gone!<br /><br />We stayed in a cabin with some friends and I brought a huge bag of Keurig K-cups with me with a large varity ( I also had about 10-12 Midnight Magic's in there). I figured everyone would try different flavors. Didn't happen, the REAL coffee drinkers honed in on my Midnight Magic before I noticed, and drank ALL of them. They didn't know they were MY Special stash....... FOR ME! oh well. I don't know how they figured out the Midnight Magic so fast, but once they had one of them, that was it.<br /><br />My wife loves the Gloria Jeans Coffee's - Toffee, Hazelnut, etc,,,,, and I will admit they smell great, just not enough flavor for me. I have also tried the Coffee People Black Tiger, (smells a little bitter) its OK, but I prefer the Timothy's Midnight Magic by a long shot. It has a very special after taste I have not been able to find anywhere else, and I love the smell of it. Rich, BOLD, flavor. I fill my cup with a small and then a medium using the same k-cup, and use half-n-half. (my friend drinks his Black and says it is perfect). I also like the Green Mountain Dark Magic and I can get those at the local Target store. (not as good as the Timothy's though, but still very good).<br /><br />Hopes this helps. If you like a nice bold cup of coffee, but NOT bitter, with an aftertaste I can't describe but everyone loves, than this is it.<br /><br />:)
+
+product/productId: B001D0GV90
+review/userId: A17EX1KEVXL9WD
+review/profileName: Brooke anderson "BKA"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1211155200
+review/summary: nice punch!!!!
+review/text: wow!!! this coffee has just the punch i was looking for.  I love starbucks but bucks is the key word.  Midnight magic gives me bang for far less the buck.  I love it and the rainforest espresso is also very good.
+
+product/productId: B001D0GV90
+review/userId: A16FVM9RLY9V6X
+review/profileName: San
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1210291200
+review/summary: Great Coffee
+review/text: If you like strong, bold coffee this is the one.  I have tried several different brands, and nothing comes close to this.  I like this better than Starbucks
+
+product/productId: B001D0GV90
+review/userId: A2KDCY3G0D4X95
+review/profileName: Silver Bear
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1210032000
+review/summary: The BEST Bold K-cup
+review/text: This is the best, boldest, most flavorful K-cup coffee that I have found!<br />Now if only they had a de-caf..........
+
+product/productId: B001D0GV90
+review/userId: A302CCJ17HJ8N2
+review/profileName: LarK
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1205366400
+review/summary: A Favorite Dark Roast
+review/text: Just finished a cup. I like a variety of Dark Roasts and always keep this one on hand. I almost always get Extra Bold k-cups because I use a 9.25 Oz. mug. You probably can brew 2 cups at the 5.25 oz. setting...but I would want the first cup. :)<br />This is one of the really good ones.
+
+product/productId: B001D0GV90
+review/userId: A3MWA768X141BV
+review/profileName: Twin Mom
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1205107200
+review/summary: Great Coffee!
+review/text: Of the k-cups I've bought, this one of my top two favorites (the other is the Timothy's Rainforest blend).  I love the smell and flavor!
+
+product/productId: B001D0GV90
+review/userId: A3HZEQQZ4E1BND
+review/profileName: Steven Jackson "svjackson"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1194480000
+review/summary: The best I've had (so far)
+review/text: After buying my Keurig B60 I embarked on a search for the best K-Cup coffee.  After trying 8 or 10 different blends and brands, I believe that Timothy's Midnight Magic, Bold is the best.<br /><br />It brews a strong but smooth cup of coffee.  I even like the taste when selecting the larger (9.25 oz) serving size.  It holds up well with a little half-and-half.<br /><br />If you like strong coffee, I highly recommend Midnight Magic Bold.
+
+product/productId: B001D0GV90
+review/userId: A1RBM1YEVI686Y
+review/profileName: Retiree
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1193184000
+review/summary: Going Downhill
+review/text: This used to be my favorite bold coffee.  However my last two orders of this product have been disappointing.  It has now become bitter and less flavorful.  Also the lid has changed color (now dark blue like all other Timothy coffees).  It is time to try other brands! 04/2009
+
+product/productId: B001D0GV90
+review/userId: A1I2PYSC7ZPMHB
+review/profileName: S. Chapman
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1192579200
+review/summary: Best Price on the Web
+review/text: Amazon has consistantly been the best price for this "K-Cup" type of coffee.  I like the Timothy's but this particular type was just a little strong for me (and I thought I liked strong coffee).
+
+product/productId: B001D0GV90
+review/userId: A1Z2C2YB34OVIV
+review/profileName: The Travel Queen
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1184716800
+review/summary: Excellent bold coffee!
+review/text: I find this coffee to be nearly perfect in its strength.  I like my coffee sweet with cream, and it stands up to both.  I would buy this again.  Highly recommend!
+
+product/productId: B001D0GV90
+review/userId: A33H7JSHWLNSGY
+review/profileName: Justpraisin'
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1184630400
+review/summary: Love This Coffee!
+review/text: After purchasing my Keurig several months ago, I've been busy trying different varieties of coffee to determine the "keepers."  Timothy's Midnight Magic is definitely a keeper!  It's the coffee I keep coming back to over and over again.  It has a rich, smooth flavor and is just what I'm looking for first thing in the morning.  I'm a Starbucks fan when I'm out, but when I'm home, Timothy's Midnight Magic is what I want if I'm looking for a great cup of regular, unflavored coffee.
+
+product/productId: B001D0GV90
+review/userId: A2SDOL5P4U1RY5
+review/profileName: S. Matheny "coffee connoisseur"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1160956800
+review/summary: Extra bold taste
+review/text: The best of the extra bold coffees from Timothy's.  Has a slightly sweet after taste.
+
+product/productId: B001D0GV90
+review/userId: A345990IZO9ZW6
+review/profileName: Cha Cha
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1173312000
+review/summary: Outstanding coffee in every cup
+review/text: As  a former customer of starbucks, I love bold fresh coffee, this coffee gives me what I like in every cup!
+
+product/productId: B001D0GV90
+review/userId: A3CHFXVUJ210WZ
+review/profileName: Larry W. Mccloskey "larrymcc"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1292112000
+review/summary: My new favorite K-cup coffee
+review/text: Timothy's Midnight Magic is by far my new favorite and everyday K-Cup coffee. Dark and strong, but not overly bitter or the least bit burnt tasting. The taste holds up well even in a 10+ ounce cup.
+
+product/productId: B001D0GV90
+review/userId: AMWXNK57FNBFR
+review/profileName: steve untisz
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1284940800
+review/summary: great tasting coffee
+review/text: this is the best coffee if you like a strong cup. a real wake me up
+
+product/productId: B001D0GV90
+review/userId: A25Q8I75LSGW4P
+review/profileName: M. Ramisch
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1278201600
+review/summary: great coffee!!
+review/text: I have tried almost every k cup available, but I have 2 favorites. This is one of them. I like this coffee in the afternoon because it is strong, but it doesn't have that "burnt" starbucks taste. It is a little too strong for me in the morning<br />on an empty stomach, but in the afternoon it is just wonderful.
+
+product/productId: B001D0GV90
+review/userId: A1RCJX6B8RCNMZ
+review/profileName: Lynne G. Mohr "favorably impressed"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1276041600
+review/summary: It might be better than Coffee People
+review/text: After reading the many positive reviews for Timothy's Midnight Magic, Extra Bold, I decided to give it a try, even though I had been very satisfied with the dark roast Coffee People pods.  I'm here to say that Midnight Magic has become my favorite.  Unfortunately, these two brands are the only two that I can positively endorse, which is too bad.  I prefer a full-bodied coffee, but just never find it with the others.
+
+product/productId: B001D0GV90
+review/userId: AJ87HW1TPNPKZ
+review/profileName: D. Frank
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1267228800
+review/summary: Not My Cup of Joe
+review/text: I was disappointed in this blend, it's not that's it's too strong, it just doesn't have a good flavor. I'm a Starbucks drinker, but this just isn't my kind of Joe. It's too murky, I'll never finish it.Van Houtte Eclipse is the K-Cup Gold Standard or me, Deep, Dark, and Rich. I have ordered and enjoy the Timothy's Rain Forest Blend.
+
+product/productId: B001D0GV90
+review/userId: A7O8886BY846O
+review/profileName: GUNDEALER1940
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1263081600
+review/summary: TIMOTHY'S MIDNIGHT MAGIC, EXTRA BOLD K-CUPS
+review/text: I've been using this coffee, (Timothy's K-cups Midnight Magic, extra bold.) for about a year. This is, in my humble opinion, the best coffee of all K-cups. When we make it we use the small cup, but make a double small cup by lifting the lid a bit then closing it for the Keurig to recycle which makes one extra large cup, so be sure to use an extra large cup or it "shall runnith over". The coffee comes out excellent like this and is still a bit bold. We also use "International Delight" coffee creamer as it is non dairy (Great for us geezers with a lactose intolerent problem.) and we only use a much smaller amount to achieve the same lightness as milk, unless we use the fat free variey, in which case we have to use much more which waters down the coffee. For the litle bit that we use we can afford that tiny bit more fat in the creamer. This combination makes for a rich and bold cup of coffee. We order 3 double packs for a total of 144 K-cups each month.
+
+product/productId: B001D0GV90
+review/userId: A25E21IHT4A1FB
+review/profileName: Lane G.
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1257984000
+review/summary: Nice flavor
+review/text: I just received my order from amazon.com and it was earlier received than expected on tracking shipments. - That is always a plus. One cup was popped open - I am sure in shipment it happened since the box was totally sealed. I actually opened the cup up all the way and put it in my old one cup machine and brewed it - great taste!
+
+product/productId: B001D0GV90
+review/userId: A2ZDXECHYMXY62
+review/profileName: Dru "Yooper"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1255219200
+review/summary: Strong
+review/text: This coffee is way too strong/intense for me.  I have to mix it with other coffee and then use my Keurig filter in order for me to drink it.  I do like a flavorful somewhat more intense coffee but this was way over the top.
+
+product/productId: B001D0GV90
+review/userId: A3PBX7SEHTIGBU
+review/profileName: K. D. Abramson
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1252713600
+review/summary: A strong cup of coffee!
+review/text: The flavor is fine but beware, this particular k-cup produces a strong cup of coffee even on the weakest setting of the Keurig. I normally add fat free half and half so it's acceptable but I do end up adding about twice as much.
+
+product/productId: B001D0GV90
+review/userId: A3DDL81I508E3L
+review/profileName: Brobee
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1248220800
+review/summary: Bitter without flavor
+review/text: I generally like a bold, rich cup of coffee.  Much acclaim has been given to Midnight Madness, but I agree with other reviewers who state that it is bitter.  I drank all 48 cups, but I'm going back to Timothy's Extra Bold Rainforest Espresso, as I preferred the taste and bold flavor.
+
+product/productId: B001D0GV90
+review/userId: A2FH924OS6OSE3
+review/profileName: S. Brown
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1244505600
+review/summary: Tastes different
+review/text: This was my first experience with Timothy's Extra Bold and I just really didn't care for it compared to other brand's extra bolds.  To me it tasted like reused coffee grounds.  I'm sticking to "coffee people" xtra bold or Green Mountain Dark Magic.
+
+product/productId: B001D0GV90
+review/userId: A1RECBDKHVOJMW
+review/profileName: Jana L. Perskie "ceruleana"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1237680000
+review/summary: Dark, Rich & Extra Bold!
+review/text: I like my coffee dark and rich, except for my first cup in the morning when I prefer a milder blend. After taste testing a variety of  different K-Cup dark roasts, including Green Mountain Extra Bold Dark Magic, Gloria Jeans Extra Bold Black Gold, Green Mountain EB Espresso Blend, and Timothy's EB Parisian Nights - Timothy's Midnight Magic, Extra Bold, stands well above the rest. It is made from specialty grade, certified Kosher Arabica coffee beans, so the box says. What really matters is how the taste fits the description, and this java is bold, dark, rich and exceptional with just a touch of sweet, not at all bitter or acidic. I brew it on the smaller size setting for a deeper taste.<br /><br />So, if you have a Keurig single serve coffee maker and your taste is similar to mine, Timothy's Midnight Magic, Extra Bold, is the brew for you. I know it's my favorite.<br />Jana Perskie
+
+product/productId: B001D0GV90
+review/userId: A8E1FOUCDHGHJ
+review/profileName: Patrick C. Miller "PCM"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1236470400
+review/summary: My favorite K-Cup
+review/text: I've been a coffee drinker for more than 30 years. I like mine black and usually prefer medium dark roasts. I bought a couple boxes of Timothy's Midnight Magic based on the reviews here and was not disappointed. It quickly became my favorite with Coffee People's Donut Shop a close second.<br /><br />When I want a strong cup of coffee using the largest setting on my Keurig B60, this is what I select. It's bold without being bitter and a surprisingly smooth-drinking coffee. While I usually can't stand the aftertaste of coffee, Midnight Magic has pleasant, almost clean aftertaste.<br /><br />What I like best about Midnight Magic is that I can use one K-Cup twice to fill my 16-ounce thermal travel mug (using the middle setting) and it provides the perfect coffee for my taste.
+
+product/productId: B001D0GV90
+review/userId: A1NVKR2POLRON8
+review/profileName: H. Weingarten
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1235433600
+review/summary: K-Cups Coffee
+review/text: My husband and I are fans of dark, strong, black coffee...but hate bitter coffee (which dark, black and strong does not have to be).  Timothy's Midnight Magic is terrific.  We still have small issues with the K-Cups because they are obviously not ground and brewed from scratch.  But my husband loves the convenience and fun of brewing different tastes during the day (he works at home) without the fuss.  Timothy's blends are excellent.  We generally use the mid-level strength on our machine and found that works best for good flavor...
+
+product/productId: B001D0GV90
+review/userId: A2G7F7JZMFO56Y
+review/profileName: John
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233360000
+review/summary: Best k-cup for those who like it strong
+review/text: I drink only dark, strong coffee. I've had no success finding a k-cup that is even worth drinking prior to trying this one. I typically use the Cuisinart grind and brew with a dark and oily French roast bean. That is about the only way I have my daily coffee. I tried using the little filter in the Keurig with my own coffee, but it still would not come out strong enough. The k-cups are so convenient, and I am extremely happy that I can finally use that machine now that I've discovered this Midnight Magic blend.
+
+product/productId: B001D0GV90
+review/userId: AHTLPIRL8AGJF
+review/profileName: Mark D. Derwin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233100800
+review/summary: If you like it strong
+review/text: there are only a handfull of K-cup coffees that are bold and strong.  I can brew it for a small cup and enjoy it and my wife brews the larger cup and is happy too.  makes for a good marriage!
+

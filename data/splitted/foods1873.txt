@@ -1,0 +1,1143 @@
+product/productId: B00443W2W8
+review/userId: A3E07GM1T96VAW
+review/profileName: Carol Smith "ahsnjvy2"
+review/helpfulness: 0/2
+review/score: 4.0
+review/time: 1311552000
+review/summary: cotton candy sugar
+review/text: This sugar was purchased as a gift and the reviews from my family I gave the gift to were great.
+
+product/productId: B005SDPXV0
+review/userId: A3FNW0CWN4H2RV
+review/profileName: Maria F
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: Excellent!
+review/text: These digestive biscuits are delicious. I spread a bit of almond butter on one, then top with another biscuit -- and voila! an almond butter oreo.
+
+product/productId: B003SECMGA
+review/userId: A34GNU841S0YUF
+review/profileName: Jennifer Naeger "blue3pink0"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339459200
+review/summary: My dogs love this
+review/text: My dogs love this food!The fish is great for thex, nice texture to mix with kibble. Stinks a bit but I am pretty sure that is another reason the dogs love it!
+
+product/productId: B000MP4E46
+review/userId: AO01UN0C5JDF9
+review/profileName: Donna Smith
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1236729600
+review/summary: The best sugar free chocolates!
+review/text: We have tried many sugar free chocolates, these are the best. I especially enjoy the caramels and the chocolate cherries, and have actually ordered those separately from the seller. The orange creams are a bit too sweet, a hazard with any sugar free product (overcompensation). Service, BTW, is extraordinarily fast and communication is great. I highly recommend this company and their products!
+
+product/productId: B0032JWE4Q
+review/userId: A14UCRFXUBFEO7
+review/profileName: William Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349136000
+review/summary: Best tea EVER!!
+review/text: I was introduced to Ahmad Cardamon Tea during a recent business trip to Iraq.  Ahmad Cardamon Tea was served daily at 3:00 PM High Tea.  I know order regularly to use a gifts to introduce this wonderful tea to business clients who also appreciate a fine cup of tea.
+
+product/productId: B0032JWE4Q
+review/userId: A3ITVXD5LQ8BP1
+review/profileName: Sanjiv Bhatia
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346371200
+review/summary: Tasty but not strong enough
+review/text: I like my tea strong.  I normally drink PG Tips but saw this cardamom tea that reminded me of some flavorful teas I have had in the past.  I though of making a switch but this tea is not very strong.  It has very good flavor though and if you do not care for the strength, this is a great tea for you.  I mix this with PG Tips bags when I brew more than one cup and it makes for a very enjoyable cup.
+
+product/productId: B0032JWE4Q
+review/userId: A1Y27QQ772FT0I
+review/profileName: Sohail Ahmed "superso"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326585600
+review/summary: Great taste, winning idea
+review/text: Each tea bag comes in its own individual baggie so you don't have to worry about tasting the bitter loose tea leaves in your tea. It's a great idea and one that hopefully catches on. The aroma and flavorful taste is also quite smooth and not too strong.
+
+product/productId: B000AMCA92
+review/userId: A1T1LLS0I1FFPR
+review/profileName: Pearls' Wisdom
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1267142400
+review/summary: The Market Place Tea is the Best!
+review/text: Rooibos tea is so good for me,  with 50% more antioxidants than green.  My husband and I went to Seattle and stumbled upon this tea store.  It's now the only place I buy my tea--Amazon is the only way you can buy it.  I also buy their cinnamon and spice tea-- it the best!  It's quite different from other teas you have in the store.  They are bold an flavorful. They add natural flavored oils to the leaves before they are dried.
+
+product/productId: B000AMCA92
+review/userId: AE54TCLSV1ZIP
+review/profileName: J. Brau
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1289260800
+review/summary: Love this Product
+review/text: I enjoy very few teas, especially if they are decaf or caffeine free. Yet I fight the battle to reduce my consumption of caffeine.  I too was on a trip up to Seattle and tried this tea at one of the shops in the airport.  I subsequently purchased three boxes, and have thoroughly enjoyed every cup of tea.  To me the tea is a good substitute for a Latte'.  But no, it is not as good as a Latte', but no tea can replace espresso in my opinion.<br /><br />I'm glad to see Amazon caries this product.  I have tried both the regular (no flavor added) and the vanilla.  I like both, but prefer the regular.  I would highly recommend trying out this tea.  I think I will purchase another couple of boxes of the regular and try a box of the Cinnamon and Orange.<br /><br />Oh, and by the way, the tea is very high in anti-oxidants and organic.
+
+product/productId: B001FQ0UN0
+review/userId: A1TAK6L80N718K
+review/profileName: 52 weeks, 52 books
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346803200
+review/summary: Licorice gluten-free
+review/text: I love licorice but soft types have wheat as a main ingredient.  I was so happy to discover these subtly flavored hard candies available in the U.S.
+
+product/productId: B00018CWNY
+review/userId: A14FTAQ0H8YNED
+review/profileName: Harriet Moulton "Tulip lover"
+review/helpfulness: 17/19
+review/score: 5.0
+review/time: 1238112000
+review/summary: Gluten-free flous
+review/text: Made cookies for my neighbor who cannot eat gluten.  She raved about them.  Great product.  Thank you.
+
+product/productId: B00018CWNY
+review/userId: A2YVOK8ZB4E7X5
+review/profileName: Kevans "Big K"
+review/helpfulness: 18/22
+review/score: 4.0
+review/time: 1199059200
+review/summary: Gluten free
+review/text: I purchased this product for my sister who has Celiac disease.  She seemed to really like the food that we made from it.
+
+product/productId: B000UGXWOA
+review/userId: A1TR2KVICYLR2V
+review/profileName: Theresa Brown
+review/helpfulness: 15/16
+review/score: 2.0
+review/time: 1297382400
+review/summary: Not a sweet deal
+review/text: I ordered the 80 count box of tutti frutti sticks. Out of 80 sticks 65 were broken. I needed the sticks for a school craft project and used the broken ones. I would not order them again.
+
+product/productId: B000UGXWOA
+review/userId: A3TFUUX7VDI97C
+review/profileName: Bride0421
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1332288000
+review/summary: Bad Purchase
+review/text: Out of 2 boxes (160) candy sticks, 105 were broken on arrival.  After an email I was told new boxes would be shipped.  They never came so I emailed again.  This was a monday, my wedding was on saturday.  I was assured I would have new ones before the wedding for my candy buffet.  The new box (60) arrived the Monday AFTER my wedding. This box only had 25 broken.  Customer service was nice for trying to help, however for the price I paid I thought it could have been better~!!
+
+product/productId: B000UGXWOA
+review/userId: A1WTP99BOA0PGA
+review/profileName: J. Mullally "booklover4ever00"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1317168000
+review/summary: Buyer beware on taste and shipping
+review/text: I got a variety of flavors, but for the amount of shipping charged, they could have been better packaged. In addition some of the flavors were great, like root beer, others vile, like the chemical-tasting watermelon.<br />In hot humid weather it is also really hard to get them out of the wrapper. You can put them in the fridge for a while, but unless you are working on craft or cookery projects or run a store, don't buy in bulk in warmer months or if you live in warmer climates.
+
+product/productId: B000UGXWOA
+review/userId: A1X9QD2VBS5AW2
+review/profileName: CAGal
+review/helpfulness: 2/3
+review/score: 1.0
+review/time: 1336089600
+review/summary: Disappointed
+review/text: Extremely disappointed in the lack of quality for this product.  I ordered two boxes, to be used at a wedding for a candy buffet, and BOTH boxes arrived with every single candy stick broken in multiple places.  Out of 160 sticks (total), not ONE was unbroken.  It is beyond me how a company can ship fragile merchandise so carelessly. Very very disappointed.
+
+product/productId: B000UGXWOA
+review/userId: A2G2VWPI5CA43X
+review/profileName: kath
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1346112000
+review/summary: never again.!!
+review/text: i order these for my baby shower and unfortunately  i had to buy it again from another store because out of 80 sticks only 23 came out nice and unbroken. had to pay double the price it sucks.!! never again.
+
+product/productId: B000UGXWOA
+review/userId: A3PPA4F3733UZI
+review/profileName: Keshia
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1331078400
+review/summary: Candy sticks were broken
+review/text: Purchased the 80 count tutti frutti candy sticks for my wedding buffet..at least 60 were broken. Not happy and will have to purchase from somewhere else. Wasted my money & just going to throw these away..
+
+product/productId: B000UGXWOA
+review/userId: A3V8P0O224OBDB
+review/profileName: S. Ghaemi
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1322352000
+review/summary: These were the hit at the wedding!
+review/text: My wife and I decided to have a candy bar/table at our wedding.  Something to keep the kids busy and happy.  These were the hit of the selection we had available.
+
+product/productId: B000UGXWOA
+review/userId: A1NPQ2P4GRORDB
+review/profileName: S. Benson "classic character"
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1338336000
+review/summary: WAY overpriced!
+review/text: With shipping, these come to more than 28 cents a piece. At Cracker Barrel, they are less than 13 cents a piece (8 for a dollar). Eighty sticks would be $10 (and no high shipping cost). At Cracker Barrel, you don't have to worry about broken candy and they are always fresh. Cracker Barrel is where I'll be getting mine for the candy buffet for my daughter's wedding!!!
+
+product/productId: B000UGXWOA
+review/userId: A29SDQ2KLYNQE4
+review/profileName: Mojo
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1337212800
+review/summary: Watse of Money and a Deceiving seller
+review/text: The candy canes WERE NOT the same as shown - I only got a box of 80 but ALL 1 FLAVOUR.<br /><br />ALL WERE BROKEN<br /><br />Don't waste your money or your time with this seller.
+
+product/productId: B000UGXWOA
+review/userId: A3BH49ZKESHDID
+review/profileName: Fred Camfield
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1317772800
+review/summary: Good Halloween candy
+review/text: You need to be careful of the source as the quality depends a lot on the shipper.  I usually order these by the mini-case.  Shippers will not guaratee against breakage if you order single boxes.  Mini-cases usually have special packing (I order from Bulk Foods and have never had trouble with breakage).  The better shippers will also ship with blue ice packs for an added charge (the blue ice packs can be reused).  Prices vary depending on the source.  Ordering by the mini-case, you can usually get a discounted price and free shipping, but you have to check around among the sources.<br /><br />The candy sticks themselves are the best variety that I have found.  The individual wrappers are all marked with the flavors.  Flavors are comparable with candy sticks from other manufacturers.  You can order specific flavors (orange, bubble gum, cotton candy, etc., depending on the source).  Orange is a good color for Halloween, or you can order red (cherry) and green (lime) for Christmas colors, or possibly the barber pole peppermint sticks.<br /><br />A mini-case may sound like a lot, but friends can combine orders.  Personally, I had about 400 trick or treaters last Halloween, and two sticks per child gives them a little variety and makes a good treat.  I ordered a mini-case of 12 boxes, gave one box to a merchant friend for her store, and had a few left for Christmas (they are colorful and can be used in stockings, gift bags, or added as ornaments to wrappings).
+
+product/productId: B004P6ITR6
+review/userId: A1MOIQWHZHP02
+review/profileName: Proud Mom
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1311465600
+review/summary: broken cookies
+review/text: Bought these for a party...guest of honor's favorite cookie!  EVERY COOKIE IN ALL 4<br />PACKAGES WERE BROKEN!!!!!  So if you wanted to put out nicely...forget it. Just  thrown in the box.<br />Fresh, but broken to pieces! I ended up using them for a pie crust!!!
+
+product/productId: B004P6ITR6
+review/userId: A28GRFVAA4DU5P
+review/profileName: A Texas reviewer
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1309996800
+review/summary: Excellent taste... but a bit costly
+review/text: The Mint Milano cookies are wonderful. They have a light and crispy texture with a mild mint chocolate taste. The flavor reminds me a lot of the chocolate mint Girl Scout cookies although the texture of the 2 cookies are very different (the girl scout cookie is much denser).<br /><br />Unfortunately the cookies usually arrive with very few intact and several of mine were even broken into multiple pieces. They still taste pretty good though.<br /><br />Nutritional Facts copied from the actual package (July 2011):<br /><br />Serving size 2 cookies (25g/ 0.9oz)<br /><br />Servings per container about 8<br /><br />Calories per serving 130<br /><br />Calories from fat 70<br /><br />Total Fat 7g<br /><br />Saturated Fat 5g<br /><br />Trans Fat 0g<br /><br />Cholesterol less than 5 mg<br /><br />Sodium 65mg<br /><br />Total Carbohydrate 16g<br /><br />Dietary Fiber less than 1g<br /><br />Sugars 8g<br /><br />Protein 1g<br /><br />Vitamins A and C 0%<br /><br />Calcium 0%<br /><br />Iron 4%<br /><br />FYI, I purchased my cookies during 100 degree weather and except for some of the chocolate melting onto the inner wrapper the cookies were fine (I used 2 day shipping which might make a difference since the cookies weren't in the heat that long).<br /><br />At 15.88 for 4 bags of cookies the price per bag is 3.97 which is 48 cents more than the price printed on the cookie bag (3.49).
+
+product/productId: B004P6ITR6
+review/userId: A1X80PHSE6U5YJ
+review/profileName: Elleana
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322179200
+review/summary: Delicious!
+review/text: These are our favorite kind of cookies! Usually, I just buy the dark chocolate one, but Pepperidge has so many different types, I recently decided to try the others. The mint adds a refreshing hint to the chocolate, which we like. These are nice to enjoy with tea as a midafternoon snack or something of the sort.
+
+product/productId: B004P6ITR6
+review/userId: A281387UUS2IN5
+review/profileName: Beantown Jim
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1316304000
+review/summary: OK, but not up to normal Milano standards.
+review/text: I guess I should've known: I checked out the prices for the various permutations of the Milano brand name and this was the cheapest.  The cookies arrived in fair condition, with some of them broken already.  Slight breakage is okay, since we break them up to eat them anyway.  However, when they are broken to the point of powder, they become useless.  I believe that these were overbaked or the mix failed.  There was a powdery texture to the cookie instead of the smooth surface.  It's a subtle difference but the 'Milano' experience is very specific.  At these prices, they better be perfect.  These cookies weren't.<br /><br />I know Pepperidge Farm products; my parents lived in Norwalk, CT near their factory.  I have shopped at the company store.  What's amazing is that their products are perfectly good at the expiration date or even one year later.  However, in the case of the product above, they were not good right out of the factory and thus they were discounted.
+
+product/productId: B004P6ITR6
+review/userId: A36WGHR8TO5DKT
+review/profileName: Goldwave "shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: Classic Cookies
+review/text: All of the flavors I've tried are great; but my favorite are the mint.<br /><br />I was concerned re the shipping issue based on other reviews.  When they arrived, the cookies were packed so tightly into a box filled with canned goods that the outer carton was pushed out of shape right on top of where the cookies were - which carton was pretty battered on that location, as one might expect from an incorrectly packed carton.  Amazon, what is up with your packaging logic?  It's so weird what you do when packing things....<br /><br />Anyway, I figured the whole batch of cookies would be crushed.  To my amazement, only 3 of the cookies were broken (out of a pack of 4 bags).  I think that was a fluke really.  Anyway, otherwise they were fresh etc.  The only other odd thing was that these seemed to be different cookies than what I was used to.  They seemed to be thinner.  I've noticed since moving from the West Coast to the East Coast that a lot of products seem different here in various ways, so I figured it was either that, or maybe I was imagining it; but I don't think so.  Anyway - I actually preferred the thinner ones, as the overall flavor balances were better and the texture was more appealing.<br /><br />So while my shipping story was a success, I can't claim that the product was really properly packaged, and I wouldn't therefore want to leave a review claiming that.
+
+product/productId: B004P6ITR6
+review/userId: A1R8UVDE12GK6R
+review/profileName: Fargo "changwh"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1341705600
+review/summary: Orange Milano Memories
+review/text: A tasty treat for those who remember what these were like when they used to sell them in the stores, now I can't find this one, but they have the double chocolate, mint, and other random flavors that I don't find quite as appealing.<br /><br />Note that this is a pack of four, but still expensive for such - probably designed to extract the emotional value from people like me. Considering the other kinds can be had for far cheaper at Target... I can do without these for a while again, especially as most of us don't eat through these fast enough to get through four packs by the due date.
+
+product/productId: B004P6ITR6
+review/userId: AXSV2IRQX2C20
+review/profileName: JAScribbles "Kindle is charged and ready!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336694400
+review/summary: Yummy Little Treat
+review/text: This review is regarding the cookie, not the price set by this seller. The cookie.... is fantastic. What a perfect little treat. Three cookies are only 180 calories. Since I am trying to watch my weight, I eat one - only 60 calories!! It's perfect for those times you NEED something sugary or chocolately. You can eat one of these and not blow your entire day dieting.<br /><br />Yum. Yum.
+
+product/productId: B004P6ITR6
+review/userId: A2ZG5QZEH8AX1J
+review/profileName: kmperkins
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332115200
+review/summary: Far too delicious
+review/text: These cookies hardly need a review. They are so amazingly delicious. The perfect amount of rich chocolate between the cookies. Pepperidge farm sure did it right with these cookies. Stick to the classic ones, though. I've tried a few other variations and they aren't nearly as good.
+
+product/productId: B004P6ITR6
+review/userId: A2MWB3Z94FOP88
+review/profileName: Cheryl A. Harford "Advide Movie Watcher"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330387200
+review/summary: mad for movies
+review/text: The cookies were delicious, chrisp and whole. I can only say they did not last long.  Pepperidge Farm Mint Milano is the only cookie I realy enjoy and would eat a lot off.  The others, even in Peppridge Farm I would only eat one or two.  But I have found that the Mint Milano is hard to get.  Pepperidge Farm should try selling in Canada and Jamaica,  West Indies.  I actually live in Jamaica, W.I. and can not get Mint Milano there so I either ask friends to buy it for me or buy it on line.  Would recommend this cookie for all those people that like a lite combination of mint and chocolate.
+
+product/productId: B004P6ITR6
+review/userId: A1M8AYAL3L8ACP
+review/profileName: Amanda L. Davis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330041600
+review/summary: Good Mint Cookies
+review/text: These have minty chocolate in them, but it's not too minty, wich is good.  They're a lot like the Thin Mint Girl Scout cookies in reguard to flavor, but the texture is lighter and crisper.
+
+product/productId: B004P6ITR6
+review/userId: A1PN3SJAP1TBTU
+review/profileName: Dulcie22 "barbaralovesanimals"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1318032000
+review/summary: Very Disappointed
+review/text: I LOVE raspberry, and Pepperidge Farms, so I thought this would be a "no brainer".  However, when I received them they were already a week past the freshness date, and they were very dry.  I don't think I will order again.
+
+product/productId: B004P6ITR6
+review/userId: A1ODKP5Y7DPMM1
+review/profileName: Doreen B. Bishop "Doreen Bishop cat parent"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314144000
+review/summary: MILANO ORANGE&lt; MY FAVORITE !!!!
+review/text: By the time I buy a few four packs and get amazons free shipping to my door it is a better deal than my local store.Its a wonderful crispie cookie that holds up well in shipping Try it for yourselves  :)
+
+product/productId: B00668KBJK
+review/userId: A199ECYLE4BV87
+review/profileName: J
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1337731200
+review/summary: Not what I ordered
+review/text: The loaf sent was loaded with sesame seeds and no where in the descrption or photo was any sign of the seeds.
+
+product/productId: B002WDCAJ2
+review/userId: A3W0PWU684CXVU
+review/profileName: Joe Bagadonuts
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1279324800
+review/summary: Consistent flavor
+review/text: Over the years that I have had my Tassimo system; I have tried every brand and variety of coffee & tea made for it.  The Starbucks brand is the most consistent of all the brands.  Each of the flavors is accurately described.  The  Verona is a bold and earthy blend that will not disappoint if you usually stop at your local SB for a cup of strong coffee.<br /><br />If I want a more serious kick without going to an expresso, I simply press the button on the Tassimo when it is half-way done brewing and it gives an extra bold, but not bitter (half)cup of coffee.<br /><br />Lastly, I have yet to have one of the SB's T-Disc fail (fail = very inconsistent flavor from disc to disc, or inconsistent quantity of coffee to water, or out-right failure of the disc) which happens too often with the other brands.
+
+product/productId: B002WDCAJ2
+review/userId: A2JXCOUGYS5Y4J
+review/profileName: anonymous
+review/helpfulness: 5/5
+review/score: 3.0
+review/time: 1300406400
+review/summary: as close to starbucks house coffee as you'll get, but might not be around for tassimo users!
+review/text: i've had a tassimo single-cup brewer for over a year, and this coffee is the reason. though our local starbucks seems to have changed the beans a few months ago, caffe verona tasted very close to the house coffee you get at starbucks. unfortunately, starbucks and kraft have parted ways, so starbucks will be exclusive to the keurig brand. so this would be a 1-star review for tassimo users but a 4-star review for keurig users. maybe peets' coffee will make a deal with tassimo...
+
+product/productId: B002WDCAJ2
+review/userId: A2A1AYLFYS524E
+review/profileName: Mike
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1279411200
+review/summary: Starbucks Tassimo -- Delicious
+review/text: I bought my Tassimo brewer a couple of years ago, just because I could get Starbucks T-discs (the Keurig doesn't have Starbucks pods).  I think the Cafe Verona from my Tassimo machine is every bit as good as in the store (you should know that I am a big Starbucks fan to begin with, so may be a bit biased).
+
+product/productId: B002WDCAJ2
+review/userId: A3B3RW0Z9MTV15
+review/profileName: Boogerwood "I'm an Old"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1275350400
+review/summary: Starbucks at home!
+review/text: Love the Tassimo and love the Starbucks, especially the Verona!  When "brewed" it's fresh, bold, and rich!  I've wanted a pod-style coffee maker for a long time but just wasn't fully satisfied with the Keurig and others.  Don't get me wrong, they're good, just not as good as the price.  I lucked out and bought a Tassimo on clearance which introduced me to their line of coffees and will attest that all the Starbucks coffees are phenomenal!  It is seriously like going to Starbucks but for a fraction of the cost!  And no lines!<br /><br />Here's the awesome part of buying the pods through Amazon: you always get free shipping for your books... essentially.  You can always use coffee and since the Tassimo counts toward the $25 and free shipping, you can buy that one book or item you've been contemplating since we all know Amazon is about the cheapest place to buy new books, but, if you're like me, I always wait until I have enough books to hit the $25 minimum.  Now it's not an issue!  Another tip for you Tassimo folks out there: Target is about the cheapest place to buy the Starbucks house or breakfast blends.  The current price at my local Target is $7.89.  Everywhere else, including Amazon, they're $10+.<br /><br />Enjoy!
+
+product/productId: B002WDCAJ2
+review/userId: A2LYNRVW0CNY27
+review/profileName: pupstuff
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1323475200
+review/summary: why does amazon let someone charge 200.00
+review/text: absolutely  ridiculous for AMAZON to allow someone to charge 175.00 and up to 200.00 for tassimo discs.  Taking advantage of amazon customers!! I thought AMAZON was about great pricing!!! shameful!!!!!
+
+product/productId: B002WDCAJ2
+review/userId: A2GR8X2FSBO8NG
+review/profileName: CsShade
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1320105600
+review/summary: Craziness
+review/text: This is nuts! We love our Tassimo and have purchased from Amazon, but $150 for 24 cups?? I don't think so. There are now other excellent brands for the Tassimo since Starbucks is not available which are reasonably priced.
+
+product/productId: B002WDCAJ2
+review/userId: A1YWLR5EJ0B08Q
+review/profileName: Harriet A. Harris "world citizen"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1283212800
+review/summary: Starbucks Discs Cafe Verona
+review/text: We accidentally came across these coffee discs and have become everyday users.  We have put away our old coffee pot. These discs provide delicious coffee without any waste. We get a fresh cup on demand.  We only wish they made a decaffinated version.
+
+product/productId: B002WDCAJ2
+review/userId: A20IAJB8GO5R4V
+review/profileName: Michael A. Marcal "MikeM"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1331078400
+review/summary: The price must be a joke or a mistake
+review/text: The price cannot be correct.  $387 for 2 packs?  Hopefully, someone will update this or else I will never purchase it
+
+product/productId: B002WDCAJ2
+review/userId: A2ZKELB1CH469V
+review/profileName: Andrew
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1327363200
+review/summary: 16 bucks a cup?
+review/text: how can 12cups cost $159.00??? The Starbucks product is 8 times more expensive than the rest???? The coffee is good, but not that good!
+
+product/productId: B002WDCAJ2
+review/userId: A1RUV9Q8LSKFL2
+review/profileName: tamm57
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1327276800
+review/summary: REALLY
+review/text: Do u guys really pay 190.00 for 2 packages of 12 cups each?  REALLY $190.00 for 24 cups of coffee?
+
+product/productId: B002WDCAJ2
+review/userId: A1VZORXF077BQW
+review/profileName: A. Pagnotta "blow up your tv"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1299283200
+review/summary: Any good alternatives to Verona?
+review/text: I have been buying the verona for a year to drink at work.  I like the dark kick, and cut it with a bit of cream.  Now that they are going out of production has any one tried the Cafe Noir or the Master Lorenzo espresso (from the T*** direct website? I am buying 6 bags of the verona (just in case Amazon runs out) but then what do I do?
+
+product/productId: B002WDCAJ2
+review/userId: A1TI4VQCR8439W
+review/profileName: Alex Hodge
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1299024000
+review/summary: Excellent
+review/text: This is, in my humble opinion, the best* cup of coffee a Tassimo can make. Better than Africa Kitamu even, though that's would be a close second.<br />It brews a nice sized, strong but not bitter cup of coffee.<br /><br />*Of the drinks available in the US. Tassimo don't feel it's in their interest to allow US customers to buy the same coffee and other drinks (tea, cocoa, etc.) as our friends in Europe. Unfortunate.
+
+product/productId: B002WDCAJ2
+review/userId: A2YSB0NIFLLEMB
+review/profileName: R. L. Carr "Wonder Why"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1294704000
+review/summary: My New Favorite Coffee !!!
+review/text: First...to the reviewer who called this Coffee bitter, please have your Tastebuds in for an oilchange (LOL)... you're freakin' crazy man/woman/whatever!<br /><br />This is the best coffee I've ever had...and there is NO BITTERNESS to it...Period!
+
+product/productId: B002WDCAJ2
+review/userId: A3TM9PE2KV6IH
+review/profileName: charlie
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285027200
+review/summary: Great  Coffee; What  about subscribe & save offers
+review/text: I  love this  coffee.  Its  the best.  I  place an  order  for this  coffee  almost every  other  month. Why is this product not  part of  on the Subscribe & Save program?
+
+product/productId: B002WDCAJ2
+review/userId: A10OF78KE9C1FA
+review/profileName: Mimi Kiest "SexyShoegirl"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343952000
+review/summary: Yes!!! Just like a cup from the store..... BUT
+review/text: Ok, so it does taste just like a cup of coffee from the Starbucks store and unfortunately it is no longer avail for the Tassimo machine.  I bought the other machine and although now Starbucks offers the cups for that machine it does not come close to the taste you get from the Tassimo, Starbucks coffee or not!  BUT more importantly, what is the reason for the $700 plus tag on these, it's not gold people, it's not a cure for cancer is coffee!  Unfortunate how there are those who think they can take advantage of others.....
+
+product/productId: B002WDCAJ2
+review/userId: A1P5FOCX3KOPU7
+review/profileName: Vance
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320192000
+review/summary: Starbuck Coffee
+review/text: We have been purchasting Starbuck coffee T-discs for a couple of year, and we always rate the coofee very high - BUT, we are very upset with the outrageous price Starbucks is charging for these T-discs and will have to compromise with another brand.
+
+product/productId: B002WDCAJ2
+review/userId: A1YFZJIB9OF05U
+review/profileName: JM
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1315958400
+review/summary: coffee
+review/text: I love the product but I will never again purchase it this way.  It was very expensive. I thought for that price I would have gotten more than 2 packages of starbucks. I will most likely switch to something else that is more reasonably priced.
+
+product/productId: B002WDCAJ2
+review/userId: A3WROQPDDR3JV
+review/profileName: R. DIMAGGIO
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306886400
+review/summary: Too, too, too expensive
+review/text: What happened to the price? If  you look closely you won't believe what's going on all over the Internet.  Some sites are charging over $100 for 12 pods.  Be careful.  Figure out the price before you buy.  I thought I was figuring wrong...I wasn't.  Now that you can't buy in stores...they are discontinued...the prices are too much for the average person.  Hope something good like Peet's takes Starbuck's place.  Be careful all.
+
+product/productId: B002WDCAJ2
+review/userId: ATI6EUS19UTDQ
+review/profileName: kah staten island
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306022400
+review/summary: very pleased with prompt delivery
+review/text: I found the coffee a bit pricey but worth the cost- I was very pleased to get such prompt and efficent service. I was a bit suprised because of the shipping from a surgical supply firm - but had no problem at all.
+
+product/productId: B002WDCAJ2
+review/userId: A3172PUNVFONCZ
+review/profileName: J March "Mariner"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303776000
+review/summary: Always Delicious
+review/text: Starbuck's Verona is always a delicious cup of coffee. It is just the right amount in the T-cup so there is no adjusting the amount of water to coffee ratio(I always have to adjust the Gevalia).
+
+product/productId: B002WDCAJ2
+review/userId: A1DRTNJV9GCY63
+review/profileName: Eric C C
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298505600
+review/summary: Best coffee available for Tassimo for dark roast fans
+review/text: If you like dark, strong coffee, this is your best bet for Tassimo. I love this stuff.<br /><br />That said: recent news reports have Kraft and Starbucks ending their relationship, so Starbucks T-Discs may soon go away. Since nobody knows for sure what will happen to the Tassimo part of their arrangement, don't but a Tassimo machine just for Starbucks until the dust settles on the Kraft/Sbux divorce!
+
+product/productId: B002WDCAJ2
+review/userId: A3DPTHARCRW1NM
+review/profileName: Pompano Larry
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1294876800
+review/summary: Excellent for the T-Cup
+review/text: Caffe Vernoa is a rich blend of coffee that translates well in a T Cup.  I still prefer fresh ground and fresh brewed, but this is good for a single cup.
+
+product/productId: B002WDCAJ2
+review/userId: AEY1V4X1VP2V4
+review/profileName: d
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1291939200
+review/summary: Disc problems but great taste
+review/text: This is my favorite of the many T-disc coffee's I've sampled, but there is also a problem with some of the discs malfunctioning and not making the coffee.  You need to be especially careful how you put the disc's in the machine to avoid this difficiulty.
+
+product/productId: B002WDCAJ2
+review/userId: A17BXN9X0G4U3Q
+review/profileName: love to cook
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1287619200
+review/summary: strong, bitter taste.
+review/text: I am used to strong coffee, so few coffees work for me. Starbucks usually are strong in flavor and stimulation effect except breakfast blend (I'm talking about Tassimo ones), Verona though didn't work for me because the taste was bitter and sour, it was strong and kept me alert most of the day more than other coffees, but I did not like the bitter taste, I prefer the medium version.<br />I also think it is expensive for home made coffee. I would give 4.5 stars to the medium versions; strong, taste good, stimulating without the bitterness flavor. I also like Seattle henry blend from tassimo, tastes good, cheaper not as strong though, I intensify the flavor by stopping the brewing cycle before the flushing. it does the job.
+
+product/productId: B002WDCAJ2
+review/userId: A2WVL4OTNWPWOH
+review/profileName: David A. Bailey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268697600
+review/summary: Caffe Verona
+review/text: I like my Starbuck BOLD so this is just about the only coffee I buy for myself. I buy some medium roast like Maxwell House for my wife. Love this Verona though.
+
+product/productId: B002WDCAJ2
+review/userId: AU53CPYQFHF4W
+review/profileName: Russell Sherman "Russ"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1268006400
+review/summary: Mmmmmm-Caffe Verona is terriffic
+review/text: Caffe Verona is perfect for that pick me up treat after lunch or dinner - - - powerful flavor, strong brew that taste great. T-Disc (Tassimo) makes the perfect cup every time!
+
+product/productId: B002WDCAJ2
+review/userId: AB20GD8IZICAM
+review/profileName: Debra Hunt
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1262908800
+review/summary: Like having a Starbucks right in your kitchen!!
+review/text: I Love this coffee--it is bold and very tasty.  It's like having a Starbucks at home.  Especially nice when you don't have a Starbucks in your town!!  Deb
+
+product/productId: B002WDCAJ2
+review/userId: A3LWHDFAO334UW
+review/profileName: PeaceBang "PeaceBang"
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1294358400
+review/summary: Verona Is Horrible!
+review/text: I love a good, strong cup of coffee and I'm a fan of Starbucks, but unless I add a full glass of milk to the Verona brand I can't stomach the stuff. It is WAY too bold for even the "Bold" designation!
+
+product/productId: B002WDCAJ2
+review/userId: ATC4UCTL122VJ
+review/profileName: An Informed Critic
+review/helpfulness: 4/10
+review/score: 1.0
+review/time: 1281312000
+review/summary: Alas poor Starbucks, I know you all too well
+review/text: I've had my Tassimo for about a month and have been trying different coffees.  I read the reviews on Verona and went against my better judgment and bought a package.  I'm not a Starbucks fan -- think their coffee is way too bitter, burnt and strong.  I like a strong espresso from other makers, but Starbucks gives me heartburn.  Well, the Starbucks Verona T-disc won't disappoint if you like their coffee to begin with, but watch out if you don't.  It is the same old burnt, strong, bitter acidic stuff.  Not sure how they've made such a business from bad coffee.<br /><br />The Gavalia espresso is way better, just add some extra water for a great cafe creme.  And the Gavalia Morning roast is great if you cut out an ounce or so of water.
+
+product/productId: B002WDCAJ2
+review/userId: A1Q78NV4CHIEMJ
+review/profileName: ASHRAF SEWAILAM
+review/helpfulness: 1/8
+review/score: 1.0
+review/time: 1284768000
+review/summary: Vile!
+review/text: My work takes me on the road often, and here I am stuck again with a Tassimo in my host's house. I thought I'd contribute by buying some pods. Not unlike the other one-star reviewer on here, against my better judgement I bought the Starbucks Pods BECAUSE I love a bold Italian roast, thinking it would be better than what we get at Starbucks shops. But this is not only over-roasted, this is beyond burnt. Experiencing this allegedly great cup of coffee is akin to drinking crude oil mixed with sea water in the Gulf of Mexico.<br /><br />If you read through all the five-star reviews it is obvious what people like about SB: It's consistency. And consistent it is; consistently burnt. Several local roasters on my trips told me that what SB does is over-roast the coffee beans to an almost burnt stage so that it ALWAYS tastes the same, anywhere in the world. And that's what they really sell, not coffee, but predictability... just like McDonald's. And that's usually what the mob goes for; knowing what you're gonna get is far more comfortable, even if you know that it is bad. It is like voting for a bad president for a second term. Thank God we have term limits.<br /><br />I should have remembered my roasting friends' advice and bought anything other than SB.
+
+product/productId: B0006FLWXS
+review/userId: A36M8LA3GXX9MR
+review/profileName: A. Meneghello "wakka wakka!!"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1184544000
+review/summary: Scrumptulescent tuna!
+review/text: This tuna is simply marvelous.  Not unlike a romantic retreat in the Serengheti with a voluptuous lover, this tuna will tentalize you and make you reassess your past preconceptions of what "smashing!" really means.  The delicate olive oil blends with the creamy, buttery, proteiny tuna to create a climax of gastronomic nutting that will make you want to smoke a cigarette next to the empty can as soon as you're done with the ingestion. The olive oil and the tuna complement each other unlike any pair of anything in the universe ever.  Laurel and Hardy, Tom and Jerry, Peanut Butter and Jelly, Sonny and Cher all pale in comparison to olive oil and tuna.  I'm pretty sure that when the yin and yang was created, it was originally pink and light green to symbolize this gastronomic union. I eat this for breakfast, with my cereal; for lunch, with other tuna, and for dinner, with steak.<br /><br />But seriously. It's really good. Buy it.
+
+product/productId: B0006FLWXS
+review/userId: AWA3Z40BEVAY5
+review/profileName: E. Stalemark
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1196985600
+review/summary: Better Tuna
+review/text: <a href="http://www.amazon.com/gp/product/B0006FLWXS">GENOVA TONNO OLIVE OIL, 24 pack of 3 oz cans</a>  My husband tries to follow healthy eating practices.  This tuna is a much more healthful option for tuna eaters.  Although not recommended for a mayo based salad...it is delicious.  We had been buying it at a local Italian grocery, but it closed and were at a loss until I searched Amazon and there it was.  Happy, happy.
+
+product/productId: B0006FLWXS
+review/userId: A1E50L7PCVXLN4
+review/profileName: Colinda "L.S.W."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1171324800
+review/summary: Makes most canned tuna taste pathetic in comparison
+review/text: This is excellent tuna. I like the 3-ounce cans for carrying in my snack bag or purse - makes a good meal in the car, just add some chips. (Be careful not to spill the oil on your clothes though.)<br /><br />I like the fact that this tuna does not contain soy or other fillers.
+
+product/productId: B0006FLWXS
+review/userId: A3RFCLYJJI46KT
+review/profileName: Joburti
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1204070400
+review/summary: If You Love Super Salty Tuna
+review/text: I purchased a case of Genova Tonno Olive Oil tuna due to the reviews I have read and I am very sorry I did.  I was looking for a tuna with no soy broth or MSG and this brand caught my eye.  The cans are very small snack sized which is fine, but they have a strange pop-top lid that is inset deep so that you can use a can opener on it as well, I suppose in the event the pop top doesn't work.  The pop tops are very hard to open but they have never failed.<br /><br />When they say they contain salt they are not kidding.  It is almost inedible unless you mix plenty of mayonaise or other ingredients which is something I wanted to avoid.  The first can was so salty it was actually humorous, but after 3 cans of super salty tuna it was no longer funny.  Perhaps they need to over-salt the tuna as a preservative or maybe it was a goof up at the packing plant.  All I know is this is the saltiest tuna I have ever eaten.  I would liken it to oversalted potato chips at the bottom of the bag you may throw out rather than eat.<br /><br />When I made a tuna salad with eggs, mayo, and other ingredients it was actually okay, so if you are brave enough to order a case in hopes of it won't be salty, then go ahead.  The solid pack texture of the tuna is excellent and it is so firm that you have to dig it out with a fork. You can't turn it over and plop it out in a bowl.<br /><br />The beautiful label, olive oil, and lack of preservatives or additives made this tuna very appealing to me, but the salt is rediculous and you can't even taste the olive oil.
+
+product/productId: B0006FLWXS
+review/userId: A1O9WQ2446ON17
+review/profileName: Peter De Santis
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1205107200
+review/summary: Genova Tuna Fish
+review/text: I had purchased 48 3 oz. cans of tuna, upon opening some of the tuna I had to throw out 20 cans, because the product was spoiled (dark meat and fowl smell). I purchased this product in the past with no problems.
+
+product/productId: B0006FLWXS
+review/userId: A2L628G5ZFIYFO
+review/profileName: Martin J. Calcagno "MARTY CALCAGNO"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1151798400
+review/summary: EXCELLENT TUNA PRODUCT
+review/text: I SEARCHED FOR AND FOUND THIS OLIVE OIL PACKED TUNA HERE ON AMAZON.........ENJOYED IT VERY MUCH AND PLAN ON BUYING MORE....  IN FACT I DO IT TODAY  ! ! !
+
+product/productId: B0006FLWXS
+review/userId: A33RJ1LQ84K82X
+review/profileName: Jr Sacerino
+review/helpfulness: 0/7
+review/score: 5.0
+review/time: 1152748800
+review/summary: shipping
+review/text: I am glad that I received this notice,I was very upset because my order was shipped out but someone else received my order because of lack of making sure it was the right person, I spent one whole day trying to track my order when I finally spoke with someone they let me know that my order was delivered,just not to me,probably someone else in my development received my order that I payed for,this makes me question whether or not to ever order anything online again based on the fact that I may or May not receive the item. just wanted you to know for future customers rights.  JR SACERINO
+
+product/productId: B000RY5YFK
+review/userId: AHFKZYTNUAO7D
+review/profileName: Sandy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: Angelo Pietro Shoyu Flavor & Sesame Miso Dressings
+review/text: I mix the Shoyu Dressing with the Sesame Miso dressing.....what a great combination.  I originally found this in one of our local grocery stores several years ago, but was discontinued.  Glad I could find it now on Amazon.com!!!
+
+product/productId: B000NMG8F6
+review/userId: A2MK8WGPWJI6NJ
+review/profileName: Robert C. Campbell
+review/helpfulness: 14/17
+review/score: 1.0
+review/time: 1247356800
+review/summary: Reeses
+review/text: The candy was delivered on time as promised. The only thing I had a problem with is that my product did not taste like what I purchased. Wherever they stored it, it must have been close to bubblegum because that is what the candy tasted like. Just like when some of your food is in the refrigerator too long and starts to take on the taste and smell of another item in the fridge, thats exactly what I dealt with. I hope the wholesaler fixes this problem but until then, I'm done with ordering candy online.
+
+product/productId: B001E96JZ6
+review/userId: A2IO9ODD9XJIO
+review/profileName: Stuart "Stu"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1245715200
+review/summary: Quick easy and actually delicious
+review/text: I have these for a quick and easy lunch. I have tried the flavors and they are all great. I usually don't like any of the HC products, but this is surprisingly good, the chicken is too. One of the great things is there are no wierd ingredients or major usages of HF corn syrup or anything... a good buy.
+
+product/productId: B001E96JZ6
+review/userId: A1MIHVB64J0HTN
+review/profileName: CALiforniaVIN
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1325635200
+review/summary: Its microwave pasta - what did you expect?
+review/text: Added water up to the fill line - popped this sucker in the microwave for 3 minutos. Beep. Drained. Nuked the sauced for 30 seconds. Poured sauce over pasta. Presto.<br /><br />It was enough lunch for me. I pretty much sit on the computer all day surfing the internet (paid to do nothing at work) - so I don't get famished. Point - this is not a lunch for the hardworking construction worker who just spent 6 hours working 2x4s framing. Didn't buy this to lose weight/eat healthy/etc, but more out of convenience of leaving in my desk drawer in my office.<br /><br />Flavorwise, it left more to be desired but it beats others in similiar categories where you nuked your pasta with sauce at the same time. I can see where if one was inclined to pack more in their lunch bag, some hot sauce and parmesan cheese would nicely add to the flavor.<br /><br />What does concern me is exactly how much packaging/container is used for this small lunch. I thought I might be able to reuse it, but the container really isn't strong enough for repeated use. This isn't exactly landfill friendly.
+
+product/productId: B001E96JZ6
+review/userId: A3T7X4I03JG3K3
+review/profileName: Pharmachick
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1327017600
+review/summary: Actually quite nice
+review/text: The sauce is  a little spicy, and the pasta can be cooked to your own preference. Then the entire meal is under 300 calories ...<br />This is a wonderful lunch option, especially for busy working professionals!
+
+product/productId: B001E96JZ6
+review/userId: A291HTT117RVS9
+review/profileName: MadisonVeggie "Lynette in Wisconsin"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1324598400
+review/summary: Good back-up meal
+review/text: I always keep a few of these at the office since they don't need any refrigeration. They are quick to prepare in the microwave (the pasta cooker/strainer design is pretty cool) and they taste good. It's a small portion to be a meal on its own, but at least it'll get you by for awhile. It comes in at 300 calories, 4g fat and 7g fiber, so it's fairly healthy. The sodium is very high at 600mg, though.
+
+product/productId: B001E96JZ6
+review/userId: A23EYILN4YZEWT
+review/profileName: K. Beck
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1317254400
+review/summary: Not Hearty Enough for Me
+review/text: I bought these meals to have at work for lunch.  I found that I could get them at Amazon for about $1 per bowl than if I were to buy them in the local market.  For me, the rotini and zesty marinara bowls just aren't hearty enough.  They don't come close to filling me up.  But, I've discovered that <a href="http://www.amazon.com/gp/product/B001E96JZG">Healthy Choice Fresh Mixers, Ziti & Meat Sauce, 6.95-Ounce Bowls (Pack of 6)</a> are much more substantial and come much closer to being a complete meal.  While they aren't as filling as a meal from home or in a restaurant, if you're trying to cut back, they're a great addition to your daily food intake.
+
+product/productId: B001E96JZ6
+review/userId: A2V1K5WX0VGZI4
+review/profileName: Noah D. Goldblatt
+review/helpfulness: 4/6
+review/score: 3.0
+review/time: 1288224000
+review/summary: Microwave Pasta is okay, but do not try to reuse/refill!
+review/text: I thought that I would leave a few of these in the office to eat as lunches. Well, they are much more complicated to deal with than your standard microwave frozen meal because they involve filling with water, straining, and the potential for the water to bubble/boil over the strainer lid and into your microwave, resulting in a total mess. They taste good, and they are a decent deal if you use Shop and Save, but ultimately they were not filling enough for all of the work they required to make. I thought to myself, why don't I just make pasta instead of "faking" it? And I tried to be recycle these containers in vain by refilling them with pasta and that project failed miserably, as I'm sure other people have tried as well. The pasta that comes in these Healthy Choice Fresh Mixers is a special type that cooks quickly, perhaps because the noodles are so much more tiny than regular rotini pasta. So the packaging is a mess, it cannot be reused, it isn't filling, but it tastes good and it is a hot pasta dish in less than five minutes in the office. I would be more eager to try their other varieties but I am a vegetarian.
+
+product/productId: B001E96JZ6
+review/userId: AN2GYGF4G42TO
+review/profileName: veroneque
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1345593600
+review/summary: It is Lunch Express now, not Fresh Mixers any more
+review/text: I always like this variety of fresh mixers, it has good balance and tasty sauce for microwave pasta. I like to put extra water int it when i microwave it, then drain them out, and it gets me al dente pasta (like you cook pasta on stove).<br /><br />But not any more. Healthy choice changed the Fresh Mixers to Lunch express about a month ago.<br /><br />The package mentioned "Formally Fresh Mixers", but do not fool by it, it is not the same as fresh mixers. The biggest difference is lunch express do not have any filter to drain water any more, so you either left too much water in it or you use too few water to make it al dente.<br /><br />I will give one star to the new lunch express, but five star to amazon's return policy.
+
+product/productId: B001E96JZ6
+review/userId: A3EHI6925VZSBJ
+review/profileName: R. De Arman
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321747200
+review/summary: Pretty Good
+review/text: So far I like these the best of the Healthy Choice items I have sampled. The price is reasonable, shipping was fast, and packaging was good. These are handy as snacks or impromptu meals out here in Afghanistan when I don't want to go to the chow hall.
+
+product/productId: B001E96JZ6
+review/userId: A3R8EXCG7XS34V
+review/profileName: princessLeia79
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310860800
+review/summary: Yummy!
+review/text: I'm not a Lean Cuisine/Healthy Choice fan but the HC Fresh Mixers Rotini & Zesty Marinara is one I can eat almost everyday! It's so much cheaper on Amazon than what I paid for it at the local grocery store. I keep them at home and work. A great lunch in a pinch! And it doesn't take 10 minutes to cook like some others I have bought.
+
+product/productId: B001E96JZ6
+review/userId: A2W1FY1413MYAL
+review/profileName: MLO
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295913600
+review/summary: Simplicity with good food
+review/text: This is an amazingly easy product to make. you take off the wrapping, cardboard, lid, and inner tray. After that, you fill to the line, put back on the lid, and microwave for the stated time (3minutes 30 seconds I believe). You can also heat the sauce (which I personally recommend doing). It tastes great. Some people might find the flavor a little strong, but I think it's amazing.
+
+product/productId: B001E96JZ6
+review/userId: ATV1LVNEECNA3
+review/profileName: Erik Gregg
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1280966400
+review/summary: A little light, but overall pretty good
+review/text: At 300 calories, this isn't a very filling meal.  Yet, it tastes great and is pretty easy to make.  And the fact you don't have to refrigerate it is a major plus.  If it had around 500 calories, it would be perfect, but I can just supplement it with a yogurt.  I highly recommend heating the sauce for 30 seconds as it suggests on the package.
+
+product/productId: B001E96JZ6
+review/userId: AYMHL0PLQM882
+review/profileName: Kasey C
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1262131200
+review/summary: delicious
+review/text: the rotini & zesty marinara healthy choice fresh mixers are delicious...quick to make and you dont have to store them in the refridgerator/freezer at work (for those of us who work with lunch-stealers!)...im a bit of a pasta snob...but i do love these!  my only complaint is the amount of waste that is created by the packaging...
+
+product/productId: B001E96JZ6
+review/userId: A3IYSIAKYOMKTO
+review/profileName: Renter
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1260662400
+review/summary: Really Tasty
+review/text: Healthy Choice Fresh Mixers are a tasty option when you need a quick microwave meal on the go. With their compact, nonperishable packaging, these things are perfect for carrying to the office in your purse so the office cadger won't steal them. The pasta turns out just right, and the sauce is pretty good too. The Rotini with Zesty Marinara Sauce has a nice, garlicy zing to it. The portion size is just right for an entree; it is a little small if it's comprising your entire meal, but if you're eating at your desk, chances are you didn't have time for a full meal anyway. The plastic handles on the bowl stay cool enough to make it easy to transport this to your desk; no more trying to find the tepid spot on a flaming hot piece of microwaved cardboard so you can goose-walk it down the hall before your fingers burn.<br /><br />A couple of things lowered my rating by one star: for one, there is a bit more sodium than I'm entirely comfortable with in a product aimed at the health conscious, 600mg. Two, there's quite a bit of plastic packaging with this meal. It's nicely layered into a small package that can easily fit into a purse or briefcase, but when you take the layers apart, you can't help but think of landfills or the great oceanic garbage patch.<br /><br />All in all, this is still a decent option for days when you know you're going to be too busy to either go to the deli or make a sack lunch with bean curds to turn off any would-be fridge thieves.
+
+product/productId: B001E96JZ6
+review/userId: A39BFNNMYJ0TNT
+review/profileName: G. Mcleod
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1250553600
+review/summary: GiGi
+review/text: This pasta dish is amazing!  Very easy to prepare and tastes very fresh because the noodles are not boiled until you make it.  It is also very filling because the pasta is made from whole wheat and high in fiber.  The sauce is extremely tasty and not at all like a typical convenience food.  I do recommend eating it right out of the container though because it does a good job of keeping it hot.  When I pour it into a bowl or plate after cooking it gets cold way to fast.
+
+product/productId: B001E96JZ6
+review/userId: A3A90C8C1A0PS8
+review/profileName: D. D Davies
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1241222400
+review/summary: tasty italian
+review/text: This is quick and tasty.  Of all the fresh mixers Healthy Choice has come out with, this is the best.  Not only can I make it for lunch, but we have used it as a side dish for dinner.
+
+product/productId: B001E96JZ6
+review/userId: A1T9FKN32AMZSR
+review/profileName: C. Griffith "CCG"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1240704000
+review/summary: Great to keep in the desk at the ofice.
+review/text: This is one healthy choice that I like.  I keep it on hand a work so that when I forget my lunch or don't want to go out I have a tasty lunch.  Good buy.
+
+product/productId: B001E96JZ6
+review/userId: A2II54B3VA45LN
+review/profileName: Professional shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1239235200
+review/summary: Love this one!
+review/text: I'm not a big fan of the Healthy Choice frozen meals, but I like this one. The marinara sauce is sweet and  it does not have too much garlic, which is important to me because I can't tolerate it. I will continue to buy this product.
+
+product/productId: B001E96JZ6
+review/userId: A3VBZDYGHF4NK8
+review/profileName: Movie Maker "Rik"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236038400
+review/summary: It really is GREAT
+review/text: Excellent for a quick lunch at the office, or as a "just because" gift  for a college student or a senior.<br /><br />Unlike some Healthy Choice items, this one is spicy,and really good!<br /><br />Con-Agra put thought into this product, and it shows.  The package is so good, that you WANT to keep it.<br /><br />Try this! Excellent on every level.<br /><br />Rik
+
+product/productId: B001E96JZ6
+review/userId: A2Y5WNDVA5RGX0
+review/profileName: M. R. Reese
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234137600
+review/summary: Very yummy and convenient
+review/text: I bought this meal as a "back-up" to keep in my desk for days when I need a quick, easy lunch. I wasn't sure what to expect as far as the taste - but when it comes to pasta I can be quite picky so I pretty much assumed I wouldn't like it.<br /><br />The meal was very easy to prepare and has a great flavor! It is also a perfect lunch sized portion. I will probably keep several of these at work and at home for those days when I have very little time for lunch.
+
+product/productId: B001E96JZ6
+review/userId: A3RUL17Z8E8BV7
+review/profileName: DMF
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1232841600
+review/summary: great tasting, very filling
+review/text: I got a sample package from my gym and it is actually very tasty!!  I would definitely buy it.
+
+product/productId: B000N543Y6
+review/userId: A3S3R88HA0HZG3
+review/profileName: PT Cruiser "PT Cruiser"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1282521600
+review/summary: This is a great way to buy spices
+review/text: This is a great way to buy spices that you use often.  I say "use often" because these are nice big containers that last a year or more for most people.  I use a lot of dill weed in my cooking and for salads, so we go through it pretty quickly.  And the price here as opposed to buying in in those little bottles that are mostly glass is the supermarket for several dollars each, is a big savings, even with the shipping costs.  The product arrived just a few days after I ordered and it was fresh enough that I could smell it outside the plastic container.<br /><br />This is a good deal for a good product.  I plan to buy more of these in the future.
+
+product/productId: B000N543Y6
+review/userId: A2FG90RW53W8WS
+review/profileName: Hello
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1227830400
+review/summary: Good Deal!
+review/text: The season has a good flavor, good price, and I do plan to purchase it again.<br /><br />Update:<br /><br />May 16, 2010, I am about to place another order for this product so it has to be good! lol
+
+product/productId: B000N543Y6
+review/userId: ARHPK4E5N1FQW
+review/profileName: Lylith
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1247356800
+review/summary: Best value and flavor
+review/text: Fantastic! Spices are fresh and full of flavor. Arrived intact and on time. One goof in shipment was corrected immediately. I will be buying from them again. Thanks!
+
+product/productId: B000N543Y6
+review/userId: A3V568BDMLLAWY
+review/profileName: S. M. Rich "smarsrich"
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1337212800
+review/summary: Absolutely No Smell No Taste
+review/text: Not even sure if this is really Dill Weed????? These look like crushed mint leaves or just plain crushed leaves, dill weed looks feathery and the smell and taste is VERY distinct. This item is NOT. Don't waste your money. I think if someone were to have left dill weed out open subjected to the elements for 10 years, that would have more aroma and taste than this product does. ABSOLUTE WASTE OF MONEY
+
+product/productId: B000N543Y6
+review/userId: AF0FLCEM09RD0
+review/profileName: Derek J. Detar "Derek"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1339459200
+review/summary: Weight!?!?!
+review/text: Comparing the size of the container to something that has a completely different weight is just not adequate. Give the weight, otherwise I will never purchase from this company. It's like agreeing to a contract without the terms specified. I'll sell you this container here with something in it, for 10 bucks.
+
+product/productId: B000N543Y6
+review/userId: A1XMCVPC7SJANE
+review/profileName: lavenderlady
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335571200
+review/summary: Waste of money...do not buy
+review/text: Looked like a good deal, so I ordered the dried dill, as well as 4 other spices and seasonings from this company, but was disappointed with them all. Zero flavor, not even the fragrance of the right herbs or spices when loosely sealed containers were opened. The dill smelled like dried musty grass, and the onion even worse. Ended up throwing them all away...save your money, DO NOT BUY THIS PRODUCT.
+
+product/productId: B000N543Y6
+review/userId: A1006HCQDMYC5W
+review/profileName: Rev Pat "Rev  Pat"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327622400
+review/summary: Marshall Creek Spices
+review/text: The supplier was prompt with the delivery.<br />Marshall Creek Spices are the freshest I've ever used.  I recommend them highly.  In this case, Dill Weed.<br />This is a favorite of mind.  Buying it from Amazon.com is a wonderful endeavor because it cuts out the mid-<br />dle man we've all encountered "local super market" with its greedy prices on its tiny, little jars of spices.<br /><br />I have only one problem with Marshall Creek.  Their  containers at the top are not fitted with an adjustment<br />allowing only a small amount of the spice out at a time.  The top, once you take the cover off to get to the spice, has nothing to allow the spice out gradually.  I started using a teaspoon, dipping it inside the large container to scoop up a bit of the spice gradually.  This way prevents spillage.<br />Other then this I'm very happy with Marshall Creek Spices.  I bought a variety of them and I'm not disap-<br />pointed with their freshness.<br />One other thing.  I couldn't find celery bits any place, at least online. Until..... Suddenly, there it was.  Mar-<br />shall Creek had it.  I bought it and love it.  It works well for me as a disabled person I can't always get out to shop for produce, so in this way,  I have celery and onions for my spaghetti sauce, stir fry dishes, etc.<br />I'm happy.  Rev Pat
+
+product/productId: B000N543Y6
+review/userId: A2FX45S17CAHYR
+review/profileName: Robert J Woll
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: Dill weed in large quantity and excellent quality
+review/text: Excellent quality and arrived very promptly.  We use it all the time and will get more when the time comes.
+
+product/productId: B0002QX3PQ
+review/userId: A29JUMRL1US6YP
+review/profileName: HTBK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1278720000
+review/summary: Great Low Calorie Training Treats
+review/text: Charlee Bears are small and low calorie, so you can use them en masse for training.  We use them both for standard training (sit, stay, drop it, leave it) and behavioral training (no bark).  They're not stinky or messy, so you can put them in your pocket, purse, or car without worry.  We keep a small bag in the car for travel to reinforce when our puppy doesn't bark at people walking by, one by the door to reinforce when she goes to the bathroom outside, and a bunch of treats in a treat bag for travel.<br /><br />The one downside to these is that because they're not as stinky, it can be harder to use them to get your dog's attention if he or she is distracted, like at the dog park or if you have a bunch of visitors.  Our trick to get around this is that we put some stinky treats in the treat bag with these, and they'll take on some of the scent (We use <a href="http://www.amazon.com/gp/product/B0002DGRSY">Pro-Treat Beef Liver, Freeze Dried Dog Treats, 21 Ounce</a>).<br /><br />Our dog loves all flavors.
+
+product/productId: B003JHN8IM
+review/userId: AQ6AGWKWMTY8H
+review/profileName: Pam Tee "mom,wife,fur-mom,book-blogger"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1338508800
+review/summary: My Pups Adore These Bully Sticks!!!
+review/text: The amount currently asked for these sticks might sound like a ton of money --because it is a lot of money to spend in one lump on your dog(s)--but it's nothing compared to what our favorite local shop is charging.  Depending on size they're getting $5 to $8 US dollars for 1(yes that's one) bully stick.  And I adore the shop and their bully sticks are THE best, but really, with two pups who could easily go through 4 or more of these a week, it was too expensive.<br /><br />The ValueBull sticks are therefore well priced and I intend to buy more.<br /><br />WHAT YOU SHOULD KNOW:<br />--I haven't discovered a downside to these bones, however, if you have a nose that's easily offended know that you should plan on giving these to your beasties outside.<br />--Dogs love the stink.  Er, perfume of them.  I've got a JRT mix and a moyen poodle and they simple adore them.<br />--The description says 'thick' but they aren't as thick as the one's from that store I mentioned.  They come in different hues and are about the thickness of my index finger if it was flattened.  (There are sort of oval when looked at from the end)<br />--The only other difference I've noticed between what I'll call the premium-ultra stick and these (besides the thickness) is that my dogs seem to be able to pull off strips occasionally.  Hasn't been a problem.  Don't know if it could be a problem.  Just an observation.<br /><br />Overall, very happy with this product.  The price as it sits seems reasonable enough for this quality product.<br /><br />Pam T~<br />mom/fur-mom
+
+product/productId: B003JHN8IM
+review/userId: A3RQSTV98PL7V5
+review/profileName: N. Hartgraves
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1329523200
+review/summary: Not as advertised
+review/text: Ad said "thich" bully sticks, these were very very small, not thick, and didn't last my small dog more than an hour.  For the price I expected to receive what was advertised.  Would I recommend to a friend?  Not likely!
+
+product/productId: B003JHN8IM
+review/userId: A1N74595Y3X0JR
+review/profileName: bullet180
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1298937600
+review/summary: Not dissappointed
+review/text: This is the only kind of chews I feel comfortable giving my two bulldogs. They are sooo expensive at pet stores so I found this place.  They dont last as long as the store name brand BUT well worth it.  Its close enough.  My dogs love them, I love them.  I enjoy saving them for a tasty treat.  The price is perfect.  Will definitaly order again.
+
+product/productId: B003JHN8IM
+review/userId: AV3PD6HVOGN32
+review/profileName: Jbear
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1329436800
+review/summary: Smelly and gone in minutes!
+review/text: Item arrived on the 16th vs. the 22nd so that was great. Glad to have it before the 3 day holiday weekend!<br /><br />The description says "thick" and they are anything but! Maybe my little finger! And they don't seem at all as solid as the bully sticks I've bought over the last 3 months, they are just skin and cartilage whereas normally what I give my dog is a pretty solid mass. They seem crunchier like pigs ears as opposed to what bully sticks I buy in the store are which is solid.<br /><br />Kona is a 6 month old Belgian Shepherd and not a huge chewer, on average he'll take a few days to finish his bully sticks, I take them away after 20 minutes of chewing and this makes normal sticks last 2-3 days (if they're braided or twists than they last longer 4-5 days) so he has them a few days longer and doesn't get sick. When I got home last night and opened the box I gave him 1 and he ate the entire 12 inch "thick" bully stick in less than 10 minutes! And they smell terribly, I've never had a problem with him chewing one up anywhere in the house (kitchen, bedroom, next to me on the couch)  and last night the entire place stunk to high heaven!<br /><br />The return policy sucks and there's even a restocking fee of 20% because the bag has now been opened! I'll finish this bag up and never buy from here again! And let's hope he doesn't get sick!
+
+product/productId: B003JHN8IM
+review/userId: AOC13VLZMYCWD
+review/profileName: Laurie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1347408000
+review/summary: Pee-eew! Almost a homerun
+review/text: Would've given 5 stars except for the horrible odor.<br />Pros: Thicker than expected and most definately at least 12 inches long.<br />Came in a high quality resealable plastic bag so the odor won't leach out into the air.<br /><br />Cons: The smell! Oh, the smell!<br />But, I suppose, in their defense, they are only around $2.50 a piece and my pet store sells odorless ones for $6 a piece.  So the savings are quite substantial and my doggies didn't mind the smell in the least.<br /><br />I might order again, not sure yet.
+
+product/productId: B003JHN8IM
+review/userId: A1N0PLSAW6G970
+review/profileName: Steven L.
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1337904000
+review/summary: Not as advertised this time
+review/text: We've ordered these bully sticks many times in the past few year and they've always been thick bully sticks as advertised.  This last time we ordered these sticks they are about half as thick as they have been.  Our Jack Russell will go through these really quickly.  I would have sent them back, but she needed something to keep her busy.  If they show up next time as the thinner variant I'll send them back and start ordering from another supplier.
+
+product/productId: B003JHN8IM
+review/userId: A1PFMFY10XUT1V
+review/profileName: dwebster
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324857600
+review/summary: Great Product, Great Price
+review/text: These bully sticks are thick! My dogs love them! I am not dissappointed at all. The price is great and the product is wonderful. Will definitely be ordering again! I have paid as much as $20.00 for two thick bully sticks in the pet store, to have them disappear in 10 minutes! I have found that not all bully sticks in a package, regardless of where they are purchased, last the same amount of time. Some are easily devoured and some take a little longer. It also depends on your dog, if they are agressive chewers, then they tend to last less time. My German Shepherd is sometimes a leisurely chewer and one of these sticks can last as long as an entire day! Other times, she can go through a stick in minutes. They are a favorite for us. We have noticed no odor as well.
+
+product/productId: B003JHN8IM
+review/userId: A2ARYN0B6K1GM7
+review/profileName: M. Zinser
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318809600
+review/summary: Great for husky pup!
+review/text: We have an 18 old husky pup, who chews on anything & everything he gets close to.<br />Was talking to a friend after taking dogs for a hike, and she had an extra bully stick in her car.  She always keeps them there to occupy her dog on long trips etc.<br />So she gave me her's to try with my pup.<br />She sure was right, it kept him occupied all afternoon when I first gave it to him.<br />So I thought this is the trick, so I ordered them and he loves them.  I do not give him one every day, but do for special treats.  Think it has helped his chewing on other things, like hands, his blanket etc.  Definately would recommend them!
+
+product/productId: B003JHN8IM
+review/userId: A2L5YSH3KOTLF8
+review/profileName: Anya
+review/helpfulness: 2/4
+review/score: 5.0
+review/time: 1281484800
+review/summary: Totally Great
+review/text: Excellent quality bully sticks at a great price. Thick, long lasting, and not stinky. Fast shipping. Outstanding!
+
+product/productId: B001EDAHZK
+review/userId: A2NP8RNW9T5BQF
+review/profileName: A. Brazhnykova
+review/helpfulness: 4/4
+review/score: 1.0
+review/time: 1343952000
+review/summary: Colored sugar!
+review/text: I used to buy this sugar for years. I do not eat much sugar, but still. This sugar is called turbinado sugar, but is misleading. I picked this brand just because it says real turbinado sugar, and other brands (in the local food store) that their sugar is brown because it is colored with caramel or something.<br /><br />HOW did i find out? I needed just a sweet water few days ago. I put this Sugar in The Raw in the glass. The water became brown and on the bottom of the glass i got just PURE WHITE SUGAR CRYSTALS!!!!! What a shame on the producer! U can try to put this sugar in your mouth and after few seconds you will spit out pure white crystals as well.<br /><br />I'm just wondering if the consumers can hold the company liable for such a practice.
+
+product/productId: B001EDAHZK
+review/userId: A19B4QF5WIBV8V
+review/profileName: David Masaoka "divadmas"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1329696000
+review/summary: not organic
+review/text: my mom asked for some organic sugar. oops. i got this. it is raw and i like it but it is not organic. available at costco for much less.
+
+product/productId: B001EDAHZK
+review/userId: A2PFS4BBFAM1MC
+review/profileName: henkex6
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314835200
+review/summary: Great product!
+review/text: Great product.  We love sugar in the raw and its benefits over processed sugar.  This is a good price and saves trips to the store.  However, shipping costs almost as much as the cane sugar!
+
+product/productId: B001EDAHZK
+review/userId: A1BNE04ZHGYGBT
+review/profileName: B. Christensen "bcstargazer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Sweet!
+review/text: I am glad to find raw sugar in packaging larger than 1#. The grocer only sells it in 1# and pre-measured packets only and this is the only sugar we keep at home for coffee, cooking etc. Tasty stuff and a little better for the bod.
+
+product/productId: B001EDAHZK
+review/userId: A2VIOF8YF8BEO4
+review/profileName: JustMe
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1328745600
+review/summary: Better than sweetners
+review/text: Natural raw brown sugar, you cannot beat that. Sweetners can be good for coffee and soft drinks but for me they are better with the natural brown sugar.
+
+product/productId: B001EDAHZK
+review/userId: A3S1Q25CHY256T
+review/profileName: softball mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325462400
+review/summary: Love this
+review/text: So glad Sugar in the Raw is available on Amazon as it is not sold in my local stores.  Quick ship, product as described.
+
+product/productId: B001EDAHZK
+review/userId: A1IX8BBN3FQS5S
+review/profileName: CG
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288483200
+review/summary: Better Sugar
+review/text: This is a better version of sugar than the regular store bought, plain white sugar.  A little problematic for recipes that require a lot of sugar, as it may measure differently than regular white sugar.  Also, I did find this later in Costco, a local warehouse store, at the same size, which is cheaper because of the shipping charge.  Still, a great product if you can't find it in stores near you.
+
+product/productId: B001EDAHZK
+review/userId: A2ORLPEQ1KLNZF
+review/profileName: Angela R. Yargus "Amazon lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1274400000
+review/summary: THIS is SUGAR, the way it should be!
+review/text: I don't keep refined sugar any more!  THIS is sugar the way it was meant to taste!
+
+product/productId: B001EDAHZK
+review/userId: A1FZIJNVM3ZBVH
+review/profileName: Blue Tooth "technogeek"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1297987200
+review/summary: sugar is good; price is absurd
+review/text: This is the sugar I have come to use for everything except baking. Very good product BUT when I get this at my local store is about $2/pound. That is still really expensive compared to white sugar but over $4 a pound? The sugar in the bag is fine but the price is absurd.  Amazon sells it for a price that is less than my local store (around $1.60/pound).
+
+product/productId: B001EPQ75W
+review/userId: AEC90GPFKLAAW
+review/profileName: Lisa Kearns
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1305590400
+review/summary: Metallic tasting, and salty
+review/text: I bought these as an impulse item - we love fresh steamed artichokes, and I sometimes buy artichoke hearts in oil for salads or pizza.  Unfortunately, these aren't that great.  On the positive side, they are crunchy and firm textured.  On the negative side, they are too salty and have a metallic flavor from the can.<br /><br />There are six cans in the pack, so we'll be eating them for a while.  I plan to add them to salads or sauces and not serve them as appetizers (dipped in garlic butter, or stuffed with crabmeat) as I had envisioned.  And I won't be buying them again.
+
+product/productId: B000CQ25RI
+review/userId: A3OO6053SN6M5P
+review/profileName: Nutmeg "the Knobbed Cat"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1154736000
+review/summary: Yummy Bunnies!
+review/text: My son (3) and I love these.  He likes to hop them around and kiss them before he eats them.  He likes all the Bunny Graham varieties (chocolate, honey, cinnamon); they taste like the traditional Graham crackers.
+
+product/productId: B000CQ25RI
+review/userId: A2W8CS8RZU0PGE
+review/profileName: Lamont Cranston
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1268784000
+review/summary: Great product, but cheaper at Target
+review/text: Thees crackers are the best, they taste great and are healthy too.  My only issue is with the price; although this a good price on this product, Target sells them every day for lower.  Target usually sells them for $2.39 a box (times 12 would be 28.68), and often they go on sell for $2.00 a box.  One time I even saw them for as low as $1.90 a box!  I love these crackers, and I highly recommend them; I just can't see the point in ordering them from amazon when I can get them at my local Target for less.
+
+product/productId: B000CQ25RI
+review/userId: A15R8I05QMQJOG
+review/profileName: Mina
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1205971200
+review/summary: Excellent Bunnies
+review/text: These are the best mini-graham snack I've tried, and they're adorable.  Great in the car, on the plane, much better than drive-through and gas station fare.  Annie's ingredients allow me to rationalize that it's not that bad, health-wise, to polish off a whole bag of bunnies.  It probably isn't good, but I'm sure it could be worse.
+
+product/productId: B000CQ25RI
+review/userId: A27L83IRF980HA
+review/profileName: Gal Friday "Toodleoo"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1232668800
+review/summary: Yummy!
+review/text: I'm not usually a graham cracker/sweet snack kind of person, but these are absolutely delicious!  Why anyone would continue to buy food made with hydrogenated fats when snacks like these are available is beyond me.
+
+product/productId: B000CQ25RI
+review/userId: AOWBXG33V9QWA
+review/profileName: J. Timpe
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1224720000
+review/summary: yummy grahams with no HFCS or trans fats
+review/text: These are a delicious snack, and you can get for much cheaper on Amazon than buying by the box at retail in the "special grocer's".  The only drawback is that Annie has not decided to use a whole grain graham flour.  I am still looking for a whole grain graham cracker, and until then, these will cure my craving.
+

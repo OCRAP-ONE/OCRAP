@@ -1,0 +1,1143 @@
+product/productId: B004650TGU
+review/userId: A2EOILGZSEEIGW
+review/profileName: shoejunkie
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1303689600
+review/summary: awesome coffee!!!
+review/text: This is a great first cup in the morning type of coffee. It's not too strong or too weak. it's the perfect wake me up.
+
+product/productId: B004650TGU
+review/userId: AN7M39ONE3ZOG
+review/profileName: laifar01
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1307836800
+review/summary: Kona Coffee
+review/text: This is the best coffee I have ever had. The flavor is smooth and tasty. I will order it again
+
+product/productId: B004650TGU
+review/userId: A2XRMQA6PJ5ZJ8
+review/profileName: Roger J. Buffington
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1328313600
+review/summary: Great coffee, decent price
+review/text: I love my Keurig coffee unit and I love Kona blend coffee.  This Tully's Kona blend is very very tasty and rich coffee.  Try it.  You'll like it.  Recommended.  RJB.
+
+product/productId: B004650TGU
+review/userId: A2BIE6HLI2O2UD
+review/profileName: I. Hass "IreneNJ"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1330646400
+review/summary: Hawaiian kona coffee
+review/text: Has to be the best coffee on the planet but now it's hard to get in k-cups because the crop is small so if k cups are what you want, grab them while you can.  some stores have it but I understand online suppliers will not be being restocked this season (2011/2012).
+
+product/productId: B004650TGU
+review/userId: A1PR7725E8TCNE
+review/profileName: Builtmany "Ralo69"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329868800
+review/summary: Bold and Smooth
+review/text: This coffee is bold but not bitter like some other bold K-Cups. It's smooth and just right. One of my favorite K-Cups for anytime or occasion.
+
+product/productId: B004650TGU
+review/userId: A16DJG5JJVRRXI
+review/profileName: M. Hickman
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1328572800
+review/summary: Favorite Coffee
+review/text: The Kona Blend coffee for the Keurig coffee make is my favorite coffee.  It is the bomb! for you coffee makers.  It has a wonderful bold flavor that is smooth.  Get it while you can because it won't be available for a while when the boxes on the shelves are gone according to Keurig.com.
+
+product/productId: B004650TGU
+review/userId: A2AR0J2E9F94ZG
+review/profileName: Eric Farr
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1324339200
+review/summary: Bold without the burned
+review/text: This coffee is unique among Keurigs in that it is bold (more coffee in the k-cup) without being a dark roast, which tends to taste burned.
+
+product/productId: B004650TGU
+review/userId: A1YS0VVZ6LO4AD
+review/profileName: S. Feder
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1322179200
+review/summary: A Great Cup of Joe
+review/text: I use a Keurig coffee maker, because I'm the only one in the house that drinks coffee.  I have ordered several types of K cups and some are more to my taste than others.  My preference runs  to Columbian coffee, for the most part. That is until I tried a cup of  the Tully's Kona blend at a friends house. It is just great!!  Good depth and nice after-taste.  So I ordered a couple of boxes for myself from Amazon.  I was not disappointed.  Great taste, easy to use, and just what I wanted.  Try them, you'll like them.  Sam
+
+product/productId: B004650TGU
+review/userId: A30KGSFZ9FI2G3
+review/profileName: R Block
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346112000
+review/summary: Great Coffee
+review/text: One of the best cups of coffee ever.  Very smooth, no bitter after taste.  I like strong and smooth coffee and this is the perfect cup every time.
+
+product/productId: B004650TGU
+review/userId: A8CAFM68TQ3J7
+review/profileName: Big Daddy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1345593600
+review/summary: I do not drink this but my wife does!!
+review/text: I am not much of a coffee person but my wife is the coffee drinker and she loves the Kona blend as her first cup in the morning as it is a little more robust and darker than her normal go to coffee so it gives her a great pick me up with awesome flavor provieded by the Kona grown beans.
+
+product/productId: B004650TGU
+review/userId: A1QGL282ROFXHY
+review/profileName: Mel C
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335744000
+review/summary: Love Kona
+review/text: I used to buy this in the store but then I coundn't find it anymore so I was overjoyed that I can get still get it online. I LOVE  this coffee!
+
+product/productId: B004650TGU
+review/userId: A3CD3IODQZJE9F
+review/profileName: Lambshops "Deal Searcher"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1334361600
+review/summary: Smooth
+review/text: Kona is my favorite pod!  Smooth rich silky flavor.  I prefer Timothy's Kona but the seasons have not been kind to the Kona beans lately and it's out of stock.  This is a great backup!
+
+product/productId: B004650TGU
+review/userId: ASX044MISL822
+review/profileName: Jeannie
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1350864000
+review/summary: Not as pictured
+review/text: The picture of the box shown is NOT what you will receive.  It is NOT the regular Kona blend coffee.  Instead, it is 10% Kona and other fine Arabica coffees.  If you are accustomed to drinking the regular Kona blend you will be highly disappointed.  I purchased two boxes from Stayathomemom based on the picture of the box.  False advertising!!!
+
+product/productId: B004650TGU
+review/userId: A3B9DLSFAQPA1
+review/profileName: Dr. Chris Ian Flowers "Chris Flowers MD"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350345600
+review/summary: KONA Coffee - Limited Edition
+review/text: Great coffee for Keurig minicup machines.<br />Poor harvest on the Big Island at Hawaii meamt a poor crop of beans on the hill above Kona, and now in limited supply.<br />Pure Kona coffee is heaven, but this is the next best.<br />Snagged the last 3 boxes of this from the merchant who delivered speedily and was well packaged
+
+product/productId: B004650TGU
+review/userId: A373GNVFUJ7P2N
+review/profileName: Zeke's mom
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349654400
+review/summary: Too strong/bitter
+review/text: I am searching for the coffee one gets at the hotels on the island (Hawaii).  So smooth that cream and sugar are not needed.  This blend was a strong roast with a bitter after taste.
+
+product/productId: B004650TGU
+review/userId: A3GH827B6A6GEV
+review/profileName: Carole Grosch
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346976000
+review/summary: Tully's Kona  Blend Coffee
+review/text: Due to weather conditions in Hawaii, it has been so hard to find this brand of K-cup in stores - I was delighted to find it on Amazon. It arrived very quickly and is of excellent quality - Thank you so much!
+
+product/productId: B004650TGU
+review/userId: ASL6JYN8PUYWF
+review/profileName: Vanessa Mitchell
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: Sweet Deal!!!
+review/text: I LOVE KONA!!!I try to order @ least 2-3 pkgs when I can....Thanks. I got hooked on Kona when My sister was stationed in Hawaii. I will order more from this seller!!
+
+product/productId: B004650TGU
+review/userId: A1PJX7Y2V3SICE
+review/profileName: AndreaF
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343001600
+review/summary: Good Kona coffee blend
+review/text: We really like Tully's Kona Blend in the K-Cups!  It's hard to find inexpensive 100% Kona coffee anywhere, so I usually order the K-Cup blends that are available either on Amazon, or at our local commissary, because I really love the unique flavor and aroma of Kona.<br /><br />I think that Tully's is a quality brand of coffee in general, but the Kona is my favorite.  It's delicious: rich, smooth, nutty, the flavor and aroma make a great start to my day.<br /><br />Definitely recommend!
+
+product/productId: B004650TGU
+review/userId: A3BM5F5IMARVZQ
+review/profileName: Lois
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342742400
+review/summary: Keurig Tully's Kona Blelnd Coffee K Cup
+review/text: This is the perfect coffee for morning.  It is our favorite of the many K Cup varieties we have tried. It is bold flavored, but not too strong to be enjoyable.
+
+product/productId: B004650TGU
+review/userId: AVOP08WH53XB
+review/profileName: Kim D
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342483200
+review/summary: One of my favorites....
+review/text: I am very pleased with my recent purchase of "Tully's Kona Coffee".  It has a smooth taste and a wonderful flavor.  It is one of my favorites and I'll definitely buy it again.  I enjoy it so much, I even hide the K-Cup pods from my husband so he can't find them --- leaving more for me (heehee).  :o)
+
+product/productId: B004650TGU
+review/userId: A3FBMJDWYR399E
+review/profileName: Megan Friend
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: K-Cups
+review/text: What can I say? I love my Kuerig and Amazon is the best place to order them. Great variety to chose from and always timely shipping! Thanks
+
+product/productId: B004650TGU
+review/userId: A1R3VP8GF4SYEC
+review/profileName: Nevada Mike
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339632000
+review/summary: Hawaii in your cup
+review/text: I gave the Tully's Kona blend only four stars as it is so expensive and is a great coffee, but due to price I think there are other coffee's just as good and a lot cheaper.. If you don't mind the cost , then you will be getting a super nice coffee, strong but no after taste or bitterness. again I always do a mug, with one k-cup.. my maker does 6,8 and 10 oz sizes . so I just do a 6 & 8 gives me my mug full.Amazon was still the best place to buy this coffee the last time I checked prices.
+
+product/productId: B004650TGU
+review/userId: A11K85TA6CVB0G
+review/profileName: idyllis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339545600
+review/summary: Best Keurig Coffee so far
+review/text: This is great stuff. I've tried a few Keurig Coffees and this one is by far my favorite. When I'm not drinking coffee at work, I go to those fancy coffee places where a single-pour made-to-order cup costs $4-5... I would go as far as to say this is comparable to those. The flavor is smoky and pleasant at all temperatures, and has a very nice finish- not too bitter or acidic. I really like this coffee.
+
+product/productId: B004650TGU
+review/userId: A1T7D0SUHQQ5BL
+review/profileName: 01ptcruiser
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: Kona Blend
+review/text: This coffee is very smooth.  I enjoy it very much and will continue to purchase.  Good with pecan sandie cookie.
+
+product/productId: B004650TGU
+review/userId: A1QJ4T55GDXE9Z
+review/profileName: peter1007
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1335139200
+review/summary: almost Kona but not quite
+review/text: I've been to Hawaii and have had real kona coffee. Not the kind you get at the gift shop or airport but real Kona. This coffee has some of the flavors but there so watered down that I can't tell if i'm drinking Kona or a cup of folgers. It's good coffee but just not Kona.
+
+product/productId: B004650TGU
+review/userId: A2U3JAWCZ0BEWA
+review/profileName: jbj
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334534400
+review/summary: great
+review/text: Not easy to fine. When I DO IT'S great. I love a stronger coffee, tullys kona is the best sooooooooooooooooooo good.
+
+product/productId: B004650TGU
+review/userId: A1SJJEB1ID07JU
+review/profileName: senior super
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332460800
+review/summary: coffee snob
+review/text: You can't fine the Tully's Kona in the stores, because of a shortage of kona beans. At least that is the story I hear.
+
+product/productId: B004650TGU
+review/userId: A17ZX0GBDTNITV
+review/profileName: Barbara B. Smith
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1331769600
+review/summary: WARNING KONA LOVERS
+review/text: As all true Kona lovers know Kona is in short demand due to the Berry Boring Beetle on the big island. Several companies and all my local grocrey stores no longer carry it. So I was thrilled when I found Kona on Amazon!  The problem I ran into was one of my sealed boxes of Keurig Kona blend coffee was full of French roast. What a first thing in the morning disappointment. At least my second box was OK which I'm hiding from the rest of the family. This was most likely a Tully's packaging error and they must be running out of stock. So Beware and check your orders right away!
+
+product/productId: B004650TGU
+review/userId: A21YY9FT3OVX55
+review/profileName: Auburn Mist "Avid Reader"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327276800
+review/summary: Coffee, I'm hooked
+review/text: This item was a described. Shipped well and quickly. Coffee is getting too expensive though. Hopefully, price will come down.
+
+product/productId: B004650TGU
+review/userId: AMOKXG83N35J
+review/profileName: Tsunami "Tsunami"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325980800
+review/summary: KONA COFFEE KCUPS
+review/text: The Kona coffee has a smooth medium flavor its easy to puchase and i received it in a timely manner My husband loves the Kona Coffee KCUPS
+
+product/productId: B004650TGU
+review/userId: A27DQOE2MRP18N
+review/profileName: Kendra Krebs
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325376000
+review/summary: hubby's favorite coffee
+review/text: This is my husband's favorite k cup. It has a bold but smooth flavor and the price is right! It doesn't have a bitter aftertaste that starbucks coffee has (in my opinion) but tastes like a high quality coffee.
+
+product/productId: B004650TGU
+review/userId: A3G0E1BU8DQGTC
+review/profileName: jman57
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315785600
+review/summary: Great coffee
+review/text: This is one of my favorite coffee blends. I bought a case so I wouldn't run out any time soon.
+
+product/productId: B004650TGU
+review/userId: A2MXPKAWA2QEHO
+review/profileName: June Long "Junebug"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312329600
+review/summary: Very smooth, Great Flavor
+review/text: Actually I didn't think I was much of a coffee snob until I tried this, now I can't drink the coffee at work anymore.  I just love the flavor especially with my favorite low fat creamers.
+
+product/productId: B004650TGU
+review/userId: AXTUOFLCWFYQ4
+review/profileName: L.Stone
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309996800
+review/summary: GREAT coffee!!
+review/text: Great coffee.  Only thing I didnt like was it would only let me buy 2 and I love this coffee so much I wanted more!!
+
+product/productId: B004650TGU
+review/userId: A2HFINQQDB6RY2
+review/profileName: Ethel L. Morgan
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1347235200
+review/summary: Kona blend
+review/text: I ordered medium-I got bold. I have a lot of unusable coffee!!  I will either throw it out or give it away.<br /><br />Emorgan
+
+product/productId: B004650TGU
+review/userId: A1DALNKYOK7KS6
+review/profileName: daniel
+review/helpfulness: 1/4
+review/score: 4.0
+review/time: 1322265600
+review/summary: GET .....YOUR WALLET OUT  ! ! !
+review/text: I NEEDED THIS FOR A PRESENT.....THE COFFIE IS GOOD COFFIE ....BUT...PRETTY COSTLY AND THE SHIPPING IS ....WELL AT LEAST THEY DIDN'T USE A GUN ! SOOOO...IF YOU HAVE ANY TIME SHOP AROUND THERE MUST BE A BETTER BUY.....BUT THE COFFIE IS A GOOD CUP SO AS FAR AS TASTE GOES IT'S GREAT !!!
+
+product/productId: B004650TGU
+review/userId: A2RPA3G9N9XS8F
+review/profileName: Lisa Ainsworth
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1334534400
+review/summary: Credit Card Charged but no coffee
+review/text: My card was charged $150 dollars but still no coffee almost one month later. Would love to get the product I paid for.
+
+product/productId: B004650TGU
+review/userId: A9UKDBK07U2WW
+review/profileName: George
+review/helpfulness: 2/7
+review/score: 1.0
+review/time: 1303084800
+review/summary: kona?
+review/text: This is certainly a blend - not much Kona flavor.  I realize it is easier for the coffee makers to make pricing the same for all blends - I'd be willing to pay more for more KONA!  Tim's Kona blend is much tastier...
+
+product/productId: B007VQAUAQ
+review/userId: A1M4CDXH0QNMV
+review/profileName: annlucille
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: good texture
+review/text: Having ordered similar products from other vendors, I was pleasantly surprised that this product had a great texture (chewy-ish, like Tofurky) and a pleasant taste.  I've make a "Monte Cristo" with it, and it perform well!
+
+product/productId: B008Z4VAPM
+review/userId: A2MOWQXE6YLA7C
+review/profileName: Raven "raven"
+review/helpfulness: 18/18
+review/score: 5.0
+review/time: 1122854400
+review/summary: Very good instant Tofu Miso Soup...
+review/text: Very good, I just tried it tonight...you have to mix it well...but it is very good, it tastes like the miso soup that I had in a Sushi Restaurant a few days ago... Though the tofu pieces are small, the rich taste makes up for it...and if you want more tofu...I suggest buying firm tofu separately, then adding it when you make the soup...that's what I'm going to do... I hope this helped you... :)
+
+product/productId: B008Z4VAPM
+review/userId: A2A46BUQRGSAB0
+review/profileName: Sliver
+review/helpfulness: 17/18
+review/score: 5.0
+review/time: 1134518400
+review/summary: Once acquired...This (satisfying!) miso soup might be your new addiction.
+review/text: I first picked this off the shelf at a military commissary in Kansas one summer... and I never stopped. The first time you try this stuff, it's like wine or avocados; it's a taste that is certainly acquired, and like nothing else. I have fed it to a friend and to my significant other; few like it the first time, but you find yourself strangely coming back for more until it's a staple in your house, like it is in mine. Kind of reminds me of sushi; first time I tried it, I was like, "this is odd, why do people eat this?", then, I found myself craving it a week later. Haha. Now I love sushi and miso! (By the way, it comes in an envelope with 3 individual packets). Mix it in hot water, to taste. You might like it with more or less water, depending on how salty you like your food. -Experiment with it to your satisfaction, and I guarantee, there is much of that to be had.<br /><br />I usually add all 3 little individual packets (it's low-fat) to a decent-sized cup of hot water, add my favorite vinegar, and let it sit and "cure" for a minute or so, since the little green sea-vegetable flakes (and green onions + tofu squares) need time to rehydrate and turn a little chewy and palatable. I then sip it and fish the sea vegetables out to my heart's content.<br /><br />(I also hear that miso can be generally healthy for you!)<br /><br />If you let it sit, the miso will start to separate from the rest of the soup and you have delightful little clouds of miso particles floating in your bowl, which is sort of entertaining and visually delightful, too. I think of it as cheap, delicious entertainment. But then again, I am easily amused. ;)
+
+product/productId: B008Z4VAPM
+review/userId: A1I52GGY1RU2P1
+review/profileName: S. Philip
+review/helpfulness: 12/12
+review/score: 3.0
+review/time: 1180828800
+review/summary: Almost Like the Real Thing
+review/text: My love affair with miso, the flavorful paste made from fermented soybeans, started when I lived in Tokyo several years ago.  So, since then, being the miso snob that I am, it has been unimaginable to me to try any instant variety.  But I have to say that when I finally did break down and try Kikkoman Instant Tofu Miso Soup, I was amazed to find that it was practically indistinguishable in flavor and consistency from miso soup made from the actual paste.  While I would still choose the actual product whenever time permits, I would now not hesitate to substitute this great product when I am on the run.
+
+product/productId: B008Z4VAPM
+review/userId: A15GX698WYMWP0
+review/profileName: Carolyn Goldfarb
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1128297600
+review/summary: A good soup with a unique taste
+review/text: Personally, I'd love a bowl of miso soup any day. I first tried it in a very nice sushi restaurant, and then again in a less-fancy one. A few months later, I discovered that Price Chopper sells these exact packets (they're a bit more expensive there than here on Amazon).<br /><br />Miso soup is hard to describe. I think of it as having a taste that you kind of have to acquire...It took me a few bowls to really get used to it. But once you do, it's great! I suggest this for anyone who's interested in Japanese culture and food.
+
+product/productId: B008Z4VAPM
+review/userId: A27NTH2Y9DAR31
+review/profileName: Schuyler V. Johnson
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1224115200
+review/summary: Holds its own against any restaurant miso soup
+review/text: This is the best miso soup to be found anywhere; it is fabulous and the flavor is just amazing considering it's an instant soup. You can add a variety of vegetables, chicken pieces, pork, beef or shrimp if you like, and chopped spinach and if you love tofu you can add either the firm or soft variety, I prefer the soft.<br />The soup is comprised of fermented soy beans and comes in red (sweeter) or white (saltier) miso paste and fish stock made from bonito flakes and contains kelp as well. I am going to a local Asian market where I live and make my own miso from scratch but bought more of this as backup just in case mine doesn't turn out. It is a very delicate soup and cannot ever be boiled once the bonito is added as it would collapse and the flaovr would be ruined, so I watched videos on how to prepare it.<br />Many years ago when I was in college in downtown Los Angeles, we would go to little Tokyo for lunch and indulge in the then relatively unknown treat, sushi and have the miso and a wonderful salad of finely chopped cabbage and rice vinegar to start.<br />Now I can buy (and do) sushi freshly prepared at my local supermarket and have instant miso whenever I want and that is my idea of Heaven. Miso has the most delicate flavor imaginable, it is absolutely unique, nothing else tastes remotely like it and it is very healthy for you as well.<br />When I went to a fat farm the main reason we all lost so much weight was because the diet plan at this particular place included having a large cup of hot broth before every meal thus cutting the appetite down considerably. I could really put it away before, just huge gluttonous portions, but after finishing the cup of broth, I could eat what they gave us but no more than that.<br />So whether you want in instant soup like no other or want to incorporate this soup into your diet plan, either way you'll be very happy and remember to experiment by adding whatever you like and making it more of a meal.<br />To paraphrase a quote from Benjamin Franklin (re beer) miso is proof God loves us and wants us to be happy. Enjoy!
+
+product/productId: B008Z4VAPM
+review/userId: A1X36J9IZB8QSK
+review/profileName: Emily Bettevy "Bona Fide Redneck Girl"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1193875200
+review/summary: I love this stuff!
+review/text: I've purchased several different types of packaged miso soups and this is by far the best one I've tried.  It cooks easily and quickly.  I like to pack several packets for vacations, business trips or camping trips because the soup is so easy to prepare with just a little bit of hot water.  And if you forget a spoon, it's okay - just drink it like broth.<br /><br />Making miso soup "from scratch" is one of the things I've failed miserably at every time I've tried, but with these packets I can save myself time, heartache and money.  It even tastes better than some of the miso soups I've had in restaurants.
+
+product/productId: B008Z4VAPM
+review/userId: A2DS8IG8RI73U8
+review/profileName: IreviewstuffIbuy
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1340668800
+review/summary: A+ FLAVOR!! F- On PRICE!
+review/text: LOVE THE PRODUCT BUT IT IS SO OVERPRICED LIKE EVERYTHING AWESOME FROM JAPAN!<br />5* flavor. but only 1* for price and value.
+
+product/productId: B008Z4VAPM
+review/userId: A1W04NF05ZTQAO
+review/profileName: jer
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1270339200
+review/summary: Tasty but the serving is small
+review/text: Serving size is a bit small. Fits in a 6 ounce tea cup.<br /><br />It is really good though. Tastes like regular miso except much less spicy.
+
+product/productId: B008Z4VAPM
+review/userId: A2P5VNI7Q9DSEW
+review/profileName: LoLo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345507200
+review/summary: Fantastic for On the Go
+review/text: I am currently have limited access to healthy foods and this soup is amazing, all you need is a hot water kettle and a cup.  I use this along with the Amazing Grass Green Superfood and several other 'health' products to keep a decent meal plan going. They are a little salty for me, I'm not a fan of salt at all though, but beggers can't be choosers here!  Even if you are busy in your everyday life these are a great pick-me-up!
+
+product/productId: B008Z4VAPM
+review/userId: AEJEG1P5S4J9Y
+review/profileName: Jane Chemi
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339977600
+review/summary: instant miso
+review/text: i have tried a great variety of instant miso soups, this is definitely  one of my favorites. i just wish it came with a little more tofu. but other than that its a good cup of soup. i will definitely be buying this again
+
+product/productId: B008Z4VAPM
+review/userId: AOUY8CJ2E116W
+review/profileName: wayne22ucmt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330819200
+review/summary: DELICIOUS!
+review/text: This is so easy to make and great to eat.  I started eating miso on a regular basis because it helps give a full-feeling to help loose weight!  Arrived fast too.
+
+product/productId: B008Z4VAPM
+review/userId: A307U5ONUTM9NH
+review/profileName: Richard Hundrieser "richardofdixon"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: A Quick Good Meal
+review/text: I love Miso soup and wondered if this instant version would be any good.  Although<br />it cannot compete with the restaurant soups for an instant soup it is very good and<br />easy and fast to prepare.
+
+product/productId: B008Z4VAPM
+review/userId: A17GK9E70O7Y9R
+review/profileName: Grandma in Oregon
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1289606400
+review/summary: tasty, but......
+review/text: I found this soup to be tasty, but on the salty side so I added more water to taste.  Tofu in product not impressive, but the spinach is amazing the way it hydrates into spoon size pieces.  The biggest downside is the cost.  Almost $1.45 a cup is spendy for instant soup....Cup a Soup brand (at Amazon) is about $0.30.  And bouillon is about 0.05.  If you are looking for something hot then there are other choices.  Was an interesting experience though.  Seller was great and product received quickly.
+
+product/productId: B008Z4VAPM
+review/userId: A286JVRDJLJ2B2
+review/profileName: G. Willy "gale1965"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1282608000
+review/summary: Really good stuff
+review/text: I love this stuff-I think it tastes great! And I even grew up in Japan in a Japanese household with a Japanese mother who makes much better miso soup but since my mom doesn't live nearby, this is the perfect substitute for me. Don't tell my mom-she'd be horrified! I gave it 4 stars because I wish there was more tofu in it. Also I only use about 1/3 to 1/2 cup boiling water instead of 2/3 cup.
+
+product/productId: B008Z4VAPM
+review/userId: A24YXRSV7NFHCH
+review/profileName: tim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1256428800
+review/summary: yummy
+review/text: The miso is delicious; Its an easy way to have a quick breakfast. I have an egg with the soup, and eat something else at lunch time. The miso in the morning is very light, and not heavy on the stomach.
+
+product/productId: B008Z4VAPM
+review/userId: A2H43DXUXC2CU1
+review/profileName: janette
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1220400000
+review/summary: easy to make, a bit salty
+review/text: This is good for a powdered product. I prefer the separate soybean paste with a packet of dried seaweed & tofu, but this has a good flavor. A bit salty for my taste.
+
+product/productId: B008Z4VAPM
+review/userId: A3W09FIMAYFUI8
+review/profileName: K. Fitzpatrick
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1255737600
+review/summary: Tasty, but. . .
+review/text: This was quite tasty, but the saltiness was overwhelming. If you have to limit your salt intake, steer clear of this item.
+
+product/productId: B008Z4VAPM
+review/userId: A228GAX0OSUVXE
+review/profileName: Rose
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1340582400
+review/summary: Both My Husband and Me Like This
+review/text: It is so easy and nothing to add except water.<br /><br />I like it with more water than my husband.<br /><br />Yum!<br /><br />Great for late late night too...you know, instead of eggs!
+
+product/productId: B008Z4VAPM
+review/userId: A2MT6W6C4DW82P
+review/profileName: M
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1219708800
+review/summary: Best Instant Miso But
+review/text: I love this soup it is the best tasting instant miso, except it has MSG added that is the only bad thing about it. If Kikkoman would take that ingredient out it would be almost perfect for instant miso.
+
+product/productId: B008Z4VAPM
+review/userId: A22SC4ZT7AHLZ
+review/profileName: Janette Adams Miller "JAM"
+review/helpfulness: 8/14
+review/score: 1.0
+review/time: 1199232000
+review/summary: Awesome soup - HORRIBLE price
+review/text: I am a HUGE fan of miso soup.  I've tried many of the instant miso soups thanks to my asian market.  Kikkoman's Instant Miso is by far the best soup out there.  It's the closest you can get to the "real" thing without actually making the soup yourself.<br />However, this company is selling it at a ridiculous price!  I've purchase the EXACT same thing at Walmart for $1.99/package (which comes out to $0.67 per packet).  This company is trying to sell them for over $3 per package (or over a $1 per packet!) - not even including shipping.  I'd do my homework and buy elsewhere because this company seems to specialize in rip-offs.
+
+product/productId: B008Z4VAPM
+review/userId: A2TFM1EZG16PRI
+review/profileName: Woodie
+review/helpfulness: 0/7
+review/score: 1.0
+review/time: 1276560000
+review/summary: Don't waste your money.
+review/text: I trusted the other good reviews, but this tastes awful and has a bad aftertaste.  Yuk.
+
+product/productId: B008Z4VAPM
+review/userId: A2M7WZ0QF9O5A1
+review/profileName: G. tyson
+review/helpfulness: 4/31
+review/score: 1.0
+review/time: 1172102400
+review/summary: Product not suitable for vegans
+review/text: I researched some of the ingredients on this item and i found that powdered bonito is a fish derivative however the ingedients listed on the page here only says powdered bonito but on the actual package it says powdered bonito(fish).I think the people who sell this item should modify the ingredient listing on this page.
+
+product/productId: B005ORDBZK
+review/userId: AFESGGLY9OG7A
+review/profileName: NM
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1335916800
+review/summary: Expensive
+review/text: We really love these crackers.  They taste a lot better than the regular peanut butter crackers.  But when you add shipping costs, they are much more expensive on Amazon than in other stores.  We generally buy a box with 8 individual packs for $2.00.  I bought these thinking that there must be a mistake in the description, and there would be more boxes.  I admit, that was my mistake!  But the packing slip said it was 6 boxes of 8 individual packets.  So there is a disconnect between what is on the site, and what the packing slip says.  My recommendation - check your grocery store before you buy.  Chances are you will get them at a much more reasonable price.
+
+product/productId: B005ORDBZK
+review/userId: A3T2VY4HLKEXGY
+review/profileName: Sandy from Long Island
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325203200
+review/summary: whole wheat peanut butter crackers
+review/text: These crackers cannot be found in many supermarkets. I bought them in Florida when visiting and fell in love with the wholesome crunch of the healthy wheat cracker and the perfect taste of peanut butter filling. They make a perfect snack and they are always in any purse I carry. Lance has come up with the perfect product!!!! I am grateful I can order them from Amazon!!! Thank you. S Lewis
+
+product/productId: B001R62130
+review/userId: A32ODX5K28CTDN
+review/profileName: R. Clancy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322179200
+review/summary: A treat for your turkey sandwich
+review/text: I did a "cold" purchase of this, just because it looked interesting and combined two of my favorite flavors. It exceeded by expectations, and I use it on sandwiches and as an added flavor for sweet and sour dishes. It is a great compliment to any poultry dish. You will love it!
+
+product/productId: B0005ZWP6M
+review/userId: A3UBX45D8PA10O
+review/profileName: D. Mccreight
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329955200
+review/summary: Best strawberry jam on the market
+review/text: Hard to believe you can buy strawberry jam on the market that tastes like my mother's homemade southern strawberry preserves!!<br /><br />It is delicious,  and the best part is that it has No sugar added.  The sweetness comes from fruit only.  Awesome!,
+
+product/productId: B0005ZWP6M
+review/userId: A96WWRT05O8CV
+review/profileName: Jude
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342828800
+review/summary: The BEST tasting fruit preserve you will ever have!
+review/text: I tried St. Dalfour All Natural Fruit Spread at a bread and breakfast and was just blown away at how delish it was! I was so impressed that I found our hostess and commented on how much I enjoyed the scones and fruit spread. To my surprise, she told me it was St. Dalfour and I was very surprised that it wasn't home made, it was THAT good! It's a little on the pricey side, but please believe me when I tell you, it is worth every penny. I also love that it has no added sugar. This is truly a quality product at it's finest!
+
+product/productId: B0005ZWP6M
+review/userId: A3B70ROZMKRB3F
+review/profileName: Mary Pomponio
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341360000
+review/summary: This is wonderful!
+review/text: Made without sugar and just plain fruit and fruit juice.<br />The flavor is wonderful and I will buy it again!
+
+product/productId: B001EO76Z8
+review/userId: A2RF9W6WQQUAPE
+review/profileName: Gabriel White
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1256860800
+review/summary: great product, maybe a little pricey
+review/text: Great product, good taste and texture, not much more you can say about pasta really!
+
+product/productId: B000VI5BCI
+review/userId: AE5IPN3XEOBYW
+review/profileName: Jenifer
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339545600
+review/summary: Simply the Best
+review/text: These are one of the best caramels we have ever had.  They are always soft but yet come out of the wrapper easily, rich and buttery.  A real tasty treat.  My husband is very picky about his caramels and these definitely pass the test.  We have also tried the chocolate ones, which are also tasty, but prefer the regular caramels the best.
+
+product/productId: B00609PJLU
+review/userId: A2TS409MV9ETP4
+review/profileName: H. Gray
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1334880000
+review/summary: Great Grain Free Food at a Great Price!!
+review/text: This food is definitely worth trying!  I called Hi-Tek Rations to confirm that all of their ingredients are sourced here in the USA.  They have also never had a food recall.  I love that the food is delivered to my door.  The dogs love it too!
+
+product/productId: B00609PJLU
+review/userId: AWJXWD0EMKIUV
+review/profileName: T. B. H. "The Bargain Hunter"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350777600
+review/summary: My picky dog approves
+review/text: I was looking for a less expensive alternative to Wellness Core. After doing quite a bit of research, I decided to give Hi-Tek Naturals Grain Free a try. I liked that it's protein-focused, but at the same time not ridiculously high in protein like some foods can be. I liked that the food is sourced and made in the US. (The company answered my email in under 20 minutes when I asked them about it.) I also liked that it has probiotics, and I've been able to tell from past experience that my dogs really seem to do better with foods that have probiotics as opposed to those that don't. Far fewer loose stools and upset stomachs in general. But most of all, I'm pleased that my picky dog actually likes the food. The nuggets are quite small, about the size of peas, which is fine for us but something to keep in mind if your dog likes a bigger nugget.
+
+product/productId: B00609PJLU
+review/userId: A3Q0TYDC6Y1BMI
+review/profileName: big luvin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347753600
+review/summary: My dogs love this food
+review/text: I have been wanting to get my dogs on a grain free diet to help with allergies and have struck out with a previous brand but my dogs love this food!  One of them actually jumps around like crazy when I start putting it in the bowl.  Great dog food for a great price.
+
+product/productId: B00609PJLU
+review/userId: A39S6D4T6AJ9ES
+review/profileName: Shell B.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Hi-Tek Naturals
+review/text: My papillons really seem to enjoy the Hi-Tek food. No digestive problems. Excellent ingredients and  at a good price too.
+
+product/productId: B00609PJLU
+review/userId: A2CE1RW3M4SC5G
+review/profileName: Marge D,
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: Proven Product for Picky Pekingese
+review/text: Hi-Tec Naturals Grain Free Chicken and Sweet Potato Formula has been a real life saver. Finding a dry dog food our three Picky Pekingese would eat wasn't easy.<br /><br />Our Vet suggested we try Grain Free dog food after our two year old male began to have signs of digestive problems. Also, our older female had been licking her feet (most likely allergies from something in her diet).<br /><br />We tried several types of Gluten Free (dry kibble)dog food and my picky eaters wouldn't touch it. They had always been fed a small kibble mixed with a small amout of canned dog food. We also tried chicken and rice (which I prepared for them) of course they liked it.  However, it didn't seem to correct the digestive problem for our little boy.<br /><br />Since we discovered Hi-Tek Naturals, Grain Free, all three of our Pekingese will eat it and are doing fine. They seem to like the taste and will chew<br />the kibble, chewing is better for their teeth anyway.<br /><br />We are former breeders of "Show Pekes" and wish we'd found this produce earlier.<br />Thanks, HI-TEC NATURALS from Bach Choy Pekingese
+
+product/productId: B0048Z7ASS
+review/userId: A2LQYNV39948ER
+review/profileName: Chris.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342569600
+review/summary: Dog gives it 5 stars
+review/text: Got this for my dog as the vet advised that she go on a low-protein/low-phosperous diet to maintain kidney health. Dog LOOOVVVVESSSS it, but don't sniff the can, just trust that it smells bad, and keep your nose away!!! Otherwise, you WILL have regrets!!!!<br /><br />Would give this a 5-star except that it doesn't outline how much regular dogfood to feed with it. I'm having to play by ear.
+
+product/productId: B000KOU90W
+review/userId: A125EA9YX1FQ62
+review/profileName: GlobalArchitect "GA"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: Awesome Taste!
+review/text: I have tried tons of these sweeteners and I really dislike aspartame as it have a funky aftertaste and is generally too sweet.  These, however, are powered by Splenda and that are terrific. There is no after taste, they are not too sweet and I do not think you can tell the difference between these and the "real" thing.  Great option for those of us trying to cut back on sugar!
+
+product/productId: B000KOU90W
+review/userId: AKDK6T50F52JP
+review/profileName: rledwards
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306195200
+review/summary: Glad I found this on Amazon
+review/text: I have been using this 4C Totally Light 2 Go lemonade mix with Splenda for several years.  I initially purchased it at Walmart and then when WM stopped carrying it I was getting it direct from 4C.  I'm glad I finally checked Amazon as it if half the cost versus getting it direct from 4C and paying shipping charges.  I really like the taste and when I use this lemonade mix I find that I drink more than when I recently tried to just drink plain water.  I do mix it half strength and like it fine that way.
+
+product/productId: B000KOU90W
+review/userId: A3P4RVQPY8GLX
+review/profileName: Retired in Florida "DavidDIY"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1247529600
+review/summary: Good Not Great
+review/text: I have tried to skip citrus juice to cut calories. This item is a little too sweet for me, but still tastes good. Couldn't stand the brands with NutriSweet, Loved Arizona, this one's OK.
+
+product/productId: B000E1FY1K
+review/userId: A28XKB60J0AIY9
+review/profileName: Marcia R. Weyrick
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1197849600
+review/summary: Plain Old Ripped Off
+review/text: This product was so misrepresented that I no longer use Amazon as my first choice when I'm looking for a product.  I ended up spending my gift certificate and was totally ripped off for 3 packs of nuts that I can purchase in a store for $5.  Don't be fooled by this product no matter how they try to dress it up.
+
+product/productId: B000E1FY1K
+review/userId: A2JOTCBG3ZMKQZ
+review/profileName: Kevin Krause "not happy"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1212451200
+review/summary: great product, lousy shippment
+review/text: I had ordered these on line, they come 4 gift packs per order. The first shippment came with one gift pack so I called customer sevice and they said to keep the one I got and they would reship the order. The next shippment came and was the same thing, one gift pack instead of 4, so I called again and they said they would send out two more. I waited weeks and nothing came, so I called again they could not tell me why I did not get my order, they asked if I wanted a refund for the last two gift packs I did not get, I really wanted the two gift packs but I said i would take the refund. Next I ordered some Doritos toasted corn, they come 6 in a order, I got all 6 but every bag had nothing but busted up corn chips. They were packed in a big box no packing around the bags. I would like to order these items again but ......
+
+product/productId: B006VRTR0K
+review/userId: A1QIXPV1XB7GL4
+review/profileName: Saltchuck
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1312070400
+review/summary: Good dark, rich coffee for breakfast time
+review/text: After trying lots of different blends in K-Cups over the past couple of years, I've settled on a mix of Tully's French Roast and Newman's Extra Bold as my go-to choices for morning wake up coffees.  Both have a strong, deep flavor that pairs well with weekend waffles and other "sweet" goodies.  It's a shame that the price has gone up so much, but it's not the fault of the coffee.  I'll keep drinking this one -- it's one of my simple pleasures and still much more affordable than picking up a cup at the local espresso stand.
+
+product/productId: B006VRTR0K
+review/userId: A1CHIC782V0N8J
+review/profileName: B. Murrell "Shopping Mom"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297814400
+review/summary: Good coffee
+review/text: This is a rich, full flavored coffee  If you like a full bodied taste but not too strong this is the one.
+
+product/productId: B006VRTR0K
+review/userId: A2BGJ0ROH8FQ76
+review/profileName: Norm
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1297728000
+review/summary: Tully's French Roast
+review/text: It seems like I am always sampling new coffee for my K-cup brewer, but for consistent good taste this is one of the best. It makes a quality cup of coffee with real coffee taste.
+
+product/productId: B006VRTR0K
+review/userId: A1NK0Q5XRUOFWR
+review/profileName: Library Lady - CA
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1347580800
+review/summary: Not what expected
+review/text: Tully's French Roast is my favorite morning coffee. This supply is unusually bitter.  Since I have been buying locally in smaller quantities, I feel I have been dumped upon with old product in this purchase - and will likely toss it. Advice:  buy nearer home and check "use by" dates.  This box comes with loose K-cups inside and no date whatsoever.
+
+product/productId: B006VRTR0K
+review/userId: A3IFAVOS3KUUDR
+review/profileName: docbel1
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1342224000
+review/summary: Not All French Roast KCups
+review/text: When I was opening the boxes I noticed there were some Tully's House Blend KCups included in each box. Besides that issue - I enjoy the Tully's Frnch Roast.
+
+product/productId: B006VRTR0K
+review/userId: A3WOFZ0N16XJZ
+review/profileName: K. WRIGHT "jlw617"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1333843200
+review/summary: mmmmmm tulleys!
+review/text: My favorite out of all the k-cups! We fell in love with the kuerig in our sunday school class simply for its convenience unfortunately though I honestly am a major coffee lover and somewhat of a coffee snob so when we traded our aeropress (which I recommend 100%, I just want something faster these days)I had a hard time finding a k-cup that was bold enough for me-if you like dark french roasts, you know what Im talking about, well to this day, Ive tried many different k-cups, I even have the eco cup where you can put your own coffee in and nothing matches tulleys french roast...the only one that I would drink besides it is jet fuel but its def still not numero uno like tulleys!
+
+product/productId: B006VRTR0K
+review/userId: A3N4DE54QPFIVT
+review/profileName: Roger "milkman"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Tullys french roast K cups
+review/text: My wife tried quite a few brands of K cup coffee, and finally decided on Tully's French roast as the one she wanted. Saw the great offer on Amazon, and couldn't pass it up.
+
+product/productId: B006VRTR0K
+review/userId: A2JPJ907CB4X9J
+review/profileName: Grandma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: My Perfect Joe
+review/text: Out of all the K-cups I've sampled Tully's French Roast is the tastiest, no bitter after taste, a good waker upper!
+
+product/productId: B006VRTR0K
+review/userId: A2ZQ59H3VX0TDI
+review/profileName: Doe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350777600
+review/summary: best coffee
+review/text: If you enjoy dark roast, full flavor coffee, this is the best I have found.  And, my husband agrees.  We have tried numerous brands and find Tully's to have that "something extra".
+
+product/productId: B006VRTR0K
+review/userId: A4YZGZZSO8QBM
+review/profileName: Douglas Lang
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350691200
+review/summary: My favorite Coffee
+review/text: This is my favorite coffee.  I like a strongly flavored brew and this fills the bill and the "smokey flavor" is an enhancement I like.
+
+product/productId: B006VRTR0K
+review/userId: A2MI0ZF22TCVI2
+review/profileName: Thoress
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350604800
+review/summary: So strong, so good
+review/text: I didn't think I was a Green Mountain Coffee Roasters fan - I usually think their coffee is mediocre, at best - but this is excellent.  I make one cup per "small" Keurig serving - and it's almost an espresso.  I love it, and I am very fussy about coffee.
+
+product/productId: B006VRTR0K
+review/userId: A3GY1GAP3HC3HH
+review/profileName: Sylvia
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350518400
+review/summary: tully's scores again
+review/text: I ordered this coffee because we were having guests for a week from out of town.  I knew they liked French Roast coffee.  Well it was a total success.  Great coffee and conversations.  Thanks.
+
+product/productId: B006VRTR0K
+review/userId: A3NNO8EU8BZJQ0
+review/profileName: Mr. T
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: Great bold flavored K-Cup
+review/text: This is a great option if you are looking for a bold roast K-Cup. This is my new favorite. Coffee People Organic used to be a favorite but they seemed to have quit making it or the new replacement is not as good.
+
+product/productId: B006VRTR0K
+review/userId: AFD0EX0DHCO14
+review/profileName: Patricia Baumgart
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350432000
+review/summary: good taste but a little strong
+review/text: having trouble finding a k kup with right strength, either too weak or too strong, but this one is better than most.
+
+product/productId: B006VRTR0K
+review/userId: A2PVCBYJOTHJUT
+review/profileName: M. Lewis "stardust weaver"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: Great robust flavor!!
+review/text: I love this coffee.  I love my coffee strong and rich tasting and this fits the bill. I will definitely purchase this again.
+
+product/productId: B006VRTR0K
+review/userId: A2QKQ34YSBEQFO
+review/profileName: Allen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Good French Roast
+review/text: Tully's French Roast is a solid choice and one of my staples.  This is my favorite French Roast currently available in a K-cup.  Maybe someday Peets will come in a K-cup, sigh.  One trick if you find it isn't as rich as you normally get in your favorite bistro, is to make a smaller size portion.
+
+product/productId: B006VRTR0K
+review/userId: A2GDTF5XZFVW2G
+review/profileName: Kirk Henry "old school"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350000000
+review/summary: LUV This Coffee!
+review/text: I'm a big time coffee drinker and I tend to like my coffee strong and Tully's French Roast blend delivers! I'm not going to go into all the details about how it taste like "this or that" because everybody's taste are different. But if you like a strong, not bitter, cup of coffee that will get you going in the morning, then this is for you.
+
+product/productId: B006VRTR0K
+review/userId: A298SSMYTNS2JY
+review/profileName: GOOBHEN "theresa"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Yum yum
+review/text: When I want a nice strong cup of coffee, Tully's French Roast is my choice.  Strong but not bitter.<br />I will buy it again!
+
+product/productId: B006VRTR0K
+review/userId: A2DY6N28XW98EW
+review/profileName: eshap2
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349654400
+review/summary: NO FLAVOR
+review/text: strong, not much flavor, very little aroma. I tried it once, will not purchase another time. I have other similiar brands that met the standards i expected.
+
+product/productId: B006VRTR0K
+review/userId: APVTYBBSEZMH9
+review/profileName: Marcia L. Royce "MLR"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349654400
+review/summary: awesome tasting!
+review/text: Best tasting coffee. Love dark roast with a bit of a bite. Can't go wrong with Tullys. Well worth the money.
+
+product/productId: B006VRTR0K
+review/userId: A3EFA2GQ6QSN6R
+review/profileName: A. B. Vaughan "44"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: Tullt's K-Cups
+review/text: Extra Bold and Smooth ! Great coffee. I'll be ordering more of this. I like an extra bold cup and this certainly fits and it is just a little better than the Tully's Italian Roast !
+
+product/productId: B006VRTR0K
+review/userId: A260XY28R4NLO8
+review/profileName: John McDermott
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: French Roast Heven
+review/text: I prefer my coffee to be a bold Flavorful roast and this Tully's French Roast does that, and then some. I've tasted a number of different K-Cups and Tully's seems to satisfy the boldest tastes, their coffees always seem to be a little bit of heven.
+
+product/productId: B006VRTR0K
+review/userId: A122EFVIPYPSO1
+review/profileName: sue says
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348185600
+review/summary: Waking up with a hot cup of coffee
+review/text: For coffee lovers who enjoy a strong  cup of coffee in the morning then French Roast is the coffee for you. It has a rich bold flavor that will kick start your day.
+
+product/productId: B006VRTR0K
+review/userId: A3EKFXA6827YAM
+review/profileName: Dallas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347926400
+review/summary: k-cups
+review/text: Great coffee. I love this k-cup flavor. Delicious full bodied coffee for bold coffee lovers, doesn't disappoint. I always buy in bulk, because the price per cup decreases, but also because I KNOW I'm going to drink a lot. Love this coffee!
+
+product/productId: B006VRTR0K
+review/userId: A3GDYVCSYEW1SN
+review/profileName: Blazing Tartan
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347840000
+review/summary: Bit stronger than the wife likes.
+review/text: We normally get Deidrich's French Roast but it is no longer carried in "Subscribe and Save" so I thought a good alternative would be Tully's French Roast.  It's a wee bit stronger than the wife would ideally like, but it's O.K.  Personally, I like it!  (My real favourite is Tully's Italian Roast.)
+
+product/productId: B006VRTR0K
+review/userId: A2RGL1NXA4LZB2
+review/profileName: SJ_Derosier
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347321600
+review/summary: Excellent!
+review/text: Excellent flavor-properly done French Roast. Smokey and rich. Sufficiently strong,  though I always think k -cups need more coffee in them.
+
+product/productId: B006VRTR0K
+review/userId: AQWHLX5DRHIWZ
+review/profileName: sables
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347148800
+review/summary: greatest coffee
+review/text: I've recently purchased Tully's French Roast K-Cups from Amazon. Well this is the best coffee no bitter after taste, wonderful smell of coffee brewing, very  easy to make.The French roast is a darker coffee for those who like stronger blends.I'd recommend this to all who purchase K-cups .Only bad thing about this product is it goes to fast ,in other words I drink to much of it. LOL  Buy some and enjoy your cup of coffee today.
+
+product/productId: B006VRTR0K
+review/userId: A3TZ798YOKS19O
+review/profileName: pv "sugarflour"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346976000
+review/summary: Tully's French Roast
+review/text: This coffee has turned out to be my very favorite in K-cups.  It is the best of the "bolds"- full-bodied, rich tasting and is a great way to start my day.
+
+product/productId: B006VRTR0K
+review/userId: AKX5XLHJSY2YD
+review/profileName: J
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: Good Tulley's product.
+review/text: I need to say I absolutely love my Kuerig brewing system. French Roast is one my favorite types of roast. I don't want to sound biased, but anyone who loves a strong aromatic coffee would love this kind. I would recommend it to the coffee enthusiast, but that's just me. This won't be so good for those who don't like a very strong, extra bold coffee. If you are one of those who doesn't like a coffee this strong...this isn't for you unfortunately.
+
+product/productId: B006VRTR0K
+review/userId: A3VL4RXCWNSR3H
+review/profileName: DISenchanted
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346630400
+review/summary: Makes a good cup of coffee
+review/text: I was given a keurig B70 as a gift and was asked which coffee sample type(s) I wanted with it.<br /><br />I decided to take a chance on this one.  It was a good choice.<br /><br />The coffee was smooth and full bodied.<br /><br />An excellent french roast.
+
+product/productId: B006VRTR0K
+review/userId: A3SIEALPINKUTB
+review/profileName: jim
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344470400
+review/summary: C'est Magnifique!
+review/text: Wonderful bold brew. Stands alone or with Hazelnut, Vanilla or half and half w/sugar or not, too. Tully's great blend! C'est Magnifique!
+
+product/productId: B006VRTR0K
+review/userId: AJ5E1UNZ85MO7
+review/profileName: Sequelman
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344470400
+review/summary: Great Smokey flavor
+review/text: We sampled a number of different K-Kup blends and this one seems to be the closest to what my wife describes as a smokey flavor, overall a great cup of coffee. I prefer a less bold taste but it's a  a definite 4.5 stars.
+
+product/productId: B006VRTR0K
+review/userId: A16OJYSPR7PWEQ
+review/profileName: Grant
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343520000
+review/summary: definitely a coffee drinkers coffee
+review/text: One of the best cups of coffee that I have every consumed at home. If you are a person that enjoys a rich and robust cup of coffee this is the one that you may enjoy.
+
+product/productId: B006VRTR0K
+review/userId: A1YHXGV6GC51IM
+review/profileName: Americangirl "TRUTH SETS YOU FREE"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343088000
+review/summary: Great Tasting and affordable
+review/text: Addicted to this brand and found this coffee fresh, bold and unbitter.<br />The delivery was super fast and my only complaint is it came in an unmarked box meaning I felt I had to count. But the count was right on & for the savings I'm not complaining so will order again. This coffee being bold but with no aftertaste is one I never tire of it. Everyone who tries this loves it. I find if I brew a small cup makes excellent iced coffee or warm latte. My coffee maker does have size options so considering cost of lattes my homemade version using liquid stevia/almond milk is money saving plus healthy. I have used both plain/flavored stevia and my coffee flavor stays true. All in all addicted and loving every cup.<br /><br />I am adding to review ordered a few days ago and a super charged delivery this was in original package this time and I am a very satisfied customer. Fresh cup in hand while I write this!
+
+product/productId: B006VRTR0K
+review/userId: AH95B07Q298NH
+review/profileName: SA White
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342224000
+review/summary: Good for Keurig
+review/text: Tully's coffee French Roast coffee is yummy! It tastes bold and we have even used it to make iced coffee.
+
+product/productId: B006VRTR0K
+review/userId: A18IXRR6I9O7T6
+review/profileName: ConanZeus
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341187200
+review/summary: Bold
+review/text: Very Strong! Excellent taste. If you want a coffee that is full of flavor even on the largest cup size, This is the one to buy.
+
+product/productId: B006VRTR0K
+review/userId: A2M1VP0Q36EJ01
+review/profileName: Grandpa Dick "Support Meals on Wheels"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340841600
+review/summary: Great Strong Coffee- Highly advocated!!
+review/text: I give Tully's an AAA+ for marketing a great coffee. When you drink Tully's it tastes good from the first sniff to the last drop and leaves a pleasant that was real Coffee after taste.<br />If you like Sumatra you love Tully's French roast K cups. Please note that some people do not agree with me but to each their own. It's what makes the world an interesting place.........
+
+product/productId: B006VRTR0K
+review/userId: A3G5VR2YYD882G
+review/profileName: Mona
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Great coffee
+review/text: I am a great coffee lover and am constantly searching for the perfect cup that I can brew at home.  Tully's French Roast is at the top of the list with my K-cup brewer.  The coffee is delicious, great dark roast taste, and I do look forward to each morning great cup of coffee....Each night before I go to bed I am excited to get up the next morning to my great cup of coffee.....
+
+product/productId: B006VRTR0K
+review/userId: A2GZ3RYHGPXR2U
+review/profileName: Tom "Tom"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1340496000
+review/summary: Cheaper than Starbucks
+review/text: Comparable flavor to Starbucks and cost much less. I don't know why anyone would buy a 12 pack. All flavors are good as well.
+
+product/productId: B006VRTR0K
+review/userId: A1SC1DDV2P3ZOU
+review/profileName: Anne M. Chapman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Good french roast
+review/text: I've tried several different coffee's and this is the best so far. If you don't like  strong coffee, then this is not for you.
+
+product/productId: B006VRTR0K
+review/userId: A3W2R4URLBO5LQ
+review/profileName: bigmuddy
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1339286400
+review/summary: Ok for the price
+review/text: Ok not as good as Starbucks French roast but less expensive. Sprinkled a little cinnamon and added cream. That helped.
+
+product/productId: B006VRTR0K
+review/userId: AN1XSVFF4V6G7
+review/profileName: Sbeck
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335225600
+review/summary: Best K cup for coffee lovers!
+review/text: My husband thought the Keurig coffee maker was just another gadget, only to be used when guests wanted to make their own choice for flavored coffees.  When I purchased a small box of this  extra bold coffee, he said it was the best coffee he has ever had...home or in a restaurant!  I purchased this larger box, and he said, "Why don't we put the Keurig in the kitchen, and put our 12 cup coffee maker away"!  He is now having less cups of coffee...enjoying it much more...and absolutely no waste!
+
+product/productId: B006VRTR0K
+review/userId: A3FDF44ESPF7H4
+review/profileName: J. A. Huestis "cat lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334102400
+review/summary: Tully's Coffee French Roast K-Cup for Kuerig
+review/text: This is one of my husband's favorite's.I found it to be less expensive than at GMCR so got it here at Amazon.It shipped quickly and I was very pleased with the order.I will be ordering more soon! Thanks
+
+product/productId: B004QXH5AA
+review/userId: A31LEVBRCI0BQX
+review/profileName: gamerette86
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343347200
+review/summary: Tasty!!
+review/text: Realllllly good!, I saw this reviewed on Seattle Coffee Gear's site and being me I thought oo I wonder if its on amazon! sure enough.. They had the whole bean version which I wanted more but but no grinder yet so I bought drip and since I hadn't tried it before I was wondering if it was really good or if it was just meh. This is awesome coffee, the drip grind is really great too and strong! I learned quick that you do not want to use too much now if your big on strong coffee go nuts, I used a cone type filter and used 2 1/2 tablespoons and I didn't really level off much and it was sooo strong but not bitter it was super smooth and it was chocolaty really good, love this coffee plan on buying more :0) if you can't find it on here just go to their website.
+
+product/productId: B0041T1BSG
+review/userId: A31RK6E8NXM452
+review/profileName: C. J. "C. J."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337212800
+review/summary: My favorite!!!!
+review/text: Great soup, this is my favorite, but I like all Progresso soups! Makes a great meal when watching one's weight, and for a little extra protein I add 1/4 cup of lentils and there you go!
+
+product/productId: B003J9Y4DI
+review/userId: A35ZP7AER0PO0P
+review/profileName: tdmmdi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: What a difference a vendor makes.
+review/text: The last review I wrote was a true pan, this one is the exact opposite. My Buttered Popcorn Jelly Belly beans arrived today. They were packaged in a labeled plastic bag explaining what I got which was exactly what I ordered. The beans were fresh, tasty, had the Jelly Belly logo and splashes of yellow on each bean: just what I expected. This vendor gets top billing in my opinion.
+
+product/productId: B004XXXO0S
+review/userId: A25E8HZFW9FKSP
+review/profileName: J. Ledsome "J.L."
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1330300800
+review/summary: Not bad cracker cream snack
+review/text: This snack isn't a overly sweet, the outside part is like a cracker not a cookie.  And the filling is not overly orange tasting.
+

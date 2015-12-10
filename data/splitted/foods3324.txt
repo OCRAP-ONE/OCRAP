@@ -1,0 +1,1143 @@
+product/productId: B000E433EW
+review/userId: A1THMACGKZSITJ
+review/profileName: coffee drinker
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1174953600
+review/summary: delicious spicy corn soup
+review/text: Very good soup.  Easy to make and brings Latin American flavors to life.  Works well with any meal.  My only complaint is that it clumped after letting it sit for a minute, so I had to stir it quite often. But overall, a delicious soup that I will continue to buy & enjoy.
+
+product/productId: B000E433EW
+review/userId: A2JLTEPD2JKLNS
+review/profileName: MoxieMozo
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1174003200
+review/summary: Perfect blend of flavors
+review/text: I think this soup has the perfect blend of flavors - very flavorful without being too spicy or sweet. And all-natural ingredients make me feel good about eating it. I am becoming a fan of Nueva Cocina products!
+
+product/productId: B000E433EW
+review/userId: A2MVX38OFL8HY8
+review/profileName: Ro "Eclectic Gatherer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1171670400
+review/summary: Easy to make deliciousness
+review/text: I just made this soup for the first time, and it could not have been easier.  Add water, heat, and then garnish with a little cheese.<br /><br />I didn't find it terribly spicy hot. The chiles used are nice and mild.<br /><br />A tasty dinner indeed.
+
+product/productId: B000E433EW
+review/userId: ANZOL5EAK8KFO
+review/profileName: Poesgirl
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1168560000
+review/summary: Excellent Soup
+review/text: This soup is delicious.  I've made it with the 3 cups of water and it couldn't be better in my opinion.
+
+product/productId: B000E433EW
+review/userId: ARBZ1L0LDYBS2
+review/profileName: Briard Walker
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1167955200
+review/summary: Green Chiles got to me.
+review/text: This is a high quality soup but for me it would be great without the Green Chiles.  If you prefer mild salsa over hot salsa, this soup may not be for you.
+
+product/productId: B000E433EW
+review/userId: A2HMNJEN3RN9GV
+review/profileName: Bugs
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1225411200
+review/summary: Tasty
+review/text: Nueva Cocina has good products with good ingredients and are easy/fast to prepare. This one is tasty amd mildly spiced. I add onions, garlic, corn and peppers.
+
+product/productId: B000E433EW
+review/userId: ARK7IYUDXG1DN
+review/profileName: Patricia / Redwood City,CA
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1193529600
+review/summary: OH SWEET CORN SOUP!!!!!
+review/text: WOW!!!! Yummy to the tummy soup!!<br />Quick to fix............use boiling water not microwave heated water. Stays hot longer and dissolves better.<br />For added enjoyment I added some extra fozen corn kernels and chopped fresh serrano chiles...........Just a cow girl from Texas!!!!!<br />Definitely a product to keep on the kitchen shelf!!!!
+
+product/productId: B000E433EW
+review/userId: A1K0F3FXF4O6G7
+review/profileName: Cebolla
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335398400
+review/summary: My FAVORITE Soup!
+review/text: This is by far my favorite soup. I love that I can prepare this myself at home. I made this for my boyfriend last weekend and he was very impressed with the ingredients and taste. I now keep stock of this in my kitchen :) I have also tried their Lentil Soup and Mexican Rice... delicious!
+
+product/productId: B000E433EW
+review/userId: A3063G4M7YNVYM
+review/profileName: M. E. Mahan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1208563200
+review/summary: product was fine, had problems with delivery
+review/text: I ordered a box of six soups first delivery was only one envelope... had to call amazon to fix the situation.
+
+product/productId: B000EDGB7E
+review/userId: A3NJAYJZTCKWG
+review/profileName: Summer Purchases
+review/helpfulness: 21/23
+review/score: 1.0
+review/time: 1153267200
+review/summary: NOT CRUNCHY
+review/text: Do not buy Crunchies products in the Hot summer months.  They are heat sensitive. As the packaging states "IMPORTANT- STORE IN COOL DRY AREA". The two cases I purchased arrived chewy and clumped together.  They probably cooked during shipping and are not a "Raw Food" and not as "Nutritious" anymore.  Two of the bags were more bits and powdered fruit clumps than chucks of fruit and one was opened.  Amazon.com does not accept grocery returns.  It was a waste of $40.
+
+product/productId: B000EDGB7E
+review/userId: A1T1YSCDW0PD25
+review/profileName: A. Wiersch
+review/helpfulness: 10/10
+review/score: 3.0
+review/time: 1151020800
+review/summary: An interesting snack
+review/text: I like this snack, though it is not without its negatives. First, it is expensive... but then again it is suppose to be healthy, so that's a plus that makes up for some of the expense. Also, it seems like a good snack for kids. However, sometimes there is an unpleasant flavor with the "Tropical Fruit" flavor. It is not pleasant when you get a bad piece of dried fruit in your mouth. I also tried the "Organic Strawberries" and like those better, probably giving them a 4 out of 5. The strawberries are good to eat with dark chocolate.
+
+product/productId: B000EDGB7E
+review/userId: A1K33E0M8K6S63
+review/profileName: Deborah Shore
+review/helpfulness: 12/13
+review/score: 3.0
+review/time: 1188604800
+review/summary: don't buy for travels
+review/text: I really wanted these to work for travels where I pack all my own food.  However, they are a decidedly poor alternative for travels, since most of the outer coating of the fruit turns into very messy powder.  The strawberry flavor is slightly less of an ordeal in that regards but still messy.  They are probably good for you if you want a stowaway fruit you can use when you haven't gotten to the store for awhile or want it out of season to sprinkle into something, but otherwise the price and messiness are both much too prohibitive.  I've bumped it up from two stars to three, however, after considering how they keep the enzymes intact and don't add sulfites.
+
+product/productId: B000EDGB7E
+review/userId: A3IUS3AQ774581
+review/profileName: Carla "Carla"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1214524800
+review/summary: Wonderful product
+review/text: Not sure why this item has received any bad reviews. These blueberries are just what I needed. Freeze-dried and naturally sweet.<br /><br />Regular/traditionally dried blueberries (not freeze-dried) often have sugar added to make them sweet, which I cannot have, so I am ecstatic that these are so good.<br /><br />I ordered a whole case and none of the blueberries were pulverized, no extra powder, they are all beautiful and whole.
+
+product/productId: B000EDGB7E
+review/userId: A94HQKQR8IZF1
+review/profileName: A. Holley
+review/helpfulness: 8/9
+review/score: 4.0
+review/time: 1184803200
+review/summary: Tasty, but messy
+review/text: These are very good, but too messy to eat alone as a snack.  The blueberries stained my fingers and mouth.  They are very good mixed with yogurt or in muffins.  Normally, they are a little pricey, but with the instant rebate, they are well worth the cost.
+
+product/productId: B000EDGB7E
+review/userId: APL2KETIYQMHU
+review/profileName: Katrina M. Mongeon
+review/helpfulness: 10/12
+review/score: 5.0
+review/time: 1145923200
+review/summary: Yummy!
+review/text: For those of you like me who care... These yummy snacks have about 140 Calories per package and one package is too much for one sitting. Very yummy and sweet lo-cal food to snack on.
+
+product/productId: B000EDGB7E
+review/userId: ASP6294OGHC5C
+review/profileName: DMC,MD
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1199577600
+review/summary: Lacks flavor
+review/text: I love this brand of freeze dried fruit but found the mango variety to lack flavor...unlike mango juice itself.  Maybe when you take the "juice" out of this fruit it's just dried fiber. Not satisfying.
+
+product/productId: B000EDGB7E
+review/userId: A36WKI6BBT2JKD
+review/profileName: Donald Mercer
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1213142400
+review/summary: Just what expected
+review/text: Previous reviewes told of the mess involved with these, they obviously have not had freeze dried fruit before. Wether it is blueberries, strawberries, lychees or any other fruit, you will have a bit of a mess from the product. Get over it! Wash your hands, brush your teeth. Now for the item at hand, Blueberries. Typical freeze dried berries with good taste and that wonderful powder! Can not be improved.
+
+product/productId: B000EDGB7E
+review/userId: A35X2JJI49OBZP
+review/profileName: C. Bayne "katluvr_1"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1232323200
+review/summary: Really good - little powdery but good
+review/text: These taste wonderful.  They are a little powdery, which is to be expected since they are freeze dried, so don't breathe in as you're eating.  Fresh blueberries are better, but these are very good.  I saw a few reviews that mentioned everything arriving as powder, but mine arrived in good shape.<br /><br />One thing I really like is that the only ingredient is blueberries.  There's no sulfur (which I'm allergic to) or corn syrup.  These are good in cereal and as a snack, though you might want to have some water on hand in case you breathe in some blueberry dust.<br /><br />Highly recommended.
+
+product/productId: B000EDGB7E
+review/userId: A2U0N3HNZMV3D
+review/profileName: Spencer Pohlman "Pohlkat"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1170460800
+review/summary: Mmmmmm Yummy...
+review/text: I don't usually buy these kinds of things, but couldn't pass it up when it was on sale a while back. These tasty, healthy treats are perfect for on the go! I snack on them while I am at school. Some fruits have more flavor than others. Raspberries are probably my favorite. Mmmmm my mouth is watering just thinking about them. My only complaint is the price is a little pricey. My girlfriend however doesn't like the tastey treat. May not be for everyone. Taste testing them somewhere could be advised, although I am not sure where you could test them out.
+
+product/productId: B000EDGB7E
+review/userId: A2RKZ839WIWVHL
+review/profileName: bobtec
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1240790400
+review/summary: Almost $4 a bag & messy. So why do I give it 5 stars?
+review/text: Taste. A very natural taste. A taste that only God could develop. This is a taste of the promised land (and tastes great with milk & honey). For Weight Watchers folks like me, you'll be happy to know that it's only 2 points / bag. If you're going to a festive occasion, or on a big date, or thinking of using it for your lunch break, stick with Sensible Foods Cherry Berries. But if you're at home, or somewhere where you wont mind getting a little messy, try this. The price is well worth it.
+
+product/productId: B000EDGB7E
+review/userId: A3DZ56XGE3ESRM
+review/profileName: JacobHR "jacobhr"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1207094400
+review/summary: Delicious and Nutritious!
+review/text: I've bought many packs of various types of the Crunchies brand dried fruit and they are all excelent in my oppinion. This type of Crunchies is quite 'crunchy' and I like to sprinkle these on my brakefast cereal in the mornings. Plan to buy more of these delicious Crunchies brand snacks in the future!
+
+product/productId: B000EDGB7E
+review/userId: A3E7G50FUWZNDO
+review/profileName: Always so busy "JL Nels"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1202515200
+review/summary: Best of the freeze dried, and my whole families favorite flavor
+review/text: I started buying these as a "to go" snack for my baby/toddler who is allergic to a lot of stuff.  He loved fresh mangos so I selected this flavor.  Now he loves these so much, he seems to object to fresh mangos.  Now the whole family loves them.  We buy all the other flavors (except blueberries, tried them once -- they'd be okay for baking with, but not a great snack).  I've tried 2 other brands of freeze dried foods and I'd say Crunchies brand is the best -- size of pieces, texture/look of pieces, flavor.  Only improvement would be for it to come in a large cannister size too, and even the 1.5 ounce would be better if it was in a hard sided container like "Just ___________" brand (also okay, but more shrivled up, less like airy).<br /><br />Good Job Crunchies!
+
+product/productId: B000EDGB7E
+review/userId: A2OD9NC4996GC4
+review/profileName: Kimberly Hough "jespeach"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1201910400
+review/summary: Low Calorie, Nutritious and DELICIOUS...what more could you want?
+review/text: I was at Costco one fine Saturday afternoon when they were handing out samples of the Mixed Fruit Crunchies. I was immediately struck by how flavorful they are! Crunchy, and crisp, not leathery like most dried fruit. On their own they are a fun snack for kids and adults alike. I've also discovered that they make great flavoring agents for frostings, truffles, cakes, etc. I used a mortar and pestle to turn, for example, the strawberry Crunchies into a powder, then used that for the Triple Berry tea loaves and the Strawberries & Cream truffles I made during the holidays. The intense, refreshing, true fruit flavor is what I love about these. And the crunch, but then I'm a texture person!<br />p.s. the other reviewer: It's the banana crunchies you think aren't good, I would bet money on it. My daughter doesn't like them either.
+
+product/productId: B000EDGB7E
+review/userId: A330NGCO9T42FB
+review/profileName: Joe Darooky "Average Joe"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1288051200
+review/summary: Stale and Poorly Packaged - No Reply from Manufacturer
+review/text: I've bought these pineapple Crunchies in my local grocery store and they were good (though very expensive at about 6 bucks per serving). So when I ordered the six-pack of them here, I expected them to taste just as good. That was not the case at all. The outside of each package was sticky but that didnt bother me much. What bothered me is that the actual product itself was stale. Each piece (in 4 of the 6 bags I opened) was rubbery. Chewing the Crunchies only compressed it into a solid wad of what then seemed like hard plastic. The result was something that simply could not be broken up and swallowed. I also noticed that the built-in ziplock seal didnt work on these bags. After 4 bags, I tossed out the rest and contacted the manufacturer via email (twice). I never received a reply. I think the Crunchies people are selling Amazon bad batches. Avoid these at all cost!
+
+product/productId: B000EDGB7E
+review/userId: A27W8BN8N55BJV
+review/profileName: B. Bishop
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283644800
+review/summary: love them
+review/text: these are so good! My girls and I ate the whole bag in a few minutes. The fruit flavor is awesome!
+
+product/productId: B000EDGB7E
+review/userId: A1FWEV36N65E48
+review/profileName: E. F. Winerock
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1274659200
+review/summary: Tasty, crunchy, and nutritious
+review/text: Crunchies Blueberries are my new favorite snack. Mine arrived whole and in good condition. There was some blueberry powder at the bottom of the bags, but this is only a problem if you love them as much as I do and insist on sifting through the powder to ensure you get every last blueberry. I haven't tried rehydrating them, as I like them crunchy, but my experience with other freeze-dried items is that they rehydrate well. Incidentally, freeze-dried blueberries are a lot cheaper than dried blueberries, but they retain almost all of their nutrients unlike regular dried fruit.
+
+product/productId: B000EDGB7E
+review/userId: A2AOURZDWSJBAU
+review/profileName: Spirit "Happy Princess"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1238457600
+review/summary: Delicious - But They Stain!
+review/text: I love blueberries & love the taste of these.<br />Light as air and not sugary like many dried fruits, so they are a little tart.<br />Problem: Will stain your fingers, tongue, teeth and anything else they touch. :-(
+
+product/productId: B000EDGB7E
+review/userId: A56XIVBI7P5RJ
+review/profileName: Shannon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1233619200
+review/summary: Very good, but addictive! ; )
+review/text: I really like these things, they're great to snack on. If you're the type of person that likes to sit and watch TV and eat then these would be great to have on hand. I found myself eating an entire bag in one sitting, but at just under 150 calories for the full bag - who cares! They'll sate your sweet and crunchy cravings and you'll get all kinds of vitamins and nutrients from them that are really good for you!<br /><br />One another side note, I do sometimes get sulfite-induced headaches and digestive problems from dried fruits, but not with Crunchies! Just another added bonus.
+
+product/productId: B000EDGB7E
+review/userId: AGNRFD0XWGF25
+review/profileName: Arturo
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1231891200
+review/summary: Disappointed
+review/text: These sounded good, but lack favor.  Not worth the price.  I won't buy again.
+
+product/productId: B000EDGB7E
+review/userId: A3RJXPM2K47F5O
+review/profileName: R. Miller "PetRescueLady"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1229040000
+review/summary: Delicious
+review/text: I bought these for my 3 year old.  He looked at them and was very dubious of the square little pieces.  So, I ended up trying them.  They are phenomenal!!!  I was holding my 6 months old (who has so far refused all forms of baby food and has only agreed to try the gerber puffies) and he grabbed one off the table and shoved it in his mouth.  It melted in his mouth and he was hooked.  He ended up eating 7 pieces before I cut him off for fear of giving him too much of something he's never had before.  But they kept him very happy for a while.
+
+product/productId: B000EDGB7E
+review/userId: A3DZ56XGE3ESRM
+review/profileName: JacobHR "jacobhr"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1207094400
+review/summary: Delicious and Nutritious!
+review/text: This is my favorite type of the Crunchies brand dried fruit! I've bought many packs of various types of the Crunchies brand dried fruit and they are all excelent in my oppinion. This type of Crunchies is very crisp and crunchy. I sprinkle these on my brakefast cereal in the morning and they last a while. Plan to buy more of these delicious Crunchies brand snacks in the future!
+
+product/productId: B000EDGB7E
+review/userId: A1VGXHHR08G044
+review/profileName: FlyingPolarBear
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1169251200
+review/summary: Bright colorful taste
+review/text: Even though it's all natural the taste is rich with fresh fruit flavor.  In this way it's even better than standard dried fruit.
+
+product/productId: B000EDGB7E
+review/userId: A3RDU404TDURB6
+review/profileName: R. J. Hertz "BaysoxScorer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1169078400
+review/summary: MMM Crunchies
+review/text: Delicious. Just what I was looking for. Wishing to find its full panoply of offerings in stores so I don't have to buy in bulk.
+
+product/productId: B000EDGB7E
+review/userId: A38UTPQBQQ15JI
+review/profileName: Q
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1187827200
+review/summary: some good, some not...
+review/text: some of these survived shipping ok.  some were 90% pulverized dust by the time they got to my home.  Would buy again, just not sure I would order these again from Amazon (usually these are very good from the local stores).
+
+product/productId: B000EDGB7E
+review/userId: A3N9JSFVMH496Z
+review/profileName: G. Abraham
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1277683200
+review/summary: Feel Kinda Ripped Off
+review/text: Because of the bulk price and the main image on amazon, I thought the packages would be larger, like a bag of Jerky. Turns out that the image you see is not the packaging that you get, the bags are shorter and smaller (see my customer image). At over $4 a bag ($25/6), I'd be better off buying freeze-dried fruit at the local nutrition shop. Plus the fruit pieces are fairly small; good for kids but I like bigger chunks.
+
+product/productId: B000EDGB7E
+review/userId: A33RFE73ENQRPM
+review/profileName: Trang N. Nguyen
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1351123200
+review/summary: Healthy treats for the kids
+review/text: My kids love these freeze dry fruits.  Great as a take  along snacks when we are on the go.  A little expensive for the amount of fruits you get. Will stock up the next time Amazon has these on sale (lighting deal).
+
+product/productId: B000EDGB7E
+review/userId: A3A6A2M2KQ44C3
+review/profileName: Muna
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350950400
+review/summary: Delicious, but a little pricey
+review/text: I LOVE THIS SNACK =D Its like eating crunchy chips but they're sweet and so much healthier. I would eat them all the time, but they just add up- but don't most healthy foods? Sad truth :(.<br />But get this treat!! Its really awesome. Plus, i love this taste of mango
+
+product/productId: B000EDGB7E
+review/userId: A1F4M5HFKYUGLF
+review/profileName: T. Leibfried "tbsomedy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: L-O-V-E these!
+review/text: I bought the variety pack and I LOVE the apple cinnamon snacks.<br />They are so very good!  Little sweet, little tart, little crunchy, low cal and good for you!<br />mmmm<br />very satisfying.<br />The other flavors were okay...I wouldn't buy them again...but the apple is on my list of lifetime loves.
+
+product/productId: B000EDGB7E
+review/userId: AI3M89ZS2ADL7
+review/profileName: Markohzz
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349740800
+review/summary: chewy
+review/text: Apples and strawberries were crunchy and satisfying.  Pears were chewy and suspect as we were expecting crunchy.. Support from company was ok as they replaced however replacement pears still soft.
+
+product/productId: B000EDGB7E
+review/userId: A2VW4DSK406OE9
+review/profileName: MOM23 "MOM23"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Ermahgerd!!!  Crernchers!! So good!
+review/text: We love these.  I've bought a lot of different dried/freeze-dried fruits and these are by far our favorite!  Very good snack!
+
+product/productId: B000EDGB7E
+review/userId: A2CEATEBTQHPV5
+review/profileName: Jayde
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Perfect....
+review/text: This is EXACTLY what I was looking for to add to my food storage. They taste good, no additives and NON GMO which is most important to me. They also come in resealable packages.
+
+product/productId: B000EDGB7E
+review/userId: A2TBSP16Y30AFO
+review/profileName: Anne M. Gordon "rainbow4922"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349136000
+review/summary: Fruits tasty, but too pricy
+review/text: Two small amount in each package to be worth the price.  Wanted to see if I liked Freeze dried fruits.  Taste was fine, but unhappy with contents.  Two expensive!
+
+product/productId: B000EDGB7E
+review/userId: A366ISPASB3NHK
+review/profileName: MomMcDuck
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1348704000
+review/summary: Disappointed
+review/text: I just received a box of the small bags of strawberry and one of the pineapple. The name is CRUNCHIES, but my fruit is anything but crunchy. It is soft and pliable instead of crunchy. I liked the fact that I could get the portion control bags and also that they are made with just the fruit and nothing added.  I had hoped that these would help me keep out of the potato chips, but they are too soft for that. I will use them but will not be purchasing them again. I have had good success with Bare Fruit Apple Chips, but only one flavor comes in the small lunchbox sized bags that I prefer. The Crunchies website said that if air gets to the fruit it will moisten it up and make it soft. I have to assume that the packaging is to blame as how else would air get into unopened bags?
+
+product/productId: B000EDGB7E
+review/userId: AGGK2X8P26FFY
+review/profileName: Samuel A. Munoz
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1348531200
+review/summary: Messy Stack
+review/text: The berry flavors permeate and dominate the other fruit flavors.  The bottom of the bag has dried fruit powder that sticks and stains your fingers and anything else you touch.  Think Cheetos.  Definitely will not be ordering again.
+
+product/productId: B000EDGB7E
+review/userId: AZWRZZAMX90VT
+review/profileName: Rennie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1348012800
+review/summary: Strange chewy-crunchy texture
+review/text: Ok, so I have never had freeze dried pineapple before, so I am not sure if they are "good" compared to other freeze dried pineapple. But I found them weird. I mean, they taste like pineapple, but they were not crispy-crunchy like freeze dried strawberries, corn, peaches, and other fruit I have had. The texture of these are not like anything I've had before. As first bite, they crunch a little. Then as your teeth sink in, they are kinda hard-chewy, like those hard caramels. I guess they are just not what I was expecting, based on my other experiences so I was disappointed.<br />I don't think they were damaged in shipment, as it wasn't melted together in one big clump. They were still all individual pineapple chunk pieces.
+
+product/productId: B000EDGB7E
+review/userId: A2Y0MH2DUTMZ94
+review/profileName: Janet K Hill
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: These are delicous
+review/text: These are delicious, they did not last long. I brought them into work and between me, my coworkers and a 5 year old, they were gone. The selection of fruits in the mix is well balanced and they are easy to take with you (if you get the chance) in the bags.
+
+product/productId: B000EDGB7E
+review/userId: APOT8KGS1DUEI
+review/profileName: Lynica Darnell "Lynica"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1347408000
+review/summary: Overprice
+review/text: Its really little in a packet, definitely overpriced.  Not worth buying it.  The fruits doesnt taste great either, will not be buying it again.
+
+product/productId: B000EDGB7E
+review/userId: A2VP8ALZNI0I59
+review/profileName: Rachel
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347235200
+review/summary: Crunchy? More like stale  O.o
+review/text: Usually I buy freeze dried pears from whole foods but it costs an arm and a leg so I was SUPER excited to see this available at a decent price.<br /><br />Disappointment doesn't even come close...The pears weren't crunchy in the slightest bit, more like stale and chewy in such a way that it brought about a slight "ick" factor. I was expecting the same quality as Whole Foods (my mistake) but when I opened the bag, it looked like someone had taken a pear slice and crumbled it like a paper ball and dried it.<br /><br />We got this to have healthy snacks on hand but no one in my house can get over that slight "ick" taste and no one will eat it. Whatta waste :(
+
+product/productId: B000EDGB7E
+review/userId: AE5A0AOJOAZJO
+review/profileName: Alexander J. Semritc "Alexander"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346976000
+review/summary: Everything you could want!
+review/text: I bought these for my wife who loves anything strawberry. First of all they must lie about the calories because they are very tasty andd sweet. They are not crunchy, by rather they are light and airy. The packages are small, but a great snack and there were twelve of them. That brings me to my recommendation for you to order two boxes, because I just put in an order for a box for my wife. She will be pleased.<br /><br />Also, try the other flavors, I love the pineapple. I was able to buy this set with a coupon that made them a real bargain.
+
+product/productId: B000EDGB7E
+review/userId: A32HL6OFQB61LR
+review/profileName: anonomose
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346889600
+review/summary: never again!
+review/text: I won't buy this item ever ever again! 12 Small packages not worth the $16  I paid for , too expensive!
+
+product/productId: B000EDGB7E
+review/userId: A2UNPSQRE9749V
+review/profileName: Stacy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1346716800
+review/summary: Taste great!
+review/text: I bought these for my 12 month old son. He loves blueberries so I thought these would be great to have on the go or when we don't have fresh berries to eat. They're a little crunchy then the other kinds they make, and do stain your hands, but they still taste great.
+
+product/productId: B000EDGB7E
+review/userId: A3R5CC1KCFU683
+review/profileName: Jan B
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1345420800
+review/summary: not what i expected
+review/text: I understand the benefits this product offers, but what it lacks is taste appeal. Kind of like eating a little bit of flavored air. It is lacking a palatable texture. There is some flavor, but not what I expected. Very costly per ounce,$3 for 1.5 oz. It may take8-10 lbs of fresh fruit to make 1 lb of crunchies, but for flavor, texture, and cost, I will definately buy 8-10 lbs. fruit. Sorry I am unable to return the other 5 bags.
+
+product/productId: B000EDGB7E
+review/userId: A2G5QHXNL6VG7E
+review/profileName: Possum-Bread
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333670400
+review/summary: CRUNCHIES IS DISAPPOINTING
+review/text: I've tried almost all low calorie freeze-dried pineapple snacks out there. This snack says it's made in the USA, while most others are imported.  One 1.5 ounce package has 150 calories, which makes it about average on the calorie scale.  "Crunchies" freeze-dried pineapple snacks are not chips, like other freeze-dried pineapple snacks.  "Crunchies" are chunks of freeze-dried pineapple shaped like canned pineapple chunks you buy at the store.  The consistency is very good and it is definitely crunchy.  But to me, the flavor was a little bit off.  I mean it didn't taste like natural pineapple.  The package states that the only ingredient is "pineapple," so I can't figure out why the taste is slightly off.  I opened a second package and tried it, but it was the same.  A third package was the same.  I will not be buying this product again.  If you are looking for a tasty freeze-dried pineapple snack, I recommend "Funky Monkey" or "Crunchy N Yummy" which are both sold by Amazon.
+
+product/productId: B000EDGB7E
+review/userId: A31S7TVNV1HXEX
+review/profileName: Amazolic
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1333584000
+review/summary: you're lucky if you get all the fruits mentioned
+review/text: besides purchasing this at the groceries, i ordered twice on Amazon hoping that this product would improve. there is an unequal amount of fruit distributed in each package. out of the six packages only one actually contained mangoes. also, there must literally be only 5 chips of bananas in each package and i have already gone through about 20 by now. the strawberry chips easily get pulverized so if you think you are missing them in your pack, they may already be turned into dust at the bottom.<br /><br />now why, oh why do i still buy them (at the grocery)? my toddler likes the banana chips and mangoes (we now buy the mangoes separately which is another hit and miss on quality). what doesn't get eaten by the little one gets thrown into my breakfast cereal or oatmeal so nothing goes to waste. so for that i'm giving it 3 stars.
+
+product/productId: B000EDGB7E
+review/userId: A2MON93WGI65TX
+review/profileName: Gracie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328400000
+review/summary: Love this product!!
+review/text: This pineapples are the bomb.  I eat the whole bag each time, they are really good. I would order them again.
+
+product/productId: B000EDGB7E
+review/userId: AN167XSNPZNF1
+review/profileName: Mrs. Phantom O "OG"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: Great!
+review/text: Yummy, healthy fun snack.  Great whether you eat them right out of the bag or put them in cereal, yogurt whatever.  Highly recommend.
+
+product/productId: B000EDGB7E
+review/userId: A2QYCKDLBJEIKY
+review/profileName: Christina A. Coles "CColes"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323216000
+review/summary: Crunchies are the best
+review/text: Great seller with fast shipping.  My kids love crunchies as they finish bags as soon as they are open.  It's nice to have a place to get them a little bit cheaper :)
+
+product/productId: B000EDGB7E
+review/userId: A2C9XE9I8RSKNX
+review/profileName: J. Johnson
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321660800
+review/summary: Unique mix of crunchy dried fruit
+review/text: Unlike the usual 'leathery' dried fruit, these freeze dried fruits are crispy.  All have excellent flavor, and are great for diabetic meal plans.  Some of the fruit is very fragile, and becomes powdery- however, the majority keep their shape.  Excellent, healthy snack :)<br /><br />Update:  For Pears...  (my review of the mixed fruit came up for this, so have to add, not do an individual review)<br /><br />The pears are good- but not as crispy as the other flavors. There are only 20 calories per package, so fit into a diabetic meal plan quite nicely.  They also have a gram of fiber per package (good for a 20 calorie item).  The pear flavor isn't really strong 'pear', but they're good. I can see reordering them again.
+
+product/productId: B000EDGB7E
+review/userId: A3TDFR2VPN5XN1
+review/profileName: rcg
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318032000
+review/summary: Crunchies are amazing
+review/text: If I could only find these locally.  An excellent snack with 0 fat and very few carbohydrates. They are a bit pricey but seem worth your money.
+
+product/productId: B000EDGB7E
+review/userId: A2RI33X0L14AG4
+review/profileName: Cat
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1306540800
+review/summary: Not consistant
+review/text: I have had freezed dried blueberries before so I had an expectation. Some of them were crunchy(like they should be) and others were the consistancy of styrofoam. More were of the chewy foam type. I would not purchase these again.
+
+product/productId: B000EDGB7E
+review/userId: A1XQMQMF07QZQS
+review/profileName: GalCalif "Visit my Amazon Profile page!"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1304294400
+review/summary: Tasty but skins separate from berries to make blue powder
+review/text: These were decent, but a lot of the blue skins of the blueberries were just blue powder in the package after they came of the berries and got crunched up during shipping etc. They were nice and crunchy with decent flavor for freeze dried berries.
+
+product/productId: B000EDGB7E
+review/userId: ALVPTZUWY8N36
+review/profileName: Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299801600
+review/summary: Awesome healthy snack!
+review/text: I like these so much I enrolled in the Subscribe & Save over a year ago.  It is not the cheapest snack, but I save money by ordering these in bulk through Amazon rather than buying these from my local grocery store.  There are no artificial ingredients or added sugars; this is just fruit.  Yet, this is a great portable snack that will not go bad sitting in your car, or your child's backpack.  I usually keep a supply in my car to satisfy my huger while driving home from work.<br /><br />I completely disagree with the serving size listed on the package.  It claims five servings per bag.  But, if you're eating these as a snack, you'll only get one serving out of a package, maybe two servings if it's for a child.  If you're using this on top of cereal or yogurt, then of course it will last much longer.  When the bag is empty, you'll find a bunch of fruit powder left at the bottom.  Don't throw it away, this makes a great topping for yogurt.<br /><br />This snack is not for everyone.  My kids and I love them, but my husband can't stand them.  These are not the consistency of other dried fruits, like raisins.  These are crunchy, just as the name implies.  You can happily crunch them like potato chips, or to make them last longer, eat one at a time, and let them slowly dissolve in your mouth, like a sugar cube.  Sweet without the guilt.
+
+product/productId: B000EDGB7E
+review/userId: A1OFJ1R8TW3S02
+review/profileName: L. Moses
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1297814400
+review/summary: Great take anywhere snack
+review/text: These are so good, and worth the money.  Everyone in your family will love this.  Good alternative to chips, or other snacky junk food.
+
+product/productId: B000EDGB7E
+review/userId: A870IMXMIGAC6
+review/profileName: John Boxleiter "John"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288828800
+review/summary: LOVE THESE! Very crunchy and tasty. Great for toddlers.
+review/text: We just ordered the "Very Berry" and the "Tropical Fruit" arrived in the same box.<br /><br />Berry - Not crunchy at all. Almost tasted stale. Very broken up pieces.<br />Tropical - We loved! They were crunchy. This also had strawberries in it and they were crunchy. Also these fruit pieces were a nice size, didn't get pulverized in shipping.
+
+product/productId: B000EDGB7E
+review/userId: A11LWA17XHHZ1B
+review/profileName: Randy Cassingham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1248739200
+review/summary: Best of the Crunchies Fruits
+review/text: I've tried all of the Crunchies fruits, and these are even better than the strawberries -- which is what attracted me to the brand in the first place. No negatives (even the price is decent), though I'd love to see more fruits in their line-up, such as pears and peaches -- and citrus if they come out well from the process. Highly recommended.
+
+product/productId: B000EDGB7E
+review/userId: A1VQE409H7IYVI
+review/profileName: April Larson "&#34;Muscle Mom&#34;"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1240617600
+review/summary: good for kids
+review/text: These snacks are great for kids.  My three year old is very picky, and he loves them.  They are easily portable, since the bag is resealable.  I like the fact that there are no additives, it's just fruit.  Highly recommend them to all.
+
+product/productId: B000EDGB7E
+review/userId: AQM6DLVRR3G39
+review/profileName: Drew "Drew"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1240617600
+review/summary: Crunchies Freeze-dried Tropical Fruit
+review/text: I think this product is very good.  I have had some better freeze dried fruit.  I would prefer if the pieces were bigger, but other than that it is a could product.
+
+product/productId: B000EDGB7E
+review/userId: A2AOURZDWSJBAU
+review/profileName: Spirit "Happy Princess"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1238371200
+review/summary: Delicious!
+review/text: Light as air - not packed with sugar like some dried fruits.<br />Taste wonderful!<br />Between my husband & I, these went really quick!
+
+product/productId: B000EDGB7E
+review/userId: A1G6SR27YE9WMO
+review/profileName: J. Brewer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1235347200
+review/summary: We love these
+review/text: Just got them today and they are a hit with the whole family.  An excellent snack choice for children.  I think the flavor is just right.
+
+product/productId: B000EDGB7E
+review/userId: A3W1ZA5JQVT33G
+review/profileName: a reviewer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229731200
+review/summary: Kids love them, so do we
+review/text: These used to come as small cubes, they were delicious and the kids loved them. They now come as dry mango slices, the kids still love them. Ok, I eat them too. I think the previous formulation was slightly sweeter, and you could put it in cereal and the like, whereas the slices now are larger so you couldn't do that.<br /><br />Not quite sure why they reformulated them - they appear to have been out of stock for quite a while, and then when they were back in stock they are different. However, still good and still worth purchasing as a healthy snack.
+
+product/productId: B000EDGB7E
+review/userId: A2UN71CBI50X0E
+review/profileName: Jean "911Boss"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1199664000
+review/summary: Great snack!
+review/text: These are light-weight so they are easy to pack around, plus they taste GREAT.  They are sweet and "mouth melty" with all the calories being nice natural ones. My 23-yr old son got a box (6 packs) of these for Christmas and is anxious to find another occasion where he can ask for them again.  Plus, buying them this way is far cheaper than a pack at a time from the convenience store!
+
+product/productId: B000EDGB7E
+review/userId: A2KBWDAGU982S0
+review/profileName: Karen L. Perry "Karen L Perry"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1165363200
+review/summary: Delicious...and low calorie
+review/text: I recently tried a couple of varieties of Crunchies and was very pleased with both.  The pineapple has a great light crunchy texture and is very low in calories, a no-guilt snack.  The price is a little high but it's worth spending a little extra on your health.
+
+product/productId: B000EDGB7E
+review/userId: A1NK2SF59YKURD
+review/profileName: daidai
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1271980800
+review/summary: Freeze dried
+review/text: I purchased these because I was curious to what all the different fruits would taste freeze-dried.  I realized that I'm not such a big fan of it because of the sudden transition from crunch to mush in the mouth.  I would rather have actual fruit that retain the crunchiness for me to enjoy as a snack.  However, I think these would be really good to mix into your morning cereal, both dry and with liquid, hot or cold.<br /><br />Half of these packages had a considerable amount of powder at the bottom...so I'm thinking I lost about 10% of the 1.5 oz of product.
+
+product/productId: B000EDGB7E
+review/userId: A1A18VVTDWDK9A
+review/profileName: Shopaholic
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1163203200
+review/summary: Not tasty
+review/text: I thought this would be a great-tasting, healthy snack after reading the reviews. Mine arrived safely and crunchy, unlike the other reviewer who got a bad batch. However, they were not sweet and tasty. My sister described it as tasting like cardboard. Now I have 5 whole bags I don't know what to do with. Maybe I'll put in a recipe and hope it turns out better. If you can, I'd recommend try before you buy.
+
+product/productId: B000EDGB7E
+review/userId: A2BJJG9KAI6JW6
+review/profileName: A. Sprague
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1202688000
+review/summary: Not what I expected
+review/text: Not what I was expecting and will not order again. I was looking for dried fruit. This product was powdery and what wasn't was hard.
+
+product/productId: B000EDGB7E
+review/userId: A3HHYHVG9XJ58Z
+review/profileName: C. Wong "cwong85"
+review/helpfulness: 1/14
+review/score: 1.0
+review/time: 1156032000
+review/summary: Never got them
+review/text: A little disappointed with Amazon here because although they advertise them, never got them and have received messages about delays three times so cancelled the order.  I would have liked to try them.  I usually love Amazon for just about EVERYTHING - and the shipping is absolutely wonderful - but not in this case.  :-(
+
+product/productId: B001EQ4HU8
+review/userId: A78FREUAJ4FEL
+review/profileName: R. Perigard
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1255392000
+review/summary: The best way to buy this product
+review/text: If you like this iced tea, this is the best way to buy it.  The grocery stores in our area only sell it in the small tube of 4 or five units at some ridiculous price.  Since we drink it constantly, this is the most economical way to get it.
+
+product/productId: B001EQ4HU8
+review/userId: A4OM5DL6PPDQC
+review/profileName: Time Traveler
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1261008000
+review/summary: Excellent Value
+review/text: If you like this tea --- this bulk buy is a great value. As far as my review of the tea -- great tasting, zero calorie iced tea!
+
+product/productId: B001EQ4HU8
+review/userId: AM3AUG3WJ4U07
+review/profileName: D. Haggerty "WWII history buff"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1268265600
+review/summary: Crystal Lite
+review/text: Excellent product, better than the tubes they now sell.  Much better quality of tea.
+
+product/productId: B001EQ4HU8
+review/userId: A2M1CTT1G971NQ
+review/profileName: Donald R. Tjossem "Longbranch Trading Company"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1264550400
+review/summary: Crystal Light
+review/text: If you like Crystal Light Ice Tea this is the best way, economically, to purchase it!
+
+product/productId: B001EQ4HU8
+review/userId: AKEP7ZDP9DWWA
+review/profileName: Richard Cranium
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348444800
+review/summary: Good price
+review/text: Ever since starting my diet/change of life a couple years ago, I started cutting out sugar drinks, and substitution with Crystal Light.  I dring a gallon a day, and it cuts down on unneccessary calories.  Prices on this is all over the place, but for me, this is the cheapest and the EXACT same as anything you would buy anywhere else.
+
+product/productId: B001EQ4HU8
+review/userId: A31G9FSIZIHPGK
+review/profileName: M. Newmark "avid reader"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1333843200
+review/summary: Cloying
+review/text: I thought I'd try this flavor because I'd loved the peach flavor. This flavor tasted artificial, left an aftertaste, and didn't quench my thirst. I'm donating the remaining boxes to a food pantry.
+
+product/productId: B001EQ4HU8
+review/userId: A1JZR4ENXPMUDW
+review/profileName: Mallary Tytel "entrepreneur"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1306108800
+review/summary: Great service, fine product
+review/text: Have been drinking Crystal Light Ice Tea for years. I find it refreshing, tasty and "light."  It is my beverage of choice.
+
+product/productId: B001EQ4HU8
+review/userId: AQ5JDBXICB18J
+review/profileName: R. Culp
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294012800
+review/summary: Great Stuff !!!
+review/text: I really like this Iced Tea mix. I mix it stronger than it recommends though. It's the 2nd time I ordered this product and I will order it again when neeeded.
+
+product/productId: B000BI7OGE
+review/userId: A2UGD2MTZC2D93
+review/profileName: Kurt W. Schsuter
+review/helpfulness: 0/6
+review/score: 1.0
+review/time: 1268784000
+review/summary: WTF
+review/text: These are not pods!!  They are proprietary plastic filters with coffee in them.  I've been robbed!
+
+product/productId: B003BLGCCA
+review/userId: A14P4Z86B0KLYQ
+review/profileName: K. Wolfe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329609600
+review/summary: Yum yum yum
+review/text: I love these things so much.  The best way to eat them is to put them in the freezer and take  them out when they are no longer clear.
+
+product/productId: B0044R3GEW
+review/userId: ARO6MLHXJWY9S
+review/profileName: Linda A. Jenkins
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343174400
+review/summary: A Great Tasting Aloe Vera Drink!
+review/text: I have tested most other Aloe Vera Drinks offered by Amazon as I am seeking out a great beverage to enjoy with or without a meal that would also be good for your stomach and its digestive properties. I love the taste; its not as watery in taste like the ''Alo'' drinks; there is more pulp and real juice in it. In my opinion, the the ''Fremo'' brand named Aloe Vera Drinks are the best for pure fruit taste and the most Aloe Vera Pulp you can find, but they are no longer offered on Amazon after being sold out!:( This brand comes second place and the ''Alo'' brand is a third place runner. I recommended this drink to others and they love it too.
+
+product/productId: B000C51JMG
+review/userId: A2BB0QBXSC5AK8
+review/profileName: cd "cd"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1273708800
+review/summary: Great!!!
+review/text: After bought the bean, I have been enjoying the home made Vanila Soufle almost every day with more flavor but at less cost.
+
+product/productId: B0025UOKAY
+review/userId: A2AVTJPQVX4OWG
+review/profileName: twistednlove
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347494400
+review/summary: good product, BUT.....
+review/text: this a great product. the shipping on the other hand is really bad. out the 200 packs i can only use 170. 30 of the packs were squashed so bad, the entire box was sticky. had to find a new storage box.
+
+product/productId: B0014GN1NM
+review/userId: A3M174IC0VXOS2
+review/profileName: Gail Cooke
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1244592000
+review/summary: A WELL REMEMBERED SWEET
+review/text: While I well remember the Bit-O-Honey bars - maybe five or six segments neatly divided by wax paper strips?  It really is much easier to have the bits when there are youngsters around.<br /><br />  The taste is as sweet now as it was then, and I readily confess to having my hand in the jar now and again.  A bite of this brings back all sort of happy memories - Saturday matinees, trick-or-treating, etc.<br /><br />  Delighted that these favorites are still available!
+
+product/productId: B0014GN1NM
+review/userId: A6IC0EZ95IFPW
+review/profileName: Marge
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314835200
+review/summary: YUMMY!!!!
+review/text: If you like bit-o-honey.....this is the only way to go.  Huge jar that keeps everything.  Also keeps  it all together so its not spilling all over the place like out of an open bag.  I would reccommend it to everyone.
+
+product/productId: B0014GN1NM
+review/userId: A3CHAL9638CBJI
+review/profileName: Jennifer Lee
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1273449600
+review/summary: Extremely dissapointed
+review/text: I was very skeptical when I ordered this as I don't usually order any type of food from this kind of site.  I should have listen to my initial instinct.  The candy arrived and it was basically unedible. I could not even chew it.  It was hard as a rock.  It felt like trying to chomp through a jawbreaker.  I even put them in the microwave in hopes that it would melt a bit so that I can chew them.  No avail.  In order to get it soft enough to chew they were completely melted and too sticky to eat.  I tried numerous times in the microwave to try and get the right setting but it just became too much work and not worth it in the end.  I sooo wanted to loooove these as they were my favorite candy growing up.<br /><br />I did give it two stars ONLY based on the quick delivery.
+
+product/productId: B0014GN1NM
+review/userId: ALHPVLM8GEHXT
+review/profileName: Mima "Mima"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1266364800
+review/summary: Bit O Honey
+review/text: Item was a gift for someone.  Arrived on time.  Only reason I gave them 4 stars is because they did not specify that the "container" was plastic.  I thought it would be glass.
+
+product/productId: B0017SWMF0
+review/userId: A22KNPVJXQ2KYE
+review/profileName: Anna in NYC
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1217203200
+review/summary: Delicious, relatively healthy alternative to chips!
+review/text: These are fantastic.  They taste kind of like Munchos (remember those?) but with only 100 calories and one gram of fat for a full, completely-satisfying-sized bag.  They take care of my potato chip / salt craving no problem, and seriously rival regular chips -- none of that fake, baked chip texture or the gastro problems that come with fat free chips.  Highly recommended for dieters or if you're just looking to eat a little more healthily.
+
+product/productId: B0017SWMF0
+review/userId: A3JASNBAMAJPJ
+review/profileName: RNaturalDoc
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1304467200
+review/summary: Glenny's Spud Delites
+review/text: I love these chips.  Not only are they gluten-free, but they help me stay on my Weight-Watchers Points Plus program, too.  I can enjoy a whole bag of potato chips, get that crunchy craving satisfied while not feeling deprived or guilty.  Sometimes I wish they were a little saltier, but that's not a big problem.  I just add a little sea salt when that happens.  Most of the time, they are just perfect!  I have reordered these repeatedly since I was first introduced to them earlier this year.  What a find!  (I have also ordered directly from Glenny's website.  Amazon often beats the price with super-saver shipping, though.)
+
+product/productId: B0017SWMF0
+review/userId: A320HUHXY3JBAS
+review/profileName: luvtoshop
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343260800
+review/summary: light and crunchy
+review/text: This product is as good or better than regular potato chips at only 100 calories and reduced fat.  I wish it were not out of stock now.
+
+product/productId: B0017SWMF0
+review/userId: A3C1F5VEOQC953
+review/profileName: Edna L. ORourke "woody"
+review/helpfulness: 1/4
+review/score: 5.0
+review/time: 1264982400
+review/summary: Excellent
+review/text: I love the Spud delites.<br />I am looking for a deal on FREE SHIPPING. When I bought them the first time they gave me a deal on S&S with a certain dollar amount of purchase.<br />Edna<br />saltaire59@verizon.net
+
+product/productId: B000WH9LSI
+review/userId: A2OAYIM13WIXCH
+review/profileName: Mary D. Haper "Gramma to 3 boys"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1232496000
+review/summary: Soynuts
+review/text: My husband loves these on his salads.  I keep them in our freezer and they last a long time.  I don't like them, I just don't like the flavor or the crunch.  But he is sold on them.  One bag came torn open, so I think the cellophane could be slightly better quality or maybe improve quality control when bags are shipped.
+
+product/productId: B000WH9LSI
+review/userId: AUJEH10IYDHEG
+review/profileName: AmazonFan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301184000
+review/summary: These soynuts are exactly what I wanted
+review/text: Roasted, unsalted soy nuts are not the most delicious snack. So before you buy 12, 9 oz packages, you should try a small quantity at your local health food store or asian grocer. If you know you want roasted, unsalted soy nuts, Amazon's offering from the Bergen Nut Company is an excellent source and good price. When I open a package, I transfer them to a tupperware container for easy snacking while I sit at my computer when working. It's a healthier alternative to satisfy a craving to munch.
+
+product/productId: B000WH9LSI
+review/userId: A9YE63XDKJ1HD
+review/profileName: The President "of the United States of America"
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1222732800
+review/summary: Thought I liked soy nuts
+review/text: but, I dont. Surely the salted version would have been more palitable .. but even then, this stuff is dry. I dont know what type of soynuts I've had in the past .. but these definitely dont compare. My quest continues.
+
+product/productId: B0077CXPVA
+review/userId: A7LE0MJ2FOEEF
+review/profileName: jazzielife
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334966400
+review/summary: Mini Crisps - Aged Parmesan by Kitchen Table (Pack of 4)
+review/text: These are excellent as a snack if you are on a low carb diet and you like aged parmesan cheese. They are extremely expensive at over $7 per pack though. I like them but not enough to continue to pay the price per package. These can easily be made at home!<br /><br />If you don't mind paying over $7 per pkg, they are excellent!
+
+product/productId: B000VJO19G
+review/userId: A1PI8VBCXXSGC7
+review/profileName: Lynn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281312000
+review/summary: A family favorite!
+review/text: The first time I tried  Barilla Ricotta & Spinach Tortellini, I was hooked on them.  These are very good.  I'm having trouble finding them on the store shelf in my area and am happy to see that I can order them online.  I have also purchased Barilla Tortellini Filled with Cheese & Spinach when I wasn't able to find the Ricotta & Spinach flavor. They taste very similar; I prefer the ricotta & spinach flavor. My family can't tell any difference.  We like to eat them with spaghetti sauce.  My daughter & I eat them in chef salads & I've been known to eat them as leftovers, cold, right out of the refrigerator.
+
+product/productId: B001SAUXI0
+review/userId: A1UQBFCERIP7VJ
+review/profileName: Margaret Picky
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1264809600
+review/summary: The preferred salt for kitchen and table.
+review/text: Except for baking, Morton Coarse Kosher Salt is what I use in the kitchen and at the table. I prefer pure, plain salt to the somewhat muddled flavor of sea salt.  Table salt is much finer so it is harder to pinch and distribute evenly on a finished dish.<br /><br />This coarse, flaked salt is also necessary for topping pretzels and margaritas and making pickles. It is also especially nice topping whole grain loaves and on meat, poultry or baked potatoes. If you have a French recipe calling for "gros sel" something of this nature is what is intended. A nice gift that is easy to make using this salt is pickled lemons, which are very useful in Mediterranean dishes.<br /><br />Note that this salt is less dense than regular table salt. The label indicates to add 1 tablespoon per quarter cup if the recipe calls for table salt.
+
+product/productId: B001SAUXI0
+review/userId: A14CUHECF4B9N9
+review/profileName: Stellarg
+review/helpfulness: 4/5
+review/score: 3.0
+review/time: 1274313600
+review/summary: Oy...Salty Price
+review/text: At $30 plus $23 shipping is a bit more than I typically pay ($1.99) at the local market.  Must be aware of pricing before buying anything here.
+
+product/productId: B003JYMJ44
+review/userId: A18MSI7L3O2AVG
+review/profileName: GMac "GM _ mom of three"
+review/helpfulness: 6/7
+review/score: 4.0
+review/time: 1301529600
+review/summary: Go Picnic was a hit, but...
+review/text: Go Picnic was a hit, but the package came with a snack bag with PEANUTS. I thought it was peanut free, gluten free... YIKES! So grateful my daughter can read & is responsible to read ingredients of everything new she eats. Something to be careful of if you are buying for children with NUT allergies as well.<br /><br />Other than that, she has enjoyed other items in her TREAT box.<br /><br />My Daughters quote "it was tasty"
+
+product/productId: B003JYMJ44
+review/userId: A281NPSIMI1C2R
+review/profileName: Rebecca of Amazon "The Rebecca Review"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1302048000
+review/summary: Yummy! Fun Snacks for Kids or Adults Too
+review/text: I must still be a kid at heart because I eagerly awaited this GoPicnic Kid's Fun Food package. I had tried one of the adult snack boxes and loved it so I knew I would probably love other food packages too. In this box you get quite a few tasty snacks (all gluten-free) which include:<br /><br />Pop Chips - Deliciously crunchy chips that are neither fried or baked. They are salted perfectly and are not greasy or dry. The 3-ounce bag is big enough to share. These chips do no contain any preservatives, artificial flavors, colors, saturated fat, trans fat or gluten.<br /><br />Old Wisconsin Turkey Sausage - These tasty snack bites are meaty and delicious and taste lean.<br /><br />Enjoy Life Chewy Bars - These are chewy and crunchy with a hit of berry flavor. They are made in a nut- and gluten-free bakery. They contain no wheat, no dairy, no peanuts, no tree nuts, no egg, no soy, no fish or shellfish. They are also made without casein, potato, sesame and sulfites. These make a good snack or a good breakfast on the run.<br /><br />All Natural Sunflower Crunch - This is the tastiest treat in the box. These crunchy treats are made with sunflower seeds, sesame seeds, rice malt, cane juice and sea salt.<br /><br />Surf Sweets - Love gummy bears but not all the sugar? These gummy bears are made with organic fruit juice, fortified with vitamin C and have all-natural colors and flavorings. There are three small bags.<br /><br />GoPicnic ready-to-eat meals: Turkey stick and crunch - This is a box of five items which include an Old Wisconsin turkey snack stick, barbecue potato chips, Mariani dried apricots, Baja Blend fruit and nut mix and a piece of organic dark chocolate. If your kids are allergic to peanuts just take out the Baja Blend fruit and nut mix. It has almonds, peanuts, mango and cranberries. What a great combination.<br /><br />I can think of so many reasons to buy a box of these snacks. You might want one box per kid for when you go on a family vacation or it would be fun to have a few boxes for a movie night. This would also be the perfect snack box to send with the kids if they go camping. The only thing that needs refrigeration is the turkey sausage but maybe just sharing the package would be the solution. You could also keep it in a cooler in the car on a road trip. Some of the treats in this box would also be fun for school lunches.<br /><br />Now I'm being honest when I say that these treats are going to be loved by adults too. This is my favorite GoPicnic box so far. Yes I did share some of my snacks with my husband who was as eager to try everything as I was. We will definitely buy this for hiking trips and picnics. I think this is a great deal for twenty dollars! So convenient and yummy too!<br /><br />~The Rebecca Review
+
+product/productId: B003JYMJ44
+review/userId: A2N84PWZLT4CDB
+review/profileName: EmmersMom
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1303862400
+review/summary: On the go!
+review/text: This was a great purchase for our car trip! It was great to have a variety of healthier snacks to grab instead of whatever junk we found at gas stations along the way.  They came in a sturdy box that kept the contents from getting squished as they got tossed around in the car. We will be ordering more to have on hand for trips to the zoo too and things like that simply because it is so convenient and easy to store until you want to use it (unless the hubby finds them first)! Everything I got a chance to try was very tasty and apparently everything else was too because it all disappeared pretty quickly, luckily I came prepared with more than one!
+
+product/productId: B003JYMJ44
+review/userId: A214POB2583GYP
+review/profileName: shopper
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305331200
+review/summary: Great take along
+review/text: Purchased for a toddler with Celiac's that was going on a plane trip..was a life saver as the plane was delayed 8.5 hours with basically nothing he could eat. A little spendy but a very good assortment. Will purchase it again for camping trip.
+
+product/productId: B000KBD6NW
+review/userId: A1WSU7VHDE3QG2
+review/profileName: An Appliance & Healthfood Junkie
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1227744000
+review/summary: Absolutely wonderful tea
+review/text: I received a tin of this tea from my cousin who had brought it over from Germany. I have honestly never tasted a better tea, and the aroma is amazing. The most notable flavors are bergamot and vanilla, making this a very soothing tea with just the right amount of fruity flavor without tasting overly sweet. I love it on its own (no cream or sugar with this one!), but it pairs wonderfully with orange-laced chocolate. Really a wonderful tea - I'm thrilled I can get it on Amazon!
+
+product/productId: B000KBD6NW
+review/userId: A3F29YGDBOM51Z
+review/profileName: Fred Frencheese
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1318377600
+review/summary: Complex, very well blended
+review/text: This is a delicious black China tea blend presented in a beautiful, highly giftable tin box.<br /><br />This tea is available in 35 oz, 8.8oz, 4.4oz and tea bags; I usually get the 4.4oz tin as I am the only black tea lover in the house. One tin of 4.4 oz is enough for one large cup a day for ~3 months so I am guessing ~100 cups (I use a 1.5' mesh infuser).<br />As usual with Kusmi, the tin is beautiful, with raised flower details and old-fashioned design and colors.<br /><br />The blend is a glistening black tea with pieces of citrus peel.<br />The nose is reminiscent of a bergamot Earl Grey with spicier notes that I would describe as all-spice, nutmeg and even a hint of turmeric.<br />The mouth is smooth, low tannins, with beautiful layered flavors of vanilla and soft spices and a savory-sweet finish.<br /><br />Kusmi recommend a brewing temperature of 85c to 90c (~185F to 195F) so make sure the water sits for a few moments after boiling before pouring over the tea. I usually like a rather long infusion time, maybe 5 to 7 minutes. I do not add anything to this tea but a sweetener would probably work if you like.<br /><br />To my knowledge, Prince Vladimir was one of Kusmi's first blend in the late 1800's and remain one of the most popular. I would highly recommend it to lovers of complex flavored black teas. In particular, if you already appreciate some higher-end bagged teas (Mighty Leaf Vanilla Bean or Orange Dulce?), I think you should give this superior blend a try.<br />Cheers!
+
+product/productId: B000KBD6NW
+review/userId: AP62QCAQIS3X3
+review/profileName: M. Seligson "&#34;book note&#34;"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291248000
+review/summary: So glad to find this!!!
+review/text: I first tasted this tea at the Russian Tea Room in NYC. I loved it then and have looked for it ever since. Bought this as a gift and hope the recipient shares my taste.Add orange peel and dried cherries to the cup for the ultimate experience.
+
+product/productId: B000KBD6NW
+review/userId: A13KSFPBEOUFSM
+review/profileName: reader cook
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206576000
+review/summary: Kusmi Prince Vladimir tea
+review/text: excellent aroma and taste. Good for a sit down in the afternoon and for after dinner. Pair with shortbread cookies for a quick snack.
+
+product/productId: B0042RKKFC
+review/userId: A260E0DW73W4FV
+review/profileName: kam13
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1335139200
+review/summary: Grease with truffle odor
+review/text: I love truffles, truffle salt, truffle butter... i knew what i wanted when i ordered this.  I recommend the white truffle butter igourmet carries, you can get that on amazon. This product doesn't really deserve the name. It smells like truffles. That's about it. I get no flavor at all, truffle, butter, or otherwise. the butter quality is very poor, i'd compare it more to margarine. really greasy and oily. you can see black flecks of truffle (or something), just no truffle flavor. i won't be ordering this again. the quest for truffle butter that isn't a 90 minute drive away or $20 shipping continues.
+
+product/productId: B0042RKKFC
+review/userId: A28NT70NKUJSKR
+review/profileName: CJ "MiniDiva"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1295481600
+review/summary: Beautiful flavor!
+review/text: I was skeptical about purchasing the black truffle butter at first because I could not find many reviews. I used the butter on my Thanksgiving turkey, and the result was nothing short of perfection! My turkey was moist and flavorful - simply delicious.  I also used this on a whole chicken with similar results. If you like the taste of truffles/mushrooms in your food, then this product is for you. The black truffle butter is my new pantry staple.
+
+product/productId: B0042RKKFC
+review/userId: A1P565QTJ7P3HN
+review/profileName: C. Hia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341878400
+review/summary: Cheap and not too bad
+review/text: I understand what the reviewer was concerned about. The aroma of the truffles definitely comes through. I used them on some pasta, pizza, and a couple of soups. It's decent, especially for the price tag.<br /><br />However, like the other reviewer said, the butter itself is not actually butter. It's under the category of margarine I think. It didn't bother me, because the way I was using it guess.
+
+product/productId: B0042RKKFC
+review/userId: A26Z3OT6E8U44C
+review/profileName: K. Ennis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331596800
+review/summary: Fantastic!
+review/text: This black truffle butter is perfection added to pasta with asparagus and a touch of parmesean.  I also use it atop bagels for a sinfully delicious breakfast.
+
+product/productId: B003U0TEJK
+review/userId: A2XPGNJ8YUPHM0
+review/profileName: H. Grove "Errant Dreams Reviews"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339632000
+review/summary: Once in a while, in the short term, works for cats too
+review/text: Note that I'm NOT recommending you feed your cat dog food on any kind of regular basis: the two types of animals need different kinds of foods and nutrients. However, at the time I was having trouble finding cat-specific dehydrated food that I thought my cats would tolerate, and this was the one dehydrated food I found that included a high amount of protein *and* added taurine, which cats need, so I decided to use it temporarily while I looked around more. The cats absolutely adored it. I've since found a cat-specific flavor from the same company, but I'll probably use a little of this now and then as variety (one of our cats gets bored with foods awfully quickly). The cats' coats look and feel shiny and healthy, and they definitely vomit less than when fed more mainstream foods. I also mixed it with some straight ground raw meat/organs/bone to make sure they were getting plenty of meat.
+
+product/productId: B003U0TEJK
+review/userId: A1ECV5ZX57U7J8
+review/profileName: l8rg8r
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1322956800
+review/summary: finally a food that settled my doggie's tummy, but recent price increase outrageous
+review/text: No matter how highly rated of a kibble we would get for our little shih tzu & yorkie mix, she would throw up about three times per week.  Once we switched to this raw dehydrated meal at the recommendation of some folks at a local pet store who have a pomeranian with a sensitive tummy, the problem was solved!  Even if she would get into something she was not supposed to, no vomiting, seemed to do miracles for her digestive track in general, so was very pleased!  Have also used the lamb formula, which we have had a great experience with, as well.  Also - she LOVES it!  To save money, we would buy the large 8 pound bag and I am very sad that the price has recently risen so drastically (Nov. of 2011 from $60 per bag to $75, BIG jump).  Because of the price increase, we had switched to Grandma Lucy's (Artisan freeze-dried), with equal success as far as no vomiting and her loving the food, but have switched back to Addiction because she was looking thin, as if the protein content was not enough.  I would recommend calling around to specialty feed stores in your area to find the absolute best price.
+
+product/productId: B0084H27SY
+review/userId: A259SAZLRFNTYK
+review/profileName: carisa baird
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343001600
+review/summary: best value
+review/text: I bought this to use on bird food (pellets) that I feed to the couple dozen birds and parrots I have rescued. This was the best value I found anywhere online, including S&H.
+
+product/productId: B005CGUT12
+review/userId: A33AQPJYH7UUXR
+review/profileName: Desert Gypsy "A Brooklyn Girl Out West"
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1323561600
+review/summary: and in not-so-blind taste testing, our consumer picked....,
+review/text: <span class="tiny"> Length:: 1:39 Mins<br /><br /></span>* this review was originally posted for the 3 oz size, a verified purchase by me on Amazon)<br /><br />I purchased three well reviewed brands of catnip for Tristan, my six month old Savannah cat. In the video, I have just placed down three plates of catnip from freshly opened packages. The brands from left to right are <a href="http://www.amazon.com/gp/product/B00028HN5A">Sojos Certified Organic Catnip</a>, in the middle is the product in this listing - Cosmic Catnip (this video review shows the 3oz jar), and on the far right we have <a href="http://www.amazon.com/gp/product/B001VNEII0">Frontier Catnip Leaf & Flower C/s Certified Organic, 16 Ounce Bag</a>.<br /><br />Like the little bear at Goldilock's table, Tristan tries a bit from each plate; at the end of this clip he seemed to have no *overwhelming* preference for any particular brand though. As far as his physical reactions to each (sampled separately), he did not act "stoned" nor hyper, he merely scratches on his scratch pad a bit more with catnip than without catnip and gives himself a good stretch. He also strongly prefers catnip infused mice to non-catnip mice and I'm happy to oblige.<br /><br />As far which *I* prefer, if it's all the same to the cat (and it seems that it is) here's my take on things -<br /><br />The Frontier brand is by far the least expensive at just under fifteen dollars for 16oz. It is slightly more coarse and seems to have a little bit of stems mixed in. VERY fragrant though and turned out to be a close second favorite of the cat reviewing the products. I would definitely buy the Frontier brand again and use it for stuffing toys generously or for "marinating" his little cloth mice. Organic and suitable even for human consumption if you like it as a tea.<br /><br />The Sojos brand (1oz can) is the most expensive - by my calculations comes to over a hundred dollars for 16oz!. The description says it produces a "harmless, euphoric state" but we saw no evidence of that. Smelled fresh but definitely a milder aroma than the other two brands; had the finest chopped leaves of the three. Hand harvested if that is important you or your cat.<br /><br />With the Cosmic Cat brand, we *may* have a winner.....<br /><br />When the camera was off, Tristan returned to the Cosmic Cat sample several times more so than the other brands. I repeated this little taste test for the next two days and Cosmic Cat had a small but definite edge over the competition. I'd have to say that I agree with his choice; the Cosmic Cat brand leaves are darker and more fragrant than the other two brands. The leaves are also cut just right - not too fine/not too large, and no stems or coarse pieces. I find the Cosmic Cat brand's price reasonable, the storage container is very convenient, and the 3oz* size is enough not to be too little and not so much to get stale and spoil.<br /><br />Hope you find this information useful in choosing for your own cat or kitten.
+
+product/productId: B005CGUT12
+review/userId: A1UZC65T2JUA7D
+review/profileName: Angela Calcaterra
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1326931200
+review/summary: Cosmic is the best catnip
+review/text: Not all cats love catnip, but every one I've ever had (seven) have.  When I've bought other brands of catnip in the past, though, they ignored it.  Cosmic is different.  They go wild, even more than they do when I have grown catnip indoors for them.
+
+product/productId: B005CGUT12
+review/userId: A52Y39SZ0HMRX
+review/profileName: Ezlypist
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1345593600
+review/summary: only catnip my cat will respond to
+review/text: I've bought catnip a couple times before (even grew some) for my Crazy CocoBean but he's ignored it all. Thought it was him (he doesn't like fish flavor either). Then I saw reviews for this stuff and thought I'd try...rather, I'd let him try. Well, He LOVES it. plays like the stoned out cat I was hoping for. Wonder what makes this stuff so special? Thought catnip was catnip. Guess I was wrong.
+
+product/productId: B005CGUT12
+review/userId: A30LZPCJEE1Y8E
+review/profileName: Teresa in VA
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1345161600
+review/summary: Crazy kitty!
+review/text: A review from my cat Romeo: "Well folks, this has to be my favorite catnip! My mommy buys me cat nip all the time, but this one makes me absolutely CRAZY! It comes sealed in a little jar and every-time I see her take it out of the drawer, I lose my mind...it's playtime! You have to get this one for your kitty(s), they will be so happy and they will love you forever!" Romeo
+
+product/productId: B005CGUT12
+review/userId: A1VAYX73J2A57Q
+review/profileName: edwardmehler
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343779200
+review/summary: It does work
+review/text: Great product. Too put in-n-on area you want your cat to go, climb, sleep...etc. You can rub on toys to get your cat back into playing with again. Cheaper than buying new toys. Just keep in a air tight container, they can't chew though. OR in a place they can't reach. Warning original container not cat proof. Found that out the hard way. Coming home too 2 wack out cats. Cats will keep on chewing on container till they get in. Great product.
+
+product/productId: B005CGUT12
+review/userId: AO0ITBH62DMKB
+review/profileName: J. Herbold "Four in So Cal"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337212800
+review/summary: My cat LOVES it!
+review/text: My cat loves this catnip. He rolls around in it, eats it and is one happy cat!  This is a generous sized container of catnip. A good buy!
+
+product/productId: B005CGUT12
+review/userId: AMK0PVYQQGKXV
+review/profileName: Alicia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332633600
+review/summary: BEST CATNIP EVER!
+review/text: we joke in my house and call this stuff "cracknip" because our cat will do anything for it. He knows which cabinet it's stored in and will meow and bug everyone who walks anywhere near the cabinet until he gets some.  I've had my cat for 8 years and he has never shown interest in catnip no matter what kind it is.  I saw an offer for a free sample of this and had to order some the same day my sample came due to the amazing reaction from my lazy old cat.  I will be buying more when this container gets low.  great stuff, great price!
+
+product/productId: B000UGERVW
+review/userId: A1XLRO58VPVR5N
+review/profileName: Carl "Carl"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1328745600
+review/summary: Even the stray cats won't eat them
+review/text: I offered these to my cat, but she wouldn't touch them. She loves other treats. She even gets excited when I feed her ordinary kibble by hand. But these she sniffed, licked once and then completely ignored. Have a whole bag left, I offered them to one of the stray cats that lives near my house. He also refused to eat them.
+

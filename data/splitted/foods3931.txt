@@ -1,0 +1,1143 @@
+product/productId: B008YA1AVG
+review/userId: A3UXFJWVJ9MD5W
+review/profileName: Dr. Susan Fowler
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330819200
+review/summary: Donut Shop Decaf...
+review/text: Excellent coffee and fills my need for decaf after 3pm!!! I love my Keurig coffee maker for the ability to have so many selections at hand....
+
+product/productId: B00279XBJY
+review/userId: A3SI7BFNPLSTTC
+review/profileName: christinarmcl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326326400
+review/summary: Excellent Jasmine Green Tea
+review/text: I love the scent and flavor of this tea.  I have moved away from a city where my favorite tea shop sold only natural, hand-blended teas; their version of jasmine green contained dried jasmine petals and was a little more fragrant. What I appreciated about that blend was the subtlety of the green tea and that the jasmine was "front & center" in both flavor and aroma.  Tea Nation's version is the closest I've found so far.
+
+product/productId: B00279XBJY
+review/userId: A1260GRZDL3KKT
+review/profileName: sjusto
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1325548800
+review/summary: tastes awful
+review/text: I am a huge fan of Jasmine Green tea but this one is just plain awful. it tastes like if they would have just spilled a bottle of cheap women's perfume all over the green tea bags. the smell is totally artificial and so is the taste. would not recommend to anyone unless you like the idea of drinking perfume!!
+
+product/productId: B005GXHEIC
+review/userId: A2SZWFJX0783BF
+review/profileName: Willow
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340582400
+review/summary: Good if you need gluten-free
+review/text: While on a wheat-free trial diet for a month, I needed wheat pasta substitutes, and one kind of pasta I tried was this one from De Boles.<br /><br />This is my favorite shape of pasta.  This variety cooks up pretty fast, 5-7 minutes and it's great.  Because of the starch in the rice, it will boil over fast if you don't watch it!  You also need to rinse it with cold water after draining.  When this is done, it does not stick or clump up together.  It also doesn't turn hard or gummy.<br /><br />It does taste different than standard wheat pasta.  It has a brown rice flavor, and while it's not my favorite flavor in the world, it's tolerable.  I don't plan to buy this now that I'm back on wheat, but if you cannot have wheat or gluten, then it's a decent pasta.<br /><br />We had this brown rice pasta for mac -n cheese and for tuna noodle casserole.  In both you could taste the noodles' brown rice flavor, but the other flavors overpowered enough to compensate and the pasta didn't ruin the meal.<br /><br />Kids may find it disgusting, depending on how picky they are.<br /><br />I did not try this pasta with cold pasta salad, but it may not be half bad.
+
+product/productId: B000LEDTZ8
+review/userId: A25COOZVMUF9CU
+review/profileName: ikimeht
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1304035200
+review/summary: The dogs love em
+review/text: I have two dogs, a basset and a corgi, and they are total chewers. If they don't have something to chew on then they're running around the house like little mini-tornadoes. They don't like rawhide chips, get bored of unflavored bones, and are only occupied for ten to fifteen minutes with all other forms of chew toys.  Keeping them in flavored rawhide gets expensive.  These things are a great deal.  Big bones, flavors that make my dogs happy, and way less expensive than anything I could get at the local pet store.
+
+product/productId: B000LEDTZ8
+review/userId: A3UCRHY4XBXQPC
+review/profileName: Grammy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1296777600
+review/summary: Too big for my 4.5 lb. Yorkie!
+review/text: These are probably ok but supposedly I was ordering the "small" size ones and they are HUGE!  My Yorkie can't enjoy them at all.  Will give to my GrandDog.  Need to advertise these better!
+
+product/productId: B000LEDTZ8
+review/userId: A21CMJF8OPVA1V
+review/profileName: A. Haas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287187200
+review/summary: Keeps My Little Ones Occupied
+review/text: I bought the large size for my min pins because they last for days while they might chew up small sized rawhides in less than an hour.
+
+product/productId: B000LEDTZ8
+review/userId: A255CLQ6SNQ4ZB
+review/profileName: T. Travis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252713600
+review/summary: Great variety at a good price
+review/text: I ordered the small-sized bones for my miniature schnauzer.  He's not a big fan of the natural rawhide bones, so I decided to order a flavored variety pack.  What a success!  According to the package the flavors are hickory, beef, and chicken, and it comes with a mix of twelve bones and rolled rawhide.  The price isn't much better than a local pet store, but I would buy these bones again.<br /><br />Also, if you are concerned with the country of origin, these bones were made in Brazil.
+
+product/productId: B0048JFEYQ
+review/userId: A3K4TG9QKBQWRC
+review/profileName: Barry Helms "Rebel"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325289600
+review/summary: AWESOME!! CORN NUTS
+review/text: These corn nuts are awesome!!!  I like to buy in bulk so I don't have to order as soon. Since these are original CORN NUTS, I know what I am getting. I wish that they would process the orders faster.
+
+product/productId: B004T7YL6Y
+review/userId: A2SRZZOQHO8U1W
+review/profileName: L. B. Barbee
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341100800
+review/summary: Tastes Great, but not low carb for "nut chips"
+review/text: This sour cream flavored snack is a savory delight...but could use a boost in fiber and protein to offset the carbs.  It may appeal to the gluten free crowd, but is not a snack I can "afford" carb and calorie-wise, to make it a regular "go to" low carb snack for me or my family.
+
+product/productId: B004T7YL6Y
+review/userId: A2NUPOJ1768QCD
+review/profileName: Kathleen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336953600
+review/summary: AWESOME
+review/text: These chips are extremely tasty, very good snack! I wasn't sure I would like them but was pleasantly surprised.  I had the Sour Cream and Chive, they are out but I enjoyed them so much I think I will try another flavor.
+
+product/productId: B001QEB7Z6
+review/userId: A1LYZQDDYM3VKW
+review/profileName: kristina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294790400
+review/summary: yum!
+review/text: My 6 calico cats gobble this food with no hesitation.  The kibbles are triangular, thin and about 1/2" small. I like to feed them food with no artificial colors, fillers, preservatives, etc.  Too bad my first (7 of them!) cats died (of cancers) long before organic cat food (or even natural food) was available.<br />Great food.
+
+product/productId: B000HEC48A
+review/userId: A3E3SGPQZU9GL4
+review/profileName: Johanna M. Ohlsson "Johanna"
+review/helpfulness: 46/49
+review/score: 1.0
+review/time: 1209772800
+review/summary: These treats are dangerous
+review/text: These treats made my dog seriously ill with kidney failure.  We had been feeding our dogs these treats for months, then suddenly both our dogs became ill.  We almost lost our smaller dog, a Cavalier King Charles.  While the FDA is still investigating, these treats continue to be sold.  In our small town there were four cases diagnosed within one week, and our newspaper, the Longmont Times Call, ran a front page story on it.  Since then I've been contacted by people from across the US who have been affected, and we have created a web site dedicated to this issue: [...]
+
+product/productId: B000HEC48A
+review/userId: A34W07AM5VYEMJ
+review/profileName: Springfield "Desert Rat"
+review/helpfulness: 16/16
+review/score: 3.0
+review/time: 1208649600
+review/summary: Jerky Chicken
+review/text: All of my dogs LOVE this product, however, with the recent recall and problems that have occurred with this product and others just like it (different brand names) I am sorry to say that my dogs started to get sick when they would eat these. I contacted my vet who insisted that<br />I stop giving my dogs these treats immediately. She stated that these, and others, were on a recall due to a chemical that was used in China.  Yes, these are made in China and I did not know this until I received the product and after the vet brought it to my attention. If you can find this type of product, but NOT made in China, then it should be okay to give to you dog.  I am still looking for one that is not made in China, because my dogs truly did love this product to have as a treat.  Contact your vet before giving your dog any kind of treat like this.  I am now giving my dogs a jerkey duck treat, and so far so good.  None of them have gotten sick.  I am sadden by all of the problems we are having with our dog food and dog treats coming from China.  Now, when I shop, I DO NOT purchase anything made in China, only made in the USA.
+
+product/productId: B000HEC48A
+review/userId: A2NZB8G5YATW92
+review/profileName: John P. Wissel "YLabLOVER"
+review/helpfulness: 15/16
+review/score: 1.0
+review/time: 1225929600
+review/summary: MADE IN CHINA
+review/text: DON'T GET BURNED...2 of the 3 jars seals were broken when shipment arrived...i was so excited when my search for training treats for my new yellow lab came up with these, that i didn't realize they were made in china...i don't think these are returnable items...BEWARE
+
+product/productId: B000HEC48A
+review/userId: A3HYVPLENTF0P7
+review/profileName: J. McGoff "bookreader"
+review/helpfulness: 9/10
+review/score: 1.0
+review/time: 1234656000
+review/summary: make dogs sick
+review/text: my chihuahua mix has renal failure because of these treats.  Here is an FDA warning:<br />The Food and Drug Administration is cautioning consumers of a potential association between development of illness in dogs and the consumption of chicken jerky products also described as chicken tenders, strips or treats.  FDA has received more than 70 complaints involving more than 95 dogs that experienced illness that their owners associated with consumption of chicken jerky products.<br /><br />Please DO NOT GIVE THESE TO YOUR DOGS.<br /><br />I don't know if my dog is going to live.
+
+product/productId: B000HEC48A
+review/userId: A2V26HPH7P43S4
+review/profileName: Grouch92
+review/helpfulness: 3/3
+review/score: 1.0
+review/time: 1329436800
+review/summary: Made in China
+review/text: My vet has my dog on a very limited source of low fat treats due to her impaired fat metabolism.  She suggested chicken jerky, but specifically said to avoid those made in China due to all the contimination problems they've had.<br /><br />I searched here on Amazon for "chicken jerky" and one of the suggested searches that popped up was "chicken jerky dog treats made in usa." Great! I used that search and this was listed at #8 on the list. Nowhere in the product description did it say it wasn't made here.  I ordered it and was unpleasantly surprised to find "made in China" on the label, when it arrived.<br /><br />The FDA has several warnings out on dog chicken jerky treats made in China.  The latest ones were Nov. and Dec., so it's an ongoing  problem.  I never even opened the jar, as I didn't want to harm my dog.<br /><br />Had the country of origen been in the product description, I never would have ordered these.
+
+product/productId: B000HEC48A
+review/userId: A2K5YW25I0SI9T
+review/profileName: Jennifer Adams "doc rhetoric"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1234051200
+review/summary: Good product, but made in china so there are risks
+review/text: As far as I can tell, these chicken jerky strips are a good, natural product.  Even so, they do say clearly on the label that these are made in China, making them somewhat risky (because of the quiet jerky-poisoning cases of 2007).  Another concern - between Dec. 2008 and Feb. 2009, the costs of these went from about 11.00 to about 16.75 on amazon.  At that price, it becomes both safer and more cost effective to just make jerky yourself from USDA grade chicken!
+
+product/productId: B000HEC48A
+review/userId: A2GF1SEE0WRE4J
+review/profileName: Kerry
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1279756800
+review/summary: Dog got sick - throwing up
+review/text: Fed these to my 40 pound jack russell/beagle mix male dog.  He got sick and threw up.  He is a tank and can eat pretty much anything.  I had purchased them in 2007.  I put them away in my cupboard and then heard about the recall and never took them out till tonight.  I just wanted you to know that if your dog starts to vomit or not feel right, STOP FEEDING THE TREATS TO HIM.  Bag says PRODUCT OF CHINA.  And is one of the recalled items from PetSmart where I bought them.  Listen to your instincts and stop feeding him the treats at any sign of illness.
+
+product/productId: B000HEC48A
+review/userId: A59128KLN4BQK
+review/profileName: Madelene Caselli "Taarna"
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1254182400
+review/summary: Kio is dying..
+review/text: After reading the reviews, I searched the web and found info regarding this product.  I had been feeding my dogs this treat once in awhile.  After reading the very negative info on the Vet Medicine sites and several recall sites,  I chose to throw these away.<br /><br />Sadly, on Thursday, while I was out, one of my dogs, Kio, broke through the barrier where the trash was waiting for pick up and got into the bags.  He ate several pieces of these strips at one sitting.<br /><br />Today, Monday, he went to the vet with acute kidney failure.  He will die.<br /><br />DO YOUR HOMEWORK BEFORE YOU FEED THIS PRODUCT.<br /><br />I didn't and now my Kio will pay the horrible price.  Like the other poison food, it's made in China..even though it gives the impression it's American.<br /><br />Several stores have pulled this product and refuse to sell it.<br /><br />I THINK AMAZON SHOULD DO THE SAME THING.<br /><br />Amazon has a responsibility that includes not selling foods that kill our beloved pets...I know it's a money maker for them, but there's evidence that it might be a killer.  And it should NOT BE SOLD until the final verdict is is.
+
+product/productId: B000HEC48A
+review/userId: A1J2D6I9KJFOIP
+review/profileName: Norma Kay
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1329955200
+review/summary: Mis-represented product
+review/text: When I searched in Amazon for "chicken jerky treats made in USA" this product was listed. No where in the product discription did it mention the country of origin. I purchased this product in a smaller size from a local retailer and the package said "MADE IN USA" so I naturally assumed that the 20 ounce tub would be the same. What a surprize. When the package arrived I opened it and gave a piece to my dog, then I noticed that the label said "PRODUCT OF CHINA"! I cannot give this to my dog as it causes severe symptoms.<br />Either Amazon is misrepresenting the product as Made in USA or the manufacturer is. In either case, I have learned my lesson, NEVER BUY DOG TREATS FROM AMAZON.
+
+product/productId: B000HEC48A
+review/userId: AGM1CASKGMCUB
+review/profileName: R. Page
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1315699200
+review/summary: RECALL DANGER
+review/text: [...]<br /><br />Please check this out and DO NOT feed these to your pets.  Take them back to where you bought them and make them aware, MADE IN CHINA.
+
+product/productId: B000HEC48A
+review/userId: A2KSP2NXQD7Q6P
+review/profileName: K. COGGINS "DarnRedhead"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1277424000
+review/summary: Dogs LUV These
+review/text: My dogs (all 6 of them) absolutely LOVE these chicken strips! It is a guaranteed treat for any dog. The only drawback is when you order from Amazon, they wait 5 days before considering shipping your ordered item. So when you see "Free Shipping" count on 10 days before receiving your item. The dogs didn't care as long as they got their chicken strips though  ;)
+
+product/productId: B000HEC48A
+review/userId: A1F2IX1PEMRUXA
+review/profileName: Kristopher Kruswick
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1339027200
+review/summary: MADE IN CHINA
+review/text: The bagged product from Smokehouse proudly states it is made in the USA. I naively assumed all Smokehouse products were the same. NOT! I only noticed this 20 oz tub is from China when I went to reorder it. I am not happy at the company misleading its customers this way! I will keep purchasing the bagged product from the company because they are my dog's favorite treats and moderately priced, but I lost some confidence in them.
+
+product/productId: B000HEC48A
+review/userId: A1J6CVB4B51WJD
+review/profileName: tanner
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1335744000
+review/summary: smoked chicken treat for dogs
+review/text: When I ordered them,amazon made it sound like the treats were made in th US. They were not, they were made in china. Will not buy anything made in china because of the report on dogs treats.<br />Will not be ordering them again.
+
+product/productId: B000HEC48A
+review/userId: A3D2E5N48IC3PB
+review/profileName: Leon F. Ray "GAGolfer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254614400
+review/summary: dogs love em, so does the post office....
+review/text: If you really want to give your dog a treat, get some of these.<br />If my dogs had opposing thumbs I could get them to help me paint if I promised they could have a couple of these afterwards.<br />Only disappointment is that this seller does not offer discounted shipping for multiple orders.  2 tubs ordered came in one box, and almost $20 in shipping... will probably try and find a different seller for the next order, but will certainly buy this product again.
+
+product/productId: B000HEC48A
+review/userId: A3MIQD41GOKA3Z
+review/profileName: R. SMITH
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1238630400
+review/summary: JAKE LOVES HIS CHICKEN BREAST
+review/text: WHENEVER I BUY THE SMOKEHOUSE CHICKEN BREAST, JAKE(BOXER/ROTTWEILER--127#'S--10 YRS YOUNG) HE SEEMS TO KNOW WHEN THEY ARRIVE AND WILL NOT SIT STILL UNTIL HE HAS HAD HIS FIRST TREAT.  WE HAVE TO BE CAREFUL OR HE WILL EAT UNTIL THEY ARE ALL GONE.
+
+product/productId: B000HEC48A
+review/userId: A1OEAK0GGCMEFW
+review/profileName: SueT
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1224720000
+review/summary: wheare are these made?
+review/text: My dogs loved these but I stopped getting them because they came from China and the issues related to chicken and dog treats from China.  I'd like to get them again.  Can someone that has used them recently tell me if they still come form china?
+
+product/productId: B000HEC48A
+review/userId: A18XK2C4LKABSG
+review/profileName: luvAmazon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1223510400
+review/summary: Great treat...
+review/text: I have been giving these to my dog and he just loves them, they are low fat and high protein treats.
+
+product/productId: B000HEC48A
+review/userId: A94C4KEY3B5DV
+review/profileName: P. Like "curious reader"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1221004800
+review/summary: yum
+review/text: My dog loves these, and they look good enough for me to want to eat.
+
+product/productId: B000HEC48A
+review/userId: A3SZ9ZK03PIYK8
+review/profileName: Joan A. Miller
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1216857600
+review/summary: snack for dog on low-fat diet
+review/text: This product is a great treat for my dog who has diabetes and pancreatitis. As far as I can see it is a all natural product.
+
+product/productId: B000HEC48A
+review/userId: A2QWNAQVM0CQX8
+review/profileName: B. Petereson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1214697600
+review/summary: Favorite Treat
+review/text: My dog loves this treats.  As a mater of fact, I've yet to meet a dog that does not.  We have several furry family members and chicken tenders are the treat of choice.
+
+product/productId: B000HEC48A
+review/userId: A204G0V7ZPMIU3
+review/profileName: Cynthia Clontz
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1190505600
+review/summary: My dog loves these!
+review/text: I've been giving these to my dog for the last 6 months and these are his favorite treats. However I thought these were not irradiated but it turns out they are. I think I will look into the all natural breast tenders even though they are more expensive. In the long run it's better for your dog.
+
+product/productId: B000HEC48A
+review/userId: A127NNHKDD76OL
+review/profileName: Dave Sparling "Home Chef"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1190160000
+review/summary: Quality Controlled for Safety
+review/text: The reveiw by Evelyn jumped to the conclusion that all chicken tender products from China are bad when in fact it was only one retailers private label that was recalled.<br />I have used Smokehouse Chicken Tenders for years because of the low fat high protein snack that is great in the field.<br />When I first heard of the isolated problem I contacted Smokehouse to see if I need to be concerned. They said they have always quarantined and tested all imported ingridents for quality and contamination and only release those that meet their high standards. My dogs will continue to enjoy this great product.
+
+product/productId: B000HEC48A
+review/userId: AGJFR7P5VOUTO
+review/profileName: Evelyn
+review/helpfulness: 9/14
+review/score: 1.0
+review/time: 1189468800
+review/summary: DO NOT BUY - This product KILLS
+review/text: Look at the small print on the bottom back of the package is "product of China", the same source of other products that have been killing our pets. I sat beside my vet and read along with him.<br />Following are primary repeated findings:<br /><br />- severe damage to the kidney often resulting in complete renal failure<br />  and death<br />- numerous reports in the past four to five weeks, a larger number on the<br />  East Coast<br />- chicken and beef treats promoted as all natural<br />- it does not matter what the label is, if it is a product of China<br />- if caught early enough, hospitalized on IV hydrating and flushing the<br />  kidney over days with nutrients may help the kidney heal itself and the<br />  pet could then live with the damaged kidney<br />- if not caught early complete renal failure is expected<br />- most cases reported are related to small dogs<br />- initial symptoms indicate diabetes<br />- mold is often found when flushing the kidney
+
+product/productId: B000HEC48A
+review/userId: A1M1RNLHMEE8NT
+review/profileName: John T. "underdog7"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1204070400
+review/summary: My dog loves them, and they are safe.
+review/text: This specific product was never on the recall list of products with a known problem.<br />I have been giving them to my dog for 4 years+ and he is the healthiest dog my vet has ever seen.<br />They are his favorite treat that I give him as a special reward.
+
+product/productId: B000HEC48A
+review/userId: A39C54TDUKKHYF
+review/profileName: Monogram Jane "Jane"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1269993600
+review/summary: Willie's Favorite Treat
+review/text: I received the first container of Smokehouse treats for my lab, Willie as a gift from a friend.  I searched and found I could purchase from Amazon.  Willie loves these dog treats and I use them as a special treat.
+
+product/productId: B000HEC48A
+review/userId: A37K6ZGQ31HKB1
+review/profileName: James Slomski
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1267747200
+review/summary: good product
+review/text: A very good product but, a little overpriced and I don't recall if it came from China.
+
+product/productId: B000HEC48A
+review/userId: A125I4JZKQUXGQ
+review/profileName: Grace Guia
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1208476800
+review/summary: good stuff but 1 doesn't last too long.
+review/text: I feel bad when leaving my pet so I usually give her a treat b4 I go out for the day.  It would be nice if they made treats that lasted atleast an hour each so your pet is happy and so are you.  this lasted about 1 minute, almost completely gone before I can even lock the door behind me.  But she loves it.
+
+product/productId: B000HEC48A
+review/userId: A3I30QNX8XMYGL
+review/profileName: Linda S. Pelton "linsuep"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1202601600
+review/summary: Excellent
+review/text: Our dogs love these treats. If I would let them, they would eat the whole bag with no problem.
+
+product/productId: B000HEC48A
+review/userId: A38S389R45ENRR
+review/profileName: S. Sterk
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1193961600
+review/summary: a good value
+review/text: my animals love this product and compared to local store prices it is a good value!
+
+product/productId: B000HEC48A
+review/userId: ABNAZ77JM1WFC
+review/profileName: Nancy E. Brandt "bluebell"
+review/helpfulness: 1/3
+review/score: 4.0
+review/time: 1206403200
+review/summary: Smokehouse Products, Pig ear strips & chicken breast tenders
+review/text: My Italian Greyhounds and fosters love both of these products.  The pig ears strips are nice for the smaller dog and is a good treat for the dog you are trying to keep trim because you don't have to feed the entire ear.  They love the chicken breast tenders too.  The 8 month old puppy foster I took in yesterday worked on one while acclimating to it's new temporary home.  Great products, good company. I would prefer it not be made in CHINA.  Big yuck there.
+
+product/productId: B000HEC48A
+review/userId: A3S7A0FMUL457V
+review/profileName: Thomas M. Baird Sr.
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1263340800
+review/summary: Made in China
+review/text: I purchased this item several years ago and discovered that it comes from China and is not something that you want to feed your dog unless you want it to catch bird flu.
+
+product/productId: B000HEC48A
+review/userId: A3RFLKM71I52FO
+review/profileName: Charles Nobis
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1209254400
+review/summary: Great product
+review/text: Our dogs just love this product. It keeps them from chewing other items like furniture!
+
+product/productId: B000HEC48A
+review/userId: AGQKJ0DPELDY3
+review/profileName: Karen Pearce Data Inc "Suzi Pearce"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1205193600
+review/summary: Yummy
+review/text: My dogs love these and my smallest shar pei is a picky eater; turns her nose up at most treats.
+
+product/productId: B000HEC48A
+review/userId: A2IOZXVVLC22HN
+review/profileName: Josette Milo
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1179878400
+review/summary: Great Product
+review/text: My 2 1/2 year old dachshund loves these chicken tenders.  We give them to him as a treat.  He loves them and we like to give them to him because they are healthy.  No added preservatives or anything artificial.  Just chicken.  Also a great price for such a big tub.
+
+product/productId: B000HEC48A
+review/userId: A2IYBMT4P2NAHH
+review/profileName: Yorkie Lover
+review/helpfulness: 4/9
+review/score: 1.0
+review/time: 1196035200
+review/summary: ******DEADLY***My dog nearly died***DEADLY*********
+review/text: My yorkie almost died!  He has eaten ONLY organic food his entire life.  I purchase a bag of these (the only store bought food or treat he has ever eaten) and within weeks he became lethargic and refused food of any kind.  He was admmitted to the hospital Nov 2007 for 6 days and was administered IV fluids to prevent his death from<br />*****************Acute Renal Failure*********************************<br />These treat causes kidney failure which can be deadly and there is no medication available to prevent,minimize or repair the damage. The damage is IRREVERSABLE!!!!!! My dog is now damaged for life!!!! If you love your pet DON'T BUY THIS PRODUCT! The FDA has received over 100 complaints and UC Davis is following over 40 cases....how many have dogs have to die before big corporations stop allowing this toxic stuff from China to be sold in their stores AND stop allowing very deceptive labeling practices that trick consumers into thinking the product is safe and made in the USA?????????????? Save yourself the heartache DON"T BUY THIS IT"S DEADLY!
+
+product/productId: B000HEC48A
+review/userId: A69NKZ7W9XOJA
+review/profileName: Anthony Graboski
+review/helpfulness: 0/3
+review/score: 5.0
+review/time: 1214179200
+review/summary: Good for me, good for you!
+review/text: This product is a very good purchase. The price is cheap vs all the other competitors and my dog loves them.. You can't go wrong..
+
+product/productId: B000QSQTRY
+review/userId: AKUQE8EY1NCG
+review/profileName: nagged "cat owner"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1278633600
+review/summary: Cats loved it!
+review/text: I gave them 1/4 of a can at first of the venison brand to each of my 2 cats(bought a can of each flavor to test first).  They polished it off like they were starving, and then continued to nag me until I gave them the rest of the can! (believe me having a cat constantly meowing in your face can be pretty annoying, LOL).  They didn't show such gusto with Proplan canned.  I like that it doesn't have corn or wheat gluten which is hard to find with the regular foods on the market.  Also, one of my cats has IBS and has trouble with some foods irritating his stomach, he had no trouble with this.  My cats give it 4 paws up each!
+
+product/productId: B000QSQTRY
+review/userId: A2YG3SRC8AMQ6G
+review/profileName: Emily
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1246924800
+review/summary: Best Rated Cat Food on About.com ...
+review/text: Natural Balance Ultra Premium was rated #1 Canned Food for cats on [...]reviews, and scores high on other rating sites as well [...].  Chicken & Liver Pate variety is FISH-FREE, and they offer GRAIN-FREE varieties now too for sensitive/allergic cats.<br /><br />The best canned cat food on the market, in my opinion... affordable and great....
+
+product/productId: B000QSQTRY
+review/userId: A2IYO6WNB6JDPP
+review/profileName: Vicki-Michelle
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1288742400
+review/summary: Check the Contents
+review/text: This is a safe, nutritional food for cats.  My cat vomits frequently, and we have changed cat food over and over.  Our vet recommends wet food, so I searched the labels for the ones with the most meat, fish or poultry, and without corn filler and other additives.  This one is very fine, she likes the taste, and vomits less frequently.  I also feed her the Natural Balance Chicken and Liver Pate.
+
+product/productId: B000QSQTRY
+review/userId: A1DN8OM1DDSFUC
+review/profileName: C Bismuth "CatB; CroquetCreative/HypFoods"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342656000
+review/summary: Top Choice for Cats with DIGESTIVE ALLERGIES
+review/text: Okay, I'll be blunt: Diarrhea. We bought 2 Siberian pure bred litter mates & brought them home to comfort me when our very old Maine Coons died. One of them can eat anything and is not particularly  picky. The other cannot ingest gluten of any kind and there is SO MUCH STUFF in a single can of cat food. I worked with these boys for months and couldn't solve poor Merlin's problem. I was at my wit's end, even yelled at my husband to take them back to the breeder because I so exhausted by this horrendous problem. One afternoon on a trip to Petco, a young man who was working in the store came up and started talking with me. Turns out, he used to manage the big cats diets at our local zoo until the budget cuts took his job, so he knew quite a lot about Dick Van Patten's line. He also happened to have a house cat with the same problem as Merlin.<br /><br />He advised me to buy the DVP Ultra Formula (NOT ultra PREMIUM formula) and feed only this food! I did, and our problem was solved! Poor Merlin cannot have table scraps or vitamin treats or any other canned food because his problem returns right away (and its compounded many times over by his long haired triple fur coat and his massive size). He does get DVP Limited Ingredient Diet dry food in rotation with his canned breakfast, but that is it for him. He and I are extremely happy together. He's a Romeo, for sure. I often think of that kind young man and the note about "angels unawares" and I give thanks for that most helpful moment.<br /><br />If your cat has tummy trouble, you need this food and a SpotBot. Thank you, Amazon, for bringing this product to my door! <a href="http://www.amazon.com/gp/product/B003Y3AA2S">BISSELL Spotbot Pet Handsfree Spot and Stain Cleaner with Deep Reach Technology, 33N8A</a>
+
+product/productId: B000QSQTRY
+review/userId: A1AJRKXFILEAW6
+review/profileName: Erin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: Great Cat Food
+review/text: I have been using this cat food for about a month and I have purchased 3 flavors. Now, I'm not a cat, and I've never eaten it, but both my cats eat it right up. I have a 14 year-old cat with tiny kidneys, who was an outdoor cat until July, when I took her to the vet, and he gave her a 25% chance of still being alive in 2 years. He told me that I need to get her on good, wet cat food. So I bought this, after doing a lot of research. Since purchasing this, she seems to have filled back out (she's very tiny, maybe 4 pounds). She is also peeing a bit less, which is also a good sign that her overall urinary tract is working better.<br /><br />Another good sign for this food comes from my younger cat who is almost 2. I am feeding this to her, as well, and her solid waste has become much less stinky! She has had a VERY stinky litter box from the moment I got her. I've tried different foods (even mixing in some pumpkin, per a vet)to no avail, but since giving her this, her smell is not as strong.<br /><br />So, this is a little bit pricey compared to some foods, but well worth it for the health of my cats, and the sanity of my nose :)
+
+product/productId: B000QSQTRY
+review/userId: A3M9TSL4J8RR04
+review/profileName: C. Postlethwait
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310774400
+review/summary: Kitty loves it!
+review/text: Hermes grew up on Fancy Feast, and he seemed to like it depending on how hungry he was. He only ate a few flavors, seemed to get tired of it quickly, and almost never finished off his potions entirely. Plus he had a problem with frequently throwing it all up. On my hunt for something healthier and more stomach-friendly I came across the recommendation for Natural Balance on About.com and gave it a try. HE LOVES IT! It's always completely gone within a couple hours and his stomach problems have seemed to settle considerably. And I love that it's so much more healthy than the dirty scraps and chemicals and sawdust found in many cat foods. It's definitely worth it.
+
+product/productId: B000QSQTRY
+review/userId: A3GIO61J5X9065
+review/profileName: Andi B.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300147200
+review/summary: The finicky cat's cat food.
+review/text: I bought Natural Balance canned cat food on the recommendation of my sister.  She feeds her cats the limited ingredient Natural Balance.  Well this stuff is great! I bought the Ultra Formula product and I have never looked back.  My youngest cat is almost two and my oldest is seven.  They have never, ever eaten any type of canned food without rejecting it after a while.  They ate little bits of other types but, either right away or shortly after, stopped eating it.  This was true even of other premium brands. Natural Balance canned food is the answer.  They gobble it up and have not grown tired of it.  They have shinier coats and you can tell the difference in their muscle structure.  Good stuff!!!
+
+product/productId: B004WBZ3UA
+review/userId: AORT80GR18A7S
+review/profileName: Audrey
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1312416000
+review/summary: Healthy Dog Chew
+review/text: Our seven dogs love the Paragon chews. We love the fact that they are made from plant material, have no nasty additives and that they are NOT made in China. They come in many different shapes and sizes.
+
+product/productId: B004WBZ3UA
+review/userId: AU5WJZN8DHM5A
+review/profileName: J.T.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327104000
+review/summary: Great Products!
+review/text: Our two dogs love all the different plant-based chews made by Paragon...but these are their favorites. And I love that they're cruelty-free!
+
+product/productId: B004WBZ3UA
+review/userId: A2MUAGYVHWZYXP
+review/profileName: Marcia Torrey
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343779200
+review/summary: great for chewers
+review/text: I was looking for a hard treat for my dog so she wouldn't just have rawhide. These fit the bill. My dog loves to chew, and  she loves these Twiggies. They are gluten-free,low fat,and highly digestible. While they are not made in the US, they are made in Holland by a company that seems to care about what goes into their products. A twiggie will occupy my dog for 20 to 30 minutes. Be forewarned....a twiggie will change the color of your dog's stool.
+
+product/productId: B0057U1T44
+review/userId: A2JJ3EG4RZVOHE
+review/profileName: Erik Illi
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1345680000
+review/summary: Great product and service
+review/text: During my trips to Italy, it became a habit of mine to enjoy this tea every afternoon due to its wonderful balance of flavors - tea, peach and sweetness. Its quality reminds me of the difference between ice cream and gelato. In other words, the difference between something good and something great. When I ordered this tea, I was not sure if the plastic bottles and shipment from Italy would cause the taste to change, but it was exactly as I remembered it.  From now on, I expect I will be enjoying this tea for summers to come, whether in Italy or at home.<br /><br />To be sure, this tea is not cheap, especially when you include the shipping. However, it is much better than other peach teas you can get locally and if you compare its price per liter to wine, the price is quite reasonable.<br /><br />I should also note that the delivery service was great. I ordered the tea on a Saturday morning, it was shipped a couple hours later by MondoFood and arrived on my doorstep on Monday afternoon. I do not know if this is typical for the standard shipping, but I was impressed.
+
+product/productId: B0057U1T44
+review/userId: A2ML7SMWP1CTUM
+review/profileName: JavarMonkey
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1346284800
+review/summary: San Benedetto Peach Tea
+review/text: I absolutely LOVE this tea. I first discovered it while living in Germany. Once I returned stateside, the only place I could occasionally find it was at the commissary (military grocery store). Yes, the price is steep but it's hard to find and tastes absolutely amazing.
+
+product/productId: B0057U1T44
+review/userId: A26XQ83ZYT3KAR
+review/profileName: Stephen M. Ingersoll
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: God's gift to me!
+review/text: I was first introduced to this product while I was in Iraq in 2003-2004 and drank it constantly. I would hazard to guess I drank this tea more than any other drink I had available, I was able to get it at pretty much any PX in the country, and it came in 1.5 liter bottles which was fantastic. Anyway, it's a fantastic tea with great flavor and I couldn't recommend it more.
+
+product/productId: B0053WVBZI
+review/userId: AFFURT3T3UVB4
+review/profileName: K. KER
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337904000
+review/summary: A great small thing that you will love it.
+review/text: This thing makes your soda distinguishable at any party and it is guaranteed that you wont be bothered by any unclean thing on the edge or rim of a soda can. The touch is soft that your lips will fall in love with it.
+
+product/productId: B0053WVBZI
+review/userId: A3I89FV7433267
+review/profileName: YuZen Chen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337731200
+review/summary: cool products! very useful!
+review/text: This is a very cool idea to have such product. If you host parties often, you are going to like it. The product is easy to use and easy to clean. Even more, it is re-usable. I highly recommend.
+
+product/productId: B0053WVBZI
+review/userId: A13YQFUIB7BSW
+review/profileName: Sunfandu
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337644800
+review/summary: So Cute!!
+review/text: I bought Drinking Duck couple months ago from Ebay. It's glad to see that people now can buy Drinking Duck on Amazon Now. Drinking Duck is very easy to use. I brought it with me when I went to friends' party and picnic in the park. Although it is made of plastic, it doesn't have obnoxious plastic smell. It is washable and reusable, better than non-reusable plastic cup or paper cup. GO GREEN!!
+
+product/productId: B0053WVBZI
+review/userId: A957BUJFPA4ZJ
+review/profileName: jonguam
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337558400
+review/summary: Brilliant Invention- Safer and cleaner way to drink from cans
+review/text: Drinkin' Duck makes me feel a lot safer to drink from cans. There has been some negative press lately about germs on cans that may cause death. Using this product allows me to enjoy soda cans without having to wash the cans manually. I bought a bunch to give out as party gifts and all my guests loved it!<br /><br />Highly recommended!
+
+product/productId: B0053WVBZI
+review/userId: A155LGGH79CDSH
+review/profileName: CHIH-CHENG TAI
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1337126400
+review/summary: very cool- featured on Food network show!
+review/text: I saw this product on Food Network's new show invention hunter. It is very cool..<br /><br />I read a several news reporting that people are sick because of drinking from contamainated soda cans. Drinking duck is very easy to use and it acts as a protective layer prevents my lips from directly contact the soda can. It makes me more comfortable to drink beverage from the can now. It seems made of silicone, which provides a nice touch to the lips. I don't taste the metal taste from the can or the freeze anymore. It is a very cool gadget. I use it at my party. All my friends can identify their own can, so they don't pop a new one before they finish theirs, so it prevents a lot of unnecessary waste of unfinished beverages. It's a good substitute for staws. Kids like the ducky anyways..
+
+product/productId: B0045TJH88
+review/userId: AVQIRN6E7J7UA
+review/profileName: imdebra
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347840000
+review/summary: Chocolate fix with less gas than choc. bars
+review/text: I much prefer this to sugar free chocolate bars for a chocolate fix - I have less gas issues with this and it tastes great.
+
+product/productId: B004ECUDR0
+review/userId: A2T3LD8HB4GAW9
+review/profileName: boot lover
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344211200
+review/summary: old merchandise
+review/text: These were shipped within a 2 week expiration date.The product was so old the wrappers are stuck to the actual "honey" part of the spoon.Contacted the company and they were not helpful at all.I was advised to send the product back at my expense.
+
+product/productId: B004ECUDR0
+review/userId: A33PJ9V4OFPPV2
+review/profileName: RiahPapayaLove
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326499200
+review/summary: Excellent (:
+review/text: I bought this product for my dad and I was very happy with it (:<br />although the shipping PRICE was disappointing.<br />over all, a good product (:
+
+product/productId: B005WW0HHW
+review/userId: A2R1NFDKF4ZL96
+review/profileName: Charles L. Gilmore III
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: Great Snack
+review/text: This is a great quick snack. I purchased this on a whim and was amazed at how great it tasted. I will order more.
+
+product/productId: B005WW0HHW
+review/userId: A1KKT9S1DU8TCU
+review/profileName: Julia Valinski
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336348800
+review/summary: Tasty but tough
+review/text: I really like the taste, but it's just a little tough compared to the other jerky out there. I may buy it again, but I am not too sure.
+
+product/productId: B005WW0HHW
+review/userId: A566QLNKWM2MQ
+review/profileName: William G. Bruce
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336176000
+review/summary: Not what I was expecting ....
+review/text: When it arrived and I saw the package I thought it was going to be a waste of money. However looks can be wrong. Opening the package it had a nice taste and was not to tuff. I would recommend it but to sure if I will reorder any.
+
+product/productId: B005WW0HHW
+review/userId: A794GE4PNVPOD
+review/profileName: Gula
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324944000
+review/summary: So good
+review/text: I love it. Had to order more it was so good. Not too spicy to burn on the way out but just a little kick in the pants. I'll probably buy it again after I run out this time
+
+product/productId: B005WW0HHW
+review/userId: A3CYI8BDO3JDOP
+review/profileName: Pen Name "James"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287532800
+review/summary: Great jerky
+review/text: Nice chew to it, a little on the dry side, but that's how I like it. It has a very strong teriyaki taste and a little heat. Could use more heat and less sugar, but that's some good jerky.
+
+product/productId: B005WW0HHW
+review/userId: A27IHE8E5MGKG3
+review/profileName: Randal J. Geringer "Everybody_is_Devo"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286064000
+review/summary: Great Jerky
+review/text: When I ordered I did not know what Western Cut was so it was surprised how thin they cut the meat.  The pack had about a year until the sell by date, which seemed like plenty of time to eat the jerky.  However, I would only need 24 hours as the jerky got better with every bite.<br /><br />A+.  I could not recommend this product any higher.  Lightning speed delivery service.  I've tried country cut HoneyPepper as well as the Teriyaki and they also were just fantastic.  The country cut is much softer than the western cut.  The western cut requires some good chompers to chew.<br /><br />The only draw back would be if you did not have tooth picks or dental floss available after eating the western cut.
+
+product/productId: B005WW0HHW
+review/userId: A3T0SKC0G68Z1Y
+review/profileName: V. B. Dougherty
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263686400
+review/summary: Best jerky there is
+review/text: About the only thing better than this jerky is the service!  Fast delivery and quality customer service.  They even send "thank you" gifts.  I am ordering for the 5th time in 2 months!
+
+product/productId: B005WW0HHW
+review/userId: ATFGK2YXCLE2
+review/profileName: Chuck Amos
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1229472000
+review/summary: Excellant quality and tastes terrific
+review/text: My son and I consider ourselves quite the coneseours of jerkey and we must tell you this is some real fine jerkey. Some of the Best we have tasted and we have tried many different brands from across the country and we definetly give our accolades to this. You will not be dssapointed and they even had a few sample in there, surprises like that are a real nice touch. As a matter of fact we will be putting in another order and look forward to enjoying some more of this fine tasting jerkey. We cannot wait, Yum Yum!!!!
+
+product/productId: B001QMHDRE
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1339632000
+review/summary: A must for every kitchen!
+review/text: If you live in the South, its a good bet you already have a bottle of this in the pantry.<br />Nothing perks up a mess of collards, turnip, or mustard greens like this pepper infused<br />vinegar from Trappey's.<br /><br />This stuff can be found just about everywhere, use liberally, its cheap! and the little<br />bullet peppers (well thats what we call em) are great on their own with a cold beer, or<br />chopped up in pinto or northern beans or in blackeyed peas. Great stuff!<br /><br />One of the best things about this product... when you use up all the sauce, just pop the<br />lid off and refill with white vinegar. These tangy tabasco peppers will still have plenty<br />of life in them.
+
+product/productId: B004G8JIH8
+review/userId: A2EDS2YOGL1541
+review/profileName: Sew Perfect
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1325721600
+review/summary: Nice Freebie
+review/text: This pumpkin pie flavor shipped free with my order.  It was a tasty addition to my pumpkin desserts to "kick up" the flavor.
+
+product/productId: B0015DI7HY
+review/userId: A3FDHW5I98GCHF
+review/profileName: Amanda Jimenez
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331942400
+review/summary: cinnamon goodness
+review/text: I love Freshen Up cinnamon gum and it was worth buying in bulk! Now I know where I can buy my supply.
+
+product/productId: B004R7N8GA
+review/userId: A1HFRVZB0XK1HU
+review/profileName: troglodistes
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338422400
+review/summary: lovely!
+review/text: These are very nice caramels.  the salt used is coarse and when you get a piece it releases a nice bold saltiness that works so well with the sweet buttery-ness.  *and* they, seriously, were delivered in 2 days.  that is amazing.
+
+product/productId: B004R7N8GA
+review/userId: A341FVRDLAX9UG
+review/profileName: mb
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327190400
+review/summary: YUMMY!!!
+review/text: These are great ... soft, chewy, fresh and little bits of salt throughout each bite ... will definitely be ordering more soon!
+
+product/productId: B004R7N8GA
+review/userId: A3QI9X57XN5AR7
+review/profileName: L. Michael Gundy
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322611200
+review/summary: great taste
+review/text: My sister and I both loved the taste of this caramel. 5* taste, and very sticky also! Both of us ordered more. Hardest problem is not eating the whole bag contents at one time.
+
+product/productId: B004R7N8GA
+review/userId: A1P1NDXFP8NGR8
+review/profileName: Tami
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1321142400
+review/summary: Sea Salt Caramel Dream!
+review/text: So, I'm a sucker for sea salt and caramel, and I've tried almost every brand I can find... from French to Irish etc etc and these are by far my favorite ones! They are a chewy, salty goodness that you must try! I've already ordered them twice, and I plan on getting them again! Fast shipping too! Cheers!
+
+product/productId: B004R7N8GA
+review/userId: A3VJRET2XN8IRF
+review/profileName: Susan D. Rosko "mrs. spunkmeister"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343260800
+review/summary: Sea salt caramels
+review/text: While this item arrived very quickly for something not  Prime eligible, with the postage, each 1"x1" caramel cost $.95.  They are tasty enough, but that is rather high for the value and I will have to just live with my craving until I see them in a store in the future.
+
+product/productId: B000E3XCOE
+review/userId: A1RWNNKEBT0S1J
+review/profileName: Geoff in MA
+review/helpfulness: 14/15
+review/score: 1.0
+review/time: 1162684800
+review/summary: Great Crackers But You'll Regret Buying Them From Amazon
+review/text: These are excellent graham crackers. We love 'em, and the kids do too, and it's not often that we agree. But you'll be sorry if you order graham crackers -- or any other food that can be damaged in shipping -- from Amazon.<br /><br />Our recent order arrived in the original box from the factory, containing 12 boxes of New Morning Honey Grahams. That was it. No packing material. Nothing to shield the crackers from the drops and shocks of being shipped to us.<br /><br />So we didn't get graham crackers. We got graham crumbs, and a few graham cracker fragments.<br /><br />By all means, order these crackers. Just don't order them from Amazon. Instead, find a retailer that knows how to do it right, or buy them from your local grocery. Unless you really want graham cracker crumbs...
+
+product/productId: B000E3XCOE
+review/userId: AYO5VY5FQLDZD
+review/profileName: Lynn Pine
+review/helpfulness: 8/8
+review/score: 3.0
+review/time: 1168300800
+review/summary: good but broken
+review/text: I am always on the lookout for products that do not contain hydrogenated oils, so I was pleased to find these on Amazon grocery, and at such a reasonable price.  The grahams are a little on the sweet side, but again I'll take that over unhealthy hydrogenation.  I was mostly disappointed in the fact that most , if not all, of the crackers are broken.  I suppose that's a result of the shipping so it's enough to make me not purchase them this way again.  I'll buy them at the store next time instead (if I can find them).
+
+product/productId: B000E3XCOE
+review/userId: A2E3WMF9RWW2X2
+review/profileName: K. Duvall
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1156464000
+review/summary: Best Graham Crackers ever!
+review/text: I had been looking for graham crackers without hydrogenated oils and no high fructose corn syrup.  These are the best!  Great value buying them this way, it saves over $2 per carton from the local stores.  The taste and texture is great!  Will buy them many times more!
+
+product/productId: B000E3XCOE
+review/userId: AOR52NN9OR1QK
+review/profileName: C. Schultz
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1200873600
+review/summary: tasty & soy free
+review/text: These graham crackers are really tasty.  I do have to agree with other reviewers that there are sometimes plenty of broken crackers, but since I'm more concerned with the ingredients & how they taste, I'll put up with some broken ones.  These crackers do not contain soy, which determines whether I buy these or not.  The fact that they contain no hydrogenated oils is a plus.  The price is great too.  They don't cost any more than the name-brand ones at the grocery store.
+
+product/productId: B000E3XCOE
+review/userId: ASNYXNXM43FDE
+review/profileName: K. Estes
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1168473600
+review/summary: Yummy!
+review/text: I am SO thrilled with Amazon's new grocery service.  Our children love these all natural graham crackers but seldom get them - our nearest health food store is over an hour away.  It was very convenient to have a case delivered to our home!
+
+product/productId: B000E3XCOE
+review/userId: AEJASZPKKAU2O
+review/profileName: mom o'twins
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1304726400
+review/summary: Tasty, no shipping problems
+review/text: I was a little hesitant to buy these, given the problems with shipping that others have noted. Ours arrived, 12 boxes in a box that fit them well, with none broken in the first package we opened, at least. The flavor is a little different from the ones with unhealthy ingredients, but I expected that. They're still tasty, and my twins love them!
+
+product/productId: B000E3XCOE
+review/userId: ADGWP6OCJLI32
+review/profileName: M. Norris
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1275868800
+review/summary: Better Than Regular Graham Crackers!
+review/text: These graham crackers are wonderful!  They are not like so many "health food store" foods that taste awful.  They are better than the mainstream brands, and they are so much healthier for you.  My family goes through  6 boxes/mo!
+
+product/productId: B000E3XCOE
+review/userId: A3UEOL981G9TXY
+review/profileName: ChihuahuaMom
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341360000
+review/summary: New Morning Grahams
+review/text: In my opinion, these grahams are excellent.  Keeping with the healthier foods, these grahams are wonderful, every bit as good as the 'other' brands in the store.
+
+product/productId: B000E3XCOE
+review/userId: A3I0GI99GU9FEY
+review/profileName: Mia Hayes Simmonds "groovyshazam"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1178668800
+review/summary: Graham crackers without PHO's
+review/text: Love this product, it is the ONLY Graham cracker without Partially Hydrogenated Oils. NO trans fats.
+
+product/productId: B000E3XCOE
+review/userId: A1767223L81DHA
+review/profileName: Marilyn J. Brown "sweetpea"
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1255737600
+review/summary: great crackers-terrible shipping
+review/text: No pains were taken to ensure the product would arrive in good condition.  Really- what good are 12 boxes of broken graham crackers.  Very frustrating- will not buy from this company again unless they have more respect for the buyer and fix this problem.  Marilyn Brown
+
+product/productId: B000E3XCOE
+review/userId: A379MLPRM7W1YW
+review/profileName: Charli Ariens
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1280707200
+review/summary: Broken Grahams In Shipping
+review/text: I have just read all reviews and decided to send an e-mail to "customer service" to let them know I was contemplating buying this product and they replied by saying this would not happen again and that it would be O.K. if I ordered these Grahams.  I notice they come in the tiny squares...that way...maybe not much would be there to crumble in shipping.  I'm going to order for the first time.  I forgot to question about the shelf life. I look forward to tasting them.  Thanks to all of you.
+
+product/productId: B000E3XCOE
+review/userId: A1EYAMVG5IVMQ2
+review/profileName: F. Tregay
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1184976000
+review/summary: Healthy but not that tasty
+review/text: I bought these mainly for my kids (almost 4 and 1), and I thought they would really like them.  They seem to like them, but they do not taste the same as the "bad" ones out there.  It is probably obvious why.  They are not being eaten as fast as I had hoped.<br /><br />My other complaint is that they do not break apart well into the 4 crackers like others do.  They are a bit more crispy than we are used to.<br /><br />I might try to encourage them to have them with milk like cereal.<br /><br />The box did come a little damaged, but the crackers seem to have made it alright.
+
+product/productId: B000E3XCOE
+review/userId: ARTBKRPA0QMW4
+review/profileName: Thomas Aplin
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1351123200
+review/summary: Healthy and great taste
+review/text: These have always been one of my favorite snacks. Healthy, great taste and good anytime. I add peanut butter, regular or fat free, to these for a quick snack to curb my hunger. These are also very good with any jam, jelly and they are really great with Nutella. These are hard to come by here where I work, along with a lot of other items. So I try to order them as often as I can.
+
+product/productId: B000E3XCOE
+review/userId: A223YRQH2Z5T1D
+review/profileName: flint5292
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345939200
+review/summary: Awesome!
+review/text: Great flavor and texture, no GMOs, and does not support the evil Monsanto!  So happy we found these; will never buy Nabisco or Keebler again.
+
+product/productId: B000E3XCOE
+review/userId: A25SHEQZ85Q07I
+review/profileName: L. Hewitt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1193961600
+review/summary: Honey Grahams
+review/text: This is a great product for those who want to avoid preservatives and processed sugar. Has a great taste.
+
+product/productId: B000CQID6U
+review/userId: A1OG28M8P8KJA2
+review/profileName: Be Honest "Leave Reviews!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339977600
+review/summary: The Finest, Strongest Aroma, Best flavor, Longest Lasting Bag Chai Tea!
+review/text: Just read the title, seriously. I am a tea junkie and love my Chai. After purchasing many from the local supermarkets and whole foods. I was sold on Stash brand for the powerfully good aroma and flavor they seem to provide in their teas. If you like very watery tea you may not like this Chai as much as I do. For me, one tea bag makes a quart of good tea!
+
+product/productId: B000CQID6U
+review/userId: A1NCCYZ93D52YP
+review/profileName: locard16309
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338508800
+review/summary: everything a tea should be
+review/text: flavor, body and aroms, this tea has it all. subtle yet bold flavor so its not overpowering, it has a firm body thats enjoyable and a unique aroma that is most enjoyable. very fews teas can rival stash quality, so try these
+
+product/productId: B000CQID6U
+review/userId: A3VZR9TPF2GERB
+review/profileName: a. audio listener
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337817600
+review/summary: A worthy and welcome replacement
+review/text: I don't know what has happened to formulation or processing of the "big name" Earl Grey teas in the past several years, but the quality of those had degraded to such an extent that I went looking for a replacement. I am happy to say that I have found it in spades in this brand!  The bergamot comes through not only in the aroma but also the taste. (I also really like the color of the box!) This company also makes a "double bergamot" Earl Grey but I actually prefer the regular (this one) to the double. If you have become unhappy with your current Earl Grey, I recommend that you give this one a try.
+
+product/productId: B000CQID6U
+review/userId: A3LWC21A3VEVS3
+review/profileName: WindsorTenor
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337644800
+review/summary: Perhaps Brewing Wrong?
+review/text: I find that most (not all) people in North America brew their tea for too long a period.  When I first visited China I was amazed at how quickly after pouring the boiling water into the pot, they poured out the "finished" tea.<br /><br />I recently purchased a Keurig machine and have it perfect for making this tea.  I only drink it iced, perhaps that is the difference?  Two bags in the permanent filters and run through twice (using the large cup setting).  Poured over ice with a bit of milk.  I use Stevia for my sweetener.<br /><br />No bitterness.  Just perfectly brewed aromatic Chai Tea.  With the double spice, it gives my tastebuds the perfect "kick" that I desire.
+
+product/productId: B000CQID6U
+review/userId: A97S0CNOB0CH7
+review/profileName: burninghorse
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335398400
+review/summary: This chai tastes very good but should include more black tea leaves.
+review/text: This chai has good flavor but needs more black tea leaves to make a fully satisfying cup of tea. It leans on cloves but not overly, to my taste. The Tazo chai has more tea leaves and tastes very good if used properly -- 2 mugs of tea or an extra large mug from each tea bag. I've gotten used to the Stash spicing now (have enjoyed 6 boxes) and like to drink both the Stash and the Tazo (also finished 6 boxes), which I drink straight, in succession, in the morning. Then I switch to decaf Tazo chai which is very good and makes 2 mugs per tea bag.
+
+product/productId: B000CQID6U
+review/userId: A39EW9DLVX70B9
+review/profileName: A. Rose
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331510400
+review/summary: Stash tea can vary batch to batch
+review/text: I have, in the past, positively reviewed other Stash flavors, Ginger Lemon and Holiday Chai.  Had a problem with the Double Bergamot tea once, but then a second shipment was excellent.  But this Double Chai Spice has a strange chemical flavor. Tried mixing it with regular black tea because the chai seems to be lacking a tea flavor.  I have tried other brands of chai and have made my own.  There's something off about this - it's got a strongly astringent, bitter flavor.  I wonder if it's because the spices are ground to a powder?  The best chai is made with whole spices.
+
+product/productId: B000CQID6U
+review/userId: A1OQJ144D0Z040
+review/profileName: DavidZeb "davidzeb"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328140800
+review/summary: Delicious!
+review/text: Everytime I brew this in the office, co-workers come up to me asking what smells sooooo good!  This is really a very nice tea!
+
+product/productId: B000CQID6U
+review/userId: A3QOVC4W72PYYW
+review/profileName: Ken Montville
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326844800
+review/summary: Great Chai Tea
+review/text: My wife loves this tea. More than that, she love this brand of Chai Tea.  We tried to find it in are grocery stores and no one keeps it in stock.  The scent is really what does it for my wife but it tastes good and has just the pick-me-up you need.
+
+product/productId: B000CQID6U
+review/userId: A1YB3PY0YWK9RD
+review/profileName: Francis Molenda
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325980800
+review/summary: Black tea with flavor
+review/text: This is an excellent tea that combines both the benefits of black tea with an excellent peach flavor.  I let it brew for four minutes.  It makes an excellent cup.
+
+product/productId: B000CQID6U
+review/userId: A320YM8CSQXMS6
+review/profileName: Auntie Lynne
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: Addictive
+review/text: I have never cared for flavored teas.  I'm not sure what made me try this, but I am so glad I did!  It is positively addicting! The aroma is wonderful and it tastes even better than it smells. I have signed up with Amazon's auto-shipment to insure that I will never run out.  Simply delicious!
+
+product/productId: B000CQID6U
+review/userId: A19B9CHY9M54RQ
+review/profileName: Jensen
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1325635200
+review/summary: not a strong enough flavor
+review/text: I didn't think the flavor was strong or distinctive enough. A pretty inoffensive tea, but after being spoiled by Tazo's Teas, it's hard to look at a tea like this the same way.
+
+product/productId: B000CQID6U
+review/userId: A11DMF3B8389XC
+review/profileName: T. McGowan "TMcG"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320451200
+review/summary: Wonderful Aromatic Tea
+review/text: This tea is a wonderful treat on a cold night.  The cinnamon aroma is very enticing.  I have been buying this for years and Amazon always has the best price.
+
+product/productId: B000CQID6U
+review/userId: A13UHK8M4LX9D1
+review/profileName: J. C. La Grow "artist"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320019200
+review/summary: stash peach tea
+review/text: This tea is hard to find so I bought 6 boxes. When you open the packet, the bag smells exactly like fresh peaches. The taste is not masked by other flavors such as cinnamon. It makes wonderful iced tea.
+
+product/productId: B000CQID6U
+review/userId: A26GV8DEWF5ECZ
+review/profileName: Well, "Just call me &#34;Ron&#34;"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319500800
+review/summary: Find "hard to Find" tea
+review/text: Stash Premium Chai Spice Black Tea can be hard to find on the local shelves, but is never more than a few clicks away on Amazon! The price is great and delivery is always as promised. Enjoy your tea from Amazon.
+
+product/productId: B000CQID6U
+review/userId: A2UET47PR3Y9MU
+review/profileName: A. Duncan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319155200
+review/summary: As a person who has never really liked tea
+review/text: this is my drink of choice.  I'm addicted.  I drink 3-4 cups a day simply because nothing else tastes this good.  I've tried other chai-spice teas; none of them compare.  The downside to telling everyone to buy this tea is the prospect that you might actually do it, raising the prices.  You should try it, it's good.
+
+product/productId: B000CQID6U
+review/userId: AE10DV4Y7NFUA
+review/profileName: Meisha4
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318204800
+review/summary: Excellent
+review/text: This tea is very hearty...definitely "double" in spicy, chai flavor!  I recommend it to anyone who likes a stronger tea. And you can't beat the deal especially with the Prime program -- save a couple of dollars + free shipping!  Add a little sweetner and cream and it really enhances the flavors!
+
+product/productId: B000CQID6U
+review/userId: AE214VXWQG7HG
+review/profileName: Vira Witiuk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318118400
+review/summary: Full of Taste
+review/text: Stash teas are very tasty. The flavours are rich and full bodied. Enjoy a cup alone or with friends and remember to live in the present moment.
+
+product/productId: B000CQID6U
+review/userId: A2FYE60ZWKIUW6
+review/profileName: Scott Burgess
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316736000
+review/summary: Best of the Earl Grey teas
+review/text: A classic tea, great by itself or with a large chocolate brownie drenched in dark chocolate syrup. Earl Grey seems to be a difficult tea to blend properly: without the proper proportion and quality of bergamot, the tea is either astringent or overly flowery. In my opinion, Stash gets the blend just right with their standard Earl Grey (the decaf version is also terrific, but to my taste the double bergamot drowns the tea flavor). I've tried several other brands, and can hardly drink the others. Don't say you dislike Earl Grey before trying this blend!
+
+product/productId: B000CQID6U
+review/userId: A3UUTDX2WNVUS3
+review/profileName: S. Whitworth "Hannah's Mommy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316563200
+review/summary: Symphony of Flavor!
+review/text: This is some awesome tea and I fear complete addiction is coming my way.  I just tried it for the first time today and am here on amazon ordering some, so I might keep plenty on hand for my Chai drinking needs.  This is a very smooth tea and will never produce a bitter taste.  It is like liquid pumpkin pie with real whipped cream.  A major part to my mouth and serenity to my senses.  I HIGHLY recommend.
+
+product/productId: B000CQID6U
+review/userId: A3SFW03L5A4GOC
+review/profileName: David Grisham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314489600
+review/summary: Stash Brand Earl Grey Tea
+review/text: To my taste, the Stash brand of Earl Grey Black Tea (in tea bags) is the best I have found. After trying Twinings, Bigelow and a few others, I discovered Stash and found it to have a fresher, cleaner taste with a more pronounced bergamot fragrance. It costs slightly more than the others but seems well worth it to me. Also, buying it in quantity through Amazon brings the cost down significantly as compared to local grocery chains.
+
+product/productId: B000CQID6U
+review/userId: A2FYGOBWZ4BIKR
+review/profileName: M. Bennett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313971200
+review/summary: Better price than the grocery store
+review/text: I buy my office supplies from Amazon.com. When we were out of tea I thought I would check the prices on Stash teas compared to Safeway. Yup - it's cheaper here. And I can buy bulk and have it delivered directly to the office. win-win.
+
+product/productId: B000CQID6U
+review/userId: A1CZDXD7HA8NXT
+review/profileName: Elizabeth A. Worthy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312502400
+review/summary: Great Flavor!
+review/text: I am an Earl Grey fan, and had tried many different brands.  Once I tried Stash, I never needed to check another.  It's a wonderful tea, with a full bodied flavor.  A great pick-me-up at any time of day... and it comes in decaf too for evening enjoyment.
+
+product/productId: B000CQID6U
+review/userId: A1IHTEUDHJLQEO
+review/profileName: grammyhelps
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310860800
+review/summary: stash peach
+review/text: I fell in love with Stash Peach Tea in about 2005 when I had it at the Hobnob Tea Room in Loveland CO. Not only can you select it for your lunch but you can buy a box from the stock they keep on hand. Because it's a family owned restaurant (not a chain) naturally they have to charge enough to pay for s/h. I found it a little cheaper at Vitamin Cottage. I always had a big cup after lunch at my desk at the post office where I worked in the passport office. Every time customers or other clerks would come in they would say "wow what smells so delicious?". It began to happen that I would make a trip to Hobnob or Vit Cott and they would be out of my tea. That flavor does not seem to be carried even in stores that carry Stash. So I found it by accident on Amazon while looking for something else entirely. I was so happy. If I purchase enough at a time it saves me nearly a dollar a box over all. I drink it every day so VOILA I found a great deal on Amazon. Thank you!!!
+
+product/productId: B000CQID6U
+review/userId: A1ZRASE8GO7Z3Q
+review/profileName: Sarah
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308873600
+review/summary: Great quality tea
+review/text: The tea was great. It was used by my husband and mom, and tasted by me :o) It goes great with fresh mint thrown in with the brew!
+
+product/productId: B000CQID6U
+review/userId: A12FCKJY9CGVYL
+review/profileName: L. FRIEDHOFF "Cheerful spirit"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308614400
+review/summary: Summertime
+review/text: This makes the best iced tea ever.And in the winter I can drink a cup hot and remember that summer is not "that" far off.In Momtana, in the winter, we appreciate any thing that reminds us of summer.
+
+product/productId: B000CQID6U
+review/userId: A2EFWCOKEEZKN0
+review/profileName: mw "macaddict"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306972800
+review/summary: What a perfect combination...
+review/text: ...Stash Chai and Amazon's auto delivery service! Unlike many chai teas, Stash does not use black pepper. You get the good spices without the funny bite. Our office is addicted to this -- no morning goes by without a cup of chai! So the Amazon deal of free shipping every three months works perfectly for us. No more running to the grocery store -- or doing without because we forgot!
+
+product/productId: B000CQID6U
+review/userId: A13GZCHAMKWYBT
+review/profileName: Vikki Hallen "lizardwitch"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301443200
+review/summary: Very Chai!
+review/text: Wonderful smell and taste!  I have regular and decaf both, each very good.  Pronounced black tea + spices..far from a light green tea!
+

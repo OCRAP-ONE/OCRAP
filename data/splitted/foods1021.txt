@@ -1,0 +1,1143 @@
+product/productId: B001825BWG
+review/userId: A2UVYX5O1OPHK3
+review/profileName: Alexander Alex
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293321600
+review/summary: Good Product
+review/text: Hey it's sea salt what more can a person say. I like the maker so I keep buying the product.
+
+product/productId: B0018CLWG0
+review/userId: A31YC5KZMFVBVA
+review/profileName: S.
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1333756800
+review/summary: Good Stuf.
+review/text: My very elderly small dog ate this dog food and thats saying a lot since she is so picky.  Diamond is better than most grocery store brands and it was on sale on Amazon so I gave it a try and was very pleased.
+
+product/productId: B0018CLWG0
+review/userId: A2NY77J3IB16CR
+review/profileName: jsgpa28
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317859200
+review/summary: best food for dogs
+review/text: for the price can not go wrong it is usually double the price in stores if they have it in stock ! very good natrual food for your dog
+
+product/productId: B003E1QQ3C
+review/userId: A25A4JC5ZCZK7K
+review/profileName: alice "school social worker"
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1328918400
+review/summary: artificial flavor
+review/text: Maybe I shouldn't be surprised, but there is no actual coconut in this candy. Wish I'd read the ingredients label before buying. Guess I fell prey to their packaging :)
+
+product/productId: B003E1QQ3C
+review/userId: A3AN8NFVRQSKXD
+review/profileName: NancyS
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337126400
+review/summary: Different twist on M&M's
+review/text: First tried coconut M&M's in Mexico (had never seen them in the States).  Was with my brother at the time, and he loved them so I sent him some for his birthday.  He was surprised and ate them all in no time. Great M&M flavor that I'd definitely purchase again!
+
+product/productId: B003E1QQ3C
+review/userId: A2UC30V3WIJBES
+review/profileName: David
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309910400
+review/summary: Best M&M's EVER!
+review/text: By far the best flavour of M&M's I've ever had. Succulent and delicious! I just wish I didn't have to pay so much for it!
+
+product/productId: B003E1QQ3C
+review/userId: ADF72WGCMB29K
+review/profileName: Marsha J. Tetrick
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294012800
+review/summary: excellent
+review/text: what a refreshing treat.  I had heard of these from a relative in California who works at a spa, she said her women all loved them.  they proved to be quite a tasty treat
+
+product/productId: B0068Z37ME
+review/userId: ACYMQSJU5P40Q
+review/profileName: Walter C. Evangelista
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1334361600
+review/summary: Delicious tea!
+review/text: What's not to love about this tea. It tastes great! I drink it 3 times a  day. If you're trying to break an addiction to sugary sodas , this is the remedy.
+
+product/productId: B0068Z37ME
+review/userId: A10XNYT8R7BU12
+review/profileName: JAM "Retired RN"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: Husband thinks this tea is GREAT!
+review/text: Each holiday season, Costco gives out samples of this tea and it is available for purchase.  This was so disappointing for my husband when we ran out of the tea and it was off season for Costco.  So, I went online to search for it.  FANTASTIC, I found it on AMAZON.  We now have this tea in our home year round and I have a very happy husband.  It is not that he drinks it daily, but frequently.  This is a spicy, sweet tea with a Holiday aroma.  And it is caffeine and sugar free making it a pleasurable evening drink for a diabetic, well, for anyone really.  I hope you enjoy it as  much as we do.
+
+product/productId: B0068Z37ME
+review/userId: A232BOIP1OV0X9
+review/profileName: Kathryn S. Cox
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342310400
+review/summary: Great Iced as well as hot
+review/text: This is my very favorite tea. Not only is is great hot in the winter, but it's great as an iced tea in the summer as well. As it's been said it's definitely "sweet and spicy". You can taste the cinnamon in it and the rose hips make it naturally sweet. Really a wonderful flavor. And, with the caffeine free variety, you don't have to worry that making it very strong is going to be a problem. I love to make gallon jars of sun tea with it and make it strong so that the ice doesn't water it down.
+
+product/productId: B0068Z37ME
+review/userId: A1KGKPWWG61U42
+review/profileName: John S. Ruzicka "John R"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341705600
+review/summary: Love this tea
+review/text: This makes *the* best iced tea. I use 8 bags per pitcher, steep them for 10-12 minutes, then add a lot of ice. A refreshing, caffeine-free, calorie free treat. I wish I could buy this tea loose, however, since opening 8 bags every time I make a pitcher of tea is a bit of a pain (first world problems--I know).
+
+product/productId: B0068Z37ME
+review/userId: A3KWQWQMVVZ3SD
+review/profileName: MichelleO
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338854400
+review/summary: Best Tea Ever
+review/text: Good Earth sets the standard for excellent tea with their 'original sweet & spicy'. It is a bonus that it is a herbal tea and has no caffeine.
+
+product/productId: B000TYD4OQ
+review/userId: A13BIJ91S778ER
+review/profileName: Nose In Book
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1276819200
+review/summary: AMAZING!!!!!!!
+review/text: This is the best candy in the world!!!! if you like sour stuff i usually get them from dollar general but they have started to stop selling them so i needed a new way to get this candy!!! 150 count won't last me long so i'm glad amazon sells these!!!!!!!!!!!!!!!!
+
+product/productId: B001VNP4GU
+review/userId: A2C8W1VCVWPY13
+review/profileName: booksy
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1339113600
+review/summary: Great Stuff
+review/text: I buy this stuff to sprinkle on my popcorn. I like it better than onion powder because it doesn't clump up at all, it's more free flowing, yet it dissolves just as quickly. It's great for adding to broth or sprinkling on just about anything as a seasoning.
+
+product/productId: B001VNP4GU
+review/userId: A16QCPOGECE55T
+review/profileName: Ayresbk "PCMan"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1346889600
+review/summary: I trust "Frontier" brand
+review/text: Very happy with the seller (Frontier)... Their product is good, the service is great.<br />I have ordered the Marjoram Leaf, Onion minced and granules, Garlic granules plus 2 other herbs.<br />Everything arrived FRESH and well packaged.. Each time I need a spice or herb I check "Frontier"<br />our first....
+
+product/productId: B001VNP4GU
+review/userId: A165PNMNW5EDSP
+review/profileName: Carolyn Morrow
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1346371200
+review/summary: AWESOME
+review/text: I have used Frontier dried herbs, etc. for over twenty years.  I did NOT realize until recently that I could buy them in bulk on Amazon.  I am very glad that I able to use the herbs from Frontier, + get them at a reasonable price when I order them in bulk.
+
+product/productId: B001EO7JC8
+review/userId: A1K82R24ROO2I7
+review/profileName: A. Cheffy "Cheffy"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1294531200
+review/summary: Too much Garlic and Vinegar
+review/text: I bought this brand to try out and while it's a bit cheaper than the rooster brand it can't hold a candle to it. This product has a decent amount of heat but it's definitely missing that "something-something" and it has more vinegar and garlic without enough sweet to compliment it.<br /><br />One thing I did to fix this is I made a simple sugar syrup (sugar/water) and added it which helped but it still can't hold a candle to my favorite sriracha brand. Oh well.
+
+product/productId: B007FRD1V6
+review/userId: A1SJUG9W4I5ZJK
+review/profileName: Elizabeth Giustina
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1335139200
+review/summary: Chocolate mint tea
+review/text: This tea arrived on time and is the second time I have bought it.  It is ok but not exactly what I had hoped for, a sweeter tea.  When I use it with sugar crystals, the tea is better.
+
+product/productId: B000MN2FHQ
+review/userId: A3PW4EWMNEMAEK
+review/profileName: M. Wangelin "wang"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1186531200
+review/summary: Great tasting rice and easy to prepare
+review/text: Easy to prepare in the microwave, takes about 15 minutes and turns out very tasty. Seems expensive here though as compared to grocery store.
+
+product/productId: B005H1AMZA
+review/userId: ARTUS3M5SWQR3
+review/profileName: winderwoman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329782400
+review/summary: Yum!
+review/text: This is soooooo good! It took a little longer than expected to receive because they had run out of it, but it was well worth the wait!  And the price is a bargain, too.  It comes in one gigantic bag, but it is easy to transfer into several small zip top bags for individual use. This will definitely be a reorder item for me, I highly recommend it.
+
+product/productId: B00061KZ2G
+review/userId: A3TA3HQ1ST1C18
+review/profileName: The Salsa-nator "Salsa Sam"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1180569600
+review/summary: Best Salsa on the Planet
+review/text: I consider myself a Salsa expert, and Hell on Red is the freshest, most tasty, addictive Salsa on the planet.  I am not into super hot salsa, so the mild version is perfect for me.  This salsa tastes like it was made right in front of you - - fresh ingrediates, not overly garlicy, no hint of vinegar, etc.  It is the perfect compliment to your favorite chip.  I find myself using HOTR on everything.  This truly is the best salsa in the world.
+
+product/productId: B00061KZ2G
+review/userId: AA7NXYWQBDFZ9
+review/profileName: S. Jones
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1229212800
+review/summary: Best Commercial Salsa
+review/text: Hell On The Red has to be the best commercially available salsa on the market.  It tastes fresh and packs a ton of flavor.  I prefer the mild but my husband likes the hot.  It is perfect for dippping and adding to those special dishes (e.g. guacamole dip, King Ranch Chicken Casserole, etc).
+
+product/productId: B00061KZ2G
+review/userId: A2A3LX9X5U0GYX
+review/profileName: Morning Sunshine "live well, laugh often, lov...
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307145600
+review/summary: The Best Salsa on the Planet!
+review/text: I went to the walmart where I always get it to stock up and they don't have it any more!!!  Does anyone know where to find it.  I'll order it by the case.  Oh yeah, the review...fresh, delicious and low in sodium.  Absolutely the best...hot and mild, but I like the mild.
+
+product/productId: B00061KZ2G
+review/userId: ATHTCOG6BB6WK
+review/profileName: L. Williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343174400
+review/summary: It's Texas Good
+review/text: As a native Texan I love good salsa and Hell on the Red is delicious! It's addictive for salsa lovers. It's so good that you may want to drink this salsa with a straw.
+
+product/productId: B00061KZ2G
+review/userId: A1I44PY4YLY3FH
+review/profileName: Benjamin P. Boyt "Big B"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: Great Salsa
+review/text: Beyond a doubt the best salsa you can buy. I wish stores would carry it. Years ago walmart had it and they quite stocking it. I check for this salsa in every grocery store I go to.
+
+product/productId: B00061KZ2G
+review/userId: A21WQADOB1P62K
+review/profileName: Greg Lasley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304294400
+review/summary: The Last Word in Over the Counter Red Table Salsa
+review/text: In a world filled with a crazy assortment of chipotle, corn, mango, ghost habanero, and raspberry tainted hot sauces, it is reassuring to find Hell on the Red Party Dip on the shelf at your local grocer.  This stuff is so good, it gives you a sense of superiority when you push past the indecisive masses and head directly for its simply designed jar.  And, like the jar, there is no fancy stuff here.  The ingredients on the label are: tomato, onion, jalapeno (includes carrot, onion, vinegar, salt, spices), red pepper, water, garlic, salt, citric acid, and sugar.  This is the only hot sauce I have ever tried that even comes close to restaurant grade salsa.  It even surpasses the red sauce at the vast majority of tex-mex establishments I have been to (and I live in Houston, Texas which is arguably the tex-mex capital of the world).  It's not too chunky and not too runny and it tastes real and fresh, not like it was made to have a post-apocalyptic shelf life.  There is no great disparity between their "mild" and their "hot" and, if the store is out of mild, I will grab the hot.  I prefer to eat mine chilled on corn chips and I can eat a whole jar in one sitting, no problem.  The stuff is addictive.  In the twenty years I've been eating Hell on the Red, I've gone through literally thousands of jars of this consistently high quality and unfalteringly replicated salsa.  WARNING: If you judge your hot sauce only on the heat, look elsewhere.  Hell on the Red is not some childish novelty product designed to be eaten only on a dare.  This is salsa that is made to taste elegantly sublime.  And it does.
+
+product/productId: B00061KZ2G
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1300665600
+review/summary: If you can find it, buy it!
+review/text: Commercially available in Georgia and Alabama I know for a fact, this is the best<br />off the shelf salsa I've ever had. And I think it was only about $3 at the store.<br /><br />Not a dense chunky type salsa, more on the ground tomatoes/garlicy side, but a terrific<br />mild flavor and fantastic aftertaste. Sort of reminiscent of Xochitl but not as expensive.<br /><br />I know somebody said this stuff is hot, its not. Some people think everthing is hot fer<br />crying out loud, but it is much better than Pace or all the other stuff you'll find at<br />the grocery that people think passes for Salsa.
+
+product/productId: B00061KZ2G
+review/userId: A2QZTAESCFV26D
+review/profileName: saracheri
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1220659200
+review/summary: Best hot sauce besides my homemade! ;)
+review/text: I love this hot sauce..it's really HOT which is the way I like it,& it has wonderful spices & flavor. I love this with Tostito's round corn chips..usually eat half the jar as soon as it's open!
+
+product/productId: B000LKVEC2
+review/userId: A26X7W5UM5QFT4
+review/profileName: Grits
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1266105600
+review/summary: Freshly picked apples?!?
+review/text: I haven't been a huge fan of apple sauce since I was a kid, having grown tired of just "so-so" taste that just didn't taste a whole lot like real apples (all I've ever had is the usual grocery store varieties of apple sauce - not bad, but I could take it or leave it).  I decided to try these for snacks.  WOW!  They literally taste like fresh-picked, ripe apples that were quickly turned into apple sauce and served.  We now keep some of these in the refrigerator so there will always be some cold applesauce (though I suspect room temperature would be fine with this product also - just haven't tried it at room temperature).<br /><br />I was unprepared for just how good this apple sauce is - it really does taste like fresh apples.  What more can you ask for?  I reserve 5-star ratings for those products I consider to be way beyond "average" or even "very good."  This product is top notch.
+
+product/productId: B000LKVEC2
+review/userId: A14ZRY02M4NNYF
+review/profileName: kfahrut
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1231804800
+review/summary: Good taste organic apple sauce
+review/text: I've bought this organic - apples only - sauce several times already. Also tried other their mixes of apples with mango, berries, etc. This one I like the most.<br /><br />This sauce is naturally sweet enough as probably made of Golden apples, so if you like more sour apple sauce - try Earth's Best Kidz brand instead, which I also like, now with my daughter joined.
+
+product/productId: B000LKVEC2
+review/userId: A36MP37DITBU6F
+review/profileName: Enchanted  In  Dixie "Enchanted"
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1229990400
+review/summary: Organic applesauce with a mild flavor and not sweet.
+review/text: Got this as we are going organic and we love applesauce. We did not like this one as it only had a mild apple flavor. My sons said he had to try real hard to know it was apple.  So giving this 4 stars since flavor is so mild. Also this is not like the commercial applesauces in stoers this is not sweetended with sugar. so do not expect a sweet applesauce.
+
+product/productId: B0027JC3Y8
+review/userId: AT66IKVKXSI46
+review/profileName: Travis Greene
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344211200
+review/summary: Great treat
+review/text: My boxer loves these.  The only reason it gets a 4 rather than 5 is because they don't last long.  My boxe puppy will eat the in around 20 minutes.
+
+product/productId: B0027JC3Y8
+review/userId: AQV5WGRX4WTK2
+review/profileName: A. Dirling
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1329436800
+review/summary: A little pricy..
+review/text: My pitbull/boxer mix absolutely loved the chew buns. I thought they were cute, but a little pricy. The package only provided two nights of bone chewing. Charlie was able to get through the chew bun in about 15-20 minutes. If they were bigger, or cheaper, they would have gotten 5 stars.
+
+product/productId: B0017OX3FC
+review/userId: A3KFQ2MNP4QA0U
+review/profileName: H. Gold
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254787200
+review/summary: Great Candy
+review/text: Mike and Ikes are my new favorite candy. They are like jelly beans but not quite. I am partial to the tropical flavor but I love them all. If you enjoy candy you can't go wrong with Mike and Ikes.
+
+product/productId: B004LL5DC4
+review/userId: A3NQO91K8IRAXV
+review/profileName: KrysMack
+review/helpfulness: 11/11
+review/score: 4.0
+review/time: 1320364800
+review/summary: I love Silk Almond, but...
+review/text: I already knew what to expect when it came to taste... My family loves the thick, creamy, just sweet enough Silk Almond Vanilla.  But, when it comes to ordering, I feel like I was tricked a little -- hence the 4 stars rather than 5.  The picture implies that you would receive a half-gallon size, whereas when you read, you see that it says 6-32oz. cartons (Quart size).  I didn't read when I ordered, I was in a rush, and after receiving my package, quite timely I might add, I was a little confused.  I had to go back and look at it, and read!! So, the picture does NOT match the product you will receive, just be aware!! Otherwise, it's just as perfect a product as you could ask for.
+
+product/productId: B004LL5DC4
+review/userId: A10CY8I98UB78U
+review/profileName: Misty
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1315267200
+review/summary: Good deal!
+review/text: Good deal for the money, these last a while in your cabinet too...6 separate quarts, my exp date was december, so 2 months to use
+
+product/productId: B004LL5DC4
+review/userId: A1HBVQ3BD0226D
+review/profileName: Anastasia Krupnik
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1316649600
+review/summary: Ok.
+review/text: Silks vanilla flavor has as a more sugary taste than Blue Diamond vanilla. I prefer Blue Diamond, but overall a good milk.
+
+product/productId: B004LL5DC4
+review/userId: A3LA1Z8T3GTUW0
+review/profileName: Mrs T
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336089600
+review/summary: Favorite beverage!
+review/text: I drink this all of the time and find it as satisfying as a small meal.  Added to Ensure, a healing additive also with low calories, gives it a true value to your daily diet.
+
+product/productId: B004LL5DC4
+review/userId: A2DIGW6438MB48
+review/profileName: Darla
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1319846400
+review/summary: ok prefer original
+review/text: Stronger almond taste than original has and I prefer the original. I am not sure how they make this stuff but it is so much better than almond milk use to be (use to be thin watery and strong almond flavor--which you expect because it's almond milk) I can use the original in cooking with no almond flavor interference (used in biscuits yesterday) Probably wont reorder the vanilla but the aseptic containers are nice to keep on the shelf for when you run out.
+
+product/productId: B004LL5DC4
+review/userId: A2GL3WLEN1USDG
+review/profileName: seakayaker
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319500800
+review/summary: Good Value
+review/text: What can one say.....the brand name of SILK is very well known and this is just one of there products. I like the vanilla almond very much. I like that it also has some shelf life.
+
+product/productId: B004LL5DC4
+review/userId: A1LXR7JV63AM60
+review/profileName: David Sheldon
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1314489600
+review/summary: Great sale
+review/text: I received everything as described.  This is delicious milk.  I will definitely order this item again in the future.  Please consider this item if you currently use soy milk, because too much soy can affect your thyroid.
+
+product/productId: B004LL5DC4
+review/userId: A3MFYAUJ17ZR1T
+review/profileName: mia
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: My favorite almond milk - picture is incorrect
+review/text: This product is not the green carton that's pictured above.<br /><br />In addition to Silk, I've also tried Blue Diamond and Trader Joe's vanilla almond milk and I like Silk's the best. However, it's not for everyone since Silk is thicker than the other two - I am also a whole milk drinker and hate 2% or low fat. It's also sweet so having it with other sweet tasting food might not really work.<br /><br />For a nice treat, add some of this to a bowl/cup of ice cream, mmm!
+
+product/productId: B004LL5DC4
+review/userId: A20E4K1OZE0M33
+review/profileName: W. Stevenson
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347667200
+review/summary: 5 stars Silk - 0 stars on Expiration
+review/text: Silk is great stuff, and these aseptic packages are supposed to be good for a year.<br />That doesn't do much good when there is less than 2 months left on the product when received.<br />I stocked up for the winter in case we can't get to town to buy fresh.<br />Ordering Silk via Amazon is a bogus shopping experience; they can't be returned because 'technically' there is nothing wrong with the product.<br />5 stars if you're drinking it next week.<br />0 stars if you're stocking up for 6 months from now.
+
+product/productId: B004LL5DC4
+review/userId: A17JASO35PUSVK
+review/profileName: Ethrem
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339113600
+review/summary: Silk makes the best almond milk around
+review/text: What can I say? It is almond milk and it is delicious. The fortified vitamins are their natural forms, not synthetic, so the body can actually use what it needs and discard the rest. It is very low in calories and almond milk itself has a host of benefits. Unlike the unhealthy soy products, almond milk does not contain any natural plant estrogen so it will not give men breasts and it will not mess with a woman's time of the month.<br /><br />One note as has been said by another reviewer - the picture of the product is wrong. You actually get the 32 ounce aseptic rectangle containers, not the pictured ones.
+
+product/productId: B004LL5DC4
+review/userId: A16ZGTHRAJBQN2
+review/profileName: Patricia Coutee
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338854400
+review/summary: Natural Sweetness
+review/text: Pure Almond is good and has a natural pleasant sweetness from the vanilla.  It works really well if you are eating a blander cereal.  For a cereal with fruit or honey (or anything else) it may seem too sweet depending on your personal prefrences.  Either the original or the vanilla (I'm trying both) I plan to keep using them.  Pure Almond is a welcome edition to a well balanced diet.  <a href="http://www.amazon.com/gp/product/B004LL5DC4">Silk Pure Almond Vanilla, 32-Ounce (Pack of 6)</a>
+
+product/productId: B004LL5DC4
+review/userId: AFE84X6G0BUSR
+review/profileName: Marylene Vogel "Enely"
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1319414400
+review/summary: Not very good
+review/text: I was very disappointed by Silk Pure Almond Original. The taste is`t very good and it is`t made with pure almond. We don`t know what is the percentage of almond.<a href="http://www.amazon.com/gp/product/B004LL7GHO">Silk Pure Almond Original, 32-Ounce Aseptic Cartons (Pack of 6)</a>
+
+product/productId: B004LL5DC4
+review/userId: A1SQ8BJQ1A8VJH
+review/profileName: mj
+review/helpfulness: 3/6
+review/score: 2.0
+review/time: 1323129600
+review/summary: not as picture shows
+review/text: I feel like I was tricked a little -- hence the 4 stars rather than 5. The picture implies that you would receive a half-gallon size, whereas when you read, you see that it says 6-32oz. cartons (Quart size). I didn't read when I ordered, I was in a rush, and after receiving my package, quite timely I might add, I was a little confused. I had to go back and look at it, and read!! So, the picture does NOT match the product you will receive, just be aware!! Otherwise, it's just as perfect a product as you could ask for.
+
+product/productId: B004LL5DC4
+review/userId: ARD5NJPT3E59
+review/profileName: CincyGirl
+review/helpfulness: 2/10
+review/score: 5.0
+review/time: 1310256000
+review/summary: Delicious almond milk..BUT....
+review/text: This is supposed to be on the promo this month, to get the 25% off--you have to use a code and also use subscribe and save. It says there are 10 left, and I went to get 2 of them but it doesn't want to give me the subscribe and save 15% off...only the promo code 10%. I contacted Amazon and was told it's not available at all! What is up with this? If it's available by giving me only 10% off, it's available to give me the subscribe and save 15%, for the total of 25% offered in the promo sale! I'll buy Blue Diamond, the heck with it.
+
+product/productId: B000O3G6WO
+review/userId: A3NGABXDIB0POU
+review/profileName: B-RAD
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330214400
+review/summary: Excellent on Ribeye!
+review/text: Crush this with a mortar and pestle and then mix this with some lite olive oil and soak your rib-eye in it for 30min on the kitchen counter before grilling and you will have the greatest steak you've ever eaten. Also a great additive for home-made seasonings.
+
+product/productId: B000O3G6WO
+review/userId: A1RF0C5YXW2A84
+review/profileName: M. BAKER "Avid Cooker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1199232000
+review/summary: Great product
+review/text: My husband loved this for Christmas. He loves to grill and loves his seasonings. We just recently started by sea salt versus regular salt and really like the way it seasons food more thoroughly. This smoked sea salt I think would be more for fish after tasting it but this company has many other flavors for a variety of meats and vegetables.
+
+product/productId: B000E1BXGU
+review/userId: A30LN6RVEMZ0L4
+review/profileName: Linda Powell "lover of  torrone candy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1170374400
+review/summary: Torrone Nougat Candy
+review/text: The candy was fantastic.  My sweet Italian grandmother lived in Pitttsburgh and came to visit us every year on Christmas day until Palm Sunday when she went home.  She always came with a big box of italian goodies and tasting your torrone candy took me back to my childhood and having my grandma back again.  I miss her so much.  I will definitely be ordering more Torone candy.I am not a fan of chocalate and the different flavors of torrone plus having almonds in the candy scores a #1 with me and my husband.
+
+product/productId: B000E1BXGU
+review/userId: A3YE2D9FCMQ6C
+review/profileName: D. Chambley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1180483200
+review/summary: This candy is so good
+review/text: This candy brings back very special memories for me.  I grew up in Pittsburgh but, when I was 9 my "airline family" moved to the south and left all of the family I knew.  Every summer I would return to Pittsburgh and my Pappap would have a box of Torrone candy waiting for me. He would even send it to us in the mail.  My Pappap died over 25 years ago and I miss him very much.  I have not been able to find this candy here in Atlanta.  I am ordering several boxes.  I am not a big fan of chocolate.  This candy is perfect if your in need of something sweet.
+
+product/productId: B0043GF610
+review/userId: A3OJX18B60PJR9
+review/profileName: DAVERAT "daverat"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334275200
+review/summary: Low Glycemic Index snack w/lots of protein - good for Hypoglycemics AND Diabetics
+review/text: My wife has been buying the 28 ounce bags if this very simple but brilliant conceived product.  The only ingredients seem to be Roasted Almonds a very light amount of sea salt and barely enough to taste it Evaporated Cane Juice crystals.  The Roasted almonds seem to be dusted with the small amounts of salt and sugar and then put into a press and dried until they are one big sheet of uniform thickeness which is then cut to uniform size with really sharp industrial size blades.  If you count each square and only eat the # of sqaures that = 1 serving, you won't get fat and the leftover bits in the bottom make a nice addition to whole grain hot cereals or to homemade chex mix.  My wife eats this stuff as a filling, protein & fiber rich snack or even as part of her lunch with fruit and  a salad of dark greens & veggies.  It doesn't spike her blood sugar ( she has to watch hers since it swings very low and very high).  Also, when she's feeling a low blood sugar headache coming on, she reaches into her purse and eats either half or a whole a serving of this  very vasic snack with some water for fast relief.<br /><br />The genius is in the uniformity of the squares for portion control.  If you count them  and only eat 6 generously sized pieces, you will only get  156 calories, 3 grams of sugar and  5 et carbs when you subtract the fiber (fiber has to be listed as a carb by law).  Once you get used to the amount,  you can figure out how much of the fallen odd bits in the bottom equal 1 serving or do what we do and toss it in with some non-sugar ceareal and a little bit of Cinnamon toast crunch so the kids will have a "sweet Snack" that ain't actually as sweet as they imagine it is!  (we're sneaky parents! oh noes!)  To get this "semi-sweet sback mix," we mix 2/3'rds  wheat chex & generic rice krisps with 1/3 Cinnamon Toast Crunch cereal, shake that up with the leftover broken off bits of toasted almonds from 2 large bags of Mr's Mays Almond crunch, right inside the Mr.s May's Re-sealable bags,  and we get a nice snack we can dole out in 1 cup servings.  You can stretch this mix even further by adding air-popped popcorn and handing it out in kid decorated "popcorn bags" made from grocery store bags and have a nice family movie night complete with a less sinful snack.  Just be sure and scoop up from the bottom to get some of those heart-healthy almonds in your "portion" since the almonds have a way of hading at the bottom of the bag.<br /><br />I realize I sound a lot like "Mr. Snack Hacker" here on Amazon but in these times of rising food prices it would be shameful to let any part of a healthy snack go to waste and often times just by mixing up something new from something they've had before can re-interest kids in a healthy snack.  If being creative is what it takes to prevent food waste, I'm proud to be a Snack Hacker!
+
+product/productId: B0009S1NXG
+review/userId: A2AJTHBFF8TMMU
+review/profileName: Z. Young "zak"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1171238400
+review/summary: Rooster-sauce
+review/text: This sauce isn't really hot, but has a great flavor and is good on nearly everything.<br /><br />In Houston, we call this "ketchup"
+
+product/productId: B0009S1NXG
+review/userId: AU5UN7089LZ02
+review/profileName: L. Belland "Zup"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1174089600
+review/summary: best in the world
+review/text: i put this on everything, fabulous great awesome.  awesome awesome.  not too hot, tangy, good on fried shrimp!
+
+product/productId: B0009S1NXG
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1153612800
+review/summary: Best all-round Asian chili/hot sauce.
+review/text: Very versatile, good in recipes, salads, or just slathered on fish, shrimp, or pork. And particularly good to juice up a Green Papaya Salad. 4 Shrimp
+
+product/productId: B000E7L2T2
+review/userId: A3DSAHJC6HEKJI
+review/profileName: Sherri B. Roman "50Chickens"
+review/helpfulness: 11/14
+review/score: 3.0
+review/time: 1242864000
+review/summary: wrong wheat
+review/text: My items came in great condition, but instead of the hard red winter wheat I got Spring wheat. Go figure.
+
+product/productId: B000E7L2T2
+review/userId: A1JWRBXI430WD0
+review/profileName: Sprout Guy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: Hard Red Wheat Review
+review/text: The wheat has a high germination rate and the only downside is that I thought I was purchasing WINTER wheat, not spring wheat. Still a good product for the money and it sprouts well.  Shipping was quick and product arrived in good condition.  I may purchase again.
+
+product/productId: B000E7L2T2
+review/userId: A2RG6LBN10JOP8
+review/profileName: GG  Williamsburg VA
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1335830400
+review/summary: wrong item
+review/text: Quality is ok, I am using it for jucing wheat grass but it is not hard red winter wheat, I got spring wheat.
+
+product/productId: B000E7L2T2
+review/userId: A22MDO50SGOE5H
+review/profileName: R. Souther
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332892800
+review/summary: Excellent!
+review/text: These wheat berries have been perfect!  I've grown 4 trays so far and made my first juice today after one week of growing.
+
+product/productId: B004726HVI
+review/userId: AUCF9LXE1REK3
+review/profileName: BYJ
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294876800
+review/summary: Great Tasting
+review/text: Tinkyada's brown rice elbow pasta is a great tasting gluten free choice. It is just like having "normal" pasta only better! It cooks just like any pasta, and can be used in any pasta dish. I highly recommend this product.
+
+product/productId: B004726HVI
+review/userId: A3TWBW1B17R151
+review/profileName: liat2768 "liat2768"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1295740800
+review/summary: Almost as good as the real thing
+review/text: My son cannot eat gluten and was heartbroken at the thought of giving up his mac and cheese. I absolutely love the tinkyada line of pastas. I've tried many different gluten free pastas and this one comes the closes to the feel of the real thing. The fact that it is made with brown rice also makes it more rich in fiber than the white rice pastas.<br /><br />It does take a long time to cook - between 15 to 16 minutes -but it is well worth the wait.<br /><br />I have also served this with red sauce and they do fine there too. The pasta does not get mushy or have any strange flavors when it cools (we had a real issue with that when we tried Quinoa pasta). Definitely worth a try if you cannot eat gluten.
+
+product/productId: B000BLER1G
+review/userId: A27JUV4UL6D7TU
+review/profileName: Erika
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341187200
+review/summary: Will make you smile
+review/text: I was looking for something small and silly as a birthday gift for a friend. I definitely made the right choice with these fortune cookies. It was delivered on time, none of the cookies were broken. And it was a big hit with my friend!
+
+product/productId: B000BLER1G
+review/userId: A2EAZCWZ1YVFD2
+review/profileName: Anne M
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313366400
+review/summary: Perfect little gift!
+review/text: I sent these to my sister in-law for her birthday, and she loved them! She texted me that they were seriously one of the coolest gifts she has ever gotten. They are perfect for a little unique gift :)
+
+product/productId: B0017ODTRY
+review/userId: A3AJGUB55SN4HP
+review/profileName: Paulette Stanley "ecogeeko"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1247529600
+review/summary: chips
+review/text: Okay, looks are deceiving and these chips may not LOOK too tempting....however, try one and you might find them to be quite:<br /><br />- tasty...<br />- light, but yet filling<br />- & even quite nutritious<br /><br />  Try 'em,  they are a great snack!<br /> [ASIN:B0017ODTRY Brown Rice Chips 1.7 oz BaG].
+
+product/productId: B004JK65RO
+review/userId: AKHMJGDHSBA83
+review/profileName: Deanna "Deanna"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: candy dispenser
+review/text: This was a gift.  I put chocolate covered espresso beans in it and it works just fine.<br /><br />Great for a football, candy eating friend.  ;-P
+
+product/productId: B0002CRZRW
+review/userId: A3STYKY8ZB83A9
+review/profileName: Won Lee
+review/helpfulness: 17/18
+review/score: 5.0
+review/time: 1106092800
+review/summary: Addicted to this tea.
+review/text: I bought this at the local Asian market, sat down on a rainy weekday to watch Garden of the Finzi Continis and was instantly mesmerized by its freshness, seaweedy taste, and the whole harmony of that moment.  I couldn't get enough of it- I drank 6-8 cups a day for a month.  It's just a great complement to anything that you've eaten.  I bought the Sencha Special Grade from Upton Tea, thinking it must be better than this since it's twice as expensive, but the Yamamotoyama is a shade better for my taste.  I can never go back to tea bags, especially tasteless brands like  Bigelows or Tazo.  I don't mind some black tea bags, but not the fannings they use in green tea bags.  Green tea has got to be one of the best things in life.
+
+product/productId: B0002CRZRW
+review/userId: A1FGDSLZMLYPUD
+review/profileName: wenfei
+review/helpfulness: 12/12
+review/score: 4.0
+review/time: 1142208000
+review/summary: My favorite green tea!
+review/text: The pouch is vacuum sealed and holds about 100gms of delicate, deep-emerald, leaves. I use about a tsp for a 12-16oz cup. It is very important to avoid using boiling water if you want to get the full benefits and flavor of this tea. Water at a rolling boil will overcook the tea and you will notice that the tea quickly turns brown in the cup. If you adhere to directions and use water at 80 deg. C., you will be left with a wonderful cup of GREEN tea that stays green. I absolutely love the fresh, grassy flavor of this tea and it is a wonderful pick-me-up. The first sip of this tea leaves a distinctly sweet note on the tongue even though there is no actual sugar in the tea! I have spent hundreds on different teas, but I keep returning to this one as my staple.
+
+product/productId: B0002CRZRW
+review/userId: AWAQ36MK6VELE
+review/profileName: Jmam "reader"
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1160611200
+review/summary: excellent quality green tea
+review/text: I have consumed two bags of this green tea.  It is an excellent quality tea, balanced in flavor and balanced in terms of the sense of well-being it imparts to the imbiber.  It helps me to concentrate better and helps to even out my moods.  It feels like a good detoxifier to take after eating a meal with a lot of saturated fats or meat, partly because of its anti-inflammatory effects.  It has less caffeine than regular tea or coffee.  Just enough caffeine to give a slight elevation of mood, but not enough to cause one to hyper-concentrate and feel mood swings.  Of course, this tea consists of loose leaves and twigs, and not tea bags.  This is an important concept.  In a typical supermarket, the tea comes in bags and has too much caffeine and is overly processed, which reduces its nutritional value dramatically.  In general, green tea bought from a popular brand in a supermarket does not contribute to the reputation for health that green tea has.  This kind of green tea that is in the natural form is the only kind that does.  I brew it by microwaving water to boiling, then letting the water cool for a couple minutes while stirring it with a spoon to agitate out any oxygen dissolved in the water.  Then put a heaping teaspoon of the tea in it and let it sit for 3-4 minutes.  Very hot but not boiling water is the key.  You will likely find that consuming natural forms of green tea like this one, raw and unroasted, is far superior to drinking most popular brands of tea from the supermarket, or to drinking coffee.
+
+product/productId: B0002CRZRW
+review/userId: A1ND6CKUDBTE5M
+review/profileName: Michael D. Walker
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1163030400
+review/summary: Great tea- great price
+review/text: This tea tastes the same as the top-of-the-line tea I used to buy at Teavana and it costs 1/3 the price.  I rarely drink anyhting else anymore because I cannot find a better tasting tea an any price.
+
+product/productId: B0002CRZRW
+review/userId: A3OKG9QS5ENE7P
+review/profileName: Karen Cantu "greenkiwi"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1213660800
+review/summary: Great tea
+review/text: This tea has a really different taste from anything else, all other green teas will taste old compared to this. The pack it came in lasted me for about 3 months, drinking a couple of cups a week, not daily. I really recommend this if you're intrested in quality tea.
+
+product/productId: B0002CRZRW
+review/userId: A1EAJX56LZKIAU
+review/profileName: Wiver "JCO"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1110412800
+review/summary: This tea has a fresh and nice look
+review/text: This tea tastes great, and it gives a nicely conceived fresh looking feel.<br /><br />I purchase 2 small packages, but I sure will get more.
+
+product/productId: B0002CRZRW
+review/userId: A3HMJJJOZYORWY
+review/profileName: Stephen Mooney
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265760000
+review/summary: Very smooth tasting
+review/text: This is good tasting tea. Be sure to not use boiling water. (180 degreeF) for only 3 min.
+
+product/productId: B0002CRZRW
+review/userId: A31NILFUEWAOSJ
+review/profileName: Perthro
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305158400
+review/summary: Happiness in a cup
+review/text: I don't normally write reviews, but my enjoyment of tea compels me. As someone who has been shifting more and more from bagged tea to loose leaf and delving deeper and deeper down the rabbit hole of tea appreciation, I stumbled upon this item.<br /><br />Having browsed numerous tea shops and gotten a feel for the price of quality tea vs. standard vs. tea dust/fanning, the price on this seemed a bit low for what it claimed. Even so, I wanted a green tea I could have every day, and this had the quantity necessary.<br /><br />So I brewed a cup, and come to find out, this stuff is pretty decent! It did everything I could have asked it to do, and graciously allowed me to infuse it a couple more times. Definitely a tea I could appreciate daily, especially for the price I paid.<br /><br />If you're looking for a quality cup for a low price, give this tea a try, you could do far far worse.
+
+product/productId: B0002CRZRW
+review/userId: AFRP5EJJB1TJI
+review/profileName: anonymous
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1293580800
+review/summary: better tasting green tea
+review/text: ordered the regular sencha and the premium to see if there was any difference. I prefer the premium. Little better tasting, little less tanin at the end.
+
+product/productId: B0002CRZRW
+review/userId: A31LEVBRCI0BQX
+review/profileName: gamerette86
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291420800
+review/summary: very nice tea!
+review/text: I was weary of this tea at first, I opened the bag up and it was a fair amount of leaves but alot of little peices like it was ground up somehow, so I was like thats gonna be crappy..looks are very deceiving with this, its amazing tea seriously good I was really surprised, brew it at 175' and your not going to be dissapointed, if you use a full boil with any green tea you will ruin it. but all and all fantastic yamamotoyama
+
+product/productId: B0002CRZRW
+review/userId: A27YBI2H70MI2Y
+review/profileName: ceta
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1337817600
+review/summary: Yuck!
+review/text: I drink a lot of green tea, which I typically import from Japan.  I'm used to high quality green tea as I lived in Japan for two years.  I thought I'd give this tea a try. Simple:  Yuck...tastes like alfalfa.  For those who think this is quality green tea, they haven't haven't tasted good Netto Gyokuro tea.  There's no comparison. I guess, there's a reason this price is so low.
+
+product/productId: B0002CRZRW
+review/userId: A30P0BZGLHCMI8
+review/profileName: sean
+review/helpfulness: 2/11
+review/score: 1.0
+review/time: 1294963200
+review/summary: not a good tea
+review/text: It doesn't taste like green tea, maybe a little bit like gemaicha? I don't like this tea, and throw away it to trash after drinking several cups. Not sure what reason, I felt dizzy and discomfortable after drinking it. Don't buy it.
+
+product/productId: B001FPV2MY
+review/userId: A2SPS4EMAMWQDI
+review/profileName: Upstate Karen
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1304467200
+review/summary: Rhubarb Spread
+review/text: I should have read the label on this: It is a spread, not jam. The flavor is acceptable, but I've been looking for a good rhubarb (not rhubarb-strawberry) jam since Bonne Maman stopped making theirs several years ago. I'm not rating my disappointment, though--even as a spread I thought this was average. I've also tried Andresy's rose jan (3 stars) and fig jam (4 stars).
+
+product/productId: B001E7653Y
+review/userId: AV5BXKXLYBQ23
+review/profileName: PamGram1 "Pamela"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1196035200
+review/summary: Best Cookie...So Full of Chocolate
+review/text: Just got these in today and opened up 2 of the packages to put them in the cookie jar. They were not any broken and they are delicious. So full of chocolate chips!!!! I recommend these to anyone to get. They came to me in a large box with other things I ordered and they were in great shape.
+
+product/productId: B001E7653Y
+review/userId: A3S15YGZ6W6EV2
+review/profileName: K. Varraso
+review/helpfulness: 7/8
+review/score: 4.0
+review/time: 1183420800
+review/summary: Darned good for a packaged cookie
+review/text: Unlike some of the other reviewers here, our packages of cookies arrived intact, sometimes even overly packaged in that unique-to-Amazon way.  Once we got the cookie packages out of the huge outer box, pushing aside all the bags of air, and then grabbing the inner box (what would be shipped to a supermarket), we found that we had some darned tasty cookies.  Real chocolate chips and a generous amount per cookie, enough to say that it would be tough to take a bite of cokie without getting a chip.  The batter holding things together was good, without nuts or any strong flavoring that would keep it from overpowering the taste of the chocolate.  Nicely crunchy,  as is normal for box cookies.  No one will ever mistake these for homemade, but they are pretty good for packaged cookies.
+
+product/productId: B001E7653Y
+review/userId: A31N6KB160O508
+review/profileName: Fran W.
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1204502400
+review/summary: Excellent taste and shipping
+review/text: I received these recently without any problem at all with the shipping. All cookies arrived intact and the taste is excellent. They are soooooo goood!!! They can be addicting.
+
+product/productId: B001E7653Y
+review/userId: A15JQVNA2VUW2N
+review/profileName: Rockin Angel "City Cowgirl"
+review/helpfulness: 4/5
+review/score: 4.0
+review/time: 1187481600
+review/summary: A chocolate Delight
+review/text: Unlike some of the other reviewers, my cookies arrived in tact!  In fact, out of the 4 containers less than 6 cookies were broken.  The cookies were delightful.  So good in fact that these will be the cookie of choice for Santa this year.  So go grab a glass of milk and indulge in these cookies.
+
+product/productId: B001E7653Y
+review/userId: A38YC9GHJBN2TV
+review/profileName: Trading Pages
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1276214400
+review/summary: One of the best tasting packaged cookies out there
+review/text: I usually hate the taste of prepackaged cookies but these were amazingly yummy. I got the chocolate lovers cookies and they were LOADED with chocolate chips and chunks. In my opinion these easily rivaled store bought unbaked cookie dough cookies once they've been baked and cooled when it came to taste and texture. I loved them and will be buying them on a regular basis.<br /><br />The Keebler elves really got their act together with these cookies. These are WAY better than Chips Ahoy by a long shot.
+
+product/productId: B001E7653Y
+review/userId: A1W1SG0FF2GGPH
+review/profileName: Mrs. Patricia G. Mcgoldrick
+review/helpfulness: 3/4
+review/score: 4.0
+review/time: 1167955200
+review/summary: SunStrike
+review/text: These were very good cookies. I loved the texture and flavor. a nice surprise from a packaged cookie. I would buy again.
+
+product/productId: B001E7653Y
+review/userId: A1UECUMTG3VWOL
+review/profileName: Edward G. Pope "RFRStormer"
+review/helpfulness: 5/7
+review/score: 2.0
+review/time: 1178928000
+review/summary: Great Taste lousy Shipping.
+review/text: Received product, which I purchased from Amazon.  Not a single cookie survived transit.  Nothing but crumbs.  Simply not worth getting from Amazon unless they do a better shipping job.  I would stay away from anything that is fragile at least in the sense of foods and groceries.
+
+product/productId: B001E7653Y
+review/userId: A1B05INWIDZ74O
+review/profileName: M. A. Ramos
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1210896000
+review/summary: Great Tasting
+review/text: Since this seems to be a main concern, I thought I would start with saying that all packages of cookies arrived intact along with a lot of other items I had ordered. Now on to the cookies themselves, they are very good tasting cookies. These taste like real chocolate chip cookies that crumble in your mouth and chocolate in every bite. The flavoring is great for packaged cookie. Yes, I would rather have a cookie home baked and out of the oven. But I will buy these again. I would recommend them for when you just don't feel like baking. For its price, it is the best chocolate chip cookie so far I have had shipped to the house.
+
+product/productId: B001E7653Y
+review/userId: A3FICOMPE2KFGY
+review/profileName: C. Meyer "loves movies"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319328000
+review/summary: Chocolate Chip Coconut Cookies not so yummy - but Amazon was great!
+review/text: I finally found my most favorite cookies through a dealer on Amazon.  After waiting nearly 4 weeks for them to arrive I finally contacted Amazon to let them know that I still had not received the cookies I ordered.  Two days later the cookies arrived - where they went before reaching me is still a mystery.  But I was happy to finally have them as I can't get them in Southern California.  The minimum order was 4 packages and that was okay, I would freeze some for later.  Much to my dismay the supplier just put the four bags of cookies and a box with NO packing to protect them.  So you guessed it....almost all of the cookies were broken into crumbs:  And to top it off the cookies "best if eaten by date" was only 2 days after I received them!  Needless to say these must have been sitting in a warehouse for quite some time.  After contacting Amazon I was able to get a refund for my crushed cookies.  Oh well, maybe I will try again by ordering with Amazon through a different vendor. Thank you Amazon - you were great.
+
+product/productId: B001E7653Y
+review/userId: A1OOWZKVR2SJXP
+review/profileName: P. Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1306713600
+review/summary: Superior to Chips Ahoy!
+review/text: I used to buy Chips Ahoy! brand cookies at the store once in a while because they were my favorite cookie from childhood. It had been years since I even tried a Keebler brand cookie and one day I found them on sale. I found that Keebler Chips Deluxe originals are thicker, fresher, more crumbly (although very few if any were broken in the package), and overall much more melt-in-your-mouth delicious than Chips Ahoy! originals which were thinner, a little harder, and almost a bit stale-tasting. If I remember correctly, the Chips Deluxe cookies package has 2 ounces more in it. I've never been a fan of the soft batch.
+
+product/productId: B001E7653Y
+review/userId: A7HBRCQAXV0I3
+review/profileName: Marjorie Percy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1305072000
+review/summary: Excellent Cookies
+review/text: I enjoyed the cookies very much - in fact, I saw them on sale at the grocery store and bought more.  Good stuff.
+
+product/productId: B001E7653Y
+review/userId: A3GPL5JEP3G1VS
+review/profileName: Incessant Cleaner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304553600
+review/summary: Just as delicious, but not as costly, as Chips Ahoy Chewy cookies
+review/text: The "Soft 'n Chewy" Chips Deluxe cookies are highly underrated. Often overshadowed by Chips Ahoy's Chewy Cookies in marketing and sales, "Soft 'n Chewy" cookies from Chips Deluxe are worth trying if you enjoy cookies that are, well, soft and chewy. I would say these are just as delicious as Chewy Chips Ahoy cookies, but they are also thicker and usually cheaper. Pick one up today and the people in the house with sweet tooths will gobble them up quickly.
+
+product/productId: B001E7653Y
+review/userId: A370Z6I5GBWU44
+review/profileName: M "CultOfStrawberry"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1303948800
+review/summary: pretty tasty
+review/text: Overall, a very good brand of store-bought cookiees. Nothing beats fresh homemade cookies, of course, but if you don't have the time, these cookies are actually pretty tasty.
+
+product/productId: B001E7653Y
+review/userId: AAH5PWJWMPKRQ
+review/profileName: Clyde A. Wittsell "army man"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1249776000
+review/summary: crappy cookies
+review/text: well it was nice that they showed up early but they were all broken into itty bitty pieces. i didnt order pieces of cookies i ordered whole cookies.
+
+product/productId: B001E7653Y
+review/userId: AO09RWV40IX78
+review/profileName: M. Hyatt "AMAZON BUYER"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1236297600
+review/summary: GOOD DEAL!!!!!!!
+review/text: I PURCHASED THESE FOR MY DAUGHTER AS A SNACK AND SHE LOVES THEM. I USUALLY DO NOT LIKE SWEETS OR CHOCOLATE, BUT THESE ARE GOOD. UNLESS YOU SHOP AROUND FOR BARGAINS, YOU CANT BEAT THIS PRICE ON SUBSCRIBE AND SAVE. ALSO THESE COOKIES ARE LOADED W/ CHOCOLATE CHIPS, UNLIKE THE ORIGINAL KEEBLERS COOKIES!
+
+product/productId: B001E7653Y
+review/userId: AYH5WDK7I1A26
+review/profileName: Jorge Akkari
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1164844800
+review/summary: yummmmmmmm................................
+review/text: Are you love CHOCOLATE? here you found one of the best cookie with the REAL CHOCOLATE chunks, every bit is a dream. Trust me Im a real CHOCOLATE LOVER and this one is a black diamond. I read some where some somebody said that is maked with very cheap product, I very desagree with him, this cookies is SUPER.
+
+product/productId: B001E7653Y
+review/userId: A3MTRBPA12XKR9
+review/profileName: Lance White, P.I.
+review/helpfulness: 2/4
+review/score: 4.0
+review/time: 1213833600
+review/summary: Amazon shippers stole a pack of my cookies!
+review/text: Keebler Chips Deluxe Coconut,18-Ounce Packages  (Pack of 4)<br />The cookies are great but someone in Amazon's shipping department took a pack for themselves!  I only received 7 packs but paid for eight.  The package had not been tampered with.  The shame!
+
+product/productId: B001E7653Y
+review/userId: A1E7WJ6971PZT
+review/profileName: T. C. Miller
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1167868800
+review/summary: Dry Cookie Bits, and Bits and More Bits
+review/text: These cookies were ok, just ok.  I may have been inclined to give them three stars had they arrived as whole cookies, every last cookies was broken.  I understand this is probably due to poor packaging.  The consistency was a bit grainy and dry though.  And milk did not help.  Next time I'll purchase a chewy brand or Mrs. Fields.
+
+product/productId: B001E7653Y
+review/userId: A2KOAJM6JCFAJ1
+review/profileName: H Roller
+review/helpfulness: 3/21
+review/score: 1.0
+review/time: 1194739200
+review/summary: 1 gram of trans-fat per 16 grams of cookie!
+review/text: As of Nov 2007, the Keebler website says that each 16 gram serving contains 1 gram of trans fat!<br /><br />Don't take my word for it that this is terrible, because here are some quotations from the survey article<br /><br />Mozaffarian et al "Trans Fatty Acids and Cardiovascular Disease,"<br />The New England Journal of Medicine, volume 354,<br />pages 1601-1613 (2006).<br /><br />Here are a few quotations from this article:<br /><br />"given the 1.2 million annual myocardial infarctions and deaths from CHD ["coronary heart disease"] in the United States, near-elimination of industrially produced trans fats might avert between 72,000 (6 percent) and 228,000 (19 percent) CHD events [i.e. "heart attacks"] each year. These estimates are based on the replacement of trans fats with carbohydrates. In practice, however, trans fats in partially hydrogenated oils would most commonly be replaced with unhydrogenated (cis) unsaturated fats,6 which may have additional potential benefits as compared with carbohydrates. If such additional potential benefit is considered, greater proportions of CHD events (12 to 22 percent) might be averted."<br /><br />Note that the disproportionate percentage of heart disease attributable to trans-fat is astonishing, since the authors point on on the first page that trans-fat makes up only a tiny proportion of the american diet:<br /><br />"The average consumption of industrially produced trans fatty acids in the United States is 2 to 3 percent of total calories consumed."<br /><br />They conclude<br /><br />"On the basis of evidence from in vitro experimental studies, dietary trials, and prospective observational studies, the consumption of trans fatty acids from partially hydrogenated oils provides no apparent nutritional benefit and has considerable potential for harm."<br /><br />Professor Willett (one of the co-authors of the above article) is the chairman of Harvard's nutrition department, the author of the medical school textbook "nutritional epidemiology", and the most-cited author in his field. He has also written about trans-fat for a general audience in his book "Eat, Drink, and be Healthy: The Harvard Medical School Guide for Healthy Eating."
+
+product/productId: B001PLPARG
+review/userId: A268LOQQCRTGUH
+review/profileName: Chris Baker
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1254182400
+review/summary: This is one of the best hot sauces you can get
+review/text: I was first introduced to this sauce about 3 years ago, and it has ever since been a staple in my house.<br /><br />This is a rather mild Habanero sauce showcasing flavor over heat, but the heat is definitely there if you are more sensitive to spicy foods.<br /><br />The flavor of this sauce is a blend of Habaneros, carrots, onions, lime juice and garlic making a balanced "sauce" flavor that does not necessarily showcase the pepper quite as much as other hot sauces.  This is actually what I really like about this sauce because this makes it very useful as a condiment.<br /><br />I have recommended this sauce to everyone I know, and even given (and received) it as gifts.  I can not recommend a sauce any higher, this is a top notch product.
+
+product/productId: B001PLPARG
+review/userId: A94CKYL1PD60Q
+review/profileName: TOBY
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334102400
+review/summary: this hot sauce is DANK
+review/text: basically, i went to Belize a bit ago and i got some of this stuff and i didn't know if i could get more without going to belize, but i tell you what, this hot sauce ruuuuuuuuuules like nobody's business. if i ran out of this stuff and couldn't obtain it by other means, i would probably either go back to belize to buy more or kill myself so i could spend a spicy eternity in habanero heaven or something. i dunno.  point being, yeah. ya know what i'm sayin.
+
+product/productId: B001PLPARG
+review/userId: A1HVF6G8NVAGRQ
+review/profileName: B. Butters
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1330560000
+review/summary: Wow
+review/text: I love Hot sauce and like you if you are reading this I have tried many. Cholula - Gunslinger - Tapatio - Sriracha are some of my favorites, but THIS hot sauce takes the cake. It is absolutely AWESOME - FLAVOR AND HEAT. I need a small bottle to carry around in my pocket so I always have it...hehe  10 Stars if I could give that many !!!
+
+product/productId: B001PLPARG
+review/userId: A10Q3YJ550WG49
+review/profileName: Paul Nguyen
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307664000
+review/summary: Best hot sauce I have ever tasted
+review/text: I was introduced to this sauce by my friend's father who brought it back from Belize. We sprinkled it on some bland, grilled chicken breast and I was blown away by the difference it made. When another friend told me he was going on vacation in Belize, I insisted that he bring me back an entire crate of this stuff. It is perfectly balanced in heat, flavor, and saltiness. I've put it on eggs, pho, ramen, pasta, pizza, chicken, rice, burritos, you name it. You can never go back to Frank's Red Hot after tasting this. The only downside is it is quite expensive for a simple hot sauce. The average person might not be able to justify paying so much for hot sauce, but to a connoisseur it is well worth it.
+
+product/productId: B001PLPARG
+review/userId: AORMSG27C1R63
+review/profileName: VAL "Music Lover"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1250208000
+review/summary: Habanero Pepper Sauce
+review/text: A friend of ours went to Belize and brought back some Marie Sharp's Habanero Sauce.  It is hot but so smooth.  i just had to buy some more.
+
+product/productId: B001PLPARG
+review/userId: A63R763RLHPU5
+review/profileName: R. Silfort "R. Norelus"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344556800
+review/summary: Great Pepper for my Caribeann pepper lovers
+review/text: This is a great pepper from Belize! I highly recommend good for cooking anything! I mean everything and everything. I learned about this pepper from a friend from Belize when living in Jacksonville, FL. It's very tasty and add a good favor to food. I even put it in my rice.
+
+product/productId: B001PLPARG
+review/userId: A1R9YYDZWQ62C1
+review/profileName: Dioni
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335139200
+review/summary: Tasted it by chance
+review/text: I tasted this sauce yesterday by chance in a restaurant, and I'm sold. From now on there will be a bottle of it somewhere around my house all the time. It's really good, balanced, not too hot but surely not mild. Great taste, totally worth it!
+
+product/productId: B0012AQN7G
+review/userId: A2G9E8K0F0CC4T
+review/profileName: Zealot
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325289600
+review/summary: Top quality as expected...
+review/text: Eden products are top quality.  This dulse does not disappoint.  It is no more expensive than the other "leading" brand and comes packaged in glass jars instead of plastic bags.  I wish they had it whole and not just in the flakes.  The flake size is small so you can easily use it as seasoning.
+
+product/productId: B005S3I1AA
+review/userId: A3H09XPMG7HFO5
+review/profileName: R. Perchinske "prchske"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1349222400
+review/summary: Very Creamy!!
+review/text: The peanut butter in these peanut butter cups are very rich and creamy.  I find them more creamy than the Reese's Peanut Butter cups.  Very delicious!!
+
+product/productId: B003X0VNSM
+review/userId: A30IP3E4MDQ36
+review/profileName: J. Brooks
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1285891200
+review/summary: Never thought these cute birds were so delicious...
+review/text: Being allergic to corn REALLY sucks because there are not that many cereals that don't contain corn in them (heck even plain ol Rice Krispies do... didn't know that did you?). So I am very glad to see Barbara's Bakery able to fulfill this need.<br /><br />The Honey Rice Puffins maintain that perfect balance of being sweet, but not too sweet. Far too many sweetened cereals just go overboard in making them so saccharine it's inedible.<br /><br />They stay very crunchy in milk. My preferred method is to have them with some plain greek yogurt, great breakfast or mid morning snack for me.<br /><br />With a solid 3 grams of fiber, 1 gram of fat and only 120 calories per serving, they fit perfectly well in my diet.<br /><br />Tons of crunch, sweet enough to satisfy my sweet tooth, and healthy, can't get much better then this!<br /><br />Pros:<br />Corn free and gluten free (less then 20ppm)!<br />Actually has some fiber in it.<br />Stays crunchy.<br /><br />Cons:<br />Kinda pricy, but that's expected.
+
+product/productId: B003X0VNSM
+review/userId: AG26O2BNSOGAE
+review/profileName: Hopeless romantic
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1307145600
+review/summary: tasty, crunchy rice cereal
+review/text: I buy this product because I am allergic to wheat and corn. It's near impossible to find good tasting cereals without those ingredients. I wish they made other flavors with the same ingredients. I'd like to have a peanut butter flavored cereal!
+
+product/productId: B003X0VNSM
+review/userId: A3GFTDV4OVX6C9
+review/profileName: Jennifer Hamelin "&#34;crafty canuck&#34;"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290988800
+review/summary: Delicious!
+review/text: This cereal is really good. I bought one box at my local store try out and was happy to see Amazon offered it for cheaper, in bulk & in convenient subscribe and save!<br /><br />New morning routine!
+
+product/productId: B003X0VNSM
+review/userId: A2ENA6IHV6O8P8
+review/profileName: joyspirited
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: I bought 12 boxes!
+review/text: a really good quality cereal that actually tastes good. I first bought a box of this locally and could not believe how good it tasted and the ingredients are excellent. They are like little charms of marshmellow and candy taste to me! They are a puffed rice and they will satisfy your sugar craving as they taste deliciously sweet while not giving a sickening sweet aftertaste or feeling after you eat it like other sugar type cereals. you can eat a lot of this or just a small bowl and you will not feel sickly stuffed but satisfyingly full either way :). After this, i'll be branching out and trying new flavors of Barbara's puffins cereals. Yumm!<br />oh, tastes even better with homemade almond milk!
+
+product/productId: B003X0VNSM
+review/userId: A3VADKFEO67NBN
+review/profileName: Jeff
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1342915200
+review/summary: Great GF Cereal
+review/text: This is great gluten-free, corn-free cereal.  It's much more filling than rice chex or rice crispies.  It tastes great (though it has a bit of a bitter aftertaste).  It's pretty expensive (these come in 10 oz. boxes), but it's an ok deal considering how few GF cereals are out there.
+
+product/productId: B003X0VNSM
+review/userId: AA33NUNXXDDUX
+review/profileName: MomofFiveYAY!
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335916800
+review/summary: great cereal for kids and adults
+review/text: These taste great.  Very crunchy.  Nice size for kids to eat dry and not super sticky or sweet...<br />Bought these on a whim, b/c they were on sale at our grocery store... So glad to try these.
+
+product/productId: B003X0VNSM
+review/userId: A132ETQPMHQ585
+review/profileName: Donna's Reviews "I Love Shopping on Amazon!"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1330214400
+review/summary: very bland....
+review/text: very bland....I really wanted to like these..Barbara's Bakery Puffins Cereal, Honey Rice, 10-Ounce Boxes (Pack of 6)Just did not like the flavor or the texture.....I Love her shredded wheat...these I would Not buy again...
+
+product/productId: B003X0VNSM
+review/userId: A16MX9J7TC3QQM
+review/profileName: Kristine Gettis "2cor517"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329782400
+review/summary: Really Yummy
+review/text: we really enjoyed the quality and taste of this product. If you do subscribe and save and have free shipping its a great deal.
+
+product/productId: B003X0VNSM
+review/userId: A7SR3Z8Y3AGUW
+review/profileName: Meka
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327190400
+review/summary: Excellent Snack for my Eczema Child
+review/text: My wife and I struggle for find edible food for our eczema son since allergy tests say he is allergic to just about everything on shelves in the grocery stores. We came across this product at the Whole Food Store. We tried it; and he didn't have an allergic reaction. But then it's very expensive at the Whole Food Store, so we only purchased it occasionally. Then my wife discovered (around July, 2011) that we could get it from Amazon for a much cheeper price. We've been buying it regularly from Amazon ever since.
+
+product/productId: B003X0VNSM
+review/userId: A2BMJDK9Y35AI5
+review/profileName: EMAC
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1317254400
+review/summary: Decent, not great
+review/text: I bought these looking for a good gluten-free cereal and they're decent but not great.  A little too sweet.  Its going to take a while to get through so many boxes.
+
+product/productId: B003X0VNSM
+review/userId: A31G5E0DC9CG3A
+review/profileName: Michael Thorn
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1309824000
+review/summary: Something different and yummy
+review/text: Puffins are a unique shape and taste. They have a great crunch like no other cereal. The bonus is that this flavor is gluten-free. I keep ordering them my the case!
+
+product/productId: B003X0VNSM
+review/userId: A6TOGEJT5XSCI
+review/profileName: Grace Blue Jay
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1308960000
+review/summary: Good but had a slightly odd taste
+review/text: This cereal  is really good, however as I was eating it, I had an odd taste in my mouth. But I couldn't really tell what it was from. Vanilla maybe? Anyway, you get used to it after a while and it very good, I mean, the taste isn't bad or anything..just strange. Well, very crunchy and yum! A bit pricey, but what do you expect? All gluten free food is usually expensive because of the non-gluten ingredients they have to use. Well, VERY GOOD CEREAL! Keep up the good work Babara, I would Love it if you could make some more gluten free cereals, maybe something with chocolate or cinnamon.
+
+product/productId: B001FPUWFW
+review/userId: A8L4HEIP1D18I
+review/profileName: missprism
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291420800
+review/summary: Heavenly!
+review/text: Rich, velvety, smooth and figgy...  What more can you want with goat or sheeps milk cheese...  Expensive (small size jar) but sooo worth it!
+
+product/productId: B001FPUWFW
+review/userId: APFQLJ2NQ0SLL
+review/profileName: sandrina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1246406400
+review/summary: amazing fig
+review/text: An extraordinary confit -- perfect for fresh goat cheese.  The flavor and texture are just perfect.  Neither watery nor too lumpy.
+
+product/productId: B004Y2UMP8
+review/userId: A3NQF0DWK52D73
+review/profileName: JB
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339977600
+review/summary: amazing flavor!!!
+review/text: Love this brand of syrup!!  You will too!!!  I get the Caramel and Vanilla and its the best my husband and I have found to be all natural!!!  thanks!!!
+
+product/productId: B001CDR9RQ
+review/userId: A1EESB2ZOO5OS3
+review/profileName: Forever Art
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1243468800
+review/summary: Excellent
+review/text: The first recipe I made with these lentils was a goat-cheese pie with lentils.  What a delicious intoduction to them.  They are firm, delicious, and cook quickly without getting getting mushy.
+
+product/productId: B008CFR3Q4
+review/userId: A27GMSPOEDI4AR
+review/profileName: chuff425
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348531200
+review/summary: AWESOME
+review/text: I have been using this for a while. 3 Bottles worth. One of the most frequent ways I use this is on steaks. Just Sprinkle a little of this and some fresh ground pepper on both sides. Then Grill them. The steaks come out REALLY good. I don't even use Steak sauce with them. They taste too good to muddle up with a sauce. I have used this many, many other ways. For some reason The only place around here that carried it , STOPPED carrying it. This will be my first Amazon purchase of it. But I'll have 6 bottles of it...I can already taste the steaks...Mmmm
+
+product/productId: B000BGZNWS
+review/userId: A1UZZV3V8D8B6Y
+review/profileName: JenKesh "coffee addict"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1202428800
+review/summary: SUPERB!!
+review/text: WOW. Just a capful of this stuff gives even the strongest expresso a delightful mint zing! Beyond delicious; and if you think that mint and coffee don't go well together then you're sorely mistaken!<br /><br />This syrup is also perfect for teas and even adding a dab of it to basic frosting will serve any mint addict well!
+
+product/productId: B000BGZNWS
+review/userId: A3VZLLY01BZS1W
+review/profileName: A. Helms "Coffeegal"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1216512000
+review/summary: Espresso and baking delight!
+review/text: This product entered my home for a trial and I am not a big fan of mint in my morning mocha, but this syrup is fantastic!  My father loves mint goodies and for fathers day I baked a three layer cake and put 1/4 cup of this syrup in the frosting.  I also topped the cake with crushed fudge covered mint oreo cookies.  My family could not believe how well it turned out and the perfect mint flavor!
+
+product/productId: B001M1V9HY
+review/userId: A224CZ2E4C48WW
+review/profileName: Some Dude
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338508800
+review/summary: This stuff is the bizomb!
+review/text: Put this on your frozen pizzas prior to cooking, and they will taste twice as good.  I also mix it in with breakfast potatoes and other fried stuff.  It's just a great mix of flavors.  Mrs. Dash has the right combo.
+

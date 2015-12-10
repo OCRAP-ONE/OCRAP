@@ -1,0 +1,1143 @@
+product/productId: B000CQE3IC
+review/userId: AKOCTZQVAFCOZ
+review/profileName: Jose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335225600
+review/summary: Tasty snack
+review/text: It is a flavorful snack that provides enough flavor but isn't too salty nor that boring of a snack. It's a pretty good alternative to potato chips or any other snack product.
+
+product/productId: B001A62RYA
+review/userId: A28KNXTOH762YJ
+review/profileName: fonfani
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1292198400
+review/summary: unbelieveable taste
+review/text: this is unbelieveable taste of mint and chocolate. for an advise try it after dinner. Be careful when you start having some you could easily finish the whole pack.
+
+product/productId: B001A62RYA
+review/userId: A2TEYVK0VABAO6
+review/profileName: PoisonSoul
+review/helpfulness: 4/5
+review/score: 1.0
+review/time: 1299628800
+review/summary: Bad
+review/text: When I recieved them in the mail they were squished and melted. It was like having a chocolate and mint dented brick in a box. I couldnt even separate the paper envelopes from the chocolate so that I could eat my chocolate brick.
+
+product/productId: B001A62RYA
+review/userId: A10H1TDUN4FCSK
+review/profileName: Liana Holm
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1325203200
+review/summary: Service excellent, product disappointingly mediocre.
+review/text: It's not the seller's fault, the mints came on time albeit a few were melted. The product itself has really gone downhill in quality, probably because of the cheap ingredients and fillers used in the chocolate. What a shame.
+
+product/productId: B001A62RYA
+review/userId: A3NDX7W3VL5RBA
+review/profileName: jc3
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344297600
+review/summary: Thin mints, if only!
+review/text: The mints actually tasted good.  Regrettably, they arrived as a melted block of chocolate, mint and paper that was impossible to separate or to eat.  If you're going to order this product, I suggest you wait until fall or early spring to avoid the melting phenomenon.
+
+product/productId: B001A62RYA
+review/userId: A17WZM8SU5FGPC
+review/profileName: boo
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1339459200
+review/summary: melted
+review/text: boxes were in good shape and about half of the cookies<br />were melted still made due with what we got
+
+product/productId: B003WEFRZO
+review/userId: A218EGMCY396CG
+review/profileName: happy kitty
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1342051200
+review/summary: Slightly different from the other flavors
+review/text: I usually buy the Peach flavor and that has the perfect chewiness and sourness... but this Apply one just isn't the same. I even double checked the package/sticker to see if it's the same brand or if it's somehow fake!<br /><br />This one is not as chewy and kind of falls apart in your mouth. It's not horribly brittle, but just not as chewy. There are many different kinds of chew...<br /><br />Soft Chew (gummy bears, Bright Crawlers, sour belts)<br />Sticky Chew (Sour Patch Kids)<br />Rubbery Chew (licorice)<br />Jelly Chew (Fruit Gems)<br /><br />and somehow this one is like a mix of 1/3 Jelly Chew and 1/3 Sticky Chew and 1/3 Soft Chew.<br /><br />And the apple flavor is off... tastes too chemically.
+
+product/productId: B001G0NZW8
+review/userId: A1O7B323IRJKCO
+review/profileName: William T. Dodgin "Lucky"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1347235200
+review/summary: Could of been better
+review/text: The Oyster Stew could of been better if it would of had whole oryster's in it. All there is, is pieces of the oryster. You have to add a complete can of milk of equal size to make this soup good. Not the best but it's still pretty good. Will not buy 12 more.
+
+product/productId: B003AP5U6Q
+review/userId: A1U2J07J26KUT0
+review/profileName: BOB
+review/helpfulness: 4/4
+review/score: 4.0
+review/time: 1332201600
+review/summary: Great taste
+review/text: I started drinking the blueberry hibiscus tea because I read that hibiscus helps to reduce blood pressure. I have never been a hot tea drinker until about a month ago. It did take me a few cups to get used to the taste. Now, I really enjoy the taste. I even miss it when I skip my nightly cup. I find it also relaxes me before bed. It is sweet enough that there is no need to add honey or other sweetener. The blueberry is an added bonus! I am willing to pay the steep price because I am trying to find something beside prescription medication to help control my out-of-control blood pressure. The price on Amazon is a bit higher than at Whole Foods where I shop.
+
+product/productId: B003AP5U6Q
+review/userId: A2SV24BD2BVIO5
+review/profileName: L. Dieye
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332547200
+review/summary: WONDERFUL!
+review/text: This tea is absolutely wonderful! I'm not sure what the hibiscus is supposed to taste like, but whatever that flavor is, mixed with the blueberry, it is absolutely wonderful and delicious! there's a hint of both sweetness and tang, and while being a good way to jump start the morning, it's a great way to end the night. Heck, it makes my afternoons better too. I highly recommend this tea!
+
+product/productId: B003AP5U6Q
+review/userId: A2K3S36WLZN2U1
+review/profileName: M. Barkley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: sweet, smooth, delicious tea
+review/text: This is my favorite flavored tea. It is sweet, without sugar, has a smooth flavor without the bitterness of<br />a green tea.  I have purchased this tea several times.  the shipping was quick, the price is a value.
+
+product/productId: B003AP5U6Q
+review/userId: A31YANU64ZKQQB
+review/profileName: Ral
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1326585600
+review/summary: Very good
+review/text: This is very good tea. I just wish you got more for that price. I would recommend it to anyone who's looking for a new good tea to try this.
+
+product/productId: B003AP5U6Q
+review/userId: AZDUBN9DHGCBL
+review/profileName: Alice M. Matson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320105600
+review/summary: Enjoying the Tea that I could not find anywhere else!
+review/text: I searched everywhere for this tea and could not find it until I googled it and found it on Amazon. I had heard that is is useful to lower blood pressure. It tastes good and I have been drinking it every day.
+
+product/productId: B003AP5U6Q
+review/userId: A1FBLTAMN1A6VT
+review/profileName: oO_Shiny
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1300406400
+review/summary: Simply delicious!
+review/text: This tea is smooth and delicious! Not bitter at all and has a lovely blueberry flavor with a pretty color to match. Not to mention the scent is invigorating and will leave your whole room smelling wonderful.
+
+product/productId: B0047T1TPA
+review/userId: A2PMMNSZRA4WDP
+review/profileName: Ime Lost Inthe
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1329782400
+review/summary: Not recommended
+review/text: This product is not worth the price being charged.  The review I tried to leave was not allowed.  This is only 12 cups when you can buy 24 at a box store for half this price.
+
+product/productId: B004I3ZZAA
+review/userId: A2161K33Q5DZ3D
+review/profileName: N. Dillard "nearsighted nonnie"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1304208000
+review/summary: K-cup variety pack is a great sampler
+review/text: So you take the plunge and buy yourself a coffee pot that takes K-cups but you are not sure what flavor to buy. Do yourself a favor and get this variety pack to experience different coffee flavors.
+
+product/productId: B004I3ZZAA
+review/userId: A1SS5P7EF4UCO0
+review/profileName: Cugina Carina
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1303430400
+review/summary: A great way to discover your favorites ...
+review/text: This variety pack has a great selection of high quality coffees--regular and decaf, bolder and lighter roasts, some flavored varieties, one tea, and a very tasty hot chocolate. It was the first pack of k-cups I tried. At this point, I regularly order a single type of coffee and drink the same thing every day (my current favorite: Kona Blend [a bold roast] from Coffee People), but that's me. I do like having this variety pack on the shelf so that I can offer a number of choices when I'm serving guests! Whether I buy it on Amazon or on sale--along with a 20% off coupon--at Bed, Bath and Beyond, this pack has typically had the best price for this number of k-cups, so it's a great value for the money.
+
+product/productId: B004I3ZZAA
+review/userId: A2I7MAXJFJ3F9G
+review/profileName: Paula R. Verdonck
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1310774400
+review/summary: Good Selection
+review/text: This box was a good buy and had a good selection. The only thing that I didn't know, was that it had Tea in it too.
+
+product/productId: B004I3ZZAA
+review/userId: AFCJXL6KO0P18
+review/profileName: Douglas Taylor "D. Taylor"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335916800
+review/summary: For those who enjoy variety in their coffee choice!
+review/text: For those who enjoy variety in their coffee choice! I enjoy a reliable vendor, this is the one that is!
+
+product/productId: B004I3ZZAA
+review/userId: AEMUTE8E1E8XL
+review/profileName: Dancer
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331424000
+review/summary: K-Cup Keurig Variety 60 pack
+review/text: This was a gift for a couple who drink a lot of K cup coffee and have a lot of coffee drinking company. They did not like the selections included. Probably would not buy the product again, will return to giving a gift certificate so the gift recipient(s) can select their own product.
+
+product/productId: B0053T33TS
+review/userId: A4QCWR2V9D6UQ
+review/profileName: David from Tokyo
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1326499200
+review/summary: Not fresh
+review/text: I was very disappointed with this tea, it didn't taste fresh.  It was not delivered in an air tight container and the leaves have very low fragrance and the brewed tea has a poor weak taste.  I felt the decaf teas from Taylor's of Harrogate and Clipper were significantly better.
+
+product/productId: B006DJX4EQ
+review/userId: A3B54U8K3AXC0R
+review/profileName: M. Turner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1329696000
+review/summary: Woodhouse Chocolates Are the Best In the Nation
+review/text: When I lived about 45 minutes southeast of St. Helena, I would be sure to drive there to Woodhouse Chocolates, at least once per month, and indulge in the best, hand-made chocolates, made on site, that I have ever had.<br />The Chocolatier is gifted with such a palette that ever friend in the US that would come to visit me would appreciate her chocolates more than any other.<br /><br />I eventually learned to pay the $6 in next-day shipping to the east bay area and not drive there :)<br /><br />Do know that preservatives are not used; the chocolates are perishable after 2 weeks.<br /><br />You will NOT be disappointed!<br /><br />FYI, buy more than you think you should....here is why...standing within the shop, while ordering, I would usually "down" about 10-12 chocolates, eat more in the car later in the day, and try my best to hang on to a few chocolates for a day or two out. IMPOSSIBLE!<br /><br />Now, I live in Nashville, and one can only be shipped these gems during cooler temperatures. These are priceless.<br /><br />Enjoy!
+
+product/productId: B005H922DC
+review/userId: A1Y6ZDGBC5HFZH
+review/profileName: seymour1442
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Don't eat a sub without it!
+review/text: This is the greatest 'hot' pepper sauce you'll ever find to put on your sub.  In SE Penna, and northern Del., sporting some of the best hoagie and sub shops in the country, when those hot little Italian counter girls look across the board at you and say, "You want peppers?," and you nod affirmative, and they respond, "Hot or sweet?," this is what they're talking about.  No sub, especially an Italian, is complete without Wickles' sub sauce.
+
+product/productId: B004ZR2EYY
+review/userId: A286S765T6MFN9
+review/profileName: Sparky
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1320883200
+review/summary: You will only receive six 1.5 ounce boxes total and not 36 boxes as described as of
+review/text: December 23, 2011. I would like to add this update to the review below. Interestingly I just called another supplier of died organic fruit sold here on Amazon.com concerning some quality issues for their product and I was told that the problem was that their product was improperly stored at the Amazon.com warehouse. That might explain the mediocre quality of the raisins themselves as I mentioned in my receiver below. Nonetheless. it also appears that the pricing issue for this product still has not been rectified. My original review is below.<br /><br />My one star rating is more of a reflection on the pricing errors and description of this product than the taste or quality of the raisins (they are nothing special though and I would give them 2 or 3 stars out of 5 for taste and quality). As of 11/10/2011 the product description states "California Gourmet, Inc. Organic Raisins (1.5-Ounce), 6-Count Single Serve Packages (Pack of 6)" and that the $13.30 and that the unit price is $0.25 per ounce which therefore indicates a total of 54 ounces (36 1.5 oz. boxes) but in actuality you will only receive 9 ounces (6 1.5 oz. boxes) at a price of $1.48 per ounce and one of the highest prices per ounce for organic raisins here on Amazon.com (there are plenty of others brands available for around $0.35 per ounce but mostly in larger packages although Sun Maid 1.5 oz boxes are currently $0.26 per oz. if you "subscribe and save" Please see this link <a href="http://www.amazon.com/gp/product/B004UKJS5E">Sun Maid California Organic Raisins,  1.5-Ounce box  (Pack of 36)</a>). Anyway, I have brought this error to Amazon.com's attention and they indicated they would fix the errors but I thought in would be prudent to write this review in the interim in hopes of preventing anyone else from placing an order based on the unit price or product description thinking that they will receive 36 boxes (would be the best deal here) rather than 6 (one of the worst deals).
+
+product/productId: B004ZR2EYY
+review/userId: AHMZQJ9A7A2AJ
+review/profileName: Adel
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1338940800
+review/summary: Worst raisins ever
+review/text: ripp off.Misleading on the quantity.Don't order!!!!!<br />Dried up raisins and very expensive .I would have never bought it If I knew.That is why I am writing this review so nobody else falls for this.
+
+product/productId: B00017P2KU
+review/userId: A281NPSIMI1C2R
+review/profileName: Rebecca of Amazon "The Rebecca Review"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1193875200
+review/summary: Cinnamon Scented Kitchen
+review/text: Even if you use a mulling spice mix or put mulling spice "tea bags" in your apple cider, it is always more festive when you stir your hot cider or hot chocolate with a cinnamon stick. These cinnamon sticks are also useful when making wassail.<br /><br />Festive Cranberry Pineapple Drink<br /><br />This is a cinnamon spiced non-alcoholic Wassail. The name "wassail" comes from the Norse word "ves heill" and is exclaimed while toasting to good health. At one time, a piece of spiced toast was added to the punch from which the expression of "drinking a toast" arose.<br /><br />1 (64 oz.) jar cranberry juice cocktail<br />3 c. water or more to taste<br />1 (12 oz.) frozen pineapple orange juice concentrate<br />4 cinnamon sticks<br />2 whole cloves<br />Orange slices<br /><br />Measure the cranberry cocktail, water, concentrate, cinnamon sticks and cloves into a 6-quart crockery cooker, heat on low. Serve in tea cups with cinnamon sticks and orange slices.<br /><br />This is a fairly concentrated drink which may be diluted to taste with boiling water. Have a teapot of hot water handy, so your guests can dilute the drink to taste. Fills one 6-quart crockery cooker.<br /><br />R.W. Knudsen has an organic apple juice that is so delicious when heated with cinnamon! It is like drinking an apple pie flavored hot drink.<br /><br />~The Rebecca Review<br /><br />P.S. Make a home freshener by putting 1 sliced lemon, 1 sliced orange, 8 cinnamon sticks, 20 cloves and 4 bay leaves in a pot of hot water. Bring to a boil and then let it simmer. Your entire house will be scented with cinnamon and citrus.
+
+product/productId: B00017P2KU
+review/userId: A1UXDGBDMLYVOI
+review/profileName: Melissa "Melissa"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1189296000
+review/summary: Great quality, great price!
+review/text: I am very happy with all the spices I received from Barry Farm.... yes,the shipping is expensive but if you buy a few things then you'll definitely save money.  You can't even buy one cinnamon stick at the grocery store for this price.... Overall, I say Barry Farms has great prices and great quality!
+
+product/productId: B00017P2KU
+review/userId: A2XMR57G65YL
+review/profileName: Yak26
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349740800
+review/summary: Small
+review/text: These sticks are pretty small. Maybe a couple inches long, thin and you'll get about 15 of them per package.
+
+product/productId: B0038HVE7A
+review/userId: A17HMM1M7T9PJ1
+review/profileName: Timothy B. Riley
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1339372800
+review/summary: So useful it's become a staple in my pantry
+review/text: I am a big fan of hot sauces and have purchased hundreds of different varieties over the years.  I rotate most of them in and out of my pantry and refrigerator.  There are just a handful that I always have on hand and this is one of them.  It's not really a sauce but instead it is made almost entirely of pureed chipotle (smoked jalapeno) peppers. In addition to the peppers there is vinegar, citric and ascorbic acids.<br /><br />The taste is full, balanced, and fresh.  If I listed all of the ways that I use this product it would probably exceed Amazon's word limit for a review.  Here are just a few:<br /><br />*  Mixed with pureed potatoes for a spicy twice baked potato<br />*  Added to stuffing for chicken or turkey<br />*  A way to spice up a soup or stew<br />*  Used as a rub for brisket or even inserted between the skin of a whole chicken<br />*  Something different in a curry<br /><br />I have several other types of Ca Johns Chili purees and I like all of them, however the Chipolte is my favorite due to it's smokiness.  My only complaint is that the cost is fairly high, however, given the number of chilies that go into one bottle it makes sense.
+
+product/productId: B001UUOP5K
+review/userId: A3D08QXKQV6CR3
+review/profileName: A. I. Cram
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349222400
+review/summary: My puppy loves this treat!
+review/text: My Teacup Yorkie loves these treats! He loves to please us and do good things but I think it might be for the treats more than for pleasing us. He will do anything for these treats! I need to buy them by the case! The seller ships quickly as promised!
+
+product/productId: B001UUOP5K
+review/userId: A3RDQS449HC370
+review/profileName: Debbers97058 "Native Oregonian since 1951"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325808000
+review/summary: Once we found these treats....O'my
+review/text: In the past I only purchased Solid Gold Lamb-lung treats for my YorkieXChihuahua, 6+ yr old, Gizmo....can't get it very readily, needed something to replace--that he would eat. Then, I rec'd a sample pack of Train-Me treats in a Christmas stocking for him and his "sister", Mikka, a 2 year old YorkieXPoodle...I was very pleased to find these treats on Amazon, as buying directly from the company that makes them, is NOT a stress-free purchasing pleasure! (hahaha) I give these treats a 2 thumbs up!  (can only say for the Bacon flavor)
+
+product/productId: B001UUOP5K
+review/userId: A12IOWKQ1KQENP
+review/profileName: Istvan "Bruce E"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1269475200
+review/summary: Tasty Treats
+review/text: I have searched the world over to find a healthy, tasty treat for my picky Papillon and Pom. These treats are perfect in size. Small, moist and delicious these treats are perfect for a reward or just a snack. My dogs love them. The resealable bag is nice which keeps them fresh.
+
+product/productId: B001HXHHF0
+review/userId: ATDXJXU5YCMGG
+review/profileName: R. Anderson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1315353600
+review/summary: delightfully addictive
+review/text: These cookies are delightfully addictive.  I stumbled upon them in my local drugstore on the clearance aisle.  I bought every bag they had in stock.  I'm on my last bag and have begun a search to see who imports them in the US.  Yummm!<br /><br />As far as the poster who said they could only eat one...  I wish I had that problem!  I can only eat one at a time as well - one bag that is!
+
+product/productId: B001HXHHF0
+review/userId: A1GGFFZWC5LJJY
+review/profileName: GilnAtlanta
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1337990400
+review/summary: Found at Euro Store in Helen, Georgia today!
+review/text: My wife and I were pleasantly surprised that a European Market in Helen, Georgia had these cookies for only $5 a bag. They are great with hot tea! I highly recommend any cookie aficionado get these cookies!
+
+product/productId: B001HXHHF0
+review/userId: A25XATRSAER2GG
+review/profileName: Reese
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332201600
+review/summary: Mmmm Mmmmm Good!
+review/text: I travel back and forth to Germany for work and I hit the supermarket after I check into my hotel just to pick up a few bags.  It's nice to know I can now get them stateside.  Yes, the price is much more but it's worth it!
+
+product/productId: B001HXHHF0
+review/userId: A147XSLF5UMTIG
+review/profileName: Donna L. Phillipe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1328486400
+review/summary: Best treat and great puchasing experience.
+review/text: These wafers are a family favorite.  I have a difficult time keeping a supply - I've never had a problem with any of my orders.
+
+product/productId: B001HXHHF0
+review/userId: A3G8L4U5W9XMEI
+review/profileName: Eric Gross
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1249344000
+review/summary: Simply the best cookie on planet earth
+review/text: These cookies are delicious in every way and five unbelievably delicious cookies are 170 calories. The cookies are spectacular, sweet, with perfect texture and an absolutely perfect chocolate quality. Of all cookies, these are the best store bought I have every had.
+
+product/productId: B001HXHHF0
+review/userId: A3C2GNZ68067L0
+review/profileName: Anup Paul Jose
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1300924800
+review/summary: Way too sweet
+review/text: I found these wafers too sweet to the extent that you can't eat more than one wafer at a time.. Will never buy this product again.
+
+product/productId: B002EE5H2G
+review/userId: A16J5HGMGX5LWM
+review/profileName: Enovative Solutions Inc Stephenson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1331164800
+review/summary: Delicious, light, crispy  crowd-pleaser!
+review/text: I use these crackers to serve hors d'oeuvres or as part of the savory plate for serving high tea. The crackers are a bit long, so I usually break or cut them in half. They hold up well when you put a spread on them, rather than getting quickly soggy like most GF crackers do. One of my best-received simple ways to serve it is with some onion-n-chives cream cheese, smoked salmon, and a sprig of fresh parsley or dill.<br /><br />My non-GF friends and family like it so much that it's become a staple around our house, and many of them who don't have GF needs still choose to order them for the taste and texture alone.<br /><br />Perfect cracker!
+
+product/productId: B000XB7BKS
+review/userId: A1R22ST5SKJP1G
+review/profileName: Joe
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1336089600
+review/summary: Great Product!
+review/text: As cats are absolute carnivores, they do not need grain in their diet. My 12 year-old cat has been diabetic for the past 5 years and this is the only food I will feed him. It contains 0% carbohydrate and is digested completely, leaving little to remove from the litter box. Also, his coat is shiny and soft. It's not cheap, but he's worth it!
+
+product/productId: B000XB7BKS
+review/userId: A1108V3NFRZHQK
+review/profileName: Don H "Don H"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323475200
+review/summary: IT WORKS!
+review/text: The EVO 95 has been the one thing that has stopped my cat from bleeding when he uses his litterbox...in other words, it stopped his colitis/internal allergies and he's been a healthy, active, loving cat since.  I couldn't get over the difference simply changing from a diet of hard/soft mix...which I was first on Royal Canin for him and then tried SD z/d...then went to this.  It worked...period.  To those bashing the company, quit the hysteria!  IT WORKS...and now both my cats are on it and doing well.  I lost two cats last year, and mine are doing well on this diet...and I'm thankful to have it!
+
+product/productId: B000XB7BKS
+review/userId: A1UZ5G9P3H5PCX
+review/profileName: Galley Goose "Space Cadet"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: Perfectly Soft and Meaty
+review/text: The best thing about this canned food is that it mixes easily with my dogs' dry food.  It's moist and meaty and my dogs really like the chicken and beef flavors the best.  Drier canned foods allow my sneaky dogs to cherry pick the canned food without having to eat their kibble!  I think I've outsmarted them--for a change!
+
+product/productId: B000XB7BKS
+review/userId: A343BCXOPTM49
+review/profileName: Murphy S. Maclean
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330300800
+review/summary: Innova EVO 95% Chicken & Turkey Canned Cat Food
+review/text: Three of my cats LOVE this product. I like that the food does not contain fillers. Cats are carnivores so wheat and corn is not good for them.
+
+product/productId: B000XB7BKS
+review/userId: ANBWB0XIXQ1RA
+review/profileName: Jaymi Mozeak "Saleek"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1228262400
+review/summary: Finicky cat
+review/text: My cat A.J. loves this food and does beautifully on it. I travel alot with her and every Vet says she is the most beautiful cat they'd ever seen. I try to get the assorted case cause she's so picky she'll change what flavors she'll turn her nose up at and which ones she'll eat every few days.
+
+product/productId: B0038336IE
+review/userId: A3G09W90Y483DZ
+review/profileName: Casey Tatum
+review/helpfulness: 10/13
+review/score: 1.0
+review/time: 1307836800
+review/summary: "Cringe..."
+review/text: Yuck. Yuck. Yuck. Ok. While I love Loma Linda/Worthington products I thought perhaps I would give another company a try and ordered the mix pack. I know gluten based veggie meats can be kinda icky but I like the option. We eat vegan at home and we are flexitarians away from home. First can I tried were the breakfast sausage. These are the most edible option they offer. These actually taste good. Then I tried the chicken dinner and the steak dinner and the turkettes and I became disenfranchised with this company's products. The gluten comes out in a watery 'gravy' as they call it which is flavorless and really gross. They could add a thickener and some flavorings but they don't.  The grain meat/gluten product is tasteless and has a very basic texture and is not creative in anyway to conform to the schmeat they are trying to replicate for vegans.<br /><br />Stick with Loma Linda or Worthington, they have some awesome products like ground meat and hotdogs/links that are great for use in everyday cooking. If you are looking for cans of different types of schmeat that all turn out to be the same lumps of brown gluten with no flavor, try Cedar Lake products.
+
+product/productId: B0038336IE
+review/userId: A3P8UMHBOBE6R
+review/profileName: Jessie Heart
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1342310400
+review/summary: Pretty Good
+review/text: They have all kinds of canned food for vegetarians - Chops, Vegeburger, Terkettes, Sloppy Joe, Hostess Cuts, 3 Grain Pecan Patty, Chili, Quik Burger, Dinner Steaks, Vegi-Scallops, Chik'n Dinner, Nuti-Loaf, you name it.  Great meat substitute that is low in fat.  Recommended!
+
+product/productId: B0038336IE
+review/userId: A22D6XQ9HVAJMC
+review/profileName: michellesuette
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350777600
+review/summary: Good Stuff!
+review/text: We enjoyed the products, but we also like veggie meat, so it was a comparison between veggie meats, for us. I like how you can order a case of mix 'n match. Quick ship.  They are expensive, though, pound for pound, it's the same price as meat, or more expensive.
+
+product/productId: B0038336IE
+review/userId: AAWV26JJ1SGS0
+review/profileName: Margaret G. Louk "loves music"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1344384000
+review/summary: Hot Dog!
+review/text: Order received 2 days early.  Large Franks are so good, better than real meat ones.  Looking forward to trying the other products.  Good texture,color, smell and taste.  Definitely would buy again.
+
+product/productId: B0038336IE
+review/userId: A1LZQ9C76R5BAG
+review/profileName: Vic Florio
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343692800
+review/summary: Good variety!
+review/text: I'm not a vegan but I also love looking for meat alternatives for lesser calories and healthier options. The Cedar Lake Food variety is tasty for a completely meat-free food. I personally like the chops, I can cover it with bread crumbs and fry them. Perfect patty for burgers. Buying this lot will give you more tasty options too.
+
+product/productId: B0038336IE
+review/userId: A1HAK9RD8VOOFB
+review/profileName: John Watson
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343692800
+review/summary: Great Buy!
+review/text: This is probably one of the best mix and match of vegetarian goodies that I've seen in a while. I don't eat red meat and my meals are generally consisted of vegetables and soups. That's why when I came across the advertisement of this product, I immediately decided to give it a try. And I must say, these canned goodies are really tasty and nutritious. In fact, I am already thinking of ordering them again.
+
+product/productId: B0038336IE
+review/userId: A29LHX1D9MCUKH
+review/profileName: David Seville "Click Here For Author Bio"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343520000
+review/summary: Pleasantly surprised
+review/text: A friend of mine was eating this since she went vegetarian recently.  I wasn't sure what to expect until I tried it and was pleasantly surprised.  Great to have in the cupboard for a quick veggie meal when convenience maters.
+
+product/productId: B002B942DE
+review/userId: AYE7LI9MI10JS
+review/profileName: D. Huffman
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1259625600
+review/summary: Best Tasting Energy Shot
+review/text: I got a 24-pack of Apple Slam recently and I've got to say, I was very surprised when I tasted it. Most "energy" shots have that taste like you just chewed some skittles along with an aspirin, but this was actually quite pleasant.  It just tastes like sour apple, nothing else. It had quite a decent kick to it too and it kept me running for about 4 hours.<br /><br />Since we had so many, my roommates and I used these as mixers during a party and we ran out pretty quickly. For ~$1 each, they are much more affordable than any other energy shots and they taste much better too. Cheap, tastes good, and it works. I really can't see any other reason to buy another brand.
+
+product/productId: B002B942DE
+review/userId: A2GOE7ITDGYVE
+review/profileName: Lee Brownell
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1282435200
+review/summary: SWEEEEEEET!
+review/text: These were quite cloyingly sweet, I had to mix with seltzer to drink. On the other hand they were quite a bargain compared to other like products. I didn't get a whole lot of lift.
+
+product/productId: B002B942DE
+review/userId: A1T6ANWPOAP3ON
+review/profileName: caffeine_junkie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1280534400
+review/summary: BEST EVER
+review/text: Best energy drink ever. Great for giving long lasting energy through the day. Less expensive than redbull, and much more effective ( and better tasting). DRINK AND BE HAPPY :)
+
+product/productId: B002B942DE
+review/userId: A2X4LR7J5UAGPZ
+review/profileName: Safety James "James"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1264550400
+review/summary: pick -me-up
+review/text: Bottles arrived with wet packaging from some of the tops that were not tightly closed.  A box of 24 plastic containers that were sticky.  Not a low calorie lift- 90 calories /bottle.
+
+product/productId: B002B942DE
+review/userId: A2GP1QHN2GBBUE
+review/profileName: M. Philips "Ezermester"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1263945600
+review/summary: Not so great taste, too sweet and not much energy
+review/text: This was a bit of a disappointment. After reading glowing reviews I go some of this and tried it myself. This is a perfect case for why you shouldn't always believe 100% what others say about a product. I found it too sugary ( too sweet) the taste kind of not really there (supposed to be green apple) and it didn't really give me much of a buzz/ energy that I usually get from energy drinks.
+
+product/productId: B002B942DE
+review/userId: A6KL17KKN0A5L
+review/profileName: K. Harper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263081600
+review/summary: Great taste, great size!
+review/text: Got this for my husband, and he loves the taste. The regular sized energy drink is packed too much sugar, but you can cut the need of finishing huge can! Roughly 50 cents per can is pretty nice too.
+
+product/productId: B007B4TJQE
+review/userId: AWFZ0RL12OQR9
+review/profileName: coffeexdrinker
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350604800
+review/summary: Awesome candies
+review/text: These are fantastic! They have so much mango flavor, and are just delicious. I wish American companies would take note.
+
+product/productId: B004VU5LNQ
+review/userId: A5ZOGXLA3SISG
+review/profileName: Mindy
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349136000
+review/summary: Great, super nutritious raw snack
+review/text: Kind of a scary thought at first.  These taste great.  Although I at some point will try malting them on my own.  This works great for travel or a quick snack.
+
+product/productId: B00412DLD6
+review/userId: APMICRKCKJEF0
+review/profileName: M531
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349481600
+review/summary: A bunch of Skittles in a box.... Just as expected!
+review/text: A big box of Skittles just like expected!  I purchased this box as it was more cost effective than purchasing individual packs for my child every time we went to a game or other event.
+
+product/productId: B00412DLD6
+review/userId: A2NMEEKXHB6671
+review/profileName: Pecan Tan
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322784000
+review/summary: Great!
+review/text: I have a major sweet-tooth and I buy all my candy from Amazon, as I can buy in bulk and save money.  The service, shipping, etc. has always been a good experience!
+
+product/productId: B0054UP808
+review/userId: AMXTGLRVQWZDW
+review/profileName: Laura Goerzen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310947200
+review/summary: Pop Rocks Candy
+review/text: This candy is a classic but it is still just as good now as it was 20 years ago.  It was a great addition to our 80's theme party.
+
+product/productId: B002X9HAV8
+review/userId: A28MO1ICS303GD
+review/profileName: Mercedes
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1345075200
+review/summary: BUYERS BEWARE! Potentially Hazardous & Harmful Ingredients
+review/text: I purchased this product after using Vatika hair oil with great results. I did observe a noticeable difference on my face after just one application. Within 48 hours however I began feeling quite ill. Very severe and excruciatingly painful, deep fleshy lesions began to appear oozing on the back of my neck.<br /><br />In very small print on the container, the last ingredient listed is formaldehyde. Online research reveals that formaldehyde is a known carcinogenic chemical that can cause cancer and severe allergic reactions including deep lesions on the neck. It is very disturbing that the manufacturer would include formaldehyde in a cosmetic formulation marketed as ayurvedic. It is even more disturbing, however, that this ingredient is omitted from the list of ingredients published on the Amazon description. Within 48 hours of discontinuing the product, the lesions stopped propagating, however, it has been over two weeks and the extreme scars from these very serious lesions are healing but remain uncomfortable and pronounced.<br /><br />BUYER BEWARE! This product is potentially extremely hazardous and harmful to your health! I can only hope that the severe injury I experienced resulting from formaldehyde exposure was external and not internal. I am relieved to see that Amazon has now suspended sale of this product, however, I have decided to discontinue use of all Vatika products because of the irresponsible lack of integrity in advertising the Vatika Skin Fairness Pack. This was a very painful and seriously alarming consumer experience that I hope others may avoid.
+
+product/productId: B0001V48BA
+review/userId: A1AN1ZQUBWTKPF
+review/profileName: yvonneg
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1319500800
+review/summary: Arrived open and used
+review/text: I have used this product before and it is excellent.  Unfortunately, when this shipment arrived the seal on the item was broken and some of the product had already been squirted out of the container into the lid.  I can't use it and according to Amazon's policies (pressurized container) I can't return it.  I can't even request a replacement to be sent - very unimpressed with Amazon.
+
+product/productId: B00488TEI4
+review/userId: A1TNL35VDGAXWE
+review/profileName: Jim Gorman Jr
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: My favorite rub
+review/text: I really love the flavor that this rub gives to pork and chicken, not too spicy but a a great flavor to it. It is great on the grill or in the pan, I even sprinkle some over rice and chili to give it a boost
+
+product/productId: B000S4I8M0
+review/userId: A3QIK1MUX8WIN6
+review/profileName: C. Demirkaya
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1267833600
+review/summary: Tasty treat
+review/text: Not much to say. I grew up on this stuff and it is very good.
+
+product/productId: B000LSTC32
+review/userId: A2MHCT3CWQ9C9Q
+review/profileName: HoneyBee097
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1290816000
+review/summary: To my hearts delight!
+review/text: I thought my favorite candies would be gone forever. Peerless candies went out of business after decades of making great staple hard candies... They couldn't compete with china. It took months, about 12, until I found this company and I have to say these candies might even taste better!  You can really taste the honey inside.
+
+product/productId: B004NCF6BO
+review/userId: A11PMACA63EH72
+review/profileName: E. Allen "butter my toast and sugar my tea, h...
+review/helpfulness: 2/3
+review/score: 4.0
+review/time: 1306886400
+review/summary: Unusual yet very pleasant
+review/text: Having recently expanded my tea horizons here lately, I stumbled into toasted rice tea (by another organic company) that I positively fell head over heels in love with and concluded that I can't live the rest of my life without. In addition, the other tea I can't do without is green matcha. So, imagine my surprise when Amazon was selling this little beauty that is a mix of BOTH green matcha and toasted rice. So, I just HAD to give it a shot.<br /><br />I received it very quickly in the mail (thank you!) The tin is beautiful and the perfect size for storage but opening the tin was a bit (very!) difficult as the plastic protective seal was not perforated and sealed very(very!)tightly. It was hard to open even with a knife. I'm sure it was done to further ensure the freshness of product because the tea sealed by yet another interior lid (easy to open, with fingernails) and the actual tea leaves were inside of a foil pouch. Again, no perforation for easy opening and that foil pouch was bound by superglue, so it seemed. The reason I've knocked this tea down by a star --not user friendly.<br /><br />After I overcame these packaging challenges, I had to immediately test it out. The color of the matcha, sencha and rice were a brilliant vibrant green with a earthy, woodsy aroma. A good sign that this tea is high-quality.<br /><br />Immediately, I boiled some fresh water and made a cup for my mother and myself. The directions read to steep @ 165 temp and brew for 1.5 to 2 min. However, I brewed for longer since that was not strong enough. After about 5 minutes and a generous teaspoon of honey...decided to sit down and relax with this tea.<br /><br />The first thing I did was take a deep whiff of this beautiful aroma of earthy toastedness. That alone is worth buying the tea for. Then to actually drink it. WELLL...I'll be honest. It was a bit unusual at first but grew on me very quickly. In the end, it turned out to be a nutty, scrumptious green tea that was very satisfying. My mother could not detect what kind of tea it was, only making the comment that it was "strange but good"  I will be adding this tea to my ever-growing rotation of "favorite" teas.<br /><br />So, the breakdown<br />5 Stars for taste and quality<br />3 Stars for directions on brewing<br />2 Stars for user-friendly packaging
+
+product/productId: B004NCF6BO
+review/userId: A3L2R91DXL4SHQ
+review/profileName: Natalie I. Lockhart "another seeker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1330128000
+review/summary: Fabulous tea!
+review/text: I drink a lot of different teas and tried this out recently.  I'm hooked.  I think the quality is wonderful and yes, it's a bit pricey for the amount you get so I hope I can find it in the future in some bulk form for a discount.  The smell is amazing.  I even eat the tea leaves and the rice when I'm done.  Quite yummy.  I also don't add sugar or honey and just love it the way it is.  Feeling healthy!
+
+product/productId: B004NCF6BO
+review/userId: A2Y7ZQ4ZA152VY
+review/profileName: R. Khurana "drraz"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1317945600
+review/summary: Excellent
+review/text: This Rishi loose teas are excellent.  This one in particular has a very unique flavor.  Very smooth<br />& satisfying with a moderate amount of caffeine.  Try it out!
+
+product/productId: B00427Q5SI
+review/userId: A3BA1AZWGKVY07
+review/profileName: tmd
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: bully sticks
+review/text: Great product, my little Chi's just love these~ They arrived in great condition and were just as described. I would recommend this product for any person who has little dogs and does not want to give them raw hide
+
+product/productId: B001TQQ1EI
+review/userId: A33TLBCXHX0OLD
+review/profileName: Linda Noel
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: Omaha Steaks 8 (12 oz.) Private Reserve Ribeyes
+review/text: Well, Grandpa made out like a king this Christmas.  Grandma bought him some Omaha Steaks (12 oz. ribeyes) and I must tell you that they are delicious!  Gramps shared his steaks with Grams and we had a delightful dinner.  There are six more for him to enjoy and there's not a piece of fat anywhere on them.  They cook even better on the George Foreman grill that went with them as a second gift (also purchased through Amazon.com -- thank you).  It's so easy to clean and he was like a little kid waiting for Santa to finally bring the gifts this year.  Of course, I made out like a bandit this year also, so now we're both flat broke.<br /><br />Who cares?  We have our health, our children and grandchildren, and we have each other for the past 44 years.  Who could ask for anything more?  Thanks to Amazon.com for making our Christmases so special!!
+
+product/productId: B0002QEHTM
+review/userId: A2OQRMU7HF92EQ
+review/profileName: Richard D. Kilpatrick
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1290816000
+review/summary: Roland Major Grey Chutney
+review/text: Became acquainted with the product when living in California.  Now live in Peoria, IL where it is not available.  It is a standard staple in the household, used frequently with a variety of dishes.  We would not like to be without it.
+
+product/productId: B0002QEHTM
+review/userId: A3T1CQAWZP7KK0
+review/profileName: Bodie Eubanks
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305158400
+review/summary: Great flavor and low in sodium
+review/text: Delicious.  I found this product on a list of low sodium items, it's VERY low in sodium compared to regular chutney and I can't taste any difference.
+
+product/productId: B0002QEHTM
+review/userId: A2GYCPGTILI95N
+review/profileName: kaceyr
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: TRY THIS CHUTNEY
+review/text: This chutney is amazing. I love that is it low in sodium, yet still packs a full-flavored punch. The 32oz will go a long way; you only need to use a little to get a great flavor. I have put it on sandwich wraps and salads. Also, It is complimentary when cut with a little bit of light ranch dressing. I could live without this stuff- but it would be hard.
+
+product/productId: B0088NU96Q
+review/userId: ADE2EB52R4JNC
+review/profileName: Bibi
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340668800
+review/summary: Bibi
+review/text: A traditional tea with a sweet twist.  A hint of Indian  flavors tha t transport you to far away lands.
+
+product/productId: B00142I7BM
+review/userId: A1PB97BLMR9X2S
+review/profileName: L. Jenkins "Laurie-J"
+review/helpfulness: 57/58
+review/score: 2.0
+review/time: 1220054400
+review/summary: Some Unusual Flavors But Heavy on Bananas
+review/text: I wanted to try these because the name was catchy, the packaging was bright and colorful and I really like the taste and crunch of freeze dried fruit for snacking. I also purchased this item because it contained a variety of flavors to taste test.  Unfortunately, For a variety pack I didn't find a whole lot of variety. Two of the four flavors were primarily bananas -- Purple Funk (bananas with an acai coating) and Bananamon (bananas with a cinnamon). The flavor I preferred was Jivalime (pineapple and lime). It has a very robust flavor.  The lime is strong and makes it very tart. The Carnival mix was just OK. This was a mixture of banana, pineapple, apple, papaya, and raisins. The pieces were very small in this mix.  I would have preferred  bigger pieces of papaya, apple and pineapple.<br /><br />There are several other freeze-dried fruit mixes that I personally like better - perhaps because they have more traditional flavors. The Crispy Green product line is a favorite of mine and is comparable price-wise to the Funky Monkey products. For great peach flavor try Crispy Green Fruit Snacks, Crispy Peaches, 2.2-Ounce Pouches (Pack of 3).  I also like the Crispy Green dried pineapple snack  Crispy Green Fruit Snacks, Crispy Pineapples, 2.2-Ounce Pouches (Pack of 3).  With Crispy Green you get 3 individual serving bags inside of a bigger bag. You actually get 9 bags of snacks. The extra packaging really does keep the fruit crispy and great tasting for a long time.<br /><br />Sensible Foods also makes a delicious crispy snack called <a href="http://www.amazon.com/gp/product/B000EYRHL2">Sensible Foods Crunch Dried Snacks, Cherry Berry, 0.75-Ounce Pouches (Pack of 24)</a> - great crunch and flavor.  Cherry Berry is my personal favorite but Sensible Foods has several other tasty flavors, too, including a tropical fruit mix.
+
+product/productId: B00142I7BM
+review/userId: AUZE11MP5Y9QY
+review/profileName: Kristen M. McMillian "nrskris10"
+review/helpfulness: 9/10
+review/score: 4.0
+review/time: 1207612800
+review/summary: getting my fruit servings IN
+review/text: I bought and tried the funky monkey snacks and I like them. They are handy to have around, no cutting, no peeling, just eat and go. I don't really care for fruit, so this is an ideal way for me to get my servings of fruit. I do think it is a little expensive, but I think of my health as a priority. These are also very handy if you travel. I took them on my last few flights for snacks. It felt better to eat the fruit snack than my usual chips and candy.<br />Also, these are different than your regular dried fruit, they are airy and crispy. The crunch is great and it's a little snack I can gobble up and feel ZERO guilt about.
+
+product/productId: B00142I7BM
+review/userId: A3HQOLV41USMQG
+review/profileName: Greg Johnson "G.J. Johnson"
+review/helpfulness: 7/8
+review/score: 5.0
+review/time: 1225756800
+review/summary: Amazing Snack!!!
+review/text: This is an amazing snack!!!  I've never had freeze dried fruit that is this good.  It's not chalky at all like all of the other freeze dried fruit brands.  Who knew healthy snacks could taste so good?
+
+product/productId: B00142I7BM
+review/userId: A2HNMB6VPBZ2EO
+review/profileName: N. Atkinson "Balto Mommy"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1265760000
+review/summary: Funky Monkey = Flippin' Delicious & Nutritious!
+review/text: When a girlfriend and fellow mom shared with me and my son these snacks during a playdate, I was curious...my son loves fresh fruit, but I could never get him into dried fruit. Why would these be different? To my surprise these WERE different...Because this fruit CRUNCHES!! The same hardcore crunch just like a chip or a pretzel. He thought it was a treat. And I loved giving it to him. It's 100% Natural, 100% Real Fruit, nothing is added. Amazing! They actually freeze-dry the stuff, which gives it the unique texture and crunch. Plus there are 3 servings of fruit in every bag...perfect for on-the-go parents(sooo much easier than slicing apples or carrying a squished banana in your purse). But what's more is that I loved it! And it helps me meet my daily required intake of 4 servings of fruit per day. I munch on it at the office or in my car. I take it when I travel for work (and we all know how impossible it is to eat healthy and stay on track during business travel). Give it a shot. Purple Funk is my favorite and MangOJ is a close second...but there really isn't a bad flavor in the bunch.<br />Healthy snacking, everyone...
+
+product/productId: B00142I7BM
+review/userId: A2IGFR9JMLSAM3
+review/profileName: Andrea Workman
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1262995200
+review/summary: Delicious amazing product!!
+review/text: This is probably one of the best freeze dried products I've tried recently.  They are really really delicious!  My favorites so far have been the Javalime (lime juice pineapple) and the OJ Mango.  The Javalime is zesty and tingles your tongue!  I was eating the Pink Pineapple (pinepple with guava) with my neighbors and I shared with them.  Their little daughter was over the moon for them!  She loves sweet, but her mom was very happy to let her have this!  It's a bit pricey, but if I could cut back on other snacks and get this I'd be happy!
+
+product/productId: B00142I7BM
+review/userId: A1SHWYXT6I06PB
+review/profileName: Elizabeth M. Perkins "Liz P"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1215820800
+review/summary: Pretty Good
+review/text: My favorites were the Purple Funk (bananas w/acai) and the Bananamon (bananas w/cinnamon). My least favorite was the Carnival Mix because the pieces were all really small and a few times I bit into something hard (I probably wouldn't buy that one ever again). Freeze-dried fruit makes sense because it won't spoil and the fruit doesn't lose any nutrients in the process. If it weren't for the price, I'd order more.
+
+product/productId: B00142I7BM
+review/userId: A25SJGC68SSESL
+review/profileName: Dana M. Erickson
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1209686400
+review/summary: Yummm!
+review/text: These are great!  I feel like Im eating candy, its hard to believe they are just fruit!  I love them all.  The java lime is a bit sour so if you dont like sour these might not be for you.  The rest are all sweet.  I love these and will buy them again.
+
+product/productId: B00142I7BM
+review/userId: A3JZ6L1CTFPNPM
+review/profileName: S. Ritland
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1288828800
+review/summary: Not for me...
+review/text: Obviously we all have our own preferences for taste.  Clearly plenty of people have a different preference than I.  I did not like the texture of these at all.  Almost too crunchy for me.  Also, kind of pastey when you chew it up.  The flavor was ok, I like natural foods, so I am totally fine without the sugary sweet fake flavor, but I think the pastiness took away from my enjoyment of the natural flavor of this snack.  I won't be purchasing again, but don't take my word on it, give it a try, plenty of others love it!!
+
+product/productId: B00142I7BM
+review/userId: ATDX8WCZWQC5J
+review/profileName: Eric The Red "eric_rd"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1254268800
+review/summary: Definitely Tasty!
+review/text: Pros:<br />If you're new to "Funky Monkey", this is the best way to sample several flavors, and add some variety to your sweet snacks.<br /><br />Cons:<br />People watching blood sugar should read the labels. no sugar added but lots of "sugars".
+
+product/productId: B00142I7BM
+review/userId: ANF427AA88P27
+review/profileName: A. B. Roberts "Alexis MB Roberts"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1221436800
+review/summary: Loved by kids and adults
+review/text: My 18 month old loves the funky purple and the cinnamon banana ones. The other flavors were okay, but not loved. So we switched to subscriptions of the two flavors mentioned above. As they say on the package, eat them all at one sitting (or at least in one day) as they don't last after you've opened the package. A great way to take bananas on the road!
+
+product/productId: B00142I7BM
+review/userId: AW5S0IN2XJD6J
+review/profileName: Zubz
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1350691200
+review/summary: OK - but didn't buy again.
+review/text: Took a shot with trying these out.  I thought they were OK tasting, but not a fan of the texture.  They get stuck in your teeth.<br /><br />Again, not a bad item, but nothing really stood out to me.  I ate all of them, but did not buy again.
+
+product/productId: B00142I7BM
+review/userId: A2QFNUCVY491PJ
+review/profileName: daazydawg
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334793600
+review/summary: Good snack, Pineapple Lime rocks!
+review/text: These are great for on the go and at work when you want a healthy snack. They are crispy like chips but less guilt! I like them all but really LOVE the Pineapple Lime flavor.
+
+product/productId: B00142I7BM
+review/userId: A1W9JOFE6F89FB
+review/profileName: Amber MacDonald
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1327622400
+review/summary: A Fast, Easy, and Tasty Snack
+review/text: You know those days you are sitting there wanting a snack but you just don't know what to eat well this has differently filled that void. I was very surprised at the taste of the Funky Monkey snacks due to the fact that I have never had freeze dried fruit before and they were surprisingly tasty. I am also very surprised at all the variety of flavors to choose from. This was a great little snack to also put in my kids lunches for school. Another great thing this helped with is it is just the right size to carry in your purse for if you get the urge to snack on something while shopping, taking your kids to the extra curricular activities while in the car, or while doing homework. Also I am very happy with the price but where I live I will have to order off line because there isn't no store close to my area that carries them.
+
+product/productId: B00142I7BM
+review/userId: A185US3A3IIE5L
+review/profileName: Tuluzek
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1326153600
+review/summary: Kids didn't like them.
+review/text: I would recommend getting a bag at local Target to see if you like them. I personally found these tasty, however my kids didn't.<br />I am not sure why, but taste didn't appeal to them.
+
+product/productId: B00142I7BM
+review/userId: ALL9XFM0Q1N4E
+review/profileName: Monopoly J
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318896000
+review/summary: Freeze-Dried Deliciousness
+review/text: This is the best freeze-dried fruit I have ever had. I did think it was a bit pricey when I tried it but the money is a total value for such a great product. You get some very unique flavor combinations here. It's a great healthy snack!
+
+product/productId: B00142I7BM
+review/userId: A2U58C5IL0TCN4
+review/profileName: S. Rose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295049600
+review/summary: Yummy healthy snack
+review/text: Got the variety pack for Christmas, since we are trying to eat healthy.  So many packaged items have added sugar, preservatives & other ingredients.  Recently discovered I have many food allergies, so my meal options are greatly reduced.  These are crunchy, convenient, and taste amazing.  Ordering more -- esp. the pineapple.  As a comparison, I also got some Sensible Foods cherry berry.  Those also taste good, but the pieces are much smaller and harder to eat.
+
+product/productId: B00142I7BM
+review/userId: AOG2ZJUTNFW1U
+review/profileName: Natanya Auerbach
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1294012800
+review/summary: Love freeze-dried fruit, but not crazy about these
+review/text: I absolutely love freeze-dried fruit, but I don't really like these Funky Monkey ones. The bananas are good, but lime pineapple is pretty disgusting. The Carnival one is okay, but I'd really like it if these had berries in them, at least strawberries. Bananas I can eat fresh year-round--other fruits, not so much.
+
+product/productId: B00142I7BM
+review/userId: A1T3EV51TNH2U8
+review/profileName: Melbert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287878400
+review/summary: Amazing fruit snack
+review/text: These are a really cool way to get in the fruit you need without adding the calories and sugar of normal dried fruit.  The pineapple "Jivealime" is my favorite.
+
+product/productId: B00142I7BM
+review/userId: AYAGG0BDPFPKO
+review/profileName: Ms. Patty
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1285113600
+review/summary: Nice snacks
+review/text: As with any 'variety' pack, I liked some of the flavors better than others; but no complaints. I highly recommend "Bananamon"' and "Carnaval". It's nice to know they are such a healthy alternative to other crunchy snacks; only 2 WW points.
+
+product/productId: B00142I7BM
+review/userId: A2Z08P2W3XMEMG
+review/profileName: Liz
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1282262400
+review/summary: Tasty treats but they should rethink packaging
+review/text: I got these as samples in the mail. The lime/pineapple (Jivealime) flavor is pretty good. Overall the flavors are a tad sweet, but these are fun snacks which I'll definitely try again. They are 100% fruit.<br /><br />I would rethink the packaging though--it's a bit too loud and plastic-like, certainly doesn't look eco-friendly. But it's a tasty product!
+
+product/productId: B00142I7BM
+review/userId: A2ZVV0ZWY1N6V3
+review/profileName: G. L. Wilkie "mom23"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265760000
+review/summary: Great for kids-on-the-go
+review/text: I try to feed my kids minimally processed food as much as possible -- plain yogurt sweetened at home with honey or jam, chicken breast pieces instead of chopped and formed nuggets, regular oatmeal instead of instant.  But sometimes that just isn't possible -- ever tried to pack a banana in a cooler? That's when Funky Monkey snacks are a good option.  They're easy to toss in a backpack or lunchbox, and they don't get yucky even when we forget about them and they spend a couple days there.  The kids like the bright-colored individual packages and enjoy trying out the different flavors, and I feel good about providing a reasonably healthy snack.
+
+product/productId: B00142I7BM
+review/userId: A18I6UBBXX2GJ9
+review/profileName: Kathy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263600000
+review/summary: We LOVE Funky Monkey Snacks!
+review/text: These products are the best snack food we have ever had! Besides tasting great, they are a healthy alternative to snack foods. Family and visitors enjoy having this product to snack on and we always get compliments when we serve Funky Monkey.<br /><br />Funky Monkey....kepp up the good work.
+
+product/productId: B00142I7BM
+review/userId: A2K2LYXYI9U5JR
+review/profileName: P. Floyd
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1255564800
+review/summary: Great alternative to junk food
+review/text: I am trying to cut down on junk food and this is a great healthy alternative
+
+product/productId: B00142I7BM
+review/userId: A1A4H4EOI8G1V6
+review/profileName: InSpace
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243987200
+review/summary: portable fruit yummies
+review/text: These snacks are great! They taste great and they're easy to store and carry especially if you don't have a way to deal with perishable whole fruit. The bananas are my favorite.
+
+product/productId: B00142I7BM
+review/userId: ALVD5VQ4N5GIZ
+review/profileName: Claudia
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1315353600
+review/summary: DISGUSTING
+review/text: I got these for my daughters to try..... They ate a piece of them and, literally, spit them out at me. So, my husband and I tried a piece and it was the most awful taste and texture I have ever had.... no wonder my kids spit it at me!  Don't waste your money, there are lots of better dried fruit options out there!!!
+
+product/productId: B00142I7BM
+review/userId: A3V38KWHVGZ2QR
+review/profileName: David P
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1245456000
+review/summary: Tastes Terrible
+review/text: The product is bitter and very unpleasant to consume. The texture is not crunchy as described and it is not sweet either. I am a big health nut into organic and healthy foods and I thought I would like these but they were a waste of money.
+
+product/productId: B00142I7BM
+review/userId: A1KIK111638QBV
+review/profileName: SF Foodie
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1251158400
+review/summary: yuck
+review/text: I have had other freeze dried fruits (like brothers) and wanted to get some for snacks. These sounded more interesting so I bought them. Big mistake. They are disgusting. As soon as you put them in your mouth, they turn to paste and get stuck in your teeth. They are heavily bananas, instead of being a good variety. The package says they are all natural but the flavors on the fruits taste artificial and very acidic. Amazon doesnt take food back so these are all going in the trash
+
+product/productId: B00142I7BM
+review/userId: A159YVB7VP8K80
+review/profileName: C-Reader "c_a_reader"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1284249600
+review/summary: Delicious and healthy!
+review/text: It's really hard to find snacks that are delicious, healthy, and don't have stuff secretly added that's bad for you.  These are perfect - so sweet, filling and tasty!  I wish more companies would create sweet fruit snacks without having to unnecessarily add sugar.  I've so far tried the pineapple mango, the bananamon, and the apple cinnamon.  All delicious. I only wish they were for sale in more local supermarkets.
+
+product/productId: B00142I7BM
+review/userId: A39RRLQFWCN351
+review/profileName: L. Fox
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1267056000
+review/summary: Yum!
+review/text: These are a great snack for the office and I love all of the flavors! Great variety!
+
+product/productId: B00142I7BM
+review/userId: AX4FCXQ7738JM
+review/profileName: N. Miller
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1267056000
+review/summary: low cal fruit snack!
+review/text: love funky monkey bc its a great low-cal fruit snack! I eat it as a healthy snack at work
+
+product/productId: B00142I7BM
+review/userId: A112UT0MHIH6WJ
+review/profileName: M. Kovacs
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1267056000
+review/summary: Funky Monkey is fun
+review/text: Great snack for the family.  Hard to get the little one to eat fruit and this is a fun way to introduce great flavors into snacking.
+
+product/productId: B00142I7BM
+review/userId: A1CV8XRK7GQU77
+review/profileName: A. Kannenberg
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1245974400
+review/summary: Funky Money
+review/text: Would recommend the banana varieties, I tend to like them best.  This is a healthy, flavorful snack.  I keep them in my desk drawer, rather than going for cookies, etc., I reach for these.
+
+product/productId: B00142I7BM
+review/userId: A1NTEXQX8OI3XS
+review/profileName: AB
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1290902400
+review/summary: stale
+review/text: i purchased a mixed pack and was pleased with the product,until i opened<br />one of the banana w acai packets.i smelled something pretty strong and discovered<br />the odor was from the product in the bag.it was,spoiled,something was going on.<br />i e-mailed funky monkey,to try and find out if their was a problem with this<br />combo- flavor,never even heard back from them.they can keep their product<br />as far as i'm concerned,because they certainly dont care.<a href="http://www.amazon.com/gp/product/B00142I7BM">Funky Monkey Snacks Variety Pack, Freeze-Dried Fruit, 1-Ounce Bags (Pack of 12)</a>
+
+product/productId: B002HFWNAQ
+review/userId: A3Q57R59YQUC14
+review/profileName: S. Stevens
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1251417600
+review/summary: THANK YOU
+review/text: The stores that use to stock this item no longer carry it. I don't know why. Thank you AMAZON. I have been drinking this for years and now I don't have to worry about not finding it. I LOVE IT !!!!
+
+product/productId: B002HFWNAQ
+review/userId: AAI8G6LM4CIFP
+review/profileName: D. Cepulis
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1248480000
+review/summary: Falls short of a dark chocolate experience.
+review/text: Looks like they didn't really taste test this product.  Nothing in the realm of dark chocolate springs to mind when drinking it.  We were disappointed.
+
+product/productId: B002HFWNAQ
+review/userId: A1HRC65J5T4HXB
+review/profileName: G. OShea
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1247961600
+review/summary: creamy and delicious!
+review/text: Im so happy amazon sells this item it is hard to find in my area my whole family loves the french vanilla flavor gives it a better taste!  Highly recommend!!
+
+product/productId: B002HFWNAQ
+review/userId: AV5JGP2VYCZXA
+review/profileName: Kriston A. "day hiker, music lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1247788800
+review/summary: Yummy and fun!  A crowd pleaser!
+review/text: Whenever I have guests over, I offer them a glass of Butterfinger cocoa.  They love it!  It really is fantastic!  My local grocer is no longer stocking this so I was SO happy to find it on Amazon!  Great deal!
+
+product/productId: B002HFWNAQ
+review/userId: A2CQZ2SDKQ2GFK
+review/profileName: two foots
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1244419200
+review/summary: vipsusie
+review/text: Butterfinger hot chocolate is very good. It taste like a butterfinger candy bar. I like using it with my coffee for special treat. I get the satisfaction of the candy bar with a lot less calories and being warm/hot it is extremely comforting.
+
+product/productId: B002HFWNAQ
+review/userId: A3PIHY8BD4AF7D
+review/profileName: NoseDaddy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1243728000
+review/summary: Great value
+review/text: I have been drinking this for years mixed in when I make instant coffee to ameliorate the "instant" taste and drink it stand alone lots of times also.  There ARE richer, creamier, better tasting cocoas out there but I like this stuff and you can't beat the price and the convenience of just adding hot water instead of milk. Its outstanding to carry when camping- light weight and pretty secure in its little bags.
+
+product/productId: B002HFWNAQ
+review/userId: A2NRCEV8ZJJ1WK
+review/profileName: Ann Kirihara
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236124800
+review/summary: One of my favorites
+review/text: I buy Nestle's Fat Free Hot Cocoa mix and add some Fat Free Hazelnut Dairy Creamer, and I have a drink that's low in calories and high in taste.  I got tired of having to go to several different stores to find this size and particular brand.  Those little one serving packets are not for me.  So I was very excited to realize this particular size and brand is carried by Amazon.
+
+product/productId: B002HFWNAQ
+review/userId: A3O4HTMFGLLY8B
+review/profileName: Sunshine Girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1222128000
+review/summary: Hot cocoa in Coffee
+review/text: We use a tsp. of this in our coffee each morning.  I cannot buy it in the store where I live anymore.  I was so grateful to find in on Amazon and it was so easy to order and have delivered to my front door.  Try it you will like it.
+
+product/productId: B002HFWNAQ
+review/userId: AJHQDKGE8CXW1
+review/profileName: S. Garrard
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1198972800
+review/summary: Winter beverage
+review/text: I appreciate being able to purchase this item by the case.  It is my favorite Winter beverage.
+
+product/productId: B002HFWNAQ
+review/userId: A81HAO8KEKBZH
+review/profileName: DeillOptiplex
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1293148800
+review/summary: Great tasting drink.
+review/text: I enjoy this drink every morning before going to work. And my little child loves it so much. This is a rich chocolate drink.
+
+product/productId: B002HFWNAQ
+review/userId: AT7AUGAJUM3OS
+review/profileName: DesertGardenDiva
+review/helpfulness: 4/7
+review/score: 1.0
+review/time: 1286409600
+review/summary: Sugar, corn syrup,  AND artificial sweetener?  No thanks!
+review/text: I bought this 2 pack of Nestle Dark Chocolate cocoa packets for the office.  Unfortunately, even with sugar as ingredient #1 and high fructose corn syrup as ingredient #2, Nestle thought it essential to add sucralose (a sugar substitute, Splenda equivalent) as a final ingredient. That makes for a nasty, saccharin-y, hypersweet and artificial aftertaste.  Nasty.  Guess I will have to go back to Costco for Milk Chocolate Swiss Miss.  Adios, Nestle.
+
+product/productId: B002HFWNAQ
+review/userId: A4902TQB4NGRJ
+review/profileName: tierny
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1264982400
+review/summary: Worst Cocoa Ever
+review/text: Nestle makes some seriously lousy cocoa. If you can taste any cocoa or mint in this bland product, you don't have a human tongue. The drink you're supposed to enjoy smells exactly like bales of hay. And twenty seven clams? Does it come with shares of stock in the company?
+
+product/productId: B002HFWNAQ
+review/userId: AWFUPO7MG0RXZ
+review/profileName: John Crow
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1258156800
+review/summary: Rich Chocolate Mix
+review/text: The taste of this product in my opinion is NASTY to say the least.<br /><br />Nestle's should bring back the recently discontinued (Milk Chocolate) flavor 50000 11164<br /><br />Nestle's you BLEW IT by dropping the Milk Chocolate flavor.<br /><br />Not everyone likes coffee or hot chocolate that is so thick or taste like MUD!!!
+
+product/productId: B002HFWNAQ
+review/userId: A3H0NUX772TWVF
+review/profileName: SB
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1295740800
+review/summary: Excellent product and service
+review/text: The item was received much earlier than was stated on order, came in perfect condition, price was excellent, and product is very good.
+
+product/productId: B002HFWNAQ
+review/userId: A2UG61YSCJT9EM
+review/profileName: Karen K. Spaulding
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1288569600
+review/summary: Nestle Hot Cocoa Mix, Fat Free
+review/text: The box of cocoa came surprisingly fast. That variety of cocoa is not available in our city, so grateful to get it by mail. Most pleased.
+
+product/productId: B002HFWNAQ
+review/userId: ATMZX84O2402O
+review/profileName: Sassafras
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1288310400
+review/summary: Nestle Chocolate
+review/text: I love this product! Thanks for the speedy service and extra packaging that keeps it dry even in the rainy Pacific NW.
+
+product/productId: B002HFWNAQ
+review/userId: A379TF7EJI1DS6
+review/profileName: mycatsadiva "mycatsadiva"
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1268006400
+review/summary: Packaged goods--not so good.
+review/text: I LOVE Nestle Rich Hot Cocoa and I was so excited to find it on Amazon for a reasonable price, but I was really disappointed with the condition of the cans once I got the box they came in opened. Two of the six cans I ordered were crushed on top and one can had a massive gash in it which caused some product to spill out during shipping. This was really disappointing as chocolate isn't cheap. I was also incredibly nervous about using the product not knowing if the gash was man-made or if it was the result of improper handling from the warehouse? Consumers cannot be too careful these days with past cases of product tampering. Overall, I was satisfied with the length of time it took for me to receive the product. I just wish the presentation would have been better. Canned foods should NEVER have holes or gashes in them and crushed cans are usually caused from poor packaging.
+
+product/productId: B002HFWNAQ
+review/userId: A1X3EBEXPHUHFR
+review/profileName: Mary M.
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1231718400
+review/summary: You have to be kidding me...
+review/text: Why the hell would you pay this much when a grocery store is within a few miles from home, costing much less. Someone please explain.
+

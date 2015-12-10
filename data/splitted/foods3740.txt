@@ -1,0 +1,1143 @@
+product/productId: B004L8S6P8
+review/userId: A2LA8PAI92PIWK
+review/profileName: Jake
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333238400
+review/summary: Awesome product and Seller. Good price super fast shipping.
+review/text: Thank you for your excellent product. I hope to buy more in the near future. This product is very good for my mind and body. Thank you again.
+
+product/productId: B000LRKQTM
+review/userId: A15LU40N3Z7SXN
+review/profileName: Huckleberry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1257120000
+review/summary: Maggi
+review/text: This stuff is GREAT!!!! Better than soy sauce. Great on rice, and you can make authentic GERMAN potato salad.
+
+product/productId: B004V4FAC4
+review/userId: A6VKWB820SFZ
+review/profileName: J Cat
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1344384000
+review/summary: Dissapointed in this brand
+review/text: Sad to see that these are made in China. China's pet products have horrible backgrounds, you can easily look that up anywhere. They don't treat their animals humanely and they have been caught using dead dogs to feed to dogs. If you love and respect animals, don't buy pet products from China. I like American made products because it keeps jobs here as well.
+
+product/productId: B00771R6QQ
+review/userId: A1LO4XQT2VL8Z3
+review/profileName: Jesse D. Keilson "Cooking and computers - it'...
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1335657600
+review/summary: Delicious, but would not buy again
+review/text: I love the Chimes Ginger candies... or so I thought.  The sampler pack has some winners and some losers in my book, and I would just buy my favorites in the future.<br /><br />Peanut butter: the best!  Strong ginger flavor tempered by mild peanut butter.<br />Original: Unadulterated sweet ginger flavor.  The one that got me hooked.<br />Orange: Interesting sweet/sour/heat thing going on, would eat again.<br />Mango: It would help if I liked mango in the first place.  Others like these, but not me.<br />Peppermint: Ye gods, this tastes like mouthwash.  It's not well balanced and tastes more like medicine than candy.<br /><br />If you're curious about all the flavors, get this once.  Otherwise, pick your favorite flavors and stick with those.
+
+product/productId: B00771R6QQ
+review/userId: A2K24RXLHBXGW
+review/profileName: A. Sims
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1335398400
+review/summary: lovely exotic candy
+review/text: First had the peanut butter version through a local store.  I was inspired to ordered the variety pack to sample the other flavors.  They're habit forming.  My favs are the peanut butter, mango, and the original.  Who knew ginger could work so well in a candy?
+
+product/productId: B00771R6QQ
+review/userId: A3OS09W1L1SEC
+review/profileName: Asher
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1334620800
+review/summary: Addicted to this candy
+review/text: Love this ginger candy. This is such a great assortment .Its the perfect amount. I hope they continue to carry this item.
+
+product/productId: B00771R6QQ
+review/userId: A1ZX69VD8SZX80
+review/profileName: B. V. Gilbert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349049600
+review/summary: Chimes
+review/text: These things are just great. I love 'em. I carry a few in my pocket always. The ginger flavor always sparkles. Take two a day and call me in the morning.
+
+product/productId: B00771R6QQ
+review/userId: A3RGHV486NPMRS
+review/profileName: dvitz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347667200
+review/summary: Great Product Quickly shipped
+review/text: This wonderful little nuggets with a ginger taste, plus another flavor such as mango or peanut butter are great.  They settle my stomach after a meal and even help with my gastric reflux.  This is a 2-pound bag of all the flavors mixed and meets my needs for about 2 months.
+
+product/productId: B00771R6QQ
+review/userId: AR852WPM2BLCZ
+review/profileName: Novarius
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337212800
+review/summary: LARGE VARIETY!
+review/text: This is a very mixed pack.<br /><br />Orange, Mango, Peppermint, Original, Peanut Butter.<br /><br />They have a very pleasant ginger taste that isn't under or overpowered by their specific flavors.<br /><br />Be warned. Peppermint is hot!<br /><br />Mango tastes a lot like Chilli Mango
+
+product/productId: B000G7WWW6
+review/userId: A2TF8GCSY1R348
+review/profileName: John Schaffer
+review/helpfulness: 9/9
+review/score: 5.0
+review/time: 1261699200
+review/summary: Great biscotti, sources harder to find
+review/text: Like other reviewers, these are most enjoyable to me.  Until fairly recently, the 1-lb 14-oz container was available at a great price from our local warehouse club.  Today however, only the chocolate flavor and in some stores for the holidays the gingerbread flavor is available.  I do enjoy these but the "Originali" is my runaway favorite.  The sources for the 1-lb 14-oz container show prices 40% higher than the warehouse club, and then you have to add unreasonable shipping amounts.  So the deal now is the 12-pack of boxes of 8 for a total of 96 biscotti at a price rivaling the warehouse club.
+
+product/productId: B000G7WWW6
+review/userId: A3KT85K6QPMGSV
+review/profileName: trp "serencymru"
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1164844800
+review/summary: Nonni's biscotti at a bargain
+review/text: I usually buy Nonni's at the supermarket when it is on sale and I have a coupon because they are an expensive luxury. This is a great price, especially if you can take advantage of the $10 off $49 in the grocery department offer.  They are great with coffee or hot cocoa.
+
+product/productId: B000G7WWW6
+review/userId: A1RHTMY2TW9XDL
+review/profileName: Calvin L. Meek
+review/helpfulness: 6/7
+review/score: 3.0
+review/time: 1188604800
+review/summary: Nonni's Biscotti, Toffee Almond
+review/text: I had these Biscotti on vacation and really enjoyed them.  So when I saw them on Amazon, I jumped at the chance to buy them again at a good price.  While the Biscotti were very tasty, they were somewhat stale and not as crunchy as I remember from vacation.  Also, I noticed the expiration date was two months away from when I purchased them.  I don't know what the expiration dates are on those in the local grocery store but I wondered if these were excess Biscotti and that is why they were inexpensive.
+
+product/productId: B000G7WWW6
+review/userId: A3262S1NGMJBYL
+review/profileName: Eva
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1239926400
+review/summary: Great biscotti, but had better price...
+review/text: I've just bought this biscotti at Walmart for $2.88 an 8-pack. Wonderful flavor! Chocolate flavor, with more chocolate on the bottom, deliciously crisp, and has a nice almond flavor, too.<br />However, if you buy 12 pack at Walmart it comes to $34.56, so the price here is not that great. I just don't like when they put a price here, then cross it and make you believe there's a deal you are getting.
+
+product/productId: B000G7WWW6
+review/userId: A2AGOJ4PF4TOE7
+review/profileName: NP
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1167868800
+review/summary: Nonni's Toffee Almond & Lemon Biscottis
+review/text: great product; unfortunately shipping took a toll on the biscotti's (majority arrived in crumbs & broken pieces). Have since ordered an additional 8 boxes. The lemon ones were shipped in a second Amazon box which seemed to provide some additional protective, as only a few were broken in some of the boxes. Would recommend seller in the future ship all 12 pack boxes in a second box and add extra cushioning protection. It would allow folks to dunk their biscotti's rather than have to eat direct from the wrapper and get crumbs everywhere.
+
+product/productId: B000G7WWW6
+review/userId: A35HMLOGI89BG
+review/profileName: AvgMom2
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1281571200
+review/summary: Happiness wrapped in plastic!
+review/text: This is a wonderful snack to have whenever you have a craving for something to munch.  Each box contains 8 individually wrapped biscotti.  I normally don't like biscotti, finding it too hard on my teeth and too boring for my taste.  This brand's biscotti, however, has the perfect combination of sweetness, crunchiness, and chocolaty goodness!  It's made from Kosher ingredients and 100% trans fat free.  I bought a case (pack of 12) so I can share them with my family and friends.  Highly recommended!
+
+product/productId: B000G7WWW6
+review/userId: A2R71LQL6J3OVI
+review/profileName: Barbara Segal
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1262822400
+review/summary: Delicious!!!!
+review/text: Until recently, I was able to purchase Nonni brand Chocolate Decadence Biscotti at some of my local markets.  Then suddenly they disappeared from the shelves.  When I went on-line to the Nonni web page I was told I could order from Amazon...and I did.  The package arrived on time, was packed carefully and not one of the biscotti was broken.  All are fresh, delicious and enjoyed each day. They are individually wrapped, have 100 calories each, do not have strange ingredients...and they are perfect when they are dunked into iced coffee!!!!
+
+product/productId: B000G7WWW6
+review/userId: A1XPQBGLP4D9R3
+review/profileName: PC "Happy Golfer"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1168819200
+review/summary: We Love Nonni's!
+review/text: We just love Nonni's Biscotti products -- especially the limone!  It's always refreshing -- not too sweet/not too tart.  Finding them on Amazon was exciting because we haven't found them locally since coming to Florida.  The product offered by Amazon was also a great bargain!
+
+product/productId: B000G7WWW6
+review/userId: A2VOZDJSB4VT3J
+review/profileName: Deborah Blackwell "Celeste"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1167868800
+review/summary: Quality Biscotti by Nonni's
+review/text: Nonni's uses real butter in this product as well as most if not all of their products.<br /><br />Premium ingredients for the flavorful Biscotti you want to enjoy and share with your friends.<br /><br />rich chocolate, to be savor with coffee or milk, for the entire family.<br /><br />Nonni's is top of the line in premium Biscotti.<br /><br />Enjoy, you'll be glad you did.
+
+product/productId: B000G7WWW6
+review/userId: A28464LEXC2XC8
+review/profileName: John L. Ferring
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1166227200
+review/summary: Nonni's Biscotti Products
+review/text: Nonni's Biscotti is a good quality and tasty Biscotti. It is also available in most stores and supermarkets. Occasionally supermarkets have sales on Nonni's Biscotti, and when they do, It is much more cost effective then buying their product online which is higher priced. Overall, It is a good buy when Amazon can compete with those sales prices.
+
+product/productId: B000G7WWW6
+review/userId: AEO6QAIYMNOH8
+review/profileName: Marlene
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1162684800
+review/summary: Just right
+review/text: This is a delicately flavored, not too sweet treat.  Just the right thing for that mid morning coffe break and indivdully packaged for convenient transportation to work.
+
+product/productId: B000G7WWW6
+review/userId: A8IMWE5BZ2HDV
+review/profileName: Gerre S. Deibert "writer-to-be"
+review/helpfulness: 5/7
+review/score: 2.0
+review/time: 1190592000
+review/summary: Could be better.
+review/text: The nuts are too hard for my teeth.  Also, delivery was made by UPS, which must have put the items on their truck in the morning but didn't deliver until 7 o'clock that evening.  By then, in the Florida heat, the chocolate coating had melted and stuck to the wrappers.  Would not order by mail again.
+
+product/productId: B000G7WWW6
+review/userId: AMBNTA6S3SD2S
+review/profileName: MOMOF5RUNTS "deboltt"
+review/helpfulness: 4/6
+review/score: 4.0
+review/time: 1163376000
+review/summary: THESE ARE GOOD BUT WERE BROKEN.
+review/text: THESE BISCOTTI COOKIES WERE GOOD BUT THEY ARE SHIPPED IN THIER ORIGINAL CASE WITH NO PROTECTION.  EVEN THOUGH THEY SAY THEY ARE FRAGILE AS EGGS THEY ARE NOT TREATED SO BY UPS.  ORDER THEM IF YOU DON'T MIND SOME BEING BROKEN IN HALF OR A FEW PIECES.  BUT IF YOU WANT THEM WHOLE FOR ENTERTAINING BETTER NOT GET THEM HERE.
+
+product/productId: B000G7WWW6
+review/userId: ALHLA8UE7JFQT
+review/profileName: Michele "shivanslayer"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1176854400
+review/summary: OUTSTANDING BISCOTTI
+review/text: I ordered this for my mom - and my mom raved about it.  Because of the way it is packaged, she has even been able to share some biscotti with her friends!  This biscotti is addictive - bet you can't just eat 'one'...
+
+product/productId: B000G7WWW6
+review/userId: A1E5XEKL37OFHR
+review/profileName: Bee Dalton
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1175472000
+review/summary: Better than expected
+review/text: I looked all over for the Limone Biscotti after receiving a few at Christmas.  Unfortunately you can only get them in a combination package or in limited quantities.  So this opportunity to purchase a case was perfect.  My entire office enjoys having these biscotti with their morning tea or coffee.  You can't beat Nonni's.
+
+product/productId: B000G7WWW6
+review/userId: A1U1AM81NT3F3L
+review/profileName: Beverly Kingsley
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1167868800
+review/summary: Delicious and decadent
+review/text: Best biscotti I have ever had, and I have tried a lot.
+
+product/productId: B000G7WWW6
+review/userId: A23YY2CL142XCF
+review/profileName: Donald N. Bonacci
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349654400
+review/summary: biscotti from Amazon
+review/text: Good flavor and texture. Individual wrapped, stays fresh for 3 or more months. Flavor chocolate with pecan over cookie base. Wonderful with cookie or tea.
+
+product/productId: B000G7WWW6
+review/userId: ARBDAF7RL723E
+review/profileName: Jeanette R. Thompson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348963200
+review/summary: too expensive
+review/text: There is nothing wrong with the product itself and that is the 5 star rating.<br />The prouct is very good.<br />My complaint is with the price!!!<br />I paid $35.99 for 6 boxes which comes to $5.99 a box.<br />I found the same thing at Wal-mart for $2.99 a box.<br />I could have bought 2 boxes at Wal-Mart for what I paid one box for through Amazon.<br />Not Good!!!<br />Jeanette
+
+product/productId: B000G7WWW6
+review/userId: A202OWUWWR40WV
+review/profileName: Debbie Reaney Perkins
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346889600
+review/summary: These are the best
+review/text: Love these!!!!!!  I have been trying for months to get more but can't find any where!!!!!!!!!! i would definently order multiple boxs if I could find them
+
+product/productId: B000G7WWW6
+review/userId: A3OXHLG6DIBRW8
+review/profileName: C. F. Hill "CFH"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1315353600
+review/summary: Really Good - Highly Recommended
+review/text: These Nonni's Biscotti "Originali" are truly great tasting and, surprisingly, only have 90 calories each! My wife found these at local specialty store and they have quickly become a favorite when we sit down for coffee or tea.<br /><br />The almond flavor is perfect and the individual wrapped "cookies" keeps them fresh even after the box is opened.<br /><br />Highly Recommended!<br /><br />CFH
+
+product/productId: B000G7WWW6
+review/userId: A3MNF5ZVO6A4D7
+review/profileName: K. Weyhrich
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292630400
+review/summary: Yummmmmm
+review/text: This biscotti is graced with a thin layer of limon (lemon) frosting sweetness.  Not the tough biscotti that has to soak for 10 min. before it can be eaten, these are easy to eat like a cookie, or quickly absorb your hot beverage.  My Japanese exchange student loved these, and when she returned with some to her home in Nagano, her mother wanted more!  So I purchased a case of my own and have sent her a couple of 8-count boxes as a present.  I have been unable to find them in the local grocery stores like I used to.  Other flavors are still available in stores, but not my beloved limon!  But they can be ordered!
+
+product/productId: B000G7WWW6
+review/userId: AEM5U7R1QBGI0
+review/profileName: RUserious_8 "RUserious_8"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286236800
+review/summary: DEEEEElicious.
+review/text: Little did I know that this product was that special. Well, it IS.<br />I'm so glad I ordered more than one package. Patting myself on the back.
+
+product/productId: B000G7WWW6
+review/userId: A20E5WO2UJ97O3
+review/profileName: L. A. Powell "lapales"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1267574400
+review/summary: Nonni's is my favorite
+review/text: I am a real biscotti fan.  I have ordered several Nonnie's flavors.  While I still give the plain my hightest mark, this turtle flavor was very good too.  The chocolate on the biscotti is very good.  Definitely four stars!
+
+product/productId: B000G7WWW6
+review/userId: A2TTHNVQVSXEM5
+review/profileName: Nancy L. Anderson "Nance"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266364800
+review/summary: Love these!
+review/text: My husband and I love these!  We have them every day with our coffee and so much more economical to buy a case at a time from Amazon rather than individually at the grocery store.  Not only are they "delish" but at 100 calories per cookie, it's a guilty pleasure!
+
+product/productId: B000G7WWW6
+review/userId: A6MKPA7DXUUGO
+review/profileName: Julia Tanner
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265932800
+review/summary: Quick and Fresh!
+review/text: My biscotti was sent in a very timely manner. I believe it took about two days to get to me. It was nicely packed and extremely fresh. Thanks Amazon!!
+
+product/productId: B000G7WWW6
+review/userId: A193NC95TBAN6J
+review/profileName: Toni
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265760000
+review/summary: biscotti
+review/text: I love caramel latte, and have trouble finding it in my area. This is why I ordered it from Amazon. It costs a little more, but worth it, and will continue to order through Amazon if necessary.<br />Toni
+
+product/productId: B000G7WWW6
+review/userId: A2VM6C57UDC1JD
+review/profileName: Gladys M. Castleberry "Tootiedoglady"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265760000
+review/summary: Nonn's Biscotti, Limone
+review/text: Nonni's Biscotti, Limone, 8-Count Boxes (Pack of 12)<br /><br />In my opinion, ths is the best biscotti on the market today.  I usually eat at least two each morning with coffee - delicious!!  I also really like the original biscuit without the lemon flavoring.
+
+product/productId: B000G7WWW6
+review/userId: A2WM8SLAXD7MHK
+review/profileName: Martin Matza "silvercloud"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264291200
+review/summary: Superb manner to begin new day !
+review/text: While quite crunchy @ room temp. ,have found frozen approach verry '"crunchy"' ~ great product ,using anti_oxidant properties of 'dark chocolate' ~ that is all
+
+product/productId: B000G7WWW6
+review/userId: A3THJWYP3QZKKN
+review/profileName: Jill E. Rankin "jrmom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1263686400
+review/summary: Great for Gift Baskets
+review/text: I bought these with Torani Syrup and some Dunkin Donuts Coffee. Perfect Coffee Basket. These Biscotti are Delish!!!! They are indiviudally wrapped. I will buy them again!!!
+
+product/productId: B000G7WWW6
+review/userId: A2AP8A9F5D4XRB
+review/profileName: Linda K. Harris "Rudy's Mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1261612800
+review/summary: Wonderful Chocolate Treat
+review/text: I was delighted to find this product on Amazon because I can no longer buy it locally.  It has a wonderful deep chocolate flavor and a friend and I enjoy one every morning with our coffee at work.  I also like the fact that it's only 100 calories.
+
+product/productId: B000G7WWW6
+review/userId: A2YIO225BTKVPU
+review/profileName: Angel_Boy "Treat the people around you the wa...
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1258243200
+review/summary: YUMMY
+review/text: Good cookies; but too expensive now. I used to buy them a couple of years ago and they were $10 less. I think they're too expensive now.
+
+product/productId: B000G7WWW6
+review/userId: AEHZEE0NVL48C
+review/profileName: Janet I. Thomas "bookworm"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1254787200
+review/summary: Lemon flavored cookies - YUM!
+review/text: I found the lemon flavored Nonni's Biscotti at my local grocery store,in the deli section.<br />The other flavored cookies did not appeal to me. They were too heavy and hard. These<br />lemon flavored ones are great dunked in my hot tea. I usually have 2 a day and greatly<br />savor them as I work at my computer. I try and enjoy these treats five times a week.<br />By the way, they quit handling my Limone Biscotti at my store and I went looking for<br />a new source and found it thru Amazon.com. Many thanks for your service and prompt<br />filling of my orders.
+
+product/productId: B000G7WWW6
+review/userId: A3UUTDX2WNVUS3
+review/profileName: S. Whitworth "Hannah's Mommy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1253232000
+review/summary: Nonni's Biscotti - Cioccolati
+review/text: These are high quality biscotti that you come to expect from a brand like Nonni's.  There are no disappointments to be found with this product.  The tastes is fresh and the bittersweet chocolate is to die for.  I even love the anise seeds.  This pairs well with P&G tips tea or any of your favorite Keurig coffees.  None of my biscotti have been broken and I am on my second box.
+
+product/productId: B000G7WWW6
+review/userId: AFMDCHZ7BYO58
+review/profileName: Martha T. Wilson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252713600
+review/summary: Best Biscotti flavor
+review/text: Limone is hard to find in our area. I think this is the best flavor available so we ordered a case.....
+
+product/productId: B000G7WWW6
+review/userId: A14Q5D3QYA8FPV
+review/profileName: Shopper
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1245283200
+review/summary: Not a fan of biscotti in general, but Nonni's get two thumbs up!
+review/text: I am not normally a fan of biscotti. Typically, they involve a stale cookie with too much crumble, too much poor quality dark chocolate, and not enough taste...This one however, is different! Let me start with the price: on Amazon I paid 40% less (!!!) with free delivery, then in my grocery store! Hurray! Other then that, why Nonni's?<br /><br />1) They are not as dry and crumbly as other biscotti I have tried over the years. The toffee adds a bit of moisture without being gooey. They are gentler on my teeth, but still with enough cruch to make one biscotti a satisfying snack (at 110 calories), and allow for dunking.<br /><br />2) Individually wrapped, they keep fresh and moist (as moist as a bicotti can possibly be...) for quite a long while. It is good to have an extra box or two for unexpected guests.<br /><br />3) MILK chocolate!!! (I HATE dark chocolate...I'd rather eat spinach...but that is what most biscotti are covered in). There is just enough of it to give you a taste without making you feel you are eating a chocolate bar!<br /><br />ENJOY!
+
+product/productId: B000G7WWW6
+review/userId: AAEG3G2AI2NTP
+review/profileName: Espresso Uomo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1237507200
+review/summary: THE Best
+review/text: Hands down. The BEST flavored Nonni's. I had to buy them on the web because ALL of our local grocery stores never seam to have them in stock or for some reason, not even an empty space on the shelf. MMMMMMmmmmmm good!
+
+product/productId: B000G7WWW6
+review/userId: A3BH49ZKESHDID
+review/profileName: Fred Camfield
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1213056000
+review/summary: A good coffeebreak snack
+review/text: This product is a superior light biscotti, crunchy without being hard, and with a light coating of chocolate.  The texture is good, and the flavor is good.  Each piece is 110 calories.  It makes a good snack for a mid-afternoon break, or can be added into a brown bag lunch.  The chocolate coating is heat sensitive, and I would recommend against shipping it in hot weather.
+
+product/productId: B000G7WWW6
+review/userId: A4OK57PA4KIYW
+review/profileName: bellamar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1206489600
+review/summary: grreat biscotti
+review/text: My husband is the ultimate food snob and I would find him crunching on these biscotti all the time.  Also my daughter would pack these in her lunch, they are not too hard, so you don't have to dip them into coffee, they are perfect.
+
+product/productId: B000G7WWW6
+review/userId: A3F7I86VRUCFYX
+review/profileName: C. Giddens
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1204502400
+review/summary: My Favorite
+review/text: I found my first Limone Biscotti in a wine store!  I loved them and looked everywhere but could never find them.  So happy day when I found that I could order a case of them!  They are awesome and will be ordering another case soon!
+
+product/productId: B000G7WWW6
+review/userId: A2B98WZX2YX23D
+review/profileName: Patsy Gifford "Afghan Maker"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1197331200
+review/summary: Toffee Biscottti cookies
+review/text: I love these cookies with hot tea. They are delicious.<br />Nonni's are coming out with two new flavors,turtle pecan and<br />strawberry yogurt. I am anxious to try them, too.
+
+product/productId: B000G7WWW6
+review/userId: A1RPC9W4V4C8WW
+review/profileName: M. Morris
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1185840000
+review/summary: Disappointed
+review/text: First, I love Nonni's..I buy the chocolate and plain ones all the time, but never saw the Limone. The order arrived and I noticed a somewhat musty smell on opening and then noticed the expiration date on the boxes is just 8 weeks off. The biscotti in the store are much fresher. Also found one box with a wierd mound of dried glue on the box with dirt and hair imbedded in the glue. I managed to forget the above and enjoy the biscotti...I tossed the box with glue mound. At least I hope it was glue.
+
+product/productId: B000G7WWW6
+review/userId: A1EKNHDGIPX8QS
+review/profileName: T. Palmer "Tamika"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1182384000
+review/summary: Excellent Product
+review/text: I love this product.  I did not order it from Amazon (actually got it a Publix Supermarket, for those who live in the South).  But it is well worth it.  Each biscotti is individually wrapped in plastic, so they maintain their freshness even after opening the package.
+
+product/productId: B000G7WWW6
+review/userId: A1R9I5R1I67ECX
+review/profileName: J. Williams
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1168473600
+review/summary: Great product!
+review/text: Great price, great flavor!  This brand of biscotti is wonderful.  Buying by the case was the way to go.  I love knowing I will not run out for quite awhile.  Thanks.
+
+product/productId: B000G7WWW6
+review/userId: AEO6QAIYMNOH8
+review/profileName: Marlene
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1162684800
+review/summary: Great biscotti
+review/text: I was looking for a crispy crunchy, not too sweet, flavorful biscotti.  This prduct certainlyn fills the bill.
+
+product/productId: B000G7WWW6
+review/userId: A1ECTN83HVTCR2
+review/profileName: M. Eaton
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1258848000
+review/summary: My Morning Biscoti
+review/text: My Nonni's<a href="http://www.amazon.com/gp/product/B000G7YO2M">Nonni's Biscotti, Originali, 8-Count Boxes (Pack of 12)</a> Biscotti order, arrived as promised, with not even one biscotti injured from it's travels.  They are fresh and delicious.  I drink about one cup of coffeee, each morning, which helps me to ward off a migraine and I considerer it such a pleasure to have my Nonni's Biscoti's so available in my biscotti jar. I have had trouble lately, finding the original, my favorite, in the grocery or warehouse stores, so ordering by the case, was especially a convenience.
+
+product/productId: B000G7WWW6
+review/userId: A1ZH9LWMX5UCFJ
+review/profileName: K. Stuckey "kateling"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1254873600
+review/summary: Highly enjoyable...
+review/text: for those (like me), who like a little sweet with their coffee. I have tried all of Nonni's flavors and like this one the best, I like they are not too sweet and I like the nuts. I pick them up locally when I have a coupon. Each biscotti is 100 calories of 'Chocolate Decadence', individually wrapped to stay fresh, love them!
+
+product/productId: B000G7WWW6
+review/userId: A3OYDTY31N2AS3
+review/profileName: Happy Retiree
+review/helpfulness: 1/2
+review/score: 4.0
+review/time: 1196985600
+review/summary: Biscotti and Breakfast  Coffee
+review/text: A Nonni's biscotti is a wonderful treat with a good cup of coffee.  They help me start my day on a bright note.  The Nonni's that come in an eight pack are just the right size.  Often the ones that come packaged in the gallon jars are too big to suit my taste.
+
+product/productId: B000G7WWW6
+review/userId: A2YIO225BTKVPU
+review/profileName: Angel_Boy "Treat the people around you the wa...
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1169596800
+review/summary: GREAT PRODUCT.
+review/text: THESE ARE VERY GOOD BISCOTTI! I'VE ORDERED 4 BOXES OF 12 IN THE PAST FEW MONTHS. THEY WERE NICE TO GIVE AS GIFTS. THEY WERE GOOD TO BRING TO SOMEONES HOUSE FOR DESSERT. THE CHOCOLATE DECADENCE AND THE ONES WITH THE TOFFEE BITS AND ALMONDS ARE VERY GOOD. THE ONLY NEGATIVE IS THE SHIPPING AND HANDLING COST. IF I DID NOT GET THE FREE SHIPPING AND HANDLING; I WOULD NOT HAVE ORDERED THEM. THEY'RE GOOD; BUT NOT GOOD ENOUGH TO SPEND AN EXTRA $20 TO DELIVER.
+
+product/productId: B000G7WWW6
+review/userId: AE12QXN25WDH3
+review/profileName: Roadster
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1330905600
+review/summary: Biscotti
+review/text: Great stuff everything arrived very quick and in excellent condition. I've been called a dip and I live up to it for sure. I love to dip this product in strong hot coffee.
+
+product/productId: B000G7WWW6
+review/userId: A2FR2VAXPWKJ9M
+review/profileName: Julia
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1311206400
+review/summary: Yummm...
+review/text: This is delicious Biscotti, but the price is too high. If you live in Wisconsin/Illinois, you can buy them at Woodman's grocery store for 2.99$/box.
+
+product/productId: B000G7WWW6
+review/userId: A1EIMS34QXF48X
+review/profileName: Jeanne Mahoney
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1305331200
+review/summary: delicious
+review/text: Iam still waiting for an answer or a reply to my request as to why you cannot fill this order; it is a favoritebreakfast item.  I will wait to hear from you.
+
+product/productId: B000G7WWW6
+review/userId: A1MF8DXAH1EUX6
+review/profileName: Anita
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1283126400
+review/summary: Too expensive
+review/text: I thought I was receiving 8 packs of eight instead of 6 packs of eight, therefore, I paid way too much for this product.
+
+product/productId: B000G7WWW6
+review/userId: A18WXDHTOSE24Y
+review/profileName: N. Southerland
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1240185600
+review/summary: Nonni's are great
+review/text: Have bought them from Amazon before and can't beat the price.  Love the product.
+
+product/productId: B000G7WWW6
+review/userId: A1IKTEIPEYVWF5
+review/profileName: M. Eckart
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1163030400
+review/summary: Nonni's Biscotti, Ciocolati
+review/text: These are my favorite biscotti.  I went out last week to buy another case and see that Amazon is no longer carrying them.  When will they be available again?  Marie Eckart
+
+product/productId: B0049J0BK2
+review/userId: ANCOMAI0I7LVG
+review/profileName: Andrew Ellington
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1310428800
+review/summary: A worthy substitute...
+review/text: Not as crisp as an actual Root Beer; oogave Agave Root Beer possesses a more mild and subtle taste, one that rests easy on the tongue.  The aftertaste of natural sweetener doesn't have the same artificial chalkiness that is brought on by soft drinks containing aspartame.  In fact, the balance of sweet and savory is pretty well done here.  Sure, when you stack it up next to an actual Root Beer it may not come out the victor (the subtle differences are enough to swing my vote to the more unhealthy beverage; taste-wise) but I won't complain one bit about drinking this puppy.  I will admit that it does taste slightly watered down, which may be why it lacks that `freshness' or `crispness' of the original beverage, but it is a slight flaw; one that is easily overlooked.<br /><br />:-D
+
+product/productId: B0029JX322
+review/userId: A2OLZCXZXLSWJV
+review/profileName: lishixin
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1321488000
+review/summary: only one pack
+review/text: If you buy this, only one pack will be sent to you.<br /><br />BTW, a box of the noodle soup (12 packs) is sold $2 at walmart.
+
+product/productId: B0029JX322
+review/userId: A2T9P46RGELJYU
+review/profileName: R. Allen
+review/helpfulness: 2/2
+review/score: 1.0
+review/time: 1320624000
+review/summary: Seriously, ONE PACKAGE!
+review/text: Dude, seriously, this price is for ONE PACKAGE.  One a bad day it will run you 25 cents at the grocery store, but here at Amazon you can pay anywhere from $3 - $5 dollars!  Yes, I wasn't paying attention.  I read "Baby Pack", saw the price, and assumed that there would be some sort of pack of bags.  Nope.  Just one.  DON'T BE FOOLED!  It ain't gold plated!
+
+product/productId: B001UD6730
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1330646400
+review/summary: Chewy, Sweet and Wholesome Snack
+review/text: *****<br />These dried mango snacks are sweet, chewy, and yummy! They are 100% certified organic, baked with no added sugar, no preservatives or chemicals, no pesticides or herbicides, and they are gluten free. There are 2 servings in every 2.2 ounce bag (not 2.6 ounces--the vendor is in error here), with 103 calories in each serving. These are a truly healthy and delicious snack. They are almost as chewy as fruit leather, though (about the same as jerky), so you'll need good healthy teeth to be able to chew them. I think they are a great value for what you're getting.<br /><br />Highly recommended.<br />*****
+
+product/productId: B001UD6730
+review/userId: A136KGJPEYV42D
+review/profileName: Packrat
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1339891200
+review/summary: wonderful snack
+review/text: Good for you. A "good chew"  with low sugar and some fiber. The Bare Fruit ones are not too dried out like some I have had
+
+product/productId: B001UD6730
+review/userId: AVECNA7FEJLWY
+review/profileName: Katique
+review/helpfulness: 5/8
+review/score: 3.0
+review/time: 1315008000
+review/summary: Healthy
+review/text: I like the cherries much better but these were good in trailmix but again pricey.  I think the government needs to give healthy product producers the tax breaks so people can afford to eat healthy and tax the companies that make the crap food.  Sorry, just venting.
+
+product/productId: B001UUNDMG
+review/userId: AGZXWEUEBWYKR
+review/profileName: S. Willson
+review/helpfulness: 6/7
+review/score: 5.0
+review/time: 1253404800
+review/summary: Fresh tasting
+review/text: This product tast very fresh and doesn't have that "store bought/tin" taste.  I liked this product so much that I purchased the lemon juice by the same DeLallo company.  Also fresh tasting.  Will buy again when I run out.
+
+product/productId: B001UUNDMG
+review/userId: AFFX9JH1I7UJS
+review/profileName: Hughe Jass "amt2perez"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319846400
+review/summary: Lime juice
+review/text: Limey.  And juicy.  Just how I like my lime juice to be!  Comes in a little green grenade-shaped container, perfect for tossing and yelling "fire in the hole!".
+
+product/productId: B001UUNDMG
+review/userId: A2WXCI3C3JX1MG
+review/profileName: yoyo
+review/helpfulness: 3/4
+review/score: 2.0
+review/time: 1287964800
+review/summary: No Good
+review/text: This lime juice is definitely from concentrate or artificial.  It has that taste that gives it a fake quality (reminds me of a kitchen cleaner or something).  Just juice limes, I got 7 for 1$ at Food 4 Less.
+
+product/productId: B000K8N6W6
+review/userId: AGMONAK82UL7R
+review/profileName: dawgiemama
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1334793600
+review/summary: Not for all cats
+review/text: I'm still getting to know my cats, but in three months they have happily eaten everything that I have put in front of them. Chicken, salmon, trout, herring, duck, turkey, quail, beef - and so on. One of the cats took a couple of bites and gave me a dirty look - the food sat there. The other one, who I call my little piglet, ate a third of it and walked off. Several hours later I pitched it all.<br />Glad some like it, I liked the variation in protein source, but it does smell very rich and my cats prefer anything else.
+
+product/productId: B000K8N6W6
+review/userId: A2PXGYCYRCD8UY
+review/profileName: R. O'Neil
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1296604800
+review/summary: Cats love it
+review/text: My cats love this one although not as much as the <a href="http://www.amazon.com/gp/product/B001QZGSOA">Addiction New Zealand Venison & Apples Entree, Hypoallergenic Grain-Free Canned Cat Food (Single 6.5 Ounce Can)</a> but this one is gobbled up quickly as well. There are very few cat foods my cats will eat and they are very picky when it comes to texture and ingredients. They don't like pate and mostly want fish. This one is somewhat of a coarse textured pate and it doesn't contain fish. But still my cats love this one.<br /><br />This is one of the entrees from Addiction that hasn't been available from their website and most cat food suppliers. I'm not sure if they want to discontinue this or not but I hope they keep this one as well as the <a href="http://www.amazon.com/gp/product/B001QZGSOA">Addiction New Zealand Venison & Apples Entree, Hypoallergenic Grain-Free Canned Cat Food (Single 6.5 Ounce Can)</a> since the newer products from them aren't as well received by my cats.
+
+product/productId: B000K8N6W6
+review/userId: AEPG7I28BZKZB
+review/profileName: Silcat3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346803200
+review/summary: Perfect
+review/text: Our vet advised switching completely to canned food for our three heavy main coon mixes. We've always given them a healthy variety, but now we're branching out further. Brushtail is a favorite. Plates are cleaned. Can size divides well for a meal among the three (who are fed 3x a day.) In Austin,TX, Bark & Purr carries it.
+
+product/productId: B000K8N6W6
+review/userId: A3A1B96W3UJ64V
+review/profileName: research mama "jill"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344211200
+review/summary: Great food for cat
+review/text: Our elderly cat was quite sick and we were told she had less than a year to live.  I decided to take my own approach after every vet specialist we saw had nothing to offer.  This food seems to be the magic trick for her.  She's off all her meds and is feeling much better.  She was already on a  grain free diet, so I eliminated the usual cat proteins like chicken, fish, turkey.  She now eats venison, some duck, and this brushtail food which is by far her favorite.  No more blood in her bowels, no more diarrhea, no more sick cat.  She is still quite old, but she has greatly improved and is feeling a lot better!
+
+product/productId: B006ZI66GS
+review/userId: A15GD9JGP92E3Q
+review/profileName: J. Brew
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Ice Tea
+review/text: I make iced tea with my Tassimo by putting a glass very full of ice in instead of a coffee cup.  Love it and this is the best price I have ever seen.  We can't ever find it in the store anymore, so I am thankful to find it here
+
+product/productId: B004J64T3A
+review/userId: A2KC6KNII97KU
+review/profileName: Arts Fan "Arts Fan"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1303516800
+review/summary: Yum!
+review/text: This is a great mini chocolate easter egg assortment wrapped in festive colored foil.  The easter bunny had to hide these so some would be left for Easter day.
+
+product/productId: B004J64T3A
+review/userId: AO96PLO6E3MJC
+review/profileName: Grandma GG
+review/helpfulness: 4/6
+review/score: 1.0
+review/time: 1333065600
+review/summary: Stale & unappetizing
+review/text: The package I received had clearly melted, been smashed, and then congealed.  Few of the candies arrived shaped anything like eggs.  The chocolate looks and tastes old.  Even the kids don't want to eat this stuff.  I notice now that the only other review is one year old.  I suspect my particular bag of candy is even older than that review.  I am normally a fan of Nestle Chocolates, but I cannot recommend this purchase to anyone.  Don't waste your money like I did.
+
+product/productId: B004J64T3A
+review/userId: A1W8I7QLIQXQVP
+review/profileName: Poppie43
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1335571200
+review/summary: Nestle Nest Eggs Chocolate Foil Wrapped Easter Eggs
+review/text: Very well received by recipient and all who shared with them, flavors were great and packet contained insufficient eggs LOL
+
+product/productId: B001ELL4PY
+review/userId: A1080SE9X3ECK0
+review/profileName: L. Meza "fire2ice"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1241740800
+review/summary: yummy gummy fish!!!!
+review/text: we love these as a snack.also i dropped a couple in jello cups! my kids had fun eating down the jello to get to the fish! lol i love the flavor of these my self. they also make a great decoration on cupcakes and cakes as well.i will buy these again.
+
+product/productId: B001ELL4PY
+review/userId: ACNFN6YE0056I
+review/profileName: Srossrn
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288915200
+review/summary: Albanese Candy
+review/text: These are the best tasting chewy candies I have ever tasted.<br /> I sent my son a bag and he also loves them. He is a fisherman and loves fruity candy. He guards them for hinself too. There is no sharing these fish.
+
+product/productId: B001ELL4PY
+review/userId: A12V3QDKQ8AF8
+review/profileName: BlueMoose
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313971200
+review/summary: Best gummy fish ever!
+review/text: Ordered these to put in little fishing pails decorated with bobbers for a party favor.  Not only did they look great but they tasted amazing and were extremely fresh!!!
+
+product/productId: B001ELL4PY
+review/userId: A8U6CJRMAGR4L
+review/profileName: Michael A. Garman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1270771200
+review/summary: tasty, great size
+review/text: because of their size, it is quite possible to share them by giving away 2-4 at a time, which is a good sized portion. Always delicious, too. I had initially thought i was getting swedish fish, so when these came it was a bit of a dissapointment, but aside from the white ones, i thought they were delicious! I would reccommend.
+
+product/productId: B001ELL4PY
+review/userId: A3PIUX5ZQK6UB4
+review/profileName: lVloose "Moose"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1209859200
+review/summary: Yaayy Gummy Fish!
+review/text: These are awesome! Love the great flavors and the texture. The huge bag wont last long once you start digging in. Forget about sharing them.. they will disappear.
+
+product/productId: B001ELL4PY
+review/userId: A20WB0V9HGJ1P7
+review/profileName: SerenaCeeZee
+review/helpfulness: 0/1
+review/score: 3.0
+review/time: 1324944000
+review/summary: These are Gummi Fish not Swedish Fish
+review/text: This product came up when I searched for Swedish Fish candies.  These are definitely not Swedish Fish, but are pretty okay for Gummi candy.  I won't be ordering them again.
+
+product/productId: B001ELL4PY
+review/userId: A1RI11ZVABHO5S
+review/profileName: Schpenn
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1317168000
+review/summary: The Sugar Free Gummy Fish That Weren't....
+review/text: I ordered this 2 pack of 5 pound bags of sugar free gummy fish because I love a great tasting sugar free gummy snack. Unfortunately the gummy fish shipped to me did not deliver on their promise of being sugar free. The two main ingredients listed on the back of the package were corn syrup and sugar.
+
+product/productId: B001ELL4PY
+review/userId: A9W93BTVW0OQ7
+review/profileName: prairie
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1311984000
+review/summary: sugar free
+review/text: The candy was sugar free, i did not and still could not find the info on line regarding this.My boys had bad gas and felt sick after eating them . I had 6 and had the same problem...in the trash they went.
+
+product/productId: B001ELL4PY
+review/userId: ALNB4CDJ2GQ74
+review/profileName: Kensamazon
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1317427200
+review/summary: Not sugar free
+review/text: Dont order listing is wrong NOT SUGAR FREE amazon refuses to correct! already contacted customer service and nothing has been done?
+
+product/productId: B001ELL4PY
+review/userId: A2MHFZNKXGOAPG
+review/profileName: Donalda V. Smith
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1267920000
+review/summary: Albanese assorted fish
+review/text: These were the worst candy fish I have ever had. I had to throw them away.
+
+product/productId: B001V70772
+review/userId: A3F3ZKYC8WVYG
+review/profileName: M. Sellers "Angry Saxon"
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1289865600
+review/summary: Cabernet Vinegar a good substitute for Five Monks
+review/text: This Cabernet Vinegar from Spain is a good substitute for the Five Monks line that was discontinued. It has an excellent flavour and acidity for cooking. However, I recommend ordering at least two bottles because shipping will kill the savings of getting just one bottle. Almost doubles the cost.
+
+product/productId: B000F3XZFO
+review/userId: ALFXGP5DGET86
+review/profileName: Keisha Gabidon
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1277683200
+review/summary: Strong and bold, almost like coffee
+review/text: I love assam tea because of the bold, malty flavor.  I drink it with milk, the same as I would do with coffee.  It satisfies my coffee craving in the mornings, but perhaps is a bit better for me than coffee would be...?  So they say at least.  And Taylor of Harrogate has never disappointed me.
+
+product/productId: B000F3XZFO
+review/userId: A3HQMVWUNCPVJ7
+review/profileName: Timothy G. Roufs "treeplanter1"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1174089600
+review/summary: Taylors Pure Assam Tea Pure Pleasure
+review/text: Taylors Assam Tea provides tea lovers with another outstanding tea from the legendary land of teas.  As is usual, the tea is its usual best of England.
+
+product/productId: B000F3XZFO
+review/userId: A2PDVUCIZ3KQE7
+review/profileName: Ace "austinace"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1168300800
+review/summary: The best Assam in a bag
+review/text: This is my all time favorite Assam tea (other than the kind I can find in London) and it seems to be hard to find in the stores. I am a very serious tea drinker and I love being able to buy it in bulk like this. Excellent find.
+
+product/productId: B000F3XZFO
+review/userId: A3C5GZK0NE97MK
+review/profileName: Echo Two
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331424000
+review/summary: Great Robust and Flavorful Tea - a Big Winner
+review/text: I've been looking for a tea to replace an Irish Breakfast tea that is no longer available, and this one came up as my winner (Taylor of Harrogate's Irish Breakfast Tea was the runner-up). Rich robust flavors without being astringent, and nice malty flavors.  Wonderful alone or with a bit of milk or cream, this is a terrifiic morning wake-you-up tea.  No longer missing my old tea.
+
+product/productId: B000F3XZFO
+review/userId: A38NQR5U1M514R
+review/profileName: N. Haggin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285286400
+review/summary: Just the thing for lovers of bold black tea
+review/text: This is excellent Assam tea. It brews a deep red-brown liquor with the proper strong malty aroma and taste; a perfect afternoon pick-me-up when I need to get through the rest of the work day.
+
+product/productId: B000F3XZFO
+review/userId: A3RVY8B2DD0M60
+review/profileName: Carol Sue
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1285113600
+review/summary: Now that's a nice cup of tea!
+review/text: I'm hooked on this Taylors of Harrogate Assam tea.  It's really good in the 50 bag form.  It holds up so nicely to milk, has a nice, strong flavor that isn't at all bitter or perfumey.  Good solid tea.  Amazon has become my most reliable source for this staple.  Get the case of six boxes and you'll not have to do without!
+
+product/productId: B000F3XZFO
+review/userId: A3JDB2GJ1DSGAO
+review/profileName: Matthew K. Schmidt "Matt Schmidt"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1279497600
+review/summary: Morning Tea, part 2
+review/text: My wife and I have been drinking this tea for years.  IT is truly the best tea bag found and the prices here are extraordinary.  I couldn't recommend it more.
+
+product/productId: B000F3XZFO
+review/userId: A3CGZVO1Q38CFH
+review/profileName: A. Turner
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1235088000
+review/summary: Always a good cuppa
+review/text: We always enjoy this tea, it is our daily morning cup.  Amazon seems to have the best price and is always prompt with shipping.  Packaging is always very good, no crushed boxes.
+
+product/productId: B000F3XZFO
+review/userId: A1XKPH0S9E53EZ
+review/profileName: R. Brown
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1253059200
+review/summary: Excellent proper tea
+review/text: We had been buying tea bags in bulk yearly whilst in England from the Wallingford Tea Company, a firm that selected and purchased tea and then processed and bagged in Wallingford.<br /><br />The Taylors of Harrogate Pure Assam Tea packaged in bags of 50 each is outstanding and considering the free Amazon shipping, is every bit as satisfactory without the expense of a trip to the UK or having friends post it to us in the US.  Great product that is difficult to find anywhere in the US at a great price.
+
+product/productId: B000F3XZFO
+review/userId: AM8672R3ZN690
+review/profileName: Sheila
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347062400
+review/summary: Perfect cuppa!
+review/text: This is an excellent tea with a full and hearty quality. I enjoy many varieties, but this Assam tea is my favorite and I use it to wake in the morning and as an excellent ice tea for afternoons.
+
+product/productId: B000F3XZFO
+review/userId: A39GEVXPO4PM16
+review/profileName: C. Bronson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343347200
+review/summary: Makes Full-Bodied Iced Tea
+review/text: This tea is full-bodied, but never bitter.  It's great hot, but I make my iced tea from boiling water and 3-4 of these tea bags in a glass pitcher, then I mix in Crystal Light lemonade.  It is absolutely awesome.  The tea is wonderful and reasonably priced. You won't drink ordinary (supermarket) tea after you taste Taylors Assam. I ordered my first batch of 6 boxes last January.  I am reordering it six months later.
+
+product/productId: B000F3XZFO
+review/userId: A1GY0FE07QFFLF
+review/profileName: Arlington Cory
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326585600
+review/summary: Clear Crisp Tea Good for Home Use and Gift
+review/text: As a couple we drink lots of hot tea, so much so we use up these six boxes in two to three months. We searched for a good Assam tea and found Taylors of Harrogate Pure Assam Tea Bags very satifying. My husband drinks his tea "as is" and I put a teaspoon of sugar in mine.<br /><br />Having extra boxes of this lovely tea around, makes it easy to bring as a gift for a lunch or dinner, especially if the hosts as tea-tottlers!
+
+product/productId: B000F3XZFO
+review/userId: A1C1T97KIJPGIX
+review/profileName: J. M. Greenwood "Brit mystery fan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1318464000
+review/summary: tea
+review/text: If you like a strong but not bitter tea, Assam is the tea for you. For years I bought it in the UK, but I'm unable to travel anymore, so thank goodness for Amazon. I just wish I didn't have to buy so much, but what I did was to share some extra boxes with family and friends.
+
+product/productId: B000F3XZFO
+review/userId: AMFUEP4B91OE1
+review/profileName: Masha
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1316822400
+review/summary: Terrific Value
+review/text: A delicious, malty Assam. Perfect brew for your Inner Brit. I prefer it with milk and sugar, of course, but black works, too.
+
+product/productId: B000F3XZFO
+review/userId: A3MUXP1MA88VMA
+review/profileName: Kiv
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1303776000
+review/summary: Makes an excellent cup of tea!
+review/text: I am so glad Amazon carries this tea, and that too at a very competitive price point. I used to purchase from andronicos for nearly twice as much!<br /><br />This tea is makes a strong cup, but never bitter - even when over steeped. Flavor comes trough nice and strong even when prepared with milk. Great breakfast tea I would highly recommend!
+
+product/productId: B000F3XZFO
+review/userId: A2NNOAK4BHWMKA
+review/profileName: J. Cazalas "jcaz"
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1270080000
+review/summary: Amazing...Just like if I was in Pakistan
+review/text: This tea is expensive.  Let us be honest.  But it is worth EVERY PENNY.<br /><br />WOW...and backwards...WOW.<br /><br />The flavor is amazing.  My wife and I search for a tea that tastes like the Lipton Yellow Label Tea that you get in Pakistan.  That just has such a great flavor...epsecially with Nestle Everyday (couldn't live without that creamer).  Until now, my wife usually buys Tetly, which we thought was pretty good.  For some reason, it just seemed better than the Lipton Yellow Label tea that you can purchase at international stores here in the U.S.<br /><br />But then I ordered this, and again, WOW.  There is NO comparison.  We make tea the typical Pakistani way, but for comparison purposes, we just took two cups of boiling water and put a Tetly bag in one and one of these on the other cup.  The color and smell of the Tetly seemed fine...UNTIL you look at this one, and then smell it.  This is just spot on.  I can't say enough about it.  It is more than I'd like to pay for tea, but until there's another option, this is what we'll be getting.<br /><br />Give it a shot...but make sure you get Nestle Everday, that is, if you can find it anywhere.  At best, it will be available in some International/Pakistani grocery stores.  Good luck.
+
+product/productId: B000F3XZFO
+review/userId: A2RGX54RO9I1ES
+review/profileName: Learning
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1219968000
+review/summary: Good Price
+review/text: We have been hooked on to the malty flavor of Assam tea for years. It's about $2/pack cheaper than buying from specialty stores with the convenience of bulk buying. I'm getting ready to order my second batch.
+
+product/productId: B000F3XZFO
+review/userId: A2BH04B9G9LOYA
+review/profileName: Alex P.
+review/helpfulness: 5/12
+review/score: 1.0
+review/time: 1232668800
+review/summary: Expires in 3 months?!
+review/text: 6 boxes of tea and it has an expiration date in less than 4 months?  Seems the seller is unloading stock they can't sell.  Won't buy this again.
+
+product/productId: B003322KLO
+review/userId: A3CSUH4L3LRY4J
+review/profileName: A. Lowe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1266451200
+review/summary: fabulous asiago with rosemary
+review/text: This is a really superior cheese. slightly sharp with a nice saltiness and an excellent rosemary and olive oil rub.  Definitely worth looking for!
+
+product/productId: B0002GUJIK
+review/userId: A3K358N4HOH38O
+review/profileName: A. Hickey
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1202601600
+review/summary: I love them
+review/text: Yes, they aren't for everyone. Some of us love them, others hate them. I love munching on them while I am working at my computer. Yes, they are a little fishy and if you inhale while opening the bag, you might get sick, but boy, once you get past the smel... mmmmmmm. Don't buy a lot until you try them. I am about to order 20 more bags.
+
+product/productId: B0002GUJIK
+review/userId: A3TNB8N8SAO95W
+review/profileName: A. Fontanez
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1212364800
+review/summary: Good stuff
+review/text: These chips are actually pretty damn good, but if you've lived a sheltered life or don't enjoy experimenting than...You may want to order these in store first.<br /><br />Now, for the quick review:<br />These chips are a good, tasty, salty, munchie, "alternative" snack.<br />They're healthier than your average brand of potato chips, & they probably have a longer shelf life too.<br /><br />This is one of the only snack foods I'd eat just for the heck of it.<br />Even when I am full & not hungry anymore I'll grab a handful of these just to crunch on. They're that addicting.
+
+product/productId: B0002GUJIK
+review/userId: A3JKE631P284NV
+review/profileName: Blueberry mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1283299200
+review/summary: These are sooooo good!!!
+review/text: These are so good.  Really.  I love them.  You can't stop at one.  I can eat almost the whole bag by myself.  Okay, so you know, I am Filipino, grew up in the States.  They are an "Asian" snack but my kids and non-Filipino husband like them too.  I fight over these with my kids.  If I open a bag, I have to hide it so they don't know it's open.  :)  I have to drive 3 hours round trip to the store to get these so I have to buy like 6 bags at a time and those are gone by the next week.  Seriously.  I LOVE THESE THINGS!!!  Yes they do stink when you open the bag but the taste is nowhere like the smell.  They are lightly flavored, not too salty.  When you get to the bottom of the bag, there is a bunch of highly concentrated powder down there so shake up the bag maybe to distribute it.
+
+product/productId: B0002GUJIK
+review/userId: A31B5XSZOEGRVQ
+review/profileName: J. Guggenheim "xanadu3332"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1260748800
+review/summary: I love Shrimp Flavored Chips
+review/text: These things are addictive! I used to buy these at a grocery store near me, but they stopped carrying them years ago. I bought like 4 bags here on Amazon. I think they made it 2 days! Better than Jay's potato chips. I really can't stop eating them!
+
+product/productId: B0002GUJIK
+review/userId: A2UFGGT8JA19DE
+review/profileName: Grau
+review/helpfulness: 0/3
+review/score: 3.0
+review/time: 1197158400
+review/summary: Not shrimp chips
+review/text: Disappointing.  More a salty flavor than shrimp.  Made from wheat, not a rice cracker.
+
+product/productId: B0002GUJIK
+review/userId: A26IQLICJ9V73M
+review/profileName: Dedra Williams "some girl :)"
+review/helpfulness: 0/5
+review/score: 1.0
+review/time: 1202342400
+review/summary: donot buy this
+review/text: if you like eating fried fish then be my gust ,but if you dont buy somthing ealse please i am regrating this item why did i trust this shrimp ,its FISH not shrimp.and its gross like the comment above me
+
+product/productId: B003O3NW00
+review/userId: AFM77XOJX20C
+review/profileName: Hunter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348358400
+review/summary: Gotta love the hot fries
+review/text: got these for a friend, she and her husband had never tried them. they got them super fast less than a week ( they live out in the boonies of SC) they totally loved them.
+
+product/productId: B003O3NW00
+review/userId: A394G0U8X467QX
+review/profileName: DarkxPoet "Z?"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1292457600
+review/summary: small bags
+review/text: In store, I found them for about 4 more dollars, and about 6x the amount of hot fries. The bags are just too small.
+
+product/productId: B001EQ4H08
+review/userId: A38HH2OJ5T4JZO
+review/profileName: mixed-berry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293667200
+review/summary: Make it with tuna instead!
+review/text: This is the best flavor of the whole Helper line. Like another reviewer mentioned Betty Crocker has messed with the formula and included less noodles. A good solution, especially if you want but can't find the Tuna Melt flavor, is to just add a can of tuna instead of beef and your meat/noodle ratio is pretty good. You'll still end up with less servings but this is so tasty. Real comfort food. What makes it is the small flat lasagna-style noodles instead of the elbow macaroni in the Tuna Melt variety. It's great to get some over-cooked cheese in between two noodles...kind of like the crust around some homemade mac 'n cheese. Highly recommend this but keep in mind Betty Crocker stupidly decided to remove all microwave directions from the Helper boxes. Check online for the old directions, cut the water and milk measurements in half, and make sure to add the butter if you are using tuna.
+
+product/productId: B001EQ4H08
+review/userId: A31XMTN5CEVQRT
+review/profileName: Caffeinated Plum
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1288483200
+review/summary: Might as well not buy the product and just eat ground beef instead
+review/text: A few years ago, Hamburger Helper was a nice product. There was a goodly amount of noodles, enough to balance out with a pound of ground beef. The Cheddar Cheese Melt flavor had a yummy cheese-sauce topping mix in addition to the seasoning mix. None of this is any longer the case, as Betty Crocker has cut the product size over the past few years while leaving the required amount of ground beef the same and the item the same price, likely in an effort to preserve profits without customers "noticing."<br /><br />The only problem is, it's noticeable. The product contains so few noodles that it's really no better than eating mouthfuls of ground beef in cheese sauce. The noodle package is very small, something more appropriate to two servings than the five advertised on the box. And, needless to say, there's no more sauce topping.<br /><br />If you plan to eat just the noodles in the box, don't add a whole pound of ground beef. The beef overwhelms the noodles. Use between a half to 3/4 pound ground beef instead. If you plan to add a whole pound, you'll want to add your own noodles. And, either way, add some cream of mushroom soup for a nicer sauce.
+
+product/productId: B001EQ4H08
+review/userId: A3SMVB6EXX8OVH
+review/profileName: Romeo Faison
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1260576000
+review/summary: Hello
+review/text: This is tasty food and is better than the other hamburger helpers, however, some taste has been lost over time but can be remedied by using good beef, kosher style thats unaffected by genetic manipulation,which kills the flavor of beef and all other meats.
+
+product/productId: B001EQ4H08
+review/userId: A9E9L159FFMHP
+review/profileName: S. Wood
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1211155200
+review/summary: No problems....
+review/text: Everyone at my house liked this flavor.  No problems with shipping, everything was great.  =)
+
+product/productId: B004NWQ032
+review/userId: AOXZQWI5PR145
+review/profileName: Dh
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1312329600
+review/summary: Plenty of petals
+review/text: Enough petals to cover a floor or bed or both. Not as elegant as real petals but they are reusable.
+
+product/productId: B005DTAH8I
+review/userId: A1GKSMEVHRUM1N
+review/profileName: A and S
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1341360000
+review/summary: "ok" but not for me.
+review/text: Yes, the "noodles" picked up the flavor of the Pad-Thai sauce I used, I got over the smell which went away as soon as they were rinsed, but I just can't get used to the texture.  They are very gelatinous and I'm not even a fan of Jello, so for me I had to force down these jelly-like noodles.  If don't mind the texture, they would be great.  Zero calories.  Oh well.
+
+product/productId: B005DTAH8I
+review/userId: ACGSO4NQS4VEP
+review/profileName: Lawrence Pickard
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1328486400
+review/summary: Miracle Noodle Shirataki
+review/text: This is a great product for substituting regular noodles. Just don't expect the same taste or texture! No calories or carbs!
+
+product/productId: B001EO7H9I
+review/userId: A2VG364UUGYFHI
+review/profileName: tvguyer "tvguyer"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1221609600
+review/summary: as far as canned goes...
+review/text: these are very good and convienent, whole mini mushrooms saute' until a bit browned and add to sauces for beef or marinara. Great to have in a pinch for salads. leave whole.
+
+product/productId: B00422FURA
+review/userId: A2PRQHCIDISMM4
+review/profileName: Sergey Olshin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328572800
+review/summary: My favorite white chocolate
+review/text: I like this White Chocolate (made in Italy). It's natural (certified by USDA Organic) and tasty. I can not find this product in Russia... I will buy it again and again from USA (or other countries)... M-m-m... :)
+

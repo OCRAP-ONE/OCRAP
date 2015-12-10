@@ -1,0 +1,1143 @@
+product/productId: B00193WZQE
+review/userId: A2VVWFEV1O0GQN
+review/profileName: ruby
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1314230400
+review/summary: great product - cheaper at costco
+review/text: I love this product, but it is about $7 cheaper at costco, which I was pretty disappointed about.  Bottomline... shop around first.
+
+product/productId: B00193WZQE
+review/userId: AFUMMPP7V2ZQR
+review/profileName: Mom of 3
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1259539200
+review/summary: Yum!
+review/text: Wonderful, healthy, yummy snack. All my kids (even the picky one) will eat these. Very portable and great for young children.
+
+product/productId: B00193WZQE
+review/userId: A22E2ZP8EL4Z3L
+review/profileName: Addy Santo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1258329600
+review/summary: delicious!
+review/text: Me, my wife, my 3 year old and my 11 month old all love this. Natural, healthy and tasty - whats not to like?
+
+product/productId: B00193WZQE
+review/userId: A1ATDRLQ2HNG8E
+review/profileName: Luckee
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1243209600
+review/summary: Delicious but for a steep price
+review/text: So these are pretty good. They are really tasty and melt in your mouth. The only complaint I have is that each packet is pretty small (it seems like if you emptied out the contents, it would barely fill between 1 to 2 cups). I lowered my rating by 1 star because it's pretty pricey for the amount you receive. But I usually hate dried fruit (this was an exception), so I bought it anyways.
+
+product/productId: B00193WZQE
+review/userId: A37RVU8I3IERMP
+review/profileName: Christine M Yoon
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1319846400
+review/summary: Not "asian" pear, but regular pear
+review/text: I love their fuji apple so gave their asian pear a try. But when it came in I was a first suspicious, as the picture on the bags showed a pear shaped pear and not a round asian pear. I should have looked more closely at the picture before ordering it. It definitely did not taste like a sweet asian pear. I and my child was extremely disappointed.<br /><br />I'm not sure what kind of asian pear they used, but it's not the sweet round asian pear that we know and love.
+
+product/productId: B00193WZQE
+review/userId: A3LLHFT7JV7RR0
+review/profileName: C. A. Huey
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1235088000
+review/summary: Amazing!
+review/text: These snacks are perfect for infants-adults! No mess! Crisp-melt in your mouth, not chewy like most freeze dried snacks. Light and portable. Excellent flavor. I feel great giving these to my twin 18 month olds for a daily snack in the car, on the run- or anywhere. (and I try to convince them to share with Mommy!) I found them cheapest at Costco for about 0.60/per bag.
+
+product/productId: B00193WZQE
+review/userId: A2WK2K9I4NLJQ3
+review/profileName: S. Ebert
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1233014400
+review/summary: Quick svc. Prod. as expected
+review/text: Product is delicious.  Have previously had their strawberry & banana packs.  Came quickly.
+
+product/productId: B00193WZQE
+review/userId: A2HRR8CO2Y20G8
+review/profileName: Jane Doe "a friend"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1249862400
+review/summary: Delicious alternative to potato chips!!
+review/text: These bags may not be huge, but this product has all but replaced potato chips in my cupboard.  I also take them to work so that I have a tasty, somewhat nutricious afternoon snack.
+
+product/productId: B00193WZQE
+review/userId: ADIQ7X8ASMVDR
+review/profileName: Mommy2008TX
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1321228800
+review/summary: Product of China! Don't buy!!
+review/text: I loved the idea of the healthy snack for when we're on the go. These are a product of China, and I don't trust their content. China has no regulations governing the use of pesticides or other harmful chemicals, so I'll save my money for something that is SAFE!
+
+product/productId: B00193WZQE
+review/userId: A15V4TJBVYLK94
+review/profileName: Reanbug
+review/helpfulness: 1/4
+review/score: 2.0
+review/time: 1291248000
+review/summary: Weird "Crisps"
+review/text: I was expecting these crisps to be more like a chip.  Instead, they have the consistency of a rice cake.  They almost melt in your mouth which is kind of strange.  Good flavor though, if you can get past the rice cake ness.
+
+product/productId: B00193WZQE
+review/userId: ADFR8X6OTFCJL
+review/profileName: Kathryn Schroeder
+review/helpfulness: 3/8
+review/score: 1.0
+review/time: 1300924800
+review/summary: MADE IN CHINA!
+review/text: These taste fine, but HELLO, they are made in China!  Buy 'Just Tomatoes' fruit instead; made in California.  Support US jobs!
+
+product/productId: B00193WZQE
+review/userId: A2LOBJVD9RO05X
+review/profileName: Andrea Barros
+review/helpfulness: 12/27
+review/score: 1.0
+review/time: 1227916800
+review/summary: Processed in China
+review/text: Bought 2 cases and then realized it is provessed in China - I will not allow my family to ingest it and plan on discarding.
+
+product/productId: B002W4LO16
+review/userId: AD20KFNV6DS4A
+review/profileName: juhree
+review/helpfulness: 2/5
+review/score: 1.0
+review/time: 1334620800
+review/summary: What am I getting?
+review/text: I have not ordered this because I cannot tell from the description what I am getting.  Surely I'm not paying $29.00 for four bags of popcorn?  I need a better description.
+
+product/productId: B002W4LO16
+review/userId: A3BMGL4ERZVJMZ
+review/profileName: woodstock_ap "woodstock_ap"
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1308700800
+review/summary: Nice add on for a brown bag lunch
+review/text: Not always available in my local supermarkets.  I like to have these packs on hand to add to my lunch.  A better alternative than a sugary cookie.
+
+product/productId: B0045TOM7E
+review/userId: AZJH6PDN0G9R9
+review/profileName: Putergirl "Easy to Please"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1333584000
+review/summary: Why did Smuckers take out the berries?
+review/text: I've bought this sugar-free topping since it became available, but no longer saw it local stores.  In the past, there were lots of strawberries and lots of authentic strawberry flavor.  Although it was always thinner than the sugar variety, now it is very thin with NO berries....well, maybe 1 small strawberry total.  This product is now about the same as the strawberry-flavored syrup on the shelf.  So disappointed.  Maybe Smuckers will decide to put the berries back in someday....
+
+product/productId: B0075KQAFC
+review/userId: APZADOZDS1FLF
+review/profileName: R. Smith
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1351036800
+review/summary: DO  NOT BUY THESE!!!
+review/text: See all the negative reviews for this product for the 12 oz. size. Amazon has kindly agreed to suspend sales of the product as the problems are too numerous. The items are arriving with disgusting green mold all over the treats. Despite repeated promises by the manufacturer that they have repaired the "manufacturing glitch" no positive action has been taken. Also people are reporting trouble getting reimbursement from the manufacturer for items they return (which the manufacturer will not pay for the return shipping). I wish I could attach photos as you would never believe how truly disgusting is the condition of these treats. These pose a health risk to your dog and I STRONGLY urge you not to buy.
+
+product/productId: B005FU1W2U
+review/userId: AJXS08HVHV445
+review/profileName: PECART "PECART"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325203200
+review/summary: The Best !
+review/text: This hot sauce is by far the Best !! as it is as hot as you add it ! A little goes a long way -- the more you use the hotter it is--and No after taste --has pure taste of peppers I reccomend this and Especially since it is Made in Jamaica !!!
+
+product/productId: B0033UDZ7E
+review/userId: A2DM3395C6ZUTL
+review/profileName: Barbara L. Schulz "FrndinRI"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343779200
+review/summary: Great Taste
+review/text: This is a great gluten free product.  Has wonderful flavor.  It doesn't get mushy like rice flour pasta tends to do.  Only downside is, you really can't reheat it unless you fry it.  If you microwave to reheat it tends to get dry and fall apart.
+
+product/productId: B001P7AXNQ
+review/userId: A2XXVNTN0ZIRZH
+review/profileName: metzmatt "metzmatt"
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1287532800
+review/summary: Good Product
+review/text: We really like the taste of this product. The bag does tend to spew a bit of the oil/butter which often requires cleaning up the microwave oven afterward, but the product is worth it.
+
+product/productId: B003VMY3WU
+review/userId: AF616T1121QND
+review/profileName: Jennifer Kimble
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1324598400
+review/summary: Kids love it!  Relatively nutritious.
+review/text: I realized that this was the fave for my 3 and 6 year old and figured I may as well subscribe and save!  What I like about it is that it is made with whole grain, is high in protein, and doesn't have partially hydrogenated oils or HCFS.  Of course it tastes good.  It also takes only 6 minutes to cook which is great for this working mom with long commute!
+
+product/productId: B003VMY3WU
+review/userId: A4CMDN61X35OC
+review/profileName: Kelly
+review/helpfulness: 0/2
+review/score: 5.0
+review/time: 1337644800
+review/summary: bomb.com
+review/text: Wonderful taste great texture good only for dieters to use 1/2cup less sodium and fat and less calories its great with chicken and veggies
+
+product/productId: B0025UK6IE
+review/userId: A37GY4EE6O9HZS
+review/profileName: NHJulie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Great cereal
+review/text: My family--kids and adults--loves this cereal! I had trouble finding it at local stores, so I ordered it online. We're going through it fast so I'm about to order another pack.<br /><br />Not that it really matters, but the actual box cover differs from the picture on Amazon's website. The cereal is the same, though.
+
+product/productId: B000G6VDKY
+review/userId: A1QA4S1I7WPYUT
+review/profileName: Tim H. Shepherd
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1266796800
+review/summary: A little Kick
+review/text: I got this product today thinking that it would be very hot. It is a little hotter than some of the Mexican sauces I eat but not by much.  The flavor reminds me of Taco Bell fire but a little hotter.  So this sauce isn't bad but extremely hot is taking it a little over board.
+
+product/productId: B000G6VDKY
+review/userId: APT6JVB1FQT42
+review/profileName: Michael Schock
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1263945600
+review/summary: Not the greatest sauce out there.
+review/text: First off I would like to say that I am a huge fan of hot sauce in all different heat ranges. This sauce claims to have a one million scolville unit heat range, which is completely false advertising. I tastes like a generic tobasco sauce that you might find at a 99 cent store. The heat is similar to tobasco sauce as whell. If you like vineger based sauces you might like it, but it's not worth the price, plus shiping if you ask me. I probably would have given it a better rating if they hadn't lied about the heat. It's just nothing special, the sauce actually started turning black in my fridge, and I've on had it for a couple weeks. The taste got worse too, I have no clue why. I'll close by saying if your looking for a good tasting hot sauce with some real heat look elsewhere.
+
+product/productId: B000G6VDKY
+review/userId: A1FO6W9WCI3B60
+review/profileName: Bug Magnet "BugMagnet"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1180224000
+review/summary: Heat with flavor!
+review/text: I have tried many sauces, and I like them hot. This is one of the few with heat that has true flavor. So many hot sauces just burn. This one tastes good!
+
+product/productId: B0001RIU3G
+review/userId: AIUWBR79VSZ8J
+review/profileName: David W. Griffin
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1341532800
+review/summary: Excellent way to thicken fruit pie filling
+review/text: I use this stuff in fruit pies instead of flour or corn starch.  It's smooth and easy to use and works much better than anything I tried before this.
+
+product/productId: B0006307KY
+review/userId: A3QLVRCJMIJ7ZS
+review/profileName: Tech Engineer "Al"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1293494400
+review/summary: Cookies & Brownies
+review/text: I sent these as a gift to my Dad at the care home but my sisters said they were great tasting and presented well.
+
+product/productId: B001I7HJE4
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1190160000
+review/summary: Organic, Kosher, Tasty Assortment of Premium Teas & Teasans
+review/text: *****<br />Numi's Collection Assortment Melange includes:<br />5 Herbal Teas (caffeine-free, also called "teasans"):<br />* Dry Desert Lime: Lime Herbal Teasan<br />* Fields of Gold: Lemongrass Herbal Teasan<br />* Red Mellow Bush: Rooibos Herbal Teasan<br />* Bushmen's Brew: Honeybush Herbal Teasan<br />* Simply Mint: Moroccan Mint<br /><br />2 Green Teas (lower in caffeine):<br />* Temple of Heaven: Gunpowder Green Tea<br />* Monkey King: Jasmine Green Tea<br /><br />2 Black Teas (contain caffeine):<br />* Chinese Breakfast: Yunnan Black Tea<br />* Smoky Tarry: Lapsang Souchong Black Tea<br /><br />This is a total of nine different teas, two tea bags of each one in each box. Numi teas are known for their high-quality, organic and kosher ingredients, and in my opinion, are some of the tastiest and best teas I have ever tried. They do not include artificial ingredients or flavorings.<br /><br />On the box, the manufacturer writes: "From mist-covered mountains to sun-drenched deserts to fertile fields, we proudly bring you our tea palette. The flavors range from smooth earthiness, and light floral scents, to refreshingly sweet and sour notes. What they all share is the recollection of how some Ancient One tamed fire and water to coexist harmoniously, and steeped in them the gifts of Nature. Since that distant past, people have soothed, roused, healed, explored and celebrated with these wonderful infusions. We encourage you to do the same with Numi's finest."<br /><br />The price is perfect, a big savings over single boxes. If you like Numi teas and want to sample a wonderful assortment, get it---you won't be sorry. There may be some you like and others you don't, but sampling them will be a delightful experience. If you are new to Numi this is an excellent way to sample their high-quality teas. I do not think you could find a better source of premium tea than Numi.<br /><br />Highly recommended.<br />*****
+
+product/productId: B001I7HJE4
+review/userId: A281NPSIMI1C2R
+review/profileName: Rebecca of Amazon "The Rebecca Review"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1211068800
+review/summary: Teas for Creative Moods
+review/text: Numi's tea sampler has a lot to offer if you enjoy mild teas. If you prefer stronger teas, then you may want to creatively mix and match for a new experience.<br /><br />Delicate Tea for Calm Mornings<br /><br />The Numi "Morning Rise," organic breakfast blend has elements of smooth perfection when blended with milk powder or cream. This tea has a mild dreamy flavor when using one teabag. You may want two if you prefer a stronger morning blend. If you are looking for an elegant tea, this blend of Fair Trade Certified Keemun, Darjeeling, Ceylon and Assam black tea is sure to impress. Morning Rise is a delicate tea that awakens you slowly to the day and seems to bring a new clarity to the mind.<br /><br />Dreamy Vanilla<br /><br />Numi teas are blended to an elegant perfection. Numi "Decaf Black Vanilla" is no exception and will please anyone who loves mild black tea with a hint of vanilla. For a richer experience, use two teabags per 8-ounce cup. This tea is perfect for drinking at night when you are relaxing, reading poetry or starting a new novel. The vanilla flavor is enhanced with a dash of cream or even an little vanilla syrup from France. I can recommend Rieme French Vanilla syrup or even a cane sugar to add a caramel twist.<br /><br />Delicate Ginger with hints of Anise<br /><br />Numi "Golden Chai" is a delicately spiced Assam black tea that I like to blend with the Numi "Chinese Breakfast" tea made with Yunnan black tea. Together they seem perfect and I like using two teabags per experience. This creates a flowery tea scented with anise and cardamom and spiced with cinnamon and ginger. If you like making chai with milk, heat some milk in a saucepan and then add one or two teabags. It is much more convenient than having to look around for all the separate ingredients and the spices and tea are perfectly blended.<br /><br />Afternoons in Africa<br /><br />Bushmen's Brew "Honeybush," "Jasmine Green Tea" and "White Nectar Osmanthus Spring" make a good combination for a honey/floral tea. Adding in a little honey enhances the experience. With this blend you can enjoy white tea with Osmanthus flowers, green tea with jasmine flowers and honeybush tea with a mild flavor. You may enjoy this as an ice tea in the summer.<br /><br />Lemon Iced Mint Tea<br /><br />Numi's "Gen Mai Cha" Toasted Rice Green, Simply Mint "Mooccan Herbal Teasan" and Rainforest Green "Mate Lemon Myrtle Green Tea" can be steeped together to create a delicious tea to pour over ice. Add honey while the tea is hot and lemon juice just before serving.<br /><br />The Lemon Iced Tea was the best experience of all the teas<br />and I can see myself buying a box of each tea so I can make<br />this tea again.<br /><br />~The Rebecca Review
+
+product/productId: B00353B9HC
+review/userId: APH3OZL3CZM3J
+review/profileName: Alfred J. Cassano
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322870400
+review/summary: Great Treats
+review/text: Love these lamb and sausage treats for my dogs break them up and they're fantastic. The expiration date could be better but it is adequate.
+
+product/productId: B00353B9HC
+review/userId: A2KSP2NXQD7Q6P
+review/profileName: K. COGGINS "DarnRedhead"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1320969600
+review/summary: My dogs love it!
+review/text: I sure wish these sausages came in a big size drum like in the picture but alas, they do not. You get 12 and with 6 dogs they last for 2 rewards  :)  But if dogs could talk they would say "buy more of these"!!!
+
+product/productId: B000BEZULY
+review/userId: A38XYGOWUGJ4T9
+review/profileName: Travel Enthusiast
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1156723200
+review/summary: Excellent family gift
+review/text: I ordered these to be sent to family members living abroad as a family Christmas gift.  The cookies were a sensation with their children and grandchildren. Now they expect these cookies every year.  And the cookie dough freezes very well.  The gift arrived before Christmas as promised.
+
+product/productId: B000EIKJ8G
+review/userId: A38459WNXH0NZX
+review/profileName: Roberta L. Young "Good Cook"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1267488000
+review/summary: The Best!
+review/text: When I can't find a product where I live, I turn to Amazon.com and they usually don't let me down. So happy to find Zatarains Salmon Cake Mix! I make four big patties with each box and serve with a rice dish and a salad. Makes a great, quick meal for two people.
+
+product/productId: B000EIKJ8G
+review/userId: A3D70PJ5K82QGF
+review/profileName: William D. Ceely
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1262563200
+review/summary: Yummy Salmon Cakes
+review/text: Zatarain's Seafood Cake Mixes, Salmon Cake Mix, 5.75-Ounce Boxes (Pack of 12) This is really good.  The mix is enough for 16 ounces of salmon, though I usually use two 6 ounce cans and save about a third of the mix for breading the cakes.  Yummy!!!
+
+product/productId: B0001JXDRC
+review/userId: A1S2RLVMEVPXWL
+review/profileName: A. Haase
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1253318400
+review/summary: Worked well in my Basler Leckerli recipe
+review/text: Could not find this locally.  This has a good flavour directly out of the container and baked well, it seems fresh.  Berry Farms actually sent 2 8oz containers which worked better for me.
+
+product/productId: B0001JXDRC
+review/userId: A2N1BQ77AO79OS
+review/profileName: mary
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342742400
+review/summary: best tasting
+review/text: I have purchased many different brands of this type of fruit.  This is by far the best tasting of all I have tried.  It has no "off-putting" bite to it.  Many do!  I love it so much I cannot stop making my homemade pannatone.  I guess I can thank you for these 5 extra pounds!!!  If you use this type of product(I am Italian) so I do, I highly encourage you to give it a try.  maria domenica
+
+product/productId: B0001M9WCY
+review/userId: AI36PDBXP44MH
+review/profileName: Brian P. Cota
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1186185600
+review/summary: Lemon Olive Oil
+review/text: This is an excellent product to cook with, add to any salad, fish or poultry. Hopefully this item will still be on the market to purchase. Have tried many other brands and no other brand even comes close to the quality of this product flavored lemon oil.
+
+product/productId: B0001M9WCY
+review/userId: A3TLTZ351Q8TK
+review/profileName: ShopGirl "ShopGirl"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1322352000
+review/summary: Simply the Best!!!!
+review/text: I totally agree with the previous reviewer.  This lemon oil is so fragnant and rich  - no other products on the market come even close to it.  The price is also great - ranges from $8-10 bucks per bottle.  I add it everywhere to create my own signature look: salads, fruits, fish, grilled chicken/beef...you name it.<br /> Two thumbs up.  Don't even try other brands and don't waste your money and time on something else.  This lemon oil is a masterpiece!
+
+product/productId: B001NVAE2O
+review/userId: AGYN5DLRP0DLJ
+review/profileName: Cal "Cal"
+review/helpfulness: 4/4
+review/score: 2.0
+review/time: 1277164800
+review/summary: Cute, but Made in CHINA
+review/text: I bought 2 dozen of these monkey lollipops as party favors for my daughter's 2nd birthday party.  I was happy they arrived within 2 days of ordering.  They are as cute as the photos depicted and they arrived well packaged.  Each dozen is packed in a box that has the nutritional info on the box, but I was disappointed to see a label on the back of each lollipop to have in huge font "Made in China".  For nutritional info, call this #. This label took away from the cuteness of these lollipops.  I had intentions of giving one to my 2 year old, but after seeing this label, it makes me think twice whether I should.  Everything now is made in China, and when it comes to children's products, China = RECALL.  I wished the website posted where the lollipops were made because I assumed USA, had I known they were from China, I would not have bought these lollipops.  I will just use them as decorations.  Using something that's made in China is one thing, but eating something from China requires caution!
+
+product/productId: B0006V6LJW
+review/userId: A1AH4KCLPYKYQS
+review/profileName: Lisa A
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349827200
+review/summary: Fantastic way to make someones day!
+review/text: I was unable to make my sister's birthday because there are several states between us. I looked everywhere for an affordable cake. I was leery of sending one through the mail, one I made myself or otherwise. I contacted Scott and told him I was putting my order in early and please try to get it to her closer to her birthday. It arrived ON HER BIRTHDAY and she said it looked delicious. Never heard how it tasted, but I am sure I would have heard if it wasn't excellent! Definitely going on the list to use in the future! Thank you Scott!
+
+product/productId: B0006V6LJW
+review/userId: AWA91WDX6D466
+review/profileName: Sean
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1286236800
+review/summary: I was wrong
+review/text: I had originally given this 1 star, since my cake wasn't in the best shape when I got it.  But, Scott contacted me and made it up by sending me the dollar amount in cookies to replace my cakes.  The cookies arrived very quickly and were quite tasty and moist.  I will definitely purchase from this company again.
+
+product/productId: B0035RLCLQ
+review/userId: AE3TKC62YTCO9
+review/profileName: Loren "Buggsy"
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1285200000
+review/summary: Very good salt
+review/text: Regular salt is (at best) very plain.  I think of it like distilled water.  If it has nothing else in it, it just tastes kind of "flat". That is why allot of filtered water in bottles have minerals added back in, so it has some flavor and "tastes right."<br /><br />That is part of why sea salts and finishing salts tend to taste so much better on the pallet.  They have trace minerals that are appealing to the tongue.  They also lack the iodide that most table salt has added which (to me) gives it an off-taste.<br /><br />The Himalayan pink salt has been my favorite for a while, and the salt provided by "The spice lab" or "Old Himalayan Salt Co." via this listing is a particularly good example of this salt.  A great blend with a really good flavor profile.<br /><br />I'd highly recommend this product, and this seller.  It's particularly good on milder items like fresh cut avocado with a little lime or fresh tomatoes.
+
+product/productId: B0035RLCLQ
+review/userId: AE86DM8OE12PZ
+review/profileName: Scottir
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1317600000
+review/summary: Best salt ever.
+review/text: This is the best tasting salt I have ever used. It has excellent flavor without the metallic taste of some refined salt.  There are no anti-caking agents, so I use my grandparents old trick of putting a few grains of rice in the shaker to absorb the excess moisture in the air that salt attracts.  I had been using sea salt instead of standard table salt for a few years, but the taste alone was enough to get me to switch to Himalayan Salt.  I can only describe the flavor as fuller and more nuanced, not just "salty".<br /><br />I also use the Himalayan Crystal Salt (the larger pink rocks) to make "sole"(pronounced so-lay) for drinking therapy (one teaspoon a day, first thing in the morning).  This process is described on various websites, and in the book "Water & Salt: The Essence of Life" by Peter Ferreira and Dr Barbara Hendel.  The sole is salt crystals added to water until the solution is saturated, and can dissolve no more salt.<br /><br />I have not been using the salt long enough to determine long term health effects.  I do feel that I have more energy from drinking the sole in the morning, so that is enough for now.  My friend is also drinking sole on my recommendation, and he is raving about the effects.  At first he said it caused his body to throw off large amounts of mucus from his respiratory system, then he said it made his skin look younger.  I did notice that he had age spots at his temples that seem to be disappearing, so he is thrilled with the results. Another effect the sole therapy is supposed to be reduction of double chin, so he is checking daily for evidence of this (haha)
+
+product/productId: B0035RLCLQ
+review/userId: A3V8906M9SPZC7
+review/profileName: Dali Van Bourgondien "Dali"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319328000
+review/summary: Great Buy!
+review/text: It took me a while to find out that Amazon.com sold spices as well as other items. The pure Himalayan salt is difficult to find; and sometimes more expensive than you expect.  Amazon.com had it at a very reasonable price.  I will be purchasing my spices from here when I can't find items in local stores.
+
+product/productId: B0035RLCLQ
+review/userId: A1MU4SGS7R0PNR
+review/profileName: S. Fernandez
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1310947200
+review/summary: Forget the other sea salt I've been using!
+review/text: Received the pink pure Himalayan salt and was not surprised at all that it arrived extremely well packed.  I tried it and it has a much much more delicious taste than the kosher sea salt I've been buying and using.  I highly recommend this salt to anyone who has been sitting on the fence and wondering whether to try it or not.
+
+product/productId: B0035RLCLQ
+review/userId: A1THITL7L23B3Q
+review/profileName: N. Austin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332979200
+review/summary: potent and tasty
+review/text: i enjoy using this salt to have a little something different, and i notice that i need to use less of this than i do of traditional white salt to achieve the same level of saltiness that i'm going for in a recipe.  it's potent and offers more flavor than traditional salt and would definitely purchase again.
+
+product/productId: B00250TODW
+review/userId: ATIULS1VZSVHH
+review/profileName: N. Straw
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1316476800
+review/summary: bulk picle crisp
+review/text: I use this for pickle making, makes pickles crisper when canning.<br />i use 1 1/2 teaspoons per quart jar. seems to work good. as far as i can tell it does not add any flavor and does help to keep pickles crispier when canned.<br />ive canned over 30 quarts and have harld made a dent in this container, it will last a long time
+
+product/productId: B00250TODW
+review/userId: A1O6W3XTOBZBBT
+review/profileName: J. Kapnick
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1349308800
+review/summary: Fast shipment
+review/text: This product arrived on time and does what it says. It will work for you just as well as it worked for me.
+
+product/productId: B00250TODW
+review/userId: AOCTT3F4RU1EF
+review/profileName: Yakhusker18
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319673600
+review/summary: Used as pH buffer for Vernier Probware
+review/text: We bought this to use for pH testing in soils.  We followed the instructions for making a buffer solution and seemed to work great.  Many uses for this product but for us we have a lifetime supply of material for soil testing.
+
+product/productId: B003WXS3E2
+review/userId: A16BSK0R55LZF8
+review/profileName: Karen Hsu
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346025600
+review/summary: Tung-I mushroom noodles
+review/text: Tung-I mushroom noodles have the best flavor that I have ever tasted in a Ramen noodle.  You HAVE to try them!!!
+
+product/productId: B000XYJ5SQ
+review/userId: A1IT05DZ2V313M
+review/profileName: Denise Brinkmeyer
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1349568000
+review/summary: You've got to like the flavor of ginseng a lot
+review/text: The gum is mildly sweet so the ginseng flavor is quite overwhelming.  You would figure that to be true in the product, but I expected more sweetness like ginseng soda which I do enjoy.  I can't get my family to chew it, so this package is going to take awhile.
+
+product/productId: B000XYJ5SQ
+review/userId: A1A235CLCIU9JW
+review/profileName: Fatman13
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: Tastes Great!
+review/text: It may taste kinda bitter for people like me who are not quite used to Ginseng. But then I actually begin to grasp the sweetness from the gum after the 1st pack. Amazing flavor, if you would like to try something exotic. Don't give up until you finish the 1st pack!
+
+product/productId: B000XYJ5SQ
+review/userId: A3DJC16WKZ8MLX
+review/profileName: Mary D
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1325808000
+review/summary: Energizing
+review/text: This gum is delicious and gives me a slight bit of energy. I think that its very expensive though but you get what you pay for. :)
+
+product/productId: B001H8W9IU
+review/userId: A2QQ7FN3AQP15O
+review/profileName: Carmina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: Great!
+review/text: Bigelow is my favorite English Breakfast tea, I love the bold flavor, and the large box was perfect for ordering tea for my wedding favors!  Plus the pretty pink bags go great with my colors :)  I ordered this and a box of 100 Stash Chai tea bags with the free super saver shipping and they arrived together within a week.  I'm a happy customer!
+
+product/productId: B001H8W9IU
+review/userId: ADAOC6UTL8ZZV
+review/profileName: Jonathon Gonzalez "sharkjmg"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1279670400
+review/summary: Tea with lovely Freind.
+review/text: hi! this tea is great. lager nuber. ok big fan who knows. ok taste wonder smooth bold tast. not like earel grey. but good way stare the day!
+
+product/productId: B001H8W9IU
+review/userId: A30YWVTZ650QT0
+review/profileName: E. Ashworth "pink lady"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265500800
+review/summary: AWESOME # of teabags in one box.
+review/text: I was glad to find English Breakfast online, because it is hard to find in the store.  And the number in the box is great - no more small boxes to be purchased every week.
+
+product/productId: B0064KM8MS
+review/userId: AJ8VRSZLZMR1S
+review/profileName: A. Nichols "POOKIE"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1335398400
+review/summary: NOT MEGA
+review/text: THESES SO CALLED MEGA SIZE SMARTIES ARE THE SAME AS THE GIANT SIZE AND THE GIANT SIZE SELLS FOR LESS. I HAVE HAD SMARTIES WAY LARGER THAN THIS. DISAPPOINTED, DON'T BE FOOLED BUT THEY DO TASTE GREAT. THE MEGA IS IN THE LENGTH OF THE ROLL NOT THE SIZE OF THE CANDY, THE CANDY IS LARGE
+
+product/productId: B002N6EVMM
+review/userId: A2NMQWBDWT3SQF
+review/profileName: Lorel Shea
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1259539200
+review/summary: sweet treats
+review/text: I love Dennis Farms Maple coated almonds.  They are a crunchy and sweet snack, a nice pick me up for afternoon slumps, and a healthier alternative to candy.  They are delightfully delicious and have just the right amount of sweet maple to complement the nutty taste.  The ingredients?  Only salted almonds, (roasted in expeller extracted peanut oil) and pure maple syrup.  That's it!
+
+product/productId: B002N6EVMM
+review/userId: A2PL0US7RN67G
+review/profileName: Jennifer "Jennifer"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332806400
+review/summary: Fabulous!
+review/text: I sent these to my son who is in college to keep in his pocket for a quick bite between classes.  I wanted him to have something better than the junky pop tarts he's been grabbing from the vending machine, but I also needed him to feel like he was still getting a "treat" in a way.  These fit the bill nicely.  They are full of sweet maple flavor and chock full of protein for energy.  He loves them and has already asked they be sent monthly.
+
+product/productId: B006YADPCA
+review/userId: A2WZMMBOKNCTHH
+review/profileName: Sprout
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1327968000
+review/summary: NOT as described, pictured or expected.
+review/text: Pieces are bite-size and don't last longer than a few minutes for a 15 lb dog.  This is really only suitable for toy sized dog, if even.
+
+product/productId: B000E15898
+review/userId: A1DA461LT2LQDI
+review/profileName: Jonathan Aldinger
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1290816000
+review/summary: Great Daily Tea
+review/text: I tend to get too hyped up on coffee, and most teas have a flavor of which I tire after a few consecutive days. Tazo's Om is a very unique tea which I immediately liked, and now drink every single morning. I find the taste to be very pleasant; not too fruity and not too bitter. The black tea definitely adds a tiny caffeine kick, but not much more than a regular green tea, and green remains the dominant flavor. As with all green teas, over-steeping can lead to bitterness, so limit to about 3 minutes. Since I drink this daily, the fact that Om is organic is a big plus.
+
+product/productId: B000E15898
+review/userId: A75HHTOGN6H6Y
+review/profileName: Cen-Tex Mom "Liz"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1346716800
+review/summary: Tea Delicious and delivered on time and in great shape(NT)
+review/text: This Tazo OM Tea is delicious. I use it in the morning instead of coffee. This is how I prepare my large morning mug of tea.  I heat water in my electric kettle, meanwhile I place a Tazo OM teabag, and a single serving bag of "regular" black tea in my mug, along with a pkt of Stevia, maybe with an additional teaspoon of Stevia because it is a big mug.  After the kettle clicks off because it has boiled, I pour the boiling water over the tea bags, etc, placing one finger over the Tazo teabag STRING draped over the edge of the mug, so the string is not so likely to end up in the mug.  Let steep for 3-5 minutes, squeeze out the teabags(I use a teabag squeezer I got at the English Tea Store online), then add my non-fat half-n-half.  I enjoy this more than coffee, no sour aftertaste, and MUCH gentler on my system than coffee! TMI!  Have a great day!
+
+product/productId: B000E15898
+review/userId: A2BNL6Z0UV2CEE
+review/profileName: Irina
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323216000
+review/summary: Best tea ever!!!!!!
+review/text: This is my favorite tea, and have tried many kinds! I just hope it is never discontinued! I wish TAZO would create a loose version of this tea.
+
+product/productId: B000E15898
+review/userId: A24D3WAE2W0PNG
+review/profileName: notanothernickname
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1291766400
+review/summary: nice
+review/text: This is a nice tea with a light flavor. I particularly love it in the summer. Tastes great, hot or iced.
+
+product/productId: B000E15898
+review/userId: AMN010NPLJW4X
+review/profileName: Jamison
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288051200
+review/summary: Fantastic Tea
+review/text: I drink a cup of Tazo Om almost everyday. It contains organic Darjeeling green and black teas, cucumber and peach. The blend provides antioxidants and just enough caffeine to get me going without any side effects. The hint of peach and cucumber make for a unique flavor. Steeping time really effects the taste so adjust accordingly.
+
+product/productId: B000E15898
+review/userId: A38IAFMPU8FB2P
+review/profileName: C. Crowe
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1276128000
+review/summary: Refreshing and unique
+review/text: Before you wrinkle your nose at the idea of peach and cucumber together it is actually quite refreshing. I only drink tea from bottled water and I love this tea. The taste is clear and light. I had originally tried it in a Tazo sampler box then came here to get the case since it is really hard to find in stores.
+
+product/productId: B000E15898
+review/userId: A37Y0DAZC9BV9Z
+review/profileName: beth7175 "Beth"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265587200
+review/summary: Life Changing.
+review/text: I have always suspected there was a Tazo flavor out there that would be my ultimate favorite, but was never in the stores I frequented.  This one is not in the variety pack or at any store near me.  I randomly came upon it at a hospitality tea and coffee table at a Disney resort, and fell in love.  It's delicioiusly fresh tasting and subtle.  Antioxidants and Caffeine; you can't go wrong.  Six boxes won't last long at my house.  My favorite tea.
+
+product/productId: B000E15898
+review/userId: A15VMW9G9JT9A6
+review/profileName: JLG "JLG"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1265155200
+review/summary: Excelletn Blend
+review/text: I drink a lot of green tea and I find this blend to be a great combination.
+
+product/productId: B000E15898
+review/userId: A2ZTVOL5E6SB77
+review/profileName: Zing Om
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1241913600
+review/summary: Superb! Have drank it for 6 years
+review/text: Im a big green tea buff. However i need a little something stronger in the morning. This tea is just it. It has merely a hint of black tea to add a umph more caffeine. In addition its all organic and has the subtle flavorings of peach and cucumber. Highly recommend!
+
+product/productId: B000E15898
+review/userId: A1Q4JEV03T2L1N
+review/profileName: Cathy "echoes327"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236729600
+review/summary: Om tea for this 'om girl
+review/text: I love the taste of this tea.  I would really hate to have to go without it. I was very annoyed when my grocery store stopped carrying it.  The other stores in town don't have it either.  Thank you Amazon for having it available.
+
+product/productId: B000E15898
+review/userId: A2CVDAF9STWLC4
+review/profileName: Raven
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1234483200
+review/summary: Tazo Makes the Best Teas
+review/text: Tazo's Om tea is the perfect blend of black and green teas.  You get more of the "astringent" tea taste than plain green tea, but not as much as plain black tea.  Also, the caffeine is lower than black tea.  I drink at least two cups of Om a day, but have never experienced any caffeine effects.
+
+product/productId: B000E15898
+review/userId: A38O5LDDLRXYKH
+review/profileName: Lis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1222905600
+review/summary: It sounds weird, but...
+review/text: ...it's really good!  This has bcome my favorite Tazo tea.  I drink it all year.
+
+product/productId: B000E15898
+review/userId: A32SK8XY51OQFR
+review/profileName: Pam "Tea freak"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1218931200
+review/summary: Refreshing Sun Tea
+review/text: Excellent tea when using the sun.  Hard to get the brewing temperature right, green and black brewing best at different temps, but as a sun tea it excels.  Wonderful flavors, subtle and yet bold.  Brew 4 bags per quart, let it sit for about an hour.  You won't be sorry.<br />Love Tazo blends.  They do it well.
+
+product/productId: B000E15898
+review/userId: AGLBXNX8O9JSX
+review/profileName: Daniel L.
+review/helpfulness: 2/9
+review/score: 1.0
+review/time: 1218326400
+review/summary: I hate Tazo teas (mostly)
+review/text: It seems to me that Tazo makes horrible tea concoctions that are for people who don't like the taste of tea. Be warned, if you like the taste of straight green tea this is not for you. Om is a mixture of black and green tea (bad enough) with peach and cucumber. And even if that sounds okay to you, the taste is crap. I bought it by mistake. Not one I will repeat.<br /><br />There are far better tea companies out there (Choice Organic, Stash, Yogi),  but if you insist on Tazo, their Chai is first rate and China Green Tips are good as well. But I'd stay away from any of their herbal blends.
+
+product/productId: B003O4PXBK
+review/userId: A7RTG4RKAR6T
+review/profileName: EJ
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1325462400
+review/summary: Great coffee for quick fixes
+review/text: Vinacafe has been a favorite of mine since it was introduced to me by a Kayak guide. Great for backpacking, camping or general travel. I highly recommend this if you like cream and sugar in your coffee.
+
+product/productId: B003O4PXBK
+review/userId: A1TXIRQARYBOO7
+review/profileName: Pat
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: Vincafe
+review/text: Vincafe is great, but a little too caffeinated for heavy work schedules...if you are sensitive to caffeine. The premix makes it very convienent to take anywhere.
+
+product/productId: B003O4PXBK
+review/userId: A3TF377Q64DLLJ
+review/profileName: Arenitas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1339545600
+review/summary: A kick in 20 grams
+review/text: Very delicious, sweet enough for sugar lovers with enough caffeine to keep you awake. Taking these packets for travel abroad since they are so inexpensive yet effective. For those with sensitive stomachs or those that like a lot of cream in their coffee, add some creamer. Delicious!
+
+product/productId: B003O4PXBK
+review/userId: ASBLUZWS98EM2
+review/profileName: SoCalAvAZ "SoCalAvAZ"
+review/helpfulness: 0/5
+review/score: 3.0
+review/time: 1301616000
+review/summary: Too much sugar
+review/text: This product is packed with sugar.  It makes all other coffee taste bitter.  I doubt it's good for you with the controversy on white sugar.  We stopped using it and switched to regular brewed coffee.
+
+product/productId: B00350O23S
+review/userId: A3EXA87SALI07K
+review/profileName: Mary "Pacific Northwest Gardener"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314748800
+review/summary: ALL TIME FAVORITE COFFEE!
+review/text: My husband won a sales contest and a trip to Puerto Rico for both of us a few years ago.  I always try to look in on a local grocery store when we travel.  On our Puerto Rican trip, I came back with a single can of this espresso coffee.  Best coffee I have ever tasted! made like regular drip coffee or in my little espresso pot.  I kept the can, just in case I ever had the chance to purchase some again. Dug it out today and decided to look on Amazon, just for the heck of it.  Was so happy to find it.  Will be ordering some immediately!  &lt;happy!!>  =) It's a bit more expensive than in the little neighborhood grocery store, but a real treat for me.<br /><br /><a href="http://www.amazon.com/gp/product/B00350O23S">Garrido Premium Expreso 2 can 10 onz each ground coffee</a>
+
+product/productId: B001AYDF3Y
+review/userId: A1K82R24ROO2I7
+review/profileName: A. Cheffy "Cheffy"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1303344000
+review/summary: Decent tasting Nori...these are HALF-SHEETS
+review/text: This brand of Nori isn't top-of-the-line but still tasty and has a nice, light and crispy crunch that can be eaten right out of the bag. My first order came crumbled up and useless for Sushi rolling but fortunately the replacement was in perfect shape.<br /><br />Be aware that these are half-sheets and not 'full-sheets' even though this is not stated anywhere on the page.
+
+product/productId: B001AYDF3Y
+review/userId: A17IDRGDYBBTRR
+review/profileName: haywire "haywire"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331596800
+review/summary: Seaweed
+review/text: My wife makes a lot of sushi rolls. These seaweed wraps were great. Tasted fresh and easy to work with. I will order more.
+
+product/productId: B000BVQ55C
+review/userId: A1ZFPQ2MF7HM3D
+review/profileName: J. jarman-walsh "jjwalsh"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1181865600
+review/summary: great gift
+review/text: my mom loved this great gift basket
+
+product/productId: B000BVQ55C
+review/userId: A18V3UBNX69CI2
+review/profileName: Edward Miller
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294185600
+review/summary: Great Gift!!!!
+review/text: I gave this basket as a gift and received awesome feedback! She said she was impressed with the wholesome, natural ingredients but also with the taste! Great job!!!!
+
+product/productId: B000BVQ55C
+review/userId: A1LPG4WDW8F7W2
+review/profileName: K. Bloom
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1293408000
+review/summary: Perfect gift for anyone on a gluten free diet
+review/text: I purchased this as a gift.  It arrived very fast and looked great.  The cookies are packed in a white box with a christmas picture on the front. It was wraped in clear plastic with a nice gift bow on top.  It was a gift so I do not know how they tasted, but it looked very nice.
+
+product/productId: B001E5DZUM
+review/userId: A2C9U93LO8KNTM
+review/profileName: ghnvrhm
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333411200
+review/summary: best there is
+review/text: I have used this product in the past and enjoy the flavor and quality of the product. I highly recommend this to all coffee drinkers. Makes an excellent iced coffee.
+
+product/productId: B0006NXOOU
+review/userId: A21OQ2XK4ALYFY
+review/profileName: J. Sokol
+review/helpfulness: 14/14
+review/score: 5.0
+review/time: 1156636800
+review/summary: Wonderful Stuff
+review/text: A great pick-me-up and cleanser. After a bath in this stuff, you feel like someone took a million tiny dustbusters cleaned out every pore on your body. It's also been recommended in some books for grief therapy, because the mustard helps relieve some of the physical symptoms of grief. It also doesn't dry out your skin.
+
+product/productId: B0006NXOOU
+review/userId: A2QW0I0DL98JN4
+review/profileName: Jeri Massi "keen on the grace of God"
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1204156800
+review/summary: Great Stuff!
+review/text: Great Horny Toads! This is great stuff! I tried it on a whim while suffering dreadful sinusitis and nasal polyps. OK, it didn't cure anything, but it sure made me feel better, got the sinus passages to open up, and enabled me to sleep. I ended up needing sinus surgery (The whole caboodle: every sinus) and I used this every day up to the day of surgery to keep the drainage going while I was on prednisone.<br /><br />Best advice is to bring a bottle of water with you into the bathroom while you soak, and don't make the mix too strong. Keep it to two ounces per full tub.  And do sit for 20 minutes, even if you have to keep topping off the tub with more water. It will loosen up phlegm and get that blood circulating.<br /><br />Then, you MUST get into bed and stay warm. Don't get chilled afterward.<br /><br />I was able to do the brief cold shower ritual only once. The mustard bath makes me too sleepy and a little light headed. So normally I wrap up in a huge towel and exit the bathroom to dry off and change. Then under the blankets for at least an hour.<br /><br />Wonderful stuff!
+
+product/productId: B0006NXOOU
+review/userId: AS9ADRRMHQP6C
+review/profileName: KSM "sane shopper--"
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1169164800
+review/summary: AAAAH what a relief!
+review/text: Okay the secret is now out!  Singhas mustard bath is some great stuff.  You have no idea how great this product is until you have experienced the benefits.  I take this mustard bath and mix it in a igloo of cold water and bring it to my basketball games and dip my towel in it.  Take the dipped towel and wrap around your neck and oh my God you just cool down immediately and the smell opens your sinus and helps you breath even better.  A definite adrenaline edge on the court.<br /><br />I also use this in my jacuzzi bath for achey muscles after a work out.  But I think the ultimate indulgence is a towel dipped in cold water and mustard bath.  Incredible!  Try it for your post work out or during your work out, it rocks!
+
+product/productId: B0006NXOOU
+review/userId: A1NLP32PZUMVTO
+review/profileName: hradway
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1313712000
+review/summary: works great!
+review/text: GOOD NEWS!!!!!!! normally after long runs on sat, i soak in epsom salt...and it DEF helps with the soreness....BUT...last night, after running 14 miles, i soaked in the mustard seed bath....and i could actually get outta bed this am with hardly ANY PAIN...AMAZING..
+
+product/productId: B0006NXOOU
+review/userId: A2I8PCBC6AP9BG
+review/profileName: Moon Beam "Health Seeker"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1200614400
+review/summary: Body cleanser
+review/text: This product has a wonderful clean scent.  It is great for ridding yourself of those muscle aches and pains....a wonderful relaxant and detoxifier.  I would recommend it for anyone.
+
+product/productId: B0006NXOOU
+review/userId: A2RSETD6CXZB0E
+review/profileName: K. Taff
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1196208000
+review/summary: GREAT PRODUCT!
+review/text: My husband and I have used this mustard bath for several years now. It really helps soothe sore muscles and it's especially great the day of a massage to draw out more toxins.
+
+product/productId: B0006NXOOU
+review/userId: A2XPE7OW4C5N2J
+review/profileName: upholsterygirl
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1331337600
+review/summary: Love this mustard bath!
+review/text: I love this product! I have been using this mustard bath for a few years whenever I feel a cold or flu coming on.  It helps me get over it quicker.  Good to soothe aches and pains. Highly recommend it.
+
+product/productId: B0006NXOOU
+review/userId: A2EK4QVFTSQREC
+review/profileName: J. Matuszak "peepers"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1321056000
+review/summary: Dr.Singha's Mustard bath is a must for sore muscles!
+review/text: I've used this product for years to remove lactic acids that build up after deep tissue massage therapy, or after a vigorous work-out. It's relaxing and if you want to, you can put in a drop or two lavender oil for the ultimate aromatherapy relaxation treatment. Bought one for me and one as a Christmas gift. This is one "must have product for me! I don't recommend products unless I see results, and this delivers! Great Value & find on Amazon!
+
+product/productId: B0006NXOOU
+review/userId: A1OX2RF8VOJGXZ
+review/profileName: cycle0525
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1320278400
+review/summary: Who needs Epsom
+review/text: I have used multiple bath soaks. I am a swimmer so my muscles get extremely sore. I have tried Epsom salt over the years but ran into this product at a local grocery store. I fell in love with it. I was scared the tub would only come with directions on how much to put in, but low and behold it has a scooper so you know. It dissolves easily into the tub and is easy to wash off. I highly recommend this product as an athlete and for anyone with arthritis and/or sore muscles from small injuries, standing all day, or just needing a soothing bath.
+
+product/productId: B0006NXOOU
+review/userId: A5NJ3AHU94J35
+review/profileName: M. Baltes
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1276732800
+review/summary: Mustard Bath will make you sleepy
+review/text: Normally I assume that any bath product, other than epsom salt, which claims to be soothing and relaxing is just going to smell good and not be useful. The mustard bath exceeded my expecations. I tried it the day after a night of drinking, and after 15 minutes I had the urge to get out of the tub immediately and lie down. Took a 2 hour nap, and felt totally refreshed afterward. Definitely good for detox!
+
+product/productId: B0006NXOOU
+review/userId: A2KC71F6FRCTYX
+review/profileName: CB
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1333843200
+review/summary: WOW beyond impressed
+review/text: i have bought hundreds of items from amazon and never bother to leave a review.... this bath stuff impressed me SO much i had to leave a review and highly recommend it. had the most horrific aches & pains this morning after a day of horrible stomach sickness, lots of throwing up... 20 minute hot bath and cold shower just like the directions said, my aches and muscle pain were literally gone. this stuff is a miracle, i will buy it for the rest of my life.
+
+product/productId: B0006NXOOU
+review/userId: A1XJUNCZ6IASCD
+review/profileName: ob
+review/helpfulness: 1/1
+review/score: 3.0
+review/time: 1347840000
+review/summary: it helped a little
+review/text: It helped my foot pain just a little but it did make the skin softer on the bottom of my feet.<a href="http://www.amazon.com/gp/product/B0011DMMM4">Dr Singha's Mustard Bath - 32 oz - Powder</a>
+
+product/productId: B0006NXOOU
+review/userId: A3J4GX5IY716PR
+review/profileName: Harry
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: RELAXING AND HEALING
+review/text: I am a fan of this mustard bath, especially when I feel a cold coming on or need to relax muscles that are sore. It helps me sweat while in the bathtub and usually the next day my cold is gone.  I love the smell of the mustard and wintergreen but don't like that I need to scrub the tub right after as it makes an orange color ring around the tub.  It is easy to remove so don't worry.
+
+product/productId: B001E5DZUW
+review/userId: A3VQ54EZ30PNO5
+review/profileName: J. Gonzalez "Papa"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1273622400
+review/summary: French Roast
+review/text: After buying the Jamaican Blue Mountain I wanted to try some of the other coffees. I was not disappointed this French<br />Roast if as good as the one I bought last time. I would recommend the coffee regardless of what your favorite might be.
+
+product/productId: B001E5DZUW
+review/userId: A19KUJISCG2B08
+review/profileName: Illinois Mom
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1237939200
+review/summary: not as great as I expected
+review/text: The flavor wasn't as good as other dark roasts I've had. Won't buy it again.
+
+product/productId: B0002EQTH2
+review/userId: A2Z9K0ECM3C19T
+review/profileName: Jean Hurley "fan of otherworldly books"
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1156377600
+review/summary: Fabulous snack!
+review/text: These nong shim sweet potato snacks hit the spot. I loved the crunch and they weren't overly sweet or overly spicy- just the perfect mix!
+
+product/productId: B0002EQTH2
+review/userId: A2H4SV44VT8IV6
+review/profileName: J. M. Gordon "Artist"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1130889600
+review/summary: So good! Best snack ever!
+review/text: They're light, but so tasy! The sweetness if very light, the sesame seeds are a perfect accent, and the nutrional content won't kill you. I LOVE these!
+
+product/productId: B0002EQTH2
+review/userId: A1LCFFLK7SWZ48
+review/profileName: M. Peters
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1132531200
+review/summary: absolutely addictive!
+review/text: these nong shim sweet potato snacks are so good- absolutely addictive! both the shape and texture of this crunchy snack is pleasing, with a wonderfully light, sweet flavor... great for kids and adults alike, the sweet potato flavor combined with black sesame seeds is a smart and tasty alternative to regular potato chip snacks- and although you'd never know it by the great taste, they are better for you too!
+
+product/productId: B0002EQTH2
+review/userId: A2KXJ4CU9YUMNH
+review/profileName: Mark10 "Ryuuchi"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1315180800
+review/summary: Sweet Potato is Sweet.
+review/text: I was skeptical about this since it's sweet potato flavor. I tried it and it was not that bad. Couldn't imagine myself eating this with a sandwich but eating this bag alone is good enough for me.
+
+product/productId: B00473LPBY
+review/userId: A1BUY14ADAPZRQ
+review/profileName: omable41
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326067200
+review/summary: delicious
+review/text: We like to eat homemade enchiladas and this is the best sauce you can buy but they do not sell it in stores near us anymore. Thank you
+
+product/productId: B002XZ4X26
+review/userId: A14ODBDW7T6K8
+review/profileName: Chad Casselman "Chad"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1305158400
+review/summary: My Dog Loves These
+review/text: My dog is addicted to these things.<br /><br />They were shipped quickly and exactly as described.  I have ordered these several times.
+
+product/productId: B002XZ4X26
+review/userId: A663SG26TVG7J
+review/profileName: Fargramma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1291334400
+review/summary: Fussy Yorkie
+review/text: These treats worked with our Yorkie when nothing else was acceptable to her.  I break them up to Yorkie-size and carry the chips in my pocket.  Our dog knows they are there and will mind commands for a little piece.  These are great treats.
+
+product/productId: B005M3UPEG
+review/userId: AF0JWSFEEOS0X
+review/profileName: J. C. Guillen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1325462400
+review/summary: Fantastic Belgian chocolates!
+review/text: My mom first tried Leonidas chocolates when a co-worker brought her a sample from Belgium years ago. Later, during a family trip to Amsterdam in 2001, we stopped at one of their shops and bought several pounds of this fantastic chocolate for ourselves and family members.  10 years later, I ordered these as a Christmas present to my mom, knowing how much she loves these chocolates, and Leonidas, still does not disappoint. These were a total hit for the holidays and my mother, who does not eat dark chocolate, even gobbled up all of the dark chocolate pralines included in the holiday ballotin, they're that good! They are totally worth the expense.
+
+product/productId: B000N4XOWO
+review/userId: A1YHI6XBINGZY8
+review/profileName: countrylover_02
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1289260800
+review/summary: Great Chili powder
+review/text: This is just what I was looking...mild but with just enough kick to make a good bowl of chili!!!
+
+product/productId: B000N4XOWO
+review/userId: ASCJ09PB6Q9TE
+review/profileName: Huge
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1317254400
+review/summary: None better
+review/text: This is a great product.  There is none better out there is you are a knowledgeable cook as you control how much or how little you have to use.  The flavor is unbelieveable.
+
+product/productId: B001VNKWO4
+review/userId: ACL6RWZ49DDI7
+review/profileName: Reader "reader"
+review/helpfulness: 13/15
+review/score: 3.0
+review/time: 1256860800
+review/summary: A bit disappointed
+review/text: Have you ever picked thru mustard seeds?<br /><br />I found these seeds to be debris ridden: husks, brown mustard seeds, green spheres of something, black pyramidal seeds of unknown origin, even brown rice. Not a huge amount and I have yet to find any actual dirt or stones, but enough so I end up cleaning them myself.<br /><br />Sometimes 'organic' means: 'we don't have to try harder. We're already doing you a favor: it's ORGANIC!'
+
+product/productId: B001VNKWO4
+review/userId: AANU4KBZ9HGTT
+review/profileName: Brandi
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1314230400
+review/summary: Great product and great price!
+review/text: I was delighted to find 2 lbs of yellow mustard seed at this price.  They come packed in 1 lb bags and I was entirely happy with the quality of the seed.  I personally didn't find any husks or anything other than mustard seed with my purchase.  I'd certainly purchase again!!!  Thank you for a great quality product at an affordable price.
+
+product/productId: B001VNKWO4
+review/userId: A1K82R24ROO2I7
+review/profileName: A. Cheffy "Cheffy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1332028800
+review/summary: Excellent quality organic mustard seed
+review/text: This mustard seed is great for rubs or for pickling and braising roasts.<br /><br />If you want to grind this for mustard and want to make a really 'smooth' mustard, grind it as fine as you can in your spice grinder and then sift the mustard bran out with a fine mesh colander. If you want that pretty 'bright' yellow color, just add a pinch or two of powdered turmeric.<br /><br />This spice was packaged nicely in well-sealed foil bags. This mustard seed was very uniform, clean and debris free.<br /><br />Edited to add [March 31, 2012]:<br /><br />This is NOT hot mustard. This is a very mild mustard much like your typical American 'hot dog' mustard. No 'bite' or 'kick' to it. Very nice flavor though despite not being hot.
+
+product/productId: B001VNKWO4
+review/userId: A1OQ88SUDG13RM
+review/profileName: Myla Hoffman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349913600
+review/summary: Great value!
+review/text: Frustrated with high high prices for canning, I ordered this this season and am thrilled! I will definitely purchase in the future.
+
+product/productId: B001VNKWO4
+review/userId: A1T1W7UMW8UMUY
+review/profileName: kurt
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348617600
+review/summary: Great Quality
+review/text: 100% mustard seeds. No rocks, dirt, leaves, sticks, etc.  Great flavor. Great price. I highly recommend Frontier products. Oh, yeah!!
+
+product/productId: B000M9LRPQ
+review/userId: APWCOAVILK94B
+review/profileName: Real Named Person "wowzee"
+review/helpfulness: 1/5
+review/score: 2.0
+review/time: 1294185600
+review/summary: MTR sucks
+review/text: This is not entirely bad, you can eat one packet once in every 10 days without discomfort. But sooner than that the strong taste gets to your head. This is the same case with most of MTR products. To get a bit more authentic Indian Aloo (potato) dishes i recommend Truly Indian line.<br /><br /><a href="http://www.amazon.com/gp/product/B0018QC8EG">Truly Indian Aloo Matar, 10.5-Ounce Boxes (Pack of 12)</a><br /><a href="http://www.amazon.com/gp/product/B003Y3IHD2">Truly Indian Bombay Aloo R-t-e Retort, 10.5-Ounce Packages (Pack of 6)</a><br /><br />While MTR reminds me of lab experiments, these taste much better and true to Indian Cuisine
+
+product/productId: B001ELLAIK
+review/userId: A198S9IUN712K4
+review/profileName: Amulet707
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261699200
+review/summary: My mother swears by this stuff
+review/text: I purchased this for my mother, who uses this in all her soups and gravies. She is THE gravy person in our family. I believe this must be her secret ingredient. :)
+
+product/productId: B001ELLAIK
+review/userId: A1QKQFN6BSTGZZ
+review/profileName: Judy J. Sikes
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1220745600
+review/summary: Great warm up for those cold winter nights or when you are feeling a little under the weather
+review/text: Maggi cubes are a quick fix to warm your tummy on a cold winter night, or if you seem to be catching a cold.  I especially love the chicken flavor when I feel a little sick.  So easy to fix, throw in a few noodles made ahead and it's a three minute meal.
+
+product/productId: B001ELLAIK
+review/userId: A3D6OI36USYOU1
+review/profileName: Ghenghis
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341446400
+review/summary: No kitchen should be without this.
+review/text: Maggi is the king of the cubed bouillon market, its better than Herb Ox (which<br />is owned by Hormel and if you only knew what they are doing to the food supply!)<br />and makes everything from chili, soups, sauces, gravy, and even Beef Au Jus taste<br />better.<br /><br />This has a rich stock taste, its bolder than the competition and much more flavorful<br />than regular beef broth. If you can find it locally, this is the one to buy. And<br />whatever you do, don't resort to using Wyler's, that stuff tastes like shoe leather.
+
+product/productId: B003IYAVD6
+review/userId: A3PHGJ7OKTQ3KS
+review/profileName: rosewater
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1345593600
+review/summary: distilled water
+review/text: This has the same amount of rose taste as distilled water has.  There is no smell or taste of rose.  Do not buy.
+
+product/productId: B003IYAVD6
+review/userId: A292HG1BDZVGEI
+review/profileName: Emma
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343606400
+review/summary: nice for cocktails
+review/text: I bought this for a watermelon water summer cocktail I made... but now i find I like adding it to plain water with a little line and a leaf of mint.  It is a lovely mysterious and subtle flavor.  I don't find it strong at all. I will order it again!  It arrived timely and in excellent condition!
+
+product/productId: B003IYAVD6
+review/userId: A360104XRFH2SE
+review/profileName: Meghan
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1334361600
+review/summary: Not sure how it is in cocktails, but it makes soda water awesome.
+review/text: I recently stopped drinking sugar and artificial sweeteners and switched to soda water (I don't like plain uncarbonated water). This is awesome - I add a bit to my soda water and it smells amazing and pretty, but doesn't alter the taste too much (you don't feel like you're drinking rose-flavored water, really; it just smells good). It's interesting and helps add some variety and interest to the soda water.<br /><br />No idea how this is in cocktails, but it's great for making drinking a little more interesting.
+
+product/productId: B003IYAVD6
+review/userId: A3VFVME0JPZ9GQ
+review/profileName: Joseph A. Micale "Joe"
+review/helpfulness: 0/4
+review/score: 1.0
+review/time: 1309219200
+review/summary: rose water
+review/text: I recieved this item in the mail and the bottle top was loose and had leeked inside the packing. The bottle label was wet and unreadable. The seal on the top was intack, but it still leeked. The company ( Fee Brothers) needs alot better quality control................
+
+product/productId: B000JMAW02
+review/userId: A12NM11F1CCN2O
+review/profileName: Linda Steinbauer
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1202428800
+review/summary: Nuts!
+review/text: These cashews are in small pieces - some very small, but they arrived in a timely manner and in good shape.  They are NOT salted OR roasted - just plain and natural - and good tasting.  I would recommend these nuts for snacking and/or recipes that call for small natural nuts.
+
+product/productId: B001NCI9WK
+review/userId: A3J167UTH97UDL
+review/profileName: Paul Kafasis
+review/helpfulness: 8/18
+review/score: 3.0
+review/time: 1228089600
+review/summary: Watch That Shelf Life!
+review/text: As the description notes, balsamic does indeed "growth" more valuable as it ages. What the review fails to note is that unlike fine wine, it also grows ever more alcoholic. One nip of this stuff, and you'll be unfit to drive for hours. To put it simply? It will mess. you. up.<br /><br />If you know that going in, you may be able to withstand the effects of this heady brew.<br /><br />Do take note of the product's two year shelf life, however. After two years, enough oxygen will undoubtedly have penetrated to turn this vinegar into wine. Not a good wine, not a fine aged wine, but a blend in the vein of Two Buck Chuck.<br /><br />In short, use it sparingly but use it quickly, then buy some more. It's slightly cheaper than just burning your money!
+
+product/productId: B001NCI9WK
+review/userId: A1HGEBE421ZFT7
+review/profileName: Drew S.
+review/helpfulness: 3/11
+review/score: 4.0
+review/time: 1228176000
+review/summary: A no-risk bet for vinegar connoisseurs
+review/text: Note the carefully-worded item description: "over" 75 years old. That leaves the door open for some really old bottles...and the older the vinegar the better, right? I have it on good authority that some of these bottles are at least 150 years old, meaning that some bottles may contain the very vinegar used to kill President Lincoln! For true vinegar aficionados, such an opportunity should be impossible to pass up. Get a case to save on shipping and increase the odds of owning a piece of history.<br /><br />Goes well with The Prestige on DVD, too!
+
+product/productId: B001NCI9WK
+review/userId: AMMB1QA005F0P
+review/profileName: dnote "Amazon's breaking my bank"
+review/helpfulness: 2/12
+review/score: 5.0
+review/time: 1231200000
+review/summary: A post for Ash...
+review/text: Drain cleaner? HA! HA! That's funny. I'm sure some people would love to suck the vinegary goodness right out of that balsamic soaked clog.
+
